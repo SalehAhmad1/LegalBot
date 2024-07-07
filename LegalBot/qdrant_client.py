@@ -1,10 +1,9 @@
-import qdrant_client
 from qdrant_client import QdrantClient
-from qdrant_client.models import Distance, VectorParams
+from QdrantClient.models import Distance, VectorParams
 from typing import List
 import os
 
-class QdrantClient:
+class CustomQdrantClient:
     """
     QdrantClient is a wrapper for the Qdrant vector store.
     
@@ -92,14 +91,15 @@ class QdrantClient:
 
 # Example usage
 if __name__ == "__main__":
-    qdrant = QdrantClient()
-    qdrant.connect(host="localhost", port=6333)
+    qdrant = CustomQdrantClient()
+    qdrant.connect()
+    print(qdrant.client)
     
-    # Upload example data
-    example_data = ["This is a sample legal document.", "Another legal text goes here."]
-    qdrant.upload_data(data=example_data, collection_name="legal_docs")
+    # # Upload example data
+    # example_data = ["This is a sample legal document.", "Another legal text goes here."]
+    # qdrant.upload_data(data=example_data, collection_name="legal_docs")
     
-    # Query the vector store
-    query = "sample legal document"
-    results = qdrant.query_data(query=query, collection_name="legal_docs")
-    print("Query Results:", results)
+    # # Query the vector store
+    # query = "sample legal document"
+    # results = qdrant.query_data(query=query, collection_name="legal_docs")
+    # print("Query Results:", results)

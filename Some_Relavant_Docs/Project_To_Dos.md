@@ -5,3 +5,11 @@
 
 
 - Videos of RAG
+
+
+- Scrapper
+    - Vector db gets loaded.
+    - Scrapper will scrape the data and upload to vector db
+
+- Chatbot
+    - The chatbot id developed using langchain and works and is justa normal chatbot.
