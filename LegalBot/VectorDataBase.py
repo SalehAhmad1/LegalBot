@@ -143,6 +143,19 @@ class WeaviateDB():
         docs = current_db.similarity_search_with_score(f"{query}", k=k)
         for doc in docs:
             print(f"{doc[1]:.3f}", ":", doc[0].page_content[:100] + "...")
+            
+    def empty_collection(self, collection_name: str) -> None:
+        """
+        A function to empty a specified collection in the Weaviate database.
+
+        Parameters:
+            collection_name (str): The name of the collection in the database.
+
+        Returns:
+            None
+        """
+        current_db = self.vector_stores[collection_name]
+        current_db.empty()
         
 # if __name__ == "__main__":
 #     vector_db = WeaviateDB(
