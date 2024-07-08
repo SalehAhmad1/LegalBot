@@ -1,1 +1,4 @@
-qdrant-client
+langchain 
+langchain_community
+langchain_chroma
+weaviate-client
