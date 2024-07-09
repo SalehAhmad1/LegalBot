@@ -13,7 +13,6 @@ import tempfile
 from langchain_weaviate.vectorstores import WeaviateVectorStore
 from langchain_community.document_loaders import TextLoader
 from langchain_text_splitters import CharacterTextSplitter
-from langchain_openai import OpenAIEmbeddings
 from langchain_community.embeddings import HuggingFaceInferenceAPIEmbeddings, SentenceTransformerEmbeddings
 
 class WeaviateDB():
@@ -38,6 +37,7 @@ class WeaviateDB():
         self.embeddings = self.__initialize_embeddings()
         self.clients = self.__initialize_clients()
         self.vector_stores = self.__initialize_vector_stores()
+        print(f'Vector Stores Available: {list(self.vector_stores.keys())}')
         
     def validate_collection(self):
         """
