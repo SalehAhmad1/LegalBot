@@ -76,7 +76,7 @@ class WeaviateDB():
         for name in self.collections:
             vector_stores[name] = WeaviateVectorStore(
                 client=self.clients[name],
-                index_name=name,
+                index_name=name, # Loads or creates if not exists
                 text_key="question",
                 embedding=self.embeddings
             )
@@ -157,19 +157,61 @@ class WeaviateDB():
         current_db = self.vector_stores[collection_name]
         current_db.empty()
         
-# if __name__ == "__main__":
-#     vector_db = WeaviateDB(
-#         collection_names=['Uk', 'Whales']
-#     )
-#     # vector_db.validate_collection()
+    def list_all_client_collections(self) -> None:
+        """
+        A function to list all the collections in the Weaviate database for all the clients.
+
+        Parameters:
+            None
+
+        Returns:
+            None
+        """
+        for name in self.clients:
+            print(f'Collection: {name} - Cluster Status: {self.clients[name].is_live()}')
+            if self.clients[name].is_live():
+                print(self.clients[name].collections.list_all(simple=True))
+                print('\n\n')
+            else:
+                print(f'Cluster {name} is not live, hence cannot to list')
+        
+    def delete_collection(self, collection_name: str) -> None:
+        """
+        A function to delete a specified collection in the Weaviate database.
+        Remove the client as well as the vector store from the private data members.
+
+        Parameters:
+            collection_name (str): The name of the collection in the database.
+
+        Returns:
+            None
+        """
+        print(f'Deleting collection (client and vector store): {collection_name}')
+        try:
+            self.clients[collection_name].collections.delete(f'{collection_name}')
+            del self.vector_stores[collection_name]
+            del self.clients[collection_name]
+            print(f'Vector Stores Available: {list(self.vector_stores.keys())}')
+        except Exception as e:
+            print(e)
+        
+if __name__ == "__main__":
+    vector_db = WeaviateDB(
+        collection_names=['Uk', 'Whales']
+    )
+    vector_db.validate_collection()
     
-#     # vector_db.add_text_to_db(
-#     #     collection_name='Whales',
-#     #     text='saleh is such a good and handsome boy. I cannot tell you enough',
-#     #     metadata={'question': 'hello'}
-#     # )
+    # vector_db.delete_collection('Whales')
     
-#     # vector_db.test(
-#     #     collection_name='Whales',
-#     #     query="Saleh Ahmad"
-#     # )
+    vector_db.list_all_client_collections()
+    
+    # vector_db.add_text_to_db(
+    #     collection_name='Whales',
+    #     text='saleh is such a good and handsome boy. I cannot tell you enough',
+    #     metadata={'question': 'hello'}
+    # )
+    
+    # vector_db.test(
+    #     collection_name='Whales',
+    #     query="Saleh Ahmad"
+    # )
