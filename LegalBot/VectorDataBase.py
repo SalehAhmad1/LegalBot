@@ -13,8 +13,8 @@ import tempfile
 from langchain_weaviate.vectorstores import WeaviateVectorStore
 from langchain_community.document_loaders import TextLoader
 from langchain_text_splitters import CharacterTextSplitter
-
-from langchain_community.embeddings import HuggingFaceInferenceAPIEmbeddings
+from langchain_openai import OpenAIEmbeddings
+from langchain_community.embeddings import HuggingFaceInferenceAPIEmbeddings, SentenceTransformerEmbeddings
 
 class WeaviateDB():
     def __init__(self, collection_names: List[str]=['Uk', 'Whales', 'NothernIreland', 'Scotland']):
@@ -62,6 +62,7 @@ class WeaviateDB():
             clients[name] = weaviate.connect_to_wcs(
                 cluster_url=os.environ.get(f"WEAVIATE_URL_{name.upper()}"),
                 auth_credentials=weaviate.AuthApiKey(api_key=os.environ.get(f"WEAVIATE_API_KEY_{name.upper()}")),
+                skip_init_checks=True,
             )
         return clients
 
@@ -77,8 +78,8 @@ class WeaviateDB():
             vector_stores[name] = WeaviateVectorStore(
                 client=self.clients[name],
                 index_name=name, # Loads or creates if not exists
-                text_key="question",
-                embedding=self.embeddings
+                text_key="text", #What the retrieved document actual content is in
+                embedding=self.embeddings,
             )
         return vector_stores
     
@@ -89,10 +90,7 @@ class WeaviateDB():
         Returns:
             HuggingFaceInferenceAPIEmbeddings: An instance of HuggingFaceInferenceAPIEmbeddings with the specified model name and API key.
         """
-        embeddings = HuggingFaceInferenceAPIEmbeddings(
-            api_key=os.getenv('HF_PASS'),
-            model_name="Equall/Saul-7B-Base"
-        )
+        embeddings = SentenceTransformerEmbeddings()
         return embeddings
     
     def add_text_to_db(self, collection_name: str, text: str, metadata: dict) -> None:
@@ -107,6 +105,7 @@ class WeaviateDB():
         Returns:
             None
         """
+        print(f'In add_text_to_db {collection_name} {text} {metadata}')
         current_db = self.vector_stores[collection_name]
         
         def create_temp_txt_file(text):
@@ -117,10 +116,12 @@ class WeaviateDB():
                 return temp_file
             
         temp_txt_file = create_temp_txt_file(text)
+        print(f'File created with data {text} for collection {collection_name}')
         loader = TextLoader(temp_txt_file.name)
         documents = loader.load()
         text_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=0)
         docs = text_splitter.split_documents(documents)
+        print(docs)
         
         ids = current_db.add_documents(documents=docs)
         print(f'File with data {text} added to {collection_name} with ids: {ids}')
@@ -142,20 +143,20 @@ class WeaviateDB():
         current_db = self.vector_stores[collection_name]
         docs = current_db.similarity_search_with_score(f"{query}", k=k)
         for doc in docs:
-            print(f"{doc[1]:.3f}", ":", doc[0].page_content[:100] + "...")
+            print(f"{doc[1]:.3f}", ":", doc[0].page_content[:100] + "... - ", doc[0].metadata)
             
-    def empty_collection(self, collection_name: str) -> None:
-        """
-        A function to empty a specified collection in the Weaviate database.
+    # def empty_collection(self, collection_name: str) -> None:
+    #     """
+    #     A function to empty a specified collection in the Weaviate database.
 
-        Parameters:
-            collection_name (str): The name of the collection in the database.
+    #     Parameters:
+    #         collection_name (str): The name of the collection in the database.
 
-        Returns:
-            None
-        """
-        current_db = self.vector_stores[collection_name]
-        current_db.empty()
+    #     Returns:
+    #         None
+    #     """
+    #     current_db = self.vector_stores[collection_name]
+    #     current_db.empty()
         
     def list_all_client_collections(self) -> None:
         """
@@ -197,21 +198,21 @@ class WeaviateDB():
         
 if __name__ == "__main__":
     vector_db = WeaviateDB(
-        collection_names=['Uk', 'Whales']
+        collection_names=['Uk']
     )
-    vector_db.validate_collection()
+    # vector_db.validate_collection()
     
     # vector_db.delete_collection('Whales')
     
-    vector_db.list_all_client_collections()
+    # vector_db.list_all_client_collections()
     
-    # vector_db.add_text_to_db(
-    #     collection_name='Whales',
-    #     text='saleh is such a good and handsome boy. I cannot tell you enough',
-    #     metadata={'question': 'hello'}
-    # )
+    vector_db.add_text_to_db(
+        collection_name='Uk',
+        text='saleh has been good now.',
+        metadata=['article 15']
+    )
     
-    # vector_db.test(
-    #     collection_name='Whales',
-    #     query="Saleh Ahmad"
-    # )
+    vector_db.test(
+        collection_name='Uk',
+        query="Saleh Ahmad"
+    )
