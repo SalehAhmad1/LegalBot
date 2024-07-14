@@ -12,4 +12,4 @@
     - Scrapper will scrape the data and upload to vector db
 
 - Chatbot
-    - The chatbot id developed using langchain and works and is justa normal chatbot.
+    - The chatbot id developed using langchain and works and is just a normal chatbot.

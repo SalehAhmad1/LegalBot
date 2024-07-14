@@ -16,12 +16,12 @@ from langchain_text_splitters import CharacterTextSplitter
 from langchain_community.embeddings import HuggingFaceInferenceAPIEmbeddings, SentenceTransformerEmbeddings
 
 class WeaviateDB():
-    def __init__(self, collection_names: List[str]=['Uk', 'Whales', 'NothernIreland', 'Scotland']):
+    def __init__(self, collection_names: List[str]=['Uk', 'Wales', 'NothernIreland', 'Scotland']):
         """
         Initializes a WeaviateDB object.
 
         Args:
-            collection_names (List[str], optional): A list of collection names. Defaults to ['Uk', 'Whales', 'NothernIreland', 'Scotland'].
+            collection_names (List[str], optional): A list of collection names. Defaults to ['Uk', 'Wales', 'NothernIreland', 'Scotland'].
 
         Initializes the following attributes:
             - collections (List[str]): A list of collection names.
@@ -31,7 +31,7 @@ class WeaviateDB():
 
         """
         if collection_names is None:
-            collection_names: str=['Uk', 'Whales', 'NothernIreland', 'Scotland']
+            collection_names: str=['Uk', 'Wales', 'NothernIreland', 'Scotland']
         
         self.collections = collection_names
         self.embeddings = self.__initialize_embeddings()
@@ -113,7 +113,9 @@ class WeaviateDB():
             with open(temp_file.name, 'w') as f:
                 f.write(text)
                 f.seek(0)
-                return temp_file
+                return 
+            
+        '''EVOLVING'''
             
         temp_txt_file = create_temp_txt_file(text)
         print(f'File created with data {text} for collection {collection_name}')
@@ -144,19 +146,6 @@ class WeaviateDB():
         docs = current_db.similarity_search_with_score(f"{query}", k=k)
         for doc in docs:
             print(f"{doc[1]:.3f}", ":", doc[0].page_content[:100] + "... - ", doc[0].metadata)
-            
-    # def empty_collection(self, collection_name: str) -> None:
-    #     """
-    #     A function to empty a specified collection in the Weaviate database.
-
-    #     Parameters:
-    #         collection_name (str): The name of the collection in the database.
-
-    #     Returns:
-    #         None
-    #     """
-    #     current_db = self.vector_stores[collection_name]
-    #     current_db.empty()
         
     def list_all_client_collections(self) -> None:
         """
@@ -196,23 +185,23 @@ class WeaviateDB():
         except Exception as e:
             print(e)
         
-if __name__ == "__main__":
-    vector_db = WeaviateDB(
-        collection_names=['Uk']
-    )
-    # vector_db.validate_collection()
+# if __name__ == "__main__":
+#     vector_db = WeaviateDB(
+#         collection_names=['Uk']
+#     )
+#     vector_db.validate_collection()
     
-    # vector_db.delete_collection('Whales')
+#     vector_db.delete_collection('Wales')
     
-    # vector_db.list_all_client_collections()
+#     vector_db.list_all_client_collections()
     
-    vector_db.add_text_to_db(
-        collection_name='Uk',
-        text='saleh has been good now.',
-        metadata=['article 15']
-    )
+#     vector_db.add_text_to_db(
+#         collection_name='Uk',
+#         text='Vector is a boot strapped startup.',
+#         metadata=['article 15']
+#     )
     
-    vector_db.test(
-        collection_name='Uk',
-        query="Saleh Ahmad"
-    )
+#     vector_db.test(
+#         collection_name='Uk',
+#         query="What is vector?"
+#     )

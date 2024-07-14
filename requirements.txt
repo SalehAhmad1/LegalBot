@@ -3,3 +3,5 @@ langchain_community
 langchain_weaviate
 weaviate-client
 sentence-transformers
+selenium
+webdriver_manager
