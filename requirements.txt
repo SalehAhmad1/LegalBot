@@ -5,3 +5,4 @@ weaviate-client
 sentence-transformers
 selenium
 webdriver_manager
+PyMuPDF
