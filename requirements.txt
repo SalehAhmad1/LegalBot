@@ -6,3 +6,6 @@ sentence-transformers
 selenium
 webdriver_manager
 PyMuPDF
+accelerate
+bitsandbytes
+llama-cpp-python
