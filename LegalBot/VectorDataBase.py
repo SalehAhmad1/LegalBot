@@ -113,7 +113,7 @@ class WeaviateDB():
             with open(temp_file.name, 'w') as f:
                 f.write(text)
                 f.seek(0)
-                return 
+                return temp_file
             
         '''EVOLVING'''
             
