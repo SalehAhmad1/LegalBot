@@ -118,12 +118,10 @@ class WeaviateDB():
         '''EVOLVING'''
             
         temp_txt_file = create_temp_txt_file(text)
-        print(f'File created with data {text} for collection {collection_name}')
         loader = TextLoader(temp_txt_file.name)
         documents = loader.load()
         text_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=0)
         docs = text_splitter.split_documents(documents)
-        print(docs)
         
         ids = current_db.add_documents(documents=docs)
         print(f'File with data {text} added to {collection_name} with ids: {ids}')
