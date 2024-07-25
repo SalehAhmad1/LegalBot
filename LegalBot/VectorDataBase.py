@@ -8,11 +8,10 @@ from typing import List
 import warnings
 warnings.filterwarnings("ignore")
 
-import tempfile
-
 from langchain_weaviate.vectorstores import WeaviateVectorStore
 from langchain_community.document_loaders import TextLoader
-from langchain_text_splitters import CharacterTextSplitter
+from langchain.docstore.document import Document
+from langchain_text_splitters import CharacterTextSplitter, RecursiveCharacterTextSplitter
 from langchain_community.embeddings import HuggingFaceInferenceAPIEmbeddings, SentenceTransformerEmbeddings
 
 class WeaviateDB():
@@ -105,26 +104,18 @@ class WeaviateDB():
         Returns:
             None
         """
-        print(f'In add_text_to_db {collection_name} {text} {metadata}')
+        print(f'In add_text_to_db adding to Collection: {collection_name} - Text: {text[:50]}... - MetaData: {metadata}')
         current_db = self.vector_stores[collection_name]
         
-        def create_temp_txt_file(text):
-            temp_file = tempfile.NamedTemporaryFile(delete=False, suffix='.txt')
-            with open(temp_file.name, 'w') as f:
-                f.write(text)
-                f.seek(0)
-                return temp_file
-            
-        '''EVOLVING'''
-            
-        temp_txt_file = create_temp_txt_file(text)
-        loader = TextLoader(temp_txt_file.name)
-        documents = loader.load()
-        text_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=0)
-        docs = text_splitter.split_documents(documents)
-        
+        text_splitter = text_splitter = RecursiveCharacterTextSplitter(separators=["\n\n", "\n", "."],
+                                                                        chunk_size=1000,
+                                                                        chunk_overlap=100,
+                                                                        length_function=len,
+                                                                        is_separator_regex=False,)
+        splitted_texts = text_splitter.split_text(text)
+        docs = [Document(page_content=doc, metadata=metadata) for doc in splitted_texts]
         ids = current_db.add_documents(documents=docs)
-        print(f'File with data {text} added to {collection_name} with ids: {ids}')
+        print(f'File with data with ids: {ids}')
         
     def test(self, collection_name, query, k=3):
         """
@@ -182,24 +173,3 @@ class WeaviateDB():
             print(f'Vector Stores Available: {list(self.vector_stores.keys())}')
         except Exception as e:
             print(e)
-        
-# if __name__ == "__main__":
-#     vector_db = WeaviateDB(
-#         collection_names=['Uk']
-#     )
-#     vector_db.validate_collection()
-    
-#     vector_db.delete_collection('Wales')
-    
-#     vector_db.list_all_client_collections()
-    
-#     vector_db.add_text_to_db(
-#         collection_name='Uk',
-#         text='Vector is a boot strapped startup.',
-#         metadata=['article 15']
-#     )
-    
-#     vector_db.test(
-#         collection_name='Uk',
-#         query="What is vector?"
-#     )
