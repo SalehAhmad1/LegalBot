@@ -1,7 +1,3 @@
-from VectorDataBase import WeaviateDB
-from Saul_LLM_GGUF import Legal_LLM
-# from Saul_LLM_HF import Legal_LLM
-
 class RAG_Bot:
     def __init__(self, collection_names=['Uk', 'Wales', 'NothernIreland', 'Scotland']):
         """
@@ -63,3 +59,16 @@ class RAG_Bot:
                                 max_new_tokens=250)
         print('-')
         print(response)
+
+    def get_list_of_all_docs(self, collection_name:Union[str, List[str]]=None) -> None:
+        if isinstance(collection_name, list):
+            for collection in collection_name:
+                self.get_list_of_all_docs(collection)
+
+        elif isinstance(collection_name, str):
+            print(f'The collection {collection_name} has the following documents:')
+            current_client = self.vector_db.clients[collection_name].collections.get(collection_name)
+            for item in current_client.iterator():
+                for idxKey,Key in enumerate(item.properties.keys()):
+                    print(f'{Key}:  {item.properties[Key]}')
+            print('\n\n')
