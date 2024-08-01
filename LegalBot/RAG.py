@@ -1,5 +1,19 @@
+import warnings
+import importlib
+warnings.filterwarnings("ignore")
+warnings.filterwarnings("ignore", category=DeprecationWarning)
+
+from typing import Union, List
+
+import VectorDataBase_all_in_one
+importlib.reload(VectorDataBase_all_in_one)
+from VectorDataBase_all_in_one import *
+
+# from Saul_LLM_HF import Legal_LLM
+from Saul_LLM_GGUF import Legal_LLM
+
 class RAG_Bot:
-    def __init__(self, collection_names=['Uk', 'Wales', 'NothernIreland', 'Scotland']):
+    def __init__(self, collection_names=['Uk', 'Wales', 'Nothernireland', 'Scotland']):
         """
         Initializes the RAG_Bot object.
         
@@ -18,6 +32,13 @@ class RAG_Bot:
             text (str): The text data to be added.
             metadata (dict): Additional metadata associated with the text.
         """
+        self.vector_db.vector_store = WeaviateVectorStore(
+            client=self.vector_db.client,
+            index_name=collection_name,
+            text_key="text",
+            embedding=self.vector_db.embeddings,
+        )
+        
         self.vector_db.add_text_to_db(
             collection_name=collection_name,
             text=text,
@@ -38,7 +59,17 @@ class RAG_Bot:
         
         Prints the similarity score and the content of the top k documents that match the query.
         """
-        current_db = self.vector_db.vector_stores[collection_name]
+        
+        # Creating a WeaviateVectorStore at runtime because we don't know the collection name beforehand
+        self.vector_db.vector_store = WeaviateVectorStore(
+            client=self.vector_db.client,
+            index_name=collection_name,
+            text_key="text",
+            embedding=self.vector_db.embeddings,
+        )
+        
+        # Get the current WeaviateVectorStore
+        current_db = self.vector_db.vector_store
         
         # Create a retriever for the current database
         retriever = current_db.as_retriever(
@@ -61,14 +92,33 @@ class RAG_Bot:
         print(response)
 
     def get_list_of_all_docs(self, collection_name:Union[str, List[str]]=None) -> None:
+        """
+        Function to get the list of all documents in the specified collection.
+        
+        Args:
+            collection_name (Union[str, List[str]], optional): The name of the collection in the database. Defaults to None.
+        
+        Returns:
+            None
+        """
         if isinstance(collection_name, list):
             for collection in collection_name:
                 self.get_list_of_all_docs(collection)
 
         elif isinstance(collection_name, str):
             print(f'The collection {collection_name} has the following documents:')
-            current_client = self.vector_db.clients[collection_name].collections.get(collection_name)
+            current_client = self.vector_db.client.collections.get(collection_name)
             for item in current_client.iterator():
                 for idxKey,Key in enumerate(item.properties.keys()):
                     print(f'{Key}:  {item.properties[Key]}')
             print('\n\n')
+            
+# if __name__ == '__main__':
+#     collection_names = ['Uk', 'Wales', 'Nothernireland', 'Scotland']
+#     bot = RAG_Bot(collection_names=collection_names)
+#     bot.add_text(collection_name='Wales', text='Wally', metadata={'name': 'saul'})
+#     bot.add_text(collection_name='Scotland', text='Scotty', metadata={'name': 'saul'})
+#     bot.get_list_of_all_docs(collection_name='Wales')
+#     bot.get_list_of_all_docs(collection_name='Scotland')
+#     bot.query(collection_name='Wales', query='Wally')
+#     bot.query(collection_name='Scotland', query='wally is what?')

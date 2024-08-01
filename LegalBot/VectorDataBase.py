@@ -7,12 +7,13 @@ from typing import List
 
 import warnings
 warnings.filterwarnings("ignore")
+warnings.filterwarnings("ignore", category=DeprecationWarning)
 
 from langchain_weaviate.vectorstores import WeaviateVectorStore
 from langchain_community.document_loaders import TextLoader
 from langchain.docstore.document import Document
 from langchain_text_splitters import CharacterTextSplitter, RecursiveCharacterTextSplitter
-from langchain_community.embeddings import HuggingFaceInferenceAPIEmbeddings, SentenceTransformerEmbeddings
+from langchain_community.embeddings import SentenceTransformerEmbeddings
 
 class WeaviateDB():
     def __init__(self, collection_names: List[str]=['Uk', 'Wales', 'NothernIreland', 'Scotland']):
@@ -24,7 +25,7 @@ class WeaviateDB():
 
         Initializes the following attributes:
             - collections (List[str]): A list of collection names.
-            - embeddings (HuggingFaceInferenceAPIEmbeddings): An instance of HuggingFaceInferenceAPIEmbeddings.
+            - embeddings (SentenceTransformerEmbeddings): An instance of SentenceTransformerEmbeddings.
             - clients (dict): A dictionary of clients, where the keys are collection names and the values are Weaviate clients.
             - vector_stores (dict): A dictionary of vector stores, where the keys are collection names and the values are WeaviateVectorStore instances.
 
@@ -34,60 +35,114 @@ class WeaviateDB():
         
         self.collections = collection_names
         self.embeddings = self.__initialize_embeddings()
-        self.clients = self.__initialize_clients()
-        self.vector_stores = self.__initialize_vector_stores()
-        print(f'Vector Stores Available: {list(self.vector_stores.keys())}')
+        self.__initialize_clients()
+        self.__initialize_vector_stores()
         
     def validate_collection(self):
         """
         Validates the status of each collection in the WeaviateDB object.
         Raises an exception if a cluster is not live.
         """
-        for collection_name in self.collections:
-            if not self.clients[collection_name].is_live():
-                raise Exception(f'Cluster {collection_name} is not live')
-            else:
-                print(f'Validating collection: {collection_name} - Cluster Status:{self.clients[collection_name].is_live()}')
+        if self.client != None:
+            print('Cluster Status:', self.client.is_live())
+            print('Existing Collections:', self.client.collections.list_all(simple=True).keys())
+        else:
+            raise Exception('Cluster is not live/Setup')
+        
             
-    def __initialize_clients(self) -> dict:
+    def __initialize_clients(self) -> None:
         """
-        Initializes a dictionary of Weaviate clients for each collection in the WeaviateDB object.
+        Initializes an object of Weaviate client which will have collections.
         
         Returns:
-            dict: A dictionary where the keys are collection names and the values are Weaviate clients.
+            None
         """
-        clients = {}
-        for name in self.collections:
-            clients[name] = weaviate.connect_to_wcs(
-                cluster_url=os.environ.get(f"WEAVIATE_URL_{name.upper()}"),
-                auth_credentials=weaviate.AuthApiKey(api_key=os.environ.get(f"WEAVIATE_API_KEY_{name.upper()}")),
-                skip_init_checks=True,
-            )
-        return clients
+        Cluster_URL = os.environ.get("URL")
+        Cluster_API = os.environ.get("API")
+        self.client = weaviate.connect_to_wcs(
+            cluster_url=Cluster_URL,
+            auth_credentials=weaviate.AuthApiKey(api_key=Cluster_API),
+            skip_init_checks=True,
+        )
+        
+    def _get_client_collections(self) -> List[str]:
+        """
+        A function to get all the collections in the Weaviate database for all the clients.
+        It first gets all the collections and then returns them as a list.
 
-    def __initialize_vector_stores(self) -> dict:
+        Parameters:
+            None
+
+        Returns:
+            List[str]: A list of collection names.
+        """
+        if self.client == None:
+            raise Exception('Cluster is not live/Setup')
+        else:
+            return list(self.client.collections.list_all(simple=True).keys())
+        
+    def __verify_collections_existence_in_client(self) -> bool:
+        """
+        A function to verify if the collections exist in the Weaviate database for all the clients.
+        
+        Returns:
+            bool: True if all collections exist in the Weaviate database for all the clients, False otherwise.
+        """
+        All_Collections = self._get_client_collections()
+        for Country_Name in self.collections:
+            if Country_Name not in All_Collections:
+                print(f'The collection: {Country_Name} does not exist in the Weaviate Cluster hence creating it.')
+                return False
+        return True
+
+    def __initialize_vector_stores(self) -> None:
         """
         Initializes a dictionary of WeaviateVectorStore objects for each collection in the WeaviateDB object.
         
         Returns:
-            dict: A dictionary where the keys are collection names and the values are WeaviateVectorStore objects.
+            None
         """
-        vector_stores = {}
-        for name in self.collections:
-            vector_stores[name] = WeaviateVectorStore(
-                client=self.clients[name],
-                index_name=name, # Loads or creates if not exists
+        
+        if isinstance(self.collections, str):
+            print(f'Creating {self.collections} Weaviate Cluster - Option 1')
+            self.vector_store = WeaviateVectorStore(
+                client=self.client,
+                index_name=self.collections, # Loads or creates if not exists
                 text_key="text", #What the retrieved document actual content is in
                 embedding=self.embeddings,
             )
-        return vector_stores
+            
+        elif isinstance(self.collections, list) and len(self.collections) == 1:
+            print(f'Creating {len(self.collections)} Weaviate Cluster - Option 2')
+            self.vector_store = WeaviateVectorStore(
+                client=self.client,
+                index_name=self.collections[0], # Loads or creates if not exists
+                text_key="text", #What the retrieved document actual content is in
+                embedding=self.embeddings,
+            )
+        
+        elif isinstance(self.collections, list) and len(self.collections) > 1:
+            print(f'Creating {len(self.collections)} Weaviate Clusters - Option 3')
+            Client_Current_Collection = self._get_client_collections()
+            
+            for idxCountry, Country in enumerate(self.collections):
+                if Country.capitalize() not in Client_Current_Collection:
+                    print(f'The collection: {Country} does not exist in the Weaviate Cluster hence creating it.')
+                    self.client.collections.create(
+                        name=Country,
+                    )
+                else:
+                    print(f'The collection: {Country} already exists in the Weaviate Cluster')
+            
+            '''At Run time???? because langchain fucntions may not support multiple collections?'''
+            self.vector_store = None
     
-    def __initialize_embeddings(self) -> HuggingFaceInferenceAPIEmbeddings:
+    def __initialize_embeddings(self) -> SentenceTransformerEmbeddings:
         """
         Initializes the embeddings for the WeaviateDB object.
 
         Returns:
-            HuggingFaceInferenceAPIEmbeddings: An instance of HuggingFaceInferenceAPIEmbeddings with the specified model name and API key.
+            - SentenceTransformerEmbeddings: An instance of SentenceTransformerEmbeddings with the specified model name and API key.
         """
         embeddings = SentenceTransformerEmbeddings()
         return embeddings
@@ -105,9 +160,9 @@ class WeaviateDB():
             None
         """
         print(f'In add_text_to_db adding to Collection: {collection_name} - Text: {text[:50]}... - MetaData: {metadata}')
-        current_db = self.vector_stores[collection_name]
+        current_db = self.vector_store
         
-        text_splitter = text_splitter = RecursiveCharacterTextSplitter(separators=["\n\n", "\n", "."],
+        text_splitter = RecursiveCharacterTextSplitter(separators=["\n\n", "\n", "."],
                                                                         chunk_size=1000,
                                                                         chunk_overlap=100,
                                                                         length_function=len,
@@ -116,48 +171,10 @@ class WeaviateDB():
         docs = [Document(page_content=doc, metadata=metadata) for doc in splitted_texts]
         ids = current_db.add_documents(documents=docs)
         print(f'File with data with ids: {ids}')
-        
-    def test(self, collection_name, query, k=3):
-        """
-        Performs a similarity search on the specified collection in the Weaviate database using the given query.
-        
-        Args:
-            collection_name (str): The name of the collection in the database.
-            query (str): The query to search for similar documents.
-            k (int, optional): The number of documents to return. Defaults to 3.
-        
-        Returns:
-            None
-        
-        Prints the similarity score and the content of the top k documents that match the query.
-        """
-        current_db = self.vector_stores[collection_name]
-        docs = current_db.similarity_search_with_score(f"{query}", k=k)
-        for doc in docs:
-            print(f"{doc[1]:.3f}", ":", doc[0].page_content[:100] + "... - ", doc[0].metadata)
-        
-    def list_all_client_collections(self) -> None:
-        """
-        A function to list all the collections in the Weaviate database for all the clients.
-
-        Parameters:
-            None
-
-        Returns:
-            None
-        """
-        for name in self.clients:
-            print(f'Collection: {name} - Cluster Status: {self.clients[name].is_live()}')
-            if self.clients[name].is_live():
-                print(self.clients[name].collections.list_all(simple=True))
-                print('\n\n')
-            else:
-                print(f'Cluster {name} is not live, hence cannot to list')
-        
+                        
     def delete_collection(self, collection_name: str) -> None:
         """
         A function to delete a specified collection in the Weaviate database.
-        Remove the client as well as the vector store from the private data members.
 
         Parameters:
             collection_name (str): The name of the collection in the database.
@@ -165,11 +182,37 @@ class WeaviateDB():
         Returns:
             None
         """
-        print(f'Deleting collection (client and vector store): {collection_name}')
-        try:
-            self.clients[collection_name].collections.delete(f'{collection_name}')
-            del self.vector_stores[collection_name]
-            del self.clients[collection_name]
-            print(f'Vector Stores Available: {list(self.vector_stores.keys())}')
-        except Exception as e:
-            print(e)
+        if isinstance(collection_name, list):
+            raise Exception('Cannot delete multiple collections at once.\nUse the delete_all_collections() method instead to delete all collections at once.')
+        else:
+            All_Collections = self._get_client_collections()
+            if collection_name not in All_Collections:
+                print(f'The collection: {collection_name} does not exist in the Weaviate Cluster hence cannot delete it.')
+            else:
+                print(f'The collection: {collection_name} exists in the Weaviate Cluster hence deleting it.')
+                self.client.collections.delete(f'{collection_name}')
+            
+    def delete_all_collections(self) -> None:
+        """
+        A function to delete all the collections in the Weaviate database for all the clients.
+        It first gets all the collections and then deletes them one by one.
+
+        Parameters:
+            None
+
+        Returns:
+            None
+        """
+        for Collection_Name in self._get_client_collections():
+            print(f'Deleting collection: {Collection_Name}')
+            self.client.collections.delete(f'{Collection_Name}')
+        print(f'All collections deleted. Available collections: {self._get_client_collections()}')
+            
+# if __name__ == "__main__":
+#     print(f'Initializing DB with two list country')
+#     db3 = WeaviateDB(['scotland', 'uk'])
+#     db3.validate_collection()
+    
+#     print(f'Initializing DB with two list country')
+#     db4 = WeaviateDB(['whales', 'scotland', 'uk'])
+#     db4.validate_collection()
