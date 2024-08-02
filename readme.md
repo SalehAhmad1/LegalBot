@@ -1,5 +1,8 @@
 # Things to do:
 ## Advanced RAG
+### Reduce Number of Clusters
+- [x] Find a way to reduce the number of clusters needed to 1.
+
 ### Embedding
 - [ ] Try Gemini Embeddings
 - [ ] Try OpenAI Embeddings

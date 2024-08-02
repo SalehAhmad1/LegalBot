@@ -1,16 +1,13 @@
 import warnings
-import importlib
 warnings.filterwarnings("ignore")
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 
 from typing import Union, List
 
-import VectorDataBase_all_in_one
-importlib.reload(VectorDataBase_all_in_one)
-from VectorDataBase_all_in_one import *
+from Database.Database_Weaviate import Database_Weaviate
+from LLM.LLM_GGUF import LLM_GGUF
 
-# from Saul_LLM_HF import Legal_LLM
-from Saul_LLM_GGUF import Legal_LLM
+from langchain_weaviate.vectorstores import WeaviateVectorStore
 
 class RAG_Bot:
     def __init__(self, collection_names=['Uk', 'Wales', 'Nothernireland', 'Scotland']):
@@ -20,8 +17,8 @@ class RAG_Bot:
         Args:
             collection_names (list, optional): A list of collection names. Defaults to ['Uk'].
         """
-        self.vector_db = WeaviateDB(collection_names=collection_names)
-        self.llm = Legal_LLM()
+        self.vector_db = Database_Weaviate(collection_names=collection_names)
+        self.llm = LLM_GGUF()
 
     def add_text(self, collection_name, text, metadata=None):
         """
@@ -112,7 +109,7 @@ class RAG_Bot:
                 for idxKey,Key in enumerate(item.properties.keys()):
                     print(f'{Key}:  {item.properties[Key]}')
             print('\n\n')
-            
+                      
 # if __name__ == '__main__':
 #     collection_names = ['Uk', 'Wales', 'Nothernireland', 'Scotland']
 #     bot = RAG_Bot(collection_names=collection_names)
