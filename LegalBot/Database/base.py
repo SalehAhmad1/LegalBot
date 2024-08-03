@@ -1,19 +1,42 @@
 from typing import List
 
+if __name__ == "__main__":
+    from utils import *
+else:
+    from .utils import *
+
+import os
+from dotenv import load_dotenv
+Path_ENV = os.path.abspath(__file__)
+Path_ENV = os.path.dirname(Path_ENV)
+load_dotenv(Path_ENV+'/.env')
+
 import warnings
 warnings.filterwarnings("ignore")
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 
 from langchain.docstore.document import Document
-from langchain_text_splitters import  RecursiveCharacterTextSplitter
-from langchain_community.embeddings import SentenceTransformerEmbeddings
 
 class Database():
-    def __init__(self):
+    def __init__(self, text_splitter=None, embedding_model=None) -> None:
         """
         Initializes a WeaviateDB object.
         """
-        pass
+        if text_splitter == None or text_splitter == 'Recursive':
+            self.text_splitter = get_recursive_text_splitter()
+        elif text_splitter in ['SPACY', 'spacy', 'Spacy', 'SPACy', 'spaCy', 'SpaCy']:
+            self.text_splitter = get_spacy_text_splitter()
+        else:
+            raise Exception('Invalid Text Splitter. Choose from SpaCy or Recursive')
+
+        if embedding_model == None or embedding_model == 'SentenceTransformers': 
+            self.embeddings = get_sentence_transformers_embeddings()
+        elif embedding_model in ['Openai', 'openai', 'OPENAI', 'OpenAI']:
+            self.embeddings = get_openai_embeddings()
+        elif embedding_model in ['Google', 'google', 'GoogleGENAI', 'gemini', 'GEMINI']:
+            self.embeddings = get_google_genai_embeddings()
+        else:
+            raise Exception('Invalid Embedding Model. Choose from OpenAI, SentenceTransformers, or Google')
         
     def validate_collection(self):
         """
@@ -62,16 +85,6 @@ class Database():
         """
         raise Exception('This method should be implemented by the subclass')
     
-    def _initialize_embeddings(self) -> SentenceTransformerEmbeddings:
-        """
-        Initializes the embeddings for the WeaviateDB object.
-
-        Returns:
-            - SentenceTransformerEmbeddings: An instance of SentenceTransformerEmbeddings with the specified model name and API key.
-        """
-        embeddings = SentenceTransformerEmbeddings()
-        return embeddings
-    
     def add_text_to_db(self, collection_name: str, text: str, metadata: dict) -> None:
         """
         A function to add text data to a specified collection in the Weaviate database.
@@ -84,14 +97,9 @@ class Database():
         Returns:
             None
         """
-        print(f'In add_text_to_db adding to Collection: {collection_name} - Text: {text[:50]}... - MetaData: {metadata}')
         current_db = self.vector_store
         
-        text_splitter = RecursiveCharacterTextSplitter(separators=["\n\n", "\n", "."],
-                                                                        chunk_size=1000,
-                                                                        chunk_overlap=100,
-                                                                        length_function=len,
-                                                                        is_separator_regex=False,)
+        text_splitter = self.text_splitter
         splitted_texts = text_splitter.split_text(text)
         docs = [Document(page_content=doc, metadata=metadata) for doc in splitted_texts]
         ids = current_db.add_documents(documents=docs)

@@ -5,10 +5,6 @@ else:
 import weaviate
 
 import os
-from dotenv import load_dotenv
-Path_ENV = os.path.abspath(__file__)
-Path_ENV = os.path.dirname(Path_ENV)
-load_dotenv(Path_ENV+'/.env')
 
 from typing import List
 
@@ -17,13 +13,9 @@ warnings.filterwarnings("ignore")
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 
 from langchain_weaviate.vectorstores import WeaviateVectorStore
-from langchain_community.document_loaders import TextLoader
-from langchain.docstore.document import Document
-from langchain_text_splitters import CharacterTextSplitter, RecursiveCharacterTextSplitter
-from langchain_community.embeddings import SentenceTransformerEmbeddings
 
 class Database_Weaviate(Database):
-    def __init__(self, collection_names: List[str]=['Uk', 'Wales', 'NothernIreland', 'Scotland']):
+    def __init__(self, collection_names: List[str]=['Uk', 'Wales', 'NothernIreland', 'Scotland'], text_splitter=None, embedding_model=None) -> None:
         """
         Initializes a WeaviateDB object.
 
@@ -40,9 +32,8 @@ class Database_Weaviate(Database):
         if collection_names is None:
             collection_names: str=['Uk', 'Wales', 'NothernIreland', 'Scotland']
 
-        super().__init__()
+        super().__init__(text_splitter=text_splitter, embedding_model=embedding_model)
         self.collections = collection_names
-        self.embeddings = self._initialize_embeddings()
         self.__initialize_clients()
         self.__initialize_vector_stores()
         
@@ -57,7 +48,6 @@ class Database_Weaviate(Database):
         else:
             raise Exception('Cluster is not live/Setup')
         
-            
     def __initialize_clients(self) -> None:
         """
         Initializes an object of Weaviate client which will have collections.

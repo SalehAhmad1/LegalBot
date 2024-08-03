@@ -17,7 +17,7 @@ class RAG_Bot:
         Args:
             collection_names (list, optional): A list of collection names. Defaults to ['Uk'].
         """
-        self.vector_db = Database_Weaviate(collection_names=collection_names)
+        self.vector_db = Database_Weaviate(collection_names=collection_names, text_splitter='SpaCy', embedding_model="gemini")
         self.llm = LLM_GGUF()
 
     def add_text(self, collection_name, text, metadata=None):
@@ -110,12 +110,12 @@ class RAG_Bot:
                     print(f'{Key}:  {item.properties[Key]}')
             print('\n\n')
                       
-# if __name__ == '__main__':
-#     collection_names = ['Uk', 'Wales', 'Nothernireland', 'Scotland']
-#     bot = RAG_Bot(collection_names=collection_names)
-#     bot.add_text(collection_name='Wales', text='Wally', metadata={'name': 'saul'})
-#     bot.add_text(collection_name='Scotland', text='Scotty', metadata={'name': 'saul'})
-#     bot.get_list_of_all_docs(collection_name='Wales')
-#     bot.get_list_of_all_docs(collection_name='Scotland')
-#     bot.query(collection_name='Wales', query='Wally')
-#     bot.query(collection_name='Scotland', query='wally is what?')
+if __name__ == '__main__':
+    collection_names = ['Uk', 'Wales', 'Nothernireland', 'Scotland']
+    bot = RAG_Bot(collection_names=collection_names)
+    bot.add_text(collection_name='Wales', text='Wally', metadata={'name': 'saul'})
+    bot.add_text(collection_name='Scotland', text='Scotty', metadata={'name': 'saul'})
+    bot.get_list_of_all_docs(collection_name='Wales')
+    bot.get_list_of_all_docs(collection_name='Scotland')
+    # bot.query(collection_name='Wales', query='Wally')
+    # bot.query(collection_name='Scotland', query='wally is what?')
