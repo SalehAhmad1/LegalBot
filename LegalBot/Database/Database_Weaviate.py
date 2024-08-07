@@ -57,6 +57,7 @@ class Database_Weaviate(Database):
         """
         Cluster_URL = os.getenv("URL")
         Cluster_API = os.getenv("API")
+        print(f'Cluster_URL: {Cluster_URL}, Cluster_API: {Cluster_API}')
         self.client = weaviate.connect_to_wcs(
             cluster_url=Cluster_URL,
             auth_credentials=weaviate.AuthApiKey(api_key=Cluster_API),

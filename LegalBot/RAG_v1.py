@@ -87,6 +87,53 @@ class RAG_Bot:
                                 max_new_tokens=250)
         print('-')
         print(response)
+        
+    def query_all(self, query, k=1):
+                """
+        Performs a RAG query on the specified collection using the Ollama LLM.
+        
+        Args:
+            collection_name (str): The name of the collection in the database.
+            query (str): The query to search for similar documents.
+            k (int, optional): The number of documents to return. Defaults to 1.
+        
+        Returns:
+            None
+        
+        Prints the similarity score and the content of the top k documents that match the query.
+        """
+        
+        # Creating a WeaviateVectorStore for all counties one by one
+        for collection_name in ['Uk', 'Wales', 'Nothernireland', 'Scotland']:
+            self.vector_db.vector_store = WeaviateVectorStore(
+                client=self.vector_db.client,
+                index_name=collection_name,
+                text_key="text",
+                embedding=self.vector_db.embeddings,
+            )
+        
+            # Get the current WeaviateVectorStore
+            current_db = self.vector_db.vector_store
+            
+            # Create a retriever for the current database
+            retriever = current_db.as_retriever(
+                search_kwargs={"k": k})
+
+            # Function to format documents into a single context string
+            def format_docs(docs):
+                print(f'The retrieved documents are:')
+                for idx,doc in enumerate(docs):
+                    print(f'{idx} - Content: {doc.page_content[:50]}... - MetaData: {doc.metadata}')
+                return "\n\n".join(doc.page_content for doc in docs)
+            
+            retrieved_docs = retriever.get_relevant_documents(query)
+            context = format_docs(retrieved_docs)
+            
+            response = self.llm.chat(context={context},
+                                    query={query},
+                                    max_new_tokens=250)
+            print('-')
+            print(response)
 
     def get_list_of_all_docs(self, collection_name:Union[str, List[str]]=None) -> None:
         """
@@ -117,5 +164,8 @@ if __name__ == '__main__':
     bot.add_text(collection_name='Scotland', text='Scotty', metadata={'name': 'saul'})
     bot.get_list_of_all_docs(collection_name='Wales')
     bot.get_list_of_all_docs(collection_name='Scotland')
+
+    
+    
     # bot.query(collection_name='Wales', query='Wally')
     # bot.query(collection_name='Scotland', query='wally is what?')
