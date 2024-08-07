@@ -11,7 +11,8 @@
 - [x] Add OpenAI Embeddings
 
 ### Improving LLM Prompting
-- [ ] Retrieve top most relavant doc. Get it's ID. Now get it's predecessor and successor docs. Use all these in the LLM Prompt.
+- [ ] Hyde
+- [ ] RAPTOR
 
 ### Routing
 - [ ] Input Based
