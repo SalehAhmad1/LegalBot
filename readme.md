@@ -18,6 +18,6 @@
 - [ ] RAPTOR
 
 ### Routing
-- [ ] Input Based
-- [ ] Extraction Based
-- [ ] n-k from all to answer the prompt or the LLM asks untill one is mentioned
+- [x] Input Based
+- [x] Extraction Based
+- [x] n-k from all to answer the prompt or the LLM asks untill one is mentioned
