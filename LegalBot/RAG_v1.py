@@ -69,7 +69,7 @@ class RAG_Bot:
         elif mentioned_collections != None and mentioned_collections != [] and len(mentioned_collections) >= 1:
             return mentioned_collections
 
-    def query(self, query:str, k:int=1):
+    def query(self, query:str, k:int=1, search_type='Hybrid'):
         """
         Performs a RAG query on the specified collection using the Saul LLM
 
@@ -88,7 +88,7 @@ class RAG_Bot:
             print('There was no collection mentioned in the query. Kindly mention a collection name/s for the query to be executed.')
 
         elif isinstance(Collection_to_query_from, list):
-            self.__query_all(query=query, k=k, collection_names=Collection_to_query_from)
+            self.__query_all(query=query, k=k, collection_names=Collection_to_query_from, search_type=search_type)
 
     def __query_one(self, collection_name, query, k=1):
         """
@@ -141,7 +141,7 @@ class RAG_Bot:
             print('-')
             print(response)
         
-    def __query_all(self, query, k=1, collection_names:List[str]=['Uk', 'Wales', 'Nothernireland', 'Scotland']):
+    def __query_all(self, query, k=1, collection_names:List[str]=['Uk', 'Wales', 'Nothernireland', 'Scotland'], search_type='Hybrid'):
         """
         Performs a RAG query on multiple specified collections using the Saul LLM.
         
@@ -163,37 +163,65 @@ class RAG_Bot:
             print(f'The Collection: {collection_name} is empty(0)/Not Empty(1): {Validity}')
             
             if not Validity:
-                self.vector_db.vector_store = WeaviateVectorStore(
-                    client=self.vector_db.client,
-                    index_name=collection_name,
-                    text_key="text",
-                    embedding=self.vector_db.embeddings,
-                )
-            
-                # Get the current WeaviateVectorStore
-                current_db = self.vector_db.vector_store
+                if search_type == 'Vector':
+                    self.vector_db.vector_store = WeaviateVectorStore(
+                        client=self.vector_db.client,
+                        index_name=collection_name,
+                        text_key="text",
+                        embedding=self.vector_db.embeddings,
+                    )
                 
-                # Create a retriever for the current database
-                retriever = current_db.as_retriever(
-                    search_kwargs={"k": k})
+                    # Get the current WeaviateVectorStore
+                    current_db = self.vector_db.vector_store
+                    
+                    # Create a retriever for the current database
+                    retriever = current_db.as_retriever(
+                        search_kwargs={"k": k})
 
-                # Function to format documents into a single context string
-                def format_docs(docs):
-                    print(f'The retrieved documents are:')
-                    for idx,doc in enumerate(docs):
-                        print(f'{idx} - Content: {doc.page_content[:50]}... - MetaData: {doc.metadata}')
-                    return "\n\n".join(doc.page_content for doc in docs)
-                
-                retrieved_docs = retriever.get_relevant_documents(query)
-                context = format_docs(retrieved_docs)
-                
-                response = self.llm.chat(context={context},
-                                        query={query},
-                                        max_new_tokens=250)
-                print(f'The response is from the collection: {collection_name}')
-                print(response)
-                print('-')
-            
+                    # Function to format documents into a single context string
+                    def format_docs(docs):
+                        print(f'The retrieved documents are:')
+                        for idx,doc in enumerate(docs):
+                            print(f'{idx} - Content: {doc.page_content[:50]}... - MetaData: {doc.metadata}')
+                        return "\n\n".join(doc.page_content for doc in docs)
+                    
+                    retrieved_docs = retriever.get_relevant_documents(query)
+                    context = format_docs(retrieved_docs)
+                    
+                    response = self.llm.chat(context={context},
+                                            query={query},
+                                            max_new_tokens=250)
+                    print(f'The response is from the collection: {collection_name}')
+                    print(response)
+                    print('-')
+
+                elif search_type == 'Hybrid':
+                    current_collection = self.vector_db.client.collections.get(collection_name)
+                    responses = current_collection.query.hybrid(query=query,
+                                                                vector=self.vector_db.embeddings.embed_query(query),
+                                                                limit=k)
+                    Text_Docs = []
+                    Text_Meta_Datas = []
+                    
+                    for o in responses.objects:
+                        Text_Docs.append(o.properties['text'])
+                        Text_Meta_Datas.append({k: v for k, v in o.properties.items() if k != 'text'})
+
+                    def format_docs(docs):
+                        print(f'The retrieved documents are:')
+                        for idx,(doc,meta) in enumerate(zip(docs,Text_Meta_Datas)):
+                            print(f'{idx} - Content: {doc[:50]}... - MetaData: {meta}')
+                        return "\n\n".join(doc for doc in docs)
+
+                    concat_docs = format_docs(Text_Docs)
+
+                    response = self.llm.chat(context={concat_docs},
+                                            query={query},
+                                            max_new_tokens=250)
+                    print(f'The response is from the collection: {collection_name}')
+                    print(response)
+                    print('-')
+                    
     def is_collection_empty(self, collection_name: str) -> bool:
         current_client = self.vector_db.client.collections.get(collection_name)
         return len(list(current_client.iterator())) == 0
