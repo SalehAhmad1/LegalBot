@@ -10,6 +10,9 @@
 - [x] Add Gemini Embeddings
 - [x] Add OpenAI Embeddings
 
+### Hybrid Search
+- [x] Add hybrid search functionality
+
 ### Improving LLM Prompting
 - [ ] Hyde
 - [ ] RAPTOR
