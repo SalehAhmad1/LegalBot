@@ -1,0 +1,282 @@
+WELSH STATUTORY INSTRUMENTS
+2024 No. 698 (W. 96)
+EDUCATION, WALES
+The Education (Co-ordination of School Admission Arrangements and Miscellaneous Amendments) (Wales) Regulations 2024
+Made
+24 May 2024
+Laid before Senedd Cymru
+29 May 2024
+Coming into force
+28 June 2024
+The Welsh Ministers, in exercise of the powers conferred on the Secretary of State by sections 89B(1), (4) and (5)(1), 89C(1), (2), (3), (4) and (5)(2), 92(3), 94(5) and (5A)(4), 95(3) and (3A)(5) and 138(7)(6) of the Schools Standards and Framework Act 1998(7), and now vested in them(8), make the following Regulations.
+(1)
+1998 c. 31; section 89B was inserted by the Education Act 2002 (c. 32), section 48 and amended by the Education and Skills Act 2008 (c. 25), Schedule 1, paragraphs 53, 59(1), (2), (3)(a) and (b), (4)(a) and (b), (5)(a) to (c), (6)(a) and (b) and (7) and S.I. 2010/1158.
+(2)
+Section 89C was inserted by the Education Act 2002, section 48 and amended by the Education and Inspections Act 2006 (c. 40), section 43(3)(a) and (b), the Education and Skills Act 2008, Schedule 1, paragraphs 53, 60(1), (3)(a) and (b), (4) and (5), the School Standards and Organisation (Wales) Act 2013 (anaw 1), Schedule 5, paragraph 4(1) and (5) and S.I. 2010/1158; there are other amendments but none are relevant to these Regulations.
+(3)
+Section 92 was substituted by the Education Act 2002, Schedule 4, paragraph 7 and amended by S.I. 2010/1158.
+(4)
+Subsection (5) of section 94 was substituted, and subsection (5A) was inserted into section 94, by the Education Act 2002, section 50 and subsection (5A) was amended by the Education and Skills Act 2008, section 152(1) and (7).
+(5)
+Subsection (3) of section 95 was substituted, and subsection (3A) was inserted into section 95, by the Education Act 2002, Schedule 4, paragraph 9 and subsection (3A) was amended by S.I. 2010/1158.
+(6)
+Subsection (7) was amended by the Education and Inspections Act 2006, Schedule 17, paragraph 3(1) and (4).
+(7)
+See section 142(1) of the 1998 Act for the definition of “the Assembly” and see section 90ZA of the 1998 Act for the definition of “prescribed” and “regulations”.
+(8)
+The functions of the Secretary of State under these sections of the Education Act 1996 and the School Standards and Framework Act 1998 were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672) and then to the Welsh Ministers by the Government of Wales Act 2006 (c. 32), Schedule 11, paragraph 30.Title, coming into force and application
+1.—(1) The title of these Regulations is the Education (Co-ordination of School Admission Arrangements and Miscellaneous Amendments) (Wales) Regulations 2024.
+(2) These Regulations come into force on 28 June 2024.
+(3) These Regulations apply in relation to Wales.Interpretation
+2.—(1) In these Regulations—
+“the 1996 Act” (“Deddf 1996”) means the Education Act 1996;
+“the 1998 Act” (“Deddf 1998”) means the School Standards and Framework Act 1998;
+“academic year” (“blwyddyn academaidd”) has the meaning given in section 89B(6) of the 1998 Act;
+“admission arrangements” (“trefniadau derbyn”) has the meaning given in section 88(2) of the 1998 Act(1);
+“admission authority” (“awdurdod derbyn”) has the meaning given in section 88(1) of the 1998 Act(2);
+“admission year” (“blwyddyn dderbyn”) means the academic year during which pupils are admitted to a relevant age group under a qualifying scheme or a Welsh Minister scheme;
+“application” (“cais”), in relation to arrangements made by a local authority under section 86(1) of the 1998(3) Act, means a parent’s expression of preference in a common application form as to the maintained school at which that parent wishes education to be provided for their child;
+“child” (“plentyn”) has the meaning given in section 84(6) of the 1998 Act(4);
+“common application form” (“ffurflen gais gyffredin”) means a form provided by a local authority for completion by a parent in respect of an application by that parent;
+“composite prospectus” (“prosbectws cyfansawdd”) means the composite prospectus that a local authority is required to publish under regulation 4 of the School Information (Wales) Regulations 2011(5);
+“determination year” (“blwyddyn benderfynu”) in relation to the proposed admission arrangements for a school, means the academic year beginning 2 academic years before the academic year to which the admission arrangements relate;
+“governing body” (“corff llywodraethu”) has the meaning given in section 19(1) of the Education Act 2002(6);
+“local authority” (“awdurdod lleol”) means a county council in Wales and a county borough council in Wales;
+“maintained school” (“ysgol a gynhelir”) has the meaning given in section 84(6) of the 1998 Act;
+“offer date” (“dyddiad cynnig”) has the meaning given in regulation 6;
+“offer year” (“blwyddyn gynnig”) means the academic year immediately preceding the admission year;
+“parent” (“rhiant”) has the meaning given in section 576 of the 1996 Act(7);
+“primary school” (“ysgol gynradd”) has the meaning given in section 5(1) of the 1996 Act(8);
+“pupil” (“disgybl”) has the meaning given in section 3 of the 1996 Act(9);
+“qualifying scheme” (“cynllun cymhwysol”) means a scheme formulated by a local authority for co-ordinating arrangements for the admission of pupils to maintained schools in its area under section 89B(1)(a) of the 1998 Act and these Regulations;
+“relevant age group” (“grŵp oedran perthnasol”) has the meaning given in section 142(1) of the 1998 Act(10);
+“secondary school” (“ysgol uwchradd”) has the meaning given in section 5(2) of the 1996 Act;
+“Welsh Minister scheme” (“cynllun Gweinidogion Cymru”) means a scheme for the co-ordination of admission arrangements imposed by the Welsh Ministers under subsection 89B(2) of the 1998 Act;
+“working day” (“diwrnod gwaith”) means any day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday within the meaning of the Banking and Financial Dealings Act 1971(11).
+(2) For the purposes of these Regulations an application is made in the course of a normal admission round if—
+(a)
+it is for the admission of a pupil to a relevant age group, and
+(b)
+it is not a late application or an in-year application.
+(3) For the purposes of these Regulations an application is a late application if—
+(a)
+it is for the admission of a pupil to a relevant age group,
+(b)
+it is submitted before the first day of the first school term of the admission year,
+(c)
+it is submitted after the date set out in the composite prospectus for the receipt of applications for admission of a pupil to a maintained school, and
+(d)
+a determination relating to the application is not made by an admissions authority on or before the offer date.
+(4) For the purposes of these Regulations an application is an in-year application if—
+(a)
+it is for the admission of a pupil to a relevant age group and it is submitted on or after the first day of the admission year, or
+(b)
+it is for the admission of a pupil to an age group other than a relevant age group.
+(1)
+Section 88(2) was amended by the Education Act 2011 (c. 21), section 64(1) and (2)(c).
+(2)
+Section 88(1) was amended by S.I. 2010/1158; there are other amendments to section 88 but none are relevant to these Regulations.
+(3)
+Subsection (1) was amended by S.I. 2010/1158.
+(4)
+The definition of “child” was substituted by the Apprenticeships, Skills, Children and Learning Act 2009 (c. 22), section 43(1) and (2).
+(5)
+S.I. 2011/1944 (W. 211); there are amendments but none are relevant to these Regulations.
+(6)
+2002 c. 32; there are amendments to section 19 but none are relevant to these Regulations.
+(7)
+Section 576 was amended by the School Standards and Framework Act 1998, Schedule 30, paragraph 180, and Schedule 31.
+(8)
+Subsection (1) was amended by the Education Act 2002, Part 3 of Schedule 22.
+(9)
+Section 3 was amended by the Education Act 1997 (c. 44), paragraph 9 of Schedule 7, and the Education Act 2002, Schedule 21, paragraph 34(1) to (3).
+(10)
+1998 c. 31; there are amendments but none are relevant to these Regulations.
+(11)
+1971 c. 80; there are amendments but none are relevant to these Regulations.Formulation of qualifying schemes
+3.—(1) Each local authority must formulate, in relation to the determination year 2025 to 2026, and in relation to each subsequent determination year, a qualifying scheme in relation to each maintained school in its area.
+(2) A qualifying scheme must comply with the requirements in the Schedule.Action to be taken by a local authority to secure adoption of a qualifying scheme
+4.—(1) Each local authority must adopt a qualifying scheme relating to the determination year 2025 to 2026 by 1 January 2025 and subsequently by 1 January preceding each determination year to which the qualifying scheme relates.
+(2) Before adopting a qualifying scheme, if the conditions set out in paragraph (3) are fulfilled, a local authority must consult the bodies set out in paragraph (4).
+(3) The conditions referred to in paragraph (2) are—
+(a)
+the qualifying scheme is substantially different from the qualifying scheme adopted for the preceding determination year, or
+(b)
+the local authority has not, in the previous 6 determination years, consulted on a qualifying scheme which it has adopted.
+(4) The bodies to be consulted are—
+(a)
+the admission forum,
+(b)
+each governing body which is the admission authority for a maintained school in the local authority’s area, and
+(c)
+any other local authority that the local authority thinks is likely to be affected by the qualifying scheme.
+(5) The consultation carried out under paragraph (4)(c) must be undertaken with a view to securing that the arrangements for the admission of pupils to maintained schools in the areas of different local authorities are, so far as is reasonably practicable, compatible with each other.
+(6) After the local authority has carried out any consultation required under this regulation it must—
+(a)
+determine the qualifying scheme—
+(i)
+in its original form, or
+(ii)
+with such modifications as the local authority thinks fit, and
+(b)
+adopt the qualifying scheme and take all reasonable steps to secure its adoption by each governing body which is an admission authority that the local authority consulted in relation to it.
+(7) In this regulation “admission forum” means a body established by a local authority in Wales for maintained schools in its area under section 85A of the 1998 Act(1).
+(1)
+Section 85A was inserted by section 46 of the Education Act 2002 and amended by section 41(1), (2)(a) and (b), (3), (4)(a) and (b), (5) and (6) of the Education and Inspections Act 2006, Schedule 18, section 34(1), (2)(a)(i) to (iii), and (2)(b) to (e) of the Education Act 2011 and by S.I. 2010/1158.Information to be provided to the Welsh Ministers
+5.  For the admission year 2027 to 2028 and every subsequent admission year, each local authority must inform the Welsh Ministers on or before 28 February in the relevant determination year whether or not it has adopted a qualifying scheme.Offer date
+6.—(1) The single date in each year on which a determination, made under the provisions of a qualifying scheme or a Welsh Minister scheme, to offer or refuse a pupil admission to a maintained school must be communicated to a parent—
+(a)
+for primary schools, is 16 April in the offer year, and for secondary schools, is 1 March in the offer year.
+(2) When in any offer year the offer date is not a working day, the offer date is the next working day.
+(3) This regulation only applies to determinations made in the course of a normal admission round.Part 2 of the School Standards and Organisation (Wales) Act 2013
+7.—(1) Chapter 1 of Part 2 of the School Standards and Organisation (Wales) Act 2013 (“the 2013 Act”) is to apply as if any obligations imposed on a governing body under a qualifying scheme or a Welsh Minister scheme were imposed on it by the Education Acts.
+(2) Chapter 2 of Part 2 of the 2013 Act is to apply as if any obligations imposed on a local authority under a qualifying scheme or a Welsh Minister scheme were education functions.
+(3) In this regulation—
+(a)
+“the Education Acts” (“y Deddfau Addysg”) has the meaning given in section 578(1) of the 1996 Act(1);
+(b)
+“education functions” (“swyddogaethau addysg”) has the meaning given in section 579(1) of the 1996 Act(2).
+(1)
+The list of “Education Acts” was amended so that the entry for “the Education Act 1962” (c. 24) was omitted by the Teaching and Higher Education Act 1998 (c. 30), Schedule 4, the entry for “the Education Act 1967” (c. 3) was omitted by the Education Act 2002 (c. 32), Schedule 22, the entry for “the Education (Student Loans) Act 1990” (c. 6) was omitted by the Teaching and Higher Education Act 1998, Schedule 4, the entry for “the School Teachers’ Pay and Conditions Act 1991” (c. 49) was omitted by the Education Act 2002, Schedule 21, paragraph 56, the entry for “the Education (Student Loans) Act 1996” (c. 9) was omitted by the Teaching and Higher Education Act 1998, Schedule 4, the entry for “the Nursery Education and Grant-Maintained Schools Act 1996” (c. 50) was omitted by the Education Act 2002, Schedule 22, the entry for “the School Inspections Act 1996” (c. 57) was omitted by the Education Act 2005 (c. 18), Schedule 9, paragraph 9, the entry for the “the Education Act 1997” (c. 44) was inserted by that Act, Schedule 7, paragraph 42, the entry for “the Education (Schools) Act 1997” (c. 59) was inserted by section 6(2) of that Act, the entry for “the Education (Student Loans) Act 1998” (c. 1) was inserted by section 6(1) of that Act, the entry for “the Education (Student Loans) Act 1998” was omitted was by the Teaching and Higher Education Act 1998, Schedule 4, the entry for “the Teaching and Higher Education Act 1998” was inserted by that Act, Schedule 3, paragraph 15, the entry for “the School Standards and Framework Act 1998” (c. 31) was inserted by that Act, Schedule 30, paragraph 182, the entry for “the Education Act 2002” was inserted by section 217(2) of that Act, the entry for “the Higher Education Act 2004” (c. 8) was inserted by section 54(2) of that Act, the entry for “the Education Act 2005” (c. 18) was inserted by section 128(2) of that Act, the entry for “the Education and Inspections Act 2006” (c. 40) was inserted by section 191(2) of that Act, the entry for “the Education and Skills Act 2008” (c. 25) was inserted by section 174(2) of that Act, the entry for “the Learner Travel (Wales) Measure 2008” (nawm 2) was inserted by section 29(2) of that Measure, the entry for “the Apprenticeships, Skills, Children and Learning Act 2009” (c. 22) was inserted by section 270(2) of that Act, the entry for “the Healthy Eating in Schools (Wales) Measure 2009” (nawm 3) was inserted by section 12(4) of that Measure, the entry for “the Education Act 2011” (c. 21) was inserted by section 83(2) of that Act, the entry for “the Education (Wales) Measure 2011” (nawm 7) was inserted by section 34(2) of that Measure, the entry for “the School Standards and Organisation (Wales) Act 2013” (anaw 1) was inserted by section 101(2) of that Act, the entry for “the Education (Wales) Act 2014” (anaw 5) was inserted by section 45 of that Act, the Higher Education (Wales) Act 2015 (anaw 1) was added to the list of “Education Acts” by section 60(2) of that Act, the Qualifications Wales Act 2015 (anaw 5) was added to the list of “Education Acts” by section 61(2) of that Act, the Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2) was added to the list of “Education Acts” by section 101(2) of that Act, the Curriculum and Assessment (Wales) Act 2021 (asc 4) was added to the list of “Education Acts” by section 72 of that Act and the Tertiary Education and Research (Wales) Act 2022 (asc 1) was added to the list of “Education Acts” by section 149(2) of that Act; there are other amendments to the list of “Education Acts” in section 578 but none are relevant to these Regulations.
+(2)
+The definition of “education functions” was inserted by S.I. 2010/1158.Amendments to the Education (Admission Appeals Arrangements) (Wales) Regulations 2005
+8.  The Education (Admission Appeals Arrangements) (Wales) Regulations 2005(1) are amended as follows—
+(a)
+in regulation 3, in the first place it occurs omit “Schedule 1”, and
+(b)
+in regulation 5, in the first place it occurs omit “Schedule 2”.
+(1)
+S.I. 2005/1398 (W. 112), amended by S.I. 2023/420 (W. 63); there are other amending instruments but none is relevant to these Regulations.Amendments to the School Information (Wales) Regulations 2011
+9.  In the School Information (Wales) Regulations 2011(1), after paragraph 5 in Part 1 of Schedule 2 insert—
+“5A.—(1) For the admission school year 2026 to 2027 and all subsequent school years, a summary of the scheme for co-ordinating admission arrangements of the local authority (“the scheme”) including—
+(a)
+a brief description of how an application for admission to a school under the scheme can be made, including how to apply and by what date,
+(b)
+a brief description of when offers of admission to a school will be communicated to parents under the scheme,
+(c)
+a brief description of when appeals against a refusal of a place will be heard,
+(d)
+a brief description of how applications made otherwise than in a normal admission round will be determined under the scheme, and
+(e)
+a copy of the common application form for the scheme referred to in regulation 3(1) of the Education (Co-ordination of School Admission Arrangements and Miscellaneous Amendments) (Wales) Regulations 2024(2) (“the 2024 Regulations”).
+(2) In this paragraph—
+“a normal admission round” has the meaning given in regulation 2(2) of the 2024 Regulations;
+“the scheme for co-ordinating admission arrangements of the local authority” means—
+(a)
+a scheme adopted by a local authority pursuant to regulation 2(1) of the 2024 Regulations, or
+(b)
+a scheme imposed on the local authority by the Welsh Ministers pursuant to subsection 89B(2) of the 1998 Act.”
+(1)
+S.I. 2011/1944 (W. 211); there are amending instruments but none is relevant to these Regulations.
+(2)
+S.I. 2024/698 (W. 96).Lynne Neagle
+Cabinet Secretary for Education, one of the Welsh Ministers
+24 May 2024Regulation 3(2)
+SCHEDULE
+Requirements of a Qualifying Scheme
+General
+1.  A qualifying scheme must—
+(a)
+ensure, so far as is reasonably practicable, that each parent in the local authority’s area who makes an application on the common application form receives a single offer of admission for a child to a maintained school under the qualifying scheme,
+(b)
+ensure, so far as is reasonably practicable, in any case where a child is eligible to be offered admission to more than one maintained school, that the child is offered admission to whichever of those maintained schools is ranked highest by the parent on the common application form,
+(c)
+require a common application form to be completed, enabling a parent in a local authority’s area—
+(i)
+to provide their name and address,
+(ii)
+to provide the name, address and date of birth of their child,
+(iii)
+to apply for no fewer than three maintained schools, whether or not any maintained school for which an application is made is within the local authority’s area,
+(iv)
+to give reasons for any application, and
+(v)
+to rank each application in relation to any other application,
+(d)
+ensure that a common application form is published—
+(i)
+by copies being made available for distribution without charge to parents on request at the offices of the local authority publishing it, and
+(ii)
+by displaying a copy on the local authority’s website,
+(e)
+identify for each maintained school to which the qualifying scheme applies whether it is the local authority or the governing body that is the admission authority,
+(f)
+where the governing body that is the admission authority for such a maintained school has made arrangements for another body to determine the order of priority under paragraph 5(b), identify that body, and
+(g)
+specify that any notification of acceptance for an offer of admission for a child to a maintained school must be received by the local authority within 2 weeks after the offer date.
+Applications made in the course of a normal admission round
+2.  In respect of applications made in the course of a normal admission round, a qualifying scheme must—
+(a)
+require the common application form to be submitted to the local authority—
+(i)
+by 15 January in the offer year, in relation to applications for primary schools, and
+(ii)
+by 31 October in the offer year, in relation to applications for secondary schools,
+(b)
+specify how applications submitted after the dates mentioned in sub-paragraph (a) will be determined,
+(c)
+require each local authority, whether or not it is the admission authority, to send any determination offering or refusing admission to a maintained school to a parent on the offer date, and
+(d)
+specify the dates by which each of the steps required to be taken by this Schedule are to be performed, including where the date is specified in this Schedule.
+Applications for in-area schools
+3.  In respect of applications made for a maintained school in the area of the local authority, the qualifying scheme must require the local authority—
+(a)
+where the application is for a maintained school for which the governing body is the admission authority, to provide to the governing body, or the body with whom the governing body has made arrangements under paragraph 5(b), details—
+(i)
+of the application, and
+(ii)
+any supporting information provided by the parent,
+(b)
+where the application is for a maintained school for which the local authority is the admission authority, to determine by reference to the maintained school’s admissions criteria the order of priority in which each application for the school is ranked,
+(c)
+to determine in accordance with the provisions of the qualifying scheme whether the child is to be offered or refused admission to a maintained school in its area where it appears to the local authority—
+(i)
+that a child in its area is eligible to be offered admission to more than one maintained school, or
+(ii)
+that a child in its area is not eligible to be offered admission to any maintained school,
+(d)
+to make the determination under sub-paragraph (c) having regard to—
+(i)
+any determination made under sub-paragraph (b), and
+(ii)
+any determination notified to it under paragraph 5(c),
+(e)
+in any case where the local authority’s determination under sub-paragraph (c) relates to a maintained school in its area for which it is not the admission authority, to notify the school’s governing body of its determination,
+(f)
+except where sub-paragraph (g) applies, to send any determination under sub-paragraph (c) to the parent, whether or not it is the admission authority, and
+(g)
+with regard to any application relating to a child living in a different local authority’s area, to notify that local authority of its determination.
+Duties on a local authority relating to applications for out of area schools
+4.—(1) This paragraph applies where a parent in the area of a local authority (“the home authority”) applies in the common application form for admission to a maintained school in the area of a different local authority (“the maintaining authority”).
+(2) The home authority must forward details of the application to the maintaining authority, together with any supporting information provided by the parent.
+(3) A qualifying scheme must—
+(a)
+specify that, in making a determination under paragraph 3(c) whether the child is to be offered or refused admission to any maintained school in the home authority’s area for which an application has also been made, that home authority must have regard to any information provided by the maintaining authority as to whether the child is to be offered or refused admission to a maintained school within that maintaining authority’s area, and
+(b)
+require the home authority to send any determination offering or refusing admission to the maintained school in the maintaining authority’s area by the admission authority for that school to the parent.
+Duties of a governing body under a qualifying scheme
+5.  A qualifying scheme must require each governing body which is the admission authority for a maintained school—
+(a)
+to forward to the local authority in whose area it is situated—
+(i)
+details of any applications made directly to the maintained school in the normal admission round or as a late application, and
+(ii)
+any supporting information provided by the parent regardless of whether the parent making the application resides in that local authority’s area,
+(b)
+to determine or make arrangements for another body (including its local authority) to determine by reference to the maintained school’s admissions criteria the order of priority in which each application for the school is ranked, and
+(c)
+to notify or, where arrangements have been made under sub-paragraph (b) for another body (not being its local authority) to make a determination, to arrange for that body to notify its local authority of its determination.EXPLANATORY NOTE
+(This note is not part of the Regulations)
+Part 3 of the School Standards and Framework Act 1998 (“the 1998 Act”) makes provision in relation to arrangements for school admissions.
+In particular, section 89B of Part 3 of the 1998 Act enables the Welsh Ministers to make regulations requiring a local authority in Wales to formulate a qualifying scheme for co-ordinating the arrangements for the admission of pupils to community, voluntary controlled, voluntary aided and foundation schools in its area. These Regulations make provision in relation to such a qualifying scheme.
+These Regulations do not apply to maintained nursery schools or maintained special schools. These Regulations also do not apply to the admission arrangements for pupils who have ceased to be of compulsory school age or for the purpose of receiving sixth form education (see section 89B(7) of the 1998 Act).
+These Regulations require each local authority in Wales to formulate a qualifying scheme for maintained schools in their area. That qualifying scheme must comply with the requirements for such schemes set out in the Schedule to these Regulations (regulation 3).
+The first qualifying scheme must be formulated and adopted by 1 January 2025 (“the first qualifying scheme”) and by 1 January for all subsequent years (regulation 4). The first qualifying scheme will apply to admission arrangements in the academic year 2027 to 2028.
+Regulation 4 of these Regulations also makes provision in respect of consultation in relation to, and adoption of, the qualifying scheme. Section 85A of the 1998 Act provides that in carrying out their functions in relation to admission arrangements, admission authorities must have regard to any relevant advice given to them by an admission forum established under that section in respect of those functions.
+Each local authority in Wales must inform the Welsh Ministers whether or not it has adopted a qualifying scheme by 28 February in the academic year 2 years before the academic year in which pupils will be admitted under the scheme. This duty applies to local authorities from 28 February 2025 (in respect of admission in the academic year 2027 to 2028) and all subsequent academic years (regulation 5).
+Section 89B(2) of the 1998 Act enables the Welsh Ministers to make and impose a scheme for the co-ordination of admission arrangements (“Welsh Minister scheme”). Section 89B(3) of the 1998 Act provides that a Welsh Minister scheme may not be made if the circumstances set out in that subsection are met by a date to be prescribed by the Welsh Ministers. The prescribed date is set out in regulation 5, and is 28 February.
+Each local authority in Wales must communicate to parents its determination to offer or to refuse admission of a pupil to a primary or secondary school on the date set out in regulation 6 (regulation 6).
+These Regulations apply the powers of intervention in Part 2 of the School Standards and Organisation (Wales) Act 2013 (intervention in the conduct of maintained schools) to the obligations imposed on governing bodies and local authorities under a qualifying scheme (regulation 7).
+These Regulations amend the Education (Admission Appeals Arrangements) (Wales) Regulations 2005 (“the 2005 Regulations”) so as to correct a mistake in regulation 3 and regulation 5 of the 2005 Regulations (regulation 8).
+These Regulations insert a new paragraph 5A into Part 1 of Schedule 2 to the School Information (Wales) Regulations 2011 (“the 2011 Regulations”) so as to require that information in relation to a local authority’s qualifying scheme or a Welsh Minister scheme be included in the local authority school prospectus (regulation 9). The new paragraph 5A applies to the admission school year 2026 to 2027 and so the information prescribed by it will be included in the local authority school prospectus for the first time for the admission school year 2026 to 2027 (see regulation 2(1) of the 2011 Regulations for the definition of “admission school year”).
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, a regulatory impact assessment has been prepared as to the likely costs and benefits of complying with these Regulations. A copy can be obtained from the Education Business Planning and Governance Division of the Welsh Government at Cathays Park, Cardiff CF10 3NQ and on the Welsh Government website at www.gov.wales.

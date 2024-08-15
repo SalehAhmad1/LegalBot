@@ -1,0 +1,91 @@
+OFFERYNNAU STATUDOL CYMRU
+2024 Rhif 607 (Cy. 86)
+ADDYSG, CYMRU
+Rheoliadau Addysg (Trefniadau ar gyfer Asesu Darllen a Rhifedd yn y Cwricwlwm i Gymru) 2024
+Gwnaed
+9 Mai 2024
+Gosodwyd gerbron Senedd Cymru
+13 Mai 2024
+Yn dod i rym
+1 Medi 2024
+Mae Gweinidogion Cymru, drwy arfer y pwerau a roddir iddynt gan adrannau 56(1), (3) a (6), 74(1)(a) a 75(1) o Ddeddf Cwricwlwm ac Asesu (Cymru) 2021(1), yn gwneud y Rheoliadau a ganlyn.
+(1)
+2021 dsc 4. Ar gyfer y diffiniad o “rheoliadau” gweler adran 82(1) o Ddeddf Cwricwlwm ac Asesu (Cymru) 2021.Enwi a dod i rym
+1.—(1) Enw’r Rheoliadau hyn yw Rheoliadau Addysg (Trefniadau ar gyfer Asesu Darllen a Rhifedd yn y Cwricwlwm i Gymru) 2024.
+(2) Daw’r Rheoliadau hyn i rym ar 1 Medi 2024.Dehongli
+2.  Yn y Rheoliadau hyn—
+ystyr “yr APC” (“the NPA”) yw’r Asesiadau Personol Cenedlaethol sy’n cynnwys yr APCRh, yr APCDCS a’r APCDCC;
+ystyr “yr APCDCC” (“the NRPAW”) yw’r Asesiad Personol Cenedlaethol ar gyfer Darllen – Cyfrwng Cymraeg, sef asesiad ar-lein a roddir i ddisgyblion at ddiben asesu eu sgiliau darllen yn Gymraeg;
+ystyr “yr APCDCS” (“the NRPAE”) yw’r Asesiad Personol Cenedlaethol ar gyfer Darllen – Cyfrwng Saesneg, sef asesiad ar-lein a roddir i ddisgyblion at ddiben asesu eu sgiliau darllen yn Saesneg;
+ystyr “yr APCRh” (“the NNPA”) yw’r Asesiad Personol Cenedlaethol ar gyfer Rhifedd, sef asesiad ar-lein a roddir i ddisgyblion at ddiben asesu eu sgiliau rhifedd;
+ystyr “blwyddyn 2” (“year 2”) yw grŵp blwyddyn ysgol y bydd y mwyafrif o’r disgyblion ynddo, yn ystod y flwyddyn ysgol, yn cyrraedd 7 oed;
+ystyr “blwyddyn 3” (“year 3”) yw grŵp blwyddyn ysgol y bydd y mwyafrif o’r disgyblion ynddo, yn ystod y flwyddyn ysgol, yn cyrraedd 8 oed;
+ystyr “blwyddyn 4” (“year 4”) yw grŵp blwyddyn ysgol y bydd y mwyafrif o’r disgyblion ynddo, yn ystod y flwyddyn ysgol, yn cyrraedd 9 oed;
+ystyr “blwyddyn 5” (“year 5”) yw grŵp blwyddyn ysgol y bydd y mwyafrif o’r disgyblion ynddo, yn ystod y flwyddyn ysgol, yn cyrraedd 10 oed;
+ystyr “blwyddyn 6” (“year 6”) yw grŵp blwyddyn ysgol y bydd y mwyafrif o’r disgyblion ynddo, yn ystod y flwyddyn ysgol, yn cyrraedd 11 oed;
+ystyr “blwyddyn 7” (“year 7”) yw grŵp blwyddyn ysgol y bydd y mwyafrif o’r disgyblion ynddo, yn ystod y flwyddyn ysgol, yn cyrraedd 12 oed;
+ystyr “blwyddyn 8” (“year 8”) yw grŵp blwyddyn ysgol y bydd y mwyafrif o’r disgyblion ynddo, yn ystod y flwyddyn ysgol, yn cyrraedd 13 oed;
+ystyr “blwyddyn 9” (“year 9”) yw grŵp blwyddyn ysgol y bydd y mwyafrif o’r disgyblion ynddo, yn ystod y flwyddyn ysgol, yn cyrraedd 14 oed;
+ystyr “blwyddyn ysgol” (“school year”) yw’r cyfnod sy’n dechrau â’r tymor ysgol cyntaf i ddechrau ar ôl mis Gorffennaf ac sy’n dod i ben â dechrau’r tymor cyntaf o’r fath i ddechrau ar ôl y mis Gorffennaf canlynol;
+ystyr “canllawiau datgymhwyso’r APC” (“the NPA disapplication guidance”) yw’r adran o lawlyfr gweinyddu’r APC sy’n dwyn y teitl “Datgymhwyso” ac sy’n nodi pa ddisgyblion nad oes angen rhoi’r APC iddynt;
+ystyr “Deddf 1996” (“the 1996 Act”) yw Deddf Addysg 1996;
+ystyr “Deddf 2021” (“the 2021 Act”) yw Deddf Cwricwlwm ac Asesu (Cymru) 2021;
+mae i “disgybl” yr ystyr a roddir i “pupil” yn adran 3 o Ddeddf 1996(1);
+ystyr “grŵp blwyddyn” (“year group”) yw grŵp o blant mewn ysgol y bydd y mwyafrif ohonynt, yn ystod blwyddyn ysgol benodol, yn cyrraedd yr un oedran;
+ystyr “llawlyfr gweinyddu’r APC” (“the NPA administration handbook”) yw’r ddogfen sy’n dwyn y teitl “Asesiadau Personol Cenedlaethol ar gyfer Darllen a Rhifedd: llawlyfr gweinyddu” a gyhoeddir gan Weinidogion Cymru o bryd i’w gilydd ac sy’n manylu ar drefniadau gweinyddol yr APC;
+ystyr “pennaeth” (“head teacher”) yw pennaeth, gan gynnwys pennaeth dros dro, ysgol a gynhelir;
+mae i “ysgol a gynhelir” (“maintained school”) yr ystyr a roddir yn adran 79(1)(a) o Ddeddf 2021.
+(1)
+1996 p. 56. Diwygiwyd adran 3 gan baragraff 9 o Atodlen 7 i Ddeddf Addysg 1997 (p. 44) a chan baragraff 34 o Atodlen 21 i Ddeddf Addysg 2002 (p. 32).Yr Asesiad Personol Cenedlaethol ar gyfer Darllen: Saesneg
+3.—(1) Mae’r rheoliad hwn yn gymwys i—
+(a)
+disgybl ym mlwyddyn 4 i flwyddyn 9, a
+(b)
+disgybl ym mlwyddyn 2 a blwyddyn 3 pan fo’r mwyafrif o wersi’r disgybl hwnnw, ym marn y pennaeth, yn cael eu haddysgu drwy gyfrwng y Saesneg.
+(2) Rhaid i’r pennaeth wneud trefniadau i’r APCDCS gael ei roi i bob disgybl—
+(a)
+o leiaf unwaith ym mhob blwyddyn ysgol, a
+(b)
+yn unol â llawlyfr gweinyddu’r APC.
+(3) Ond nid yw’r rheoliad hwn yn gymwys i ddisgybl sydd, ym marn y pennaeth, yn dod o fewn un o’r categorïau a restrir yng nghanllawiau datgymhwyso’r APC.Yr Asesiad Personol Cenedlaethol ar gyfer Darllen: Cymraeg
+4.—(1) Mae’r rheoliad hwn yn gymwys i ddisgybl ym mlwyddyn 2 i flwyddyn 9 pan fo’r mwyafrif o wersi’r disgybl hwnnw, ym marn y pennaeth, yn cael eu haddysgu drwy gyfrwng y Gymraeg.
+(2) Rhaid i’r pennaeth wneud trefniadau i’r APCDCC gael ei roi i bob disgybl—
+(a)
+o leiaf unwaith ym mhob blwyddyn ysgol, a
+(b)
+yn unol â llawlyfr gweinyddu’r APC.
+(3) Ond nid yw’r rheoliad hwn yn gymwys i ddisgybl sydd, ym marn y pennaeth, yn dod o fewn un o’r categorïau a restrir yng nghanllawiau datgymhwyso’r APC.Yr Asesiad Personol Cenedlaethol ar gyfer Rhifedd
+5.—(1) Mae’r rheoliad hwn yn gymwys i ddisgybl ym mlwyddyn 2 i flwyddyn 9.
+(2) Rhaid i’r pennaeth wneud trefniadau i’r APCRh gael ei roi i bob disgybl—
+(a)
+o leiaf unwaith ym mhob blwyddyn ysgol, a
+(b)
+yn unol â llawlyfr gweinyddu’r APC.
+(3) Ond nid yw’r rheoliad hwn yn gymwys i ddisgybl sydd, ym marn y pennaeth, yn dod o fewn un o’r categorïau a restrir yng nghanllawiau datgymhwyso’r APC.Diwygio Rheoliadau Darparu Gwybodaeth gan Benaethiaid i Rieni a Disgyblion sy’n Oedolion (Cymru) 2022
+6.  Ym mharagraff 6 o Ran 2 o Atodlen 2 i Reoliadau Darparu Gwybodaeth gan Benaethiaid i Rieni a Disgyblion sy’n Oedolion (Cymru) 2022(1), yn lle “Orchymyn Addysg (Y Cwricwlwm Cenedlaethol) (Trefniadau Asesu ar gyfer Darllen a Rhifedd) (Cymru) 2013” rhodder “Reoliadau Addysg (Trefniadau ar gyfer Asesu Darllen a Rhifedd yn y Cwricwlwm i Gymru) 2024(2)”.
+(1)
+O.S. 2022/655 (Cy. 145).
+(2)
+O.S. 2024/607 (Cy. 86).Lynne Neagle
+Ysgrifennydd y Cabinet dros Addysg, un o Weinidogion Cymru
+9 Mai 2024NODYN ESBONIADOL
+(Nid yw’r nodyn hwn yn rhan o’r Rheoliadau)
+Mae Deddf Cwricwlwm ac Asesu (Cymru) 2021 (“y Ddeddf”) yn sefydlu fframwaith newydd ar gyfer cwricwlwm ac yn gwneud darpariaeth ynghylch asesu ar gyfer disgyblion a phlant yng Nghymru. Dyma’r Cwricwlwm i Gymru. Mae adran 56 o’r Ddeddf yn darparu bod rhaid i Weinidogion Cymru wneud darpariaeth drwy reoliadau ar gyfer asesu mewn perthynas â’r cwricwlwm perthnasol. Mae i “cwricwlwm perthnasol” yr ystyr a roddir iddo yn adran 56(5) o’r Ddeddf.
+Cafwyd cam cyntaf cyflwyno’r Cwricwlwm i Gymru yn y flwyddyn ysgol 2022 i 2023. Yna bydd y Cwricwlwm i Gymru yn cael ei gyflwyno yn flynyddol ar gyfer pob blwyddyn ysgol hyd nes y bydd wedi ei gyflwyno’n llawn ar gyfer pob blwyddyn ysgol yn y flwyddyn ysgol 2026 i 2027.
+Mae’r Rheoliadau hyn yn rhoi effaith gyfreithiol i’r trefniadau asesu ar gyfer darllen a rhifedd yn y Cwricwlwm i Gymru ar gyfer disgyblion sy’n mynychu ysgolion (heblaw am ysgol arbennig gymunedol a sefydlir mewn ysbyty) a gynhelir gan awdurdod lleol yng Nghymru (“yr asesiadau personol cenedlaethol”).
+Mae’r asesiadau personol cenedlaethol yn cymryd lle’r profion darllen a rhifedd (“y profion cenedlaethol”) y rhoddir effaith gyfreithiol iddynt gan Orchymyn Addysg (Y Cwricwlwm Cenedlaethol) (Trefniadau Asesu ar gyfer Darllen a Rhifedd) (Cymru) 2013 (“Gorchymyn 2013”).
+Gwnaeth Rheoliadau Addysg (Dirymu Trefniadau Asesu yn y Cwricwlwm Cenedlaethol a Diwygiadau Amrywiol) (Cymru) 2022 (“y Rheoliadau Dirymu”) ddarpariaeth drosiannol fel bod Gorchymyn 2013 yn parhau i weithio gyda’r Cwricwlwm newydd i Gymru yn ystod y cyfnod y mae’n cael ei gyflwyno. Mae’r Rheoliadau Dirymu yn dirymu Gorchymyn 2013 ar 1 Medi 2024.
+Mae rheoliad 3 yn gwneud darpariaeth mewn cysylltiad â’r Asesiad Personol Cenedlaethol ar gyfer Darllen yn Saesneg. Mae rheoliad 4 yn gwneud darpariaeth mewn cysylltiad â’r Asesiad Personol Cenedlaethol ar gyfer Darllen yn Gymraeg. Mae rheoliad 5 yn gwneud darpariaeth mewn cysylltiad â’r Asesiad Personol Cenedlaethol ar gyfer Rhifedd.
+Mae’r asesiadau personol cenedlaethol yn cael eu sefyll ar-lein ac yn asesu’r un sgiliau â’r profion cenedlaethol. Fodd bynnag, ceir rhai gwahaniaethau o ran y ffordd y bydd yr asesiadau personol cenedlaethol yn cael eu rhoi o gymharu â’r ffordd y mae’r profion cenedlaethol wedi cael eu rhoi—
+(a)
+nid yw’r Rheoliadau hyn yn cynnwys gofyniad i’r pennaeth roi’r asesiadau personol yn unol ag amserlen a bennir gan Weinidogion Cymru. Yn hytrach, caiff y pennaeth benderfynu pryd yn y flwyddyn ysgol y bydd disgyblion yn sefyll yr asesiadau personol cenedlaethol,
+(b)
+yn wahanol i Orchymyn 2013 mae’r Rheoliadau hyn yn darparu bod rhaid i’r pennaeth ei gwneud yn ofynnol i ddisgyblion sefyll yr asesiadau personol cenedlaethol o leiaf unwaith mewn blwyddyn ysgol. Felly, mae’n bosibl y bydd yn ofynnol i ddisgybl sefyll yr asesiadau personol cenedlaethol fwy nag unwaith mewn blwyddyn ysgol,
+(c)
+nid yw’r Rheoliadau hyn yn ei gwneud yn ofynnol i’r pennaeth lofnodi datganiad i’r perwyl bod yr asesiadau personol cenedlaethol wedi eu rhoi yn unol â darpariaethau erthygl 6 o Orchymyn 2013, ond maent yn ei gwneud yn ofynnol i’r pennaeth eu rhoi yn unol â llawlyfr gweinyddu’r APC,
+(d)
+nid yw’r Rheoliadau hyn yn ei gwneud yn ofynnol i’r awdurdod lleol sy’n cynnal yr ysgol fonitro gweinyddu’r asesiadau personol cenedlaethol, ac
+(e)
+nid yw’r Rheoliadau hyn yn gosod dyletswydd ar Weinidogion Cymru i ymchwilio i unrhyw fater a atgyfeirir atynt o ganlyniad i unrhyw fonitro ar yr asesiadau personol cenedlaethol nac i gywiro canlyniadau fel y bo’n briodol.
+Mae paragraff 6 o Ran 2 o Atodlen 2 i Reoliadau Darparu Gwybodaeth gan Benaethiaid i Rieni a Disgyblion sy’n Oedolion (Cymru) 2022 (“y Rheoliadau Darparu Gwybodaeth”) yn ei gwneud yn ofynnol i bennaeth ysgol a gynhelir ddarparu sylwadau cryno am ganlyniadau’r asesiadau a gynhelir o dan Orchymyn 2013. O ganlyniad i ddirymu Gorchymyn 2013, mae rheoliad 6 o’r Rheoliadau hyn yn rhoi cyfeiriad at y Rheoliadau hyn yn lle cyfeiriad at Orchymyn 2013 ym mharagraff 6 o Ran 2 o Atodlen 2 i’r Rheoliadau Darparu Gwybodaeth.
+Ystyriwyd Cod Ymarfer Gweinidogion Cymru ar gynnal Asesiadau Effaith Rheoleiddiol mewn perthynas âʼr Rheoliadau hyn. O ganlyniad, ystyriwyd nad oedd yn angenrheidiol cynnal asesiad effaith rheoleiddiol o’r costau a’r manteision sy’n debygol o ddeillio o gydymffurfio â’r Rheoliadau hyn.

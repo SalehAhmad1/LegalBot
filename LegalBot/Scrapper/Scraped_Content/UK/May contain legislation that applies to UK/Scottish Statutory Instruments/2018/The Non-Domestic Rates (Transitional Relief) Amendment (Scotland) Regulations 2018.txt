@@ -1,0 +1,102 @@
+SCOTTISH STATUTORY INSTRUMENTS
+2018 No. 76
+RATING AND VALUATION
+The Non-Domestic Rates (Transitional Relief) Amendment (Scotland) Regulations 2018
+Made
+23rd February 2018
+Laid before the Scottish Parliament
+23rd February 2018
+Coming into force
+1st April 2018
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 153 of the Local Government etc. (Scotland) Act 1994(1) and all other powers enabling them to do so.
+(1)
+1994 c.39. Section 153 was amended by section 67 of the Climate Change (Scotland) Act 2009 (asp 12). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998 (c.46).Citation and commencement
+1.  These Regulations may be cited as the Non-Domestic Rates (Transitional Relief) Amendment (Scotland) Regulations 2018 and come into force on 1st April 2018.Amendment of the Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2017
+2.—(1) The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2017(1) are amended in accordance with paragraphs (2) to (11).
+(2) In regulation 2 (interpretation)—
+(a)
+for the definition of “the 2017 Regulations” substitute—
+““the 2018 Regulations” means the Non-Domestic Rates (Levying) (Scotland) Regulations 2018;”;
+(b)
+for the definition of “relevant lands and heritages” substitute—
+““relevant lands and heritages” means any lands and heritages which—
+(a)
+are used wholly or mainly for a purpose specified as Class 12 in the schedule; or
+(i)
+are used wholly or mainly for a purpose specified as any one of Class 1 to 8, 10 or 11 in the schedule; and
+(ii)
+have a rateable value no greater than £1,500,000,
+and were so used as at 31st March 2017 or, if unoccupied on that date, were so used when last occupied prior to 31st March 2017;; and”; and
+(c)
+in the definition of “relevant year” for “2017” substitute “2018”.
+(3) In regulation 6 (application of Part 2), in paragraph (2)—
+(a)
+at the end of subparagraph (a) omit “or”;
+(b)
+at the end of subparagraph (b) insert—
+“; or
+(c)
+the lands and heritages are shown in a split entry or reorganised entry”.
+(4) In regulation 8 (notional liability)—
+(a)
+for “0.492” substitute “0.506”; and
+(b)
+for “0.466” substitute “0.48”.
+(5) For regulation 9 (transitional limit) substitute—
+“9.—(1) Subject to paragraph (3) and regulation 11, in respect of lands and heritages to which this Part applies and any day—
+(a)
+where the rateable value for that day exceeds the rateable value on 1st April 2017, the transitional limit is calculated in accordance with the formula—
+(b)
+in any other case, the transitional limit is calculated in accordance with the formula—
+(2) For the purposes of paragraph (1)—
+BL is the base liability of the lands and heritages, ascertained in accordance with regulation 10;
+CRV is the rateable value of the lands and heritages;
+RV is the rateable value of the lands and heritages on 1st April 2017; and
+PF is the poundage figure of—
+(i)
+0.506 where CRV exceeds £51,000; or
+(ii)
+0.48 in any other case.
+(3) Where regulation 4 of the Non-Domestic Rates (New and Improved Properties) (Scotland) Regulations 2018(2) applies, the transitional limit is calculated in accordance with regulation 4(3) of those Regulations.”.
+(6) In regulation 11 (changes in rateable value after 1st April 2017)—
+(a)
+in the heading, paragraph (1) and paragraph (2) for “2017” substitute “2018”;
+(b)
+in paragraph (1)—
+(i)
+for “0.492” substitute “0.506”; and
+(ii)
+for “0.466” substitute “0.48”; and
+(c)
+at the end insert—
+“(3) Where regulation 9(3) applies, this regulation does not apply.”.
+(7) In regulation 12 (charitable and other reductions)—
+(a)
+in paragraph (1)(a)(v)—
+(i)
+for “2017” substitute “2018”; and
+(ii)
+at the end insert—
+“(vi)
+regulation 3(1) or 5(1) of the Non-Domestic Rates (New and Improved Properties) (Scotland) Regulations 2018.”.
+(b)
+omit paragraph (3).
+(8) Omit regulation 13 (former full relief properties).
+(9) In regulation 14 (partially unoccupied lands and heritages)—
+(a)
+in paragraph (2) for “paragraphs (3) and (4)” substitute “paragraph (3)”; and
+(b)
+omit paragraph (4).
+(10) Omit regulation 18 (amendment of the Non-Domestic Rates (Levying) (Scotland) Regulations 2017).
+(11) In the schedule (specified purposes) omit the entry with the heading “Class 9 Renewable energy generation”.
+(1)
+S.S.I. 2017/85.
+(2)
+S.S.I. 2018/75.DEREK MACKAY
+A member of the Scottish Government
+St Andrew’s House,
+Edinburgh
+23rd February 2018EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2017 (“the principal Regulations”).
+In regulation 2, paragraph (2) makes changes to some of the defined terms in the principal Regulations. Paragraph (3) disapplies Part 2 of the principal Regulations from lands and heritages shown in a split or reorganised entry. Paragraphs (4) and (6) amend the poundage figure and paragraph (5) amends the transitional limit formula. Paragraph (8) omits regulation 13 of the principal Regulations in relation to former full relief properties and paragraphs (7) and (9) make provision consequential to that omission. Paragraph (10) removes the amendment to regulations which have been revoked and paragraph (11) removes renewable energy generation from the specified purposes set out in the schedule of the principal Regulations.

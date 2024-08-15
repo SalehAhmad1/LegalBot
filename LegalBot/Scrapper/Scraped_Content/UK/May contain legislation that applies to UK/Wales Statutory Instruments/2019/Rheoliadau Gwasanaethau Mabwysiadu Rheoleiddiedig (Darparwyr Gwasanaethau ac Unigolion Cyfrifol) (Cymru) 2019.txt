@@ -1,0 +1,1427 @@
+Rhagolygol
+OFFERYNNAU STATUDOL CYMRU
+2019 Rhif 762 (Cy. 145)
+GOFAL CYMDEITHASOL, CYMRU
+Rheoliadau Gwasanaethau Mabwysiadu Rheoleiddiedig (Darparwyr Gwasanaethau ac Unigolion Cyfrifol) (Cymru) 2019
+Gwnaed
+29 March 2019
+Yn dod i rym
+29 Ebrill 2019
+Mae Gweinidogion Cymru yn gwneud y Rheoliadau a ganlyn drwy arfer y pwerau a roddir gan adrannau 2(3), 21(5), 27, 28, 30, 31, 45, 46 a 187(1) o Ddeddf Rheoleiddio ac Arolygu Gofal Cymdeithasol (Cymru) 2016(1) (“y Ddeddf”).
+Mae Gweinidogion Cymru wedi ymgynghori â’r personau hynny y maent yn meddwl eu bod yn briodol, fel sy’n ofynnol gan adrannau 27(4)(a) ac 28(4) o’r Ddeddf, ac wedi cyhoeddi datganiad ynghylch yr ymgynghoriad fel sy’n ofynnol gan adran 27(4)(b) o’r Ddeddf honno. Mae Gweinidogion Cymru wedi gosod y datganiad gerbron Cynulliad Cenedlaethol Cymru fel sy’n ofynnol gan adran 27(5) o’r Ddeddf honno.
+Gosodwyd drafft o’r Rheoliadau hyn gerbron Cynulliad Cenedlaethol Cymru o dan adran 187(2)(b), (f), (g), (j) a (k) o’r Ddeddf ac fe’i cymeradwywyd ganddo drwy benderfyniad.
+(1)
+2016 dccc 2 ; gweler adran 189 am y diffiniad o “a ragnodir” a “rhagnodedig”.Rhagolygol
+Enwi a chychwyn
+1.—(1) Enw’r Rheoliadau hyn yw Rheoliadau Gwasanaethau Mabwysiadu Rheoleiddiedig (Darparwyr Gwasanaethau ac Unigolion Cyfrifol) (Cymru) 2019.
+(2) Daw’r Rheoliadau hyn i rym ar 29 Ebrill 2019.
+Gwybodaeth Cychwyn
+I1
+Rhl. 1 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Dehongli
+2.—(1) Yn y Rheoliadau hyn—
+ystyr “addasiadau rhesymol” (“reasonable adjustments”) yw unrhyw addasiadau rhesymol a fyddai’n ofynnol o dan Ddeddf Cydraddoldeb 2010(1);
+ystyr “ardal benodedig” (“specified area”) yw ardal a bennir mewn amod i gofrestriad y darparwr gwasanaeth fel man y mae’r gwasanaeth i’w ddarparu mewn perthynas ag ef;
+mae i “asiantaeth cymorth mabwysiadu” yr ystyr a roddir i “adoption support agency” yn adran 8 o Ddeddf 2002;
+ystyr “asiantaeth fabwysiadu” (“adoption agency”) yw cymdeithas fabwysiadu neu wasanaeth mabwysiadu awdurdod lleol;
+ystyr “awdurdod lleol yn Lloegr” (“local authority in England”) yw—
+(a)
+cyngor sir yn Lloegr,
+(b)
+cyngor dosbarth ar gyfer ardal yn Lloegr nad oes cyngor sir ar ei chyfer,
+(c)
+cyngor bwrdeistref yn Llundain, neu
+(d)
+Cyngor Cyffredin Dinas Llundain;
+ystyr “Bwrdd Comisiynu’r Gwasanaeth Iechyd Gwladol” (“the National Health Service Commissioning Board”) yw’r corff a sefydlwyd o dan adran 1H o Ddeddf y Gwasanaeth Iechyd Gwladol 2006;
+mae i “cyflogai” yr un ystyr ag “employee” yn adran 230(1) o Ddeddf Hawliau Cyflogaeth 1996(2);
+mae i “cymdeithas fabwysiadu” yr ystyr a roddir i “adoption society” yn adran 2(5) o Ddeddf 2002, sef sefydliad gwirfoddol o fewn ystyr “voluntary organisation” yn y Ddeddf honno;
+ystyr “cynllun cymorth mabwysiadu” (“adoption support plan”) yw’r cynllun sy’n nodi’r gwasanaethau cymorth mabwysiadu y mae’r awdurdod lleol wedi penderfynu eu darparu ar gyfer y plentyn a’r teulu mabwysiadol, sut y darperir hwy a chan bwy (os yw’n gymwys);
+ystyr “cynllun gofal a chymorth” (“care and support plan”) yw cynllun ar gyfer y plentyn a wneir o dan adran 54 neu adran 83 o Ddeddf 2014(3);
+mae i “cynllun lleoliad” (“placement plan”) yr ystyr a roddir yn rheoliad 36(2) o Reoliadau Asiantaethau Mabwysiadu (Cymru) 2005(4);
+ystyr “cynrychiolydd” (“representative”) yw unrhyw berson a chanddo awdurdod cyfreithiol, neu sydd wedi cael cydsyniad yr unigolyn, i weithredu ar ran yr unigolyn;
+ystyr “darparwr gwasanaeth” (“service provider”) yw darparwr gwasanaeth mabwysiadu sydd wedi ei gofrestru o dan adran 7 o’r Ddeddf;
+ystyr “y datganiad o ddiben” (“the statement of purpose”) yw’r ddogfen sy’n cynnwys yr wybodaeth y mae rhaid ei darparu yn unol â rheoliad 3(c) o Reoliadau Gwasanaethau Rheoleiddiedig (Cofrestru) (Cymru) 2017(5) ac Atodlen 2 iddynt ar gyfer y man y mae’r gwasanaeth i’w ddarparu mewn perthynas ag ef(6);
+ystyr “Deddf 2002” (“the 2002 Act”) yw Deddf Mabwysiadu a Phlant 2002(7);
+ystyr “y Ddeddf” (“the Act”) yw Deddf Rheoleiddio ac Arolygu Gofal Cymdeithasol (Cymru) 2016;
+ystyr “grŵp comisiynu clinigol” (“clinical commissioning group”) yw corff a sefydlwyd o dan adran 14D o Ddeddf y Gwasanaeth Iechyd Gwladol 2006(8);
+mae i “gwarcheidwad” yr ystyr a roddir i “guardian” yn adran 5 o Ddeddf Plant 1989(9);
+ystyr “y gwasanaeth” (“the service”), oni nodir fel arall, yw gwasanaeth mabwysiadu(10) a ddarperir mewn perthynas ag ardal benodedig;
+ystyr “y Gwasanaeth Datgelu a Gwahardd” (“the Disclosure and Barring Service”) a’r “GDG” (“DBS”) yw’r corff a sefydlir gan adran 87(1) o Ddeddf Diogelu Rhyddidau 2012(11);
+mae i “gwasanaeth mabwysiadu awdurdod lleol” (“local authority adoption service”) yr ystyr a roddir yn rheoliad 2(1) o Reoliadau Gwasanaethau Mabwysiadu Awdurdodau Lleol (Cymru) 2019(12);
+ystyr “gwasanaeth mabwysiadu rheoleiddiedig” (“regulated adoption service”) yw gwasanaeth mabwysiadu sydd wedi ei reoleiddio o dan y Ddeddf;
+mae i “gwasanaethau cymorth mabwysiadu” yr ystyr a roddir i “adoption support services” yn adran 2(6) o Ddeddf 2002 a’r ystyr a roddir yn rheoliad 3 o Reoliadau Gwasanaethau Cymorth Mabwysiadu (Cymru) 2019(13);
+mae i “gweithiwr” yr un ystyr â “worker” yn adran 230(3) o Ddeddf Hawliau Cyflogaeth 1996;
+ystyr “a gymeradwywyd gan y gwasanaeth” (“approved by the service”) yw wedi ei gymeradwyo gan y gwasanaeth yn addas i fod yn rhiant mabwysiadol yn unol â Rheoliadau Asiantaethau Mabwysiadu (Cymru) 2005;
+mae i “person perthynol” (“related person”) yr ystyr a roddir yn rheoliad 2 o Reoliadau Gwasanaethau Cymorth Mabwysiadu (Cymru) 2019;
+ystyr “plentyn” (“child”) yw person sydd o dan 18 oed;
+mae i “plentyn mabwysiadol” (“adoptive child”) yr ystyr a roddir yn rheoliad 2 o Reoliadau Gwasanaethau Cymorth Mabwysiadu (Cymru) 2019;
+ystyr “y rheoleiddiwr gwasanaethau” (“the service regulator”) yw Gweinidogion Cymru wrth arfer eu swyddogaethau rheoleiddiol(14);
+mae i “rhiant mabwysiadol” (“adoptive parent”) yr ystyr a roddir yn rheoliad 2 o Reoliadau Gwasanaethau Cymorth Mabwysiadu (Cymru) 2019;
+mae “staff” (“staff”) yn cynnwys—
+(a)
+personau a gyflogir gan y darparwr gwasanaeth i weithio yn y gwasanaeth fel cyflogai neu weithiwr, a
+(b)
+personau sydd wedi eu cymryd ymlaen gan y darparwr gwasanaeth o dan gontract ar gyfer gwasanaethau,
+ond nid yw’n cynnwys personau y caniateir iddynt weithio fel gwirfoddolwyr;
+ystyr “tystysgrif GDG” (“DBS certificate”) yw tystysgrif o fath y cyfeirir ato ym mharagraff 2 neu 3 o Atodlen 1;
+ystyr “unigolyn” (“individual”), oni bai bod y cyd-destun yn nodi fel arall, yw—
+(a)
+yn achos cymdeithas fabwysiadu yng nghwrs trefnu mabwysiad neu ar ôl i fabwysiad gael ei drefnu—
+(i)
+plentyn a all gael ei fabwysiadu, ei riant neu ei warcheidwad,
+(ii)
+person sy’n dymuno mabwysiadu plentyn, neu
+(iii)
+person mabwysiedig, ei riant, ei riant geni neu ei gyn-warcheidwad,
+sy’n cael cymorth o’r math y mae’n ofynnol i gymdeithas fabwysiadu ei ddarparu yn unol â Rheoliadau Asiantaethau Mabwysiadu (Cymru) 2005 neu Reoliadau Mynediad i Wybodaeth (Mabwysiadu Ôl-gychwyn) (Cymru) 2005(15);
+(b)
+yn achos asiantaeth cymorth mabwysiadu, neu gymdeithas fabwysiadu yng nghwrs darparu gwasanaethau cymorth mabwysiadu, unrhyw berson sy’n cael gwasanaethau cymorth mabwysiadu.
+(2) Yn y Rheoliadau hyn, pan fo’n cael ei ddefnyddio mewn perthynas â’r cymorth a ddarperir i “unigolyn” fel y’i diffinnir yn y rheoliad hwn, mae “cymorth” yn cynnwys—
+(a)
+y cymorth y mae’n ofynnol i gymdeithas fabwysiadu ei ddarparu i unigolion yng nghwrs trefnu mabwysiad, neu ar ôl i fabwysiad gael ei drefnu, yn unol â Rheoliadau Asiantaethau Mabwysiadu (Cymru) 2005 neu Reoliadau Mynediad i Wybodaeth (Mabwysiadu Ôl-gychwyn) (Cymru) 2005, neu
+(b)
+y gwasanaethau cymorth mabwysiadu a all gael eu darparu gan gymdeithas fabwysiadu neu asiantaeth cymorth mabwysiadu.
+Gwybodaeth Cychwyn
+I1
+Rhl. 2 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+(1)
+2010 p. 15, adran 20.
+(2)
+1996 p. 18.
+(3)
+Diffinnir “Deddf 2014” yn adran 189 o’r Ddeddf fel Deddf Gwasanaethau Cymdeithasol a Llesiant (Cymru) 2014 (dccc 4).
+(4)
+O.S. 2005/1313 (Cy. 95).
+(5)
+O.S. 2017/1098 (Cy. 278).
+(6)
+Mae rheoliad 3(c) o Reoliadau Gwasanaethau Rheoleiddiedig (Cofrestru) (Cymru) 2017 yn ei gwneud yn ofynnol i berson sy’n dymuno darparu gwasanaeth mabwysiadu ddarparu datganiad o ddiben ar gyfer pob man y mae’r gwasanaeth i’w ddarparu ohono.
+(7)
+2002 p. 38.
+(8)
+2006 p. 41.
+(9)
+1989 p. 41.
+(10)
+Mae i “gwasanaeth mabwysiadu” yr ystyr a roddir ym mharagraff 4 o Atodlen 1 i’r Ddeddf.
+(11)
+2012 p. 9 .
+(12)
+O.S. 2019/291 (W.69).
+(13)
+O.S. 2019/286 (W.66).
+(14)
+Diffinnir “swyddogaethau rheoleiddiol” yn adran 3(1)(b) o’r Ddeddf.
+(15)
+O.S. 2005/2689 (Cy. 189).Rhagolygol
+Eithriadau
+3.—(1) Nid yw’r gwasanaethau a ganlyn i’w trin fel gwasanaeth mabwysiadu, er gwaethaf paragraff 4 o Atodlen 1 i’r Ddeddf (gwasanaethau rheoleiddiedig: diffiniadau, gwasanaeth mabwysiadu)—
+(a)
+darparu gwasanaeth mewn perthynas â mabwysiadu gan berson, yng nghwrs gweithgaredd cyfreithiol (o fewn yr ystyr a roddir i “legal activity” yn Neddf Gwasanaethau Cyfreithiol 2007(1)), sy’n—
+(i)
+person awdurdodedig at ddibenion y Ddeddf honno, neu
+(ii)
+cyfreithiwr Ewropeaidd (o fewn yr ystyr a roddir i “European lawyer” yng Ngorchymyn y Cymunedau Ewropeaidd (Gwasanaethau Cyfreithwyr) 1978(2);
+(b)
+darparu gwasanaethau i alluogi grwpiau o blant mabwysiadol, rhieni mabwysiadol a rhieni geni neu gyn-warcheidwaid plentyn mabwysiadol i drafod materion sy’n ymwneud â mabwysiadu;
+(c)
+darparu gofal seibiant i blentyn mabwysiadol neu riant mabwysiadol gan wasanaeth cartref gofal neu wasanaeth cymorth cartref y mae person wedi ei gofrestru mewn cysylltiad ag ef o dan bennod 2 o Ran 1 o’r Ddeddf;
+(d)
+darparu gofal seibiant mewn perthynas â phlentyn mabwysiadol sy’n cynnwys gwarchod plant neu ofal dydd o fewn yr ystyr yn Rhan 2 o Fesur Plant a Theuluoedd (Cymru) 2010(3) ac y mae person wedi ei gofrestru mewn cysylltiad ag ef ar gyfer gwarchod plant neu ofal dydd o dan y Rhan honno o’r Mesur hwnnw;
+(e)
+darparu gwasanaethau cymorth mabwysiadu gan berson sy’n darparu’r gwasanaethau hynny—
+(i)
+ac eithrio mewn partneriaeth ag eraill, a
+(ii)
+o dan gontract ar gyfer gwasanaethau gyda—
+(aa)
+gwasanaeth mabwysiadu rheoleiddiedig, neu
+(bb)
+gwasanaeth mabwysiadu awdurdod lleol.
+(2) Ym mharagraff (1)(e), nid yw person yn cynnwys y lluosog ac nid yw’n gorff corfforaethol.
+Gwybodaeth Cychwyn
+I1
+Rhl. 3 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+(1)
+2007 p. 29 .
+(2)
+O.S. 1978/1910.
+(3)
+2010 mccc 1 .Rhagolygol
+Gofynion mewn perthynas â darparu’r gwasanaeth
+4.  Rhaid i’r darparwr gwasanaeth sicrhau bod y gwasanaeth wedi ei ddarparu â gofal, cymhwysedd a sgìl digonol, gan roi sylw i’r datganiad o ddiben.
+Gwybodaeth Cychwyn
+I1
+Rhl. 4 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Gofynion mewn perthynas â’r datganiad o ddiben
+5.—(1) Rhaid i’r darparwr gwasanaeth ddarparu’r gwasanaeth yn unol â’r datganiad o ddiben.
+(2) Rhaid i’r darparwr gwasanaeth—
+(a)
+cadw’r datganiad o ddiben o dan adolygiad, a
+(b)
+pan fo’n briodol, ddiwygio’r datganiad o ddiben.
+(3) Oni bai bod paragraff (4) yn gymwys, rhaid i’r darparwr gwasanaeth hysbysu’r personau a restrir ym mharagraff (6) am unrhyw ddiwygiad sydd i’w wneud i’r datganiad o ddiben o leiaf 28 o ddiwrnodau cyn y mae i gymryd effaith.
+(4) Mae’r paragraff hwn yn gymwys mewn achosion pan fo’n angenrheidiol diwygio’r datganiad o ddiben gydag effaith ar unwaith.
+(5) Os yw paragraff (4) yn gymwys, rhaid i’r darparwr gwasanaeth, yn ddi-oed, hysbysu’r personau a restrir ym mharagraff (6) am unrhyw ddiwygiad a wneir i’r datganiad o ddiben.
+(6) Y personau y mae rhaid iddynt gael eu hysbysu am unrhyw ddiwygiad i’r datganiad o ddiben yn unol â pharagraff (3) neu (5) yw—
+(a)
+y rheoleiddiwr gwasanaethau,
+(b)
+yr unigolion, ac
+(c)
+unrhyw gynrychiolwyr, oni bai nad yw’n briodol gwneud hynny neu y byddai gwneud hynny yn anghyson â llesiant unigolyn.
+(7) Rhaid i’r darparwr gwasanaeth ddarparu’r datganiad o ddiben cyfredol i unrhyw berson ar gais, oni bai nad yw’n briodol gwneud hynny neu y byddai gwneud hynny yn anghyson â llesiant unigolyn.
+Gwybodaeth Cychwyn
+I1
+Rhl. 5 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Gofynion mewn perthynas â monitro a gwella
+6.—(1) Rhaid i’r darparwr gwasanaeth sicrhau bod trefniadau effeithiol yn eu lle ar gyfer monitro, adolygu a gwella ansawdd y gwasanaeth a ddarperir.
+(2) Rhaid i’r trefniadau hynny gynnwys trefniadau ar gyfer ceisio safbwyntiau—
+(a)
+unigolion;
+(b)
+unrhyw gynrychiolwyr, oni bai nad yw hyn yn briodol neu y byddai’n anghyson â llesiant yr unigolyn;
+(c)
+unrhyw awdurdod lleol neu awdurdod lleol yn Lloegr sydd wedi trefnu bod gwasanaethau cymorth mabwysiadu yn cael eu darparu gan y gwasanaeth;
+(d)
+staff,
+ar ansawdd y gwasanaeth a ddarperir a sut y gellir gwella hyn.
+(3) Wrth wneud unrhyw benderfyniadau ar gynlluniau ar gyfer gwella ansawdd y gwasanaeth, rhaid i’r darparwr gwasanaeth—
+(a)
+ystyried safbwyntiau’r personau hynny yr ymgynghorir â hwy yn unol â pharagraff (2), a
+(b)
+rhoi sylw i’r adroddiad ar ansawdd y gwasanaeth a lunnir gan yr unigolyn cyfrifol yn unol â rheoliad 49(4).
+Gwybodaeth Cychwyn
+I1
+Rhl. 6 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Gofynion mewn perthynas â’r unigolyn cyfrifol
+7.—(1) Nid yw’r rheoliad hwn yn gymwys i ddarparwr gwasanaeth sy’n unigolyn.
+(2) Rhaid i ddarparwr gwasanaeth y mae’r rheoliad hwn yn gymwys iddo sicrhau bod y person sydd wedi ei ddynodi fel yr unigolyn cyfrifol—
+(a)
+yn cael ei gefnogi i gyflawni ei ddyletswyddau’n effeithiol, a
+(b)
+yn ymgymryd â hyfforddiant priodol.
+(3) Os bydd gan y darparwr gwasanaeth reswm dros gredu nad yw’r unigolyn cyfrifol wedi cydymffurfio â gofyniad a osodir gan y rheoliadau yn Rhannau 11 i 15, rhaid i’r darparwr—
+(a)
+cymryd unrhyw gamau gweithredu sy’n angenrheidiol i sicrhau y cydymffurfir â’r gofyniad, a
+(b)
+hysbysu’r rheoleiddiwr gwasanaethau.
+(4) Yn ystod unrhyw adeg pan nad yw’r unigolyn cyfrifol yn gallu cyflawni ei ddyletswyddau, rhaid i’r darparwr gwasanaeth sicrhau bod trefniadau yn eu lle ar gyfer—
+(a)
+rheoli’r gwasanaeth yn effeithiol,
+(b)
+goruchwylio’r gwasanaeth yn effeithiol,
+(c)
+cydymffurfedd y gwasanaeth â’r gofynion a osodir gan y rheoliadau yn Rhannau 3 i 10, a
+(d)
+monitro, adolygu a gwella ansawdd y cymorth a ddarperir.
+(5) Os nad yw’r unigolyn cyfrifol yn gallu cyflawni ei ddyletswyddau am gyfnod o fwy nag 28 o ddiwrnodau, rhaid i’r darparwr gwasanaeth—
+(a)
+hysbysu’r rheoleiddiwr gwasanaethau, a
+(b)
+rhoi gwybod i’r rheoleiddiwr gwasanaethau am y trefniadau interim.
+Gwybodaeth Cychwyn
+I1
+Rhl. 7 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Gofynion mewn perthynas â’r unigolyn cyfrifol pan fo’r darparwr gwasanaeth yn unigolyn
+8.—(1) Mae’r rheoliad hwn yn gymwys pan fo’r darparwr gwasanaeth yn unigolyn.
+(2) Os yw’r rheoliad hwn yn gymwys, rhaid i’r unigolyn ymgymryd â hyfforddiant priodol er mwyn cyflawni ei ddyletswyddau’n briodol fel yr unigolyn cyfrifol.
+(3) Yn ystod unrhyw adeg pan yw’r unigolyn yn absennol, rhaid iddo sicrhau bod trefniadau yn eu lle ar gyfer—
+(a)
+rheoli’r gwasanaeth yn effeithiol,
+(b)
+goruchwylio’r gwasanaeth yn effeithiol,
+(c)
+cydymffurfedd y gwasanaeth â gofynion y rheoliadau yn Rhannau 3 i 10, a
+(d)
+monitro, adolygu a gwella ansawdd y cymorth a ddarperir.
+(4) Os nad yw’r unigolyn yn gallu cyflawni ei ddyletswyddau fel unigolyn cyfrifol am gyfnod o fwy nag 28 o ddiwrnodau, rhaid iddo—
+(a)
+hysbysu’r rheoleiddiwr gwasanaethau, a
+(b)
+rhoi gwybod i’r rheoleiddiwr gwasanaethau am y trefniadau interim.
+Gwybodaeth Cychwyn
+I1
+Rhl. 8 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Gofynion mewn perthynas â chynaliadwyedd ariannol y gwasanaeth
+9.—(1) Rhaid i’r darparwr gwasanaeth gymryd camau rhesymol i sicrhau bod y gwasanaeth yn gynaliadwy yn ariannol at ddiben cyflawni’r nodau a’r amcanion a nodir yn y datganiad o ddiben.
+(2) Rhaid i’r darparwr gwasanaeth gynnal cyfrifon priodol a chyfredol ar gyfer y gwasanaeth.
+(3) Rhaid i’r darparwr gwasanaeth ddarparu copïau o’r cyfrifon i Weinidogion Cymru o fewn 28 o ddiwrnodau i gael cais i wneud hynny.
+(4) Caiff Gweinidogion Cymru ei gwneud yn ofynnol i gyfrifon gael eu hardystio gan gyfrifydd.
+Gwybodaeth Cychwyn
+I1
+Rhl. 9 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Gofynion i ddarparu’r gwasanaeth yn unol â pholisïau a gweithdrefnau
+10.—(1) Rhaid i’r darparwr gwasanaeth sicrhau bod y polisïau a’r gweithdrefnau a ganlyn yn eu lle ar gyfer y gwasanaeth—
+(a)
+cychwyn y gwasanaeth (gweler rheoliad 12);
+(b)
+diogelu (gweler rheoliad 20);
+(c)
+cefnogi a datblygu staff (gweler rheoliad 24);
+(d)
+disgyblu staff (gweler rheoliad 27);
+(e)
+cwynion (gweler rheoliad 33);
+(f)
+chwythu’r chwiban (gweler rheoliad 34).
+(2) Rhaid i’r darparwr gwasanaeth hefyd gael unrhyw bolisïau a gweithdrefnau eraill yn eu lle sy’n rhesymol angenrheidiol i gefnogi nodau ac amcanion y gwasanaeth a nodir yn y datganiad o ddiben.
+(3) Rhaid i’r darparwr gwasanaeth sicrhau bod cynnwys y polisïau a’r gweithdrefnau y mae’n ofynnol iddynt fod yn eu lle yn rhinwedd paragraffau (1) a (2)—
+(a)
+yn briodol i anghenion unigolion y darperir cymorth ar eu cyfer,
+(b)
+yn gyson â’r datganiad o ddiben, ac
+(c)
+yn cael ei gadw’n gyfredol.
+(4) Rhaid i’r darparwr gwasanaeth sicrhau bod y gwasanaeth yn cael ei ddarparu yn unol â’r polisïau a’r gweithdrefnau hynny.
+Gwybodaeth Cychwyn
+I1
+Rhl. 10 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Dyletswydd gonestrwydd
+11.  Rhaid i’r darparwr gwasanaeth weithredu mewn ffordd agored a thryloyw gydag—
+(a)
+unigolion;
+(b)
+unrhyw gynrychiolwyr yr unigolion hynny.
+Gwybodaeth Cychwyn
+I1
+Rhl. 11 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Addasrwydd y gwasanaeth
+12.—(1) Ni chaiff y darparwr gwasanaeth ddarparu cymorth ar gyfer unigolyn oni bai bod y darparwr wedi penderfynu bod y gwasanaeth yn addas i ddiwallu angen yr unigolyn am gymorth.
+(2) Rhaid i’r darparwr gwasanaeth gael polisi a gweithdrefnau yn eu lle wrth gychwyn y gwasanaeth.
+(3) Rhaid i’r penderfyniad o dan baragraff (1) ystyried—
+(a)
+unrhyw gynllun cyfredol;
+(b)
+unrhyw asesiadau iechyd neu unrhyw asesiadau perthnasol eraill;
+(c)
+safbwyntiau, dymuniadau a theimladau’r unigolyn;
+(d)
+unrhyw risgiau i lesiant yr unigolyn;
+(e)
+unrhyw risgiau i lesiant unigolion eraill y darperir cymorth iddynt;
+(f)
+argyhoeddiad crefyddol, tarddiad hiliol, cefndir diwylliannol ac ieithyddol yr unigolyn, ynghyd â’i gyfeiriadedd rhywiol a’i hunaniaeth o ran rhywedd;
+(g)
+unrhyw addasiadau rhesymol y gallai’r darparwr gwasanaeth eu gwneud i alluogi i angen yr unigolyn am gymorth gael ei ddiwallu;
+(h)
+polisi a gweithdrefnau’r darparwr gwasanaeth ar gychwyn y gwasanaeth.
+(4) Mewn achos pan na fo gan yr unigolyn gynllun, rhaid i’r darparwr gwasanaeth asesu angen yr unigolyn am gymorth.
+(5) Rhaid i’r asesiad sy’n ofynnol gan baragraff (4) gael ei gynnal gan berson sydd—
+(a)
+â’r sgiliau, yr wybodaeth a’r cymhwysedd i gynnal yr asesiad, a
+(b)
+wedi cael hyfforddiant i gynnal asesiadau.
+(6) Wrth wneud y penderfyniad ym mharagraff (1), rhaid i’r darparwr gwasanaeth gynnwys yr unigolyn ac unrhyw gynrychiolydd. Ond nid yw’n ofynnol i’r darparwr gwasanaeth gynnwys cynrychiolydd—
+(a)
+os yw’r unigolyn yn oedolyn neu’n blentyn 16 oed neu drosodd ac nad yw’r unigolyn yn dymuno i’r cynrychiolydd gael ei gynnwys, neu
+(b)
+pe byddai cynnwys y cynrychiolydd yn anghyson â llesiant yr unigolyn.
+(7) Yn y rheoliad hwn, caiff “cynllun” gynnwys—
+(a)
+cynllun cymorth mabwysiadu,
+(b)
+cynllun gofal a chymorth, neu
+(c)
+cynllun lleoliad.
+Gwybodaeth Cychwyn
+I1
+Rhl. 12 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Gwybodaeth am y gwasanaeth
+13.—(1) Rhaid i’r darparwr gwasanaeth lunio canllaw ysgrifenedig ar y gwasanaeth.
+(2) Rhaid iʼr canllaw—
+(a)
+cael ei ddyddio, ei adolygu o leiaf bob blwyddyn a’i ddiweddaru fel y bo angen;
+(b)
+bod mewn iaith, arddull, cyflwyniad a fformat priodol, gan roi sylw i’r datganiad o ddiben ar gyfer y gwasanaeth;
+(c)
+cael ei roi i unrhyw unigolyn sy’n cael cymorth;
+(d)
+cael ei roi ar gael i eraill ar gais, oni bai nad yw hyn yn briodol neu y byddai’n anghyson â llesiant unigolyn.
+(3) Rhaid iʼr canllaw gynnwys gwybodaeth am—
+(a)
+sut i godi pryder neu wneud cwyn;
+(b)
+argaeledd gwasanaethau eirioli;
+(c)
+rôl a manylion cyswllt Comisiynydd Plant Cymru.
+(4) Rhaid i’r darparwr gwasanaeth sicrhau bod unigolyn yn cael unrhyw gynhorthwy sy’n angenrheidiol i’w alluogi i ddeall yr wybodaeth a gynhwysir yn y canllaw.
+Gwybodaeth Cychwyn
+I1
+Rhl. 13 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Cytundeb gwasanaeth
+14.—(1) Rhaid i’r darparwr gwasanaeth sicrhau y rhoddir i bob unigolyn sy’n cael cymorth gopi wedi ei lofnodi o unrhyw gytundeb sy’n ymwneud â—
+(a)
+y cymorth a ddarperir i’r unigolyn;
+(b)
+unrhyw wasanaethau eraill a ddarperir i’r unigolyn.
+(2) Rhaid i’r darparwr gwasanaeth sicrhau bod yr unigolion yn cael unrhyw gynhorthwy sy’n angenrheidiol i’w alluogi i ddeall yr wybodaeth a gynhwysir mewn unrhyw gytundeb o’r fath.
+Gwybodaeth Cychwyn
+I1
+Rhl. 14 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Safonau’r cymorth – gofynion cyffredinol
+15.—(1) Rhaid i’r darparwr gwasanaeth sicrhau y darperir cymorth mewn ffordd sy’n amddiffyn, yn hybu ac yn cynnal diogelwch a llesiant unigolion.
+(2) Rhaid i’r darparwr gwasanaeth sicrhau y darperir cymorth mewn ffordd—
+(a)
+sy’n cynnal perthnasoedd personol a phroffesiynol da ag unigolion a staff, a
+(b)
+sy’n annog ac yn cynorthwyo staff i gynnal perthnasoedd personol a phroffesiynol da ag unigolion.
+Gwybodaeth Cychwyn
+I1
+Rhl. 15 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Gwybodaeth
+16.—(1) Rhaid i’r darparwr gwasanaeth roi trefniadau yn eu lle i sicrhau bod gan unigolyn yr wybodaeth y mae ei hangen arno i wneud neu gymryd rhan mewn asesiadau, cynlluniau a phenderfyniadau o ddydd i ddydd am y ffordd y darperir cymorth iddo.
+(2) Rhaid i’r wybodaeth a ddarperir fod ar gael yn yr iaith, yr arddull, y cyflwyniad a’r fformat priodol, gan roi sylw i—
+(a)
+natur y gwasanaeth fel y’i disgrifir yn y datganiad o ddiben;
+(b)
+lefel dealltwriaeth yr unigolyn a’i allu i gyfathrebu;
+(c)
+yn achos plentyn, oedran y plentyn.
+(3) Rhaid i’r darparwr gwasanaeth sicrhau bod yr unigolyn yn cael unrhyw gynhorthwy sy’n angenrheidiol i’w alluogi i ddeall yr wybodaeth a ddarperir.
+Gwybodaeth Cychwyn
+I1
+Rhl. 16 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Iaith a chyfathrebu
+17.  Rhaid i’r darparwr gwasanaeth gymryd camau rhesymol i ddiwallu anghenion iaith a chyfathrebu unigolyn.
+Gwybodaeth Cychwyn
+I1
+Rhl. 17 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Parch a sensitifrwydd
+18.—(1) Rhaid i’r darparwr gwasanaeth sicrhau bod unigolion yn cael eu trin â pharch a sensitifrwydd.
+(2) Mae hyn yn cynnwys, ond nid ywʼn gyfyngedig i—
+(a)
+parchu preifatrwydd ac urddas yr unigolyn;
+(b)
+parchu hawliau’r unigolyn i gyfrinachedd;
+(c)
+hybu ymreolaeth ac annibyniaeth yr unigolyn;
+(d)
+rhoi sylw i unrhyw nodweddion gwarchodedig perthnasol (fel y’u diffinnir yn adran 4 o Ddeddf Cydraddoldeb 2010) yr unigolyn.
+Gwybodaeth Cychwyn
+I1
+Rhl. 18 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Diogelu – gofyniad cyffredinol
+19.  Rhaid i’r darparwr gwasanaeth ddarparu’r gwasanaeth mewn ffordd sy’n sicrhau bod unigolion yn ddiogel ac wedi eu hamddiffyn rhag camdriniaeth, esgeulustod a thriniaeth amhriodol.
+Gwybodaeth Cychwyn
+I1
+Rhl. 19 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Polisïau a gweithdrefnau diogelu
+20.—(1) Rhaid i’r darparwr gwasanaeth gael polisïau a gweithdrefnau yn eu lle—
+(a)
+ar gyfer atal camdriniaeth, esgeulustod a thriniaeth amhriodol, a
+(b)
+ar gyfer ymateb i unrhyw honiad neu dystiolaeth o gamdriniaeth, esgeulustod neu driniaeth amhriodol.
+(2) Yn y rheoliad hwn, cyfeirir at bolisïau a gweithdrefnau oʼr fath fel polisïau a gweithdrefnau diogelu.
+(3) Rhaid i’r darparwr gwasanaeth sicrhau bod ei bolisïau a’i weithdrefnau diogelu yn cael eu gweithredu’n effeithiol.
+(4) Yn benodol, pan fo honiad neu dystiolaeth o gamdriniaeth, esgeulustod neu driniaeth amhriodol, rhaid i’r darparwr gwasanaeth—
+(a)
+gweithredu yn unol âʼi bolisïau aʼi weithdrefnau diogelu,
+(b)
+cymryd camau gweithredu ar unwaith i sicrhau diogelwch pob unigolyn y darperir cymorth ar ei gyfer,
+(c)
+gwneud atgyfeiriadau priodol i asiantaethau eraill, a
+(d)
+cadw cofnod o unrhyw dystiolaeth neu sylwedd unrhyw honiad, unrhyw gamau gweithredu a gymerir ac unrhyw atgyfeiriadau a wneir.
+Gwybodaeth Cychwyn
+I1
+Rhl. 20 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Dehongli Rhan 7
+21.  Yn y Rhan hon—
+ystyr “camdriniaeth” (“abuse”) yw camdriniaeth gorfforol, rywiol, seicolegol, emosiynol neu ariannol ac, mewn perthynas â phlentyn, unrhyw niwed arall.
+At ddibenion y diffiniad hwn—
+(a)
+mae “camdriniaeth ariannol” (“financial abuse”) yn cynnwys—
+(i)
+bod arian neu eiddo arall person yn cael ei ddwyn;
+(ii)
+bod person yn cael ei dwyllo;
+(iii)
+bod person yn cael ei roi o dan bwysau mewn perthynas ag arian neu eiddo arall;
+(iv)
+bod arian neu eiddo arall person yn cael ei gamddefnyddio;
+(b)
+mae i “niwed” (“harm”) yr un ystyr ag yn adran 197(1) o Ddeddf 2014;
+mae i “esgeulustod” (“neglect”) yr un ystyr ag yn adran 197(1) o Ddeddf 2014;
+mae “triniaeth amhriodol” (“improper treatment”) yn cynnwys gwahaniaethu neu atal anghyfreithlon, gan gynnwys amddifadu amhriodol o ryddid o dan delerau Deddf Galluedd Meddyliol 2005(1).
+Gwybodaeth Cychwyn
+I1
+Rhl. 21 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+(1)
+2005 p. 9.Rhagolygol
+Staffio - gofynion cyffredinol
+22.—(1) Rhaid i’r darparwr gwasanaeth sicrhau ar bob adeg fod nifer digonol o staff sydd â’r cymwysterau, yr hyfforddiant, y sgiliau, y cymhwysedd a’r profiad addas yn cael eu defnyddio i weithio yn y gwasanaeth, gan roi sylw—
+(a)
+i’r datganiad o ddiben ar gyfer y gwasanaeth,
+(b)
+i angen unigolion am gymorth,
+(c)
+i gynorthwyo unigolion i ddiwallu eu hangen am gymorth,
+(d)
+iʼr angen i ddiogelu a hybu iechyd a lles plant, ac
+(e)
+i ofynion y Rheoliadau hyn.
+(2) Rhaid i’r darparwr gwasanaeth sicrhau bod trefniadau addas yn cael eu gwneud ar gyfer cefnogi a datblygu staff.
+Gwybodaeth Cychwyn
+I1
+Rhl. 22 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Addasrwydd staff
+23.—(1) Ni chaiff y darparwr gwasanaeth—
+(a)
+cyflogi person o dan gontract cyflogaeth i weithio yn y gwasanaeth oni bai bod y person hwnnw yn addas i wneud hynny;
+(b)
+caniatáu i wirfoddolwr weithio yn y gwasanaeth oni bai bod y person hwnnw yn addas i wneud hynny;
+(c)
+caniatáu i unrhyw berson arall weithio yn y gwasanaeth mewn swydd y gall, yng nghwrs dyletswyddau, gael cysylltiad rheolaidd ynddi ag unigolion sy’n cael cymorth neu â phersonau hyglwyf eraill oni bai bod y person hwnnw yn addas i wneud hynny.
+(2) At ddibenion paragraff (1), nid yw person yn addas i weithio yn y gwasanaeth oni bai—
+(a)
+bod y person yn addas o ran ei uniondeb ac o gymeriad da;
+(b)
+bod gan y person y cymwysterau, y sgiliau, y cymhwysedd a’r profiad sy’n angenrheidiol ar gyfer y gwaith y mae i’w wneud;
+(c)
+bod y person oherwydd ei iechyd, ar ôl i addasiadau rhesymol gael eu gwneud, yn gallu cyflawni’n briodol y tasgau sy’n rhan annatod o’r gwaith y mae wedi ei gyflogi neu ei gymryd ymlaen ar ei gyfer;
+(d)
+bod y person wedi darparu gwybodaeth neu ddogfennaeth lawn a boddhaol, yn ôl y digwydd, mewn cysylltiad â phob un o’r materion a bennir yn Rhan 1 o Atodlen 1 a bod yr wybodaeth hon neu’r ddogfennaeth hon ar gael yn y gwasanaeth i’r rheoleiddiwr gwasanaethau edrych arni;
+(e)
+pan fo’r person wedi ei gyflogi gan y darparwr gwasanaeth i reoli’r gwasanaeth, o 1 Ebrill 2022, fod y person wedi ei gofrestru fel rheolwr gofal cymdeithasol(1) â GCC(2).
+(3) Rhaid i gais gael ei wneud am dystysgrif GDG briodol gan neu ar ran y darparwr gwasanaeth, at ddiben asesu addasrwydd person ar gyfer y swydd y cyfeirir ati ym mharagraff (1). Ond nid ywʼr gofyniad hwn yn gymwys os ywʼr person syʼn gweithio yn y gwasanaeth wedi ei gofrestru â gwasanaeth diweddaruʼr Gwasanaeth Datgelu a Gwahardd (y cyfeirir ato yn y rheoliad hwn fel “gwasanaeth diweddaruʼr GDG”).
+(4) Pan fo person sy’n cael ei ystyried ar gyfer swydd y cyfeirir ati ym mharagraff (1) wedi ei gofrestru â gwasanaeth diweddaru’r GDG, rhaid i’r darparwr gwasanaeth wirio statws tystysgrif GDG y person at ddiben asesu addasrwydd y person hwnnw ar gyfer y swydd honno.
+(5) Pan fo person a benodir i swydd y cyfeirir ati ym mharagraff (1) wedi ei gofrestru â gwasanaeth diweddaru’r GDG, rhaid i’r darparwr gwasanaeth wirio statws tystysgrif GDG y person o leiaf bob blwyddyn.
+(6) Pan na fo person a benodir i swydd y cyfeirir ati ym mharagraff (1) wedi ei gofrestru â gwasanaeth diweddaru’r GDG, rhaid i’r darparwr gwasanaeth wneud cais am dystysgrif GDG newydd mewn cysylltiad â’r person hwnnw o fewn tair blynedd i ddyroddi’r dystysgrif y gwneir cais amdani yn unol â pharagraff (3) ac wedi hynny, rhaid i geisiadau pellach o’r fath gael eu gwneud o leiaf bob tair blynedd.
+(7) Os nad yw person sy’n gweithio yn y gwasanaeth yn addas i weithio yn y gwasanaeth mwyach o ganlyniad i beidio â bodloni un neu ragor o’r gofynion ym mharagraff (2), rhaid i’r darparwr gwasanaeth—
+(a)
+cymryd camau gweithredu angenrheidiol a chymesur i sicrhau y cydymffurfir â’r gofynion perthnasol;
+(b)
+pan fo’n briodol, roi gwybod—
+(i)
+i’r corff rheoleiddiol neu broffesiynol perthnasol;
+(ii)
+i’r Gwasanaeth Datgelu a Gwahardd.
+Gwybodaeth Cychwyn
+I1
+Rhl. 23 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+(1)
+Gweler adran 79(1)(b) o’r Ddeddf am y diffiniad o “rheolwr gofal cymdeithasol”.
+(2)
+Gweler adran 67(3) o’r Ddeddf am y diffiniad o Ofal Cymdeithasol Cymru fel “GCC”.Rhagolygol
+Cefnogi a datblygu staff
+24.—(1) Rhaid i’r darparwr gwasanaeth gael polisi yn ei le ar gyfer cefnogi a datblygu staff.
+(2) Rhaid i’r darparwr gwasanaeth sicrhau bod unrhyw berson sy’n gweithio yn y gwasanaeth (gan gynnwys person y caniateir iddo weithio fel gwirfoddolwr)—
+(a)
+yn cael cyfnod sefydlu sy’n briodol i’w rôl;
+(b)
+yn cael ei wneud yn ymwybodol o’i gyfrifoldebau ei hun a chyfrifoldebau staff eraill;
+(c)
+yn cael ei oruchwylio a’i arfarnu’n briodol;
+(d)
+yn cael hyfforddiant craidd sy’n briodol i’r gwaith sydd i’w wneud ganddo;
+(e)
+yn cael hyfforddiant arbenigol fel y bo’n briodol;
+(f)
+yn cael cymorth a chynhorthwy i gael unrhyw hyfforddiant pellach syʼn briodol iʼr gwaith y maeʼn ei wneud.
+(3) Rhaid iʼr darparwr gwasanaeth sicrhau bod unrhyw berson a gyflogir i weithio yn y gwasanaeth fel rheolwr yn cael ei gefnogi i gynnal ei gofrestriad â GCC.
+Gwybodaeth Cychwyn
+I1
+Rhl. 24 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Cydymffurfio â chod ymarfer
+25.  Rhaid i’r darparwr gwasanaeth lynu wrth y cod ymarfer ar y safonau ymddygiad ac ymarfer a ddisgwylir oddi wrth bersonau sy’n cyflogi neu sy’n ceisio cyflogi gweithwyr gofal cymdeithasol, y mae’n ofynnol i GCC ei gyhoeddi o dan adran 112(1)(b) o’r Ddeddf.
+Gwybodaeth Cychwyn
+I1
+Rhl. 25 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Gwybodaeth ar gyfer staff
+26.—(1) Rhaid i’r darparwr gwasanaeth sicrhau y darperir gwybodaeth i bob person sy’n gweithio yn y gwasanaeth (gan gynnwys unrhyw berson y caniateir iddo weithio fel gwirfoddolwr) am y gwasanaeth a’r ffordd y caiff ei ddarparu.
+(2) Rhaid i’r darparwr gwasanaeth sicrhau bod trefniadau yn eu lle i wneud staff yn ymwybodol o unrhyw godau ymarfer ynghylch y safonau ymddygiad a ddisgwylir oddi wrth weithwyr gofal cymdeithasol, y mae’n ofynnol i GCC eu cyhoeddi o dan adran 112(1)(a) o’r Ddeddf.
+Gwybodaeth Cychwyn
+I1
+Rhl. 26 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Gweithdrefnau disgyblu
+27.—(1) Rhaid i’r darparwr gwasanaeth roi gweithdrefn ddisgyblu yn ei lle a’i gweithredu.
+(2) Rhaid iʼr weithdrefn ddisgyblu gynnwys—
+(a)
+darpariaeth ar gyfer atal dros dro, a chymryd camau gweithredu heb fod mor bell ag atal dros dro, gyflogai er budd diogelwch neu lesiant unigolion;
+(b)
+darpariaeth bod methiant ar ran cyflogai i adrodd am achos o gam-drin, neu am amheuaeth o gam-drin, i berson priodol yn sail dros ganiatáu cychwyn achos disgyblu.
+(3) At ddiben paragraff (2)(b), person priodol yw—
+(a)
+y darparwr gwasanaeth,
+(b)
+yr unigolyn cyfrifol,
+(c)
+swyddog i’r rheoleiddiwr gwasanaethau,
+(d)
+swyddog i’r awdurdod lleol ar gyfer yr ardal lle y darperir y gwasanaeth,
+(e)
+yn achos cam-drin neu amheuaeth o gam-drin plentyn, swyddog i’r Gymdeithas Genedlaethol er Atal Creulondeb i Blant, neu
+(f)
+swyddog heddlu,
+yn ôl y digwydd.
+Gwybodaeth Cychwyn
+I1
+Rhl. 27 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Gofyniad cyffredinol
+28.  Rhaid i’r darparwr gwasanaeth sicrhau bod y mangreoedd yn addas ar gyfer y gwasanaeth, gan roi sylw i’r datganiad o ddiben ar gyfer y gwasanaeth.
+Gwybodaeth Cychwyn
+I1
+Rhl. 28 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Digonolrwydd mangreoedd
+29.  Rhaid i’r darparwr gwasanaeth sicrhau bod gan y mangreoedd a ddefnyddir ar gyfer gweithredu’r gwasanaeth gyfleusterau digonol ar gyfer—
+(a)
+goruchwylio staff;
+(b)
+storio cofnodion yn ddiogel.
+Gwybodaeth Cychwyn
+I1
+Rhl. 29 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Cofnodion
+30.—(1) Rhaid i’r darparwr gwasanaeth gadw a chynnal y cofnodion a bennir yn Atodlen 2.
+(2) Rhaid i’r darparwr gwasanaeth—
+(a)
+sicrhau bod cofnodion a bennir yn Atodlen 2 yn gywir ac yn gyfredol;
+(b)
+cadw’r cofnodion yn ddiogel;
+(c)
+gwneud trefniadau addas er mwyn i’r cofnodion barhau i gael eu cadw’n ddiogel os bydd y gwasanaeth yn cau;
+(d)
+rhoi’r cofnodion ar gael i’r rheoleiddiwr gwasanaethau ar gais;
+(e)
+pan fo gorchymyn mabwysiadu wedi ei wneud mewn perthynas â phlentyn, gadw cofnodion sy’n ymwneud â’r plentyn a mabwysiadydd y plentyn am o leiaf 100 mlynedd o ddyddiad y gorchymyn mabwysiadu;
+(f)
+pan fo gwasanaethau cymorth mabwysiadu yn cael eu darparu i unigolyn, gadw cofnodion sy’n ymwneud â’r unigolyn am o leiaf 100 mlynedd o ddyddiad y cofnod diwethaf;
+(g)
+mewn achos nad yw’n dod o fewn is-baragraff (e) neu (f), gadw—
+(i)
+cofnodion sy’n ymwneud ag oedolion am 3 blynedd o ddyddiad y cofnod diwethaf;
+(ii)
+cofnodion sy’n ymwneud â phlant am 15 mlynedd o ddyddiad y cofnod diwethaf;
+(h)
+sicrhau bod unigolion sy’n defnyddio’r gwasanaeth—
+(i)
+yn gallu cael mynediad i’w cofnodion, a
+(ii)
+yn cael eu gwneud yn ymwybodol eu bod yn gallu cael mynediad i’w cofnodion.
+Gwybodaeth Cychwyn
+I1
+Rhl. 30 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Hysbysiadau
+31.—(1) Rhaid i’r darparwr gwasanaeth hysbysu’r rheoleiddiwr gwasanaethau am y digwyddiadau a bennir yn Rhan 1 o Atodlen 3.
+(2) Yn achos gwasanaeth a ddarperir gan gymdeithas fabwysiadu, rhaid i’r darparwr gwasanaeth hysbysu—
+(a)
+y Bwrdd Iechyd Lleol, neu’r grŵp comisiynu clinigol a Bwrdd Comisiynu’r Gwasanaeth Iechyd Gwladol, am y digwyddiadau a bennir yn Rhan 2 o Atodlen 3;
+(b)
+yr asiantaeth leoli am y digwyddiad a bennir yn Rhan 4 o Atodlen 3;
+(c)
+yr awdurdod ardal am y digwyddiadau a bennir yn Rhan 5 o Atodlen 3;
+(d)
+yr awdurdod lleoli am y digwyddiadau a bennir yn Rhan 6 o Atodlen 3;
+(e)
+yr heddlu am y digwyddiad a bennir yn Rhan 9 o Atodlen 3.
+(3) Yn achos gwasanaeth a ddarperir gan asiantaeth cymorth mabwysiadu neu asiantaeth fabwysiadu sy’n darparu gwasanaethau cymorth mabwysiadu, rhaid i’r darparwr gwasanaeth hysbysu—
+(a)
+y Bwrdd Iechyd Lleol, neu’r grŵp comisiynu clinigol a Bwrdd Comisiynu’r Gwasanaeth Iechyd Gwladol, am y digwyddiad a bennir yn Rhan 3 o Atodlen 3;
+(b)
+yr awdurdod lleoli am y digwyddiadau a bennir yn Rhan 7 o Atodlen 3;
+(c)
+yr awdurdod perthnasol am y digwyddiad a bennir yn Rhan 8 o Atodlen 3;
+(d)
+yr heddlu am y digwyddiad a bennir yn Rhan 9 o Atodlen 3.
+(4) Rhaid i’r hysbysiadau sy’n ofynnol gan y rheoliad hwn gynnwys manylion y digwyddiad.
+(5) Oni nodir fel arall, rhaid i hysbysiadau gael eu gwneud yn ddi-oed ac yn ysgrifenedig.
+(6) Rhaid i hysbysiadau gael eu gwneud yn y modd a’r ffurf sy’n ofynnol gan y rheoleiddiwr gwasanaethau.
+(7) Yn y rheoliad hwn—
+(a)
+ystyr “Bwrdd Iechyd Lleol”, “grŵp comisiynu clinigol” a “Bwrdd Comisiynu’r Gwasanaeth Iechyd Gwladol” yw’r Bwrdd Iechyd Lleol, neu’r grŵp comisiynu clinigol a Bwrdd Comisiynu’r Gwasanaeth Iechyd Gwladol—
+(i)
+y mae’r plentyn wedi ei leoli ar gyfer ei fabwysiadu gan y gwasanaeth yn ei ardal, neu
+(ii)
+yr oedd y plentyn sydd wedi marw neu wedi cael damwain neu anaf difrifol wrth gael gwasanaethau cymorth mabwysiadu yn byw yn ei ardal ar adeg y digwyddiad;
+(b)
+ystyr “awdurdod ardal” yw’r awdurdod lleol neu’r awdurdod lleol yn Lloegr ar gyfer yr ardal y mae plentyn wedi ei leoli ynddi, neu i’w leoli ynddi, pan fo hyn yn wahanol i’r awdurdod lleoli;
+(c)
+ystyr “asiantaeth leoli” yw’r asiantaeth fabwysiadu a leolodd y plentyn ar gyfer ei fabwysiadu gyda’r darpar fabwysiadydd;
+(d)
+ystyr “awdurdod lleoli”, mewn perthynas â phlentyn sy’n derbyn gofal neu a oedd yn derbyn gofal gan awdurdod lleol neu awdurdod lleol yn Lloegr, yw’r awdurdod lleol hwnnw;
+(e)
+ystyr “awdurdod perthnasol” yw’r awdurdod lleol y mae’r gwasanaeth yn ei ardal ac unrhyw awdurdod lleol arall y mae’r gwasanaeth yn darparu gwasanaethau cymorth mabwysiadu i’r plentyn hwnnw ar ei ran yn rhinwedd adran 3(4)(a) o Ddeddf 2002.
+Gwybodaeth Cychwyn
+I1
+Rhl. 31 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Gwrthdaro buddiannau
+32.  Rhaid i’r darparwr gwasanaeth gael trefniadau effeithiol yn eu lle i nodi, cofnodi a rheoli achosion posibl o wrthdaro buddiannau.
+Gwybodaeth Cychwyn
+I1
+Rhl. 32 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Polisi a gweithdrefn gwyno
+33.—(1) Rhaid i’r darparwr gwasanaeth gael polisi cwyno yn ei le a sicrhau bod y gwasanaeth yn cael ei weithredu yn unol â’r polisi hwnnw.
+(2) Rhaid i’r darparwr gwasanaeth gael trefniadau effeithiol yn eu lle ar gyfer ymdrin â chwynion, gan gynnwys trefniadau ar gyfer—
+(a)
+nodi cwynion ac ymchwilio iddynt,
+(b)
+rhoi ymateb priodol i berson sy’n gwneud cwyn, os yw’n rhesymol ymarferol cysylltu â’r person hwnnw,
+(c)
+sicrhau bod camau gweithredu priodol yn cael eu cymryd yn dilyn ymchwiliad, a
+(d)
+cadw cofnodion sy’n ymwneud â’r materion yn is-baragraffau (a) i (c).
+(3) Rhaid i’r darparwr gwasanaeth ddarparu crynodeb o gwynion, ymatebion ac unrhyw gamau gweithredu dilynol a gymerir i’r rheoleiddiwr gwasanaethau o fewn 28 o ddiwrnodau i gael cais i wneud hynny.
+(4) Rhaid i’r darparwr gwasanaeth—
+(a)
+dadansoddi gwybodaeth sy’n ymwneud â chwynion a phryderon, a
+(b)
+gan roi sylw iʼr dadansoddiad hwnnw, nodi unrhyw feysydd iʼw gwella.
+Gwybodaeth Cychwyn
+I1
+Rhl. 33 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Chwythuʼr chwiban
+34.—(1) Rhaid i’r darparwr gwasanaeth gael trefniadau yn eu lle i sicrhau bod pob person sy’n gweithio yn y gwasanaeth (gan gynnwys unrhyw berson y caniateir iddo weithio fel gwirfoddolwr) yn gallu codi pryderon am faterion a all effeithio’n andwyol ar iechyd, diogelwch neu lesiant personau y darperir y gwasanaeth ar eu cyfer.
+(2) Rhaid iʼr trefniadau hyn gynnwys—
+(a)
+cael polisi chwythu’r chwiban yn ei le a gweithredu yn unol â’r polisi hwnnw, a
+(b)
+sefydlu trefniadau i alluogi a chefnogi pobl sy’n gweithio yn y gwasanaeth i godi pryderon o’r fath.
+(3) Rhaid i’r darparwr gwasanaeth sicrhau bod y trefniadau sy’n ofynnol o dan y rheoliad hwn yn cael eu gweithredu’n effeithiol.
+(4) Pan godir pryder, rhaid i’r darparwr gwasanaeth sicrhau—
+(a)
+yr ymchwilir iʼr pryder,
+(b)
+y cymerir camau priodol yn dilyn ymchwiliad, ac
+(c)
+y cedwir cofnod syʼn ymwneud âʼr materion yn is-baragraffau (a) a (b).
+Gwybodaeth Cychwyn
+I1
+Rhl. 34 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Goruchwylio’r gwaith o reoli’r gwasanaeth
+35.  Rhaid i’r unigolyn cyfrifol oruchwylio’r gwaith o reoli’r gwasanaeth.
+Gwybodaeth Cychwyn
+I1
+Rhl. 35 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Dyletswydd i benodi rheolwr
+36.—(1) Rhaid i’r unigolyn cyfrifol benodi person i reoli’r gwasanaeth. Ond nid yw’r gofyniad hwn yn gymwys os yw’r amodau ym mharagraff (2) neu (3) yn gymwys.
+(2) Yr amodau yw—
+(a)
+bod y darparwr gwasanaeth yn unigolyn,
+(b)
+bod y darparwr gwasanaeth yn bwriadu rheoli’r gwasanaeth,
+(c)
+bod y darparwr gwasanaeth yn addas i reoli’r gwasanaeth,
+(d)
+yn ddarostyngedig i baragraff (6), fod y darparwr gwasanaeth wedi ei gofrestru fel rheolwr â GCC, ac
+(e)
+bod y rheoleiddiwr gwasanaethau yn cytuno i’r darparwr gwasanaeth reoli’r gwasanaeth.
+(3) Yr amodau yw—
+(a)
+bod y darparwr gwasanaeth yn bartneriaeth, yn gorff corfforaethol neu’n gorff anghorfforedig,
+(b)
+bod y darparwr gwasanaeth yn cynnig bod yr unigolyn sydd wedi ei ddynodi fel yr unigolyn cyfrifol am y gwasanaeth i’w benodi i reoli’r gwasanaeth,
+(c)
+bod yr unigolyn hwnnw yn addas i reoli’r gwasanaeth,
+(d)
+yn ddarostyngedig i baragraff (6), fod yr unigolyn hwnnw wedi ei gofrestru fel rheolwr â GCC, ac
+(e)
+bod y rheoleiddiwr gwasanaethau yn cytuno i’r unigolyn hwnnw reoli’r gwasanaeth.
+(4) At ddibenion paragraff (2)(c), nid yw’r darparwr gwasanaeth yn addas i reoli’r gwasanaeth oni bai bod gofynion rheoliad 23(2) (addasrwydd staff) wedi eu bodloni mewn cysylltiad â’r darparwr gwasanaeth.
+(5) Nid yw’r ddyletswydd ym mharagraff (1) wedi ei chyflawni os yw’r person a benodir i reoli’r gwasanaeth yn absennol am gyfnod o fwy na thri mis.
+(6) Nid yw’r amod ym mharagraffau (2)(d) a (3)(d) yn gymwys ond ar ôl 1 Ebrill 2022.
+Gwybodaeth Cychwyn
+I1
+Rhl. 36 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Gofynion o ran addasrwydd ar gyfer penodi rheolwr
+37.—(1) Ni chaiff yr unigolyn cyfrifol benodi person i reoli’r gwasanaeth oni bai bod y person hwnnw yn addas i wneud hynny.
+(2) At ddibenion paragraff (1), nid yw person yn addas i reoli’r gwasanaeth oni bai bod gofynion rheoliad 23(2) (addasrwydd staff) wedi eu bodloni mewn cysylltiad â’r person hwnnw.
+Gwybodaeth Cychwyn
+I1
+Rhl. 37 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Cyfyngiadau ar benodi rheolwr ar gyfer mwy nag un gwasanaeth
+38.—(1) Ni chaiff yr unigolyn cyfrifol benodi person i reoli mwy nag un gwasanaeth, oni bai bod paragraff (2) yn gymwys.
+(2) Mae’r paragraff hwn yn gymwys—
+(a)
+os yw’r darparwr gwasanaeth wedi gwneud cais i’r rheoleiddiwr gwasanaethau am ganiatâd i benodi rheolwr ar gyfer mwy nag un gwasanaeth, a
+(b)
+os yw’r rheoleiddiwr gwasanaethau wedi ei fodloni—
+(i)
+na fydd y trefniadau rheoli arfaethedig yn cael effaith andwyol ar ddarparu’r gwasanaeth, a
+(ii)
+y bydd y trefniadau rheoli arfaethedig yn darparu goruchwyliaeth ddibynadwy ac effeithiol o bob gwasanaeth.
+Gwybodaeth Cychwyn
+I1
+Rhl. 38 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Dyletswydd i adrodd am benodi rheolwr i’r darparwr gwasanaeth
+39.  Wrth benodi rheolwr yn unol â rheoliad 36(1), rhaid i’r unigolyn cyfrifol roi hysbysiad i’r darparwr gwasanaeth—
+(a)
+o enw’r person a benodir, a
+(b)
+o’r dyddiad y mae’r penodiad i gymryd effaith.
+Gwybodaeth Cychwyn
+I1
+Rhl. 39 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Dyletswydd i adrodd am benodi rheolwr i GCC a’r rheoleiddiwr gwasanaethau
+40.—(1) Wrth benodi rheolwr yn unol â rheoliad 36(1), rhaid i’r unigolyn cyfrifol roi hysbysiad i GCC a’r rheoleiddiwr gwasanaethau—
+(a)
+o enw, dyddiad geni a rhif cofrestru GCC y person a benodir, a
+(b)
+o’r dyddiad y mae’r penodiad i gymryd effaith.
+(2) Mewn achos pan fo’r darparwr gwasanaeth yn unigolyn a bod y rheoleiddiwr gwasanaethau wedi cytuno i’r darparwr gwasanaeth reoli’r gwasanaeth, rhaid i’r darparwr gwasanaeth roi hysbysiad i GCC—
+(a)
+o enw, dyddiad geni a rhif cofrestru GCC y darparwr gwasanaeth, a
+(b)
+o’r dyddiad y mae’r darparwr gwasanaeth i reoli’r gwasanaeth ohono.
+Gwybodaeth Cychwyn
+I1
+Rhl. 40 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Y trefniadau pan yw’r rheolwr yn absennol
+41.—(1) Rhaid i’r unigolyn cyfrifol roi trefniadau addas yn eu lle i sicrhau bod y gwasanaeth yn cael ei reoli’n effeithiol ar unrhyw adeg pan nad oes rheolwr neu pan nad yw’r rheolwr yn bresennol yn y gwasanaeth.
+(2) Os nad oes rheolwr neu os nad yw’r rheolwr yn bresennol yn y gwasanaeth am gyfnod o fwy nag 28 o ddiwrnodau, rhaid i’r unigolyn cyfrifol—
+(a)
+hysbysu’r darparwr gwasanaeth a’r rheoleiddiwr gwasanaethau, a
+(b)
+rhoi gwybod iddynt am y trefniadau sydd wedi eu rhoi yn eu lle ar gyfer rheoli’r gwasanaeth yn effeithiol.
+Gwybodaeth Cychwyn
+I1
+Rhl. 41 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Ymweliadau
+42.—(1) Rhaid i’r unigolyn cyfrifol—
+(a)
+ymweld â’r fangre y darperir y gwasanaeth ohoni,
+(b)
+cwrdd ag aelodau o staff sydd wedi eu cyflogi i ddarparu gwasanaeth o bob man y mae’r unigolyn cyfrifol wedi ei ddynodi mewn cysylltiad ag ef, ac
+(c)
+cwrdd ag unigolion neu unrhyw gynrychiolwyr i unigolion y mae gwasanaeth yn cael ei ddarparu ar eu cyfer o bob man o’r fath.
+(2) Mae amlder ymweliadau a chyfarfodydd o’r fath i’w benderfynu gan yr unigolyn cyfrifol gan roi sylw i’r datganiad o ddiben, ond rhaid iddynt gael eu cynnal o leiaf bob 3 mis.
+Gwybodaeth Cychwyn
+I1
+Rhl. 42 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Goruchwylio digonolrwydd adnoddau
+43.—(1) Rhaid i’r unigolyn cyfrifol adrodd i’r darparwr gwasanaeth am ddigonolrwydd yr adnoddau sydd ar gael i ddarparu’r gwasanaeth yn unol â gofynion y Rheoliadau hyn.
+(2) Rhaid i adroddiadau o’r fath gael eu gwneud yn chwarterol.
+(3) Ond nid yw’r gofyniad hwn yn gymwys pan fo’r darparwr gwasanaeth yn unigolyn.
+Gwybodaeth Cychwyn
+I1
+Rhl. 43 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Adroddiadau eraill i’r darparwr gwasanaeth
+44.—(1) Rhaid i’r unigolyn cyfrifol, yn ddi-oed, adrodd i’r darparwr gwasanaeth—
+(a)
+am unrhyw bryderon ynghylch rheoli neu ddarparu’r gwasanaeth;
+(b)
+am unrhyw newidiadau sylweddol i’r ffordd y caiff y gwasanaeth ei reoli neu ei ddarparu;
+(c)
+am unrhyw bryderon nad yw’r gwasanaeth yn cael ei ddarparu yn unol â’r datganiad o ddiben ar gyfer y gwasanaeth.
+(2) Ond nid yw’r gofyniad hwn yn gymwys pan fo’r darparwr gwasanaeth yn unigolyn.
+Gwybodaeth Cychwyn
+I1
+Rhl. 44 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Ymgysylltu ag unigolion ac eraill
+45.—(1) Rhaid i’r unigolyn cyfrifol roi trefniadau addas yn eu lle ar gyfer cael safbwyntiau—
+(a)
+unigolion,
+(b)
+unrhyw gynrychiolwyr i’r unigolion hynny,
+(c)
+unrhyw awdurdod lleol neu awdurdod lleol yn Lloegr sydd wedi trefnu bod cymorth yn cael ei ddarparu gan y gwasanaeth, a
+(d)
+staff a gyflogir yn y gwasanaeth,
+ar ansawdd y cymorth a ddarperir a sut y gellir gwella hyn.
+(2) Rhaid i’r unigolyn cyfrifol adrodd am y safbwyntiau a geir er mwyn i’r safbwyntiau hyn allu cael eu hystyried gan y darparwr gwasanaeth wrth wneud unrhyw benderfyniadau ar gynlluniau ar gyfer gwella ansawdd y cymorth a ddarperir gan y gwasanaeth.
+Gwybodaeth Cychwyn
+I1
+Rhl. 45 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Dyletswydd i sicrhau bod systemau yn eu lle i gofnodi digwyddiadau a chwynion
+46.  Rhaid i’r unigolyn cyfrifol sicrhau bod systemau effeithiol yn eu lle i gofnodi digwyddiadau, cwynion a materion y mae rhaid gwneud hysbysiadau yn eu cylch yn unol â rheoliadau 31 a 53.
+Gwybodaeth Cychwyn
+I1
+Rhl. 46 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Dyletswydd i sicrhau bod systemau yn eu lle ar gyfer cadw cofnodion
+47.  Rhaid i’r unigolyn cyfrifol sicrhau bod systemau effeithiol yn eu lle mewn perthynas â chadw cofnodion, sy’n cynnwys systemau ar gyfer sicrhau bod cofnodion y mae’n ofynnol iddynt gael eu cadw gan reoliad 30 yn gywir ac yn gyflawn.
+Gwybodaeth Cychwyn
+I1
+Rhl. 47 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Dyletswydd i sicrhau bod polisïau a gweithdrefnau yn gyfredol
+48.  Rhaid i’r unigolyn cyfrifol roi trefniadau addas yn eu lle i sicrhau bod polisïau a gweithdrefnau’r darparwr gwasanaeth yn cael eu cadw’n gyfredol, gan roi sylw i’r datganiad o ddiben.
+Gwybodaeth Cychwyn
+I1
+Rhl. 48 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Adolygiad o ansawdd y gwasanaeth
+49.—(1) Rhaid i’r unigolyn cyfrifol roi trefniadau addas yn eu lle i sefydlu a chynnal system ar gyfer monitro, adolygu a gwella ansawdd y gwasanaeth.
+(2) Rhaid i’r system a sefydlir o dan baragraff (1) wneud darpariaeth i ansawdd y gwasanaeth gael ei adolygu mor aml ag sy’n ofynnol ond o leiaf bob 6 mis.
+(3) Fel rhan o unrhyw adolygiad a gynhelir, rhaid i’r unigolyn cyfrifol wneud trefniadau ar gyfer—
+(a)
+ystyried canlyniad yr ymgysylltiad ag unigolion ac eraill, fel sy’n ofynnol gan reoliad 45 (ymgysylltu ag unigolion ac eraill);
+(b)
+dadansoddi’r data cyfanredol ar ddigwyddiadau, digwyddiadau hysbysadwy, materion diogelu, chwythu’r chwiban, pryderon a chwynion;
+(c)
+adolygu unrhyw gamau gweithredu a gymerir mewn perthynas â chwynion;
+(d)
+ystyried canlyniad unrhyw archwiliad o gywirdeb a chyflawnrwydd cofnodion.
+(4) Ar ôl cwblhau adolygiad o ansawdd y gwasanaeth yn unol â’r rheoliad hwn, rhaid i’r unigolyn cyfrifol lunio adroddiad i’r darparwr gwasanaeth y mae rhaid iddo gynnwys—
+(a)
+asesiad o safon y cymorth a ddarperir, a
+(b)
+argymhellion ar gyfer gwella’r gwasanaeth.
+(5) Ond nid yw’r gofyniad ym mharagraff (4) yn gymwys pan fo’r darparwr gwasanaeth yn unigolyn.
+Gwybodaeth Cychwyn
+I1
+Rhl. 49 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Datganiad o gydymffurfedd â’r gofynion o ran safonau’r cymorth
+50.—(1) Rhaid i’r unigolyn cyfrifol lunio’r datganiad y mae’n ofynnol iddo gael ei gynnwys yn y datganiad blynyddol o dan adran 10(2)(b) o’r Ddeddf, i’r graddau y mae’n ymwneud â’r man neu’r mannau y mae’r unigolyn cyfrifol wedi ei ddynodi mewn cysylltiad ag ef neu â hwy.
+(2) Wrth lunio’r datganiad, rhaid i’r unigolyn cyfrifol roi sylw i’r asesiad o safon y cymorth a gynhwysir mewn adroddiad a lunnir yn unol â rheoliad 49(4).
+Gwybodaeth Cychwyn
+I1
+Rhl. 50 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Cymorth ar gyfer staff sy’n codi pryderon
+51.  Rhaid i’r unigolyn cyfrifol sicrhau y cydymffurfir â pholisi chwythu chwiban y darparwr a bod y trefniadau i alluogi a chefnogi pobl sy’n gweithio yn y gwasanaeth i godi pryderon o’r fath yn cael eu gweithredu’n effeithiol.
+Gwybodaeth Cychwyn
+I1
+Rhl. 51 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Dyletswydd gonestrwydd
+52.  Rhaid i’r unigolyn cyfrifol weithredu mewn ffordd agored a thryloyw gydag—
+(a)
+unigolion, a
+(b)
+unrhyw gynrychiolwyr i’r unigolion hynny.
+Gwybodaeth Cychwyn
+I1
+Rhl. 52 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Hysbysiadau
+53.—(1) Rhaid i’r unigolyn cyfrifol hysbysu’r rheoleiddiwr gwasanaethau am y digwyddiadau a bennir yn Atodlen 4.
+(2) Rhaid i’r hysbysiadau sy’n ofynnol gan baragraff (1) gynnwys manylion y digwyddiad.
+(3) Oni nodir fel arall, rhaid i hysbysiadau gael eu gwneud yn ddi-oed ac yn ysgrifenedig.
+(4) Rhaid i hysbysiadau gael eu gwneud yn y modd a’r ffurf sy’n ofynnol gan y rheoleiddiwr gwasanaethau.
+Gwybodaeth Cychwyn
+I1
+Rhl. 53 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Troseddau – darparwyr gwasanaethau
+54.—(1) Mae’n drosedd i ddarparwr gwasanaeth fethu â chydymffurfio â gofyniad unrhyw un neu ragor o’r darpariaethau a bennir ym mharagraff (2)(1).
+(2) Y darpariaethau a bennir at ddibenion paragraff (1) yw darpariaethau rheoliadau—
+(a)
+5(3) (gofynion mewn perthynas â’r datganiad o ddiben);
+(b)
+5(5) (gofynion mewn perthynas â’r datganiad o ddiben);
+(c)
+9(3) (gofynion mewn perthynas â chynaliadwyedd ariannol y gwasanaeth);
+(d)
+10(1) (gofynion i ddarparu’r gwasanaeth yn unol â pholisïau a gweithdrefnau);
+(e)
+13(1) (gwybodaeth am y gwasanaeth);
+(f)
+13(2) (gwybodaeth am y gwasanaeth);
+(g)
+13(3) (gwybodaeth am y gwasanaeth);
+(h)
+14(1) (cytundeb gwasanaeth);
+(i)
+23(1) (addasrwydd staff);
+(j)
+26(1) (gwybodaeth ar gyfer staff);
+(k)
+30(1) (cofnodion);
+(l)
+30(2) (cofnodion);
+(m)
+31(1) (hysbysiadau);
+(n)
+31(2) (hysbysiadau);
+(o)
+31(3) (hysbysiadau);
+(p)
+31(5) (hysbysiadau).
+(3) Mae darparwr gwasanaeth yn cyflawni trosedd os yw’r darparwr yn methu â chydymffurfio â gofyniad unrhyw un neu ragor o’r darpariaethau a bennir ym mharagraff (4) a bod methiant o’r fath yn arwain at—
+(a)
+niwed y gellir ei osgoi (pa un ai o natur gorfforol neu seicolegol) i unigolyn,
+(b)
+unigolyn yn cael ei wneud yn agored i risg sylweddol o niwed o’r fath, neu
+(c)
+yn achos dwyn, camddefnyddio neu gamberchnogi arian neu eiddo, unrhyw golled gan unigolyn o’r arian neu’r eiddo o dan sylw.
+(4) Y darpariaethau a bennir at ddibenion paragraff (3) yw darpariaethau rheoliadau—
+(a)
+4 (gofynion mewn perthynas â darparu’r gwasanaeth);
+(b)
+5(1) (gofynion mewn perthynas â’r datganiad o ddiben);
+(c)
+10(4) (gofynion i ddarparu’r gwasanaeth yn unol â pholisïau a gweithdrefnau);
+(d)
+12(1) (gofyniad i sicrhau addasrwydd y gwasanaeth);
+(e)
+12(3) (gofyniad i sicrhau addasrwydd y gwasanaeth);
+(f)
+15(1) (safonau’r cymorth – gofynion cyffredinol);
+(g)
+19 (diogelu – gofyniad cyffredinol);
+(h)
+22 (staffio – gofynion cyffredinol).
+Gwybodaeth Cychwyn
+I1
+Rhl. 54 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+(1)
+Am gosbau yn dilyn euogfarn am drosedd o dan y rheoliad hwn, gweler adran 51(1) o’r Ddeddf.Rhagolygol
+Troseddau – unigolion cyfrifol
+55.—(1) Mae’n drosedd i’r unigolyn cyfrifol fethu â chydymffurfio â gofyniad unrhyw un neu ragor o’r darpariaethau a bennir ym mharagraff (2)(1).
+(2) Y darpariaethau a bennir at ddibenion paragraff (1) yw darpariaethau rheoliadau—
+(a)
+36(1) (dyletswydd i benodi rheolwr);
+(b)
+37(1) (gofynion o ran addasrwydd ar gyfer penodi rheolwr);
+(c)
+40(1) (dyletswydd i adrodd am benodi rheolwr i GCC a’r rheoleiddiwr gwasanaethau);
+(d)
+40(2) (dyletswydd i adrodd am benodi rheolwr i GCC a’r rheoleiddiwr gwasanaethau);
+(e)
+42(1) (ymweliadau);
+(f)
+42(2) (ymweliadau);
+(g)
+43(1) (goruchwylio digonolrwydd adnoddau);
+(h)
+43(2) (goruchwylio digonolrwydd adnoddau, amlder adroddiadau);
+(i)
+44(1) (adroddiadau eraill i’r darparwr gwasanaeth);
+(j)
+49(4) (adolygiad o ansawdd y gwasanaeth);
+(k)
+50(1) (datganiad o gydymffurfedd â’r gofynion o ran safonau’r cymorth);
+(l)
+53(1) (hysbysiadau);
+(m)
+53(3) (hysbysiadau).
+Gwybodaeth Cychwyn
+I1
+Rhl. 55 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+(1)
+Am gosbau yn dilyn euogfarn am drosedd o dan y rheoliad hwn, gweler adran 51(1) o’r Ddeddf.Rhagolygol
+Penodi datodwyr etc.
+56.  Rhaid i berson a benodir(1)—
+(a)
+yn ddi-oed, roi hysbysiad ysgrifenedig i’r rheoleiddiwr gwasanaethau o’i benodiad a’r rhesymau dros ei benodi;
+(b)
+o fewn 28 o ddiwrnodau i’w benodi, hysbysu’r rheoleiddiwr gwasanaethau am ei fwriadau ynghylch gweithrediad y gwasanaeth yn y dyfodol.
+Gwybodaeth Cychwyn
+I1
+Rhl. 56 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+(1)
+Gweler adran 30 o’r Ddeddf am y diffiniad o “person a benodir”.Rhagolygol
+Marwolaeth darparwr gwasanaeth
+57.—(1) Pan fo darparwr gwasanaeth sy’n unigolyn wedi marw, rhaid i gynrychiolwyr personol yr unigolyn—
+(a)
+yn ddi-oed, roi hysbysiad ysgrifenedig o’r farwolaeth i’r rheoleiddiwr gwasanaethau;
+(b)
+o fewn 28 o ddiwrnodau i’r farwolaeth, hysbysu’r rheoleiddiwr gwasanaethau am eu bwriadau ynghylch gweithrediad y gwasanaeth yn y dyfodol.
+(2) Caiff cynrychiolwyr personol yr unigolyn weithredu yn rhinwedd y darparwr gwasanaeth am gyfnod nad yw’n hwy nag 28 o ddiwrnodau neu am unrhyw gyfnod hwy (nad yw’n hwy nag un flwyddyn) y mae’r rheoleiddiwr gwasanaethau yn cytuno arno.
+(3) Pan fo’r cynrychiolwyr personol yn gweithredu yn rhinwedd y darparwr gwasanaeth yn unol â pharagraff (2), mae Rhan 1 o’r Ddeddf yn gymwys gyda’r addasiadau a ganlyn—
+(a)
+nid yw adran 5 (gofyniad i gofrestru) yn gymwys;
+(b)
+mae adran 21(2) (unigolion cyfrifol) i’w darllen fel pe bai’r canlynol wedi ei fewnosod ar ôl paragraff (a)—
+“(aa)
+pan fo cynrychiolwyr personol darparwr gwasanaeth sydd wedi marw yn gweithredu yn rhinwedd y darparwr gwasanaeth, fod yn un o’r cynrychiolwyr personol;”.
+(4) Yn y rheoliad hwn, ystyr “y gwasanaeth” yw’r gwasanaeth neu’r gwasanaethau yr oedd y darparwr gwasanaeth sydd wedi marw wedi ei gofrestru i’w ddarparu neu eu darparu ar adeg ei farwolaeth.
+Gwybodaeth Cychwyn
+I1
+Rhl. 57 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Dynodiad unigolyn cyfrifol gan Weinidogion Cymru
+58.  Caiff Gweinidogion Cymru (yn lle darparwr gwasanaeth) ddynodi unigolyn i fod yn unigolyn cyfrifol, er nad yw gofynion adran 21(2) o’r Ddeddf wedi eu bodloni mewn cysylltiad â’r unigolyn, o dan yr amgylchiadau a ganlyn—
+(a)
+bod y darparwr gwasanaeth yn unigolyn sydd wedi marw ac mae cynrychiolwyr personol y darparwr gwasanaeth wedi hysbysu’r rheoleiddiwr gwasanaethau nad ydynt yn bwriadu gwneud cais o dan adran 11(1)(c) o’r Ddeddf;
+(b)
+bod y darparwr gwasanaeth yn unigolyn ac wedi hysbysu’r rheoleiddiwr gwasanaethau—
+(i)
+na all gydymffurfio â’i ddyletswyddau fel unigolyn cyfrifol mwyach, a
+(ii)
+y rhesymau dros hyn;
+(c)
+bod y darparwr gwasanaeth yn gorff corfforaethol neu’n bartneriaeth ac wedi hysbysu’r rheoleiddiwr gwasanaethau—
+(i)
+nad yw’r unigolyn sydd wedi ei ddynodi gan y darparwr gwasanaeth fel yr unigolyn cyfrifol yn gallu cydymffurfio â’i ddyletswyddau fel unigolyn cyfrifol mwyach,
+(ii)
+y rhesymau dros hyn, a
+(iii)
+nad oes unrhyw unigolyn arall sy’n gymwys i fod yn unigolyn cyfrifol ac sy’n gallu cydymffurfio â dyletswyddau unigolyn cyfrifol.
+Gwybodaeth Cychwyn
+I1
+Rhl. 58 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Julie Morgan
+Y Dirprwy Weinidog Iechyd a Gwasanaethau Cymdeithasol o dan awdurdod y Gweinidog Iechyd a Gwasanaethau Cymdeithasol, un o Weinidogion Cymru
+29 Mawrth 2019Rhagolygol
+Rheoliadau 2(1) a 23
+ATODLEN 1
+RHAN 1
+Gwybodaeth a dogfennaeth sydd i fod ar gael mewn cysylltiad â phersonau sy’n gweithio mewn gwasanaethau rheoleiddiedig
+1.  Prawf o bwy ywʼr person gan gynnwys ffotograff diweddar.
+Gwybodaeth Cychwyn
+I1
+Atod. 1 para. 1 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+2.  Pan foʼn ofynnol at ddibenion cwestiwn sydd wedi ei esemptio yn unol ag adran 113A(2)(b) o Ddeddf yr Heddlu 1997(1), copi o dystysgrif cofnod troseddol ddilys a ddyroddir o dan adran 113A oʼr Ddeddf honno ynghyd, ar ôl y diwrnod penodedig a phan foʼn gymwys, âʼr wybodaeth a grybwyllir yn adran 30A(3) o Ddeddf Diogelu Grwpiau Hyglwyf 2006(2) (darparu gwybodaeth am waharddiadau ar gais).
+Gwybodaeth Cychwyn
+I2
+Atod. 1 para. 2 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+3.  Pan fo’n ofynnol at ddibenion cwestiwn sydd wedi ei esemptio ac a ofynnir at ddiben rhagnodedig o dan adran 113B(2)(b) o Ddeddf yr Heddlu 1997, copi o dystysgrif cofnod troseddol manwl ddilys a ddyroddir o dan adran 113B o’r Ddeddf honno ynghyd, pan fo’n gymwys, â gwybodaeth addasrwydd sy’n ymwneud â phlant (o fewn ystyr “suitability information relating to children” yn adran 113BA(2) o’r Ddeddf honno) neu wybodaeth addasrwydd sy’n ymwneud ag oedolion hyglwyf (o fewn ystyr “suitability information relating to vulnerable adults” yn adran 113BB(2) o’r Ddeddf honno).
+Gwybodaeth Cychwyn
+I3
+Atod. 1 para. 3 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+4.  Dau eirda ysgrifenedig, gan gynnwys geirda gan y cyflogwr diwethaf, os oes un.
+Gwybodaeth Cychwyn
+I4
+Atod. 1 para. 4 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+5.  Pan fo person wedi gweithioʼn flaenorol mewn swydd yr oedd ei dyletswyddau yn cynnwys gweithio gyda phlant neu oedolion hyglwyf, cadarnhad, iʼr graddau y boʼn rhesymol ymarferol, oʼr rheswm pam y daeth y gyflogaeth neuʼr swydd i ben.
+Gwybodaeth Cychwyn
+I5
+Atod. 1 para. 5 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+6.  Tystiolaeth ddogfennol o unrhyw gymhwyster perthnasol.
+Gwybodaeth Cychwyn
+I6
+Atod. 1 para. 6 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+7.  Pan foʼn berthnasol, tystiolaeth ddogfennol o gofrestriad â GCC.
+Gwybodaeth Cychwyn
+I7
+Atod. 1 para. 7 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+8.  Hanes cyflogaeth llawn, ynghyd ag esboniad ysgrifenedig boddhaol o unrhyw fylchau mewn cyflogaeth.
+Gwybodaeth Cychwyn
+I8
+Atod. 1 para. 8 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+9.  Tystiolaeth o allu ieithyddol boddhaol at ddibenion darparu cymorth i’r unigolion hynny y mae’r gweithiwr i ddarparu cymorth ar eu cyfer.
+Gwybodaeth Cychwyn
+I9
+Atod. 1 para. 9 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+10.  Manylion cofrestriad ag unrhyw gorff proffesiynol neu aelodaeth o gorff oʼr fath.
+Gwybodaeth Cychwyn
+I10
+Atod. 1 para. 10 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+RHAN 2
+Dehongli Rhan 1
+11.  At ddibenion paragraffau 2 a 3 o Ran 1 oʼr Atodlen hon—
+(a)
+os nad ywʼr person y maeʼr dystysgrif yn ymwneud ag ef wedi ei gofrestru â gwasanaeth diweddaruʼr GDG, nid yw tystysgrif ond yn ddilys—
+(i)
+os y’i dyroddwyd mewn ymateb i gais gan y darparwr gwasanaeth yn unol â rheoliad 23(3) neu (6) (addasrwydd staff), a
+(ii)
+os nad oes mwy na thair blynedd wedi mynd heibio ers iʼr dystysgrif gael ei dyroddi;
+(b)
+os yw’r person y mae’r dystysgrif yn ymwneud ag ef wedi ei gofrestru â gwasanaeth diweddaru’r GDG, mae’r dystysgrif yn ddilys ni waeth pa bryd y’i dyroddwyd.
+Gwybodaeth Cychwyn
+I11
+Atod. 1 para. 11 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+(1)
+1997 p. 50.
+(2)
+2006 p. 47. Mae adrannau newydd 30A a 30B i’w rhoi yn lle adrannau 30 i 32 o Ddeddf Diogelu Grwpiau Hyglwyf 2006 fel y’u deddfwyd yn wreiddiol o ganlyniad i amnewidiadau a wnaed gan adran 72(1) o Ddeddf Diogelu Rhyddidau 2012. Mae adran 72(1) i’w chychwyn ar ddiwrnod i’w benodi.Rhagolygol
+Rheoliadau 2(1) a 30
+ATODLEN 2
+Y cofnodion sydd i’w cadw
+1.  Mewn cysylltiad â phob unigolyn—
+(a)
+enw llawn;
+(b)
+dyddiad geni;
+(c)
+a yw’r person—
+(i)
+yn blentyn a all gael ei fabwysiadu, ei riant neu ei warcheidwad;
+(ii)
+yn berson sy’n dymuno mabwysiadu plentyn;
+(iii)
+yn berson mabwysiedig, ei riant, ei riant geni, ei gyn-warcheidwad neu berson perthynol;
+(d)
+disgrifiad o’r cymorth y gofynnir amdano;
+(e)
+disgrifiad o’r angen am gymorth ynghyd ag unrhyw asesiad o’r angen hwnnw;
+(f)
+disgrifiad o’r cymorth a ddarperir;
+(g)
+a ddarperir y cymorth ar ran awdurdod lleol o dan reoliadau a wneir o dan adran 3(4)(b) o Ddeddf 2002;
+(h)
+cynlluniau gan gynnwys—
+(i)
+cynlluniau cymorth mabwysiadu;
+(ii)
+cynlluniau gofal a chymorth;
+(iii)
+cynlluniau lleoliadau;
+(i)
+adolygiadau o’r cynlluniau y cyfeirir atynt yn is-baragraff (h).
+Gwybodaeth Cychwyn
+I1
+Atod. 2 para. 1 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+2.  Cofnod o unrhyw ffioedd gan y darparwr gwasanaeth i unigolion am ddarparu cymorth ac unrhyw wasanaethau ychwanegol.
+Gwybodaeth Cychwyn
+I2
+Atod. 2 para. 2 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+3.  Cofnod o’r holl gwynion a wneir gan unigolion neu eu cynrychiolwyr neu gan bersonau sy’n gweithio yn y gwasanaeth ynghylch gweithrediad y gwasanaeth, a’r camau gweithredu a gymerir gan y darparwr gwasanaeth mewn cysylltiad ag unrhyw gŵyn o’r fath.
+Gwybodaeth Cychwyn
+I3
+Atod. 2 para. 3 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+4.  Cofnod o’r holl bersonau sy’n gweithio yn y gwasanaeth, a hwnnw’n gofnod y mae rhaid iddo gynnwys y materion a ganlyn—
+(a)
+enw llawn a chyfeiriad cartref;
+(b)
+dyddiad geni;
+(c)
+cymwysterau sy’n berthnasol i weithio gydag unigolion a phrofiad o wneud gwaith o’r fath;
+(d)
+y dyddiadau y maeʼr person yn dechrau cael ei gyflogi felly ac yn peidio â chael ei gyflogi felly;
+(e)
+a ywʼr person wedi ei gyflogi gan y darparwr gwasanaeth o dan gontract gwasanaeth, contract ar gyfer gwasanaethau, neu ac eithrio o dan gontract, neu a yw wedi ei gyflogi gan rywun ac eithrioʼr darparwr gwasanaeth;
+(f)
+y swydd sydd gan y person yn y gwasanaeth, y gwaith y mae’r person yn ei wneud a nifer yr oriau y mae’r person wedi ei gyflogi amdanynt bob wythnos;
+(g)
+copi o dystysgrif geni a phasbort (os oes ganddo un) y person;
+(h)
+copi o bob geirda a geir mewn cysylltiad â’r person;
+(i)
+hyfforddiant y mae’r person wedi ymgymryd ag ef, goruchwyliaeth ohono a’i arfarnu;
+(j)
+cofnodion o gamau disgyblu ac unrhyw gofnodion eraill mewn perthynas â chyflogaeth y person;
+(k)
+cofnod o ddyddiad tystysgrif GDG ddiweddaraf y person ac a gymerwyd unrhyw gamau gweithredu o ganlyniad i gynnwys y dystysgrif.
+Gwybodaeth Cychwyn
+I4
+Atod. 2 para. 4 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Rheoliad 31
+ATODLEN 3
+Hysbysiadau gan y darparwr gwasanaeth
+RHAN 1
+Hysbysiadau i’r rheoleiddiwr gwasanaethau
+1.  Unrhyw ddiwygiad i’r datganiad o ddiben, 28 o ddiwrnodau cyn i’r datganiad o ddiben diwygiedig gymryd effaith.
+Gwybodaeth Cychwyn
+I1
+Atod. 3 para. 1 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+2.  Pan fo’r darparwr gwasanaeth (unigolyn neu sefydliad) yn newid ei enw.
+Gwybodaeth Cychwyn
+I2
+Atod. 3 para. 2 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+3.  Pan fo’r darparwr gwasanaeth yn gwmni, unrhyw newid i gyfarwyddwyr y cwmni.
+Gwybodaeth Cychwyn
+I3
+Atod. 3 para. 3 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+4.  Pan fo’r darparwr gwasanaeth yn unigolyn, penodi ymddiriedolwr mewn methdaliad mewn perthynas â’r unigolyn hwnnw.
+Gwybodaeth Cychwyn
+I4
+Atod. 3 para. 4 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+5.  Pan fo’r darparwr gwasanaeth yn gorff corfforaethol neu’n bartneriaeth, penodi derbynnydd, rheolwr, datodwr neu ddatodwr dros dro mewn perthynas â’r cwmni hwnnw neu’r bartneriaeth honno.
+Gwybodaeth Cychwyn
+I5
+Atod. 3 para. 5 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+6.  Pan fo’r darparwr gwasanaeth yn bartneriaeth, marwolaeth un o’r partneriaid.
+Gwybodaeth Cychwyn
+I6
+Atod. 3 para. 6 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+7.  Pan fo’r darparwr gwasanaeth yn bartneriaeth, unrhyw newid i’r partneriaid.
+Gwybodaeth Cychwyn
+I7
+Atod. 3 para. 7 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+8.  Absenoldeb disgwyliedig yr unigolyn cyfrifol am 28 o ddiwrnodau neu ragor, 7 niwrnod cyn i’r absenoldeb ddechrau.
+Gwybodaeth Cychwyn
+I8
+Atod. 3 para. 8 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+9.  Absenoldeb annisgwyl yr unigolyn cyfrifol, heb fod yn hwyrach na 7 niwrnod ar ôl i’r absenoldeb ddechrau.
+Gwybodaeth Cychwyn
+I9
+Atod. 3 para. 9 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+10.  Absenoldeb annisgwyl yr unigolyn cyfrifol am 28 o ddiwrnodau neu ragor, pan na fo hysbysiad ymlaen llaw wedi ei roi, yn union wrth i’r 28 o ddiwrnodau yn dilyn dechrau’r absenoldeb ddod i ben.
+Gwybodaeth Cychwyn
+I10
+Atod. 3 para. 10 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+11.  Bod yr unigolyn cyfrifol yn dychwelyd o fod yn absennol.
+Gwybodaeth Cychwyn
+I11
+Atod. 3 para. 11 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+12.  Bod yr unigolyn cyfrifol yn peidio â bod, neu’n bwriadu peidio â bod, yr unigolyn cyfrifol am y gwasanaeth.
+Gwybodaeth Cychwyn
+I12
+Atod. 3 para. 12 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+13.  Unrhyw gam-drin neu honiad o gam-drin mewn perthynas ag unigolyn sy’n ymwneud â’r darparwr gwasanaeth a/neu aelod o staff neu wirfoddolwr.
+Gwybodaeth Cychwyn
+I13
+Atod. 3 para. 13 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+14.  Bod y darparwr gwasanaeth, yr unigolyn cyfrifol neu’r rheolwr a benodir wedi ei euogfarnu o drosedd.
+Gwybodaeth Cychwyn
+I14
+Atod. 3 para. 14 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+15.  Unrhyw honiad o gamymddwyn gan aelod o staff.
+Gwybodaeth Cychwyn
+I15
+Atod. 3 para. 15 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+16.  Unrhyw ddigwyddiad a gaiff ei adrodd i’r heddlu.
+Gwybodaeth Cychwyn
+I16
+Atod. 3 para. 16 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+17.  Unrhyw ddigwyddiadau sy’n atal, neu a allai atal, y darparwr rhag parhau i ddarparu’r gwasanaeth yn ddiogel.
+Gwybodaeth Cychwyn
+I17
+Atod. 3 para. 17 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+18.  Unrhyw gynnig i newid cyfeiriad y brif swyddfa, 28 o ddiwrnodau cyn i’r newid ddigwydd.
+Gwybodaeth Cychwyn
+I18
+Atod. 3 para. 18 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+19.  Unrhyw atgyfeiriad i’r GDG yn unol â Deddf Diogelu Grwpiau Hyglwyf 2006.
+Gwybodaeth Cychwyn
+I19
+Atod. 3 para. 19 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+20.  Pan fo’r darparwr gwasanaeth, yr unigolyn cyfrifol neu’r rheolwr a benodir wedi ei gyhuddo o unrhyw drosedd a bennir yn yr Atodlen i Reoliadau Deddf Diogelu Grwpiau Hyglwyf 2006 (Meini Prawf Rhagnodedig a Darpariaethau Amrywiol) 2009(1), hysbysiad o’r drosedd a gyhuddir a’r man cyhuddo.
+Gwybodaeth Cychwyn
+I20
+Atod. 3 para. 20 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+21.  Unrhyw achos o gamfanteisio’n rhywiol neu’n droseddol ar blentyn neu o amheuaeth o gamfanteisio’n rhywiol neu’n droseddol ar blentyn.
+Gwybodaeth Cychwyn
+I21
+Atod. 3 para. 21 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+22.  Marwolaeth plentyn sydd wedi ei leoli ar gyfer ei fabwysiadu gan y gwasanaeth.
+Gwybodaeth Cychwyn
+I22
+Atod. 3 para. 22 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+23.  Cychwyn a chanlyniad unrhyw ymholiad amddiffyn plant sy’n ymwneud â phlentyn sydd wedi ei leoli ar gyfer ei fabwysiadu gan y gwasanaeth.
+Gwybodaeth Cychwyn
+I23
+Atod. 3 para. 23 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+RHAN 2
+Hysbysiad i’r Bwrdd Iechyd Lleol/grŵp comisiynu clinigol a Bwrdd Comisiynu’r Gwasanaeth Iechyd Gwladol gan ddarparwr cymdeithas fabwysiadu
+24.  Marwolaeth plentyn sydd wedi ei leoli ar gyfer ei fabwysiadu gan y gwasanaeth.
+Gwybodaeth Cychwyn
+I24
+Atod. 3 para. 24 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+25.  Unrhyw ddamwain neu anaf difrifol a ddioddefir gan blentyn sydd wedi ei leoli ar gyfer ei fabwysiadu gan y gwasanaeth.
+Gwybodaeth Cychwyn
+I25
+Atod. 3 para. 25 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+RHAN 3
+Hysbysiad i’r Bwrdd Iechyd Lleol/grŵp comisiynu clinigol a Bwrdd Comisiynu’r Gwasanaeth Iechyd Gwladol gan ddarparwr asiantaeth cymorth mabwysiadu neu ddarparwr cymdeithas fabwysiadu sy’n darparu gwasanaethau cymorth mabwysiadu
+26.  Marwolaeth, damwain neu anaf difrifol plentyn wrth gael gwasanaethau cymorth mabwysiadu gan y gwasanaeth.
+Gwybodaeth Cychwyn
+I26
+Atod. 3 para. 26 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+RHAN 4
+Hysbysiad i’r asiantaeth leoli
+27.  Unrhyw gŵyn ddifrifol ynghylch darpar fabwysiadydd a gymeradwywyd gan y gwasanaeth pan fo plentyn wedi ei leoli ar gyfer ei fabwysiadu gyda’r darpar fabwysiadydd hwnnw gan asiantaeth fabwysiadu arall.
+Gwybodaeth Cychwyn
+I27
+Atod. 3 para. 27 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+RHAN 5
+Hysbysiadau i’r awdurdod ardal
+28.  Marwolaeth plentyn sydd wedi ei leoli ar gyfer ei fabwysiadu gan y gwasanaeth.
+Gwybodaeth Cychwyn
+I28
+Atod. 3 para. 28 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+29.  Unrhyw ddamwain neu anaf difrifol a ddioddefir gan blentyn sydd wedi ei leoli ar gyfer ei fabwysiadu gan y gwasanaeth.
+Gwybodaeth Cychwyn
+I29
+Atod. 3 para. 29 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+30.  Unrhyw gŵyn ddifrifol ynghylch darpar fabwysiadydd a gymeradwywyd gan y gwasanaeth pan fo plentyn wedi ei leoli ar gyfer ei fabwysiadu gyda’r darpar fabwysiadydd hwnnw gan y gwasanaeth.
+Gwybodaeth Cychwyn
+I30
+Atod. 3 para. 30 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+31.  Unrhyw gŵyn ddifrifol ynghylch darpar fabwysiadydd a gymeradwywyd gan y gwasanaeth pan fo plentyn wedi ei leoli ar gyfer ei fabwysiadu gyda’r darpar fabwysiadydd hwnnw gan asiantaeth fabwysiadu arall (os nas hysbyswyd fel yr asiantaeth leoli).
+Gwybodaeth Cychwyn
+I31
+Atod. 3 para. 31 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+32.  Cychwyn a chanlyniad unrhyw ymholiad amddiffyn plant sy’n ymwneud â phlentyn sydd wedi ei leoli ar gyfer ei fabwysiadu gan y gwasanaeth.
+Gwybodaeth Cychwyn
+I32
+Atod. 3 para. 32 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+RHAN 6
+Hysbysiadau i’r awdurdod lleoli gan ddarparwr cymdeithas fabwysiadu
+33.  Marwolaeth plentyn sydd wedi ei leoli ar gyfer ei fabwysiadu gan y gwasanaeth.
+Gwybodaeth Cychwyn
+I33
+Atod. 3 para. 33 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+34.  Unrhyw ddamwain neu anaf difrifol a ddioddefir gan blentyn sydd wedi ei leoli ar gyfer ei fabwysiadu gan y gwasanaeth.
+Gwybodaeth Cychwyn
+I34
+Atod. 3 para. 34 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+35.  Unrhyw gŵyn ddifrifol ynghylch darpar fabwysiadydd a gymeradwywyd gan y gwasanaeth pan fo plentyn wedi ei leoli ar gyfer ei fabwysiadu gyda’r darpar fabwysiadydd hwnnw gan asiantaeth fabwysiadu arall.
+Gwybodaeth Cychwyn
+I35
+Atod. 3 para. 35 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+36.  Cychwyn a chanlyniad unrhyw ymholiad amddiffyn plant sy’n ymwneud â phlentyn sydd wedi ei leoli ar gyfer ei fabwysiadu gan y gwasanaeth.
+Gwybodaeth Cychwyn
+I36
+Atod. 3 para. 36 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+RHAN 7
+Hysbysiadau i’r awdurdod lleoli gan ddarparwr asiantaeth cymorth mabwysiadu neu gymdeithas fabwysiadu sy’n darparu gwasanaethau cymorth mabwysiadu
+37.  Marwolaeth plentyn wrth gael gwasanaethau cymorth mabwysiadu gan y gwasanaeth.
+Gwybodaeth Cychwyn
+I37
+Atod. 3 para. 37 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+38.  Unrhyw ddamwain neu anaf difrifol a ddioddefir gan blentyn wrth gael gwasanaethau cymorth mabwysiadu gan y gwasanaeth.
+Gwybodaeth Cychwyn
+I38
+Atod. 3 para. 38 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+39.  Cychwyn a chanlyniad unrhyw ymholiad amddiffyn plant sy’n ymwneud â phlentyn sy’n cael gwasanaethau cymorth mabwysiadu gan y gwasanaeth.
+Gwybodaeth Cychwyn
+I39
+Atod. 3 para. 39 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+RHAN 8
+Hysbysiad i’r awdurdod perthnasol
+40.  Marwolaeth neu unrhyw ddamwain neu anaf difrifol a ddioddefir gan blentyn wrth gael gwasanaethau cymorth mabwysiadu.
+Gwybodaeth Cychwyn
+I40
+Atod. 3 para. 40 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+RHAN 9
+Hysbysiad i’r heddlu
+41.  Unrhyw achos o gamfanteisio’n rhywiol neu’n droseddol ar blentyn neu o amheuaeth o gamfanteisio’n rhywiol neu’n droseddol ar blentyn.
+Gwybodaeth Cychwyn
+I41
+Atod. 3 para. 41 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+(1)
+O.S. 2009/37.Rhagolygol
+Rheoliad 53
+ATODLEN 4
+Hysbysiadau gan yr unigolyn cyfrifol
+1.  Penodi rheolwr (gweler rheoliad 37(1)).
+Gwybodaeth Cychwyn
+I1
+Atod. 4 para. 1 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+2.  Absenoldeb disgwyliedig y rheolwr a benodir, am 28 o ddiwrnodau neu ragor, 7 niwrnod cyn i’r absenoldeb ddechrau.
+Gwybodaeth Cychwyn
+I2
+Atod. 4 para. 2 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+3.  Absenoldeb annisgwyl y rheolwr a benodir, heb fod yn hwyrach na 7 niwrnod ar ôl iʼr absenoldeb ddechrau.
+Gwybodaeth Cychwyn
+I3
+Atod. 4 para. 3 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+4.  Absenoldeb annisgwyl y rheolwr a benodir, am 28 o ddiwrnodau neu ragor, pan na fo hysbysiad ymlaen llaw wedi ei roi, yn union wrth iʼr 28 o ddiwrnodau yn dilyn dechrauʼr absenoldeb ddod i ben.
+Gwybodaeth Cychwyn
+I4
+Atod. 4 para. 4 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+5.  Bod y rheolwr a benodir yn dychwelyd o fod yn absennol.
+Gwybodaeth Cychwyn
+I5
+Atod. 4 para. 5 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+6.  Trefniadau interim pan foʼr rheolwr yn absennol am fwy nag 28 o ddiwrnodau.
+Gwybodaeth Cychwyn
+I6
+Atod. 4 para. 6 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+7.  Bod rhywun ac eithrio’r rheolwr a benodir yn bwriadu rheoli neu yn rheoli’r gwasanaeth.
+Gwybodaeth Cychwyn
+I7
+Atod. 4 para. 7 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+8.  Bod y rheolwr a benodir yn peidio, neuʼn bwriadu peidio, â rheoliʼr gwasanaeth.
+Gwybodaeth Cychwyn
+I8
+Atod. 4 para. 8 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+NODYN ESBONIADOL
+(Nid ywʼr nodyn hwn yn rhan oʼr Rheoliadau)
+Mae’r Rheoliadau hyn wedi eu gwneud o dan Ddeddf Rheoleiddio ac Arolygu Gofal Cymdeithasol (Cymru) 2016 (“y Ddeddf”) ac yn nodi’r gofynion rheoleiddiol a darpariaethau cysylltiedig ar gyfer darparwyr gwasanaethau mabwysiadu rheoleiddiedig ac ar gyfer y personau hynny sydd wedi eu dynodi’n “unigolion cyfrifol” ar gyfer y gwasanaethau hynny.
+Cyflwynodd y Ddeddf gysyniad newydd o “gwasanaethau rheoleiddiedig” sydd wedi ei ddiffinio yn adran 2 o’r Ddeddf honno.
+Rhaid i berson sy’n dymuno darparu gwasanaeth rheoleiddiedig wneud cais i gofrestru i Weinidogion Cymru (wrth arfer eu swyddogaethau rheoleiddiol) gan bennu’r gwasanaeth rheoleiddiedig y mae’r person yn dymuno ei ddarparu.
+Mae adran 2(1)(d) o’r Ddeddf yn darparu bod gwasanaeth mabwysiadau yn wasanaeth rheoleiddiedig, sydd wedi ei ddiffinio yn Atodlen 1 i’r Ddeddf honno i olygu gwasanaeth a ddarperir yng Nghymru gan (a) cymdeithas fabwysiadu o fewn ystyr “adoption society” yn Neddf Mabwysiadu a Phlant 2002 (“Deddf 2002”) sy’n sefydliad gwirfoddol o fewn ystyr “voluntary organisation” yn y Ddeddf honno, neu (b) asiantaeth cymorth mabwysiadu o fewn yr ystyr a roddir i “adoption support agency” gan adran 8 o’r Ddeddf honno. Cyfeirir at berson sydd wedi ei gofrestru i ddarparu gwasanaeth mabwysiadu yn y Rheoliadau hyn fel “darparwr gwasanaeth”.
+Mae adran 27 o’r Ddeddf yn darparu y caiff rheoliadau osod gofynion ar ddarparwr gwasanaeth mewn perthynas â gwasanaeth rheoleiddiedig. Mae adran 28 yn darparu ymhellach y caiff rheoliadau osod gofynion ar unigolyn cyfrifol sydd wedi ei ddynodi gan ddarparwr gwasanaeth.
+Mae adran 30 o’r Ddeddf yn galluogi Gweinidogion Cymru i wneud rheoliadau ynghylch darparwr gwasanaeth sydd wedi ei ddatod, ac mae adran 31 yn caniatáu i reoliadau gael eu gwneud ynghylch darparwr sydd wedi marw.
+Caiff Gweinidogion Cymru wneud rheoliadau er mwyn darparu ei bod yn drosedd i ddarparwr gwasanaeth (adran 45 o’r Ddeddf) ac i unigolyn cyfrifol (adran 46) fethu â chydymffurfio â darpariaethau penodedig.
+Mae Rhan 1 o’r Rheoliadau hyn yn cynnwys diffiniadau o dermau penodol sy’n cael eu defnyddio yn y Rheoliadau. Cyfeirir at wasanaeth mabwysiadu fel “gwasanaeth” ac mae “cymorth” yn cynnwys y cymorth y mae’n ofynnol i gymdeithas fabwysiadu ei ddarparu yng nghwrs gwneud trefniadau ar gyfer mabwysiadu neu ar ôl i fabwysiadau gael eu trefnu yn ogystal â’r gwasanaethau cymorth mabwysiadu a all gael eu darparu gan naill ai cymdeithas fabwysiadu neu asiantaeth cymorth mabwysiadu.
+Mae Rhan 2 yn cwmpasu eithriadau. Mae’r rheoliad yn Rhan 2 wedi ei wneud o dan bwerau yn adran 2(3) o’r Ddeddf sy’n galluogi Gweinidogion Cymru i ragnodi pethau nad ydynt, er gwaethaf Atodlen 1 i’r Ddeddf (sy’n nodi’r diffiniadau o wasanaethau rheoleiddiedig), i’w trin fel gwasanaeth rheoleiddiedig.
+Mae Rhan 3 yn nodi’r gofynion cyffredinol ar y darparwr gwasanaeth o ran y ffordd y darperir y gwasanaeth, gan gynnwys gofynion mewn perthynas â’r datganiad o ddiben, y trefniadau ar gyfer monitro a gwella, y cymorth sydd i’w ddarparu i’r unigolyn cyfrifol, y camau sydd i’w cymryd i sicrhau cynaliadwyedd ariannol y gwasanaeth a’r polisïau a’r gweithdrefnau y mae rhaid iddynt fod yn eu lle.
+Mae Rhan 3 hefyd yn disgrifio amryw ofynion mewn perthynas â dynodiad unigolyn cyfrifol. O dan adran 6 o’r Ddeddf, rhaid i berson sy’n dymuno darparu gwasanaeth rheoleiddiedig wneud cais i gofrestru i Weinidogion Cymru y mae person wedi ei ddynodi fel yr unigolyn cyfrifol ynddo.
+Mae Rhan 4 yn cwmpasu’r gofynion o ran y camau sydd i’w cymryd cyn i’r darparwr gwasanaeth gytuno i ddarparu cymorth i unigolyn. Ni chaiff darparwr gwasanaeth gytuno i ddarparu cymorth oni bai ei fod yn gyntaf wedi penderfynu bod y gwasanaeth yn addas i ddiwallu anghenion yr unigolyn. Mae rheoliad 12 yn nodi’r camau y mae rhaid iddynt gael eu cymryd a’r materion y mae rhaid iddynt gael eu hystyried wrth wneud y penderfyniad hwn. Pan na fo cynllun gofal a chymorth, cynllun cymorth mabwysiadu neu gynllun lleoliad yn ei le, mae’r camau sydd i’w cymryd yn cynnwys cynnal asesiad o angen yr unigolyn am gymorth.
+Mae Rhan 5 yn ymdrin â’r gofynion o ran yr wybodaeth sydd i’w darparu i unigolion wrth gychwyn darparu cymorth. Mae rheoliad 13 yn ei gwneud yn ofynnol bod rhaid i’r wybodaeth hon fod ar ffurf canllaw ysgrifenedig ac yn nodi gofynion manwl am y canllaw, gan gynnwys ei gynnwys a’i fformat. Mae rhagor o fanylion am yr wybodaeth y disgwylir y byddai’r canllaw fel arfer yn ei chynnwys i’w cael yn y canllawiau a ddyroddir o dan adran 29 o’r Ddeddf.
+Mae Rhan 6 yn cynnwys gofynion o ran safon y cymorth sydd i’w ddarparu. Mae’r rhain yn cynnwys gofynion cyffredinol yn ogystal â gofynion mwy manwl sy’n ymwneud â darparu gwybodaeth, diwallu anghenion iaith a chyfathrebu unigolion a thrin unigolion â pharch a sensitifrwydd.
+Mae Rhan 7 yn cynnwys gofynion penodol mewn perthynas â sicrhau bod unigolion yn ddiogel ac wedi eu hamddiffyn rhag camdriniaeth, esgeulustod a thriniaeth amhriodol. Yn ogystal â’i gwneud yn ofynnol i bolisïau a gweithdrefnau fod yn eu lle mewn perthynas â diogelu, mae’r rheoliadau yn y Rhan hon yn gosod gofynion penodol o ran y camau gweithredu sydd i’w cymryd os bydd honiad neu dystiolaeth o gamdriniaeth.
+Mae Rhan 8 yn cynnwys gofynion o ran staffio, sy’n cynnwys gofynion cyffredinol o ran defnyddio niferoedd digonol o staff a gofynion penodol o ran addasrwydd unigolion sy’n gweithio yn y gwasanaeth. Mae’r gofynion hyn yn gymwys nid yn unig i gyflogeion ond hefyd i wirfoddolwyr ac i bersonau eraill sy’n gweithio yn y gwasanaeth. Mae’r gofynion addasrwydd yn cynnwys gofyniad i wybodaeth benodol a dogfennaeth benodol fod ar gael mewn cysylltiad â phersonau sy’n gweithio yn y gwasanaeth, fel y’u nodir yn Atodlen 1.
+Ymhlith y gofynion eraill a gynhwysir yn Rhan 8 mae gofynion sy’n ymwneud â chefnogi a datblygu staff, darparu gwybodaeth i staff a gweithredu gweithdrefn ddisgyblu addas. I sicrhau bod cyflogeion yn adrodd am achosion o gamdriniaeth i berson priodol, mae’r rheoliadau yn y Rhan hon yn ei gwneud yn ofynnol i weithdrefn ddisgyblu’r darparwr ddarparu y byddai methu ag adrodd ynddo’i hun yn sail dros achos disgyblu.
+Mae Rhan 9 yn sicrhau bod mangreoedd sydd i’w defnyddio mewn perthynas â gwasanaethau mabwysiadu yn ddigonol ar gyfer goruchwylio staff a storio cofnodion yn ddiogel.
+Mae Rhan 10 yn cynnwys gofynion amrywiol ar ddarparwyr gwasanaethau, gan gynnwys gofynion o ran cadw cofnodion a gwneud hysbysiadau i’r rheoleiddiwr gwasanaethau a chyrff eraill. Mae Atodlen 2 yn nodi’r cofnodion y mae’n ofynnol iddynt gael eu cadw ac mae Atodlen 3 yn nodi’r hysbysiadau penodol y mae’n ofynnol iddynt gael eu gwneud.
+Mae Rhannau 11 i 15 yn cynnwys y gofynion a osodir ar unigolion cyfrifol. Mae’r rheoliadau yn y Rhannau hyn wedi eu gwneud o dan adran 28 o’r Ddeddf.
+Mae Rhan 11 yn nodi gofynion ar unigolion cyfrifol sy’n ymwneud â rheoli’r gwasanaeth yn effeithiol. Mae dyletswydd gyffredinol ar yr unigolyn cyfrifol i oruchwylio’r gwaith o reoli’r gwasanaeth ac mae arno ddyletswyddau penodol i benodi person addas i reoli’r gwasanaeth. Rhaid i’r unigolyn cyfrifol hefyd roi trefniadau yn eu lle ar gyfer rheoli’r gwasanaeth pan yw’r rheolwr yn absennol.
+Mae Rhan 12 yn cynnwys gofynion ar unigolion cyfrifol ar gyfer sicrhau bod y gwasanaeth yn cael ei oruchwylio’n effeithiol. Drwy osod y gofynion hyn ar yr unigolyn cyfrifol, mae’r rheoliadau yn y Rhan hon yn sicrhau bod person ar lefel briodol uchel yn y sefydliad yn atebol am ansawdd a chydymffurfedd y gwasanaeth. Hefyd, mae’n ofynnol i’r unigolyn cyfrifol wneud adroddiadau i’r darparwr gwasanaeth ar ddigonolrwydd adnoddau ac ar faterion eraill. Rhaid i’r unigolyn cyfrifol wneud trefniadau ar gyfer ymgysylltu ag unigolion ac eraill fel y gall eu safbwyntiau ar ansawdd y cymorth a ddarperir gael eu hystyried gan y darparwr.
+Mae Rhan 13 yn nodi’r ddyletswydd ar yr unigolyn cyfrifol ar gyfer sicrhau cydymffurfedd y gwasanaeth â gofynion eraill, gan gynnwys gofynion o ran hysbysu am ddigwyddiadau a chwynion a chadw cofnodion. Rhaid i’r unigolyn cyfrifol hefyd sicrhau bod polisïau a gweithdrefnau’r darparwr gwasanaeth yn cael eu cadw’n gyfredol.
+Mae Rhan 14 yn cwmpasu cyfrifoldebau’r unigolyn cyfrifol mewn perthynas â monitro ac adolygu ansawdd y gwasanaeth, ac â gwneud adroddiad i’r darparwr gwasanaeth.
+Mae Rhan 15 yn cwmpasu gofynion eraill ar yr unigolyn cyfrifol, gan gynnwys gofynion i wneud hysbysiadau penodol i’r rheoleiddiwr gwasanaethau a gynhwysir yn Atodlen 4.
+Mae Rhan 16 yn cwmpasu troseddau. Mae rheoliad 54 wedi ei wneud o dan y pwerau yn adran 45 o’r Ddeddf ac yn darparu bod methiant gan ddarparwr gwasanaeth i gydymffurfio â gofynion darpariaethau penodedig yn y Rheoliadau hyn yn drosedd. Yn ogystal, pan fo darparwr gwasanaeth yn methu â chydymffurfio â gofynion penodol eraill, mae rheoliad 54(3) yn darparu bod hyn hefyd yn drosedd os yw’r methiant i gydymffurfio yn arwain at wneud plentyn yn agored i niwed y gellir ei osgoi neu’n agored i risg sylweddol o niwed o’r fath neu’n agored i golli arian neu eiddo o ganlyniad i ddwyn, camddefnyddio neu gamberchnogi.
+Mae Rhan 16 hefyd yn darparu bod methiant gan unigolyn cyfrifol i gydymffurfio â gofynion darpariaethau penodedig yn y Rheoliadau hyn yn drosedd. Mae’r rheoliad hwn wedi ei wneud o dan adran 46 o’r Ddeddf.
+Mae Rhan 17 yn pennu’r cyfrifoldebau ar y “person a benodir” os bydd y darparwr gwasanaeth yn mynd yn ansolfent. Mae Rhan 17 hefyd yn nodi’r camau i’w cymryd gan gynrychiolwyr personol yr ymadawedig os bydd darparwr gwasanaeth sy’n unigolyn yn marw. Mae’n galluogi’r cynrychiolwyr personol i weithredu yn rhinwedd y darparwr ac yn addasu’r Ddeddf fel nad yw’n ofynnol, o dan yr amgylchiadau hyn, i’r cynrychiolwyr personol gofrestru fel darparwr, a gall un o’r cynrychiolwyr personol gael ei ddynodi fel yr unigolyn cyfrifol.
+Mae Rhan 18 yn nodi’r amgylchiadau pan gaiff Gweinidogion Cymru (yn lle darparwr gwasanaeth) ddynodi unigolyn i fod yn unigolyn cyfrifol er nad yw gofynion cymhwystra adran 21(2) o’r Ddeddf wedi eu bodloni mewn cysylltiad â’r unigolyn. Mae’r rheoliad hwn wedi ei wneud o dan adran 21(5) o’r Ddeddf.
+Ystyriwyd Cod Ymarfer Gweinidogion Cymru ar gynnal Asesiadau Effaith Rheoleiddiol mewn perthynas â’r Rheoliadau hyn. O ganlyniad, lluniwyd asesiad effaith rheoleiddiol o’r costau a’r manteision sy’n debygol o ddeillio o gydymffurfio â’r Rheoliadau hyn. Gellir cael copi oddi wrth: Yr Adran Iechyd a Gwasanaethau Cymdeithasol, Llywodraeth Cymru, Parc Cathays, Caerdydd, CF10 3NQ.

@@ -1,0 +1,58 @@
+STATUTORY INSTRUMENTS
+2021 No. 39
+INFRASTRUCTURE PLANNING
+The Dogger Bank Teesside A and B Offshore Wind Farm (Amendment) Order 2021
+Made
+14th January 2021
+Coming into force
+15th January 2021
+An application has been made, under paragraph 2 of Schedule 6 to the Planning Act 2008(1), to the Secretary of State in accordance with Part 1 of the Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) Regulations 2011(2) for a non-material change to The Dogger Bank Teesside A and B Offshore Wind Farm Order 2015 (“the 2015 Order”)(3).
+The Secretary of State, having considered the application, the responses to the publicity and consultation required by regulations 6 and 7 of the Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) Regulations 2011 has decided to make this order amending the 2015 Order.
+Accordingly, the Secretary of State, in exercise of the powers in paragraph 2 of Schedule 6 to the Planning Act 2008, makes the following Order:
+(1)
+2008 c. 29. Paragraph 2 was amended by paragraph 4 of Schedule 8 to the Marine and Coastal Access Act 2009 (c. 23), by paragraphs 1 and 72 of Schedule 13 to the Localism Act 2011 (c. 20), and by section 28 of the Infrastructure Act 2015 (c. 7). There are other amendments to the Act that are not relevant to this Order.
+(2)
+S.I. 2011/2055, as amended by S.I. 2012/635 S.I. 2012/2654, S.I. 2012/2732, S.I. 2013/522, S.I. 2013/755, S.I. 2015/760, S.I. 2017/314, S.I. 2017/524, S.I. 2018/378, S.I. 2019/734 and S.I. 2020/764.
+(3)
+S.I. 2015/1592, as amended by S.I. 2015/1742, S.I. 2019/669 and S.I. 2020/851.Citation and commencement
+1.  This Order may be cited as the Dogger Bank Teesside A and B Offshore Wind Farm (Amendment) Order 2021 and comes into force on 15th January 2021.Amendment to The Dogger Bank Teesside A and B Offshore Wind Farm Order 2015
+2.  The Dogger Bank Teesside A and B Offshore Wind Farm Order 2015 is amended in accordance with this Order.Amendments to Article 2 (Interpretation)
+3.  In article 2, in the definition of “wind turbine generator” after “electrical” insert “, communication”.Amendments to Part 1 (Authorised development) of Schedule 1 (Authorised Project)
+4.  In Part 1 (Authorised development) of Schedule 1 (Authorised Project), in paragraph 2 at Project B offshore works, in the description of Work No. 1B(d)(iv) after “the export cable route in Work No. 2B;” delete “and” and insert—
+“(v)
+any of the wind turbine generators comprised in Work No. 1B(a) and the offshore converter platform referred to in Work No. 1B(b)(ii); and”.Amendments to Part 3 (Requirements) of Schedule 1 (Authorised Project)
+5.  Part 3 (Requirements) of Schedule 1 (Authorised Project) is amended as follows—
+(a)
+in paragraph 5(8B)(b) for “3,000 kilojoules” substitute “4,000 kilojoules”.
+(b)
+in Paragraph 6(1) for “Wind” substitute “Within Work No. 1A, wind”.
+(c)
+after paragraph 6 insert—
+“6A.—(1) Within Work No. 1(B), wind turbine generator foundation structures must be of 1 or more of the following foundation options: monopole, multi-leg or gravity base.
+(2) No wind turbine generator foundation structure employing a footing of driven piles may—
+(a)
+have more than 6 driven piles;
+(b)
+in the case of single-pile structures, have a pile diameter exceeding 12 metres or employ a hammer energy during installation exceeding 4,000 kilojoules;
+(c)
+in the case of structures with 2 or more piles, have a pile diameter exceeding 3.5 metres or employ a hammer energy during installation exceeding 2,300 kilojoules.
+(3) No wind turbine generator foundation may have—
+(a)
+a main supporting structure exceeding 61 metres in width;
+(b)
+a seabed footprint (excluding subsea scour protection) exceeding 2,376 square metres;
+(c)
+a seabed footprint (including subsea scour protection) exceeding 5,675 square metres.
+(4) The foundations for wind turbine generators must be in accordance with the wave reflection co-efficient values set out in Table 3.6 in Chapter 5, Appendix B (foundation characterisation study) of the environmental statement.”;
+(d)
+in paragraph 9(3)(b) for “1 fibre-optic cable’ substitute “2 fibre-optic cables”.
+(e)
+in paragraph 13(6)(b) after “(see Condition 16(a)” insert “Pre-construction plans and documentation: Array location and layout plan”.
+(f)
+in paragraph 14 after “Condition 22 (Aids to Navigation) of Marine Licence 3 or” delete “4” and insert “Condition 23 (Aids to Navigation) of Marine Licence 4 ”.Signed by authority of the Secretary of State for Business, Energy and Industrial Strategy
+Gareth Leigh
+Head of Energy Infrastructure Planning
+Department for Business, Energy and Industrial Strategy
+14th January 2021EXPLANATORY NOTE
+(This note is not part of the Order)
+This Order amends The Teesside A and B Offshore Wind Farm Order 2015, a development consent order under the Planning Act 2008, following an application made in accordance with the Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) Regulations 2011 for a non-material change under paragraph 2 of Schedule 6 to the Planning Act 2008. The Order amends the limits on hammer energy during installation and makes some changes to the cabling descriptions within the array.

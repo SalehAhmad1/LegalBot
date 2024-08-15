@@ -1,0 +1,443 @@
+STATUTORY RULES OF NORTHERN IRELAND
+2021 No. 345
+SOCIAL SECURITY
+The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2021
+Made
+16th December 2021
+Coming into operation
+5th January 2022
+The Department for Communities(1) makes the following Regulations in exercise of the powers conferred by sections 122(1)(a) and (d), 129A(1), 131(1), 132(3) and (5), 132A(3) and 171(3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992(2), Articles 6(5) and 14(1) and (4) of the Jobseekers (Northern Ireland) Order 1995(3), paragraph 8 of schedule 1 to the Social Security (Recovery of Benefits) (Northern Ireland) Order 1997(4), and now vested in it(5), sections 15(3) and (6) and 19(1) and (3) of the State Pension Credit Act (Northern Ireland) 2002(6), sections 4(2), 17(1) and (3) of the Welfare Reform Act (Northern Ireland) 2007(7) and Article 48(1) of, and paragraph 4(1) and (3) of Schedule 1 to, the Welfare Reform (Northern Ireland) Order 2015(8).
+These powers are exercisable by the Department for Communities by virtue of Article 2 of the Welfare Reform (Northern Ireland) Order 2015 (Cessation of Transitory Provision) Order 2020 (S.I. 2020/927)
+Regulations 5 and 6 are made with the consent of the Department of Finance(9)
+(1)
+The Department for Social Development was renamed the Department for Communities in accordance with section1(7) of the Departments Act (Northern Ireland) 2016 (c. 5 (N.I.))
+(2)
+1992 c. 7
+(3)
+S.I. 1995/2705 (N.I. 15)
+(4)
+1997 No. 1183 (N.I. 12)
+(5)
+See Article 8(b) of S.R. 1999 No. 481
+(6)
+2002 c. 14 (N.I.)
+(7)
+2007 c.2
+(8)
+S.I. 2015/2006 (N.I. 1)
+(9)
+See section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(3) of the Social Security (Amendment)(Northern Ireland) Order 1993 (S.I. 1993/1579 (N.I. 8));see also Article 6(b) of S.R. 1999 No. 481 and section 1(4) of the Departments Act (Northern Ireland) 2016 (c.5 (N.I.))Citation, commencement and interpretation
+1.—(1) These Regulations may be cited as the Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2021 and come into operation on 5th January 2022.
+(2) The Interpretation Act (Northern Ireland) 1954(1) shall apply to these Regulations as it applies to an Act of the Assembly.
+(1)
+1954 c. 33 (N.I.)Amendment of the Income Support (General) Regulations
+2.—(1) The Income Support (General) Regulations (Northern Ireland) 1987(1) are amended in accordance with paragraphs (2) to (8).
+(2) In regulation 2(1) (interpretation)—
+(a)
+in the appropriate places insert—
+““child abuse payment” means a payment from a scheme established or approved by the Secretary of State, for the purpose of providing compensation in respect of historic institutional child abuse in the United Kingdom;”;
+““Windrush payment” means a payment made under the Windrush Compensation Scheme (Expenditure) Act 2020(2);”;
+(b)
+in the definition of “qualifying person”(3), after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”.
+(3) In regulation 42(4ZB)(4) (notional income), for “a payment of income which is a Grenfell Tower payment” substitute—
+“any of the following payments of income—
+(a)
+a Grenfell Tower payment;
+(b)
+a child abuse payment;
+(c)
+a Windrush payment”.
+(4) In regulation 48(10) (income treated as capital) after sub-paragraph (ab)(5) insert—
+“(ac)
+which is a child abuse payment;
+(ad)
+which is a Windrush payment; or”.
+(5) In regulation 51(3B)(6) (notional capital), for “a payment of capital which is a Grenfell Tower payment” substitute—
+““any of the following payments of capital—
+(a)
+a Grenfell Tower payment;
+(b)
+a child abuse payment;
+(c)
+a Windrush payment”.”
+(6) In paragraph 18(8)(b) (non-dependant deductions)(7) of Schedule 3 (housing costs), after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”.
+(7) In Schedule 9 (sums to be disregarded in the calculation of income other than earnings)—
+(a)
+in paragraph 21(2)(8), after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”;
+(b)
+in paragraph 39—
+(i)
+for sub-paragraph (1A)(9) substitute—
+“(1A) Any—
+(a)
+Grenfell Tower payment;
+(b)
+child abuse payment;
+(c)
+Windrush payment.”;
+(c)
+in each of the sub-paragraphs (2) to (6)(10), after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”.
+(8) In Schedule 10 (capital to be disregarded)—
+(a)
+in paragraph 22—
+(i)
+in sub-paragraph (1A)(11) after “Grenfell Tower payment” insert “, child abuse payment, Windrush payment”;
+(ii)
+in each of sub-paragraphs (2) to (6)(12), after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”;
+(b)
+in paragraph 29(13), after “Grenfell Tower payment” insert “, child abuse payment or Windrush payment”.
+(1)
+S.R. 1987 No. 459; amending Rules are S.R. 1988 Nos.205 and 318, S.R. 1990 No. 33, S.R. 1991 No. 204, S.R. 1992 No. 201, S.R. 1993 No. 195, S.R. 2000 No. 241, S.R. 2004 No. 213, S.R. 2005 Nos. 536 and 550, S.R. 2007 No. 382, S.R. 2008 No. 428, S.R. 2010 No. 69, S.R. 2011 No. 357, S.R. 2017 Nos. 205 and 219, S.R. 2018 No. 192 and S.R. 2020 No. 108
+(2)
+2020 c. 8.
+(3)
+The definition of “qualifying person” was inserted by regulation 5(2)(b) of S.R. 1992 No. 201 and amended by regulation 2(a) of S.R. 2004 No. 213, regulation 2(2)(b) of S.R. 2005 No. 550, regulation 2(3)(a) of S.R. 2010 No. 69, regulation 7(2)(b) of S.R. 2011 No. 357, regulation 2(2)(b) of S.R. 2017 No. 205, regulation 2(2)(c) of S.R. 2017 No. 219 and regulation 2(b) of S.R. 2020 No. 108
+(4)
+Regulation 42(4ZB) was inserted by regulation 2(3)(c) of S.R. 2020 No. 108
+(5)
+Sub-paragraph (ab) was inserted by regulation 2(4)(a) of S.R. 2020 No. 108
+(6)
+Regulation 51(3B) was inserted by regulation 2(5)(c) of S.R. 2020 No. 108
+(7)
+Paragraph 18(8)(b) was amended by regulation 2(5)(e) of S.R. 2008 No. 428, regulation 2(3)(e) and (7)(d) of S.R. 2010 No. 69, regulation 7(5)(c) of S.R. 2011 No. 357, regulation 2(3)(d) of S.R. 2017 No. 205, regulation 2(3)(d) of S.R. 2017 No. 219 and regulation 2(10) of S.R. 2020 No. 108
+(8)
+Paragraph 21(2) was amended by regulation 5(d) of S.R. 1988 No. 205, regulation 4(3)(e) of S.R. 1990 No. 33, regulation 4(7)(a) of S.R. 1991 No. 204, regulation 5(3)(f) of S.R. 1993 No. 195, regulation 2(5)(f) of S.R. 2008 No. 428, regulation 2(3)(f) of S.R. 2010 No. 69, regulation 7(5)(d) of S.R. 2011 No. 357, regulation 2(3)(e) of S.R. 2017 No. 205, regulation 2(3)(e) of S.R. 2017 No. 219, regulation 4(2) of S.R. 2018 No. 192 and regulation 2(11)(a) of S.R. 2020 No. 108
+(9)
+Sub-paragraph (1A) was inserted by regulation 2(11)(b)(ii) of S.R. 2020 No. 108
+(10)
+Sub-paragraphs (2) to (5) were amended by regulation 5(7)(b)(ii) to (v) of S.R. 1992 No. 201, Article 2(3) and paragraph 12(8)(b)(i) to (iv) of Schedule 3 to S.R. 2005 No. 536, regulation 2(7)(e) of S.R. 2010 No. 69 and regulation 2(11)(b)(iii) of S.R. 2020 No. 108. Sub-paragraphs (4) and (5) were also amended by regulation 3(5) to S.R. 2000 No. 241 and sub-paragraph (6) was amended by regulation 2(11)(b)(iv) of S.R. 2020 No. 108
+(11)
+Sub-paragraph (1A) was inserted by regulation 2(12)(a)(ii) of S.R. 2020 No. 108
+(12)
+Sub-paragraphs (2) to (5) were amended by regulation 5(8)(a)(ii) to (v) of S.R. 1992 No. 201, Article 2(3) and paragraph 12(9)(b) of Schedule 3 to S.R. 2005 No. 536, regulation 2(7)(f) of S.R. 2010 No. 69 and regulation 2(12)(a)(iii) of S.R. 2020 No. 108. Sub-paragraphs (4) and (5) were also amended by regulation 3(5) to S.R. 2000 No. 241 and sub-paragraph (6) was amended by regulation 2(12)(a)(iv) of S.R. 2020 No. 108
+(13)
+Paragraph 29 was added by regulation 25 of S.R. 1988 No. 318 and amended by regulation 4(4) of S.R. 1990 No. 33, regulation 5(8)(b) of S.R. 1992 No. 201, regulation 5(4) of S.R. 1993 No. 195, regulation 2(3) of S.R. 2007 No. 382, regulation 2(10) of S.R. 2008 No. 428, regulation 2(7)(f) and (10) of S.R. 2010 No. 69, regulation 7(5)(e) of S.R. 2011 No. 357, regulation 2(3)(f) of S.R. 2017 No. 219 and regulation 2(12)(b) of S.R. 2020 No. 108Amendment of the Jobseeker’s Allowance Regulations
+3.—(1) The Jobseeker’s Allowance Regulations (Northern Ireland) 1996(1) are amended in accordance with paragraphs (2) to (8).
+(2) In regulation 1(2) (citation, commencement, interpretation and application)—
+(a)
+in the appropriate places insert—
+““child abuse payment” means a payment from a scheme established or approved by the Secretary of State for the purpose of providing compensation in respect of historic institutional child abuse in the United Kingdom;”;
+““Windrush payment” means a payment made under the Windrush Compensation Scheme (Expenditure) Act 2020;”;
+(b)
+in the definition of “qualifying person”(2), after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”.
+(3) In regulation 105(10A) (notional income), after sub-paragraph (ab)(3) insert—
+“(ac)
+a child abuse payment;
+(ad)
+a Windrush payment;”.
+(4) In regulation 110(10) (income treated as capital), after sub-paragraph (ab)(4) insert—
+“(ac)
+which is a child abuse payment;
+(ad)
+which is a Windrush payment; or”.
+(5) In regulation 113(3B)(5) (notional capital), for “a payment of capital which is a Grenfell Tower payment” substitute—
+““any of the following payments of capital—
+(a)
+a Grenfell Tower payment;
+(b)
+a child abuse payment;
+(c)
+a Windrush payment”.”
+(6) In paragraph 17(8)(b) (non-dependant deductions)(6) of Schedule 2 (housing costs), after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”.
+(7) In Schedule 6 (sums to be disregarded in the calculation of income other than earnings)—
+(a)
+in paragraph 22(2)(7), after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”;
+(b)
+in paragraph 41—
+(i)
+for sub-paragraph (1A)(8) substitute—
+“(1A) Any—
+(a)
+Grenfell Tower payment;
+(b)
+child abuse payment;
+(c)
+Windrush payment.”;
+(c)
+in sub-paragraphs (2) to (6)(9), after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”.
+(8) In Schedule 7 (capital to be disregarded)—
+(a)
+in paragraph 27—
+(i)
+in sub-paragraph (1A)(10) after “Grenfell Tower payment” insert “, child abuse payment, Windrush payment”;
+(ii)
+in sub-paragraphs (2) to (6)(11), after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”;
+(b)
+in paragraph 31(12), after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”.
+(1)
+S.R. 1996 No. 198; relevant amending Rules are S.R. 2004 No. 213, S.R. 2005 Nos. 536 and 550, S.R. 2008 No. 428, S.R. 2010 No. 69, S.R. 2011 No. 357, S.R. 2017 Nos. 205 and 219 and S.R. 2020 No. 108
+(2)
+The definition of “qualifying person” was amended by regulation 2(a) of S.R. 2004 No. 213, regulation 4(2)(b) of S.R. 2005 No. 550, regulation 4(3)(a) of S.R. 2010 No. 69, regulation 10(2)(b) of S.R. 2011 No. 357, regulation 3(2)(b) of S.R. 2017 No. 205, regulation 3(2)(c) of S.R. 2017 No. 219 and regulation 3(2)(b) of S.R. 2020 No. 108
+(3)
+Sub-paragraph (ab) was inserted by regulation 3(3)(b) of S.R. 2020 No. 108
+(4)
+Sub-paragraph (ab) was inserted by regulation 3(4)(a) of S.R. 2020 No. 108
+(5)
+Regulation 113(3B) was inserted by regulation 3(5)(c) of S.R. 2020 No. 108
+(6)
+Paragraph 17(8)(b) was amended by regulation 3(10)(a) of S.R. 2020 No. 108
+(7)
+Paragraph 22(2) was amended by regulation 4(5)(f) of S.R. 2008 No. 428, regulation 4(3)(f) of S.R. 2010 No. 69, regulation 3(3)(e) of S.R. 2017 No. 205, regulations 3(3)(e) and 10(7)(e) of S.R. 2017 No. 219 and regulation 3(11)(a) of S.R. 2020 No. 108
+(8)
+Sub-paragraph (1A) was inserted by regulation 3(11)(b)(ii) of S.R. 2020 No. 108
+(9)
+Sub-paragraphs (2) to (5) were amended by Article 2(3) and paragraph 23(12)(b) of Schedule 3 to S.R. 2005 No. 536, regulation 4(8)(e) of S.R. 2010 No. 69 and regulation 3(11)(b)(iii) of S.R. 2020 No. 108. Sub-paragraph (6) was amended by regulation 3(11)(b)(iv) of S.R. 2020 No. 108
+(10)
+Sub-paragraph (1A) was inserted by regulation 3(12)(a)(ii)
+(11)
+Sub-paragraphs (2) to (5) were amended by Article 2(3) and paragraph 23(13)(c) of Schedule 3 to S.R. 2005 No. 536, regulation 4(8)(f) of S.R. 2010 No. 69 and regulation 3(12)(a)(iii) of S.R. 2020 No. 108. Sub-paragraph (6) was amended by regulation 3(12)(a)(iv) of S.R. 2020 No. 108
+(12)
+Paragraph 31 was amended by regulation 3(12)(b) of S.R. 2020 No. 108Amendment of the State Pension Credit Regulations
+4.—(1) The State Pension Credit Regulations (Northern Ireland) 2003(1) are amended in accordance with paragraphs (2) to (4).
+(2) In regulation 1(2) (citation, commencement and interpretation)—
+(a)
+in the appropriate place insert—
+““child abuse payment” means a payment from a scheme established or approved by the Secretary of State for the purpose of providing compensation in respect of historic institutional child abuse in the United Kingdom;”;
+(b)
+in the definition of “qualifying person”(2), after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”;
+(c)
+after the definition of “the We Love Manchester Emergency Fund”(3) add—
+““Windrush payment” means a payment made under the Windrush Compensation Scheme (Expenditure) Act 2020(4).”.
+(3) In paragraph 14(8) (persons residing with the claimant) of Schedule 2 (housing costs), after sub-paragraph (ba)(5) insert—
+“(bb)
+any child abuse payment;
+(bc)
+any Windrush payment;”.
+(4) In paragraph 15 of Schedule 5 (income from capital)—
+(a)
+in sub-paragraph (1A)(6) after “Grenfell Tower payment” insert “, child abuse payment, Windrush payment”;
+(b)
+in each of the sub-paragraphs (2) to (6)(7), after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”.
+(1)
+S.R. 2003 No. 28; relevant amending Rules are S.R. 2004 No. 213, S.R. 2005 Nos. 536 and 550, S.R. 2010 No. 69, S.R. 2011 No. 357, S.R. 2017 Nos. 205 and 219 and S.R. 2020 No. 108
+(2)
+The definition of “qualifying person” was amended by regulation 2 of S.R. 2004 No. 213, regulation 6(2)(b) of S.R. 2005 No. 550, regulation 6(3)(a) of S.R. 2010 No. 69, regulation 14(2)(b) of S.R. 2011 No. 357, regulation 4(2)(b) of S.R. 2017 No. 205, regulation 5(2)(c) of S.R. 2017 No. 219 and regulation 4(2)(b) of S.R. 2020 No. 108
+(3)
+The definition of “the We Love Manchester Emergency Fund” was added by regulation 4(2)(c) of S.R. 2017 No. 205
+(4)
+2020 c. 8.
+(5)
+Head (ba) was inserted by regulation 4(3)(b) of S.R. 2020 No. 108
+(6)
+Sub-paragraph (1A) was inserted by regulation 4(4)(a)(ii) of S.R. 2020 No. 108
+(7)
+Sub-paragraphs (2) to (5) were amended by Article 2(3) and paragraph 30(5)(e) of Schedule 3 to S.R. 2005 No. 536, regulation 6(7) of S.R. 2010 No. 69 and regulation 4(4)(a)(iii) of S.R. 2020 No. 108. Sub-paragraph (6) was amended by regulation 4(4)(a)(iv) of S.R. 2020 No. 108Amendment of the Housing Benefit Regulations
+5.—(1) The Housing Benefit Regulations (Northern Ireland) 2006(1) are amended in accordance with paragraphs (2) to (8).
+(2) In regulation 2(1) (interpretation)—
+(a)
+in the appropriate places insert—
+““child abuse payment” means a payment from a scheme established or approved by the Secretary of State for the purpose of providing compensation in respect of historic institutional child abuse in the United Kingdom;”;
+““Windrush payment” means a payment made under the Windrush Compensation Scheme (Expenditure) Act 2020;”;
+(b)
+in the definition of “qualifying person”(2), after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”.
+(3) In regulation 39(7A) (notional income)(3) for “a payment of income which is a Grenfell Tower payment” substitute—
+“any of the following payments of income—
+(a)
+a Grenfell Tower payment;
+(b)
+a child abuse payment;
+(c)
+a Windrush payment”.
+(4) In regulation 43(6) (income treated as capital)(4), after “Grenfell Tower payment” insert “, a child abuse payment, a Windrush payment”.
+(5) In regulation 46(4A) (notional capital)(5), for “a payment of capital which is a Grenfell Tower payment” substitute—
+““any of the following payments of capital—
+(a)
+a Grenfell Tower payment;
+(b)
+a child abuse payment;
+(c)
+a Windrush payment”.”
+(6) In regulation 72(9) (non-dependant deductions), after sub-paragraph (ba)(6) insert—
+“(bb)
+any child abuse payment;
+(bc)
+any Windrush payment;”.
+(7) In paragraph 37 of Schedule 6 (sums to be disregarded in the calculation of income other than earnings)—
+(a)
+for sub-paragraph (1A)(7) substitute—
+“(1A) Any—
+(a)
+Grenfell Tower payment;
+(b)
+child abuse payment;
+(c)
+Windrush payment.”.
+(b)
+in sub-paragraphs (2) to (6)(8), after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”.
+(8) In Schedule 7 (capital to be disregarded)—
+(a)
+in paragraph 25—
+(i)
+in sub-paragraph (1A)(9) after “Grenfell Tower payment” insert “, child abuse payment, Windrush payment”;
+(ii)
+in sub-paragraphs (2) to (6)(10), after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”;
+(b)
+in paragraph 35(11),after “Grenfell Tower payment” insert “, child abuse payment or Windrush payment”.
+(1)
+S.R. 2006 No. 405; relevant amending Regulation is S.R. 2020 No. 108
+(2)
+Definition of “qualifying person” was amended by regulations 5(2)(b) of S.R. 2020 No. 108
+(3)
+Paragraph (A) was inserted by regulation (5)(3)(c) of S.R. 2020 No. 108
+(4)
+Paragraph (6) was amended by regulation 5(4) of S.R. 2020 No. 108
+(5)
+Paragraph (4A) was inserted by regulation 5(5)(c) of S.R. 20202 No. 108
+(6)
+Sub-paragraph (ba) inserted by regulation 5(10) of S.R. 2020 No. 108
+(7)
+Paragraph (1A) was inserted by regulation 5(11)(b) of S.R. 2020 No. 108
+(8)
+Sub-paragraphs (2) to (6) were amended by regulation 5(11)(c) and (d) of S.R. 2020 No. 108
+(9)
+Sub-paragraph (1A) was inserted by regulation 512)(b)(ii) of S.R. 2020 No. 108
+(10)
+Sub-paragraphs (2) to (6) were amended by regulation 5(12)(b)(iii) and (iv) of S.R. 2020 No. 108
+(11)
+Paragraph 35 was amended by regulation 5(12)(c) of S.R. 2020 No. 108Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations
+6.—(1) The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006(1)are amended in accordance with paragraphs (2) to (4).
+(2) In regulation 2(1) (interpretation)—
+(a)
+in the appropriate places insert—
+““child abuse payment” means a payment from a scheme established or approved by the Secretary of State for the purpose of providing compensation in respect of historic institutional child abuse in the United Kingdom;”;
+““Windrush payment” means a payment made under the Windrush Compensation Scheme (Expenditure) Act 2020;”;
+(b)
+in the definition of “qualifying person”(2), after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”.
+(3) In regulation 53(10) (non-dependant deductions), after sub-paragraph (ba)(3) insert—
+“(bb)
+any child abuse payment;
+(bc)
+any Windrush payment;”.
+(4) In paragraph 16 of Schedule 7 (capital to be disregarded)—
+(a)
+in sub-paragraph (1A)(4) after “Grenfell Tower payment” insert “, child abuse payment, Windrush payment”;
+(b)
+in sub-paragraphs (2) to (6)(5), after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”.
+(1)
+S.R. 2006 No. 406; relevant amending Regulations are S.R. 2020 No. 108
+(2)
+Definition of “qualifying person” was amended by regulations 6(2)(b) of S.R. 2020 No. 108
+(3)
+Sub-paragraph (ba) was inserted by regulation 6(3)(b) of S.R. 2020 No. 108
+(4)
+Sub-paragraph (1A) was inserted by regulation 6(4)(a)(ii) of S.R. 2020 No. 108
+(5)
+Sub-paragraphs (2) to (6) were amended by regulation 6(4)(a)(iii) and (iv) of S.R. 2020 No. 108Amendment of the Employment and Support Allowance regulations
+7.—(1) The Employment and Support Allowance Regulations (Northern Ireland) 2008(1) are amended in accordance with paragraphs (2) to (8).
+(2) In regulation 2(1) (interpretation)—
+(a)
+in the appropriate places insert—
+““child abuse payment” means a payment from a scheme established or approved by the Secretary of State for the purpose of providing compensation in respect of historic institutional child abuse in the United Kingdom;”;
+““Windrush payment” means a payment made under the Windrush Compensation Scheme (Expenditure) Act 2020;”;
+(b)
+in the definition of “qualifying person”(2) after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”.
+(3) In regulation 107(5A)(3) (notional income - income due to be paid or income paid to or in respect of a third party) for “a payment of income which is a Grenfell Tower payment” substitute—
+“any of the following payments of income—
+(a)
+a Grenfell Tower payment;
+(b)
+child abuse payment;
+(c)
+a Windrush payment.”.
+(4) For regulation 112(8)(b)(4) (income treated as capital) substitute—
+“(b)
+any —
+(i)
+Grenfell Tower payment;
+(ii)
+child abuse payment;
+(iii)
+Windrush payment.”.
+(5) In regulation 115(5A)(5) (notional capital) for “a payment of capital which is a Grenfell Tower payment” substitute—
+“any of the following payments of capital—
+(a)
+a Grenfell Tower payment;
+(b)
+child abuse payment;
+(c)
+a Windrush payment.”.
+(6) In paragraph 19(8)(b)(6) (non-dependant deductions) of Schedule 6 (housing costs) after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”.
+(7) In Schedule 8 (sums to be disregarded in the calculation of income other than earnings)—
+(a)
+in paragraph 21(2)(7) after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”;
+(b)
+in paragraph 40—
+(i)
+for sub-paragraph (1A)(8) substitute—
+“(1A) any—
+(a)
+Grenfell Tower payment;
+(b)
+child abuse payment;
+(c)
+Windrush payment.”;
+(ii)
+in sub-paragraphs (2) to (5) after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”.
+(8) In Schedule 9 (capital to be disregarded)—
+(a)
+in paragraph 27(9)
+(i)
+in sub-paragraph (1A) after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”;
+(ii)
+in sub-paragraphs (2) to (5) after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”.
+(b)
+in paragraph 31(10)after Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”.
+(1)
+S.R. 2008 No. 280; relevant amending Regulation is S.R. 2020 No. 108
+(2)
+The definition of “qualifying person” was inserted by regulation 5(4) of S.R. 2020 No. 108
+(3)
+Regulation 107(5A) was inserted by regulation 7(3)(d) of S.R. 2020 No. 108
+(4)
+Regulation 112(8) was substituted by regulation 7(4) of S.R. 2020 No. 108
+(5)
+Regulation 115(5A) was inserted by regulation 7(5)(d) of S.R. 2020 No. 108
+(6)
+Paragraph 19(8)(b) was amended by regulation 7(10)(a) of S.R. 2020 No. 108
+(7)
+Paragraph 21(2) was amended by regulation 7(11)(a) (i) of S.R. 2020 No. 108
+(8)
+Sub-paragraph (1A) was substituted by regulation 7(11)(b) (ii) of S.R. 2020 No. 108
+(9)
+Paragraph 27 was amended by regulation 7(12)(a) (ii) to (iv) of S.R. 2020 No. 108
+(10)
+Paragraph 31 was substituted by regulation 7(12)(b) of S.R. 2020 No. 108Amendment of the Universal Credit Regulations
+8.—(1) Regulation 76 of the Universal Credit Regulations (Northern Ireland) 2016(1) (special schemes for compensation etc.) is amended as follows.
+(2) In paragraph (1)(a)—
+(i)
+after “in respect of” insert “any of the following”;
+(ii)
+omit “or” at the end of paragraph (vi);
+(iii)
+after paragraph (vi) insert—
+“(vii)
+historic institutional child abuse in the United Kingdom;”.
+(3) At the end of paragraph (1A) insert—
+“(d)
+the scheme established by the Windrush Compensation Scheme (Expenditure) Act 2020”.
+(1)
+S.R. 2016 No. 216. Relevant amendment made by S.R. 2020 No. 108.Amendment of the Social Security (Recovery of Benefits) Regulations
+9.  In regulation 2(2) of the Social Security (Recovery of Benefits) Regulations (Northern Ireland) 1997(1) (exempted trusts and payments) after sub-paragraph (r) insert—
+“(s)
+any payment made under the Windrush Compensation Scheme (Expenditure) Act 2020.”.”
+(1)
+S.R. 1997 No. 429; relevant amending Regulations are S.R. 2004 No. 213, S.R. 2005 No. 550, S.R. 2010 No. 269, S.R. 2011 No. 357, S.R. 2017 No. 219 and S.I. 2020/103Amendment of the Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations
+10.  In regulation 7(2) of the Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations (Northern Ireland) 2008(1) (exempted trusts and payments) after subparagraph (o) insert—
+“(p)
+any payment made under the Windrush Compensation Scheme (Expenditure) Act 2020.”.
+(1)
+S.R 2008 No. 355; relevant amending regulations are S.R. 2010 No. 269, S.R. 2011 No. 357, S.R. 2017 No.219 and S.I 2020/103Sealed with the Official Seal of the Department for Communities on 16th December 2021
+(L.S.)
+Anne McCleary
+A senior officer of the Department for Communities
+The Department of Finance hereby consents to regulations 5 and 6 the foregoing regulations.
+Sealed with the Official Seal of the Department of Finance on 16th December 2021
+(L.S.)
+Patrick Neeson
+A senior officer of the Department of FinanceEXPLANATORY NOTE
+(This note is not part of the Regulations)
+Regulations 2 to 8 of these Regulations amend respectively the Income Support (General) Regulations (Northern Ireland) 1987 (S.R. 1987 No. 459), the Jobseeker’s Allowance Regulations (Northern Ireland) 1996 (S.R. 1996 No. 198), the State Pension Credit Regulations (Northern Ireland) 2003 (S.R. 2003 No. 28), the Housing Benefit Regulations (Northern Ireland) 2006 (S.R. 2006 No. 405), the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006 (S.R. 2006 No. 406), the Employment and Support Allowance Regulations (Northern Ireland) 2008 (S.R. 2008 No. 280) and the Universal Credit Regulations (Northern Ireland) 2016 (S.R. 2016 No. 216).
+In particular, those amendments provide that payments made to a benefit recipient from a scheme established or approved by the Secretary of State to provide compensation in respect of historical child abuse in the United Kingdom; or under the Windrush Compensation (Expenditure) Act 2020 (c. 8) (“the Windrush Act”),are to be disregarded as income and capital and therefore, not taken into account for the purposes of calculating entitlement to the benefits referred to above.
+Regulations 9 and 10 amend respectively the Social Security (Recovery of Benefits) Regulations (Northern Ireland) 1997 (S.R. 1997 No. 429) and the Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations (Northern Ireland) 2008 (S.R. 2008 No.355) to ensure that the payments made under the Windrush Act referred to above are not to be regarded as compensation payments for the purposes of those regulations.
+These Regulations make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Work and Pensions in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the Social Security Administration (Northern Ireland) Act 1992 (c. 8), are not subject to requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.
+A full impact assessment has not been produced for these Regulations as no, or no significant, impact on the private, public or voluntary sectors is foreseen.

@@ -1,0 +1,183 @@
+Draft Regulations laid before the Scottish Parliament under section 160A(7) of the Environmental Protection Act 1990 for approval by resolution of the Scottish Parliament.
+DRAFT SCOTTISH STATUTORY INSTRUMENTS
+2024 No.
+ENVIRONMENTAL PROTECTION
+The Environmental Protection (Single-use Vapes) (Scotland) Regulations 2024
+Made
+2024
+Coming into force
+1st April 2025
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 140(1)(c), (3)(c) and (d), and (9) of the Environmental Protection Act 1990(1) and all other powers enabling them to do so.
+In accordance with section 140(6) of that Act(2), they have published notices in the London Gazette and in the Edinburgh Gazette and have considered the representations made to them in accordance with those notices.
+In accordance with section 160A(7) of that Act(3), a draft of this instrument has been laid before, and approved by resolution of, the Scottish Parliament.
+(1)
+1990 c. 43. Section 140(3)(c) was amended by S.I. 1999/1108. The functions of the Secretary of State under section 140, insofar as exercisable within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998 (c. 46).
+(2)
+Section 140(6) was amended by S.I. 2012/1923.
+(3)
+Section 160A was added by section 63 of the Environment Act 2021 (c. 30).Citation, commencement and extent
+1.—(1) These Regulations may be cited as the Environmental Protection (Single-use Vapes) (Scotland) Regulations 2024 and come into force on 1 April 2025.
+(2) These Regulations extend to Scotland only.Interpretation
+2.  In these Regulations—
+“authorised purpose” means the purpose of determining whether an offence under regulation 4 has been or is being committed,
+“container” means a cartridge, pod, tank, capsule or other any other receptacle designed to hold a vaping substance and be used with a vape,
+“enforcement officer” means a person authorised under regulation 8,
+“local authority” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994(1),
+“single-use vape” has the meaning in regulation 3,
+“supply” means supply, whether by sale or not, in the course of a business,
+“vape” means a device which—
+(a)
+vaporises substances, other than tobacco, for the purpose of inhalation through a mouthpiece (whether or not it also vaporises tobacco), and
+(b)
+is not a medical device within the meaning of regulation 2 of the Medical Devices Regulations 2002(2) or a medicinal product within the meaning of regulation 2 of the Human Medicines Regulations 2012(3),
+“vaping substance” means a substance, other than tobacco, that is intended to be vaporised with a vape,
+“vaporises” includes aerosolises and “vaporised” is to be construed accordingly.
+(1)
+1994 c. 39. Section 2 was amended by paragraph 232(1) of schedule 22 of the Environment Act 1995 (c. 25).
+(2)
+S.I. 2002/618, relevantly amended by S.I. 2008/2936.
+(3)
+S.I. 2012/1916 to which there are no relevant amendments.Meaning of single-use vape
+3.—(1) For the purposes of these Regulations, a single-use vape is a vape which is not designed or intended to be re-used (a “single-use vape”), and includes any vape which is—
+(a)
+not refillable,
+(b)
+not rechargeable, or
+(c)
+not refillable and not rechargeable.
+(2) For the purposes of this regulation, a vape is not refillable unless it is designed to include—
+(a)
+a single-use container which is separately available and can be replaced by an individual user in the normal course of use, or
+(b)
+a container which can be refilled by an individual user in the normal course of use.
+(3) For the purposes of this regulation, a vape is not rechargeable if it is designed to contain—
+(a)
+a battery which cannot be recharged, or
+(b)
+a coil which is not separately available and cannot be replaced by an individual user in the normal course of use, including any coil which is contained in a single-use cartridge or pod which is not separately available and cannot be replaced by an individual user in the normal course of use.
+(4) For the purposes of this regulation, “separately available” means available for purchase by an individual user.Offence: supply of single-use vapes
+4.—(1) A person who supplies, offers to supply, or has in their possession for supply, a single-use vape, commits an offence.
+(2) A person who commits an offence under paragraph (1) is liable—
+(a)
+on summary conviction to a fine not exceeding level 5 on the standard scale,
+(b)
+on conviction on indictment, to a term of imprisonment not exceeding 2 years, or a fine, or both.Offence: failure to comply with an enforcement requirement
+5.—(1) A person who fails without reasonable excuse to comply with any requirement imposed in the exercise of an enforcement’s officers’ powers under regulation 9(1)(c)(iii), (i) or (k) commits an offence.
+(2) A person who commits an offence under paragraph (1) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.Offences by bodies corporate
+6.—(1) Where—
+(a)
+an offence under these Regulations has been committed by a body corporate or a Scottish partnership or other unincorporated association, and
+(b)
+it is proved that the offence was committed with the consent or connivance of, or was attributable to any neglect on the part of—
+(i)
+a relevant individual, or
+(ii)
+an individual purporting to act in the capacity of a relevant individual,
+the individual as well as the body corporate, Scottish partnership or unincorporated association commits an offence and is liable to be proceeded against and punished accordingly.
+(2) In paragraph (1), “relevant individual” means—
+(a)
+in relation to a body corporate—
+(i)
+a director, manager, secretary or other similar officer of the body,
+(ii)
+where the affairs of the body are managed by its members, a member,
+(b)
+in relation to a Scottish partnership, a partner,
+(c)
+in relation to an unincorporated association other than a Scottish partnership, a person who is concerned in the management or control of the association.Defence of due diligence
+7.—(1) Where a person is charged with an offence under these Regulations, it is a defence for that person to show that the person took all reasonable precautions and exercised all due diligence to prevent the offence being committed.
+(2) Where the defence provided by paragraph (1) involves an allegation that the commission of the offence was due to the act or omission of another person, the person charged must not, without leave of the court, be entitled to rely on the defence unless, within the period of 7 days before the hearing, the person charged has served on the prosecutor a notice giving such information identifying or assisting in the identification of the other person as was then in the possession of the person charged.Enforcement
+8.—(1) A local authority may authorise any person to exercise in its area, for an authorised purpose and in accordance with the terms of the authorisation, any of the powers specified in regulation 9, if that person appears suitable to exercise them.
+(2) An authorisation under paragraph (1) must be in writing.Powers of entry, investigation and examination etc.
+9.—(1) The powers which an enforcement officer may be authorised to exercise are—
+(a)
+to enter at any reasonable time any premises (other than premises used wholly or mainly as a dwelling) which the enforcement officer has reason to believe it is necessary to enter for an authorised purpose,
+(b)
+when entering any premises under sub-paragraph (a)—
+(i)
+to be accompanied by another enforcement officer, and if the enforcement officer has reasonable cause to apprehend any serious obstruction in the execution of that person’s duty, a constable, and
+(ii)
+to bring any equipment or materials required for any authorised purpose for which the power of entry is being exercised,
+(c)
+on entering any premises under sub-paragraph (a)—
+(i)
+to make such examination and investigation as may in any circumstances be necessary,
+(ii)
+to take such measurements and photographs and make such recordings as the enforcement officer considers necessary for the purpose of any examination or investigation, and
+(iii)
+to require any person to produce, or where the information is recorded in computerised form, to furnish extracts from, any documents which it is necessary for the enforcement officer to see for the purposes of any such examination or investigation and to inspect and take copies of the documents,
+(d)
+as regards any premises which an enforcement officer has power to enter under sub-paragraph (a), to direct that those premises or any part of them, or anything in them, be left undisturbed (whether generally or in particular respects) for so long as is reasonably necessary for the purpose of examination or investigation under sub-paragraph (c),
+(e)
+to take any samples, or cause samples to be taken, of any single-use vapes, or components of single-use vapes found in or on any premises which an enforcement officer has power to enter under sub-paragraph (a), and to cause any such single-use vapes to be analysed or tested,
+(f)
+in the case of any single-use vape, or component of a single-use vape found in any premises which an enforcement officer has power to enter, to cause it to be dismantled or subjected to any process or test (but not so as to damage or destroy it, unless that is necessary),
+(g)
+in the case of any single-use vapes found in or on any premises which an enforcement officer has power to enter under sub-paragraph (a) to take possession of it and to retain it for so long as is necessary for all or any of the following purposes—
+(i)
+to examine it, and subject it to any process or test, or cause it to be examined, and subjected to any process or test,
+(ii)
+to ensure that it is not tampered with before the examination is completed,
+(iii)
+to ensure that it is available for use as evidence in any proceedings for an offence under these Regulations,
+(h)
+as regards any premises which an enforcement officer has power to enter under sub-paragraph (a), to search the premises and seize and remove any documents found in or on the premises which the enforcement officer has reasonable cause to believe may be required as evidence for the purposes of proceedings relating to an offence under regulation 4 which the enforcement officer reasonably believes is being or has been committed,
+(i)
+to require any person to afford the enforcement officer such facilities and assistance with respect to any matters or things within the person’s control or in relation to which that person has responsibilities as are necessary to enable the enforcement officer to exercise any of the powers conferred on the enforcement officers by this regulation,
+(j)
+as regards any premises which an enforcement officer has power to enter under sub-paragraph (a), to make a purchase of a single-use vape or enter into an agreement to secure the provision of a single-use vape, without first giving notice, or obtaining a warrant,
+(k)
+to require any person whom the enforcement officer has reasonable cause to believe to be able to give any information relevant to an examination or investigation under sub-paragraph (c) above, to provide the person’s name, address and date of birth.
+(2) An enforcement officer may not exercise the power in paragraph (1)(h) except under the authority of a warrant issued under regulation 10.
+(3) Any entry to premises by virtue of paragraph (1)(a) may only be effected under the authority of a warrant issued under regulation 10 if—
+(a)
+entry has been refused and the enforcement officer apprehends on reasonable grounds that the use of force may be necessary to effect entry,
+(b)
+the enforcement officer apprehends on reasonable grounds that entry is likely to be refused and that the use of force may be necessary to effect entry, or
+(c)
+the premises are unoccupied.
+(4) Where an enforcement officer removes a document under the power in sub-paragraph (1)(h), that contains information in respect of which a claim to confidentiality of communications could be maintained in legal proceedings—
+(a)
+the information may not be used in evidence for the purpose of proceedings in relation to an offence under these regulations, and
+(b)
+the document must be returned to the premises from which it was removed, or to the person who had possession or control of it immediately before it was removed, as soon as reasonably practicable after the information is identified as information to which a claim of confidentiality could be maintained (but, the person may retain, or take copies of any other information contained in the document).
+(5) Nothing in paragraph (1)(h) compels the production by a person of any document of which that person would on grounds of legal professional privilege be entitled to withhold production on an order for the production of documents in an action in the Court of Session.
+(6) An enforcement officer seeking to exercise a power under paragraph (1) must produce evidence of identity and authority if requested by a person who is, or appears to be—
+(a)
+a supplier, or employee of a supplier of single-use vapes,
+(b)
+the owner or occupier of any premises in which the enforcement officer seeks to exercise the power concerned.
+(7) In this regulation, “document” includes any thing in which information of any description is recorded (by any means) and any part of such a thing.Warrants
+10.—(1) A sheriff, summary sheriff or justice of the peace may by warrant authorise an enforcement officer to enter premises in accordance with the warrant and, if need by, by force,
+(2) A warrant may be granted under paragraph (1) if the sheriff, summary sheriff or justice of the peace is satisfied on sworn information in writing that—
+(a)
+there are reasonable grounds for entry into the premises for the purpose for which entry is required, and
+(b)
+one or more of the conditions in paragraph (3) are met.
+(3) The conditions mentioned in paragraph (1)(b) above are that—
+(a)
+admission to the premises has been refused,
+(b)
+a refusal of admission to the premises is reasonably apprehended,
+(c)
+the premises are unoccupied,
+(d)
+the occupier is temporarily absent from the premises and the case is one of urgency, or
+(e)
+an application for admission to the premises would defeat the object of the proposed entry.
+(4) A sheriff, summary sheriff or justice of the peace may by warrant authorise the enforcement officer to exercise the power in regulation 9(1)(h) in relation to any documents in accordance with the warrant and, if need by, by force.
+(5) A warrant may be granted under paragraph (4) if the sheriff, summary sheriff or justice of the peace is satisfied, on sworn information in writing, that there are reasonable grounds for the exercise in relation to any documents of the power in regulation 9(1)(h).
+(6) A warrant issued under this regulation continues in force until the purpose for which the entry is required has been satisfied.Name
+Authorised to sign by the Scottish Ministers
+St Andrew’s House,
+Edinburgh
+DateEXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations prohibit the supply, whether by sale or otherwise, in the course of business of single-use vapes and come into force on 1 April 2025.
+Regulation 4 provides that it is an offence for a person, in the course of business, to supply, offer to supply, or have in their possession for supply, single-use vapes. A person found guilty of an offence under regulation 4 is liable on summary conviction to a fine not exceeding level 5 on the standard scale and, on conviction on indictment, to a term of imprisonment not exceeding 2 years or a fine, or both.
+Regulation 5 provides that it is an offence for a person to fail without reasonable excuse to comply with a requirement imposed in the exercise of an enforcement officer’s powers under regulation 9(1)(c)(iii), (i) or (k). A person found guilty of an offence under regulation 5 is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+Regulation 6 makes provision for offences by bodies corporate, Scottish partnerships and unincorporated associations. Regulation 7 provides a due diligence defence.
+Regulation 8 provides that a local authority may authorise any person who appears suitable to exercise any of the powers specified in regulation 9.
+Regulation 9 provides for enforcement officers to have powers of entry and associated powers to carry out the necessary investigations in order to determine whether an offence has been or is being committed.
+Regulation 10 makes provision for enforcement officers to obtain warrants in certain circumstances.
+A Business Regulatory Impact assessment has been prepared and placed in the Scottish Parliament Information Centre. Copies can be obtained from the Scottish Government, Product Stewardship Division, Area 3H South, Victoria Quay, Edinburgh, EH6 6QQ.

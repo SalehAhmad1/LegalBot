@@ -1,0 +1,230 @@
+Draft Regulations laid before Parliament under paragraph 4(1) of Schedule 2 to the Trade Act 2021, for approval by resolution of each House of Parliament.
+DRAFT STATUTORY INSTRUMENTS
+2021 No.
+EXITING THE EUROPEAN UNION
+CONSUMER PROTECTION
+ELECTROMAGNETIC COMPATIBILITY
+ENERGY CONSERVATION
+ENVIRONMENTAL PROTECTION
+HEALTH AND SAFETY
+TELECOMMUNICATIONS
+WEIGHTS AND MEASURES
+The Conformity Assessment (Mutual Recognition Agreements) and Weights and Measures (Intoxicating Liquor) (Amendment) Regulations 2021
+Made
+***
+Coming into force
+***
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 2(1), 2(9)(a), 2(9)(b), 2(9)(c) and 4(1)(c) of the Trade Act 2021(1).
+In accordance with paragraph 4(1) of Schedule 2 to the Trade Act 2021 a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
+(1)
+2021 c.10. See section 5(1) of the Trade Act 2021 for the definition of “appropriate authority”.Citation and commencement
+1.  These Regulations may be cited as the Conformity Assessment (Mutual Recognition Agreements) and Weights and Measures (Intoxicating Liquor) (Amendment) Regulations 2021 and come into force on the day after the day on which these Regulations are made.Extent
+2.—(1) Regulations 4, 5, 8 and 9 extend to England and Wales and Scotland only.
+(2) Save for the regulations set out in paragraph (1), these Regulations extend to England and Wales, Scotland and Northern Ireland.Interpretation
+3.  In these Regulations—
+(a)
+“accreditation” means third-party attestation related to a conformity assessment body conveying formal demonstration of its competence to carry out specific conformity assessment activities;
+(b)
+“accreditation body” means an authoritative body that performs accreditation;
+(c)
+“approved body” has the meaning given to it in the specified Regulations(1);
+(d)
+“Canadian MRA” means the Protocol on the mutual acceptance of the results of conformity assessment to the Agreement on Trade Continuity between the United Kingdom of Great Britain and Northern Ireland and Canada(2);
+(e)
+“conformity assessment body” means a body that performs or is responsible for conformity assessment procedures;
+(f)
+“conformity assessment procedure” means a procedure to determine the extent to which a product, process or service fulfils specified requirements;
+(g)
+“conformity assessment result” means a result of any conformity assessment procedure carried out in respect of a product, process or service including—
+(i)
+a report, certificate, authorisation or decision including any annexes or additions thereto relating to such an assessment; or
+(ii)
+the affixation of an identification number by an MRA body;
+(h)
+“MRA” means(3)—
+(i)
+the Agreement on mutual recognition in relation to conformity assessment, certificates and markings between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Australia(4);
+(ii)
+the Agreement on mutual recognition in relation to conformity assessment between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of New Zealand(5);
+(iii)
+the Agreement on mutual recognition between the Government of the United Kingdom of Great Britain and Northern Ireland and the United States of America(6);
+(iv)
+Annex 2-B to the Free Trade Agreement between the United Kingdom of Great Britain and Northern Ireland and the Republic of Korea(7);
+(v)
+the Protocol on mutual recognition to the Agreement between the United Kingdom of Great Britain and Northern Ireland and Japan for a Comprehensive Economic Partnership(8); or
+(vi)
+the Canadian MRA;
+(i)
+“MRA body” means a conformity assessment body designated in respect of specified Regulations by the authorities of the other Party to the MRA responsible for designating conformity assessment bodies under the MRA and that is recognised by the United Kingdom under the MRA;
+(j)
+“other Party” means the party to the MRA which is not the United Kingdom;
+(k)
+“the specified Regulations” means any of the Regulations listed in Schedule 1;
+(l)
+“United Kingdom Accreditation Service” means the company limited by guarantee incorporated in England and Wales under number 03076190;
+(m)
+“UK-recognised Canadian accreditation body” means an accreditation body established in Canada and recognised by the United Kingdom under the Canadian MRA as competent to accredit conformity assessment bodies in relation to the specified Regulations, save for those specified in paragraph 8 of Schedule 1.
+(1)
+The term “approved body” was introduced into the specified Regulations with effect from IP completion day by S.I. 2019/696.
+(2)
+The agreement was published in CP 351. An electronic copy of CP 351 can be found at https://www.gov.uk/government/publications/ukcanada-agreement-on-trade-continuity-cs-canada-no12020. Hard copies are available upon request from the Regulatory Environment Team, Department for International Trade, King Charles Street, Whitehall, London, SW1A 2AH, United Kingdom.
+(3)
+All of the agreements listed here are international trade agreements where the other signatory and the European Union were signatories to an international trade agreement immediately before exit day.
+(4)
+The agreement was published in CP 28. An electronic copy of CP 28 can be found at https://www.gov.uk/government/publications/cs-australia-no22019-ukaustralia-agreement-on-mutual-recognition-in-relation-to-conformity-assessment-certificates-and-markings. Hard copies are available upon request from the Regulatory Environment Team, Department for International Trade, King Charles Street, Whitehall, London, SW1A 2AH, United Kingdom (“the Regulatory Environment Team”).
+(5)
+The agreement was published in CP 27. An electronic copy of CP 27 can be found at https://www.gov.uk/government/publications/cs-new-zealand-no22019-uknew-zealand-agreement-on-mutual-recognition-in-relation-to-conformity-assessment. Hard copies are available upon request from the Regulatory Environment Team.
+(6)
+The agreement was published in CP 54. An electronic copy of CP 54 can be found at https://www.gov.uk/government/publications/cs-usa-no52019-ukusa-agreement-on-mutual-recognition. Hard copies are available upon request from the Regulatory Environment Team.
+(7)
+The agreement was published in CP 167. An electronic copy of CP 167 can be found at https://www.gov.uk/government/publications/ukkorea-free-trade-agreement-with-exchange-of-notes-cs-korea-no12019. Hard copies are available upon request from the Regulatory Environment Team.
+(8)
+The agreement was published in CP 311. An electronic copy of CP 311 can be found at https://www.gov.uk/government/publications/ukjapan-agreement-for-a-comprehensive-economic-partnership-cs-japan-no12020. Hard copies are available upon request from the Regulatory Environment Team.Recognition of conformity assessment
+4.—(1) Paragraph (2) applies where, pursuant to an MRA, the United Kingdom is required to recognise or accept a conformity assessment procedure performed or a conformity assessment result issued by an MRA body in respect of a product, process or service to which the specified Regulations apply (a “mutually recognised procedure or conformity assessment result”).
+(2) For the purpose of the specified Regulations which are referred to in paragraph (1), the mutually recognised procedure or conformity assessment result is to be treated as if it were performed or issued by an approved body.Registers of MRA bodies and UK-recognised Canadian accreditation bodies
+5.—(1) The Secretary of State may—
+(a)
+assign an identification number to each MRA body (an “MRA body identification number”);
+(b)
+compile and maintain a register of—
+(i)
+MRA bodies;
+(ii)
+their MRA body identification numbers;
+(iii)
+the activities for which they have been designated; and
+(iv)
+any restriction on those activities; and
+(c)
+compile and maintain a register of—
+(i)
+UK-recognised Canadian accreditation bodies;
+(ii)
+the specified Regulations for which they have been recognised; and
+(iii)
+any restriction on their accreditation activities.
+(2) Any register referred to in paragraph (1) must be made publicly available.
+(3) The Secretary of State may authorise the United Kingdom Accreditation Service to compile and maintain the registers referred to in paragraph (1).Designation of UK bodies
+6.—(1) The Secretary of State may designate for the purpose of an MRA a conformity assessment body to perform conformity assessment procedures against the legislative, regulatory and administrative requirements of the other Party that are set out in or relate to products specified in an annex or appendix to an MRA listed in Schedule 2 (referred to in this regulation as a “designated body”) and any such designation must include the scope of the activities for which the body is designated.
+(2) A body may be designated under paragraph (1) only if the Secretary of State considers that the body is capable of fulfilling the functions of and meets the requirements for a designated body arising out of the MRA (referred to in this regulation as having “designated capability”).
+(3) For the purposes of paragraph (2), subject to paragraph (4), the Secretary of State may accept a certificate or schedule, issued by the United Kingdom Accreditation Service, attesting that a conformity assessment body has designated capability, as sufficient evidence that the conformity assessment body has designated capability.
+(4) In relation to designation under the Canadian MRA, for the purposes of paragraph (2), where the United Kingdom Accreditation Service has not been recognised by Canada under the Canadian MRA as competent to provide the certificate or schedule referred to in paragraph (3), the Secretary of State may accept an attestation that a conformity assessment body has designated capability issued by another accreditation body as sufficient evidence that the conformity assessment body has designated capability, provided that other accreditation body has been duly recognised by Canada as competent to issue such attestation.
+(5) The Secretary of State must monitor each designated body with a view to verifying that the designated body continues to have designated capability.
+(6) The Secretary of State may vary the scope of the activities for which the designated body has been designated.
+(7) The Secretary of State may restrict, suspend or withdraw any designation of a body under paragraph (1) if—
+(a)
+the body so requests;
+(b)
+the Secretary of State considers that the body no longer has designated capability; or
+(c)
+the Secretary of State is required to do so under the MRA.
+(8) Before—
+(a)
+effecting a variation under paragraph (6); or
+(b)
+restricting, suspending or withdrawing a designation under paragraph (7), otherwise than at the designated body’s request or when required to do so under the MRA,
+the Secretary of State must notify and give to the designated body an opportunity to make representations within a reasonable period from the date of the notice and consider any such representations made by the designated body.
+(9) The Secretary of State may compile and maintain a register of designated bodies and the activities for which they have been designated.
+(10) The Secretary of State may authorise the United Kingdom Accreditation Service to carry out the following activities under this regulation on behalf of the Secretary of State—
+(a)
+assessing whether a conformity assessment body has designated capability;
+(b)
+monitoring designated bodies in accordance with paragraph (5); or
+(c)
+compiling and maintaining the register of designated bodies in accordance with paragraph (9); and
+(d)
+verifying that the accreditation body referred to in paragraph (4) has been duly recognised by Canada.Disclosure of information pursuant to an MRA
+7.—(1) The Secretary of State, or a person authorised to act on behalf of the Secretary of State, may disclose relevant information to the other Party.
+(2) A disclosure made in accordance with paragraph (1) does not breach any obligation of confidence owed by the Secretary of State.
+(3) Nothing in this regulation authorises a disclosure of information which contravenes the data protection legislation (but in determining whether a disclosure would do so, the powers conferred by this regulation are to be taken into account).
+(4) In this regulation—
+“the data protection legislation” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act)(1);
+“relevant information” means information that the United Kingdom is required to disclose to the other Party under an MRA.
+(1)
+2018 c. 12. There are amendments to this Act but none are relevant to these Regulations.Amendment of the Weights and Measures (Intoxicating Liquor) Order 1988
+8.—(1) The Weights and Measures (Intoxicating Liquor) Order 1988(1) is amended as follows.
+(2) In article 1(2), after the definition of “made wine” but before the “and” insert—
+““single distilled shochu” means the spirit drink known as single distilled shochu which is single distilled, produced by pot still and bottled in Japan;”.
+(3) In the table in Schedule A1, in the row relating to “Spirit drinks”, in the fourth column, at the end, insert “, or single distilled shochu in containers of a capacity of 720 ml, 900 ml or 1800 ml”.
+(1)
+S.I. 1988/2039, amended by S.I. 2009/663; there are other amending instruments but none is relevant.Amendment of Regulation (EC) No 110/2008
+9.  In Regulation (EC) No 110/2008 of the European Parliament and of the Council of 15 January 2008 on the definition, description, presentation, labelling and the protection of geographical indications of spirit drinks and repealing Council Regulation (EEC) No 1576/89(1), omit Article 24a.
+(1)
+EUR 2008/110.Name
+Parliamentary Under Secretary of State
+Department for Business, Energy and Industrial Strategy
+DateRegulation 3
+SCHEDULE 1
+Specified Regulations
+1.  The Noise Emission in the Environment by Equipment for use Outdoors Regulations 2001(1).
+2.  The Supply of Machinery (Safety) Regulations 2008(2).
+3.  The Ecodesign for Energy-Related Products Regulations 2010(3) with respect to hot water boilers and related appliances only.
+4.  The Toys (Safety) Regulations 2011(4).
+5.  The Electromagnetic Compatibility Regulations 2016(5).
+6.  The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations 2016(6).
+7.  The Measuring Instruments Regulations 2016(7).
+8.  The Simple Pressure Vessels (Safety) Regulations 2016(8).
+9.  The Radio Equipment Regulations 2017(9).
+10.  The Recreational Craft Regulations 2017(10).
+(1)
+S.I. 2001/1701, amended by S.I. 2019/696; there are other amending instruments but none is relevant.
+(2)
+S.I. 2008/1597, amended by S.I. 2019/696; there are other amending instruments but none is relevant.
+(3)
+S.I. 2010/2617, amended by S.I. 2019/539; there are other amending instruments but none is relevant.
+(4)
+S.I. 2011/1881, amended by S.I. 2019/696; there are other amending instruments but none is relevant.
+(5)
+S.I. 2016/1091, amended by S.I. 2019/696; there are other amending instruments but none is relevant.
+(6)
+S.I. 2016/1107, amended by S.I. 2019/696; there are other amending instruments but none is relevant.
+(7)
+S.I. 2016/1153, amended by S.I. 2019/696; there are other amending instruments but none is relevant.
+(8)
+S.I. 2016/1092, amended by S.I. 2019/696; there are other amending instruments but none is relevant.
+(9)
+S.I. 2017/1206, amended by S.I. 2019/696; there are other amending instruments but none is relevant.
+(10)
+S.I. 2017/737, amended by S.I. 2019/696; there are other amending instruments but none is relevant.Regulation 6
+SCHEDULE 2
+Annexes and Appendices to the MRAs
+For the Australian and New Zealand MRAs
+1.  Sectoral annex on telecommunications terminal equipment(1).
+2.  Sectoral annex on low voltage equipment.
+3.  Sectoral annex on electromagnetic compatibility.
+4.  Sectoral annex on machinery.
+5.  Sectoral annex on pressure equipment, in relation to simple pressure vessels.
+For the US MRA
+6.  Sectoral annex for telecommunications equipment.
+7.  Sectoral annex for electromagnetic compatibility.
+For the Korean MRA
+8.    Appendix 2-B-1 (electronics).
+For the Japanese MRA
+9.  Sectoral annex on telecommunications terminal equipment and radio equipment.
+10.  Sectoral annex on electrical products.
+For the Canadian MRA
+11.  Annex 1 (product coverage).
+(1)
+The Australian MRA incorporates mutatis mutandis the sectoral annexes from the Agreement on mutual recognition in relation to conformity assessment, certificates and markings between the European Community and Australia dated 24 June 1998 (OJ L 229, 17.8.1998, p.3), as amended by Decisions No. 01/2005 (OJ L 333, 20.12.2005, p.51) and No. 02/2005 (OJ L 333, 20.12.2005, p.53) of the Joint Committee of 11 November 2005 and the Agreement between the European Union and Australia dated 23 February 2012 (OJ L 359, 29.12.2012, p.2). The New Zealand MRA incorporates mutatis mutandis the sectoral annexes from the Agreement on mutual recognition in relation to conformity assessment between the European Community and New Zealand dated 25 June 1998 (OJ L 229, 17.8.1998, p.2) and any subsequent amendments made thereto prior to the date on which it ceases to apply to the United Kingdom.EXPLANATORY NOTE
+(This note is not part of the Regulations)
+Part 2 is made in order to implement the following mutual recognition agreements (the “MRAs”) signed as a result of the withdrawal of the UK from the European Union—
+(a)
+the Agreement on mutual recognition in relation to conformity assessment, certificates and markings between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Australia, copies of which may be downloaded from https://www.gov.uk/government/publications/cs-australia-no22019-ukaustralia-agreement-on-mutual-recognition-in-relation-to-conformity-assessment-certificates-and-markings;
+(b)
+the Agreement on mutual recognition in relation to conformity assessment between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of New Zealand, copies of which may be downloaded from https://www.gov.uk/government/publications/cs-new-zealand-no22019-uknew-zealand-agreement-on-mutual-recognition-in-relation-to-conformity-assessment;
+(c)
+the Agreement on mutual recognition between the Government of the United Kingdom of Great Britain and Northern Ireland and the United States of America, copies of which may be downloaded from https://www.gov.uk/government/publications/cs-usa-no52019-ukusa-agreement-on-mutual-recognition;
+(d)
+Annex 2-B to the Free Trade Agreement between the United Kingdom of Great Britain and Northern Ireland and the Republic of Korea, copies of which may be downloaded from https://www.gov.uk/government/publications/ukkorea-free-trade-agreement-with-exchange-of-notes-cs-korea-no12019;
+(e)
+the Protocol on mutual recognition of conformity assessment to the Agreement between the United Kingdom of Great Britain and Northern Ireland and Japan for a Comprehensive Economic Partnership, copies of which may be downloaded from https://www.gov.uk/government/publications/ukjapan-agreement-for-a-comprehensive-economic-partnership-cs-japan-no12020;
+(f)
+the Protocol on the mutual acceptance of the results of conformity assessment to the Agreement on Trade Continuity between the United Kingdom of Great Britain and Northern Ireland and Canada (the “Canadian MRA”), copies of which may be downloaded from https://www.gov.uk/government/publications/ukcanada-agreement-on-trade-continuity-cs-canada-no12020.
+The MRAs are signed with countries with which the European Union has existing mutual recognition agreements. The MRAs require the UK to accept conformity assessment procedures performed and conformity assessment results issued by conformity assessment bodies designated by the other country which is a signatory to the MRA, in respect of certain products, processes or services. The conformity assessment result or conformity assessment procedure may confirm that the product, process or service concerned complies with the requirements of the legislation which applies to that product, process or service, as listed in Schedule 1. Regulation 4(2) requires the UK to accept that conformity assessment result or conformity assessment procedure as if it were issued or performed by an approved body for the purposes of the legislation listed in Schedule 1. To the extent that these Regulations contain provision in the areas of the protection of human or animal life or health or environmental protection, the provision is consistent with maintaining UK levels of statutory protection in that area.
+Regulation 5 provides that the Secretary of State may assign an identification number to the conformity assessment body designated by the other Party to the MRA and compile and maintain a public register of the MRA bodies and, pursuant to the Canadian MRA, a public register of accreditation bodies established in Canada and recognised by the UK as competent to accredit conformity assessment bodies in relation to any of the Regulations listed in Schedule 1 (except those specified in paragraph 8).
+Regulations 4 and 5 extend to England and Wales and Scotland only (regulation 2(1)). Northern Ireland will continue to recognise mutual recognition agreements signed by the European Union in accordance with the Conformity Assessment (Mutual Recognition Agreement) Regulations 2019 (S.I. 2019/392).
+Regulation 6 provides that the Secretary of State may designate conformity assessment bodies for the purpose of assessing conformity assessment procedures against the legislative, regulatory and administrative requirements of the other party to the MRA in respect of the annexes and appendices to the MRAs listed in Schedule 2. Regulations 6(2) to 6(9) set out what is involved in that designation and regulation 6(10) provides that certain functions involved in designation may be carried out by the United Kingdom Accreditation Service.
+Regulation 7 provides that the Secretary of State, or a person authorised to act on behalf of the Secretary of State, may disclose information to the other Party to an MRA as required under that MRA.
+Part 3 extends to England and Wales and Scotland only (regulation 2(1)) and implements Annex 2-D to the Agreement between the United Kingdom of Great Britain and Northern Ireland and Japan for a Comprehensive Economic Partnership (the “UK-Japan CEPA”). Regulation 8 provides that pre-packed single distilled shochu, a spirit drink which is single distilled, produced by pot still and bottled in Japan, may be placed on the market in Great Britain in 720 ml, 900 ml and 1800 ml containers. Regulation 9 omits Article 24a of Regulation (EC) No 110/2008 of the European Parliament and of the Council of 15 January 2008 on the definition, description, presentation, labelling and the protection of geographical indications of spirit drinks and repealing Council Regulation (EEC) No 1576/89, which implements the commitment in the Agreement between the European Union and Japan for an Economic Partnership to allow single distilled shochu to be placed on the EU market in quantities of 720 ml and 1800 ml, since that provision is redundant following amendments made by regulation 8.
+Hard copies of the MRAs and the UK-Japan CEPA may be obtained upon request from the Regulatory Environment Team, Department for International Trade, King Charles Street, Whitehall, London, SW1A 2AH, United Kingdom.
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.

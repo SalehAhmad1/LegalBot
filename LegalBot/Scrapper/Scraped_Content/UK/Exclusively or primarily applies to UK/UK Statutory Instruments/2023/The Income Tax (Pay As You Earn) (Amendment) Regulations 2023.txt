@@ -1,0 +1,39 @@
+STATUTORY INSTRUMENTS
+2023 No. 307
+INCOME TAX
+The Income Tax (Pay As You Earn) (Amendment) Regulations 2023
+Made
+at 10.30 a.m. on 13th March 2023
+Laid before the House of Commons
+14th March 2023
+Coming into force
+6th April 2023
+The Commissioners for His Majesty’s Revenue and Customs, in exercise of the powers conferred by section 136 of the Finance Act 2002(1) and section 684(1) and (2) of the Income Tax (Earnings and Pensions) Act 2003(2), now exercisable by them(3), make the following Regulations:
+(1)
+2002 c. 23.
+(2)
+2003 c. 1. Section 684 was relevantly amended by paragraph 102(2) of Schedule 4 to the Commissioners for Revenue and Customs Act 2005 (c. 11) (“CRCA”) and paragraphs 2 and 3(2) of Schedule 58 to the Finance Act 2009 (c. 10).
+(3)
+The functions of the Commissioners of Inland Revenue were transferred to the Commissioners for His Majesty’s Revenue and Customs by section 5 of CRCA. Section 50(1) of CRCA provides that, in so far as it is appropriate in consequence of section 5, a reference, however expressed, to the Commissioners of Inland Revenue is to be read as a reference to the Commissioners for His Majesty’s Revenue and Customs.Citation and commencement
+1.  These Regulations may be cited as the Income Tax (Pay As You Earn) (Amendment) Regulations 2023 and come into force on 6th April 2023.Amendment of the Income Tax (Pay As You Earn) Regulations 2003
+2.—(1) The Income Tax (Pay As You Earn) Regulations 2003(1) are amended as follows.
+(2) In regulation 207 (specified information), after paragraph (1)(e) insert—
+“(f)
+the return and accompanying information required by regulation 85 (employers: annual return of other earnings (Form P11D)).”.
+(3) In regulation 210 (penalty for failing to deliver specified information)—
+(a)
+in paragraph (1), at the beginning, for “An” substitute “Subject to paragraph (5), an”;
+(b)
+after paragraph (4), insert—
+“(5) Where the specified information is the return and accompanying information required by regulation 85 (employers: annual return of other earnings (Form P11D)) this regulation does not apply.”.
+(1)
+S.I. 2003/2682; relevant amending instruments are S.I. 2007/2969, 2009/2029, 2010/668, 2014/472 and 2015/1927.Jim Harra
+Angela MacDonald
+Two of the Commissioners for His Majesty’s Revenue and Customs
+At 10.30 a.m. on 13th March 2023EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the Income Tax (Pay As You Earn) Regulations 2003 (S.I. 2003/2682) (“the PAYE Regulations”).
+The Regulations come into force on 6th April 2023.
+Regulation 2(2) makes it mandatory for employers, other than those listed at regulation 206 of the PAYE Regulations, to deliver the return and information required by regulation 85 by an approved method of electronic communication. The return and information required by regulation 85 covers expenses and benefits an employer provides to its employees.
+Regulation 2(3) provides that failing to comply with this new requirement to use an approved method of electronic communication will not give rise to a penalty under regulation 210 of the PAYE Regulations.
+A Tax Information and Impact Note has not been prepared in relation to these changes as they contain no substantive changes to tax policy.

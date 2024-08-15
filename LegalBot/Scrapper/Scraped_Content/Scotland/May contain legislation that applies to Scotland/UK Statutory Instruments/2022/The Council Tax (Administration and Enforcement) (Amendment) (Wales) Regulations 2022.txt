@@ -1,0 +1,67 @@
+WELSH STATUTORY INSTRUMENTS
+2022 No. 107 (W. 38)
+COUNCIL TAX, WALES
+The Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2022
+Made
+7 February 2022
+Laid before Senedd Cymru
+9 February 2022
+Coming into force
+1 April 2022
+The Welsh Ministers make the following Regulations in exercise of the powers conferred upon the Secretary of State by paragraphs 1(1) and 5(2)(e) of Schedule 4 to the Local Government Finance Act 1992(1), and now vested in them(2).
+(1)
+1992 c. 14.
+(2)
+The powers of the Secretary of State were transferred, in relation to Wales, to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672). The functions of the National Assembly for Wales were subsequently transferred to the Welsh Ministers by section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act 2006 (c. 32).Title, commencement, application and interpretation
+1.—(1) The title of these Regulations is the Council Tax (Administration and Enforcement) (Amendment) (Wales) Regulations 2022.
+(2) These Regulations come into force on 1 April 2022.
+(3) These Regulations apply in relation to Wales.
+(4) In these Regulations—
+“attachment of earnings order” (“gorchymyn atafaelu enillion”) has the meaning given by regulation 32 of the 1992 Regulations;
+“the 1992 Regulations” (“Rheoliadau 1992”) means the Council Tax (Administration and Enforcement) Regulations 1992(1).
+(1)
+S.I. 1992/613, amended by S.I. 2007/582 (W. 54); there are other amending instruments but none are relevant to these Regulations.Amendments to the 1992 Regulations
+2.  For Schedule 4 (deductions to be made under attachment of earnings order) to the 1992 Regulations, substitute the Schedule to these Regulations.Rebecca Evans
+Minister for Finance and Local Government, one of the Welsh Ministers
+7 February 2022Regulation 2
+SCHEDULE
+“SCHEDULE 4
+Deductions to be made under Attachment of Earnings Order
+TABLE A
+DEDUCTIONS FROM WEEKLY EARNINGS
+(1) (2)
+Net Earnings Deduction rate (percentage)
+Not exceeding £105 0
+Exceeding £105 but not exceeding £190 3
+Exceeding £190 but not exceeding £260 5
+Exceeding £260 but not exceeding £320 7
+Exceeding £320 but not exceeding £505 12
+Exceeding £505 but not exceeding £715 17
+Exceeding £715 17 in respect of the first £715, then 50 in respect of the remainder
+TABLE B
+DEDUCTIONS FROM MONTHLY EARNINGS
+(1) (2)
+Net Earnings Deduction rate (percentage)
+Not exceeding £430 0
+Exceeding £430 but not exceeding £780 3
+Exceeding £780 but not exceeding £1,050 5
+Exceeding £1,050 but not exceeding £1,280 7
+Exceeding £1,280 but not exceeding £2,010 12
+Exceeding £2,010 but not exceeding £2,860 17
+Exceeding £2,860 17 in respect of the first £2,860, then 50 in respect of the remainder
+TABLE C
+DEDUCTIONS BASED ON DAILY EARNINGS
+(1) (2)
+Net Earnings Deduction rate (percentage)
+Not exceeding £16 0
+Exceeding £16 but not exceeding £28 3
+Exceeding £28 but not exceeding £38 5
+Exceeding £38 but not exceeding £47 7
+Exceeding £47 but not exceeding £74 12
+Exceeding £74 but not exceeding £102 17
+Exceeding £102 17 in respect of the first £102, then 50 in respect of the remainder”EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations, which apply in relation to Wales, amend the Council Tax (Administration and Enforcement) Regulations 1992 (“the 1992 Regulations”).
+Schedule 4 to the 1992 Regulations specifies deductions to be made under an attachment of earnings order, that can be directed by a billing authority (county or county borough council) to the employer of a person who has received a liability order from a magistrates’ court under paragraph 3 of Schedule 4 (liability orders) to the Local Government Finance Act 1992.
+The Schedule to these Regulations replaces Schedule 4 to the 1992 Regulations, and includes revised deductions from weekly, monthly and daily earnings relating to attachment of earning orders made on or after 1 April 2022.
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, it was not considered necessary to carry out a regulatory impact assessment as to the likely costs and benefits of complying with these Regulations.

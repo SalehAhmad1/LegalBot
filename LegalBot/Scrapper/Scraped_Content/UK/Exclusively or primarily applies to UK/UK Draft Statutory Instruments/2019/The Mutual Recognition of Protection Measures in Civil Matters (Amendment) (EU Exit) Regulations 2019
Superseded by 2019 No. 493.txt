@@ -1,0 +1,142 @@
+Draft Regulations laid before Parliament under paragraph 1(3) of Schedule 7 to the European Union (Withdrawal) Act 2018, for approval by resolution of each House of Parliament.
+DRAFT STATUTORY INSTRUMENTS
+2019 No. 0000
+EXITING THE EUROPEAN UNION, ENGLAND AND WALES
+EXITING THE EUROPEAN UNION, NORTHERN IRELAND
+COUNTY COURT, ENGLAND AND WALES
+FAMILY COURT, ENGLAND AND WALES
+JUDGMENTS, ENGLAND AND WALES
+JUDGMENTS, NORTHERN IRELAND
+SENIOR COURTS OF ENGLAND AND WALES
+SUPREME COURT OF ENGLAND AND WALES
+The Mutual Recognition of Protection Measures in Civil Matters (Amendment) (EU Exit) Regulations 2019
+Made
+***
+Coming into force in accordance with regulation 1(1)
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 8(1) of the European Union (Withdrawal) Act 2018(1).
+In accordance with paragraph 1(3) of Schedule 7 to that Act, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
+(1)
+2018 c. 16.Citation, commencement and extent
+1.—(1) These Regulations may be cited as the Mutual Recognition of Protection Measures in Civil Matters (Amendment) (EU Exit) Regulations 2019 and come into force on exit day.
+(2) Subject to paragraph (3), these Regulations extend to England and Wales and Northern Ireland.
+(3) The amendments made by regulations 2 and 3 have the same extent as the provisions to which they relate.Amendment of the Senior Courts Act 1981
+2.  In Schedule 1 to the Senior Courts Act 1981(1), in paragraph 3(l) (distribution of business in High Court: Family Division), for “Member State other than the United Kingdom” substitute “participating Member State (within the meaning of that Regulation)”.
+(1)
+1981 c. 54. Paragraph 3(l) was inserted by S.I. 2014/3298. There are other amendments to Schedule 1, but none is relevant to this instrument.Amendment of the Family Court (Composition and Distribution of Business) Rules 2014
+3.  In rule 12A of the Family Court (Composition and Distribution of Business) Rules 2014(1) (interpretation), in the definition of “incoming protection measure”, omit “the United Kingdom or”.
+(1)
+S.I. 2014/840, as amended by S.I. 2014/3297. There are other amendments, but none is relevant to this instrument.Amendment of the Civil Jurisdiction and Judgments (Protection Measures) Regulations 2014
+4.  In the Civil Jurisdiction and Judgments (Protection Measures) Regulations 2014(1)—
+(a)
+in regulation 2 (interpretation), in the definition of “incoming protection measure”, omit “the United Kingdom or”,
+(b)
+in regulation 3 (jurisdiction in relation to incoming protection measures), omit paragraphs (1) and (2).
+(1)
+S.I. 2014/3298.Amendment of Regulation (EU) 606/2013
+5.—(1) Regulation (EU) 606/2013 of the European Parliament and of the Council of 12 June 2013 on mutual recognition of protection measures in civil matters is amended as follows.
+(2) In Article 1 (subject matter)—
+(a)
+after “recognition” insert “, in England and Wales or Northern Ireland,”,
+(b)
+for “Member State” substitute “participating Member State”.
+(3) In Article 2 (scope)—
+(a)
+for paragraph 1 substitute—
+“1.  This Regulation applies where the recognition or enforcement of a protection measure in civil matters ordered by an issuing authority is sought in England and Wales or Northern Ireland.”,
+(b)
+omit paragraph 2,
+(c)
+in paragraph 3 after “Regulation (EC) 2201/2003” insert “as it has effect in EU law or as it has effect in the law of England and Wales and Northern Ireland”.
+(4) In Article 3 (definitions)—
+(a)
+in point (1), for “the Member State of origin” substitute “a participating Member State”,
+(b)
+in point (4)—
+(i)
+for “a Member State” substitute “a participating Member State”,
+(ii)
+for “this Regulation” substitute “the MRP Regulation”,
+(iii)
+for “the Member State” substitute “the participating Member State”,
+(c)
+for point (5) substitute—
+“(5) “participating Member State” means a Member State other than Denmark;
+(5A) “MRP Regulation” means Regulation (EU) 606/2013 of the European Parliament and of the Council of 12 June 2013 on mutual recognition of protection measures in civil matters(1) as it has effect in EU law;
+(5B) “the competent court”, in relation to the recognition or enforcement of a protection measure—
+(a)
+in England and Wales, means the family court, the county court or the High Court;
+(b)
+in Northern Ireland, means a county court or the High Court;”,
+(d)
+omit point (6).
+(5) In Article 4 (recognition and enforcement)—
+(a)
+in paragraph 1 for “ordered in a Member State shall be recognised in the other Member States” substitute “shall be recognised by the competent court”,
+(b)
+for paragraph 2 substitute—
+“2.  A protected person who wishes to invoke a protection measure in England and Wales or Northern Ireland must provide the competent court with—
+(a)
+a valid copy of the protection measure,
+(b)
+the certificate issued in the participating Member State pursuant to Article 5 of the MRP Regulation, and
+(c)
+where necessary, a transliteration and/or a translation of the certificate into English.”,
+(c)
+in paragraph 5, for “the Member State addressed” substitute “England and Wales, or Northern Ireland (as the case may be)”.
+(6) Omit Articles 5 to 10.
+(7) In Article 11 (adjustment of the protection measure)—
+(a)
+in paragraph 1—
+(i)
+for “competent authority of the Member State addressed” substitute “competent court”,
+(ii)
+for “that Member State” substitute “England and Wales, or Northern Ireland (as the case may be)”,
+(b)
+in paragraph 2, for “the Member State addressed” substitute “England and Wales, or Northern Ireland (as the case may be)”,
+(c)
+in paragraph 4—
+(i)
+for the first subparagraph substitute—
+“The notification shall be effected in accordance with the law of England and Wales, or Northern Ireland (as the case may be).”,
+(ii)
+in the second subparagraph for “the Member State addressed” substitute “England and Wales, or Northern Ireland (as the case may be)”,
+(d)
+in paragraph 5, for “the Member State addressed” substitute “England and Wales, or Northern Ireland (as the case may be)”.
+(8) In Article 12 (no review as to substance)—
+(a)
+omit “ordered in the Member State of origin”,
+(b)
+for “in the Member State addressed” substitute “by the competent court”.
+(9) In Article 13 (refusal of recognition or enforcement)—
+(a)
+in paragraph 1, in point (a), for “the Member State addressed” substitute “England and Wales, or Northern Ireland (as the case may be)”,
+(b)
+in paragraph 1, in point (b), for “the Member State addressed” substitute “England and Wales, or Northern Ireland (as the case may be).”,
+(c)
+for paragraph 2 substitute—
+“2.  The application for refusal of recognition or enforcement of a protection measure must be made to the competent court.”,
+(d)
+in paragraph 3, for “the Member State addressed” substitute “England and Wales, or Northern Ireland (as the case may be)”.
+(10) In Article 14 (suspension or withdrawal of recognition or enforcement)—
+(a)
+omit paragraph 1,
+(b)
+in paragraph 2—
+(i)
+for “paragraph 1” substitute “Article 14(1) of the MRP Regulation”,
+(ii)
+for “competent authority of the Member State addressed” substitute “competent court”.
+(11) In Article 15 (legalisation and other similar formalities) for “Member State” substitute “participating Member State”.
+(12) Omit Articles 16 to 21.
+(13) Omit the first and second paragraphs of Article 22 (entry into force).
+(14) In the text following Article 22, omit “This Regulation shall be binding in its entirety and directly applicable in the Member States in accordance with the Treaties.”.
+(1)
+OJ No L 181, 29.6.2013, p. 4.Name
+Parliamentary Under Secretary of State
+Ministry of Justice
+Address
+DateEXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations are made under powers in section 8(1) of the European Union (Withdrawal) Act 2018 (c. 16) in order to address failures of retained EU law to operate effectively and other deficiencies (in particular as specified in section 8(2)(c) of that Act) arising from the withdrawal of the United Kingdom from the European Union.
+These Regulations make amendments to legislation applying in England and Wales, and Northern Ireland, in the field of the mutual recognition of protection measures in civil matters. (A protection measure is a court order or other legally binding decision which imposes restrictions on an individual who has caused a threat to, and on whom obligations have been imposed in respect of, another individual.) The amendments provide for the continued recognition and enforcement, in England and Wales and Northern Ireland, of protection measures ordered in a Member State. Part 2 amends the Senior Courts Act 1981, and Part 3 amends the Family Court (Composition and Distribution of Business) Rules 2014 and the Civil Jurisdiction and Judgments (Protection Measures) Regulations 2014. Part 4 amends Regulation (EU) 606/2013 of the European Parliament and of the Council of 12 June 2013 on mutual recognition of protection measures in civil matters.
+We have assessed the impact of this instrument and will publish a full Impact Assessment shortly.

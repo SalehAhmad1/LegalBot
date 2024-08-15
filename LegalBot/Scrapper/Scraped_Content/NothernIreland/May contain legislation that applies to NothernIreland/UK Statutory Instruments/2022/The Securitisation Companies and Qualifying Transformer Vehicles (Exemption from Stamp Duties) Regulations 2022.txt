@@ -1,0 +1,61 @@
+STATUTORY INSTRUMENTS
+2022 No. 464
+STAMP DUTY
+STAMP DUTY RESERVE TAX
+The Securitisation Companies and Qualifying Transformer Vehicles (Exemption from Stamp Duties) Regulations 2022
+Made
+25th April 2022
+Laid before the House of Commons
+26th April 2022
+Coming into force
+17th May 2022
+The Treasury make the following Regulations in exercise of the powers conferred by section 68 of the Finance Act 2022(1).
+(1)
+2022 c. 3.Citation, commencement and effect
+1.—(1) These Regulations may be cited as the Securitisation Companies and Qualifying Transformer Vehicles (Exemption from Stamp Duties) Regulations 2022, and come into force on 17th May 2022.
+(2) These Regulations have effect as follows.
+(3) For the purposes of stamp duty, the Regulations have effect in relation to instruments executed on or after 17th May 2022.
+(4) For the purposes of stamp duty reserve tax, the Regulations have effect—
+(a)
+in relation to the charge to tax under section 87 of the Finance Act 1986(1), where—
+(i)
+the agreement to transfer securities is conditional, and the condition is satisfied on or after 17th May 2022;
+(ii)
+the agreement to transfer securities is not conditional, and the agreement is made on or after 17th May 2022;
+(b)
+in relation to the charge to tax under section 93 or 96 of that Act(2), where the transfer occurs on or after 17th May 2022.
+(1)
+1986 c. 41; section 87 was amended by sections 188(1), 192(1), 194(1) and 205 of, and Part 7 of Schedule 41 to, the Finance Act 1996 (c. 8), and sections 106 and 113 of, and Part 7 of Schedule 18 to, the Finance Act 1997 (c. 16).
+(2)
+Section 93 was amended by sections 193 and 194(2) of the Finance Act 1996, sections 104(1) and (2) and 113 of, and Part 7 of Schedule 18 to, the Finance Act 1997, and section 139(2) of the Finance Act 2016 (c. 24). Section 96 was amended by sections 194(4) and (5), 196(2) and 205 of, and Schedule 41 to, the Finance Act 1996, sections 104(3) and (4) and 113 of, and Part 7 of Schedule 18 to, the Finance Act 1997, and section 139(4) of the Finance Act 2016.Interpretation
+2.  In these Regulations—
+“capital market arrangement” and “capital market investment” have the same meaning as in section 72B(1) of the Insolvency Act 1986(1) (see paragraphs 1, 2 and 3 of Schedule 2A to that Act);
+“note-issuing company” has the same meaning as in regulation 5 of the Taxation of Securitisation Companies Regulations 2006(2).
+(1)
+1986 c. 45; section 72B was inserted by section 250(1) of the Enterprise Act 2002 (c. 40), and Schedule 2A was inserted by section 250(2) of, and Schedule 18 to, that Act. Paragraph 1 of Schedule 2A was amended by S.I. 2003/1468, and paragraphs 2 and 3 were amended by S.I. 2010/86.
+(2)
+S.I. 2006/3296; relevant amending instruments are S.I. 2007/3401 and 2018/143.Exemption from stamp duties
+3.  Subject to regulation 4, the transfer of a capital market investment issued as part of a capital market arrangement by—
+(a)
+a qualifying transformer vehicle, or
+(b)
+a securitisation company that is a note-issuing company,
+is exempt from all stamp duties.Exceptions to regulation 3
+4.—(1) The exemption from stamp duties in regulation 3 does not apply where—
+(a)
+in a case to which regulation 3(a) applies, at the time the capital market arrangement was entered into, regulation 6 of the Risk Transformation (Tax) Regulations 2017(1) (removal of special tax treatment) applied to the qualifying transformer vehicle;
+(b)
+in a case to which regulation 3(b) applies, at the time the capital market arrangement was entered into, regulation 14 of the Taxation of Securitisation Companies Regulations 2006 (corporation tax charge) did not apply to the note-issuing company.
+(2) Subject to paragraph (3), the exemption from stamp duties in regulation 3 also does not apply to the transfer of a capital market investment issued as part of a capital market arrangement which carries a right (exercisable at any time) of conversion into other securities, or to the acquisition of other securities.
+(3) Paragraph (2) does not apply to a right of conversion solely into, or to the acquisition of, securities which are capital market investments issued as part of a capital market arrangement by the same qualifying transformer vehicle or note-issuing company.
+(1)
+S.I. 2017/1271.Michael Tomlinson
+Rebecca Harris
+Two of the Lords Commissioners of Her Majesty’s Treasury
+25th April 2022EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations provide an exemption from all stamp duties on the transfer of capital market investments issued as part of capital market arrangements by qualifying transformer vehicles and specified securitisation companies.
+Regulation 1 provides for citation, commencement and effect, and regulation 2 provides definitions.
+Regulation 3 exempts from all stamp duties instruments which transfer capital market investments issued as part of capital market arrangements by note-issuing securitisation companies and qualifying transformer vehicles.
+Regulation 4 provides for exceptions from regulation 3; paragraph (1) excludes from the stamp duties exemption cases where the special tax treatment rules for securitisation companies or qualifying transformer vehicles do not apply, and paragraphs (2) and (3) exclude cases where the transfer carries conversion or acquisition rights, other than rights of conversion into, or acquisition of, the same type of investment issued by the same body.
+A Tax Information and Impact Note covering this instrument was published on 30th November 2021 alongside the consultation draft of these Regulations, and is available on the government website at https://www.gov.uk/government/collections/tax-information-and-impact-notes-tiins. It remains an accurate summary of the impacts that apply to this instrument.

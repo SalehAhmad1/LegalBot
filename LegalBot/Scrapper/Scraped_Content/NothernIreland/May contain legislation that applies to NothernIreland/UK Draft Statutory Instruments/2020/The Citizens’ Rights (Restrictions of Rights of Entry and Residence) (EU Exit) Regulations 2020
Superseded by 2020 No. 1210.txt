@@ -1,0 +1,165 @@
+Draft Regulations laid before Parliament under paragraph 1(1) of Schedule 4 to the European Union (Withdrawal Agreement) Act 2020, for approval by resolution of each House of Parliament.
+DRAFT STATUTORY INSTRUMENTS
+2020 No.
+EXITING THE EUROPEAN UNION
+IMMIGRATION
+The Citizens’ Rights (Restrictions of Rights of Entry and Residence) (EU Exit) Regulations 2020
+Made
+***
+Coming into force in accordance with regulation 1
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 9(1) and (4) and 11(1) and (4) of, and paragraph 12 of Schedule 4 to, the European Union (Withdrawal Agreement) Act 2020(1).
+These are the first regulations to be made under section 9 of that Act. In accordance with paragraph 1(1) of Schedule 4 to that Act, a draft of these Regulations was laid before and approved by a resolution of each House of Parliament.
+(1)
+2020 c. 1. See also paragraph 17 of Schedule 4 to that Act which provides for a combination of instruments which would otherwise be subject to different Parliamentary procedures.Citation, commencement and interpretation
+1.—(1) These Regulations may be cited as the Citizens’ Rights (Restrictions of Rights of Entry and Residence) (EU Exit) Regulations 2020 and come into force when the EEA Regulations 2016 are revoked.
+(2) In these Regulations “the EEA Regulations 2016” means the Immigration (European Economic Area) Regulations 2016(1).
+(1)
+S.I. 2016/1052; amended by S.I. 2017/1, 2017/1242, 2018/801, 2019/468, 2019/745 and 2019/1155. The amendments made by S.I. 2019/745 are not yet in force.Continued application of the EEA Regulations 2016
+2.—(1) Notwithstanding the revocation of the EEA Regulations 2016, the provisions of the EEA Regulations 2016 specified in the Schedule continue to have effect, but with the modifications set out in the Schedule, for the purpose of removing a person who is protected by the citizens’ rights provisions.
+(2) For the purposes of paragraph (1), a person is protected by the citizens’ rights provisions if that person—
+(a)
+has leave to enter or remain in the United Kingdom granted by virtue of residence scheme immigration rules(1);
+(b)
+is in the United Kingdom (whether or not they have entered within the meaning of section 11(1) of the Immigration Act 1971(2)) having arrived with entry clearance granted by virtue of relevant entry clearance immigration rules(3);
+(c)
+is in the United Kingdom (whether or not they have entered within the meaning of section 11(1) of the Immigration Act 1971) having arrived with entry clearance granted by virtue of Article 23 of the Swiss citizens’ rights agreement(4); or
+(d)
+may be granted leave to enter or remain in the United Kingdom as a person who has a right to enter the United Kingdom by virtue of—
+(i)
+Article 32(1)(b) of the withdrawal agreement(5);
+(ii)
+Article 31(1)(b) of the EEA EFTA separation agreement(6); or
+(iii)
+Article 26a(1)(b) of the Swiss citizens’ rights agreement,
+whether or not the person has been granted such leave.
+(3) For the purposes of these Regulations, a person is also protected by the citizens’ rights provisions if that person was protected by the citizens’ rights provisions at the time that they became subject to a decision to remove them under regulation 23(6)(b) of the EEA Regulations 2016, including as those Regulations continue to have effect by virtue of these Regulations.
+(1)
+“Residence scheme immigration rules” is defined at section 17(1) of the European Union (Withdrawal Agreement) Act 2020.
+(2)
+1971 c. 77; section 11 was amended by paragraphs 43 and 48 of Schedule 14 to the Immigration and Asylum Act 1999 (c. 33), section 62(8) of the Nationality, Immigration and Asylum Act 2002 (c. 41) and paragraphs 14 and 15 of Schedule 10 to the Immigration Act 2016 (c. 19) and S.I. 1990/2227 and 1993/1813.
+(3)
+“Relevant entry clearance immigration rules” is defined at section 17(2) of the European Union (Withdrawal Agreement) Act 2020.
+(4)
+The “Swiss citizens’ rights agreement” is defined at section 39(1) of the European Union (Withdrawal Agreement) Act 2020.
+(5)
+The “withdrawal agreement” is defined at section 39(1) of the European Union (Withdrawal Agreement) Act 2020.
+(6)
+The “EEA EFTA separation agreement” is defined at section 39(1) of the European Union (Withdrawal Agreement) Act 2020.Amendment of the Immigration Act 1971
+3.—(1) The Immigration Act 1971 is amended as follows.
+(2) In section 3(10) (definition of “relevant person”)(1), after paragraph (b) insert—
+“(ba)
+if the person is in the United Kingdom (whether or not they have entered within the meaning of section 11(1)) having arrived with entry clearance granted by virtue of Article 23 of the Swiss citizens’ rights agreement,”.
+(1)
+Subsection (10) was inserted by section 10 of the European Union (Withdrawal Agreement) Act 2020.Amendment of the UK Borders Act 2007
+4.—(1) The UK Borders Act 2007(1) is amended as follows.
+(2) In section 33(6C) (definition of “relevant person”)(2), after paragraph (b) insert—
+“(ba)
+if the person is in the United Kingdom (whether or not they have entered within the meaning of section 11(1) of the Immigration Act 1971) having arrived with entry clearance granted by virtue of Article 23 of the Swiss citizens’ rights agreement,”.
+(1)
+2007 c. 30.
+(2)
+Subsection (6C) was inserted by section 10 of the European Union (Withdrawal Agreement) Act 2020.Name
+Parliamentary Under Secretary of State
+Home Office
+DateRegulation 2(1)
+SCHEDULE
+Introductory
+1.  Unless otherwise specified, references within this Schedule to regulations or to Schedules are references to regulations within, or Schedules to, the EEA Regulations 2016.
+Savings and modifications to definitions
+2.  Regulation 2 (general interpretation) continues to have effect with the following modifications to paragraph (1)—
+(a)
+the definitions of “civil partner”, “civil partnership of convenience”, “durable partner”, “durable partnership of convenience”, “marriage of convenience” and “spouse” are omitted;
+(b)
+in the definition of “EEA decision”, omit sub-paragraphs (a), (b) and (d);
+(c)
+after the definition of “EEA decision”, insert—
+““EEA EFTA separation agreement” has the same meaning as in the European Union (Withdrawal Agreement) Act 2020 (see section 39(1) of that Act);”;
+(d)
+in the definition of “EEA State”, omit the words “other than the United Kingdom” so far as relevant to things done after exit day;
+(e)
+after the definition of “permanent residence card”, insert—
+““person protected by the citizens’ rights provisions” has the meaning given by regulation 2(2) of the Citizens’ Rights (Restrictions of Rights of Entry and Residence) (EU Exit) Regulations 2020;”;
+(f)
+after the definition of “spouse”, insert—
+““Swiss citizens’ rights agreement” has the same meaning as in the European Union (Withdrawal Agreement) Act 2020 (see section 39(1) of that Act).”.
+Savings and modifications to Part 4
+3.  Regulation 23 (exclusion and removal from the United Kingdom) continues to have effect with the following modifications—
+(a)
+omit paragraphs (1) to (5);
+(b)
+in paragraph (6)—
+(i)
+for “an EEA national who has entered the United Kingdom or the family member of such a national” substitute “a person protected by the citizens’ rights provisions”;
+(ii)
+omit sub-paragraphs (a) and (c);
+(c)
+in paragraph (7)—
+(i)
+at the end of sub-paragraph (a), omit “or”;
+(ii)
+omit sub-paragraph (b);
+(d)
+omit paragraph (9).
+4.  Regulation 27 (decisions taken on grounds of public policy, public security and public health) continues to have effect with the modification that in paragraph (3) and paragraph (4)(a), for “a right of permanent residence under regulation 15” substitute “indefinite leave to enter or remain in the United Kingdom granted under residence scheme immigration rules (as defined in section 17 of the European Union (Withdrawal Agreement) Act 2020)”.
+Savings and modifications to Part 5
+5.  Regulation 32 (person subject to removal) continues to have effect with the following modifications—
+(a)
+omit paragraph (2);
+(b)
+in paragraph (4), omit “or exclusion” and “, or in circumstances where that person was not entitled to be admitted under regulation 23(1) or (3),”;
+(c)
+in paragraph (5), omit “on the grounds of public policy, public security or public health”;
+(d)
+omit paragraph (7).
+6.  Regulation 33 (human rights considerations and interim orders to suspend removal) continues to have effect.
+7.  Regulation 34 (revocation of deportation and exclusion orders) continues to have effect with the following modifications—
+(a)
+omit paragraph (1);
+(b)
+in paragraph (3), omit “or exclusion”.
+Savings and modifications to Part 6
+8.  Regulation 35 (interpretation of Part 6) continues to have effect.
+9.  Regulation 36 (appeal rights) continues to have effect with the following modifications—
+(a)
+in paragraph (2)—
+(i)
+for “to be an EEA national” substitute “to be a person protected by the citizens’ rights provisions”;
+(ii)
+for “or passport issued by an EEA State” substitute “issued by an EEA State or a valid passport”;
+(b)
+omit paragraphs (3) to (6) and (12).
+10.  Regulation 37 (out of country appeals) continues to have effect with the following modifications—
+(a)
+in paragraph (1)—
+(i)
+omit sub-paragraphs (a), (b), (c), (e) and (f) (but not the final “or” after sub-paragraph (f));
+(ii)
+in sub-paragraph (d), omit “or exclusion”;
+(iii)
+in sub-paragraph (g), omit “or exclusion” and “, or in circumstances where that person was not entitled to be admitted pursuant to regulation 23(1), (2), (3) or (4)”;
+(b)
+omit paragraph (2).
+11.  Regulation 38 (appeals to the Commission) continues to have effect with the modification that in paragraph (3), omit “exclusion or”.
+12.  Regulation 39 (national security: EEA decisions) continues to have effect.
+13.  Regulation 40 (effect of appeals to the First-tier Tribunal or Upper Tribunal) continues to have effect with the following modifications—
+(a)
+omit paragraphs (2), (3) and (6);
+(b)
+in paragraph (4), omit “a refusal of admission, a decision to revoke admission, or”.
+14.  Regulation 41 (temporary admission to submit case in person) continues to have effect.
+Savings and modifications to the Schedules
+15.  Schedule 1 (considerations of public policy, public security and the fundamental interests of society etc.) continues to have effect with the following modifications—
+(a)
+for paragraph 1 substitute—
+“1.  The United Kingdom enjoys considerable discretion, acting within the parameters set by the law, to define its own standards of public policy and public security, for purposes tailored to its individual context from time to time.”;
+(b)
+in paragraph 6, for “these Regulations”, substitute “the EU withdrawal agreement, the EEA EFTA separation agreement or the Swiss citizens’ rights agreement”;
+(c)
+after paragraph 6, insert—
+“6A.  For the purpose of paragraph 6, a marriage, civil partnership or durable partnership of convenience means a marriage, civil partnership or durable partnership entered into as a means to circumvent any criteria that the party to the marriage, civil partnership or durable partnership would otherwise have to meet in order to enjoy a right to reside in the United Kingdom or a right to leave to enter or remain in the United Kingdom.”.
+16.  Schedule 2 (appeals to the First-tier Tribunal) continues to have effect with the modification that in paragraph 1, for the “EU Treaties” substitute “the EU withdrawal agreement, the EEA EFTA separation agreement or the Swiss citizens’ rights agreement”.
+17.  Paragraph 1 of Schedule 7 (consequential modifications) continues to have effect, with the modification that references to “these Regulations” includes references to the EEA Regulations 2016 as modified by these Regulations.EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations save and modify the Immigration (European Economic Area) Regulations 2016 (S.I. 2016/1052) (“EEA Regulations 2016”). They ensure that decisions to deport certain EEA nationals and their family members who are protected by the EU Withdrawal Agreement, the EEA EFTA Separation Agreement or the Swiss Citizens’ Rights Agreement (the “Agreements”) (see section 39 of the European Union (Withdrawal Agreement) Act 2020 (c. 1) for the definitions of these Agreements) or by the United Kingdom’s domestic implementation of these Agreements can be made in accordance with Chapter VI of Directive 2004/38/EC, where that deportation is made on the basis of conduct committed before the end of the transition period provided for by the Agreements. Directive 2004/38/EC was implemented in the United Kingdom by the EEA Regulations 2016.
+Regulation 2 saves certain provisions within the EEA Regulations 2016, with the modifications specified in the Schedule insofar as they apply to certain persons who are protected by the Agreements and certain persons who are not protected by the Agreements but who have entry clearance or leave to enter or remain in the United Kingdom by virtue of the United Kingdom’s domestic implementation of the Agreements. The Schedule then identifies the provisions of the EEA Regulations 2016 that are saved and the modifications that apply. The savings ensure that the protections in the EEA Regulations 2016 relating to deportation that apply to EEA nationals and their family members continue, where appropriate, to apply.
+An impact assessment has not been produced for these Regulations as no impact on business, charities, voluntary bodies or the public sector is foreseen.

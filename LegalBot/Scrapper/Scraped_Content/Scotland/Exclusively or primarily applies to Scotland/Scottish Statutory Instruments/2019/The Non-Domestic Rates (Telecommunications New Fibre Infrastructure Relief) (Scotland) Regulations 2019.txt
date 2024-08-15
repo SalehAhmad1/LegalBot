@@ -1,0 +1,84 @@
+SCOTTISH STATUTORY INSTRUMENTS
+2019 No. 43
+RATING AND VALUATION
+The Non-Domestic Rates (Telecommunications New Fibre Infrastructure Relief) (Scotland) Regulations 2019
+Made
+14th February 2019
+Laid before the Scottish Parliament
+18th February 2019
+Coming into force
+1st April 2019
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 153 of the Local Government etc. (Scotland) Act 1994 M1 and all other powers enabling them to do so.
+Marginal Citations
+M1
+1994 c.39 (“the 1994 Act”). Section 153 was amended by section 67 of the Climate Change (Scotland) Act 2009 (asp 12). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998 (c.46).Citation and commencement
+1.  These Regulations may be cited as the Non-Domestic Rates (Telecommunications New Fibre Infrastructure Relief) (Scotland) Regulations 2019 and come into force on 1 April 2019.
+Commencement Information
+I1
+Reg. 1 in force at 1.4.2019, see reg. 1Interpretation
+2.  In these Regulations—
+“the 1975 Act” means the Local Government (Scotland) Act 1975 M1,
+“lands and heritages” has the meaning prescribed by and under section 42 of the Lands Valuation (Scotland) Act 1854 M2,
+“rates” means non-domestic rates levied under section 7B of the 1975 Act M3,
+“telecommunications new fibre infrastructure” has the same meaning as in the Non-Domestic Rating (Telecommunications New Fibre Infrastructure) (Scotland) Order 2019 M4, and
+“valuation roll” means the roll made up under section 1 of the 1975 Act M5.
+Commencement Information
+I1
+Reg. 2 in force at 1.4.2019, see reg. 1
+Marginal Citations
+M1
+1975 c.30.
+M2
+1854 c.91. Section 42 was amended by the Statute Law Revision Act 1892 (c.19) and section 152 of the the 1994 Act .
+M3
+Section 7B was inserted by section 110(2) of the Local Government Finance Act 1992 (c.14) and amended by paragraph 100(4) of schedule 13 of the 1994 Act.
+M4
+S.S.I. 2019/42.
+M5
+Section 1 was repealed in part by section 34 of and schedule 6 of the Abolition of Domestic Rates Etc. (Scotland) Act 1987 (c.47), schedule 14 of the 1994 Act and schedule 4 of the Local Government and Rating Act 1997 (c.29).Amount payable as rates – lands and heritages comprising telecommunications new fibre infrastructure
+3.—(1) This regulation grants relief to a person who is liable to pay rates in respect of lands and heritages comprising telecommunications new fibre infrastructure.
+(2) The relief is a reduction in the amount of rates payable by 100%.
+(3) Relief is available for any day in the period beginning on 1 April 2019 and ending on 31 March [F12034].
+(4) For the avoidance of doubt, relief is not available for any day prior to that on which an entry is made in the valuation roll under section 2(1)(b) of the 1975 Act in respect of the telecommunications new fibre infrastructure.
+F2(5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Textual Amendments
+F1
+Word in reg. 3(3) substituted (1.4.2022) by The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48), regs. 1, 11(2)
+F2
+Reg. 3(5) omitted (1.1.2021) by virtue of The Non-Domestic Rates (Restriction of Relief and Consequential Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/391), regs. 1, 9
+Commencement Information
+I1
+Reg. 3 in force at 1.4.2019, see reg. 1Application for relief
+4.—(1) An application for relief under these Regulations must—
+(a)
+be signed by the ratepayer or a person authorised to sign on behalf of the ratepayer, and
+(b)
+be made to the rating authority in whose valuation roll the entry for the lands and heritages appears by—
+(i)
+addressing it to that authority, and
+(ii)
+delivering it or sending it to that authority's office by post or electronic communication.
+(2) For the purposes of paragraph (1)—
+“electronic communication” has the meaning given to it by section 15(1) of the Electronic Communications Act 2000 (“the 2000 Act”) M1,
+“person authorised to sign on behalf of the ratepayer” means, where the ratepayer is—
+(a)
+a partnership, a partner of that partnership or any other person authorised by it,
+(b)
+a trust, a trustee of that trust or any other person authorised by it,
+(c)
+a body corporate, a director of that body or any other person authorised by it, and
+“sign” or “signed”, in relation to an application made by electronic communication, means an electronic signature, as defined in section 7(2) of the 2000 Act M2.
+Commencement Information
+I1
+Reg. 4 in force at 1.4.2019, see reg. 1
+Marginal Citations
+M1
+2000 c.7. Section 15(1) was amended by paragraph 158 of Schedule 17 to the Communications Act 2003 (c.21).
+M2
+Section 7(2) was amended by S.I. 2016/696.DEREK MACKAY
+A member of the Scottish Government
+St Andrew's House,
+EdinburghEXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations provide 100% relief from business rates to any provider of new fibre infrastructure for telecommunication. The relief is available for a 10 year period until 31 March 2029.
+An application must be made to obtain the relief and regulation 4 sets out how applications are to be made.

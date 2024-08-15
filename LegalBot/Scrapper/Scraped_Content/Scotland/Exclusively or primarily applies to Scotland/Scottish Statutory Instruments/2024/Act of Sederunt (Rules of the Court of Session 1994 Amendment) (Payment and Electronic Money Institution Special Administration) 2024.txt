@@ -1,0 +1,218 @@
+SCOTTISH STATUTORY INSTRUMENTS
+2024 No. 75
+COURT OF SESSION
+Act of Sederunt (Rules of the Court of Session 1994 Amendment) (Payment and Electronic Money Institution Special Administration) 2024
+Made
+12th March 2024
+Laid before the Scottish Parliament
+13th March 2024
+Coming into force
+12th April 2024
+In accordance with section 4 of the Scottish Civil Justice Council and Criminal Legal Assistance Act 2013(1), the Court of Session has approved draft rules submitted to it by the Scottish Civil Justice Council.
+The Court of Session therefore makes this Act of Sederunt under the powers conferred by section 103(1) of the Courts Reform (Scotland) Act 2014(2) and all other powers enabling it to do so.
+(1)
+2013 asp 3. Section 4 was amended by the Courts Reform (Scotland) Act 2014 (asp 18), schedule 5, paragraph 31(3) and by the Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2), schedule 1, paragraph 1(4).
+(2)
+2014 asp 18.Citation and commencement, etc.
+1.—(1) This Act of Sederunt may be cited as the Act of Sederunt (Rules of the Court of Session 1994 Amendment) (Payment and Electronic Money Institution Special Administration) 2024.
+(2) It comes into force on 12th April 2024.
+(3) A certified copy is to be inserted in the Books of Sederunt.Amendment of the Rules of the Court of Session 1994
+2.—(1) The Rules of the Court of Session 1994(1) are amended in accordance with this paragraph.
+(2) In rule 5.1A(2) (further restriction as to caveats), in paragraph (2)—
+(a)
+in sub-paragraph (c) omit “or”; and
+(b)
+at the end of sub-paragraph (d) insert—
+“; or
+(e)
+a payment or electronic money institution special administration order under rule 74.64.”.
+(3) In rule 74.1(3) (application and interpretation of this Chapter), at the end of paragraph (1)(f) insert—
+“; and
+(g)
+the Payment and Electronic Money Institution Insolvency Regulations 2021(4).”.
+(4) In rule 74.2(5) (proceedings before insolvency judge)—
+(a)
+the words from the beginning to “construed accordingly.” become paragraph (1);
+(b)
+in new paragraph (1), for the words from “the Act of 1986” to “Postal Act” substitute “an enactment mentioned in paragraph (2)”;
+(c)
+after new paragraph (1) insert—
+“(2) The enactments referred to in paragraph (1) are—
+(a)
+the Act of 1986;
+(b)
+the Company Directors Disqualification Act 1986;
+(c)
+Chapter 3 of Part 3 of the Act of 2004;
+(d)
+Part 2 or 3 of the Act of 2009;
+(e)
+Part 4 of the Postal Act;
+(f)
+the Payment and Electronic Money Institution Insolvency Regulations 2021.”.
+(5) In rule 74.3(6) (notices and reports, etc., sent to the court)—
+(a)
+the words from “the Act of 1986” to the end become paragraph (1);
+(b)
+in new paragraph (1), for the words from “the Act of 1986” to “Postal Administration Rules” substitute “an enactment mentioned in paragraph (2)”;
+(c)
+after new paragraph (1) insert—
+“(2) The enactments referred to in paragraph (1) are—
+(a)
+the Act of 1986;
+(b)
+the Act of 2004;
+(c)
+the Act of 2009;
+(d)
+the Act of 2011;
+(e)
+the Postal Act;
+(f)
+the Insolvency Rules;
+(g)
+the Insolvency (CVAA) Rules;
+(h)
+the Insolvency (RWU) Rules;
+(i)
+the Bank Insolvency Rules;
+(j)
+the Bank Administration Rules;
+(k)
+the Energy Administration Rules;
+(l)
+the 2013 Rules;
+(m)
+the Postal Administration Rules;
+(n)
+the Payment and Electronic Money Institution Insolvency Regulations 2021;
+(o)
+the Payment and Electronic Money Institution Insolvency (Scotland) Rules 2022(7).”.
+(6) In Chapter 74, after Part XI(8) (investment bank special administration procedure) insert the new Part XII set out in the schedule of this Act of Sederunt.
+(1)
+The Rules of the Court of Session 1994 are in schedule 2 of the Act of Sederunt (Rules of the Court of Session 1994) 1994 (S.I. 1994/1443), last amended by S.S.I. 2023/196.
+(2)
+Rule 5.1A was inserted by S.S.I. 2001/92 and amended by S.S.I. 2011/288. Paragraph (2) was substituted by S.S.I. 2010/417.
+(3)
+Rule 74.1 is relevantly amended by S.S.I. 2016/318.
+(4)
+S.I. 2021/716.
+(5)
+Rule 74.2 was substituted by S.S.I. 2006/83 and amended by S.S.I. 2009/63 and S.S.I. 2016/318.
+(6)
+Rule 74.3 was substituted by S.S.I. 2006/83 and last amended by S.S.I. 2019/81.
+(7)
+S.I. 2022/1239.
+(8)
+Part XI was inserted by S.S.I. 2011/385.CJM SUTHERLAND
+Lord President
+I.P.D.
+Edinburgh
+12th March 2024Paragraph 2(6)
+SCHEDULE
+“PART XII
+Payment and Electronic Money Institutions Special Administration Procedure
+Interpretation of this Part
+74.62.  In this Part—
+“2021 Regulations” means the Payment and Electronic Money Institution Insolvency Regulations 2021(1);
+“2022 Rules” means the Payment and Electronic Money Institution Insolvency (Scotland) Rules 2022(2);
+“cause to which this Part applies” means a cause under—
+(a)
+the 2021 Regulations;
+(b)
+the 2022 Rules;
+(c)
+any other enactment applied (with or without modification) by virtue of the 2021 Regulations;
+“special administration order” means a special administration order under regulation 7 of the 2021 Regulations (special administration order).
+Application and interpretation of other rules
+74.63.—(1) In this Chapter, besides this Part, only the following provisions apply to a cause to which this Part applies—
+(a)
+Part I (general provisions);
+(b)
+rule 74.13 (report of administrator’s proposals: schedule B1 to the Act of 1986).
+(2) In relation to a cause to which this Part applies, a reference in these Rules to an enactment that is applied (with or without modification) by virtue of the 2021 Regulations is to be read as a reference to that enactment as so applied.
+Application for special administration order
+74.64.—(1)  An application for a special administration order under regulation 8 of the 2021 Regulations (application for order) is to be made by petition.
+(2) A petition referred to in paragraph (1) must include (in addition to the information required by rule 6 of the 2022 Rules (content of application)) averments on the following matters—
+(a)
+the reasons why the petitioner considers the grounds stated in accordance with rule 6(h) of the 2022 Rules to be satisfied;
+(b)
+to the best of the petitioner’s knowledge and belief, the financial position of the institution in respect of which the order is sought (including actual, contingent and prospective assets and liabilities);
+(c)
+any security the petitioner knows, or believes, is held by the creditors of the institution;
+(d)
+to the best of the petitioner’s knowledge and belief, the amount of any relevant funds held by the institution;
+(e)
+how functions are to be apportioned where more than one person is to be appointed as administrator and, in particular, whether functions are to be exercised jointly or by any or all of the persons appointed;
+(f)
+any other matter that the petitioner considers it will assist the court to be aware of in deciding whether to make a special administration order.
+(3) In paragraph (2)(d), “relevant funds” is to be construed in accordance with regulation 6 of the 2021 Regulations (definitions).
+Advertisement of petition under rule 74.64(1)
+74.65.—(1) Unless the court otherwise directs, the order under rule 14.5 (first order in petitions) for intimation, service and advertisement of a petition under rule 74.64(application for special administration order) must include a requirement to advertise the petition immediately—
+(a)
+once in the Edinburgh Gazette;
+(b)
+once in one or more such newspapers as the court directs.
+(2) An advertisement under paragraph (1) must include—
+(a)
+the name and address of the petitioner and, where the petitioner is the institution in respect of which a special administration order is sought, its registered office;
+(b)
+the name and address of the agent for the petitioner;
+(c)
+the date on which the petition was presented;
+(d)
+the nature of the order sought;
+(e)
+the period of notice for lodging answers;
+(f)
+a statement that any person who intends to appear in the petition must lodge answers within the period of notice.
+(3) This rule is without prejudice to the requirements for service in rule 9 of the 2022 Rules (service of application).
+Period of notice for lodging answers to petition under rule 74.64(1)
+74.66.  Subject to rule 14.6(2) (period of notice for lodging answers), the period of notice for lodging answers to a petition under rule 74.64(1) (application for special administration order) is 8 days.
+Time and date of lodging
+74.67.—(1) The time and date of lodging a document in a cause to which this Part applies is to be noted by the Deputy Principal Clerk upon the document.
+(2) Subject to any provision of the 2022 Rules—
+(a)
+where the time of lodging the document cannot be ascertained by the Deputy Principal Clerk, the document is to be deemed to have been lodged at 10 a.m. on the date of lodging;
+(b)
+where the document is delivered on a day other than a business day, but is not lodged on that day, the date of lodging is to be deemed to be the first business day after its delivery.
+(3) For the avoidance of doubt, in this rule “document” includes notice.
+Appeal against adjudication of claim
+74.68.—(1)  An appeal under rule 119(5) of the 2022 Rules (adjudication of claims) is to be made by note.
+(2) The note is to be served on the administrator.
+(3) On being served with the note, the administrator must send to the Deputy Principal Clerk, without delay—
+(a)
+the claim in question;
+(b)
+the administrator’s adjudication in relation to it.
+(4) The Deputy Principal Clerk, on receiving the documents sent in accordance with paragraph (3), must cause them to be lodged in process.
+(5) After the note has been disposed of, the Deputy Principal Clerk must return the documents sent in accordance with paragraph (3) to the administrator with a copy of the interlocutor disposing of the note.
+Application under section 176A of the Act of 1986
+74.69.—(1)  An application under section 176A(3) of the Act of 1986 (share of assets for unsecured creditors) by an administrator appointed under regulation 7 of the 2021 Regulations, is to be made by note.
+(2) After the lodging of the note, the Deputy Principal Clerk must—
+(a)
+fix a hearing for the insolvency judge to consider the application;
+(b)
+give notice of the hearing to the noter.
+(3) The noter is not required to give notice of the hearing to another person, unless the insolvency judge directs otherwise.
+Form of other applications and appeals
+74.70.—(1) An application or appeal to the court under an enactment mentioned in paragraph (2) is to be made—
+(a)
+by note in the process of the petition to which it relates; or
+(b)
+if there is no such petition, by petition.
+(2) The enactments referred to in paragraph (1) are—
+(a)
+a provision of the 2021 Regulations, except regulation 8 (application for order) (see rule 74.64);
+(b)
+a provision of the 2022 Rules, except rule 119(5) (adjudication of claims) (see rule 74.68);
+(c)
+any other enactment applied (with or without modification) by virtue of the 2021 Regulations, except section 176A of the Act of 1986 (see rule 74.69).”
+(1)
+S.I. 2021/716.
+(2)
+S.I. 2022/1239.
+(3)
+Section 176A was inserted by the Enterprise Act 2002 (c. 40), section 252 and applied with modifications by S.I. 2021/716.EXPLANATORY NOTE
+(This note is not part of the Act of Sederunt)
+This Act of Sederunt makes amendments to the Rules of the Court of Session 1994 in consequence of the establishment of a new special administration procedure relating to payment institutions and electronic money institutions under the Payment and Electronic Money Institution Insolvency Regulations 2021.

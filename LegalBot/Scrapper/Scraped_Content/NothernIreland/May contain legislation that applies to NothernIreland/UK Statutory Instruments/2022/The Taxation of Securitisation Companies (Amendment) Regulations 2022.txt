@@ -1,0 +1,37 @@
+STATUTORY INSTRUMENTS
+2022 No. 465
+CORPORATION TAX
+INCOME TAX
+The Taxation of Securitisation Companies (Amendment) Regulations 2022
+Made
+25th April 2022
+Laid before the House of Commons
+26th April 2022
+Coming into force
+17th May 2022
+The Treasury, in exercise of the powers conferred by sections 623(2)(b), 624 and 625 of the Corporation Tax Act 2010(1), make the following Regulations.
+(1)
+2010 c. 4; section 624 was amended by section 65(1) to (4) of the Finance Act 2016 (c. 24) and section 625 was amended by section 65(5) of that Act.Citation, commencement and effect
+1.—(1) These Regulations may be cited as the Taxation of Securitisation Companies (Amendment) Regulations 2022 and come into force on 17th May 2022.
+(2) In respect of a company, these Regulations do not apply in relation to a capital market arrangement entered into by it before the date on which these Regulations come into force, any capital market investment that is part of such a capital market arrangement or any securities representing such a capital market investment(1).
+(1)
+“Capital market arrangement” and “capital market investment” have the meanings given in section 72B of the Insolvency Act 1986 as amended (see paragraphs 1, 2 and 3 of Schedule 2A to that Act).Amendment of the Taxation of Securitisation Companies Regulations 2006
+2.  The Taxation of Securitisation Companies Regulations 2006(1) are amended as follows.
+(1)
+S.I. 2006/3296, amended by 2018/143; there are other amending instruments but none is relevant.Amendment of regulation 2
+3.  In regulation 2 (interpretation) for paragraph (3) substitute—
+“(3) Sections 1122 and 1123 of CTA 2010 (“connected persons” and “connected persons: supplementary”) apply for the purposes of the definition of “independent persons” except that—
+(a)
+subject to paragraph (b), “control” is to be read in accordance with subsection (2) of section 1124 of CTA 2010; and
+(b)
+in applying subsection (2) of section 1124 of CTA 2010 where Company A is the company issuing the securities, paragraph (b) of that subsection is to be read as if the words “or other document regulating that or any other body corporate” were omitted.”.Amendment of regulation 5
+4.  In regulation 5 (meaning of “note-issuing company”), in paragraph (4) for “£10 million” substitute “£5 million”.Michael Tomlinson
+Rebecca Harris
+Two of the Lords Commissioners of Her Majesty’s Treasury
+25th April 2022EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the Taxation of Securitisation Companies Regulations 2006 (“the TSCR”).
+Regulation 1 provides for citation, commencement and effect. The Regulations have force from 17 May 2022 but do not apply to a company in relation to a capital market arrangement entered into by it before that date, any capital market investment that is part of such an arrangement or any securities which represent such a capital market investment.
+Regulation 3 amends regulation 2 of the TSCR by amending the definition of “control” for the purposes of determining whether persons are independent persons.
+Regulation 4 amends regulation 5 of the TSCR so as to reduce the minimum total value of the capital market investments made under a capital market arrangement from £10 million to £5 million.
+A Tax Information and Impact Note covering this instrument was published on 30 November 2021 alongside the consultation draft of these Regulations and is available on the website at https://www.gov.uk/government/publications/securitisation-and-insurance-linked-securities-arrangements-allowing-them-to-operate-more-effectively/the-taxation-of-securitisation-companies-amendment-regulations-2022. It remains an accurate summary of the impacts that apply to this instrument.

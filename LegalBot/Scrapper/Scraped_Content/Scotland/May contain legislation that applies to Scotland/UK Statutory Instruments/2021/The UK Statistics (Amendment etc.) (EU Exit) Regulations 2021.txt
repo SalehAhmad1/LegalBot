@@ -1,0 +1,213 @@
+STATUTORY INSTRUMENTS
+2021 No. 1300
+EXITING THE EUROPEAN UNION
+OFFICIAL STATISTICS
+The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021
+Sift requirements satisfied
+9th November 2021
+Made
+22nd November 2021
+Laid before Parliament
+23rd November 2021
+Coming into force
+15th December 2021
+The Minister for the Cabinet Office makes these Regulations in exercise of the powers conferred by section 8(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018(1) (“the 2018 Act”) and section 41(1) of the European Union (Withdrawal Agreement) Act 2020(2).
+The requirements of paragraph 3(2) of Schedule 7 to the 2018 Act (relating to the appropriate Parliamentary procedure for these Regulations) have been satisfied.
+(1)
+2018 c. 16. Section 8 was amended by section 27 of the European Union (Withdrawal Agreement) Act 2020 (c. 1) (“the 2020 Act”) and paragraph 21 of Schedule 7 was amended by paragraph 53 of Schedule 5 to the 2020 Act.
+(2)
+2020 c. 1.Citation and commencement
+1.  These Regulations may be cited as the UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 and come into force on the 22nd day after the day on which they are laid.Amendment of the Data Protection Act 2018
+2.  In paragraph 1(3) of Schedule 1 to the Data Protection Act 2018(1), in the definition of “social protection”, for “exit day” substitute “IP completion day”.
+(1)
+2018 c. 12. Paragraph 1(3) of Schedule 1 was amended by S.I. 2019/489.Amendment of the Public Contracts Regulations 2015
+3.  In Schedule 2 to the Public Contracts Regulations 2015(1) (activities constituting works), for “exit day” substitute “IP completion day”.
+(1)
+S.I. 2015/102, amended by S.I. 2019/489.Amendment of the Electricity Supplier Obligations (Amendment & Excluded Electricity) Regulations 2015
+4.  In regulation 2(1) of the Electricity Supplier Obligations (Amendment & Excluded Electricity) Regulations 2015(1) (interpretation), in the definition of “NACE Rev 2”, for “exit day” substitute “IP completion day”.
+(1)
+S.I. 2015/721, amended by S.I. 2019/489. There are other amending instruments that are not relevant.Amendment of the Concession Contracts Regulations 2016
+5.  In Schedule 1 to the Concession Contracts Regulations 2016(1) (activities constituting works), for “exit day” substitute “IP completion day”.
+(1)
+S.I. 2016/273, amended by S.I. 2019/489.Amendment of the Utilities Contracts Regulations 2016
+6.  In Schedule 1 to the Utilities Contracts Regulations 2016(1) (activities constituting works), for “exit day” substitute “IP completion day”.
+(1)
+S.I. 2016/274, amended by S.I. 2019/489.Revocation of retained direct EU legislation and saving
+7.—(1) The legislation set out in Schedule 1, so far as it forms part of domestic law by virtue of section 3(1) of the European Union (Withdrawal) Act 2018(1), is revoked.
+(2) The points in Annex XXI to the EEA agreement, as it forms part of domestic law, set out in Schedule 2 are omitted.
+(3) Notwithstanding the revocation of Council Regulation (EC) No 2223/96, the reference to paragraph 2.48 of Annex A to that Regulation in section 17(3B)(a) (power to obtain information) of the Bank of England Act 1998(2) is to be read as reference to that paragraph as it had effect immediately before the Regulation was revoked.
+(1)
+2018 c. 16. Section 3 was amended by section 25 of the European Union (Withdrawal Agreement) Act 2020 (c. 1).
+(2)
+1998 c. 11. Section 17(3B) was inserted by S.I. 2001/3649. There are other amendments that are not relevant.Michael Ellis
+Paymaster General
+Cabinet Office
+22nd November 2021Regulation 7(1)
+SCHEDULE 1
+Retained EU regulations and EU decisions to be revoked
+1.  Commission Decision 76/806/EEC of 1 October 1976 laying down additional provisions concerning surveys to determine the production potential of plantations of certain species of fruit trees to be made by Member States.
+2.  Commission Decision 77/144/EEC of 22 December 1976 laying down the standard code and rules governing the transcription into a machine-readable form of the data of the surveys of plantations of certain species of fruit trees, and laying down the boundaries of the production areas for these surveys.
+3.  Commission Regulation (EEC) No 2415/78 of 17 October 1978 on the statistical threshold in the external trade statistics of the Community and statistics of trade between Member States.
+4.  Commission Decision 80/763/EEC of 8 July 1980 laying down additional provisions concerning statistical surveys of areas under vines.
+5.  Commission Decision 80/764/EEC of 8 July 1980 establishing the schedule of tables and definitions relating to intermediate statistical surveys of areas under vines.
+6.  Commission Regulation (EEC) No 3581/81 of 14 December 1981 on the statistical threshold in the external trade statistics of the Community and statistics of trade between Member States.
+7.  Commission Decision 87/206/EEC of 12 March 1987 amending, for the second time, Decision 76/806/EEC laying down additional provisions concerning statistical surveys to be carried out by the Member States in order to determine production potential of plantations of certain species of fruit trees.
+8.  Commission Regulation (EEC) No 3522/87 of 24 November 1987 on the recording of the mode of transport in the statistics of trade between Member States.
+9.  Council Regulation (EEC) No 3924/91 of 19 December 1991 on the establishment of a Community survey of industrial production.
+10.  Commission Decision 94/168/EC, Euratom of 22 February 1994 on measures to be taken for the implementation of Council Directive 89/130/EEC, Euratom on the harmonization of the compilation of gross national product at market prices.
+11.  Commission Decision 94/432/EC of 30 May 1994 laying down detailed rules for the application of Council Directive 93/23/EEC as regards the statistical surveys on pig population and production.
+12.  Commission Decision 95/531/EC of 29 November 1995 amending, because of the accession of Austria, Finland and Sweden, Commission Decision No 77/144/EEC laying down the standard code and rules governing the transcription into a machine-readable form of the data of the surveys of plantations of certain species of fruit trees, and laying down the boundaries of the production areas for these surveys.
+13.  Council Regulation (EC) No 2223/96 of 25 June 1996 on the European system of national and regional accounts in the Community.
+14.  Commission Decision 96/689/EC of 25 November 1996 amending Decision 77/144/EEC laying down the standard code and rules governing the transcription into a machine-readable form of the data of the surveys of plantations of certain species of fruit trees, and laying down the boundaries of the production areas for these surveys.
+15.  Commission Decision 97/80/EC of 18 December 1996 laying down provisions for the implementation of Council Directive 96/16/EC on statistical surveys of milk and milk products.
+16.  Commission Decision 97/178/EC, Euratom of 10 February 1997 on the definition of a methodology for the transition between the European System of National and Regional Accounts in the Community (ESA 95) and the European System of Integrated Economic Accounts (ESA second edition).
+17.  Council Regulation (EC) No 448/98 of 16 February 1998 completing and amending Regulation (EC) No 2223/96 with respect to the allocation of financial intermediation services indirectly measured (FISIM) within the European system of national and regional accounts (ESA).
+18.  Commission Decision 98/527/EC, Euratom of 24 July 1998 on the treatment for national accounts purposes of VAT fraud (the discrepancies between theoretical VAT receipts and actual VAT receipts).
+19.  Commission Decision 98/501/EC, Euratom of 24 July 1998 concerning certain specific transactions identified within the work on the protocol of the Excessive Deficit Procedure, for the application of Article 1 of Council Directive 89/130/EEC, Euratom on the harmonisation of the compilation of gross national product at market prices.
+20.  Council Decision 98/582/EC of 6 October 1998 amending Commission Decision 97/80/EC laying down provisions for the implementation of Council Directive 96/16/EC on statistical surveys of milk and milk products.
+21.  Commission Decision 98/715/EC of 30 November 1998 clarifying Annex a to Council Regulation (EC) No 2223/96 on the European system of national and regional accounts in the Community as concerns the principles for measuring prices and volumes.
+22.  Commission Regulation (EC) No 2699/98 of 17 December 1998 concerning the derogations to be granted for structural business statistics.
+23.  Commission Regulation (EC) No 1226/1999 of 28 May 1999 concerning the derogations to be granted for insurance services statistics.
+24.  Commission Decision 1999/799/EC of 29 October 1999 fixing a new Community programme of statistical tables to be stored in the Tabular Data Bank (BDT) of the Eurofarm system.
+25.  Commission Regulation (EC) No 2543/1999 of 1 December 1999 on the nomenclature of countries and territories for the external trade statistics of the Community and statistics of trade between Member States.
+26.  Commission Regulation (EC) No 264/2000 of 3 February 2000 on the implementation of Council Regulation (EC) No 2223/96 with respect to short-term public finance statistics.
+27.  Commission Regulation (EC) No 1500/2000 of 10 July 2000 implementing Council Regulation (EC) No 2223/96 with respect to general government expenditure and revenue.
+28.  Commission Regulation (EC) No 2032/2000 of 27 September 2000 on the nomenclature of countries and territories for the external trade statistics of the Community and statistics of trade between Member States.
+29.  Regulation (EC) No 2516/2000 of the European Parliament and of the Council of 7 November 2000 modifying the common principles of the European system of national and regional accounts in the Community (ESA) 95 as concerns taxes and social contributions and amending Council Regulation (EC) No 2223/96.
+30.  Commission Decision 2001/423/EC of 22 May 2001 on arrangements for publication or dissemination of the statistical data collected pursuant to Council Directive 95/64/EC on statistical returns in respect of carriage of goods and passengers by sea.
+31.  Commission Regulation (EC) No 995/2001 of 22 May 2001 implementing Regulation (EC) No 2516/2000 of the European Parliament and of the Council modifying the common principles of the European system of national and regional accounts in the Community (ESA 95) as concerns taxes and social contributions.
+32.  Commission Regulation (EC) No 1112/2001 of 6 June 2001 concerning derogations from the provisions of Council Regulation (EC, Euratom) No 58/97 in respect of insurance services statistics.
+33.  Commission Regulation (EC) No 2020/2001 of 15 October 2001 on the nomenclature of countries and territories for the external trade statistics of the Community and statistics of trade between Member States.
+34.  Regulation (EC) No 2558/2001 of the European Parliament and of the Council of 3 December 2001 amending Council Regulation (EC) No 2223/96 as regards the reclassification of settlements under swaps arrangements and under forward rate agreements.
+35.  Commission Regulation (EC) No 113/2002 of 23 January 2002 amending Council Regulation (EC) No 2223/96 with regard to revised classifications of expenditure according to purpose.
+36.  Regulation (EC) No 359/2002 of the European Parliament and of the Council of 12 February 2002 amending Council Regulation (EC) No 2223/96 as concerns the use of ESA 95 in the determination of Member States’ payments to the VAT-based own resource.
+37.  Commission Regulation (EC) No 1779/2002 of 4 October 2002 on the nomenclature of countries and territories for the external trade statistics of the Community and statistics of trade between Member States.
+38.  Commission Regulation (EC) No 1889/2002 of 23 October 2002 on the implementation of Council Regulation (EC) No 448/98 completing and amending Regulation (EC) No 2223/96 with respect to the allocation of financial intermediation services indirectly measured (FISIM) within the European System of national and regional Accounts (ESA).
+39.  Commission Decision 2002/990/EC of 17 December 2002 further clarifying Annex A to Council Regulation (EC) No 2223/96 as concerns the principles for measuring prices and volumes in national accounts.
+40.  Regulation (EC) No 1267/2003 of the European Parliament and of the Council of 16 June 2003 amending Council Regulation (EC) No 2223/96 with respect to the time limit for transmission of the main aggregates of national accounts, to the derogations concerning the transmission of the main aggregates of national accounts and to the transmission of employment data in hours worked.
+41.  Commission Regulation (EC) No 1402/2003 of 1 August 2003 setting out a schedule of tables and laying down the definitions relating to basic statistical surveys of areas under vines.
+42.  Commission Regulation (EC) No 1461/2003 of 18 August 2003 laying down conditions for pilot projects for the electronic transmission of information on fishing activities and for remote sensing.
+43.  Commission Decision 2003/654/EC of 8 September 2003 laying down a code and standard rules for the transcription into a machine-readable form of the data relating to intermediate statistical surveys of areas under vines.
+44.  Commission Regulation (EC) No 2081/2003 of 27 November 2003 on the nomenclature of countries and territories for the external trade statistics of the Community and statistics of trade between Member States.
+45.  Commission Regulation (EC) No 912/2004 of 29 April 2004 implementing Council Regulation (EEC) No 3924/91 on the establishment of a Community survey of industrial production.
+46.  Commission Decision 2004/637/EC of 8 September 2004 approving the second phase of the technical action plan 2004 for the improvement of agricultural statistics.
+47.  Commission Decision 2004/747/EC of 26 October 2004 laying down detailed rules for the application of Council Directive 93/25/EEC on the statistical surveys to be carried out on sheep and goat stocks.
+48.  Commission Decision 2005/288/EC of 18 March 2005 amending Decision 97/80/EC on provisions for the implementation of Council Directive 96/16/EC on statistical surveys of milk and milk products (notified under document number C(2005) 754).
+49.  Commission Regulation (EC) No 750/2005 of 18 May 2005 on the nomenclature of countries and territories for the external trade statistics of the Community and statistics of trade between Member States.
+50.  Commission Decision 2005/488/EC of 6 July 2005 granting derogations to bring Member States’ statistical systems into conformity with Regulation (EC) No 501/2004 of the European Parliament and of the Council on quarterly financial accounts for general government.
+51.  Commission Regulation (EC) No 317/2006 of 22 December 2005 establishing for 2005 the Prodcom list of industrial products provided for by Council Regulation (EEC) No 3924/91.
+52.  Commission Decision 2006/717/EC of 4 September 2006 laying down a code and standard rules for the transcription into a machine-readable form of the data of the basic surveys of areas under vines.
+53.  Council Decision 2006/856/EC of 13 November 2006 establishing a Committee on monetary, financial and balance of payments statistics.
+54.  Commission Regulation (EC) No 294/2007 of 20 February 2007 establishing for 2006 the Prodcom list of industrial products provided for by Council Regulation (EEC) No 3924/91.
+55.  Commission Regulation (EC) No 963/2007 of 14 August 2007 implementing Council Regulation (EC, Euratom) No 58/97 with regard to derogations to be granted for structural business statistics.
+56.  Regulation (EC) No 1392/2007 of the European Parliament and of the Council of 13 November 2007 amending Council Regulation (EC) No 2223/96 with respect to the transmission of national accounts data.
+57.  Commission Regulation (EC) No 36/2009 of 11 July 2008 establishing for 2008 the Prodcom list of industrial products provided for by Council Regulation (EEC) No 3924/91.
+58.  Regulation (EC) No 218/2009 of the European Parliament and of the Council of 11 March 2009 on the submission of nominal catch statistics by Member States fishing in the north-east Atlantic (recast).
+59.  Regulation (EC) No 400/2009 of the European Parliament and of the Council of 23 April 2009 amending Council Regulation (EC) No 2223/96 on the European system of national and regional accounts in the Community as regards the implementing powers conferred on the Commission.
+60.  Council Decision 2010/196/EU, Euratom of 16 March 2010 on the allocation of financial intermediation services indirectly measured (FISIM) for the establishment of the gross national income (GNI) used for the purposes of the European Union’s budget and its own resources.
+61.  Commission Regulation (EU) No 715/2010 of 10 August 2010 amending Council Regulation (EC) No 2223/96 as regards adaptations following the revision of the statistical classification of economic activities NACE Revision 2 and the statistical classification of products by activity (CPA) in national accounts.
+62.  Decision 2010/469/EU of the European Central Bank of 19 August 2010 on non-compliance with statistical reporting requirements (ECB/2010/10).
+63.  Commission Regulation (EU) No 860/2010 of 10 September 2010 establishing for 2010 the ‘Prodcom list’ of industrial products provided for by Council Regulation (EEC) No 3924/91.
+64.  Decision 2011/11/EU of the European Central Bank of 27 December 2010 on the transmission of confidential data under the common framework for business registers for statistical purposes (ECB/2010/33).
+65.  Commission Decision 2011/142/EU of 3 March 2011 amending Decision 97/80/EC laying down provisions for the implementation of Council Directive 96/16/EC on statistical surveys of milk and milk products.
+66.  Regulation (EU) No 1011/2012 of the European Central Bank of 17 October 2012 concerning statistics on holdings of securities (ECB/2012/24).
+67.  Regulation (EU) No 549/2013 of the European Parliament and of the Council of 21 May 2013 on the European system of national and regional accounts in the European Union.
+68.  Regulation (EU) No 1072/2013 of the European Central Bank of 24 September 2013 concerning statistics on interest rates applied by monetary financial institutions (recast) (ECB/2013/34).
+69.  Regulation (EU) No 1073/2013 of the European Central Bank of 18 October 2013 concerning statistics on the assets and liabilities of investment funds (recast) (ECB/2013/38).
+70.  Regulation (EU) No 1074/2013 of the European Central Bank of 18 October 2013 on statistical reporting requirements for post office giro institutions that receive deposits from non-monetary financial institution euro area residents (recast) (ECB/2013/39).
+71.  Regulation (EU) No 1075/2013 of the European Central Bank of 18 October 2013 concerning statistics on the assets and liabilities of financial vehicle corporations engaged in securitisation transactions (recast) (ECB/2013/40).
+72.  Regulation (EU) No 1409/2013 of the European Central Bank of 28 November 2013 on payments statistics (ECB/2013/43).
+73.  Regulation (EU) No 1350/2013 of the European Parliament and of the Council of 11 December 2013 amending certain legislative acts in the field of agricultural and fishery statistics.
+74.  Decision 2014/192/EU of the European Central Bank of 24 February 2014 on the organisation of preparatory measures for the collection of granular credit data by the European System of Central Banks (ECB/2014/6).
+75.  Commission Implementing Decision 2014/403/EU of 26 June 2014 on granting derogations to Member States with respect to the transmission of statistics pursuant to Regulation (EU) No 549/2013 of the European Parliament and of the Council concerning the European system of national and regional accounts in the European Union.
+76.  Commission Implementing Regulation (EU) No 724/2014 of 26 June 2014 on the interchange standard for the transmission of data required under Regulation (EU) No 549/2013 of the European Parliament and of the Council on the European system of national and regional accounts in the European Union.
+77.  Regulation (EU) No 756/2014 of the European Central Bank of 8 July 2014 amending Regulation (EU) No 1072/2013 (ECB/2013/34) concerning statistics on interest rates applied by monetary financial institutions (ECB/2014/30).
+78.  Regulation (EU) No 1333/2014 of the European Central Bank of 26 November 2014 concerning statistics on the money markets (ECB/2014/48).
+79.  Regulation (EU) No 1374/2014 of the European Central Bank of 28 November 2014 on statistical reporting requirements for insurance corporations (ECB/2014/50).
+80.  Decision (EU) 2015/32 of the European Central Bank of 29 December 2014 concerning derogations that may be granted under Regulation (EU) No 1073/2013 concerning statistics on the assets and liabilities of investment funds (ECB/2013/38) (recast) (ECB/2014/62).
+81.  Regulation (EU) 2015/730 of the European Central Bank of 16 April 2015 amending Regulation (EU) No 1011/2012 concerning statistics on holdings of securities (ECB/2012/24) (ECB/2015/18).
+82.  Commission Delegated Regulation (EU) 2015/1342 of 22 April 2015 amending the methodology for the classification of products by activity given in Annex A to Regulation (EU) No 549/2013 of the European Parliament and of the Council.
+83.  Commission Delegated Regulation (EU) 2015/1365 of 30 April 2015 on the transmission format for research and development expenditure data.
+84.  Commission Implementing Decision (EU) 2015/1504 of 7 September 2015 granting derogations to certain Member States as regards the provision of statistics pursuant to Regulation (EC) No 1099/2008 of the European Parliament and of the Council on energy statistics.
+85.  Regulation (EU) 2015/1599 of the European Central Bank of 10 September 2015 amending Regulation (EU) No 1333/2014 concerning statistics on the money markets (ECB/2015/30).
+86.  Council Decision (EU) 2015/1773 of 1 October 2015 on the position to be adopted, on behalf of the European Union, within the EEA Joint Committee concerning an amendment to Annex XXI (Statistics) to the EEA Agreement (Energy Statistics).
+87.  Decision (EU) 2016/244 of the European Central Bank of 18 December 2015 amending Decision ECB/2010/10 on non-compliance with statistical reporting requirements (ECB/2015/50).
+88.  Regulation (EU) 2016/792 of the European Parliament and of the Council of 11 May 2016 on harmonised indices of consumer prices and the house price index, and repealing Council Regulation (EC) No 2494/95.
+89.  Regulation (EU) 2016/867 of the European Central Bank of 18 May 2016 on the collection of granular credit and credit risk data (ECB/2016/13).
+90.  Decision (EU) 2016/868 of the European Central Bank of 18 May 2016 amending Decision ECB/2014/6 on the organisation of preparatory measures for the collection of granular credit data by the European System of Central Banks (ECB/2016/14).
+91.  Regulation (EU) 2016/1384 of the European Central Bank of 2 August 2016 amending Regulation (EU) No 1011/2012 (ECB/2012/24) concerning statistics on holdings of securities (ECB/2016/22).
+92.  Commission Implementing Regulation (EU) 2016/2304 of 19 December 2016 on the modalities, structure, periodicity and assessment indicators of the quality reports on data transmitted pursuant to Regulation (EU) No 549/2013 of the European Parliament and of the Council.
+93.  Decision (EU) 2017/468 of the European Central Bank of 26 January 2017 amending Decision ECB/2010/10 on non-compliance with statistical reporting requirements (ECB/2017/5).
+94.  Decision (EU) 2017/1258 of the European Central Bank of 5 July 2017 on the delegation of decisions on the transmission of confidential statistical information to the Single Resolution Board (ECB/2017/22).
+95.  Regulation (EU) 2018/231 of the European Central Bank of 26 January 2018 on statistical reporting requirements for pension funds (ECB/2018/2).
+96.  Regulation (EU) 2018/318 of the European Central Bank of 22 February 2018 amending Regulation (EU) No 1011/2012 concerning statistics on holdings of securities (ECB/2018/7).
+97.  Commission Regulation (EU) 2018/1798 of 21 November 2018 implementing Regulation (EC) No 808/2004 of the European Parliament and of the Council concerning Community statistics on the information society for the reference year 2019.
+98.  Commission Implementing Regulation (EU) 2018/1799 of 21 November 2018 on the establishment of a temporary direct statistical action for the dissemination of selected topics of the 2021 population and housing census geocoded to a 1 km2 grid.
+99.  Commission Implementing Regulation (EU) 2018/1874 of 29 November 2018 on the data to be provided for 2020 under Regulation (EU) 2018/1091 of the European Parliament and of the Council on integrated farm statistics and repealing Regulations (EC) No 1166/2008 and (EU) No 1337/2011, as regards the list of variables and their description.
+100.  Commission Implementing Decision (EU) 2018/1891 of 30 November 2018 amending Implementing Decision 2014/403/EU on granting derogations to Member States with respect to the transmission of statistics pursuant to Regulation (EU) No 549/2013 of the European Parliament and of the Council concerning the European system of national and regional accounts in the European Union.
+101.  Commission Delegated Regulation (EU) 2019/280 of 3 December 2018 amending Regulation (EC) No 138/2004 of the European Parliament and of the Council as regards references to the European system of national and regional accounts in the European Union.
+102.  Regulation (EU) 2019/113 of the European Central Bank of 7 December 2018 amending Regulation (EU) No 1333/2014 concerning statistics on the money markets (ECB/2018/33).
+103.  Commission Delegated Regulation (EU) 2019/505 of 19 December 2018 amending Annex I to Regulation (EC) No 184/2005 of the European Parliament and of the Council, as regards the geographical breakdown levels.
+104.  Commission Implementing Regulation (EU) 2019/260 of 14 February 2019 amending Implementing Regulation (EU) No 180/2014 as regards the volumes of traditional trade flows between certain outermost regions of the Union and the United Kingdom.
+105.  Commission Regulation (EU) 2019/414 of 14 March 2019 implementing Regulation (EC) No 1177/2003 of the European Parliament and of the Council concerning Community statistics on income and living conditions (EU-SILC) as regards the 2020 list of target secondary variables on over-indebtedness, consumption and wealth as well as labour.
+106.  Regulation (EU) 2019/516 of the European Parliament and of the Council of 19 March 2019 on the harmonisation of gross national income at market prices and repealing Council Directive 89/130/EEC, Euratom and Council Regulation (EC, Euratom) No 1287/2003 (GNI Regulation).
+107.  Commission Implementing Regulation (EU) 2019/803 of 17 May 2019 concerning the technical requirements regarding the content of quality reports on European statistics on natural gas and electricity prices pursuant to Regulation (EU) 2016/1952 of the European Parliament and of the Council.
+108.  Commission Decision C/2019/3651 of 17 May 2019 setting up the Commission expert group on gross national income.
+109.  Commission Implementing Regulation (EU) 2019/1130 of 2 July 2019 on the uniform conditions for the harmonised application of territorial typologies pursuant to Regulation (EC) No 1059/2003 of the European Parliament and of the Council.
+110.  Decision (EU) 2019/1348 of the European Central Bank of 18 July 2019 on the procedure for recognising non-euro area Member States as reporting Member States under Regulation (EU) 2016/867 on the collection of granular credit and credit risk data (ECB/2019/20).
+111.  Commission Delegated Regulation (EU) 2019/1681 of 1 August 2019 amending Regulation (EU) No 692/2011 of the European Parliament and of the Council concerning European statistics on tourism, as regards the transmission deadlines and adaptation of Annexes I and II.
+112.  Commission Delegated Regulation 2019/1755 of 8 August 2019 amending the Annexes to Regulation (EC) No 1059/2003 of the European Parliament and of the Council on the establishment of a common classification of territorial units for statistics (NUTS).
+113.  Regulation (EU) 2019/1677 of the European Central Bank of 27 September 2019 amending Regulation (EU) No 1333/2014 concerning statistics on the money markets (ECB/2019/29).
+114.  Regulation (EU) 2019/1700 of the European Parliament and of the Council of 10 October 2019 establishing a common framework for European statistics relating to persons and households, based on data at individual level collected from samples, amending Regulations (EC) No 808/2004, (EC) No 452/2008 and (EC) No 1338/2008 of the European Parliament and of the Council, and repealing Regulation (EC) No 1177/2003 of the European Parliament and of the Council and Council Regulation (EC) No 577/98.
+115.  Commission Implementing Regulation (EU) 2019/1975 of 31 October 2019 amending Implementing Regulation (EU) 2015/220 laying down rules for the application of Council Regulation (EC) No 1217/2009 setting up a network for the collection of accountancy data on the incomes and business operation of agricultural holdings in the European Union.
+116.  Commission Regulation (EU) 2019/1933 of 6 November 2019 establishing the ‘Prodcom list’ of industrial products referred to in Council Regulation (EEC) No 3924/91.
+117.  Commission Regulation (EU) 2019/1910 of 7 November 2019 implementing Regulation (EC) No 808/2004 of the European Parliament and of the Council concerning Community statistics on the information society for reference year 2020.
+118.  Commission Regulation (EU) 2019/2146 of 26 November 2019 amending Regulation (EC) No 1099/2008 of the European Parliament and of the Council on energy statistics, as regards the implementation of updates for the annual, monthly and short-term monthly energy statistics.
+119.  Commission Implementing Regulation (EU) 2019/2180 of 16 December 2019 specifying the detailed arrangements and content for the quality reports pursuant to Regulation (EU) 2019/1700 of the European Parliament and of the Council.
+120.  Commission Implementing Regulation (EU) 2019/2181 of 16 December 2019 specifying technical characteristics as regards items common to several datasets pursuant to Regulation (EU) 2019/1700 of the European Parliament and of the Council.
+121.  Commission Implementing Regulation (EU) 2019/2240 of 16 December 2019 specifying the technical items of the data set, establishing the technical formats for transmission of information and specifying the detailed arrangements and content of the quality reports on the organisation of a sample survey in the labour force domain in accordance with Regulation (EU) 2019/1700 of the European Parliament and of the Council.
+122.  Commission Implementing Regulation (EU) 2019/2241 of 16 December 2019 describing the variables and the length, quality requirements and level of detail of the time series for the transmission of monthly unemployment data pursuant to Regulation (EU) 2019/1700 of the European Parliament and of the Council.
+123.  Commission Implementing Regulation (EU) 2019/2242 of 16 December 2019 specifying the technical items of data sets, establishing the technical formats and specifying the detailed arrangements and content of the quality reports on the organisation of a sample survey in the income and living conditions domain pursuant to Regulation (EU) 2019/1700 of the European Parliament and of the Council.
+124.  Commission Delegated Regulation (EU) 2020/256 of 16 December 2019 supplementing Regulation (EU) 2019/1700 of the European Parliament and of the Council by establishing a multiannual rolling planning.
+125.  Commission Delegated Regulation (EU) 2020/257 of 16 December 2019 supplementing Regulation (EU) 2019/1700 of the European Parliament and of the Council by specifying the number and the title of the variables for the labour force domain.
+126.  Commission Delegated Regulation (EU) 2020/258 of 16 December 2019 supplementing Regulation (EU) 2019/1700 of the European Parliament and of the Council by specifying the number and the titles of the variables for the income and living conditions domain.
+127.  Commission Implementing Regulation (EU) 2020/405 of 16 March 2020 specifying the arrangements for, and contents of, the quality reports to be transmitted under Regulation (EU) 2018/1091 of the European Parliament and of the Council on integrated farm statistics.
+128.  Regulation (EU) 2020/533 of the European Central Bank of 15 April 2020 on the extension of deadlines for the reporting of statistical information (ECB/2020/23).
+129.  Regulation (EU) 2020/851 of the European Parliament and of the Council of 18 June 2020 amending Regulation (EC) No 862/2007 on Community statistics on migration and international protection.
+130.  Decision (EU) 2020/1100 of the European Central Bank of 17 July 2020 amending Decision (EU) 2015/32 concerning derogations that may be granted under Regulation (EU) No 1073/2013 (ECB/2020/33).
+131.  Commission Implementing Regulation (EU) 2020/1148 of 31 July 2020 laying down the methodological and technical specifications in accordance with Regulation (EU) 2016/792 of the European Parliament and of the Council as regards harmonised indices of consumer prices and the house price index.
+132.  Commission Delegated Regulation (EU) 2020/2175 of 20 October 2020 amending Delegated Regulation (EU) 2020/256 establishing a multiannual rolling planning.
+133.  Decision (EU) 2020/1631 of the European Central Bank of 22 October 2020 on the delegation of decision-making powers in relation to the transmission of confidential statistical information on economic and financial statistics to the Statistical Office of the European Union (Eurostat) (ECB/2020/53).
+134.  Commission Implementing Regulation (EU) 2020/1546 of 23 October 2020 establishing the structure and detailed arrangements of the inventory of the sources and methods used to produce gross national income aggregates and their components in accordance with the European System of Accounts (ESA 2010).
+135.  Commission Implementing Regulation (EU) 2020/1652 of 4 November 2020 amending Implementing Regulation (EU) 2015/220 laying down rules for the application of Council Regulation (EC) No 1217/2009 setting up a network for the collection of accountancy data on the incomes and business operation of agricultural holdings in the European Union.
+136.  Commission Implementing Regulation (EU) 2020/1721 of 17 November 2020 specifying technical items of data sets of the sample survey in the income and living conditions domain on health and quality of life pursuant to Regulation (EU) 2019/1700 of the European Parliament and of the Council.
+137.  Regulation (EU) 2020/2004 of the European Central Bank of 26 November 2020 amending Regulation (EU) No 1333/2014 concerning statistics on the money markets (ECB/2020/58).Regulation 7(2)
+SCHEDULE 2
+Points in Annex XXI to the EEA agreement to be omitted
+1.  Point 4ad (Commission Regulation (EC) No 317/2006).
+2.  Point 4ae (Commission Regulation (EC) No 294/2007).
+3.  Point 4ag (Commission Regulation (EC) No 36/2009).
+4.  Point 4ai (Commission Regulation (EU) No 860/2010).
+5.  Point 4aq (Commission Regulation (EU) 2019/1933).
+6.  Point 19 (Regulation (EU) 2019/516 of the European Parliament and of the Council).
+7.  Point 19a (Regulation (EU) 2016/792 of the European Parliament and of the Council).
+8.  Point 19d (Council Regulation (EC) No 2223/96).
+9.  Point 19da (Commission Regulation (EC) No 264/2000).
+10.  Point 19db (Commission Decision 98/715/EC).
+11.  Point 19dd (Commission Regulation (EC) No 1889/2002).
+12.  Point 19de (Commission Decision 2002/990/EC).
+13.  Point 19e (Commission Decision 97/178/EC).
+14.  Point 19z (Regulation (EU) No 549/2013 of the European Parliament and of the Council).
+15.  Point 19za (Commission Implementing Regulation (EU) No 724/2014).
+16.  Point 19zb (Commission Delegated Regulation (EU) 2015/1365).
+17.  Point 19zc (Commission Implementing Regulation (EU) 2016/2304).
+18.  Point 22 (Commission Decision 97/80/EC).
+19.  Point 23b (Commission Implementing Regulation (EU) 2018/1874).
+20.  Point 25a (Regulation (EC) No 218/2009 of the European Parliament and of the Council)
+21.  Point 28n (Commission Regulation (EU) 2018/1798).
+22.  Point 28o (Commission Regulation (EU) 2019/1910).EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations are made in exercise of the powers conferred by section 8(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 (c. 16) (“the 2018 Act”) to address failures of retained EU law to operate effectively and other deficiencies arising from the withdrawal of the UK from the European Union. In particular, these Regulations address deficiencies under paragraphs (a), (b), (c), (d) and (g) of section 8(2) of the 2018 Act.
+These Regulations also make consequential provision in exercise of the power conferred by section 41(1) of the European Union (Withdrawal Agreement) Act 2020 (c. 1) in order to update references to “exit day” to “IP completion day” as a result of the creation of the implementation period by that Act.
+These Regulations make amendments to legislation in the field of statistics and are made subsequent to the UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489). Part 2 amends primary legislation and Part 3 amends subordinate legislation. Part 4 revokes the EU regulations and EU decisions set out in Schedule 1. Part 4 also includes a saving provision, and amends Annex XXI to the EEA agreement as set out in Schedule 2.
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.

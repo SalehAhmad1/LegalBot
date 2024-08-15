@@ -1,0 +1,160 @@
+Draft Order laid before the Scottish Parliament under section 13(2) of the Convention Rights (Compliance) (Scotland) Act 2001 for approval by resolution of the Scottish Parliament.
+DRAFT SCOTTISH STATUTORY INSTRUMENTS
+2018 No.  
+POLICE
+CHILDREN AND YOUNG PERSONS
+PROTECTION OF VULNERABLE ADULTS
+The Police Act 1997 and the Protection of Vulnerable Groups (Scotland) Act 2007 Remedial Order 2018
+Made
+2018
+Coming into force
+17th February 2018
+The Scottish Ministers make the following remedial Order in exercise of the powers conferred by section 12(1) and (3) of the Convention Rights (Compliance) (Scotland) Act 2001(1) (“the 2001 Act”) and all other powers enabling them to do so.
+The Scottish Ministers consider the provision made by this Order to be necessary or expedient in consequence of provisions in the Police Act 1997(2) and the Protection of Vulnerable Groups (Scotland) Act 2007(3), insofar as they require automatic disclosure of certain convictions, being incompatible with Convention rights(4).
+In accordance with section 12(2) of the 2001 Act the Scottish Ministers are of the opinion that there are compelling reasons for making a remedial order as distinct from taking any other action.
+In accordance with section 13(3) of the 2001 Act the Scottish Ministers laid before the Scottish Parliament a copy of the proposed draft Order, together with a statement of their reasons for proposing to make the Order, gave such public notice of the contents of the proposed draft Order as they considered appropriate, invited observations on it and had regard to written observations submitted.
+In accordance with section 13(4) of the 2001 Act the Scottish Ministers laid before the Scottish Parliament a statement summarising all the observations to which they had regard under section 13(3)(c) and specifying the changes which they made in the draft Order and the reasons for them.
+In accordance with section 13(2) of the 2001 Act a draft of this Order has been laid before and approved by resolution of the Scottish Parliament.
+(1)
+2001 asp 7.
+(2)
+1997 c.50. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998 (c.46).
+(3)
+2007 asp 14.
+(4)
+The term “Convention rights” has the meaning given by section 1 of the Human Rights Act 1998 (c.42). In the case of P v Scottish Ministers [2017] CSOH 33 , the court declared that, insofar as they require automatic disclosure of the disposal of the petitioner’s case before the Children’s Hearing on 14 October 1987, the provisions contained in the Police Act 1997 and the Protection of Vulnerable Groups (Scotland) Act 2007 Remedial (No. 2) Order (S.S.I. 2015/423) (“the legislation”) unlawfully and unjustifiably interfered with the petitioner’s rights under and in terms of Article 8 of the European Convention for the Protection of Human Rights and Fundamental Freedoms and that the Scottish Ministers did not, to that extent, have power to make the provisions. The court made an order in terms of section 102(2)(b) of the Scotland Act 1998, suspending the effect of the declarator, except in relation to the petitioner, for a period of nine months or such shorter period as may be required for the defect in the legislation to be corrected and for that correction to take effect. The legislation amended both the Police Act 1997 and the Protection of Vulnerable Groups (Scotland) Act 2007.Citation and commencement
+1.—(1) This Order may be cited as the Police Act 1997 and the Protection of Vulnerable Groups (Scotland) Act 2007 Remedial Order 2018.
+(2) This Order comes into force on 17th February 2018.Interpretation
+2.  In this Order—
+“the 1997 Act” means the Police Act 1997;
+“the 2007 Act” means the Protection of Vulnerable Groups (Scotland) Act 2007; and
+“the relevant date” means 17th February 2018.Amendment of the 1997 Act
+3.—(1) The 1997 Act is amended as follows.
+(2) In section 116ZA (copies of criminal record certificate or enhanced criminal record certificate)(1)—
+(a)
+in subsection (1)(b), for the words from “for” to the end substitute “which falls within subsection (1A)”;
+(b)
+after subsection (1) insert—
+“(1A) A conviction falls within this subsection if it is—
+(a)
+a conviction for an offence listed in schedule 8A which is a spent conviction and either—
+(i)
+the person was aged under 18 on the date of conviction and at least 7 years and 6 months have passed since the date of the conviction, or
+(ii)
+the person was aged 18 or over on the date of conviction and at least 15 years have passed since the date of conviction,
+(b)
+a conviction for an offence listed in schedule 8B which is—
+(i)
+a spent conviction, but
+(ii)
+not a protected conviction.”;
+(c)
+in subsection (3)(b), for the words from “for” to the end substitute “which falls within subsection (1A)”.
+(3) In section 116ZB (application for an order for a new criminal record certificate or enhanced criminal record certificate)(2), in subsection (1)(b), for the words from “for” to the end substitute “which falls within section 116ZA(1A)”.
+(4) The title of schedule 8A (offences which must always be disclosed)(3) becomes “Offences which must be disclosed unless a sheriff orders otherwise”.
+(5) In schedule 8B (offences which are to be disclosed subject to rules)(4)—
+(a)
+in paragraph 75, for “and” substitute “or”;
+(b)
+in paragraph 81, sub-paragraph (c) and the word “and” immediately preceding it are repealed.
+(1)
+Section 116ZA was inserted by article 3(4) of S.S.I. 2015/423.
+(2)
+Section 116ZB was inserted by article 3(4) of S.S.I. 2015/423.
+(3)
+Schedule 8A was inserted by article 3(8) of S.S.I. 2015/423.
+(4)
+Schedule 8B was inserted by article 3(8) of S.S.I. 2015/423.Amendment of the 2007 Act 2
+4.—(1) The 2007 Act is amended as follows.
+(2) In section 52ZA (procedure following correction of inaccurate scheme record)(1)—
+(a)
+in subsection (1)(c), for the words from “for” to the end substitute “which falls within subsection (4)”;
+(b)
+after subsection (3) insert—
+“(4) A conviction falls within this subsection if it is—
+(a)
+a conviction for an offence listed in schedule 8A of the 1997 Act which is a spent conviction and either—
+(i)
+the person was aged under 18 on the date of conviction and at least 7 years and 6 months have passed since the date of conviction, or
+(ii)
+the person was aged 18 or over on the date of conviction and at least 15 years have passed since the date of conviction,
+(b)
+a conviction for an offence listed in schedule 8B of the 1997 Act which is—
+(i)
+a spent conviction, but
+(ii)
+not a protected conviction.”.
+(3) In section 52 (disclosure of scheme records)(2)—
+(a)
+in subsection (2), for the words from “for” to the end substitute “which falls within subsection (2A)”;
+(b)
+after subsection (2) insert—
+“(2A) A conviction falls within this subsection if it is—
+(a)
+a conviction for an offence listed in schedule 8A of the 1997 Act which is a spent conviction and either—
+(i)
+the person was aged under 18 on the date of conviction and at least 7 years and 6 months have passed since the date of conviction, or
+(ii)
+the person was aged 18 or over on the date of conviction and at least 15 years have passed since the date of conviction,
+(b)
+a conviction for an offence listed in schedule 8B of the 1997 Act which is—
+(i)
+a spent conviction, but
+(ii)
+not a protected conviction.”;
+(c)
+in subsection (4), for the words from “for” to the end substitute “which falls within subsection (2A).”.
+(4) In section 57A (meaning of “conviction” and “protected conviction”)(3), after “sections” insert “52ZA,”.
+(1)
+Section 52ZA was inserted by article 4(5) of S.S.I. 2015/423.
+(2)
+Section 52 was substituted by article 4(6) of S.S.I. 2015/423.
+(3)
+Section 57A was inserted by article 4(8) of S.S.I. 2015/423.Current applications for criminal record certificates and enhanced criminal record certificates under sections 113A, 113B, 114 and 116 of the 1997 Act
+5.—(1) Paragraph (2) of this article applies where the Scottish Ministers—
+(a)
+have, before the relevant date, received an application for—
+(i)
+a criminal record certificate under section 113A (criminal record certificates) or, as the case may be, section 114 (criminal record certificates: Crown employment) of the 1997 Act; or
+(ii)
+an enhanced criminal record certificate under section 113B (enhanced criminal record certificates) or, as the case may be, section 116 (enhanced criminal record certificates: judicial appointments and Crown employment) of the 1997 Act; and
+(b)
+have not by that date issued the certificate.
+(2) An application referred to in paragraph (1) is to be treated for all purposes as having been received after the relevant date.Current applications for new certificates under section 117 of the 1997 Act
+6.—(1) Paragraph (2) of this article applies where the Scottish Ministers—
+(a)
+have, before the relevant date, received an application for a new criminal record certificate or, as the case may be, a new enhanced criminal record certificate under sections 113A to 116 of the 1997 Act in accordance with section 117 (disputes about accuracy of certificates) of the 1997 Act; and
+(b)
+have not by that date issued the new certificate.
+(2) An application referred to in paragraph (1) is to be treated for all purposes as having been received after the relevant date.Current disclosure requests under sections 52 and 53 of the 2007 Act
+7.—(1) Paragraph (2) of this article applies where the Scottish Ministers—
+(a)
+have, before the relevant date, received a request for—
+(i)
+disclosure of a scheme member’s scheme record under section 52 (disclosure of scheme records) of the 2007 Act; or
+(ii)
+disclosure of a scheme member’s short scheme record under section 53 (disclosure of short scheme records) of the 2007 Act; and
+(b)
+have not by that date disclosed the scheme record or, as the case may be, short scheme record.
+(2) Any request for a disclosure referred to in paragraph (1) is to be treated for all purposes as having been received after the relevant date.Correction of scheme records under sections 51 and 52ZA of the 2007 Act
+8.—(1) Paragraph (2) of this article applies where the Scottish Ministers—
+(a)
+have, before the relevant date, received—
+(i)
+a notification of changes under section 50 (duty to notify certain changes) of the 2007 Act;
+(ii)
+a request from a scheme member for correction of a scheme record under section 51 (correction of inaccurate scheme record) of the 2007 Act; or
+(iii)
+a request from a scheme member for correction of a scheme record under section 52ZA (procedure following correction of inaccurate scheme record) of the 2007 Act; and
+(b)
+have not by that date corrected the scheme record.
+(2) A notification or, as the case may be, a request referred to in paragraph (1) is to be treated for all purposes as having been received after the relevant date.Name
+Authorised to sign by the Scottish Ministers
+St Andrew’s House,
+Edinburgh
+DateEXPLANATORY NOTE
+(This note is not part of the Order)
+This Order makes amendments to the Police Act 1997 (“the 1997 Act”) and the Protection of Vulnerable Groups (Scotland) Act 2007 (“the 2007 Act”) to remove any incompatibility with the European Convention on Human Rights (“the Convention”) arising from the automatic disclosure of certain criminal convictions under the 1997 Act and the 2007 Act.
+Article 3 amends the 1997 Act. Article 3(2) amends section 116ZA of the 1997 Act which sets out the circumstances in which Scottish Ministers must, or, as the case may be, must not, send a copy of a criminal record certificate and enhanced criminal record certificate to a relevant person. Article 3(2) contains a new provision restricting the type of conviction details which section 116ZA(2) requires Scottish Ministers automatically to send to a relevant person. A new subsection (1A) sets out the conviction details to which section 116ZA(2) does not apply. Those details now also include spent convictions which are listed in schedule 8A of the 1997 Act and either, where the person was aged under 18 at the date of conviction, 7 years and 6 months have passed since the date of the conviction, or, where the person was aged 18 or over at the date of conviction, 15 years have passed since the date of the conviction. Article 3(3) amends section 116ZB of the 1997 Act to extend the right to make an application to the sheriff for an order to issue a new disclosure certificate where the disclosure contains the conviction details set out in the new section 116ZA(1A) of the 1997 Act. Article 3(4) amends the title of schedule 8A of the 1997 Act. Article 3(5) corrects minor drafting errors in paragraphs 75 and 81 of schedule 8B of the 1997 Act.
+Article 4 amends the 2007 Act. Article 4(2) amends section 52ZA of the 2007 Act which sets out how Scottish Ministers must treat a corrected scheme record where that scheme record includes certain vetting information. Article 4(2) contains a new provision which extends the type of vetting information to which section 52ZA applies so that it now also applies to spent convictions which are listed in schedule 8A of the 1997 Act and either where, the person was aged under 18 at the date of conviction, 7 years and 6 months have passed since the date of the conviction, or, where the person was aged 18 or over at the date of conviction, 15 years have passed since the date of the conviction. Article 4(3) amends section 52 of the 2007 Act which sets out the circumstances in which Scottish Ministers must, or, as the case may be, must not, disclose scheme records. Article 4(3)(b) contains a new provision restricting the type of vetting information which section 52(3) requires Scottish Ministers automatically to disclose. A new subsection (2A) sets out the vetting information to which section 52(3) does not apply. That vetting information now also includes spent convictions which are listed in schedule 8A of the 1997 Act and either, where the person was aged under 18 at the date of conviction, 7 years and 6 months have passed since the date of the conviction, or, where the person was aged 18 or over at the date of conviction, 15 years have passed since the date of the conviction. This means that section 52A(2) of the 2007 Act will now include the right to make an application to the sheriff for an order to remove vetting information from a scheme record where the scheme record contains the vetting information set out in the new section 52(2A) of the 2007 Act.
+Articles 5 to 8 make transitional provision. Any applications for criminal record certificates and enhanced criminal record certificates under sections 113A, 113B, 114 and 116 of the 1997 Act (article 5(1) and (2)), applications for new certificates under section 117 of the 1997 Act (article 6), disclosure requests under sections 52 and 53 of the 2007 Act (article 7) and requests for correction of scheme records under section 51 and section 52ZA of the 2007 Act (article 8) which have been received prior to the coming into force of this Order and are not yet completed are to be treated as having been received after the coming into force of this Order. This means that the new section 116ZA(1A) of the 1997 Act and the new sections 52ZA(4) and 52(2A) of the 2007 Act will have effect when all of these applications or requests are completed.

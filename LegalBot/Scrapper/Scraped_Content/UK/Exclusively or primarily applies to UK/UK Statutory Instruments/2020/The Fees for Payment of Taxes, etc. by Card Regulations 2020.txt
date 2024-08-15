@@ -1,0 +1,65 @@
+STATUTORY INSTRUMENTS
+2020 No. 657
+TAXES
+The Fees for Payment of Taxes, etc. by Card Regulations 2020
+Made
+29th June 2020
+Laid before the House of Commons
+30th June 2020
+Coming into force
+1st November 2020
+The Commissioners for Her Majesty’s Revenue and Customs make the following Regulations in exercise of the powers conferred by section 136(1) to (3) of the Finance Act 2008(1).
+In accordance with section 136(2) of that Act, the Commissioners expect that they, or a person authorised by them, will be required to pay a fee in connection with amounts paid by credit or debit card.
+(1)
+2008 c. 9.Citation and commencement
+1.  These Regulations may be cited as the Fees for Payment of Taxes, etc. by Card Regulations 2020 and come into force on 1st November 2020.Fee payable where a payment is made by a relevant credit or debit card
+2.—(1) A person making a payment by a relevant credit card or a relevant debit card to the Commissioners or a person authorised by them must pay a fee together with the payment.
+(2) In this regulation—
+“relevant credit card” means a card—
+(a)
+given to a person for use in business, and
+(b)
+which is a credit token within section 14(1)(b) of the Consumer Credit Act 1974(1) or would, if given to an individual, be such a token;
+“relevant debit card” means a card—
+(a)
+given to a person for use in business, and
+(b)
+the use of which to make payment results in an account of the holder’s at a bank, or any other institution providing banking services, being debited with the payment.
+(1)
+1974 c. 39.Amount of fee
+3.—(1) The amount of the fee is equal to—
+where—
+M is the amount of the merchant acquirer fee for the payment;
+I is the amount of the interchange fee for the payment;
+S is the amount of the scheme fee for the payment.
+(2) “Merchant acquirer fee” means the fee for processing the payment charged to the payee by the merchant acquirer.
+(3) “Interchange fee” means the fee for the payment—
+(a)
+charged to the merchant acquirer by the issuer of the card, and
+(b)
+re-charged to the payee by the merchant acquirer.
+(4) “Scheme fee” means the fee for the payment—
+(a)
+charged to the merchant acquirer by the person responsible for the card scheme applying to the card, and
+(b)
+re-charged to the payee by the merchant acquirer.
+(5) In this regulation—
+“card scheme” means a standardised set of rules, practices or guidelines applying to payments by card;
+“issuer” means the person by whom a card is given to its holder;
+“merchant acquirer” means the person who, by agreement with the payee, processes a payment by card so that funds are transferred to the payee.Revocation
+4.  The following are revoked—
+(a)
+the Fees for Payment of Taxes, etc. by Credit Card Regulations 2016(1);
+(b)
+the Fees for Payment of Taxes, etc. by Credit Card (Amendment) Regulations 2017(2).
+(1)
+S.I. 2016/333, amended by S.I. 2017/1262.
+(2)
+S.I. 2017/1262.Jim Harra
+Justin Holliday
+Two of the Commissioners for Her Majesty’s Revenue and Customs
+29th June 2020EXPLANATORY NOTE
+(This note is not part of the Regulations)
+The Regulations, with effect from 1st November 2020, revoke and replace the Fees for Payment of Taxes, etc. by Credit Card Regulations 2016 (S.I. 2016/333) and the Fees for Payment of Taxes, etc. by Credit Card (Amendment) Regulations 2017 (S.I. 2017/1262).
+Regulation 2 provides that a fee is payable whenever a business credit or debit card is used to make a payment to Her Majesty’s Revenue and Customs (“HMRC”). Under the revoked legislation, a fee was only payable to HMRC in relation to payments with specified business credit cards and was not payable in relation to payments by any debit cards. The Regulations accordingly increase the range of cards in respect of which a fee is payable. The fee is determined by the formula in Regulation 3 and is equal to the sum of the three fees ultimately incurred by HMRC when receiving payment by card.
+A Tax Information and Impact Note has not been prepared for this instrument as it contains no substantive changes to tax policy.

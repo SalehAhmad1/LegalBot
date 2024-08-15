@@ -1,0 +1,139 @@
+Draft Regulations laid before Parliament under section 45Q(4) of the Public Health (Control of Disease) Act 1984, for approval by resolution of each House of Parliament.
+DRAFT STATUTORY INSTRUMENTS
+2020 No.
+PUBLIC HEALTH, ENGLAND
+The Health Protection (Coronavirus, Testing Requirements and Standards) (England) Regulations 2020
+Made
+***
+Coming into force in
+***
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 45C(1) and (3)(c), 45F(2) and 45P(2) of the Public Health (Control of Disease) Act 1984(1).
+A draft of this instrument was laid before Parliament in accordance with section 45Q(4) of that Act and approved by a resolution of each House of Parliament.
+The Secretary of State considers that the requirements imposed by these Regulations are proportionate to what they seek to achieve, which is a public health response to the serious and imminent threat to public health which is posed by the incidence and spread of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in England.
+(1)
+1984 c. 22; Part 2A was inserted by section 129 of the Health and Social Care Act 2008 (c.14).Citation, commencement and application
+1.—(1) These Regulations may be cited as the Health Protection (Coronavirus, Testing Requirements and Standards) (England) Regulations 2020 and come into force on the day after the day on which they are made.
+(2) These Regulations apply to England only.Interpretation
+2.  In these Regulations—
+“administer”, in relation to an applicable test, means the collecting of a sample to be tested from the individual who is the subject of the test;
+“applicable test” means a test to which regulation 3 applies;
+“test provider” means a person who provides an applicable test;
+“UKAS” means the United Kingdom Accreditation Service, a company limited by guarantee and incorporated in England and Wales under number 3076190(1).
+(1)
+See S.I. 2009/3155 for the functions of UKAS.Applicable tests
+3.—(1) An applicable test is a test for the detection of coronavirus which is—
+(a)
+provided in a single end-to-end testing service (whether or not the provider arranges with another person (“X”) for X to provide one or more elements of the service on their behalf);
+(b)
+provided in the course of a business;
+(c)
+not a test provided or administered under the National Health Service Act 2006(1);
+(d)
+not a test provided by a person (P) solely to—
+(i)
+P’s employees;
+(ii)
+persons contracted to provide services to P; or
+(iii)
+both of the above; and
+(e)
+administered on or after 1st January 2021.
+(2) In this regulation—
+(a)
+“coronavirus” means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2);
+(b)
+“single end-to-end testing service” means a service which comprises arranging to provide the test to the person to be tested, collecting and processing the sample to be tested, and providing the test result to that person.
+(1)
+2006 c. 41.Test requirements
+4.—(1) Any device used for the purposes of an applicable test must meet the following requirements—
+(a)
+it can be put into service in accordance with Part 4 of the Medical Devices Regulations 2002(1), other than solely by virtue of regulation 39(2) of those Regulations;
+(b)
+it has been validated no more than 18 months before the test is administered.
+(2) In this regulation “validated”, in relation to a device, means confirmed by—
+(a)
+the Secretary of State;
+(b)
+the National Institute for Health and Care Excellence(2); or
+(c)
+a laboratory which is accredited by UKAS to ISO standard 15189(3) or ISO/IEC standard 17025(4), other than a laboratory which processes tests provided by the test provider or is owned by the test provider,
+as having the levels of sensitivity and specificity stated by the manufacturer.
+(3) In this regulation—
+(a)
+“device” means an in vitro diagnostic medical device within the meaning given in regulation 2(1) of the Medical Devices Regulations 2002;
+(b)
+“sensitivity”, in relation to a device, means how often the device correctly generates a positive result;
+(c)
+“specificity”, in relation to a device, means how often the device correctly generates a negative result.
+(1)
+S.I. 2002/618, as amended by S.I. 2003/1697. Further amendments are prospectively made by S.I. 2019/791 with effect from 1st January 2021. There are other amending instruments not relevant to these Regulations.
+(2)
+A body corporate established under section 232 of the Health and Social Care Act 2012 (c. 7).
+(3)
+ISO standards are published in Geneva by the International Organisation for Standardisation, and are available on their website (www.iso.org) or at ISO Central Secretariat, International Organization for Standardization (ISO), 1 rue de Varembé, Case postale 56, CH-1211, Geneva 20, Switzerland. ISO 15189 Medical Laboratories requirements for quality and competence was published in November 2012.
+(4)
+ISO/IEC 17025 General requirements for the competence of testing and calibration laboratories was published in November 2017.Provider requirements
+5.—(1) A test provider must meet the following requirements in respect of any applicable test that they provide.
+(2) The test provider must ensure that a registered medical practitioner has oversight and approval of medical practices undertaken by the test provider, and responsibility for reporting medical issues.
+(3) The test provider must have an effective system of clinical governance in place which includes appropriate standard operating procedures in relation to the carrying out of applicable tests.
+(4) The test provider must ensure that a registered clinical scientist has oversight of clinical practices undertaken by the test provider, and responsibility for reporting clinical issues.
+(5) The test provider must have systems in place to—
+(a)
+identify any adverse incidents or quality control issues in relation to applicable tests, and
+(b)
+report any such incidents or issues as soon as reasonably practicable to the Secretary of State.
+(6) If the test provider arranges with another person (“X”) for X to carry out any element of the testing service on their behalf, the test provider must ensure that X complies with any provision of this regulation that is relevant to the carrying out of that element.
+(7) In this regulation “registered clinical scientist” means a person registered as a clinical scientist with the Health and Care Professions Council pursuant to article 5 of the Health Professions Order 2001(1).
+(1)
+S.I. 2002/254. There are amendments not relevant to these Regulations.UKAS accreditation
+6.—(1) Before providing an applicable test, a test provider must—
+(a)
+make a valid application to UKAS for accreditation to the relevant ISO standard; and
+(b)
+make a declaration to the Secretary of State that they meet the minimum standards for private sector-provided testing published by the Department of Health and Social Care for that purpose on 25th November 2020(1), (“stage one”).
+(2) The declaration referred to in paragraph (1)(b) must be made on the on-line portal provided by the Department of Health and Social Care at the following web page—
+https://support-covid-19-testing.dhsc.gov.uk/PrivateSectorSelfDeclaration.
+(3) A test provider who completes stage one on or before 31st December 2020 must, before 31st January 2021, comply with the requirements published by UKAS on 24th November 2020 in relation to accreditation to the relevant ISO standard(2) (“stage two”).
+(4) A test provider who completes stage one on or after 1st January 2021 must complete stage two on or before whichever is the later of—
+(a)
+31st January 2021; or
+(b)
+the date four weeks after the date on which they completed stage one.
+(5) A test provider who completes stage two on or before 31st January 2021 must be accredited by UKAS to the relevant ISO standard on or before 30th June 2021.
+(6) A test provider who completes stage two after 31st January 2021 must be accredited by UKAS to the relevant ISO standard on or before whichever is the later of—
+(a)
+30th June 2021; or
+(b)
+the date four months after the date on which they completed stage two.
+(7) Subject to paragraph (9), a test provider must cease to provide applicable tests if they have not—
+(a)
+completed stage two by the date specified in paragraph (3) or (4), as applicable; or
+(b)
+been accredited by UKAS to the relevant ISO standard by the date specified in paragraph (5) or (6), as applicable.
+(8) If the test provider arranges with another person (“X”) for X to carry out any element of the testing service on their behalf, the test provider must—
+(a)
+ensure that X complies with any provision of this regulation that is relevant to the carrying out of that element; and
+(b)
+subject to paragraph (10), cease to provide applicable tests under arrangement with X if X fails to comply with any such provision.
+(9) Paragraph (7) does not apply to an applicable test that was administered before the dates referred to in that paragraph.
+(10) Paragraph (8)(b) does not apply to an applicable test that was administered before the date that X failed to comply with this regulation.
+(11) In this regulation “the relevant ISO standard” means—
+(a)
+in the case of a test which requires laboratory processing, ISO standard 15189 or ISO/IEC standard 17025; and
+(b)
+in the case of a point of care test, ISO standard 15189 and ISO standard 22870(3), and for this purpose “point of care test” means a test processed outside a laboratory environment.
+(1)
+See https://www.gov.uk/guidance/self-declare-as-a-private-sector-covid-19-testing-provider. Hard copies of the standards are not available but a print-out may be obtained from Ministerial Correspondence and Public Enquiries Unit, Department of Health and Social Care, 39 Victoria Street, London, SW1H 0EU.
+(2)
+http://www.ukas.com/C19-Stage2-UKAS-Appraisal. Hard copies are not available but a print-out may be obtained from the Department of Health and Social Care at the above address.
+(3)
+ISO 22870 Point-of-care testing (POCT) requirements for quality and competence was published in November 2016.Offence and penalties
+7.—(1) A test provider commits an offence if, without reasonable excuse, they contravene a requirement imposed under regulation 4, 5 or 6.
+(2) An offence under this regulation is punishable on summary conviction by a fine.Review
+8.  The Secretary of State must review the effectiveness of the provisions made by these Regulations before the expiry of the period of six months beginning with the day after the day on which they come into force.Name
+Parliamentary Under Secretary of State
+Department of Health and Social Care
+DateEXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations provide for certain tests for coronavirus to meet specified standards. Regulation 3 specifies the tests to which these Regulations apply. Regulations 4 and 5 set out standards to be met by tests and test providers, respectively. Regulation 6 requires test providers to apply for accreditation with the United Kingdom Accreditation Service. Regulation 7 provides that failure to comply with any requirement of these Regulations is an offence. Regulation 8 requires these Regulations to be reviewed within six months of their coming into force.
+An impact assessment has not been produced for this instrument. An explanatory memorandum has been published alongside this instrument at www.legislation.gov.uk.

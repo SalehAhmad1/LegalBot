@@ -1,0 +1,76 @@
+STATUTORY INSTRUMENTS
+2022 No. 81
+ROAD TRAFFIC
+The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 2022
+Made
+26th January 2022
+Laid before Parliament
+1st February 2022
+Coming into force
+25th March 2022
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 41(1) and (5) of the Road Traffic Act 1988(1).
+The Secretary of State has consulted with representative organisations in accordance with section 195(2) of that Act.
+(1)
+1988 c. 52; section 41(1) was amended by section 43 of the Scotland Act 2016 (c. 11).Citation, commencement and extent
+1.—(1) These Regulations may be cited as the Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 2022 and come into force on 25th March 2022.
+(2) These Regulations extend to England and Wales and Scotland.Amendment of the Road Vehicles (Construction and Use) Regulations 1986
+2.  The Road Vehicles (Construction and Use) Regulations 1986(1) are amended as follows.
+(1)
+S.I. 1986/1078; relevant amending instruments are S.I. 2003/2695 and S.I. 2018/592.Amendment of the Road Vehicles (Construction and Use) Regulations 1986
+3.—(1) In regulation 110 (mobile telephones)—
+(a)
+in paragraph (4), from “performs” to the end, substitute “is capable of transmitting and receiving data, whether or not those capabilities are enabled.”;
+(b)
+after paragraph (5A), insert—
+“(5B) A person does not contravene a provision of this regulation, if at the time of the alleged contravention—
+(a)
+that person is using the mobile telephone or other device to make a contactless payment;
+(b)
+for a good or service which is received at the same time as, or after, the contactless payment is made; and
+(c)
+the motor vehicle is stationary.”;
+(c)
+in paragraph (6)(a), from “during the course of” to the end, substitute “while being used.”;
+(d)
+for paragraph (6)(c), substitute—
+“(c)
+in paragraphs (1) to (3) the word “using” includes the following—
+(i)
+illuminating the screen;
+(ii)
+checking the time;
+(iii)
+checking notifications;
+(iv)
+unlocking the device;
+(v)
+making, receiving, or rejecting a telephone or internet based call;
+(vi)
+sending, receiving or uploading oral or written content;
+(vii)
+sending, receiving or uploading a photo or video;
+(viii)
+utilising camera, video, or sound recording functionality;
+(ix)
+drafting any text;
+(x)
+accessing any stored data such as documents, books, audio files, photos, videos, films, playlists, notes or messages;
+(xi)
+accessing an application;
+(xii)
+accessing the internet.”.
+(2) After paragraph (6)(e) insert—
+“(f)
+“contactless payment” means a payment made at a contactless payment terminal using the contactless payment facility of a card, mobile telephone or other device;
+(g)
+“an application” means a software programme that runs through a web browser or offline on a mobile telephone or other device.”.Signed by authority of the Secretary of State for Transport
+Vere
+Parliamentary Under Secretary of State
+Department for Transport
+26th January 2022EXPLANATORY NOTE
+(This note is not part of the Regulations)
+Regulation 110 of the Road Vehicles (Construction and Use) Regulations 1986 (S.I. 1986/1078), (“the 1986 Regulations”) prohibit the use, while driving a motor vehicle of hand-held mobile telephones or other interactive communication devices, when performing an interactive communication function.
+Regulations 3(1)(a), (c) and (d) amend regulation 110 of the 1986 Regulations by widening the scope of the offence to include any use of a mobile telephone or interactive communication device held in the hand whilst driving. These provisions remove the requirement that the driver is using the mobile telephone or interactive communication device to perform an interactive communication function.
+Regulation 3(1)(b) amends regulation 110 by inserting an additional exemption to provide that a person is not in contravention of that regulation where the hand-held mobile telephone or interactive communication device is being used to make a contactless payment at a contactless payment terminal, in compliance with the requirements as set out in this instrument.
+Regulation 3(2) inserts definitions for the terms “contactless payment” and “an application”.
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private or voluntary sectors is foreseen. An Explanatory Memorandum is available alongside these Regulations on the UK legislation website www.legislation.gov.uk.

@@ -1,0 +1,62 @@
+This draft Statutory Instrument supersedes the draft of the same title which was laid before the House of Commons on 20 February 2018 and published on 21 February 2018 (ISBN 978-0-11-116575-1). It is being issued free of charge to all known recipients of that draft Statutory Instrument.
+Draft Order laid before the House of Commons under section 24(6) of the Finance Act 2003, for approval by resolution of that House.
+DRAFT STATUTORY INSTRUMENTS
+2018 No.
+CUSTOMS
+The Finance Act 2003, Part 3 (Amendment) Order 2018
+Made
+***
+Coming into force in accordance with article 1
+The Treasury, in exercise of the powers conferred by sections 24(5) and 41(1) of the Finance Act 2003(1), make the following Order:
+(1)
+2003 c.14.Citation and commencement
+1.  This Order may be cited as the Finance Act 2003, Part 3 (Amendment) Order 2018 and comes into force on the day after the day on which it is made.Interpretation
+2.  In this Order “the Act” means the Finance Act 2003.Amendment of Part 3 of the Act
+3.  Part 3 of the Act is amended as follows.Amendment of Part 3 of the Act
+4.  In section 24 (introductory)(1)—
+(a)
+in subsection (2)(b) and (c), for “Community” substitute “Union”;
+(b)
+in subsection (3)—
+(i)
+omit the entries for “the Community Customs Code”, “Community export duty” and “Community import duty”;
+(ii)
+in the entry for “preferential tariff country”, for “Article 20(3)(d) of the Community Customs Code” substitute “Article 56(2)(d) of the Union Customs Code”;
+(c)
+at the end of that subsection insert—
+““Union Customs Code” means Regulation (EU) No 952/2013(2) of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code;
+“Union export duty” means export duty, as defined in Article 5(21) of the Union Customs Code;
+“Union import duty” means import duty, as defined in Article 5(20) of the Union Customs Code.”;
+(d)
+in subsections (4) and (5)(a), for “Community Customs Code” substitute “Union Customs Code”.
+(1)
+Section 24 was amended by article 4(1) of the Treaty of Lisbon (Changes in Terminology) Order S.I. 2011/1043.
+(2)
+OJ No L 269, 10.10.2013, p 1.Amendment of Part 3 of the Act
+5.  In section 26 (penalty for contravention of relevant rule)(1)—
+(a)
+in subsection (8), for paragraph (c) substitute—
+“(c)
+in the case of customs duty, Union export duty or Union import duty, Union customs legislation;”;
+(b)
+in subsection (8)(d), for “Community customs rules as they apply” substitute “Union customs legislation as it applies”;
+(c)
+in subsection (9)—
+(i)
+omit the definition of “Community customs rules”;
+(ii)
+at the end insert—
+““Union customs legislation” means customs legislation, as defined in Article 5(2) of the Union Customs Code.”.
+(1)
+Section 26 was amended by article 6(2)(b) of Part 2 of the Treaty of Lisbon (Changes in Terminology) Order S.I. 2011/1043.Effect
+6.  This Order has effect in respect of conduct which begins on or after the day upon which this Order comes into force.Name
+Name
+Two of the Lords Commissioners of Her Majesty’s Treasury
+DateEXPLANATORY NOTE
+(This note is not part of the Order)
+This Order amends Part 3 of the Finance Act 2003 (c.14) (“FA2003”). Part 3 makes provision for and in connection with a penalty scheme in relation to taxes and duties on importation and exportation.
+This Order makes amendments to Part 3 that are consequential on the repeal of the Community Customs Code (“CCC”) and Commission Regulation (EEC) No 2454/93 and their replacement by the Union Customs Code (“UCC”) and Commission Implementing Regulation (EU) 2015/2447.
+Article 1 provides for the coming into force of the Order.
+Articles 4 and 5 amend sections 24 and 26 FA2003 respectively to replace references to the CCC with the relevant corresponding reference to the UCC.
+Article 6 provides that the Order has effect in respect of conduct beginning on or after the day this Order comes into force.
+A Tax Information and Impact Note (TIIN) covering this instrument will be published on the gov.uk website at the following link https://www.gov.uk/government/collections/tax-information-and-impact-notes-tiins.

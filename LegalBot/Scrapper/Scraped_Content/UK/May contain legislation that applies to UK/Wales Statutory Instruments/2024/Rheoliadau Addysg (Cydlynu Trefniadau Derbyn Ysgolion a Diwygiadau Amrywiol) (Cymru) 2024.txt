@@ -1,0 +1,282 @@
+OFFERYNNAU STATUDOL CYMRU
+2024 Rhif 698 (Cy. 96)
+ADDYSG, CYMRU
+Rheoliadau Addysg (Cydlynu Trefniadau Derbyn Ysgolion a Diwygiadau Amrywiol) (Cymru)
+Gwnaed
+24 Mai 2024
+Gosodwyd gerbron Senedd Cymru
+29 Mai 2024
+Yn dod i rym
+28 Mehefin 2024
+Mae Gweinidogion Cymru, drwy arfer y pwerau a roddwyd i’r Ysgrifennydd Gwladol gan adrannau 89B(1), (4) a (5)(1), 89C(1), (2), (3), (4) a (5)(2), 92(3), 94(5) a (5A)(4), 95(3) a (3A)(5) a 138(7)(6) o Ddeddf Safonau a Fframwaith Ysgolion 1998(7), ac a freiniwyd bellach ynddynt hwy(8), yn gwneud y Rheoliadau a ganlyn.
+(1)
+1998 p. 31; mewnosodwyd adran 89B gan Ddeddf Addysg 2002 (p. 32), adran 48 ac fe’i diwygiwyd gan Ddeddf Addysg a Sgiliau 2008 (p. 25), Atodlen 1, paragraffau 53, 59(1), (2), (3)(a) a (b), (4)(a) a (b), (5)(a) i (c), (6)(a) a (b) a (7) ac O.S. 2010/1158.
+(2)
+Mewnosodwyd adran 89C gan Ddeddf Addysg 2002, adran 48 ac fe’i diwygiwyd gan Ddeddf Addysg ac Arolygiadau 2006 (p. 40), adran 43(3)(a) a (b), Deddf Addysg a Sgiliau 2008, Atodlen 1, paragraffau 53, 60(1), (3)(a) a (b), (4) a (5), Deddf Safonau a Threfniadaeth Ysgolion (Cymru) 2013 (dccc 1), Atodlen 5, paragraff 4(1) a (5) ac O.S. 2010/1158; mae diwygiadau eraill ond nid yw’r un ohonynt yn berthnasol i’r Rheoliadau hyn.
+(3)
+Amnewidiwyd adran 92 gan Ddeddf Addysg 2002, Atodlen 4, paragraff 7 ac fe’i diwygiwyd gan O.S. 2010/1158.
+(4)
+Amnewidiwyd is-adran (5) o adran 94, a mewnosodwyd is-adran (5A) yn adran 94, gan Ddeddf Addysg 2002, adran 50 a diwygiwyd is-adran (5A) gan Ddeddf Addysg a Sgiliau 2008, adran 152(1) a (7).
+(5)
+Amnewidiwyd is-adran (3) o adran 95, a mewnosodwyd is-adran (3A) yn adran 95, gan Ddeddf Addysg 2002, Atodlen 4, paragraff 9 a diwygiwyd is-adran (3A) gan O.S. 2010/1158.
+(6)
+Diwygiwyd is-adran (7) gan Ddeddf Addysg ac Arolygiadau 2006, Atodlen 17, paragraff 3(1) a (4).
+(7)
+Gweler adran 142(1) o Ddeddf 1998 am y diffiniad o “the Assembly” a gweler adran 90ZA o Ddeddf 1998 am y diffiniadau o “prescribed” a “regulations”.
+(8)
+Trosglwyddwyd swyddogaethau’r Ysgrifennydd Gwladol o dan yr adrannau hyn o Ddeddf Addysg 1996 a Deddf Safonau a Fframwaith Ysgolion 1998 i Gynulliad Cenedlaethol Cymru gan Orchymyn Cynulliad Cenedlaethol Cymru (Trosglwyddo Swyddogaethau) 1999 (O.S. 1999/672) ac yna i Weinidogion Cymru gan Ddeddf Llywodraeth Cymru 2006 (p. 32), Atodlen 11, paragraff 30.Enwi, dod i rym a chymhwyso
+1.—(1) Enw’r Rheoliadau hyn yw Rheoliadau Addysg (Cydlynu Trefniadau Derbyn Ysgolion a Diwygiadau Amrywiol) (Cymru) 2024.
+(2) Daw’r Rheoliadau hyn i rym ar 28 Mehefin 2024.
+(3) Mae’r Rheoliadau hyn yn gymwys o ran Cymru.Dehongli
+2.—(1) Yn y Rheoliadau hyn—
+mae i “awdurdod derbyn” yr ystyr a roddir i “admission authority” yn adran 88(1) o Ddeddf 1998(1);
+ystyr “awdurdod lleol” (“local authority”) yw cyngor sir yng Nghymru a chyngor bwrdeistref sirol yng Nghymru;
+mae i “blwyddyn academaidd” yr ystyr a roddir i “academic year” yn adran 89B(6) o Ddeddf 1998;
+ystyr “blwyddyn benderfynu” (“determination year”), mewn perthynas â’r trefniadau derbyn arfaethedig ar gyfer ysgol, yw’r flwyddyn academaidd sy’n dechrau 2 flwyddyn academaidd cyn y flwyddyn academaidd y mae’r trefniadau derbyn yn berthnasol iddi;
+ystyr “blwyddyn dderbyn” (“admission year”) yw’r flwyddyn academaidd y derbynnir disgyblion i grŵp oedran perthnasol o dan gynllun cymhwysol neu gynllun Gweinidogion Cymru;
+ystyr “blwyddyn gynnig” (“offer year”) yw’r flwyddyn academaidd sy’n union cyn y flwyddyn dderbyn;
+ystyr “cais” (“application”), mewn perthynas â threfniadau a wneir gan awdurdod lleol o dan adran 86(1) o Ddeddf 1998(2), yw mynegiad rhiant, mewn ffurflen gais gyffredin, o’i hoff ddewis o ran ym mha ysgol a gynhelir y mae’r rhiant hwnnw’n dymuno i addysg gael ei darparu i’w blentyn;
+mae i “corff llywodraethu” yr ystyr a roddir i “governing body” yn adran 19(1) o Ddeddf Addysg 2002(3);
+ystyr “cynllun cymhwysol” (“qualifying scheme”) yw cynllun sydd wedi ei lunio gan awdurdod lleol i gydlynu trefniadau ar gyfer derbyn disgyblion i ysgolion a gynhelir yn ei ardal o dan adran 89B(1)(a) o Ddeddf 1998 a’r Rheoliadau hyn;
+ystyr “cynllun Gweinidogion Cymru” (“Welsh Minister scheme”) yw cynllun ar gyfer cydlynu trefniadau derbyn a osodir gan Weinidogion Cymru o dan is-adran 89B(2) o Ddeddf 1998;
+ystyr “Deddf 1996” (“the 1996 Act”) yw Deddf Addysg 1996;
+ystyr “Deddf 1998” (“the 1998 Act”) yw Deddf Safonau a Fframwaith Ysgolion 1998;
+mae i “disgybl” yr ystyr a roddir i “pupil” yn adran 3 o Ddeddf 1996(4);
+ystyr “diwrnod gwaith” (“working day”) yw unrhyw ddiwrnod nad yw’n ddydd Sadwrn, dydd Sul, Dydd Nadolig, Dydd Gwener y Groglith nac yn ddiwrnod sy’n ŵyl banc o fewn ystyr Deddf Bancio a Thrafodion Ariannol 1971(5);
+mae i “dyddiad cynnig” (“offer date”) yr ystyr a roddir yn rheoliad 6;
+ystyr “ffurflen gais gyffredin” (“common application form”) yw ffurflen a ddarperir gan awdurdod lleol i’w chwblhau gan riant mewn cysylltiad â chais gan y rhiant hwnnw;
+mae i “grŵp oedran perthnasol” yr ystyr a roddir i “relevant age group” yn adran 142(1) o Ddeddf 1998(6);
+mae i “plentyn” yr ystyr a roddir i “child” yn adran 84(6) o Ddeddf 1998(7);
+ystyr “prosbectws cyfansawdd” (“composite prospectus”) yw’r prosbectws cyfansawdd y mae’n ofynnol i awdurdod lleol ei gyhoeddi o dan reoliad 4 o Reoliadau Gwybodaeth Ysgolion (Cymru) 2011(8);
+mae i “rhiant” yr ystyr a roddir i “parent” yn adran 576 o Ddeddf 1996(9);
+mae i “trefniadau derbyn” yr ystyr a roddir i “admission arrangements” yn adran 88(2) o Ddeddf 1998(10);
+mae i “ysgol a gynhelir” yr ystyr a roddir i “maintained school” yn adran 84(6) o Ddeddf 1998;
+mae i “ysgol gynradd” yr ystyr a roddir i “primary school” yn adran 5(1) o Ddeddf 1996(11);
+mae i “ysgol uwchradd” yr ystyr a roddir i “secondary school” yn adran 5(2) o Ddeddf 1996.
+(2) At ddibenion y Rheoliadau hyn mae cais wedi ei wneud yng nghwrs cylch derbyn arferol—
+(a)
+os yw’n gais i ddisgybl gael ei dderbyn i grŵp oedran perthnasol, a
+(b)
+os nad yw’n gais hwyr nac yn gais a wneir yn ystod y flwyddyn.
+(3) At ddibenion y Rheoliadau hyn mae cais yn gais hwyr—
+(a)
+os yw’n gais i ddisgybl gael ei dderbyn i grŵp oedran perthnasol,
+(b)
+os cyflwynir y cais cyn diwrnod cyntaf tymor ysgol cyntaf y flwyddyn dderbyn,
+(c)
+os cyflwynir y cais ar ôl y dyddiad a nodir yn y prosbectws cyfansawdd ar gyfer cael ceisiadau i dderbyn disgybl i ysgol a gynhelir, a
+(d)
+os nad yw penderfyniad sy’n ymwneud â’r cais yn cael ei wneud gan awdurdod derbyn ar y dyddiad cynnig neu cyn hynny.
+(4) At ddibenion y Rheoliadau hyn mae cais yn gais a wneir yn ystod y flwyddyn—
+(a)
+os yw’n gais i ddisgybl gael ei dderbyn i grŵp oedran perthnasol ac os yw wedi ei gyflwyno ar ddiwrnod cyntaf y flwyddyn dderbyn neu ar ôl hynny, neu
+(b)
+os yw’n gais i ddisgybl gael ei dderbyn i grŵp oedran heblaw grŵp oedran perthnasol.
+(1)
+Diwygiwyd adran 88(1) gan O.S. 2010/1158; mae diwygiadau eraill i adran 88 ond nid yw’r un ohonynt yn berthnasol i’r Rheoliadau hyn.
+(2)
+Diwygiwyd is-adran (1) gan O.S. 2010/1158.
+(3)
+2002 p. 32; mae diwygiadau i adran 19 ond nid yw’r un ohonynt yn berthnasol i’r Rheoliadau hyn.
+(4)
+Diwygiwyd adran 3 gan Ddeddf Addysg 1997 (p. 44), paragraff 9 o Atodlen 7, a Deddf Addysg 2002, paragraff 34(1) i (3) o Atodlen 21.
+(5)
+1971 p. 80; mae diwygiadau ond nid yw’r un ohonynt yn berthnasol i’r Rheoliadau hyn.
+(6)
+1998 p. 31; mae diwygiadau ond nid yw’r un ohonynt yn berthnasol i’r Rheoliadau hyn.
+(7)
+Amnewidiwyd y diffiniad o “child” gan Ddeddf Prentisiaethau, Sgiliau, Plant a Dysgu 2009 (p. 22), adran 43(1) a (2).
+(8)
+O.S. 2011/1944 (Cy. 211); mae diwygiadau ond nid yw’r un ohonynt yn berthnasol i’r Rheoliadau hyn.
+(9)
+Diwygiwyd adran 576 gan Ddeddf Safonau a Fframwaith Ysgolion 1998, Atodlen 30, paragraff 180 ac Atodlen 31.
+(10)
+Diwygiwyd adran 88(2) gan Ddeddf Addysg 2011 (p. 21), adran 64(1) a (2)(c).
+(11)
+Diwygiwyd is-adran (1) gan Ddeddf Addysg 2002, Rhan 3 o Atodlen 22.Llunio cynlluniau cymhwysol
+3.—(1) Rhaid i bob awdurdod lleol, mewn perthynas â’r flwyddyn benderfynu 2025 i 2026, ac mewn perthynas â phob blwyddyn benderfynu ddilynol, lunio cynllun cymhwysol mewn perthynas â phob ysgol a gynhelir yn ei ardal.
+(2) Rhaid i gynllun cymhwysol gydymffurfio â’r gofynion yn yr Atodlen.Y camau i’w cymryd gan awdurdod lleol i sicrhau bod cynllun cymhwysol yn cael ei fabwysiadu
+4.—(1) Rhaid i bob awdurdod lleol fabwysiadu cynllun cymhwysol yn ymwneud â’r flwyddyn benderfynu 2025 i 2026 erbyn 1 Ionawr 2025 ac wedi hynny erbyn 1 Ionawr cyn pob blwyddyn benderfynu y mae’r cynllun cymhwysol yn perthyn iddi.
+(2) Cyn mabwysiadu cynllun cymhwysol, os yw’r amodau a nodir ym mharagraff (3) wedi eu bodloni, rhaid i awdurdod lleol ymgynghori â’r cyrff a nodir ym mharagraff (4).
+(3) Yr amodau y cyfeirir atynt ym mharagraff (2) yw—
+(a)
+bod y cynllun cymhwysol yn sylweddol wahanol i’r cynllun cymhwysol a fabwysiadwyd ar gyfer y flwyddyn benderfynu cyn hynny, neu
+(b)
+nad yw’r awdurdod lleol, yn y 6 blwyddyn benderfynu flaenorol, wedi ymgynghori ar gynllun cymhwysol y mae wedi ei fabwysiadu.
+(4) Ymgynghorer â’r cyrff a ganlyn—
+(a)
+y fforwm derbyn,
+(b)
+pob corff llywodraethu sy’n awdurdod derbyn ar gyfer ysgol a gynhelir yn ardal yr awdurdod lleol, ac
+(c)
+unrhyw awdurdod lleol arall y mae’r awdurdod lleol yn meddwl bod y cynllun cymhwysol yn debygol o effeithio arno.
+(5) Rhaid i’r ymgynghoriad o dan baragraff (4)(c) gael ei gynnal gyda’r bwriad o sicrhau bod y trefniadau ar gyfer derbyn disgyblion i ysgolion a gynhelir yn ardaloedd awdurdodau lleol gwahanol yn gydnaws â’i gilydd, i’r graddau y bo hynny’n rhesymol ymarferol.
+(6) Wedi i’r awdurdod lleol gynnal unrhyw ymgynghoriad sy’n ofynnol o dan y rheoliad hwn, rhaid iddo—
+(a)
+penderfynu’r cynllun cymhwysol—
+(i)
+ar ei ffurf wreiddiol, neu
+(ii)
+gydag unrhyw addasiadau y mae’r awdurdod lleol yn meddwl eu bod yn addas, a
+(b)
+mabwysiadu’r cynllun cymhwysol a chymryd pob cam rhesymol i sicrhau bod y cynllun yn cael ei fabwysiadu gan bob corff llywodraethu sy’n awdurdod derbyn yr ymgynghorodd yr awdurdod lleol ag ef mewn perthynas â’r cynllun.
+(7) Yn y rheoliad hwn ystyr “fforwm derbyn” yw corff a sefydlwyd gan awdurdod lleol yng Nghymru ar gyfer ysgolion a gynhelir yn ei ardal o dan adran 85A o Ddeddf 1998(1).
+(1)
+Mewnosodwyd adran 85A gan adran 46 o Ddeddf Addysg 2002 ac fe’i diwygiwyd gan adran 41(1), (2)(a) a (b), (3), (4)(a) a (b), (5) a (6) o Ddeddf Addysg ac Arolygiadau 2006 ac Atodlen 18 iddi, adran 34(1), (2)(a)(i) i (iii), a (2)(b) i (e) o Ddeddf Addysg 2011 a chan O.S. 2010/1158.Yr wybodaeth i’w darparu i Weinidogion Cymru
+5.  Ar gyfer y flwyddyn dderbyn 2027 i 2028 a phob blwyddyn dderbyn ddilynol, rhaid i bob awdurdod lleol roi gwybod i Weinidogion Cymru ar 28 Chwefror neu cyn hynny yn y flwyddyn benderfynu berthnasol a yw wedi mabwysiadu cynllun cymhwysol ai peidio.Y dyddiad cynnig
+6.—(1) Y dyddiad unigol ym mhob blwyddyn pryd y mae rhaid cyfleu i riant benderfyniad, a wneir o dan ddarpariaethau cynllun cymhwysol neu gynllun Gweinidogion Cymru, i gynnig neu wrthod derbyn disgybl i ysgol a gynhelir—
+(a)
+ar gyfer ysgolion cynradd, yw 16 Ebrill yn y flwyddyn gynnig, a ar gyfer ysgolion uwchradd, yw 1 Mawrth yn y flwyddyn gynnig.
+(2) Pan nad yw’r dyddiad cynnig mewn unrhyw flwyddyn gynnig yn ddiwrnod gwaith, y dyddiad cynnig yw’r diwrnod gwaith nesaf.
+(3) Nid yw’r rheoliad hwn ond yn gymwys i benderfyniadau a wneir yng nghwrs cylch derbyn arferol.Rhan 2 o Ddeddf Safonau a Threfniadaeth Ysgolion (Cymru) 2013
+7.—(1) Mae Pennod 1 o Ran 2 o Ddeddf Safonau a Threfniadaeth Ysgolion (Cymru) 2013 (“Deddf 2013”) i fod yn gymwys fel pe bai unrhyw rwymedigaethau a osodir ar gorff llywodraethu o dan gynllun cymhwysol neu gynllun Gweinidogion Cymru yn cael eu gosod arno gan y Deddfau Addysg.
+(2) Mae Pennod 2 o Ran 2 o Ddeddf 2013 i fod yn gymwys fel pe bai unrhyw rwymedigaethau a osodir ar awdurdod lleol o dan gynllun cymhwysol neu gynllun Gweinidogion Cymru yn swyddogaethau addysg.
+(3) Yn y rheoliad hwn—
+(a)
+mae i “y Deddfau Addysg” yr ystyr a roddir i “the Education Acts” yn adran 578(1) o Ddeddf 1996(1);
+(b)
+mae i “swyddogaethau addysg” yr ystyr a roddir i “education functions” yn adran 579(1) o Ddeddf 1996(2).
+(1)
+Diwygiwyd y rhestr o “Education Acts” drwy hepgor y cofnod ar gyfer “the Education Act 1962” (p. 24) gan Atodlen 4 i Ddeddf Addysgu ac Addysg Uwch 1998 (p. 30), hepgor y cofnod ar gyfer “the Education Act 1967” (p. 3) gan Atodlen 22 i Ddeddf Addysg 2002 (p. 32), hepgor y cofnod ar gyfer “the Education (Student Loans) Act 1990” (p. 6) gan Atodlen 4 i Ddeddf Addysgu ac Addysg Uwch 1998, hepgor y cofnod ar gyfer “the School Teachers’ Pay and Conditions Act 1991” (p. 49) gan baragraff 56 o Atodlen 21 i Ddeddf Addysg 2002, hepgor y cofnod ar gyfer “the Education (Student Loans) Act 1996” (p. 9) gan Atodlen 4 i Ddeddf Addysgu ac Addysg Uwch 1998, hepgor y cofnod ar gyfer “the Nursery Education and Grant-Maintained Schools Act 1996” (p. 50) gan Atodlen 22 i Ddeddf Addysg 2002, hepgor y cofnod ar gyfer “the School Inspections Act 1996” (p. 57) gan baragraff 9 o Atodlen 9 i Ddeddf Addysg 2005 (p. 18), mewnosod y cofnod ar gyfer “the Education Act 1997” (p. 44) gan baragraff 42 o Atodlen 7 i’r Ddeddf honno, mewnosod y cofnod ar gyfer “the Education (Schools) Act 1997” (p. 59) gan adran 6(2) o’r Ddeddf honno, mewnosod y cofnod ar gyfer “the Education (Student Loans) Act 1998” (p. 1) gan adran 6(1) o’r Ddeddf honno, hepgor y cofnod ar gyfer “the Education (Student Loans) Act 1998” gan Atodlen 4 i Ddeddf Addysgu ac Addysg Uwch 1998, mewnosod y cofnod ar gyfer “the Teaching and Higher Education Act 1998” gan baragraff 15 o Atodlen 3 i’r Ddeddf honno, mewnosod y cofnod ar gyfer “the School Standards and Framework Act 1998” (p. 31) gan baragraff 182 o Atodlen 30 i’r Ddeddf honno, mewnosod y cofnod ar gyfer “the Education Act 2002” gan adran 217(2) o’r Ddeddf honno, mewnosod y cofnod ar gyfer “the Higher Education Act 2004” (p. 8) gan adran 54(2) o’r Ddeddf honno, mewnosod y cofnod ar gyfer “the Education Act 2005” (p. 18) gan adran 128(2) o’r Ddeddf honno, mewnosod y cofnod ar gyfer “the Education and Inspections Act 2006” (p. 40) gan adran 191(2) o’r Ddeddf honno, mewnosod y cofnod ar gyfer “the Education and Skills Act 2008” (p. 25) gan adran 174(2) o’r Ddeddf honno, mewnosod y cofnod ar gyfer “the Learner Travel (Wales) Measure 2008” (mccc 2) gan adran 29(2) o’r Mesur hwnnw, mewnosod y cofnod ar gyfer “the Apprenticeships, Skills, Children and Learning Act 2009” (p. 22) gan adran 270(2) o’r Ddeddf honno, mewnosod y cofnod ar gyfer “the Healthy Eating in Schools (Wales) Measure 2009” (mccc 3) gan adran 12(4) o’r Mesur hwnnw, mewnosod y cofnod ar gyfer “the Education Act 2011” (p. 21) gan adran 83(2) o’r Ddeddf honno, mewnosod y cofnod ar gyfer “the Education (Wales) Measure 2011” (mccc 7) gan adran 34(2) o’r Mesur hwnnw, mewnosod y cofnod ar gyfer “the School Standards and Organisation (Wales) Act 2013” (dccc 1) gan adran 101(2) o’r Ddeddf honno, mewnosod y cofnod ar gyfer “the Education (Wales) Act 2014” (dccc 5) gan adran 45 o’r Ddeddf honno, ychwanegu Deddf Addysg Uwch (Cymru) 2015 (dccc 1) at y rhestr o “Education Acts” gan adran 60(2) o’r Ddeddf honno, ychwanegu Deddf Cymwysterau Cymru 2015 (dccc 5) at y rhestr o “Education Acts” gan adran 61(2) o’r Ddeddf honno, ychwanegu Deddf Anghenion Dysgu Ychwanegol a’r Tribiwnlys Addysg (Cymru) 2018 (dccc 2) at y rhestr o “Education Acts” gan adran 101(2) o’r Ddeddf honno, ychwanegu Deddf Cwricwlwm ac Asesu (Cymru) 2021 (dsc 4) at y rhestr o “Education Acts” gan adran 72 o’r Ddeddf honno ac ychwanegu Deddf Addysg Drydyddol ac Ymchwil (Cymru) 2022 (dsc 1) at y rhestr o “Education Acts” gan adran 149(2) o’r Ddeddf honno; mae diwygiadau eraill i’r rhestr o “Education Acts” yn adran 578 ond nid yw’r un ohonynt yn berthnasol i’r Rheoliadau hyn.
+(2)
+Mewnosodwyd y diffiniad o “education functions” gan O.S. 2010/1158.Diwygio Rheoliadau Addysg (Trefniadau Apelau Derbyn) (Cymru) 2005
+8.  Mae Rheoliadau Addysg (Trefniadau Apelau Derbyn) (Cymru) 2005(1) wedi eu diwygio fel a ganlyn—
+(a)
+yn rheoliad 3, yn y lle cyntaf y mae’n digwydd hepgorer “Atodlen 1”, a
+(b)
+yn rheoliad 5, yn y lle cyntaf y mae’n digwydd hepgorer “Atodlen 2”.
+(1)
+O.S. 2005/1398 (Cy. 112), a ddiwygiwyd gan O.S. 2023/420 (Cy. 63); mae offerynnau diwygio eraill ond nid yw’r un ohonynt yn berthnasol i’r Rheoliadau hyn.Diwygio Rheoliadau Gwybodaeth Ysgolion (Cymru) 2011
+9.  Yn Rheoliadau Gwybodaeth Ysgolion (Cymru) 2011(1), ar ôl paragraff 5 yn Rhan 1 o Atodlen 2 mewnosoder—
+“5A.—(1) Ar gyfer y flwyddyn dderbyn ysgol 2026 i 2027 a phob blwyddyn ysgol ddilynol, crynodeb o’r cynllun ar gyfer cydlynu trefniadau derbyn yr awdurdod lleol (“y cynllun”) gan gynnwys—
+(a)
+disgrifiad cryno o’r modd y gellir gwneud cais i ddisgybl gael ei dderbyn i ysgol o dan y cynllun, gan gynnwys sut i wneud cais ac erbyn pa ddyddiad,
+(b)
+disgrifiad cryno o ba bryd y caiff cynigion derbyn i ysgol eu cyfleu i rieni o dan y cynllun,
+(c)
+disgrifiad cryno o ba bryd y bydd apelau yn erbyn gwrthod lle yn cael eu gwrando,
+(d)
+disgrifiad cryno o’r modd y penderfynir ceisiadau a wneir drwy ddull heblaw cylch derbyn arferol o dan y cynllun, ac
+(e)
+copi o’r ffurflen gais gyffredin ar gyfer y cynllun y cyfeirir ato yn rheoliad 3(1) o Reoliadau Addysg (Cydlynu Trefniadau Derbyn Ysgolion a Diwygiadau Amrywiol) (Cymru) 2024(2) (“Rheoliadau 2024”).
+(2) Yn y paragraff hwn—
+mae i “cylch derbyn arferol” (“a normal admission round”) yr ystyr a roddir yn rheoliad 2(2) o Reoliadau 2024;
+ystyr “y cynllun ar gyfer cydlynu trefniadau derbyn yr awdurdod lleol” (“the scheme for co-ordinating admission arrangements of the local authority”) yw—
+(a)
+cynllun a fabwysiedir gan awdurdod lleol yn unol â rheoliad 2(1) o Reoliadau 2024, neu
+(b)
+cynllun a osodir ar yr awdurdod lleol gan Weinidogion Cymru yn unol ag is-adran 89B(2) o Ddeddf 1998.”
+(1)
+O.S. 2011/1944 (Cy. 211); mae offerynnau diwygio ond nid yw’r un ohonynt yn berthnasol i’r Rheoliadau hyn.
+(2)
+O.S. 2024/698 (Cy. 96).Lynne Neagle
+Ysgrifennydd y Cabinet dros Addysg, un o Weinidogion Cymru
+24 Mai 2024Rheoliad 3(2)
+YR ATODLEN
+Gofynion Cynllun Cymhwysol
+Cyffredinol
+1.  Rhaid i gynllun cymhwysol—
+(a)
+sicrhau, i’r graddau y bo’n rhesymol ymarferol, fod pob rhiant yn ardal yr awdurdod lleol sy’n gwneud cais ar y ffurflen gais gyffredin yn cael un cynnig i dderbyn plentyn i ysgol a gynhelir o dan y cynllun cymhwysol,
+(b)
+sicrhau, i’r graddau y bo’n rhesymol ymarferol, mewn unrhyw achos pan fo plentyn yn gymwys i gael cynnig i’w dderbyn i fwy nag un ysgol a gynhelir, fod y plentyn yn cael cynnig i’w dderbyn i ba un bynnag o’r ysgolion a gynhelir hynny y mae’r rhiant wedi ei rhoi yn y safle uchaf ar y ffurflen gais gyffredin,
+(c)
+ei gwneud yn ofynnol i ffurflen gais gyffredin gael ei chwblhau, gan alluogi rhiant yn ardal awdurdod lleol—
+(i)
+i ddarparu ei enw a’i gyfeiriad,
+(ii)
+i ddarparu enw, cyfeiriad a dyddiad geni ei blentyn,
+(iii)
+i wneud cais i ddim llai na thair ysgol a gynhelir, pa un a yw unrhyw ysgol a gynhelir y gwneir cais ar ei chyfer o fewn ardal yr awdurdod lleol ai peidio,
+(iv)
+i roi rhesymau dros unrhyw gais, a
+(v)
+i raddio pob cais mewn perthynas ag unrhyw gais arall,
+(d)
+sicrhau y cyhoeddir ffurflen gais gyffredin—
+(i)
+drwy drefnu bod copïau ar gael i’w dosbarthu’n ddi-dâl i rieni ar gais yn swyddfeydd yr awdurdod lleol sy’n ei chyhoeddi, a
+(ii)
+drwy arddangos copi ar wefan yr awdurdod lleol,
+(e)
+nodi ar gyfer pob ysgol a gynhelir y mae’r cynllun cymhwysol yn gymwys iddi ai’r awdurdod lleol ynteu’r corff llywodraethu yw’r awdurdod derbyn,
+(f)
+pan fo’r corff llywodraethu sy’n awdurdod derbyn ar gyfer ysgol a gynhelir o’r fath wedi gwneud trefniadau i gorff arall benderfynu’r drefn flaenoriaeth o dan baragraff 5(b), nodi’r corff hwnnw, ac
+(g)
+pennu bod rhaid i unrhyw hysbysiad bod cynnig i dderbyn plentyn i ysgol a gynhelir wedi ei dderbyn ddod i law’r awdurdod lleol o fewn 2 wythnos ar ôl y dyddiad cynnig.
+Ceisiadau a wneir yng nghwrs cylch derbyn arferol
+2.  Mewn cysylltiad â cheisiadau a wneir yng nghwrs cylch derbyn arferol, rhaid i gynllun cymhwysol—
+(a)
+ei gwneud yn ofynnol i’r ffurflen gais gyffredin gael ei chyflwyno i’r awdurdod lleol—
+(i)
+erbyn 15 Ionawr yn y flwyddyn gynnig, mewn perthynas â cheisiadau ar gyfer ysgolion cynradd, a
+(ii)
+erbyn 31 Hydref yn y flwyddyn gynnig, mewn perthynas â cheisiadau ar gyfer ysgolion uwchradd,
+(b)
+pennu sut y penderfynir ceisiadau a gyflwynir ar ôl y dyddiadau a grybwyllir yn is-baragraff (a),
+(c)
+ei gwneud yn ofynnol i bob awdurdod lleol, pa un ai ef yw’r awdurdod derbyn ai peidio, anfon at riant unrhyw benderfyniad sy’n cynnig neu’n gwrthod derbyn plentyn i ysgol a gynhelir ar y dyddiad cynnig, a
+(d)
+pennu’r dyddiadau erbyn pryd y mae pob un o’r camau y mae’n ofynnol eu cymryd o dan yr Atodlen hon i’w cyflawni, gan gynnwys pan fo’r dyddiad wedi ei bennu yn yr Atodlen hon.
+Ceisiadau ar gyfer ysgolion yn yr ardal
+3.  Mewn cysylltiad â cheisiadau a wneir ar gyfer ysgol a gynhelir yn ardal yr awdurdod lleol, rhaid i’r cynllun cymhwysol ei gwneud yn ofynnol i’r awdurdod lleol—
+(a)
+pan fo’r cais ar gyfer ysgol a gynhelir y mae’r corff llywodraethu yn awdurdod derbyn iddi, ddarparu i’r corff llywodraethu, neu’r corff y mae’r corff llywodraethu wedi gwneud trefniadau ag ef o dan baragraff 5(b), fanylion—
+(i)
+y cais, a
+(ii)
+unrhyw wybodaeth ategol a ddarperir gan y rhiant,
+(b)
+pan fo’r cais ar gyfer ysgol a gynhelir y mae’r awdurdod lleol yn awdurdod derbyn iddi, benderfynu, drwy gyfeirio at feini prawf derbyn yr ysgol a gynhelir, y drefn flaenoriaeth y pennir safle pob cais i’r ysgol ynddi,
+(c)
+penderfynu yn unol â darpariaethau’r cynllun cymhwysol a yw’r plentyn i gael cynnig i’w dderbyn ynteu a wrthodir ei dderbyn i ysgol a gynhelir yn ei ardal pan fo’n ymddangos i’r awdurdod lleol—
+(i)
+bod plentyn yn ei ardal yn gymwys i gael cynnig i’w dderbyn i fwy nag un ysgol a gynhelir, neu
+(ii)
+nad yw plentyn yn ei ardal yn gymwys i gael cynnig i’w dderbyn i unrhyw ysgol a gynhelir,
+(d)
+gwneud y penderfyniad o dan is-baragraff (c) gan roi sylw—
+(i)
+i unrhyw benderfyniad a wneir o dan is-baragraff (b), a
+(ii)
+i unrhyw benderfyniad y’i hysbysir amdano o dan baragraff 5(c),
+(e)
+mewn unrhyw achos pan fo penderfyniad yr awdurdod lleol o dan is-baragraff (c) yn ymwneud ag ysgol a gynhelir yn ei ardal nad yw’n awdurdod derbyn iddi, hysbysu corff llywodraethu’r ysgol am ei benderfyniad,
+(f)
+ac eithrio pan fo is-baragraff (g) yn gymwys, anfon unrhyw benderfyniad o dan is-baragraff (c) at y rhiant, pa un ai’r awdurdod lleol yw’r awdurdod derbyn ai peidio, ac
+(g)
+o ran unrhyw gais yn ymwneud â phlentyn sy’n byw yn ardal awdurdod lleol gwahanol, hysbysu’r awdurdod lleol hwnnw am ei benderfyniad.
+Dyletswyddau ar awdurdod lleol yn ymwneud â cheisiadau ar gyfer ysgolion y tu allan i’r ardal
+4.—(1) Mae’r paragraff hwn yn gymwys pan fo rhiant yn ardal awdurdod lleol (“yr awdurdod cartref”) yn gwneud cais yn y ffurflen gais gyffredin i blentyn gael ei dderbyn i ysgol a gynhelir yn ardal awdurdod lleol gwahanol (“yr awdurdod cynnal”).
+(2) Rhaid i’r awdurdod cartref anfon manylion y cais ymlaen i’r awdurdod cynnal, ynghyd ag unrhyw wybodaeth ategol a ddarperir gan y rhiant.
+(3) Rhaid i gynllun cymhwysol—
+(a)
+pennu bod rhaid i’r awdurdod cartref, wrth wneud penderfyniad o dan baragraff 3(c) a yw’r plentyn i gael cynnig i’w dderbyn ynteu a wrthodir ei dderbyn i unrhyw ysgol a gynhelir yn ardal yr awdurdod cartref hwnnw y mae cais hefyd wedi ei wneud ar ei chyfer, roi sylw i unrhyw wybodaeth a ddarperir gan yr awdurdod cynnal ynghylch a yw’r plentyn i gael cynnig i’w dderbyn ynteu a wrthodir ei dderbyn i ysgol a gynhelir o fewn ardal yr awdurdod cynnal hwnnw, a
+(b)
+ei gwneud yn ofynnol i’r awdurdod cartref anfon at y rhiant unrhyw benderfyniad sy’n cynnig neu’n gwrthod derbyn plentyn i’r ysgol a gynhelir yn ardal yr awdurdod cynnal gan yr awdurdod derbyn ar gyfer yr ysgol honno.
+Dyletswyddau corff llywodraethu o dan gynllun cymhwysol
+5.  Rhaid i gynllun cymhwysol ei gwneud yn ofynnol i bob corff llywodraethu sy’n awdurdod derbyn ar gyfer ysgol a gynhelir—
+(a)
+anfon ymlaen i awdurdod lleol yr ardal y mae ynddi—
+(i)
+manylion unrhyw geisiadau a wneir yn uniongyrchol i’r ysgol a gynhelir yn y cylch derbyn arferol neu fel cais hwyr, a
+(ii)
+unrhyw wybodaeth ategol a ddarperir gan y rhiant, ni waeth a yw’r rhiant sy’n gwneud y cais yn preswylio yn ardal yr awdurdod lleol hwnnw,
+(b)
+penderfynu neu wneud trefniadau i gorff arall (gan gynnwys ei awdurdod lleol) benderfynu, drwy gyfeirio at feini prawf derbyn yr ysgol a gynhelir, y drefn flaenoriaeth y pennir safle pob cais i’r ysgol ynddi, ac
+(c)
+hysbysu neu, pan fo trefniadau wedi eu gwneud o dan is-baragraff (b) i gorff arall (nad yw’n awdurdod lleol iddo) wneud penderfyniad, drefnu i’r corff hwnnw hysbysu ei awdurdod lleol am ei benderfyniad.NODYN ESBONIADOL
+(Nid yw’r nodyn hwn yn rhan o’r Rheoliadau)
+Mae Rhan 3 o Ddeddf Safonau a Fframwaith Ysgolion 1998 (“Deddf 1998”) yn gwneud darpariaeth mewn perthynas â threfniadau ar gyfer derbyn i ysgolion.
+Yn benodol, mae adran 89B o Ran 3 o Ddeddf 1998 yn galluogi Gweinidogion Cymru i wneud rheoliadau sy’n ei gwneud yn ofynnol i awdurdod lleol yng Nghymru lunio cynllun cymhwysol i gydlynu’r trefniadau ar gyfer derbyn disgyblion i ysgolion cymunedol, ysgolion gwirfoddol a reolir, ysgolion gwirfoddol a gynorthwyir ac ysgolion sefydledig yn ei ardal. Mae’r Rheoliadau hyn yn gwneud darpariaeth mewn perthynas â chynllun cymhwysol o’r fath.
+Nid yw’r Rheoliadau hyn yn gymwys i ysgolion meithrin a gynhelir nac ysgolion arbennig a gynhelir. Nid yw’r Rheoliadau hyn yn gymwys ychwaith i drefniadau derbyn ar gyfer disgyblion sydd wedi peidio â bod o oedran ysgol gorfodol nac at ddiben cael addysg chweched dosbarth (gweler adran 89B(7) o Ddeddf 1998).
+Mae’r Rheoliadau hyn yn ei gwneud yn ofynnol i bob awdurdod lleol yng Nghymru lunio cynllun cymhwysol ar gyfer ysgolion a gynhelir yn ei ardal. Rhaid i’r cynllun cymhwysol hwnnw gydymffurfio â’r gofynion ar gyfer cynlluniau o’r fath a nodir yn yr Atodlen i’r Rheoliadau hyn (rheoliad 3).
+Rhaid llunio’r cynllun cymhwysol cyntaf a’i fabwysiadu erbyn 1 Ionawr 2025 (“y cynllun cymhwysol cyntaf”) ac erbyn 1 Ionawr ar gyfer pob blwyddyn ddilynol (rheoliad 4). Bydd y cynllun cymhwysol cyntaf yn gymwys i drefniadau derbyn yn y flwyddyn academaidd 2027 i 2028.
+Mae rheoliad 4 o’r Rheoliadau hyn hefyd yn gwneud darpariaeth mewn cysylltiad ag ymgynghori mewn perthynas â’r cynllun cymhwysol, ac mewn cysylltiad â’i fabwysiadu. Mae adran 85A o Ddeddf 1998 yn darparu bod rhaid i awdurdodau derbyn, wrth gyflawni eu swyddogaethau mewn perthynas â threfniadau derbyn, roi sylw i unrhyw gyngor perthnasol a roddir iddynt gan fforwm derbyn a sefydlwyd o dan yr adran honno mewn cysylltiad â’r swyddogaethau hynny.
+Rhaid i bob awdurdod lleol yng Nghymru roi gwybod i Weinidogion Cymru a yw wedi mabwysiadu cynllun cymhwysol ai peidio erbyn 28 Chwefror yn y flwyddyn academaidd sydd 2 flynedd cyn y flwyddyn academaidd y derbynnir disgyblion ynddi o dan y cynllun. Mae’r ddyletswydd hon yn gymwys i awdurdodau lleol o 28 Chwefror 2025 (mewn cysylltiad â derbyn disgyblion yn y flwyddyn academaidd 2027 i 2028) a phob blwyddyn academaidd ddilynol (rheoliad 5).
+Mae adran 89B(2) o Ddeddf 1998 yn galluogi Gweinidogion Cymru i wneud cynllun ar gyfer cydlynu trefniadau derbyn (“cynllun Gweinidogion Cymru”) a’i osod. Mae adran 89B(3) o Ddeddf 1998 yn darparu na chaniateir gwneud cynllun Gweinidogion Cymru os bodlonir yr amgylchiadau a nodir yn yr is-adran honno erbyn dyddiad sydd i’w ragnodi gan Weinidogion Cymru. Mae’r dyddiad rhagnodedig wedi ei nodi yn rheoliad 5, a 28 Chwefror ydyw.
+Rhaid i bob awdurdod lleol yng Nghymru gyfleu i rieni ei benderfyniad i gynnig neu wrthod derbyn disgybl i ysgol gynradd neu uwchradd ar y dyddiad a nodir yn rheoliad 6 (rheoliad 6).
+Mae’r Rheoliadau hyn yn cymhwyso’r pwerau ymyrryd yn Rhan 2 o Ddeddf Safonau a Threfniadaeth Ysgolion (Cymru) 2013 (ymyrryd ym materion rhedeg ysgolion a gynhelir) i’r rhwymedigaethau a osodir ar gyrff llywodraethu ac awdurdodau lleol o dan gynllun cymhwysol (rheoliad 7).
+Mae’r Rheoliadau hyn yn diwygio Rheoliadau Addysg (Trefniadau Apelau Derbyn) (Cymru) 2005 (“Rheoliadau 2005”) er mwyn cywiro camgymeriad yn rheoliad 3 a rheoliad 5 o Reoliadau 2005 (rheoliad 8).
+Mae’r Rheoliadau hyn yn mewnosod paragraff newydd 5A yn Rhan 1 o Atodlen 2 i Reoliadau Gwybodaeth Ysgolion (Cymru) 2011 (“Rheoliadau 2011”) er mwyn ei gwneud yn ofynnol bod gwybodaeth mewn perthynas â chynllun cymhwysol awdurdod lleol neu gynllun Gweinidogion Cymru yn cael ei chynnwys ym mhrosbectws ysgolion yr awdurdod lleol (rheoliad 9). Mae paragraff newydd 5A yn gymwys i’r flwyddyn dderbyn ysgol 2026 i 2027 ac felly bydd yr wybodaeth a ragnodir ganddo yn cael ei chynnwys ym mhrosbectws ysgolion yr awdurdod lleol am y tro cyntaf ar gyfer y flwyddyn dderbyn ysgol 2026 i 2027 (gweler rheoliad 2(1) o Reoliadau 2011 am y diffiniad o “blwyddyn dderbyn ysgol”).
+Ystyriwyd Cod Ymarfer Gweinidogion Cymru ar gynnal Asesiadau Effaith Rheoleiddiol mewn perthynas â’r Rheoliadau hyn. O ganlyniad, lluniwyd asesiad effaith rheoleiddiol o’r costau a’r manteision sy’n debygol o ddeillio o gydymffurfio â’r Rheoliadau hyn. Gellir cael copi oddi wrth: Yr Is-adran Cynllunio Busnes a Llywodraethiant Addysg, Llywodraeth Cymru, Parc Cathays, Caerdydd CF10 3NQ ac ar wefan Llywodraeth Cymru ar www.llyw.cymru.

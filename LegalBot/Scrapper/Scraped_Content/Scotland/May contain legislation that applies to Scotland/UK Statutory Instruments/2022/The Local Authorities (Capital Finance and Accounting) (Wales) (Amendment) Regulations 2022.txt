@@ -1,0 +1,57 @@
+WELSH STATUTORY INSTRUMENTS
+2022 No. 1254 (W. 255)
+LOCAL GOVERNMENT, WALES
+The Local Authorities (Capital Finance and Accounting) (Wales) (Amendment) Regulations 2022
+Made
+29 November 2022
+Laid before Senedd Cymru
+30 November 2022
+Coming into force
+2nd December 2022
+The Welsh Ministers, in exercise of the powers conferred by sections 21(1), 24, and 123(1) and (2) of the Local Government Act 2003(1), make the following Regulations.
+(1)
+2003 c. 26. Section 24 was amended by section 238(3) of the Local Government and Public Involvement in Health Act 2007 (c. 28). Powers under Part 1 of the Local Government Act 2003 are now vested in the Welsh Ministers so far as they are exercisable in relation to Wales, by virtue of section 24 of the Local Government Act 2003 as amended.Title, commencement and interpretation
+1.—(1) The title of these Regulations is the Local Authorities (Capital Finance and Accounting) (Wales) (Amendment) Regulations 2022 and they come into force on 2 December 2022.
+(2) In these Regulations, “the 2003 Regulations” means the Local Authorities (Capital Finance and Accounting) (Wales) Regulations 2003(1).
+(1)
+S.I. 2003/3239 (W. 319), amended by S.I. 2004/1010 (W. 107), 2006/944 (W. 93), 2007/1051 (W. 108), 2008/588 (W. 59), 2009/560 (W. 52), 2010/685 (W. 67), 2014/481 (W. 58), 2016/102 (W. 50), 2018/325 (W. 61), 2019/736 (W. 139), 2020/110 (W. 19), 2021/327 (W. 85) and 2022/907 (W. 198).Infrastructure assets
+2.  In the 2003 Regulations, after regulation 24K insert—
+“Infrastructure assets
+24L.—(1) In this regulation—
+“carrying amount” means the amount at which an asset is recognised after deducting any accumulated depreciation and impairment losses;
+“derecognised” means that all or part of an asset or liability is removed from an authority’s balance sheet;
+“infrastructure asset” means an asset owned by a local authority, which there is no prospect of the authority selling or using for any purpose other than that for which it was created, and which forms part of the infrastructure of the authority’s area, such as—
+(a)
+a highway,
+(b)
+a footpath,
+(c)
+a bridge,
+(d)
+a permanent way,
+(e)
+a coastal defence, or
+(f)
+a water supply and drainage system;
+“prior period adjustment” means a correction of a material accounting error within a local authority’s statement of accounts for a previous financial year.
+(2) Paragraph (3) applies in relation to the accounts of a local authority—
+(a)
+where the local authority is required to prepare a statement of accounts in accordance with regulation 8 of the Accounts and Audit (Wales) Regulations 2014(1), and
+(b)
+the local authority has replaced a component of an infrastructure asset.
+(3)  Where this paragraph applies the local authority, for the purposes of determining the carrying amount to be derecognised in respect of the component that has been replaced (“the relevant amount”), must—
+(a)
+determine the relevant amount as nil, or
+(b)
+calculate the relevant amount in accordance with the accounting practices identified in regulation 25.
+(4) If a local authority determines the relevant amount in accordance with paragraph (3)(a) it must include a note to that effect in its statement of accounts for the year in relation to which that determination is made.
+(5) When preparing a statement of accounts to which this regulation applies, a local authority is not required to make any prior period adjustment to the balances of that statement of accounts in respect of infrastructure assets.
+(6) This regulation applies in relation to accounts prepared for financial years falling within the periods beginning with 1 April 2021 and ending with 31 March 2025.”
+(1)
+S.I. 2014/3362 (W. 337), amended by S.I. 2018/91 (W. 22); there are other amending instruments but none is relevant to these Regulations.Rebecca Evans
+Minister for Finance and Local Government, one of the Welsh Ministers
+29 November 2022EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the Local Authorities (Capital Finance and Accounting) (Wales) Regulations 2003 (“the 2003 Regulations”) by inserting regulation 24L which makes provision about the accounting practices to be followed by a local authority where a component of an infrastructure asset has been replaced. Regulation 24L applies to local authorities that are required to prepare a statement of accounts in accordance with regulation 8 of the Accounts and Audit (Wales) Regulations 2014. A local authority must either assume the carrying amount of the derecognised part is nil or calculate the carrying amount in line with the accounting practices identified under regulation 25 of the 2003 Regulations.
+Regulation 24L applies to accounts for financial years in respect of the periods beginning with 1 April 2021 and ending with 31 March 2025.
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, it was not considered necessary to carry out a regulatory impact assessment as to the likely costs and benefits of complying with these Regulations.

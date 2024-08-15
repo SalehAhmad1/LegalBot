@@ -1,0 +1,2059 @@
+OFFERYNNAU STATUDOL CYMRU
+2023 Rhif 1053 (Cy. 179)
+Y GWASANAETH IECHYD GWLADOL, CYMRU
+Rheoliadau’r Gwasanaeth Iechyd Gwladol (Gwasanaethau Offthalmig) (Cymru) 2023
+Gwnaed
+27 Medi 2023
+Gosodwyd gerbron Senedd Cymru
+29 Medi 2023
+Yn dod i rym
+20 Hydref 2023
+Mae Gweinidogion Cymru yn gwneud y Rheoliadau a ganlyn drwy arfer y pwerau a roddir iddynt gan adrannau 2, 3, 10, 12(3), 15, 71, 72, 73, 74, 76(6) a (9), 78(6), 104, 105, 106, 107(5) a (7), 110(6)(a), (9) a (10), 115(9), 116, 117, 118, 119(3), (4) a (5), 203(9) a (10), 204(3)(c)(i) a 205 o Ddeddf y Gwasanaeth Iechyd Gwladol (Cymru) 2006(1).
+(1)
+2006 p. 42. Gweler adran 206(1) o Ddeddf y Gwasanaeth Iechyd Gwladol (Cymru) 2006 (“y Ddeddf”) am y diffiniadau o “prescribed” a “regulations”, sy’n berthnasol i’r pwerau sy’n cael eu harfer; gweler adrannau 15, 71, 72, 73, 74, 76(6) a (9), 104, 105, 106, 107(5) a (7), 110(6)(a), (9) a (10), 115(9), 116, 117, 118, 119(3) a (5), 203(9) a (10), 204(3)(c)(i) a 205. Diwygiwyd adran 72 gan Ddeddf Diogelu Rhyddidau 2012 (p. 9) (“Deddf 2012”), Atodlen 9, paragraff 125 a Gorchymyn Trosglwyddo Swyddogaethau Tribiwnlysoedd 2010 (O.S. 2010/22), Atodlen 2, paragraff 130. Diwygiwyd adran 105 gan baragraff 128 o Atodlen 9 i Ddeddf 2012 a chan O.S. 2010/22, Atodlen 2, paragraff 134. Diwygiwyd adrannau 104 a 110 gan baragraffau 133, 135 a 138 o Atodlen 2 i O.S. 2010/22, yn y drefn honno. Diwygiwyd adran 106 gan Ddeddf Iechyd a Gofal Cymdeithasol 2012 (p. 7) a chan Ddeddf Iechyd a Gofal 2022 (p. 31). Mae diwygiadau i adrannau 10 a 203 nad ydynt yn berthnasol i’r Rheoliadau hyn.Enwi, dod i rym a chymhwyso
+1.—(1) Enw’r Rheoliadau hyn yw Rheoliadau’r Gwasanaeth Iechyd Gwladol (Gwasanaethau Offthalmig) (Cymru) 2023.
+(2) Daw’r Rheoliadau hyn i rym ar 20 Hydref 2023.
+(3) Mae’r Rheoliadau hyn yn gymwys o ran Cymru.Dehongli
+2.  Yn y Rheoliadau hyn—
+ystyr “Addysg a Gwella Iechyd Cymru” (“Health Education and Improvement Wales”) yw’r corff a sefydlwyd gan Orchymyn Addysg a Gwella Iechyd Cymru (Sefydlu a Chyfansoddiad) 2017 (1);
+ystyr “anghymhwysiad cenedlaethol” (“a national disqualification”) yw—
+(a)
+penderfyniad a wneir gan y Tribiwnlys Haen Gyntaf o dan adran 115 o’r Ddeddf(2) (anghymhwysiad cenedlaethol);
+(b)
+penderfyniad a wneir o dan ddarpariaethau sydd mewn grym yn Lloegr, yr Alban neu Ogledd Iwerddon sy’n cyfateb i adran 115 o’r Ddeddf;
+mae i “archwiliad llygaid” (“eye examination”) yr ystyr a roddir yn rheoliad 3;
+ystyr “Awdurdod Gwrth-dwyll y GIG” (“the NHS Counter-Fraud Authority”) yw’r corff a sefydlwyd gan Orchymyn Awdurdod Gwrth-dwyll y GIG (Sefydlu, Cyfansoddiad, Darpariaethau Trosglwyddo Staff a Darpariaethau Trosglwyddo Eraill) 2017(3);
+mae i “awdurdod lleol” yr ystyr a roddir i “local authority” yn adran 206 o’r Ddeddf (dehongli);
+ystyr “claf” (“patient”) yw person y mae contractwr wedi cytuno i ddarparu gwasanaethau offthalmig sylfaenol ar ei gyfer;
+ystyr “contractwr” (“contractor”) yw ymarferydd cymwysedig, ac eithrio myfyriwr optometreg, sydd wedi ymrwymo i drefniant â Bwrdd Iechyd Lleol i ddarparu gwasanaethau offthalmig sylfaenol;
+ystyr “corff cyfatebol” (“equivalent body”) yw—
+(a)
+o ran Lloegr, GIG Lloegr, fel y’i sefydlwyd gan adran 1H o Ddeddf y Gwasanaeth Iechyd Gwladol 2006(4);
+(b)
+o ran yr Alban, Bwrdd Iechyd a sefydlwyd o dan adran 2 o Ddeddf y Gwasanaeth Iechyd Gwladol (Yr Alban) 1978(5);
+(c)
+o ran Gogledd Iwerddon, yr Adran Iechyd yng Ngogledd Iwerddon;
+ystyr “corff trwyddedu neu reoleiddio” (“licensing or regulatory body”) yw corff sy’n trwyddedu neu’n rheoleiddio unrhyw broffesiwn y mae’r ymarferydd cymwysedig yn aelod ohono neu wedi bod yn aelod ohono, gan gynnwys corff sy’n trwyddedu neu’n rheoleiddio addysg, hyfforddiant neu gymwysterau’r proffesiynau hynny, ac unrhyw gorff sy’n trwyddedu neu’n rheoleiddio unrhyw broffesiwn o’r fath, ei addysg, ei hyfforddiant neu ei gymwysterau, y tu allan i’r Deyrnas Unedig;
+ystyr “cyfarwyddwr” (“director”) yw—
+(a)
+cyfarwyddwr i gorff corfforedig;
+(b)
+aelod o gorff o bersonau sy’n rheoli corff corfforedig (pa un a yw’n bartneriaeth atebolrwydd cyfyngedig ai peidio);
+ystyr “cyflogaeth” (“employment”) yw unrhyw gyflogaeth, pa un ai â thâl neu’n ddi-dâl a pha un ai o dan gontract gwasanaeth ai peidio, a rhaid dehongli “cyflogai”, “cyflogedig” a “cyflogwr” yn unol â hynny;
+mae “cyflogwr” (“employer”) yn cynnwys unrhyw bartneriaeth y mae ymarferydd cymwysedig yn aelod ohoni, neu yr oedd yn aelod ohoni;
+mae i “y Datganiad” (“the Statement”) yr ystyr a roddir yn rheoliad 31;
+mae i “digwyddiadau cychwynnol” (“originating events”) yr ystyr a roddir yn Atodlen 3;
+ystyr “dirprwy” (“deputy”) yw ymarferydd meddygol offthalmig neu optometrydd sydd wedi ei gynnwys mewn rhestr gyfunol ac sy’n cynorthwyo i ddarparu gwasanaethau offthalmig sylfaenol;
+ystyr “dyddiad cychwyn” (“commencement date”) yw’r diwrnod y daw’r Rheoliadau hyn i rym o dan reoliad 1(2);
+ystyr “y Ddeddf” (“the Act”) yw Deddf y Gwasanaeth Iechyd Gwladol (Cymru) 2006;
+ystyr “ffurflen gwasanaethau offthalmig sylfaenol” (“primary ophthalmic services form”) yw ffurflen a ddarperir gan Fwrdd Iechyd Lleol y mae rhaid ei chwblhau gan gontractwr i gael taliad am ddarparu gwasanaethau offthalmig sylfaenol o dan y Rheoliadau hyn;
+mae i “y gofrestr” (“the register”) yr ystyr a roddir yn Atodlen 3;
+mae i “gwasanaethau archwilio llygaid” (“eye examination services”) yr ystyr a roddir yn rheoliad 3;
+mae i “gwasanaethau offthalmig cyffredinol” (“general ophthalmic services”) yr ystyr a roddir yn rheoliad 4;
+mae i “gwasanaethau offthalmig sylfaenol” (“primary ophthalmic services”) yr ystyr a roddir yn rheoliad 4;
+ystyr “gwasanaethau symudol” (“mobile services”) yw gwasanaethau offthalmig sylfaenol a ddarperir mewn man nad yw’n fangre gofrestredig;
+ystyr “hysbysiad” (“notice”) yw hysbysiad ysgrifenedig;
+ystyr “mangre gofrestredig” (“registered premises”) yw cyfeiriad sydd wedi ei gynnwys mewn rhestr offthalmig mewn perthynas â chontractwr, yn unol â pharagraff 1(g) o Atodlen 3;
+mae i “meddygol” yr ystyr a roddir i “medical” yn adran 206 o’r Ddeddf (dehongli);
+ystyr “myfyriwr optometreg” (“student optometrist”) yw person sydd wedi ei gofrestru yn y gofrestr a gynhelir o dan adran 8A o Ddeddf Optegwyr 1989(6) (cofrestr myfyrwyr) fel person sy’n ymgymryd â hyfforddiant i fod yn optometrydd;
+ystyr “NHS Resolution” (“NHS Resolution”) yw Awdurdod Ymgyfreitha’r GIG, sef corff a sefydlwyd gan Orchymyn Awdurdod Ymgyfreitha’r Gwasanaeth Iechyd Gwladol (Sefydlu a Chyfansoddiad) 1995(7);
+ystyr “optegydd corfforedig” (“corporate optician”) yw corff corfforedig sydd wedi ei gofrestru yn y gofrestr a gynhelir o dan adran 9 o Ddeddf Optegwyr 1989(8) (rhestr o gyrff corfforedig sy’n cynnal busnes fel optegwyr), sy’n cynnal busnes fel optometrydd, ac at ddiben y diffiniad hwn, mae i “optometrydd” yr ystyr a roddir i “optometrist” yn adran 36 o’r Ddeddf honno(9) (dehongli);
+ystyr “optegydd cyflenwi” (“dispensing optician”) yw person sydd wedi ei gofrestru fel optegydd cyflenwi yn y gofrestr a gynhelir o dan adran 7 o Ddeddf Optegwyr 1989(10) (cofrestr optegwyr);
+ystyr “optometrydd” (“optometrist”) yw person sydd wedi ei gofrestru fel optometrydd yn y gofrestr a gynhelir o dan adran 7 o Ddeddf Optegwyr 1989 (cofrestr optegwyr);
+mae i “person cymwys” (“eligible person”) yr ystyr a roddir yn rheoliad 5;
+mae i “practis symudol” (“mobile practice”) yr ystyr a roddir yn Atodlen 3;
+ystyr “Pwyllgor Cymwysterau Offthalmig” (“Ophthalmic Qualifications Committee”) yw pwyllgor a benodir gan sefydliadau sy’n gynrychioliadol o’r proffesiwn meddygol ac a gaiff ei gydnabod gan Weinidogion Cymru at ddibenion cymeradwyo—
+(a)
+ysbytai offthalmig, graddau academaidd, cyrsiau academaidd neu ôl-raddedig mewn offthalmoleg a swyddi sy’n rhoi cyfleoedd arbennig ar gyfer caffael y sgil a’r profiad angenrheidiol o’r math sy’n ofynnol ar gyfer darparu gwasanaethau offthalmig cyffredinol, a
+(b)
+cymwysterau ymarferwyr meddygol at ddiben gwasanaethau offthalmig cyffredinol;
+mae i “rhestr atodol” (“supplementary list”) yr ystyr a roddir yn rheoliad 10;
+ystyr “rhestr gofal sylfaenol” (“primary care list”) yw rhestr y cyfeirir ati yn adran 115(1)(a) i (d) o’r Ddeddf;
+ystyr “rhestr gyfatebol” (“equivalent list”) yw rhestr a gedwir gan gorff cyfatebol sy’n cyfateb i restr gofal sylfaenol;
+mae i “rhestr gyfunol” (“combined list”) yr ystyr a roddir yn rheoliad 10;
+mae i “rhestr offthalmig” (“ophthalmic list”) yr ystyr a roddir yn rheoliad 10;
+ystyr “rhif cofrestru proffesiynol” (“professional registration number”) yw’r rhif gyferbyn ag enw’r ymarferydd cymwysedig yn y gofrestr berthnasol a gynhelir gan y Cyngor Meddygol Cyffredinol neu’r Cyngor Optegol Cyffredinol;
+mae i “swyddog” yr ystyr a roddir i “officer” yn adran 206 o’r Ddeddf (dehongli);
+ystyr “telerau gwasanaeth” (“terms of service”) yw’r telerau a nodir yn Atodlen 4;
+ystyr “Tribiwnlys Haen Gyntaf” (“First-tier Tribunal”) yw’r Tribiwnlys Haen Gyntaf a sefydlwyd o dan adran 3(1) o Ddeddf Tribiwnlysoedd, Llysoedd a Gorfodaeth 2007(11) (y Tribiwnlys Haen Gyntaf);
+ystyr “wedi ei atal dros dro” (“suspended”) yw wedi ei atal dros dro—
+(a)
+o dan y Ddeddf;
+(b)
+o dan Ddeddf y Gwasanaeth Iechyd Gwladol 2006;
+(c)
+o dan Ddeddf y Gwasanaeth Iechyd Gwladol (Yr Alban) 1978;
+(d)
+o dan Orchymyn Iechyd a Gwasanaethau Cymdeithasol Personol (Gogledd Iwerddon) 1972(12);
+ystyr “ymarferydd cymwysedig” (“qualified practitioner”) yw—
+(a)
+optegydd corfforedig;
+(b)
+optometrydd;
+(c)
+ymarferydd meddygol offthalmig;
+(d)
+myfyriwr optometreg;
+ystyr “ymarferydd meddygol” (“medical practitioner”) yw person sydd wedi ei gofrestru’n llawn o fewn yr ystyr a roddir i “fully registered person” yn adran 55 o Ddeddf Meddygaeth 1983(13) ac sy’n dal trwydded i ymarfer o dan y Ddeddf honno;
+ystyr “ymarferydd meddygol offthalmig” (“ophthalmic medical practitioner”) yw person a gydnabyddir o dan reoliad 9 ac Atodlen 2;
+mae “ymddygiad proffesiynol” (“professional conduct”) yn cynnwys materion sy’n ymwneud ag ymddygiad proffesiynol a pherfformiad proffesiynol fel ei gilydd;
+mae i “ysbyty” yr ystyr a roddir i “hospital” yn adran 206 o’r Ddeddf (dehongli);
+mae “ysbyty offthalmig” (“ophthalmic hospital”) yn cynnwys adran offthalmig mewn ysbyty.
+(1)
+O.S. 2017/913 (Cy. 224).
+(2)
+Diwygiwyd adran 115 gan O.S. 2010/22, Atodlen 2, paragraff 139, gan Ddeddf Iechyd a Gofal Cymdeithasol 2012 (p. 7), Atodlen 21, paragraff 31 a chan Ddeddf Iechyd a Gofal 2022 (p. 31), Atodlen 1, paragraff 1.
+(3)
+O.S. 2017/958, y mae diwygiadau iddo nad ydynt yn berthnasol i’r Rheoliadau hyn.
+(4)
+2006 p. 41.
+(5)
+1978 p. 29.
+(6)
+Ychwanegwyd adran 8A gan O.S. 2005/848, erthygl 9.
+(7)
+O.S. 1995/2800, y mae diwygiadau iddo nad ydynt yn berthnasol i’r Rheoliadau hyn.
+(8)
+1989 p. 44; diwygiwyd adran 9 gan O.S. 2005/848, erthygl 10, gan Ddeddf Cymdeithasau Cydweithredol a Chymdeithasau Budd Cymunedol 2014 (p. 14), Atodlen 4, paragraff 44 a chan Ddeddf Undebau Credyd a Chymdeithasau Cydweithredol a Chymdeithasau Budd Cymunedol (Gogledd Iwerddon) 2016 (p. 16), Atodlen 1, paragraff 37.
+(9)
+Diwygiwyd adran 36 gan O.S. 2005/848, Atodlen 1, paragraff 8. Mae diwygiadau eraill i adran 36 nad ydynt yn berthnasol i’r Rheoliadau hyn.
+(10)
+Diwygiwyd adran 7 gan O.S. 2005/848, erthygl 7.
+(11)
+2007 p. 15.
+(12)
+O.S. 1972/1265 (G.I. 14), y mae diwygiadau iddo nad ydynt yn berthnasol i’r Rheoliadau hyn.
+(13)
+1983 p. 54; amnewidiwyd y diffiniad o “fully registered person” yn adran 55 gan O.S. 2007/3101, rheoliad 29 ac fe’i diwygiwyd gan O.S. 2008/1774, Atodlen 1, paragraff 20 ac O.S. 2019/593, Atodlen 1, paragraff 30. Mae diwygiadau eraill i adran 55 nad ydynt yn berthnasol i’r Rheoliadau hyn.Dyletswydd i drefnu archwiliadau llygaid
+3.—(1) Rhaid i bob Bwrdd Iechyd Lleol drefnu, mewn cysylltiad â’i ardal, ar gyfer darparu archwiliadau llygaid yn unol â’r Rheoliadau hyn.
+(2) Rhaid i bob Bwrdd Iechyd Lleol weinyddu’r trefniadau ar gyfer y gwasanaethau hyn yn unol â’r Rheoliadau hyn.
+(3) Yn y Rheoliadau hyn—
+(a)
+ystyr “archwiliad llygaid” yw archwiliad o’r llygad at ddiben gwneud diagnosis o gyflwr llygaid neu benderfynu ar driniaeth ar gyfer cyflwr llygaid, neu adolygu cyflwr presennol, sy’n cynnwys y profion a’r gweithdrefnau hynny a’r cyngor hwnnw sy’n briodol i’r arwyddion a’r symptomau sy’n ymgyflwyno yn y claf, ac i anghenion y claf hwnnw, a
+(b)
+cyfeirir at y gwasanaethau sy’n ofynnol gan baragraff (1) fel “gwasanaethau archwilio llygaid”.Gwasanaethau offthalmig cyffredinol a gwasanaethau offthalmig sylfaenol
+4.  Yn y Rheoliadau hyn—
+(a)
+ystyr “gwasanaethau offthalmig cyffredinol” yw’r gwasanaethau y mae rhaid i gontractwr eu darparu o dan baragraff 23 (profion golwg) o’r telerau gwasanaeth, a
+(b)
+ystyr “gwasanaethau offthalmig sylfaenol” yw, gyda’i gilydd—
+(i)
+gwasanaethau offthalmig cyffredinol, a
+(ii)
+gwasanaethau archwilio llygaid.Cymhwystra i gael prawf golwg
+5.  Mae person sy’n bodloni unrhyw un neu ragor o’r meini prawf ym mharagraff 1 o Atodlen 1 yn gymwys i gael prawf golwg o dan wasanaethau offthalmig cyffredinol (a chyfeirir ato yn y Rheoliadau hyn fel “person cymwys”).Cais am brawf golwg
+6.—(1) Caiff person cymwys wneud cais i gontractwr am brawf golwg.
+(2) Rhaid i’r cais—
+(a)
+cael ei wneud ar ffurflen a ddarperir at y diben hwnnw i gontractwyr gan y Bwrdd Iechyd Lleol perthnasol, a
+(b)
+cynnwys datganiad ysgrifenedig, wedi ei lofnodi gan y ceisydd yn ysgrifenedig neu’n electronig, i’r perwyl ei fod yn berson cymwys.
+(3) Cyn darparu prawf golwg o’r fath, rhaid i gontractwr y mae cais wedi ei wneud iddo—
+(a)
+ac eithrio pan fo paragraff (4) yn gymwys, ofyn i’r person ddangos tystiolaeth foddhaol ei fod yn bodloni un o’r meini prawf ym mharagraff 1 o Atodlen 1,
+(b)
+pan ofynnwyd i’r person am dystiolaeth foddhaol ei fod yn berson cymwys ond nad yw wedi ei darparu, gofnodi’r ffaith honno ar ffurflen gwasanaethau offthalmig sylfaenol y person,
+(c)
+sicrhau bod manylion y person a bras ddyddiad ei brawf golwg diwethaf, os oes un, yn cael eu cofnodi ar ffurflen gwasanaethau offthalmig sylfaenol, a
+(d)
+ei fodloni ei hun bod y prawf golwg yn angenrheidiol.
+(4) Mae’r paragraff hwn yn gymwys pan—
+(a)
+bo’r person yn gymwys oherwydd paragraff 1(1)(d) o Atodlen 1, a
+(b)
+bo tystiolaeth foddhaol o gymhwystra’r person eisoes ar gael i’r contractwr.
+(5) Mae paragraff 2 o Atodlen 1 yn gwneud darpariaeth ynghylch y dystiolaeth benodol y mae rhaid i gontractwr ofyn amdani cyn darparu prawf golwg i bersonau penodol.
+(6) O ran y contractwr—
+(a)
+caiff benodi aelod o’i staff i gyflawni gofynion paragraff (3)(a) a (b) ar ei ran, a
+(b)
+rhaid iddo sicrhau bod yr aelod o staff a benodir at y diben hwnnw yn cael cyfarwyddyd i’w alluogi i gyflawni’r gofynion ar ran y contractwr.
+(7) Yn ddarostyngedig i baragraff (8), caniateir gwneud cais am wasanaethau offthalmig cyffredinol o dan y Rheoliadau hyn, a chaniateir rhoi llofnod sy’n ofynnol gan y Rheoliadau hyn—
+(a)
+ar ran unrhyw berson o dan 16 oed, gan y naill riant neu’r llall, gan y gwarcheidwad neu gan oedolyn arall a chanddo ofal dros y plentyn;
+(b)
+ar ran unrhyw berson o dan 18 oed sydd—
+(i)
+yng ngofal awdurdod lleol y traddodwyd y person i’w ofal o dan Ddeddf Plant 1989(1) neu sydd wedi derbyn y person i’w ofal o dan Ddeddf Gwasanaethau Cymdeithasol a Llesiant (Cymru) 2014(2), gan berson sydd wedi ei awdurdodi’n briodol gan yr awdurdod hwnnw;
+(ii)
+yng ngofal sefydliad gwirfoddol, gan y sefydliad hwnnw neu berson sydd wedi ei awdurdodi’n briodol gan y sefydliad;
+(c)
+ar ran unrhyw berson arall nad oes ganddo’r gallu i wneud y cais neu i roi’r llofnod, gan berthynas neu unrhyw oedolyn arall a chanddo ofal dros y person hwnnw.
+(8) Ni chaiff y contractwr y gwneir y cais iddo lofnodi cais.
+(1)
+1989 p. 41.
+(2)
+2014 dccc 4.Gwasanaethau eraill sy’n cael eu trin fel pe baent yn wasanaethau offthalmig cyffredinol
+7.—(1) Mae paragraff (5) yn gymwys pan—
+(a)
+bo person yn cael prawf golwg, ac eithrio gwasanaethau offthalmig cyffredinol, gan gontractwr,
+(b)
+yn union cyn cael y prawf golwg, nad oedd y person hwnnw yn berson cymwys, ac
+(c)
+bo Amod A, Amod B neu Amod C wedi ei fodloni mewn perthynas â’r person.
+(2) Mae Amod A wedi ei fodloni mewn perthynas â’r person os dangosir, wrth ddarparu’r prawf golwg, fod y person yn bodloni’r maen prawf cymhwystra ym mharagraff 1(1)(e) o Atodlen 1.
+(3) Mae Amod B wedi ei fodloni mewn perthynas â’r person os yw’r person—
+(a)
+cyn diwedd cyfnod o 14 o ddiwrnodau gan ddechrau â’r diwrnod y darparwyd y prawf golwg, yn dod yn berson cymwys oherwydd ei fod yn bodloni’r maen prawf cymhwystra ym mharagraff 1(1)(d) o Atodlen 1 drwy gyfeirio at baragraff 1(2)(c), (d) neu (g) o’r Atodlen honno, a
+(b)
+cyn diwedd y cyfnod o 3 mis gan ddechrau â’r diwrnod y darparwyd y prawf golwg, yn darparu i’r Bwrdd Iechyd Lleol hysbysiad o hawlogaeth i’r perwyl hwnnw.
+(4) Mae Amod C wedi ei fodloni mewn perthynas â’r person os yw’r person, cyn diwedd y cyfnod o 3 mis gan ddechrau â’r diwrnod y darparwyd y prawf golwg, yn dod yn berson cymwys oherwydd ei fod yn bodloni’r maen prawf cymhwystra ym mharagraff 1(1)(d) o Atodlen 1 drwy gyfeirio at baragraff (2)(n) o’r Atodlen honno.
+(5) Pan fo’r paragraff hwn yn gymwys, rhaid trin y prawf golwg fel pe bai wedi bod yn wasanaethau offthalmig cyffredinol o dan y Ddeddf—
+(a)
+at ddibenion rheoliad 8(1)(a) o Reoliadau’r Gwasanaeth Iechyd Gwladol (Ffioedd a Thaliadau Optegol) 1997(1), a
+(b)
+at y dibenion a bennir yn adran 71(8) a (9) o’r Ddeddf.
+(6) Pan fo’r prawf golwg a geir gan berson yn cael ei drin yn rhinwedd paragraff (3) neu (4) fel pe bai’n wasanaethau offthalmig cyffredinol—
+(a)
+caiff y person hwnnw ddarparu i’r Bwrdd Iechyd Lleol dderbynneb ar gyfer unrhyw ffi a dalwyd am y prawf golwg hwnnw, neu dystiolaeth arall o unrhyw ffi a dalwyd amdano, a
+(b)
+os yw’r Bwrdd Iechyd Lleol wedi ei fodloni o ran y swm a dalwyd am y prawf golwg hwnnw, rhaid iddo dalu i’r person hwnnw swm sy’n hafal i’r ffi a dalwyd.
+(1)
+O.S. 1997/818, y mae diwygiadau iddo nad ydynt yn berthnasol i’r Rheoliadau hyn.Darparu gwasanaethau offthalmig sylfaenol
+8.—(1) Caiff ymarferydd cymwysedig (ac eithrio myfyriwr optometreg) ddarparu gwasanaethau offthalmig sylfaenol yn ardal Bwrdd Iechyd Lleol os yw wedi ei gynnwys yn rhestr offthalmig y Bwrdd Iechyd Lleol hwnnw (gweler rheoliad 10(2)(a)).
+(2) Caiff ymarferydd cymwysedig (ac eithrio myfyriwr optometreg) gynorthwyo i ddarparu gwasanaethau offthalmig sylfaenol yng Nghymru os yw wedi ei gynnwys yn rhestr offthalmig neu yn rhestr atodol Bwrdd Iechyd Lleol (gweler rheoliad 10(2)(a) a (b)).
+(3) Caiff myfyriwr optometreg gynorthwyo i ddarparu gwasanaethau offthalmig sylfaenol yng Nghymru i’r graddau y mae wedi ei gymhwyso i wneud hynny ac o dan oruchwyliaeth ymarferydd meddygol offthalmig neu optometrydd y mae ei enw wedi ei gynnwys mewn rhestr gyfunol, os yw’r myfyriwr optometreg wedi ei gynnwys yn rhestr atodol Bwrdd Iechyd Lleol (gweler rheoliad 10(2)(b)).Cymwysterau ymarferwyr meddygol offthalmig
+9.—(1) Y cymwysterau rhagnodedig y mae rhaid i ymarferydd meddygol feddu arnynt at ddibenion adran 71 o’r Ddeddf (trefniadau ar gyfer gwasanaethau offthalmig cyffredinol) yw’r rhai a nodir ym mharagraff 1 o Atodlen 2.
+(2) Mae paragraff 2 o Atodlen 2 yn gwneud darpariaeth mewn perthynas â chymeradwyo cymwysterau ymarferwyr meddygol offthalmig gan y Pwyllgor Cymwysterau Offthalmig.
+(3) Mae paragraff 3 o Atodlen 2 yn gwneud darpariaeth mewn perthynas ag apelau yn erbyn penderfyniadau gan y Pwyllgor Cymwysterau Offthalmig.Dyletswydd i lunio rhestr gyfunol
+10.—(1) Rhaid i bob Bwrdd Iechyd Lleol lunio, ar gyfer ei ardal, restr gyfunol.
+(2) Rhaid i’r rhestr gyfunol gynnwys—
+(a)
+rhestr o’r ymarferwyr cymwysedig sy’n ymgymryd â darparu gwasanaethau offthalmig sylfaenol ac sydd wedi eu cymeradwyo gan y Bwrdd Iechyd Lleol o dan reoliad 13 (“y rhestr offthalmig”), a
+(b)
+mewn rhan ar wahân, restr o’r ymarferwyr cymwysedig sydd wedi eu cymeradwyo gan y Bwrdd Iechyd Lleol at ddiben cynorthwyo i ddarparu gwasanaethau offthalmig sylfaenol o dan reoliad 13 (“y rhestr atodol”).
+(3) Rhaid i’r rhestr gyfunol gynnwys yr wybodaeth a nodir yn Rhan 1 o Atodlen 3.Cyhoeddi’r rhestr gyfunol
+11.—(1) Rhaid i bob Bwrdd Iechyd Lleol gyhoeddi ei restr gyfunol a rhoi copi ohoni ar gael i edrych arno—
+(a)
+yn ei swyddfeydd, a
+(b)
+mewn unrhyw fan arall yn ei ardal y mae’n ystyried ei fod yn briodol.
+(2) Rhaid i bob Bwrdd Iechyd Lleol—
+(a)
+anfon copi o’i restr gyfunol i’r Pwyllgor Meddygol Lleol perthnasol a’r Pwyllgor Optegol Lleol perthnasol, a
+(b)
+fesul ysbaid o ddim mwy na 3 mis, hysbysu pob un ohonynt am unrhyw newid a wneir yn y rhestr honno.
+(3) Yn y rheoliad hwn—
+ystyr “Pwyllgor Meddygol Lleol perthnasol” (“relevant Local Medical Committee”) yw’r pwyllgor a gydnabyddir gan y Bwrdd Iechyd Lleol o dan adran 54 o’r Ddeddf;
+ystyr “Pwyllgor Optegol Lleol perthnasol” (“relevant Local Optical Committee”) yw’r pwyllgor a gydnabyddir gan y Bwrdd Iechyd Lleol o dan adran 78 o’r Ddeddf.Cais i gynnwys ymarferydd mewn rhestr
+12.—(1) Caiff ymarferydd cymwysedig, ac eithrio myfyriwr optometreg, wneud cais i Fwrdd Iechyd Lleol i gael ei gynnwys yn rhestr offthalmig y Bwrdd Iechyd Lleol.
+(2) Caiff ymarferydd cymwysedig wneud cais i Fwrdd Iechyd Lleol i gael ei gynnwys yn rhestr atodol y Bwrdd Iechyd Lleol.
+(3) Rhaid i gais i gynnwys ymarferydd yn rhestr offthalmig Bwrdd Iechyd Lleol gael ei wneud yn ysgrifenedig a rhaid iddo gynnwys—
+(a)
+ymgymeriad—
+(i)
+i ddarparu gwasanaethau offthalmig sylfaenol yn ardal y Bwrdd Iechyd Lleol hwnnw;
+(ii)
+i gydymffurfio â’r telerau gwasanaeth a nodir yn Atodlen 4;
+(b)
+pan fo’r ceisydd yn dymuno darparu gwasanaethau symudol, ddatganiad i’r perwyl hwnnw ynghyd ag ymgymeriad i ddarparu gwasanaethau symudol;
+(c)
+yr wybodaeth, yr ymgymeriadau a’r datganiadau sy’n ofynnol gan baragraffau 3, 4 a 7 o Atodlen 3.
+(4) Rhaid i gais i gynnwys ymarferydd yn rhestr atodol Bwrdd Iechyd Lleol gael ei wneud yn ysgrifenedig a rhaid iddo gynnwys yr wybodaeth, yr ymgymeriadau a’r datganiadau sy’n ofynnol gan baragraffau 5, 6 a 7 o Atodlen 3.
+(5) Yn achos cais i Fwrdd Iechyd Lleol gan ymarferydd cymwysedig sydd wedi ei gynnwys yn rhestr atodol y Bwrdd Iechyd Lleol hwnnw, ac sy’n ceisio tynnu’n ôl o’r rhestr honno a chael ei gynnwys yn ei restr offthalmig, nid yw’n ofynnol i’r ymarferydd cymwysedig hwnnw ddarparu unrhyw wybodaeth nac unrhyw ymgymeriadau sy’n ofynnol gan baragraff (3) ac Atodlenni 3 a 4 ond i’r graddau—
+(a)
+nad yw’r ymarferydd cymwysedig hwnnw eisoes wedi eu darparu i’r Bwrdd Iechyd Lleol hwnnw, neu
+(b)
+y mae’r wybodaeth wedi newid ers cael ei darparu.Penderfyniadau a seiliau dros wrthod
+13.—(1) Rhaid i Fwrdd Iechyd Lleol sy’n cael cais o dan reoliad 12—
+(a)
+penderfynu pa un ai i gymeradwyo’r ymarferydd cymwysedig i’w gynnwys yn ei restr offthalmig neu yn ei restr atodol (yn ôl y digwydd), a
+(b)
+oni bai bod rheoliad 15 yn gymwys, hysbysu’r ymarferydd cymwysedig am ei benderfyniad o fewn 7 niwrnod i’r penderfyniad hwnnw.
+(2) Cyn penderfynu ar gais o dan baragraff (1)(a), rhaid i’r Bwrdd Iechyd Lleol—
+(a)
+gwirio’r wybodaeth a ddarperir gan yr ymarferydd cymwysedig, i’r graddau y bo’n rhesymol ymarferol, yn enwedig yr wybodaeth honno a ddarperir o dan Atodlen 3,
+(b)
+gwirio gydag Awdurdod Gwrth-dwyll y GIG a oes gan yr ymarferydd cymwysedig unrhyw hanes o dwyll,
+(c)
+gwirio gyda Gweinidogion Cymru ynghylch unrhyw ffeithiau y mae Gweinidogion Cymru yn ystyried eu bod yn berthnasol mewn perthynas ag ymchwiliadau neu achosion, ar hyn o bryd neu yn y gorffennol, sy’n ymwneud â’r ymarferydd cymwysedig neu sy’n gysylltiedig ag ef, ac ystyried y ffeithiau hynny, a
+(d)
+cael geirdaon oddi wrth y canolwyr a enwir gan yr ymarferydd cymwysedig o dan baragraff 3(l) neu 5(h) o Atodlen 3 (fel y bo’n briodol), ac ystyried y geirdaon a ddarperir.
+(3) Rhaid i’r Bwrdd Iechyd Lleol wrthod cynnwys ymarferydd cymwysedig yn ei restr gyfunol pan fo unrhyw un neu ragor o’r seiliau ym mharagraff 8 o Atodlen 3 yn gymwys.
+(4) Caiff y Bwrdd Iechyd Lleol wrthod cynnwys ymarferydd cymwysedig yn ei restr gyfunol pan fo unrhyw un neu ragor o’r seiliau ym mharagraff 9 o Atodlen 3 yn gymwys.
+(5) Wrth ystyried gwrthodiad o dan baragraff (4), rhaid i’r Bwrdd Iechyd Lleol ystyried y ffactorau a nodir ym mharagraff 10 o Atodlen 3.
+(6) Pan fo’r Bwrdd Iechyd Lleol yn gwrthod cais, rhaid i’r hysbysiad o dan baragraff (1)(b) gynnwys—
+(a)
+datganiad o’r rhesymau dros benderfyniad y Bwrdd Iechyd Lleol (gan gynnwys unrhyw ffeithiau y dibynnwyd arnynt), a
+(b)
+manylion ynghylch sut i apelio yn erbyn y gwrthodiad o dan reoliad 28.
+(7) Pan fo cais yn cael ei wneud i Fwrdd Iechyd Lleol yn unol â rheoliad 12, ni chaiff y Bwrdd Iechyd Lleol wrthod y cais ond yn unol â pharagraffau (3) a (4).Cynnwys ymarferydd yn amodol
+14.—(1) Caiff Bwrdd Iechyd Lleol—
+(a)
+penderfynu cynnwys ymarferydd cymwysedig yn ei restr gyfunol yn ddarostyngedig i amodau;
+(b)
+mewn perthynas ag ymarferydd cymwysedig sydd wedi gwneud cais i gael ei gynnwys yn rhestr offthalmig y Bwrdd Iechyd Lleol, amrywio’r telerau gwasanaeth a nodir yn Atodlen 4 i’r Rheoliadau hyn at ddiben gosod yr amodau hynny, neu mewn cysylltiad â gosod yr amodau hynny.
+(2) Wrth osod amodau ar ymarferydd cymwysedig o dan baragraff (1)(a), rhaid gwneud hynny gyda’r bwriad o—
+(a)
+rhwystro unrhyw niwed i effeithlonrwydd darparu gwasanaethau offthalmig sylfaenol, neu
+(b)
+rhwystro unrhyw weithredoedd neu anweithredoedd o’r math a ddisgrifir yn adran 107(3)(a) o’r Ddeddf (anghymhwyso ymarferwyr).
+(3) Caiff Bwrdd Iechyd Lleol adolygu ei benderfyniad i osod neu amrywio amod o dan baragraff (1), ac os gofynnir yn ysgrifenedig gan yr ymarferydd cymwysedig iddo adolygu penderfyniad o’r fath, rhaid iddo wneud hynny.
+(4) Ni chaiff ymarferydd cymwysedig ofyn am adolygiad o dan baragraff (3) tan ar ôl cyfnod o dri mis gan ddechrau â’r dyddiad y mae’r Bwrdd Iechyd Lleol yn cynnwys yr ymarferydd cymwysedig yn ei restr gyfunol.
+(5) Ar ôl i adolygiad ddigwydd, ni chaiff yr ymarferydd cymwysedig ofyn am adolygiad pellach cyn diwedd cyfnod o chwe mis gan ddechrau â dyddiad y penderfyniad ar yr adolygiad blaenorol.
+(6) Pan fo Bwrdd Iechyd Lleol yn adolygu ei benderfyniad o dan y rheoliad hwn, caiff—
+(a)
+amrywio’r amodau a osodir ar yr ymarferydd cymwysedig,
+(b)
+gosod amodau gwahanol ar yr ymarferydd cymwysedig,
+(c)
+dileu’r amod neu’r amodau a osodir ar yr ymarferydd cymwysedig, neu
+(d)
+dileu’r ymarferydd cymwysedig o’i restr gyfunol.
+(7) Caiff ymarferydd cymwysedig apelio i’r Tribiwnlys Haen Gyntaf yn erbyn y penderfyniadau a ganlyn gan y Bwrdd Iechyd Lleol—
+(a)
+penderfyniad i osod amodau, neu unrhyw amod penodol, ar yr ymarferydd cymwysedig;
+(b)
+penderfyniad i amrywio amod;
+(c)
+penderfyniad i amrywio telerau gwasanaeth yr ymarferydd cymwysedig.
+(8) Ac eithrio mewn achos o fewn is-baragraff (10), ni chaniateir i unrhyw benderfyniad gan y Bwrdd Iechyd Lleol a gaiff fod yn destun apêl o dan is-baragraff (4) gael effaith hyd nes bod y Tribiwnlys Haen Gyntaf wedi penderfynu unrhyw apêl yn ei erbyn neu fod yr amser ar gyfer unrhyw apêl wedi dod i ben.
+(9) Mae is-baragraff (10) yn gymwys pan—
+(a)
+bo ymarferydd cymwysedig wedi gwneud cais i gael ei gynnwys yn rhestr atodol Bwrdd Iechyd Lleol, a
+(b)
+bo’r Bwrdd Iechyd Lleol yn penderfynu y caniateir i ymarferydd cymwysedig gael ei gynnwys yn ei restr atodol yn ddarostyngedig i amodau.
+(10) Os yw’r ymarferydd cymwysedig yn cytuno’n ysgrifenedig i gael ei rwymo gan yr amodau a osodir hyd nes bod yr amser ar gyfer apelio wedi dod i ben neu fod unrhyw apêl wedi ei phenderfynu, caniateir i’r ymarferydd cymwysedig gael ei gynnwys (neu barhau i gael ei gynnwys) yn y rhestr honno—
+(a)
+yn ystod y cyfnod ar gyfer unrhyw apêl i’r Tribiwnlys Haen Gyntaf o dan reoliad 28, neu
+(b)
+os caiff apêl ei dwyn, hyd nes bod yr apêl wedi ei phenderfynu.Gohirio penderfyniadau
+15.—(1) Caiff Bwrdd Iechyd Lleol ohirio ystyried penderfyniad o dan reoliad 13 pan fo unrhyw un neu ragor o’r amgylchiadau yn Rhan 4 o Atodlen 3 yn gymwys.
+(2) Rhaid i’r Bwrdd Iechyd Lleol—
+(a)
+hysbysu’r ymarferydd cymwysedig ei fod wedi gohirio ei benderfyniad, a
+(b)
+rhoi rhesymau dros y gohiriad hwnnw.
+(3) Ni chaiff Bwrdd Iechyd Lleol ohirio ystyried penderfyniad o dan baragraff (1) ond hyd nes bod canlyniad y digwyddiad perthnasol a grybwyllir ym mharagraff 11(1)(c) a (2) o Ran 4 o Atodlen 3 yn hysbys neu tra bo’r ymarferydd cymwysedig wedi ei atal dros dro o dan baragraff 11(1)(a) neu (b) o’r Atodlen honno.
+(4) Ar ôl i’r Bwrdd Iechyd Lleol ddod yn ymwybodol o ganlyniad y digwyddiad perthnasol a grybwyllir ym mharagraff 11(1)(c) a (2) o Ran 4 o Atodlen 3, neu ar ôl i’r ataliad dros dro y cyfeirir ato ym mharagraff 11(1)(a) neu (b) o’r Atodlen honno ddod i ben, rhaid i’r Bwrdd Iechyd Lleol hysbysu’r ymarferydd cymwysedig ei bod yn ofynnol iddo—
+(a)
+diweddaru ei gais o fewn 28 o ddiwrnodau i ddyddiad yr hysbysiad (neu unrhyw gyfnod hwy a gytunir gan y Bwrdd Iechyd Lleol), a
+(b)
+cadarnhau yn ysgrifenedig o fewn y cyfnod y cyfeirir ato yn is-baragraff (a) ei fod yn dymuno bwrw ymlaen â’i gais.
+(5) Ar yr amod bod unrhyw wybodaeth ychwanegol wedi dod i law o fewn 28 o ddiwrnodau, neu o fewn yr amser y cytunwyd arno, rhaid i’r Bwrdd Iechyd Lleol hysbysu’r ymarferydd cymwysedig cyn gynted ag y bo modd—
+(a)
+bod ei gais wedi bod yn llwyddiannus, neu
+(b)
+pan fo’r Bwrdd Iechyd Lleol wedi penderfynu gwrthod ei gais neu osod amodau ar gynnwys yr ymarferydd hwnnw—
+(i)
+am y penderfyniad hwnnw a’r rhesymau drosto (gan gynnwys unrhyw ffeithiau y dibynnwyd arnynt), a
+(ii)
+ynghylch sut i apelio yn erbyn y penderfyniad hwnnw o dan reoliad 28.Gofynion y mae rhaid i ymarferydd cymwysedig sydd wedi ei gynnwys mewn rhestr atodol gydymffurfio â hwy
+16.—(1) Wrth ddod yn ymwybodol o newid i’r wybodaeth a ddarparwyd gan yr ymarferydd cymwysedig yn unol â pharagraffau 5 i 7 o Atodlen 3 wrth wneud cais i gael ei gynnwys yn rhestr atodol y Bwrdd Iechyd Lleol, rhaid i’r ymarferydd cymwysedig hysbysu’r Bwrdd Iechyd Lleol yn ysgrifenedig o fewn 7 niwrnod.
+(2) Pan fo is-baragraff (1) yn gymwys, rhaid i’r ymarferydd cymwysedig ddarparu’r holl awdurdod angenrheidiol er mwyn galluogi i gais gael ei wneud gan y Bwrdd Iechyd Lleol i unrhyw gyflogwr (neu gyn-gyflogwr), unrhyw gorff trwyddedu, unrhyw gorff rheoleiddio neu unrhyw gorff arall yn y Deyrnas Unedig neu yn rhywle arall, am wybodaeth sy’n ymwneud â’r hysbysiad a roddir gan yr ymarferydd cymwysedig o dan is-baragraff (1).
+(3) Rhaid i ymarferydd cymwysedig sydd wedi ei gynnwys yn rhestr atodol Bwrdd Iechyd Lleol gyflenwi i’r Bwrdd Iechyd Lleol hwnnw dystysgrif cofnod troseddol manwl o dan adran 113B o Ddeddf yr Heddlu 1997(1) mewn perthynas â’r ymarferydd cymwysedig os yw’r Bwrdd Iechyd Lleol ar unrhyw adeg, am achos rhesymol, yn rhoi hysbysiad i’r ymarferydd cymwysedig i ddarparu tystysgrif o’r fath.
+(1)
+1997 p. 50; mewnosodwyd adran 113B gan adran 163(2) o Ddeddf Troseddu Cyfundrefnol Difrifol a’r Heddlu 2005 (p. 15).Dileu ymarferydd o restr
+17.—(1) Rhaid i Fwrdd Iechyd Lleol ddileu ymarferydd cymwysedig o’i restr offthalmig neu o’i restr atodol (fel y bo’n briodol)—
+(a)
+pan ddaw’n ymwybodol bod yr ymarferydd cymwysedig wedi ei euogfarnu yn y Deyrnas Unedig o lofruddiaeth;
+(b)
+pan ddaw’n ymwybodol bod yr ymarferydd cymwysedig yn ddarostyngedig i anghymhwysiad cenedlaethol;
+(c)
+pan ddaw’n ymwybodol bod yr ymarferydd cymwysedig wedi marw;
+(d)
+pan ddaw’n ymwybodol bod yr ymarferydd cymwysedig wedi peidio fel arall â bod yn ymarferydd cymwysedig;
+(e)
+yn achos ymarferydd cymwysedig sydd wedi ei gynnwys yn rhestr offthalmig y Bwrdd Iechyd Lleol, pan ddaw’n ymwybodol bod yr ymarferydd cymwysedig wedi ei gynnwys yn rhestr atodol unrhyw Fwrdd Iechyd Lleol;
+(f)
+yn achos ymarferydd cymwysedig sydd yn rhestr atodol y Bwrdd Iechyd Lleol, pan ddaw’n ymwybodol bod yr ymarferydd cymwysedig wedi ei gynnwys yn rhestr offthalmig unrhyw Fwrdd Iechyd Lleol neu yn rhestr atodol Bwrdd Iechyd Lleol arall;
+(g)
+pan fo’r ymarferydd cymwysedig yn ymarferydd meddygol offthalmig, pan ddaw’n ymwybodol bod yr ymarferydd meddygol offthalmig yn destun—
+(i)
+cyfarwyddyd a roddir gan Dribiwnlys Ymarferwyr Meddygol o dan adran 35D(2)(a) neu (b) o Ddeddf Meddygaeth 1983(1) (swyddogaethau Tribiwnlys Ymarferwyr Meddygol);
+(ii)
+gorchymyn neu gyfarwyddyd a wneir gan Dribiwnlys Ymarferwyr Meddygol o dan adran 38(1) o Ddeddf Meddygaeth 1983 (pŵer i orchymyn atal dros dro gydag effaith ar unwaith etc.);
+(iii)
+o adeg dod i rym erthygl 13 o Orchymyn Deddf Meddygaeth 1983 (Diwygio) 2002(2), gyfarwyddyd gan Dribiwnlys Ymarferwyr Meddygol ar gyfer dileu neu atal dros dro gydag effaith ar unwaith o dan adran 35D(2)(a) neu (b), (5)(a) neu (b), (10)(a) neu (b), neu (12)(a) neu (b) (swyddogaethau Tribiwnlys Ymarferwyr Meddygol), neu adran 38(1) (pŵer i orchymyn atal dros dro gydag effaith ar unwaith etc.) o Ddeddf Meddygaeth 1983;
+(h)
+yn achos optometrydd, pan ddaw’n ymwybodol bod yr ymarferydd cymwysedig yn destun cyfarwyddyd a wneir gan Bwyllgor Addasrwydd i Ymarfer y Cyngor Optegol Cyffredinol ac eithrio mewn achos iechyd i ddileu enw’r ymarferydd o’r gofrestr briodol neu i atal dros dro gofrestriad yr ymarferydd o dan adran 13F(3)(a) neu (b), (7)(a) neu (b) neu (13)(a) neu (b) o Ddeddf Optegwyr 1989(3) (pwerau’r Pwyllgor Addasrwydd i Ymarfer);
+(i)
+pan y’i hysbysir gan y Tribiwnlys Haen Gyntaf ei fod wedi ystyried apêl gan yr ymarferydd cymwysedig hwnnw yn erbyn cynnwys yr ymarferydd yn amodol yn rhestr atodol y Bwrdd Iechyd Lleol a bod yr ymarferydd hwnnw wedi ei gynnwys yn amodol wrth aros am ganlyniad yr apêl, a bod y Tribiwnlys Haen Gyntaf wedi penderfynu peidio â chynnwys yr ymarferydd cymwysedig yn y rhestr atodol;
+(j)
+pan y’i hysbysir gan y Tribiwnlys Haen Gyntaf ei fod wedi ystyried apêl gan yr ymarferydd cymwysedig hwnnw yn erbyn dileu’r ymarferydd yn ddigwyddiadol o restr atodol y Bwrdd Iechyd Lleol, a bod y Tribiwnlys Haen Gyntaf wedi penderfynu dileu’r ymarferydd cymwysedig o’r rhestr atodol honno yn lle hynny.
+(2) Ac eithrio mewn achos y mae paragraff (1)(c) yn gymwys iddo, pan fo ymarferydd cymwysedig yn cael ei ddileu o restr Bwrdd Iechyd Lleol o dan baragraff (1), rhaid i’r Bwrdd Iechyd Lleol roi gwybod ar unwaith i’r ymarferydd cymwysedig ei fod wedi ei ddileu o’r rhestr honno.
+(3) Caiff Bwrdd Iechyd Lleol ddileu ymarferydd cymwysedig o’i restr offthalmig neu o’i restr atodol (fel y bo’n briodol)—
+(a)
+pan fo’r ymarferydd cymwysedig wedi ei gynnwys yn rhestr offthalmig y Bwrdd Iechyd Lleol ac wedi methu â chydymffurfio â’r telerau gwasanaeth;
+(b)
+pan fo’r ymarferydd cymwysedig wedi methu â chydymffurfio ag amod a osodir o dan reoliad 14;
+(c)
+pan fo’r ymarferydd cymwysedig wedi ei euogfarnu yn y Deyrnas Unedig o drosedd (ac eithrio llofruddiaeth), a gyflawnwyd ar neu ar ôl 30 Gorffennaf 2002 yn achos y rhestr offthalmig, neu ar neu ar ôl 1 Chwefror 2006 yn achos y rhestr atodol, a bo’r ymarferydd cymwysedig wedi ei ddedfrydu i gyfnod hwy na 6 mis o garchar (pa un a yw’n ddedfryd ohiriedig ai peidio);
+(d)
+pan fo’r ymarferydd cymwysedig wedi ei gynnwys yn rhestr atodol y Bwrdd Iechyd Lleol a bod y Bwrdd Iechyd Lleol yn ystyried bod unrhyw un neu ragor o’r amodau a nodir isod wedi ei fodloni mewn perthynas â’r ymarferydd cymwysedig—
+(i)
+y byddai parhau i gynnwys yr ymarferydd cymwysedig hwnnw yn ei restr atodol yn niweidio effeithlonrwydd y gwasanaethau y mae’r rheini sydd wedi eu cynnwys yn y rhestr honno yn cynorthwyo i’w darparu (“achos effeithlonrwydd”);
+(ii)
+bod yr ymarferydd cymwysedig (pa un ai gyda rhywun arall neu ar ei ben ei hun), drwy weithred neu anweithred, wedi achosi, neu wedi peri risg o achosi, niwed i unrhyw gynllun iechyd drwy sicrhau, neu geisio sicrhau, ar ei gyfer ef ei hun neu ar gyfer rhywun arall, unrhyw fudd ariannol neu unrhyw fudd arall ac yn gwybod nad oedd hawlogaeth ganddo ef, na chan y person arall, i’r budd hwnnw (“achos o dwyll”);
+(iii)
+bod yr ymarferydd cymwysedig yn anaddas i’w gynnwys yn y rhan honno o’r rhestr honno (“achos anaddasrwydd”);
+(e)
+yn unol â pharagraffau (4) a (5), pan fo’n penderfynu nad yw ymarferydd cymwysedig sydd wedi ei gynnwys yn rhestr gyfunol y Bwrdd Iechyd Lleol am y deuddeng mis blaenorol wedi darparu (na chynorthwyo i ddarparu, fel y bo’n gymwys) wasanaethau offthalmig sylfaenol ar gyfer personau yn ei ardal o fewn y cyfnod hwnnw.
+(4) Wrth gyfrifo’r cyfnod o ddeuddeng mis y cyfeirir ato ym mharagraff (3)(e), rhaid i’r Bwrdd Iechyd Lleol ddiystyru—
+(a)
+unrhyw gyfnod pan oedd yr ymarferydd cymwysedig wedi ei atal dros dro o restr y Bwrdd Iechyd Lleol;
+(b)
+unrhyw gyfnod pan oedd yr ymarferydd cymwysedig yn cyflawni gwasanaeth amser cyflawn yn y lluoedd arfog mewn argyfwng cenedlaethol (fel gwirfoddolwr neu fel arall), gwasanaeth amser cyflawn gorfodol yn y lluoedd arfog (gan gynnwys gwasanaeth o ganlyniad i unrhyw atebolrwydd i wasanaethu fel aelod wrth gefn), neu unrhyw wasanaeth cyfatebol, os oedd yn atebol am wasanaeth amser cyflawn gorfodol yn y lluoedd arfog;
+(c)
+unrhyw gyfnod y mae’r Bwrdd Iechyd Lleol yn penderfynu’n rhesymol arno.
+(5) Rhaid i Fwrdd Iechyd Lleol sy’n ystyried dileu ymarferydd cymwysedig o’i restr offthalmig neu o’i restr atodol (fel y bo’n briodol) o dan baragraff (3), cyn gwneud y penderfyniad hwnnw, ddilyn y weithdrefn ym mharagraff 12 o Atodlen 3.
+(6) Pan fo Bwrdd Iechyd Lleol yn ystyried dileu ymarferydd o dan adran 107 o’r Ddeddf (anghymhwyso ymarferwyr) neu o dan baragraff (3)(d) o’r rheoliad hwn, rhaid iddo ystyried y ffactorau a nodir ym mharagraffau 14 i 17 o Atodlen 3 sy’n gymwys i’r sail dros ddileu sy’n cael ei hystyried.
+(7) Rhaid i Fwrdd Iechyd Lleol hysbysu’r ymarferydd cymwysedig am ei benderfyniad o dan y rheoliad hwn neu o dan adran 107 o’r Ddeddf o fewn 7 niwrnod gan ddechrau â’r diwrnod y mae’n gwneud y penderfyniad hwnnw.
+(8) Rhaid i’r hysbysiad ym mharagraff (7) gynnwys—
+(a)
+penderfyniad y Bwrdd Iechyd Lleol;
+(b)
+y rhesymau dros y penderfyniad hwnnw (gan gynnwys unrhyw ffeithiau y dibynnwyd arnynt);
+(c)
+manylion ynghylch sut i arfer hawl i apelio o dan reoliad 28;
+(d)
+pan fo paragraff (10) yn gymwys, hysbysiad o’r wybodaeth yn y paragraff hwnnw;
+(e)
+wrth wneud penderfyniad o dan baragraff (3)(d) o’r rheoliad hwn neu o dan adran 107 o’r Ddeddf, yr amod (neu’r amodau) yn rheoliad 17(3)(d) neu yn adran 107 y mae’n dibynnu arno neu arnynt.
+(9) Ni chaiff Bwrdd Iechyd Lleol sy’n penderfynu dileu ymarferydd cymwysedig o’i restr offthalmig neu o’i restr atodol (yn ôl y digwydd) o dan baragraff (3) ddileu’r ymarferydd cymwysedig hwnnw tan y diweddaraf o’r canlynol—
+(a)
+diwedd cyfnod o 28 o ddiwrnodau gan ddechrau â’r diwrnod y mae’r Bwrdd Iechyd Lleol yn gwneud y penderfyniad hwnnw, neu
+(b)
+y dyddiad y mae unrhyw apêl yn cael ei phenderfynu gan y Tribiwnlys Haen Gyntaf.
+(10) Mae paragraff 13 o Atodlen 3 yn gwneud darpariaeth mewn perthynas â’r weithdrefn ar gyfer dileu ymarferwyr o restr offthalmig o dan adran 107 o’r Ddeddf (anghymhwyso ymarferwyr).
+(11) Ni fydd dim yn y rheoliad hwn yn niweidio hawl ymarferydd cymwysedig i’w enw gael ei gynnwys eto mewn rhestr offthalmig neu mewn rhestr atodol.
+(12) Yn y rheoliad hwn—
+mae i “achos iechyd” yr ystyr a roddir i “health case” yn adran 13G(6) o Ddeddf Optegwyr 1989(4) (darpariaethau sy’n atodol i adran 13F);
+ystyr “cynllun iechyd” yw’r gwasanaethau a gwmpesir gan y diffiniad o “health scheme” yn adran 107 o’r Ddeddf (anghymhwyso ymarferwyr) a’r rheini a ragnodir gan reoliad 18.
+(1)
+Mewnosodwyd adran 35D gan erthygl 13 o O.S. 2002/3135, a diwygiwyd teitl yr adran ymhellach gan erthygl 5 o O.S. 2015/794. Diwygiwyd adran 35D(2) gan O.S. 2014/1101, erthygl 7 ac O.S. 2015/794, erthygl 5. Mae diwygiadau eraill i’r adran hon nad ydynt yn berthnasol i’r Rheoliadau hyn.
+(2)
+O.S. 2002/3135, y mae diwygiadau iddo nad ydynt yn berthnasol i’r Rheoliadau hyn.
+(3)
+Ychwanegwyd adran 13F gan O.S. 2005/848, erthygl 16.
+(4)
+Ychwanegwyd adran 13G gan O.S. 2005/848, erthygl 16.Cynlluniau iechyd rhagnodedig
+18.  Mae’r canlynol wedi eu rhagnodi’n gynlluniau iechyd at ddibenion adran 107(7) o’r Ddeddf (anghymhwyso ymarferwyr)—
+(a)
+gwasanaethau iechyd, gan gynnwys triniaeth feddygol, a ddarperir gan Luoedd Ei Fawrhydi;
+(b)
+gwasanaethau a ddarperir gan Awdurdodau Iechyd Porthladd a gyfansoddir o dan Ddeddf Iechyd y Cyhoedd (Rheoli Clefydau) 1984(1);
+(c)
+gwasanaethau iechyd a ddarperir i garcharor sydd yng ngofal swyddog meddygol neu unrhyw swyddog arall o’r fath mewn carchar sydd wedi ei benodi at ddibenion Deddf Carchardai 1952(2);
+(d)
+gwasanaethau iechyd a gyllidir yn gyhoeddus ac a ddarperir gan, neu ar ran, unrhyw sefydliad mewn unrhyw le yn y byd.
+(1)
+1984 p. 22.
+(2)
+1952 p. 52.Dileu ymarferydd yn ddigwyddiadol o restr atodol
+19.—(1) Mewn achos effeithlonrwydd neu achos o dwyll sy’n ymwneud ag ymarferydd cymwysedig yn rhestr atodol Bwrdd Iechyd Lleol, caiff y Bwrdd Iechyd Lleol, yn lle penderfynu dileu ymarferydd cymwysedig o’r rhestr honno, benderfynu dileu’r ymarferydd cymwysedig yn ddigwyddiadol a bydd rheoliad 17(7) ac (8) yn gymwys i’r penderfyniad hwnnw.
+(2) Pan fo Bwrdd Iechyd Lleol yn ystyried dileu ymarferydd cymwysedig yn ddigwyddiadol o dan baragraff (1), rhaid iddo, cyn gwneud y penderfyniad hwnnw, ddilyn y weithdrefn ym mharagraff 12(1) i (3) o Atodlen 3.
+(3) Os yw’n penderfynu felly, rhaid i’r Bwrdd Iechyd Lleol osod unrhyw amodau y caiff benderfynu arnynt o ran cynnwys yr ymarferydd cymwysedig yn ei restr atodol gyda’r bwriad o—
+(a)
+dileu unrhyw niwed i effeithlonrwydd y gwasanaethau o dan sylw (mewn achos effeithlonrwydd), neu
+(b)
+rhwystro gweithredoedd neu anweithredoedd pellach (mewn achos o dwyll).
+(4) Pan fo’r Bwrdd Iechyd Lleol yn penderfynu dileu ymarferydd yn ddigwyddiadol o dan baragraff (1), ni chaiff y penderfyniad hwnnw gymryd effaith tan y diweddaraf o’r canlynol—
+(a)
+diwedd cyfnod o 28 o ddiwrnodau gan ddechrau â’r dyddiad y gwnaeth y Bwrdd Iechyd Lleol ei benderfyniad, neu
+(b)
+y dyddiad y mae unrhyw apêl yn cael ei phenderfynu gan y Tribiwnlys Haen Gyntaf.
+(5) Os yw’r Bwrdd Iechyd Lleol yn penderfynu bod yr ymarferydd cymwysedig wedi methu â chydymffurfio ag amod, caiff benderfynu—
+(a)
+amrywio’r amodau a osodwyd,
+(b)
+gosod amodau newydd, neu
+(c)
+dileu’r ymarferydd cymwysedig o’i restr atodol.
+(6) Yn y rheoliad hwn, mae i “achos effeithlonrwydd” ac “achos o dwyll” yr ystyr a roddir yn rheoliad 17.
+(7) Caiff Bwrdd Iechyd Lleol adolygu ei benderfyniad i ddileu’r ymarferydd cymwysedig yn ddigwyddiadol o dan y rheoliad hwn, ac os gofynnir yn ysgrifenedig gan yr ymarferydd cymwysedig iddo adolygu penderfyniad o’r fath, rhaid iddo wneud hynny.
+(8) Ni chaiff ymarferydd cymwysedig ofyn am adolygiad o dan baragraff (7) tan ar ôl cyfnod o dri mis gan ddechrau â’r dyddiad y mae’r Bwrdd Iechyd Lleol yn cynnwys yr ymarferydd cymwysedig yn ei restr gyfunol.
+(9) Ar ôl i adolygiad ddigwydd, ni chaiff yr ymarferydd cymwysedig ofyn am adolygiad pellach cyn diwedd cyfnod o chwe mis gan ddechrau â dyddiad y penderfyniad ar yr adolygiad blaenorol.
+(10) Pan fo Bwrdd Iechyd Lleol yn adolygu ei benderfyniad o dan y rheoliad hwn, caiff—
+(a)
+amrywio’r amodau a osodir ar yr ymarferydd cymwysedig,
+(b)
+gosod amodau gwahanol ar yr ymarferydd cymwysedig, neu
+(c)
+dileu’r ymarferydd cymwysedig o’i restr atodol.Tynnu’n ôl o restr offthalmig
+20.—(1) Yn ddarostyngedig i reoliad 21, rhaid i ymarferydd cymwysedig roi hysbysiad i Fwrdd Iechyd Lleol ei fod yn dymuno tynnu’n ôl o restr offthalmig y Bwrdd Iechyd Lleol hwnnw.
+(2) Rhaid i ymarferydd cymwysedig roi hysbysiad i’r Bwrdd Iechyd Lleol ei fod yn bwriadu tynnu’n ôl o restr offthalmig y Bwrdd Iechyd Lleol os yw’r ymarferydd cymwysedig hwnnw yn cael ei gynnwys yn rhestr atodol unrhyw Fwrdd Iechyd Lleol.
+(3) Pan fo Bwrdd Iechyd Lleol yn cael hysbysiad gan ymarferydd cymwysedig—
+(a)
+yn unol â pharagraff (1), rhaid iddo ddileu’r ymarferydd cymwysedig o’i restr offthalmig ar y cynharaf o’r canlynol—
+(i)
+y dyddiad sydd dri mis ar ôl dyddiad yr hysbysiad, neu
+(ii)
+y dyddiad y mae’r Bwrdd Iechyd Lleol wedi cytuno y bydd y tynnu’n ôl yn cymryd effaith ohono;
+(b)
+yn unol â pharagraff (2), rhaid iddo ddileu’r ymarferydd cymwysedig o’i restr offthalmig cyn gynted ag y bo’r Bwrdd Iechyd Lleol yn cadarnhau bod yr ymarferydd cymwysedig wedi ei gynnwys mewn rhestr atodol.
+(4) Caiff ymarferydd cymwysedig dynnu’n ôl hysbysiad a roddir yn unol â pharagraff (1) ar unrhyw adeg cyn i’r Bwrdd Iechyd Lleol ddileu ei enw o’i restr offthalmig.
+(5) Ni chaiff ymarferydd cymwysedig dynnu’n ôl hysbysiad a roddir yn unol â pharagraff (2) unwaith bod yr ymarferydd cymwysedig wedi ei gynnwys mewn rhestr atodol.Cyfyngiadau ar dynnu’n ôl o restr offthalmig
+21.—(1) Oni bai bod Gweinidogion Cymru wedi rhoi eu cydsyniad i ymarferydd cymwysedig dynnu’n ôl o restr offthalmig, ni chaiff ymarferydd cymwysedig dynnu’n ôl o restr offthalmig pan fo Bwrdd Iechyd Lleol yn ymchwilio i’r ymarferydd cymwysedig—
+(a)
+at ddiben penderfynu pa un ai i arfer ei bwerau o dan adran 107 (anghymhwyso ymarferwyr), 108 (dileu yn ddigwyddiadol) neu 110 (atal dros dro) o’r Ddeddf ai peidio,
+(b)
+am fethu â chydymffurfio ag amod a osodwyd ar yr ymarferydd o dan reoliad 14 er mwyn cyfiawnhau dileu’r ymarferydd cymwysedig o’i restr offthalmig, neu
+(c)
+sydd wedi ei atal dros dro o dan adran 110(1)(a) o’r Ddeddf,
+hyd nes bod y mater wedi ei benderfynu’n derfynol gan y Bwrdd Iechyd Lleol.
+(2) Oni bai bod Gweinidogion Cymru wedi rhoi eu cydsyniad i’r ymarferydd cymwysedig dynnu’n ôl o restr offthalmig, ni chaiff ymarferydd cymwysedig dynnu’n ôl o restr offthalmig pan fo Bwrdd Iechyd Lleol wedi penderfynu—
+(a)
+dileu’r ymarferydd cymwysedig o’i restr offthalmig o dan adran 107 neu 108 o’r Ddeddf,
+(b)
+dileu’r ymarferydd cymwysedig yn ddigwyddiadol o dan adran 108 o’r Ddeddf, neu
+(c)
+dileu’r ymarferydd cymwysedig am dorri amod a osodwyd ar gynnwys yr ymarferydd o dan y Rheoliadau hyn,
+ond nad yw wedi rhoi effaith i’r penderfyniad hwnnw eto.
+(3) Pan fo Bwrdd Iechyd Lleol wedi atal dros dro ymarferydd cymwysedig o dan adran 110(1)(b), ni chaiff yr ymarferydd cymwysedig dynnu’n ôl o restr offthalmig hyd nes bod penderfyniad y llys neu’r corff perthnasol yn hysbys a bod y mater wedi ei ystyried ac wedi ei benderfynu’n derfynol gan y Bwrdd Iechyd Lleol.
+(4) Ni chaiff y Bwrdd Iechyd Lleol gytuno i ymarferydd cymwysedig dynnu’n ôl o’i restr offthalmig oni bai ei fod wedi ei fodloni bod trefniadau boddhaol wedi eu gwneud ar gyfer cwblhau unrhyw wasanaethau offthalmig sylfaenol y mae’r ymarferydd cymwysedig wedi ymgymryd â’u darparu.Tynnu’n ôl o restr atodol
+22.—(1) Rhaid i ymarferydd cymwysedig, cyhyd ag y bo’n ymarferol, roi i’r Bwrdd Iechyd Lleol o leiaf dri mis o rybudd cyn y diwrnod y mae’r ymarferydd cymwysedig yn bwriadu tynnu’n ôl o’i restr atodol.
+(2) Rhaid i ymarferydd cymwysedig roi hysbysiad i’r Bwrdd Iechyd Lleol ei fod yn bwriadu tynnu’n ôl o restr atodol y Bwrdd Iechyd Lleol os yw’r ymarferydd cymwysedig hwnnw yn cael ei gynnwys—
+(a)
+yn rhestr offthalmig y Bwrdd Iechyd Lleol hwnnw,
+(b)
+yn rhestr offthalmig unrhyw Fwrdd Iechyd Lleol arall, neu
+(c)
+yn rhestr atodol unrhyw Fwrdd Iechyd Lleol arall.
+(3) Pan fydd Bwrdd Iechyd Lleol yn cael hysbysiad gan ymarferydd cymwysedig—
+(a)
+yn unol â pharagraff (1), rhaid iddo ddileu’r ymarferydd cymwysedig o’i restr atodol ar y cynharaf o’r canlynol—
+(i)
+y dyddiad sydd dri mis ar ôl dyddiad yr hysbysiad, neu
+(ii)
+y dyddiad y mae’r Bwrdd Iechyd Lleol wedi cytuno y bydd y tynnu’n ôl yn cymryd effaith ohono;
+(b)
+yn unol â pharagraff (2), rhaid iddo ddileu’r ymarferydd cymwysedig o’i restr atodol cyn gynted ag y bo’r Bwrdd Iechyd Lleol yn cadarnhau bod yr ymarferydd cymwysedig wedi cael ei gynnwys mewn rhestr arall y cyfeirir ati ym mharagraff (2).
+(4) Caiff ymarferydd cymwysedig dynnu’n ôl hysbysiad a roddir yn unol â pharagraff (1) ar unrhyw adeg cyn i’r Bwrdd Iechyd Lleol ddileu ei enw o’i restr atodol.
+(5) Ni chaiff ymarferydd cymwysedig dynnu’n ôl hysbysiad a roddir yn unol â pharagraff (2) unwaith bod yr ymarferydd cymwysedig wedi ei gynnwys yn y rhestr arall honno.Atal dros dro o restr atodol
+23.—(1) Os yw’r Bwrdd Iechyd Lleol wedi ei fodloni ei bod yn angenrheidiol gwneud hynny er mwyn diogelu aelodau o’r cyhoedd neu ei bod fel arall er budd y cyhoedd, caiff atal dros dro ymarferydd cymwysedig o’i restr atodol—
+(a)
+tra bo’r Bwrdd yn penderfynu pa un ai i ddileu’r ymarferydd cymwysedig o’i restr atodol o dan reoliad 17 ai peidio neu ddileu’r ymarferydd cymwysedig yn ddigwyddiadol o’i restr atodol o dan reoliad 19;
+(b)
+tra bo’r Bwrdd yn aros am benderfyniad gan gorff trwyddedu neu reoleiddio neu gan lys mewn unrhyw le yn y byd sy’n effeithio ar yr ymarferydd cymwysedig;
+(c)
+pan fo wedi penderfynu dileu’r ymarferydd, ond cyn i’r penderfyniad hwnnw gymryd effaith;
+(d)
+wrth aros am apêl o dan y Rheoliadau hyn.
+(2) Mewn achos sy’n dod o fewn paragraff (1)(a), rhaid i’r Bwrdd Iechyd Lleol bennu cyfnod, nad yw’n hwy na chwe mis, yn gyfnod yr ataliad dros dro.
+(3) Mewn achos sy’n dod o fewn paragraff (1)(b), caiff y Bwrdd Iechyd Lleol bennu bod yr ymarferydd cymwysedig yn parhau i fod wedi ei atal dros dro, ar ôl i’r penderfyniad y cyfeirir ato yn yr is-baragraff hwnnw gael ei wneud, am gyfnod ychwanegol nad yw’n hwy na chwe mis.
+(4) Yn ddarostyngedig i baragraff (5), caiff y Bwrdd Iechyd Lleol estyn cyfnod yr ataliad dros dro o dan baragraff (2) neu osod cyfnod pellach o ataliad dros dro o dan baragraff (3), ar yr amod nad yw’r cyfnod cyfanredol yn hwy na chwe mis.
+(5) Caniateir i’r cyfnod atal dros dro o dan baragraff (2) neu (3) gael ei estyn y tu hwnt i chwe mis—
+(a)
+os yw’r Tribiwnlys Haen Gyntaf, yn dilyn cais gan y Bwrdd Iechyd Lleol, yn gorchymyn gwneud hynny, neu
+(b)
+os gwnaed cais gan y Bwrdd Iechyd Lleol o dan is-baragraff (a) cyn i’r cyfnod atal dros dro ddod i ben, ond nad yw’r Tribiwnlys Haen Gyntaf wedi gwneud gorchymyn erbyn iddo ddod i ben, ac yn yr achos hwnnw mae’r cyfnod yn parhau hyd nes i’r Tribiwnlys Haen Gyntaf wneud gorchymyn.
+(6) Os yw’r Tribiwnlys Haen Gyntaf yn gorchymyn felly, rhaid iddo bennu—
+(a)
+y dyddiad y mae’r cyfnod atal dros dro i ddod i ben,
+(b)
+digwyddiad nad yw i barhau y tu hwnt iddo, neu
+(c)
+y naill a’r llall o’r uchod, ac yn yr achos hwnnw bydd yr ataliad dros dro yn dod i ben ar y cynharaf o’r dyddiad neu’r digwyddiad a bennir, yn ôl y digwydd.
+(7) Caiff y Tribiwnlys Haen Gyntaf, yn dilyn cais gan y Bwrdd Iechyd Lleol, wneud gorchymyn pellach, y mae rhaid iddo hefyd gydymffurfio â pharagraff (6), ar unrhyw adeg tra bo’r cyfnod atal dros dro, yn unol â’r gorchymyn cynharach, yn parhau o hyd.
+(8) Os yw’r Bwrdd Iechyd Lleol yn atal dros dro ymarferydd cymwysedig mewn achos sy’n dod o fewn paragraff (1)(c) neu (d), mae’r ataliad dros dro yn cael effaith o’r dyddiad y rhoddwyd gwybod i’r ymarferydd cymwysedig gan y Bwrdd Iechyd Lleol am yr ataliad dros dro a bydd yn parhau hyd nes—
+(a)
+mewn achos sy’n dod o fewn paragraff (1)(c), i’r penderfyniad gymryd effaith, neu
+(b)
+mewn achos sy’n dod o fewn paragraff (1)(d), fod y Tribiwnlys Haen Gyntaf wedi penderfynu’r apêl.
+(9) Tra bo ymarferydd cymwysedig wedi ei atal dros dro o dan y Rheoliadau hyn, rhaid trin yr ymarferydd cymwysedig hwnnw fel pe na bai wedi ei gynnwys yn rhestr atodol y Bwrdd Iechyd Lleol hwnnw, er bod ei enw yn ymddangos ynddi.
+(10) Caiff Bwrdd Iechyd Lleol adolygu ei benderfyniad i atal dros dro yr ymarferydd cymwysedig o dan baragraff (1)(a) neu (b) o’r rheoliad hwn, ac os gofynnir yn ysgrifenedig gan yr ymarferydd cymwysedig iddo adolygu penderfyniad o’r fath, rhaid iddo wneud hynny.
+(11) Ni chaiff ymarferydd cymwysedig ofyn am adolygiad o dan baragraff (10) tan ar ôl cyfnod o dri mis gan ddechrau â’r dyddiad y mae’r Bwrdd Iechyd Lleol yn cynnwys yr ymarferydd cymwysedig yn ei restr gyfunol.
+(12) Ar ôl i adolygiad ddigwydd, ni chaiff yr ymarferydd cymwysedig ofyn am adolygiad pellach cyn diwedd cyfnod o chwe mis gan ddechrau â dyddiad y penderfyniad ar yr adolygiad blaenorol.
+(13) Pan fo Bwrdd Iechyd Lleol yn penderfynu adolygu ei benderfyniad i atal dros dro ymarferydd o dan baragraff (1)(c) neu (d) o’r rheoliad hwn, caiff benderfynu gosod amodau neu ddileu’r ymarferydd o’i restr atodol.Y weithdrefn wrth atal dros dro o restr gyfunol
+24.—(1) Pan fo Bwrdd Iechyd Lleol yn ystyried atal dros dro ymarferydd cymwysedig o dan reoliad 23 o’r Rheoliadau hyn, neu adran 110 (atal dros dro) neu 111(1) (atal dros dro wrth aros am apêl) o’r Ddeddf, neu amrywio cyfnod yr ataliad dros dro o dan reoliad 23 o’r Rheoliadau hyn, neu o dan adran 110 o’r Ddeddf, rhaid i’r Bwrdd Iechyd Lleol roi i’r ymarferydd cymwysedig—
+(a)
+hysbysiad am unrhyw honiad yn erbyn yr ymarferydd cymwysedig;
+(b)
+hysbysiad am y camau gweithredu y mae’r Bwrdd Iechyd Lleol yn eu hystyried ac ar ba sail;
+(c)
+y cyfle i gyflwyno sylwadau ysgrifenedig i’r Bwrdd Iechyd Lleol o fewn 28 o ddiwrnodau i ddyddiad yr hysbysiad o dan is-baragraff (b) (“y cyfnod penodedig”);
+(d)
+y cyfle i gyflwyno sylwadau mewn gwrandawiad llafar gerbron y Bwrdd Iechyd Lleol o fewn y cyfnod penodedig os yw’r ymarferydd cymwysedig yn gofyn am wrandawiad o’r fath.
+(2) Caiff y Bwrdd Iechyd Lleol atal dros dro yr ymarferydd cymwysedig gydag effaith ar unwaith—
+(a)
+os nad yw’n cyflwyno unrhyw sylwadau ysgrifenedig o fewn y cyfnod penodedig ac nad yw’n gofyn am wrandawiad llafar, neu
+(b)
+os nad yw’n bresennol mewn unrhyw wrandawiad llafar a drefnir.
+(3) Os yw’r ymarferydd cymwysedig yn gofyn am wrandawiad llafar, rhaid i’r gwrandawiad ddigwydd o fewn y cyfnod penodedig a chyn i’r Bwrdd Iechyd Lleol ddod i’w benderfyniad.
+(4) Os yw’r ymarferydd cymwysedig yn cyflwyno sylwadau ysgrifenedig neu os yw gwrandawiad llafar yn digwydd, rhaid i’r Bwrdd Iechyd Lleol ystyried unrhyw sylwadau a gyflwynir cyn dod i’w benderfyniad.
+(5) Caiff y Bwrdd Iechyd Lleol atal dros dro yr ymarferydd cymwysedig gydag effaith ar unwaith yn dilyn unrhyw wrandawiad.
+(6) Rhaid i’r Bwrdd Iechyd Lleol hysbysu’r ymarferydd cymwysedig am ei benderfyniad a’r rhesymau drosto (gan gynnwys unrhyw ffeithiau y dibynnwyd arnynt) o fewn 7 niwrnod gan ddechrau â’r diwrnod y gwneir ei benderfyniad.
+(7) Pan fydd y Bwrdd Iechyd Lleol yn hysbysu’r ymarferydd cymwysedig o dan baragraff (6), rhaid iddo hefyd roi gwybod i’r ymarferydd cymwysedig am unrhyw hawl i gael adolygiad o’r penderfyniad hwnnw o dan y Ddeddf (yn achos atal dros dro o’r rhestr offthalmig) neu o dan reoliad 23 o’r Rheoliadau hyn (yn achos atal dros dro o’r rhestr atodol).
+(1)
+Diwygiwyd adran 111 gan O.S. 2010/22, Atodlen 2, paragraff 136.Aildderbyn
+25.—(1) Mae paragraff (2) yn gymwys pan—
+(a)
+bo ymarferydd cymwysedig wedi ei ddileu o restr gyfunol gan Fwrdd Iechyd Lleol ar y sail bod yr ymarferydd cymwysedig wedi ei euogfarnu o drosedd, a
+(b)
+bo’r euogfarn honno wedi cael ei gwrthdroi yn dilyn apêl.
+(2) Caiff y Bwrdd Iechyd Lleol gytuno i gynnwys yr ymarferydd cymwysedig yn ei restr gyfunol heb i’r ymarferydd cymwysedig hwnnw wneud cais o dan reoliad 12 os yw’r Bwrdd—
+(a)
+wedi ei fodloni nad oes unrhyw faterion eraill y mae angen eu hystyried, a
+(b)
+wedi cael ymgymeriad i gydymffurfio â gofynion y Rheoliadau hyn gan yr ymarferydd cymwysedig.
+(3) Pan fo’r euogfarn a grybwyllir ym mharagraff (1) yn cael ei hadfer yn dilyn apêl bellach—
+(a)
+bydd penderfyniad blaenorol y Bwrdd Iechyd Lleol i ddileu’r ymarferydd cymwysedig o’i restr gyfunol yn cael effaith unwaith eto, a
+(b)
+rhaid i’r Bwrdd Iechyd Lleol ddileu’r ymarferydd cymwysedig o’i restr gyfunol.Hysbysiadau i Fyrddau Iechyd Lleol
+26.—(1) Rhaid i ymarferydd cymwysedig sydd wedi ei gynnwys yn rhestr gyfunol Bwrdd Iechyd Lleol hysbysu’r Bwrdd Iechyd Lleol hwnnw o fewn 14 o ddiwrnodau am unrhyw ddigwyddiad sy’n ei gwneud yn ofynnol newid yr wybodaeth y mae’n ofynnol i’r rhestr honno ei chynnwys mewn perthynas ag ef.
+(2) Rhaid i ymarferydd cymwysedig sydd wedi ei gynnwys yn rhestr atodol Bwrdd Iechyd Lleol hysbysu’r Bwrdd Iechyd Lleol hwnnw o fewn 14 o ddiwrnodau am unrhyw newid i’w gyfeiriad preifat.
+(3) Pan fo Bwrdd Iechyd Lleol yn cael hysbysiad gan ymarferydd cymwysedig yn unol â pharagraff (1) neu (2), rhaid iddo ddiwygio ei restr gyfunol cyn gynted ag y bo modd.Hysbysiadau gan Fyrddau Iechyd Lleol
+27.—(1) Rhaid i Fwrdd Iechyd Lleol hysbysu’r personau neu’r cyrff a bennir ym mharagraff (2) ac yn ychwanegol, hysbysu’r rheini a gynhwysir ym mharagraff (3), os gofynnir iddo wneud hynny gan y personau hynny neu’r cyrff hynny yn ysgrifenedig, am y materion a nodir ym mharagraff (4), pan fo’r Bwrdd Iechyd Lleol hwnnw yn penderfynu—
+(a)
+gwrthod cynnwys ymarferydd cymwysedig yn ei restr gyfunol o dan reoliad 15;
+(b)
+gosod amodau ar gynnwys yr ymarferydd cymwysedig mewn rhestr gyfunol o dan reoliad 14;
+(c)
+dileu’r ymarferydd cymwysedig o’i restr offthalmig o dan adran 107 o’r Ddeddf (anghymhwyso ymarferwyr) neu o’i restr offthalmig neu atodol o dan reoliad 17;
+(d)
+dileu’r ymarferydd cymwysedig yn ddigwyddiadol o’i restr offthalmig o dan adran 108 o’r Ddeddf neu o’i restr atodol o dan reoliad 19;
+(e)
+atal dros dro yr ymarferydd cymwysedig o’i restr offthalmig o dan adran 110 neu 111 o’r Ddeddf neu o’i restr atodol o dan reoliad 23.
+(2) Pan fo paragraff (1) yn gymwys, rhaid i Fwrdd Iechyd Lleol, o fewn 7 niwrnod gan ddechrau â dyddiad y penderfyniad hwnnw, hysbysu—
+(a)
+Gweinidogion Cymru;
+(b)
+unrhyw Fwrdd Iechyd Lleol neu gorff cyfatebol sydd, hyd eithaf gwybodaeth y Bwrdd Iechyd Lleol—
+(i)
+wedi cynnwys yr ymarferydd cymwysedig mewn rhestr gofal sylfaenol neu restr gyfatebol;
+(ii)
+yn ystyried cais gan yr ymarferydd cymwysedig i’w gynnwys mewn rhestr gofal sylfaenol neu restr gyfatebol;
+(iii)
+ag unrhyw fan yn ei ardal lle y mae’r ymarferydd cymwysedig yn darparu gwasanaethau offthalmig sylfaenol neu’n cynorthwyo i ddarparu’r gwasanaethau hynny;
+(c)
+yr Ysgrifennydd Gwladol;
+(d)
+Gweinidogion yr Alban;
+(e)
+Gweithrediaeth Gogledd Iwerddon;
+(f)
+y Cyngor Meddygol Cyffredinol, y Cyngor Optegol Cyffredinol neu unrhyw gorff rheoleiddio priodol arall;
+(g)
+NHS Resolution;
+(h)
+unrhyw sefydliad arall sydd, hyd eithaf gwybodaeth y Bwrdd Iechyd Lleol, yn cyflogi’r ymarferydd cymwysedig neu’n defnyddio unrhyw un neu ragor o’i wasanaethau mewn swyddogaeth broffesiynol;
+(i)
+pan fo’n achos o dwyll o fewn ystyr adran 107(3) o’r Ddeddf, Awdurdod Gwrth-dwyll y GIG.
+(3) Y personau neu’r cyrff sydd i’w hysbysu yn ychwanegol, yn unol â pharagraff (1), yw—
+(a)
+personau neu gyrff a all gadarnhau—
+(i)
+eu bod, neu y buont, yn cyflogi’r ymarferydd cymwysedig, eu bod yn defnyddio neu wedi defnyddio unrhyw un neu ragor o wasanaethau’r ymarferydd cymwysedig mewn swyddogaeth broffesiynol, neu
+(ii)
+eu bod yn ystyried cyflogi’r ymarferydd cymwysedig neu ddefnyddio unrhyw un neu ragor o wasanaethau’r ymarferydd cymwysedig mewn swyddogaeth broffesiynol;
+(b)
+partneriaeth y mae unrhyw un neu ragor o’i haelodau yn darparu neu’n cynorthwyo i ddarparu gwasanaethau offthalmig sylfaenol, ac sy’n gallu cadarnhau bod yr ymarferydd cymwysedig, neu y bu’r ymarferydd cymwysedig, yn aelod o’r bartneriaeth, neu fod y bartneriaeth yn ystyried gwahodd yr ymarferydd cymwysedig i fod yn aelod o’r fath.
+(4) Y materion y cyfeirir atynt ym mharagraff (1) yw—
+(a)
+enw, cyfeiriad a, phan fo’n gymwys, ddyddiad geni’r ymarferydd cymwysedig ac, yn achos optegydd corfforedig, enwau, cyfeiriadau a dyddiadau geni ei gyfarwyddwyr, ac yn achos cyfarwyddwr sy’n aelod o broffesiwn a reoleiddir gan gorff sydd am y tro yn cael ei grybwyll yn adran 25(3) o Ddeddf Diwygio’r Gwasanaeth Iechyd Gwladol a Phroffesiynau Gofal Iechyd 2002(1) (yr Awdurdod Safonau Proffesiynol ar gyfer Iechyd a Gofal Cymdeithasol), y ffaith honno a rhif cofrestru’r unigolyn gyda’r corff hwnnw,
+(b)
+rhif cofrestru proffesiynol yr ymarferydd cymwysedig,
+(c)
+dyddiad penderfyniad y Bwrdd Iechyd Lleol a chopi o’r penderfyniad, a
+(d)
+enw person cyswllt yn y Bwrdd Iechyd Lleol ar gyfer ymholiadau pellach.
+(5) Rhaid i’r Bwrdd Iechyd Lleol anfon at yr ymarferydd cymwysedig o dan sylw gopi o unrhyw wybodaeth am yr ymarferydd hwnnw y mae wedi ei darparu i’r personau neu’r cyrff a restrir ym mharagraff (2) neu (3), ac unrhyw ohebiaeth gyda’r person hwnnw neu’r corff hwnnw sy’n ymwneud â’r wybodaeth honno.
+(6) Pan fo’r Bwrdd Iechyd Lleol wedi hysbysu unrhyw un neu ragor o’r personau neu’r cyrff a bennir ym mharagraff (2) neu (3) am y materion a nodir ym mharagraff (4), caiff y Bwrdd Iechyd Lleol, yn ychwanegol, os gofynnir iddo wneud hynny gan y person hwnnw neu’r corff hwnnw, hysbysu’r person hwnnw neu’r corff hwnnw am unrhyw dystiolaeth a ystyriwyd, gan gynnwys unrhyw sylwadau gan yr ymarferydd.
+(7) Pan fo Bwrdd Iechyd Lleol yn cael ei hysbysu gan y Tribiwnlys Haen Gyntaf fod y Tribiwnlys wedi gosod anghymhwysiad cenedlaethol ar ymarferydd cymwysedig yr oedd y Bwrdd Iechyd Lleol wedi ei ddileu o’i restr gyfunol, neu a oedd yn gwneud cais, neu a oedd wedi gwneud cais, i gael ei gynnwys yn y rhestr honno, rhaid i’r Bwrdd Iechyd Lleol hysbysu’r personau neu’r cyrff a restrir ym mharagraff (2)(b), (g), (h) ac (i) a pharagraff (3).
+(8) Pan fo penderfyniad yn cael ei newid o ganlyniad i adolygiad neu apêl, neu pan fo ataliad dros dro yn darfod, rhaid i’r Bwrdd Iechyd Lleol hysbysu’r personau neu’r cyrff a hysbyswyd am y penderfyniad gwreiddiol, ynghylch y penderfyniad diweddarach neu ynghylch y ffaith bod yr ataliad dros dro wedi darfod.
+(1)
+2002 p. 17; diwygiwyd adran 25(3) gan baragraff 17(2) a (3) o Atodlen 10 i Ddeddf Iechyd a Gofal Cymdeithasol 2008 (p. 14), gan baragraff 10(2) o Atodlen 4 i O.S. 2010/231, gan baragraff 56(b) o Atodlen 15 i Ddeddf Iechyd a Gofal Cymdeithasol 2012 (p. 7) a chan baragraff 2(2) o Atodlen 4 i Ddeddf Plant a Gwaith Cymdeithasol 2017 (p. 16).Apêl i’r Tribiwnlys Haen Gyntaf
+28.—(1) Caiff ymarferydd cymwysedig apelio i’r Tribiwnlys Haen Gyntaf yn erbyn penderfyniad gan y Bwrdd Iechyd Lleol—
+(a)
+i wrthod cynnwys yr ymarferydd cymwysedig yn ei restr gyfunol o dan reoliad 13, ac eithrio mewn achos y mae unrhyw un neu ragor o’r seiliau ym mharagraff 8 o Atodlen 3 yn gymwys iddo;
+(b)
+a nodir yn rheoliad 14(7) (cynnwys ymarferydd yn amodol);
+(c)
+i ddileu’r ymarferydd cymwysedig o’i restr gyfunol o dan reoliad 17;
+(d)
+i ddileu’r ymarferydd cymwysedig yn ddigwyddiadol o’i restr atodol o dan reoliad 19;
+(e)
+ar unrhyw adolygiad o benderfyniad cynharach o’r fath gan y Bwrdd Iechyd Lleol o dan y Rheoliadau hyn.
+(2) Nid yw’r cyfeiriad ym mharagraff (1)(c) at benderfyniad i ddileu ymarferydd cymwysedig o dan reoliad 17 yn cynnwys dileu ymarferydd cymwysedig yn unol â rheoliad 17(1)(c).
+(3) Mae unrhyw apêl o dan y rheoliad hwn i fod ar ffurf ailbenderfynu.
+(4) Yn dilyn apêl, caiff y Tribiwnlys Haen Gyntaf wneud unrhyw benderfyniad y gallai’r Bwrdd Iechyd Lleol fod wedi ei wneud.
+(5) Pan fo’r Tribiwnlys Haen Gyntaf yn penderfynu yn dilyn apêl fod cynnwys yr ymarferydd yn y rhestr gyfunol yn gorfod bod yn ddarostyngedig i amodau, pa un a yw’r amodau hynny yn union yr un fath â’r amodau a osodir gan y Bwrdd Iechyd Lleol ai peidio, rhaid i’r Bwrdd Iechyd Lleol ofyn i’r ymarferydd cymwysedig ei hysbysu o fewn 28 o ddiwrnodau i’r penderfyniad (neu unrhyw gyfnod hwy y mae’r Bwrdd Iechyd Lleol yn cytuno arno) a yw’r ymarferydd cymwysedig yn dymuno cael ei gynnwys yn y rhestr gyfunol yn ddarostyngedig i’r amodau hynny.
+(6) Os yw’r ymarferydd cymwysedig yn hysbysu’r Bwrdd Iechyd Lleol bod yr ymarferydd cymwysedig yn dymuno cael ei gynnwys yn y rhestr gyfunol yn ddarostyngedig i’r amodau, rhaid i’r Bwrdd Iechyd Lleol gynnwys yr ymarferydd felly.
+(7) Pan fo’r Tribiwnlys Haen Gyntaf, yn dilyn apêl, yn penderfynu dileu ymarferydd yn ddigwyddiadol o dan y Rheoliadau hyn—
+(a)
+caiff y naill neu’r llall o’r Bwrdd Iechyd Lleol a’r ymarferydd cymwysedig wneud cais i’r Tribiwnlys Haen Gyntaf i amrywio’r amodau sydd wedi eu gosod ar yr ymarferydd cymwysedig, i osod amodau gwahanol, neu i ddirymu’r dileu digwyddiadol;
+(b)
+caiff y Bwrdd Iechyd Lleol ddileu’r ymarferydd cymwysedig o’i restr gyfunol os yw’n penderfynu bod yr ymarferydd wedi methu â chydymffurfio ag amod.
+(8) Rhaid arfer unrhyw hawl i apelio o dan y rheoliad hwn o fewn 28 o ddiwrnodau gan ddechrau â’r dyddiad y rhoddwyd hysbysiad am y penderfyniad perthnasol i’r ymarferydd cymwysedig.Y weithdrefn wrth adolygu penderfyniad gan Fwrdd Iechyd Lleol
+29.—(1) Pan fo Bwrdd Iechyd Lleol yn adolygu ei benderfyniad o dan reoliad 14, 19 neu 23, rhaid i’r Bwrdd Iechyd Lleol roi i’r ymarferydd cymwysedig—
+(a)
+hysbysiad ei fod yn bwriadu adolygu ei benderfyniad;
+(b)
+hysbysiad am unrhyw honiad yn erbyn yr ymarferydd cymwysedig;
+(c)
+hysbysiad am y camau gweithredu y mae’n ystyried eu cymryd ac ar ba sail;
+(d)
+y cyfle i gyflwyno sylwadau ysgrifenedig i’r Bwrdd Iechyd Lleol o fewn 28 o ddiwrnodau i ddyddiad yr hysbysiad o dan is-baragraff (b) (“y cyfnod penodedig”);
+(e)
+y cyfle i gyflwyno sylwadau mewn gwrandawiad llafar gerbron y Bwrdd Iechyd Lleol o fewn y cyfnod penodedig os yw’r ymarferydd yn gofyn am wrandawiad o’r fath.
+(2) Os yw’r ymarferydd cymwysedig yn gofyn am wrandawiad llafar, rhaid i’r gwrandawiad ddigwydd o fewn y cyfnod penodedig a chyn i’r Bwrdd Iechyd Lleol ddod i’w benderfyniad.
+(3) Os yw’r ymarferydd cymwysedig yn cyflwyno sylwadau ysgrifenedig neu os yw gwrandawiad llafar yn digwydd, rhaid i’r Bwrdd Iechyd Lleol ystyried unrhyw sylwadau a gyflwynir cyn dod i’w benderfyniad.
+(4) Rhaid i’r Bwrdd Iechyd Lleol hysbysu’r ymarferydd cymwysedig am ei benderfyniad a’r rhesymau drosto (gan gynnwys unrhyw ffeithiau y dibynnwyd arnynt) o fewn 7 niwrnod gan ddechrau â’r diwrnod y gwneir ei benderfyniad.
+(5) Pan fydd y Bwrdd Iechyd Lleol yn hysbysu’r ymarferydd cymwysedig o dan baragraff (4), rhaid iddo hefyd, pan fo’n gymwys, roi gwybod i’r ymarferydd cymwysedig—
+(a)
+am unrhyw hawl i apelio o dan reoliad 28;
+(b)
+bod gan yr ymarferydd cymwysedig 28 o ddiwrnodau, gan ddechrau â’r dyddiad y rhoddodd y Bwrdd Iechyd Lleol hysbysiad am y penderfyniad, i arfer yr hawl honno;
+(c)
+sut i arfer yr hawl honno i apelio.Cyfnodau adolygu ar gyfer anghymhwysiad cenedlaethol
+30.—(1) Os bydd y Tribiwnlys Haen Gyntaf, wrth wneud penderfyniad i osod anghymhwysiad cenedlaethol, yn datgan ei fod o’r farn bod ymddygiad troseddol neu broffesiynol yr optometrydd neu’r ymarferydd meddygol offthalmig o’r fath fel nad oes rhagolwg realistig i adolygiad pellach fod yn llwyddiannus os cynhelir un o fewn y cyfnod a bennir yn adran 115(8)(a) o’r Ddeddf, rhaid darllen y cyfeiriad at “two years” yn y ddarpariaeth honno fel cyfeiriad at 5 mlynedd.
+(2) Os oedd yr optometrydd neu’r ymarferydd meddygol offthalmig, yn dilyn yr adolygiad diwethaf gan y Tribiwnlys Haen Gyntaf o anghymhwysiad cenedlaethol, yn aflwyddiannus, a bod y Tribiwnlys Haen Gyntaf yn datgan ei fod o’r farn nad oes rhagolwg realistig i adolygiad pellach fod yn llwyddiannus os cynhelir un o fewn cyfnod o 3 blynedd gan ddechrau â dyddiad ei benderfyniad ar yr adolygiad hwnnw, rhaid darllen y cyfeiriad at “one year” yn adran 115(8)(b) o’r Ddeddf fel cyfeiriad at 3 blynedd.
+(3) Os bydd y Tribiwnlys Haen Gyntaf yn datgan ei fod o’r farn, oherwydd bod euogfarn droseddol a ystyriwyd gan y Tribiwnlys Haen Gyntaf wrth ddod i’w benderfyniad wedi ei diddymu neu fod y gosb wedi ei lleihau yn dilyn apêl, fod angen cynnal adolygiad ar unwaith, rhaid darllen y cyfeiriadau at “two years” a “one year” yn adran 115(8) o’r Ddeddf fel cyfeiriadau at y cyfnod sydd eisoes wedi dod i ben.
+(4) Os yw’r Tribiwnlys Haen Gyntaf o’r farn, oherwydd bod penderfyniad corff trwyddedu, corff rheoleiddio neu gorff arall wedi ei ddiddymu neu fod y gosb wedi ei lleihau yn dilyn apêl, fod angen cynnal adolygiad ar unwaith, rhaid darllen y cyfeiriadau at “two years” a “one year” yn adran 115(8) o’r Ddeddf fel cyfeiriadau at y cyfnod sydd eisoes wedi dod i ben.Y Datganiad
+31.—(1) Yn y Rheoliadau hyn, mae cyfeiriadau at “y Datganiad” yn gyfeiriadau at benderfyniad gan Weinidogion Cymru, o dan adran 76 o’r Ddeddf, ynghylch y tâl sydd i’w dalu i’r rheini sy’n darparu gwasanaethau offthalmig cyffredinol.
+(2) Rhaid i Weinidogion Cymru gyhoeddi’r Datganiad.
+(3) Yn ddarostyngedig i is-baragraff (4), caiff y Datganiad ddarparu ei fod yn cael effaith mewn perthynas â thâl mewn cysylltiad â chyfnod sy’n dechrau ar neu ar ôl dyddiad a bennir yn y Datganiad, a all fod yn ddyddiad y Datganiad neu’n ddyddiad cynharach neu hwyrach.
+(4) Ni chaiff y Datganiad ond darparu ar gyfer talu taliadau mewn cysylltiad â chyfnod sy’n dechrau â dyddiad cynharach na dyddiad y Datganiad os nad yw gwneud hynny yn niweidiol i’r personau y mae’n ymwneud â’u tâl.
+(5) Pan na fo’r Datganiad yn pennu dyddiad, mae’n cael effaith mewn perthynas â thâl mewn cysylltiad â chyfnod sy’n dechrau ar y dyddiad y cyhoeddir y Datganiad.Trefniadau ar gyfer darparu gwasanaethau offthalmig sylfaenol
+32.  Rhaid i drefniadau Bwrdd Iechyd Lleol ar gyfer darparu gwasanaethau offthalmig sylfaenol ymgorffori—
+(a)
+y telerau gwasanaeth,
+(b)
+y Datganiad (y mae’n ofynnol i’r Bwrdd Iechyd Lleol wneud taliadau yn unol ag ef i gontractwyr am ddarparu gwasanaethau offthalmig cyffredinol), ac
+(c)
+unrhyw gyfarwyddydau a roddir gan Weinidogion Cymru o dan adran 12(3) o’r Ddeddf (swyddogaethau Byrddau Iechyd Lleol) sy’n ymwneud â thâl am ddarparu gwasanaethau archwilio llygaid neu am gydymffurfio â darpariaethau eraill yn y telerau gwasanaeth (y mae’n ofynnol i’r Bwrdd Iechyd Lleol wneud taliadau yn unol â hwy i gontractwyr) (gyda’i gilydd, y “cyfarwyddydau ffioedd”).Taliadau am wasanaethau rhannol
+33.—(1) Rhaid i gontractwr nad yw’n gallu cwblhau’r gwasanaethau offthalmig cyffredinol neu’r gwasanaethau archwilio llygaid y mae wedi ymgymryd â’u darparu ar gyfer claf roi gwybod i’r Bwrdd Iechyd Lleol yn ysgrifenedig yn unol â hynny.
+(2) Os yw’r Bwrdd Iechyd Lleol wedi ei fodloni bod achos rhesymol dros yr analluogrwydd i gwblhau’r gwasanaethau offthalmig cyffredinol neu’r gwasanaethau archwilio llygaid, rhaid iddo wneud taliad yn unol â’r Datganiad neu’r cyfarwyddydau ffioedd perthnasol (fel y bo’n briodol) i’r contractwr am unrhyw ran o’r gwasanaethau hynny y mae’r contractwr wedi ei darparu.Taliadau i ymarferwyr cymwysedig sydd wedi eu hatal dros dro
+34.—(1) Rhaid i Fwrdd Iechyd Lleol wneud taliadau i ymarferwyr cymwysedig, neu mewn cysylltiad ag ymarferwyr cymwysedig, sydd wedi eu hatal dros dro o’i restr gyfunol o dan y Ddeddf neu o dan reoliad 23 yn unol â phenderfyniad gan Weinidogion Cymru mewn perthynas â thaliadau o’r fath.
+(2) Rhaid i Weinidogion Cymru—
+(a)
+gwneud y penderfyniad yn unol â pharagraff (3) ar ôl ymgynghori â chorff yr ymddengys iddynt ei fod yn gynrychioliadol o bersonau y byddai’r penderfyniad yn ymwneud â’u tâl, ac unrhyw bersonau eraill y maent yn ystyried eu bod yn briodol, a
+(b)
+cyhoeddi’r penderfyniad hwnnw gyda’r Datganiad.
+(3) Yn ddarostyngedig i baragraffau (4) a (5), rhaid i benderfyniad Gweinidogion Cymru fod yn un sy’n sicrhau, cyn belled ag y bo’n rhesymol ymarferol, fod yr ymarferydd cymwysedig sydd wedi ei atal dros dro yn cael taliadau ar gyfradd sy’n cyfateb i’r tâl ar gyfer yr ymarferydd cymwysedig hwnnw am wasanaethau offthalmig sylfaenol yn ystod y 12 mis sy’n dod i ben ag ataliad dros dro yr ymarferydd cymwysedig.
+(4) Caiff penderfyniad Gweinidogion Cymru gynnwys darpariaeth na chaiff taliadau yn unol â’r penderfyniad fod yn fwy na swm penodedig mewn unrhyw gyfnod penodedig.
+(5) Rhaid i’r penderfyniad ddarparu ar gyfer didyniad er mwyn ystyried unrhyw daliadau y mae’r ymarferydd cymwysedig sydd wedi ei atal dros dro yn eu cael am ddarparu gwasanaethau offthalmig sylfaenol ac eithrio fel prif ymarferydd.
+(6) Caniateir i benderfyniadau gael eu hamrywio neu eu dirymu gan benderfyniadau dilynol.
+(7) Mae rheoliad 35(2) i (5) yn gymwys i daliadau a wneir o dan y rheoliad hwn fel y mae’n gymwys i daliadau a wneir o dan y rheoliad hwnnw.Gordaliadau
+35.—(1) Pan—
+(a)
+bo Bwrdd Iechyd Lleol wedi gwneud taliad i glaf o dan reoliad 7(6) mewn cysylltiad â phrawf golwg, a
+(b)
+bo’r swm a dalwyd yn fwy na’r ffi sy’n daladwy i’r contractwr am wasanaethau offthalmig cyffredinol a nodir yn y Datganiad,
+rhaid i’r Bwrdd Iechyd Lleol ddidynnu’r swm dros ben o’r tâl sydd fel arall yn daladwy i’r contractwr.
+(2) Mae paragraffau (3) i (5) yn gymwys pan fo Bwrdd Iechyd Lleol yn ystyried ei fod wedi gwneud gordaliad am wasanaethau offthalmig sylfaenol i gontractwr (pa un ai drwy gamgymeriad neu fel arall).
+(3) Rhaid i’r Bwrdd Iechyd Lleol, ac eithrio i’r graddau y mae Gweinidogion Cymru yn cyfarwyddo fel arall yn dilyn cais gan y Bwrdd Iechyd Lleol, roi gwybod i’r contractwr am y ffaith honno.
+(4) Os yw’r contractwr yn cydnabod y gordaliad, caiff y Bwrdd Iechyd Lleol adennill y swm a ordalwyd drwy ei ddidynnu o dâl y contractwr neu rywfodd arall.
+(5) Os nad yw’r contractwr yn cydnabod y gordaliad—
+(a)
+caiff y Bwrdd Iechyd Lleol atgyfeirio’r mater o dan reoliad 5(1) o Reoliadau’r Gwasanaeth Iechyd Gwladol (Pwyllgorau Gwasanaethau a’r Tribiwnlys) 1992(1) ar gyfer ymchwiliad, a
+(b)
+os yw’r Bwrdd Iechyd Lleol, neu Weinidogion Cymru yn dilyn apêl, yn penderfynu bod gordaliad wedi ei wneud, bydd y swm a ordalwyd yn adenilladwy drwy ei ddidynnu o dâl y contractwr neu rywfodd arall.
+(6) Nid yw adennill gordaliad o dan y rheoliad hwn yn rhagfarnu’r ymchwiliad i doriad honedig o’r telerau gwasanaeth.
+(1)
+O.S. 1992/664, a ddiwygiwyd gan O.S. 2002/2469; mae offerynnau diwygio eraill ond nid yw’r un ohonynt yn berthnasol i’r Rheoliadau hyn.Datgelu gwybodaeth
+36.—(1) Caiff Bwrdd Iechyd Lleol ddatgelu gwybodaeth sydd wedi ei rhoi iddo neu sydd wedi dod i’w law yn unol â’r Rheoliadau hyn i unrhyw un neu ragor o’r canlynol—
+(a)
+Gweinidogion Cymru;
+(b)
+unrhyw Fwrdd Iechyd Lleol arall neu gorff cyfatebol, sydd hyd eithaf gwybodaeth y Bwrdd Iechyd Lleol—
+(i)
+ag ymarferydd cymwysedig, neu gorff corfforedig y mae’r ymarferydd cymwysedig yn gyfarwyddwr iddo, y mae’r wybodaeth honno yn ymwneud ag ef yn unrhyw un neu ragor o’i restrau gofal sylfaenol neu restrau cyfatebol,
+(ii)
+yn ystyried cais gan ymarferydd cymwysedig o’r fath, neu gan gorff corfforedig y gwyddys bod yr ymarferydd cymwysedig yn gyfarwyddwr iddo, i gael ei gynnwys yn unrhyw un neu ragor o’i restrau gofal sylfaenol neu restrau cyfatebol, neu
+(iii)
+ag unrhyw fan yn ei ardal lle y mae’r ymarferydd cymwysedig yn darparu gwasanaethau offthalmig sylfaenol neu’n cynorthwyo i ddarparu’r gwasanaethau hynny;
+(c)
+yr Ysgrifennydd Gwladol;
+(d)
+Gweinidogion yr Alban;
+(e)
+Gweithrediaeth Gogledd Iwerddon;
+(f)
+y Cyngor Meddygol Cyffredinol, y Cyngor Optegol Cyffredinol neu unrhyw gorff trwyddedu neu reoleiddio arall;
+(g)
+NHS Resolution;
+(h)
+unrhyw sefydliad neu unrhyw gyflogwr sydd, hyd eithaf gwybodaeth y Bwrdd Iechyd Lleol, yn cyflogi’r ymarferydd cymwysedig y mae’r wybodaeth yn ymwneud ag ef, neu’n defnyddio unrhyw un neu ragor o’i wasanaethau, mewn swyddogaeth broffesiynol;
+(i)
+unrhyw bartneriaeth y mae unrhyw un neu ragor o’i haelodau yn darparu neu’n cynorthwyo i ddarparu gwasanaethau offthalmig sylfaenol ac y mae’r ymarferydd cymwysedig, hyd eithaf gwybodaeth y Bwrdd Iechyd Lleol, yn aelod ohoni, neu unrhyw bartneriaeth sy’n ystyried gwahodd yr ymarferydd cymwysedig i fod yn aelod ohoni;
+(j)
+pan fo honiad o dwyll yn cael ei ystyried, Awdurdod Gwrth-dwyll y GIG.
+(2) Rhaid i’r Bwrdd Iechyd Lleol ddatgelu i Weinidogion Cymru wybodaeth sydd wedi ei rhoi iddo neu sydd wedi dod i’w law yn unol â’r Rheoliadau hyn, fel y caiff Gweinidogion Cymru ofyn amdani.Cyhoeddi gwybodaeth
+37.—(1) Rhaid i’r Bwrdd Iechyd Lleol roi copïau o’r canlynol ar gael i edrych arnynt yn ei swyddfeydd, ac mewn unrhyw leoedd eraill yn ei ardal yr ymddengys i’r Bwrdd Iechyd Lleol eu bod yn gyfleus er mwyn rhoi gwybod i unrhyw berson a chanddo fuddiant—
+(a)
+y Rheoliadau hyn, a
+(b)
+y Datganiad.
+(2) Nid yw’n ofynnol i’r Bwrdd Iechyd Lleol roi ar gael gopïau o’r ddwy ddogfen y cyfeirir atynt ym mharagraff (1) ym mhob lle y mae’n rhoi ar gael gopïau o’r naill ddogfen neu’r llall.Cyflwyno dogfennau i gontractwyr
+38.—(1) Caniateir i unrhyw ddogfen y mae’n ofynnol ei rhoi neu sydd wedi ei hawdurdodi i’w rhoi i gontractwr o dan y Rheoliadau hyn gael ei rhoi drwy—
+(a)
+danfon y ddogfen ato, neu
+(b)
+anfon y ddogfen wedi ei chyfeirio ato—
+(i)
+yn unrhyw gyfeiriad yr hysbyswyd y Bwrdd Iechyd Lleol amdano gan y contractwr ar gyfer ei gynnwys yn y rhestr offthalmig fel lle y mae’r person wedi ymgymryd â darparu gwasanaethau offthalmig ynddo, neu
+(ii)
+yn achos practis symudol, yn y cyfeiriad yr hysbyswyd y Bwrdd Iechyd Lleol amdano fel y cyfeiriad y caniateir anfon gohebiaeth iddo.
+(2) Ym mharagraff (1), mae i “practis symudol” yr ystyr a roddir yn Atodlen 3.Diwygiadau canlyniadol i ddeddfwriaeth sylfaenol
+39.  Mae’r darpariaethau a restrir yn Atodlen 5 wedi eu diwygio o ran Cymru fel y nodir yn yr Atodlen honno.Mân ddiwygiadau a diwygiadau canlyniadol i is-ddeddfwriaeth
+40.  Mae’r darpariaethau a restrir yn Atodlen 6 wedi eu diwygio o ran Cymru fel y nodir yn yr Atodlen honno.Darpariaethau dirymu
+41.  Yn ddarostyngedig i’r arbedion yn rheoliad 42, mae’r rheoliadau a restrir yn Atodlen 7 wedi eu dirymu o ran Cymru fel y nodir yn yr Atodlen honno.Darpariaethau arbed a darpariaethau trosiannol
+42.—(1) Pan—
+(a)
+bo gwasanaethau offthalmig cyffredinol wedi eu darparu o dan drefniadau a wnaed yn unol â Rheoliadau 1986, ond
+(b)
+na fo taliadau am y gwasanaethau hynny wedi eu gwneud ar yr adeg y daw’r Rheoliadau hyn i rym,
+rhaid i’r Bwrdd Iechyd Lleol wneud taliadau am y gwasanaethau hynny yn unol â Rheoliadau 1986, sydd wedi eu harbed at y diben hwnnw.
+(2) Bernir bod rhestr offthalmig Bwrdd Iechyd Lleol yn cynnwys, ar gyfer y cyfnod trosiannol perthnasol, unrhyw berson yr oedd ei enw wedi ei gynnwys yn rhestr offthalmig y Bwrdd Iechyd Lleol hwnnw a gedwir o dan reoliad 6 o Reoliadau 1986 (rhestr offthalmig) yn union cyn y dyddiad cychwyn (“y rhestr offthalmig flaenorol”), ynghyd â’r holl wybodaeth ynghylch y person hwnnw sydd wedi ei chynnwys yn y rhestr offthalmig flaenorol.
+(3) Bernir bod rhestr atodol Bwrdd Iechyd Lleol yn cynnwys, ar gyfer y cyfnod trosiannol perthnasol, unrhyw berson yr oedd ei enw wedi ei gynnwys yn rhestr atodol y Bwrdd Iechyd Lleol hwnnw a gedwir o dan reoliad 3 o Reoliadau 2006 (rhestr atodol) yn union cyn y dyddiad cychwyn (“y rhestr atodol flaenorol”), ynghyd â’r holl wybodaeth ynghylch y person hwnnw sydd wedi ei chynnwys yn y rhestr atodol flaenorol.
+(4) Caiff person y bernir ei fod wedi ei gynnwys yn rhestr offthalmig neu yn rhestr atodol Bwrdd Iechyd Lleol o dan baragraff (2) neu (3), yn y drefn honno, ar unrhyw adeg yn y cyfnod trosiannol perthnasol—
+(a)
+darparu gwasanaethau offthalmig cyffredinol neu gynorthwyo i ddarparu’r gwasanaethau hynny (yn ôl y digwydd);
+(b)
+darparu gwasanaethau archwilio llygaid neu gynorthwyo i ddarparu’r gwasanaethau hynny (yn ôl y digwydd) os yw wedi ei achredu i wneud hynny.
+(5) Mae paragraff (7) yn gymwys os yw person y bernir ei fod wedi ei gynnwys yn rhestr offthalmig Bwrdd Iechyd Lleol, cyn diwedd y cyfnod cydymffurfio, yn darparu’r canlynol i’r Bwrdd Iechyd Lleol hwnnw—
+(a)
+tystiolaeth ei fod wedi ei gymhwyso i ddarparu’r gwasanaethau archwilio llygaid, ac eithrio yn achos optegydd corfforedig;
+(b)
+ymgymeriad i ddarparu gwasanaethau offthalmig sylfaenol yn ardal y Bwrdd Iechyd Lleol;
+(c)
+ymgymeriad i gydymffurfio â’r telerau gwasanaeth a nodir yn Atodlen 4.
+(6) Mae paragraff (7) yn gymwys os yw person y bernir ei fod wedi ei gynnwys yn rhestr atodol Bwrdd Iechyd Lleol, cyn diwedd y cyfnod cydymffurfio, yn darparu’r canlynol i’r Bwrdd Iechyd Lleol hwnnw—
+(a)
+tystiolaeth ei fod wedi ei gymhwyso i ddarparu’r gwasanaethau archwilio llygaid;
+(b)
+ymgymeriad i beidio â chynorthwyo i ddarparu gwasanaethau offthalmig sylfaenol yn ardal Bwrdd Iechyd Lleol arall neu gorff cyfatebol y mae’r ymarferydd cymwysedig wedi ei ddileu o’i restr gyfunol, ac eithrio pan fo wedi ei ddileu ar gais yr ymarferydd cymwysedig neu yn unol â rheoliad 17(3)(e), heb gydsyniad y Bwrdd Iechyd Lleol hwnnw neu’r corff cyfatebol hwnnw.
+(7) Pan fo’r paragraff hwn yn gymwys—
+(a)
+mae’r person yn cael ei drin at ddibenion y Rheoliadau hyn fel pe bai wedi gwneud cais i’r Bwrdd Iechyd Lleol i gael ei gynnwys yn rhestr offthalmig neu yn rhestr atodol y Bwrdd Iechyd Lleol (fel y bo’n briodol) ac wedi cael ei gymeradwyo gan y Bwrdd Iechyd Lleol hwnnw o dan reoliad 13;
+(b)
+rhaid i’r Bwrdd Iechyd Lleol hysbysu’r person ei fod wedi ei gynnwys yn y rhestr berthnasol.
+(8) Yn y rheoliad hwn, ystyr “cyfnod cydymffurfio”, mewn perthynas â pherson, yw—
+(a)
+y cyfnod o 28 o ddiwrnodau sy’n dechrau â’r dyddiad cychwyn, neu
+(b)
+os yw’r Bwrdd Iechyd Lleol y bernir bod y person wedi ei gynnwys yn ei restr yn ystyried nad yw’n rhesymol ymarferol i’r person gydymffurfio â pharagraff (5) neu (6) (fel y bo’n briodol) cyn diwedd y cyfnod hwnnw, unrhyw gyfnod hwy a bennir gan y Bwrdd Iechyd Lleol.
+(9) Yn y rheoliad hwn, ystyr “cyfnod trosiannol perthnasol”, mewn perthynas â pherson, yw’r cyfnod—
+(a)
+sy’n dechrau â’r dyddiad cychwyn, a
+(b)
+sy’n dod i ben â’r cynharaf o’r canlynol—
+(i)
+yr adeg y daw’r cyfnod cydymffurfio mewn perthynas â’r person hwnnw i ben, a
+(ii)
+y dyddiad y mae’r Bwrdd Iechyd Lleol yn hysbysu’r person ei fod wedi ei gynnwys yn y rhestr berthnasol.
+(10) O ran y cyfnod sy’n dechrau â’r dyddiad cychwyn ac sy’n dod i ben â 31 Mawrth 2024, mae person sydd wedi ei gofrestru fel person sy’n ymgymryd â hyfforddiant i fod yn optometrydd yn y gofrestr a gynhelir o dan adran 8A o Ddeddf Optegwyr 1989 (cofrestr myfyrwyr) i’w drin, at ddibenion rheoliad 8(3) a pharagraff 18 o Atodlen 4, fel pe bai’r person yn fyfyriwr optometreg sydd wedi ei gynnwys yn rhestr atodol Bwrdd Iechyd Lleol.
+(11) Mae paragraff (12) yn gymwys o ran Bwrdd Iechyd Lleol—
+(a)
+pan fo’r Bwrdd wedi cael cais i gynnwys ymarferydd yn ei restr offthalmig flaenorol neu ei restr atodol flaenorol, ond
+(b)
+pan na fo’r Bwrdd wedi penderfynu’r cais hwnnw cyn y dyddiad cychwyn.
+(12) Rhaid i’r Bwrdd Iechyd Lleol—
+(a)
+gofyn am y dystiolaeth berthnasol a’r ymgymeriadau perthnasol a nodir ym mharagraff (5) neu (6) (fel y bo’n briodol), a
+(b)
+ar ôl cael y dystiolaeth berthnasol a’r ymgymeriadau perthnasol, benderfynu’r cais yn unol â’r Rheoliadau hyn.
+(13) Rhaid cynnal unrhyw apêl neu unrhyw adolygiad a ddechreuwyd o dan Reoliadau 1986 neu Reoliadau 2006 ond nad yw wedi dod i ben ar y dyddiad cychwyn yn unol â Rheoliadau 1986 neu Reoliadau 2006 (fel y bo’n briodol), sydd wedi eu harbed at y dibenion hynny.
+(14) Yn ddarostyngedig i baragraffau (1) i (13), mae unrhyw gam gweithredu a gymerir gan neu ar ran Bwrdd Iechyd Lleol cyn y dyddiad cychwyn mewn perthynas â’i restr offthalmig flaenorol neu ei restr atodol flaenorol (neu mewn perthynas â’r personau neu’r cofnodion yn y rhestrau hynny), yn cael effaith ar y dyddiad cychwyn, ac ar ôl hynny, fel pe bai cam gweithredu o’r fath wedi ei gymryd gan y Bwrdd Iechyd Lleol hwnnw mewn perthynas â’r rhan berthnasol o’r rhestr gyfunol a gynhelir gan y Bwrdd Iechyd Lleol hwnnw ar y dyddiad cychwyn neu mewn perthynas â’r personau neu’r cofnodion ynddi.
+(15) Yn ddarostyngedig i baragraffau (1) i (13), mae unrhyw gam gweithredu a gymerir gan neu ar ran unrhyw berson arall cyn y dyddiad cychwyn mewn perthynas â rhestr offthalmig flaenorol neu restr atodol flaenorol Bwrdd Iechyd Lleol (neu mewn perthynas â’r personau neu’r cofnodion yn y rhestrau hynny), yn cael effaith ar y dyddiad cychwyn, ac ar ôl hynny, fel pe bai cam gweithredu o’r fath wedi ei gymryd mewn perthynas â’r rhan berthnasol o’r rhestr gyfunol a gynhelir gan y Bwrdd Iechyd Lleol hwnnw ar y dyddiad cychwyn neu mewn perthynas â’r personau neu’r cofnodion ynddi.
+(16) At ddibenion y rheoliad hwn—
+ystyr “Rheoliadau 1986” (“the 1986 Regulations”) yw Rheoliadau’r Gwasanaeth Iechyd Gwladol (Gwasanaethau Offthalmig Cyffredinol) 1986(1) (a ddirymir gan reoliad 41 ac Atodlen 7);
+ystyr “Rheoliadau 2006” (“the 2006 Regulations”) yw Rheoliadau’r Gwasanaeth Iechyd Gwladol (Rhestr Atodol Gwasanaethau Offthalmig Cyffredinol) a (Gwasanaethau Offthalmig Cyffredinol) (Diwygio a Diwygiad Canlyniadol) (Cymru) 2006(2) (a ddirymir gan reoliad 41 ac Atodlen 7).
+(1)
+O.S. 1986/975, a ddiwygiwyd gan O.S. 1996/705, O.S. 2002/1883 ac O.S. 2006/181. Mae offerynnau diwygio eraill ond nid yw’r un ohonynt yn berthnasol i’r Rheoliadau hyn. Dirymwyd y Rheoliadau hyn o ran Lloegr gan O.S. 2008/1700.
+(2)
+O.S. 2006/181 (Cy. 32).Eluned Morgan
+Y Gweinidog Iechyd a Gwasanaethau Cymdeithasol, un o Weinidogion Cymru
+27 Medi 2023Rheoliadau 5, 6 a 7
+ATODLEN 1
+Cymhwystra
+Meini prawf cymhwystra
+1.—(1) Y meini prawf cymhwystra yw—
+(a)
+bod person o dan 16 oed;
+(b)
+bod person o dan 19 oed ac yn cael addysg lawnamser gymhwysol o fewn yr ystyr a roddir i “qualifying full-time education” yn adran 71(3) o’r Ddeddf (trefniadau ar gyfer gwasanaethau offthalmig cyffredinol);
+(c)
+bod person yn 60 oed neu’n hŷn;
+(d)
+bod adnoddau person yn cael eu trin o dan is-baragraff (2) fel pe baent yn llai nag anghenion y person hwnnw, neu’n hafal i’r anghenion hynny;
+(e)
+bod angen i berson wisgo teclyn cymhleth;
+(f)
+bod person wedi ei gofrestru fel person sydd â nam ar ei olwg neu berson sydd â nam difrifol ar ei olwg mewn cofrestr a gedwir gan awdurdod lleol—
+(i)
+yng Nghymru, o dan adran 18(1) o Ddeddf Gwasanaethau Cymdeithasol a Llesiant (Cymru) 2014 (cofrestrau o bobl â nam ar eu golwg, pobl â nam ar eu clyw a phobl anabl eraill), neu
+(ii)
+yn Lloegr, o dan adran 77(1) o Ddeddf Gofal 2014(1) (cofrestrau o oedolion â nam ar eu golwg, oedolion anabl, etc.);
+(g)
+bod person wedi cael diagnosis o ddiabetes neu glawcoma, neu wedi cael cyngor gan offthalmolegydd fod ganddo ragdueddiad i ddatblygu glawcoma;
+(h)
+bod person yn 40 oed neu’n hŷn ac yn rhiant, yn frawd, yn chwaer neu’n blentyn i berson sydd wedi cael diagnosis o glawcoma;
+(i)
+bod person yn garcharor;
+(j)
+bod person yn gweld ag un llygad yn unig;
+(k)
+bod gan berson nam ar ei glyw;
+(l)
+bod person wedi cael diagnosis o retinitis pigmentosa;
+(m)
+bod person wedi cael asesiad clinigol a ddangosodd ei fod mewn perygl penodol o ddatblygu clefyd llygaid.
+(2) Rhaid trin adnoddau person fel pe baent yn llai nag anghenion y person hwnnw, neu’n hafal i’r anghenion hynny—
+(a)
+os yw’r person yn cael cymhorthdal incwm;
+(b)
+os yw’r person yn aelod o’r un teulu â pherson sy’n cael cymhorthdal incwm;
+(c)
+os yw adnoddau incwm y person fel y’u cyfrifir yn unol â Rhan 4 o Reoliadau’r Gwasanaeth Iechyd Gwladol (Treuliau Teithio a Pheidio â Chodi Tâl) (Cymru) 2007(2) ac Atodlen 1 iddynt, at ddibenion peidio â chodi tâl o dan y Ddeddf, yn llai nag anghenion y person fel y’u cyfrifir felly, neu os ydynt yn fwy nag anghenion y person fel y’u cyfrifir felly, gan 50 y cant neu lai o swm y ffi a bennir yn rheoliad 3(2)(b) o Reoliadau’r Gwasanaeth Iechyd Gwladol (Presgripsiynau am Ddim a Ffioedd am Gyffuriau a Chyfarpar) (Cymru) 2007(3) (cyflenwi cyffuriau a chyfarpar gan fferyllwyr), ac nad yw adnoddau cyfalaf y person fel y’u cyfrifir felly yn pasio’r terfyn cyfalaf;
+(d)
+os yw’r person yn aelod o’r un teulu â pherson sy’n dod o fewn paragraff (c);
+(e)
+os yw’r person yn cael lwfans ceisio gwaith yn seiliedig ar incwm;
+(f)
+os yw’r person yn aelod o’r un teulu â pherson sy’n dod o fewn paragraff (e);
+(g)
+os yw’r person yn blentyn perthnasol at ddibenion adran 23A o Ddeddf Plant 1989(4) y mae awdurdod lleol cyfrifol yn cyfrannu at ei gynnal o dan adran 23B(8) o’r Ddeddf honno;
+(h)
+os yw’r person yn berson ifanc categori 2 o fewn ystyr adran 104(2) o Ddeddf Gwasanaethau Cymdeithasol a Llesiant (Cymru) 2014 y mae awdurdod lleol cyfrifol yn cyfrannu at ei gynnal o dan adran 109(1) o’r Ddeddf honno;
+(i)
+os yw’r person yn aelod o deulu—
+(i)
+y mae un aelod ohono yn cael—
+(aa)
+credyd treth gwaith a chredyd treth plant,
+(bb)
+credyd treth gwaith sy’n cynnwys elfen anabledd neu elfen anabledd difrifol, neu
+(cc)
+credyd treth plant, ond nad yw’n gymwys i gael credyd treth gwaith, a
+(ii)
+pan benderfynir adeg y dyfarndal nad yw incwm blynyddol gros y person neu’r personau y dyfernir credyd treth iddo neu iddynt o dan adran 14 o Ddeddf Credydau Treth 2002(5) yn fwy na £15,276;
+(j)
+os yw’r person yn berson y mae hysbysiad cyfredol o hawlogaeth ar gael mewn cysylltiad ag ef;
+(k)
+os yw’r person yn aelod o deulu y mae un aelod ohono yn cael credyd gwarant y credyd pensiwn;
+(l)
+os yw’r person yn cael lwfans cyflogaeth a chymorth yn seiliedig ar incwm;
+(m)
+os yw’r person yn aelod o’r un teulu â pherson sy’n cael lwfans cyflogaeth a chymorth yn seiliedig ar incwm;
+(n)
+os yw’r person hwnnw yn dderbynnydd credyd cynhwysol perthnasol.
+(3) Yn is-baragraff (1)(g), ystyr “offthalmolegydd” yw ymarferydd meddygol y mae ei enw wedi ei gynnwys yn y gofrestr o arbenigwyr a gedwir gan y Cyngor Meddygol Cyffredinol o dan adran 34D o Ddeddf Meddygaeth 1983(6) (y gofrestr arbenigwyr) ac y mae’r gofrestr honno yn nodi mai offthalmoleg yw ei arbenigedd.
+(4) Yn is-baragraff (2)(n), ystyr “derbynnydd credyd cynhwysol perthnasol” yw person, yn y cyfnod asesu perthnasol—
+(a)
+a gafodd ddyfarndal o gredyd cynhwysol, naill ai fel hawlydd unigol neu fel un o hawlwyr ar y cyd—
+(i)
+pan nad oedd y dyfarndal yn cynnwys yr elfen plentyn,
+(ii)
+pan nad oedd gan yr hawlydd unigol neu, yn ôl y digwydd, yr un o’r hawlwyr ar y cyd, allu cyfyngedig i weithio, a
+(iii)
+pan oedd gan yr hawlydd unigol incwm a enillir neu, yn ôl y digwydd, yr hawlwyr ar y cyd incwm a enillir cyfunol, o £435.00 neu lai;
+(b)
+a gafodd ddyfarndal o gredyd cynhwysol, naill ai fel hawlydd unigol neu fel un o hawlwyr ar y cyd—
+(i)
+pan oedd y dyfarndal yn cynnwys yr elfen plentyn, a
+(ii)
+pan oedd gan yr hawlydd unigol incwm a enillir neu, yn ôl y digwydd, yr hawlwyr ar y cyd incwm a enillir cyfunol, o £935.00 neu lai;
+(c)
+a gafodd ddyfarndal o gredyd cynhwysol, naill ai fel hawlydd unigol neu fel un o hawlwyr ar y cyd—
+(i)
+pan oedd gan yr hawlydd unigol, neu yn ôl y digwydd, un o’r hawlwyr ar y cyd neu’r ddau ohonynt, allu cyfyngedig i weithio, a
+(ii)
+pan oedd gan yr hawlydd unigol incwm a enillir neu, yn ôl y digwydd, yr hawlwyr ar y cyd incwm a enillir cyfunol, o £935.00 neu lai;
+(d)
+a oedd yn berson ifanc cymhwysol y mae derbynnydd y cyfeirir ato ym mharagraff (b) neu (c) yn gyfrifol amdano (o fewn yr ystyr a roddir i “qualifying young person” yn Rhan 1 o Ddeddf 2012(7) (credyd cynhwysol) a rheoliadau a wneir odani).
+(5) Pan fo is-baragraff (6) yn gymwys, rhaid trin person fel pe bai’n dod o fewn y disgrifiad o dderbynnydd credyd cynhwysol perthnasol yn is-baragraff (2)(n).
+(6) Mae’r is-baragraff hwn yn gymwys pan fo’r amodau ym mharagraff (a), (b), (c) neu (d) o is-baragraff (4) wedi eu bodloni yn y cyfnod asesu y mae’r prawf golwg yn digwydd ynddo ac—
+(a)
+nad oes cyfnod asesu perthnasol, neu
+(b)
+na fodlonwyd yr un o’r amodau hynny yn y cyfnod asesu perthnasol.
+(7) Yn is-baragraff (2), mae i “teulu” yr ystyr a roddir i “family” gan adran 137(1) o Ddeddf Cyfraniadau a Budd-daliadau Nawdd Cymdeithasol 1992(8) (dehongli Rhan VII a darpariaethau atodol) fel y mae’n gymwys i gymhorthdal incwm ac eithrio—
+(a)
+ym mharagraffau (b), (d) a (k), mae iddo’r ystyr a roddir gan adran 35 o Ddeddf Ceiswyr Gwaith 1995(9) (dehongli);
+(b)
+ym mharagraff (g), mae iddo’r ystyr a roddir gan reoliad 2(2) o Reoliadau Credydau Treth (Diffinio a Chyfrifo Incwm) 2002(10) (dehongli);
+(c)
+ym mharagraff (m), mae iddo’r ystyr a roddir gan reoliad 2 o Reoliadau Lwfans Cyflogaeth a Chymorth 2008(11) (dehongli).
+(8) Yn y paragraff hwn—
+ystyr “carcharor” (“prisoner”) yw person sy’n cael ei gadw’n gaeth mewn carchar, gan gynnwys sefydliad troseddwyr ifanc, canolfan hyfforddi ddiogel, a charchar y llynges, y fyddin neu’r llu awyr, ond sydd, ar adeg cael unrhyw wasanaeth offthalmig cyffredinol, ar absenoldeb awdurdodedig o’r carchar hwnnw, ac at ddibenion y diffiniad hwn—
+(a)
+ystyr “canolfan hyfforddi ddiogel” yw man y caniateir cadw’n gaeth droseddwyr sy’n ddarostyngedig i orchmynion cadw a hyfforddi o fewn yr ystyr a roddir gan adran 233 o’r Cod Dedfrydu(12) (gorchymyn cadw a hyfforddi), a rhoi hyfforddiant ac addysg iddynt a’u paratoi ar gyfer eu rhyddhau, a
+(b)
+ystyr “sefydliad troseddwyr ifanc” yw man ar gyfer cadw’n gaeth droseddwyr sydd wedi eu dedfrydu i’w cadw’n gaeth mewn sefydliad troseddwyr ifanc neu yn y ddalfa am oes;
+ystyr “credyd cynhwysol” (“universal credit”) yw credyd cynhwysol o dan Ran 1 o Ddeddf 2012;
+rhaid dehongli “credyd gwarant y credyd pensiwn” (“pension credit guarantee credit”) yn unol ag adrannau 1 a 2 o Ddeddf Credyd Pensiwn y Wladwriaeth 2002(13) (hawlogaeth; credyd gwarant);
+ystyr “credyd treth gwaith” (“working tax credit”) yw credyd treth gwaith o dan adran 10 o Ddeddf Credydau Treth 2002 (hawlogaeth);
+ystyr “credyd treth plant” (“child tax credit”) yw credyd treth plant o dan adran 8 o Ddeddf Credydau Treth 2002 (hawlogaeth);
+ystyr “cyfnod asesu” (“assessment period”) yw’r cyfnod asesu at ddibenion credyd cynhwysol fel y’i pennir yn rheoliad 21 o Reoliadau Credyd Cynhwysol 2013(14) (cyfnodau asesu);
+ystyr “cyfnod asesu perthnasol” (“relevant assessment period”) yw’r cyfnod asesu yn union cyn y cyfnod hwnnw y mae’r prawf golwg yn digwydd ynddo;
+ystyr “cymhorthdal incwm” (“income support”) yw cymhorthdal incwm o dan Ran VII o Ddeddf Cyfraniadau a Budd-daliadau Nawdd Cymdeithasol 1992 ac mae’n cynnwys ychwanegiad treuliau personol, ychwanegiad trosiannol arbennig ac ychwanegiad trosiannol fel y diffinnir “personal expenses addition”, “special transitional addition” a “transitional addition” yn rheoliad 2(1) o Reoliadau Cymhorthdal Incwm (Trosiannol) 1987(15) (dehongli);
+ystyr “Deddf 2012” (“the 2012 Act”) yw Deddf Diwygio Lles 2012;
+ystyr “elfen anabledd” (“disability element”) yw elfen anabledd y credyd treth gwaith fel y’i pennir yn adran 11(3) o Ddeddf Credydau Treth 2002 (cyfradd uchaf);
+ystyr “elfen anabledd difrifol” (“severe disability element”) yw elfen anabledd difrifol y credyd treth gwaith fel y’i pennir yn adran 11(6)(d) o Ddeddf Credydau Treth 2002 (cyfradd uchaf);
+ystyr “elfen plentyn” (“child element”) yw elfen plentyn credyd cynhwysol fel y’i pennir yn rheoliad 24(1) o Reoliadau Credyd Cynhwysol 2013(16) (yr elfen plentyn);
+ystyr “gallu cyfyngedig i weithio” (“limited capability for work”) yw gallu cyfyngedig i weithio neu allu cyfyngedig i weithio ac i wneud gweithgarwch sy’n ymwneud â gwaith fel y’u dehonglir yn unol â rheoliadau 39 a 40, yn y drefn honno, o Reoliadau Credyd Cynhwysol 2013(17) (gallu cyfyngedig i weithio; gallu cyfyngedig i weithio ac i wneud gweithgarwch sy’n ymwneud â gwaith);
+mae i “hawlwyr ar y cyd” yr ystyr a roddir i “joint claimants” yn adran 40 o Ddeddf 2012 (dehongli Rhan 1);
+mae i “hawlydd unigol” yr ystyr a roddir i “single claimant” yn adran 40 o Ddeddf 2012 (dehongli Rhan 1);
+ystyr “incwm a enillir” yw’r incwm a enillir gan berson fel y diffinnir “earned income” gan Bennod 2 o Ran 6 o Reoliadau Credyd Cynhwysol 2013 (cyfrifo cyfalaf ac incwm – incwm a enillir);
+ystyr “incwm blynyddol gros” (“gross annual income”) yw incwm a gyfrifir ar gyfer blwyddyn dreth at ddibenion Rhan 1 o Ddeddf Credydau Treth 2002 yn unol â rheoliadau a wneir o dan adran 7 o’r Ddeddf honno (prawf incwm);
+mae i “lwfans ceisio gwaith yn seiliedig ar incwm” yr ystyr a roddir i “an income-based jobseeker’s allowance” gan adran 1(4) o Ddeddf Ceiswyr Gwaith 1995(18) (y lwfans ceisio gwaith);
+ystyr “lwfans cyflogaeth a chymorth yn seiliedig ar incwm” (“income-related employment and support allowance”) yw lwfans cyflogaeth a chymorth, y mae hawlogaeth iddo yn seiliedig ar adran 1(2)(b) o Ddeddf Diwygio Lles 2007(19) (lwfans cyflogaeth a chymorth yn seiliedig ar incwm);
+mae i “person ifanc cymhwysol” yr ystyr a roddir i “qualifying young person” yn adran 10(5) o Ddeddf 2012 (cyfrifoldeb am blant a phobl ifanc);
+ystyr “terfyn cyfalaf” (“capital limit”) yw’r swm a ragnodir at ddibenion adran 134(1) o Ddeddf Cyfraniadau a Budd-daliadau Nawdd Cymdeithasol 1992 (eithriadau rhag budd-daliadau) fel y mae’n gymwys i gymhorthdal incwm.
+(9) Yn y paragraff hwn a pharagraff 2—
+ystyr “hysbysiad o hawlogaeth” (“notice of entitlement”) yw hysbysiad a ddyroddir o dan reoliad 8 o Reoliadau’r Gwasanaeth Iechyd Gwladol (Treuliau Teithio a Pheidio â Chodi Tâl) (Cymru) 2007 (hysbysiadau o hawlogaeth);
+ystyr “teclyn cymhleth” (“complex appliance”) yw teclyn optegol y mae’r canlynol yn wir am o leiaf un lens ynddo—
+(a)
+mae ganddi bŵer plws neu minws 10 neu ragor o ddioptrau yn unrhyw un o’r meridianau, neu
+(b)
+mae’n lens amlffocal a reolir gan brism.
+Tystiolaeth benodol o gymhwystra ar gyfer personau penodol
+2.—(1) Yn ddarostyngedig i is-baragraff (2), y dystiolaeth benodol a grybwyllir yn rheoliad 6(5) yw—
+(a)
+ar gyfer person nad yw’n gymwys ond yn rhinwedd paragraff 1(1)(d) a (2)(c) neu (d), hysbysiad cyfredol o hawlogaeth;
+(b)
+ar gyfer person nad yw’n gymwys ond yn rhinwedd paragraff 1(1)(e), y presgripsiwn am declyn cymhleth a ddyroddwyd i’r person hwnnw pan brofwyd golwg y person ddiwethaf;
+(c)
+ar gyfer person nad yw’n gymwys ond yn rhinwedd paragraff 1(1)(g), enw a chyfeiriad ymarferydd meddygol y person hwnnw a chydsyniad i’r Bwrdd Iechyd Lleol geisio cadarnhad oddi wrth ymarferydd meddygol y person hwnnw fod gan y person ddiabetes neu glawcoma, wedi eu nodi ar ffurflen a ddarperir at y diben hwnnw i gontractwyr gan y Bwrdd Iechyd Lleol.
+(2) Pan na fo person cymwys y mae is-baragraff (1)(b) yn gymwys iddo yn gallu bodloni gofynion yr is-baragraff, caiff y contractwr, yn lle ei fodloni ei hun bod y gofynion hynny wedi eu bodloni, ei fodloni ei hun bod y person yn berson cymwys drwy gyfeirio at gofnodion y contractwr ei hun neu drwy fesur pŵer y lensys yn nheclyn optegol presennol y person drwy gyfrwng ffocimedr neu drwy ddull arall sy’n addas.
+(1)
+2014 p. 23.
+(2)
+O.S. 2007/1104 (Cy. 116); yr offerynnau diwygio perthnasol yw O.S. 2009/54 (Cy. 18), O.S. 2013/684 (Cy. 82), O.S. 2008/1480 (Cy. 153), O.S. 2009/54 (Cy. 18), O.S. 2009/2365 (Cy. 193), O.S. 2010/1237 (Cy. 107), O.S. 2011/1940 (Cy. 208), O.S. 2013/684 (Cy. 82), O.S. 2014/1099 (Cy. 109), O.S. 2016/211 (Cy. 84), O.S. 2017/340 (Cy. 84) ac O.S. 2018/48 (Cy. 15).
+(3)
+O.S. 2007/121 (Cy. 11), y mae diwygiadau iddo nad ydynt yn berthnasol i’r Rheoliadau hyn.
+(4)
+1989 p. 41; mewnosodwyd adran 23A gan adran 2(4) o Ddeddf Plant (Ymadael â Gofal) 2000 (p. 35) ac fe’i diwygiwyd gan baragraff 8(3) o Atodlen 3 i Ddeddf Plant a Phobl Ifanc 2008 (p. 23) a chan reoliad 74 o O.S. 2016/413 (Cy. 131).
+(5)
+2002 p. 21; mae Rhan 1 wedi ei diddymu ac eithrio mewn perthynas ag achos y cyfeirir ato yn erthygl 3 o O.S. 2019/167.
+(6)
+Ychwanegwyd adran 34D gan baragraff 10 o Atodlen 1 i Orchymyn Ymarfer Meddygol Cyffredinol ac Arbenigol (Addysg, Hyfforddiant a Chymwysterau) 2010 (O.S. 2010/234) ac fe’i diwygiwyd gan baragraff 19 o Atodlen 1(1) i O.S. 2019/593.
+(7)
+2012 p. 5; mae diwygiadau i Ran 1 nad ydynt yn berthnasol i’r Rheoliadau hyn.
+(8)
+1992 p. 4; diwygiwyd adran 137(1) gan baragraff 22 o Atodlen 1 i O.S. 2014/560. Mae diwygiadau eraill i’r adran honno nad ydynt yn berthnasol i’r Rheoliadau hyn.
+(9)
+1995 p. 18; diwygiwyd adran 35 gan baragraff 124(3) o Atodlen 24(7) i Ddeddf Partneriaeth Sifil 2004 (p. 33). Mae diwygiadau eraill i’r adran honno nad ydynt yn berthnasol i’r Rheoliadau hyn.
+(10)
+O.S. 2002/2006, a ddiwygiwyd gan O.S. 2005/1919; mae offerynnau diwygio eraill ond nid yw’r un ohonynt yn berthnasol.
+(11)
+O.S. 2008/794, y mae diwygiadau iddo nad ydynt yn berthnasol i’r Rheoliadau hyn.
+(12)
+Gweler adran 1(1) o Ddeddf Dedfrydu 2020 (p. 17) sy’n datgan bod Rhannau 2 i 13 o’r Ddeddf honno gyda’i gilydd yn ffurfio cod o’r enw’r “Sentencing Code”.
+(13)
+2002 p. 16; diwygiwyd adran 2 gan Atodlen 24 i Ddeddf Partneriaeth Sifil 2004 (p. 33).
+(14)
+O.S. 2013/376; yr offerynnau diwygio perthnasol yw O.S. 2014/2887 ac O.S. 2018/65.
+(15)
+O.S. 1987/1969, y mae diwygiadau iddo nad ydynt yn berthnasol i’r Rheoliadau hyn.
+(16)
+O.S. 2013/376, a ddiwygiwyd gan Ddeddf Diwygio Lles a Gwaith 2016 (p. 7), adran 14(5); mae offerynnau diwygio eraill ond nid yw’r un ohonynt yn berthnasol.
+(17)
+O.S. 2013/376, a ddiwygiwyd gan O.S. 2014/597.
+(18)
+1995 p. 18; diddymwyd adran 1(4) gan Ddeddf Diwygio Lles 2012 (p. 5), Atodlen 14, paragraff 1. Mae’r diddymiad hwnnw yn cael effaith ar ddiwrnodau gwahanol ar gyfer ardaloedd gwahanol ac at ddibenion gwahanol mewn perthynas ag unrhyw ddarpariaeth yn Rhan 1 o Ddeddf 2012 (p. 5) neu yn Rhan 1 o Atodlen 14 i’r Ddeddf honno.
+(19)
+2007 p. 5.Rheoliad 9
+ATODLEN 2
+Cydnabod ymarferwyr meddygol offthalmig
+Cymwysterau ymarferwyr meddygol offthalmig
+1.—(1) Y cymwysterau rhagnodedig y mae rhaid i ymarferydd meddygol feddu arnynt at ddibenion adran 71 o’r Ddeddf (trefniadau ar gyfer gwasanaethau offthalmig cyffredinol) yw bod gan yr ymarferydd meddygol (ar y dyddiad yr ystyrir y cais hwn o dan baragraff 2) brofiad diweddar a digonol a’i fod naill ai—
+(a)
+wedi dal—
+(i)
+swydd yn y gwasanaeth iechyd, ac eithrio o dan Ran 4 o Ddeddf y Gwasanaeth Iechyd Gwladol 1946(1), Rhan 2 o Ddeddf y Gwasanaeth Iechyd Gwladol 1977(2), neu Ran 6 o’r Ddeddf, sydd â statws offthalmolegydd ymgynghorol, neu
+(ii)
+swydd â statws cyfatebol, am gyfnod o 2 flynedd neu ragor, fel llawfeddyg offthalmig neu lawfeddyg offthalmig cynorthwyol ar staff ysbyty offthalmig a gymeradwywyd, neu
+(b)
+wedi—
+(i)
+ennill Aelodaeth o Goleg Brenhinol yr Offthalmolegwyr, neu unrhyw radd uwch neu unrhyw gymhwyster a gymeradwywyd, a
+(ii)
+dal un neu ragor o swyddi offthalmig mewn ysbyty offthalmig a gymeradwywyd am gyfanswm cyfnod o 2 flynedd neu ragor, y mae rhaid iddo gynnwys deiliadaeth mewn swydd breswyl, neu mewn swydd a chanddi ddyletswyddau sy’n gymaradwy â’r rheini mewn swydd breswyl, am o leiaf 6 mis.
+(2) Nid yw’r ddeiliadaeth mewn swydd breswyl neu swydd gymaradwy am 6 mis, y cyfeirir ati yn is-baragraff (1)(b)(ii), yn ofynnol yn achos ymarferydd meddygol sydd wedi ei gofrestru’n llawn am o leiaf 7 mlynedd ac y mae ganddo’r cyfryw brofiad fel nad oes angen y gofyniad hwnnw.
+(3) Yn y paragraff hwn, ystyr “a gymeradwywyd” yw a gymeradwywyd gan y Pwyllgor Cymwysterau Offthalmig neu gan bwyllgor apêl o dan baragraff 3.
+Cymeradwyo cymwysterau ymarferwyr meddygol offthalmig
+2.—(1) Rhaid i ymarferydd meddygol sy’n dymuno cael ei gydnabod yn ymarferydd meddygol offthalmig wneud cais i’r Pwyllgor Cymwysterau Offthalmig iddo gymeradwyo cymwysterau’r person hwnnw a rhaid i’r ymarferydd roi i’r Pwyllgor Cymwysterau Offthalmig unrhyw fanylion am y cymwysterau hynny sy’n ofynnol gan y Pwyllgor.
+(2) Rhaid i’r Pwyllgor Cymwysterau Offthalmig ystyried cais y ceisydd hwnnw a phenderfynu arno a rhaid i’r Pwyllgor, o fewn 2 fis gan ddechrau â dyddiad y cais, roi gwybod i’r ceisydd hwnnw am ei benderfyniad.
+(3) Os yw’r Pwyllgor Cymwysterau Offthalmig wedi ei fodloni bod y ceisydd yn meddu ar y cymwysterau a ragnodir gan baragraff 1, rhaid ystyried y ceisydd yn ymarferydd meddygol offthalmig.
+(4) Er gwaethaf paragraff 1 ac is-baragraff (1), rhaid i ymarferydd meddygol sydd â’r cymwysterau rhagnodedig at ddibenion darparu gwasanaethau offthalmig cyffredinol yng Ngogledd Iwerddon o dan Orchymyn Iechyd a Gwasanaethau Cymdeithasol Personol (Gogledd Iwerddon) 1972, yn yr Alban o dan Ddeddf y Gwasanaeth Iechyd Gwladol (Yr Alban) 1978, neu yn Lloegr o dan Ddeddf y Gwasanaeth Iechyd Gwladol 2006, gael ei ystyried yn ymarferydd meddygol offthalmig.
+(5) At ddibenion is-baragraff (2), dyddiad y cais yw’r diweddaraf o’r canlynol—
+(a)
+y dyddiad y mae cais wedi ei gwblhau, gyda’r holl wybodaeth ategol angenrheidiol, yn dod i law’r Pwyllgor Cymwysterau Offthalmig, neu
+(b)
+os bydd angen unrhyw fanylion ategol pellach ar y Pwyllgor Cymwysterau Offthalmig oddi wrth y ceisydd, y dyddiad y mae’r holl fanylion y mae eu hangen ar y Pwyllgor yn dod i’w law.
+Apelau gan y Pwyllgor Cymwysterau Offthalmig
+3.—(1) Caiff unrhyw berson (“apelydd”) nad yw wedi ei fodloni â phenderfyniad gan y Pwyllgor Cymwysterau Offthalmig nad yw’r apelydd wedi ei gymhwyso i fod yn ymarferydd meddygol offthalmig, o fewn 1 mis gan ddechrau â’r dyddiad y cafodd yr apelydd hysbysiad o’r penderfyniad hwnnw, neu unrhyw gyfnod hwy a ganiateir ar unrhyw bryd gan Weinidogion Cymru, apelio yn erbyn y penderfyniad drwy anfon at Weinidogion Cymru hysbysiad o apêl sy’n datgan y ffeithiau a’r dadleuon y mae’r apelydd yn dibynnu arnynt.
+(2) Rhaid i Weinidogion Cymru—
+(a)
+penodi i benderfynu’r apêl bwyllgor apêl o 5 person y mae rhaid penodi o leiaf 3 ohonynt ar ôl ymgynghori â’r cyrff hynny neu’r sefydliadau hynny sy’n cynrychioli ymarferwyr meddygol y mae’n ymddangos i Weinidogion Cymru eu bod yn ymwneud â’r materion ynghylch cymhwyso’n ymarferydd meddygol offthalmig,
+(b)
+atgyfeirio’r apêl i’r pwyllgor apêl hwnnw,
+(c)
+anfon copi o’r hysbysiad o apêl i’r Pwyllgor Cymwysterau Offthalmig ac at unrhyw bersonau eraill y mae’n ymddangos i Weinidogion Cymru fod ganddynt fuddiant yn yr apêl, a
+(d)
+rhoi gwybod i’r apelydd, y Pwyllgor Cymwysterau Offthalmig ac unrhyw bersonau eraill o’r fath bod yr apêl wedi ei hatgyfeirio i bwyllgor apêl ac am y cyfeiriad y mae rhaid i gyfathrebiadau ar gyfer y pwyllgor apêl gael eu hanfon iddo.
+(3) Caiff y pwyllgor apêl gynnal gwrandawiad mewn cysylltiad ag apêl ar unrhyw adeg ac yn unrhyw le a gyfarwyddir ganddo, ac os gofynnir iddo gynnal gwrandawiad o’r fath gan yr apelydd neu’r Pwyllgor Cymwysterau Offthalmig, rhaid iddo wneud hynny.
+(4) Rhaid anfon hysbysiad o’r gwrandawiad, o leiaf 14 o ddiwrnodau clir cyn dyddiad y gwrandawiad, drwy wasanaeth danfon cofnodedig at yr apelydd, i’r Pwyllgor Cymwysterau Offthalmig ac at unrhyw berson arall y mae Gweinidogion Cymru wedi anfon hysbysiad o’r apêl ato o dan is-baragraff (2).
+(5) Caiff naill ai’r apelydd neu’r Pwyllgor Cymwysterau Offthalmig, o fewn 1 mis ar ôl cael gwybod bod yr apêl wedi ei hatgyfeirio i bwyllgor apêl, neu ar ôl cael gwybod y bydd gwrandawiad o’r apêl yn cael ei gynnal, roi hysbysiad ei fod yn dymuno ymddangos gerbron y pwyllgor apêl.
+(6) Mae gan unrhyw barti i apêl hawlogaeth i ymddangos a chael ei glywed gan gwnsler neu gyfreithiwr ac—
+(a)
+mae gan y Pwyllgor Cymwysterau Offthalmig hawlogaeth i ymddangos drwy aelod neu drwy ei glerc neu swyddog arall sydd wedi ei benodi’n briodol at y diben;
+(b)
+mae gan yr apelydd hawlogaeth i ymddangos yn bersonol, drwy unrhyw aelod o deulu’r apelydd, drwy unrhyw gyfaill, neu drwy unrhyw swyddog neu unrhyw aelod o unrhyw sefydliad y mae’r apelydd yn aelod ohono.
+(7) Mae pwyllgor apêl i gael yr un pwerau â’r holl rai sydd gan y Pwyllgor Cymwysterau Offthalmig, gan gynnwys yn benodol y pŵer i gymeradwyo, ac os yw wedi ei fodloni bod apelydd yn meddu ar y cymwysterau a ragnodir gan baragraff 1, rhaid iddo roi’r gymeradwyaeth honno.
+(8) Rhaid i’r pwyllgor apêl, cyn gynted ag y bo’n ymarferol, hysbysu’r apelydd, y Pwyllgor Cymwysterau Offthalmig, Gweinidogion Cymru ac unrhyw berson arall y mae Gweinidogion Cymru wedi anfon hysbysiad o’r apêl ato o dan baragraff (2), am ei benderfyniad.
+(9) Yn ddarostyngedig i’r darpariaethau eraill yn y paragraff hwn, caiff y pwyllgor apêl osod gweithdrefn yr apêl fel y mae’n ystyried yn briodol.
+Dehongli
+4.  Yn yr Atodlen hon—
+mae “cymwysterau” (“qualifications”) yn cynnwys cymwysterau o ran profiad;
+mae i “y gwasanaeth iechyd” yr ystyr a roddir i “the health service” yn adran 206 o’r Ddeddf.
+(1)
+1946 p. 81.
+(2)
+1977 p. 49.Rheoliadau 10, 12, 13, 15, 16, 17, 19, 28 a 38
+ATODLEN 3
+Rhestrau cyfunol
+RHAN 1
+Yr wybodaeth yn y rhestr gyfunol
+Yr wybodaeth yn y rhestr offthalmig
+1.  Rhaid i restr offthalmig Bwrdd Iechyd Lleol gynnwys yr wybodaeth a ganlyn—
+(a)
+enwau llawn y personau y mae’r Bwrdd Iechyd Lleol wedi eu cynnwys ynddi;
+(b)
+rhif cofrestru proffesiynol pob un o’r personau hynny, ynghyd ag—
+(i)
+wedi ei nodi ar ôl y rhif hwnnw, y cod sefydliadol a roddir gan Weinidogion Cymru i’r Bwrdd Iechyd Lleol, a
+(ii)
+wedi ei nodi o flaen y rhif hwnnw, y blaenlythrennau OL;
+(c)
+yn achos unigolyn, pan fo cydsyniad yn cael ei roi, dyddiad geni’r person hwnnw, neu pan na fo cydsyniad yn cael ei roi neu yn achos optegydd corfforedig, y dyddiad y’i cofrestrwyd gyntaf yn y gofrestr;
+(d)
+y dyddiad y cafodd enw’r person ei gynnwys gyntaf yn y rhestr offthalmig;
+(e)
+os yw’r ymarferydd cymwysedig wedi gwneud trefniadau â’r Bwrdd Iechyd Lleol i ddarparu gwasanaethau symudol, y ffaith honno;
+(f)
+os yw’r ymarferydd cymwysedig yn bractis symudol, y ffaith honno;
+(g)
+cyfeiriadau unrhyw leoedd yn ardal leol y Bwrdd Iechyd Lleol y mae’r ymarferydd cymwysedig wedi ymgymryd â darparu gwasanaethau offthalmig sylfaenol nad ydynt yn wasanaethau symudol ynddynt, neu yn achos practis symudol, y cyfeiriad y gellir anfon gohebiaeth iddo mewn cysylltiad â’r ddarpariaeth honno, a chyfeiriadau unrhyw ganolfannau dydd neu ganolfannau preswyl yr ymwelir â hwy yn rheolaidd;
+(h)
+manylion y diwrnodau y mae’r ymarferydd cymwysedig wedi cytuno i ddarparu gwasanaethau offthalmig sylfaenol arnynt yn y cyfeiriadau hynny, a rhwng pa oriau y mae wedi cytuno i ddarparu’r gwasanaethau hynny, neu yn achos ymweliadau â chanolfannau dydd neu ganolfannau preswyl gan bractis symudol, y misoedd y bwriedir cynnal ymweliadau ynddynt a’r ysbaid y bwriedir ei gadael rhwng yr ymweliadau hynny, fel y cytunir arnynt â’r Bwrdd Iechyd Lleol;
+(i)
+enwau pob ymarferydd cymwysedig arall a gymerir ymlaen yn rheolaidd fel dirprwy, cyfarwyddwr neu gyflogai i gynorthwyo i ddarparu gwasanaethau offthalmig sylfaenol yn unrhyw un neu ragor o’r cyfeiriadau hynny, neu i gynorthwyo i ddarparu gwasanaethau symudol.
+Yr wybodaeth yn y rhestr atodol
+2.  Rhaid i restr atodol Bwrdd Iechyd Lleol gynnwys yr wybodaeth a ganlyn—
+(a)
+enwau llawn y personau y mae’r Bwrdd Iechyd Lleol wedi eu cynnwys ynddi;
+(b)
+rhif cofrestru proffesiynol pob un o’r personau hynny, ynghyd ag—
+(i)
+wedi ei nodi ar ôl y rhif hwnnw, y cod sefydliadol a roddir gan Weinidogion Cymru i’r Bwrdd Iechyd Lleol, a
+(ii)
+wedi ei nodi o flaen y rhif hwnnw, y blaenlythrennau SOL;
+(c)
+dyddiad geni, pan fo’r ymarferydd cymwysedig wedi rhoi cydsyniad, neu os na roddir cydsyniad, y dyddiad y cofrestrwyd yr ymarferydd cymwysedig gyntaf yn y gofrestr;
+(d)
+y dyddiad y cafodd enw’r person hwnnw ei gynnwys yn y rhestr atodol.
+RHAN 2
+Yr wybodaeth a’r ymgymeriadau sydd i’w darparu mewn ceisiadau
+Rhestrau offthalmig: yr wybodaeth sydd i’w chynnwys mewn cais
+3.  Rhaid i ymarferydd cymwysedig sy’n gwneud cais i gael ei gynnwys yn rhestr offthalmig Bwrdd Iechyd Lleol ddarparu’r wybodaeth a ganlyn—
+(a)
+enw llawn yr ymarferydd cymwysedig;
+(b)
+rhif cofrestru proffesiynol yr ymarferydd cymwysedig, ynghyd ag—
+(i)
+wedi ei nodi ar ôl y rhif hwnnw, y cod sefydliadol a roddir gan Weinidogion Cymru i’r Bwrdd Iechyd Lleol, a
+(ii)
+wedi ei nodi o flaen y rhif hwnnw, y blaenlythrennau OL;
+(c)
+yn achos unigolyn, pan fo cydsyniad yn cael ei roi, dyddiad geni’r person hwnnw, neu pan na fo cydsyniad yn cael ei roi neu yn achos optegydd corfforedig, y dyddiad y’i cofrestrwyd gyntaf yn y gofrestr;
+(d)
+manylion cyfeiriadau unrhyw leoedd yn ardal leol y Bwrdd Iechyd Lleol y mae’r ymarferydd cymwysedig yn ymgymryd â darparu gwasanaethau offthalmig sylfaenol ynddynt;
+(e)
+enwau pob ymarferydd meddygol offthalmig neu optometrydd arall a gymerir ymlaen yn rheolaidd fel dirprwy, cyfarwyddwr neu gyflogai i gynorthwyo i ddarparu gwasanaethau offthalmig sylfaenol yn unrhyw un neu ragor o’r cyfeiriadau hynny, neu i gynorthwyo i ddarparu gwasanaethau symudol;
+(f)
+os yw’r ymarferydd cymwysedig yn dymuno darparu gwasanaethau symudol, y cyfeiriadau y gellir anfon gohebiaeth iddynt mewn cysylltiad â darpariaeth o’r fath;
+(g)
+manylion y diwrnodau y mae’r ymarferydd cymwysedig yn cytuno i ddarparu gwasanaethau offthalmig sylfaenol arnynt, a rhwng pa oriau y mae wedi cytuno i ddarparu’r gwasanaethau hynny;
+(h)
+rhif y cwmni, os yw’n briodol;
+(i)
+cyfeiriad preifat yr ymarferydd cymwysedig, neu yn achos optegydd corfforedig, cyfeiriad ei swyddfa gofrestredig, ac, yn y naill achos neu’r llall, rhif ffôn;
+(j)
+cymwysterau’r ymarferydd cymwysedig ac ymhle y’u cafwyd;
+(k)
+manylion cronolegol profiad proffesiynol yr ymarferydd cymwysedig (gan gynnwys dyddiadau dechrau a gorffen pob swydd ynghyd ag esboniad am unrhyw fylchau rhwng swyddi), ynghyd ag unrhyw fanylion ategol, ac esboniad ynghylch pam y diswyddwyd yr ymarferydd cymwysedig o unrhyw swydd;
+(l)
+enwau a chyfeiriadau dau ganolwr sy’n fodlon darparu geirdaon mewn cysylltiad â dwy swydd ddiweddar (caniateir cynnwys unrhyw swydd gyfredol) fel ymarferydd cymwysedig, a barhaodd am 3 mis o leiaf heb doriad sylweddol, a phan na fo hyn yn bosibl, esboniad llawn ac enwau a chyfeiriadau canolwyr eraill;
+(m)
+unrhyw wybodaeth y mae’r ymarferydd cymwysedig wedi ymgymryd â’i darparu o dan yr Atodlen hon;
+(n)
+manylion unrhyw gais sydd yn yr arfaeth neu gais gohiriedig i gynnwys ymarferydd cymwysedig yn rhestr offthalmig neu unrhyw restr arall Bwrdd Iechyd Lleol neu gorff cyfatebol, ynghyd ag enw’r Bwrdd Iechyd Lleol neu’r corff cyfatebol sydd o dan sylw;
+(o)
+manylion unrhyw Fwrdd Iechyd Lleol neu gorff cyfatebol y mae’r ymarferydd cymwysedig wedi ei gynnwys yn ei restrau, y mae enw’r ymarferydd cymwysedig wedi ei ddileu neu ei ddileu’n ddigwyddiadol o’i restrau, y mae wedi ei atal dros dro o’i restrau, y gwrthodwyd ei gynnwys yn ei restrau neu y mae wedi ei gynnwys yn amodol yn ei restrau, ynghyd ag esboniad o’r rhesymau dros hynny;
+(p)
+os yw’r ceisydd yn gyfarwyddwr i gorff corfforedig sydd wedi ei gynnwys mewn unrhyw restr neu restr gyfatebol, neu sydd â chais yn yr arfaeth (gan gynnwys cais gohiriedig) i’w gynnwys mewn rhestr o’r fath, enw a chyfeiriad swyddfa gofrestredig y corff hwnnw a manylion y Bwrdd Iechyd Lleol neu’r corff cyfatebol sydd o dan sylw;
+(q)
+os yw’r ceisydd yn gyfarwyddwr, neu os oedd, yn y 6 mis blaenorol, yn gyfarwyddwr, neu os oedd, ar adeg y digwyddiadau cychwynnol, yn gyfarwyddwr, i gorff corfforedig, manylion unrhyw restr neu restr gyfatebol y gwrthodwyd cynnwys y corff hwnnw ynddi, y’i cynhwyswyd yn amodol ynddi, y’i dilëwyd ohoni neu y’i dilëwyd yn ddigwyddiadol ohoni neu y mae wedi ei atal dros dro ohoni ar hyn o bryd, ynghyd ag esboniad o’r rhesymau dros hyn a manylion y Bwrdd Iechyd Lleol neu’r corff cyfatebol sydd o dan sylw;
+(r)
+yr holl awdurdod sy’n angenrheidiol i alluogi’r Bwrdd Iechyd Lleol i ofyn i unrhyw gyflogwr (neu gyn-gyflogwr), unrhyw gorff trwyddedu, unrhyw gorff rheoleiddio neu unrhyw gorff arall yn y Deyrnas Unedig neu yn rhywle arall, am wybodaeth sy’n ymwneud ag ymchwiliad cyfredol ganddo, neu ymchwiliad â chanlyniad anffafriol ganddo, i’r ymarferydd cymwysedig;
+(s)
+unrhyw wybodaeth arall sy’n rhesymol ofynnol gan y Bwrdd Iechyd Lleol.
+Rhestrau offthalmig: yr ymgymeriadau a’r cydsyniad
+4.  Rhaid i ymarferydd cymwysedig sy’n gwneud cais i gael ei gynnwys yn rhestr offthalmig Bwrdd Iechyd Lleol ddarparu’r ymgymeriadau a’r cydsyniad a ganlyn—
+(a)
+ymgymeriad i ddarparu’r wybodaeth sy’n ofynnol gan yr Atodlen hon ac unrhyw wybodaeth bellach y gofynnir amdani gan y Bwrdd Iechyd Lleol;
+(b)
+ymgymeriad i hysbysu’r Bwrdd Iechyd Lleol o fewn 7 niwrnod am unrhyw newidiadau perthnasol i’r wybodaeth a ddarparwyd yn y cais hyd nes y penderfynir yn derfynol ar y cais;
+(c)
+ymgymeriad i beidio â darparu na chynorthwyo i ddarparu gwasanaethau offthalmig sylfaenol yn ardal Bwrdd Iechyd Lleol arall neu gorff cyfatebol y mae’r ymarferydd cymwysedig wedi ei ddileu o’i restr gyfunol neu o’i restr gyfatebol, ac eithrio pan fo wedi ei ddileu ar gais yr ymarferydd cymwysedig neu yn unol â rheoliad 17(3)(e), heb gydsyniad ysgrifenedig y Bwrdd Iechyd Lleol hwnnw neu’r corff cyfatebol hwnnw;
+(d)
+cydsyniad i wybodaeth gael ei datgelu yn unol â’r Rheoliadau hyn.
+Rhestrau atodol: yr wybodaeth sydd i’w darparu mewn cais
+5.  Rhaid i ymarferydd cymwysedig sy’n gwneud cais i gael ei gynnwys yn rhestr atodol Bwrdd Iechyd Lleol ddarparu’r wybodaeth a ganlyn—
+(a)
+enw llawn yr ymarferydd cymwysedig;
+(b)
+dyddiad geni yr ymarferydd cymwysedig;
+(c)
+cyfeiriad a rhif ffôn preifat yr ymarferydd cymwysedig;
+(d)
+manylion cymwysterau’r ymarferydd cymwysedig ac ymhle y’u cafwyd;
+(e)
+datganiad bod yr ymarferydd cymwysedig yn ymarferydd meddygol offthalmig neu’n optometrydd sydd wedi ei gofrestru’n llawn, neu’n fyfyriwr optometreg, ac sydd wedi ei gynnwys yn y gofrestr;
+(f)
+rhif cofrestru proffesiynol yr ymarferydd cymwysedig a’r dyddiad y’i cofrestrwyd gyntaf yn y gofrestr;
+(g)
+manylion cronolegol profiad proffesiynol yr ymarferydd cymwysedig (gan gynnwys dyddiadau dechrau a gorffen pob swydd ynghyd ag esboniad am unrhyw fylchau rhwng swyddi), ynghyd ag unrhyw fanylion ategol, ac esboniad ynghylch pam y diswyddwyd yr ymarferydd cymwysedig o unrhyw swydd;
+(h)
+ac eithrio pan fo’r ceisydd yn fyfyriwr optometreg, enwau a chyfeiriadau dau ganolwr sy’n fodlon darparu geirdaon mewn cysylltiad â dwy swydd ddiweddar (caniateir cynnwys unrhyw swydd gyfredol) fel ymarferydd cymwysedig, a barhaodd am 3 mis o leiaf heb doriad sylweddol, a phan na fo hyn yn bosibl, esboniad llawn ac enwau a chyfeiriadau canolwyr eraill;
+(i)
+pa un a oes gan yr ymarferydd cymwysedig unrhyw gais yn yr arfaeth, gan gynnwys cais gohiriedig, i’w gynnwys mewn rhestr gyfunol neu restr gyfatebol ac, os felly, manylion y cais hwnnw;
+(j)
+manylion unrhyw restr Bwrdd Iechyd Lleol neu restr gyfatebol y mae enw’r ymarferydd cymwysedig wedi ei ddileu ohoni, neu wedi ei ddileu yn ddigwyddiadol ohoni, neu y gwrthodwyd ei gynnwys ynddi neu y mae wedi ei gynnwys yn amodol ynddi, ynghyd ag esboniad o’r rhesymau dros hynny;
+(k)
+os yw’r ymarferydd cymwysedig yn gyfarwyddwr i gorff corfforedig sydd wedi ei gynnwys mewn unrhyw restr gyfunol neu restr gyfatebol, neu sydd â chais yn yr arfaeth (gan gynnwys cais gohiriedig) i’w gynnwys mewn rhestr o’r fath, enw a chyfeiriad swyddfa gofrestredig y corff hwnnw a manylion y Bwrdd Iechyd Lleol neu’r corff cyfatebol sydd o dan sylw;
+(l)
+pan fo’r ymarferydd yn gyfarwyddwr, neu pan oedd, yn y 6 mis blaenorol, yn gyfarwyddwr, neu pan oedd, ar adeg y digwyddiadau cychwynnol, yn gyfarwyddwr, i gorff corfforedig, manylion unrhyw restr gyfunol neu restr gyfatebol y gwrthodwyd cynnwys y corff hwnnw ynddi, y’i cynhwyswyd yn amodol ynddi, y’i dilëwyd ohoni neu y’i dilëwyd yn ddigwyddiadol ohoni neu y mae wedi ei atal dros dro ohoni ar hyn o bryd, ynghyd ag esboniad o’r rhesymau dros hyn a manylion y Bwrdd Iechyd Lleol neu’r corff cyfatebol sydd o dan sylw;
+(m)
+unrhyw wybodaeth arall sy’n rhesymol ofynnol gan y Bwrdd Iechyd Lleol.
+Rhestrau atodol: yr ymgymeriadau a’r cydsyniadau
+6.  Rhaid i ymarferydd cymwysedig sy’n gwneud cais i gael ei gynnwys yn rhestr atodol Bwrdd Iechyd Lleol ddarparu’r ymgymeriadau a’r cydsyniadau a ganlyn—
+(a)
+ymgymeriad i ddarparu’r wybodaeth a’r ddogfen, os ydynt yn berthnasol, sy’n ofynnol gan reoliad 16;
+(b)
+ymgymeriad i beidio â chynorthwyo i ddarparu gwasanaethau offthalmig sylfaenol yn ardal Bwrdd Iechyd Lleol arall neu gorff cyfatebol y mae’r ymarferydd cymwysedig wedi ei ddileu o’i restr gyfunol neu o’i restr gyfatebol, ac eithrio pan fo wedi ei ddileu ar gais yr ymarferydd cymwysedig neu yn unol â rheoliad 17(3)(e), heb gydsyniad ysgrifenedig y Bwrdd Iechyd Lleol hwnnw neu’r corff cyfatebol hwnnw;
+(c)
+ymgymeriad i hysbysu’r Bwrdd Iechyd Lleol o fewn 7 niwrnod am unrhyw newidiadau perthnasol i’r wybodaeth a ddarparwyd yn y cais hyd nes y penderfynir yn derfynol ar y cais;
+(d)
+ymgymeriad i hysbysu’r Bwrdd Iechyd Lleol os yw’r ymarferydd cymwysedig wedi ei gynnwys, neu’n gwneud cais i gael ei gynnwys, mewn unrhyw restr gyfunol neu restr gyfatebol arall a ddelir gan Fwrdd Iechyd Lleol neu gorff cyfatebol;
+(e)
+cydsyniad i wybodaeth gael ei datgelu yn unol â’r Rheoliadau hyn;
+(f)
+cydsyniad i’r Bwrdd Iechyd Lleol ofyn i unrhyw gyflogwr (neu gyn-gyflogwr), unrhyw gorff trwyddedu, unrhyw gorff rheoleiddio neu unrhyw gorff arall yn y Deyrnas Unedig neu yn rhywle arall, am wybodaeth sy’n ymwneud ag ymchwiliad cyfredol ganddo, neu ymchwiliad â chanlyniad anffafriol ganddo, i’r ymarferydd cymwysedig.
+Datganiadau
+7.—(1) Rhaid i ymarferydd cymwysedig sy’n gwneud cais i gael ei gynnwys yn rhestr gyfunol y Bwrdd Iechyd Lleol ddatgan a yw’r ymarferydd cymwysedig—
+(a)
+wedi ei euogfarnu o unrhyw drosedd yn y Deyrnas Unedig;
+(b)
+wedi ei rwymo yn dilyn euogfarn droseddol yn y Deyrnas Unedig;
+(c)
+wedi derbyn rhybuddiad gan yr heddlu yn y Deyrnas Unedig;
+(d)
+wedi derbyn cynnig amodol o dan adran 302 o Ddeddf Gweithdrefn Droseddol (Yr Alban) 1995(1) (cosb benodedig: cynnig amodol gan y procuradur ffisgal) neu wedi cytuno i dalu cosb o dan adran 115A o Ddeddf Gweinyddu Nawdd Cymdeithasol 1992(2) (cosb fel dewis arall yn lle erlyn);
+(e)
+mewn achos yn yr Alban am drosedd, wedi bod yn destun gorchymyn o dan adran 246(2) neu (3) o Ddeddf Gweithdrefn Droseddol (Yr Alban) 1995 (cerydd a rhyddhau’n ddiamod) i ryddhau’r ymarferydd yn ddiamod;
+(f)
+wedi ei euogfarnu yn rhywle arall o drosedd, neu’r hyn a fyddai’n drosedd pe bai wedi ei chyflawni yng Nghymru a Lloegr;
+(g)
+yn cael ei gyhuddo yn y Deyrnas Unedig o drosedd, neu’n cael ei gyhuddo yn rhywle arall o drosedd a fyddai’n drosedd pe bai wedi ei chyflawni yng Nghymru a Lloegr;
+(h)
+ar hyn o bryd yn destun unrhyw achos a allai arwain at euogfarn o’r fath, ac nad yw’r Bwrdd Iechyd Lleol wedi ei hysbysu amdano eto;
+(i)
+wedi bod yn destun unrhyw ymchwiliad i ymddygiad proffesiynol yr ymarferydd cymwysedig gan unrhyw gorff trwyddedu, unrhyw gorff rheoleiddio neu unrhyw gorff arall mewn unrhyw le yn y byd, gyda chanlyniad a oedd yn anffafriol;
+(j)
+ar hyn o bryd yn destun unrhyw ymchwiliad i ymddygiad proffesiynol yr ymarferydd cymwysedig gan unrhyw gorff trwyddedu, unrhyw gorff rheoleiddio neu unrhyw gorff arall mewn unrhyw le yn y byd;
+(k)
+ar hyn o bryd, neu wedi bod, gyda chanlyniad anffafriol, yn destun unrhyw ymchwiliad i ymddygiad proffesiynol yr ymarferydd cymwysedig mewn cysylltiad ag unrhyw gyflogaeth gyfredol neu flaenorol;
+(l)
+yn mynd, hyd eithaf gwybodaeth yr ymarferydd cymwysedig, yn destun unrhyw ymchwiliad gan Awdurdod Gwrth-dwyll y GIG mewn perthynas â thwyll, neu’n cael ei hysbysu am ganlyniad ymchwiliad o’r fath, a’r canlyniad hwnnw yn anffafriol;
+(m)
+yn destun ymchwiliad gan Fwrdd Iechyd Lleol arall neu gorff cyfatebol, a allai arwain at ddileu’r ymarferydd cymwysedig o restr gofal sylfaenol neu restr gyfatebol;
+(n)
+wedi ei ddileu, ei ddileu yn ddigwyddiadol, neu ei atal dros dro o restr gofal sylfaenol neu restr gyfatebol, wedi ei wrthod rhag ei gynnwys mewn rhestr o’r fath, neu wedi ei gynnwys yn amodol mewn rhestr o’r fath, ac os felly, pam ac enw’r Bwrdd Iechyd Lleol hwnnw neu enw’r corff cyfatebol hwnnw;
+(o)
+ar hyn o bryd, neu erioed wedi bod, yn ddarostyngedig i anghymhwysiad cenedlaethol.
+(2) Rhaid i ddatganiad o dan is-baragraff (1) roi manylion, gan gynnwys y dyddiadau yn fras, ynghylch ymhle y dygwyd yr ymchwiliad neu’r achos neu ymhle y mae i’w ddwyn, natur yr ymchwiliad neu’r achos hwnnw, ac unrhyw ganlyniad.
+(3) Os yw’r ymarferydd cymwysedig sy’n gwneud cais i gael ei gynnwys yn rhestr gyfunol y Bwrdd Iechyd Lleol, os bu, yn y 6 mis blaenorol, neu os oedd, ar adeg y digwyddiadau cychwynnol, yn gyfarwyddwr i gorff corfforedig, rhaid i’r ymarferydd cymwysedig ddatgan a yw’r corff corfforedig—
+(a)
+wedi ei euogfarnu o unrhyw drosedd yn y Deyrnas Unedig;
+(b)
+wedi ei euogfarnu yn rhywle arall o drosedd, neu’r hyn a fyddai’n drosedd pe bai wedi ei chyflawni yng Nghymru a Lloegr;
+(c)
+ar hyn o bryd yn destun unrhyw achos a allai arwain at euogfarn o’r fath, ac nad yw’r Bwrdd Iechyd Lleol wedi ei hysbysu amdano eto;
+(d)
+yn cael ei gyhuddo yn y Deyrnas Unedig o drosedd, neu’n cael ei gyhuddo yn rhywle arall o drosedd a fyddai’n drosedd pe bai wedi ei chyflawni yng Nghymru a Lloegr;
+(e)
+wedi bod yn destun unrhyw ymchwiliad i’w ddarpariaeth o wasanaethau proffesiynol gan unrhyw gorff trwyddedu, unrhyw gorff rheoleiddio neu unrhyw gorff arall mewn unrhyw le yn y byd, gyda chanlyniad a oedd yn anffafriol;
+(f)
+ar hyn o bryd yn destun unrhyw ymchwiliad i’w ddarpariaeth o wasanaethau proffesiynol gan unrhyw gorff trwyddedu, unrhyw gorff rheoleiddio neu unrhyw gorff arall mewn unrhyw le yn y byd;
+(g)
+yn mynd, hyd eithaf gwybodaeth yr ymarferydd cymwysedig, yn destun unrhyw ymchwiliad gan Awdurdod Gwrth-dwyll y GIG mewn perthynas â thwyll, neu’n cael ei hysbysu am ganlyniad ymchwiliad o’r fath, a’r canlyniad hwnnw yn anffafriol;
+(h)
+yn destun unrhyw ymchwiliad gan Fwrdd Iechyd Lleol arall a allai arwain at ei ddileu o restr gofal sylfaenol neu restr gyfatebol;
+(i)
+wedi ei ddileu, ei ddileu yn ddigwyddiadol, neu ei atal dros dro o restr gofal sylfaenol neu restr gyfatebol, wedi ei wrthod rhag ei gynnwys mewn rhestr o’r fath, neu wedi ei gynnwys yn amodol mewn rhestr o’r fath, ac os felly, pam ac enw’r Bwrdd Iechyd Lleol hwnnw neu enw’r corff cyfatebol hwnnw.
+(4) Rhaid i ddatganiad o dan is-baragraff (3) roi enw a chyfeiriad swyddfa gofrestredig y corff corfforedig a manylion unrhyw ymchwiliad neu achos a ddygwyd neu sydd i’w ddwyn, gan gynnwys natur yr ymchwiliad neu’r achos, lle a thua pryd y cynhaliwyd yr ymchwiliad neu’r achos hwnnw neu y mae i’w gynnal, ac unrhyw ganlyniad.
+(5) Pan fo’r ymarferydd cymwysedig sy’n gwneud cais i gael ei gynnwys yn rhestr offthalmig Bwrdd Iechyd Lleol yn optegydd corfforedig, rhaid i’r ymarferydd cymwysedig ddatgan a yw unrhyw un neu ragor o’i gyfarwyddwyr—
+(a)
+wedi ei euogfarnu o unrhyw drosedd yn y Deyrnas Unedig;
+(b)
+wedi ei rwymo yn dilyn euogfarn droseddol yn y Deyrnas Unedig;
+(c)
+wedi derbyn rhybuddiad gan yr heddlu yn y Deyrnas Unedig;
+(d)
+wedi derbyn cynnig amodol o dan adran 302 o Ddeddf Gweithdrefn Droseddol (Yr Alban) 1995 (cosb benodedig: cynnig amodol gan y procuradur ffisgal) neu wedi cytuno i dalu cosb o dan adran 115A o Ddeddf Gweinyddu Nawdd Cymdeithasol 1992 (cosb fel dewis arall yn lle erlyn);
+(e)
+mewn achos yn yr Alban am drosedd, wedi bod yn destun gorchymyn o dan adran 246(2) neu (3) o Ddeddf Gweithdrefn Droseddol (Yr Alban) 1995 (cerydd a rhyddhau’n ddiamod) i ryddhau’r cyfarwyddwr hwnnw yn ddiamod;
+(f)
+wedi ei euogfarnu yn rhywle arall o drosedd, neu’r hyn a fyddai’n drosedd pe bai wedi ei chyflawni yng Nghymru a Lloegr;
+(g)
+ar hyn o bryd yn destun unrhyw achos a allai arwain at euogfarn o’r fath, ac nad yw’r Bwrdd Iechyd Lleol wedi ei hysbysu amdano eto;
+(h)
+ar hyn o bryd yn destun unrhyw ymchwiliad i ymddygiad proffesiynol y cyfarwyddwr hwnnw gan unrhyw gorff trwyddedu, unrhyw gorff rheoleiddio neu unrhyw gorff arall;
+(i)
+hyd eithaf gwybodaeth y cyfarwyddwr hwnnw, yn destun unrhyw ymchwiliad gan Awdurdod Gwrth-dwyll y GIG mewn perthynas â thwyll, neu’n cael ei hysbysu am ganlyniad ymchwiliad o’r fath, a’r canlyniad hwnnw yn anffafriol;
+(j)
+yn destun unrhyw ymchwiliad gan Fwrdd Iechyd Lleol arall neu gorff cyfatebol a allai arwain at ddileu’r cyfarwyddwr hwnnw o restr gofal sylfaenol neu restr gyfatebol;
+(k)
+wedi ei ddileu, ei ddileu yn ddigwyddiadol, neu ei atal dros dro o restr gofal sylfaenol neu restr gyfatebol, wedi ei wrthod rhag ei gynnwys mewn rhestr o’r fath, neu wedi ei gynnwys yn amodol mewn rhestr o’r fath, ac os felly, pam ac enw’r Bwrdd Iechyd Lleol hwnnw neu enw’r corff cyfatebol hwnnw.
+(6) Rhaid i ddatganiad o dan is-baragraff (5) roi manylion, gan gynnwys y dyddiadau yn fras, ynghylch ymhle y dygwyd unrhyw ymchwiliad neu achos neu ymhle y mae i’w ddwyn, natur yr ymchwiliad neu’r achos hwnnw, ac unrhyw ganlyniad.
+RHAN 3
+Penderfynu ceisiadau
+8.  Y seiliau y mae rhaid i Fwrdd Iechyd Lleol wrthod cynnwys ymarferydd cymwysedig yn ei restr gyfunol arnynt yw—
+(a)
+bod yr ymarferydd cymwysedig wedi ei euogfarnu yn y Deyrnas Unedig o lofruddiaeth;
+(b)
+bod yr ymarferydd cymwysedig yn ddarostyngedig i anghymhwysiad cenedlaethol;
+(c)
+nad yw’r ymarferydd cymwysedig wedi darparu gwybodaeth bellach o dan reoliad 15(5);
+(d)
+nad yw’r ymarferydd cymwysedig wedi hysbysu’r Bwrdd Iechyd Lleol o dan reoliad 28(6);
+(e)
+nad yw’r Bwrdd Iechyd Lleol wedi ei fodloni ynghylch bwriad yr ymarferydd cymwysedig i ddarparu, neu i gynorthwyo i ddarparu, gwasanaethau offthalmig sylfaenol (yn ôl y digwydd) yn ardal y Bwrdd Iechyd Lleol;
+(f)
+bod yr ymarferydd cymwysedig—
+(i)
+yn gwneud cais i gael ei gynnwys yn y rhestr offthalmig, ond ei fod wedi ei gynnwys yn rhestr atodol unrhyw Fwrdd Iechyd Lleol, neu
+(ii)
+yn gwneud cais i gael ei gynnwys yn y rhestr atodol, ond ei fod wedi ei gynnwys naill ai yn rhestr offthalmig unrhyw Fwrdd Iechyd Lleol neu yn rhestr atodol Bwrdd Iechyd Lleol arall oni bai, yn y naill achos neu’r llall, fod yr ymarferydd cymwysedig wedi rhoi hysbysiad yn ysgrifenedig i’r Bwrdd Iechyd Lleol hwnnw ei fod yn dymuno tynnu’n ôl o’r rhestr honno;
+(g)
+ac eithrio mewn perthynas â myfyriwr optometreg, fod y Bwrdd Iechyd Lleol yn ystyried nad yw’r ymarferydd cymwysedig wedi ei gymhwyso i ddarparu, neu i gynorthwyo i ddarparu, gwasanaethau offthalmig sylfaenol (fel y bo’n briodol);
+(h)
+mewn perthynas â myfyriwr optometreg, fod y Bwrdd Iechyd Lleol yn ystyried nad yw’r person wedi ei gymhwyso i gynorthwyo i ddarparu gwasanaethau o dan oruchwyliaeth.
+9.  Y seiliau y caniateir i Fwrdd Iechyd Lleol wrthod cynnwys ymarferydd cymwysedig yn ei restr gyfunol arnynt yw—
+(a)
+bod y Bwrdd Iechyd Lleol, ar ôl adolygu cais yr ymarferydd cymwysedig ac unrhyw wybodaeth berthnasol arall neu unrhyw ddogfennau perthnasol eraill, yn ystyried bod yr ymarferydd cymwysedig yn anaddas i’w gynnwys yn ei restr gyfunol;
+(b)
+nad yw’r Bwrdd Iechyd Lleol, ar ôl gwirio’r wybodaeth a ddarparwyd gan yr ymarferydd cymwysedig, wedi ei fodloni gan yr wybodaeth a ddarparwyd yng nghais yr ymarferydd cymwysedig;
+(c)
+ar ôl cael geirdaon gan y canolwyr a enwir gan yr ymarferydd cymwysedig o dan Ran 2 o Atodlen 3, nad yw’r Bwrdd Iechyd Lleol wedi ei fodloni gan y geirdaon hynny;
+(d)
+ar ôl gwirio gydag Awdurdod Gwrth-dwyll y GIG ynghylch unrhyw ffeithiau y mae’r Bwrdd Iechyd Lleol yn ystyried eu bod yn berthnasol mewn perthynas ag unrhyw ymchwiliad i dwyll, ar hyn o bryd neu yn y gorffennol, sy’n ymwneud â’r ymarferydd cymwysedig neu sy’n gysylltiedig ag ef ac, ar ôl ystyried y ffeithiau hyn ac unrhyw ffeithiau eraill yn ei feddiant sy’n ymwneud â thwyll neu sy’n ymwneud â’r ymarferydd cymwysedig, fod y Bwrdd Iechyd Lleol yn ystyried bod y rhain yn cyfiawnhau gwrthodiad o’r fath;
+(e)
+bod y Bwrdd Iechyd Lleol yn ystyried bod seiliau rhesymol dros ddod i’r casgliad y byddai cynnwys yr ymarferydd cymwysedig yn y rhestr gyfunol yn niweidio effeithlonrwydd y gwasanaethau y byddai’r ymarferydd cymwysedig yn eu darparu neu’n cynorthwyo i’w darparu;
+(f)
+ar ôl gwirio gyda Gweinidogion Cymru ynghylch unrhyw ffeithiau y maent yn ystyried eu bod yn berthnasol mewn perthynas ag ymchwiliadau neu achosion, ar hyn o bryd neu yn y gorffennol, sy’n ymwneud â’r ymarferydd cymwysedig neu sy’n gysylltiedig ag ef ac, ar ôl ystyried y rhain ac unrhyw ffeithiau eraill yn ei feddiant sy’n ymwneud â’r ymarferydd cymwysedig neu sy’n gysylltiedig ag ef, fod y Bwrdd Iechyd Lleol yn ystyried bod y rhain yn cyfiawnhau gwrthodiad o’r fath;
+(g)
+bod yr ymarferydd cymwysedig, ar neu ar ôl 30 Gorffennaf 2002 yn achos y rhestr offthalmig, neu ar neu ar ôl 1 Chwefror 2006 yn achos y rhestr atodol, wedi ei euogfarnu yn y Deyrnas Unedig o unrhyw drosedd (ac eithrio llofruddiaeth) ac wedi ei ddedfrydu i gyfnod hwy na 6 mis o garchar (pa un a yw’n ddedfryd ohiriedig ai peidio).
+10.—(1) Pan fo’r Bwrdd Iechyd Lleol yn ystyried gwrthod cais ymarferydd cymwysedig ar sail sydd wedi ei chynnwys ym mharagraff 9, rhaid iddo ystyried yr holl ffeithiau y mae’n ymddangos iddo eu bod yn berthnasol, gan gynnwys—
+(a)
+natur unrhyw drosedd, ymchwiliad neu ddigwyddiad;
+(b)
+yr amser a aeth heibio ers unrhyw drosedd, digwyddiad, euogfarn neu ymchwiliad o’r fath;
+(c)
+a oes troseddau, digwyddiadau neu ymchwiliadau eraill i’w hystyried;
+(d)
+unrhyw gamau gweithredu a gymerwyd neu gosb a osodwyd gan unrhyw gorff trwyddedu, unrhyw gorff rheoleiddio neu unrhyw gorff arall, gan yr heddlu neu gan y llysoedd o ganlyniad i unrhyw drosedd, digwyddiad neu ymchwiliad o’r fath;
+(e)
+pa mor berthnasol yw unrhyw drosedd, ymchwiliad neu ddigwyddiad mewn cysylltiad â’r ddarpariaeth gan yr ymarferydd cymwysedig o wasanaethau offthalmig sylfaenol (neu gymorth gan yr ymarferydd cymwysedig wrth eu darparu, fel y bo’n gymwys) ac unrhyw risg debygol i unrhyw gleifion neu i arian cyhoeddus;
+(f)
+a oedd unrhyw drosedd yn drosedd rywiol at ddibenion Rhan 1 o Ddeddf Troseddau Rhywiol 2003(3), neu a fyddai wedi bod yn drosedd o’r fath pe bai wedi ei chyflawni yng Nghymru a Lloegr;
+(g)
+a yw’r ymarferydd cymwysedig wedi ei wrthod rhag ei gynnwys mewn rhestr gofal sylfaenol neu restr gyfatebol, wedi ei gynnwys yn amodol mewn rhestr o’r fath, wedi ei ddileu neu ei ddileu yn ddigwyddiadol o restr o’r fath neu wedi ei atal dros dro o restr o’r fath ar hyn o bryd, ac os felly, y ffeithiau sy’n ymwneud â’r mater a arweiniodd at weithredu felly, a’r rhesymau a roddwyd gan y Bwrdd Iechyd Lleol neu gan gorff cyfatebol dros weithredu felly;
+(h)
+a yw’r ymarferydd cymwysedig yn gyfarwyddwr, a yw wedi bod yn gyfarwyddwr yn y 6 mis blaenorol, neu a oedd ar adeg y digwyddiadau cychwynnol yn gyfarwyddwr, i gorff corfforedig y gwrthodwyd ei gynnwys mewn unrhyw restr gofal sylfaenol neu restr gyfatebol, y’i cynhwyswyd yn amodol mewn rhestr o’r fath, y’i dilëwyd neu y’i dilëwyd yn ddigwyddiadol o restr o’r fath, neu y mae wedi ei atal dros dro o restr o’r fath ar hyn o bryd, ac os felly, beth oedd y ffeithiau ym mhob achos a’r rhesymau a roddwyd gan y Bwrdd Iechyd Lleol neu gan gorff cyfatebol dros weithredu felly ym mhob achos;
+(i)
+yn achos optegydd corfforedig, a yw unrhyw un neu ragor o’i gyfarwyddwyr, neu unrhyw un a fu, yn y 6 mis blaenorol, yn un o’i gyfarwyddwyr, wedi ei wrthod rhag ei gynnwys mewn rhestr gofal sylfaenol neu restr gyfatebol, wedi ei gynnwys yn amodol mewn rhestr o’r fath, wedi ei ddileu neu ei ddileu yn ddigwyddiadol o restr o’r fath neu wedi ei atal dros dro o restr o’r fath, ac os felly, y ffeithiau sy’n ymwneud â’r mater a arweiniodd at weithredu felly, a’r rhesymau a roddwyd gan y Bwrdd Iechyd Lleol neu gan gorff cyfatebol dros weithredu felly.
+(2) Pan fydd y Bwrdd Iechyd Lleol yn ystyried y materion a nodir yn is-baragraff (1), rhaid iddo ystyried effaith gyffredinol yr holl faterion sy’n cael eu hystyried.
+RHAN 4
+Gohirio penderfyniadau
+11.—(1) Yr amgylchiadau y cyfeirir atynt yn rheoliad 15 yw—
+(a)
+bod yr ymarferydd cymwysedig wedi ei atal dros dro o restr gofal sylfaenol neu restr gyfatebol;
+(b)
+bod corff corfforedig y mae’r ymarferydd cymwysedig yn gyfarwyddwr iddo, wedi bod yn gyfarwyddwr iddo yn y 6 mis blaenorol neu yr oedd, ar adeg y digwyddiadau cychwynnol, yn gyfarwyddwr iddo, wedi ei atal dros dro o restr gofal sylfaenol neu restr gyfatebol;
+(c)
+unrhyw un neu ragor o’r amgylchiadau a grybwyllir yn is-baragraff (2), pan fo’r Bwrdd Iechyd Lleol yn ystyried ei bod yn debygol y byddai euogfarn, neu’r hyn sy’n cyfateb i euogfarn, neu ganfyddiad yn erbyn yr ymarferydd cymwysedig, yn arwain at ddileu’r ymarferydd cymwysedig o’i restr gyfunol os oedd wedi ei gynnwys ynddi.
+(2) Yr amgylchiadau yw—
+(a)
+achos troseddol sy’n weithredol mewn perthynas â’r ymarferydd cymwysedig yn y Deyrnas Unedig;
+(b)
+achos sy’n weithredol mewn perthynas â’r ymarferydd cymwysedig yn rhywle arall yn y byd sy’n ymwneud ag ymddygiad, a fyddai, pe bai wedi digwydd yn y Deyrnas Unedig, yn drosedd;
+(c)
+mewn cysylltiad â chorff corfforedig y mae’r ymarferydd cymwysedig yn gyfarwyddwr iddo, wedi bod yn gyfarwyddwr iddo yn y 6 mis blaenorol neu yr oedd, ar adeg y digwyddiadau cychwynnol, yn gyfarwyddwr iddo—
+(i)
+achos troseddol sy’n weithredol mewn perthynas â’r corff corfforedig hwnnw yn y Deyrnas Unedig;
+(ii)
+achos sy’n weithredol mewn perthynas â’r corff corfforedig hwnnw yn rhywle arall yn y byd sy’n ymwneud ag ymddygiad, a fyddai, pe bai wedi digwydd yn y Deyrnas Unedig, yn drosedd;
+(d)
+yn achos optegydd corfforedig, o ran unrhyw un neu ragor o’i gyfarwyddwyr, pan fo—
+(i)
+achos troseddol sy’n weithredol yn y Deyrnas Unedig;
+(ii)
+achos sy’n weithredol yn rhywle arall yn y byd sy’n ymwneud ag ymddygiad, a fyddai, pe bai wedi digwydd yn y Deyrnas Unedig, yn drosedd;
+(e)
+bod ymchwiliad sy’n weithredol mewn unrhyw le yn y byd gan gorff trwyddedu neu reoleiddio’r ymarferydd cymwysedig, neu unrhyw ymchwiliad arall (gan gynnwys ymchwiliad gan Fwrdd Iechyd Lleol arall neu gorff cyfatebol) sy’n ymwneud â’r ymarferydd cymwysedig yn ei swyddogaeth broffesiynol;
+(f)
+bod y Tribiwnlys Haen Gyntaf yn ystyried apêl gan yr ymarferydd cymwysedig yn erbyn penderfyniad gan Fwrdd Iechyd Lleol i wrthod cynnwys yr ymarferydd cymwysedig yn ei restr gyfunol, neu i’w gynnwys yn amodol mewn unrhyw restr a gedwir gan y Bwrdd Iechyd Lleol, neu i’w ddileu neu ei ddileu yn ddigwyddiadol o unrhyw restr o’r fath;
+(g)
+bod y Tribiwnlys Haen Gyntaf yn ystyried apêl gan gorff corfforedig y mae’r ymarferydd cymwysedig yn gyfarwyddwr iddo, wedi bod yn gyfarwyddwr iddo yn y 6 mis blaenorol, neu yr oedd, ar adeg y digwyddiadau cychwynnol, yn gyfarwyddwr iddo, yn erbyn penderfyniad gan Fwrdd Iechyd Lleol i wrthod cynnwys y corff corfforedig yn ei restr gyfunol, neu i’w gynnwys yn amodol mewn unrhyw restr a gedwir gan Fwrdd Iechyd Lleol neu gorff cyfatebol, neu i’w ddileu neu ei ddileu yn ddigwyddiadol o unrhyw restr o’r fath;
+(h)
+bod Awdurdod Gwrth-dwyll y GIG yn ymchwilio i’r ymarferydd cymwysedig mewn perthynas ag unrhyw dwyll;
+(i)
+bod ymchwiliad mewn perthynas ag unrhyw dwyll yn cael ei gynnal i gorff corfforedig, y mae’r ymarferydd cymwysedig yn gyfarwyddwr iddo, wedi bod yn gyfarwyddwr iddo yn y 6 mis blaenorol, neu yr oedd, ar adeg y digwyddiadau cychwynnol, yn gyfarwyddwr iddo;
+(j)
+bod y Tribiwnlys Haen Gyntaf yn ystyried cais gan Fwrdd Iechyd Lleol i’r ymarferydd cymwysedig gael ei anghymhwyso’n genedlaethol;
+(k)
+bod y Tribiwnlys Haen Gyntaf yn ystyried cais gan Fwrdd Iechyd Lleol i gorff corfforedig y mae’r ymarferydd cymwysedig yn gyfarwyddwr iddo, wedi bod yn gyfarwyddwr iddo yn y 6 mis blaenorol, neu yr oedd, ar adeg y digwyddiadau cychwynnol, yn gyfarwyddwr iddo, gael ei anghymhwyso’n genedlaethol.
+RHAN 5
+Dileu ymarferydd o restr gyfunol
+Y weithdrefn ar gyfer dileu ymarferydd o dan y Rheoliadau hyn
+12.—(1) O dan yr amgylchiadau yn is-baragraff (4), rhaid i Fwrdd Iechyd Lleol roi i’r ymarferydd cymwysedig—
+(a)
+hysbysiad am unrhyw honiad yn erbyn yr ymarferydd cymwysedig;
+(b)
+hysbysiad am y camau gweithredu y mae’r Bwrdd Iechyd Lleol yn eu hystyried ac ar ba sail;
+(c)
+y cyfle i gyflwyno sylwadau ysgrifenedig i’r Bwrdd Iechyd Lleol o fewn 28 o ddiwrnodau i ddyddiad yr hysbysiad o dan baragraff (b) (“y cyfnod penodedig”);
+(d)
+y cyfle i gyflwyno sylwadau mewn gwrandawiad llafar gerbron y Bwrdd Iechyd Lleol o fewn y cyfnod penodedig os yw’r ymarferydd cymwysedig yn gofyn am wrandawiad o’r fath.
+(2) Os yw’r ymarferydd cymwysedig yn gofyn am wrandawiad llafar, rhaid i’r gwrandawiad ddigwydd o fewn y cyfnod penodedig a chyn i’r Bwrdd Iechyd Lleol ddod i’w benderfyniad.
+(3) Os yw’r ymarferydd cymwysedig yn cyflwyno sylwadau ysgrifenedig neu os yw gwrandawiad llafar yn digwydd, rhaid i’r Bwrdd Iechyd Lleol ystyried unrhyw sylwadau a gyflwynir gan yr ymarferydd cymwysedig cyn dod i’w benderfyniad.
+(4) Mae’r paragraff hwn yn gymwys pan fo Bwrdd Iechyd Lleol yn ystyried—
+(a)
+dileu ymarferydd ar y seiliau yn rheoliad 17(3),
+(b)
+dileu ymarferydd am dorri amod a osodir o dan reoliad 14, neu
+(c)
+dileu ymarferydd yn ddigwyddiadol o dan reoliad 19.
+Y weithdrefn ar gyfer dileu ymarferydd o dan y Ddeddf
+13.  Rhaid i Fwrdd Iechyd Lleol ddilyn y weithdrefn a nodir ym mharagraff 12(1) i (3) pan fo’n ystyried—
+(a)
+dileu ymarferydd cymwysedig o’i restr offthalmig o dan adran 107 o’r Ddeddf (anghymhwyso ymarferwyr), neu
+(b)
+dileu ymarferydd cymwysedig yn ddigwyddiadol o’i restr offthalmig o dan adran 108 o’r Ddeddf.
+Y ffactorau sydd i’w hystyried cyn dileu ymarferydd
+14.  Wrth wneud unrhyw benderfyniad o dan adran 107 o’r Ddeddf (anghymhwyso ymarferwyr) neu reoliad 17(3)(d) o’r Rheoliadau hyn, rhaid i’r Bwrdd Iechyd Lleol ystyried effaith gyffredinol unrhyw ddigwyddiadau a throseddau perthnasol sy’n ymwneud â’r ymarferydd cymwysedig y mae’n ymwybodol ohonynt, pa amod bynnag y mae’n dibynnu arno.
+Y ffactorau sy’n ymwneud ag achosion anaddasrwydd
+15.—(1) Pan fo Bwrdd Iechyd Lleol yn ystyried pa un ai i ddileu ymarferydd cymwysedig o’i restr gyfunol o dan adran 107(4) o’r Ddeddf (anghymhwyso ymarferwyr) neu o dan reoliad 17(3)(d) o’r Rheoliadau hyn, mewn perthynas ag achos anaddasrwydd, rhaid iddo—
+(a)
+ystyried unrhyw wybodaeth sy’n ymwneud â’r ymarferydd cymwysedig y mae wedi ei chael yn unol ag unrhyw ddarpariaeth yn Rhan 2 o Atodlen 3 neu Atodlen 4,
+(b)
+gwirio gyda Gweinidogion Cymru ynghylch unrhyw ffeithiau y mae Gweinidogion Cymru yn ystyried eu bod yn berthnasol mewn perthynas ag ymchwiliadau neu achosion, ar hyn o bryd neu yn y gorffennol, sy’n ymwneud â’r ymarferydd cymwysedig neu sy’n gysylltiedig ag ef, ac ystyried y ffeithiau hynny, ac
+(c)
+wrth ddod i’w benderfyniad, ystyried y materion a nodir yn is-baragraff (2).
+(2) Y materion y cyfeirir atynt yn is-baragraff (1)(c) yw—
+(a)
+natur unrhyw drosedd, ymchwiliad neu ddigwyddiad;
+(b)
+yr amser a aeth heibio ers i unrhyw drosedd, digwyddiad, euogfarn neu ymchwiliad ddigwydd neu ddod i ben;
+(c)
+a oes troseddau, digwyddiadau neu ymchwiliadau eraill i’w hystyried;
+(d)
+unrhyw gamau gweithredu a gymerwyd neu gosb a osodwyd gan unrhyw gorff trwyddedu neu reoleiddio, gan yr heddlu neu gan y llysoedd o ganlyniad i unrhyw drosedd, digwyddiad neu ymchwiliad o’r fath;
+(e)
+pa mor berthnasol yw unrhyw drosedd, digwyddiad neu ymchwiliad i’r ddarpariaeth gan yr ymarferydd cymwysedig o wasanaethau offthalmig sylfaenol (neu gymorth gan yr ymarferydd cymwysedig wrth eu darparu, fel y bo’n gymwys) ac unrhyw risg debygol i unrhyw gleifion neu i arian cyhoeddus;
+(f)
+a oedd unrhyw drosedd yn drosedd rywiol at ddibenion Rhan 1 o Ddeddf Troseddau Rhywiol 2003, neu a fyddai wedi bod yn drosedd o’r fath pe bai wedi ei chyflawni yng Nghymru a Lloegr;
+(g)
+a yw’r ymarferydd cymwysedig wedi ei wrthod rhag ei gynnwys mewn rhestr gofal sylfaenol neu restr gyfatebol, wedi ei gynnwys yn amodol mewn rhestr o’r fath, wedi ei ddileu neu ei ddileu yn ddigwyddiadol o restr o’r fath neu wedi ei atal dros dro o restr o’r fath ar hyn o bryd, ac os felly, y ffeithiau sy’n ymwneud â’r mater a arweiniodd at weithredu felly, a’r rhesymau a roddwyd gan y Bwrdd Iechyd Lleol neu gan gorff cyfatebol dros weithredu felly;
+(h)
+a yw’r ymarferydd cymwysedig yn gyfarwyddwr, a yw wedi bod yn gyfarwyddwr yn y 6 mis blaenorol, neu a oedd ar adeg y digwyddiadau cychwynnol yn gyfarwyddwr, i gorff corfforedig y gwrthodwyd ei gynnwys mewn rhestr gofal sylfaenol neu restr gyfatebol, y’i cynhwyswyd yn amodol mewn rhestr o’r fath, y’i dilëwyd neu y’i dilëwyd yn ddigwyddiadol o restr o’r fath, neu y mae wedi ei atal dros dro o restr o’r fath ar hyn o bryd, ac os felly, beth oedd y ffeithiau ym mhob achos a’r rhesymau a roddwyd gan y Bwrdd Iechyd Lleol neu gan gorff cyfatebol dros weithredu felly ym mhob achos;
+(i)
+yn achos optegydd corfforedig, a yw person a oedd, ar adeg y digwyddiadau cychwynnol, yn un o’i gyfarwyddwyr, wedi ei wrthod rhag ei gynnwys mewn rhestr gofal sylfaenol neu restr gyfatebol, wedi ei gynnwys yn amodol mewn rhestr o’r fath, wedi ei ddileu neu ei ddileu yn ddigwyddiadol o restr o’r fath neu wedi ei atal dros dro o restr o’r fath, ac os felly, y ffeithiau sy’n ymwneud â’r mater a arweiniodd at weithredu felly, a’r rhesymau a roddwyd gan y Bwrdd Iechyd Lleol neu gorff cyfatebol dros weithredu felly.
+Y ffactorau sy’n ymwneud ag achosion o dwyll
+16.—(1) Pan fo Bwrdd Iechyd Lleol yn ystyried pa un ai i ddileu ymarferydd cymwysedig o’i restr gyfunol o dan adran 107(3) o’r Ddeddf (anghymhwyso ymarferwyr) neu o dan reoliad 17(3)(d) o’r Rheoliadau hyn, mewn perthynas ag achos o dwyll, rhaid iddo—
+(a)
+ystyried unrhyw wybodaeth sy’n ymwneud â’r ymarferydd cymwysedig y mae wedi ei chael yn unol ag unrhyw ddarpariaeth yn Rhan 2 o Atodlen 3 neu Atodlen 4,
+(b)
+gwirio gyda Gweinidogion Cymru ynghylch unrhyw ffeithiau y mae Gweinidogion Cymru yn ystyried eu bod yn berthnasol mewn perthynas ag ymchwiliadau neu achosion, ar hyn o bryd neu yn y gorffennol, sy’n ymwneud â’r ymarferydd cymwysedig neu sy’n gysylltiedig ag ef, ac ystyried y ffeithiau hynny, ac
+(c)
+wrth ddod i’w benderfyniad, ystyried y materion a nodir yn is-baragraff (2).
+(2) Y materion y cyfeirir atynt yn is-baragraff (1)(c) yw—
+(a)
+natur unrhyw achosion o dwyll;
+(b)
+yr amser a aeth heibio ers i’r achos diwethaf o dwyll ddigwydd ac ers i unrhyw ymchwiliad iddo ddod i ben;
+(c)
+a oes achosion eraill o dwyll neu droseddau eraill i’w hystyried;
+(d)
+unrhyw gamau gweithredu a gymerwyd gan unrhyw gorff trwyddedu, unrhyw gorff rheoleiddio neu unrhyw gorff arall, gan yr heddlu neu gan y llysoedd o ganlyniad i unrhyw drosedd, ymchwiliad neu achos o dwyll o’r fath;
+(e)
+pa mor berthnasol yw unrhyw ymchwiliad i achos o dwyll i’r ddarpariaeth gan yr ymarferydd cymwysedig o wasanaethau offthalmig sylfaenol (neu gymorth gan yr ymarferydd cymwysedig wrth eu darparu, fel y bo’n gymwys) a’r risg debygol i gleifion neu i arian cyhoeddus;
+(f)
+a yw’r ymarferydd cymwysedig wedi ei wrthod rhag ei gynnwys mewn rhestr gofal sylfaenol neu restr gyfatebol, wedi ei gynnwys yn amodol mewn rhestr o’r fath, wedi ei ddileu neu ei ddileu yn ddigwyddiadol o restr o’r fath neu wedi ei atal dros dro o restr o’r fath ar hyn o bryd, ac os felly, y ffeithiau sy’n ymwneud â’r mater a arweiniodd at weithredu felly, a’r rhesymau a roddwyd gan y Bwrdd Iechyd Lleol neu gan gorff cyfatebol dros weithredu felly;
+(g)
+a yw’r ymarferydd cymwysedig yn gyfarwyddwr, a yw wedi bod yn gyfarwyddwr yn y 6 mis blaenorol, neu a oedd ar adeg y digwyddiadau cychwynnol yn gyfarwyddwr, i gorff corfforedig y gwrthodwyd ei gynnwys mewn rhestr gofal sylfaenol neu restr gyfatebol, y’i cynhwyswyd yn amodol mewn rhestr o’r fath, y’i dilëwyd neu y’i dilëwyd yn ddigwyddiadol o restr o’r fath, neu y mae wedi ei atal dros dro o restr o’r fath ar hyn o bryd, ac os felly, beth oedd y ffeithiau ym mhob achos a’r rhesymau a roddwyd gan y Bwrdd Iechyd Lleol neu gan gorff cyfatebol ym mhob achos;
+(h)
+yn achos optegydd corfforedig, a yw person a oedd, ar adeg y digwyddiadau cychwynnol, yn un o’i gyfarwyddwyr, wedi ei wrthod rhag ei gynnwys mewn rhestr gofal sylfaenol neu restr gyfatebol, wedi ei gynnwys yn amodol mewn rhestr o’r fath, wedi ei ddileu neu ei ddileu yn ddigwyddiadol o restr o’r fath neu wedi ei atal dros dro o restr o’r fath, ac os felly, y ffeithiau sy’n ymwneud â’r mater a arweiniodd at weithredu felly, a’r rhesymau a roddwyd gan y Bwrdd Iechyd Lleol neu gan gorff cyfatebol dros weithredu felly.
+Y ffactorau sy’n ymwneud ag achosion effeithlonrwydd
+17.—(1) Pan fo Bwrdd Iechyd Lleol yn ystyried dileu ymarferydd cymwysedig o’i restr gyfunol o dan adran 107(2) o’r Ddeddf (anghymhwyso ymarferwyr) neu o dan reoliad 17(3)(d) o’r Rheoliadau hyn, mewn perthynas ag achos effeithlonrwydd, rhaid iddo—
+(a)
+ystyried unrhyw wybodaeth sy’n ymwneud â’r ymarferydd cymwysedig y mae wedi ei chael yn unol ag unrhyw ddarpariaeth yn Rhan 2 o Atodlen 3 neu Atodlen 4,
+(b)
+gwirio gyda Gweinidogion Cymru ynghylch unrhyw ffeithiau y mae Gweinidogion Cymru yn ystyried eu bod yn berthnasol mewn perthynas ag ymchwiliadau neu achosion, ar hyn o bryd neu yn y gorffennol, sy’n ymwneud â’r ymarferydd cymwysedig neu sy’n gysylltiedig ag ef, ac ystyried y ffeithiau hynny, ac
+(c)
+wrth ddod i’w benderfyniad, ystyried y materion y cyfeirir atynt yn is-baragraff (2).
+(2) Y materion y cyfeirir atynt yn is-baragraff (1)(c) yw—
+(a)
+a fyddai parhau i gynnwys yr ymarferydd cymwysedig yn y rhestr gyfunol yn niweidio effeithlonrwydd y gwasanaethau offthalmig sylfaenol—
+(i)
+a ddarperir gan yr ymarferydd cymwysedig, neu
+(ii)
+y mae’r ymarferydd cymwysedig yn cynorthwyo i’w darparu;
+(b)
+yr amser a aeth heibio ers i’r digwyddiad diwethaf ddigwydd ac ers i unrhyw ymchwiliad iddo ddod i ben;
+(c)
+unrhyw gamau gweithredu a gymerwyd gan unrhyw gorff trwyddedu, unrhyw gorff rheoleiddio neu unrhyw gorff arall, gan yr heddlu neu gan y llysoedd o ganlyniad i unrhyw ddigwyddiad o’r fath;
+(d)
+natur y digwyddiad ac a oes risg debygol i gleifion;
+(e)
+a yw’r ymarferydd cymwysedig wedi methu yn flaenorol â chyflenwi gwybodaeth, gwneud datganiad neu gydymffurfio ag ymgymeriad sy’n ofynnol gan y Rheoliadau hyn;
+(f)
+a yw’r ymarferydd cymwysedig erioed wedi methu â chydymffurfio â chais gan y Bwrdd Iechyd Lleol i ymgymryd ag asesiad gan NHS Resolution neu unrhyw un neu ragor o’r cyrff a oedd yn ei ragflaenu;
+(g)
+a yw’r ymarferydd cymwysedig wedi ei wrthod rhag ei gynnwys mewn rhestr gofal sylfaenol neu restr gyfatebol, wedi ei gynnwys yn amodol mewn rhestr o’r fath, wedi ei ddileu neu ei ddileu yn ddigwyddiadol o restr o’r fath neu wedi ei atal dros dro o restr o’r fath ar hyn o bryd, ac os felly, y ffeithiau sy’n ymwneud â’r mater a arweiniodd at weithredu felly, a’r rhesymau a roddwyd gan y Bwrdd Iechyd Lleol neu gan gorff cyfatebol dros weithredu felly;
+(h)
+a yw’r ymarferydd cymwysedig yn gyfarwyddwr, a yw wedi bod yn gyfarwyddwr yn y 6 mis blaenorol, neu a oedd ar adeg y digwyddiadau cychwynnol yn gyfarwyddwr, i gorff corfforedig y gwrthodwyd ei gynnwys mewn rhestr gofal sylfaenol neu restr gyfatebol, y’i cynhwyswyd yn amodol mewn rhestr o’r fath, y’i dilëwyd neu y’i dilëwyd yn ddigwyddiadol o restr o’r fath, neu y mae wedi ei atal dros dro o restr o’r fath ar hyn o bryd, ac os felly, beth oedd y ffeithiau ym mhob achos a’r rhesymau a roddwyd gan y Bwrdd Iechyd Lleol neu gan gorff cyfatebol dros weithredu felly ym mhob achos;
+(i)
+yn achos optegydd corfforedig, a yw person a oedd, ar adeg y digwyddiadau cychwynnol, yn un o’i gyfarwyddwyr, wedi ei wrthod rhag ei gynnwys mewn rhestr gofal sylfaenol neu restr gyfatebol, wedi ei gynnwys yn amodol mewn rhestr o’r fath, wedi ei ddileu neu ei ddileu yn ddigwyddiadol o restr o’r fath neu wedi ei atal dros dro o restr o’r fath, ac os felly, y ffeithiau sy’n ymwneud â’r mater a arweiniodd at weithredu felly, a’r rhesymau a roddwyd gan y Bwrdd Iechyd Lleol neu gan gorff cyfatebol dros weithredu felly.
+RHAN 6
+Dehongli
+Dehongli
+18.  Yn yr Atodlen hon—
+ystyr “digwyddiadau cychwynnol” (“originating events”) yw’r digwyddiadau a arweiniodd at yr euogfarn, yr ymchwiliad, yr achos cyfreithiol, yr atal dros dro, y gwrthod cynnwys, y cynnwys yn amodol, y dileu neu’r dileu yn ddigwyddiadol a ddigwyddodd;
+ystyr “y gofrestr” (“the register”) yw—
+(a)
+mewn perthynas ag ymarferydd meddygol offthalmig, cofrestr a gynhelir gan y Cyngor Meddygol Cyffredinol o dan Ddeddf Meddygaeth 1983, neu
+(b)
+mewn perthynas ag ymarferydd cymwysedig nad yw’n ymarferydd meddygol offthalmig, cofrestr a gynhelir gan y Cyngor Optegol Cyffredinol o dan Ddeddf Optegwyr 1989;
+ystyr “practis symudol” (“mobile practice”) yw contractwr—
+(a)
+sydd wedi gwneud trefniadau â’r Bwrdd Iechyd Lleol i ddarparu gwasanaethau symudol, a
+(b)
+nad oes ganddo fangre yn ardal y Bwrdd Iechyd Lleol hwnnw.
+(1)
+1995 p. 46.
+(2)
+1992 p. 5.
+(3)
+2003 p. 42.Rheoliadau 12, 14 ac 42
+ATODLEN 4
+Telerau Gwasanaeth
+Corffori darpariaethau
+1.—(1) Mae unrhyw ddarpariaethau o’r canlynol sy’n effeithio ar hawliau a rhwymedigaethau contractwyr yn ffurfio rhan o’r telerau gwasanaeth—
+(a)
+y Rheoliadau hyn;
+(b)
+y Datganiad;
+(c)
+y cyfarwyddydau ffioedd;
+(d)
+cymaint o Ran 2 o Reoliadau’r Gwasanaeth Iechyd Gwladol (Pwyllgorau Gwasanaethau a’r Tribiwnlys) 1992(1) ag sy’n ymwneud â’r canlynol—
+(i)
+ymchwilio i gwestiynau sy’n codi rhwng contractwyr a’u cleifion, ymchwiliadau eraill sydd i’w gwneud gan y pwyllgor disgyblu offthalmig (“y Pwyllgor”), a’r camau gweithredu y caiff y Pwyllgor eu cymryd o ganlyniad i ymchwiliadau o’r fath, gan gynnwys cadw tâl yn ôl oddi wrth gontractwr pan fo’r telerau gwasanaeth wedi eu torri;
+(ii)
+apelau i Weinidogion Cymru yn erbyn penderfyniadau’r Pwyllgor;
+(iii)
+ymchwilio i achosion o ddyroddi gormod o dalebau optegol yn dilyn profion golwg;
+(e)
+rheoliad 9 o Reoliadau’r Gwasanaeth Iechyd Gwladol (Ffioedd a Thaliadau Optegol) 1997(2) (dyroddi talebau gan ymarferwyr meddygol offthalmig neu optegwyr).
+(2) Rhaid i’r contractwr sicrhau bod unrhyw berson y mae’r contractwr yn ei gyflogi i gynorthwyo i ddarparu gwasanaethau offthalmig sylfaenol yn cydymffurfio â’r darpariaethau a restrir ym mharagraff (1)(a) i (e) i’r graddau y maent yn gymwys i’r personau hynny.
+(3) Yn y paragraff hwn, mae i “cyfarwyddydau ffioedd” yr ystyr a roddir yn rheoliad 32.
+Dyletswydd i roi sbectol sylfaenol ar gael
+2.—(1) Mae is-baragraffau (2) a (3) yn gymwys pan—
+(a)
+bo contractwr, yng nghwrs ei fusnes, yn cyflenwi sbectol at ddiben cywiro diffygion ar y golwg, a
+(b)
+bo person yn cyflwyno i’r contractwr hwnnw daleb ar gyfer cyflenwi teclynnau optegol, sydd wedi ei dyroddi o dan Reoliadau’r Gwasanaeth Iechyd Gwladol (Ffioedd a Thaliadau Optegol) 1997.
+(2) Ni chaiff contractwr dderbyn y daleb yn lle taliad mewn perthynas â sbectol ond os yw’r contractwr wedi rhoi ar gael i’r person o leiaf un sbectol sylfaenol (pa un a yw’r taliad mewn perthynas â’r sbectol sylfaenol honno neu mewn perthynas â sbectol arall).
+(3) At ddibenion y paragraff hwn, ystyr “sbectol sylfaenol” yw sbectol sy’n ffitio’r person yn briodol ac sydd—
+(a)
+yn cyfateb i bresgripsiwn y person, a
+(b)
+â gwerth sy’n hafal i wynebwerth y daleb neu’n llai nag wynebwerth y daleb.
+(4) Yn is-baragraff (3), mae i “wynebwerth” yr ystyr a roddir i “face value” yn Rheoliadau’r Gwasanaeth Iechyd Gwladol (Ffioedd a Thaliadau Optegol) 1997.
+Mangreoedd y mae gwasanaethau offthalmig sylfaenol i’w darparu ynddynt
+3.  Yn ddarostyngedig i baragraff 4, ni chaiff contractwr ddarparu gwasanaethau offthalmig sylfaenol ond ym mangre gofrestredig y contractwr.
+Darparu gwasanaethau symudol
+4.—(1) Ni chaiff contractwr sydd wedi gwneud trefniadau â Bwrdd Iechyd Lleol i ddarparu gwasanaethau symudol yn ardal y Bwrdd Iechyd Lleol hwnnw ond darparu’r gwasanaethau hynny yn unol ag is-baragraff (2).
+(2) Ni chaiff y contractwr ond darparu gwasanaethau symudol—
+(a)
+os yw’r claf wedi gofyn i’r contractwr ddarparu’r gwasanaethau hynny iddo, neu pan na fo gan y claf y gallu i wneud cais o’r fath, os yw perthynas i’r claf hwnnw neu brif ofalwr iddo, neu berson sydd wedi ei awdurdodi’n briodol, wedi gwneud cais o’r fath,
+(b)
+os yw amgylchiadau’r claf, sy’n ymwneud â’i salwch corfforol neu feddyliol neu ei anabledd corfforol neu feddyliol, yn ei gwneud yn amhosibl neu’n afresymol iddo gael gwasanaethau offthalmig sylfaenol mewn mangre gofrestredig, ac
+(c)
+os yw’r contractwr wedi ei fodloni bod y claf yn gymwys i gael gwasanaethau symudol yn unol â’r Rheoliadau hyn.
+Mangreoedd a chyfarpar
+5.—(1) Yn ddarostyngedig i is-baragraffau (2) i (6) a pharagraff 18(4), rhaid i gontractwr ddarparu, fel y bo’n angenrheidiol, le priodol a digonol ar gyfer ystafell ymgynghori ac ystafell aros, a chyfarpar addas ar gyfer darparu gwasanaethau offthalmig sylfaenol y mae’r contractwr wedi ymgymryd â’u darparu.
+(2) Rhaid i gontractwr, sydd wedi gwneud trefniadau â’r Bwrdd Iechyd Lleol i ddarparu gwasanaethau symudol, ddarparu cyfarpar addas ar gyfer darparu’r gwasanaethau hynny.
+(3) Pan fo’r amgylchiadau yn is-baragraff (4) yn gymwys, caiff contractwr, yn lle darparu’r lle a’r cyfarpar, fel sy’n ofynnol o dan is-baragraff (1), neu gyfarpar fel sy’n ofynnol o dan is-baragraff (2), ymrwymo i drefniadau o’r math a ddisgrifir yn is-baragraff (5), ar yr amod bod yr amodau a nodir yn is-baragraff (6) wedi eu bodloni.
+(4) Yr amgylchiadau y cyfeirir atynt yn is-baragraff (3) yw, o ran contractwr a oedd wedi ei gynnwys yn rhestr offthalmig Bwrdd Iechyd Lleol ar 31 Ionawr 2006—
+(a)
+nad yw’n darparu, neu nad yw’n darparu mwyach, le a chyfarpar, fel sy’n ofynnol o dan is-baragraff (1), neu gyfarpar fel sy’n ofynnol o dan is-baragraff (2), a
+(b)
+nad yw wedi ei gyflogi, mewn perthynas â’r gwasanaethau offthalmig sylfaenol y mae’r contractwr wedi ymgymryd â’u darparu yn ardal y Bwrdd Iechyd Lleol hwnnw, gan gontractwr arall.
+(5) Mae’r trefniadau y cyfeirir atynt yn is-baragraff (3) yn drefniadau y gellir eu gorfodi’n gyfreithiol y mae’r canlynol ar gael i’r contractwr odanynt ar gyfer darparu gwasanaethau offthalmig sylfaenol y mae’r contractwr wedi ymgymryd â’u darparu, sy’n caniatáu ar gyfer arolygu fel sy’n ofynnol o dan is-baragraff (7) neu (8)—
+(a)
+lle angenrheidiol, priodol a digonol ar gyfer ystafell ymgynghori ac ystafell aros a chyfarpar addas, neu
+(b)
+yn achos darparu gwasanaethau symudol, cyfarpar addas.
+(6) Yr amodau y cyfeirir atynt yn is-baragraff (3) yw bod y contractwr wedi bodloni’r Bwrdd Iechyd Lleol—
+(a)
+y gellir gorfodi’r trefniadau yn gyfreithiol a’u bod yn caniatáu ar gyfer arolygu fel sy’n ofynnol o dan is-baragraff (7) neu (8);
+(b)
+bod y lle a’r cyfarpar neu, yn achos darparu gwasanaethau symudol, y cyfarpar, a ddarperir o dan y trefniadau yn ddigonol ac yn addas.
+(7) Yn ddarostyngedig i is-baragraff (8) a pharagraff 18(4), rhaid i gontractwr, ar ôl cael cais ysgrifenedig gan y Bwrdd Iechyd Lleol i wneud hynny, ganiatáu mynediad ar bob adeg resymol, at ddibenion arolygu lle neu gyfarpar y contractwr, i swyddog sy’n awdurdodedig gan Weinidogion Cymru, neu i swyddog awdurdodedig neu aelod o’r Bwrdd Iechyd Lleol.
+(8) Ar ôl cael cais ysgrifenedig gan y Bwrdd Iechyd Lleol neu gan Weinidogion Cymru, rhaid i gontractwr sydd wedi gwneud trefniadau â’r Bwrdd Iechyd Lleol i ddarparu gwasanaethau symudol—
+(a)
+trefnu bod swyddog sy’n awdurdodedig gan y Bwrdd Iechyd Lleol neu gan Weinidogion Cymru yn cael arolygu ar adeg resymol y cyfleusterau a’r cyfarpar y mae’r contractwr yn eu defnyddio;
+(b)
+caniatáu i swyddog sy’n awdurdodedig gan Weinidogion Cymru neu gan y Bwrdd Iechyd Lleol hwnnw arolygu’r cyfleusterau a’r cyfarpar y mae’r contractwr yn eu defnyddio wrth ddarparu’r gwasanaethau hynny.
+(9) Rhaid i gontractwr roi sylw i’r cod ymarfer ar fynediad i fangreoedd a lunnir ac a gyhoeddir gan Weinidogion Cymru o dan adran 19(1) o Ddeddf Iechyd a Gofal Cymdeithasol (Ansawdd ac Ymgysylltu) (Cymru) 2020(3) (cod ymarfer ar fynediad i fangreoedd) (i’r graddau y mae’r cod yn berthnasol) wrth arfer unrhyw swyddogaeth sy’n ymwneud â darparu gwasanaethau iechyd neu wasanaethau cymdeithasol (o fewn ystyr y termau hynny yn adran 21 o’r Ddeddf honno).
+Arddangos hysbysiadau
+6.—(1) Yn ddarostyngedig i is-baragraff (2), rhaid i gontractwr arddangos yn amlwg ym mhob lle y mae’r contractwr yn darparu gwasanaethau offthalmig sylfaenol—
+(a)
+hysbysiad a thaflenni a ddarperir neu a gymeradwyir gan y Bwrdd Iechyd Lleol, sy’n nodi bod gwasanaethau offthalmig sylfaenol ar gael ac sy’n nodi pa ddisgrifiadau o gleifion y contractwr y caniateir gwneud taliad iddynt o dan Reoliadau’r Gwasanaeth Iechyd Gwladol (Ffioedd a Thaliadau Optegol) 1997, a
+(b)
+manylion y diwrnodau y mae’r contractwr wedi cytuno i ddarparu gwasanaethau offthalmig sylfaenol arnynt yn y lle hwnnw, a rhwng pa oriau y mae wedi cytuno i ddarparu’r gwasanaethau hynny.
+(2) Pan fo gwasanaethau symudol yn cael eu darparu, nid yw’n ofynnol arddangos hysbysiad ond i’r graddau y mae’n rhesymol ymarferol gwneud hynny.
+Y Gymraeg
+7.—(1) Pan fo’r contractwr yn darparu gwasanaethau offthalmig sylfaenol drwy gyfrwng y Gymraeg, rhaid i’r contractwr hysbysu’r Bwrdd Iechyd Lleol am y ffaith honno.
+(2) Rhaid i’r contractwr roi ar gael fersiwn Gymraeg o unrhyw ddogfen neu unrhyw ffurflen a ddarperir gan y Bwrdd Iechyd Lleol i’w defnyddio gan gleifion ac aelodau eraill o’r cyhoedd.
+(3) Pan fo’r contractwr yn arddangos arwydd neu hysbysiad newydd mewn cysylltiad â gwasanaethau offthalmig sylfaenol, rhaid i’r testun ar yr arwydd neu’r hysbysiad fod yn Gymraeg ac yn Saesneg.
+(4) Caiff y contractwr ddefnyddio’r gwasanaeth cyfieithu a gynigir gan y Bwrdd Iechyd Lleol at ddibenion is-baragraff (3).
+(5) Rhaid i’r contractwr annog personau sy’n darparu gwasanaethau offthalmig sylfaenol ac sy’n siarad Cymraeg i wisgo bathodyn, a ddarperir gan y Bwrdd Iechyd Lleol, sy’n cyfleu eu bod yn gallu siarad Cymraeg.
+(6) Rhaid i’r contractwr annog personau sy’n darparu gwasanaethau offthalmig sylfaenol i ddefnyddio gwybodaeth a/neu fynd i gyrsiau hyfforddi a digwyddiadau a ddarperir gan y Bwrdd Iechyd Lleol, fel y gallant ddatblygu—
+(a)
+ymwybyddiaeth o’r Gymraeg (gan gynnwys ymwybyddiaeth o’i hanes a’i rôl yn niwylliant Cymru), a
+(b)
+dealltwriaeth o sut y gellir defnyddio’r Gymraeg wrth ddarparu gwasanaethau offthalmig sylfaenol.
+(7) Rhaid i’r contractwr annog y rheini sy’n darparu gwasanaethau offthalmig sylfaenol i ganfod a chofnodi’r dewis iaith Cymraeg neu Saesneg a fynegir gan glaf neu ar ran claf.
+Yr amseroedd pan fo rhaid darparu gwasanaethau offthalmig sylfaenol
+8.  Rhaid i’r contractwr ddarparu gwasanaethau offthalmig sylfaenol yn ystod yr amseroedd y cytunwyd arnynt â’r Bwrdd Iechyd Lleol.
+Cofnodion
+9.—(1) Yn ddarostyngedig i baragraff 10, rhaid i gontractwr gadw cofnod priodol mewn cysylltiad â phob claf y mae’r contractwr yn darparu gwasanaethau offthalmig sylfaenol iddo.
+(2) Yn ddarostyngedig i baragraffau 10 a 18(4), rhaid i gontractwr ddal gafael ar bob cofnod o’r fath am gyfnod o 10 mlynedd ar ôl y dyddiad y cafodd y claf ei weld ddiwethaf neu hyd nes bod y claf yn troi’n 25 oed, pa un bynnag yw’r diweddaraf.
+(3) Yn ystod y cyfnod y cyfeirir ato yn is-baragraff (2), rhaid i gontractwr ddangos y cofnodion hynny pan fydd yn ofynnol iddo wneud hynny gan Fwrdd Iechyd Lleol neu gan Weinidogion Cymru—
+(a)
+i swyddog sydd wedi ei awdurdodi gan Fwrdd Iechyd Lleol neu gan Weinidogion Cymru, a
+(b)
+o fewn cyfnod, heb fod yn llai na 14 o ddiwrnodau, a bennir gan y Bwrdd Iechyd Lleol neu gan Weinidogion Cymru.
+Trefniadau eraill ar gyfer cofnodion
+10.—(1) Pan fo’r amgylchiadau yn is-baragraff (2) yn gymwys, caiff contractwr, yn lle cadw’r cofnodion sy’n ofynnol o dan baragraff 9, gydymffurfio â’r amodau a nodir yn is-baragraff (3).
+(2) Yr amgylchiadau y cyfeirir atynt yn is-baragraff (1) yw, o ran contractwr—
+(a)
+ei fod wedi ei gynnwys yn rhestr offthalmig Bwrdd Iechyd Lleol ar 31 Ionawr 2006,
+(b)
+nad yw’n cadw, neu nad yw’n cadw mwyach, gofnodion fel sy’n ofynnol o dan baragraff 9, ac
+(c)
+nad yw wedi ei gyflogi, mewn perthynas â’r gwasanaethau offthalmig sylfaenol y mae’r contractwr yn eu darparu yn ardal y Bwrdd Iechyd Lleol hwnnw, gan gontractwr arall.
+(3) Yr amodau y cyfeirir atynt yn is-baragraff (1) yw, o ran y contractwr—
+(a)
+ei fod wedi gwneud trefniadau y gellir eu gorfodi’n gyfreithiol—
+(i)
+bod cofnod priodol yn cael ei gadw mewn cysylltiad â phob claf y mae’r contractwr yn darparu gwasanaethau offthalmig sylfaenol iddo,
+(ii)
+bod pob cofnod o’r fath yn cael ei gadw am gyfnod o 10 mlynedd ar ôl y dyddiad y cafodd y claf ei weld ddiwethaf neu hyd nes bod y claf yn troi’n 25 oed, pa un bynnag yw’r diweddaraf, a
+(iii)
+bod rhaid, yn ystod y cyfnod hwnnw, ddangos cofnodion o’r fath fel y bo’n ofynnol o dan baragraff 9(3),
+(b)
+ei fod wedi bodloni gofynion y Bwrdd Iechyd Lleol o ran cadw cofnodion ac y gellir gorfodi’r trefniadau yn gyfreithiol a’u bod yn ei gwneud yn ofynnol i’r cofnodion hynny gael eu dangos, ac
+(c)
+bod ganddo fynediad i’r cofnodion hynny ar bob adeg resymol.
+Archwiliadau
+11.—(1) Rhaid i gontractwr—
+(a)
+cwblhau, ym mhob blwyddyn ariannol, unrhyw archwiliadau sy’n ofynnol gan y Bwrdd Iechyd Lleol y mae’r contractwr wedi ei gynnwys yn ei restr offthalmig, a
+(b)
+cyflwyno’r archwiliadau hynny i’r Bwrdd Iechyd Lleol hwnnw ar y ffurf ac yn y modd sy’n ofynnol gan y Bwrdd Iechyd Lleol.
+(2) Nid oes dim yn y paragraff hwn sy’n ei gwneud yn ofynnol i gontractwr gwblhau mwy na thri archwiliad o’r fath mewn unrhyw flwyddyn ariannol.
+(3) Yr archwiliadau sy’n ofynnol gan is-baragraff (1) yw archwiliadau—
+(a)
+sy’n ymwneud â gwasanaethau a ddarperir gan y contractwr, a
+(b)
+sy’n ofynnol gan y Bwrdd Iechyd Lleol at ddiben arfer ei swyddogaethau o dan y Ddeddf.
+(4) At ddibenion yr Atodlen hon, mae i “blwyddyn ariannol” yr ystyr a roddir i “financial year” yn adran 206 o’r Ddeddf (dehongli).
+Adrodd am y gweithlu
+12.—(1) Rhaid i gontractwr ddarparu unrhyw ddata am y gweithlu sy’n ofynnol, o bryd i’w gilydd, gan y Bwrdd Iechyd Lleol y mae’r contractwr wedi ei gynnwys yn ei restr offthalmig.
+(2) Nid oes dim yn y telerau gwasanaeth hyn sy’n ei gwneud yn ofynnol i gontractwr wneud unrhyw beth yn groes i ddeddfwriaeth diogelu data.
+(3) At ddibenion y paragraff hwn—
+ystyr “data am y gweithlu” (“workforce data”) yw data sy’n ymwneud â’r rheini a gyflogir gan y contractwr;
+mae i “deddfwriaeth diogelu data” yr ystyr a roddir i “data protection legislation” yn adran 3 o Ddeddf Diogelu Data 2018(4) (termau sy’n ymwneud â phrosesu data personol).
+Cydweithredfa optometreg
+13.—(1) Rhaid i gontractwr—
+(a)
+bod yn bresennol mewn o leiaf bedwar cyfarfod o’r gydweithredfa optometreg berthnasol ym mhob blwyddyn ariannol, a
+(b)
+pleidleisio yn etholiad yr arweinydd optometreg ar gyfer y gydweithredfa optometreg berthnasol (ac unrhyw bleidlais ynghylch a ddylai’r person hwnnw barhau yn y swydd).
+(2) At ddibenion cydymffurfio â’r gofynion yn is-baragraff (1), caiff contractwr benodi unigolyn sy’n optometrydd, yn ymarferydd meddygol offthalmig neu’n optegydd cyflenwi i weithredu ar ran y contractwr.
+(3) At ddibenion y paragraff hwn—
+ystyr “arweinydd optometreg” (“optometric lead”) yw’r person a etholir gan gydweithredfa optometreg i’w chynrychioli o fewn clwstwr gofal sylfaenol;
+ystyr “clwstwr gofal sylfaenol” (“primary care cluster”) yw grŵp o ddarparwyr iechyd a gofal cymdeithasol sydd wedi cytuno i gydweithio i gyflenwi gwasanaethau gofal sylfaenol ar draws ardal ddaearyddol benodedig;
+ystyr “cydweithredfa optometreg” (“optometry collaborative”) yw grŵp o gontractwyr sy’n darparu gwasanaethau offthalmig sylfaenol o fewn ardal ddaearyddol yr un clwstwr gofal sylfaenol;
+ystyr “cydweithredfa optometreg berthnasol” (“relevant optometry collaborative”) yw’r gydweithredfa optometreg y mae’r contractwr yn darparu gwasanaethau offthalmig sylfaenol yn ei hardal.
+Gwella ansawdd a llywodraethu
+14.—(1) Rhaid i gontractwr—
+(a)
+cwblhau, ym mhob blwyddyn ariannol, hunanasesiad gwella ansawdd a llywodraethu, ar y ffurf sy’n ofynnol gan y Bwrdd Iechyd Lleol y mae’r contractwr wedi ei gynnwys yn ei restr,
+(b)
+cyflwyno’r hunanasesiad sydd wedi ei gwblhau i’r Bwrdd Iechyd Lleol hwnnw, ac
+(c)
+ymgymryd â hyfforddiant priodol, a ddarperir gan Addysg a Gwella Iechyd Cymru, mewn perthynas â gwella ansawdd a llywodraethu, a sicrhau bod cyflogeion perthnasol y contractwr yn ymgymryd â hyfforddiant o’r fath, fel sy’n ofynnol gan y Bwrdd Iechyd Lleol y mae’r contractwr wedi ei gynnwys yn ei restr.
+(2) Nid yw’r gofyniad yn is-baragraff (1)(c) bod rhaid i’r contractwr ymgymryd â hyfforddiant yn gymwys i gontractwr sy’n optegydd corfforedig.
+(3) At ddibenion y paragraff hwn, ystyr “cyflogeion perthnasol”, mewn perthynas â chontractwr, yw cyflogeion o’r fath ddisgrifiad sy’n ofynnol gan y Bwrdd Iechyd Lleol.
+Datgan Euogfarnau etc.
+15.—(1) Wrth ddod yn ymwybodol o newid i’r wybodaeth a ddarparodd y contractwr yn unol â pharagraff 7 o Atodlen 3 wrth wneud cais i gael ei gynnwys yn rhestr offthalmig Bwrdd Iechyd Lleol, rhaid i’r contractwr hysbysu’r Bwrdd Iechyd Lleol yn ysgrifenedig o fewn 7 niwrnod.
+(2) Pan fo is-baragraff (1) yn gymwys, rhaid i’r contractwr ddarparu’r holl awdurdod angenrheidiol er mwyn galluogi i gais gael ei wneud gan y Bwrdd Iechyd Lleol i unrhyw gyflogwr (neu gyn-gyflogwr), unrhyw gorff trwyddedu, unrhyw gorff rheoleiddio neu unrhyw gorff arall yn y Deyrnas Unedig neu yn rhywle arall, am wybodaeth sy’n ymwneud â’r hysbysiad a roddwyd gan y contractwr o dan is-baragraff (1).
+(3) Rhaid i gontractwr sydd wedi ei gynnwys yn rhestr offthalmig Bwrdd Iechyd Lleol gyflenwi i’r Bwrdd Iechyd Lleol hwnnw dystysgrif cofnod troseddol manwl o dan adran 113B o Ddeddf yr Heddlu 1997 mewn perthynas ag ef, os yw’r Bwrdd Iechyd Lleol ar unrhyw adeg, am achos rhesymol, yn rhoi hysbysiad i’r contractwr i ddarparu tystysgrif o’r fath.
+Ceisiadau i restrau eraill
+16.  Rhaid i gontractwr sy’n ymarferydd meddygol offthalmig neu’n optometrydd roi gwybod i’r Bwrdd Iechyd Lleol y mae’r contractwr wedi ei gynnwys yn ei restr—
+(a)
+os yw ef, neu gorff corfforedig y mae’n gyfarwyddwr iddo, yn gwneud cais i gael ei gynnwys mewn rhestr gofal sylfaenol neu restr gyfatebol, ac am ganlyniad unrhyw gais o’r fath;
+(b)
+os daw’n gyfarwyddwr i gorff corfforedig sydd wedi ei gynnwys yn unrhyw restr gofal sylfaenol, neu sy’n gwneud cais i gael ei gynnwys mewn rhestr o’r fath, ac am ganlyniad unrhyw gais o’r fath;
+(c)
+yn achos optegydd corfforaethol, os yw unrhyw un neu ragor o’i gyfarwyddwyr yn gwneud cais i gael ei gynnwys neu eu cynnwys mewn rhestr gofal sylfaenol neu restr gyfatebol, ac am ganlyniad unrhyw gais o’r fath.
+Dirprwyon
+17.—(1) Caiff contractwr drefnu i ddirprwy ddarparu gwasanaethau offthalmig sylfaenol ar ran y contractwr.
+(2) Rhaid i unrhyw gontractwr sy’n gwneud trefniant ar gyfer darparu gwasanaethau yn rheolaidd gan ddirprwy hysbysu’r Bwrdd Iechyd Lleol am y trefniant hwnnw.
+(3) Mae contractwr yn gyfrifol am holl weithredoedd ac anweithredoedd unrhyw berson sy’n gweithredu fel dirprwy iddo ac unrhyw gyflogai i’r person hwnnw.
+(4) Mae dirprwy sydd hefyd yn gontractwr yn gyfrifol ar y cyd i’r un graddau â’r contractwr y mae’r dirprwy yn dirprwyo ar ei ran.
+Cyflogeion
+18.—(1) Caiff contractwr gyflogi—
+(a)
+i gynorthwyo i ddarparu gwasanaethau offthalmig, ymarferydd meddygol offthalmig neu optometrydd sydd wedi ei gynnwys mewn rhestr gyfunol;
+(b)
+i gynorthwyo i ddarparu gwasanaethau offthalmig sylfaenol i’r graddau y mae wedi ei gymhwyso i wneud hynny, ac o dan oruchwyliaeth ymarferydd meddygol offthalmig neu optometrydd y mae ei enw wedi ei gynnwys mewn rhestr gyfunol, fyfyriwr optometreg y mae ei enw wedi ei gynnwys mewn rhestr atodol;
+(c)
+i gynnal profion golwg, berson—
+(i)
+sydd wedi ei awdurdodi i gynnal profion golwg gan reolau a wneir o dan adran 24(3) o Ddeddf Optegwyr 1989(5) (profion golwg), o dan oruchwyliaeth ymarferydd meddygol offthalmig neu optometrydd y mae ei enw wedi ei gynnwys mewn rhestr gyfunol, ond
+(ii)
+nad yw’n fyfyriwr optometreg;
+(d)
+i gynorthwyo i ddarparu gwasanaethau archwilio llygaid i’r graddau y mae wedi ei achredu i wneud hynny, optegydd cyflenwi achrededig.
+(2) Rhaid i gontractwr sy’n cyflogi ymarferydd meddygol offthalmig, optometrydd, myfyriwr optometreg neu optegydd cyflenwi achrededig yn rheolaidd, hysbysu’r Bwrdd Iechyd Lleol yn unol â hynny.
+(3) Mae contractwr yn gyfrifol am holl weithredoedd ac anweithredoedd ei gyflogeion.
+(4) Mae cyflogai i’r contractwr sydd hefyd yn gontractwr yn gyfrifol ar y cyd ond dim ond, yn achos paragraffau 5(1) a (7) a 9(2), i’r graddau nad yw’r cyflogai wedi cymryd pob cam rhesymol i sicrhau bod gofynion y darpariaethau hynny wedi eu bodloni.
+(5) Yn y paragraff hwn—
+mae “cyflogai” (“employee”) yn cynnwys cyfarwyddwr yn achos corff corfforedig, a rhaid dehongli “cyflogi” (“employ”) yn unol â hynny;
+ystyr “optegydd cyflenwi achrededig” (“accredited dispensing optician”) yw person—
+(a)
+sydd wedi ei gofrestru fel optegydd cyflenwi yn y gofrestr a gynhelir o dan adran 7 o Ddeddf Optegwyr 1989 (cofrestr optegwyr) gyda chofnod am arbenigedd mewn lensys cyffwrdd,
+(b)
+sydd wedi ei achredu gan Addysg a Gwella Iechyd Cymru i ymgymryd ag elfennau o’r gwasanaeth archwilio llygaid, ac
+(c)
+sydd wedi darparu tystiolaeth o (b) i’r contractwr.
+Y weithdrefn bryderon
+19.—(1) Rhaid i gontractwr gael yn eu lle drefniadau sy’n cydymffurfio â gofynion Rheoliadau’r Gwasanaeth Iechyd Gwladol (Trefniadau Pryderon, Cwynion ac Iawn) (Cymru) 2011(6) (“Rheoliadau 2011”), ar gyfer trin ac ystyried unrhyw bryderon.
+(2) Mae cyfeiriadau yn y paragraff hwn ac ym mharagraff 20 at “pryder” yn gyfeiriadau at bryder a hysbysir yn unol â Rheoliadau 2011.
+Cydweithredu ag ymchwiliadau
+20.—(1) Rhaid i gontractwr gydweithredu ag unrhyw ymchwiliad i gŵyn neu bryder mewn perthynas ag unrhyw fater sy’n gysylltiedig yn rhesymol â darpariaeth y contractwr o wasanaethau offthalmig sylfaenol a gynhelir gan “corff perthnasol”, sy’n cynnwys—
+(a)
+y Bwrdd Iechyd Lleol;
+(b)
+Gweinidogion Cymru;
+(c)
+Ombwdsmon Gwasanaethau Cyhoeddus Cymru.
+(2) Mae’r cydweithredu sy’n ofynnol gan is-baragraff (1) yn cynnwys—
+(a)
+ateb cwestiynau a ofynnir yn rhesymol i’r contractwr gan gorff perthnasol;
+(b)
+darparu unrhyw wybodaeth sy’n ymwneud â’r gŵyn neu’r pryder sy’n ofynnol yn rhesymol gan gorff perthnasol;
+(c)
+bod yn bresennol mewn unrhyw gyfarfod i ystyried y gŵyn neu’r pryder (os caiff ei gynnal mewn lle sy’n rhesymol hygyrch ac ar adeg resymol, ac os oes hysbysiad dyladwy wedi ei roi), os yw presenoldeb y contractwr yn ofynnol yn rhesymol gan gorff perthnasol.
+Cwynion a wneir yn erbyn ymarferwyr meddygol offthalmig a phryderon a hysbysir ynghylch ymarferwyr meddygol offthalmig
+21.—(1) Pan fo contractwr sydd, oherwydd ei fod yn ymarferydd meddygol offthalmig, hefyd yn cyflawni gwasanaethau meddygol sylfaenol o dan gontract GMC ar gyfer unrhyw berson y mae’r contractwr yn darparu gwasanaethau offthalmig sylfaenol ar ei gyfer, mae’r weithdrefn gwyno neu’r weithdrefn ar gyfer hysbysu am bryderon a sefydlir ac a weinyddir yn unol â thelerau’r contract GMC hwnnw yn gymwys mewn perthynas ag unrhyw fater sy’n gysylltiedig yn rhesymol â darpariaeth y contractwr o wasanaethau offthalmig sylfaenol fel y mae’n gymwys mewn cysylltiad â darparu gwasanaethau o dan y contract GMC.
+(2) Mae unrhyw ofyniad o ran cydweithredu ag ymchwiliadau i gwynion neu bryderon gan gyrff eraill a osodir ar gontractwr GMC o dan delerau contract y contractwr sy’n rhoi effaith i baragraff 102 o Atodlen 3 i Reoliadau’r Gwasanaeth Iechyd Gwladol (Contractau Gwasanaethau Meddygol Cyffredinol) (Cymru) 2023(7) hefyd yn gymwys mewn perthynas â chwynion neu bryderon ynghylch y materion y cyfeirir atynt yn is-baragraff (1).
+(3) At ddibenion y paragraff hwn, ystyr “contract GMC” yw contract gwasanaethau meddygol cyffredinol o dan adran 42 o’r Ddeddf (contractau gwasanaethau meddygol cyffredinol: rhagarweiniol) a rhaid dehongli “contractwr GMC” yn unol â hynny.
+Hawliadau am daliadau
+22.—(1) Rhaid i unrhyw hawliad gan gontractwr am ffioedd ar gyfer darparu gwasanaethau offthalmig sylfaenol o dan y Rheoliadau hyn gael ei wneud drwy gwblhau ffurflen gwasanaethau offthalmig sylfaenol a’i hanfon i’r Bwrdd Iechyd Lleol y darparwyd y gwasanaethau offthalmig sylfaenol yn ei ardal o fewn 3 mis gan ddechrau â dyddiad cwblhau darparu’r gwasanaethau hynny.
+(2) O ran unrhyw hawliad o’r fath—
+(a)
+caniateir iddo gael ei gyflwyno’n electronig neu ar bapur, a
+(b)
+rhaid iddo fod—
+(i)
+wedi ei lofnodi gan yr optometrydd neu’r ymarferydd meddygol offthalmig y mae ei enw wedi ei gynnwys mewn rhestr gyfunol ac a ddarparodd y gwasanaethau offthalmig sylfaenol neu a gynorthwyodd i ddarparu’r gwasanaethau hynny y gwneir yr hawliad mewn cysylltiad â hwy (“yr ymarferydd”), a
+(ii)
+mewn achos pan na fo’r ymarferydd yn rhestr offthalmig y Bwrdd Iechyd Lleol hwnnw, wedi ei gydlofnodi ar ran y contractwr gan berson (a gaiff fod y contractwr) sydd wedi ei awdurdodi’n briodol gan y contractwr i gydlofnodi, y mae’r contractwr wedi hysbysu’r Bwrdd Iechyd Lleol yn flaenorol ei fod wedi ei awdurdodi felly.
+(3) Yn achos hawliad a lofnodir o dan is-baragraff (2)(b)(i), rhaid i’r ymarferydd ddarparu, ynghyd â’i lofnod, ei rif cofrestru proffesiynol gyda’r rhagddodiad a’r ôl-ddodiad a roddwyd i’r rhif hwnnw yn y rhestr gyfunol y mae enw’r ymarferydd cymwysedig wedi ei gynnwys ynddi.
+(4) Yn achos hawliad a gydlofnodir o dan is-baragraff (2)(b)(ii), rhaid i’r person sydd wedi ei awdurdodi i gydlofnodi ddarparu, gyda chydlofnod y person hwnnw, rif cofrestru proffesiynol y contractwr.
+(5) Mae llofnodwr neu gydlofnodwr i lofnodi unrhyw hawliad electronig neu hawliad ar bapur mewn inc digidol neu mewn inc, yn llawysgrifen y llofnodwr neu’r cydlofnodwr ei hun ac nid drwy gyfrwng stamp na delwedd sydd wedi ei hatgynhyrchu, gydag—
+(a)
+blaenlythrennau neu enw cyntaf y llofnodwr neu’r cydlofnodwr, a
+(b)
+cyfenw’r llofnodwr neu’r cydlofnodwr.
+(6) Ac eithrio fel y’i darperir yn y Rheoliadau hyn, yn y Datganiad neu yn is-baragraff (7), ni chaiff contractwr fynnu na derbyn taliad o unrhyw ffi nac unrhyw dâl arall gan unrhyw glaf nac unrhyw bersonau eraill mewn cysylltiad â darparu gwasanaethau offthalmig sylfaenol.
+(7) Mae gan gontractwr hawlogaeth i fynnu ac i adennill gan glaf, neu gan berson a chanddo ofal am glaf, swm mewn cysylltiad â cholli amser y gellid bod wedi ennill tâl amdano sy’n deillio o fethiant y claf hwnnw i gadw apwyntiad.
+(8) Ni chaiff contractwr fynnu na derbyn taliad o unrhyw ffi nac unrhyw dâl arall gan y Bwrdd Iechyd Lleol mewn cysylltiad ag unrhyw eitem gwasanaeth—
+(a)
+nad yw wedi ei ddarparu o dan wasanaethau offthalmig sylfaenol, neu
+(b)
+y mae hawliad arall eisoes wedi ei gyflwyno ar ei gyfer i’r Bwrdd Iechyd Lleol.
+Profion golwg
+23.—(1) Pan fo contractwr wedi derbyn cais i gynnal prawf golwg o dan y Rheoliadau hyn, rhaid i’r contractwr—
+(a)
+cynnal prawf golwg ar y claf i benderfynu a oes angen i’r claf wisgo neu ddefnyddio teclyn optegol,
+(b)
+wrth wneud hynny, gyflawni unrhyw ddyletswydd a osodir ar y contractwr gan adran 26 o Ddeddf Optegwyr 1989(8) (dyletswyddau sydd i’w cyflawni wrth gynnal profion golwg) neu mewn rheoliadau a wneir o dan yr adran honno, ac
+(c)
+darparu cyngor iechyd llygaid perthnasol i’r claf.
+(2) O ran presgripsiwn am sbectol a ddyroddir yn dilyn prawf golwg o dan wasanaethau offthalmig cyffredinol—
+(a)
+rhaid iddo gael ei gwblhau drwy’r dull a argymhellir mewn canllawiau a gyhoeddir gan y Sefydliad Safonau Prydeinig, a
+(b)
+rhaid iddo gydymffurfio ag unrhyw ofynion o ran ei ffurf a bennir yn y Datganiad at ddibenion talu mewn cysylltiad â’r prawf golwg.
+(3) Pan fo contractwr yn darparu prawf golwg fel rhan o wasanaethau symudol, rhaid i’r contractwr gofnodi’r rheswm a roddir gan y claf, neu ar ei ran, pam y mae arno angen gwasanaethau symudol, ar y ffurflen gwasanaethau offthalmig sylfaenol.
+(4) Rhaid i gontractwr gadw cofnod o’r cyngor iechyd llygaid a ddarperir i glaf o dan y paragraff hwn.
+(5) At ddibenion y paragraff hwn, ystyr “cyngor iechyd llygaid perthnasol”, mewn perthynas â chlaf, yw—
+(a)
+cyngor ynghylch unrhyw risgiau i iechyd llygaid neu olwg y mae’n ymddangos i’r contractwr eu bod yn berthnasol i’r claf hwnnw,
+(b)
+cyngor ynghylch sut i liniaru unrhyw risgiau a nodir i iechyd ei lygaid neu i’w olwg,
+(c)
+argymhellion ar gyfer rheoli cyflwr llygaid y claf neu iechyd ei lygaid neu ei olwg, a
+(d)
+unrhyw gyngor arall, at ddiben gwella gwybodaeth a dealltwriaeth y claf o unrhyw faterion iechyd sy’n gysylltiedig â chyflwr llygaid, iechyd llygaid neu olwg y claf, y mae’n ymddangos i’r contractwr ei fod yn berthnasol i amgylchiadau personol y claf.
+Archwiliadau llygaid
+24.—(1) Rhaid i gontractwr ddarparu archwiliad llygaid i berson o dan yr amgylchiadau yn is-baragraff (2).
+(2) Yr amgylchiadau yw bod ymarferydd cymwysedig yn ystyried ei bod yn briodol yn glinigol i ddarparu archwiliad llygaid i berson—
+(a)
+oherwydd canfyddiadau clinigol sydd wedi dod i’r amlwg wrth ddarparu gwasanaethau offthalmig cyffredinol neu yn ystod prawf golwg a ddarperir ac eithrio o dan y Ddeddf, i’r person hwnnw,
+(b)
+yn dilyn argymhelliad gan broffesiynolyn gofal iechyd y dylai’r person gael archwiliad gan ymarferydd cymwysedig,
+(c)
+oherwydd bod gan y person broblem llygaid acíwt, neu y gall fod ganddo broblem llygaid acíwt, neu
+(d)
+at ddiben adolygu iechyd llygaid y person yn dilyn—
+(i)
+triniaeth mewn ysbyty offthalmig, neu
+(ii)
+archwiliad llygaid blaenorol o dan is-baragraff (c).
+(3) Pan fo contractwr yn darparu archwiliad llygaid fel rhan o wasanaethau symudol, rhaid i’r contractwr gofnodi’r rheswm a roddir gan y claf, neu ar ei ran, pam y mae arno angen gwasanaethau symudol, ar y ffurflen gwasanaethau offthalmig sylfaenol.
+(4) At ddibenion y paragraff hwn, ystyr “proffesiynolyn gofal iechyd” yw person sy’n aelod o broffesiwn a reoleiddir gan gorff a grybwyllir yn adran 25(3) o Ddeddf Diwygio’r Gwasanaeth Iechyd Gwladol a Phroffesiynau Gofal Iechyd 2002(9) (yr Awdurdod Safonau Proffesiynol ar gyfer Iechyd a Gofal Cymdeithasol).
+Gwrthod darparu gwasanaethau
+25.—(1) Mae paragraffau (2) a (3) yn gymwys—
+(a)
+pan—
+(i)
+bo person yn gwneud cais am brawf golwg, a
+(ii)
+bo’r contractwr wedi ei fodloni bod y person yn gymwys i gael prawf golwg yn unol â’r Rheoliadau hyn, neu
+(b)
+pan fo un o’r amgylchiadau ym mharagraff 24(2) yn gymwys mewn perthynas â pherson.
+(2) Ni chaiff y contractwr wrthod darparu’r gwasanaeth perthnasol i’r person hwnnw ond os oes ganddo seiliau rhesymol dros wneud hynny.
+(3) At ddibenion paragraff (2), ni chaiff seiliau rhesymol ymwneud ag oedran, cyflwr offthalmig na chyflwr meddygol cysylltiedig y person.
+Atgyfeiriadau
+26.—(1) Pan fo contractwr, neu ymarferydd cymwysedig sy’n cynorthwyo’r contractwr i ddarparu gwasanaethau offthalmig sylfaenol, o’r farn, o ran claf sydd wedi cael prawf golwg yn unol â pharagraff 23 neu archwiliad llygaid yn unol â pharagraff 24 o’r Atodlen hon—
+(a)
+ei fod yn dangos, yn ystod yr archwiliad, arwyddion o anaf, clefyd neu annormaledd yn y llygad neu yn rhywle arall, a all fod angen triniaeth feddygol, neu
+(b)
+nad yw ei olwg yn debygol o gyrraedd safon foddhaol er gwaethaf rhoi lensys cywiro iddo,
+rhaid i’r contractwr, os yw’n briodol, a chyda chydsyniad y claf, gymryd y camau a nodir yn is-baragraff (2).
+(2) Y camau y cyfeirir atynt yn is-baragraff (1) yw—
+(a)
+yn y lle cyntaf, atgyfeiriad at optometrydd a chanddo gymwysterau sy’n briodol i anghenion y claf;
+(b)
+os yw’r contractwr yn ystyried na fyddai atgyfeiriad o’r math a bennir ym mharagraff (a) yn diwallu anghenion y claf, atgyfeiriad i ysbyty offthalmig.
+(3) Pan fo contractwr yn gwneud atgyfeiriad yn unol â’r paragraff hwn, rhaid i’r contractwr—
+(a)
+rhoi gwybod ar unwaith i ymarferydd cyffredinol y claf am yr atgyfeiriad a darparu manylion am y rheswm dros yr atgyfeiriad, a
+(b)
+rhoi datganiad ysgrifenedig ar unwaith i’r claf sy’n cadarnhau bod yr atgyfeiriad wedi ei wneud, gyda manylion yr atgyfeiriad.
+(4) Yn y paragraff hwn, ystyr “ymarferydd cyffredinol” yw ymarferydd meddygol sydd wedi ei gofrestru fel ymarferydd cyffredinol.
+(5) Rhaid i atgyfeiriad a wneir gan gontractwr yn unol â’r paragraff hwn gael ei wneud yn electronig pan fo’r dulliau o wneud atgyfeiriadau electronig ar gael i’r contractwr.
+Defnyddio enw sydd wedi ei anghymhwyso
+27.—(1) Yn ddarostyngedig i is-baragraff (2), ni chaiff contractwr ddefnyddio, mewn unrhyw fodd, enw neu ran o enw unrhyw berson, naill ai ar ei ben ei hun neu mewn cyfuniad ag unrhyw eiriau neu lythrennau eraill, nac enw neu ran o enw a ddefnyddir gan unrhyw berson, cyhyd ag y bo’r person hwnnw wedi ei anghymhwyso gan y Tribiwnlys Haen Gyntaf rhag cael ei gynnwys mewn unrhyw restr gyfunol yn rhinwedd y Ddeddf neu’r Rheoliadau hyn.
+(2) Nid oes dim yn is-baragraff (1) sy’n atal—
+(a)
+contractwr nad yw’n gorff corfforedig rhag defnyddio enw’r contractwr ei hun, neu
+(b)
+contractwr sy’n gorff corfforedig rhag defnyddio’r enw y mae wedi ei gofrestru odano yn y gofrestr a gynhelir o dan Ddeddf Optegwyr 1989.
+Hyfforddiant
+28.—(1) Rhaid i gontractwr sicrhau bod y personau a bennir yn is-baragraff (2) yn ymgymryd â hyfforddiant, fel sy’n ofynnol gan y Bwrdd Iechyd Lleol y mae’r contractwr wedi ei gynnwys yn ei restr, ac o ran yr hyfforddiant hwnnw—
+(a)
+rhaid iddo gynnwys hyfforddiant blynyddol at ddiben cynnal a diweddaru sgiliau proffesiynol a gwybodaeth broffesiynol yr unigolyn mewn perthynas â’r gwasanaethau y mae’r person hwnnw yn eu cyflawni, yn cynorthwyo i’w cyflawni neu yn eu cefnogi;
+(b)
+caiff gynnwys hyfforddiant ad-hoc arall neu hyfforddiant untro at y diben hwnnw.
+(2) Y personau yw—
+(a)
+y contractwr, ac eithrio pan fo’r contractwr yn optegydd corfforedig;
+(b)
+y rheini a gyflogir gan y contractwr o dan baragraff 18(1) i gynorthwyo i ddarparu gwasanaethau offthalmig sylfaenol;
+(c)
+eraill a gyflogir gan y contractwr sy’n cefnogi’r personau a restrir yn (b) i gyflawni gwasanaethau o’r fath.
+(3) Ni chaiff contractwr gyflogi na chymryd ymlaen fel arall ymarferydd cymwysedig mewn perthynas â darparu gwasanaethau offthalmig sylfaenol oni bai bod y contractwr wedi ei fodloni bod yr ymarferydd cymwysedig yn meddu ar y profiad clinigol a’r hyfforddiant angenrheidiol i’w alluogi i gyflawni’n briodol y gwasanaethau y bydd yn ofynnol iddo eu cyflawni.
+Cydymffurfio â deddfwriaeth a chanllawiau
+29.  Rhaid i gontractwr—
+(a)
+cydymffurfio â’r holl ddeddfwriaeth berthnasol, a
+(b)
+rhoi sylw i’r holl ganllawiau perthnasol a ddyroddir gan y Bwrdd Iechyd Lleol neu Weinidogion Cymru.
+(1)
+O.S. 1992/664; yr offerynnau diwygio perthnasol yw O.S. 1996/703, O.S. 2002/2469 ac O.S. 2013/2042.
+(2)
+O.S. 1997/818, a ddiwygiwyd gan O.S. 2003/301.
+(3)
+2020 dsc 1.
+(4)
+2018 p. 12; diwygiwyd y diffiniad yn adran 3 gan O.S. 2019/419.
+(5)
+Diwygiwyd adran 24 gan O.S. 2005/848.
+(6)
+O.S. 2011/704; yr offerynnau diwygio perthnasol yw O.S. 2023/274 (Cy. 41) ac O.S. 2023/281 (Cy. 42).
+(7)
+O.S. 2023/953 (Cy. 155).
+(8)
+Diwygiwyd adran 26 gan O.S. 2005/848, erthygl 19.
+(9)
+2002 p. 17.Rheoliad 39
+ATODLEN 5
+Diwygiadau canlyniadol i ddeddfwriaeth sylfaenol
+Deddf Rhyddid Gwybodaeth 2000
+1.—(1) Mae Deddf Rhyddid Gwybodaeth 2000(1) wedi ei diwygio fel a ganlyn.
+(2) Yn Atodlen 1 (awdurdodau cyhoeddus), ym mharagraff 44, ar ôl “National Health Service (Wales) Act 2006,” mewnosoder “or providing both general ophthalmic services and other ophthalmic services in accordance with arrangements made with a Local Health Board in Wales under the National Health Service (Wales) Act 2006,”.
+Deddf Comisiynydd Pobl Hŷn (Cymru) 2006
+2.—(1) Mae Deddf Comisiynydd Pobl Hŷn (Cymru) 2006(2) wedi ei diwygio fel a ganlyn.
+(2) Yn adran 27(1) (darpariaethau dehongli eraill), yn is-baragraff (b) o’r diffiniad o “family health service provider in Wales”—
+(a)
+ar ôl “general ophthalmic services” mewnosoder “, or both general ophthalmic services and other ophthalmic services in accordance with arrangements made with a Local Health Board,”;
+(b)
+hepgorer “Part 6 of”.
+Deddf Ombwdsmon Gwasanaethau Cyhoeddus (Cymru) 2019
+3.—(1) Mae Deddf Ombwdsmon Gwasanaethau Cyhoeddus (Cymru) 2019(3) wedi ei diwygio fel a ganlyn.
+(2) Yn adran 78(1) (dehongli), yn is-baragraff (b) o’r diffiniad o “darparwr gwasanaeth iechyd teulu yng Nghymru”, ar ôl “wasanaethau offthalmig cyffredinol” mewnosoder “, neu wasanaethau offthalmig cyffredinol a gwasanaethau offthalmig eraill fel ei gilydd yn unol â threfniadau a wnaed â Bwrdd Iechyd Lleol,”.
+(1)
+2000 p. 36.
+(2)
+2006 p. 30.
+(3)
+2019 dccc 3.Rheoliad 40
+ATODLEN 6
+Mân ddiwygiadau a diwygiadau canlyniadol i is-ddeddfwriaeth
+Rheoliadauʼr Gwasanaeth Iechyd Gwladol (Pwyllgorau Gwasanaethau a’r Tribiwnlys) 1992
+1.—(1) Mae Rheoliadauʼr Gwasanaeth Iechyd Gwladol (Pwyllgorau Gwasanaethau a’r Tribiwnlys) 1992(1) wedi eu diwygio fel a ganlyn.
+(2) Yn rheoliad 2(1) (dehongli)—
+(a)
+yn y diffiniad o “complaint”, yn lle “Part II services” rhodder “a relevant service”;
+(b)
+yn lleʼr diffiniad o “Ophthalmic Regulations” rhodder—
+““Ophthalmic Regulations” means the National Health Service (Ophthalmic Services) (Wales) Regulations 2023;”;
+(c)
+hepgorer y diffiniad o “Part II service”;
+(d)
+yn y diffiniad o “patient”, yn lle “Part II service” rhodder “relevant service”;
+(e)
+yn y lle priodol mewnosoder—
+““primary ophthalmic services” has the meaning given in regulation 4 of the Ophthalmic Regulations;”;
+““relevant service” means pharmaceutical services provided under the National Health Service (Wales) Act 2006 or primary ophthalmic services;”.
+(3) Yn rheoliad 2(4) (dehongli), yn lle is-baragraff (d) rhodder—
+“(d)
+paragraphs 19 and 20 of Schedule 4 to the National Health Service (Ophthalmic Services) (Wales) Regulations 2023.”.
+(4) Yn rheoliad 4(5) (darpariaethau sy’n ymwneud â dechrau achosion disgyblu), yn lle “Part II services” rhodder “relevant services”.
+(5) Yn rheoliad 20(3) (pŵer Pwyllgorau Cynrychiadol Lleol i ystyried cwynion), yn lle “general ophthalmic services” rhodder “primary ophthalmic services or other ophthalmic services pursuant to arrangements with Local Health Boards under the National Health Service (Wales) Act 2006”.
+Rheoliadau Cynllun Pensiwn y Gwasanaeth Iechyd Gwladol 1995
+2.—(1) Mae Rheoliadau Cynllun Pensiwn y Gwasanaeth Iechyd Gwladol 1995(2) wedi eu diwygio fel a ganlyn.
+(2) Yn rheoliad A2 (dehongli), yn lle paragraff (b) o’r diffiniad o “ophthalmic provider” rhodder—
+“(b)
+as regards Wales, is included in an ophthalmic list (as defined in regulation 10(2)(a) of the National Health Service (Ophthalmic Services) (Wales) Regulations 2023) prepared and published by a Local Health Board in accordance with Chapter 2 of Part 4 of those Regulations;”.
+Rheoliadau’r Gwasanaeth Iechyd Gwladol (Ffioedd a Thaliadau Optegol) 1997
+3.—(1) Mae Rheoliadau’r Gwasanaeth Iechyd Gwladol (Ffioedd a Thaliadau Optegol) 1997(3) wedi eu diwygio fel a ganlyn.
+(2) Yn rheoliad 1(2) (enwi, cychwyn a dehongli)—
+(a)
+yn lle’r diffiniad o “ophthalmic list” rhodder—
+““ophthalmic list” means the list defined in regulation 10(2)(a) of the Ophthalmic Services Regulations, prepared and published by a Local Health Board in accordance with Chapter 2 of Part 4 of those Regulations;”;
+(b)
+yn lle’r diffiniad o “Ophthalmic Services Regulations” rhodder—
+““Ophthalmic Services Regulations” means the National Health Service (Ophthalmic Services) (Wales) Regulations 2023;”;
+(c)
+yn lle’r diffiniad o “supplementary list” rhodder—
+““supplementary list” means the list defined in regulation 10(2)(b) of the Ophthalmic Services Regulations, prepared and published by a Local Health Board in accordance with Chapter 2 of Part 4 of those Regulations;”.
+(3) Yn rheoliad 9(1) (dyroddi talebau gan ymarferwyr meddygol offthalmig neu optegwyr), yn y geiriau ar ôl paragraff (b) hepgorer “paragraph 10(1) of Schedule 1 of”.
+Rheoliadau Cynllun Pensiwn y Gwasanaeth Iechyd Gwladol 2008
+4.—(1) Mae Rheoliadau Cynllun Pensiwn y Gwasanaeth Iechyd Gwladol 2008(4) wedi eu diwygio fel a ganlyn.
+(2) Yn rheoliad 2.A.1 (dehongli: cyffredinol), yn lle paragraff (b) o’r diffiniad o “ophthalmic provider” rhodder—
+“(b)
+as regards Wales, is included in an ophthalmic list (as defined in regulation 10(2)(a) of the National Health Service (Ophthalmic Services) (Wales) Regulations 2023) prepared and published by a Local Health Board in accordance with Chapter 2 of Part 4 of those Regulations;”.
+(3) Yn rheoliad 3.A.1 (dehongli Rhan 3: cyffredinol), yn lle paragraff (b) o’r diffiniad o “ophthalmic provider” rhodder—
+“(b)
+as regards Wales, is included in an ophthalmic list (as defined in regulation 10(2)(a) of the National Health Service (Ophthalmic Services) (Wales) Regulations 2023) prepared and published by a Local Health Board in accordance with Chapter 2 of Part 4 of those Regulations;”.
+Rheoliadau’r Gwasanaeth Iechyd Gwladol (Trefniadau Pryderon, Cwynion ac Iawn) (Cymru) 2011
+5.—(1) Mae rheoliad 2(1) o Reoliadau’r Gwasanaeth Iechyd Gwladol (Trefniadau Pryderon, Cwynion ac Iawn) (Cymru) 2011(5) wedi ei ddiwygio fel a ganlyn.
+(2) Yn y diffiniad o “darparwr gofal sylfaenol”, yn lle paragraff (d) rhodder—
+“(d)
+yn darparu gwasanaethau offthalmig, gan gynnwys gwasanaethau offthalmig sylfaenol, yn unol â threfniadau o dan Ddeddf 2006;”.
+(3) Yn y diffiniad o “gweithdrefn gwynion berthnasol”, yn lle is-baragraff (iv) o baragraff (c) rhodder—
+“(iv)
+paragraff 19 o Atodlen 4 i Reoliadau’r Gwasanaeth Iechyd Gwladol (Gwasanaethau Offthalmig) (Cymru) 2023;”.
+(4) Yn y lle priodol mewnosoder—
+“mae i “gwasanaethau offthalmig sylfaenol” (“primary ophthalmic services”) yr ystyr a roddir yn rheoliad 4 o Reoliadau’r Gwasanaeth Iechyd Gwladol (Gwasanaethau Offthalmig) (Cymru) 2023;”.
+Gorchymyn Deddf Diogelu Grwpiau Hyglwyf 2006 (Darpariaethau Amrywiol) 2012
+6.—(1) Mae erthygl 5 o Orchymyn Deddf Diogelu Grwpiau Hyglwyf 2006 (Darpariaethau Amrywiol) 2012(6) wedi ei diwygio fel a ganlyn.
+(2) Ym mharagraff (a), yn y diffiniad o “practice premises”, yn lle’r geiriau o “the address which is included” hyd at “services are provided” rhodder—
+“registered premises in relation to a contractor as defined in the National Health Service (Ophthalmic Services) (Wales) Regulations 2023”.
+(3) Ym mharagraff (b), yn y diffiniad o “mobile services”, yn lle “National Health Service (General Ophthalmic Services) Regulations 1986” rhodder “National Health Service (Ophthalmic Services) (Wales) Regulations 2023”.
+Rheoliadau Cynllun Pensiwn y Gwasanaeth Iechyd Gwladol 2015
+7.—(1) Mae rheoliad 166(10) (ymarferydd meddygol) o Reoliadau Cynllun Pensiwn y Gwasanaeth Iechyd Gwladol 2015(7) wedi ei ddiwygio fel a ganlyn.
+(2) Yn lle paragraff (b) rhodder—
+“(b)
+in Wales, is included in an ophthalmic list (as defined in regulation 10(2) of the National Health Service (Ophthalmic Services) (Wales) Regulations 2023) prepared and published by a Local Health Board in accordance with Chapter 2 of Part 4 of those Regulations.”.
+(1)
+O.S. 1992/664.
+(2)
+O.S. 1995/300.
+(3)
+O.S. 1997/818.
+(4)
+O.S. 2008/653.
+(5)
+O.S. 2011/704 (Cy. 108).
+(6)
+O.S. 2012/2113.
+(7)
+O.S. 2015/94.Rheoliad 41
+ATODLEN 7
+Dirymiadau
+Mae’r darpariaethau a ganlyn wedi eu dirymu i’r graddau a bennir.
+Enw Cyfeirnod Graddau’r dirymu
+Rheoliadau’r Gwasanaeth Iechyd Gwladol (Gwasanaethau Offthalmig Cyffredinol) 1986 O.S. 1986/975 Y Rheoliadau cyfan
+Rheoliadau’r Gwasanaeth Iechyd Gwladol (Gwasanaethau Offthalmig Cyffredinol) (Diwygio) 1988 O.S. 1988/486 Y Rheoliadau cyfan
+Rheoliadau’r Gwasanaeth Iechyd Gwladol (Gwasanaethau Offthalmig Cyffredinol) (Diwygio) 1989 O.S. 1989/395 Y Rheoliadau cyfan
+Rheoliadau’r Gwasanaeth Iechyd Gwladol (Gwasanaethau Offthalmig Cyffredinol) (Diwygio) (Rhif 2) 1989 O.S. 1989/1175 Y Rheoliadau cyfan
+Rheoliadau’r Gwasanaeth Iechyd Gwladol (Gwasanaethau Offthalmig Cyffredinol) (Diwygio) 1990 O.S. 1990/1051 Y Rheoliadau cyfan
+Rheoliadau’r Gwasanaeth Iechyd Gwladol (Ffioedd a Thaliadau Optegol) (Diwygiadau Amrywiol) 1992 O.S. 1992/404 Yr holl ddarpariaethau sy’n weddill
+Rheoliadau’r Gwasanaeth Iechyd Gwladol (Gwasanaethau Offthalmig Cyffredinol) (Diwygio) 1995 O.S. 1995/558 Y Rheoliadau cyfan
+Rheoliadau’r Gwasanaeth Iechyd Gwladol (Gwasanaethau Offthalmig Cyffredinol) (Diwygio) 1996 O.S. 1996/705 Y Rheoliadau cyfan
+Rheoliadau’r Gwasanaeth Iechyd Gwladol (Gwasanaethau Offthalmig Cyffredinol) (Diwygio) 1999 O.S. 1999/693 Y Rheoliadau cyfan
+Rheoliadauʼr Gwasanaeth Iechyd Gwladol (Gwasanaethau Offthalmig Cyffredinol) (Diwygio) (Cymru) 2002 O.S. 2002/1883 (Cy. 192) Y Rheoliadau cyfan
+Rheoliadau’r Gwasanaeth Iechyd Gwladol (Gwasanaethau Offthalmig Cyffredinol) (Diwygio) (Cymru) 2003 O.S. 2003/837 (Cy. 106) Y Rheoliadau cyfan
+Rheoliadau’r Gwasanaeth Iechyd Gwladol (Rhestr Atodol Gwasanaethau Offthalmig Cyffredinol) a (Gwasanaethau Offthalmig Cyffredinol) (Diwygio a Diwygiad Canlyniadol) (Cymru) 2006 O.S. 2006/181 (Cy. 32) Y Rheoliadau cyfan
+Rheoliadauʼr Gwasanaeth Iechyd Gwladol (Gwasanaethau Offthalmig Cyffredinol) (Diwygio) (Cymru) 2007 O.S. 2007/122 (Cy. 12) Y Rheoliadau cyfan
+Rheoliadau’r Gwasanaeth Iechyd Gwladol (Gwasanaethau Offthalmig Cyffredinol) (Diwygio) (Cymru) (Rhif 2) 2007 O.S. 2007/1026 (Cy. 93) Y Rheoliadau cyfanNODYN ESBONIADOL
+(Nid yw’r nodyn hwn yn rhan o’r Rheoliadau)
+Mae’r Rheoliadau hyn yn darparu ar gyfer trefniadau mewn perthynas â gwasanaethau offthalmig sylfaenol o dan y Gwasanaeth Iechyd Gwladol yng Nghymru. Maent yn disodli, yn cydgrynhoi ac yn dirymu Rheoliadau blaenorol.
+Mae’r Rheoliadau i raddau helaeth yn atgynhyrchu’r darpariaethau yn y Rheoliadau a ddirymir mewn perthynas â’r trefniadau sydd i’w gwneud gan Fyrddau Iechyd Lleol ar gyfer gwasanaethau offthalmig cyffredinol (profion golwg).
+Yn ogystal â’r darpariaethau ynghylch gwasanaethau offthalmig cyffredinol, mae’r Rheoliadau yn ei gwneud yn ofynnol i Fyrddau Iechyd Lleol wneud trefniadau hefyd ar gyfer darparu gwasanaethau archwilio llygaid o dan y Gwasanaeth Iechyd Gwladol yng Nghymru. Cyfeirir at wasanaethau offthalmig cyffredinol a’r gwasanaethau archwilio llygaid gyda’i gilydd yn y Rheoliadau fel “gwasanaethau offthalmig sylfaenol”.
+Mae Rhan 2 o’r Rheoliadau yn diffinio gwasanaethau offthalmig sylfaenol ac yn gosod dyletswydd ar Fyrddau Iechyd Lleol i drefnu ar gyfer darparu gwasanaethau archwilio llygaid yn eu hardal.
+Mae Rhan 3 o’r Rheoliadau (ac Atodlen 1) yn gwneud darpariaeth mewn perthynas â gwasanaethau offthalmig cyffredinol, gan gynnwys nodi pwy sy’n gymwys i gael gwasanaethau offthalmig cyffredinol.
+Mae Rhan 4 o’r Rheoliadau (ac Atodlenni 2 a 3) yn gwneud darpariaeth sy’n ei gwneud yn ofynnol i bob Bwrdd Iechyd Lleol gynnal rhestr gyfunol (sef cyfuniad o’r rhestr offthalmig a’r rhestr atodol), a darpariaeth ynghylch cymwysterau ymarferwyr meddygol offthalmig. Rhestr o gontractwyr sy’n darparu gwasanaethau offthalmig sylfaenol yn ardal y Bwrdd Iechyd Lleol yw’r “rhestr offthalmig” a rhestr o’r personau sydd wedi eu cymeradwyo gan y Bwrdd Iechyd Lleol at ddiben cynorthwyo i ddarparu gwasanaethau offthalmig sylfaenol yw’r “rhestr atodol”. Mae’r Rheoliadau yn ei gwneud yn ofynnol i’r rheini sydd wedi eu cofrestru â’r Cyngor Optegol Cyffredinol fel myfyrwyr optometreg gael eu cynnwys mewn rhestr gyfunol cyn y caniateir iddynt gael eu cyflogi i gynorthwyo i ddarparu gwasanaethau offthalmig sylfaenol.
+Mae Rhan 5 o’r Rheoliadau (ac Atodlen 4) yn gwneud darpariaeth ynghylch trefniadau ag ymarferwyr cymwysedig ar gyfer darparu gwasanaethau offthalmig sylfaenol.
+Mae Rhan 6 o’r Rheoliadau yn gwneud darpariaeth amrywiol, gan gynnwys mewn perthynas â datgelu a chyhoeddi gwybodaeth, a chyflwyno dogfennau.
+Mae Rhan 7 o’r Rheoliadau (ac Atodlenni 5, 6 a 7) yn gwneud darpariaethau canlyniadol, darpariaethau dirymu, darpariaethau trosiannol a darpariaethau arbed.

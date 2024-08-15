@@ -1,0 +1,236 @@
+OFFERYNNAU STATUDOL CYMRU
+2018 Rhif 1077 (Cy. 226)
+Y DIWYDIANT DŴR, CYMRU
+Rheoliadau Draenio Cynaliadwy (Gweithdrefn Cymeradwyo a Mabwysiadu) (Cymru) 2018
+Gwnaed
+10 Hydref 2018
+Gosodwyd gerbron Cynulliad Cenedlaethol Cymru
+15 Hydref 2018
+Yn dod i rym
+7 Ionawr 2019
+Mae Gweinidogion Cymru, drwy arfer y pwerau a roddir gan adrannau 32 a 48(2) o Ddeddf Rheoli Llifogydd a Dŵr 2010(1), a pharagraffau 4(a), 11(5), 17(5), 18(3), 23(7), 24(5) a 28 o Atodlen 3 iddi, yn gwneud y Rheoliadau a ganlyn.
+(1)
+2010 p. 29. Diwygiwyd Atodlen 3 gan adrannau 21(3), 88(a) ac 88(b) o Ddeddf Dŵr 2014 (p. 21) ac O.S. 2012/1659 a 2013/755 (Cy. 90).Enwi a chychwyn
+1.—(1) Enw’r Rheoliadau hyn yw Rheoliadau Draenio Cynaliadwy (Gweithdrefn Cymeradwyo a Mabwysiadu) (Cymru) 2018.
+(2) Daw’r Rheoliadau hyn i rym ar 7 Ionawr 2019.Dehongli
+2.—(1) Yn y Rheoliadau hyn—
+ystyr “Atodlen 3” (“Schedule 3”) yw Atodlen 3 i’r Ddeddf;
+ystyr “cais am gymeradwyaeth” (“application for approval”) yw—
+(a)
+cais am gymeradwyaeth a wneir yn unol â pharagraff 9 o Atodlen 3, neu
+(b)
+y rhan honno o gais cyfun a wneir yn unol â pharagraff 10 o Atodlen 3 y gwneir cais am gymeradwyaeth mewn perthynas â hi—
+ac mae cyfeiriad at “cais dilys” (“valid application”) i’w ddehongli yn unol â hynny;
+ystyr “ceisydd” (“applicant”) yw person sy’n gwneud cais am gymeradwyaeth;
+ystyr “cymeradwyaeth” (“approval”) yw’r gymeradwyaeth sy’n ofynnol o dan baragraff 7(1) o Atodlen 3 am system ddraenio(1) i waith adeiladu(2);
+ystyr “cynnig a gadarnhawyd” (“confirmed proposal”) yw cynnig i wneud gwaith ailadeiladu a gadarnhawyd o dan reoliad 15;
+mae i “datblygiad” yr ystyr a roddir i “development” yn adran 55 o Ddeddf Cynllunio Gwlad a Thref 1990(3);
+mae i “datblygwr” yr ystyr a roddir i “developer” ym mharagraff 23(2)(b) o Atodlen 3;
+ystyr “y Ddeddf” (“the Act”) yw Deddf Rheoli Llifogydd a Dŵr 2010;
+ystyr “diwrnod gwaith” (“working day”) yw diwrnod nad yw’n ddydd Sadwrn, yn ddydd Sul nac yn ŵyl banc o fewn ystyr adran 1 o Ddeddf Bancio a Thrafodion Ariannol 1971(4), nac yn ŵyl gyhoeddus arall yng Nghymru;
+ystyr “gwaith ailadeiladu” (“reconstruction work”) yw gwaith a wneir—
+(a)
+i ailadeiladu system ddraenio gynaliadwy i’r cyflwr yr oedd ynddo cyn i’r gwaith statudol ddechrau, neu
+(b)
+i adeiladu system ddraenio gynaliadwy newydd yn unol â’r safonau cenedlaethol i weithredu yn lle’r system ddraenio gynaliadwy yr effeithiwyd arni gan y gwaith statudol;
+ystyr “gwaith adferol” (“remedial work”) yw gwaith a wneir ar system ddraenio gynaliadwy—
+(a)
+i unioni difrod a achoswyd gan waith statudol, a
+(b)
+i sicrhau bod y system ddraenio gynaliadwy yn cydymffurfio â’r safonau cenedlaethol;
+mae i “gwaith statudol” (“statutory works”) yr ystyr a roddir iddo yn rheoliad 14;
+ystyr “safonau cenedlaethol” (“national standards”) yw’r safonau cenedlaethol ar gyfer draenio cynaliadwy a gyhoeddir o dan baragraff 5 o Atodlen 3;
+ystyr “system ddraenio gynaliadwy” (“sustainable drainage system”) yw’r rhannau hynny o system ddraenio nad ydynt wedi eu breinio mewn ymgymerwr carthffosiaeth yn unol â chytundeb o dan adran 104 o Ddeddf y Diwydiant Dŵr 1991(5);
+mae i “ymgymerwr statudol” (“statutory undertaker”) yr ystyr a roddir iddo yn rheoliad 13.
+(2) Yn y Rheoliadau hyn mae cyfeiriad at “gwaith adeiladu” i’w ddehongli fel cyfeiriad at waith adeiladu sydd â goblygiadau draenio(6).
+(1)
+Diffinnir “drainage system” ym mharagraff 1 o Atodlen 3.
+(2)
+Diffinnir “construction work” ym mharagraff 7(1)(a) o Atodlen 3.
+(3)
+1990 p. 8.
+(4)
+1971 p. 80.
+(5)
+1991 p. 56. Amnewidiwyd adran 104(1) gan adran 96(4)(a) o Ddeddf Dŵr 2003 (p. 37). Mae diwygiadau eraill nad ydynt yn berthnasol i’r Rheoliadau hyn.
+(6)
+Diffinnir “drainage implications” ym mharagraff 7(2)(b) o Atodlen 3.Gwrthod penderfynu ar gais am gymeradwyaeth
+3.—(1) Caiff corff cymeradwyo(1) wrthod penderfynu ar gais am gymeradwyaeth nad yw’n cael ei wneud yn unol â pharagraff 9(2) neu 10(2) (yn ôl y digwydd) o Atodlen 3.
+(2) Pan fo corff cymeradwyo yn gwrthod penderfynu ar gais yn unol â pharagraff (1), rhaid iddo, cyn gynted ag y bo’n ymarferol—
+(a)
+rhoi gwybod i’r ceisydd bod y cais wedi ei wrthod a rhoi’r rhesymau dros hynny, a
+(b)
+dychwelyd unrhyw ffi am gais sy’n mynd gyda’r cais.
+(1)
+Diffinnir “approving body” ym mharagraff 6 o Atodlen 3.Dyletswydd i ymgynghori cyn penderfynu ar gais am gymeradwyaeth
+4.—(1) Rhaid i gorff cymeradwyo, pan fydd yn gwneud cais am ymateb gan berson yr ymgynghorir ag ef o dan baragraff 11(3) o Atodlen 3 (“ymgynghorai”), bennu dyddiad ar gyfer ymateb sydd o fewn 3 wythnos gan ddechrau ar y diwrnod gwaith cyntaf ar ôl iddo anfon y cais.
+(2) Cyn diwedd y cyfnod a bennir o dan baragraff (1), caiff y corff cymeradwyo a’r ymgynghorai gytuno ar ddyddiad gwahanol ar gyfer ymateb.
+(3) Caiff y corff cymeradwyo ddiystyru ymateb a geir gan ymgynghorai ar ôl y terfyn amser perthnasol.
+(4) Yn y rheoliad hwn, ystyr “terfyn amser perthnasol” yw—
+(a)
+cyfnod a bennir o dan baragraff (1), neu
+(b)
+unrhyw gyfnod arall y cytunir arno o dan baragraff (2).Terfynau amser ar gyfer penderfynu ar geisiadau am gymeradwyaeth
+5.—(1) Rhaid i gorff cymeradwyo benderfynu ar—
+(a)
+cais am gymeradwyaeth sy’n ymwneud â datblygiad sy’n destun Asesiad o’r Effaith Amgylcheddol o dan Reoliadau Cynllunio Gwlad a Thref (Asesu Effeithiau Amgylcheddol) (Cymru) 2017(1)(“Rheoliadau 2017”) o fewn cyfnod o 12 wythnos sy’n dechrau ar y diwrnod gwaith cyntaf ar ôl iddo gael cais dilys, neu
+(b)
+unrhyw gais arall am gymeradwyaeth o fewn y cyfnod o 7 wythnos sy’n dechrau ar y diwrnod gwaith cyntaf ar ôl iddo gael cais dilys.
+(2) Cyn diwedd y cyfnod a bennir yn is-baragraff (a) neu (b) (yn ôl y digwydd) o baragraff (1), caiff y corff cymeradwyo a’r ceisydd gytuno ar gyfnod hwy ar gyfer penderfynu ar gais.
+(3) Ystyrir bod corff cymeradwyo sy’n methu â phenderfynu ar gais o fewn y terfyn amser perthnasol yn gwrthod y cais.
+(4) Yn y rheoliad hwn—
+mae i “Asesiad o’r Effaith Amgylcheddol” (“Environmental Impact Assessment”) yr ystyr a roddir yn rheoliad 2 o Reoliadau 2017;
+mae i “datblygiad” yr ystyr a roddir i “development” yn adran 55(1) o Ddeddf Cynllunio Gwlad a Thref 1990(2);
+ystyr “terfyn amser perthnasol” (“relevant time limit”)yw—
+(a)
+cyfnod a bennir ym mharagraff (1), neu
+(b)
+unrhyw gyfnod hwy y cytunir arno o dan baragraff (2).
+(1)
+O.S. 2017/567 (Cy. 136).
+(2)
+1990 p. 8.Hysbysu am benderfyniad i fabwysiadu
+6.  Rhaid i hysbysiad o dan baragraff 23(4)(b) neu (5) o Atodlen 3 bennu—
+(a)
+y rhesymau dros y penderfyniad, a
+(b)
+dyddiad y penderfyniad.Rhyddhau bond methu â chyflawni pan fo’r ddyletswydd i fabwysiadu yn gymwys
+7.—(1) Ac eithrio pan fo paragraff (3) yn gymwys, rhaid i’r corff cymeradwyo ryddhau bond methu â chyflawni o fewn 4 wythnos gan ddechrau ar y diwrnod gwaith cyntaf ar ôl rhoi hysbysiad o dan baragraff 23(4)(b) neu (5) o Atodlen 3.
+(2) Mae paragraff (3) yn gymwys os gwnaeth y corff cymeradwyo—
+(a)
+dyroddi tystysgrif o dan baragraff 12(2) o Atodlen 3, a
+(b)
+gwneud gwaith i sicrhau bod y system ddraenio wedi ei chwblhau yn y fath fodd fel ei bod yn debygol o gydymffurfio â’r safonau cenedlaethol o ran ei gweithredoedd.
+(3) Rhaid i’r corff cymeradwyo, o fewn 4 wythnos gan ddechrau ar y diwrnod gwaith cyntaf ar ôl cwblhau’r gwaith—
+(a)
+anfon cyfrif llawn at y datblygwr o unrhyw symiau a gafwyd o dan y bond sydd wedi eu defnyddio i ddiwallu cost gwneud y gwaith,
+(b)
+talu unrhyw swm dros ben i’r datblygwr, ac
+(c)
+rhyddhau’r bond methu â chyflawni.Cofrestru a dynodi pan fo’r ddyletswydd i fabwysiadu yn gymwys
+8.  O fewn 4 wythnos gan ddechrau ar y diwrnod gwaith cyntaf ar ôl rhoi hysbysiad o dan baragraff 23(4)(b) neu (5) o Atodlen 3, rhaid i gorff cymeradwyo—
+(a)
+trefnu—
+(i)
+i’r awdurdod llifogydd lleol arweiniol(1) gynnwys y system ddraenio yn y gofrestr a gedwir o dan adran 21 o’r Ddeddf,
+(ii)
+i awdurdod dynodi(2) ddynodi dros dro o dan baragraff 7 o Atodlen 1 i’r Ddeddf unrhyw ran o’r system ddraenio (pa un a yw honno’n rhan a fabwysiadwyd ai peidio) sy’n gymwys i’w dynodi ac nad yw’r corff cymeradwyo yn berchen arni, a
+(b)
+yn unol â rheoliadau a wneir o dan adran 63 o Ddeddf Ffyrdd Newydd a Gwaith Stryd 1991(3), rhoi hysbysiad o fwriad i ddynodi, o dan yr adran honno, unrhyw ran o’r system ddraenio a fabwysiadwyd sy’n stryd o fewn ystyr adran 48 o’r Ddeddf honno.
+(1)
+Diffinnir “lead local flood authority” yn adran 6(9) o’r Ddeddf.
+(2)
+Diffinnir “designating authority” ym mharagraff 1 o Atodlen 1 i’r Ddeddf.
+(3)
+1991 p. 22. Mewnosodwyd adran 63(5) gan baragraff 27 o Atodlen 3 i’r Ddeddf.Eithriad ar gyfer eiddo unigol
+9.  At ddibenion paragraff 18(1) neu (2) o Atodlen 3, mae system ddraenio neu unrhyw ran o system ddraenio i’w thrin fel pe bai wedi ei dylunio i ddarparu draeniad i eiddo unigol yn unig os yw wedi ei dylunio i ddarparu draeniad i unrhyw adeiladau neu strwythurau eraill y bydd y canlynol, ar ôl cwblhau’r gwaith adeiladu, yn berchen arnynt, yn eu rheoli neu â rheolaeth drostynt—
+(a)
+person unigol, neu
+(b)
+dau berson neu ragor gyda’i gilydd.Rhyddhau bond methu â chyflawni pan na fo’r ddyletswydd i fabwysiadu yn gymwys
+10.—(1) Ac eithrio pan fo paragraff (3) yn gymwys, rhaid i gorff cymeradwyo ryddhau bond methu â chyflawni o fewn 4 wythnos gan ddechrau ar y diwrnod gwaith cyntaf ar ôl cwblhau system ddraenio a adeiledir yn unol â chynigion a gymeradwywyd.
+(2) Mae paragraff (3) yn gymwys os gwnaeth y corff cymeradwyo—
+(a)
+dyroddi tystysgrif o dan baragraff 12(2) o Atodlen 3, a
+(b)
+gwneud gwaith i sicrhau bod y system ddraenio wedi ei chwblhau yn y fath fodd fel ei bod yn debygol o gydymffurfio â’r safonau cenedlaethol o ran ei gweithredoedd.
+(3) Rhaid i’r corff cymeradwyo, o fewn 4 wythnos gan ddechrau ar y diwrnod gwaith cyntaf ar ôl cwblhau’r gwaith—
+(a)
+anfon cyfrif llawn at y datblygwr o unrhyw symiau a gafwyd o dan y bond sydd wedi eu defnyddio i ddiwallu cost gwneud y gwaith,
+(b)
+talu unrhyw swm dros ben i’r datblygwr, ac
+(c)
+rhyddhau’r bond methu â chyflawni.
+(4) Yn y rheoliad hwn—
+ystyr “cynigion a gymeradwywyd” (“approved proposals”) yw cynigion a gymeradwywyd o dan baragraff 7(1) o Atodlen 3, gan gynnwys unrhyw amodau ynghylch y gymeradwyaeth;
+mae “system ddraenio” (“drainage system”) i’w dehongli fel system ddraenio nad yw’r ddyletswydd i fabwysiadu yn gymwys iddi.Hysbysu am fabwysiadu gwirfoddol
+11.—(1) Rhaid i gorff cymeradwyo roi unrhyw hysbysiad o dan baragraff 24(2) o Atodlen 3 cyn gynted ag y bo’n ymarferol ar ôl penderfynu mabwysiadu system ddraenio nad yw’r ddyletswydd i fabwysiadu yn gymwys iddi.
+(2) Rhaid i’r hysbysiad bennu—
+(a)
+y rheswm dros fabwysiadu, a
+(b)
+y dyddiad mabwysiadu.Cofrestru a dynodi yn dilyn mabwysiadu gwirfoddol
+12.  O fewn 4 wythnos gan ddechrau ar y diwrnod gwaith cyntaf ar ôl rhoi hysbysiad o dan baragraff 24(2) o Atodlen 3, rhaid i gorff cymeradwyo drefnu—
+(a)
+i’r awdurdod llifogydd lleol arweiniol gynnwys y system ddraenio yn y gofrestr a gedwir o dan adran 21 o’r Ddeddf, a
+(b)
+i awdurdod dynodi ddynodi dros dro o dan baragraff 7 o Atodlen 1 unrhyw ran o’r system ddraenio (pa un a yw honno’n rhan a fabwysiadwyd ai peidio) sy’n gymwys i’w dynodi ac nad yw’r corff cymeradwyo yn berchen arni.Ystyr “statutory undertaker”
+13.  At ddiben paragraff 28(3)(a) o Atodlen 3, ystyr “statutory undertaker” yw person sydd â’r hawl o dan ddarpariaeth mewn deddfiad a restrir yn rheoliad 14 i wneud gwaith statudol ar dir cyhoeddus.Ystyr “statutory works”
+14.  At ddiben paragraff 28(3)(b) o Atodlen 3, ystyr “statutory works” yw gwaith y caniateir ei wneud gan berson o dan unrhyw un neu ragor o’r darpariaethau a ganlyn—
+(a)
+adran 159 o Ddeddf y Diwydiant Dŵr 1991(1) (pŵer i osod, arolygu, cynnal a chadw etc. bibelli);
+(b)
+Atodlen 4 i Ddeddf Nwy 1986(2) (pŵer i dyllu strydoedd);
+(c)
+paragraff 10(4) o Atodlen 4 i Ddeddf Trydan 1989(3) (pŵer i wneud tyllau turio);
+(d)
+Atodlen 3A i Ddeddf Cyfathrebiadau 2003(4).
+(1)
+1991 p. 56. Diwygiwyd adran 159 gan adran 97(1) a (5) o Ddeddf Dŵr 2003 (p. 37).
+(2)
+1986 p. 44. Diwygiwyd Atodlen 4 gan baragraffau 1 a 2(1) o Ran 1 o Atodlen 6 i Ddeddf Cyfleustodau 2000 (p. 27), a chan baragraff 119 o Atodlen 8 i Ddeddf Ffyrdd Newydd a Gwaith Stryd 1991 (p. 22). Mae diwygiadau eraill nad ydynt yn berthnasol i’r Rheoliadau hyn.
+(3)
+1989 p. 29.
+(4)
+2003 p. 21. Mewnosodwyd Atodlen 3A gan Atodlen 1 i Ddeddf yr Economi Ddigidol 2017 (p. 30).Hysbysu am waith statudol a chynigion ar gyfer gwaith ailadeiladu
+15.—(1) Ac eithrio mewn argyfwng, ni chaiff ymgymerwr statudol ddechrau ar waith statudol a fydd yn effeithio ar weithrediad system ddraenio gynaliadwy neu a allai wneud hynny, ar unrhyw dir cyhoeddus, oni bai ei fod o leiaf 4 wythnos cyn i’r gwaith statudol ddechrau, yn hysbysu’r corff cymeradwyo ar gyfer y system ddraenio honno am—
+(a)
+y gwaith statudol arfaethedig, a
+(b)
+y cynnig i wneud gwaith ailadeiladu.
+(2) Rhaid i’r hysbysiad a roddir o dan baragraff (1) ddod i ben ar y diwrnod gwaith cyn y diwrnod y mae’r gwaith statudol i ddechrau.
+(3) Os dechreuir y gwaith statudol mewn argyfwng, rhaid i’r ymgymerwr statudol, cyn gynted ag y bo’n ymarferol ar ôl i’r gwaith statudol ddechrau, hysbysu’r corff cymeradwyo—
+(a)
+bod y gwaith statudol wedi dechrau, a
+(b)
+am y cynnig i wneud gwaith ailadeiladu.
+(4) Ni chaniateir dechrau ar waith ailadeiladu oni bai bod y corff cymeradwyo wedi cadarnhau’r cynnig i wneud y gwaith ailadeiladu.
+(5) Oni bai bod y corff cymeradwyo wedi hysbysu’r ymgymerwr statudol fel arall, cymerir bod cynnig i wneud gwaith ailadeiladu wedi ei gadarnhau—
+(a)
+mewn perthynas â chynnig yr hysbysir amdano o dan baragraff (1)(b), 4 wythnos gan ddechrau ar y diwrnod gwaith cyntaf ar ôl i’r hysbysiad gael ei roi;
+(b)
+mewn perthynas â chynnig yr hysbysir amdano o dan baragraff (3)(b), 48 awr ar ôl i’r corff cymeradwyo gael yr hysbysiad.
+(6) Rhaid i’r ymgymerwr statudol, cyn gynted ag y bo’n rhesymol ymarferol ar ôl gwneud y gwaith ailadeiladu, hysbysu’r corff cymeradwyo am y dyddiad y cwblhawyd y gwaith statudol.Gofyniad i ymgymryd â gwaith adferol
+16.—(1) Os yw ymgymerwr statudol yn methu â gwneud gwaith ailadeiladu yn unol â’r cynnig a gadarnhawyd, caiff y corff cymeradwyo ei gwneud yn ofynnol i’r ymgymerwr wneud gwaith adferol o fewn amserlen benodedig.
+(2) Os yw ymgymerwr statudol yn methu â chydymffurfio â gofyniad o dan baragraff (1), caiff y corff cymeradwyo—
+(a)
+gwneud gwaith adferol, a
+(b)
+adennill unrhyw gostau yr aed iddynt wrth wneud y gwaith hwnnw fel dyled gan yr ymgymerwr.Gwaith statudol i gydymffurfio â’r safonau cenedlaethol
+17.—(1) O fewn 12 mis ar ôl i’r gwaith statudol gael ei gwblhau, rhaid i’r corf cymeradwyo benderfynu a yw wedi ei fodloni bod y gofynion ym mharagraff (2) wedi eu bodloni.
+(2) Mae’r gofynion fel a ganlyn—
+(a)
+bod system ddraenio newydd neu un a ailadeiladwyd yn gweithredu yn unol â’r cynnig a gadarnhawyd,
+(b)
+bod system ddraenio gynaliadwy newydd, os nad yw wedi ei hailadeiladu yn unol â’r cynnig a gadarnhawyd, yn cydymffurfio â’r safonau cenedlaethol, neu
+(c)
+bod system ddraenio gynaliadwy a ailadeiladwyd, os nad yw wedi ei hadeiladu yn unol â’r cynnig a gadarnhawyd, wedi ei hailadeiladu i’r cyflwr yr oedd ynddo cyn i’r gwaith statudol ddechrau.
+(3) Os nad yw corff cymeradwyo wedi ei fodloni bod y gofynion ym mharagraff (2) wedi eu bodloni, caiff ei gwneud yn ofynnol i’r ymgymerwr statudol wneud gwaith ailadeiladu neu waith adferol o fewn amserlen benodedig.
+(4) Os yw ymgymerwr statudol yn methu â chydymffurfio â gofyniad o dan baragraff (3), caiff y corff cymeradwyo—
+(a)
+gwneud gwaith adferol, a
+(b)
+adennill unrhyw gostau yr aed iddynt wrth wneud y gwaith hwnnw fel dyled gan yr ymgymerwr.Hannah Blythyn
+Gweinidog yr Amgylchedd, o dan awdurdod Ysgrifennydd y Cabinet dros Ynni, Cynllunio a Materion Gwledig, un o Weinidogion Cymru
+10 October 2018NODYN ESBONIADOL
+(Nid yw’r nodyn hwn yn rhan o’r Rheoliadau)
+Mae’r Rheoliadau hyn yn gwneud darpariaeth ar gyfer y weithdrefn mewn perthynas â phenderfyniad cyrff cymeradwyo am geisiadau i gymeradwyo systemau draenio cynaliadwy ac i fabwysiadu systemau draenio o’r fath, yn unol ag Atodlen 3 i Ddeddf Rheoli Llifogydd a Dŵr 2010 (p. 29) (“y Ddeddf”).
+Mae rheoliad 3 yn darparu y caiff corff cymeradwyo wrthod penderfynu ar gais am gymeradwyaeth nad yw’n unol â pharagraff 9 neu 10 o Atodlen 3 i’r Ddeddf.
+Mae rheoliad 4 yn darparu gweithdrefn i’r corff cymeradwyo ei dilyn mewn perthynas â cheisio ymatebion gan yr ymgyngoreion statudol a bennir ym mharagraff 11(3) o Atodlen 3 i’r Ddeddf.
+Mae rheoliad 5(1)(a) yn darparu ar gyfer y terfyn amser y mae rhaid penderfynu ar gais am gymeradwyaeth sy’n ymwneud â datblygiad sy’n destun Asesiad o’r Effaith Amgylcheddol o fewn iddo. Mae rheoliad 5(1)(b) yn darparu ar gyfer y terfyn amser ar gyfer penderfynu ar unrhyw fath arall o gais am gymeradwyaeth. Mae rheoliad 5(2) yn darparu y caiff y ceisydd a’r corff cymeradwyo, yn y naill achos neu’r llall, gytuno ar gyfnod amser hwy ar gyfer penderfynu ar y cais.
+Mae rheoliad 5(3) yn darparu yr ystyrir bod corff cymeradwyo sy’n methu â phenderfynu ar gais o fewn y terfyn amser perthnasol yn gwrthod y cais.
+Mae rheoliad 6 yn darparu ar gyfer yr wybodaeth i’w chynnwys mewn hysbysiad i ddatblygwr am benderfyniad mewn perthynas â mabwysiadu, pan fo datblygwr yn gofyn i gorff cymeradwyo fabwysiadu system ddraenio, neu pan fo’r corff cymeradwyo yn mabwysiadu system ddraenio ar ei gymhelliad ei hun.
+Mae rheoliad 7(1) yn darparu ar gyfer y cyfnod amser i ryddhau bond methu â chyflawni gan gorff cymeradwyo yn dilyn hysbysiad o benderfyniad mewn perthynas â mabwysiadu system ddraenio, ac eithrio pan fo’r corff cymeradwyo wedi ardystio nad yw’r system ddraenio wedi ei hadeiladu yn unol â’r cynigion a gymeradwywyd neu nad yw’n debygol y bydd yn cael ei chwblhau, a bod y corff cymeradwyo wedi gwneud gwaith i sicrhau bod y system ddraenio wedi ei chwblhau yn y fath fodd fel ei bod yn debygol o gydymffurfio â’r safonau cenedlaethol.
+O dan yr amgylchiadau hynny, mae rheoliad 7(3) yn darparu i’r corff cymeradwyo roi cyfrif i’r datblygwr am symiau a ddefnyddiwyd i ddiwallu cost y gwaith, bod y balans yn cael ei ddychwelyd a bod y bond methu â chyflawni yn cael ei ryddhau.
+Mae rheoliad 8 yn darparu bod rhaid i’r corff cymeradwyo, o fewn 4 wythnos i roi gwybod i ddatblygwr am benderfyniad i fabwysiadu system ddraenio (boed hynny ar gais neu ar ei gymhelliad ei hun), drefnu i’r system ddraenio gael ei nodi ar y gofrestr a gedwir o dan adran 21 o’r Ddeddf, trefnu i awdurdod dynodi wneud dynodiad dros dro o dan baragraff 7 o Atodlen 1 i’r Ddeddf, a rhoi hysbysiad o fwriad i ddynodi unrhyw ran o’r system ddraenio sy’n stryd, o fewn ystyr adran 48 o Ddeddf Ffyrdd Newydd a Gwaith Stryd 1991.
+Mae rheoliad 9 yn darparu diffiniad o systemau draenio “eiddo unigol” at ddibenion esemptiad rhag y ddyletswydd i fabwysiadu, yn unol â pharagraff 18 o Atodlen 3.
+Mae rheoliad 10(1) yn darparu ar gyfer y cyfnod amser i gorff cymeradwyo ryddhau bond methu â chyflawni pan fo system ddraenio wedi ei chwblhau yn unol â’r cynigion a gymeradwywyd. Mae rheoliad 10(2) yn darparu ar gyfer yr achos pan fo corff cymeradwyo wedi gwneud gwaith i sicrhau bod system ddraenio yn cael ei chwblhau yn y fath fodd fel ei bod yn debygol o gydymffurfio â’r safonau cenedlaethol. Yn yr amgylchiadau hynny, mae rheoliad 10(3) yn darparu ar gyfer yr amser i gorff cymeradwyo roi cyfrif i’r datblygwr am arian a ddefnyddiwyd i gyflawni’r gwaith, dychwelyd unrhyw swm dros ben a rhyddhau’r bond methu â chyflawni.
+Mae rheoliad 11 yn darparu bod rhaid i gorff cymeradwyo roi gwybod i’r personau ym mharagraff 24(2) o Atodlen 3 cyn gynted ag y bo’n ymarferol ar ôl arfer ei bŵer i fabwysiadu system ddraenio nad yw’r ddyletswydd i fabwysiadu yn gymwys iddi ac mae rheoliad 13(2) yn pennu cynnwys yr hysbysiad.
+Mae rheoliad 12 yn darparu ar gyfer y cyfnod amser i’r awdurdod llifogydd lleol arweiniol gofrestru system ddraenio, ac i awdurdod dynodi ddynodi dros dro system ddraenio o dan baragraff 7 o Atodlen 1 i’r Ddeddf, yn dilyn mabwysiadu gwirfoddol.
+Mae rheoliad 13 yn darparu diffiniad o “statutory undertaker”.
+Mae rheoliad 14 yn darparu diffiniad o “statutory works”.
+Mae rheoliadau 15(1) i (3) yn darparu i ymgymerwr statudol hysbysu’r corff cymeradwyo am y bwriad i ddechrau ar waith statudol ar dir cyhoeddus, gan gynnwys mewn argyfwng, pan fo’r cyfryw waith yn effeithio ar system ddraenio gynaliadwy, neu pan allai wneud hynny. Mae rheoliadau 15(4) i (6) yn gwneud darpariaeth ar gyfer cymeradwyo a hysbysu am waith ailadeiladu mewn perthynas â systemau draenio cynaliadwy yn dilyn gwaith statudol.
+Mae rheoliad 16(1) yn darparu pŵer i’r corff cymeradwyo ei gwneud yn ofynnol i ymgymerwr statudol wneud gwaith adferol. Pan na chydymffurfir â chais o’r fath, mae rheoliad 16(2) yn darparu pŵer pellach i gorff cymeradwyo wneud gwaith adferol ac adennill costau’r gwaith gan yr ymgymerwr statudol.
+Mae rheoliad 17(1) yn ei gwneud yn ofynnol i gorff cymeradwyo benderfynu, o fewn 12 mis i gwblhau’r gwaith statudol, a yw’n fodlon bod y gofynion yn rheoliad 17(2) wedi eu bodloni. Y gofynion yw bod system ddraenio newydd neu un a ailadeiladwyd yn gweithredu yn unol â’r cynnig a gymeradwywyd; bod system newydd, os nad yw wedi ei hadeiladu yn unol â’r cynnig a gymeradwywyd, yn cydymffurfio â’r safonau cenedlaethol, neu os yw’n system ddraenio gynaliadwy a ailadeiladwyd, os nad yw wedi ei hadeiladu yn unol â’r cynnig cymeradwy, wedi ei hailadeiladu i’r cyflwr yr oedd ynddo cyn i’r gwaith statudol ddechrau.
+Mae rheoliad 17(3) yn darparu pŵer, pan na fo corff cymeradwyo yn fodlon mewn perthynas â rheoliad 17(2), i’r corff cymeradwyo ei gwneud yn ofynnol i ymgymerwr statudol wneud gwaith ailadeiladu neu waith adferol o fewn cyfnod amser penodedig. Os na chydymffurfir â chais o’r fath, mae rheoliad 17(4) yn darparu pŵer i’r corff cymeradwyo wneud y gwaith, ac adennill y costau gan yr ymgymerwr statudol.
+Lluniwyd asesiad effaith rheoleiddiol, o ran Cymru, o’r costau a’r manteision sy’n debygol o ddeillio o gydymffurfio â’r Rheoliadau hyn. Gellir cael copi oddi wrth Lywodraeth Cymru, Parc Cathays, Caerdydd, CF10 3NQ ac mae wedi ei gyhoeddi ar www.llyw.cymru.

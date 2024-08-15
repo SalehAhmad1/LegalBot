@@ -103,7 +103,6 @@ class Database():
         splitted_texts = text_splitter.split_text(text)
         docs = [Document(page_content=doc, metadata=metadata) for doc in splitted_texts]
         ids = current_db.add_documents(documents=docs)
-        print(f'File with data with ids: {ids}')
                         
     def delete_collection(self):
         """

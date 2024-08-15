@@ -1,0 +1,36 @@
+SCOTTISH STATUTORY INSTRUMENTS
+2018 No. 352
+ELECTRICITY
+The Renewables Obligation (Scotland) Amendment Order 2018
+Made
+13th November 2018
+Coming into force
+20th November 2018
+The Scottish Ministers make the following Order in exercise of the powers conferred by sections 32, 32A and 32K of the Electricity Act 1989(1) and all other powers enabling them to do so.
+In accordance with section 32L(1)(2) of that Act the Scottish Ministers have consulted the Gas and Electricity Markets Authority, the National Association of Citizens Advice Bureaux, the Scottish Association of Citizens Advice Bureaux(3), electricity suppliers to whom this Order applies and such generators of electricity from renewable sources and other persons as the Scottish Ministers considered appropriate.
+In accordance with section 32L(3) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
+(1)
+1989 c.29. Sections 32 and 32A were substituted by section 37 of the Energy Act 2008 (c.32) (“the 2008 Act”). Section 32K was inserted by said section 37. Section 32(2) contains a definition of “the relevant minister” relevant to the exercise of these powers.
+(2)
+Section 32L was inserted by section 37 of the 2008 Act and amended by S.I. 2014/631.
+(3)
+Section 32L refers to “the Authority” which is defined in section 111(1) as the Gas and Electricity Markets Authority. That definition was inserted by paragraph 40(a) of schedule 6 of the Utilities Act 2000 (c.27). Section 32L also refers to “Citizens Advice” and “Citizens Advice Scotland” which are defined in said section 111(1) as the National Association of Citizens Advice Bureaux and the Scottish Association of Citizens Advice Bureaux. Those definitions were inserted by S.I. 2014/631.Citation, commencement and interpretation
+1.—(1) This Order may be cited as the Renewables Obligation (Scotland) Amendment Order 2018 and comes into force on 20th November 2018.
+(2) In this Order “the 2009 Order” means the Renewables Obligation (Scotland) Order 2009(1).
+(1)
+S.S.I. 2009/140, as amended by S.S.I. 2010/147, S.S.I. 2014/94 and S.S.I. 2017/432.Amendment of the 2009 Order
+2.  The 2009 Order is amended in accordance with articles 3 and 4.Excluded capacity
+3.  In article 2 (interpretation), in the definition of “excluded capacity”, after paragraph (a) insert—
+“(ab)
+in relation to a large hydro generating station, generating capacity which in the Authority’s view—
+(i)
+formed part of the station from a date no earlier than 20th November 2018; and
+(ii)
+does not form part of the capacity of the station as accredited.”.Excluded generating stations
+4.  In article 17 (excluded generating stations), omit paragraph (4).PAUL WHEELHOUSE
+Authorised to sign by the Scottish Ministers
+St Andrew’s House,
+Edinburgh
+13th November 2018EXPLANATORY NOTE
+(This note is not part of the Order)
+This Order amends the Renewables Obligation (Scotland) Order 2009 to lift a restriction on the amount of electricity which can be produced by hydro generating stations without affecting eligibility for Scottish Renewable Obligation Certificates (SROCs). Any additional electricity which will be generated as a result of this amendment is not eligible for SROCs.

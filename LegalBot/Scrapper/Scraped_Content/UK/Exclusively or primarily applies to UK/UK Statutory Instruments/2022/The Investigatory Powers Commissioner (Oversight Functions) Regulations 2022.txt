@@ -1,0 +1,37 @@
+STATUTORY INSTRUMENTS
+2022 No. 1299
+INVESTIGATORY POWERS
+The Investigatory Powers Commissioner (Oversight Functions) Regulations 2022
+Made
+7th December 2022
+Coming into force
+8th December 2022
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 239(1) and (3) of the Investigatory Powers Act 2016(1).
+A draft of this instrument has been laid before, and approved by a resolution of, each House of Parliament pursuant to section 267(3)(f) of that Act.
+(1)
+2016 c. 25.Citation, commencement and extent
+1.—(1) These Regulations may be cited as the Investigatory Powers Commissioner (Oversight Functions) Regulations 2022 and come into force on the day after the day on which they are made.
+(2) These Regulations extend to England and Wales, Scotland and Northern Ireland.Amendment of section 229 of the Investigatory Powers Act 2016
+2.  In section 229 of the Investigatory Powers Act 2016 (main oversight functions of the Investigatory Powers Commissioner), after subsection (3A)(1), insert—
+“(3B) The Investigatory Powers Commissioner must keep under review (including by way of audit, inspection and investigation) the process operated by GCHQ for determining whether information about vulnerabilities in technology should be disclosed.
+(3C) The Investigatory Powers Commissioner must keep under review (including by way of audit, inspection and investigation) compliance by the persons mentioned in subsection (3D) with “The Principles Relating to the Detention and Interviewing of Detainees Overseas and the Passing and Receipt of Intelligence Relating to Detainees”, as published on 18th July 2019.
+(3D) Those persons are—
+(a)
+members and civilian staff of the metropolitan police force who are carrying out activities to which a collaboration agreement made under section 22A of the Police Act 1996(2) relating to counter-terrorism activities applies, and
+(b)
+officers of the National Crime Agency.”.
+(1)
+Subsection (3A) of section 229 of the 2016 Act was inserted by S.I. 2020/1009.
+(2)
+1996 c. 16; section 22A was inserted by section 89(2) of the Police Reform and Social Responsibility Act 2011 (c. 13) and amended by section 157(2) of the Policing and Crime Act 2017 (c. 3).Tom Tugendhat
+Minister of State
+Home Office
+7th December 2022EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend section 229 of the Investigatory Powers Act 2016 (c. 25) (“the 2016 Act”), which sets out the main functions of the Investigatory Powers Commissioner (“the Commissioner”).
+Regulation 2 amends section 229 of the 2016 Act so that the oversight functions of the Commissioner include keeping under review (including by way of audit, inspection and investigation) the exercise by public authorities in the areas described below, where oversight was previously conducted on an agreed, non-statutory basis.
+New subsection (3B) provides the Commissioner with oversight of the process operated by GCHQ for determining whether information about vulnerabilities in technology should be disclosed.
+Further details about the process can be found online via the following link: www.gchq.gov.uk/information/equities-process.
+New subsections (3C) and (3D) provide the Commissioner with oversight of compliance by members and civilian staff of the metropolitan police force and officers of the National Crime Agency with the guidance referred to as “The Principles Relating to the Detention and Interviewing of Detainees Overseas and the Passing and Receipt of Intelligence Relating to Detainees” (“the Principles”).
+The Principles, as published on 18 July 2019, can be found online via the following link: www.gov.uk/government/publications/uk-involvement-with-detainees-in-overseas-counter-terrorism-operations. A hard copy version may be obtained by printing the document published on the GOV.UK website (www.gov.uk) or by writing to the Cabinet Office, National Security Secretariat, 70 Whitehall, London, SW1A 2AS.
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.

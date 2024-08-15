@@ -1,0 +1,2590 @@
+OFFERYNNAU STATUDOL CYMRU
+2021 Rhif 1227 (Cy. 309)
+LLYWODRAETH LEOL, CYMRU
+Gorchymyn Sir Fynwy (Cymunedau) 2021
+Gwnaed
+2 Tachwedd 2021
+Yn dod i rym yn unol ag erthygl 1(2) a (3)
+Mae Comisiwn Ffiniau a Democratiaeth Leol Cymru(1), yn unol ag adrannau 54(1) a 58(1) o Ddeddf Llywodraeth Leol 1972(2) (“Deddf 1972”), wedi cyflwyno i Weinidogion Cymru adroddiad dyddiedig Ionawr 2019 yn cynnwys ei argymhellion ar gyfer newid a manylion adolygiad o’r trefniadau cymunedol yn Sir Fynwy a gynhaliwyd gan Gyngor Sir Fynwy.
+Mae Gweinidogion Cymru wedi penderfynu rhoi effaith i argymhellion y Comisiwn heb addasiad.
+Yn unol ag adran 58(2) o Ddeddf 1972, mae mwy na 6 wythnos wedi mynd heibio ers i’r argymhellion hynny gael eu cyflwyno i Weinidogion Cymru.
+Mae Gweinidogion Cymru yn gwneud y Gorchymyn a ganlyn drwy arfer y pwerau a roddwyd i’r Ysgrifennydd Gwladol gan adrannau 58(2), 67(4) a (5) o Ddeddf 1972(3), ac a freiniwyd bellach ynddynt hwy, i’r graddau y maent yn arferadwy o ran Cymru(4).
+(1)
+Sefydlwyd y Comisiwn Ffiniau Llywodraeth Leol i Gymru gan adran 53 o Ddeddf Llywodraeth Leol 1972 (p. 70) (“Deddf 1972”), ac Atodlen 8 iddi. Diddymwyd adran 53 ac Atodlen 8 gan adran 73(2) o Ddeddf Llywodraeth Leol (Democratiaeth) (Cymru) 2013 (dccc 4) (“Deddf 2013”) ac Atodlen 2 iddi. Mae Deddf 2013 yn ailenwi’r Comisiwn Ffiniau Llywodraeth Leol i Gymru yn Gomisiwn Ffiniau a Democratiaeth Leol Cymru (gweler adran 2).
+(2)
+1972 p. 70. Diddymwyd adrannau 54 a 58 o Ddeddf 1972 gan adran 73 o Ddeddf 2013, ac Atodlen 2 iddi, ond fe’u harbedwyd gan adran 74 o Ddeddf 2013 mewn perthynas ag adolygiad a oedd yn cael ei gynnal o dan Ddeddf 1972 pan ddaeth Deddf 2013 i rym.
+(3)
+Diddymwyd adran 67 o Ddeddf 1972 gan adran 73 o Ddeddf 2013, ac Atodlen 2 iddi, ond fe’i harbedwyd gan adran 74 o Ddeddf 2013 mewn perthynas ag adolygiad a oedd yn cael ei gynnal o dan Ddeddf 1972 pan ddaeth Deddf 2013 i rym.
+(4)
+Trosglwyddwyd pwerau’r Ysgrifennydd Gwladol i Gynulliad Cenedlaethol Cymru gan Orchymyn Cynulliad Cenedlaethol Cymru (Trosglwyddo Swyddogaethau) 1999 (O.S. 1999/672) ac maent bellach wedi eu breinio yng Ngweinidogion Cymru yn rhinwedd paragraff 30 o Atodlen 11 i Ddeddf Llywodraeth Cymru 2006 (2006 p. 32).Enwi a chychwyn
+1.—(1) Enw’r Gorchymyn hwn yw Gorchymyn Sir Fynwy (Cymunedau) 2021.
+(2) At unrhyw ddiben a nodir yn rheoliad 4(1) o’r Rheoliadau, daw’r Gorchymyn hwn i rym ar 8 Tachwedd 2021.
+(3) At bob diben arall, daw’r Gorchymyn hwn i rym am 23:59 o’r gloch ar y diwrnod cyn y diwrnod arferol ar gyfer ethol cynghorwyr yn 2022(1).
+Gwybodaeth Cychwyn
+I1
+Ergl. 1 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 1 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)
+(1)
+Mae Gorchymyn Awdurdodau Lleol (Newid Blynyddoedd Etholiadau Cyffredin) (Cymru) 2019 (O.S. 2019/1269 (Cy. 220)) yn diwygio adran 26(1) o Ddeddf 1972 i ddarparu y bydd etholiadau cyffredin cynghorwyr awdurdodau lleol yn cael eu cynnal yn y flwyddyn 2022 yn hytrach na 2021.Dehongli
+2.—(1) Yn y Gorchymyn hwn—
+ystyr “newydd” (“new”), mewn perthynas ag ardal llywodraeth leol neu ardal etholiadol, yw’r ardal honno fel y’i sefydlir gan y Gorchymyn hwn;
+ystyr “presennol” (“existing”), mewn perthynas ag ardal llywodraeth leol neu ardal etholiadol, yw’r ardal honno fel y mae’n bodoli yn union cyn yr amser a’r dyddiad a nodwyd yn erthygl 1(3);
+ystyr “y Rheoliadau” (“the Regulations”) yw Rheoliadau Newidiadau i Ardaloedd Llywodraeth Leol 1976(1);
+ystyr “ward etholiadol” (“electoral ward”) yw unrhyw ardal yr etholir cynghorwyr drosti i Gyngor Sir Fynwy;
+mae unrhyw gyfeiriad at fap yn gyfeiriad at un o’r 166 o fapiau a farciwyd “Map ar gyfer Gorchymyn Sir Fynwy (Cymunedau) 2021”, a adneuwyd yn unol â rheoliad 5 o’r Rheoliadau, a labelwyd “1” i “166”, ac mae cyfeiriad at fap â rhif yn gyfeiriad at y map sy’n dwyn y rhif hwnnw;
+pan ddangosir bod ffin ar fap yn rhedeg ar hyd ffordd, rheilffordd, troetffordd, cwrs dŵr neu nodwedd ddaearyddol debyg, mae i’w thrin fel un sy’n rhedeg ar hyd llinell ganol y nodwedd;
+mae i eiriau ac ymadroddion a ddefnyddir yn y Gorchymyn hwn yr un ystyr ag sydd iddynt yn Neddf Llywodraeth Leol 1972 fel y’i harbedwyd, ac eithrio i’r graddau yr ymddengys bwriad i’r gwrthwyneb.
+(2) Mae’r darpariaethau yn y Gorchymyn hwn yn cymryd blaenoriaeth dros unrhyw ddarpariaeth wrthdrawiadol mewn unrhyw offeryn statudol blaenorol a wnaed o dan adran 58(2) o Ddeddf 1972 neu Orchymyn a wnaed o dan adrannau 37(1), 38(1) neu 39(1) o Ddeddf Llywodraeth Leol (Democratiaeth) (Cymru) 2013(2).
+Gwybodaeth Cychwyn
+I1
+Ergl. 2 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 2 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)
+(1)
+O.S. 1976/246 (fel y’i diwygiwyd gan offerynnau statudol amrywiol. Nid yw’r diwygiadau hynny yn berthnasol at ddibenion y Gorchymyn hwn).
+(2)
+2013 dccc 4.Y Fenni, Llan-ffwyst Fawr, Llanofer a Llandeilo Bertholau — newid ffiniau cymunedol a newidiadau canlyniadol i drefniadau etholiadol
+3.  Mae’r rhan o gymuned Llan-ffwyst Fawr a ddangosir â llinellau ar Fap 1—
+(a)
+wedi ei throsglwyddo i gymuned y Fenni;
+(b)
+yn ffurfio rhan o ward gymunedol Llanwenarth Citra;
+(c)
+yn ffurfio rhan o ward etholiadol Cantref.
+Gwybodaeth Cychwyn
+I1
+Ergl. 3 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 3 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Y Fenni, Llan-ffwyst Fawr, Llanofer a Llandeilo Bertholau — newid ffiniau cymunedol a newidiadau canlyniadol i drefniadau etholiadol
+4.  Mae’r rhan o gymuned Llandeilo Bertholau a ddangosir â llinellau ar Fap 2—
+(a)
+wedi ei throsglwyddo i gymuned y Fenni;
+(b)
+yn ffurfio rhan o ward gymunedol Lansdown;
+(c)
+yn ffurfio rhan o ward etholiadol Lansdown.
+Gwybodaeth Cychwyn
+I1
+Ergl. 4 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 4 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Y Fenni, Llan-ffwyst Fawr, Llanofer a Llandeilo Bertholau — newid ffiniau cymunedol a newidiadau canlyniadol i drefniadau etholiadol
+5.  Mae’r rhan o gymuned Llandeilo Bertholau a ddangosir â llinellau ar Fap 3—
+(a)
+wedi ei throsglwyddo i gymuned y Fenni;
+(b)
+yn ffurfio rhan o ward gymunedol y Priordy;
+(c)
+yn ffurfio rhan o ward etholiadol y Priordy.
+Gwybodaeth Cychwyn
+I1
+Ergl. 5 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 5 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Y Fenni, Llan-ffwyst Fawr, Llanofer a Llandeilo Bertholau — newid ffiniau cymunedol a newidiadau canlyniadol i drefniadau etholiadol
+6.  Mae’r rhan o gymuned y Fenni a ddangosir â llinellau ar Fap 4—
+(a)
+wedi ei throsglwyddo i gymuned Llanofer;
+(b)
+yn ffurfio rhan o ward gymunedol Llanddewi Rhydderch;
+(c)
+yn ffurfio rhan o ward etholiadol Llan-arth.
+Gwybodaeth Cychwyn
+I1
+Ergl. 6 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 6 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Y Fenni, Llan-ffwyst Fawr, Llanofer a Llandeilo Bertholau — newid ffiniau cymunedol a newidiadau canlyniadol i drefniadau etholiadol
+7.  Mae’r rhannau o gymuned Llanofer a ddangosir â llinellau ar Fap 5 a Map 6—
+(a)
+wedi eu trosglwyddo i gymuned y Fenni;
+(b)
+yn ffurfio rhan o ward gymunedol y Castell;
+(c)
+yn ffurfio rhan o ward etholiadol y Castell.
+Gwybodaeth Cychwyn
+I1
+Ergl. 7 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 7 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Cantref a Llanwenarth Citra — newid ffiniau wardiau cymunedol a newid canlyniadol i wardiau etholiadol
+8.  Mae’r rhan o ward Cantref o gymuned y Fenni a ddangosir â llinellau ar Fap 7—
+(a)
+wedi ei throsglwyddo i ward Llanwenarth Citra o gymuned y Fenni;
+(b)
+yn ffurfio rhan o ward etholiadol Cantref.
+Gwybodaeth Cychwyn
+I1
+Ergl. 8 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 8 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Cantref a Grofield — newid ffiniau wardiau cymunedol a newid canlyniadol i wardiau etholiadol
+9.  Mae’r rhan o ward Cantref o gymuned y Fenni a ddangosir â llinellau ar Fap 8—
+(a)
+wedi ei throsglwyddo i ward Grofield o gymuned y Fenni;
+(b)
+yn ffurfio rhan o ward etholiadol Grofield.
+Gwybodaeth Cychwyn
+I1
+Ergl. 9 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 9 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Y Castell a’r Priordy — newid ffiniau wardiau cymunedol a newid canlyniadol i wardiau etholiadol
+10.  Mae’r rhan o ward y Castell o gymuned y Fenni a ddangosir â llinellau ar Fap 9—
+(a)
+wedi ei throsglwyddo i ward y Priordy o gymuned y Fenni;
+(b)
+yn ffurfio rhan o ward etholiadol y Priordy.
+Gwybodaeth Cychwyn
+I1
+Ergl. 10 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 10 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Y Castell a Grofield — newid ffiniau wardiau cymunedol a newid canlyniadol i wardiau etholiadol
+11.  Mae’r rhan o ward y Castell o gymuned y Fenni a ddangosir â llinellau ar Fap 10—
+(a)
+wedi ei throsglwyddo i ward Grofield o gymuned y Fenni;
+(b)
+yn ffurfio rhan o ward etholiadol Grofield.
+Gwybodaeth Cychwyn
+I1
+Ergl. 11 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 11 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Y Priordy a’r Castell — newid ffiniau wardiau cymunedol a newid canlyniadol i wardiau etholiadol
+12.  Mae’r rhan o ward y Priordy o gymuned y Fenni a ddangosir â llinellau ar Fap 11—
+(a)
+wedi ei throsglwyddo i ward y Castell o gymuned y Fenni;
+(b)
+yn ffurfio rhan o ward etholiadol y Castell.
+Gwybodaeth Cychwyn
+I1
+Ergl. 12 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 12 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Y Castell a’r Priordy — newid ffiniau wardiau cymunedol a newid canlyniadol i wardiau etholiadol
+13.  Mae’r rhan o ward y Castell o gymuned y Fenni a ddangosir â llinellau ar Fap 12—
+(a)
+wedi ei throsglwyddo i ward y Priordy o gymuned y Fenni;
+(b)
+yn ffurfio rhan o ward etholiadol y Priordy.
+Gwybodaeth Cychwyn
+I1
+Ergl. 13 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 13 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Y Castell — newid enw ward gymunedol
+14.  Mae ward y Castell o gymuned y Fenni fel y’i newidir gan y Gorchymyn hwn ac a ddangosir â llinellau ar Fap 13—
+(a)
+wedi ei hailenwi yn Pen-y-fâl;
+(b)
+yn ffurfio ward etholiadol y Castell.
+Gwybodaeth Cychwyn
+I1
+Ergl. 14 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 14 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Y Castell — newid enw ward etholiadol
+15.  Mae ward etholiadol y Castell fel y’i newidir gan y Gorchymyn hwn wedi ei hailenwi yn Pen-y-fâl.
+Gwybodaeth Cychwyn
+I1
+Ergl. 15 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 15 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Y Priordy a Grofield — newid ffiniau wardiau cymunedol a newid canlyniadol i wardiau etholiadol
+16.  Mae’r rhan o ward y Priordy o gymuned y Fenni a ddangosir â llinellau ar Fap 14—
+(a)
+wedi ei throsglwyddo i ward Grofield o gymuned y Fenni;
+(b)
+yn ffurfio rhan o ward etholiadol Grofield.
+Gwybodaeth Cychwyn
+I1
+Ergl. 16 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 16 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Grofield a Llanwenarth Citra — newid ffiniau wardiau cymunedol a newid canlyniadol i wardiau etholiadol
+17.  Mae’r rhan o ward Grofield o gymuned y Fenni a ddangosir â llinellau ar Fap 15—
+(a)
+wedi ei throsglwyddo i ward Llanwenarth Citra o gymuned y Fenni;
+(b)
+yn ffurfio rhan o ward etholiadol Cantref.
+Gwybodaeth Cychwyn
+I1
+Ergl. 17 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 17 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Lansdown a’r Priordy — newid ffiniau wardiau cymunedol a newid canlyniadol i wardiau etholiadol
+18.  Mae’r rhan o ward Lansdown o gymuned y Fenni a ddangosir â llinellau ar Fap 16—
+(a)
+wedi ei throsglwyddo i ward y Priordy o gymuned y Fenni;
+(b)
+yn ffurfio rhan o ward etholiadol y Priordy.
+Gwybodaeth Cychwyn
+I1
+Ergl. 18 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 18 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Y Priordy — newid enw ward gymunedol
+19.  Mae ward y Priordy o gymuned y Fenni fel y’i newidir gan y Gorchymyn hwn ac a ddangosir â llinellau ar Fap 17—
+(a)
+wedi ei hailenwi yn y Parc;
+(b)
+yn ffurfio ward etholiadol y Priordy.
+Gwybodaeth Cychwyn
+I1
+Ergl. 19 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 19 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Y Priordy — newid enw ward etholiadol
+20.  Mae ward y Priordy fel y’i newidir gan y Gorchymyn hwn wedi ei hailenwi yn y Parc.
+Gwybodaeth Cychwyn
+I1
+Ergl. 20 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 20 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Y Fenni — trefniadau etholiadol wardiau cymunedol
+21.  Yng nghymuned y Fenni, nifer y cynghorwyr sydd i’w hethol dros—
+(a)
+ward Grofield yw 4;
+(b)
+ward Llanwenarth Citra yw 1;
+(c)
+ward y Parc yw 3;
+(d)
+ward Pen-y-fâl yw 3.
+Gwybodaeth Cychwyn
+I1
+Ergl. 21 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 21 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Caer-went, Magwyr gyda Gwndy — newid ffiniau cymunedol a newidiadau canlyniadol i drefniadau etholiadol
+22.  Mae’r rhannau o gymuned Magwyr gyda Gwndy a ddangosir â llinellau ar Fap 18—
+(a)
+wedi eu trosglwyddo i gymuned Caer-went;
+(b)
+yn ffurfio rhan o ward gymunedol Saint-y-brid;
+(c)
+yn ffurfio rhan o ward etholiadol Caer-went.
+Gwybodaeth Cychwyn
+I1
+Ergl. 22 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 22 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Caer-went a Rogiet — newid ffiniau cymunedol a newid canlyniadol i wardiau etholiadol
+23.  Mae’r rhannau o gymuned Caer-went a ddangosir â llinellau ar Fap 19—
+(a)
+wedi eu trosglwyddo i gymuned Rogiet;
+(b)
+yn ffurfio rhan o ward etholiadol Rogiet.
+Gwybodaeth Cychwyn
+I1
+Ergl. 23 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 23 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Porth Sgiwed a Chaer-went — newid ffiniau cymunedol a newid canlyniadol i drefniadau etholiadol
+24.  Mae’r rhannau o gymuned Porth Sgiwed a ddangosir â llinellau ar Fap 20—
+(a)
+wedi eu trosglwyddo i gymuned Caer-went;
+(b)
+yn ffurfio rhan o ward gymunedol Crug;
+(c)
+yn ffurfio rhan o ward etholiadol Caer-went.
+Gwybodaeth Cychwyn
+I1
+Ergl. 24 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 24 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Matharn a Chaer-went — newid ffiniau cymunedol a newid canlyniadol i wardiau etholiadol
+25.  Mae’r rhan o gymuned Matharn a ddangosir â llinellau ar Fap 21—
+(a)
+wedi ei throsglwyddo i gymuned Caer-went;
+(b)
+yn ffurfio rhan o ward gymunedol Crug;
+(c)
+yn ffurfio rhan o ward etholiadol Caer-went.
+Gwybodaeth Cychwyn
+I1
+Ergl. 25 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 25 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Caer-went, Crug, Dinham, Llanfair Disgoed a Saint-y-brid — newidiadau i ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+26.  Mae’r rhan o ward Saint-y-brid o gymuned Caer-went a ddangosir â llinellau ar Fap 22—
+(a)
+wedi ei throsglwyddo i ward Caer-went o gymuned Caer-went;
+(b)
+yn ffurfio rhan o ward etholiadol Caer-went.
+Gwybodaeth Cychwyn
+I1
+Ergl. 26 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 26 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Caer-went, Crug, Dinham, Llanfair Disgoed a Saint-y-brid — newidiadau i ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+27.  Mae’r rhan o ward Crug o gymuned Caer-went a ddangosir â llinellau ar Fap 23—
+(a)
+wedi ei throsglwyddo i ward Caer-went o gymuned Caer-went;
+(b)
+yn ffurfio rhan o ward etholiadol Caer-went.
+Gwybodaeth Cychwyn
+I1
+Ergl. 27 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 27 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Caer-went, Crug, Dinham, Llanfair Disgoed a Saint-y-brid — newidiadau i ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+28.  Mae’r rhan o ward Crug o gymuned Caer-went a ddangosir â llinellau ar Fap 24—
+(a)
+wedi ei throsglwyddo i ward Dinham o gymuned Caer-went;
+(b)
+yn ffurfio rhan o ward etholiadol Caer-went.
+Gwybodaeth Cychwyn
+I1
+Ergl. 28 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 28 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Caer-went, Crug, Dinham, Llanfair Disgoed a Saint-y-brid — newidiadau i ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+29.  Mae’r rhan o ward Llanfair Disgoed o gymuned Caer-went a ddangosir â llinellau ar Fap 25—
+(a)
+wedi ei throsglwyddo i ward Dinham o gymuned Caer-went;
+(b)
+yn ffurfio rhan o ward etholiadol Caer-went.
+Gwybodaeth Cychwyn
+I1
+Ergl. 29 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 29 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Caer-went, Crug, Dinham, Llanfair Disgoed a Saint-y-brid — newidiadau i ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+30.  Mae’r rhan o ward Llanfair Disgoed o gymuned Caer-went a ddangosir â llinellau ar Fap 26—
+(a)
+wedi ei throsglwyddo i ward Saint-y-brid o gymuned Caer-went;
+(b)
+yn ffurfio rhan o ward etholiadol Caer-went.
+Gwybodaeth Cychwyn
+I1
+Ergl. 30 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 30 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Caer-went — trefniadau etholiadol wardiau cymunedol
+31.  Yng nghymuned Caer-went, nifer y cynghorwyr sydd i’w hethol dros—
+(a)
+ward Caer-went yw 3;
+(b)
+ward Llanfair Disgoed yw 1;
+(c)
+ward Saint-y-brid yw 1.
+Gwybodaeth Cychwyn
+I1
+Ergl. 31 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 31 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Caldicot, Porth Sgiwed a Rogiet — newidiadau i ffiniau cymunedol a newidiadau canlyniadol i drefniadau etholiadol
+32.  Mae’r rhan o gymuned Porth Sgiwed a ddangosir â llinellau ar Fap 27—
+(a)
+wedi ei throsglwyddo i gymuned Caldicot;
+(b)
+yn ffurfio rhan o ward gymunedol Hafren;
+(c)
+yn ffurfio rhan o ward etholiadol newydd Hafren.
+Gwybodaeth Cychwyn
+I1
+Ergl. 32 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 32 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Caldicot, Porth Sgiwed a Rogiet — newidiadau i ffiniau cymunedol a newidiadau canlyniadol i drefniadau etholiadol
+33.  Mae’r rhan o gymuned Rogiet a ddangosir â llinellau ar Fap 28—
+(a)
+wedi ei throsglwyddo i gymuned Caldicot;
+(b)
+yn ffurfio rhan o ward gymunedol West End;
+(c)
+yn ffurfio rhan o ward etholiadol West End.
+Gwybodaeth Cychwyn
+I1
+Ergl. 33 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 33 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Caldicot, Porth Sgiwed a Rogiet — newidiadau i ffiniau cymunedol a newidiadau canlyniadol i drefniadau etholiadol
+34.  Mae’r rhan o gymuned Caldicot a ddangosir â llinellau ar Fap 29—
+(a)
+wedi ei throsglwyddo i gymuned Rogiet;
+(b)
+yn ffurfio rhan o ward etholiadol Rogiet.
+Gwybodaeth Cychwyn
+I1
+Ergl. 34 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 34 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Castell Caldicot, Caldicot Cross, Llanddewi, Green Lane, Hafren, West End a The Village — newidiadau i ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+35.  Mae’r rhan o ward Castell Caldicot o gymuned Caldicot a ddangosir â llinellau ar Fap 30—
+(a)
+wedi ei throsglwyddo i ward newydd Caldicot Cross o gymuned Caldicot;
+(b)
+yn ffurfio rhan o ward etholiadol newydd Croes Cil-y-coed.
+Gwybodaeth Cychwyn
+I1
+Ergl. 35 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 35 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Castell Caldicot, Caldicot Cross, Llanddewi, Green Lane, Hafren, West End a The Village — newidiadau i ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+36.  Mae’r rhan o ward Castell Caldicot o gymuned Caldicot a ddangosir â llinellau ar Fap 31—
+(a)
+wedi ei throsglwyddo i ward The Village o gymuned Caldicot;
+(b)
+yn ffurfio rhan o ward etholiadol newydd Hafren.
+Gwybodaeth Cychwyn
+I1
+Ergl. 36 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 36 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Castell Caldicot, Caldicot Cross, Llanddewi, Green Lane, Hafren, West End a The Village — newidiadau i ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+37.  Mae’r rhan o ward Castell Caldicot o gymuned Caldicot a ddangosir â llinellau ar Fap 32—
+(a)
+wedi ei throsglwyddo i ward Hafren o gymuned Caldicot;
+(b)
+yn ffurfio rhan o ward etholiadol newydd Hafren.
+Gwybodaeth Cychwyn
+I1
+Ergl. 37 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 37 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Castell Caldicot, Caldicot Cross, Llanddewi, Green Lane, Hafren, West End a The Village — newidiadau i ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+38.  Mae’r rhan o ward Llanddewi o gymuned Caldicot a ddangosir â llinellau ar Fap 33—
+(a)
+wedi ei throsglwyddo i ward West End o gymuned Caldicot;
+(b)
+yn ffurfio rhan o ward etholiadol West End.
+Gwybodaeth Cychwyn
+I1
+Ergl. 38 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 38 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Castell Caldicot, Caldicot Cross, Llanddewi, Green Lane, Hafren, West End a The Village — newidiadau i ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+39.  Mae’r rhan o ward Llanddewi o gymuned Caldicot a ddangosir â llinellau ar Fap 34—
+(a)
+wedi ei throsglwyddo i ward newydd Caldicot Cross o gymuned Caldicot;
+(b)
+yn ffurfio rhan o ward etholiadol newydd Croes Cil-y-coed.
+Gwybodaeth Cychwyn
+I1
+Ergl. 39 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 39 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Castell Caldicot, Caldicot Cross, Llanddewi, Green Lane, Hafren, West End a The Village — newidiadau i ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+40.  Mae’r rhan o ward Green Lane o gymuned Caldicot a ddangosir â llinellau ar Fap 35—
+(a)
+wedi ei throsglwyddo i ward Llanddewi o gymuned Caldicot;
+(b)
+yn ffurfio rhan o ward etholiadol Llanddewi.
+Gwybodaeth Cychwyn
+I1
+Ergl. 40 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 40 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Castell Caldicot, Caldicot Cross, Llanddewi, Green Lane, Hafren, West End a The Village — newidiadau i ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+41.  Mae’r rhan o ward Green Lane o gymuned Caldicot a ddangosir â llinellau ar Fap 36—
+(a)
+wedi ei throsglwyddo i ward newydd Caldicot Cross o gymuned Caldicot;
+(b)
+yn ffurfio rhan o ward etholiadol newydd Croes Cil-y-coed.
+Gwybodaeth Cychwyn
+I1
+Ergl. 41 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 41 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Castell Caldicot, Caldicot Cross, Llanddewi, Green Lane, Hafren, West End a The Village — newidiadau i ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+42.  Mae’r rhannau o ward Green Lane o gymuned Caldicot a ddangosir â llinellau ar Fap 37 a Map 38—
+(a)
+wedi eu trosglwyddo i ward newydd The Village o gymuned Caldicot;
+(b)
+yn ffurfio rhan o ward etholiadol newydd Hafren.
+Gwybodaeth Cychwyn
+I1
+Ergl. 42 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 42 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Castell Caldicot, Caldicot Cross, Llanddewi, Green Lane, Hafren, West End a The Village — newidiadau i ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+43.  Mae’r rhan o ward Hafren o gymuned Caldicot a ddangosir â llinellau ar Fap 39—
+(a)
+wedi ei throsglwyddo i ward newydd Caldicot Cross o gymuned Caldicot;
+(b)
+yn ffurfio rhan o ward etholiadol newydd Croes Cil-y-coed.
+Gwybodaeth Cychwyn
+I1
+Ergl. 43 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 43 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Castell Caldicot, Caldicot Cross, Llanddewi, Green Lane, Hafren, West End a The Village — newidiadau i ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+44.  Mae’r rhan o ward Hafren o gymuned Caldicot a ddangosir â llinellau ar Fap 40—
+(a)
+wedi ei throsglwyddo i ward newydd The Village o gymuned Caldicot;
+(b)
+yn ffurfio rhan o ward etholiadol newydd Hafren.
+Gwybodaeth Cychwyn
+I1
+Ergl. 44 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 44 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Castell Caldicot, Caldicot Cross, Llanddewi, Green Lane, Hafren, West End a The Village — newidiadau i ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+45.  Mae’r rhan o ward West End o gymuned Caldicot a ddangosir â llinellau ar Fap 41—
+(a)
+wedi ei throsglwyddo i ward Hafren o gymuned Caldicot;
+(b)
+yn ffurfio rhan o ward etholiadol newydd Hafren.
+Gwybodaeth Cychwyn
+I1
+Ergl. 45 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 45 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Castell Caldicot, Caldicot Cross, Llanddewi, Green Lane, Hafren, West End a The Village — newidiadau i ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+46.  Mae’r rhan o ward West End o gymuned Caldicot a ddangosir â llinellau ar Fap 42—
+(a)
+wedi ei throsglwyddo i ward newydd The Village o gymuned Caldicot;
+(b)
+yn ffurfio rhan o ward etholiadol newydd Hafren.
+Gwybodaeth Cychwyn
+I1
+Ergl. 46 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 46 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Castell Caldicot, Caldicot Cross, Llanddewi, Green Lane, Hafren, West End a The Village — newidiadau i ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+47.  Mae’r rhan o ward West End o gymuned Caldicot a ddangosir â llinellau ar Fap 43—
+(a)
+wedi ei throsglwyddo i ward newydd The Village o gymuned Caldicot;
+(b)
+yn ffurfio rhan o ward etholiadol newydd Hafren.
+Gwybodaeth Cychwyn
+I1
+Ergl. 47 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 47 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Creu ward gymunedol newydd The Village a diddymu ward gymunedol Green Lane
+48.  Mae ward gymunedol newydd The Village o gymuned Caldicot wedi ei chreu sydd—
+(a)
+yn cynnwys yr ardal â ddangosir â llinellau ar Fap 44;
+(b)
+yn ffurfio rhan o ward etholiadol Hafren.
+Gwybodaeth Cychwyn
+I1
+Ergl. 48 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 48 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Creu ward gymunedol newydd The Village a diddymu ward gymunedol Green Lane
+49.  Mae ward bresennol Green Lane o gymuned Caldicot fel y’i newidir gan y Gorchymyn hwn wedi ei diddymu.
+Gwybodaeth Cychwyn
+I1
+Ergl. 49 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 49 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Creu ward gymunedol newydd Caldicot Cross
+50.  Mae ward gymunedol newydd Caldicot Cross o gymuned Caldicot wedi ei chreu sydd—
+(a)
+yn cynnwys yr ardal â ddangosir â llinellau ar Fap 45;
+(b)
+yn ffurfio ward etholiadol Croes Cil-y-coed.
+Gwybodaeth Cychwyn
+I1
+Ergl. 50 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 50 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Caldicot — trefniadau etholiadol wardiau cymunedol
+51.  Yng nghymuned Caldicot, nifer y cynghorwyr sydd i’w hethol dros—
+(a)
+ward Croes Cil-y-coed yw 3;
+(b)
+ward Llanddewi yw 3;
+(c)
+ward Hafren yw 2;
+(d)
+ward The Village yw 2.
+Gwybodaeth Cychwyn
+I1
+Ergl. 51 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 51 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Caldicot — trefniadau wardiau etholiadol
+52.  Mae ward etholiadol bresennol Green Lane wedi ei diddymu.
+Gwybodaeth Cychwyn
+I1
+Ergl. 52 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 52 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Caldicot — trefniadau wardiau etholiadol
+53.  Mae ward etholiadol newydd Hafren wedi ei chreu sy’n cynnwys ardal wardiau cymunedol Hafren a The Village o gymuned Caldicot.
+Gwybodaeth Cychwyn
+I1
+Ergl. 53 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 53 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Caldicot — trefniadau wardiau etholiadol
+54.  Nifer y cynghorwyr sydd i’w hethol dros ward Hafren yw 1.
+Gwybodaeth Cychwyn
+I1
+Ergl. 54 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 54 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Caldicot — trefniadau wardiau etholiadol
+55.  Mae ward etholiadol newydd Croes Cil-y-coed wedi ei chreu sy’n cynnwys ardal ward gymunedol Caldicot Cross o gymuned Caldicot.
+Gwybodaeth Cychwyn
+I1
+Ergl. 55 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 55 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Caldicot — trefniadau wardiau etholiadol
+56.  Nifer y cynghorwyr sydd i’w hethol dros ward Croes Cil-y-coed yw 1.
+Gwybodaeth Cychwyn
+I1
+Ergl. 56 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 56 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Cas-gwent, Matharn a St Arvans — newid ffiniau cymunedol a newidiadau canlyniadol i drefniadau etholiadol
+57.  Mae’r rhan o gymuned Matharn a ddangosir â llinellau ar Fap 46—
+(a)
+wedi ei throsglwyddo i gymuned Cas-gwent;
+(b)
+yn ffurfio rhan o ward gymunedol Larkfield;
+(c)
+yn ffurfio rhan o ward etholiadol newydd Larkfield a Llangynfarch.
+Gwybodaeth Cychwyn
+I1
+Ergl. 57 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 57 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Cas-gwent, Matharn a St Arvans — newid ffiniau cymunedol a newidiadau canlyniadol i drefniadau etholiadol
+58.  Mae’r rhan o gymuned Matharn a ddangosir â llinellau ar Fap 47—
+(a)
+wedi ei throsglwyddo i gymuned Cas-gwent;
+(b)
+yn ffurfio rhan o ward gymunedol Thornwell;
+(c)
+yn ffurfio rhan o ward etholiadol newydd Bulwark a Thornwell.
+Gwybodaeth Cychwyn
+I1
+Ergl. 58 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 58 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Cas-gwent, Matharn a St Arvans — newid ffiniau cymunedol a newidiadau canlyniadol i drefniadau etholiadol
+59.  Mae’r rhan o gymuned St Arvans a ddangosir â llinellau ar Fap 48—
+(a)
+wedi ei throsglwyddo i gymuned Cas-gwent;
+(b)
+yn ffurfio rhan o ward gymunedol St Kingsmark;
+(c)
+yn ffurfio rhan o ward etholiadol newydd Larkfield a Llangynfarch.
+Gwybodaeth Cychwyn
+I1
+Ergl. 59 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 59 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Cas-gwent, Matharn a St Arvans — newid ffiniau cymunedol a newidiadau canlyniadol i drefniadau etholiadol
+60.  Mae’r rhan o gymuned Matharn a ddangosir â llinellau ar Fap 49—
+(a)
+wedi ei throsglwyddo i gymuned Cas-gwent;
+(b)
+yn ffurfio rhan o ward gymunedol St Kingsmark;
+(c)
+yn ffurfio rhan o ward etholiadol newydd Larkfield a Llangynfarch.
+Gwybodaeth Cychwyn
+I1
+Ergl. 60 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 60 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Larkfield, St Kingsmark, St Mary’s, St Christophers, Thornwell, Bulwark, Maple Avenue a Mount Pleasant — newidiadau i ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+61.  Mae’r rhan o ward St Kingsmark o gymuned Cas-gwent a ddangosir â llinellau ar Fap 50—
+(a)
+wedi ei throsglwyddo i ward Larkfield o gymuned Cas-gwent;
+(b)
+yn ffurfio rhan o ward etholiadol newydd Larkfield a Llangynfarch.
+Gwybodaeth Cychwyn
+I1
+Ergl. 61 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 61 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Larkfield, St Kingsmark, St Mary’s, St Christophers, Thornwell, Bulwark, Maple Avenue a Mount Pleasant — newidiadau i ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+62.  Mae’r rhan o ward Larkfield o gymuned Cas-gwent a ddangosir â llinellau ar Fap 51—
+(a)
+wedi ei throsglwyddo i ward newydd Mount Pleasant o gymuned Cas-gwent;
+(b)
+yn ffurfio rhan o ward etholiadol newydd Larkfield a Llangynfarch.
+Gwybodaeth Cychwyn
+I1
+Ergl. 62 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 62 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Larkfield, St Kingsmark, St Mary’s, St Christophers, Thornwell, Bulwark, Maple Avenue a Mount Pleasant — newidiadau i ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+63.  Mae’r rhan o ward Larkfield o gymuned Cas-gwent a ddangosir â llinellau ar Fap 52—
+(a)
+wedi ei throsglwyddo i ward St Mary’s o gymuned Cas-gwent;
+(b)
+yn ffurfio rhan o ward etholiadol St Mary’s.
+Gwybodaeth Cychwyn
+I1
+Ergl. 63 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 63 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Larkfield, St Kingsmark, St Mary’s, St Christophers, Thornwell, Bulwark, Maple Avenue a Mount Pleasant — newidiadau i ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+64.  Mae’r rhan o ward St Christophers o gymuned Cas-gwent a ddangosir â llinellau ar Fap 53—
+(a)
+wedi ei throsglwyddo i ward Larkfield o gymuned Cas-gwent;
+(b)
+yn ffurfio rhan o ward etholiadol newydd Larkfield a Llangynfarch.
+Gwybodaeth Cychwyn
+I1
+Ergl. 64 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 64 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Larkfield, St Kingsmark, St Mary’s, St Christophers, Thornwell, Bulwark, Maple Avenue a Mount Pleasant — newidiadau i ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+65.  Mae’r rhan o ward St Christophers o gymuned Cas-gwent a ddangosir â llinellau ar Fap 54—
+(a)
+wedi ei throsglwyddo i ward Thornwell o gymuned Cas-gwent;
+(b)
+yn ffurfio rhan o ward etholiadol newydd Bulwark a Thornwell.
+Gwybodaeth Cychwyn
+I1
+Ergl. 65 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 65 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Larkfield, St Kingsmark, St Mary’s, St Christophers, Thornwell, Bulwark, Maple Avenue a Mount Pleasant — newidiadau i ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+66.  Mae’r rhan o ward St Christophers o gymuned Cas-gwent a ddangosir â llinellau ar Fap 55—
+(a)
+wedi ei throsglwyddo i ward newydd Maple Avenue o gymuned Cas-gwent;
+(b)
+yn ffurfio rhan o ward etholiadol newydd Bulwark a Thornwell.
+Gwybodaeth Cychwyn
+I1
+Ergl. 66 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 66 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Larkfield, St Kingsmark, St Mary’s, St Christophers, Thornwell, Bulwark, Maple Avenue a Mount Pleasant — newidiadau i ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+67.  Mae’r rhan o ward St Christophers o gymuned Cas-gwent a ddangosir â llinellau ar Fap 56—
+(a)
+wedi ei throsglwyddo i ward newydd Bulwark o gymuned Cas-gwent;
+(b)
+yn ffurfio rhan o ward etholiadol newydd Bulwark a Thornwell.
+Gwybodaeth Cychwyn
+I1
+Ergl. 67 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 67 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Larkfield, St Kingsmark, St Mary’s, St Christophers, Thornwell, Bulwark, Maple Avenue a Mount Pleasant — newidiadau i ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+68.  Mae’r rhan o ward St Mary’s o gymuned Cas-gwent a ddangosir â llinellau ar Fap 57—
+(a)
+wedi ei throsglwyddo i ward St Kingsmark o gymuned Cas-gwent;
+(b)
+yn ffurfio rhan o ward etholiadol newydd Larkfield a Llangynfarch.
+Gwybodaeth Cychwyn
+I1
+Ergl. 68 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 68 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Larkfield, St Kingsmark, St Mary’s, St Christophers, Thornwell, Bulwark, Maple Avenue a Mount Pleasant — newidiadau i ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+69.  Mae’r rhan o ward St Kingsmark o gymuned Cas-gwent a ddangosir â llinellau ar Fap 58—
+(a)
+wedi ei throsglwyddo i ward newydd Mount Pleasant o gymuned Cas-gwent;
+(b)
+yn ffurfio rhan o ward etholiadol newydd Larkfield a Llangynfarch.
+Gwybodaeth Cychwyn
+I1
+Ergl. 69 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 69 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Larkfield, St Kingsmark, St Mary’s, St Christophers, Thornwell, Bulwark, Maple Avenue a Mount Pleasant — newidiadau i ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+70.  Mae’r rhan o ward St Mary’s o gymuned Cas-gwent a ddangosir â llinellau ar Fap 59—
+(a)
+wedi ei throsglwyddo i ward newydd Mount Pleasant o gymuned Cas-gwent;
+(b)
+yn ffurfio rhan o ward etholiadol newydd Larkfield a Llangynfarch.
+Gwybodaeth Cychwyn
+I1
+Ergl. 70 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 70 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Larkfield, St Kingsmark, St Mary’s, St Christophers, Thornwell, Bulwark, Maple Avenue a Mount Pleasant — newidiadau i ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+71.  Mae’r rhan o ward Thornwell o gymuned Cas-gwent a ddangosir â llinellau ar Fap 60—
+(a)
+wedi ei throsglwyddo i ward newydd Maple Avenue o gymuned Cas-gwent;
+(b)
+yn ffurfio rhan o ward etholiadol newydd Bulwark a Thornwell.
+Gwybodaeth Cychwyn
+I1
+Ergl. 71 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 71 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Larkfield, St Kingsmark, St Mary’s, St Christophers, Thornwell, Bulwark, Maple Avenue a Mount Pleasant — newidiadau i ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+72.  Mae’r rhan o ward Thornwell o gymuned Cas-gwent a ddangosir â llinellau ar Fap 61—
+(a)
+wedi ei throsglwyddo i ward newydd Bulwark o gymuned Cas-gwent;
+(b)
+yn ffurfio rhan o ward etholiadol newydd Bulwark a Thornwell.
+Gwybodaeth Cychwyn
+I1
+Ergl. 72 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 72 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Diddymu ward gymunedol St Christophers a chreu ward gymunedol newydd Bulwark
+73.  Mae ward bresennol St Christophers o gymuned Cas-gwent fel y’i newidir gan y Gorchymyn hwn wedi ei diddymu ac mae ward gymunedol newydd Bulwark wedi ei chreu.
+Gwybodaeth Cychwyn
+I1
+Ergl. 73 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 73 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Diddymu ward gymunedol St Christophers a chreu ward gymunedol newydd Bulwark
+74.  Mae ward gymunedol newydd Bulwark o gymuned Cas-gwent—
+(a)
+yn cynnwys yr ardal a ddangosir â llinellau ar Fap 62;
+(b)
+yn ffurfio rhan o ward etholiadol newydd Bulwark a Thornwell.
+Gwybodaeth Cychwyn
+I1
+Ergl. 74 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 74 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Creu ward gymunedol newydd Maple Avenue
+75.  Mae ward gymunedol newydd Maple Avenue o gymuned Cas-gwent wedi ei chreu sydd—
+(a)
+yn cynnwys yr ardal a ddangosir â llinellau ar Fap 63;
+(b)
+yn ffurfio rhan o ward etholiadol newydd Bulwark a Thornwell.
+Gwybodaeth Cychwyn
+I1
+Ergl. 75 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 75 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Creu ward gymunedol newydd Mount Pleasant
+76.  Mae ward gymunedol newydd Mount Pleasant o gymuned Cas-gwent wedi ei chreu sydd—
+(a)
+yn cynnwys yr ardal â ddangosir â llinellau ar Fap 64;
+(b)
+yn ffurfio rhan o ward etholiadol newydd Larkfield a Llangynfarch.
+Gwybodaeth Cychwyn
+I1
+Ergl. 76 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 76 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)St Mary’s — newid enw ward gymunedol
+77.  Mae ward bresennol St Mary’s o gymuned Cas-gwent fel y’i newidir gan y Gorchymyn hwn ac a ddangosir â llinellau ar Fap 65—
+(a)
+wedi ei hailenwi yn Castell Cas-gwent;
+(b)
+yn ffurfio ward etholiadol newydd Castell Cas-gwent.
+Gwybodaeth Cychwyn
+I1
+Ergl. 77 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 77 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Cas-gwent — trefniadau etholiadol wardiau cymunedol
+78.  Yng nghymuned Cas-gwent, nifer y cynghorwyr sydd i’w hethol dros—
+(a)
+ward Larkfield yw 2;
+(b)
+ward Bulwark yw 4;
+(c)
+ward Castell Cas-gwent yw 3;
+(d)
+ward Maple Avenue yw 1;
+(e)
+ward Mount Pleasant yw 3.
+Gwybodaeth Cychwyn
+I1
+Ergl. 78 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 78 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Cas-gwent — trefniadau ward etholiadol
+79.  Mae ward etholiadol newydd Bulwark a Thornwell wedi ei chreu sy’n cynnwys ardaloedd wardiau cymunedol Bulwark, Maple Avenue a Thornwell o gymuned Cas-gwent.
+Gwybodaeth Cychwyn
+I1
+Ergl. 79 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 79 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Cas-gwent — trefniadau ward etholiadol
+80.  Nifer y cynghorwyr sydd i’w hethol dros ward Bulwark a Thornwell yw 2.
+Gwybodaeth Cychwyn
+I1
+Ergl. 80 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 80 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Cas-gwent — trefniadau ward etholiadol
+81.  Mae ward etholiadol newydd Larkfield a Llangynfarch wedi ei chreu sy’n cynnwys ardaloedd wardiau cymunedol Mount Pleasant, Larkfield a St Kingsmark o gymuned Cas-gwent.
+Gwybodaeth Cychwyn
+I1
+Ergl. 81 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 81 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Cas-gwent — trefniadau ward etholiadol
+82.  Nifer y cynghorwyr sydd i’w hethol dros ward Larkfield a Llangynfarch yw 2.
+Gwybodaeth Cychwyn
+I1
+Ergl. 82 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 82 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Cas-gwent — trefniadau ward etholiadol
+83.  Mae ward etholiadol St Mary’s wedi ei hailenwi yn Castell Cas-gwent ac mae’n cynnwys ardal ward gymunedol Castell Cas-gwent o gymuned Cas-gwent.
+Gwybodaeth Cychwyn
+I1
+Ergl. 83 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 83 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Cas-gwent — trefniadau ward etholiadol
+84.  Nifer y cynghorwyr sydd i’w hethol dros ward Castell Cas-gwent yw 1.
+Gwybodaeth Cychwyn
+I1
+Ergl. 84 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 84 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Cas-gwent — trefniadau ward etholiadol
+85.  Mae ward etholiadol St Christophers wedi ei diddymu.
+Gwybodaeth Cychwyn
+I1
+Ergl. 85 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 85 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Crucornau, Grysmwnt ac Ynysgynwraidd — newid ffiniau cymunedol a newidiadau canlyniadol i drefniadau etholiadol
+86.  Mae’r rhan o gymuned Crucornau a ddangosir â llinellau ar Fap 66—
+(a)
+wedi ei throsglwyddo i gymuned Grysmwnt;
+(b)
+yn ffurfio rhan o ward gymunedol Llangatwg Lingoed;
+(c)
+yn ffurfio rhan o ward etholiadol Crucornau Fawr.
+Gwybodaeth Cychwyn
+I1
+Ergl. 86 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 86 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Crucornau, Grysmwnt ac Ynysgynwraidd — newid ffiniau cymunedol a newidiadau canlyniadol i drefniadau etholiadol
+87.  Mae’r rhan o gymuned Crucornau a ddangosir â llinellau ar Fap 67—
+(a)
+wedi ei throsglwyddo i gymuned newydd Ynysgynwraidd;
+(b)
+yn ffurfio rhan o ward gymunedol newydd Llanwytherin;
+(c)
+yn ffurfio rhan o ward etholiadol Llandeilo Gresynni.
+Gwybodaeth Cychwyn
+I1
+Ergl. 87 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 87 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Crucornau a Llanfihangel Crucornau — newid ffiniau wardiau cymunedol a newid canlyniadol i wardiau etholiadol
+88.  Mae’r rhan o ward Llanfihangel Crucornau o gymuned Crucornau a ddangosir â llinellau ar Fap 68—
+(a)
+wedi ei throsglwyddo i ward newydd Pandy o gymuned Crucornau;
+(b)
+yn ffurfio rhan o ward etholiadol Crucornau Fawr.
+Gwybodaeth Cychwyn
+I1
+Ergl. 88 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 88 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Creu ward gymunedol newydd Cwm-iou
+89.  Mae ward newydd Cwm-iou wedi ei chreu yng nghymuned Crucornau sydd—
+(a)
+yn cynnwys ardaloedd cyfun wardiau Cwm-iou Uchaf a Chwm-iou Isaf o gymuned Crucornau a ddangosir â llinellau ar Fap 69;
+(b)
+yn ffurfio rhan o ward etholiadol Crucornau Fawr.
+Gwybodaeth Cychwyn
+I1
+Ergl. 89 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 89 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Creu ward gymunedol newydd Pandy
+90.  Mae ward gymunedol newydd Pandy wedi ei chreu yng nghymuned Crucornau sydd—
+(a)
+yn cynnwys yr ardal â ddangosir â llinellau ar Fap 68;
+(b)
+yn ffurfio rhan o ward etholiadol Crucornau Fawr.
+Gwybodaeth Cychwyn
+I1
+Ergl. 90 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 90 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Crucornau — trefniadau etholiadol ward gymunedol
+91.  Yng nghymuned Crucornau, nifer y cynghorwyr sydd i’w hethol dros—
+(a)
+ward Cwm-iou yw 1;
+(b)
+ward Fforest a Ffwddog yw 1;
+(c)
+ward Llanfihangel Crucornau yw 2;
+(d)
+ward Pandy yw 2.
+Gwybodaeth Cychwyn
+I1
+Ergl. 91 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 91 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Devauden, Drenewydd Gelli-farch, St Arvans a Thyndyrn — newid ffiniau cymunedol a newidiadau canlyniadol i drefniadau etholiadol
+92.  Mae’r rhan o gymuned Tyndyrn a ddangosir â llinellau ar Fap 70—
+(a)
+wedi ei throsglwyddo i gymuned Devauden;
+(b)
+yn ffurfio rhan o ward gymunedol Devauden;
+(c)
+yn ffurfio rhan o ward etholiadol Devauden.
+Gwybodaeth Cychwyn
+I1
+Ergl. 92 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 92 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Devauden, Drenewydd Gelli-farch, St Arvans a Thyndyrn — newid ffiniau cymunedol a newidiadau canlyniadol i drefniadau etholiadol
+93.  Mae’r rhan o gymuned St Arvans a ddangosir â llinellau ar Fap 71—
+(a)
+wedi ei throsglwyddo i gymuned Devauden;
+(b)
+yn ffurfio rhan o ward gymunedol Llanddinol;
+(c)
+yn ffurfio rhan o ward etholiadol Devauden.
+Gwybodaeth Cychwyn
+I1
+Ergl. 93 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 93 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Devauden, Drenewydd Gelli-farch, St Arvans a Thyndyrn — newid ffiniau cymunedol a newidiadau canlyniadol i drefniadau etholiadol
+94.  Mae’r rhan o gymuned Drenewydd Gelli-farch a ddangosir â llinellau ar Fap 72—
+(a)
+wedi ei throsglwyddo i gymuned Devauden;
+(b)
+yn ffurfio rhan o ward gymunedol Llanddinol;
+(c)
+yn ffurfio rhan o ward etholiadol Devauden.
+Gwybodaeth Cychwyn
+I1
+Ergl. 94 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 94 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Devauden, Drenewydd Gelli-farch, St Arvans a Thyndyrn — newid ffiniau cymunedol a newidiadau canlyniadol i drefniadau etholiadol
+95.  Mae’r rhan o gymuned Devauden a ddangosir â llinellau ar Fap 73—
+(a)
+wedi ei throsglwyddo i gymuned St Arvans;
+(b)
+yn ffurfio rhan o ward etholiadol Llanarfan.
+Gwybodaeth Cychwyn
+I1
+Ergl. 95 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 95 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Devauden a Llanfihangel Wolvesnewton — newidiadau i ffiniau wardiau cymunedol a newid canlyniadol i wardiau etholiadol
+96.  Mae’r rhan o ward Llanfihangel Wolvesnewton o gymuned Devauden a ddangosir â llinellau ar Fap 74—
+(a)
+wedi ei throsglwyddo i ward Devauden o gymuned Devauden;
+(b)
+yn ffurfio rhan o ward etholiadol Devauden.
+Gwybodaeth Cychwyn
+I1
+Ergl. 96 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 96 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llanfihangel Wolvesnewton — newid enw ward gymunedol
+97.  Mae ward bresennol Llanfihangel Wolvesnewton o gymuned Devauden fel y’i newidir gan y Gorchymyn hwn ac a ddangosir â llinellau ar Fap 75—
+(a)
+wedi ei hailenwi yn Llanfihangel Tor-y-Mynydd;
+(b)
+yn ffurfio rhan o ward etholiadol Devauden.
+Gwybodaeth Cychwyn
+I1
+Ergl. 97 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 97 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Devauden — trefniadau etholiadol cymunedol
+98.  Yng nghymuned Devauden, nifer y cynghorwyr sydd i’w hethol dros—
+(a)
+ward Cilgwrrwg yw 1;
+(b)
+ward Llanfihangel Tor-y-Mynydd yw 1.
+Gwybodaeth Cychwyn
+I1
+Ergl. 98 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 98 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Goetre Fawr, Llanofer a Llanbadog — newidiadau i ffiniau cymunedol a newid canlyniadol i drefniadau etholiadol
+99.  Mae’r rhan o gymuned Llanofer a ddangosir â llinellau ar Fap 76—
+(a)
+wedi ei throsglwyddo i gymuned Goetre Fawr;
+(b)
+yn ffurfio ward gymunedol Llanofer;
+(c)
+yn ffurfio rhan o ward etholiadol Goetre Fawr.
+Gwybodaeth Cychwyn
+I1
+Ergl. 99 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 99 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Goetre Fawr, Llanofer a Llanbadog — newidiadau i ffiniau cymunedol a newid canlyniadol i drefniadau etholiadol
+100.  Mae’r rhan o gymuned Llanofer a ddangosir â llinellau ar Fap 77—
+(a)
+wedi ei throsglwyddo i gymuned Goetre Fawr;
+(b)
+yn ffurfio rhan o ward gymunedol newydd Nant-y-Deri;
+(c)
+yn ffurfio rhan o ward etholiadol Goetre Fawr.
+Gwybodaeth Cychwyn
+I1
+Ergl. 100 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 100 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Goetre Fawr, Llanofer a Llanbadog — newidiadau i ffiniau cymunedol a newid canlyniadol i drefniadau etholiadol
+101.  Mae’r rhan o gymuned Goetre Fawr a ddangosir â llinellau ar Fap 78—
+(a)
+wedi ei throsglwyddo i gymuned Llanbadog;
+(b)
+yn ffurfio rhan o ward gymunedol Monkswood;
+(c)
+yn ffurfio rhan o ward etholiadol Llanbadog.
+Gwybodaeth Cychwyn
+I1
+Ergl. 101 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 101 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Goetre Fawr, Llanofer a Llanbadog — newidiadau i ffiniau cymunedol a newid canlyniadol i drefniadau etholiadol
+102.  Mae’r rhan o ward gymunedol Mamhilad o gymuned Goetre Fawr a ddangosir â llinellau ar Fap 79—
+(a)
+wedi ei throsglwyddo i gymuned Llanbadog;
+(b)
+yn ffurfio ward gymunedol Little Mill;
+(c)
+yn ffurfio rhan o ward etholiadol Llanbadog.
+Gwybodaeth Cychwyn
+I1
+Ergl. 102 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 102 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Goetre Fawr, Mamhilad a Nant-y-Deri — newidiadau i ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+103.  Mae’r rhan o ward Goetre Fawr o gymuned Goetre Fawr a ddangosir â llinellau a’r rhif 1 ar Fap 80—
+(a)
+wedi ei throsglwyddo i ward newydd Nant-y-Deri o gymuned Goetre Fawr;
+(b)
+yn ffurfio rhan o ward etholiadol Goetre Fawr.
+Gwybodaeth Cychwyn
+I1
+Ergl. 103 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 103 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Goetre Fawr, Mamhilad a Nant-y-Deri — newidiadau i ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+104.  Mae’r rhan o ward Goetre Fawr o gymuned Goetre Fawr a ddangosir â llinellau a’r rhif 1 ar Fap 81—
+(a)
+wedi ei throsglwyddo i ward Mamhilad o gymuned Goetre Fawr;
+(b)
+yn ffurfio rhan o ward etholiadol Goetre Fawr.
+Gwybodaeth Cychwyn
+I1
+Ergl. 104 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 104 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Goetre — newid enw ward gymunedol
+105.  Mae ward bresennol Goetre o gymuned Goetre Fawr fel y’i newidir gan y Gorchymyn hwn ac a ddangosir â llinellau ar Fap 82—
+(a)
+wedi ei hailenwi yn Goetre Fawr;
+(b)
+yn ffurfio rhan o ward etholiadol Goetre Fawr.
+Gwybodaeth Cychwyn
+I1
+Ergl. 105 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 105 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Mamhilad — newid enw ward gymunedol
+106.  Mae ward bresennol Mamhilad o gymuned Goetre Fawr fel y’i newidir gan y Gorchymyn hwn ac a ddangosir â llinellau, ac a rifwyd 1 a 2 ar Fap 81—
+(a)
+wedi ei hailenwi yn Goetre Wharf;
+(b)
+yn ffurfio rhan o ward etholiadol Goetre Fawr.
+Gwybodaeth Cychwyn
+I1
+Ergl. 106 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 106 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Creu ward gymunedol newydd Nant-y-Deri
+107.  Mae ward gymunedol newydd Nant-y-Deri wedi ei chreu yng nghymuned Goetre Fawr sydd—
+(a)
+yn cynnwys yr ardal a ddangosir â llinellau, a rifwyd 1 a 2 ar Fap 80;
+(b)
+yn ffurfio rhan o ward etholiadol Goetre Fawr.
+Gwybodaeth Cychwyn
+I1
+Ergl. 107 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 107 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Goetre Fawr — trefniadau etholiadol cymunedol
+108.  Yng nghymuned Goetre Fawr, nifer y cynghorwyr sydd i’w hethol dros—
+(a)
+ward Goetre Wharf yw 2;
+(b)
+ward Goetre Fawr yw 4;
+(c)
+ward Llanofer yw 1;
+(d)
+ward Nant-y-Deri yw 1.
+Gwybodaeth Cychwyn
+I1
+Ergl. 108 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 108 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Grysmwnt ac Ynysgynwraidd — newid ffin gymunedol a newid canlyniadol i drefniadau etholiadol
+109.  Mae’r rhan o gymuned Grysmwnt a ddangosir â llinellau ar Fap 83—
+(a)
+wedi ei throsglwyddo i gymuned newydd Ynysgynwraidd;
+(b)
+yn ffurfio rhan o ward gymunedol newydd Llanwytherin;
+(c)
+yn ffurfio rhan o ward etholiadol Llandeilo Gresynni.
+Gwybodaeth Cychwyn
+I1
+Ergl. 109 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 109 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Grysmwnt a Llangua — newid ffiniau ward gymunedol a newid canlyniadol i wardiau etholiadol
+110.  Mae ward Llangua o gymuned Grysmwnt a ddangosir â llinellau ar Fap 84—
+(a)
+wedi ei throsglwyddo i ward Grysmwnt o gymuned Grysmwnt;
+(b)
+yn ffurfio rhan o ward etholiadol Crucornau Fawr.
+Gwybodaeth Cychwyn
+I1
+Ergl. 110 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 110 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Diddymu ward gymunedol Llangua
+111.  Mae ward bresennol Llangua o gymuned Grysmwnt fel y’i newidir gan y Gorchymyn hwn wedi ei diddymu.
+Gwybodaeth Cychwyn
+I1
+Ergl. 111 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 111 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Grysmwnt — trefniadau etholiadol cymunedol
+112.  Yng nghymuned Grysmwnt, nifer y cynghorwyr sydd i’w hethol dros ward Grysmwnt yw 6.
+Gwybodaeth Cychwyn
+I1
+Ergl. 112 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 112 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Gwehelog Fawr, Llan-arth a Rhaglan — newid ffiniau cymunedol a newidiadau canlyniadol i drefniadau etholiadol
+113.  Mae’r rhannau o gymuned Gwehelog Fawr a ddangosir â llinellau ar Fap 85 a Map 86—
+(a)
+wedi eu trosglwyddo i gymuned Llan-arth;
+(b)
+yn ffurfio ward gymunedol Cemais Comawndwr a Llancayo;
+(c)
+yn ffurfio rhan o ward etholiadol Llanofer.
+Gwybodaeth Cychwyn
+I1
+Ergl. 113 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 113 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Gwehelog Fawr, Llan-arth a Rhaglan — newid ffiniau cymunedol a newidiadau canlyniadol i drefniadau etholiadol
+114.  Mae’r rhan o gymuned Gwehelog Fawr a ddangosir â llinellau ar Fap 87—
+(a)
+wedi ei throsglwyddo i gymuned Rhaglan;
+(b)
+yn ffurfio ward gymunedol Gwehelog;
+(c)
+yn ffurfio rhan o ward etholiadol Rhaglan.
+Gwybodaeth Cychwyn
+I1
+Ergl. 114 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 114 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Gwehelog Fawr, Llan-arth a Rhaglan — newid ffiniau cymunedol a newidiadau canlyniadol i drefniadau etholiadol
+115.  Mae’r rhan o gymuned Gwehelog Fawr a ddangosir â chroeslinellau ar Fap 87—
+(a)
+wedi ei throsglwyddo i gymuned Rhaglan;
+(b)
+yn ffurfio rhan o ward gymunedol Llandenni;
+(c)
+yn ffurfio rhan o ward etholiadol Rhaglan.
+Gwybodaeth Cychwyn
+I1
+Ergl. 115 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 115 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Gwehelog Fawr — diddymu cymuned a newid canlyniadol i gyngor cymuned
+116.—(1) Mae cymuned bresennol Gwehelog Fawr fel y’i newidir gan y Gorchymyn hwn wedi ei diddymu.
+(2) Mae cyngor cymuned Gwehelog Fawr wedi ei ddiddymu.
+Gwybodaeth Cychwyn
+I1
+Ergl. 116 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 116 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llan-arth, Llanofer, Rhaglan a Chastell-gwyn — newid ffiniau cymunedol a newidiadau canlyniadol i drefniadau etholiadol
+117.  Mae’r rhan o gymuned Llan-arth a ddangosir â llinellau ar Fap 88—
+(a)
+wedi ei throsglwyddo i gymuned Llanofer;
+(b)
+yn ffurfio ward gymunedol Llanfable;
+(c)
+yn ffurfio rhan o ward etholiadol Llanofer.
+Gwybodaeth Cychwyn
+I1
+Ergl. 117 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 117 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llan-arth, Llanofer, Rhaglan a Chastell-gwyn — newid ffiniau cymunedol a newidiadau canlyniadol i drefniadau etholiadol
+118.  Mae’r rhan o gymuned Llan-arth a ddangosir â llinellau ar Fap 89—
+(a)
+wedi ei throsglwyddo i gymuned Llanofer;
+(b)
+yn ffurfio rhan o ward gymunedol Llanddewi Rhydderch;
+(c)
+yn ffurfio rhan o ward etholiadol Llanofer.
+Gwybodaeth Cychwyn
+I1
+Ergl. 118 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 118 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llan-arth, Llanofer, Rhaglan a Chastell-gwyn — newid ffiniau cymunedol a newidiadau canlyniadol i drefniadau etholiadol
+119.  Mae’r rhan o gymuned Llanofer a ddangosir â llinellau ar Fap 90—
+(a)
+wedi ei throsglwyddo i gymuned Llan-arth;
+(b)
+yn ffurfio rhan o ward gymunedol Llan-arth;
+(c)
+yn ffurfio rhan o ward etholiadol Gobion Fawr.
+Gwybodaeth Cychwyn
+I1
+Ergl. 119 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 119 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llan-arth, Llanofer, Rhaglan a Chastell-gwyn — newid ffiniau cymunedol a newidiadau canlyniadol i drefniadau etholiadol
+120.  Mae’r rhan o gymuned Llan-arth a ddangosir â llinellau ar Fap 91—
+(a)
+wedi ei throsglwyddo i gymuned newydd Castell-gwyn;
+(b)
+yn ffurfio rhan o ward gymunedol newydd Pen-rhos;
+(c)
+yn ffurfio rhan o ward etholiadol Llandeilo Gresynni.
+Gwybodaeth Cychwyn
+I1
+Ergl. 120 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 120 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llan-arth, Llanofer, Rhaglan a Chastell-gwyn — newid ffiniau cymunedol a newidiadau canlyniadol i drefniadau etholiadol
+121.  Mae’r rhan o gymuned Llan-arth a ddangosir â llinellau ar Fap 92—
+(a)
+wedi ei throsglwyddo i gymuned Rhaglan;
+(b)
+yn ffurfio rhan o ward gymunedol Rhaglan;
+(c)
+yn ffurfio rhan o ward etholiadol Rhaglan.
+Gwybodaeth Cychwyn
+I1
+Ergl. 121 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 121 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llan-arth, Llanofer, Rhaglan a Chastell-gwyn — newid ffiniau cymunedol a newidiadau canlyniadol i drefniadau etholiadol
+122.  Mae’r rhan o gymuned Llan-arth a ddangosir â llinellau ar Fap 93—
+(a)
+wedi ei throsglwyddo i gymuned Rhaglan;
+(b)
+yn ffurfio rhan o ward gymunedol Rhaglan;
+(c)
+yn ffurfio rhan o ward etholiadol Rhaglan.
+Gwybodaeth Cychwyn
+I1
+Ergl. 122 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 122 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llan-arth a Chleidda — newid ffiniau wardiau cymunedol a newid canlyniadol i wardiau etholiadol
+123.  Mae’r rhan o ward Cleidda o gymuned Llan-arth a ddangosir â llinellau ar Fap 94—
+(a)
+wedi ei throsglwyddo i ward Llan-arth o gymuned Llan-arth;
+(b)
+yn ffurfio rhan o ward etholiadol Llanofer.
+Gwybodaeth Cychwyn
+I1
+Ergl. 123 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 123 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llan-arth — trefniadau etholiadol cymunedol
+124.  Yng nghymuned Llan-arth, nifer y cynghorwyr sydd i’w hethol dros—
+(a)
+ward Bryngwyn yw 2;
+(b)
+ward Cleidda yw 1;
+(c)
+ward Cemais Comawndwr a Llancayo yw 2;
+(d)
+ward Llan-arth yw 3.
+Gwybodaeth Cychwyn
+I1
+Ergl. 124 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 124 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llanbadog — trefniadau etholiadol cymunedol
+125.  Yng nghymuned Llanbadog, nifer y cynghorwyr sydd i’w hethol dros—
+(a)
+ward Glasgoed yw 2;
+(b)
+ward Little Mill yw 3;
+(c)
+ward Llanbadog yw 2;
+(d)
+ward Monkswood yw 2.
+Gwybodaeth Cychwyn
+I1
+Ergl. 125 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 125 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llanelli a Llan-ffwyst Fawr — newid ffiniau cymunedol a newidiadau canlyniadol i drefniadau etholiadol
+126.  Mae’r rhan o gymuned Llan-ffwyst Fawr a ddangosir â llinellau ar Fap 95—
+(a)
+wedi ei throsglwyddo i gymuned Llanelli;
+(b)
+yn ffurfio rhan o ward gymunedol Gilwern;
+(c)
+yn ffurfio rhan o ward etholiadol Bryn Llanelli.
+Gwybodaeth Cychwyn
+I1
+Ergl. 126 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 126 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Clydach a Gilwern — newid ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+127.  Mae’r rhan o ward Gilwern o gymuned Llanelli a ddangosir â llinellau ar Fap 96—
+(a)
+wedi ei throsglwyddo i ward Clydach o gymuned Llanelli;
+(b)
+yn ffurfio rhan o ward etholiadol Bryn Llanelli.
+Gwybodaeth Cychwyn
+I1
+Ergl. 127 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 127 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Clydach a Gilwern — newid ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+128.  Mae’r rhan o ward Clydach o gymuned Llanelli a ddangosir â llinellau ar Fap 97—
+(a)
+wedi ei throsglwyddo i ward Gilwern o gymuned Llanelli;
+(b)
+yn ffurfio rhan o ward etholiadol Bryn Llanelli.
+Gwybodaeth Cychwyn
+I1
+Ergl. 128 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 128 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llanelli — trefniadau etholiadol cymunedol
+129.  Yng nghymuned Llanelli, nifer y cynghorwyr sydd i’w hethol dros ward Gilwern yw 9.
+Gwybodaeth Cychwyn
+I1
+Ergl. 129 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 129 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Bryn Llanelli — newid enw ward etholiadol
+130.  Mae ward etholiadol Bryn Llanelli fel y’i newidir gan y Gorchymyn hwn wedi ei hailenwi yn Llanelli.
+Gwybodaeth Cychwyn
+I1
+Ergl. 130 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 130 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llan-ffwyst Fawr a Llanofer — newid ffiniau cymunedol a newidiadau canlyniadol i drefniadau etholiadol
+131.  Mae’r rhan o gymuned Llanofer a ddangosir â llinellau ar Fap 98—
+(a)
+wedi ei throsglwyddo i gymuned Llan-ffwyst Fawr;
+(b)
+yn ffurfio rhan o ward gymunedol Llanelen;
+(c)
+yn ffurfio rhan o ward etholiadol Llan-ffwyst Fawr.
+Gwybodaeth Cychwyn
+I1
+Ergl. 131 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 131 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llan-ffwyst a Llanwenarth Tu Draw — newid ffiniau wardiau cymunedol a newid canlyniadol i ward etholiadol
+132.  Mae’r rhan o ward Llan-ffwyst o gymuned Llan-ffwyst Fawr a ddangosir â llinellau ar Fap 99—
+(a)
+wedi ei throsglwyddo i ward Llanwenarth Tu Draw o gymuned Llan-ffwyst Fawr;
+(b)
+yn ffurfio rhan o ward etholiadol Llanwenarth Tu Draw.
+Gwybodaeth Cychwyn
+I1
+Ergl. 132 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 132 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llanwenarth Tu Draw — newid enw ward gymunedol a newid canlyniadol i ward etholiadol
+133.  Mae ward bresennol Llanwenarth Tu Draw o gymuned Llan-ffwyst Fawr fel y’i newidir gan y Gorchymyn hwn ac a ddangosir â llinellau ar Fap 100—
+(a)
+wedi ei hailenwi yn ward gymunedol Gofilon;
+(b)
+yn ffurfio ward etholiadol Llanwenarth Tu Draw.
+Gwybodaeth Cychwyn
+I1
+Ergl. 133 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 133 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llan-ffwyst Fawr — trefniadau etholiadol cymunedol
+134.  Yng nghymuned Llan-ffwyst Fawr, nifer y cynghorwyr sydd i’w hethol dros—
+(a)
+ward Llan-ffwyst yw 5;
+(b)
+ward Gofilon yw 6.
+Gwybodaeth Cychwyn
+I1
+Ergl. 134 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 134 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llanwenarth Tu Draw — newid enw ward etholiadol
+135.  Mae ward etholiadol bresennol Llanwenarth Tu Draw fel y’i newidir gan y Gorchymyn hwn wedi ei hailenwi yn Gofilon.
+Gwybodaeth Cychwyn
+I1
+Ergl. 135 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 135 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llangybi a Llanhenwg — cyfuno cymunedau a newid canlyniadol i gynghorau cymuned a threfniadau etholiadol
+136.—(1) Mae ardaloedd cymunedau Llangybi a Llanhenwg fel y’i dangosir â llinellau ar Fap 101 wedi eu cyfuno i ffurfio cymuned Llangybi, sy’n ffurfio rhan o ward etholiadol Llangybi Fawr.
+(2) Mae cynghorau cymuned Llangybi a Llanhenwg wedi eu diddymu.
+Gwybodaeth Cychwyn
+I1
+Ergl. 136 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 136 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llangybi — creu cyngor cymuned a threfniadau etholiadol cymunedol
+137.  Mae cyngor ar gyfer cymuned Llangybi wedi ei sefydlu.
+Gwybodaeth Cychwyn
+I1
+Ergl. 137 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 137 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llangybi — creu cyngor cymuned a threfniadau etholiadol cymunedol
+138.  Mae cymuned Llangybi yn cynnwys chwe ward—
+(a)
+Coed-y-paen;
+(b)
+Llandegfedd;
+(c)
+Llangattock Nigh Caerleon;
+(d)
+Llangybi;
+(e)
+Llanhenwg;
+(f)
+Tredynog.
+Gwybodaeth Cychwyn
+I1
+Ergl. 138 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 138 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llangybi — creu cyngor cymuned a threfniadau etholiadol cymunedol
+139.  Yng nghymuned Llangybi, nifer y cynghorwyr sydd i’w hethol dros—
+(a)
+ward Coed-y-paen yw 1;
+(b)
+ward Llandegfedd yw 1;
+(c)
+ward Llangattock Nigh Caerleon yw 1;
+(d)
+ward Llangybi yw 3;
+(e)
+ward Llanhenwg yw 1;
+(f)
+ward Tredynog yw 1.
+Gwybodaeth Cychwyn
+I1
+Ergl. 139 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 139 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llanofer a Llan-arth — newid ffiniau cymunedol a newid canlyniadol i drefniadau etholiadol
+140.  Mae’r rhan o gymuned Llan-arth a ddangosir â llinellau ar Fap 102—
+(a)
+wedi ei throsglwyddo i gymuned Llanofer;
+(b)
+yn ffurfio rhan o ward gymunedol Llanddewi Rhydderch;
+(c)
+yn ffurfio rhan o ward etholiadol newydd Llanofer.
+Gwybodaeth Cychwyn
+I1
+Ergl. 140 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 140 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llanofer — newid enw cymuned
+141.  Mae cymuned bresennol Llanofer fel y’i newidir gan y Gorchymyn hwn ac a ddangosir â llinellau ar Fap 103—
+(a)
+wedi ei hailenwi yn Gobion Fawr;
+(b)
+yn ffurfio rhan o ward etholiadol Llanofer.
+Gwybodaeth Cychwyn
+I1
+Ergl. 141 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 141 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Gobion Fawr — trefniadau etholiadol cymunedol
+142.  Mae cymuned Gobion Fawr yn cynnwys pedair ward—
+(a)
+Llanddewi Rhydderch;
+(b)
+Llanfair Cilgydyn;
+(c)
+Llangattock-nigh-Usk;
+(d)
+Llanfable.
+Gwybodaeth Cychwyn
+I1
+Ergl. 142 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 142 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Gobion Fawr — trefniadau etholiadol cymunedol
+143.  Yng nghymuned Gobion Fawr, nifer y cynghorwyr sydd i’w hethol dros—
+(a)
+ward Llanddewi Rhydderch yw 2;
+(b)
+ward Llanfair Cilgydyn yw 1;
+(c)
+ward Llangattock-nigh-Usk yw 3;
+(d)
+ward Llanfable yw 1.
+Gwybodaeth Cychwyn
+I1
+Ergl. 143 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 143 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llanofer — newid enw ward etholiadol
+144.  Mae ward etholiadol Llanofer fel y’i newidir gan y Gorchymyn hwn wedi ei hailenwi yn Gobion Fawr.
+Gwybodaeth Cychwyn
+I1
+Ergl. 144 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 144 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Dwyrain Croesonnen, Gorllewin Croesonnen a Gorllewin Ysgyryd — newid ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+145.  Mae’r rhan o ward Dwyrain Croesonnen o gymuned Llandeilo Bertholau a ddangosir â llinellau ar Fap 104—
+(a)
+wedi ei throsglwyddo i ward Gorllewin Ysgyryd o gymuned Llandeilo Bertholau;
+(b)
+yn ffurfio rhan o ward etholiadol y Maerdy.
+Gwybodaeth Cychwyn
+I1
+Ergl. 145 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 145 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Dwyrain Croesonnen, Gorllewin Croesonnen a Gorllewin Ysgyryd — newid ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+146.  Mae’r rhan o ward Gorllewin Ysgyryd o gymuned Llandeilo Bertholau a ddangosir â llinellau ar Fap 105—
+(a)
+wedi ei throsglwyddo i ward Dwyrain Croesonnen o gymuned Llandeilo Bertholau;
+(b)
+yn ffurfio rhan o ward etholiadol Croesonnen.
+Gwybodaeth Cychwyn
+I1
+Ergl. 146 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 146 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Dwyrain Croesonnen, Gorllewin Croesonnen a Gorllewin Ysgyryd — newid ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+147.  Mae’r rhan o ward Gorllewin Ysgyryd o gymuned Llandeilo Bertholau a ddangosir â llinellau ar Fap 106—
+(a)
+wedi ei throsglwyddo i ward Dwyrain Croesonnen o gymuned Llandeilo Bertholau;
+(b)
+yn ffurfio rhan o ward etholiadol Croesonnen.
+Gwybodaeth Cychwyn
+I1
+Ergl. 147 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 147 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Dwyrain Croesonnen a Gorllewin Croesonnen — cyfuno wardiau cymunedol a newid canlyniadol i ward etholiadol
+148.  Mae wardiau presennol Dwyrain Croesonnen a Gorllewin Croesonnen o gymuned Llandeilo Bertholau fel y’u newidir gan y Gorchymyn hwn ac a ddangosir â llinellau ar Fap 107—
+(a)
+wedi eu cyfuno ac yn ffurfio ward gymunedol Croesonnen;
+(b)
+yn ffurfio ward etholiadol Croesonnen.
+Gwybodaeth Cychwyn
+I1
+Ergl. 148 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 148 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Croesonnen a’r Maerdy — newid ffiniau wardiau cymunedol a newid canlyniadol i ward etholiadol
+149.  Mae’r rhan o ward y Maerdy o gymuned Llandeilo Bertholau a ddangosir â llinellau ar Fap 108—
+(a)
+wedi ei throsglwyddo i ward Croesonnen o gymuned Llandeilo Bertholau;
+(b)
+yn ffurfio rhan o ward etholiadol Croesonnen.
+Gwybodaeth Cychwyn
+I1
+Ergl. 149 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 149 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Y Maerdy a Gorllewin Ysgyryd — newid ffin ward gymunedol a newid canlyniadol i ward etholiadol
+150.  Mae’r rhan o ward Gorllewin Ysgyryd o gymuned Llandeilo Bertholau a ddangosir â llinellau ar Fap 109—
+(a)
+wedi ei throsglwyddo i ward y Maerdy o gymuned Llandeilo Bertholau;
+(b)
+yn ffurfio rhan o ward etholiadol y Maerdy.
+Gwybodaeth Cychwyn
+I1
+Ergl. 150 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 150 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Dwyrain Ysgyryd a Gorllewin Ysgyryd — cyfuno wardiau a newid canlyniadol i ward etholiadol
+151.  Mae wardiau presennol Dwyrain Ysgyryd a Gorllewin Ysgyryd o gymuned Llandeilo Bertholau fel y’u newidir gan y Gorchymyn hwn ac a ddangosir â llinellau ar Fap 110—
+(a)
+wedi eu cyfuno ac yn ffurfio ward gymunedol Ysgyryd o gymuned Llandeilo Bertholau;
+(b)
+yn ffurfio rhan o ward etholiadol y Maerdy.
+Gwybodaeth Cychwyn
+I1
+Ergl. 151 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 151 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llandeilo Bertholau — trefniadau etholiadol cymunedol
+152.  Yng nghymuned Llandeilo Bertholau, nifer y cynghorwyr sydd i’w hethol dros—
+(a)
+ward Croesonnen yw 6;
+(b)
+ward Ysgyryd yw 2.
+Gwybodaeth Cychwyn
+I1
+Ergl. 152 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 152 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llantrisant Fawr a Llan-gwm — cyfuno cymunedau a newidiadau canlyniadol i gynghorau cymuned a threfniadau etholiadol
+153.  Mae’r ardaloedd o gymunedau presennol Llantrisant Fawr a Llan-gwm fel y’u dangosir â llinellau ar Fap 111 wedi eu cyfuno i ffurfio cymuned Llantrisant Fawr.
+Gwybodaeth Cychwyn
+I1
+Ergl. 153 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 153 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llantrisant Fawr a Llan-gwm — cyfuno cymunedau a newidiadau canlyniadol i gynghorau cymuned a threfniadau etholiadol
+154.  Mae’r ardaloedd o wardiau Gwernesni a Llantrisant o gymuned Llantrisant Fawr yn ffurfio rhan o ward etholiadol Llangybi Fawr.
+Gwybodaeth Cychwyn
+I1
+Ergl. 154 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 154 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llantrisant Fawr a Llan-gwm — cyfuno cymunedau a newidiadau canlyniadol i gynghorau cymuned a threfniadau etholiadol
+155.  Mae’r ardaloedd o wardiau Llan-gwm a Llan-soe o gymuned Llantrisant Fawr yn ffurfio rhan o ward etholiadol Devauden.
+Gwybodaeth Cychwyn
+I1
+Ergl. 155 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 155 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llantrisant Fawr a Llan-gwm — cyfuno cymunedau a newidiadau canlyniadol i gynghorau cymuned a threfniadau etholiadol
+156.  Mae cynghorau cymuned Llantrisant Fawr a Llan-gwm wedi eu diddymu.
+Gwybodaeth Cychwyn
+I1
+Ergl. 156 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 156 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llantrisant Fawr — creu cyngor cymuned a threfniadau etholiadol cymunedol
+157.  Mae cyngor ar gyfer cymuned Llantrisant Fawr wedi ei sefydlu.
+Gwybodaeth Cychwyn
+I1
+Ergl. 157 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 157 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llantrisant Fawr — creu cyngor cymuned a threfniadau etholiadol cymunedol
+158.  Mae cymuned Llantrisant Fawr yn cynnwys pedair ward—
+(a)
+Gwernesni;
+(b)
+Llan-gwm;
+(c)
+Llan-soe;
+(d)
+Llantrisant.
+Gwybodaeth Cychwyn
+I1
+Ergl. 158 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 158 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llantrisant Fawr — creu cyngor cymuned a threfniadau etholiadol cymunedol
+159.  Yng nghymuned Llantrisant Fawr, nifer y cynghorwyr sydd i’w hethol dros—
+(a)
+ward Gwernesni yw 1;
+(b)
+ward Llan-gwm yw 3;
+(c)
+ward Llan-soe yw 1;
+(d)
+ward Llantrisant yw 3.
+Gwybodaeth Cychwyn
+I1
+Ergl. 159 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 159 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Magwyr gyda Gwndy — newid ffiniau cymunedol a newid canlyniadol i wardiau etholiadol
+160.  Mae’r rhan o ward Salisbury o gymuned Magwyr gyda Gwndy a ddangosir â llinellau ar Fap 112—
+(a)
+wedi ei throsglwyddo i gymuned Rogiet;
+(b)
+yn ffurfio rhan o ward etholiadol Rogiet.
+Gwybodaeth Cychwyn
+I1
+Ergl. 160 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 160 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Magwyr gyda Gwndy — newid ffiniau cymunedol a newid canlyniadol i wardiau etholiadol
+161.  Mae’r rhan o ward The Elms o gymuned Magwyr gyda Gwndy a ddangosir â llinellau ar Fap 113—
+(a)
+wedi ei throsglwyddo i gymuned Rogiet;
+(b)
+yn ffurfio rhan o ward etholiadol Rogiet.
+Gwybodaeth Cychwyn
+I1
+Ergl. 161 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 161 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Magwyr gyda Gwndy — newid ffiniau cymunedol a newid canlyniadol i wardiau etholiadol
+162.  Mae’r rhan o ward Mill o gymuned Magwyr gyda Gwndy a ddangosir â llinellau ar Fap 114—
+(a)
+wedi ei throsglwyddo i gymuned Rogiet;
+(b)
+yn ffurfio rhan o ward etholiadol Rogiet.
+Gwybodaeth Cychwyn
+I1
+Ergl. 162 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 162 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Dwyrain Magwyr, Gorllewin Magwyr, Gwndy, Denny, Mill, Salisbury a The Elms — newid ffiniau wardiau cymunedol a newid canlyniadol i wardiau etholiadol
+163.  Mae’r rhan o ward Denny o gymuned Magwyr gyda Gwndy a ddangosir â llinellau ar Fap 115—
+(a)
+wedi ei throsglwyddo i ward newydd Gorllewin Magwyr o gymuned Magwyr gyda Gwndy;
+(b)
+yn ffurfio rhan o ward etholiadol newydd Gorllewin Magwyr.
+Gwybodaeth Cychwyn
+I1
+Ergl. 163 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 163 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Dwyrain Magwyr, Gorllewin Magwyr, Gwndy, Denny, Mill, Salisbury a The Elms — newid ffiniau wardiau cymunedol a newid canlyniadol i wardiau etholiadol
+164.  Mae’r rhan o ward Denny o gymuned Magwyr gyda Gwndy a ddangosir â llinellau ar Fap 116—
+(a)
+wedi ei throsglwyddo i ward newydd Dwyrain Magwyr o gymuned Magwyr gyda Gwndy;
+(b)
+yn ffurfio rhan o ward etholiadol newydd Dwyrain Magwyr.
+Gwybodaeth Cychwyn
+I1
+Ergl. 164 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 164 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Dwyrain Magwyr, Gorllewin Magwyr, Gwndy, Denny, Mill, Salisbury a The Elms — newid ffiniau wardiau cymunedol a newid canlyniadol i wardiau etholiadol
+165.  Mae’r rhan o ward Mill o gymuned Magwyr gyda Gwndy a ddangosir â llinellau ar Fap 117—
+(a)
+wedi ei throsglwyddo i ward newydd Gorllewin Magwyr o gymuned Magwyr gyda Gwndy;
+(b)
+yn ffurfio rhan o ward etholiadol Gorllewin Magwyr.
+Gwybodaeth Cychwyn
+I1
+Ergl. 165 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 165 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Dwyrain Magwyr, Gorllewin Magwyr, Gwndy, Denny, Mill, Salisbury a The Elms — newid ffiniau wardiau cymunedol a newid canlyniadol i wardiau etholiadol
+166.  Mae’r rhan o ward Mill o gymuned Magwyr gyda Gwndy a ddangosir â llinellau ar Fap 118—
+(a)
+wedi ei throsglwyddo i ward newydd Dwyrain Magwyr o gymuned Magwyr gyda Gwndy;
+(b)
+yn ffurfio rhan o ward etholiadol newydd Dwyrain Magwyr.
+Gwybodaeth Cychwyn
+I1
+Ergl. 166 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 166 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Dwyrain Magwyr, Gorllewin Magwyr, Gwndy, Denny, Mill, Salisbury a The Elms — newid ffiniau wardiau cymunedol a newid canlyniadol i wardiau etholiadol
+167.  Mae’r rhan o ward Salisbury o gymuned Magwyr gyda Gwndy a ddangosir â llinellau ar Fap 119—
+(a)
+wedi ei throsglwyddo i ward newydd Gorllewin Magwyr o gymuned Magwyr gyda Gwndy;
+(b)
+yn ffurfio rhan o ward etholiadol newydd Gorllewin Magwyr.
+Gwybodaeth Cychwyn
+I1
+Ergl. 167 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 167 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Dwyrain Magwyr, Gorllewin Magwyr, Gwndy, Denny, Mill, Salisbury a The Elms — newid ffiniau wardiau cymunedol a newid canlyniadol i wardiau etholiadol
+168.  Mae’r rhan o ward The Elms o gymuned Magwyr gyda Gwndy a ddangosir â llinellau ar Fap 120—
+(a)
+wedi ei throsglwyddo i ward newydd Gwndy o gymuned Magwyr gyda Gwndy;
+(b)
+yn ffurfio rhan o ward etholiadol newydd Dwyrain Magwyr.
+Gwybodaeth Cychwyn
+I1
+Ergl. 168 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 168 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Dwyrain Magwyr, Gorllewin Magwyr, Gwndy, Denny, Mill, Salisbury a The Elms — newid ffiniau wardiau cymunedol a newid canlyniadol i wardiau etholiadol
+169.  Mae’r rhan o ward The Elms o gymuned Magwyr gyda Gwndy a ddangosir â llinellau ar Fap 121—
+(a)
+wedi ei throsglwyddo i ward newydd Dwyrain Magwyr o gymuned Magwyr gyda Gwndy;
+(b)
+yn ffurfio rhan o ward etholiadol newydd Dwyrain Magwyr.
+Gwybodaeth Cychwyn
+I1
+Ergl. 169 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 169 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Diddymu wardiau cymunedol Denny, Mill, Salisbury a The Elms
+170.  Mae ward bresennol Denny o gymuned Magwyr gyda Gwndy fel y’i newidir gan y Gorchymyn hwn wedi ei diddymu.
+Gwybodaeth Cychwyn
+I1
+Ergl. 170 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 170 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Diddymu wardiau cymunedol Denny, Mill, Salisbury a The Elms
+171.  Mae ward bresennol Mill o gymuned Magwyr gyda Gwndy fel y’i newidir gan y Gorchymyn hwn wedi ei diddymu.
+Gwybodaeth Cychwyn
+I1
+Ergl. 171 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 171 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Diddymu wardiau cymunedol Denny, Mill, Salisbury a The Elms
+172.  Mae ward bresennol Salisbury o gymuned Magwyr gyda Gwndy fel y’i newidir gan y Gorchymyn hwn wedi ei diddymu.
+Gwybodaeth Cychwyn
+I1
+Ergl. 172 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 172 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Diddymu wardiau cymunedol Denny, Mill, Salisbury a The Elms
+173.  Mae ward bresennol The Elms o gymuned Magwyr gyda Gwndy fel y’i newidir gan y Gorchymyn hwn wedi ei diddymu.
+Gwybodaeth Cychwyn
+I1
+Ergl. 173 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 173 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Creu ward gymunedol newydd Gorllewin Magwyr
+174.  Mae ward gymunedol newydd Gorllewin Magwyr wedi ei chreu yng nghymuned Magwyr gyda Gwndy sydd—
+(a)
+yn cynnwys yr ardaloedd a ddangosir â llinellau ar Fapiau 115, 117 a 119;
+(b)
+yn ffurfio ward etholiadol Gorllewin Magwyr.
+Gwybodaeth Cychwyn
+I1
+Ergl. 174 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 174 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Creu ward gymunedol newydd Dwyrain Magwyr
+175.  Mae ward gymunedol newydd Dwyrain Magwyr wedi ei chreu yng nghymuned Magwyr gyda Gwndy sydd—
+(a)
+yn cynnwys yr ardaloedd a ddangosir â llinellau ar Fapiau 116, 118 a 121;
+(b)
+yn ffurfio rhan o ward etholiadol Dwyrain Magwyr.
+Gwybodaeth Cychwyn
+I1
+Ergl. 175 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 175 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Creu ward gymunedol newydd Gwndy
+176.  Mae ward gymunedol newydd Gwndy wedi ei chreu yng nghymuned Magwyr gyda Gwndy sydd—
+(a)
+yn cynnwys yr ardaloedd a ddangosir â llinellau ar Fap 120;
+(b)
+yn ffurfio rhan o ward etholiadol Dwyrain Magwyr.
+Gwybodaeth Cychwyn
+I1
+Ergl. 176 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 176 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Magwyr gyda Gwndy — trefniadau etholiadol cymunedol
+177.  Mae cymuned Magwyr gyda Gwndy yn cynnwys tair ward—
+(a)
+Dwyrain Magwyr;
+(b)
+Gorllewin Magwyr;
+(c)
+Gwndy.
+Gwybodaeth Cychwyn
+I1
+Ergl. 177 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 177 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Magwyr gyda Gwndy — trefniadau etholiadol cymunedol
+178.  Yng nghymuned Magwyr gyda Gwndy, nifer y cynghorwyr sydd i’w hethol dros—
+(a)
+ward Dwyrain Magwyr yw 4;
+(b)
+ward Gorllewin Magwyr yw 3;
+(c)
+ward Gwndy yw 3.
+Gwybodaeth Cychwyn
+I1
+Ergl. 178 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 178 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Diddymu wardiau etholiadol Mill a The Elms a chreu wardiau etholiadol newydd Dwyrain Magwyr a Gorllewin Magwyr a newidiadau canlyniadol i drefniadau etholiadol
+179.  Mae ward etholiadol bresennol Mill fel y’i newidir gan y Gorchymyn hwn wedi ei diddymu.
+Gwybodaeth Cychwyn
+I1
+Ergl. 179 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 179 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Diddymu wardiau etholiadol Mill a The Elms a chreu wardiau etholiadol newydd Dwyrain Magwyr a Gorllewin Magwyr a newidiadau canlyniadol i drefniadau etholiadol
+180.  Mae ward etholiadol newydd Dwyrain Magwyr wedi ei chreu sy’n cynnwys ardaloedd wardiau Dwyrain Magwyr a Gwndy o gymuned Magwyr gyda Gwndy.
+Gwybodaeth Cychwyn
+I1
+Ergl. 180 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 180 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Diddymu wardiau etholiadol Mill a The Elms a chreu wardiau etholiadol newydd Dwyrain Magwyr a Gorllewin Magwyr a newidiadau canlyniadol i drefniadau etholiadol
+181.  Nifer y cynghorwyr sydd i’w hethol dros ward Dwyrain Magwyr yw 2.
+Gwybodaeth Cychwyn
+I1
+Ergl. 181 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 181 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Diddymu wardiau etholiadol Mill a The Elms a chreu wardiau etholiadol newydd Dwyrain Magwyr a Gorllewin Magwyr a newidiadau canlyniadol i drefniadau etholiadol
+182.  Mae ward etholiadol bresennol The Elms wedi ei diddymu.
+Gwybodaeth Cychwyn
+I1
+Ergl. 182 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 182 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Diddymu wardiau etholiadol Mill a The Elms a chreu wardiau etholiadol newydd Dwyrain Magwyr a Gorllewin Magwyr a newidiadau canlyniadol i drefniadau etholiadol
+183.  Mae ward etholiadol newydd Gorllewin Magwyr wedi ei chreu sy’n cynnwys ardal ward Gorllewin Magwyr o gymuned Magwyr gyda Gwndy.
+Gwybodaeth Cychwyn
+I1
+Ergl. 183 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 183 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Diddymu wardiau etholiadol Mill a The Elms a chreu wardiau etholiadol newydd Dwyrain Magwyr a Gorllewin Magwyr a newidiadau canlyniadol i drefniadau etholiadol
+184.  Nifer y cynghorwyr sydd i’w hethol dros ward Gorllewin Magwyr yw 1.
+Gwybodaeth Cychwyn
+I1
+Ergl. 184 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 184 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Matharn, Mounton a Phwllmeurig — newid ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+185.  Mae’r rhan o ward Mounton o gymuned Matharn a ddangosir â llinellau ar Fap 122—
+(a)
+wedi ei throsglwyddo i ward Pwllmeurig o gymuned Matharn;
+(b)
+yn ffurfio rhan o ward etholiadol Drenewydd Gelli-farch.
+Gwybodaeth Cychwyn
+I1
+Ergl. 185 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 185 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Matharn — trefniadau etholiadol cymunedol
+186.  Yng nghymuned Matharn, nifer y cynghorwyr sydd i’w hethol dros ward Matharn yw 3.
+Gwybodaeth Cychwyn
+I1
+Ergl. 186 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 186 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llanfihangel Troddi, Trefynwy, Rhaglan a Chastell-gwyn — newidiadau i ffiniau cymunedol a newidiadau canlyniadol i drefniadau etholiadol
+187.  Mae’r rhan o gymuned Rhaglan a ddangosir â llinellau ar Fap 123—
+(a)
+wedi ei throsglwyddo i gymuned Llanfihangel Troddi;
+(b)
+yn ffurfio ward gymunedol Pen-y-clawdd;
+(c)
+yn ffurfio rhan o ward etholiadol Llanfihangel Troddi.
+Gwybodaeth Cychwyn
+I1
+Ergl. 187 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 187 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llanfihangel Troddi, Trefynwy, Rhaglan a Chastell-gwyn — newidiadau i ffiniau cymunedol a newidiadau canlyniadol i drefniadau etholiadol
+188.  Mae’r rhan o gymuned Rhaglan a ddangosir â llinellau ar Fap 124—
+(a)
+wedi ei throsglwyddo i gymuned Llanfihangel Troddi;
+(b)
+yn ffurfio rhan o ward gymunedol Tre’r-gaer;
+(c)
+yn ffurfio rhan o ward etholiadol Llanfihangel Troddi.
+Gwybodaeth Cychwyn
+I1
+Ergl. 188 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 188 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llanfihangel Troddi, Trefynwy, Rhaglan a Chastell-gwyn — newidiadau i ffiniau cymunedol a newidiadau canlyniadol i drefniadau etholiadol
+189.  Mae’r rhan o gymuned Llanfihangel Troddi a ddangosir â llinellau ar Fap 125—
+(a)
+wedi ei throsglwyddo i gymuned Trefynwy;
+(b)
+yn ffurfio rhan o ward gymunedol Overmonnow;
+(c)
+yn ffurfio rhan o ward etholiadol Overmonnow.
+Gwybodaeth Cychwyn
+I1
+Ergl. 189 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 189 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llanfihangel Troddi, Trefynwy, Rhaglan a Chastell-gwyn — newidiadau i ffiniau cymunedol a newidiadau canlyniadol i drefniadau etholiadol
+190.  Mae’r rhan o gymuned Llanfihangel Troddi a ddangosir â llinellau ar Fap 126—
+(a)
+wedi ei throsglwyddo i gymuned newydd Castell-gwyn;
+(b)
+yn ffurfio rhan o ward gymunedol newydd Llanfihangel Ystum Llewern;
+(c)
+yn ffurfio rhan o ward etholiadol Llandeilo Gresynni.
+Gwybodaeth Cychwyn
+I1
+Ergl. 190 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 190 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llanfihangel Troddi — trefniadau etholiadol cymunedol
+191.  Yng nghymuned Llanfihangel Troddi, nifer y cynghorwyr sydd i’w hethol dros—
+(a)
+ward Cwmcarfan yw 1;
+(b)
+ward Llanfihangel Troddi yw 2;
+(c)
+ward Pen-y-clawdd yw 1.
+Gwybodaeth Cychwyn
+I1
+Ergl. 191 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 191 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Trefynwy a Chastell-gwyn — newid ffiniau wardiau cymunedol a newid canlyniadol i drefniadau etholiadol
+192.  Mae’r rhan o gymuned Trefynwy a ddangosir â llinellau ar Fap 127—
+(a)
+wedi ei throsglwyddo i gymuned newydd Castell-gwyn;
+(b)
+yn ffurfio rhan o ward gymunedol newydd Rockfield a Llanfocha;
+(c)
+yn ffurfio rhan o ward etholiadol Llandeilo Gresynni.
+Gwybodaeth Cychwyn
+I1
+Ergl. 192 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 192 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Dixton gydag Osbaston, Drybridge, Overmonnow a’r Dref — newidiadau i ffiniau ward gymunedol a newidiadau canlyniadol i wardiau etholiadol
+193.  Mae’r rhan o ward y Dref o gymuned Trefynwy a ddangosir â llinellau ar Fap 128—
+(a)
+wedi ei throsglwyddo i ward Dixton gydag Osbaston o gymuned Trefynwy;
+(b)
+yn ffurfio rhan o ward etholiadol Dixton gydag Osbaston.
+Gwybodaeth Cychwyn
+I1
+Ergl. 193 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 193 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Dixton gydag Osbaston, Drybridge, Overmonnow a’r Dref — newidiadau i ffiniau ward gymunedol a newidiadau canlyniadol i wardiau etholiadol
+194.  Mae’r rhan o ward Dixton gydag Osbaston o gymuned Trefynwy a ddangosir â llinellau ar Fap 129—
+(a)
+wedi ei throsglwyddo i ward y Dref o gymuned Trefynwy;
+(b)
+yn ffurfio rhan o ward etholiadol Drybridge.
+Gwybodaeth Cychwyn
+I1
+Ergl. 194 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 194 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Dixton gydag Osbaston, Drybridge, Overmonnow a’r Dref — newidiadau i ffiniau ward gymunedol a newidiadau canlyniadol i wardiau etholiadol
+195.  Mae’r rhan o ward y Dref o gymuned Trefynwy a ddangosir â llinellau ar Fap 130—
+(a)
+wedi ei throsglwyddo i ward Drybridge o gymuned Trefynwy;
+(b)
+yn ffurfio rhan o ward etholiadol Drybridge.
+Gwybodaeth Cychwyn
+I1
+Ergl. 195 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 195 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Dixton gydag Osbaston, Drybridge, Overmonnow a’r Dref — newidiadau i ffiniau ward gymunedol a newidiadau canlyniadol i wardiau etholiadol
+196.  Mae’r rhan o ward Drybridge o gymuned Trefynwy a ddangosir â llinellau ar Fap 131—
+(a)
+wedi ei throsglwyddo i ward Overmonnow o gymuned Trefynwy;
+(b)
+yn ffurfio rhan o ward etholiadol Overmonnow.
+Gwybodaeth Cychwyn
+I1
+Ergl. 196 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 196 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Dixton gydag Osbaston, Drybridge, Overmonnow a’r Dref — newidiadau i ffiniau ward gymunedol a newidiadau canlyniadol i wardiau etholiadol
+197.  Mae’r rhan o ward Drybridge o gymuned Trefynwy a ddangosir â llinellau ar Fap 132—
+(a)
+wedi ei throsglwyddo i ward y Dref o gymuned Trefynwy;
+(b)
+yn ffurfio rhan o ward etholiadol Drybridge.
+Gwybodaeth Cychwyn
+I1
+Ergl. 197 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 197 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Dixton gydag Osbaston, Drybridge, Overmonnow a’r Dref — newidiadau i ffiniau ward gymunedol a newidiadau canlyniadol i wardiau etholiadol
+198.  Mae’r rhan o ward Overmonnow o gymuned Trefynwy a ddangosir â llinellau ar Fap 133—
+(a)
+wedi ei throsglwyddo i ward y Dref o gymuned Trefynwy;
+(b)
+yn ffurfio rhan o ward etholiadol Drybridge.
+Gwybodaeth Cychwyn
+I1
+Ergl. 198 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 198 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Dixton gydag Osbaston - newid enw ward gymunedol a newid canlyniadol i ward etholiadol
+199.  Mae ward bresennol Dixton gydag Osbaston o gymuned Trefynwy fel y’i newidir gan y Gorchymyn hwn ac a ddangosir â llinellau ar Fap 134—
+(a)
+wedi ei hailenwi yn Osbaston;
+(b)
+yn ffurfio ward etholiadol Dixton gydag Osbaston.
+Gwybodaeth Cychwyn
+I1
+Ergl. 199 mewn grym ar 8.11.2021 , gweler ergl. 1(2)
+I2
+Ergl. 199 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Dixton gydag Osbaston - newid enw ward etholiadol
+200.  Mae ward etholiadol Dixton gydag Osbaston fel y’i newidir gan y Gorchymyn hwn wedi ei hailenwi yn Osbaston.
+Gwybodaeth Cychwyn
+I1
+Ergl. 200 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 200 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Trefynwy — trefniadau etholiadol ward gymunedol
+201.  Yng nghymuned Trefynwy, nifer y cynghorwyr sydd i’w hethol dros—
+(a)
+ward Drybridge yw 4;
+(b)
+ward Osbaston yw 4;
+(c)
+ward Overmonnow yw 3;
+(d)
+ward y Dref yw 4.
+Gwybodaeth Cychwyn
+I1
+Ergl. 201 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 201 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Trefynwy — trefniadau ward etholiadol
+202.  Yng nghymuned Trefynwy, nifer y cynghorwyr sydd i’w hethol dros ward Drybridge yw 2.
+Gwybodaeth Cychwyn
+I1
+Ergl. 202 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 202 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Porth Sgiwed, Leechpool a Phentref Porth Sgiwed — newid ffiniau wardiau cymunedol a newid canlyniadol i wardiau etholiadol
+203.  Mae’r rhan o ward Leechpool o gymuned Porth Sgiwed a ddangosir â llinellau ar Fap 135—
+(a)
+wedi ei throsglwyddo i ward Pentref Porth Sgiwed o gymuned Porth Sgiwed;
+(b)
+yn ffurfio rhan o ward etholiadol Porthsgiwed.
+Gwybodaeth Cychwyn
+I1
+Ergl. 203 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 203 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Rhaglan, Llandenni a Chyncoed — newid ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+204.  Mae’r rhan o ward Llandenni o gymuned Rhaglan a ddangosir â llinellau ar Fap 136—
+(a)
+wedi ei throsglwyddo i ward newydd Cyncoed o gymuned Rhaglan;
+(b)
+yn ffurfio rhan o ward etholiadol Rhaglan.
+Gwybodaeth Cychwyn
+I1
+Ergl. 204 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 204 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Creu ward gymunedol newydd Cyncoed
+205.  Mae ward newydd Cyncoed o gymuned Rhaglan wedi ei chreu sydd—
+(a)
+yn cynnwys yr ardal â ddangosir â llinellau ar Fap 136;
+(b)
+yn ffurfio rhan o ward etholiadol Rhaglan.
+Gwybodaeth Cychwyn
+I1
+Ergl. 205 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 205 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Rhaglan — trefniadau etholiadol cymunedol
+206.  Yng nghymuned Rhaglan, nifer y cynghorwyr sydd i’w hethol dros—
+(a)
+ward Gwehelog yw 1;
+(b)
+ward Cyncoed yw 1;
+(c)
+ward Llandenni yw 1;
+(d)
+ward Rhaglan yw 6.
+Gwybodaeth Cychwyn
+I1
+Ergl. 206 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 206 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Rogiet — newid i drefniadau etholiadol cymunedol
+207.  Yng nghymuned Rogiet, nifer y cynghorwyr sydd i’w hethol dros Rogiet yw 7.
+Gwybodaeth Cychwyn
+I1
+Ergl. 207 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 207 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Drenewydd Gelli-farch a St Arvans — newid ffin gymunedol a newidiadau canlyniadol i drefniadau etholiadol
+208.  Mae’r rhan o gymuned St Arvans a ddangosir â llinellau ar Fap 137—
+(a)
+wedi ei throsglwyddo i gymuned Drenewydd Gelli-farch;
+(b)
+yn ffurfio rhan o ward gymunedol newydd Drenewydd Gelli-farch a Mynydd-bach;
+(c)
+yn ffurfio rhan o ward etholiadol Drenewydd Gelli-farch.
+Gwybodaeth Cychwyn
+I1
+Ergl. 208 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 208 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Earlswood, Mynydd-bach, Yr Eglwys Newydd ar y Cefn a Drenewydd Gelli-farch — newidiadau i ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+209.  Mae’r rhan o ward Earlswood o gymuned Drenewydd Gelli-farch a ddangosir â llinellau ar Fap 138—
+(a)
+wedi ei throsglwyddo i ward newydd Drenewydd Gelli-farch a Mynydd-bach o gymuned Drenewydd Gelli-farch;
+(b)
+yn ffurfio rhan o ward etholiadol Drenewydd Gelli-farch.
+Gwybodaeth Cychwyn
+I1
+Ergl. 209 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 209 mewn grym ar 4.5.2022 aam 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Earlswood, Mynydd-bach, Yr Eglwys Newydd ar y Cefn a Drenewydd Gelli-farch — newidiadau i ffiniau wardiau cymunedol a newidiadau canlyniadol i wardiau etholiadol
+210.  Mae’r rhan o ward Drenewydd Gelli-farch o gymuned Drenewydd Gelli-farch a ddangosir â llinellau ar Fap 139—
+(a)
+wedi ei throsglwyddo i ward newydd Earlswood a’r Eglwys Newydd ar y Cefn o gymuned Drenewydd Gelli-farch;
+(b)
+yn ffurfio rhan o ward etholiadol Drenewydd Gelli-farch.
+Gwybodaeth Cychwyn
+I1
+Ergl. 210 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 210 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Earlswood a’r Eglwys Newydd ar y Cefn — cyfuno wardiau cymunedol
+211.  Mae ardal ward bresennol Earlswood o gymuned Drenewydd Gelli-farch fel y’i newidir gan y Gorchymyn hwn wedi ei chyfuno ag ardal ward bresennol yr Eglwys Newydd ar y Cefn o gymuned Drenewydd Gelli-farch i ffurfio ward gymunedol newydd Earlswood a’r Eglwys Newydd ar y Cefn o gymuned Drenewydd Gelli-farch fel y’i dangosir â llinellau ar Fap 140.
+Gwybodaeth Cychwyn
+I1
+Ergl. 211 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 211 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Drenewydd Gelli-farch a Mynydd-bach — cyfuno wardiau cymunedol
+212.  Mae ardal ward bresennol Drenewydd Gelli-farch o gymuned Drenewydd Gelli-farch fel y’i newidir gan y Gorchymyn hwn wedi ei chyfuno ag ardal ward bresennol Mynydd-bach o gymuned Drenewydd Gelli-farch i ffurfio ward gymunedol newydd Drenewydd Gelli-farch a Mynydd-bach o gymuned Drenewydd Gelli-farch fel y’i dangosir â llinellau ar Fap 141.
+Gwybodaeth Cychwyn
+I1
+Ergl. 212 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 212 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Drenewydd Gelli-farch — trefniadau etholiadol cymunedol
+213.  Yng nghymuned Drenewydd Gelli-farch, nifer y cynghorwyr sydd i’w hethol dros—
+(a)
+ward Earlswood a’r Eglwys Newydd ar y Cefn yw 2;
+(b)
+ward Drenewydd Gelli-farch a Mynydd-bach yw 5.
+Gwybodaeth Cychwyn
+I1
+Ergl. 213 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 213 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)St Arvans a Thyndyrn — newid ffin gymunedol a newidiadau canlyniadol i wardiau etholiadol
+214.  Mae’r rhan o ward Penterry o gymuned Tyndyrn a ddangosir â llinellau ar Fap 142—
+(a)
+wedi ei throsglwyddo i gymuned St Arvans;
+(b)
+yn ffurfio rhan o ward etholiadol Llanarfan.
+Gwybodaeth Cychwyn
+I1
+Ergl. 214 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 214 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)St Arvans — trefniadau etholiadol cymunedol
+215.  Yng nghymuned St Arvans, nifer y cynghorwyr sydd i’w hethol dros Lanarfan yw 7.
+Gwybodaeth Cychwyn
+I1
+Ergl. 215 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 215 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Tyndyrn a Thryleg Unedig — newid ffin gymunedol a newidiadau canlyniadol i drefniadau etholiadol
+216.  Mae’r rhan o gymuned Tryleg Unedig a ddangosir â llinellau ar Fap 143—
+(a)
+wedi ei throsglwyddo i gymuned Tyndyrn;
+(b)
+yn ffurfio ward gymunedol Llandogo;
+(c)
+yn ffurfio rhan o ward etholiadol Llanarfan.
+Gwybodaeth Cychwyn
+I1
+Ergl. 216 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 216 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Tyndyrn a Thryleg Unedig — newid ffin gymunedol a newidiadau canlyniadol i drefniadau etholiadol
+217.  Mae’r rhan o gymuned Tyndyrn a ddangosir â llinellau ar Fap 144—
+(a)
+wedi ei throsglwyddo i gymuned Tryleg Unedig;
+(b)
+yn ffurfio ward gymunedol Plasdy Tryleg;
+(c)
+yn ffurfio rhan o ward etholiadol Tryleg Unedig.
+Gwybodaeth Cychwyn
+I1
+Ergl. 217 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 217 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Tyndyrn — newid enw cymuned
+218.  Mae cymuned bresennol Tyndyrn fel y’i newidir gan y Gorchymyn hwn ac a ddangosir â llinellau ar Fap 145—
+(a)
+wedi ei hailenwi yn Dyffryn Gwy;
+(b)
+yn ffurfio rhan o ward etholiadol Llanarfan.
+Gwybodaeth Cychwyn
+I1
+Ergl. 218 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 218 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Allt y Capel a Penterry — newid ffiniau wardiau cymunedol a newid canlyniadol i wardiau etholiadol
+219.  Mae’r rhan o ward Penterry o gymuned Tyndyrn a ddangosir â llinellau ar Fap 146—
+(a)
+wedi ei throsglwyddo i ward Allt y Capel o gymuned Dyffryn Gwy;
+(b)
+yn ffurfio rhan o ward etholiadol Llanarfan.
+Gwybodaeth Cychwyn
+I1
+Ergl. 219 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 219 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Allt y Capel a Thyndyrn Parva — cyfuno wardiau cymunedol
+220.  Mae ward bresennol Allt y Capel o gymuned Dyffryn Gwy fel y’i newidir gan y Gorchymyn hwn wedi ei chyfuno â ward bresennol Tyndyrn Parva o gymuned Dyffryn Gwy i ffurfio ward gymunedol newydd Tyndyrn o gymuned Dyffryn Gwy fel y’i dangosir â llinellau ar Fap 147.
+Gwybodaeth Cychwyn
+I1
+Ergl. 220 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 220 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Diddymu ward gymunedol Penterry
+221.  Mae ward bresennol Penterry o gymuned Dyffryn Gwy fel y’i newidir gan y Gorchymyn hwn wedi ei diddymu.
+Gwybodaeth Cychwyn
+I1
+Ergl. 221 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 221 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Dyffryn Gwy — trefniadau etholiadol cymunedol
+222.  Yng nghymuned Dyffryn Gwy, nifer y cynghorwyr sydd i’w hethol dros—
+(a)
+ward Llandogo yw 3;
+(b)
+ward Tyndyrn yw 4.
+Gwybodaeth Cychwyn
+I1
+Ergl. 222 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 222 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Tryleg Unedig, Llanisien a Thref Tryleg — newid ffiniau wardiau cymunedol a newid canlyniadol i wardiau etholiadol
+223.  Mae’r rhan o ward Llanisien o gymuned Tryleg Unedig a ddangosir â llinellau ar Fap 148—
+(a)
+wedi ei throsglwyddo i ward Tref Tryleg o gymuned Tryleg Unedig;
+(b)
+yn ffurfio rhan o ward etholiadol Tryleg Unedig.
+Gwybodaeth Cychwyn
+I1
+Ergl. 223 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 223 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Tryleg Unedig — trefniadau etholiadol cymunedol
+224.  Yng nghymuned Tryleg Unedig, nifer y cynghorwyr sydd i’w hethol dros—
+(a)
+ward Pen-allt yw 3;
+(b)
+ward Tref Tryleg yw 3;
+(c)
+ward Plasdy Tryleg yw 1.
+Gwybodaeth Cychwyn
+I1
+Ergl. 224 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 224 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Ynysgynwraidd — creu cymuned newydd
+225.  Mae cymuned newydd Ynysgynwraidd wedi ei chreu sydd—
+(a)
+yn cynnwys yr ardal â ddangosir â llinellau ar Fap 149;
+(b)
+yn ffurfio rhan o ward etholiadol Llandeilo Gresynni.
+Gwybodaeth Cychwyn
+I1
+Ergl. 225 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 225 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Ynysgynwraidd, Llangatwg Feibion Afel a Llandeilo Gresynni — newid ffin gymunedol a newidiadau canlyniadol i drefniadau etholiadol
+226.  Mae’r rhan o gymuned Llandeilo Gresynni a ddangosir â llinellau ar Fap 150—
+(a)
+wedi ei throsglwyddo i gymuned Ynysgynwraidd;
+(b)
+yn ffurfio rhan o ward gymunedol newydd Cross Ash;
+(c)
+yn ffurfio rhan o ward etholiadol Llandeilo Gresynni.
+Gwybodaeth Cychwyn
+I1
+Ergl. 226 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 226 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Ynysgynwraidd, Llangatwg Feibion Afel a Llandeilo Gresynni — newid ffin gymunedol a newidiadau canlyniadol i drefniadau etholiadol
+227.  Mae’r rhan o gymuned Llangatwg Feibion Afel a ddangosir â llinellau ar Fap 151—
+(a)
+wedi ei throsglwyddo i gymuned Ynysgynwraidd;
+(b)
+yn ffurfio rhan o ward gymunedol newydd Ynysgynwraidd;
+(c)
+yn ffurfio rhan o ward etholiadol Llandeilo Gresynni.
+Gwybodaeth Cychwyn
+I1
+Ergl. 227 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 227 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Ynysgynwraidd, Llangatwg Feibion Afel a Llandeilo Gresynni — newid ffin gymunedol a newidiadau canlyniadol i drefniadau etholiadol
+228.  Mae’r rhan o gymuned Llangatwg Feibion Afel a ddangosir â llinellau ar Fap 152—
+(a)
+wedi ei throsglwyddo i gymuned Ynysgynwraidd;
+(b)
+yn ffurfio rhan o ward gymunedol newydd Cross Ash;
+(c)
+yn ffurfio rhan o ward etholiadol Llandeilo Gresynni.
+Gwybodaeth Cychwyn
+I1
+Ergl. 228 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 228 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Creu ward gymunedol newydd Cross Ash
+229.  Mae ward gymunedol newydd Cross Ash wedi ei chreu yng nghymuned Ynysgynwraidd sydd—
+(a)
+yn cynnwys yr ardal â ddangosir â llinellau ar Fap 153;
+(b)
+yn ffurfio rhan o ward etholiadol Llandeilo Gresynni.
+Gwybodaeth Cychwyn
+I1
+Ergl. 229 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 229 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Creu ward gymunedol newydd Llanwytherin
+230.  Mae ward gymunedol newydd Llanwytherin wedi ei chreu yng nghymuned Ynysgynwraidd sydd—
+(a)
+yn cynnwys yr ardal â ddangosir â llinellau ar Fap 154;
+(b)
+yn ffurfio rhan o ward etholiadol Llandeilo Gresynni.
+Gwybodaeth Cychwyn
+I1
+Ergl. 230 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 230 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Creu ward gymunedol newydd Ynysgynwraidd
+231.  Mae ward gymunedol newydd Ynysgynwraidd wedi ei chreu yng nghymuned Ynysgynwraidd sydd—
+(a)
+yn cynnwys yr ardal â ddangosir â llinellau ar Fap 155;
+(b)
+yn ffurfio rhan o ward etholiadol Llandeilo Gresynni.
+Gwybodaeth Cychwyn
+I1
+Ergl. 231 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 231 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Ynysgynwraidd — creu cyngor cymuned a threfniadau etholiadol cymunedol
+232.  Mae cyngor ar gyfer cymuned Ynysgynwraidd wedi ei sefydlu.
+Gwybodaeth Cychwyn
+I1
+Ergl. 232 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 232 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Ynysgynwraidd — creu cyngor cymuned a threfniadau etholiadol cymunedol
+233.  Mae cymuned Ynysgynwraidd yn cynnwys tair ward—
+(a)
+Cross Ash;
+(b)
+Llanwytherin;
+(c)
+Ynysgynwraidd.
+Gwybodaeth Cychwyn
+I1
+Ergl. 233 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 233 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Ynysgynwraidd — creu cyngor cymuned a threfniadau etholiadol cymunedol
+234.  Yng nghymuned Ynysgynwraidd, nifer y cynghorwyr sydd i’w hethol dros—
+(a)
+ward Cross Ash yw 3;
+(b)
+ward Llanwytherin yw 2;
+(c)
+ward Ynysgynwraidd yw 2.
+Gwybodaeth Cychwyn
+I1
+Ergl. 234 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 234 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Castell-gwyn — creu cymuned newydd
+235.  Mae cymuned newydd Castell-gwyn wedi ei chreu sydd—
+(a)
+yn cynnwys yr ardal â ddangosir â llinellau ar Fap 156;
+(b)
+yn ffurfio rhan o ward etholiadol Llandeilo Gresynni.
+Gwybodaeth Cychwyn
+I1
+Ergl. 235 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 235 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Castell-gwyn, Llandeilo Gresynni a Llangatwg Feibion Afel — newid ffin gymunedol a newidiadau canlyniadol i drefniadau etholiadol
+236.  Mae’r rhan o gymuned Llandeilo Gresynni a ddangosir â llinellau ar Fap 157—
+(a)
+wedi ei throsglwyddo i gymuned Castell-gwyn;
+(b)
+yn ffurfio rhan o ward gymunedol newydd Castell-gwyn;
+(c)
+yn ffurfio rhan o ward etholiadol Llandeilo Gresynni.
+Gwybodaeth Cychwyn
+I1
+Ergl. 236 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 236 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Castell-gwyn, Llandeilo Gresynni a Llangatwg Feibion Afel — newid ffin gymunedol a newidiadau canlyniadol i drefniadau etholiadol
+237.  Mae’r rhannau o gymuned Llangatwg Feibion Afel a ddangosir â llinellau ar Fap 158—
+(a)
+wedi eu trosglwyddo i gymuned Castell-gwyn;
+(b)
+yn ffurfio rhan o ward gymunedol newydd Castellnewydd;
+(c)
+yn ffurfio rhan o ward etholiadol Llandeilo Gresynni.
+Gwybodaeth Cychwyn
+I1
+Ergl. 237 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 237 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Castell-gwyn, Llandeilo Gresynni a Llangatwg Feibion Afel — newid ffin gymunedol a newidiadau canlyniadol i drefniadau etholiadol
+238.  Mae’r rhannau o gymuned Llangatwg Feibion Afel a ddangosir â llinellau ar Fap 159—
+(a)
+wedi eu trosglwyddo i gymuned Castell-gwyn;
+(b)
+mae’r rhan â arlliwiwyd wedi ei throsglwyddo i ward gymunedol newydd Castellnewydd;
+(c)
+mae’r rhan â llinellau wedi ei throsglwyddo i ward gymunedol newydd Llangatwg Feibion Afel;
+(d)
+mae’r rhan â chroeslinellau wedi ei throsglwyddo i ward gymunedol newydd Rockfield a Llanfocha;
+(e)
+yn ffurfio rhan o ward etholiadol Llandeilo Gresynni.
+Gwybodaeth Cychwyn
+I1
+Ergl. 238 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 238 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Castell-gwyn, Llandeilo Gresynni a Llangatwg Feibion Afel — newid ffin gymunedol a newidiadau canlyniadol i drefniadau etholiadol
+239.  Mae’r rhannau o gymuned Llangatwg Feibion Afel a ddangosir â llinellau ar Fap 160—
+(a)
+wedi eu trosglwyddo i gymuned Castell-gwyn;
+(b)
+mae’r rhan â arlliwiwyd wedi ei throsglwyddo i ward gymunedol newydd Castellnewydd;
+(c)
+mae’r rhan â llinellau wedi ei throsglwyddo i ward gymunedol newydd Llangatwg Feibion Afel;
+(d)
+mae’r rhan â chroeslinellau wedi ei throsglwyddo i ward gymunedol newydd Rockfield a Llanfocha;
+(e)
+yn ffurfio rhan o ward etholiadol Llandeilo Gresynni.
+Gwybodaeth Cychwyn
+I1
+Ergl. 239 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 239 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Creu ward gymunedol newydd Llangatwg Feibion Afel
+240.  Mae ward gymunedol newydd Llangatwg Feibion Afel wedi ei chreu yng nghymuned Castell-gwyn sydd—
+(a)
+yn cynnwys yr ardal â ddangosir â llinellau ar Fap 161;
+(b)
+yn ffurfio rhan o ward etholiadol Llandeilo Gresynni.
+Gwybodaeth Cychwyn
+I1
+Ergl. 240 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 240 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Creu ward gymunedol newydd Llanfihangel Ystum Llewern
+241.  Mae ward gymunedol newydd Llanfihangel Ystum Llewern wedi ei chreu yng nghymuned Castell-gwyn sydd—
+(a)
+yn cynnwys yr ardal â ddangosir â llinellau ar Fap 162;
+(b)
+yn ffurfio rhan o ward etholiadol Llandeilo Gresynni.
+Gwybodaeth Cychwyn
+I1
+Ergl. 241 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 241 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Creu ward gymunedol newydd Castellnewydd
+242.  Mae ward gymunedol newydd Castellnewydd wedi ei chreu yng nghymuned Castell-gwyn sydd—
+(a)
+yn cynnwys yr ardal â ddangosir â llinellau ar Fap 163;
+(b)
+yn ffurfio rhan o ward etholiadol Llandeilo Gresynni.
+Gwybodaeth Cychwyn
+I1
+Ergl. 242 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 242 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Creu ward gymunedol newydd Pen-rhos
+243.  Mae ward gymunedol newydd Pen-rhos wedi ei chreu yng nghymuned Castell-gwyn sydd—
+(a)
+yn cynnwys yr ardal â ddangosir â llinellau ar Fap 164;
+(b)
+yn ffurfio rhan o ward etholiadol Llandeilo Gresynni.
+Gwybodaeth Cychwyn
+I1
+Ergl. 243 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 243 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Creu ward gymunedol newydd Rockfield a Llanfocha
+244.  Mae ward gymunedol newydd Rockfield a Llanfocha wedi ei chreu yng nghymuned Castell-gwyn sydd—
+(a)
+yn cynnwys yr ardal â ddangosir â llinellau ar Fap 165;
+(b)
+yn ffurfio rhan o ward etholiadol Llandeilo Gresynni.
+Gwybodaeth Cychwyn
+I1
+Ergl. 244 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 244 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Creu ward gymunedol newydd Castell-gwyn
+245.  Mae ward gymunedol newydd Castell-gwyn wedi ei chreu yng nghymuned Castell-gwyn sydd—
+(a)
+yn cynnwys yr ardal â ddangosir â llinellau ar Fap 166;
+(b)
+yn ffurfio rhan o ward etholiadol Llandeilo Gresynni.
+Gwybodaeth Cychwyn
+I1
+Ergl. 245 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 245 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Castell-gwyn — creu cyngor cymuned a threfniadau etholiadol cymunedol
+246.  Mae cyngor ar gyfer cymuned Castell-gwyn wedi ei sefydlu.
+Gwybodaeth Cychwyn
+I1
+Ergl. 246 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 246 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Castell-gwyn — creu cyngor cymuned a threfniadau etholiadol cymunedol
+247.  Mae cymuned Castell-gwyn yn cynnwys chwe ward—
+(a)
+Llangatwg Feibion Afel;
+(b)
+Llanfihangel Ystum Llewern;
+(c)
+Castellnewydd;
+(d)
+Pen-rhos;
+(e)
+Rockfield a Llanfocha;
+(f)
+Castell-gwyn.
+Gwybodaeth Cychwyn
+I1
+Ergl. 247 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 247 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Castell-gwyn — creu cyngor cymuned a threfniadau etholiadol cymunedol
+248.  Yng nghymuned Castell-gwyn, nifer y cynghorwyr sydd i’w hethol dros—
+(a)
+ward Llangatwg Feibion Afel yw 1;
+(b)
+ward Llanfihangel Ystum Llewern yw 1;
+(c)
+ward Castellnewydd yw 2;
+(d)
+ward Pen-rhos yw 2;
+(e)
+ward Rockfield a Llanfocha yw 3;
+(f)
+ward Castell-gwyn yw 2.
+Gwybodaeth Cychwyn
+I1
+Ergl. 248 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 248 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llangatwg Feibion Afel — diddymu cymuned a newid canlyniadol i gyngor cymuned
+249.—(1) Mae cymuned bresennol Llangatwg Feibion Afel fel y’i newidir gan y Gorchymyn hwn wedi ei diddymu.
+(2) Mae cyngor cymuned Llangatwg Feibion Afel wedi ei ddiddymu.
+Gwybodaeth Cychwyn
+I1
+Ergl. 249 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 249 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Llandeilo Gresynni — diddymu cymuned a newid canlyniadol i gyngor cymuned
+250.—(1) Mae cymuned bresennol Llandeilo Gresynni fel y’i newidir gan y Gorchymyn hwn wedi ei diddymu.
+(2) Mae cyngor cymuned Llandeilo Gresynni wedi ei ddiddymu.
+Gwybodaeth Cychwyn
+I1
+Ergl. 250 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 250 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Treuliau cychwynnol etc cynghorau cymuned newydd
+251.—(1) Yn yr erthygl hon—
+ystyr “yr awdurdod bilio arfaethedig” (“the prospective billing authority”) yw Cyngor Sir Fynwy;
+ystyr “y cynghorau cymuned newydd” (“the new community councils”) yw’r cynghorau cymuned newydd a sefydlir gan y Gorchymyn hwn;
+ystyr “Deddf 1992” (“the 1992 Act”) yw Deddf Cyllid Llywodraeth Leol 1992(1);
+ystyr “y gymuned newydd” (“the new community”) yw ardal gymunedol briodol y cynghorau cymuned newydd a sefydlir gan y Gorchymyn hwn;
+ystyr “y flwyddyn ariannol berthnasol” (“the relevant financial year”) yw’r flwyddyn ariannol sy’n dechrau ar 1 Ebrill 2022.
+(2) Mewn perthynas â’r flwyddyn ariannol berthnasol, mae adran 32 o Ddeddf 1992 (cyfrifo anghenion cyllideb gan awdurdodau bilio) yn gymwys i’r cynghorau cymuned newydd a’r awdurdod bilio arfaethedig ond fel pe bai—
+(a)
+at ddibenion gwneud cyfrifiad yn unol ag adran 32(2)(a) o Ddeddf 1992—
+(i)
+y swm yr hysbyswyd amdano yn unol â pharagraff (6) o’r erthygl hon yn eitem a grybwyllwyd yn adran 35(1) o Ddeddf 1992 (eitemau arbennig) a oedd yn ymwneud â’r gymuned newydd, a
+(ii)
+ardal yr awdurdod bilio arfaethedig yn cynnwys y gymuned newydd.
+(b)
+is-adran (6) wedi ei hepgor.
+(3) Mewn perthynas â’r flwyddyn ariannol berthnasol, mae adran 41 o Ddeddf 1992 (dyroddi praeseptau gan awdurdodau praeseptio lleol) yn gymwys i’r cynghorau cymuned newydd a’r awdurdod bilio arfaethedig ond fel pe bai ei bod yn ofynnol i’r awdurdod bilio arfaethedig, wrth wneud cyfrifiadau yn unol ag adran 32 o Ddeddf 1992 (yn wreiddiol neu drwy amnewidiad) at ddibenion ei amcangyfrif o dan adran 32(2)(a) o Ddeddf 1992, gymryd i ystyriaeth swm sy’n hafal i’r swm hwnnw yr hysbyswyd iddo yn unol â pharagraff (6) o’r erthygl hon.
+(4) Mewn perthynas â’r flwyddyn ariannol berthnasol, mae adran 52X(1) (cyfrifiadau i fod yn net o braeseptau) a 52Y(2) (gwybodaeth at ddibenion Pennod 4A) o Ddeddf 1992 yn gymwys i’r cynghorau cymuned newydd a’r awdurdod bilio arfaethedig ond fel pe bai cyfanswm y praeseptau a ragwelir gan yr awdurdod bilio arfaethedig yn unol â rheoliadau a wnaed o dan adran 41 o Ddeddf 1992 yn cynnwys y symiau a hysbyswyd i’r cynghorau cymuned newydd yn unol â pharagraff (6) o’r erthygl hon.
+(5) Mewn perthynas â’r flwyddyn ariannol berthnasol, mae adran 50 o Ddeddf 1992 (cyfrifo anghenion cyllideb gan awdurdodau praeseptio lleol) yn gymwys i’r cynghorau cymuned newydd a’r awdurdod bilio arfaethedig fel pe bai’n ofynnol i bob un o’r cynghorau cymuned newydd sicrhau nad yw’r swm a gyfrifir fel ei ofyniad cyllideb am y flwyddyn honno yn fwy na’r swm a hysbyswyd i’r cyngor cymuned newydd hwnnw yn unol â pharagraff (6) o’r erthygl hon.
+(6) Rhaid i’r swm priodol sydd i’w hysbysu i bob un o’r cynghorau cymuned newydd yn unol â’r paragraff hwn gael ei hysbysu gan Weinidogion Cymru yn ysgrifenedig i’r awdurdod bilio arfaethedig ac i bob un o’r cynghorau cymuned newydd.
+(7) Mewn perthynas â’r flwyddyn ariannol berthnasol, mae Rheoliadau Awdurdodau Lleol (Praeseptau) (Cymru) 1995(2) yn gymwys i’r cynghorau cymuned newydd a’r awdurdod bilio arfaethedig fel pe bai—
+(a)
+rheoliad 5 (gwybodaeth am amserlenni talu) wedi ei hepgor;
+(b)
+ym mharagraff 8 o’r Atodlen (rheolau i benderfynu’r cyfnodau amser ar gyfer rhandaliadau)—
+(i)
+yn is-baragraffau (1), (2) a (3), bod y geiriau sy’n dilyn y cyfeiriad cyntaf at “that financial year” wedi eu hepgor;
+(ii)
+yn is-baragraff (1)(a) bod y cyfeiriad at “April” yn gyfeiriad at “May”.
+Gwybodaeth Cychwyn
+I1
+Ergl. 251 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 251 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)
+(1)
+1992 p. 14. Diwygiwyd adrannau 32 a 35, o ran Cymru, gan baragraffau 4 a 6 yn y drefn honno o Atodlen 12 i Ddeddf Llywodraeth Leol (Cymru) 1994 (p. 19). Diwygiwyd adran 50 gan Ran 1 o Atodlen 8 i Ddeddf Llywodraeth Leol 2003 (p. 26). Mewnosodwyd adrannau 52X a 52Y gan Ran 1 o Atodlen 1 i Ddeddf Llywodraeth Leol 1999 (p. 27).
+(2)
+O.S. 1995/2562 (fel y’i diwygiwyd gan O.S. 2001/3649).Cynghorau cymuned newydd
+252.  Rhaid i swyddog priodol Cyngor Sir Fynwy alw cyfarfod cyntaf pob un o’r cynghorau cymuned newydd a sefydlir gan erthyglau 137, 157, 232 a 246.
+Gwybodaeth Cychwyn
+I1
+Ergl. 252 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 252 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Cynghorau cymuned newydd — olynwyr gweddilliol
+253.  At ddibenion unrhyw ddarpariaeth o’r Rheoliadau sy’n cyfeirio at olynydd gweddilliol awdurdod a ddiddymwyd—
+(a)
+mewn perthynas â chynghorau cymuned presennol Llan-gwm a Llantrisant Fawr, mae cyngor cymuned newydd Llantrisant Fawr wedi ei bennu yn olynydd gweddilliol;
+(b)
+mewn perthynas â chynghorau cymuned presennol Llangybi a Llanhenwg, mae cyngor cymuned newydd Llangybi wedi ei bennu yn olynydd gweddilliol.
+Gwybodaeth Cychwyn
+I1
+Ergl. 253 mewn grym ar 8.11.2021 at ddibenion penodedig, gweler ergl. 1(2)
+I2
+Ergl. 253 mewn grym ar 4.5.2022 am 23.59 i'r graddau nad yw eisoes mewn grym, gweler ergl. 1(3)Rebecca Evans
+Y Gweinidog Cyllid a Llywodraeth Leol, un o Weinidogion Cymru
+2 Tachwedd 2021NODYN ESBONIADOL
+(Nid yw’r nodyn hwn yn rhan o’r Gorchymyn)
+Mae’r Gorchymyn hwn, a wnaed yn unol ag adran 58(2) o Ddeddf Llywodraeth Leol 1972, yn gweithredu cynigion Comisiwn Ffiniau a Democratiaeth Leol Cymru (“y Comisiwn”), a roddodd adroddiad ym mis Ionawr 2019 ar adolygiad o drefniadau cymunedol yn Sir Fynwy a gynhaliwyd gan Gyngor Sir Fynwy. Roedd Adroddiad y Comisiwn yn argymell newidiadau i ffiniau presennol cymunedau yn ardal Cyngor Sir Fynwy a newidiadau canlyniadol i drefniadau etholiadol, ac mae’r Gorchymyn hwn yn gweithredu argymhellion y Comisiwn heb addasiad.
+Effaith y Gorchymyn hwn yw gwneud newidiadau i nifer o ardaloedd cymunedol a newidiadau canlyniadol i drefniadau etholiadol. Mae’r Gorchymyn hwn hefyd yn diddymu nifer o gymunedau a’u cynghorau cymuned, yn creu cymunedau newydd a chynghorau cymuned newydd ac yn gwneud darpariaeth weinyddol ar gyfer gweithrediad y cynghorau cymuned newydd hynny, a gosod praeseptau sy’n ymwneud â hwy.
+Mae Rheoliadau Newidiadau i Ardaloedd Llywodraeth Leol 1976 y cyfeirir atynt yn erthygl 2 o’r Gorchymyn hwn yn cynnwys darpariaethau cysylltiedig, darpariaethau canlyniadol, darpariaethau trosiannol a darpariaethau atodol ynghylch effaith a gweithrediad gorchmynion o’r math hwn.
+Ystyriwyd Cod Ymarfer Gweinidogion Cymru ar gynnal Asesiadau Effaith Rheoleiddiol mewn perthynas â’r Gorchymyn hwn. O ganlyniad, ystyriwyd nad oedd yn angenrheidiol cynnal asesiad effaith rheoleiddiol o’r costau a’r manteision sy’n debygol o ddeillio o gydymffurfio â’r Gorchymyn hwn.
+Mae printiau o’r mapiau a labelwyd “1” i “166” y mae’r Gorchymyn hwn yn ymwneud â hwy wedi eu hadneuo yn swyddfeydd Llywodraeth Cymru ym Mharc Cathays, Caerdydd, CF10 3NQ (yr Is-adran Democratiaeth Llywodraeth Leol), a chyda Chyngor Sir Fynwy. Mae’r printiau sydd wedi eu hadneuo gyda Chyngor Sir Fynwy yn agored i gael eu harchwilio gan unrhyw un y bydd darpariaethau’r Gorchymyn hwn yn effeithio arnynt.

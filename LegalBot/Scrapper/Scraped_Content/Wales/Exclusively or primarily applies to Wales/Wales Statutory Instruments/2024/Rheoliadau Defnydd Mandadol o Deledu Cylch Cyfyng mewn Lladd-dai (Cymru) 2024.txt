@@ -1,0 +1,198 @@
+OFFERYNNAU STATUDOL CYMRU
+2024 Rhif 682 (Cy. 94)
+ANIFEILIAID, CYMRU
+Rheoliadau Defnydd Mandadol o Deledu Cylch Cyfyng mewn Lladd-dai (Cymru) 2024
+Gwnaed
+22 Mai 2024
+Yn dod i rym
+At ddibenion Rheoliadau 1 i 4
+1 Mehefin 2024
+At bob diben arall
+1 Rhagfyr 2024
+Mae Gweinidogion Cymru, drwy arfer y pwerau a roddir iddynt gan adran 12 o Ddeddf Lles Anifeiliaid 2006(1), yn gwneud y Rheoliadau a ganlyn.
+Yn unol ag adran 12(6) o Ddeddf Lles Anifeiliaid 2006, mae Gweinidogion Cymru wedi ymgynghori â’r personau hynny, yr ymddengys iddynt hwy eu bod yn cynrychioli buddiannau y mae’r Rheoliadau hyn yn ymwneud â hwy, fel yr oedd Gweinidogion Cymru yn ystyried ei bod yn briodol.
+Yn unol ag adran 61(2) o Ddeddf Lles Anifeiliaid 2006, gosodwyd drafft o’r Rheoliadau hyn gerbron Senedd Cymru ac fe’i cymeradwywyd ganddi drwy benderfyniad(2).
+(1)
+2006 p. 45. Mae adran 62(1) yn diffinio “appropriate national authority”. Yn rhinwedd adran 162 o Ddeddf Llywodraeth Cymru 2006 (p. 32), a pharagraff 30 o Atodlen 11 iddi, trosglwyddwyd swyddogaethau Cynulliad Cenedlaethol Cymru i Weinidogion Cymru ac maent bellach wedi eu breinio ynddynt.
+(2)
+2006 p. 45. Yn rhinwedd adran 162 o Ddeddf Llywodraeth Cymru 2006 (p. 32), a pharagraff 34 o Atodlen 11 iddi, mae’r cyfeiriad yn adran 61(2) at “House of Parliament” yn cynnwys Cynulliad Cenedlaethol Cymru. Mae’r cyfeiriad ym mharagraff 34 at Gynulliad Cenedlaethol Cymru bellach yn cael effaith fel cyfeiriad at Senedd Cymru, yn rhinwedd adran 150A(2) o Ddeddf Llywodraeth Cymru 2006 (p. 32).Enwi, cymhwyso a chychwyn
+1.—(1) Enw’r Rheoliadau hyn yw Rheoliadau Defnydd Mandadol o Deledu Cylch Cyfyng mewn Lladd-dai (Cymru) 2024.
+(2) Mae’r Rheoliadau hyn yn gymwys o ran Cymru.
+(3) Daw’r rheoliad hwn a rheoliadau 2 i 4 i rym ar 1 Mehefin 2024.
+(4) Daw rheoliadau 5 i 14 i rym ar 1 Rhagfyr 2024.Dehongli
+2.  Yn y Rheoliadau hyn—
+ystyr “arolygydd” (“inspector”) yw person a benodir o dan reoliad 34 o Reoliadau Lles Anifeiliaid Adeg eu Lladd (Cymru) 2014(1) neu berson a benodir yn arolygydd o dan adran 51 o Ddeddf Lles Anifeiliaid 2006;
+mae i “gweithredwr busnes” yr ystyr a roddir i “business operator” yn Erthygl 2(1)(l) o Reoliad yr UE;
+mae i “lladd” yr ystyr a roddir i “killing” yn Erthygl 2(1)(a) o Reoliad yr UE;
+mae i “lladd-dy” yr ystyr a roddir i “slaughterhouse” yn Erthygl 2(1)(k) o Reoliad yr UE;
+mae “mangre” (“premises”) yn cynnwys unrhyw dir, adeilad, sied, lloc, daliedydd neu gerbyd o unrhyw ddisgrifiad;
+ystyr “prosesu” (“processing”) yw—
+(a)
+cael, cofnodi, storio, gwirio, ac adalw, a
+(b)
+datgelu drwy drosglwyddo, lledaenu neu fel arall wneud ar gael;
+ystyr “Rheoliad yr UE” (“EU Regulation”) yw Rheoliad y Cyngor (EC) Rhif 1099/2009 dyddiedig 24 Medi 2009 ar ddiogelu anifeiliaid adeg eu lladd(2);
+ystyr “system TCC” (“a CCTV system”) yw system teledu cylch cyfyng a system ar gyfer prosesu delweddau neu wybodaeth a geir gan system o’r fath.
+(1)
+O.S. 2014/951 (Cy. 92), fel y’i diwygiwyd gan O.S. 2019/684 (Cy. 131).
+(2)
+OJ Rhif L 303, 18.11.2009, t. 1.Dyletswydd i osod a gweithredu system TCC
+3.—(1) Rhaid i weithredwr busnes lladd-dy sicrhau bod system TCC yn cael ei gosod sy’n darparu delwedd gyflawn a chlir o ladd a gweithrediadau cysylltiedig ym mhob ardal o’r lladd-dy lle mae anifeiliaid byw yn bresennol.
+(2) Rhaid i’r gweithredwr busnes sicrhau bod y system TCC y cyfeirir ati ym mharagraff (1)—
+(a)
+yn gallu cynhyrchu delweddau a gwybodaeth i’w harolygu ac i ymafael ynddynt heb amharu ar weithrediad y system, a
+(b)
+yn gallu prosesu delweddau a gwybodaeth o’r un ansawdd â’r delweddau gwreiddiol a’r wybodaeth wreiddiol.
+(3) Rhaid i’r gweithredwr busnes sicrhau bod y system TCC y cyfeirir ati ym mharagraff (1) yn weithredol a’i bod yn cael ei chadw mewn cyflwr gweithiol da bob amser pan fo anifeiliaid byw yn bresennol yn y lladd-dy.
+(4) Yn y rheoliad hwn mae i “gweithrediadau cysylltiedig” yr ystyr a roddir i “related operations” yn Erthygl 2(1)(b) o Reoliad yr UE.Dyletswydd i gadw delweddau a gwybodaeth TCC
+4.—(1) Rhaid i’r gweithredwr busnes wneud trefniadau i gadw a storio unrhyw ddelweddau a gwybodaeth a geir gan system TCC y cyfeirir ati yn rheoliad 3 am 90 o ddiwrnodau gan ddechrau â’r dyddiad y ceir y delweddau neu’r wybodaeth.
+(2) Rhaid i’r gweithredwr busnes sicrhau bod y trefniadau o dan baragraff (1) yn briodol i gynnal uniondeb ac ansawdd y delweddau a’r wybodaeth a gedwir.Pŵer i arolygu ac ymafael
+5.—(1) Caiff arolygydd sydd wedi cael mynediad i fangre i weithredu a gorfodi Rheoliadau Lles Anifeiliaid Adeg eu Lladd (Cymru) 2014 neu Reoliad yr UE neu Orchymyn Lles Anifeiliaid (Cludo) (Cymru) 2007(1), at y dibenion hynny, neu i weithredu a gorfodi’r Rheoliadau hyn—
+(a)
+arolygu system TCC y cyfeirir ati yn rheoliad 3 ar y mangreoedd hynny ac unrhyw ddelweddau neu wybodaeth a geir gan system TCC o’r fath,
+(b)
+ymafael yn unrhyw ddelweddau neu wybodaeth a geir gan system TCC o’r fath neu gymryd copi ohonynt,
+(c)
+ymafael yn unrhyw offer TCC, gan gynnwys cyfrifiaduron a chyfarpar cysylltiedig, a osodir fel rhan o system TCC o’r fath nad yw’n cydymffurfio â rheoliad 3(2)(a), at ddibenion copïo delweddau neu wybodaeth,
+(d)
+ei gwneud yn ofynnol i unrhyw berson ddarparu mynediad at system TCC y cyfeirir ati yn rheoliad 3 ar gais at ddibenion gweld delweddau a gwybodaeth a geir gan y system honno,
+(e)
+ei gwneud yn ofynnol i unrhyw berson ddangos unrhyw ddelweddau neu wybodaeth sy’n cael eu cadw a’u storio a sicrhau eu bod ar gael i’w harolygu fel sy’n ofynnol gan reoliad 4 ar gais,
+(f)
+gwneud unrhyw ymholiadau, a chymryd recordiadau neu ffotograffau,
+(g)
+ei gwneud yn ofynnol dangos unrhyw ddogfen neu gofnod yn ddi-oed ac arolygu dogfen neu gofnod o’r fath a chymryd copi neu ddarn ohonynt, a
+(h)
+ei gwneud yn ofynnol i unrhyw berson ddarparu unrhyw gymorth, gwybodaeth, cyfleusterau neu gyfarpar fel sy’n rhesymol, yn ddi-oed.
+(2) Rhaid i arolygydd—
+(a)
+cyn gynted ag y bo’n rhesymol ymarferol, ddarparu i’r person yr ymddengys ei fod yn gyfrifol am unrhyw eitemau y mae’r swyddog yn ymafael ynddynt o dan baragraff (1) dderbynneb ysgrifenedig yn nodi’r eitemau hynny, a
+(b)
+cyn gynted ag y bo’n rhesymol ymarferol ar ôl penderfynu nad yw’r eitemau hynny yn ofynnol mwyach, eu dychwelyd i’r person hwnnw, ar wahân i’r eitemau hynny sydd i’w defnyddio fel tystiolaeth mewn achos llys.
+(3) Pan fo arolygydd wedi ymafael mewn eitemau o dan baragraff (1) i’w defnyddio fel tystiolaeth mewn achos llys ac—
+(a)
+penderfynir yn ddiweddarach—
+(i)
+nad oes achos llys i gael ei ddwyn, neu
+(ii)
+nad oes angen yr eitemau hynny mwyach fel tystiolaeth mewn achos llys, neu
+(b)
+cwblheir yr achos llys heb i’r llys wneud unrhyw orchymyn mewn perthynas â’r eitemau hynny,
+rhaid i arolygydd ddychwelyd yr eitemau i’r person sy’n ymddangos yn gyfrifol amdanynt cyn gynted ag y bo’n rhesymol ymarferol.
+(1)
+O.S. 2007/1047 (Cy. 105).Hysbysiadau gorfodi
+6.—(1) Hysbysiad gorfodi yw hysbysiad ysgrifenedig sy’n—
+(a)
+ei gwneud yn ofynnol bod person yn cymryd camau penodedig i unioni toriad o’r Rheoliadau hyn,
+(b)
+ei gwneud yn ofynnol i berson leihau cyfradd gweithredu lladd-dy i’r fath raddau a bennir yn yr hysbysiad hyd nes bod y person hwnnw wedi cymryd camau penodedig i unioni achos o dorri’r Rheoliadau hyn, neu
+(c)
+gwahardd person rhag cyflawni unrhyw weithgaredd, proses neu weithrediad, neu ddefnyddio cyfleusterau neu gyfarpar, fel y’i pennir yn yr hysbysiad hyd nes y bydd y person wedi cymryd camau penodedig i unioni achos o dorri’r Rheoliadau hyn.
+(2) Caiff arolygydd sydd o’r farn bod person wedi torri neu yn torri’r Rheoliadau hyn gyflwyno hysbysiad gorfodi i’r person hwnnw.
+(3) Rhaid i hysbysiad gorfodi—
+(a)
+datgan bod yr arolygydd o’r farn bod person wedi torri neu yn torri’r Rheoliadau hyn,
+(b)
+datgan dyddiad ac amser cyflwyno’r hysbysiad,
+(c)
+nodi derbynnydd yr hysbysiad,
+(d)
+pennu’r materion sy’n ffurfio’r toriad,
+(e)
+pennu’r camau y mae rhaid eu cymryd i unioni’r toriad,
+(f)
+pennu’r cyfnod y mae rhaid i’r camau hynny gael eu cymryd ynddo, a
+(g)
+rhoi manylion yr hawl i apelio yn erbyn yr hysbysiad.
+(4) Rhaid i berson y cyflwynir hysbysiad gorfodi iddo gydymffurfio ag ef ar ei draul ei hun.
+(5) Os na chydymffurfir â hysbysiad gorfodi, caiff arolygydd drefnu cydymffurfedd ag ef ar draul y person y cafodd ei gyflwyno iddo.
+(6) Rhaid i arolygydd gyflwyno hysbysiad cwblhau i berson os yw arolygydd, ar ôl cyflwyno hysbysiad gorfodi i’r person hwnnw, yn fodlon bod y person hwnnw wedi cymryd y camau a bennir yn yr hysbysiad i unioni’r toriad.
+(7) Os na fydd arolygydd wedi ei fodloni, fel y darperir ar ei gyfer ym mharagraff (6), erbyn diwedd y cyfnod a bennir o dan baragraff (3)(f), neu unrhyw gyfnod arall a gaiff ei bennu mewn unrhyw amrywiad i’r hysbysiad gorfodi o dan baragraff (9), ni chaiff yr arolygydd gyflwyno hysbysiad cwblhau, a rhaid i’r arolygydd gyflwyno hysbysiad ysgrifenedig, y mae rhaid iddo—
+(a)
+rhoi rhesymau dros y penderfyniad i beidio â chyflwyno hysbysiad cwblhau, a
+(b)
+rhoi manylion yr hawl i apelio yn erbyn y penderfyniad.
+(8) Mae hysbysiad gorfodi yn peidio â chael effaith pan ddyroddir hysbysiad cwblhau.
+(9) Caiff arolygydd dynnu’n ôl neu amrywio hysbysiad gorfodi yn ysgrifenedig ar unrhyw adeg.Apelau yn erbyn hysbysiadau gorfodi
+7.—(1) Caiff person a dramgwyddir gan—
+(a)
+penderfyniad arolygydd i gyflwyno hysbysiad gorfodi, neu
+(b)
+penderfyniad arolygydd i beidio â dyroddi hysbysiad cwblhau,
+apelio yn ei erbyn.
+(2) Mae’r hawl i apelio i’r Tribiwnlys Haen Gyntaf.
+(3) Nid yw hysbysiad gorfodi wedi ei atal dros dro wrth aros am apêl oni bai bod y Tribiwnlys Haen Gyntaf yn gorchymyn fel arall.
+(4) Ar apêl caiff y Tribiwnlys Haen Gyntaf naill ai ganslo neu gadarnhau’r hysbysiad gorfodi, gan ei addasu neu heb ei addasu, neu wneud y gorchymyn hwnnw sy’n briodol yn ei farn ef o ran penderfyniad i beidio â chyflwyno neu ddyroddi hysbysiad cwblhau.Hysbysiadau
+8.—(1) Caniateir i unrhyw hysbysiad y mae’n ofynnol ei gyflwyno neu yr awdurdodir ei gyflwyno o dan y Rheoliadau hyn i unrhyw berson gael ei gyflwyno drwy—
+(a)
+ei draddodi i’r person,
+(b)
+ei adael yng nghyfeiriad priodol y person, neu
+(c)
+ei anfon drwy’r post at y person yn y cyfeiriad hwnnw.
+(2) Caniateir cyflwyno unrhyw hysbysiad o’r fath—
+(a)
+yn achos corff corfforedig, i un o swyddogion y corff, neu
+(b)
+yn achos partneriaeth atebolrwydd cyfyngedig, i bartner neu berson a chanddo reolaeth o fusnes y bartneriaeth, neu sy’n ei reoli.
+(3) At ddibenion y rheoliad hwn ac adran 13 o Ddeddf Deddfwriaeth (Cymru) 2019(1) (cyflwyno dogfennau drwy’r post neu’n electronig) yn ei gymhwysiad i’r rheoliad hwn, cyfeiriad priodol unrhyw berson y mae hysbysiad i’w gyflwyno iddo yw—
+(a)
+yn achos corff corfforedig, gyfeiriad swyddfa gofrestredig neu brif swyddfa’r corff,
+(b)
+yn achos partneriaeth atebolrwydd cyfyngedig, gyfeiriad swyddfa gofrestredig neu brif swyddfa’r bartneriaeth,
+(c)
+yn achos person y cyflwynir yr hysbysiad iddo gan ddibynnu ar baragraff (2), gyfeiriad swyddfa gofrestredig neu brif swyddfa’r corff corfforedig neu’r bartneriaeth o dan sylw, a
+(d)
+mewn unrhyw achos arall, gyfeiriad hysbys diwethaf y person o dan sylw.
+(4) Os yw person y mae hysbysiad i’w gyflwyno iddo o dan y Rheoliadau hyn wedi pennu cyfeiriad ar gyfer cyflwyno hysbysiad o’r fath, mae’r cyfeiriad hwnnw i’w drin, at ddibenion y rheoliad hwn ac adran 13 o Ddeddf Deddfwriaeth (Cymru) 2019 yn ei gymhwysiad i’r rheoliad hwn, fel cyfeiriad priodol y person hwnnw.
+(5) Os na ellir dod o hyd i enw a chyfeiriad unrhyw feddiannydd mangre y mae hysbysiad i’w gyflwyno iddo o dan y Rheoliadau hyn, ar ôl gwneud ymholiadau rhesymol, caniateir cyflwyno’r hysbysiad drwy ei adael wedi ei roi yn sownd yn y fangre neu wrthrych ar y fangre mewn man amlwg.
+(6) Yn y rheoliad hwn, nid yw “corff corfforedig” yn cynnwys partneriaeth atebolrwydd cyfyngedig.
+(1)
+2019 dccc 4.Troseddau: cyffredinol
+9.—(1) Mae’n drosedd torri, neu achosi neu ganiatáu i berson dorri—
+(a)
+rheoliad 3 (Dyletswydd i osod a gweithredu system TCC), neu
+(b)
+rheoliad 4 (Dyletswydd i gadw delweddau a gwybodaeth TCC).
+(2) Mae’n drosedd i berson fethu â chydymffurfio â hysbysiad gorfodi a ddyroddir o dan reoliad 6.Troseddau rhwystro
+10.  Mae’n drosedd—
+(a)
+rhwystro’n fwriadol unrhyw berson sy’n gweithredu i roi’r Rheoliadau hyn ar waith,
+(b)
+heb achos rhesymol, fethu â rhoi i unrhyw berson o’r fath yn ddi-oed—
+(i)
+unrhyw gymorth neu wybodaeth sy’n rhesymol ofynnol gan y person, neu
+(ii)
+mynediad at system TCC y cyfeirir ati yn rheoliad 3 ar gais at ddibenion gweld delweddau a gwybodaeth a geir gan y system honno,
+(c)
+darparu i unrhyw berson o’r fath unrhyw wybodaeth gan wybod ei bod yn anwir neu’n gamarweiniol, neu
+(d)
+methu â dangos dogfen neu gofnod, neu unrhyw ddelweddau neu wybodaeth sy’n cael eu cadw a’u storio fel sy’n ofynnol gan reoliad 4, yn ddi-oed i unrhyw berson o’r fath pan fo’n ofynnol gwneud hynny.Troseddau gan gyrff corfforedig
+11.—(1) Pan fo corff corfforedig yn euog o drosedd o dan y Rheoliadau hyn, a phrofir bod y drosedd honno wedi ei chyflawni gyda chydsyniad neu ymoddefiad, neu wedi ei phriodoli i unrhyw esgeulustod ar ran—
+(a)
+cyfarwyddwr, rheolwr, ysgrifennydd neu swyddog tebyg arall i’r corff corfforedig, neu
+(b)
+person a oedd yn honni ei fod yn gweithredu yn rhinwedd unrhyw swyddogaeth o’r fath,
+bydd y person hwnnw, yn ogystal â’r corff corfforedig, yn euog o’r drosedd.
+(2) Ym mharagraff (1) mae “cyfarwyddwr”, mewn perthynas â chorff corfforedig y mae ei faterion yn cael eu rheoli gan ei aelodau, yn cynnwys aelod o’r corff corfforedig.Cosbau
+12.  Mae person sy’n euog o drosedd o dan reoliadau 9 neu 10 yn agored, ar euogfarn ddiannod, i ddirwy nad yw’n uwch na lefel 5 ar y raddfa safonol.Pŵer awdurdod lleol i erlyn
+13.—(1) Caiff awdurdod lleol erlyn unrhyw drosedd o dan y Rheoliadau hyn.
+(2) Yn y rheoliad hwn ystyr “awdurdod lleol” yw cyngor sir neu gyngor bwrdeistref sirol yng Nghymru.Terfyn amser ar gyfer erlyniadau
+14.—(1) Er gwaethaf adran 127(1) o Ddeddf Llysoedd Ynadon 1980(1), caiff llys ynadon roi ar brawf wybodaeth sy’n ymwneud â throsedd o dan y Rheoliadau hyn os yw’r wybodaeth yn cael ei gosod—
+(a)
+cyn diwedd y cyfnod o dair blynedd sy’n dechrau â’r dyddiad y cyflawnir y drosedd, a
+(b)
+cyn diwedd y cyfnod o chwe mis sy’n dechrau â’r dyddiad y bydd tystiolaeth sy’n ddigonol ym marn yr erlynydd i gyfiawnhau’r achos cyfreithiol yn dod yn hysbys i’r erlynydd.
+(2) At ddibenion paragraff (1)(b)—
+(a)
+mae tystysgrif a lofnodwyd gan yr erlynydd neu ar ei ran ac sy’n datgan y dyddiad y daeth tystiolaeth o’r fath yn hysbys i’r erlynydd yn dystiolaeth derfynol o’r ffaith honno, a
+(b)
+trinnir bod tystysgrif sy’n datgan y mater hwnnw ac sy’n honni ei bod wedi ei llofnodi felly yn dystysgrif a lofnodwyd felly oni phrofir i’r gwrthwyneb.
+(1)
+1980 p. 43.Huw Irranca-Davies
+Ysgrifennydd y Cabinet dros Newid Hinsawdd a Materion Gwledig, un o Weinidogion Cymru
+22 Mai 2024NODYN ESBONIADOL
+(Nid yw’r nodyn hwn yn rhan o’r Rheoliadau)
+Mae’r Rheoliadau hyn yn gwneud darpariaeth sy’n ategu Gorchymyn Lles Anifeiliaid (Cludo) (Cymru) 2007 (“Gorchymyn 2007”), Rheoliad yr UE 1099/2009 ar ddiogelu anifeiliaid adeg eu lladd (“Rheoliad yr UE”) a Rheoliadau Lles Anifeiliaid Adeg eu Lladd (Cymru) 2014 (“Rheoliadau 2014”).
+Mae’r Rheoliadau hyn yn cyflwyno gofynion ar weithredwyr lladd-dai (“gweithredwyr busnes”) yng Nghymru i osod a gweithredu system teledu cylch cyfyng (“TCC”) ym mhob ardal lle mae anifeiliaid byw yn bresennol (rheoliad 3). Mae rheoliad 4 yn ei gwneud yn ofynnol i weithredwyr busnes gadw lluniau TCC a data cysylltiedig am gyfnod o 90 o ddiwrnodau. Rhoddir pwerau i arolygwyr i’w gwneud yn ofynnol cydymffurfio â’r Rheoliadau hyn. Mae hyn yn cynnwys pwerau arolygu ac ymafael pan fo arolygydd wedi cael mynediad i fangre i weithredu a gorfodi Rheoliadau 2014, Rheoliad yr UE neu Orchymyn 2007 (rheoliad 5) a phwerau i ddyroddi hysbysiadau gorfodi (rheoliad 6). Mae rheoliad 7 yn gwneud darpariaeth ar gyfer apelau sy’n ymwneud â hysbysiadau o dan reoliad 6, ac mae rheoliad 8 yn gwneud darpariaeth bellach mewn perthynas â hysbysiadau. Mae rheoliadau 9 a 10 yn darparu bod torri rheoliadau 3 a 4, methu â chydymffurfio â hysbysiad gorfodi a rhwystro arolygwyr yn droseddau. Mae rheoliadau 11 i 14 yn gwneud darpariaeth bellach mewn perthynas â throseddau ac erlyniadau.
+Ystyriwyd Cod Ymarfer Gweinidogion Cymru ar gynnal Asesiadau Effaith Rheoleiddiol mewn perthynas â’r Rheoliadau hyn. O ganlyniad, lluniwyd asesiad effaith rheoleiddiol oʼr costau aʼr manteision syʼn debygol o ddeillio o gydymffurfio âʼr Rheoliadau hyn. Gellir cael copi oddi wrth: Llywodraeth Cymru, Parc Cathays, Caerdydd, CF10 3NQ ac mae wedi ei gyhoeddi ar www.llyw.cymru.

@@ -1,0 +1,27 @@
+STATUTORY INSTRUMENTS
+2023 No. 1258
+FINANCIAL SERVICES
+The Short Selling (Notification Threshold) Regulations 2023
+Made
+23rd November 2023
+Laid before Parliament
+27th November 2023
+Coming into force
+5th February 2024
+The Treasury, in exercise of the power conferred by Article 5(4) of Regulation (EU) No 236/2012 of the European Parliament and of the Council of 14 March 2012 on short selling and certain aspects of credit default swaps(1), make the following Regulations.
+(1)
+EUR 2012/236, amended by S.I. 2018/1321.Citation, commencement and extent
+1.—(1) These Regulations may be cited as the Short Selling (Notification Threshold) Regulations 2023.
+(2) These Regulations come into force on 5th February 2024.
+(3) These Regulations extend to England and Wales, Scotland and Northern Ireland.Amendment of Article 5(2) of Regulation (EU) No 236/2012
+2.  In Article 5(2) of Regulation (EU) No 236/2012 of the European Parliament and of the Council of14 March 2012 on short selling and certain aspects of credit default swaps(1) for “0,1%”, in the first place it occurs, substitute “0,2%”.
+(1)
+Article 5(2) was amended by S.I. 2021/5.Scott Mann
+Amanda Solloway
+Two of the Lords Commissioners of His Majesty’s Treasury
+23rd November 2023EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend Article 5(2) of Regulation (EU) No 236/2012 of the European Parliament and of the Council of 14 March 2012 on short selling and certain aspects of credit default swaps, in exercise of the power in Article 5(4) of that Regulation.
+Article 5 of that Regulation concerns the notification of net short positions in shares to the Financial Conduct Authority.
+These Regulations raise the initial threshold for such reports from 0.1% of the issued share capital of a company to 0.2%.
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen. A de minimis impact assessment is available from HM Treasury, 1 Horse Guards Road, London SW1A 2HQ and is published with the Explanatory Memorandum alongside this instrument on www.legislation.gov.uk.

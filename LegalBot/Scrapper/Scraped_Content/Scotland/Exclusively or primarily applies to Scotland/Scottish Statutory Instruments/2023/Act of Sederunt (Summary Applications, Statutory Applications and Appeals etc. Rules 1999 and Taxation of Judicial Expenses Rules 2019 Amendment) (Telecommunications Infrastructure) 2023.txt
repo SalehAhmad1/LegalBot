@@ -1,0 +1,122 @@
+SCOTTISH STATUTORY INSTRUMENTS
+2023 No. 223
+SHERIFF COURT
+Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules 1999 and Taxation of Judicial Expenses Rules 2019 Amendment) (Telecommunications Infrastructure) 2023
+Made
+9th August 2023
+Laid before the Scottish Parliament
+11th August 2023
+Coming into force
+2nd October 2023
+In accordance with section 4 of the Scottish Civil Justice Council and Criminal Legal Assistance Act 2013(1), the Court of Session has approved draft rules submitted to it by the Scottish Civil Justice Council with such modifications as it thinks appropriate.
+The Court of Session therefore makes this Act of Sederunt under the powers conferred by sections 104(1) and 106(1) of the Courts Reform (Scotland) Act 2014(2) and all other powers enabling it to do so.
+(1)
+2013 asp 3. Section 4 was amended by the Courts Reform (Scotland) Act 2014 (asp 18), schedule 5, paragraph 31(3) and by the Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2), schedule 1, paragraph 1(4).
+(2)
+2014 asp 18.Citation and commencement, etc.
+1.—(1) This Act of Sederunt may be cited as the Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules 1999 and Taxation of Judicial Expenses Rules 2019 Amendment) (Telecommunications Infrastructure) 2023.
+(2) It comes into force on 2nd October 2023.
+(3) A certified copy is to be inserted into the Books of Sederunt.Amendment of the Summary Application Rules 1999
+2.—(1) The Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) 1999(1) is amended in accordance with this paragraph.
+(2) In rule 2.7(4) (warrants, forms and certificate of citation)(2), after “1973)” where it twice occurs insert “and rule 3.50.4 (applications for orders under paragraphs 27ZF(2) or 27E(2) of schedule 3A of the Communications Act 2003)”.
+(3) In Part L (transfers from the Lands Tribunal for Scotland to the Sheriff under the Electronic Communications Code)(3)—
+(a)
+for the heading substitute “ELECTRONIC COMMUNICATIONS CODE”;
+(b)
+for rule 3.50.1 (interpretation) substitute—
+“Interpretation
+3.50.1.  In this Part—
+“the 2003 Act” means the Communications Act 2003(4);
+“the Code” means the Electronic Communications Code set out in schedule 3A of the Communications Act 2003(5);
+“Electronic Communications Code order” means a Part 4ZA order or Part 4A order;
+“the Jurisdiction Regulations” means the Electronic Communications Code (Jurisdiction) Regulations 2017(6);
+“Part 4A order” means an order under paragraph 27E(2) (code rights in respect of land connected to leased premises: unresponsive occupiers) of the Code;
+“Part 4ZA order” means an order under paragraph 27ZF(2) (code rights in respect of land: unresponsive occupiers) of the Code.”;
+(c)
+after rule 3.50.2 (transfer from Lands Tribunal for Scotland) insert—
+“Electronic Communications Code orders
+3.50.3.  Rules 3.50.4 to 3.50.7 apply to an application for an Electronic Communications Code order.
+Form of application
+3.50.4.—(1) An application is to be made by summary application.
+(2) The application is to include averments narrating how the conditions specified in—
+(a)
+paragraph 27ZE(1) (requirements to be met before applying for an order under this Part), in respect of an application for a Part 4ZA order; or
+(b)
+in paragraph 27D(1) (requirements to be met before applying for an order under this Part), in respect of an application for a Part 4A order,
+of the Code have been met.
+(3) When lodging an application for a Part 4A order, the pursuer is to lodge a copy of the notices required by paragraph 27C (requirements to be met before applying for an order under this Part) of the Code.
+Warrants, forms and certificate of citation
+3.50.5.—(1) A warrant of citation is to be in Form 2C (form of warrant of citation for a Part 4ZA order or Part 4A order under schedule 3A of the Communications Act 2003).
+(2) Citation in respect of a warrant granted under paragraph (1) is to be in Form 3C (form of citation for summary application for a Part 4ZA order or Part 4A order under schedule 3A of the Communications Act 2003).
+(3) When serving a copy of the initial writ and warrant of citation, the applicant is to append thereto Form 5B (form of defender’s opposition to application for a Part 4ZA order or Part 4A order under schedule 3A of the Communications Act 2003).
+Opposition to application
+3.50.6.—(1) Where a defender opposes an application, a notice of opposition must be lodged in Form 5B within the period of notice.
+(2) The defender must intimate a copy of the notice of opposition to the pursuer.
+(3) When a notice of opposition is lodged with the court, the sheriff must dismiss the application.
+Procedure where no notice of opposition is lodged
+3.50.7.  Where no notice of opposition has been lodged with the court within the period of notice—
+(a)
+the pursuer may return the application, together with a completed certificate of service, to the sheriff clerk requesting that the sheriff make an order granting the application in absence; and
+(b)
+the sheriff may, thereafter—
+(i)
+determine the application without a hearing; and
+(ii)
+grant decree in absence.”.
+(4) In schedule 1 (forms)(7)—
+(a)
+after Form 2B (form of form of warrant of citation under Chapters 3 and 4 of Part 2 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016)(8) insert Form 2C (form of warrant of citation for a Part 4ZA order or Part 4A order under schedule 3A of the Communications Act 2003);
+(b)
+after Form 3B (form of citation for summary application under Chapters 3 and 4 of Part 2 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016) insert Form 3C (form of citation for summary application for a Part 4ZA order or Part 4A order under schedule 3A of the Communications Act 2003);
+(c)
+after Form 5A (form of pursuer’s response objecting to application for time to pay direction or time order)(9) insert Form 5B (form of defender’s opposition to application for a Part 4ZA order or Part 4A order under schedule 3A of the Communications Act 2003),
+as set out in schedule 1 of this Act of Sederunt.
+(1)
+S.I. 1999/929, last amended by S.S.I. 2023/196.
+(2)
+Rule 2.7(4) was last amended by S.S.I. 2013/135.
+(3)
+Part L was inserted by S.S.I. 2017/459.
+(4)
+2003 c. 21.
+(5)
+Schedule 3A was inserted by the Digital Economy Act 2017 (c. 30) and last amended by the Product Security and Telecommunications Infrastructure Act 2022 (c. 46).
+(6)
+S.I. 2017/1284, as amended by Telecommunications Infrastructure (Leasehold Property) Act 2021 (c. 7).
+(7)
+Schedule 1 was last amended by S.S.I. 2023/62.
+(8)
+Forms 2B and 3B were inserted by S.S.I. 2023/62.
+(9)
+Form 5A was inserted by S.S.I. 2009/294.Amendment of Act of Sederunt (Taxation of Judicial Expenses Rules) 2019
+3.—(1) The Act of Sederunt (Taxation of Judicial Expenses Rules) 2019(1) is amended in accordance with this paragraph.
+(2) In rule 1.3 (interpretation) after the definition of “solicitor advocate” insert—
+““summary application” has the meaning given by section 3(p) of the Sheriff Courts (Scotland) Act 1907(2);”.
+(3) In rule 3.1 (application)—
+(a)
+in paragraph (1) for “5” substitute “5A”;
+(b)
+in paragraph (2) for “and 5” substitute “, 5 and 5A”.
+(4) After rule 3.3(4) (table of charges) insert—
+“(4A) The charges to be allowed in respect of a summary application under Part L (Electronic Communications Code) of the Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) 1999(3) are those specified in the applicable table of inclusive charges in schedule 5A.”.
+(5) After schedule 5 (tables of inclusive charges for simple procedure cases)(4) insert schedule 5A as set out in schedule 2 of this Act of Sederunt.
+(1)
+S.S.I. 2019/75, last amended by S.S.I. 2023/165.
+(2)
+1907 c. 51. Section 3(p) was substituted by the Sheriff Courts (Scotland) Act 1971 (c. 58), section 4.
+(3)
+S.I. 1999/929, last amended by S.S.I. 2023/196. Part L was inserted by S.S.I. 2017/459.
+(4)
+Schedule 5 was inserted by S.S.I. 2019/75.CJM SUTHERLAND
+Lord President
+I.P.D.
+Edinburgh
+9th August 2023Paragraph 2(4)
+SCHEDULE 1Paragraph 3(5)
+SCHEDULE 2EXPLANATORY NOTE
+(This note is not part of the Act of Sederunt)
+This Act of Sederunt amends the Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) 1999 (“the Summary Application Rules”) in consequence of the Telecommunications Infrastructure (Leasehold Property) Act 2021 (c. 7) and the Product Security and Telecommunications Infrastructure Act 2022 (c. 46).
+Paragraph 2(2) amends rule 2.7(4) of the Summary Application Rules to insert reference to new rule 3.50.4 which makes provision for the form of warrant and citation.
+Paragraph 2(3) makes amendments to Part L of Chapter 3 of the Summary Application Rules to set out the procedures which apply when an operator seeks an order under the Electronic Communications Code (set out in Schedule 3A of the Communications Act 2003). New rule 3.50.4 sets out the form of application. New rule 3.50.6 sets out the procedure for opposing the application. If a notice of opposition is received by the court the application will be dismissed. New rule 3.50.7 provides that the sheriff may determine an application without a hearing.
+Paragraph 2(4) inserts new Forms 2C, 3C, and 5B into the Summary Application Rules.
+Paragraph 3 amends the Act of Sederunt (Taxation of Judicial Expenses Rules) 2019 to insert a table of inclusive charges for summary applications raised under paragraphs 27ZF(2) or 27E(2) of schedule 3A of the Communications Act 2003.

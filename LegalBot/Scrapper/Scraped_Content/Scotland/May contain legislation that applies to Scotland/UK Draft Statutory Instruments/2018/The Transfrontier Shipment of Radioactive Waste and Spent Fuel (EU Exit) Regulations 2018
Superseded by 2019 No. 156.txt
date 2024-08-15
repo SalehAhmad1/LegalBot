@@ -1,0 +1,266 @@
+Draft Regulations laid before Parliament under paragraph 1(1) of Schedule 7 to the European Union (Withdrawal) Act 2018, for approval by resolution of each House of Parliament.
+DRAFT STATUTORY INSTRUMENTS
+2018 No. 0000
+EXITING THE EUROPEAN UNION
+ATOMIC ENERGY AND RADIOACTIVE SUBSTANCES
+The Transfrontier Shipment of Radioactive Waste and Spent Fuel (EU Exit) Regulations 2018
+Made
+***
+Coming into force in accordance with regulation 1
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 8(1) and paragraph 21(b) of Schedule 7 to the European Union (Withdrawal) Act 2018(1).
+In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
+(1)
+2018 c. 16.Citation and commencement
+1.  These Regulations may be cited as the Transfrontier Shipment of Radioactive Waste and Spent Fuel (EU Exit) Regulations 2018 and come into force on exit day.Interpretation
+2.  In these Regulations—
+“Chief Inspector” means the Chief Inspector for Northern Ireland appointed under section 4(7) of the Radioactive Substances Act 1993(1);
+“competent authority” (except when referring to the competent authority of another country) means—
+(a)
+in England, the Environment Agency;
+(b)
+in Scotland, the Scottish Environment Protection Agency;
+(c)
+in Wales, the Natural Resources Body for Wales;
+(d)
+in Northern Ireland, the Chief Inspector;
+“holder” means any person who, before carrying out a shipment of radioactive waste or spent fuel, is responsible under the applicable national law for such materials and plans to carry out a shipment to a consignee;
+“radioactive waste” means radioactive material in gaseous, liquid or solid form for which no further use is foreseen by the countries of origin and destination, or by a person whose decision is accepted by those countries, and which is controlled as radioactive waste by a regulatory body under the legislative and regulatory framework of each of those countries;
+“reprocessing” means a process or operation, the purpose of which is to extract radioactive isotopes from spent fuel for further use;
+“shipment” means the whole of operations involved in moving radioactive waste or spent fuel from a country of origin to a country of destination and “ship” must be construed in accordance with this definition;
+“spent fuel” means nuclear fuel that has been irradiated in and permanently removed from a reactor core; spent fuel may either be considered as a usable resource that can be reprocessed or be destined for final disposal with no further use foreseen and treated as radioactive waste; and
+“third country” means a country that is not a Member State of the European Union.
+(1)
+1993 c. 12.Application
+3.—(1) These Regulations apply to transfrontier shipments of radioactive waste or spent fuel if both the quantity and the concentration of a consignment exceed the levels laid down in Table B of Annex VII of Council Directive 2013/59/Euratom(1)(the “Basic Safety Standards Directive 2013”).
+(2) They do not apply to—
+(a)
+a shipment of disused sources to a supplier or manufacturer of radioactive sources or to a recognised installation;
+(b)
+a shipment of radioactive materials recovered for further use through reprocessing; or
+(c)
+a shipment of waste that contains only naturally occurring radioactive material that does not arise from practices.
+(3) In this regulation—
+“disused source” means a sealed source which is no longer used or intended to be used for the practice for which authorisation was granted;
+“practice” means a human activity that can increase the exposure of individuals to radiation from an artificial source, or from a natural radiation source where natural radionuclides are processed for their radioactive, fissile or fertile properties, except in the case of an emergency exposure;
+“recognised installation” means a facility located in the territory of a country which is either:
+(a)
+authorised by the competent authorities of that country in accordance with its national law for the long-term storage or disposal of sealed sources; or
+(b)
+an installation duly authorised under its national law for the interim storage of sealed sources; and
+“sealed source” has the meaning given to it in Article 4(90) of the Basic Safety Standards Directive 2013.
+(1)
+OJ No. L 13, 17.01.2014, p.1.Transfrontier shipment of radioactive waste or spent fuel
+4.—(1) It is an offence to ship radioactive waste or spent fuel—
+(a)
+from the United Kingdom to any other country; or
+(b)
+from any other country into the United Kingdom,
+except in accordance with an authorisation granted by the competent authority under these Regulations.
+(2) An offence will not be committed under this regulation if a shipment is made in accordance with an extant authorisation granted by the competent authority before exit day.
+(3) An offence will not be committed under this regulation if a shipment is made into the United Kingdom from a Member State provided that the shipment is made in accordance with an extant authorisation granted by the Member State of origin before exit day and the consent of the competent authority has been obtained.
+(4) An offence will not be committed under this regulation if a shipment is made into the United Kingdom from a third country by way of transit to a Member State provided that the shipment is made in accordance with an extant authorisation granted by the Member State of destination before exit day and the consent of the competent authority has been obtained.
+(5) An offence will not be committed under this regulation if a shipment is made into the United Kingdom from a third country by way of transit to another third country provided that the shipment is made in accordance with an extant authorisation granted by the Member State in which the radioactive waste or spent fuel first entered the European Union and the consent of the competent authority has been obtained.Authorisations
+5.—(1) An authorisation granted under these Regulations may be granted in respect of more than one shipment, provided that—
+(a)
+the radioactive waste or spent fuel to which it relates essentially has the same physical, chemical and radioactive characteristics; and
+(b)
+the shipments are to be made from the same holder to the same consignee and involve the same competent authorities.
+(2) An authorisation cannot be valid for a period of more than three years from the date on which it is granted.Prohibited exports
+6.  A competent authority must not authorise shipments—
+(a)
+to a destination south of latitude 60° south;
+(b)
+to an African, Caribbean or Pacific state that is party to the Partnership Agreement between the members of the African, Caribbean and Pacific Group of States and the European Community and its Member States, (Cotonou ACP-EC Agreement)(1), unless the shipment is a return of radioactive waste to its country of origin following treatment or reprocessing in the United Kingdom; or
+(c)
+to any other country that does not have the administrative and technical capacity and regulatory structure to manage the radioactive waste or spent fuel safety, as stated in the Joint Convention on the Safety of Spent Fuel Management and on the Safety of Radioactive Waste Management(2).
+(1)
+Signed on 23 June 2000 and available at http://www.acpsec.org./en/conventions/cotonou/accord1.htm.
+(2)
+Available at http://www.iaea.org/Publications/Documents/Infcircs/1997/infcirc546.pdf.Notification of arrival in the United Kingdom
+7.—(1) Any person holding an authorisation granted under these Regulations who receives a shipment of radioactive waste or spent fuel from outside the United Kingdom must notify the competent authority within fifteen days of its receipt.
+(2) Failure to comply with this regulation is an offence.Notification of arrival in the country of destination
+8.—(1) Any person holding an authorisation granted under these Regulations who has shipped radioactive waste or spent fuel from the United Kingdom to another country must notify the competent authority that the shipment has reached its destination within 15 days of its arrival.
+(2) The person holding the authorisation must take all reasonable steps to obtain and include in the notification a declaration or certification by the consignee stating that the radioactive waste or spent fuel has reached its proper destination and indicating the customs post of entry into the country of destination.
+(3) Failure to comply with this regulation is an offence.Documentation
+9.—(1) Any person shipping radioactive waste or spent fuel pursuant to an authorisation granted under these Regulations must ensure that it is accompanied at all times by a form certifying that the authorisation procedure under these Regulations has been complied with and failure to comply with this requirement is an offence.
+(2) The form referred to in this regulation must be whatever standard form that may be prescribed for this purpose by the Secretary of State and issued when the authorisation is granted.Procedure
+10.—(1) All applications for an authorisation must be made using whatever standard form that may be prescribed for this purpose by the Secretary of State.
+(2) It is an offence to make a false or misleading statement in an application.
+(3) Schedule 1 (procedures) has effect.Issue of authorisations for shipments of radioactive waste
+11.—(1) A competent authority must not authorise a shipment of radioactive waste unless this regulation is complied with.
+(2) An applicant must make a written assessment of all practicable options for management of the radioactive waste.
+(3) In the case of low-level waste, the proposed shipment must be for—
+(a)
+the recovery of re-usable materials;
+(b)
+treatment to make its subsequent storage and disposal more manageable;
+(c)
+sending samples for investigative analysis; or
+(d)
+the return to the country of origin of radioactive waste resulting from the processing of radioactive waste or spent fuel in another country (or an equivalent amount of other radioactive waste by way of substitute).
+(4) In the case of intermediate-level or high-level waste, the proposed shipment must be for—
+(a)
+the recovery of re-usable materials, where this is the genuine prime purpose;
+(b)
+treatment to make its subsequent storage and disposal more manageable, in cases—
+(i)
+where the processes are at a developmental stage; or
+(ii)
+which involve quantities that are too small for the process to be practicable in the country of origin;
+(c)
+sending samples for investigative analysis; or
+(d)
+the return to the country of origin of radioactive waste resulting from the processing of radioactive waste or spent fuel in another country (or an equivalent amount of other radioactive waste by way of substitute).
+(5) If the processes at paragraphs (3) and (4) would add materially to the radioactive waste needing to be disposed of in the country of destination, the applicant must demonstrate that the waste will be returned to the country of origin, to a timescale agreed by the competent authorities in the countries of origin and destination.
+(6) Notwithstanding paragraphs (3), (4) and (5), radioactive waste may be imported for treatment and disposal in the United Kingdom—
+(a)
+if it is in the form of spent or disused sealed sources that were manufactured in the United Kingdom; or
+(b)
+if it arises from small users, such as hospitals, situated in—
+(i)
+countries that produce such small quantities of radioactive waste that the provision of their own specialised installations would be impractical, or
+(ii)
+countries that cannot reasonably be expected to acquire suitable disposal facilities.
+(7) Notwithstanding paragraphs (2) to (6), radioactive waste arising from the reprocessing of spent fuel may be returned to its country of origin.
+(8) In this regulation—
+“low-level waste” means radioactive waste having a radioactive content not exceeding four gigabecquerels per tonne (GBq/te) of alpha activity or twelve GBq/te of beta or gamma activity;
+“intermediate level waste” means radioactive waste with radioactivity levels exceeding the upper boundaries for low-level waste, but which does not require the heat generated from the waste to be taken into account in the design of storage or disposal facilities; and
+“high level waste” means radioactive waste in which the temperature may rise significantly as a result of its radioactivity, so that this factor has to be taken into account in designing storage or disposal facilities.Appeals
+12.—(1) An applicant whose application for an authorisation is refused, or granted subject to conditions, may appeal in writing within two months of the decision, giving full reasons, to—
+(a)
+in England, the Secretary of State;
+(b)
+in Scotland, the Scottish Ministers;
+(c)
+in Wales, the Welsh Ministers;
+(d)
+in Northern Ireland, the Department of Agriculture, Environment and Rural Affairs.
+(2) The appellant body may confirm the original decision or direct the competent authority to grant an authorisation, with or without conditions, or to vary the conditions of an authorisation.Unlawful Shipments
+13.—(1) The competent authority may decide that a shipment may not be completed if it is not in accordance with these Regulations or in accordance with its authorisation granted under these Regulations.
+(2) If the competent authority so decides it must immediately inform the competent authorities in all countries involved in the shipment.
+(3) In the case of radioactive waste or spent fuel that has been brought into the United Kingdom, the person holding the authorisation granted under these Regulations must either return the consignment to the country of origin if instructed to do so by the competent authority, taking corrective safety measures if necessary, or otherwise dispose of it as instructed by the competent authority and failure to comply with an instruction of the competent authority is an offence.
+(4) In the case of radioactive waste or spent fuel that is being or has been shipped from the United Kingdom—
+(a)
+unless alternative safe arrangements can be made, the competent authority must serve a notice on the person holding the authorisation requiring the authorised person to take the shipment back, and
+(b)
+the person holding the authorisation must comply with the notice, taking corrective safety measures if necessary, and failure to do so is an offence.
+(5) The person holding the authorisation is liable for costs arising if a shipment is not completed.Notices
+14.—(1) Schedule 2 makes provision in relation to notices served by an authorised officer of the competent authority and references in that Schedule to an “authorised officer” are references to such a person.
+(2) Failure to comply with such a notice is an offence.Powers to give directions
+15.  The Secretary of State in England, Welsh Ministers in Wales, Scottish Ministers in Scotland and the Department of Agriculture, Environment and Rural Affairs in Northern Ireland may, in relation to any application for an authorisation, give to the competent authority directions as to whether the authorisation is to be granted, the conditions to which it must be subject, and the competent authority must comply with the direction if this is compatible with these Regulations.Penalties
+16.—(1) A person guilty of an offence under these Regulations is liable—
+(a)
+on summary conviction, to a fine not exceeding the statutory maximum or to imprisonment for a term not exceeding three months or both, or
+(b)
+on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years or both.
+(2) Where a body corporate is guilty of an offence under these Regulations, and that offence is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of—
+(a)
+any director, manager, secretary of other similar person of the body corporate; or
+(b)
+any person who was purporting to act in any such capacity,
+that person is guilty of the offence as well as the body corporate.
+(3) For the purposes of paragraph (2) above, “director”, in relation to a body corporate whose affairs are managed by its members, means a member of the body corporate.
+(4) Where an offence that has been committed by a Scottish partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, that partner as well as the partnership is guilty of the offence.Revocation
+17.—(1) The following are revoked–
+(a)
+the Transfrontier Shipment of Radioactive Waste and Spent Fuel Regulations 2008(1);
+(b)
+paragraphs 310 to 312 of Schedule 4 to the Natural Resources Body for Wales (Functions) Order 2013(2); and
+(c)
+paragraph 143 of Schedule 3 to the Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014(3).
+(2) The Commission Decision of 5 March 2008 establishing the standard document for the supervision and control of shipments of radioactive waste and spent fuel referred to in Council Directive 2006/117/Euratom(4) is revoked.
+(1)
+S.I. 2008/3087.
+(2)
+S.I. 2013/755.
+(3)
+S.I. 2014/469.
+(4)
+OJ No. L 107, 17.04.2008, p.1.Name
+Parliamentary Under Secretary of State
+Department of Business, Energy and Industrial Strategy
+DateRegulation 10
+SCHEDULE 1
+Procedures
+Applications
+1.—(1) When a competent authority receives an application to import radioactive waste or spent fuel into the United Kingdom, it must act in accordance with paragraph 2 of this Schedule.
+(2) When a competent authority receives an application for the transit of radioactive waste or spent fuel through the United Kingdom, it must act in accordance with paragraph 3 of this Schedule.
+(3) When a competent authority receives an application to export radioactive waste or spent fuel out of the United Kingdom, it must act in accordance with paragraph 4 of this Schedule.
+(4) In the case of an application for an authorisation that relates to a shipment to or from a site licensed under the Nuclear Installations Act 1965(1) the competent authority must not grant authorisation unless it has first consulted the Office for Nuclear Regulation.
+Imports into the United Kingdom
+2.—(1) Where radioactive waste or spent fuel is to be imported into the United Kingdom from another country, the consignee must submit an application for authorisation to the competent authority.
+(2) The application may be sent in respect of more than one shipment, where the conditions set out in regulation 5(1) are met.
+(3) The application must include evidence that the consignee has made an arrangement with the holder in the country of origin, and which has been accepted by the competent authority of that country, obliging that holder to take back the radioactive waste or spent fuel where a shipment cannot be completed in accordance with these Regulations.
+(4) If all the relevant requirements of these Regulations are satisfied, the competent authority may authorise the consignee to carry out the shipment and must inform the competent authority in the country of origin and of any country of transit accordingly.
+(5) When a person receiving a shipment from outside the United Kingdom notifies the competent authority of its receipt under regulation 7(1), the competent authority must send copies of the acknowledgement to the competent authority of the country of origin and of any country of transit.
+Transit through the United Kingdom
+3.—(1) Where radioactive waste or spent fuel is to be shipped into the United Kingdom from another country and the country of destination is not the United Kingdom, the natural or legal person responsible for managing the shipment within the United Kingdom must submit an application for authorisation to the competent authority.
+(2) The application may be submitted in respect of more than one shipment, where the conditions set out in regulation 5(1) are met.
+(3) The application must include evidence that the consignee in the country of destination has made an arrangement with the holder in the country of origin, and accepted by the competent authority of the country of origin, obliging that holder to take back the radioactive waste or spent fuel where a shipment cannot be completed in accordance with these Regulations.
+(4) If all the relevant requirements of these Regulations are satisfied, the competent authority may authorise the person responsible referred to in sub-paragraph (1) to carry out the shipment and must inform the competent authority of the country of origin and of any other country of transit.
+Exports from the United Kingdom
+4.—(1) Where radioactive waste or spent fuel is to be exported from the United Kingdom to another country, the holder must submit an application for authorisation to the competent authority.
+(2) The application may be sent in respect of more than one shipment, where the conditions set out in regulation 5(1) are met.
+(3) The competent authority must notify the competent authority of the country of destination and of any country of transit of the planned shipment and ask for their consent.
+(4) If the relevant requirements of these Regulations are satisfied and the consents necessary for the shipment have been given, the competent authority may authorise the holder to carry out the shipment and must inform the competent authority of the country of destination and of any country of transit accordingly.
+Acknowledgement of receipt and request for information
+5.—(1) Within 20 days following the receipt of an application under paragraphs 2, 3 or 4 of this Schedule, the competent authority must verify to the applicant that the application has been duly completed or, if not, request further information pursuant to sub-paragraph (2).
+(2) If the application has not been duly completed, the competent authority may request any missing information from the applicant.
+(3) The right to request missing information under sub-paragraph (2) does not affect the right of the competent authority to request further information from the competent authority in the country of origin under paragraph 6(1)(b).
+(4) The competent authority must determine an application for authorisation under paragraphs 2, 3 or 4 of this Schedule within 2 months of the date that the competent authority verifies that the application has been duly completed unless a longer period is agreed between the competent authority and the person applying for the authorisation.
+Import of radioactive waste and spent fuel into the UK: Consent and refusal
+6.—(1) Where the competent authority receives a request for consent to import radioactive waste or spent fuel into the United Kingdom from a competent authority in another country, the following provisions apply:
+(a)
+the competent authority must acknowledge receipt of the request for consent within 20 days of its receipt;
+(b)
+in relation to such a request for consent, the competent authority may ask for further information from the competent authority in the country of origin and inform any other competent authorities involved that this has occurred;
+(c)
+not later than 10 days after the date of receipt of any further information obtained pursuant to sub-paragraph (1)(b) the competent authority must send an acknowledgement of receipt of the further information to the competent authority in the country of origin and copy it to any other competent authorities involved.
+(2) Not later than 2 months from the date of any acknowledgement of receipt issued pursuant to sub-paragraph (1)(a), or where applicable (1)(c), the competent authority must notify the competent authority in the country of origin of its consent, or of the conditions which it considers necessary for giving its consent, or of its refusal to grant consent.
+(3) The period of 2 months referred to in sub-paragraph (2) may be extended if the competent authority has not yet determined an application by the proposed consignee for authorisation to import radioactive waste or spent fuel under paragraph 2 of this Schedule.
+(4) The competent authority must give reasons for any refusal to grant consent, or for conditions attached to its consent, which must be based:
+(a)
+in relation to transit, on the relevant legislation applicable to the transport of radioactive material; or
+(b)
+in relation to import, on the relevant legislation applicable to the transport of radioactive material and any relevant legislation applicable to the management of radioactive waste or spent fuel.
+(5) When a competent authority authorises a transit under paragraph 3 of this Schedule, it may not refuse to give consent to reshipment in the following cases:
+(a)
+where the initial consent concerned material being shipped for treatment or reprocessing purposes, if the shipment concerns radioactive waste or other products equivalent to the original material after treatment or reprocessing, and all relevant legislation is respected; or
+(b)
+where there has been a shipment failure, if the reshipment is undertaken on the same conditions and with the same specifications.
+(1)
+1965 c. 57.Regulation 14
+SCHEDULE 2
+Notices
+Information notice
+1.  An authorised officer may, by notice served on any person, require that person to provide to the competent authority such information as is specified in the notice in such form and within such period following service of the notice or at such time as is so specified.
+Enforcement and prohibition notice
+2.—(1) An authorised officer may serve a notice on any person who contravenes or who the authorised officer has reasonable grounds to suspect may contravene these Regulations—
+(a)
+requiring that person to act in accordance with the Regulations (in this Schedule referred to as an “enforcement notice”); or
+(b)
+prohibiting that person from acting in breach of them (in this Schedule referred to as a “prohibition notice”).
+(2) The notice must give reasons for serving it and, if appropriate, specify what action must be taken and give time limits for taking that action.
+Appeals against enforcement and prohibition
+3.—(1) Any person served with an enforcement or prohibition notice may appeal to—
+(a)
+in England, the Secretary of State;
+(b)
+in Scotland, the Scottish Ministers;
+(c)
+in Wales, the Welsh Ministers;
+(d)
+in Northern Ireland, the Department of Agriculture, Environment and Rural Affairs..
+(2) An enforcement or prohibition notice must state—
+(a)
+the right of appeal; and
+(b)
+the period in which the appeal may be brought.
+(3) The period within which an appeal may be brought is 28 days or, in the case of an enforcement notice, the period specified in the notice, whichever ends earlier.
+(4) The appellant body may cancel the notice or confirm it, with or without modifications.EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations are made in exercise of the powers in section 8(1) of the European Union (Withdrawal) Act 2018 (c. 16) (“EUWA”) in order to address failures of retained EU law to operate effectively and other deficiencies (in particular under section 8(2)(c) of the EUWA) arising from the withdrawal of the United Kingdom from the European Union. The Regulations extend to the whole of the United Kingdom.
+These Regulations revoke the Transfrontier Shipment of Radioactive Waste and Spent Fuel Regulations 2008 (the “2008 Regulations”). The 2008 Regulations implemented Council Directive 96/29/Euratom laying down basic standards for the protection of the health of workers and the general public against the dangers arising from ionizing radiation and Council Directive 2006/117/Euratom (the “2006 Directive”) on the supervision and control of shipments of radioactive waste and spent fuel. In particular, the 2008 Regulations laid down the process and procedures for authorising the import, export and transit of shipments of radioactive waste and spent fuel into and out of the European Union. In that regard, they drew a distinction between Member States of the European Union and third countries and provided that an authorisation granted at the first point of entry into the European Union was valid throughout all Member States. They also laid down a prohibition on the granting of authorisations for the shipment of radioactive waste unless the purpose of the shipment was for the processing of the waste or its return to the country of origin.
+These Regulations largely replicate the key provisions and penalties contained in the 2008 Regulations in the United Kingdom but, in light of the United Kingdom’s withdrawal from the European Union, they abolish the distinction between Member States and third countries. That means that all countries outside the United Kingdom will be treated as third countries and there is no longer any provision for the mutual recognition of authorisations. These Regulations also largely replicate the key procedural provisions contained in the 2006 Directive in order to provide the maximum continuity for operators in this sector. The standard forms referred to in regulation 9 will be prescribed by the Secretary of State outside of this instrument and hosted on the Gov.UK website as well as the websites of the competent authorities.
+An impact assessment has not been provided for this instrument as no, or no significant impact on the private or voluntary sectors is foreseen.
+An Explanatory Memorandum has been prepared and is available alongside this instrument at www.legislation.gov.uk.

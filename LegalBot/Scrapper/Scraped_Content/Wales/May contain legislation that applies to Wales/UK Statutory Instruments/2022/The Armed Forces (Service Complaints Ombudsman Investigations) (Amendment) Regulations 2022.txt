@@ -1,0 +1,62 @@
+STATUTORY INSTRUMENTS
+2022 No. 496
+DEFENCE
+The Armed Forces (Service Complaints Ombudsman Investigations) (Amendment) Regulations 2022
+Made
+26th April 2022
+Laid before Parliament
+4th May 2022
+Coming into force
+15th June 2022
+The Secretary of State makes the following Regulations in exercise of the power conferred by section 340H(8) of the Armed Forces Act 2006(1).
+(1)
+2006 c. 52. Section 340H was inserted by section 2(1) of the Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19) and amended by section 10(6) to (9) of the Armed Forces Act 2021 (c. 35).Citation, commencement and extent
+1.—(1) These Regulations may be cited as the Armed Forces (Service Complaints Ombudsman Investigations) (Amendment) Regulations 2022 and come into force on 15th June 2022.
+(2) These Regulations extend to the United Kingdom, the Isle of Man and the British Overseas Territories except Gibraltar.Amendment of the Armed Forces (Service Complaints Ombudsman Investigations) Regulations 2015
+2.—(1) The Armed Forces (Service Complaints Ombudsman Investigations) Regulations 2015(1) are amended as follows.
+(2) In regulation 4 (time limits: applications to the Ombudsman)—
+(a)
+for paragraph (1), for the words from “the day” to the end, substitute “the relevant date”;
+(b)
+after paragraph (1) insert—
+“(1A) For the purposes of paragraph (1) “the relevant date” is—
+(a)
+where the complainant brings an appeal under regulation 10 of the Armed Forces (Service Complaints) Regulations 2015(2) and the appeal has been determined, the date on which the complainant received notification of the determination of the appeal;
+(b)
+where—
+(i)
+the complainant brings an appeal under regulation 10 of the Armed Forces (Service Complaints) Regulations 2015,
+(ii)
+the Defence Council decides that the appeal cannot be proceeded with because (and only because) it was not brought on a valid ground, and
+(iii)
+the complainant does not apply for a review by the Ombudsman of that decision,
+the date on which the complainant received notification from the Defence Council that the appeal cannot be proceeded with because it was not brought on a valid ground;
+(c)
+where—
+(i)
+the complainant brings an appeal under regulation 10 of the Armed Forces (Service Complaints) Regulations 2015,
+(ii)
+the Defence Council decides that the appeal cannot be proceeded with because (and only because) it was not brought on a valid ground,
+(iii)
+the complainant applies for a review by the Ombudsman of that decision, and
+(iii)
+on such a review, the decision mentioned in paragraph (ii) is upheld by the Ombudsman,
+the date on which the complainant received notification from the Ombudsman that the appeal cannot be proceeded with because it was not brought on a valid ground;
+(d)
+where the complainant does not have grounds (of which the complainant is aware) on which they are entitled to bring an appeal against the decision, the date on which the complainant received notification of the decision on the service complaint.”.
+(1)
+S.I. 2015/1956.
+(2)
+S.I. 2015/1955. Regulation 10 was amended by regulation 2(5) of the Armed Forces (Service Complaints) (Amendment) Regulations 2022 (S.I. 2022/494).Leo Doherty
+Parliamentary Under Secretary of State
+Ministry of Defence
+26th April 2022EXPLANATORY NOTE
+(This note is not part of the Regulations)
+Under section 340A(1) and (2) of the Armed Forces Act 2006 (c. 52) (“the Act”), a person subject to service law, or who has ceased to be subject to service law, who thinks they have been wronged in any matter relating to their service, may make a service complaint about the matter. Under section 340H(1) of the Act the complainant may apply to the Service Complaints Ombudsman to investigate their complaint or related maladministration. The Armed Forces Act 2021 (c. 35) amended the date from which the minimum period to apply to the Service Complaints Ombudsman for an investigation under section 340H(1)(a) or (b) of the Act is calculated.
+These Regulations amend the Armed Forces (Service Complaints Ombudsman Investigations) Regulations 2015 (S.I. 2015/1956) (“the 2015 Regulations”), which make provision about Ombudsman investigations, including the procedure to be followed.
+Regulation 2 amends regulation 4 of the 2015 Regulations which sets out the time period within which an application must be made to the Service Complaints Ombudsman to investigate a service complaint that has been finally determined or related maladministration in the handling of such a complaint. The amendments reflect measures implemented through the Armed Forces (Services Complaints) (Amendment) Regulations 2022 which limit the grounds upon which an appeal against a decision on a service complaint can be brought. They therefore make provision about the time limit for applications to the Ombudsman where a complainant is notified that their appeal was not made on a valid ground. The time limit will now run from:
+where an appeal has been made against the decision on the service complaint and determined, the day the complainant receives notification of the decision on that appeal;
+where the appeal cannot be proceeded with because (and only because) it was not brought on a valid ground, the day the complainant receives the final decision that the appeal is invalid. The final invalidity decision will be either the decision of the Defence Council that the appeal is inadmissible (where the complainant does not seek a review of that decision), or the decision of the Service Complaints Ombudsman (where the complainant seeks a review of that decision and the decision is upheld);
+where the complainant does not have grounds (of which the complainant is aware) on which they are entitled to bring an appeal against the decision, the day the complainant receives notification of the decision on the service complaint.
+An application may still be accepted by the Ombudsman after the end of this period if the Ombudsman considers the circumstances set out in regulation 4(2) of the 2015 Regulations are met.
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sectors is foreseen.

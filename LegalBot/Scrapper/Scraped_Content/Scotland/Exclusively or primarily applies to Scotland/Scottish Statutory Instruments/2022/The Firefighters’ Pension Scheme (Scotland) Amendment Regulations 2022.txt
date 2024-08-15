@@ -1,0 +1,70 @@
+SCOTTISH STATUTORY INSTRUMENTS
+2022 No. 103
+PUBLIC SERVICE PENSIONS
+The Firefighters’ Pension Scheme (Scotland) Amendment Regulations 2022
+Made
+at 8.45 a.m. on 17th March 2022
+Laid before the Scottish Parliament
+at 4.15 p.m. on 17th March 2022
+Coming into force
+1st April 2022
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 1(1), 1(2)(f), 2(1) and 3(1) and paragraph 6(c) of schedule 2 of the Public Service Pensions Act 2013 (“the 2013 Act”)(1) and all other powers enabling them to do so.
+In accordance with section 21(1) of the 2013 Act(2), the Scottish Ministers have consulted the representatives of such persons as appeared to the Scottish Ministers likely to be affected by these Regulations.
+(1)
+2013 c. 25. Section 3 was amended by section 79(2) to (6) of the Public Service Pensions and Judicial Offices Act 2022 (c. 7).
+(2)
+Section 21 was amended by section 94(8) of the Public Service Pensions and Judicial Offices Act 2022.Title and commencement
+1.—(1) These Regulations may be cited as the Firefighters’ Pension Scheme (Scotland) Amendment Regulations 2022.
+(2) These Regulations come into force on 1 April 2022.Amendment of the Firefighters’ Pension Scheme (Scotland) Regulations 2015
+2.  After regulation 65(2) (entitlement to lower tier ill-health pension and higher tier ill-health pension) of the Firefighters’ Pension Scheme (Scotland) Regulations 2015(1) insert—
+“(2A) Where paragraph (2B) applies, the references to normal pension age in paragraphs (1) and (2) are to be read as references to normal pension age under the 1992 Scheme.
+(2B) This paragraph applies where—
+(a)
+the authority has decided to obtain the written opinion of an IQMP under rule H1 (determination by fire authority) of the 1992 Scheme concerning whether a member of that Scheme is permanently disabled or able to undertake regular employment before making a determination as to whether the member is entitled to an ill-health award under rule B3 (ill health awards) of the 1992 Scheme, and
+(b)
+the determination has not been made before 1 April 2022.”.
+(1)
+S.S.I. 2015/19.Amendment of the Firefighters’ Pension Scheme (Scotland) Regulations 2015
+3.—(1) Schedule 2 of the Firefighters’ Pension Scheme (Scotland) Regulations 2015 (transitional provisions) is amended as follows.
+(2) In paragraph 1 (interpretation)—
+(a)
+in the definition of “closing date”, in sub-paragraph (c), for “member, or” to the end substitute—
+“member,
+(ii)
+if the member is a full protection member of the 1992 Scheme or the NFPS, 31 March 2022, or
+(iii)
+if the member is not a protected member of one of those schemes, the scheme closing date;”,
+(b)
+in the definition of “transition date”, for “member; and” to the end substitute—
+“member,
+(b)
+if the member is a full protection member of the 1992 Scheme or the NFPS, 1 April 2022, and
+(c)
+if the member is not a protected member of the 1992 Scheme or the NFPS, the day after the scheme closing date, or, if later, the day the person ceased to be a protected member of that scheme;”.
+(3) For sub-paragraph (6) of paragraph 3 (meaning of “tapered protection closing date”) substitute—
+“(6) The tapered protection closing date for a tapered protection member of the NFPS to whom paragraph 9(5) or 21 applies is—
+(a)
+31 March 2022; or
+(b)
+an earlier date determined by the scheme manager.”.
+(4) For sub-paragraph (2) of paragraph 9 (full protection members of the 1992 Scheme or the NFPS) substitute—
+“(2) P ceases to be a full protection member of the 1992 Scheme or the NFPS, as the case may be—
+(a)
+on 31 March 2022; or
+(b)
+if earlier, when P ceases to be in pensionable service under that scheme and ceases to be eligible to be an active member of the NFPS, unless sub-paragraph (3) or (4) applies.”.
+(5) In paragraph 31(2)(a) (pensionable service under the NFPS), omit “or if T returns to pensionable service” to the end.
+(6) Omit paragraphs 37 (authority determines the entitlement of a member of the NFPS to an ill-health award) and 38 (authority determines the entitlement of a member of the 1992 Scheme to an ill-health award).TOM ARTHUR
+Authorised to sign by the Scottish Ministers
+St Andrew’s House,
+Edinburgh
+At 8.45 a.m. on 17th March 2022EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the Firefighters’ Pension Scheme (Scotland) Regulations 2015 (“the 2015 Regulations”), which established the Firefighters’ Pension Scheme (Scotland) 2015 (“the 2015 Scheme”), in consequence of provision made by the Public Service Pensions and Judicial Offices Act 2022 (c. 7). The amendments ensure that existing pension schemes established by the Firemen’s Pension Scheme Order 1992 (“the 1992 Scheme”) and the Firefighters’ Pension Scheme (Scotland) Order 2007 (“NFPS”) will, except for limited purposes, be closed to the accrual of pension benefits on and after 1 April 2022 and that any members treated as being in pensionable service under the existing pension schemes will, on that date, begin accruing benefits in the scheme established by the 2015 Regulations.
+Regulation 2 amends regulation 65 of the 2015 Regulations so that, where members of the 1992 Scheme are awaiting a decision on whether they are entitled to an ill-health award when they join the 2015 Scheme on 1 April 2022, the criteria used to determine entitlement to such an award reflect the criteria in the 1992 Scheme (where normal pension age is 55, not 60 as under the 2015 Scheme).
+Regulation 3 amends schedule 2 of the 2015 Regulations as follows—
+the definitions of “closing date” and “transition date” in paragraph 1 are amended to insert dates in respect of those terms that apply to full protection members so that provisions which refer to those terms operate as intended in respect of such members;
+paragraph 3(3) is amended so that a scheme manager may only set a tapered protection closing date under that paragraph if such date is before 1 April 2022;
+paragraph 9(2) is amended so that protection ceases for a full protection member on the earlier of the day on which they leave pensionable service under the existing scheme, or 31 March 2022;
+paragraph 31(2) is amended so that no new elections to purchase additional service under the NFPS may be made after 31 March 2022;
+paragraphs 37 and 38 are omitted so that members who are awaiting a decision on whether they are entitled to an ill-health award under an existing scheme on 1 April 2022 transition to the 2015 Scheme on that date.

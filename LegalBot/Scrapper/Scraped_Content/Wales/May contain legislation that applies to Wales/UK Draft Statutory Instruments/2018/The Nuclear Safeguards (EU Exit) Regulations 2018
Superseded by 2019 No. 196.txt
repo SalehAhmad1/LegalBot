@@ -1,0 +1,919 @@
+Draft Regulations laid before Parliament under sections 113(2)(a), (aa) and (c) and 113(3)(a) and (c) of the Energy Act 2013 and section 2(5) of the Nuclear Safeguards Act 2018, for approval by resolution of each House of Parliament.
+DRAFT STATUTORY INSTRUMENTS
+2018 No. XXXX
+EXITING THE EUROPEAN UNION
+NUCLEAR SAFEGUARDS
+The Nuclear Safeguards (EU Exit) Regulations 2018
+Made
+***
+Coming into force in accordance with regulation 1
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 74(3), 75, 76A(1), (2), (3), (5) and (7), 112(1B), 113(7), of and paragraphs 6, 7, 11, 13(1) and 14 of Schedule 6 to the Energy Act 2013(1) and by sections 2(1) and (3) of the Nuclear Safeguards Act 2018(2).
+In accordance with sections 76A(8)(a) and (b) and 112(1D) of the Energy Act 2013 the Secretary of State has consulted the ONR and such other persons as the Secretary of State considers it appropriate to consult.
+In accordance with section 113(2)(a), (aa) and (c) and 113(3)(a) and (c) of the Energy Act 2013 and with section 2(5) of the Nuclear Safeguards Act 2018, a draft of these Regulations has been laid before Parliament and approved by a resolution of each House of Parliament.
+(1)
+2013 c. 32. Part 3 of the Act, which relates to Nuclear Regulation, has been amended but in respects which are not relevant to these Regulations.
+(2)
+2018 c. 15.Citation and commencement
+1.—(1) These Regulations may be cited as the Nuclear Safeguards (EU Exit) Regulations 2018.
+(2) Subject to paragraph 3, these Regulations come into force on exit day.
+(3) Regulations 7 to 9 come into force on 1st January 2021.Interpretation
+2.  In these Regulations—
+“Agency” means the International Atomic Energy Agency;
+“Agreement with the Agency” means the agreement made on 7th June 2018 between the United Kingdom and the Agency for the application of safeguards in the United Kingdom in connection with the Treaty on the Non-Proliferation of Nuclear Weapons;
+“batch” means a portion of qualifying nuclear material handled as a unit for accounting purposes at a key measurement point and for which the composition and quantity are defined by a single set of specifications or measurements. The qualifying nuclear material may be in bulk form or contained in a number of separate items;
+“batch data” means the total weight of each category of qualifying nuclear material and, in the case of plutonium and uranium, the isotopic composition when appropriate. For reporting purposes the weights of individual items in the batch must be added together before rounding to the nearest unit. The units of account are—
+(a)
+grams of contained plutonium;
+(b)
+grams of total uranium, grams of contained uranium-235 and grams of uranium-233 for uranium enriched in these isotopes; and
+(c)
+grams of contained thorium, natural uranium or depleted uranium;
+“book inventory” in relation to a material balance area means the algebraic sum of the most recent physical inventory of that material balance area and of all inventory changes that have occurred since that physical inventory was taken;
+“category” in relation to qualifying nuclear material means natural uranium, depleted uranium, uranium enriched to less than 20%, uranium enriched to 20% and above, thorium and plutonium;
+“closed down” in relation to a qualifying nuclear facility means a qualifying nuclear facility which has not been decommissioned but in relation to which it has been confirmed by the ONR that operations have ceased and all the qualifying nuclear material removed;
+“commencement day” means the day described in regulation 1(2);
+“conditioned waste” means waste which has been conditioned in such a way (for example, in glass, cement, concrete or bitumen) that it is not suitable for further nuclear use;
+“correction” means an entry made in an accounting record or report which rectifies an identified mistake in a previous entry or reflects an improved measurement of a quantity which was previously entered in a record or report;
+“decommissioned” in relation to a qualifying nuclear facility means a qualifying nuclear facility for which it has been confirmed to the satisfaction of the ONR that residual structures and equipment essential for its use have been removed or rendered inoperable so that it is not used to store and can no longer be used to produce, handle, process, dispose of or utilise qualifying nuclear material;
+“effective kilogram” means a unit used in safeguarding qualifying nuclear material which is obtained by taking—
+(a)
+for plutonium, its weight in kilograms;
+(b)
+for uranium with an enrichment of 0.01 (1%) and above, its weight in kilograms multiplied by the square of its enrichment;
+(c)
+for uranium with an enrichment below 0.01 (1%) and above 0.005 (0. 5%), its weight in kilograms multiplied by 0.0001; and
+(d)
+for depleted uranium with an enrichment of 0.005 (0. 5%) or below, and for thorium, its weight in kilograms multiplied by 0.00005;
+“enrichment” means the ratio of the combined weight of the isotopes uranium-233 and uranium-235 to that of the total uranium in question;
+“inventory change” means an increase or decrease, in terms of batches of qualifying nuclear material, in a material balance area as described in the inventory change report set out in Part 2 of Schedule 1;
+“item” means an identifiable unit of qualifying nuclear material such as a fuel assembly or a fuel pin;
+“key measurement point” means a location where qualifying nuclear material appears in such a form that it may be measured to determine material flow or inventory, including, but not limited to, the inputs and outputs (including measured discards) and storages in material balance areas;
+“material balance area” means an area in a qualifying nuclear facility in respect of which—
+(a)
+the quantity of qualifying nuclear material in each transfer into or out of the area can be determined; and
+(b)
+the physical inventory of qualifying nuclear material in the area can be determined when necessary in accordance with specified procedures, in order that quantity of qualifying nuclear material for safeguards purposes under these Regulations can be established;
+“material unaccounted for” means the difference between the physical inventory for a material balance area and the book inventory for that material balance area;
+“operator” means a person or undertaking setting up, operating, closing down or decommissioning a qualifying nuclear facility for the production, processing, storage, handling, disposal or other use of qualifying nuclear material;
+“ore” means any ore containing any average concentration of—
+(a)
+0.1% or more uranium, in the case of uranium bearing ores;
+(b)
+3% or more of thorium, in the case of thorium bearing ores, other than monazites;
+(c)
+10% or more of thorium or 0.1% or more of uranium, in the case of monazites,
+from which a source material may be obtained by the appropriate chemical and physical processing;
+“particular safeguard provision” means a particular safeguard provision imposed by the ONR under regulation 5;
+“physical inventory” means the sum of all the measured or derived estimates of batch quantities of qualifying nuclear material on hand at a given time within a material balance area, obtained in accordance with these Regulations;
+“qualifying nuclear facility with limited operation” means a qualifying nuclear facility—
+(a)
+in which less than one effective kilogram of qualifying nuclear material is produced, processed, stored, handled, disposed of or otherwise used; and
+(b)
+which is not a reactor, a critical facility, a conversion plant, a fabrication plant, a reprocessing plant, an isotope separation plant nor a separate storage installation;
+“relevant international standards” mean those international standards which are both published by third parties and listed by the ONR on their website;
+“retained waste” means waste which is generated from processing or from an operational accident, measured or estimated on the basis of measurements, which has been transferred to a specific location within the material balance area from which it can be retrieved;
+“safeguards equipment” means equipment used by the ONR or the Agency to provide independent confirmation that the information produced by an operator under these Regulations is accurate and up to date;
+“shipper/receiver difference” means the difference between the quantity of qualifying nuclear material in a batch, as stated by the shipping material balance area and as measured at the receiving material balance area;
+“source data” means those data, recorded during measurement or calibration or used to derive empirical relationships, which identify qualifying nuclear material and provide batch data, including, for example—
+(a)
+weight of compounds;
+(b)
+conversion factors to determine weight of element;
+(c)
+specific gravity;
+(d)
+element concentration;
+(e)
+isotopic ratios;
+(f)
+relationship between volume and manometer readings; and
+(g)
+relationship between plutonium produced and power generated; and
+“waste” means qualifying nuclear material in concentrations or chemical forms irrecoverable for practical or economic reasons and which is intended to be disposed of.Declaration of basic technical characteristics
+3.—(1) In the case of a qualifying nuclear facility(1) existing immediately before commencement day the operator must declare to the ONR the basic technical characteristics of the qualifying nuclear facility, using the relevant questionnaire shown in Part 1 of Schedule 1, before the end of the period of 30 days beginning with commencement day.
+(2) In the case of a new qualifying nuclear facility, which comes into existence on or after commencement day, the operator must declare to the ONR—
+(a)
+the preliminary basic technical characteristics of the facility as soon as the decision to construct or authorise construction has been taken;
+(b)
+the basic technical characteristics of the facility, based on the final design for the qualifying nuclear facility, using the relevant questionnaire shown in Part 1 of Schedule 1, not later than 200 days prior to and ending on the day on which construction is started; and
+(c)
+the basic technical characteristics of the facility as built, using the relevant questionnaire shown in Part 1 of Schedule 1, not later than 200 days before the day on which—
+(i)
+qualifying nuclear material is first received at the facility;
+(ii)
+in the case of a qualifying nuclear facility, which only treats or stores conditioned or retained waste, the treatment or storage begins; and
+(iii)
+in the case of a qualifying nuclear facility, whose principal activity is the extraction of ores in the United Kingdom, the operations start.
+(3) An operator must inform the ONR of a change in the basic technical characteristics within the period of 30 days beginning with the day on which the change is completed unless advance notification to the ONR of such a change is required by any particular safeguard provisions imposed on the operator by regulation 5.
+(4) The reference in paragraph (3) to a change in the basic technical characteristics of a qualifying nuclear facility includes a change in respect of a qualifying nuclear facility which is in the process of being closed down or decommissioned until such time as the ONR has confirmed in writing to the operator that the qualifying nuclear facility has been fully decommissioned.
+(5) On a written request by the ONR, an operator must supply further details, explanations, amplifications or clarifications of any information set out in the relevant questionnaire within the period of 15 days beginning with the day on which the operator receives the request from the ONR.
+(1)
+“Qualifying nuclear facility” is defined in section 76A(7) of the Energy Act 2013 c. 32.Programme of activities
+4.—(1) An operator of a qualifying nuclear facility must send to the ONR an annual outline programme of activities using the information described in Part 8 of Schedule 1, indicating, in particular, provisional dates for taking a physical inventory.
+(2) Each year, an operator must send the annual outline programme of activities for the following calendar year to the ONR so that it is received by the ONR by 30th September.
+(3) An operator must inform the ONR of the programme of activities for the taking of a physical inventory at least 40 days before the day on which the physical inventory is taken.
+(4) An operator must communicate to the ONR without delay a change which affects or may affect the outline programme of activities and, in particular, the taking of physical inventories.Particular safeguard provisions
+5.—(1) Acting on the basic technical characteristics, submitted by an operator under regulations 3 or 31, and having, where necessary, discussed the relevant technical characteristics with the operator, the ONR may impose particular safeguard provisions on an operator in respect of a qualifying nuclear facility, which—
+(a)
+relate to the matters set out in paragraph (4); and
+(b)
+take account of any relevant operational and technical constraints on the operator and the qualifying nuclear facility.
+(2) The ONR must provide the operator with written notice of any particular safeguard provisions which it has imposed.
+(3) If an operator has received a written notice referred to in paragraph (2) it must, from the date of receipt or from the date set out in the notice if later, comply with the requirements of the particular safeguard provisions.
+(4) The particular safeguard provisions may include the following—
+(a)
+the material balance areas and the selection of key measurement points for determining the flow and stocks of qualifying nuclear material;
+(b)
+the changes in basic technical characteristics for which advance notification is required;
+(c)
+the procedures for keeping records of qualifying nuclear material for each material balance area and for drawing up reports;
+(d)
+the frequency of, and procedures for, taking physical inventories;
+(e)
+the safeguards equipment;
+(f)
+the arrangements for sample taking by the operator;
+(g)
+the content of subsequent communications from the operator required under regulation 4 (programme of activities);
+(h)
+the conditions under which shipments and receipts of qualifying nuclear material require advance notification.Accountancy and control of qualifying nuclear material
+6.—(1) An operator of a qualifying nuclear facility must maintain a system of accountancy and control of the relevant qualifying nuclear material in each qualifying nuclear facility.
+(2) The system referred to in paragraph (1), must include in respect of the qualifying nuclear material—
+(a)
+the operating and accounting records required by regulations 10 and 11;
+(b)
+information on the quantities, category, form and composition of qualifying nuclear material;
+(c)
+its actual location;
+(d)
+the additional obligations set out in regulation 19; and
+(e)
+details of the recipient or shipper in the case of transfer.
+(3) The components of an accountancy and control system are set out in Schedule 2, and an operator must implement the relevant components in a manner which is proportionate to and appropriate for the basic technical characteristics of the qualifying nuclear facility as reported to the ONR under regulation 3 or 31.
+(4) An operator must retain the information referred to in paragraph (2) for a period of at least five years, beginning with the date on which each item of information is first recorded, and must, on the basis of the records described in sub-paragraph (a) of paragraph (2), be able to produce and substantiate the information which it provides to the ONR in accordance with the requirements of these Regulations.
+(5) An operator must, if requested by the ONR, make the operating records, referred to in regulation 10, and the accounting records, referred to in regulation 11, available for inspection by the ONR at the relevant qualifying nuclear facility. The records may be made available in electronic form if they are kept in this form by the operator.
+(6) The system of measurements on which the records used for the preparation of reports are based must conform with the relevant international standards.Accountancy and control plan
+7.—(1) An operator of a qualifying nuclear facility must produce an accountancy and control plan which sets out the accounting and control system for the qualifying nuclear material in that facility.
+(2) An operator of a qualifying nuclear facility must send to the ONR an accountancy and control plan for the qualifying nuclear material in that facility within the period of 30 days beginning on 1st January 2021.
+(3) In the case of a new qualifying nuclear facility, which comes into existence after 1st January 2021, the operator must send to the ONR an accountancy and control plan as soon as possible and in any event not later than 200 days prior to the day on which qualifying nuclear material is first received at the facility.
+(4) The accountancy and control plan must describe in writing the arrangements and procedures adopted or to be adopted by an operator to establish and maintain the system of accountancy and control of qualifying nuclear material as required by regulation 6.
+(5) The ONR may consider the accountancy and control plan, or any part of the plan, and may approve all or any part of the plan.Replacement, amendment and revocation of accountancy and control plan
+8.—(1) In the event of a change in the basic technical characteristics of a qualifying nuclear facility, notified to the ONR under regulation 3(3) or 31(5)(a), which is relevant to the accountancy and control plan, the operator must amend the accountancy and control plan for the qualifying nuclear facility and send the amended plan to the ONR within the period of 30 days beginning with the day on which the change is made.
+(2) Subject to paragraph (1), an operator of a qualifying nuclear facility may not amend any part of the accountancy and control plan for the qualifying nuclear facility that has been approved by the ONR without the prior written consent of the ONR.
+(3) An operator of a qualifying nuclear facility may at any time amend those parts of the accountancy and control plan for the qualifying nuclear facility that have not been approved by the ONR and send a copy to the ONR.
+(4) The ONR may consider the amended accountancy and control plan, or any part of the plan, and may approve all or part of the plan.Operation of an accountancy and control plan
+9.—(1) An operator must implement and comply with the arrangements and procedures described in the accountancy and control plan.
+(2) An operator is not to be regarded as having failed to comply with those arrangements and procedures by reason of any matter if the ONR has previously informed the operator in writing that that matter is, in the ONR’s opinion, unlikely to be prejudicial to the maintenance of the system of safeguards in respect of qualifying nuclear material at the qualifying nuclear facility.Operating records
+10.—(1) In respect of each material balance area an operator must ensure that the operating records set out—
+(a)
+those operating data which are used to determine changes in the quantities and composition of qualifying nuclear material;
+(b)
+a list of inventory items, updated to the best extent possible, and their location;
+(c)
+the data, including derived estimates of random and systematic errors, obtained from the calibration of tanks and instruments as well as from sampling and analysis;
+(d)
+the data resulting from quality control measures applied to the accountancy system for the qualifying nuclear material, including derived estimates of random and systematic errors;
+(e)
+a description of the sequence of the actions taken to prepare for, and take, a physical inventory and to ensure that the inventory is correct and complete;
+(f)
+a description of the actions taken in order to ascertain the cause and magnitude of any accidental or unmeasured loss that might have occurred; and
+(g)
+the isotopic composition of plutonium, including its decay isotopes, and reference dates, if recorded at the qualifying nuclear facility for operational needs.
+(2) An operator must send the data referred to in paragraph (1) to the ONR within 14 days of the receipt of a written request from the ONR.Accounting records
+11.—(1) In respect of each material balance area an operator must ensure that the accounting records show the following—
+(a)
+all inventory changes, so that the book inventory can be determined at any time;
+(b)
+all measurement and counting results used to determine the physical inventory; and
+(c)
+all adjustments and corrections that have been made in respect of inventory changes, book inventories and physical inventories.
+(2) An operator must ensure that the accounting records relating to any inventory change or physical inventory show, in respect of each batch of qualifying nuclear material, the material identification, batch data and source data.
+(3) An operator must ensure that the records account separately for each category of qualifying nuclear material.
+(4) For each inventory change, an operator must indicate the date of the change and, when appropriate, the originating and dispatching material balance area and the receiving material balance area or the shipper and the recipient.
+(5) An operator must communicate the data referred to in paragraph (1) to the ONR on request.Accounting reports
+12.—(1) An operator must provide the ONR with accounting reports in accordance with regulations 13 to 20 in respect of each material balance area.
+(2) An operator must ensure that the accounting reports contain up to date information and must correct the information at a later date if necessary.
+(3) On a written request by the ONR, an operator must supply further details, explanations, amplifications or clarifications of any information set out in the relevant accounting report within the period of 15 days beginning with the day on which the operator receives the request from the ONR.Initial book inventory
+13.  An operator of a qualifying nuclear facility must, within the period of 15 days beginning with commencement day, send to the ONR, an initial inventory of all the qualifying nuclear material in each material balance area of a qualifying nuclear facility on commencement day, using the format set out in Part 4 of Schedule 1.Inventory change report
+14.—(1) For each material balance area, the operator must send to the ONR an inventory change report in respect of all qualifying nuclear material using the format set out in Part 2 of Schedule 1.
+(2) Unless otherwise specified in the particular safeguard provisions imposed under regulation 5, the operator must send to the ONR an inventory change report within the period of 15 days beginning with the end of each month, in which the operator must state all inventory changes to the qualifying nuclear material which have occurred or become known to the operator during that month.
+(3) In respect of any month in which a physical inventory is taken and the physical inventory taking date is not the last day of the month, the operator must send two separate inventory change reports to the ONR—
+(a)
+a first inventory change report containing any inventory changes up to and including the date on which the physical inventory was taken, to be sent to the ONR with the physical inventory listing and the material balance report, which are referred to in regulation 15 and are to be sent to the ONR as soon as possible and at the latest within a period of 15 days beginning with the day on which the physical inventory was taken; and
+(b)
+a second inventory change report, to be sent within a period of 15 days beginning with the end of the month in which the physical inventory was taken, containing all inventory changes from the first day after the physical inventory was taken up to and including the last day of the month.
+(4) In respect of a month in which no inventory changes occur, when the operator sends the inventory change report to the ONR in accordance with paragraph (1), the operator must carry over the ending book inventory of the previous month.
+(5) In order that they may be reported as a single inventory change, small inventory changes, such as transfers of samples for the purpose of analysis, may be grouped together, unless otherwise stated in the particular safeguard provisions for the relevant qualifying nuclear facility.
+(6) Inventory change reports may include comments explaining the inventory changes.Material balance report and physical inventory listing
+15.—(1) For each material balance area, the operator must send to the ONR—
+(a)
+material balance reports, in the format set out in Part 3 of Schedule 1, showing—
+(i)
+the beginning physical inventory;
+(ii)
+inventory changes (first increases, then decreases);
+(iii)
+ending book inventory;
+(iv)
+ending physical inventory; and
+(v)
+material unaccounted for; and
+(b)
+a physical inventory listing, in the format set out in Part 4 of Schedule 1, showing all batches separately.
+(2) An operator must send the reports and the listing to the ONR as soon as possible and at the latest within the period of 15 days beginning with the day on which the physical inventory was taken.
+(3) Unless otherwise specified in the particular safeguard provisions for the qualifying nuclear facility, a physical inventory for each material balance area must be taken every calendar year and the period between two successive physical inventory takings must not exceed 14 months.Special report
+16.—(1) An operator must send to the ONR a special report whenever the circumstances referred to in regulation 17 or 23 arise.
+(2) The ONR may—
+(a)
+request further details or explanations in connection with a special report; and
+(b)
+specify, in the particular safeguard provisions for a qualifying nuclear facility, additional requirements concerning the type of information to be supplied in a special report.
+(3) If the ONR requests further detail or explanation in connection with a special report, the operator must send it to the ONR without delay.Unusual occurrences
+17.—(1) The circumstances referred to in regulation 16(1) are—
+(a)
+as a result of any unusual incident or circumstances, an operator believes that there has been or might be an increase in or a loss of qualifying nuclear material; or
+(b)
+the containment of qualifying nuclear material has unexpectedly changed to a point where an unauthorised removal of qualifying nuclear material has become possible.
+(2) An operator must submit a special report as soon as it becomes aware of any such loss or increase or sudden change in the containment conditions, or of anything which leads them to believe that there has been such an occurrence.
+(3) An operator must also inform the ONR of the causes of an unusual occurrence described in paragraph (1)(a) or (b) as soon as the operator becomes aware of them.Reporting of nuclear transformations
+18.—(1) In respect of a qualifying nuclear facility, which contains a reactor, an operator must include in the inventory change report calculated data on nuclear transformations and include this data on or before the time when irradiated fuel is transferred from the reactor material balance area.
+(2) In addition, the ONR may specify alternative procedures for recording and reporting nuclear transformations in the particular safeguard provisions.Additional reporting obligations arising from relevant international agreements and from obligations resulting from international trade
+19.—(1) When an operator provides the ONR with the information which is listed in paragraph (2), the operator must identify, separately for each obligation in each of the reports and notifications listed in the relevant international agreement, unless otherwise stipulated by that agreement, any qualifying nuclear material which is subject to a relevant safeguards obligation and must use the appropriate obligation code if one has been published by the ONR.
+(2) The following information is listed in this paragraph—
+(a)
+an initial book inventory, provided for in regulation 13;
+(b)
+an inventory change report, including an ending book inventory, provided for in regulation 14;
+(c)
+a material balance report and a physical inventory listing provided for in regulation 15;
+(d)
+advance notification of intended imports and exports provided for in regulations 21 and 22.
+(3) Where an operator—
+(a)
+holds qualifying nuclear material, which has been transferred into the United Kingdom, under obligations or requirements concerning international trade, which ensure that qualifying nuclear material is only available for peaceful purposes, and are respectively described in paragraph (4) (“obligations concerning international trade”) and in paragraph (5) (“requirements concerning international trade”); and
+(b)
+provides the ONR with the information which is listed in paragraph (2),
+the operator must identify, separately for each obligation and requirement concerning international trade in each of the reports and notifications, unless otherwise stipulated by the relevant obligation or requirement, any qualifying nuclear material which is subject to an obligation or requirement concerning international trade and must use the appropriate obligation code if one has been published by the ONR.
+(4) The obligations concerning international trade arise where an operator holds qualifying nuclear material which has been transferred into the United Kingdom before commencement day, either directly or through a third country, in accordance with any of the following—
+(i)
+the Agreement for co-operation in the peaceful uses of nuclear energy between the European Atomic Energy Community and the Government of the Republic of Kazakhstan, signed in Brussels on 5th December 2006;
+(ii)
+the Agreement for co-operation in the peaceful uses of nuclear energy between the European Atomic Energy Community and the Government of the Republic of Uzbekistan, signed in Brussels on 6th October 2003;
+(iii)
+the Agreement between the European Atomic Energy Community and the Cabinet of Ministers of Ukraine for Co-operation in the Peaceful Uses of Nuclear Energy, signed in Kiev on 28th April 2005;
+(iv)
+the Agreement for co-operation in the peaceful uses of nuclear energy between the European Atomic Energy Community (Euratom) and the Government of the Argentine Republic, signed at Brussels, on 11 June 1996;
+(v)
+the Agreement between the European Atomic Energy Community (Euratom) and the Government of the United States of Brazil for cooperation concerning the peaceful uses of atomic energy, signed at Brasilia, on 9 June 1961; and
+(vi)
+a contract, to which the operator is a party, concluded, before commencement day, on the basis of Articles 52(2), 64, 75(c) or another relevant provision in Chapter 6 of the Treaty establishing the European Atomic Energy Community.
+(5) The requirements concerning international trade arise where an operator holds qualifying nuclear material which has been transferred into the United Kingdom before, on or after commencement day, under the terms of a requirement, which is set out in a licence issued by the ONR under the Import of Goods (Control) Order 1954(1) or an order made by the Secretary of State under section 1 of the Import, Export and Customs Powers (Defence) Act 1939(2).
+(6) In respect of each relevant international agreement and each obligation and requirement concerning international trade, the ONR must publish on its website, and make available in writing on request, any obligation codes which must be used by an operator in respect of that relevant international agreement or obligation or requirement concerning international trade.
+(7) Unless specifically prohibited in the relevant international agreement or obligation or requirement concerning international trade, the separate reporting requirements set out in paragraphs (1) and (3) do not preclude the physical mixing of qualifying nuclear materials.
+(8) Paragraphs (1) to (7) do not apply to the Agreement with the Agency nor to the Additional Protocol, dated 7th June 2018, entered into between the United Kingdom and the Agency and which is additional to the Agreement with the Agency.
+(1)
+S.I. 1954/23 as amended by S.I 2014/251.
+(2)
+1939 c.69 2 and 3 Geo 6 s amended by Customs and Excise Management Act 1979 (c.2) and the Export Control Act 2002 (c.28) sections 15(2)(a), 16(2) and 16(7).Weight units and categories of qualifying nuclear materials
+20.—(1) When any person supplies information under these Regulations, any quantity of qualifying nuclear materials—
+(a)
+must be expressed to at least the nearest gram; and
+(b)
+may be rounded down, when the first decimal is 0 to 4, and rounded up when the first decimal is 5 to 9.
+(2) The corresponding accounting records must be kept—
+(a)
+in grams or in smaller units; and
+(b)
+in such a manner as to render them secure and reliable.
+(3) Unless otherwise provided for in the particular safeguard provisions, any notification under these Regulations must include the following—
+(a)
+the total weight of the elements uranium, thorium and plutonium, and also, for enriched uranium, the total weight of the fissile isotopes; and
+(b)
+separate reports for each material balance area as well as separate line entries in inventory change reports, material balance reports and in physical inventory listings for each category of qualifying nuclear material.Exports
+21.—(1) An operator must give advance notification to the ONR if any qualifying nuclear material is exported outside the United Kingdom—
+(a)
+where the consignment exceeds one effective kilogram; or
+(b)
+where a qualifying nuclear facility transfers a total quantity of materials to the same State that could exceed one effective kilogram in any consecutive period of twelve months, even though no single consignment exceeds one effective kilogram.
+(2) Subject to paragraph (3), an operator must give the notification under paragraph (1) after the conclusion of the contractual arrangements leading to the transfer, using the form set out in Part 5 of Schedule 1, and must ensure that the notification reaches the ONR at least 7 days before the day on which the material is to be packed for transfer.
+(3) If so required for reasons of physical protection, special arrangements concerning the form and transmission of the notification may be agreed upon between an operator and the ONR.
+(4) This regulation does not apply to ores nor to waste.Imports
+22.—(1) An operator must give advance notification to the ONR if any qualifying nuclear material is imported into the United Kingdom—
+(a)
+where the consignment exceeds one effective kilogram; or
+(b)
+where a qualifying nuclear facility imports or receives a total quantity of qualifying nuclear material from the same State that could exceed one effective kilogram in any consecutive period of twelve months, even though no single consignment exceeds one effective kilogram.
+(2) Subject to paragraph (3), an operator must—
+(a)
+provide the notification to the ONR as far in advance as possible of the expected arrival of the qualifying nuclear material in the United Kingdom and, at the latest, on the date of receipt by the operator and ensure that the notification is received by the ONR at least 4 days before the day on which the qualifying nuclear material is unpacked; and
+(b)
+use the form set out in Part 6 of Schedule 1.
+(3) If so required for reasons of physical protection, special arrangements concerning the form and transmission of the notification may be agreed between an operator and the ONR.
+(4) This regulation does not apply to ores nor to waste.Loss or delay during transfer
+23.  An operator must send a special report to the ONR under regulation 16 as soon as the operator becomes aware that qualifying nuclear material has been or appears to have been lost during transfer or that there has been a considerable delay during transfer.Communication of change of date
+24.  An operator must inform the ONR, without delay, of any change in the dates for packing before transfer, transport or unpacking of qualifying nuclear material, which have been given in the notifications provided for under regulations 21 or 22, and must provide an indication of the revised dates if known, unless the change gives rise to a special report under Regulation 16.Carriers and temporary storage agents
+25.—(1) Any person or undertaking engaged, in the United Kingdom, in transporting, or temporarily storing during transport, qualifying nuclear material must accept or hand over such material only against a duly signed and dated receipt.
+(2) The receipt referred to in paragraph (1) must state the names of the parties handing over and receiving the qualifying nuclear material and indicate the quantities carried as well as the category, form and composition of the material.
+(3) If so required for reasons of physical protection, the description of the qualifying nuclear material transferred may be replaced by a suitable identification of the consignment which is traceable to the operator.
+(4) The persons referred to in paragraph (1) and the relevant operators must retain records of the transaction and a copy of any receipt for a period of at least five years beginning with the day on which the record is made or the receipt is received.Intermediaries
+26.—(1) Any intermediaries taking part in the conclusion of any contract for the supply of qualifying nuclear material, such as authorised agents, brokers or commission agents, must keep all records relating to the transactions performed by them or on their behalf for a period of at least five years beginning with the day on which the contract is concluded.
+(2) The records referred to in paragraph (1) must contain the names of the contracting parties and indicate the date of the contract as well as the quantity, category, form, composition, origin and destination of the qualifying nuclear material.Accounting records for ores
+27.—(1) The requirements set out in regulations 4 and 10 to 15 do not apply to an operator of a qualifying nuclear facility whose principal activity is the extraction of ores in the United Kingdom.
+(2) An operator, to whom paragraph (1) applies, must keep—
+(a)
+accounting records of the ores extracted indicating, in particular, the quantities of the ore extracted, with the average uranium and thorium content, and the stock of extracted ore at each extraction facility; and
+(b)
+records of the details of shipments, stating the date, consignee and quantity in each case.
+(3) The operator must retain the records referred to in paragraph (2) for a period of at least five years beginning with the day on which the record is made.Ore shipment and export reports
+28.—(1) The requirements set out in regulations 21 to 24 do not apply to an operator of a qualifying nuclear facility whose principal activity is the extraction of ores in the United Kingdom.
+(2) An operator, to whom paragraph (1) applies, must inform the ONR, using the form set out in Part 7 of Schedule 1, of—
+(a)
+the amount of material dispatched from each qualifying nuclear facility, by 31st January of each year for the previous calendar year; and
+(b)
+exports of ores outside the United Kingdom, by the date of the dispatch at the latest.Stock list and accounting records for conditioned and retained waste
+29.—(1) The requirements set out in regulations 10 to 15 do not apply to an operator of a qualifying nuclear facility in respect of retained or conditioned waste that is treated or stored at the qualifying nuclear facility, instead the operator must keep accounting records for the conditioned and retained waste which must include—
+(a)
+a stock list of the conditioned and retained waste to be updated yearly on the date of the first physical inventory taking;
+(b)
+the operating data used to determine changes in the quantities and composition of the conditioned and retained waste;
+(c)
+a description of the sequence of actions taken to prepare for and take a physical inventory and to ensure that the inventory is correct and complete;
+(d)
+a description of the actions taken in order to ascertain the cause and magnitude of any accidental loss that might have occurred; and
+(e)
+all changes to the stock of conditioned or retained waste, so that the book inventory can be established when requested.
+(2) An operator of a qualifying nuclear facility that is used to treat or store retained or conditioned waste on commencement day must send the ONR an initial stock list of all such material within the period of 30 days beginning with commencement day.
+(3) An operator of a qualifying nuclear facility that is used to treat or store conditioned or retained waste must retain the records referred to in paragraph (1) for a period of at least five years beginning with the day on which the record is made.
+(4) The requirements for reporting the processing of retained waste to the ONR may be specified in the particular safeguard provisions.Transfers of conditioned waste
+30.—(1) An operator of a qualifying nuclear facility that is used to treat or store conditioned waste must inform the ONR, of—
+(a)
+shipments or exports of conditioned waste to a qualifying nuclear facility or outside the United Kingdom using the form set out in Part 9 of Schedule 1; and
+(b)
+receipts or imports of conditioned waste from a qualifying nuclear facility or installation—
+(i)
+without a material balance area code; or
+(ii)
+which is located outside the United Kingdom,
+using the form set out in Part 10 of Schedule 1.
+(2) The forms set out in Parts 9 and 10 of Schedule 1 must be sent to the ONR within the period of 30 days beginning with the last day of the calendar year to which they relate.
+(3) The requirements set out in regulations 21 to 24 do not apply to an operator of a qualifying nuclear facility in respect of conditioned waste.Declaration of basic technical characteristics, stock list and accounting records for qualifying nuclear facility with limited operation
+31.—(1) An operator of a qualifying nuclear facility with limited operation may apply to the ONR for paragraphs (5) to (8) of this regulation (“the regime with limited operation”) to apply to that qualifying nuclear facility.
+(2) An operator must make such an application by sending to the ONR—
+(a)
+the form set out in Part 11 of Schedule 1;
+(b)
+the basic technical characteristics of the qualifying nuclear facility with limited operation, using the questionnaire set out in section I- H of Part 1 of Schedule 1; and
+(c)
+an initial stock list of the qualifying nuclear material by category.
+(3) The ONR may grant the operator’s request for the application of the regime for limited operation, if satisfied that the operator satisfies the definition of an operator of a qualifying nuclear facility with limited operation and that the particular circumstances in which the qualifying nuclear material is to be used or produced mean that it is unnecessary for the operator to comply with all the requirements of these regulations.
+(4) The ONR must inform the operator in writing of its decision, under paragraph (3), within the period of 60 days beginning with the day on which the ONR receives the documents referred to in paragraph (2).
+(5) An operator which is permitted to comply with the regime for limited operation must—
+(a)
+inform the ONR of a change in the basic technical characteristics of the qualifying nuclear facility within the period of 30 days beginning with the day on which the change is completed;
+(b)
+take a physical inventory of the qualifying nuclear material in the qualifying nuclear facility in each calendar year beginning on 1st January, with the period between two successive physical inventory takings not exceeding 14 months, and inform the ONR of the results of this inventory within the period of 30 days of the day on which it is taken in the form specified by the ONR to the operator in writing;
+(c)
+inform the ONR of any change to the inventory of qualifying nuclear material according to a format and within the timescale specified by the ONR to the operator in writing.
+(6) Acting on the basis of the information submitted under paragraphs (2) or (5), the ONR may by written notice to the operator impose additional requirements concerning the form and frequency of the reports.
+(7) The ONR may withdraw a permission granted under paragraph (3), in writing, having reviewed—
+(a)
+the compliance of the operator with—
+(i)
+the definition of an operator of a qualifying nuclear regime with limited operation, or
+(ii)
+the requirements set out in paragraph (5) or imposed by the ONR under paragraph (6); and
+(b)
+the activities of the operator and of the relevant qualifying nuclear facility.
+(8) The requirements set out in regulations 4, 12 to 15 and 21 to 24 do not apply to an operator of a qualifying nuclear facility with limited operation while that operator is permitted by the ONR to comply with this regulation.Exemption
+32.—(1) The requirements of these Regulations do not apply to a person who holds only end products which are used for non-nuclear purposes and which incorporate qualifying nuclear material that is, in practice, irrecoverable.
+(2) The requirements of these Regulations do not apply to an operator of a qualifying nuclear facility, which—
+(a)
+is—
+(i)
+a primary or a secondary school, as defined in section 5(1) and (2) of the Education Act 1996(1);
+(ii)
+a 16 to 19 Academy, as defined in section 1B of the Academies Act 2010(2); or
+(iii)
+a sixth form college, as defined in section 91(3A) of the Further and Higher Education Act 1992(3); and
+(b)
+holds an amount equal to 0.01 effective kilograms or less of uranium or thorium where, in the case of uranium, the isotopes 235 and 233 comprise 1% or less of the total mass of uranium held.
+(1)
+1996 c. 56. Section 5 has been amended but in a manner which is not relevant to these Regulations.
+(2)
+2010 c. 32. Section 1B was inserted by Education Act 2011 (c.21) section 53(7).
+(3)
+1992 c. 13. Section 91(3A) was inserted by the Apprenticeships, Skills, Children and Learning Act 2009 (c.22) section 269(4), Schedule 8 paragraph 13(3).Withdrawal from civil activities
+33.—(1) An operator must not withdraw qualifying nuclear material from civil activities except with the previous written consent of the ONR.
+(2) An operator must provide the ONR with advance notification of any proposed withdrawal of qualifying nuclear material from civil activities using the form set out in Part 12 of Schedule 1, such notice to be received by the ONR at least 14 days before the day on which the qualifying nuclear material is to be withdrawn.Qualifying nuclear facilities which are used partly for civil activities
+34.—(1) These Regulations do not apply to anything done for defence purposes within the meaning of section 70 of the Energy Act 2013.
+(2) Notwithstanding paragraph (1), these Regulations apply to qualifying nuclear material which is used in civil activities when that material is in a qualifying nuclear facility which is partly used for civil activities.Communication with the ONR
+35.  Any questionnaire, form or other communication which an operator is required by these Regulations to send to the ONR, must be in writing and sent—
+(a)
+by post or delivered to the ONR at the address given on its website as its postal address;
+(b)
+by means of an electronic communications network to the address given on the ONR’s website as its address for electronic communications; or
+(c)
+as otherwise agreed in writing between the operator and the ONR.Safeguards equipment
+36.—(1) The ONR may consult with an operator on what safeguards equipment is appropriate for a qualifying nuclear facility.
+(2) On receipt of a written request from the ONR, an operator must install suitable safeguards equipment in each qualifying nuclear facility to provide independent confirmation that the information recorded by the operator, or provided by the operator to the ONR or to the Agency, is accurate and up to date.Access to safeguards equipment
+37.  An operator must permit the ONR to have reasonable access to the safeguards equipment in a qualifying nuclear facility.Interference with safeguards equipment
+38.  A person must not, unless permitted by the ONR, take action in connection with the operation of any safeguards equipment in a qualifying nuclear facility, which results in the safeguards equipment providing information on qualifying nuclear material that is significantly different from the information which the equipment would have provided had the action not occurred.Inspections by the ONR
+39.—(1) For the purpose of ensuring compliance with the requirements of these Regulations, the ONR may—
+(a)
+examine the records kept by an operator in accordance with the requirements of these Regulations;
+(b)
+make independent measurements of any qualifying nuclear material;
+(c)
+apply and make use of surveillance and containment measures together with any other objective methods of monitoring which the ONR considers to be reasonable;
+(d)
+observe that samples of qualifying nuclear material at key measurement points for accounting purposes are taken in accordance with procedures which produce representative samples;
+(e)
+observe the treatment and analysis of the samples and obtain duplicates of such samples;
+(f)
+verify the functioning and calibration of an operator’s instruments used to measure or control qualifying nuclear material, including observation of calibration activities and assessing whether the measurements of qualifying nuclear material at key measurement points are representative;
+(g)
+make such observations or measurements necessary to verify the accuracy of basic technical characteristics and any changes to them declared under regulation 3 or 31.
+(2) The ONR may write to an operator to require the operator to—
+(a)
+take additional measurements or samples of the qualifying nuclear material for the ONR’s use;
+(b)
+analyse the ONR’s standard analytical samples;
+(c)
+use appropriate absolute standards in the operator’s equipment and calibrating instruments;
+(d)
+carry out additional calibrations to the relevant equipment or instruments.
+(3) The ONR may apply its seals and other identifying and tamper-indicating devices to containments of qualifying nuclear material.
+(4) The ONR may write to an operator to require the operator to send, within a reasonable timescale specified by the ONR, any samples of qualifying nuclear material which have been taken for the ONR’s use to a location specified by the ONR.Publication of information by the ONR
+40.  The ONR must publish on the ONR website, and update where appropriate, information relating to—
+(a)
+withdrawals of qualifying nuclear material from safeguards during the preceding calendar year; and
+(b)
+inventories of civil plutonium and uranium in the United Kingdom at the end of each calendar year.ONR to provide an annual report to the Secretary of State
+41.—(1) The ONR must provide an annual report to the Secretary of State setting out how these Regulations have been applied in the previous twelve months.
+(2) The first report must be submitted to the Secretary of State on the expiration of twelve months from commencement day.Provision of information to the Agency
+42.—(1) The ONR must provide to the Agency that information which the United Kingdom is required to provide to the Agency under the Agreement with the Agency, including—
+(a)
+a list of qualifying nuclear facilities or parts of facilities which contain qualifying nuclear material which is subject to the Agreement with the Agency; and
+(b)
+the relevant information which the ONR receives from a person under these Regulations.
+(2) The ONR may agree with the Agency the timing, manner and form in which the information referred to in paragraph (1) is sent to the Agency.
+(3) The ONR must keep the list of qualifying nuclear facilities up to date and must give the Agency advance notice of any additions or deletions.
+(4) If the Agency so requests, the ONR must provide the Agency with amplifications or clarifications of any information referred to in paragraph (1).Offences
+43.—(1) An operator who fails to comply with any of regulations 3(1) to (3), 4, 6(1), (2), (4) and (5), 7(1) and (4), 9(1), 12(2) and (3), 13, 14(1) to (3), 15,16(1) and (3), 19(1), 21(1) and (2), 22(1) and (2), 24, 33(1), 45, 46(1) and (3) commits an offence.
+(2) Any person who fails to comply with regulation 38 or 45 commits an offence.
+(3) A person who commits an offence under these Regulations is liable—
+(a)
+on conviction on indictment, to imprisonment for a term not exceeding 2 years or a fine (or both); and
+(b)
+on summary conviction, to imprisonment for a term not exceeding six months or, in England and Wales, a fine or, in Scotland or Northern Ireland, a fine not exceeding £20,000, or both.The Secretary of State may issue written advice
+44.  If a specified international agreement applies, or may apply in future, to an item or to some qualifying nuclear material, the Secretary of State may provide an operator of a qualifying nuclear facility or other relevant person, who either holds the item or qualifying nuclear material or will receive or hold the item or qualifying nuclear material in future, with written advice which describes—
+(a)
+the item or the qualifying nuclear material; and
+(b)
+the specified international agreement which applies to the item or the qualifying nuclear material on the date of the written advice or will apply to the item in the future.Notification of receipt, production and transfer
+45.  An operator of a qualifying nuclear facility or other relevant person must send the Secretary of State notice in writing of—
+(a)
+the receipt, by that operator or person, of—
+(i)
+a relevant item; or
+(ii)
+qualifying nuclear material in respect of which the Secretary of State has issued an advice to an operator or other relevant person under regulation 44;
+(b)
+the production, processing, derivation or fabrication, by that operator or other person, of a relevant item from—
+(i)
+another relevant item; or
+(ii)
+from relevant qualifying nuclear material; and
+(c)
+the proposed transfer, by the operator or other person, of a relevant item together with details of the transferee and their location.Form of notification
+46.—(1) A notification under regulation 45 must be in writing and in the case of—
+(a)
+paragraphs (a) and (b) of regulation 45, be sent to the Secretary of State within a period of 5 days beginning with the day on which the event, described in the relevant paragraph, takes place; and
+(b)
+paragraph (c) of regulation 45, be sent to the Secretary of State at least 30 days before the proposed date of transfer.
+(2) The notification must—
+(a)
+set out the particulars of the person’s name and proper address (within the meaning of section 10(3) of the Nuclear Safeguards Act 2000(1)) and a description of the matter and item referred to in the relevant paragraph; and
+(b)
+be sent by post or delivered to the Department for Business, Energy and Industrial Strategy at 1, Victoria Street, London SWIH OET or sent by means of an electronic communications network to an address published on the BEIS website.
+(3) On a written request by the Secretary of State, an operator or other person must supply further details, explanations or clarifications of the matters set out in a notice required by this regulation, within the period of 15 days beginning with the day on which the request from the Secretary of State is received.
+(1)
+2000 c. 5. The amendments which have been made are not relevant to these Regulations.Notification of change
+47.  An operator or other person, who has sent a notification to the Secretary of State under regulation 45 or 46(3), must inform the Secretary of State of any material change in the information provided within the period of 15 days beginning with the day on which any change in the information occurs.Continued application
+48.  Regulations 45 to 47 continue to apply to a relevant item or to relevant qualifying nuclear material until the relevant item or relevant qualifying nuclear material is—
+(a)
+no longer usable for any nuclear activity relevant for nuclear safeguards;
+(b)
+irrecoverable for processing into a form in which it is usable for nuclear activity; or
+(c)
+the subject of a written advice from the Secretary of State that the item or qualifying nuclear material will cease to be the subject of a written advice, issued by the Secretary of State under regulation 44, with effect from a specified date, following an agreement between the United Kingdom and the Party to the specified international agreement.Interpretation
+49.  In this Part—
+“equipment” means—
+(a)
+nuclear reactors and especially designed or prepared equipment and components therefor;
+(b)
+non-nuclear materials for reactors;
+(c)
+plants for the reprocessing of irradiated fuel elements and equipment especially designed or prepared therefor;
+(d)
+plants for the fabrication of nuclear reactor fuel elements, and equipment especially designed or prepared therefor;
+(e)
+plants for the separation of isotopes of natural uranium, depleted uranium or special fissionable material and equipment, other than analytical instruments, especially designed or prepared therefor;
+(f)
+plants for the production or concentration of heavy water, deuterium and deuterium compounds and equipment especially designed or prepared therefor;
+(g)
+plants for the conversion of uranium and plutonium for use in the fabrication of fuel elements and the separation of uranium isotopes and equipment especially designed or prepared therefor,
+and each of those terms is more fully described in Annex B to the Agency’s Information Circular 254/Rev.13/Part 1 dated 8th November 2016;
+“item” means—
+(a)
+non-nuclear material which means deuterium, heavy water and nuclear grade graphite;
+(b)
+byproduct material which means any radioactive material (except qualifying nuclear material) yielded in or made radioactive by exposure to the radiation incident to the process of producing or utilizing qualifying nuclear material;
+(c)
+tritium which means compounds and mixtures which contain tritium in which the ratio of tritium to hydrogen by atoms is greater than 1 part per 1000;
+(d)
+equipment;
+(e)
+tritium-related equipment which means equipment, plants or facilities for the production, recovery, extraction, concentration, handling or storage of tritium;
+(f)
+technology which means specific information which is required for the development, production or use of any items of equipment or tritium-related equipment and which may take the form of technical data or technical assistance which terms are more fully described in Annex B to the Agency’s Information Circular 254/Rev.13/Part 1 dated 8th November 2016;
+“relevant item” means an item which is subject to a specified international agreement;
+“relevant qualifying nuclear material” means qualifying nuclear material which is subject to a specified international agreement;
+“specified international agreement” means an agreement which is described in paragraphs (c) to (f) of regulation 3 of the Nuclear Safeguards (Fissionable Material and Relevant International Agreements) (EU Exit) Regulations 2018(1).
+(1)
+S.I. 2018/xxxx.Extent
+50.  These Regulations extend to England and Wales, Scotland and Northern Ireland.General consequential and supplementary amendments Part 1 of Schedule 3
+51.  Schedule 3, Part 1 contains consequential and supplementary amendments of the Nuclear Safeguards and Electricity (Finance) Act 1978(1), the Nuclear Safeguards Act 2000 and the Nuclear Safeguards (Notification) Regulations 2004(2).
+(1)
+1978 c. 25. The amendments which have been made are not relevant to these Regulations.
+(2)
+S.I. 2004/1255. The amendments which have been made are not relevant to these Regulations.General consequential amendments Part 2 of Schedule 3
+52.  Schedule 3, Part 2 sets out the general consequential and supplementary amendments.Transitional provisions
+53.  Schedule 4, sets out the transitional provisions.Review
+54.—(1) The Secretary of State must from time to time—
+(a)
+carry out a review of the regulatory provision contained in these Regulations, and
+(b)
+publish a report setting out the conclusions of the review.
+(2) The first report must be published before 1st January 2024.
+(3) Subsequent reports must be published at intervals not exceeding 5 years.
+(4) Section 30(3) of the Small Business, Enterprise and Employment Act 2015 requires that a review carried out under this regulation must, so far as is reasonable, have regard to how the obligations under the Agreement with the Agency are implemented in other countries which are subject to the obligations.
+(5) Section 30(4) of the Small Business, Enterprise and Employment Act 2015 requires that a report published under this regulation must, in particular—
+(a)
+set out the objectives intended to be achieved by the regulatory provision referred to in paragraph (1)(a);
+(b)
+assess the extent to which those objectives are achieved;
+(c)
+assess whether those objectives remain appropriate; and
+(d)
+if those objectives remain appropriate, assess the extent to which they could be achieved in another way which involves less onerous regulatory provision.
+(6) In this regulation, “regulatory provision” has the same meaning as in sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015 (see section 32 of that Act).Name
+Parliamentary Under Secretary of State
+Department for Business, Energy and Industrial Strategy
+DateRegulation 3
+SCHEDULE 1
+PART 1
+QUESTIONNAIRE FOR THE DECLARATION OF THE BASIC TECHNICAL CHARACTERISTICS OF A QUALIFYING NUCLEAR FACILITY
+Regulation 14
+PART 2
+INVENTORY CHANGE REPORT
+Label/tag Content Comments #
+MBA Character (4) MBA code of reporting MBA 1
+Report type Character (1) I for Inventory Change Report 2
+Report date DDMMYYYY Date on which the report was completed 3
+Report number Number (8) Sequential number, no gaps 4
+Line count Number (8) Total number of lines reported 5
+Start report DDMMYYYY Date of first day in reporting period 6
+End report DDMMYYYY Date of last day in reporting period 7
+Reporting person Character (30) Name of person responsible for the report 8
+Transaction ID Number (8) Sequential number 9
+IC code Character (2) Type of inventory change 10
+Batch Character (20) Unique identifier for a batch of qualifying nuclear material 11
+KMP Character (1) Key measurement point 12
+Measurement Character (1) Measurement code 13
+Material form Character (2) Material form code 14
+Materialcontainer Character (1) Material container code 15
+Material state Character (1) Material state code 16
+MBA from Character (4) MBA code of shipping MBA (for IC codes RD and RF only) 17
+MBA to Character (4) MBA code of receiving MBA (for IC codes SD and SF only) 18
+Previous batch Character (20) Name of previous batch (for IC code RB only) 19
+Original date DDMMYYYY Accounting date of the line to be corrected (always of first line in correction chain) 20
+PIT date DDMMYYYY Date of physical inventory taking (PIT) to which MF adjustment refers (use with IC code MF only) 21
+Line number Number (8) Sequential number, no gaps 22
+Accounting date DDMMYYYY Date on which the inventory change occurred or became known 23
+Items Number (6) Number of items 24
+Element category Character (1) Category of qualifying nuclear material 25
+Element weight Number (24.3) Element weight 26
+Isotope Character (1) G for U-235, K for U-233, J for a mixture of U-235 and U-233 27
+Fissile weight Number (24.3) Weight of fissile isotope 28
+Isotopic composition Character (130) U, Pu isotopic weight (only if agreed in particular safeguard provisions) 29
+Obligation Character (2) Safeguards obligation 30
+Previous category Character (1) Previous category of qualifying nuclear material (use for IC codes CB, CC and CE only) 31
+Previous obligation Character (2) Previous obligation (use for IC codes BR, CR, PR and SR only) 32
+Document Character (70) Operator-defined reference to supporting documents 33
+Container ID Character (20) Operator-defined identifier for the container 34
+Correction Character (1) D for deletions, A for additions forming part of a deletion/addition pair, L for late lines (stand-alone additions) 35
+Previous report Number (8) Report number of line to be corrected 36
+Previous line Number (8) Line number of line to be corrected 37
+Comment Character (256) Operator comment 38
+Burn-up Number (6) Burn-up in MWdays/tonne (use for IC codes NL and NP in nuclear reactors only) 39
+CRC Number (20) Hash code of line for quality control purposes 40
+Previous CRC Number (20) Hash code of line to be corrected 41
+Advance notification Character (8) Reference to advance notification sent to the ONR (use for IC codes RD, RF, SD, SN and SF only) 42
+Campaign Character (12) Campaign identifier for qualifying nuclear facilities which carry out reprocessing 43
+Reactor Character (12) Reactor code for reprocessing campaigns 44
+Error path Character (8) Special code for evaluation purposes 45
+Regulation 15
+PART 3
+MATERIAL BALANCE REPORT (MBR)
+Label/tag Content Comments #
+MBA Character (4) MBA code of reporting MBA 1
+Report type Character (1) M for Material Balance Report 2
+Report date DDMMYYYY Date on which the report was completed 3
+Start report DDMMYYYY Starting date of MBR (date of last PIT +1 day) 4
+End report DDMMYYYY End date of MBR (date of current PIT) 5
+Report number Number (8) Sequential number, no gaps 6
+Element category Character (1) Category of qualifying nuclear material 7
+Line count Number (8) Total number of lines reported 8
+Reporting person Character (30) Name of person responsible for report 9
+IC code Character (2) Type of inventory change 10
+Line number Number (8) Sequential number, no gaps 11
+Element weight Number (24.3) Element weight 12
+Isotope Character (1) G for U-235, K for U-233, J for a mixture of U-235 and U-233 13
+Fissile weight Number (24.3) Weight of fissile isotope 14
+Obligation Character (2) Safeguards obligation 15
+Correction Character (1) D for deletions, A for additions forming part of a deletion/addition pair, L for late lines (stand-alone additions) 16
+Previous report Number (8) Report number of line to be corrected 17
+Previous line Number (8) Line number of line to be corrected 18
+Comment Character (256) Operator comment 19
+CRC Number (20) Hash code of line for quality control purposes 20
+Previous CRC Number (20) Hash code of line to be corrected 21
+Regulations 13 and 15
+PART 4
+PHYSICAL INVENTORY LISTING (PIL)
+Label/Tag Content Comments #
+MBA Character (4) MBA code of reporting MBA 1
+Report type Character (1) P for physical inventory listings 2
+Report date DDMMYYYY Date on which the report was completed 3
+Report number Number (8) Sequential number, no gaps 4
+PIT date DDMMYYYY Date on which the physical inventory was taken 5
+Line count Number (8) Total number of lines reported 6
+Reporting person Character (30) Name of person responsible for report 7
+PIL_ITEM_ID Number (8) Sequential number 8
+Batch Character (20) Unique identifier for a batch of qualifying nuclear material 9
+KMP Character (1) Key measurement point 10
+Measurement Character (1) Measurement code 11
+Element category Character (1) Category of qualifying nuclear material 12
+Material form Character (2) Material form code 13
+Material container Character (1) Material container code 14
+Material state Character (1) Material state code 15
+Line number Number (8) Sequential number, no gaps 16
+Items Number (6) Number of items 17
+Element weight Number (24.3) Element weight 18
+Isotope Character (1) G for U-235, K for U-233, J for a mixture of U-235 and U-233 19
+Fissile weight Number (24.3) Weight of fissile isotope 20
+Obligation Character (2) Safeguards obligation 21
+Document Character (70) Operator-defined reference to supporting documents 22
+Container ID Character (20) Operator-defined identifier for the container 23
+Correction Character (1) D for deletions, A for additions forming part of a deletion/addition pair, L for late lines (stand-alone additions) 24
+Previous report Number (8) Report number of line to be corrected 25
+Previous line Number (8) Line number of line to be corrected 26
+Comment Character (256) Operator comment 27
+CRC Number (20) Hash code of line for quality control purposes 28
+Previous CRC Number (20) Hash code of line to be corrected 29
+Regulation 21
+PART 5
+ADVANCE NOTIFICATION OF EXPORTS/SHIPMENTS OF QUALIFYING NUCLEAR MATERIAL
+Regulation 22
+PART 6
+ADVANCE NOTIFICATION OF IMPORTS/RECEIPTS OF QUALIFYING NUCLEAR MATERIAL
+Regulation 28
+PART 7
+REPORT OF ORE EXPORTS/SHIPMENTS
+Regulation 4
+PART 8
+OUTLINE PROGRAMME OF ACTIVITIES
+Regulation 30(1)(a)
+PART 9
+Regulation 30(1)(b)
+PART 10
+Regulation 31(2)(a)
+PART 11
+REQUEST FOR A QUALIFYING NUCLEAR FACILITY WITH LIMITED OPERATIONS
+Regulation 33(2)
+PART 12
+ADVANCE NOTIFICATION OF INTENDED WITHDRAWAL OF QUALIFYING NUCLEAR MATERIAL FROM CIVIL ACTIVITIESRegulation 6(3)
+SCHEDULE 2
+The Components of an Accountancy and Control System
+The components of an accountancy and control system, referred to in regulation 6(3), are set out below:
+1)
+a structure of material balance areas in which the physical inventory of qualifying nuclear material in that area and the transfers of qualifying nuclear material into and out of that areas can be determined. This structure should be designed to maximise the control of qualifying nuclear material flows and physical inventories;
+2)
+defined roles and responsibilities, that are assigned, and communicated to the staff of a qualifying nuclear facility to meet the obligations contained in these Regulations;
+3)
+quality assurance and quality control measures that detect, describe, address, and reduce sources of errors in and poor performance of, the system;
+4)
+a programme of measurements that provides accurate, suitably precise, and representative information that quantifies and characterises qualifying nuclear material;
+5)
+a measurement control programme that validates and provides traceability for measurement results and their uncertainties and ensures that measurements comply with the relevant international standards or are equivalent in quality to those standards, for example by assessing, approving, recording, and calibrating measurement procedures;
+6)
+the ability to track and document the movement of qualifying nuclear material through receipts, packaging, re-packaging, processing, storage, and shipment in a timely manner. The system should show the location, characteristics, and containment of all qualifying nuclear material;
+7)
+the ability to unambiguously identify batches of qualifying nuclear material in whatever containers, process vessels, or equipment they may be located in. The locations in which qualifying nuclear material can be held, as well as positions within these areas, should also be identifiable;
+8)
+an inventory control system to regularly check the agreement between records of qualifying nuclear material, and between those records and the physical reality, and take appropriate action to manage discrepancies as they arise by investigating, documenting, reporting, and resolving such discrepancies;
+9)
+the ability to manage anomalies consistent with the loss or gain of a significant amount of qualifying nuclear material, or any other situation corresponding with regulation 17 (unusual occurrences), in a timely manner by, for example, recognising, investigating, and documenting such anomalies. The system should define personnel responsibilities and authorities to carry out the actions required by regulation 16 (special reports);
+10)
+data processing procedures that store, trace, identify, and produce the information required by these Regulations, and that are required to facilitate the checking of data against the physical reality;
+11)
+reporting and notification procedures that transmit the information required by these Regulations through appropriate channels to the ONR and according to appropriate deadlines;
+12)
+receipt and shipment procedures that check the quantity and characteristics of qualifying nuclear material entering or leaving a qualifying nuclear facility against the accountancy information that must accompany such receipts and shipments. These procedures should also allow for the introduction or extraction of qualifying nuclear material to or from the tracking, identification, and inventory control processes described above;
+13)
+a Physical Inventory Taking (PIT), that is carried out in accordance with regulation 15(3) and 31(4)(b) at least every calendar year, with the period between two successive physical inventory takings not exceeding 14 months;
+14)
+procedures for a PIT that describe the responsibilities of those involved, the methods they should use, the records that should be kept, the associated measurement uncertainties and material balance tests (where appropriate), the reporting that must be made to the ONR, and the steps for authenticating any information made available to inspectors under these Regulations; and
+15)
+a List of Inventory Items (LII), generated from a PIT, that facilitates inspector verification of information provided to ONR against the physical reality. The LII should include information on the mass and composition of qualifying nuclear material per item, as well as its location, containment, identity, and type.Regulations 51 and 52
+SCHEDULE 3
+Consequential and supplementary amendments for Nuclear Safeguards Act 2000 and related legislation
+PART 1
+Nuclear Safeguards and Electricity (Finance) Act 1978
+1.  The Nuclear Safeguards and Electricity (Finance) Act 1978 is amended as follows.
+2.  In section 1—
+(a)
+in sub-section (1), for “made on 6th September at Vienna between the United Kingdom, the European Economic Energy Community and the International Atomic Energy Agency” substitute “made on 7 June 2018 at Vienna between the United Kingdom and the International Atomic Energy Agency”;
+(b)
+in sub-section (2), omit the words from the beginning to “1977, and”;
+(c)
+in paragraph (a) of subsection (2), omit the words “(of which the Protocol attached thereto forms an integral part)”.
+3.  In section 2(1)—
+(a)
+in paragraph (a) for “articles 71 to 84” substitute “articles 69 to 82”;
+(b)
+in paragraph (b) for “article 50” substitute “article 48”;
+(c)
+in the words after paragraph (b) for “article 85 of the Safeguards Agreement” substitute “article 83 of the Safeguards Agreement”.
+4.  In section 2(2)—
+(a)
+in paragraph (a)—
+(i)
+for “articles 5, 9(c) and 87” substitute “articles 4, 9(c) and 85”;
+(ii)
+omit “and the provisions of the Protocol which forms part of the Safeguards Agreement”;
+(b)
+in paragraph (b) for “where article 83 applies” substitute “where article 81 applies”.
+5.  In section 2(7) for “article 92(2)” substitute “article 90”.
+6.  In section 3(1)(b) for “article 76(d)” substitute “article 74(d)”.
+Nuclear Safeguards Act 2000
+7.  The Nuclear Safeguards Act 2000 is amended as follows.
+8.  In section 1(1)—
+(a)
+in the definition of “Additional Protocol” for “on 22nd September 1998 (Cm.4282)” substitute “on 7 June 2018”;
+(b)
+in the definition of “Additional Protocol information” omit “, or the third or fourth paragraph of Annex III to,”;
+(c)
+in the definition of “Agency inspector” for “Article 85 of the Safeguards Agreement” substitute “Article 83 of the Safeguards Agreement”;
+(d)
+in the definition of “Safeguards Agreement” for “on 6th September 1976 between the United Kingdom, the European Atomic Energy Community and the Agency” substitute “on 7 June 2018 between the United Kingdom and the Agency”.
+9.  In section 1(3) for “22nd September 1998” substitute “7 June 2018”.
+The Nuclear Safeguards (Notification) Regulations 2004
+10.  The Nuclear Safeguards (Notification) Regulations 2004 are amended as follows.
+11.  In regulation 2, omit the definition of “the commencement date”.
+12.  Omit regulation 3.
+13.  In the Schedule—
+(a)
+in the heading for Part I for “ACTIVITIES REFERRED TO IN REGULATIONS 3(1) AND 4(1)” substitute “ACTIVITIES REFERRED TO IN REGULATION 4(1)”; and
+(b)
+in paragraph 1 for “The activities referred to in regulations 3(1) and 4(1) are” substitute “The activities referred to in regulation 4(1) are”.
+PART 2
+General consequential and supplementary amendments
+Revocation of retained EU law
+14.—(1) The following are revoked—
+(2) Commission Regulation (EURATOM) 302/2005(1); and
+(3) any Decision made by the Commission under—
+(a)
+Article 6 of Regulation (EURATOM) 302/2005; or
+(b)
+Articles 7 and 8 of Regulation (EURATOM) 3227/76(2)
+which was directed to a person in the United Kingdom and in force on commencement day.
+(1)
+OJ L 54, 28.2.2005 p.1-71.
+(2)
+OJ L 363, 31.12.1976, p.1-57.Regulation 53
+SCHEDULE 4
+Transitional provisions
+Declaration of basic technical characteristics
+1.  An operator of a qualifying nuclear facility, which exists on commencement day, may satisfy the requirement of regulation 3(1) (to provide the ONR with a declaration of basic technical characteristics) by providing to the ONR, within the period of thirty days beginning on commencement day written confirmation that the information concerning basic technical characteristics which was provided by the operator to the Commission under Article 3 of Commission Regulation (EURATOM) 302/2005 is still correct on commencement day.
+Initial book inventory
+2.  An operator of a qualifying nuclear facility, which exists on commencement day, may satisfy the requirement of regulation 13 (to provide the ONR with an initial book inventory, by sending to the ONR) within the period of 15 days beginning on commencement day, a physical inventory listing (set out in Part 4 of Schedule 1) which shows the position on commencement day and has been generated from the nuclear material management system at the qualifying nuclear facility.
+Inventory change report
+3.—(1) An operator of a qualifying nuclear facility, which exists on commencement day, must send two inventory change reports to the ONR, under regulation 14 within the period of 15 days beginning on the day on which the end of the month occurs, which began before and ends on or after commencement day—
+(a)
+the first report must set out any inventory changes which have occurred or become known to the operator during the period from the start of the month to commencement day; and
+(b)
+the second report must set out any inventory changes which have occurred or become known to the operator during the period from commencement day to the end of the month.
+(2) Sub-paragraph (1) does not apply if commencement day does not fall on a day which is not the last day of a month.
+Material balance report
+4.  An operator of a qualifying nuclear facility, which exists on commencement day, must carry out the first physical inventory for each material balance area, in accordance with regulation 15(3), within a period of 14 months beginning on the day on which the last physical inventory was carried out under Article 13 of Commission Regulation (EURATOM) 302/2005.
+Stock list for conditioned and retained waste held on commencement day
+5.  If during the period of twelve months ending on commencement day an operator of a qualifying nuclear facility that is used to treat or store retained or conditioned waste has sent a stock list to the Commission under Article 31(1) of Commission Regulation (EURATOM) 302/2005 the operator is to be treated as having complied with regulation 29(2).
+Advance notification or report
+6.—(1) Where—
+(a)
+an advance notification or report is required or permitted;
+(b)
+the notification or report relates to a matter which occurs on or after commencement day; and
+(c)
+an operator of a qualifying nuclear facility sent to the Commission, before commencement day, an advance notification or report in respect of that matter under the Article of Commission Regulation (EURATOM) 302/2005 set out in the first column of the table;
+the advance notification or report, which was sent to the Commission, is to be treated, for the purposes of these Regulations, as having been sent by the operator to the ONR under the relevant regulation set out in the second column of the table.
+Relevant provision of Commission Regulation (EURATOM) 302/2005 Relevant provision of these Regulations
+1. Information on new qualifying nuclear facilities (Article 4 and 24) Regulation 3(2)
+2. Advance notice of changes to the basic technical characteristics of a qualifying nuclear facility Article 4 Regulation 3(3)
+3. Programme of activities Article 5 Regulation 4
+4. Special Report Article 14 Regulation 16(1)
+5. Advance notification of exports of qualifying nuclear material Article 20 and Annex VI Regulation 21(1) and (2) and the form set out in Part 5 of Schedule 1
+6. Advance notification of imports of qualifying nuclear material Article 21 and Annex VII Regulation 22(1)-(3) and the form set out in Part 6 of Schedule 1
+(2) To the extent that, in the period of six months before commencement day, an operator sent a special report to the Commission under Article 14 of Commission Regulation (EURATOM) 302/2005, then the operator must comply with regulations 16(3) and 17(3) in respect of that special report.
+Advance notification on or after commencement day
+7.—(1) If—
+(a)
+the activities listed in sub-paragraph 3(1)(b) or (c )(i)-(iii) occur on or after commencement day; and
+(b)
+paragraph 7 of this Schedule does not apply
+the operator must, unless the ONR has previously agreed in writing to a shorter notice period, make the declaration to the ONR on or after commencement day and not later than 200 days prior to the date on which the activity occurs.
+(2) In the case of a new qualifying nuclear facility, which comes into existence on or after 1st January 2021, as described in regulation 7(3), the operator must, unless the ONR has previously agreed in writing to a shorter notice period, send an accountancy and control plan to the ONR no later than 200 days prior to the day on which qualifying nuclear material is first received at the facility.
+Accountancy and control of qualifying nuclear material
+8.—(1) An operator of a qualifying nuclear facility or other person who, on commencement day, was required to keep records by the following Articles of Commission Regulation (EURATOM) 302/2005—
+(a)
+8 (operating records),
+(b)
+9 (accounting records),
+(c)
+24(2) (extraction of ores),
+(d)
+30(2) (waste) or
+(e)
+26 (carriers and temporary storage agents)
+must retain those records for a period of at least five years commencing with commencement day.
+(2) An operator must, if requested by the ONR, make the records, referred to in paragraph (1), available for inspection by the ONR at the relevant qualifying nuclear facility and provide the ONR with copies. The records may be made available in electronic form if they are kept in this form by the operator.
+(3) An operator must keep the accounting records retained under sub-paragraph (1) up to date.
+Operator of qualifying nuclear facility with limited operation
+9.—(1) Where, on commencement day, an operator—
+(a)
+does not qualify for an exemption under regulation 32 of these Regulations;
+(b)
+benefits from a derogation granted by the Commission in respect of a particular qualifying nuclear facility or qualifying nuclear material, under Article 19 of Commission Regulation (EURATOM) 302/2005 or Article 22 of Regulation (EURATOM) 3227/76; or
+(c)
+operates a qualifying nuclear facility—
+(i)
+in which less than one effective kilogram of qualifying nuclear material is produced, processed, stored, handled, disposed of or otherwise used; and
+(ii)
+which is not a reactor, a critical facility, a conversion plant, a fabrication plant, a reprocessing plant, an isotope separation plant nor a separate storage installation
+the operator shall be treated as benefitting from regulation 31(8) for a period of twelve months commencing on commencement day.
+(2) An operator to whom paragraph (1) applies must, during the twelve month period commencing on commencement day, comply with the requirements of these Regulations, as adapted by regulation 31(8), and may, with the consent of the ONR substitute, for some or all of the forms required by these Regulations, the forms and information which the operator would have been required to send to the Commission during that 12 month period had these Regulations not commenced.EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations commence on exit day, which is when the United Kingdom will cease to be a member of both the European Union and of the European Atomic Energy Community. Prior to the commencement day, nuclear safeguards in the United Kingdom, were regulated by the EURATOM treaty, as amended by the Treaty of Lisbon, which was signed on 13 December 2007, and by Commission Regulation (EURATOM) 302/2005 (OJ L 54, 28.2.2005 p1-71). With effect from commencement day, the United Kingdom’s domestic provisions on nuclear safeguards will be set out in the Energy Act 2013 (c. 32), as amended by the Nuclear Safeguards Act 2018 (c. 15), these Regulations and the Nuclear Safeguards (Fissionable Material and Relevant International Agreements) (EU Exit) Regulations 2018 (S.I. 2018/xxxx).
+These Regulations are made under powers contained in the Energy Act 2013, as amended by the Nuclear Safeguards Act 2018. The Regulations set out the United Kingdom regime for nuclear safeguards in civil activities (rather than defence). The Regulations give effect to the International Agreement dated 7th June 2018 between the United Kingdom of Great Britain and Northern Ireland and the International Atomic Energy Agency (the “Agency”) on the non-proliferation of nuclear weapons (the “IAEA Agreement”). The IAEA Agreement is supplemented by an Additional Protocol, of the same date, between the United Kingdom and the Agency which requires the United Kingdom to provide additional information to the Agency and sets out additional requirements relating to access by the Agency.
+The Regulations require the operator of a qualifying nuclear facility to maintain records and to provide information to the Office for Nuclear Regulation (“ONR”) which the ONR will then use to provide information to the Agency, as appropriate, in fulfilment of the obligations of the United Kingdom under the IAEA Agreement.
+The bilateral IAEA Agreement has replaced a previous trilateral agreement, dated 6 September 1976, which was entered into between the United Kingdom, the European Atomic Energy Community and the International Atomic Energy Agency (the “1976 Agreement”). As a result of the withdrawal of the United Kingdom from EURATOM, the 1976 Agreement was no longer appropriate and was replaced by the IAEA Agreement.
+In addition, Commission Regulation (EURATOM) No 302/2005, of 8th February 2005, on the application of EURATOM safeguards (the “EU Regulation”) sets out the regime for nuclear safeguards in civil activities, with which the operators of nuclear installations were required to comply. It is supplemented by Commission Recommendation, of 11th February 2009, on the implementation of a nuclear material accountancy and control system by the operators of nuclear installations (the “Recommendation”). These Regulations replace the EU Regulation and the Recommendation.
+In order to maintain the extent and coverage of nuclear safeguards and to minimise the amount of adjustment required by the operators, the Regulations reflect many features of the EU Regulation although there are some differences, to take account of the features which exist in the United Kingdom.
+Regulation 1 deals with commencement. The bulk of the regulations commence on exit day. Regulations 7 to 9, which set out the requirements for the accountancy and control plan, commence on 1st January 2021.
+The NS Act inserts definitions of “civil activities”, “qualifying nuclear equipment”, “qualifying nuclear facility” and “qualifying nuclear material” into the new section 76A (7) of the Energy Act.
+Regulation 2 defines other terms which are used in the Regulations.
+Regulation 3 requires an operator to declare the basic technical characteristics of a qualifying nuclear facility to the ONR using the questionnaire set out in Part 1 of Schedule 1 to the Regulations.
+Regulation 4 requires an operator to send an annual programme of activities to the ONR by way of the form set out in Part 8 of Schedule 1.
+Regulation 5 provides the ONR with a power to adopt particular safeguard provisions in relation to a qualifying nuclear facility on the basis of the technical characteristics submitted by an operator under Regulation 3.
+Regulation 6 requires an operator to maintain a system of accountancy and control of qualifying nuclear material. Schedule 2 sets out the components of an accountancy and control system.
+Regulations 7 to 9 require an operator to produce an accountancy and control plan and send it to the ONR.
+Regulations 10 and 11 require an operator to produce operating and accounting records respectively.
+Regulation 12 requires an operator to produce accounting reports and to send them to the ONR.
+Regulation 13 requires an operator to provide the ONR with an initial book inventory in the form set out in Part 4 of Schedule 1. Regulation 14 requires the operator to submit an inventory change report using the form set out in Part 2 of Schedule 1. Regulation 18 provides that, in the case of reactors, the inventory change report must include calculated data on nuclear transformations.
+Regulation 15 requires an operator to provide the ONR with a material balance report, in respect of each material balance area, in the form set out in Part 3 of Schedule 1 and with a physical inventory listing, in the form set out in Part 4 of Schedule 1.
+Regulation 16 requires an operator to submit a special report to the ONR in the circumstances described in regulations 17 and 23. These are in the event of an unusual incident or a change in containment or where, following exceptional circumstances or an incident, the operator has been informed that qualifying nuclear material may have been lost. The Regulations do not specify the form of the special report.
+When an operator provides an initial book inventory, inventory change report, material balance report, physical inventory listing or notice of intended imports and exports, then regulation 19 requires the operator to identify separately for each obligation any qualifying nuclear material which is subject to such an obligation in a relevant international agreement or obligation resulting from international trade. The four relevant international agreements, defined for the purposes of the section 76A(6) of the Energy Act 2013, are the United States, Australia, Canada and Japan. The obligations resulting from international trade are described in regulation 19(4). The text of the relevant international agreements and of the obligations concerning international trade, described in 19(4)(a) to (e) are published on the Foreign and Commonwealth Office website www.treaties.fco.gov.uk/treaties.
+Regulation 20 sets out the weight units and categories of qualifying nuclear materials to be used in the notifications which are required under the Regulations.
+Regulations 21 and 22 require an operator to provide the ONR with advance notification of exports and imports using the forms set out in Parts 5 and 6 of Schedule 1 respectively. Regulation 24 requires an operator to inform the ONR without delay of any change in the dates of packing before transfer, transport and unpacking.
+Regulations 25 and 26 require carriers and temporary storage agents of qualifying nuclear material to keep records.
+Regulation 27 provides that an ore producer is not required to comply with regulations 4 and 10 to 15 and sets out the accounting requirements for ores. Regulation 28 disapplies regulations 21 to 24 and requires an ore producer to inform the ONR of ore exports using the form set out in Part 7 of Schedule 1.
+Regulation 29 provides that an operator of a qualifying nuclear facility that treats or stores retained or conditioned waste is not required to comply with regulations 10 to 15 and sets out the accounting requirements for waste. Regulation 30 requires an operator to inform the ONR of transfers of conditioned waste using the forms set out in Parts 9 (exports) or 10 (imports) of Schedule 1.
+Regulation 31 sets out the requirements concerning the declaration of basic technical characteristics, stock list and accounting records for an operator of a qualifying nuclear facility with limited operation.
+Regulation 32 sets out two exemptions. First, the Regulations do not apply to a person who holds only end products which are used for non-nuclear purposes and which incorporate qualifying nuclear material which is in practice irrecoverable. Second, the Regulations do not apply to a relevant educational institution, described in regulation 32(2)(a), which holds an amount equal to 0.01 effective kilograms or less of uranium or thorium where, in the case of uranium, the isotopes 235 and 233 comprise 1% or less of the total mass of uranium.
+Regulation 33 requires an operator to notify the ONR if qualifying nuclear material is withdrawn from civil activities.
+Regulation 34 provides that the Regulations apply to the qualifying nuclear material which is used in civil activities in a qualifying nuclear facility even if the qualifying nuclear facility is only partly used for civil activities.
+Regulation 35 sets out the methods of communication with the ONR.
+Regulations 36 to 38 require an operator, at the written request of the ONR, to install suitable safeguards equipment in a qualifying nuclear facility. Safeguards equipment is defined as equipment used by the ONR or the Agency to provide independent confirmation that the information produced by an operator under the Regulations is accurate and up to date.
+Regulation 39 provides the ONR with a power to carry out inspections.
+Regulation 40 provides for the publication of information by the ONR.
+Regulation 41 requires the ONR to provide an annual report on the application of the Regulations to the Secretary of State.
+Regulation 42 requires the ONR to provide to the Agency that information which the United Kingdom is required to provide to the Agency under the Agreement with the Agency.
+Regulation 43 provides that if an operator fails to comply with regulations 3(1) to (3), 4, 6(1), (2), (4) and (5), 7(1) and (4), 12(2) and (3), 13, 14(1) to (3), 15, 16(1) and (3), 19(1), 21(1) and (2), 22(1) and (2), 24, 33(1), 45, 46(1) and (3) or if any person fails to comply with regulation 38 or 45, they are guilty of an offence.
+Regulations 44 to 49 govern the provision of information to the Secretary of State concerning non-nuclear material, equipment and technology to which a specified international agreement (with the United States, Japan, Australia and Canada) apply. Regulation 45 sets out the requirements on an operator of a qualifying nuclear facility or other person to inform the Secretary of State of the receipt, production or transfer of relevant items. Regulation 46 sets out the time period for the notification and regulation 47 requires an operator to notify the Secretary of State of any relevant change. Regulation 48 sets out the circumstances in which regulations 45 to 47 cease to apply and regulation 49 sets out interpretation provisions for Part 13.
+Regulation 50 provides that the Regulations extend to England and Wales, Scotland and Northern Ireland.
+Regulation 51, provides that Part 1 of Schedule 3, which contains the consequential amendments to the Nuclear Safeguards and Electricity (Finance) Act 1978, the Nuclear Safeguards Act 2000 and the Nuclear Safeguards (Notification) Regulations 2004, has effect.
+Regulation 52, provides that Part 2 of Schedule 3, which contains general consequential amendments, has effect.
+Regulation 53, provides that Schedule 4, which contains the transitional provisions, has effect.
+Regulation 54 is a review clause requiring a review of the Regulations before 1st January 2024.
+A full impact assessment of the effect that this instrument together with the Fissionable Regulations will have on the costs of business and the voluntary sector is available from the Department for Business, Energy and Industrial Strategy at 1 Victoria Street, London, SW1H 0ET and is published on the BEIS website https://www.gov.uk/government/consultations/nuclear-safeguards-regulations. It is also published with the Explanatory Memorandum alongside the instrument on www.legislation.gov.uk.

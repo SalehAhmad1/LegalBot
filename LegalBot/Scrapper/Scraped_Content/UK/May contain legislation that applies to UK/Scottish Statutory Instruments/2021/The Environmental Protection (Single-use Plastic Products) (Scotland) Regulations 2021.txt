@@ -1,0 +1,330 @@
+SCOTTISH STATUTORY INSTRUMENTS
+2021 No. 410
+ENVIRONMENTAL PROTECTION
+The Environmental Protection (Single-use Plastic Products) (Scotland) Regulations 2021
+Made
+9th November 2021
+Laid before the Scottish Parliament
+11th November 2021
+Coming into force
+1st June 2022
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 140(1)(b) and (c), (2), (3)(c) and (d), and (9) of the Environmental Protection Act 1990(1) and all other powers enabling them to do so.
+In accordance with section 140(6) of that Act(2), they have published notices in the London Gazette and in the Edinburgh Gazette and have considered the representations made to them in accordance with those notices.
+(1)
+1990 c. 43. Section 140(3)(c) was amended by S.I. 1999/1108. The functions of the Secretary of State under section 140, insofar as exercisable within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998 c. 46.
+(2)
+The requirement to consult the Advisory Committee on Hazardous Substances, formerly established under section 140(5) of the Environmental Protection Act 1990, was removed by S.I. 2012/1923.Citation, commencement and extent
+1.—(1) These Regulations may be cited as the Environmental Protection (Single-use Plastic Products) (Scotland) Regulations 2021 and come into force on 1 June 2022.
+(2) These Regulations extend to Scotland only.Interpretation
+2.  In these Regulations—
+“authorised purpose” means the purpose of determining whether an offence under regulation 3(1), (2) or (3), 4(1), or 5(1) has been or is being committed,
+“catering establishment” has the meaning given in regulation 8(3),
+“end-user” means any person to whom a product is supplied, other than—
+(a)
+for the purpose of supplying it, in the course of a business, to another person, or
+(b)
+for the purposes of a catering establishment or an establishment or a premises of a kind referred to in regulation 9(1),
+“enforcement officer” means a person authorised under regulation 14,
+“food containers” means receptacles such as boxes, with or without a cover, used to contain food which is—
+(a)
+intended for immediate consumption, either on-the-spot or as takeaway,
+(b)
+typically consumed from the receptacle, and
+(c)
+ready to be consumed without any further preparation, such as cooking, boiling or heating,
+including food containers used for fast food or other meals ready for immediate consumption, except beverage containers, plates, and packets and wrappers containing food,
+“local authority” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994(1),
+“medical device” has the meaning given in regulation 6(2)(a),
+“medical purposes” has the meaning given in regulation 6(2)(b),
+“plastic” means a material consisting of a polymer as defined in Article 3(5) of Regulation (EC) No 1907/2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH)(2), to which additives or other substances may have been added, and which can function as main structural component of final products, with the exception of natural polymers that have not been chemically modified,
+“retail pharmacy business” has the meaning given in regulation 7(6),
+“single-use”, in relation to a product, means that it is not conceived, designed or placed on the market to accomplish, within its life span, multiple trips or rotations by being returned to a producer for refill or re-used for the same purpose for which it was conceived,
+“single-use expanded polystyrene beverage container” means a beverage container, including any cap or lid, that is—
+(a)
+made wholly or partly from expanded polystyrene, and
+(b)
+single-use,
+“single-use expanded polystyrene beverage cup” means a cup for beverages, including any cover or lid, that is—
+(a)
+made wholly or partly from expanded polystyrene, and
+(b)
+single-use,
+“single-use expanded polystyrene food container” means a food container that is—
+(a)
+made wholly or partly from expanded polystyrene, and
+(b)
+single-use,
+“single-use plastic balloon stick” means a stick, including its mechanisms, that is—
+(a)
+designed and intended to be attached to and to support balloons,
+(b)
+made wholly or partly from plastic, and
+(c)
+single-use,
+“single-use plastic beverage stirrer” means an implement that is—
+(a)
+designed and intended for stirring beverages,
+(b)
+made wholly or partly from plastic, and
+(c)
+single-use,
+“single-use plastic cutlery” means cutlery that is—
+(a)
+designed and intended for eating or serving food, including forks, knives, spoons, chopsticks and other similar utensils,
+(b)
+made wholly or partly from plastic, and
+(c)
+single-use,
+“single-use plastic plate” means a plate that is—
+(a)
+made wholly or partly from plastic, and
+(b)
+single-use,
+“single-use plastic straw” means a straw that is—
+(a)
+made wholly or partly from plastic, and
+(b)
+single-use, and
+“supply” means supply, whether by way of sale or not.
+(1)
+1994 c. 43. Section 2 was amended by paragraph 232(1) of schedule 22 of the Environment Act 1995 c. 25.
+(2)
+EUR 206/1907, to which there are amendments not relevant to these Regulations.Offences: single-use plastic products and single-use expanded polystyrene products
+3.—(1) A person who, in the course of a business, supplies, offers to supply, or has in their possession for supply any of the products referred to in paragraph (4) commits an offence.
+(2) A person who uses expanded polystyrene to manufacture any of the products referred to in sub-paragraphs (4)(a) to (c) commits an offence.
+(3) A person who uses plastic to manufacture any of the products referred to in sub-paragraphs (4)(d) to (f) commits an offence.
+(4) The products are—
+(a)
+single-use expanded polystyrene beverage containers,
+(b)
+single-use expanded polystyrene beverage cups,
+(c)
+single-use expanded polystyrene food containers,
+(d)
+single-use plastic beverage stirrers,
+(e)
+single-use plastic cutlery,
+(f)
+single-use plastic plates.
+(5) A person who commits an offence under paragraph (1), (2) or (3) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.Offence: single-use plastic balloon sticks
+4.—(1) A person who, in the course of a business, supplies, offers to supply, or has in their possession for supply a single-use plastic balloon stick commits an offence.
+(2) Paragraph (1) does not apply where the single-use plastic balloon stick is supplied for attaching to balloons for industrial or other professional uses and applications that are only distributed to persons acting in the course of a business.
+(3) A person who commits an offence under paragraph (1) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.Offence: single-use plastic straws
+5.—(1) A person who, in the course of a business, supplies, offers to supply, or has in their possession for supply, to an end-user, a single-use plastic straw commits an offence.
+(2) Paragraph (1) is subject to the exemptions in regulations 6 to 11.
+(3) A person who commits an offence under paragraph (1) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.Exemption: medical devices and medical purposes
+6.—(1) Regulation 5(1) does not apply to the supply of a single-use plastic straw—
+(a)
+that is a medical device, or
+(b)
+for use for medical purposes.
+(2) In this regulation—
+(a)
+“medical device” means a medical device within the meaning given in regulation 2 of the Medical Devices Regulations 2002(1), to which Part 2 or Part 3 of those Regulations applies, and
+(b)
+“medical purposes” means the purposes of preventative medicine, medical diagnosis, medical research and the provision of medical care and treatment.
+(3) This regulation does not apply to the supply of a single-use plastic straw by a retail pharmacy business or by a catering establishment.
+(1)
+S.I. 2002/618, as relevantly amended by S.I. 2008/2936.Exemption: retail pharmacy business
+7.—(1) Regulation 5(1) does not apply to the supply of a single-use plastic straw by a retail pharmacy business in the cases referred to in paragraph (2), provided that the conditions in paragraph (3) are complied with.
+(2) For the purposes of paragraph (1), the cases are where the single-use plastic straw is supplied to an end-user—
+(a)
+at a registered pharmacy, or
+(b)
+by means of online or other distance selling arrangements.
+(3) The conditions are that the single-use plastic straws—
+(a)
+must not be advertised to customers by the retail pharmacy business, and
+(b)
+if supplied at a registered pharmacy—
+(i)
+must not be kept in a place where they are visible to customers, or where customers can access them, and
+(ii)
+must not be offered or provided to a customer unless the customer has requested them.
+(4) The condition in paragraph (3)(a) does not prohibit the display of single-use plastic straws for sale on a website or an application through which the retail pharmacy business sells products online.
+(5) The condition in paragraph (3)(b)(ii) does not prohibit the offering or provision of single-use plastic straws which are medical devices or for use for medical purposes to a customer who has not requested them.
+(6) In this regulation, “registered pharmacy” and “retail pharmacy business” have the meanings given in regulation 8(1) of the Human Medicines Regulations 2012(1).
+(1)
+S.I. 2012/1916, to which there are amendments not relevant to these Regulations.Exemption: catering establishments
+8.—(1) Regulation 5(1) does not apply to the supply by a catering establishment of a single-use plastic straw together with food or drink which is supplied for immediate consumption, provided that the conditions in paragraph (2) are complied with.
+(2) The conditions are that the single-use plastic straws—
+(a)
+must not be kept in a place where they are visible to customers, or where customers can access them, and
+(b)
+must not be offered or provided to a customer unless the customer has requested them.
+(3) In this regulation, “catering establishment” means a restaurant, canteen, club, public house or similar establishment (including a vehicle or a fixed or mobile stall) which supplies food or drink that is ready for consumption without further preparation.Exemption: other establishments
+9.—(1) Regulation 5(1) does not apply to the supply of a single-use plastic straw in a—
+(a)
+care home,
+(b)
+school,
+(c)
+premises used for early learning and childcare, day care of children or child minding, or
+(d)
+prison or other place of detention.
+(2) In this regulation—
+(a)
+“care home” means accommodation that is provided as a care home service within the meaning given in paragraph 2 of schedule 12 of the Public Services Reform (Scotland) Act 2010(1),
+(b)
+“child minding” has the meaning given in paragraph 12 of schedule 12 of that Act(2),
+(c)
+“day care of children” has the meaning given in paragraph 13 of schedule 12 of that Act,
+(d)
+“early learning and childcare” has the meaning given in section 46 of the Children and Young People (Scotland) Act 2014(3),
+(e)
+“prison” means—
+(i)
+a prison within the meaning of section 43 of the Prisons (Scotland) Act 1989(4),
+(ii)
+a young offenders institution within the meaning of section 19(1)(b) of that Act(5), and
+(f)
+“school” has the meaning given in section 135(1) of the Education (Scotland) Act 1980(6).
+(1)
+2010 asp 8.
+(2)
+Paragraph 12(e) was amended by S.S.I. 2013/211.
+(3)
+2014 asp 8.
+(4)
+1989 c. 45.
+(5)
+Section 19(1)(b) was amended by section 23(1) of the Criminal Justice (Scotland) Act 2003 asp 7.
+(6)
+The definition of “school” was amended by schedule 3 of the Standards in Scotland’s Schools etc. Act 2000 asp 6 and the section 2(2) of the Registered Establishments (Scotland) Act 1987 c. 4.Exemption: support service which provides personal care or personal support
+10.—(1) Regulation 5(1) does not apply to the supply of a single-use plastic straw for use in the course of a support service which provides personal care or personal support.
+(2) In this regulation—
+“personal care” and “personal support” have the meanings given in paragraph 20 of schedule 12 of the Public Services Reform (Scotland) Act 2010, and
+“support service” has the meaning given in paragraph 1 of schedule 12 of the Public Services Reform (Scotland) Act 2010(1).
+(1)
+The definition of “support service” is modified by S.S.I. 2012/44.Exemption: packaging
+11.—(1) Regulation 5(1) does not apply to the supply of a single-use plastic straw that is packaging.
+(2) In this regulation, “packaging” has the meaning given in regulation 3 of the Packaging (Essential Requirements) Regulations 2015(1).
+(1)
+S.I. 2015/1640, to which there are amendments not relevant to these Regulations.Offences by bodies corporate
+12.—(1) Where—
+(a)
+an offence under these Regulations has been committed by a body corporate or a Scottish partnership or other unincorporated association, and
+(b)
+it is proved that the offence was committed with the consent or connivance of, or was attributable to any neglect on the part of—
+(i)
+a relevant individual, or
+(ii)
+an individual purporting to act in the capacity of a relevant individual,
+the individual as well as the body corporate, Scottish partnership or unincorporated association commits an offence and is liable to be proceeded against and punished accordingly.
+(2) In paragraph (1), “relevant individual” means—
+(a)
+in relation to a body corporate—
+(i)
+a director, manager, secretary or other similar officer of the body,
+(ii)
+where the affairs of the body are managed by its members, a member,
+(b)
+in relation to a Scottish partnership, a partner,
+(c)
+in relation to an unincorporated association other than a Scottish partnership, a person who is concerned in the management or control of the association.Defence of due diligence
+13.—(1) Where a person is charged with an offence under these Regulations, it is a defence for that person to show that the person took all reasonable precautions and exercised all due diligence to prevent the offence being committed.
+(2) Where the defence provided by paragraph (1) involves an allegation that the commission of the offence was due to the act or omission of another person, the person charged must not, without leave of the court, be entitled to rely on the defence unless, within the period of 7 days before the hearing, the person charged has served on the prosecutor a notice giving such information identifying or assisting in the identification of the other person as was then in the possession of the person charged.Enforcement
+14.—(1) A local authority may authorise any person to exercise in its area, for an authorised purpose and in accordance with the terms of the authorisation, any of the powers specified in regulation 15, if that person appears suitable to exercise them.
+(2) An authorisation under paragraph (1) must be in writing.Powers of entry and examination etc.
+15.—(1) The powers which an enforcement officer may be authorised to exercise are—
+(a)
+to enter at any reasonable time any premises (other than premises used wholly or mainly as a dwelling) which the enforcement officer has reason to believe it is necessary to enter for an authorised purpose,
+(b)
+when entering any premises under sub-paragraph (a)—
+(i)
+to be accompanied by another enforcement officer, and
+(ii)
+to bring any equipment or materials required for any authorised purpose for which the power of entry is being exercised,
+(c)
+on entering any premises under sub-paragraph (a)—
+(i)
+to make such examination and investigation as may in any circumstances be necessary,
+(ii)
+to take such measurements and photographs and make such recordings as the enforcement officer considers necessary for the purpose of any such examination or investigation, and
+(iii)
+to require the production of, or where the information is recorded in computerised form, the furnishing of extracts from, any documents which it is necessary for the enforcement officer to see for the purposes of any such examination or investigation and to inspect and take copies of the document,
+(d)
+as regards any premises which an enforcement officer has power to enter under sub-paragraph (a), to direct that those premises or any part of them, or anything in them, be left undisturbed (whether generally or in particular respects) for so long as is reasonably necessary for the purpose of examination or investigation under sub-paragraph (c),
+(e)
+to take any samples, or cause samples to be taken, of any articles or substances found in or on any premises which an enforcement officer has power to enter under sub-paragraph (a), and to cause any such articles or substances to be analysed or tested,
+(f)
+in the case of any such sample, to take possession of it and to retain it for so long as is necessary for all or any of the following purposes—
+(i)
+to examine it, and subject it to any process or test, or cause it to be examined,
+(ii)
+to ensure that it is not tampered with before the examination is completed,
+(iii)
+to ensure that it is available for use as evidence in any proceedings for an offence under these Regulations.
+(2) Except in an emergency, where an enforcement officer proposes to enter any premises and—
+(a)
+entry has been refused and the enforcement officer apprehends on reasonable grounds that the use of force may be necessary to effect entry, or
+(b)
+the enforcement officer apprehends on reasonable grounds that entry is likely to be refused and that the use of reasonable force may be necessary to effect entry,
+any entry on to those premises by virtue of paragraph (1)(a) may only be effected under the authority of a warrant by virtue of paragraph (3).
+(3) If it is shown to the satisfaction of a sheriff, summary sheriff or justice of the peace on sworn information in writing—
+(a)
+that there is reasonable ground for entry into the premises for the purpose for which entry is required, and
+(b)
+that one or more of the conditions specified in paragraph (4) below is fulfilled,
+the sheriff, summary sheriff or justice of the peace may by warrant authorise the enforcement officer to enter the premises, in accordance with the warrant and, if need be, by force.
+(4) The conditions mentioned in paragraph (3)(b) above are—
+(a)
+that admission to any premises has been refused,
+(b)
+that such a refusal is reasonably apprehended,
+(c)
+that the premises are unoccupied,
+(d)
+that the occupier is temporarily absent from the premises and the case is one of urgency, or
+(e)
+that an application for admission to the premises would defeat the object of the proposed entry.
+(5) A warrant issued in pursuance of paragraph (3) above continues in force until the purpose for which the entry is required has been satisfied.
+(6) Nothing in paragraph (1)(c)(iii) compels the production by a person of any document of which that person would on grounds of legal professional privilege be entitled to withhold production on an order for the production of documents in an action in the Court of Session.
+(7) An enforcement officer may only exercise the powers in paragraph (1) if the enforcement officer has reasonable cause to believe that an offence under regulations 3(1), (2) or (3), 4(1) or 5(1) has been committed.
+(8) An enforcement officer seeking to exercise a power under paragraph (1) must produce evidence of identity and authority if requested by a person who is, or appears to be—
+(a)
+a supplier, or employee of such a supplier, of—
+(i)
+any products referred to in regulation 3(4),
+(ii)
+single-use plastic straws, or
+(iii)
+single-use plastic balloon sticks,
+(b)
+a manufacturer, or employee of such a manufacturer, of any products referred to in regulation 3(4), or
+(c)
+the owner or occupier of any premises in which the enforcement officer seeks to exercise the power concerned.
+(9) In this regulation—
+“document” includes any thing in which information of any description is recorded (by any means) and any part of such a thing, and
+“emergency” means a case which it appears to the enforcement officer in question—
+(i)
+that there is an immediate risk of serious pollution of the environment or serious harm to human health, or
+(ii)
+that the circumstances exist which are likely to endanger life or health,
+and that immediate entry to any premises is necessary to verify the existence of that risk or those circumstances or to ascertain the cause of that risk or those circumstances or to effect a remedy.LORNA SLATER
+Authorised to sign by the Scottish Ministers
+St Andrew’s House,
+Edinburgh
+9th November 2021EXPLANATORY NOTE
+(This note is not part of these Regulations)
+These Regulations prohibit the manufacture and the supply in the course of a business of the listed single-use plastic products and come into force on 1 June 2022.
+Regulation 3 provides that it is an offence for a person to manufacture or, in the course of a business, supply, offer to supply, or have in their possession for supply any of the following products—
+(a)
+single-use expanded polystyrene beverage cups,
+(b)
+single-use expanded polystyrene beverage containers,
+(c)
+single-use expanded polystyrene food containers,
+(d)
+single-use plastic beverage stirrers,
+(e)
+single use plastic cutlery, and
+(f)
+single-use plastic plates.
+Regulation 4 provides that is an offence for a person, in the course of a business, to supply, offer to supply, or have in their possession for supply, single-use plastic balloon sticks, with the exception of sticks for attaching to balloons for industrial or other professional uses.
+Regulation 5 provides that it is an offence for a person, in the course of a business, to supply, offer to supply, or have in their possession for supply, to an end-user, single-use plastic straws, subject to certain exceptions. The exceptions are the supply of straws which are medical devices or are for use for medical purposes (regulation 6), the supply of straws by retail pharmacy businesses (regulation 7), the supply of straws by catering establishments together with food or drink for immediate consumption (regulation 8), the supply of straws in certain establishments such as schools and care homes (regulation 9), the supply of straws for use in a support service which provides personal care or personal support (regulation 10), and the supply of straws which are packaging (regulation 11).
+A person found guilty of an offence under these Regulations will be liable on summary conviction to a fine not exceeding level 5 on the standard scale (regulations 3(5), 4(3) and 5(3)).
+Regulation 12 makes provision for offences by bodies corporate, Scottish partnerships and unincorporated associations. Regulation 13 provides a due diligence defence.
+Regulation 14 provides that a local authority may authorise any person that appears suitable to exercise any of the powers specified in regulation 15.
+Regulation 15 provides for enforcement officers to have powers of entry and associated powers to carry out the necessary investigations in order to determine whether an offence has been or is being committed.
+A Business Regulatory Impact Assessment has been prepared and placed in the Scottish Parliament Information Centre. Copies can be obtained from the Scottish Government Environmental Quality and Circular Economy Division, Area 3H South, Victoria Quay, Edinburgh EH6 6QQ, and online at www.legislation.gov.uk.

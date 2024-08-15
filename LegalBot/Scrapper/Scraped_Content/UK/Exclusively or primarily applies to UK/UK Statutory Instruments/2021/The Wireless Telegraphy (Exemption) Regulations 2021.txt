@@ -1,0 +1,153 @@
+STATUTORY INSTRUMENTS
+2021 No. 493
+ELECTRONIC COMMUNICATIONS
+The Wireless Telegraphy (Exemption) Regulations 2021
+Made
+20th April 2021
+Coming into force
+12th May 2021
+The Office of Communications (“OFCOM”), makes the following Regulations in exercise of the powers conferred by sections 8(3) and 122(7) of the Wireless Telegraphy Act 2006 M1 (“the Act”).
+Before making these Regulations, OFCOM have given notice of their proposal to do so in accordance with section 122(4)(a) of the Act, published notice of their proposal in accordance with section 122(4)(b) of the Act, and have considered the representations made to them before the time specified in the notice in accordance with section 122(4)(c) of the Act.
+Marginal Citations
+M1
+2006 c. 36. Section 8(3) and section 122(7) were extended to the Bailiwick of Guernsey by Article 2 of the Wireless Telegraphy (Guernsey) Order 2006 (S.I. 2006/3324); and to the Isle of Man by Article 2 of the Wireless Telegraphy (Isle of Man) Order 2007 (S.I. 2007/278).Citation and commencement
+1.  These Regulations may be cited as the Wireless Telegraphy (Exemption) Regulations 2021 and shall come into force on 12th May 2021.
+Commencement Information
+I1
+Reg. 1 in force at 12.5.2021, see reg. 1Interpretation
+2.  In these Regulations—
+“the Act” means the Wireless Telegraphy Act 2006; and
+“GHz” means gigahertz.
+[F1“MHz” means megahertz; and]
+[F1“non-geostationary satellite” means a satellite that does not remain fixed relative to a position on the surface of the earth.]
+Textual Amendments
+F1
+Words in reg. 2 inserted (23.3.2023) by The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243), regs. 1, 4(2)
+Commencement Information
+I1
+Reg. 2 in force at 12.5.2021, see reg. 1Revocations
+3.  The Regulations specified in the Schedule are revoked to the extent specified.
+Commencement Information
+I1
+Reg. 3 in force at 12.5.2021, see reg. 1Short range devices
+4.  The establishment, installation and use of wireless telegraphy stations and wireless telegraphy apparatus complying with an interface requirement which forms part of the publication [F1“IR 2030 – UK Interface Requirements 2030 Licence Exempt Short Range Devices”, published by OFCOM in March 2023, is exempt] from the provisions of section 8(1) of the Act, if—
+(a)
+it does not cause or contribute to any undue interference to any wireless telegraphy; and
+(b)
+in cases where the interface requirement does not state that airborne use is permitted, use is not airborne.
+Textual Amendments
+F1
+Words in reg. 4 substituted (23.3.2023) by The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243), regs. 1, 4(3)
+Commencement Information
+I1
+Reg. 4 in force at 12.5.2021, see reg. 1Fixed wireless systems
+F15.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Textual Amendments
+F1
+Reg. 5 omitted (23.3.2023) by virtue of The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243), regs. 1, 4(4)
+Commencement Information
+I1
+Reg. 5 in force at 12.5.2021, see reg. 1High density fixed satellite service systems
+6.  The establishment, installation and use of wireless telegraphy stations and wireless telegraphy apparatus complying with the interface requirements which form part of the publication [F1“IR 2066 – UK Interface Requirement 2066, High Density Fixed Satellite Service Systems (HDFSS)”, published by OFCOM in March 2023, is exempt] from the provision of section 8(1) of the Act, if—
+(a)
+it does not cause or contribute to any undue interference to any wireless telegraphy; F2...
+(b)
+use is not airborne [F3; and]
+[F4(c)
+it is not connected to a non-geostationary satellite.]
+Textual Amendments
+F1
+Words in reg. 6 substituted (23.3.2023) by The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243), regs. 1, 4(5)(a)
+F2
+Word in reg. 6(a) omitted (23.3.2023) by virtue of The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243), regs. 1, 4(5)(b)
+F3
+Words in reg. 6(b) inserted (23.3.2023) by The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243), regs. 1, 4(5)(c)
+F4
+Reg. 6(c) inserted (23.3.2023) by The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243), regs. 1, 4(5)(d)
+Commencement Information
+I1
+Reg. 6 in force at 12.5.2021, see reg. 1Personal locator beacons
+7.  The use of wireless telegraphy apparatus in the frequency band 406 to 406.1 megahertz complying with the interface requirements which form part of the publication [F1“IR 2084 – UK Interface Requirement 2084 Cospas-Sarsat locator beacons for use on land”, published by OFCOM in June 2021], is exempt from the provisions of section 8(1) of the Act, if—
+(a)
+it does not cause or contribute to any undue interference to any wireless telegraphy;
+(b)
+use is not airborne; and
+(c)
+it is not used on board a ship.
+Textual Amendments
+F1
+Words in reg. 7 substituted (30.8.2021) by The Wireless Telegraphy (Exemption) (Amendment) Regulations 2021 (S.I. 2021/948), regs. 1, 3(5)
+Commencement Information
+I1
+Reg. 7 in force at 12.5.2021, see reg. 1Earth stations [F1in motion]
+8.  The use of wireless telegraphy apparatus complying with the interface requirements which form part of the publication [F2“UK Interface Requirement (IR) 2093 Earth Stations in Motion”, published by OFCOM in March 2023], is exempt from the provisions of sections 8(1) of the Act, if—
+(a)
+it does not cause or contribute to any undue interference to any wireless telegraphy;
+(b)
+it is not used on board an aircraft and use is not otherwise airborne; F3...
+(c)
+it is not used on board a ship [F4; and]
+[F5(d)
+it is not connected to a non-geostationary satellite.]
+Textual Amendments
+F1
+Words in reg. 8 heading substituted (23.3.2023) by The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243), regs. 1, 4(6)(a)
+F2
+Words in reg. 8 substituted (23.3.2023) by The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243), regs. 1, 4(6)(b)
+F3
+Word in reg. 8(b) omitted (23.3.2023) by virtue of The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243), regs. 1, 4(6)(c)
+F4
+Word in reg. 8(c) inserted (23.3.2023) by The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243), regs. 1, 4(6)(d)
+F5
+Reg. 8(d) inserted (23.3.2023) by The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243), regs. 1, 4(6)(e)
+Commencement Information
+I1
+Reg. 8 in force at 12.5.2021, see reg. 1Citizens' Band Radio Equipment
+9.  The use of wireless telegraphy apparatus complying with the interface requirements [F1which form part of the publication “IR 2027.2 – UK Radio Interface Requirement 2027.2 for AM/SSB and DSB use in the Citizens’ Band Radio Service”, published by OFCOM in June 2021], is exempt from the provisions of section 8(1) of the Act, if it does not cause or contribute to any undue interference to any wireless telegraphy.
+Textual Amendments
+F1
+Words in reg. 9 substituted (30.8.2021) by The Wireless Telegraphy (Exemption) (Amendment) Regulations 2021 (S.I. 2021/948), regs. 1, 3(7)
+Commencement Information
+I1
+Reg. 9 in force at 12.5.2021, see reg. 1[F1Safety related intelligent transport systems
+10.—(1) The establishment, installation and use of wireless telegraphy stations or wireless telegraphy apparatus within the frequency band 5875 MHz to 5925 MHz is exempt from the provisions of section 8(1) of the Act, if—
+(a)
+it complies with the interface requirements which form part of the publication “IR 2086 – UK Interface Requirement 2086 Safety Related Applications of Intelligent Transport Systems”, published by OFCOM in March 2023;
+(b)
+it does not cause or contribute to undue interference to any wireless telegraphy; and
+(c)
+the wireless telegraphy stations or wireless telegraphy apparatus are, or are part of, a safety-related intelligent transport system.
+(2) In paragraph (1)(c) “intelligent transport system” means a system or service, based on information and communication technologies, including processing, control, positioning, communication and electronics, that is applied to a road transportation system.]
+Textual Amendments
+F1
+Reg. 10 inserted (23.3.2023) by The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243), regs. 1, 4(7)Philip Marnick
+Group Director, Spectrum Group
+Office of CommunicationsRegulation 3
+SCHEDULE
+Revocations
+Commencement Information
+I1
+Sch. in force at 12.5.2021, see reg. 1
+Regulations References Extent of revocation
+Wireless Telegraphy (Exemption and Amendment) Regulations 2010 S.I. 2010/2512 Regulation 4
+Regulation 5
+Regulation 6
+Regulation 7
+Regulation 8
+Regulation 9
+Regulation 10
+Wireless Telegraphy (Exemption and Amendment)(Amendment) Regulations 2011 S.I. 2011/3035 The whole Regulations
+Wireless Telegraphy (Exemption and Amendment)(Amendment) Regulations 2013 S.I. 2013/1253 The whole Regulations
+Wireless Telegraphy (Exemption and Amendment)(Amendment) Regulations 2014 S.I. 2014/1448 The whole Regulations
+Wireless Telegraphy (Exemption and Amendment)(Amendment) Regulations 2017 S.I. 2017/746 The whole Regulations
+Wireless Telegraphy (Exemption and Amendment)(Amendment) Regulations 2018 S.I. 2018/263 Regulation 2
+Regulation 3(2)
+Wireless Telegraphy (Exemption and Amendment)(Amendment)(No.2) Regulations 2018 S.I. 2018/1140 The whole Regulations
+Wireless Telegraphy (Exemption and Amendment)(Amendment) Regulations 2020 S.I. 2020/549
+The whole RegulationsEXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations introduce new provisions and consolidate existing legislation which exempts the establishment, installation and use of certain radio equipment which comply with certain terms, provisions and limitations, from the requirement to be licensed under section 8(1) of the Wireless Telegraphy Act 2006 (c. 36).
+Regulation 4 exempts the establishment, installation and use of short-range devices, subject to certain terms and limitations set out in the new Interface Requirements published in 2021.
+These Regulations also consolidate existing legislation by revoking previous regulations (the revocation is in regulation 3) and by exempting (in regulations 5 to 9) the establishment, installation and use of fixed wireless systems, high-density fixed satellite service systems, personal locator beacons, earth stations on mobile platforms, and citizens' band radio equipment, which comply with certain technical requirements, from the requirement to be licenced under section 8(1) of the Wireless Telegraphy Act 2006 (c 36).
+Technical requirements are set out in Interface Requirement documents. The Interface Requirements are published by OFCOM and available from OFCOM's website at https://www.ofcom.org.uk or from the OFCOM library at Riverside House, 2a Southwark Bridge Road, London, SE1 9HA.
+A full regulatory impact assessment of the effect that these Regulations will have on costs to business is available to the public from OFCOM's website at https://www.ofcom.org.uk or from the OFCOM library at Riverside House, 2a Southwark Bridge Road, London, SE1 9HA. Copies of the assessment have also been placed in the libraries of both Houses of Parliament.

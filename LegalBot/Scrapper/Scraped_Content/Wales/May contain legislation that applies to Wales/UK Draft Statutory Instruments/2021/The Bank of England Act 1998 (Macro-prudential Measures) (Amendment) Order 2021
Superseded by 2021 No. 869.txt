@@ -1,0 +1,131 @@
+Draft Order laid before Parliament under section 9N(1) of the Bank of England Act 1998, for approval by resolution of each House of Parliament.
+DRAFT STATUTORY INSTRUMENTS
+2021 No. XXX
+FINANCIAL SERVICES AND MARKETS
+The Bank of England Act 1998 (Macro-prudential Measures) (Amendment) Order 2021
+Made
+***
+Coming into force
+***
+In accordance with section 9L(2) of the Bank of England Act 1998(1), the Treasury have consulted the Financial Policy Committee.
+In accordance with section 9N(1) of the Bank of England Act 1998(2), a draft of this Order has been laid before Parliament and approved by a resolution of each House of Parliament.
+The Treasury, in exercise of the powers conferred by sections 9I(2) and 9L(1) and (4)(a), (b) and (c) of the Bank of England Act 1998(3), make the following Order.
+(1)
+1998 c. 11. Section 9L was inserted by section 4(1) of the Financial Services Act 2012 (c. 21).
+(2)
+Section 9N was inserted by section 4(1) of the Financial Services Act 2012.
+(3)
+Section 9I was inserted by section 4(1) of the Financial Services Act 2012.Citation and commencement
+1.—(1) This Order may be cited as the Bank of England Act 1998 (Macro-prudential Measures) (Amendment) Order 2021.
+(2) This Order comes into force on the day after the day on which it is made.Amendment of the Bank of England Act 1998 (Macro-prudential Measures) Order 2013
+2.—(1) The Bank of England Act 1998 (Macro-prudential Measures) Order 2013(1) is amended as follows.
+(2) In article 1(2)—
+(a)
+in the definition of “FSMA cost benefit analysis”, after “Part 9A” insert “or section 192XA”(2);
+(b)
+after the definition of “FSMA cost benefit analysis” insert—
+““holding company” means a financial holding company or a mixed financial holding company;”;
+(c)
+omit the definition of “mixed financial holding company”.
+(3) At the start of article 2(2), insert “Subject to paragraph (3),”.
+(4) In the table in article 2(2), after “UK banks” each time it occurs insert “, or their holding companies,”.
+(5) In the table in article 2(2), after “UK investment firms which are PRA-authorised persons” each time it occurs insert “, or their holding companies,”.
+(6) In the table in article 2(2), after “on such UK investment firms” insert “, or their holding companies,”.
+(7) After article 2(2), insert—
+“(3) Where a measure listed in the table is applied to the holding company of a UK bank or of a UK investment firm which is a PRA-authorised person, the measure may only be applied to that holding company on, or by reference to, a consolidated basis.”.
+(1)
+S.I. 2013/644, as amended by S.I. 2016/1240, section 24 of the Financial Services Act 2012 and to which there are other amendments not relevant to this Order.
+(2)
+Section 192XA was inserted by Part 1, Schedule 3 to the Financial Services Act 2021 (c. 22).Amendment of the Bank of England Act 1998 (Macro-prudential Measures) Order 2015
+3.—(1) The Bank of England Act 1998 (Macro-prudential Measures) Order 2015(1) is amended as follows.
+(2) In article 2(1), in the definition of “cost benefit analysis”, after “Part 9A” insert “or section 192XA”.
+(3) In article 4(2), after “Part 9A” insert “or section 192XA”.
+(4) After article 4, insert—
+“Review
+5.—(1)  The Treasury must from time to time—
+(a)
+carry out a review of the regulatory provision contained in this Order, and
+(b)
+publish a report setting out the conclusions of the review.
+(2) The first report must be published before the end of the period of five years beginning with the day on which this article comes into force.
+(3) Subsequent reports must be published at intervals not exceeding five years.
+(4) Section 30(4) of the Small Business, Enterprise and Employment Act 2015(2) requires that a report published under this article must, in particular—
+(a)
+set out the objectives intended to be achieved by the regulatory provision referred to in paragraph (1)(a);
+(b)
+assess the extent to which those objectives are achieved;
+(c)
+assess whether those objectives remain appropriate; and
+(d)
+if those objectives remain appropriate, assess the extent to which they could be achieved in a way which involves less onerous regulatory provision.
+(5) In this article, “regulatory provision” has the meaning given in sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015 (see section 32 of that Act).”.
+(1)
+S.I. 2015/909, as amended by section 24 of the Financial Services Act 2012 and to which there are amendments not relevant to this Order.
+(2)
+2015 c. 26.Amendment of the Bank of England Act 1998 (Macro-prudential Measures) (No.2) Order 2015
+4.—(1) The Bank of England Act 1998 (Macro-prudential Measures) (No.2) Order 2015(1) is amended as follows.
+(2) In article 2(1)—
+(a)
+for the definition of “consolidated basis”, substitute—
+““consolidated basis” means, in relation to a measure, on the basis that the undertaking to which the measure applies and one or more other undertakings are to be treated as a single undertaking;”;
+(b)
+in the definition of “cost benefit analysis”, after “Part 9A” insert “or section 192XA”(2);
+(c)
+after the definition of “G-SII buffer”, insert—
+““holding company” means a financial holding company or a mixed financial holding company;”;
+(d)
+omit the definition of “total exposure measure”.
+(3) After article 2(1), insert—
+“(2) Subject to article 4(4), “total exposure measure” has the meaning given in rules made by the PRA as amended from time to time.”.
+(4) For article 3 substitute—
+“Macro-prudential measures
+3.—(1) Subject to paragraph (2), each of the measures set out in article 4 may be applied on, or by reference to, an individual basis or a consolidated basis.
+(2) Where a measure set out in article 4(1)(a) or (d) is applied to the holding company of a UK bank or of a UK investment firm, the measure may only be applied to that holding company on, or by reference to, a consolidated basis.”.
+(5) In article 4(1), after “UK banks” each time it occurs insert “, or their holding companies,”.
+(6) In article 4(1), after “UK investment firms” each time it occurs insert “, or their holding companies,”.
+(7) After article 4(3), insert—
+“(4) The Financial Policy Committee may include, in a direction relating to any of the measures specified in paragraph (1), specifications as to how the total exposure measure is to be determined for the purposes of that measure.”.
+(8) In article 5(2), after “Part 9A” insert “or section 192XA”.
+(9) After article 5, insert—
+“Review
+6.—(1) The Treasury must from time to time—
+(a)
+carry out a review of the regulatory provision contained in this Order, and
+(b)
+publish a report setting out the conclusions of the review.
+(2) The first report must be published before the end of the period of five years beginning with the day on which this article comes into force.
+(3) Subsequent reports must be published at intervals not exceeding five years.
+(4) Section 30(4) of the Small Business, Enterprise and Employment Act 2015 requires that a report published under this article must, in particular—
+(a)
+set out the objectives intended to be achieved by the regulatory provision referred to in paragraph (1)(a);
+(b)
+assess the extent to which those objectives are achieved;
+(c)
+assess whether those objectives remain appropriate; and
+(d)
+if those objectives remain appropriate, assess the extent to which they could be achieved in a way which involves less onerous regulatory provision.
+(5) In this article, “regulatory provision” has the meaning given in sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015 (see section 32 of that Act).”.
+(1)
+S.I. 2015/905, as amended by section 24 of the Financial Services Act 2012 and to which there are amendments not relevant to this Order.
+(2)
+Section 192XA was inserted by Part 1, Schedule 3 to the Financial Services Act 2021.Amendment of the Bank of England Act 1998 (Macro-prudential Measures) Order 2016
+5.—(1) The Bank of England Act 1998 (Macro-prudential Measures) Order 2016(1) is amended as follows.
+(2) In article 2, in the definition of “FSMA cost-benefit analysis”, after “Part 9A” insert “or section 192XA”.
+(3) In article 4(2), after “Part 9A” insert “or section 192XA”.
+(1)
+S.I. 2016/1240, as amended by section 24 of the Financial Services Act 2012 and to which there are amendments not relevant to this Order.Name
+Name
+Two of the Lords Commissioners of Her Majesty’s Treasury
+DateEXPLANATORY NOTE
+(This note is not part of the Order)
+This Order makes amendments to:
+the Bank of England Act 1998 (Macro-prudential Measures) Order 2013 (S.I. 2013/644, the “2013 Order”),
+the Bank of England Act 1998 (Macro-prudential Measures) Order 2015 (S.I. 2015/909, the “2015 Order”),
+the Bank of England Act 1998 (Macro-prudential Measures) (No.2) Order 2015 (S.I. 2015/905, the “2015 No.2 Order”), and
+the Bank of England Act 1998 (Macro-prudential Measures) Order 2016 (S.I. 2016/1240, the “2016 Order”),
+together the “Orders”.
+Article 2 makes amendments in relation to macro-prudential measures already prescribed by the 2013 Order. Article 2(4) to (7) allow the Financial Policy Committee (“FPC”) to direct the Prudential Regulation Authority (“PRA”) to apply the measures prescribed in the 2013 Order to the holding companies of UK banks and of UK investment firms which are PRA-authorised persons. The measures prescribed in the 2013 Order may be applied to holding companies on a consolidated basis (i.e. in respect of the whole group of companies) or on a sub-consolidated basis (i.e. in respect of a sub-group of companies).
+Article 3 makes amendments to the 2015 Order.
+Article 4 makes amendments in relation to macro-prudential measures already prescribed by the 2015 No.2 Order. Article 4(2) amends the definition of “consolidated basis.” Article 4(2) and (3) update the definition of “total exposure measure” for the purposes of a direction issued by the FPC so that it is defined by reference to PRA rules. Article 4(4) to (6) allow the FPC to direct the PRA to apply the measures prescribed in the 2015 No.2 Order to the holding companies of UK banks and of UK investment firms. The measures prescribed in the 2015 No.2 Order can be applied to holding companies on a consolidated basis or on a sub-consolidated basis. Article 4(7) allows the FPC to specify how the total exposure measure is to be determined for the purposes of a measure specified in article 4(1) of the 2015 No.2 Order.
+Articles 2(2)(a), 3(2) and (3), 4 and 5 make amendments to the effect that existing procedural requirements in the Orders also apply when implementing macro-prudential measures pursuant to rules made under section 192XA of the Financial Services and Markets Act 2000 (c. 8).
+A full impact assessment has not been produced for this instrument, as no, or no significant, impact on the private, voluntary or public sector is foreseen. A de minimis impact assessment is available from HM Treasury, 1 Horse Guards Road, London, SW1A 2HQ and is published with the Explanatory Memorandum alongside this instrument on www.legislation.gov.uk.

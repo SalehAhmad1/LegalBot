@@ -1,0 +1,46 @@
+STATUTORY INSTRUMENTS
+2022 No. 873
+PROTECTION OF TRADING INTERESTS
+TRADE
+The Protection of Trading Interests (Authorisation) (Amendment) (No. 2) Regulations 2022
+Made
+at 9.00 a.m. on 27th July 2022
+The Secretary of State makes the following Regulations in exercise of the powers conferred by Article 5, second paragraph, point (a), of Council Regulation (EC) No 2271/96 of 22 November 1996 protecting against the effects of the extra-territorial application of legislation adopted by a third country, and actions based thereon or resulting therefrom(1).
+(1)
+EUR 1996/2271, amended by S.I. 2020/1660.Citation and extent
+1.—(1) These Regulations may be cited as the Protection of Trading Interests (Authorisation) (Amendment) (No. 2) Regulations 2022.
+(2) These Regulations extend to England and Wales, Scotland and Northern Ireland.Amendment of the Protection of Trading Interests (Authorisation) Regulations 2021
+2.  The Protection of Trading Interests (Authorisation) Regulations 2021(1) are amended as set out in regulations 3 to 6.
+(1)
+S.I. 2021/132, amended by S.I. 2022/545.Amendment of regulation 2
+3.  Regulation 2 (interpretation) is amended as follows—
+(a)
+at the appropriate place, insert—
+““the United States Cuban Assets Control Regulations” means the Cuban Assets Control Regulations(1) of the United States of America specified in the Annex to Council Regulation (EC) No 2271/96 of 22 November 1996 protecting against the effects of the extra-territorial application of legislation adopted by a third country, and actions based thereon or resulting therefrom;”;
+(b)
+in the definition of “the laws relating to Iran”, for “the laws relating to Iran” substitute “the United States sanctions laws relating to Iran”.
+(1)
+31 C.F.R 515.Substitution of regulation 3
+4.  For regulation 3 (authorisation to comply with Title III of the Helms-Burton Act) substitute—
+“Authorisation to comply with relevant law
+3.  A person specified under the column headed “Authorised Person” in the Table in the Schedule is, for the purpose specified under the column headed “Authorised Purpose” in the same row in the Table in the Schedule, authorised to comply with any requirement or prohibition based on or resulting, directly or indirectly, from a law specified under the column headed “Relevant Law” in the same row in the Table in the Schedule, or from actions based thereon or resulting therefrom.”.Omission of regulation 4
+5.  Omit regulation 4 (authorisation to comply with the laws relating to Iran).Substitution of Schedules 1 and 2
+6.  For Schedules 1 (authorisation to file motion to dismiss) and 2 (authorisation to comply with Office of Foreign Assets Control licence), substitute the Schedule to these Regulations.Signed by authority of the Secretary of State for International Trade
+Penny Mordaunt
+Minister of State
+Department for International Trade
+At 9.00 a.m. on 27th July 2022Regulation 5
+SCHEDULE
+Regulation 3
+“SCHEDULE
+Authorisations
+No. Authorised Person Authorised Purpose Relevant Law
+1 Imperial Brands plc, a public limited company registered in England and Wales (company number 3236483) Filing and litigating a motion to dismiss the complaint brought before the federal judiciary of the United States of America under Title III of the Helms-Burton Act in which Imperial Brands plc is named as a defendant (case number 1:20-cv-23287-DPG) Title III of the Helms-Burton Act (protection of property rights of United States nationals).
+2 Three Crowns (Services) LLP, a limited liability partnership registered in England and Wales (company number OC389628) Complying with the licence issued by the United States Office of Foreign Assets Control on 22 March 2021 in which Three Crowns (Services) LLP is named as a licensee (licence number IA-2016-331681-3) The United States sanctions laws relating to Iran.
+3 AlixPartners UK LLP, a limited liability partnership registered in England and Wales (company number OC360308) Complying with the licence issued by the Office of Foreign Assets Control on 1 March 2022 to AlixPartners LLP, the parent company of AlixPartners UK LLP (licence number CU-2021-870982-1) The United States Cuban Assets Control Regulations.”EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations, which come into force at the time they are made, amend the Protection of Trading Interests (Authorisation) Regulations 2021 (S.I. 2021/132, amended by S.I. 2022/545) (“the 2021 Regulations”).
+The 2021 Regulations authorise compliance by specified persons, for specified purposes, with requirements or prohibitions referred to in the first paragraph of Article 5 of Council Regulation (EC) No 2271/96 of 22 November 1996 protecting against the effects of the extra-territorial application of legislation adopted by a third country, and actions based thereon or resulting therefrom (EUR 1996/2271, amended by S.I. 2020/1660) (“Regulation No 2271/96”).
+These Regulations provide for a new authorisation for AlixPartners UK LLP and also make a number of technical amendments to restructure the 2021 Regulations. Schedules 1 and 2 to the 2021 Regulations, which each contain details of authorisations for specific persons, are replaced with a single Schedule, setting out details of all authorisations made by the Secretary of State in exercise of the powers conferred by Article 5, second paragraph, point (a), of Regulation No 2271/96.
+The law of the United States of America referred to in these Regulations may be found online at https://uscode.house.gov/ and https://www.ecfr.gov/.
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary, or public sector is foreseen.

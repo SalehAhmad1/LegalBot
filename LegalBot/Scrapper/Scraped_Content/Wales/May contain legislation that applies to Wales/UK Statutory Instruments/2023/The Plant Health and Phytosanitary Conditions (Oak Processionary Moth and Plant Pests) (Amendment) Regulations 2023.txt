@@ -1,0 +1,371 @@
+This Statutory Instrument has been printed to correct errors in S.I. 2022/1020 and S.I. 2020/1527 and is being issued free of charge to all known recipients of those Statutory Instruments.
+STATUTORY INSTRUMENTS
+2023 No. 497
+PLANT HEALTH
+The Plant Health and Phytosanitary Conditions (Oak Processionary Moth and Plant Pests) (Amendment) Regulations 2023
+Made
+at 10.38 a.m. on 2nd May 2023
+Laid before Parliament
+at 4.30 p.m. on 2nd May 2023
+Coming into force
+24th May 2023
+The Secretary of State makes these Regulations in exercise of the powers conferred by Articles 8(5), 17(1), 28(1) and (4), 37(5), 48(5), 105(6) of, and Annex 2 to, Regulation (EU) 2016/2031 of the European Parliament and of the Council on protective measures against pests of plants(1).
+In accordance with Article 2a(2) of that Regulation(2), the Secretary of State makes these Regulations with the consent of the Welsh Ministers and the Scottish Ministers.
+In accordance with Article 28(2) of that Regulation(3), the Secretary of State has concluded, on the basis of surveys, that eradication of the GB quarantine pest, Thaumetopoea processionea L., in a demarcated area is not possible.
+Following a risk assessment made in accordance with Article 37(5) of that Regulation(4), the Secretary of State has determined that it is appropriate to amend Annex 5(5) to Commission Implementing Regulation (EU) 2019/2072 establishing uniform conditions for the implementation of Regulation (EU) 2016/2031 of the European Parliament and the Council, as regards protective measures against pests of plants(6).
+(1)
+EUR 2016/2031; relevant amending instruments are S.I. 2020/1482 and 2022/1367.
+(2)
+Article 2a(2) of EUR 2016/2031 contains a definition of “the appropriate authority” for the purposes of exercising any power to make regulations under that Regulation and provides that, in the case of regulations applying in relation to Wales or Scotland, the appropriate authority is the Secretary of State if consent is given by the Welsh Ministers or the Scottish Ministers, as the case may be.
+(3)
+Article 28(2) was substituted by S.I. 2020/1482.
+(4)
+Article 37(5) was substituted by S.I. 2020/1482.
+(5)
+Annex 5, Part F was substituted by S.I. 2020/1527.
+(6)
+EUR 2019/2072, amended by S.I. 2020/1527; there are other amending instruments but none is relevant.Citation, commencement, extent and application
+1.—(1) These Regulations may be cited as the Plant Health and Phytosanitary Conditions (Oak Processionary Moth and Plant Pests) (Amendment) Regulations 2023.
+(2) These Regulations come into force on 24th May 2023.
+(3) Parts 1 and 2 extend to England and Wales, and Scotland.
+(4) Part 3 extends to England and Wales but applies in relation to England only.Amendment of Commission Delegated Regulation (EU) 2019/829
+2.—(1) Commission Delegated Regulation (EU) 2019/829 supplementing Regulation (EU) 2016/2031 on protective measures against pests of plants, authorising Member States to provide for temporary derogations in view of official testing, scientific or educational purposes, trials, varietal selections, or breeding(1) is amended as follows.
+(2) In Annex 1, in paragraph 1, in point (d), after “(including country)” insert “of the laboratory or institution from which the material originated”.
+(1)
+EUR 2019/829, amended by S.I. 2020/1482, 2022/1020.Amendment to Commission Implementing Regulation (EU) 2019/2072
+3.—(1) Commission Implementing Regulation (EU) 2019/2072 establishing uniform conditions for the implementation of Regulation (EU) 2016/2031 of the European Parliament and the Council, as regards protective measures against pests of plants(1) is amended as follows.
+(2) In Annex 5, in Part F (measures to prevent the presence of RNQPS on seed potatoes)(2), for the second table substitute—
+“(1)
+RNQPs or symptoms caused by RNQPs
+(2)
+Plants for planting (genus or species)
+(3)
+Thresholds for the growing plants for pre-basic seed potatoes(1)
+(4)
+Thresholds for the growing plants for basic seed potatoes(1)
+(5)
+Thresholds for the growing plants for certified seed potatoes(1)
+PBTC PB
+(1)
+Additional restrictions concerning the planting of seed potatoes are provided for in S.S.I. 2006/319, 2015/395, S.I. 2015/1953, 2016/106 (W. 52), 2019/1517, S.S.I. 2019/421, S.I. 2020/206 (W. 48).”.
+Blackleg (Dickeya Samson et al. spp. [1DICKG]; Pectobacterium Waldee emend. Hauben et al. spp. [1PECBG]) Solanum tuberosum L. 0% 0% 1% 4%
+Candidatus Liberibacter solanacearum Liefting et al. [LIBEPS] Solanum tuberosum L. 0% 0% 0% 0%
+Mosaic symptoms caused by viruses and symptoms caused by Potato leaf roll virus [PLRV00] Solanum tuberosum L. 0% 0.1% 0.8% 6%
+Potato spindle tuber viroid [PSTVD0] Solanum tuberosum L. 0% 0% 0% 0%
+(1)
+EUR 2019/2072, amended by S.I. 2020/1527; there are other amending instruments but none is relevant.
+(2)
+Annex 5, Part F was substituted by S.I. 2020/1527.Interpretation
+4.—(1) In this Part—
+“appropriate phytosanitary treatments” means efficient chemical, biological or mechanical treatment for the containment of the specified GB quarantine pest, taking into account local conditions and in accordance with the guidance entitled “Guidance on the application of Plant Protection Products for phytosanitary treatment of oak processionary moth” dated 17th April 2023 by the national plant protection organisation of the United Kingdom(1);
+“the buffer zone” means the area surrounding the infested zone and made up of the areas of the local authorities and local authority wards which are listed in the Schedule as forming part of the buffer zone;
+“the demarcated area” means the area made up of the infested zone and the buffer zone, being the area established for the containment of the specified GB quarantine pest;
+“high-risk oak trees” means plants for planting, other than fruits and seeds, of Quercus L. of a girth of at least 8 centimetres measured at a height of 1.2 metres from the root collar;
+“the infested zone” means the area made up of the areas of the local authorities and local authority wards where the specified GB quarantine pest is established which are listed in the Schedule as forming part of the infested zone;
+“the Official Controls Regulations” means the Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019(2);
+“Plant Health Management Standard” means the Plant Health Management Standard version 1.2 released on the 1st July 2022(3) by Plant Healthy Limited(4);
+“plant health inspector” has the meaning given in regulation 2 of the Official Controls Regulations;
+“the Plant Health Regulation” means Regulation (EU) 2016/2031 of the European Parliament and of the Council on protective measures against pests of plants(5);
+“premises” has the meaning given in regulation 14(2) of the Official Controls Regulations;
+“professional operator” has the meaning given in Article 2(9) of the Plant Health Regulation;
+“the specified GB quarantine pest” means Thaumetopoea processionea L..
+(2) References to the area of a local authority or a local authority ward are to the area within the boundary line of a local authority or local authority ward, as the case may be, as determined by the Local Government Boundary Commission for England on 22nd May 2022 and updated in October 2022(6).
+(1)
+The guidance “Guidance on the application of Plant Protection Products for phytosanitary treatment of oak processionary moth” is published on the Gov.UK website for the Department for Environment, Food and Rural Affairs. That Guidance is within the page entitled “Managing Oak Processionary Moth in England”. A copy of this guidance can be made available by the local Plant Health and Seed Inspector or the Plant Health Seed Inspectorate by email: planthealth.info@apha.gov.uk.
+(2)
+S.I. 2019/1517, amended by S.I. 2020/1482; there are other amending instruments but none is relevant.
+(3)
+https://planthealthy.org.uk/assets/images/Plant-Health-Management-Standard-V1.2.pdf.
+(4)
+Plant Healthy Limited is the sole purpose company that performs the administrative and legal duties on behalf of the Plant Health Alliance. The Plant Health Alliance is a cross-sectoral group and the owner of the Plant Health Management Standard and the governing body of the Plant Healthy Certification Scheme. Their website is https://planthealthy.org.uk/plant-health-alliance.
+(5)
+EUR 2016/2031, relevant amending instruments are S.I. 2020/1482 and 2022/1367.
+(6)
+The Local Government Boundary Commission publish the local government boundaries on the Ordnance Survey’s election maps website at https://www.ordnancesurvey.co.uk/business-government/tools-support/election-maps.Prohibition on the movement of high-risk oak trees from the demarcated area to outside the demarcated area
+5.  No person may move a high-risk oak tree from the demarcated area to any area outside of the demarcated area.Restrictions on the movement of high-risk oak trees within the demarcated area
+6.—(1) No person may move a high-risk oak tree within the demarcated area.
+(2) Paragraph (1) does not apply to a professional operator who meets the conditions specified in paragraph (3).
+(3) The conditions referred to in paragraph (2) are that the professional operator—
+(a)
+holds an acceptable level of biosecurity competence demonstrable by compliance with the Plant Health Management Standard;
+(b)
+records, and retains for at least 3 years, the following information for each consignment of high-risk oak trees—
+(i)
+the name of the professional operator;
+(ii)
+the date of movement from the premises of the professional operator and the address of those premises;
+(iii)
+the identity, address, email address and phone number of any person who is to receive the high-risk oak tree at its destination and the destination of the consignment;
+(iv)
+the species and girth of each high-risk oak tree within the consignment measured at a height of 1.2 metres from the root collar;
+(v)
+details of any appropriate phytosanitary treatments applied to each high-risk oak tree within the consignment during the period the tree was on the premises of the professional operator;
+(c)
+does not move any high-risk oak tree located in the infested zone into the buffer zone;
+(d)
+does not move any high-risk oak tree located in the buffer zone to within 10 kilometres of the outer edge of the buffer zone;
+(e)
+in relation to any high-risk oak tree to be moved within the buffer zone—
+(i)
+applies appropriate phytosanitary treatments to the tree;
+(ii)
+notifies any person who is to receive the tree at its destination, other than any other professional operator, that official planting inspections for the specified GB quarantine pest may be carried out by a plant health inspector;
+(f)
+provides copies, and allows inspection, of documents specified at sub-paragraph (b) upon the request of the appropriate authority.
+(4) The conditions in paragraph (3)(a), (b) and, where applicable, (e) must be complied with prior to movement of a consignment of high-risk oak trees from the premises of the professional operator.
+(5) Where a professional operator (the “transferring operator”) takes possession of a high-risk oak tree from another professional operator with a view to moving that tree to the planting site, the conditions in paragraph (3) apply, but this is subject to paragraph (6).
+(6) Where the transferring operator proposes to move the tree to the planting site within a period of less than 48 hours of taking possession, the conditions in paragraph (3)(a), (b)(v) and (e)(i) do not apply to that transferring operator.Disapplication of obligation to eradicate GB quarantine pest
+7.  The obligation in Article 17(1) of the Plant Health Regulation (obligation of competent authority immediately to take all necessary phytosanitary measures to eradicate a GB quarantine pest from the area concerned) does not apply in the demarcated area.Trudy Harrison
+Parliamentary Under Secretary of State
+Department for Environment, Food and Rural Affairs
+At 10.38 a.m. on 2nd May 2023Regulation 4
+SCHEDULE
+Demarcated Area
+Demarcated Area Local Authority or Local Authority Ward area
+Infested Zone Barking and Dagenham
+Barnet
+Basildon
+Bexley
+Bracknell Forest
+Brent
+Brentwood
+Bromley
+Broxbourne
+Buckinghamshire Council Wards: Chalfont St Giles
+Chalfont St Peter
+Cliveden
+Denham
+Farnham Common and Burnham Beeches
+Gerrards Cross
+Iver, Stoke Poges and Wexham
+Camden
+City of London
+Croydon
+Dartford
+Ealing
+East Hertfordshire District Council Wards: Hertford Castle
+Hertford Head
+Hertford Rural South
+Elmbridge
+Enfield
+Epping Forest
+Epsom and Ewell
+Greenwich
+Guildford
+Hackney
+Hammersmith and Fulham
+Haringey
+Harlow
+Harrow
+Havering
+Hertsmere
+Hillingdon
+Hounslow
+Islington
+Kensington and Chelsea
+Kingston upon Thames
+Lambeth
+Lewisham
+Merton
+Mole Valley
+Newham
+Redbridge
+Reigate and Banstead
+Richmond upon Thames
+Runnymede
+Slough
+Southwark
+Spelthorne
+St Albans
+Surrey Heath
+Sutton
+Three Rivers
+Thurrock
+Tower Hamlets
+Waltham Forest
+Wandsworth
+Watford
+Welwyn Hatfield
+Westminster
+Windsor and Maidenhead
+Woking
+Buffer Zone Adur
+Arun
+Basingstoke and Deane
+Bedford
+Braintree
+Brighton and Hove
+Buckinghamshire Council Wards: Abbey
+Amersham and Chesham Bois
+Aston Clinton and Bierton
+Aylesbury East
+Aylesbury North
+Aylesbury North West
+Aylesbury South East
+Aylesbury South West
+Aylesbury West
+Beaconsfield
+Bernwood
+Booker
+Buckingham East
+Buckingham West
+Cressex and Castlefield
+Chesham
+Chess Valley
+Chiltern Ridges
+Chiltern Villages
+Downley
+Flackwell Heath
+Great Brickhill
+Great Missenden
+Grendon Underwood
+Hazlemere
+Ivinghoe
+Little Chalfont and Amersham Common
+Little Marlow and Marlow South East
+Marlow
+Penn Wood and Old Amersham
+Ridgeway East
+Ridgeway West
+Ryemead and Micklefield
+Stone and Waddesdon
+Terriers and Amersham Hill
+The Risboroughs
+The Wooburns, Bourne End and Hedsor
+Totteridge and Bowerdean
+Tylers Green and Loudwater
+Wendover, Halton and Stoke Mandeville
+West Wycombe
+Wing
+Winslow
+Castle Point
+Central Bedfordshire
+Chelmsford
+Chichester
+Colchester
+Crawley
+Dacorum
+East Hampshire
+East Hertfordshire District Council Wards: Bishop’s Stortford All Saints
+Bishop’s Stortford Central
+Bishop’s Stortford Meads
+Bishop’s Stortford Silverleys
+Bishop’s Stortford South
+Braughing
+Buntingford
+Datchworth and Aston
+Great Amwell
+Hertford Bengeo
+Hertford Kingsmead
+Hertford Rural North
+Hertford Sele
+Hunsdon
+Little Hadham
+Much Hadham
+Mundens and Cottered
+Puckeridge
+Sawbridgeworth
+Stanstead Abbots
+Thundridge and Standon
+Walkern
+Ware Chadwell
+Ware Christchurch
+Ware St Mary’s
+Ware Trinity
+Watton-at-stone
+Eastbourne
+Eastleigh
+Fareham
+Gosport
+Gravesham
+Hart
+Havant
+Horsham
+Huntingdonshire District Council Wards: Buckden
+Godmanchester and Hemingford Abbots
+Great Paxton
+Great Staughton
+St Neots East
+St Neots Eatons
+St Neots Eynesbury
+St Neots Priory Park and Little Paxton
+Lewes
+Luton
+Maidstone
+Maldon
+Medway
+Mid Sussex
+Milton Keynes
+New Forest District Council Wards: Ashurst
+Copythorne South and Netley Marsh
+Bramshaw
+Copythorne North and Minstead
+Brockenhurst and Forest South East
+Butts Ash and Dibden Purlieu
+Dibden and Hythe East
+Fawley
+Blackfield and Langley
+Furzedown and Hardley
+Holbury and North Blackfield
+Hythe West and Langdown
+Lyndhurst
+Marchwood
+Totton Central
+Totton East
+Totton South
+Totton West
+North Hertfordshire
+Portsmouth
+Reading
+Rochford
+Rushmoor
+Sevenoaks
+South Cambridgeshire District Council Wards: Barrington
+Bassingbourne
+Caldecote
+Cambourne
+Caxton and Papworth
+Foxton
+Gamlingay
+Hardwick
+Melbourn
+The Mordens
+South Oxfordshire
+Southampton
+Southend-on-Sea
+Stevenage
+Swale
+Tandridge
+Tendring District Council Wards: Alresford and Elmstead
+Ardleigh and Little Bromley
+Brightlingsea
+Lawford, Manningtree and Mistley
+St Osyth
+The Bentleys and Frating
+Weeley and Tendring
+West Clacton and Jaywick Sands
+Test Valley
+Tonbridge and Malling
+Tunbridge Wells
+Uttlesford
+Vale of White Horse
+Waverley
+Wealden
+West Berkshire
+Wiltshire Council Wards: Alderbury and Whiteparish
+Redlynch and Landford
+Winterslow and Upper Bourne Valley
+Winchester
+Wokingham
+WorthingEXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend—
+(a)
+Commission Delegated Regulation (EU) 2019/829 (the “Temporary Derogations Regulation”) supplementing Regulation (EU) 2016/2031 on protective measures against pests of plants, authorising Member States to provide for temporary derogations in view of official testing, scientific or educational purposes, trials, varietal selections, or breeding; and
+(b)
+Commission Implementing Regulation (EU) 2019/2072 (the “Phytosanitary Conditions Regulation”) establishing uniform conditions for the implementation of Regulation (EU) 2016/2031 of the European Parliament and the Council as regards protective measures against pests of plants.
+These Regulations demarcate an area for control and containment of a GB quarantine pest.
+Regulation 2 amends the Temporary Derogations Regulation to require the name and address of the laboratory or institution from which the material originated to be included in an application under that Regulation.
+Regulation 3 amends the Phytosanitary Conditions Regulation to revise the movement and import requirements for seed potatoes.
+Part 3 demarcates an area where the GB quarantine pest, Thaumetopoea processionea L. (Oak Processionary Moth), has become established (the infested zone) and a buffer zone around that infested zone and prohibits the movement of high-risk oak trees within the demarcated area except by professional operators subject to prescribed conditions. Failure to comply with regulation 5 or 6 may lead to a plant health inspector taking official activities to prevent the spread of the pest under regulations 14 to 16 of the Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019 (S.I. 2019/1517).
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.

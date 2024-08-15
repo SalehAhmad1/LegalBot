@@ -1,0 +1,65 @@
+STATUTORY INSTRUMENTS
+2022 No. 410
+CUSTOMS
+TRADE
+The Trade in Dual-Use Items (Council Regulation (EC) No 428/2009) (Amendment) Regulations 2022
+Made
+at 10.20 a.m. on 30th March 2022
+Laid before Parliament
+at 4.30 p.m. on 30th March 2022
+Coming into force
+20th April 2022
+The Secretary of State, in exercise of the powers conferred by Articles 15(1) and (2) of Council Regulation (EC) No 428/2009 of 5 May 2009 setting up a Community regime for the control of exports, transfer, brokering and transit of dual-use items (Recast)(1), makes the following Regulations.
+(1)
+EUR 2009/428. Article 15 was substituted by S.I. 2019/771.Citation and commencement
+1.  These Regulations may be cited as the Trade in Dual-Use Items (Council Regulation (EC) No 428/2009) (Amendment) Regulations 2022 and come into force on 20th April 2022.Amendments to Council Regulation (EC) No 428/2009
+2.—(1) Council Regulation (EC) No 428/2009 of 5 May 2009 setting up a Community regime for the control of exports, transfer, brokering and transit of dual-use items (Recast)(1) is amended as follows.
+(2) In Annex I (list of dual-use items)—
+(a)
+in the section headed “definitions of terms used in this Annex”,—
+(i)
+before the definition of “Riot control agent”, insert—
+““Resolution” (2) means the least increment of a measuring device; on digital instruments, the least significant bit.”;
+(ii)
+in the definition of “Satellite navigation system”, omit “(GNSS)” and “(RNSS)”;
+(iii)
+in the definition of “Superalloys”, before “at 922 K” insert “and an ultimate tensile strength greater than 850 MPa,”;
+(b)
+in the section headed “Category 1 – special materials and related equipment”, in entry 1E201, for “1B234” substitute “1B235”;
+(c)
+in the section headed “Category 2 – materials processing”,—
+(i)
+in entry 2B206.c.2., for “at a temperature of ± 1 K (± 1 °C);” substitute “over a temperature range of ± 1 K (± 1 °C)”;
+(ii)
+in entry 2B230, in each instance, for “aluminum” substitute “aluminium”;
+(iii)
+in entry 2B352.b., for Technical Note 2 substitute—
+“2. For the purposes of 2B352.b.2.b., cultivation chamber holding devices include single-use cultivation chambers with rigid walls.”;
+(iv)
+in entry 2B352.f.2., for Note 2 substitute—
+“Note 2: 2B352.f.2. includes any isolator meeting all of the abovementioned characteristics, regardless of its intended use and its designation.
+Note 3: 2B352.f.2. does not include isolators specially designed for barrier nursing or transportation of infected patients.”;
+(v)
+in entry 2D001.a., after “2B001” insert “to 2B009.”;
+(d)
+in the section headed “Category 3 – electronics”, in entry 3A228.a., in the Note, for “3A228” substitute “3A228.a.”;
+(e)
+in the section headed “Category 9 – aerospace and propulsion”,—
+(i)
+in entry 9B005.a., in the Note, for “control” substitute “apply to”;
+(ii)
+in entry 9D005, for “spacecrafts” substitute “spacecraft”.
+(3) In Annex IV, in Part II, in the section headed “items of the NSG technology”, in the table, in entry 3A228.a., in the Note, for “3A228” substitute “3A228.a.”.
+(1)
+EUR 2009/428. Annexes I and IV were amended by S.I. 2019/771.Signed by authority of the Secretary of State for International Trade
+Ranil Jayawardena
+Parliamentary Under Secretary of State
+Department for International Trade
+At 10.20 a.m. on 30th March 2022EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend Council Regulation (EC) No 428/2009 of 5 May 2009 setting up a Community regime for the control of exports, transfer, brokering and transit of dual-use items (Recast)(1) (“the retained Dual-Use Regulation”).
+Regulations 2(2) and 2(3) amend Annexes I and IV to the retained Dual-Use Regulation which list dual-use goods, software and technology subject to export controls. The new text also addresses minor drafting errors and preferences.
+In relation to the Protocol on Ireland/Northern Ireland in the European Union Withdrawal Agreement (“the Protocol”), the amendments to Annex I and IV of the retained Dual-Use Regulation contained in regulation 2 are closely aligned with control list amendments introduced by Regulation (EU) 2021/821 of the European Parliament and of the Council of 20 May 2021 setting up a Union regime for the control of exports, brokering, technical assistance, transit and transfer of dual-use items (recast) (OJ L 206, 11.6.2021, p. 1-392) (“Regulation (EU) 2021/821”), which replaces Council Regulation (EC) No 428/2009 of 5 May 2009 setting up a Community regime for the control of exports, transfer, brokering and transit of dual-use items (recast) (OJ L 134, 29.5.2009, p. 1-373). Regulation (EU) 2021/821 continues to apply to and in the United Kingdom in respect of Northern Ireland by virtue of the Protocol, in particular Articles 5(4) and 13(3) and Annex 2.
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sectors is foreseen. An Explanatory Memorandum is available from the Export Control Joint Unit, Old Admiralty Building, London SW1A 2DY; it is published alongside the instrument at legislation.gov.uk also. In addition, a copy has been placed in the Libraries of both Houses of Parliament.
+(1)
+EUR 2009/428, amended by S.I. 2019/771.

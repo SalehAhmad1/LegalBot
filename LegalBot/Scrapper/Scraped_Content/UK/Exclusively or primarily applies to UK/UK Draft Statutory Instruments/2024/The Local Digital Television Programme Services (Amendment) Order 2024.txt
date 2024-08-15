@@ -1,0 +1,159 @@
+Draft Order laid before Parliament under section 244(9) of the Communications Act 2003 (c. 21), for approval by resolution of each House of Parliament.
+DRAFT STATUTORY INSTRUMENTS
+2024 No.
+BROADCASTING
+The Local Digital Television Programme Services (Amendment) Order 2024
+Made
+Coming into force in accordance with article 1(1)
+The Secretary of State makes this Order in exercise of the powers conferred by section 244(1) of the Communications Act 2003(1) (“the 2003 Act”).
+This Order is made in relation to the local digital television programme services described in article 3 of the Local Digital Television Programme Services Order 2012(2). The Secretary of State considers that these are services in relation to which all of the conditions in section 244(4) of the 2003 Act are satisfied. In accordance with section 244(2)(c) of that Act, the Secretary of State is satisfied that the making of this Order in relation to that description of services will make possible, facilitate or encourage the provision of services falling within section 244(4) of that Act.
+In accordance with section 244(9) of that Act a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
+(1)
+2003 c. 21.
+(2)
+S.I. 2012/292, amended by S.I. 2012/1842.Citation, commencement and extent
+1.—(1) This Order may be cited as the Local Digital Television Programme Services (Amendment) Order 2024 and comes into force on the day after the day on which it is made.
+(2) This Order extends to England and Wales, Scotland and Northern Ireland.Amendment of the Schedule to the Local Digital Television Programme Services Order 2012
+2.  Part 1 (modifications of the Broadcasting Act 1996(1)) of the Schedule to the Local Digital Television Programme Services Order 2012 is amended in accordance with articles 3 and 4.
+(1)
+1996 c. 55.Amendments relating to local multiplex licences
+3.—(1) In paragraph 7 (modifications of section 12(1) (conditions attached to multiplex licence))—
+(a)
+before sub-paragraph (a) insert—
+“(za)
+in subsection (1), at the end of paragraph (a) there were inserted “and any supplementary technical plan submitted under section 16(4A)(a)”,”,
+(b)
+after sub-paragraph (a) insert—
+“(aa)
+in that subsection, at the end of paragraph (b) there were inserted “and any supplementary proposals submitted under section 16(4A)(b)”,”,
+(c)
+at the end of sub-paragraph (d), omit “and”, and
+(d)
+before sub-paragraph (e) insert—
+“(da)
+in subsection (2), at the end there were inserted “, except that such consent is not needed where the variation is to secure the implementation of any supplementary technical plan or supplementary proposals submitted under section 16(4A)”, and”.
+(2) Paragraph 8 (modifications of section 16(2) (duration and renewal of multiplex licences)) is amended in accordance with paragraphs (3) to (5).
+(3) At the end of sub-paragraph (a), omit “and”.
+(4) For sub-paragraph (b) substitute—
+“(b)
+for subsections (2) and (3) there were substituted—
+“(2) OFCOM may, at any time before 31st December 2034, renew a local multiplex licence on one occasion in accordance with this section for a period ending on or before 31st December 2034 and beginning with the date on which it would otherwise expire.
+(3) An application for the renewal of a local multiplex licence under subsection (2)—
+(a)
+must be made in writing to OFCOM, and
+(b)
+may be made by the licence holder not later than the day falling three months before the relevant date.”,”.
+(5) After sub-paragraph (b) insert—
+“(c)
+for subsection (4)(a)(i) and (ii) there were substituted—
+“(i)
+information about the service the applicant proposes to provide if their licence were renewed, and
+(ii)
+such additional information as OFCOM consider necessary for the purposes of considering the application.”,
+(d)
+subsection (4)(b) were omitted,
+(e)
+after subsection (4) there were inserted—
+“(4A) In making an application for the renewal of a local multiplex licence under subsection (2), the applicant may submit—
+(a)
+a technical plan which supplements that submitted by the licence holder under section 7(4)(b), and
+(b)
+proposals which supplement those submitted by the licence holder under section 7(4)(f).”,
+(f)
+subsections (5) and (6) were omitted,
+(g)
+in subsection (7), before “multiplex licence” there were inserted “local”,
+(h)
+in that subsection, paragraph (b) (but not the “or” after it) were omitted,
+(i)
+after that subsection there were inserted—
+“(7A) For the purposes of subsection (7)(c), OFCOM may consider any conditions that would be included to secure the implementation of any supplementary technical plan or supplementary proposals submitted under subsection (4A).”,
+(j)
+subsections (8) and (9) were omitted,
+(k)
+in subsection (10), the words from “; and they shall not so renew” to the end were omitted,
+(l)
+for subsection (11) there were substituted—
+“(11) Where a local multiplex licence has been renewed under this section, the licence as renewed may include such further conditions, or OFCOM may make such variations to existing conditions, as appear to OFCOM to be appropriate for securing the implementation of any supplementary technical plan and supplementary proposals submitted under subsection (4A).
+(11A) OFCOM may, having regard to the relevant date, postpone consideration of any supplementary technical plan and supplementary proposals submitted under subsection (4A), in which case OFCOM must treat the submission of such information as an application by the holder of the licence as renewed for a variation of the conditions imposed in pursuance of section 12(1)(a) or (b) (see section 12(2)).”,
+(m)
+in subsection (12), before “multiplex licence” there were inserted “local”,
+(n)
+in subsection (12A)(a), for “one year” there were substituted “six months”,
+(o)
+after subsection (12A) there were inserted—
+“(12B) Subsection (12A) does not prevent the determination of a date falling less than six months after the making of the determination where the determination is made as soon as practicable after the day this subsection comes into force.”, and
+(p)
+in subsection (13), before “multiplex licence” there were inserted “local”.”.
+(6) After paragraph 8, insert—
+“8A.  Part 1 has effect as if after section 16 there were inserted—
+“16A.    Revocation of local multiplex licences for spectrum management reasons
+(1) Where OFCOM have awarded a local multiplex licence under section 8(3), or renewed a local multiplex licence under section 16, they may, with the consent of the Secretary of State, revoke the licence.
+(2) OFCOM may only revoke the licence for reasons related to the management of the radio spectrum.
+(3) Where OFCOM propose to revoke the licence, they must give the holder of the licence a notification—
+(a)
+stating the reasons for the proposed revocation, and
+(b)
+specifying the period during which the person notified has an opportunity to make representations about the proposal.
+(4) Where OFCOM have given a notification under subsection (3), they must, as soon as reasonably practicable after the end of the period for the making of representations—
+(a)
+decide whether or not to revoke the licence in accordance with their proposal, or in accordance with that proposal but with modifications, and
+(b)
+give the holder of the licence a notification of their decision—
+(i)
+stating the reasons for the decision, and
+(ii)
+where the decision is to revoke the licence, specifying a date, not earlier than five years after the date on which the notification is given, on which the revocation takes effect.”.”.
+(1)
+Section 12 has effect in relation to a local multiplex licence with the modifications set out in S.I. 2012/292, article 4 and Schedule, Part 1, paragraphs 3 and 7. There are other amendments, but none are relevant to the modifications made by this Order.
+(2)
+Section 16 was amended by the Communications Act 2003 (c. 21), section 360(3), Schedule 15, Part 2, paragraph 88 and section 406(7), Schedule 19(1). Section 16 has effect in relation to a local multiplex licence with the modifications set out in S.I. 2012/292, article 4 and Schedule, Part 1, paragraph 8.
+(3)
+Section 8 was amended by the Communications Act 2003 (c. 21), section 360(3), Schedule 15, Part 2, paragraph 80. Section 8 has effect in relation to a local multiplex licence with the modifications set out in S.I. 2012/292, article 4 and Schedule, Part 1, paragraphs 3 and 5.Amendments relating to local digital television programme service licences
+4.—(1) In paragraph 10 (modifications of section 19(1) (duration and conditions of digital programme licence)), after sub-paragraph (a) insert—
+“(aa)
+after subsection (1) there were inserted—
+“(1A) A local digital television programme service licence may be renewed in accordance with section 19ZA.”,”.
+(2) In paragraph 11, before new section 19A (pornographic material) insert—
+“19ZA.    Renewal of local digital television programme service licences
+(1) OFCOM may, at any time before 31st December 2034, renew a local digital television programme service licence on one occasion for a period ending on or before 31st December 2034 and beginning with the date on which it would otherwise expire.
+(2) An application for the renewal of a local digital television programme service licence under subsection (1)—
+(a)
+must be made in writing to OFCOM, and
+(b)
+may be made by the licence holder not later than the day falling three months before the relevant date.
+(3) An application under subsection (2) must be accompanied by—
+(a)
+details of the local digital television programme service the applicant proposes to provide,
+(b)
+a detailed explanation of the applicant’s ability to maintain, throughout the period for which the licence, if renewed, would be in force, the proposed service,
+(c)
+a detailed explanation of how the character of the service is to be maintained for the period for which the licence, if renewed, would be in force, and
+(d)
+such information as OFCOM may reasonably require as to the applicant’s present and projected financial position during the period for which the licence, if renewed, would be in force.
+(4) At any time after receiving such an application and before determining it, OFCOM may require the applicant to furnish such additional information as they consider necessary for the purposes of considering the application.
+(5) Where an application for the renewal of a local digital television programme service licence has been duly made to OFCOM they may refuse the application only if—
+(a)
+it appears to them that the applicant has failed to comply with any of the conditions in their licence, or
+(b)
+they are not satisfied that the applicant would, if their licence were renewed, provide a service which complied with the conditions to be included in the licence as renewed.
+(6) In this section “the relevant date”, in relation to a local digital television programme service licence, means the date which OFCOM determine to be that by which they would need to publish a notice under section 18(1)(2) if they were to grant, as from the date on which that licence would expire if not renewed, a fresh licence to provide the service formerly provided under that licence.
+(7) A determination for the purposes of subsection (6)—
+(a)
+must be made at least six months before the date determined, and
+(b)
+must be notified by OFCOM to the person who holds the licence in question.
+(8) Subsection (7) does not prevent the determination of a date falling less than six months after the making of the determination where the determination is made as soon as practicable after the day this subsection comes into force.
+(9) Nothing in this section prevents the holder of a local digital television programme service licence from applying for a new licence on one or more occasions in pursuance of a notice under section 18(1).”.
+(1)
+Section 19 has effect in relation to a local digital television programme service with the modifications set out in S.I. 2012/292, as amended by S.I. 2012/1842. There are other amendments, but none are relevant to the modifications made by this Order.
+(2)
+For the purposes of a local digital television programme service, section 18 is substituted by S.I. 2012/292.[Name]
+Minister of State
+Department for Culture, Media and Sport
+DateEXPLANATORY NOTE
+(This note is not part of the Order)
+This Order amends Part 1 of the Schedule to the Local Digital Television Programme Services Order 2012 (“the 2012 Order”). The 2012 Order provides that specified provisions of Part 1 of the Broadcasting Act 1996 (“the 1996 Act”) and Part 3 of the Communications Act 2003 have effect with modifications in relation to local digital television programme services (described in article 3 of the 2012 Order). Part 1 of the Schedule to the 2012 Order makes modifications to the 1996 Act.
+Article 3 of this Order makes amendments relating to local multiplex licences (defined in section 39 of the 1996 Act, as modified by paragraph 12 of the Schedule to the 2012 Order). As a result of these amendments to the 2012 Order, section 16 of the 1996 Act is modified to give OFCOM the power to renew local multiplex licences on one occasion for a period ending on or before 31st December 2034. Part 1 of the 1996 Act is also modified to give OFCOM the power to revoke a local multiplex licence for spectrum management reasons. New section 16A sets out the procedure to be followed by OFCOM which provides for a notice period of five years and allows for representations from the licence holder.
+Article 4 of this Order makes amendments relating to local digital television programme service licences (defined in section 39 of the 1996 Act, as modified by paragraph 12 of the Schedule to the 2012 Order). These amendments modify the 1996 Act to give OFCOM the power to renew local digital television programme service licences on one occasion for a period ending on or before 31st December 2034.
+A de minimis impact assessment of the effect that this instrument will have on the costs of business and the public sector is available from the Department for Culture, Media and Sport at 100 Parliament Street, London, SW1A 2BQ and is published alongside this Order on www.legislation.gov.uk.

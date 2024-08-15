@@ -1,0 +1,183 @@
+This Statutory Instrument is being made to correct errors in S.I. 2023/219 and is being issued free of charge to all known recipients of that Statutory Instrument.
+Draft Regulations laid before Parliament under section 2(8) of the Pollution Prevention and Control Act 1999, for approval by resolution of each House of Parliament.
+DRAFT STATUTORY INSTRUMENTS
+2023 No. 0000
+ENVIRONMENTAL PROTECTION
+The Packaging Waste (Data Reporting) (England) (Amendment) Regulations 2023
+Made
+***
+Coming into force
+***
+The Secretary of State makes these Regulations in exercise of powers conferred by section 2 of, and paragraphs 11, 17 and 20 of Schedule 1 to, the Pollution Prevention and Control Act 1999 (“the 1999 Act”)(1).
+In accordance with section 2(4) of the 1999 Act, the Secretary of State has consulted—
+(a)
+the Environment Agency;
+(b)
+such bodies or persons appearing to the Secretary of State to be representative of the interests of local government, industry, agriculture and small businesses as the Secretary of State considers appropriate, and
+(c)
+such other bodies or persons as the Secretary of State considers appropriate.
+In accordance with section 2(8) of the 1999 Act, a draft of these Regulations has been laid before, and approved by resolution of, each House of Parliament.
+(1)
+1999 c. 24. Section 2 was amended by section 62 of the Water Act 2014 (c. 21), and S.I. 2013/755. Schedule 1 was amended by section 70 of the Environment Act 2021 (c. 30), and S.I. 2005/925, 2012/2788, 2018/942, 2019/458.Citation, commencement, extent and application
+1.—(1) These Regulations may be cited as the Packaging Waste (Data Reporting) (England) (Amendment) Regulations 2023.
+(2) These Regulations come into force on—
+(a)
+30th June 2023, or
+(b)
+if later, the day after the day on which they are made.
+(3) These Regulations extend to England and Wales, and apply to England only.The Packaging Waste (Data Reporting) (England) Regulations 2023
+2.  The Packaging Waste (Data Reporting) (England) Regulations 2023(1) are amended in accordance with these Regulations.
+(1)
+S.I. 2023/219.Interpretation
+3.  In regulation 2(2)—
+(a)
+in the definition of “brand owner”, for “8(2)” substitute “8(2B) read with 8(2A)”;
+(b)
+omit the definition of “premises”;
+(c)
+omit the definition of “recovery”.Establishment in England and the United Kingdom
+4.  In regulation 3—
+(a)
+in paragraph (3)—
+(i)
+for “countries in”, substitute “nations of”;
+(ii)
+for “countries”, the second time it occurs, substitute “nations”;
+(b)
+in paragraph (4), for “country” substitute “nation”;
+(c)
+in paragraph (5), for “country” substitute “nation”.Packaging and packaging categories
+5.  In regulation 6(3), for “rules” substitute “application of the criteria”.Producers
+6.  In regulation 8—
+(a)
+for paragraph (2), substitute—
+“(2) Unless paragraph (3A) applies, and subject to paragraph (2C), a brand owner is a producer in relation to—
+(a)
+filled packaging on which that person’s brand appears; and
+(b)
+any part of the packaging contained in, or forming part of, branded packaging (whether or not that part of the packaging is branded).”;
+(b)
+after paragraph (2), insert—
+“(2A) Subject to paragraph (2C), when more than one brand appears on filled packaging, the owner of the brand who makes the first supply of the filled packaging is to be treated as the brand owner and producer in relation to that packaging.
+(2B) In this regulation—
+“brand” means a brand name, trade mark or other distinctive mark;
+“branded packaging” means packaging on which the brand owner’s brand appears;
+“brand owner” means, subject to paragraph (2A), a person whose brand appears on an item of filled packaging.
+(2C) Where different individual branded products or unbranded products (or both) are grouped together to be sold as a single sales unit—
+(a)
+the brand owner for an individual branded product within the sales unit is a producer in relation to the branded packaging on that individual product;
+(b)
+the packer/filler is a producer in relation to any unbranded packaging within the sales unit which is filled by the packer/filler.”;
+(c)
+after paragraph (3), insert—
+“(3A) A packer/filler is also a producer—
+(a)
+where—
+(i)
+the packer/filler has filled packaging;
+(ii)
+the packer/filler has put a brand on the packaging to assist with distribution, and not at the request of the brand owner; and
+(iii)
+there is no other brand on the packaging;
+(b)
+for any packaging which the packer/filler adds to branded packaging otherwise than at the request of the brand owner.”;
+(d)
+in paragraph (4), in sub-paragraph (b)—
+(i)
+at the end of paragraph (ii), omit “or”;
+(ii)
+for paragraph (iii), substitute—
+“(iii)
+where the brand owner is responsible for the import of the packaging, but is not a large producer under these Regulations; or”;
+(iii)
+after paragraph (iii), insert—
+“(iv)
+where the brand owner is not established in the United Kingdom.”;
+(e)
+after paragraph (4), insert—
+“(4A) An importer is also a producer in relation to any packaging imported by the importer into, and discarded in, the United Kingdom.”Licensors and pub operating businesses
+7.  In regulation 9(3), in the definition of “tenant”, omit the words from ““tertiary packaging”” to the end.Supply
+8.  In regulation 10—
+(a)
+after paragraph (1), insert—
+“(1A) In these Regulations, an importer is to be treated as “supplying” packaging or packaging materials which the importer imports into and discards in the United Kingdom.”;
+(b)
+in paragraph (2), for “functions” substitute “actions”;
+(c)
+in paragraph (4)(a)(ii), for “market” substitute “marketplace”.Threshold criteria for large and small producers
+9.  In regulation 11(9)(a) and (b), for “and (4)(b)” substitute “, (4)(b), (5)(b) and (6)(b)”.Data reporting obligations
+10.  In regulation 17(2)(b), after “1st January” insert “2023”.Monitoring
+11.  In regulation 23, omit paragraphs (2) and (5).Approved persons
+12.  In regulation 24(2), after sub-paragraph (b), insert—
+“(ba)
+is a limited liability partnership, a member of that partnership;”.Offences and penalties
+13.  In regulation 28—
+(a)
+in paragraph (3)(b), for “data collection” substitute “record retention”;
+(b)
+for paragraph (6), substitute—
+“(6) A person who—
+(a)
+fails, without reasonable excuse, to give an officer of the Environment Agency (an “officer”) any assistance or information which that officer reasonably requires in the exercise of their powers under regulation 26, or
+(b)
+intentionally delays or obstructs an officer in the exercise of powers referred to in regulation 26,
+is guilty of an offence.”;
+(c)
+after paragraph (8), insert—
+“(8A) If an offence committed by a person under this regulation is due to the act or default of some other person, that other person is also guilty of the offence and liable to be proceeded against and punished accordingly, whether or not proceedings for the offence are taken against the first-mentioned person.”;
+(d)
+in paragraph (9), for “paragraph (7)” substitute “paragraph (8)”.Schedule 1: collection and reporting
+14.—(1) Schedule 1 is amended as follows.
+(2) In paragraph 1, omit sub-paragraph (a).
+(3) In paragraph 10(3)(b)—
+(a)
+at the end of sub-paragraph (i), omit “and”;
+(b)
+omit sub-paragraph (ii).
+(4) In paragraph 13—
+(a)
+in sub-paragraph (1), in the opening words, for “reporting” substitute “relevant”;
+(b)
+after sub-paragraph (2), insert—
+“(3) Sub-paragraph (1) does not apply in relation to imported packaging which has been discarded in the United Kingdom by an importer.”.
+(5) Omit paragraph 14.
+(6) In paragraph 15(c), for “of household” substitute “of unfilled household”.
+(7) In paragraph 16—
+(a)
+renumber the existing paragraph as sub-paragraph (1);
+(b)
+in sub-paragraph (1), as so renumbered—
+(i)
+in the opening words, for “reusable primary” substitute “reusing”;
+(ii)
+in paragraph (a), for “reporting” substitute “relevant”;
+(iii)
+omit paragraph (c);
+(c)
+after sub-paragraph (1), insert—
+“(2) The information provided under sub-paragraph (1) must be given for each packaging category supplied by the producer in the relevant period.
+(3) The producer need only include information on reusable household packaging in the year in which it is first supplied.”.
+(8) In paragraph 17(1), after “the producer” insert “in the relevant period in each packaging category”.
+(9) In paragraph 22, for sub-paragraph (2), substitute—
+“(2) For the purposes of reports submitted in relation to the relevant years 2024, 2025 and 2026, producers who are—
+(a)
+sellers who supply secondary or tertiary packaging may estimate the amount of packaging which had been supplied to a nation of the United Kingdom in order to calculate the weight of packaging supplied to that nation;
+(b)
+importers who import secondary or tertiary packaging may estimate the amount of packaging discarded in a nation of the United Kingdom in order to calculate the weight of packaging discarded in that nation.”.
+(10) In paragraph 23—
+(a)
+in paragraph (1), at the end insert “and sent for recycling”;
+(b)
+after sub-paragraph (5), insert—
+“(6) “Relevant packaging waste” includes reusable packaging which has been reused and has become waste, whether or not it is collected from households for recycling by more than 75% of relevant authorities in England responsible for waste collection.”.Schedule 2: licensors and pub operating businesses
+15.  In Schedule 2—
+(a)
+in paragraph 7(1), for “11(1)(b)” substitute “11(2)(b)”;
+(b)
+in paragraph 8(a)(ii), for “paragraph 5” substitute “paragraph 7(2)”.Name
+Parliamentary Under Secretary of State
+Department for Environment, Food and Rural Affairs
+DateEXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations are made to correct errors in The Packaging Waste (Data Reporting) (England) Regulations 2023 (S.I. 2023/219) (“the first Regulations”), to make further provision clarifying when a brand owner is a producer in relation to packaging, to assign responsibility for certain packaging to packer/fillers, rather than brand owners, and to importers, and to make further provision in relation to offences under the Regulations.
+A full impact assessment of the effect that the first Regulations will have on the costs of business, the voluntary sector and the public sector is available from www.legislation.gov.uk and from the Department for Environment, Food and Rural Affairs, Seacole Building, 2 Marsham Street, London, SW1P 4DF.

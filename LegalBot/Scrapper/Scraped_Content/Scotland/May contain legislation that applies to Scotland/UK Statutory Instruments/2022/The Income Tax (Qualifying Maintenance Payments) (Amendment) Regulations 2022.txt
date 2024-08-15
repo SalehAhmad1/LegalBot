@@ -1,0 +1,32 @@
+STATUTORY INSTRUMENTS
+2022 No. 169
+INCOME TAX
+The Income Tax (Qualifying Maintenance Payments) (Amendment) Regulations 2022
+Made
+23rd February 2022
+Laid before the House of Commons
+25th February 2022
+Coming into force
+18th March 2022
+The Treasury make the following regulations in exercise of the powers conferred by section 90(1)(a), (2)(a) and (3) of the Finance Act 2019(1).
+(1)
+2019 c. 1.Citation, commencement and effect
+1.—(1) These Regulations may be cited as the Income Tax (Qualifying Maintenance Payments) (Amendment) Regulations 2022 and come into force on 18th March 2022.
+(2) Regulation 2 has effect from IP completion day.Amendment of the Income Tax Act 2007
+2.—(1) Chapter 5 of Part 8 of the Income Tax Act 2007(1) (qualifying maintenance payments) is amended as follows.
+(2) In section 454(4)—
+(a)
+in paragraph (a) after “court in” insert “the United Kingdom or”;
+(b)
+in paragraph (b) after “the law of” insert “the United Kingdom or of a part of the United Kingdom or of”.
+(3) In section 454(7) for “a member State” substitute “the United Kingdom”.
+(1)
+2007 c. 3.Amanda Solloway
+Rebecca Harris
+Two of the Lords Commissioners of Her Majesty’s Treasury
+23rd February 2022EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend section 454(4) and (7) of the Income Tax Act 2007 (c. 3) (“the Act”) to ensure the effective operation of Chapter 5 of Part 8 of the Act after the withdrawal of the United Kingdom from the European Union.
+Regulation 1(2) provides that regulation 2 has retrospective effect from IP completion day pursuant to the power under section 90(3) of the Finance Act 2019 (c. 1).
+Regulation 2 amends section 454(4) and (7) of the Act to explicitly refer to the United Kingdom now that it is no longer a member State of the European Union. This ensures continuity of income tax relief under section 453 of the Act for qualifying maintenance payments made from IP completion day, pursuant to an order made by a court in the United Kingdom or a written agreement, the law applicable to which is the law of the United Kingdom or of a part of the United Kingdom (provided they otherwise meet the eligibility criteria set out in section 454 of the Act).
+A Tax Information and Impact Note has not been prepared for this instrument as it contains no substantive changes to tax policy.

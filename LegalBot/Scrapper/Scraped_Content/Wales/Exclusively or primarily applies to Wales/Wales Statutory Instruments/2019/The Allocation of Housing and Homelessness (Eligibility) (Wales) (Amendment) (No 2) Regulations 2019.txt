@@ -1,0 +1,49 @@
+WELSH STATUTORY INSTRUMENTS
+2019 No. 1149 (W. 199)
+HOUSING, WALES
+The Allocation of Housing and Homelessness (Eligibility) (Wales) (Amendment) (No 2) Regulations 2019
+Made
+18 July 2019
+Coming into force
+19 July 2019
+The Welsh Ministers make the following Regulations in exercise of the powers conferred on them by paragraph 1(2) and (4) of Schedule 2 to the Housing (Wales) Act 2014(1).
+In accordance with section 142(3) (b) of that Act, a draft of these Regulations has been laid before and approved by a resolution of the National Assembly for Wales.
+(1)
+2014 anaw 7.Title and commencement
+1.  The title of these Regulations is the Allocation of Housing and Homelessness (Eligibility) (Wales) (Amendment) (No 2) Regulations 2019 and they come into force on 19 July 2019.Amendment of the Allocation of Housing and Homelessness (Eligibility) (Wales) Regulations 2014
+2.—(1) The Allocation of Housing and Homelessness (Eligibility) (Wales) Regulations 2014(1) are amended as follows.
+(2) In regulation 5 (persons subject to immigration control who are eligible for housing assistance)—
+(a)
+at the end of paragraph (f), omit “and”;
+(b)
+at the end of paragraph (g) for “.” substitute “; and”;
+(c)
+after paragraph (g) insert—
+“(h)
+Class H – a person who is habitually resident in the United Kingdom, the Channel Islands, the Isle of Man or the Republic of Ireland and who has been relocated to the United Kingdom under section 67 of the Immigration Act 2016 and has limited leave to remain under paragraph 352ZH of the immigration rules; and
+(i)
+Class I – a person who is habitually resident in the United Kingdom, the Channel Islands, the Isle of Man or the Republic of Ireland and has Calais Leave to remain under paragraph 352J of the immigration rules.”
+(3) In regulation 6 (other persons from abroad who are ineligible for housing assistance) after paragraph (1) insert—
+“(1A) For the purposes of determining whether the only right to reside that a person has is of a kind mentioned in paragraph (1) (b) and (c), a right to reside by virtue of having been granted limited leave to enter or remain in the United Kingdom under the Immigration Act 1971(2) by virtue of Appendix EU to the immigration rules (3) made under section 3 of that Act is to be disregarded.”
+(1)
+S.I. 2014/2603 (W. 257).
+(2)
+1971 c. 77. The amendments to section 3 are not relevant to these Regulations.
+(3)
+Laid before Parliament on 23 May 1994 (HC 395), as amended. Appendix EU was laid before Parliament on 20 July 2018 (CM 9675).Transitional provisions
+3.  The amendments made by regulation 2(3) do not have effect in relation to an application for housing assistance provided under sections 66, 68, 73 and 75 of the Housing (Wales) Act 2014 which was made before the coming into force of these Regulations.Julie James
+Minister for Housing and Local Government, one of the Welsh Ministers
+18 July 2019EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the provisions of the Allocation of Housing and Homelessness (Eligibility) (Wales) Regulations 2014 (S.I. 2014/2603 (W. 257)) (“the 2014 Regulations”), which prescribe the classes of persons subject to immigration control who are eligible for housing assistance under sections 66, 68, 73 and 75 of the Housing (Wales) Act 2014 (2014 anaw 7), as well as the classes of persons from abroad, not subject to immigration control, who are ineligible for housing assistance under that Act. For these purposes, ‘person subject to immigration control’ has the meaning given in section 13(2) of the Asylum and Immigration Act 1996 (c. 49).
+Regulation 5 of the 2014 Regulations prescribes classes of persons subject to immigration control who are eligible for housing assistance. Regulation 2(2) amends that provision by adding two further classes of person to the list, that is, those captured by section 67 of the Immigration Act 2016 (c. 19) and have either limited leave to remain under paragraph 352ZH of the immigration rules or Calais leave to remain under paragraph 352J of the immigration rules (laid before Parliament on 23 May 1994 (HC 395)) (“the immigration rules”).
+Under regulation 6 of the 2014 Regulations, a person who is not subject to immigration control is ineligible for housing assistance where they are not habitually resident in the United Kingdom, the Channel Islands, the Isle of Man or the Republic of Ireland or their only right to reside in those places is—
+(a)
+as an EEA ‘jobseeker’ or as the ‘family member’ of an EEA jobseeker;
+(b)
+an initial right to reside for a period not exceeding three months under the Immigration (European Economic Area) Regulations 2016 (S.I. 2016/1052) (“the EEA Regulations 2016”);
+(c)
+because they are a non-EEA national primary carer of an EEA dependant under the EEA Regulations 2016.
+Regulation 2(3) amends that provision. The effect of the amendment is to maintain the status quo so that, where a person with a right to reside of the type mentioned above is also granted limited leave to enter or remain in the United Kingdom pursuant to Appendix EU of the immigration rules, this does not affect their eligibility.
+The 2014 Regulations refer to the Immigration (European Economic Area) Regulations 2006 (S.I. 2006/1003) (“the EEA Regulations 2006”). Whilst the EEA Regulations 2006 have been revoked by the EEA Regulations 2016, the effect of paragraph 1 of Schedule 7 to the EEA Regulations 2016 is that references to the EEA Regulations 2006 in the 2014 Regulations are to be read as references to the corresponding provisions of the EEA Regulations 2016.
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result it was not considered necessary to carry out a regulatory impact assessment as to the likely costs and benefits of complying with these Regulations.

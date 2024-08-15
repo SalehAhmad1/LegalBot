@@ -1,0 +1,86 @@
+STATUTORY INSTRUMENTS
+2020 No. 139
+REPRESENTATION OF THE PEOPLE
+The Elections (Policy Development Grants Scheme) (Amendment) Order 2020
+Made
+11th February 2020
+Laid before Parliament
+12th February 2020
+Coming into force
+6th March 2020
+The Minister for the Cabinet Office, in exercise of the power conferred by section 12(6) of the Political Parties, Elections and Referendums Act 2000(1), makes the following Order, which gives effect to the recommendations submitted to the Minister by the Electoral Commission for variations to the scheme for the making by the Commission of policy development grants.
+(1)
+2000 c. 41. The powers under section 12 are conferred on “the Secretary of State”, which is defined under section 159A of the Political Parties, Elections and Referendums Act 2000 as meaning the Secretary of State or the Minister for the Cabinet Office. Section 159A of the Act was inserted by S.I. 2002/2626, Schedule 2, paragraph 25(3), and amended by S.I. 2008/1319, Article 4(2) and S.I. 2016/997, Schedule 2, paragraph 15(b).Citation, commencement and interpretation
+1.—(1) This Order may be cited as the Elections (Policy Development Grants Scheme) (Amendment) Order 2020 and comes into force on 6th March 2020.
+(2) In this Order, “the Scheme” means the policy development grants scheme set out in the Schedule to the Elections (Policy Development Grants Scheme) Order 2006(1).
+(1)
+S.I. 2006/602, amended by S.I. 2014/556, 2015/128 and 302, 2016/164, 2017/109 and 2018/127.Amendments to the policy development grants scheme
+2.  The amendments to the Scheme set out in the Schedule have effect for the purpose of the making by the Electoral Commission of policy development grants on or after 1st April 2020.Chloe Smith
+Minister for the Constitution
+Cabinet Office
+11th February 2020Article 2
+SCHEDULE
+Amendment to the Scheme
+1.  The Scheme is amended as follows.
+2.  In paragraph 1(2) (definitions)—
+(a)
+omit the definition of “English voters”;
+(b)
+omit the definition of “European election”;
+(c)
+in the definition of “Northern Ireland voters” omit “, a European election”;
+(d)
+in the definition of “Scottish voters” omit “, a European election”; and
+(e)
+in the definition of “Welsh voters” omit “, a European election”.
+3.  In paragraph 3(2) (eligible parties)—
+(a)
+omit the “and” after paragraph (e);
+(b)
+after paragraph (f) insert—
+“and
+(fa)
+the Social Democratic and Labour Party.”.
+4.  In paragraph 5 (allocation between eligible parties)—
+(a)
+after sub-paragraph (a) insert—
+“(aa)
+the Democratic Unionist Party and the Social Democratic and Labour Party may each receive an amount not exceeding the aggregate of—
+(i)
+the amount determined by dividing £1 million by the number of eligible parties; and
+(ii)
+the amount determined for that year in accordance with paragraphs 6, 7 and 8A;”; and
+(b)
+in sub-paragraph (b) omit “the Democratic Unionist Party,”.
+5.  In paragraph 7(3) (calculation of notional shares)—
+(a)
+for paragraph (a) substitute—
+“(a)
+for England, is the number of votes cast in England for that party at the Westminster election which most closely precedes 7th March prior to the start of the year in question, expressed as a percentage of the total number of votes cast by persons who voted in England at that election;”; and
+(b)
+for paragraph (b) substitute—
+“(b)
+for Northern Ireland, Scotland and Wales, is the number found by the application (separately as regards each country) of the formula—
+where—
+A is the number of votes cast in Northern Ireland, Scotland or Wales (as the case may be) at the Westminster election which most closely precedes 7th March prior to the start of the year in question, expressed as a percentage of the total number of votes cast by Northern Ireland voters, Scottish voters or Welsh voters (as the case may be);
+B is the number of persons who voted in Northern Ireland, Scotland or Wales (as the case may be) at that election, expressed as a percentage of the number of persons eligible to vote in the country in question at that election;
+C is the number of votes cast for that party—
+(i)
+as regards Northern Ireland, in Northern Ireland at the Northern Ireland election that most closely precedes 7th March prior to the start of the year in question;
+(ii)
+as regards Scotland, in Scotland at the Scottish election that most closely precedes 7th March prior to the start of the year in question;
+(iii)
+as regards Wales, in Wales at the Welsh election that most closely precedes 7th March prior to the start of the year in question,
+expressed as a percentage of the total number of votes cast by Northern Ireland voters, Scottish voters or Welsh voters (as the case may be); and
+D is the number of persons who voted at the election concerned, expressed as a percentage of the number of persons eligible to vote at that election.”.
+6.  After paragraph 8 insert—
+“Determination of Democratic Unionist and Social Democratic and Labour shares
+8A.  The Commission is to—
+(a)
+add the notional shares calculated in accordance with paragraph 7 for the Democratic Unionist Party and the Social Democratic and Labour Party; and
+(b)
+divide the resultant amount by two.”.EXPLANATORY NOTE
+(This note is not part of the Order)
+This Order amends the Policy Development Grants Scheme 2006 (“the Scheme”) as set out in the Schedule to the Elections (Policy Development Grants Scheme) Order 2006 (S.I. 2006/602).
+Under section 12 of the Political Parties, Elections and Referendums Act 2000 (c. 41) the Electoral Commission is required to keep under review the terms of the Scheme and to make recommendations to the Secretary of State for any variations to the Scheme which they consider appropriate. The changes made by this Order give effect to those recommendations. The list of parties eligible for grants is amended to include the Social Democratic and Labour Party following the general election on 12th December 2019. The formula for determining a party’s weighted vote share, which enables the Electoral Commission to calculate the amount to be allocated to each party in accordance with paragraph 5 of the Scheme, is amended so that it no longer takes into account European Parliamentary elections.
+An impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.

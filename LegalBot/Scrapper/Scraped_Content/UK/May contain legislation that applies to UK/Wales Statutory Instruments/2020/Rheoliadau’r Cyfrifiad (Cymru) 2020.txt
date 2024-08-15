@@ -1,0 +1,1706 @@
+OFFERYNNAU STATUDOL CYMRU
+2020 Rhif 555 (Cy. 128)
+Y CYFRIFIAD, CYMRU
+Rheoliadau’r Cyfrifiad (Cymru) 2020
+Gwnaed
+28 Mai 2020
+Gosodwyd gerbron Senedd Cymru
+1 Mehefin 2020
+Yn dod i rym
+26 Mehefin 2020
+Mae Gweinidogion Cymru, drwy arfer y pwerau a roddir iddynt gan adran 3(1) o Ddeddf y Cyfrifiad 1920(1), ac ar ôl ymgynghori â’r Bwrdd Ystadegau yn unol ag adran 3(1A)(2) o’r Ddeddf honno, yn gwneud y Rheoliadau a ganlyn:
+(1)
+1920 p. 41. Diwygiwyd adran 3(1) gan Ran 16 o Atodlen 1 i Ddeddf Cyfraith Statud (Diddymiadau) 1993 (p. 50), a chan adran 25 o Ddeddf Ystadegau a’r Gwasanaeth Cofrestru 2007 (p. 18) ac Atodlen 1 iddi.
+(2)
+Mewnosodwyd adran 3(1A) gan adran 25 o Ddeddf Ystadegau a’r Gwasanaeth Cofrestru 2007 ac Atodlen 1 iddi.Enwi, cychwyn a chymhwyso
+1.—(1) Enw’r Rheoliadau hyn yw Rheoliadau’r Cyfrifiad (Cymru) 2020.
+(2) Daw’r Rheoliadau hyn i rym ar 26 Mehefin 2020.
+(3) Maeʼr Rheoliadau hyn yn gymwys o ran Cymru.Dirymu
+2.  Mae Rheoliadau’r Cyfrifiad (Cymru) 2010(1) wedi eu dirymu.
+(1)
+O.S. 2010/1361 (Cy. 116).Dehongli
+3.—(1) Yn y Rheoliadau hyn—
+mae i “aelwyd” yr ystyr a roddir i “household” gan erthygl 2(1) o Orchymyn y Cyfrifiad;
+mae i “amlen radbost” (“prepaid envelope”) fel y mae’n ymddangos yn holiadur I2(paper) ac I2W(papur) yr un ystyr ag “amlen wedi ei thalu ymlaen llaw”;
+ystyr “amlen wedi ei thalu ymlaen llaw” (“reply-paid envelope”) yw amlen sydd wedi ei chyfeirio ymlaen llaw ac nad oes angen i’r anfonwr dalu i’w hanfon;
+mae i “annedd” yr ystyr a roddir i “dwelling” gan erthygl 2(1) o Orchymyn y Cyfrifiad;
+ystyr “ardal cydgysylltydd cyfrifiad” (“census co-ordinator area”) yw ardal a grëir o dan reoliad 4(1)(b)(i);
+ystyr “ardal cydgysylltydd sefydliadau cymunedol” (“communal establishment co-ordinator area”) yw ardal a grëir o dan reoliad 4(1)(b)(ii);
+ystyr “yr Awdurdod” (“the Authority”) yw’r Bwrdd Ystadegau a sefydlwyd gan adran 1 o Ddeddf 2007;
+ystyr “cod mynediad unigryw” (“unique access code”) yw cod sy’n rhoi mynediad unigryw drwy’r rhyngrwyd i holiadur H2(online) ac H2W(ar-lein), holiadur I2(online) ac I2W(ar-lein), a holiadur CE2(online) ac CE2W(ar-lein). Mae’r cod mynediad unigryw yn rhoi mynediad i’r fersiwn Gymraeg a’r fersiwn Saesneg o’r holiadur y mae’r person rhagnodedig yn ei lenwi;
+ystyr “cod mynediad unigryw newydd” (“replacement unique access code”) yw cod mynediad unigryw sy’n wahanol i god mynediad unigryw a ddarparwyd eisoes ac sy’n disodli’r cod hwnnw;
+ystyr “cydgysylltydd cyfrifiad” (“census co-ordinator”) yw person a benodir o dan reoliad 4(1)(b)(i);
+ystyr “cydgysylltydd sefydliadau cymunedol” (“communal establishment co-ordinator”) yw person a benodir o dan reoliad 4(1)(b)(ii);
+ystyr “cyfrifiad” (“census”) yw’r cyfrifiad y mae Gorchymyn y Cyfrifiad yn cyfarwyddo ei gynnal;
+ystyr “Deddf 1920” (“the 1920 Act”) yw Deddf y Cyfrifiad 1920;
+ystyr “Deddf 2007” (“the 2007 Act”) yw Deddf Ystadegau a’r Gwasanaeth Cofrestru 2007(1);
+mae i “deiliad aelwyd” yr ystyr a roddir i “householder” gan erthygl 2(1) o Orchymyn y Cyfrifiad;
+ystyr “diwrnod y cyfrifiad” (“census day”) yw 21 Mawrth 2021;
+ystyr “dosbarth cyfrifo” (“enumeration district”) yw dosbarth a grëir o dan reoliad 4(1)(c);
+ystyr “dyfais gyfrifiad electronig” (“census electronic device”) yw unrhyw ddyfais electronig y mae rhaid i’r Awdurdod ei darparu o dan reoliad 7(3);
+ystyr “etholwr” (“elector”) yw person rhagnodedig sy’n ethol llenwi ffurflen unigolyn o dan erthygl 5(5) o Orchymyn y Cyfrifiad;
+mae i “ffurflen unigolyn” yr ystyr a roddir i “individual return” gan erthygl 2(1) o Orchymyn y Cyfrifiad;
+ystyr “y gofrestr cyfeiriadau” (“the address register”) yw’r gofrestr ac unrhyw is-set o’r gofrestr a ddefnyddir gan yr Awdurdod, sy’n cynnwys cyfeiriad pob aelwyd a phob sefydliad cymunedol yng Nghymru y mae’r Awdurdod yn ymwybodol ohonynt;
+ystyr “Gorchymyn y Cyfrifiad” (“the Census Order”) yw Gorchymyn y Cyfrifiad (Cymru a Lloegr) 2020(2);
+mae i “gwybodaeth bersonol” yr ystyr a roddir i “personal information” gan adran 39(2) o Ddeddf 2007;
+ystyr “holiadur” (“questionnaire”) yw unrhyw holiadur ar-lein neu holiadur papur;
+ystyr “holiadur ar-lein” (“online questionnaire”) yw unrhyw un neu ragor o’r holiaduron a ganlyn: H2(online), H2W(ar-lein), I2(online), I2W(ar-lein), CE2(online) neu CE2W(ar-lein);
+ystyr “holiadur papur” (“paper questionnaire”) yw unrhyw un neu ragor o’r holiaduron a ganlyn: H2(paper), H2W(papur), HC2(paper), HC2W(papur), I2(paper), I2W(papur), CE2(paper) neu CE2W(papur);
+ystyr “holiadur wedi ei lenwi” (“completed questionnaire”) yw holiadur sydd wedi ei lenwi gyda’r manylion y mae Gorchymyn y Cyfrifiad yn ei gwneud yn ofynnol i berson rhagnodedig eu darparu ac a oedd yn gywir am hanner nos ar ddiwrnod y cyfrifiad;
+ystyr “offeryn rheoli gwaith maes” (“fieldwork management tool”) yw’r system electronig honno y mae rhaid i’r Awdurdod ei darparu o dan reoliad 7(2);
+ystyr “pecyn aelwyd” (“household pack”) yw pecyn ar-lein i aelwydydd neu becyn papur i aelwydydd;
+ystyr “pecyn aelwyd (parhad)” (“household continuation pack”) yw pecyn fel y’i disgrifir yn rheoliad 8(5);
+ystyr “pecyn ar-lein i aelwydydd” (“online household pack”) yw pecyn fel y’i disgrifir yn rheoliad 8(3);
+ystyr “pecyn ar-lein i sefydliadau cymunedol” (“online communal establishment pack”) yw pecyn fel y’i disgrifir yn rheoliad 8(3);
+ystyr “pecyn ar-lein i unigolion” (“online individual pack”) yw pecyn fel y’i disgrifir yn rheoliad 8(3);
+ystyr “pecyn i sefydliadau cymunedol” (“communal establishment pack”) yw pecyn ar-lein i sefydliadau cymunedol neu becyn papur i sefydliadau cymunedol;
+ystyr “pecyn papur i aelwydydd” (“paper household pack”) yw pecyn fel y’i disgrifir yn rheoliad 8(4);
+ystyr “pecyn papur i sefydliadau cymunedol” (“paper communal establishment pack”) yw pecyn fel y’i disgrifir yn rheoliad 8(4);
+ystyr “pecyn papur i unigolion” (“paper individual pack”) yw pecyn fel y’i disgrifir yn rheoliad 8(4);
+ystyr “pecyn unigolyn” (“individual pack”) yw pecyn ar-lein i unigolion neu becyn papur i unigolion;
+ystyr “pecynnau cyfrifiad” (“census packs”) yw unrhyw un neu ragor o’r pecynnau a ddisgrifir yn rheoliad 8(3) i (5);
+ystyr “penodai” (“appointee”) yw unrhyw berson a benodir o dan reoliad 4 neu a benodir gan yr Awdurdod cyn i’r Rheoliadau hyn ddod i rym at ddibenion cynnal y cyfrifiad;
+ystyr “person rhagnodedig” (“prescribed person”) yw person y mae Gorchymyn y Cyfrifiad yn ei gwneud yn ofynnol iddo lenwi ffurflen, neu unrhyw berson sy’n llenwi ffurflen ar ran person o’r fath yn unol â Gorchymyn y Cyfrifiad;
+mae i “preswylydd arferol” yr ystyr a roddir i “usual resident” gan erthygl 2(3)(a) o Orchymyn y Cyfrifiad;
+ystyr “rheolwr gweithrediadau ardal” (“area operations manager”) yw person a benodir o dan reoliad 4(1)(a);
+ystyr “rhif adnabod holiadur” (“questionnaire identification number”) yw marc adnabod rhifol y gall peiriant ei ddarllen sy’n unigryw i bob holiadur;
+ystyr “sefydliad cymunedol” (“communal establishment”) yw unrhyw sefydliad a bennir yng Ngrwpiau B i F o golofn 1 o Atodlen 1 i Orchymyn y Cyfrifiad;
+ystyr “swyddog cyfrifiad” (“census officer”) yw swyddog a benodir o dan reoliad 4(1)(c);
+ystyr “swyddog sefydliadau cymunedol” (“communal establishment officer”) yw swyddog a benodir o dan reoliad 4(1)(c);
+ystyr “system olrhain holiaduron” (“questionnaire tracking system”) yw unrhyw system neu systemau electronig a ddarperir gan yr Awdurdod o dan reoliad 7(1);
+ystyr “yn electronig” (“electronically”) yw drwy ddefnyddio’r rhyngrwyd.
+(2) Yn y Rheoliadau hyn, mae’r byrfoddau a ganlyn yn gymwys—
+Byrfodd (pan y’i defnyddir gyda’r term “holiadur”) Ystyr
+H2(online) “Household Questionnaire (online)” fel y cyfeirir ato yng ngholofn (2) o’r tabl yn Atodlen 1
+H2W(ar-lein) “Holiadur (ar-lein) y Cartref” fel y cyfeirir ato yng ngholofn (3) o’r tabl yn Atodlen 1
+I2(online) “Individual Questionnaire (online)” fel y cyfeirir ato yng ngholofn (2) o’r tabl yn Atodlen 1
+I2W(ar-lein) “Holiadur (ar-lein) i Unigolion” fel y cyfeirir ato yng ngholofn (3) o’r tabl yn Atodlen 1
+CE2(online) “Communal Establishment Questionnaire (online)” fel y cyfeirir ato yng ngholofn (2) o’r tabl yn Atodlen 1
+CE2W(ar-lein) “Holiadur (ar-lein) i Sefydliadau Cymunedol” fel y cyfeirir ato yng ngholofn (3) o’r tabl yn Atodlen 1
+H2(paper) “Household Questionnaire (paper)” fel y cyfeirir ato yng ngholofn (2) o’r tabl yn Atodlen 1
+H2W(papur) “Holiadur (papur) y Cartref” fel y cyfeirir ato yng ngholofn (3) o’r tabl yn Atodlen 1
+HC2(paper) “Household Continuation Questionnaire (paper)” fel y cyfeirir ato yng ngholofn (2) o’r tabl yn Atodlen 1
+HC2W(papur) “Holiadur (papur) y Cartref (Parhad)” fel y cyfeirir ato yng ngholofn (3) o’r tabl yn Atodlen 1
+I2(paper) “Individual Questionnaire (paper)” fel y cyfeirir ato yng ngholofn (2) o’r tabl yn Atodlen 1
+I2W(papur) “Holiadur (papur) i Unigolion” fel y cyfeirir ato yng ngholofn (3) o’r tabl yn Atodlen 1
+CE2(paper) “Communal Establishment Questionnaire (paper)” fel y cyfeirir ato yng ngholofn (2) o’r tabl yn Atodlen 1
+CE2W(papur) “Holiadur (papur) i Sefydliadau Cymunedol” fel y cyfeirir ato yng ngholofn (3) o’r tabl yn Atodlen 1
+(3) Yn fersiwn Gymraeg y Rheoliadau hyn—
+(a)
+y gair Cymraeg sy’n cyfateb i “household” yw “aelwyd”, a
+(b)
+y geiriau Cymraeg sy’n cyfateb i “householder” yw “deiliad aelwyd”.
+(4) Yn fersiynau Cymraeg yr holiaduron—
+(a)
+y geiriau Cymraeg sy’n cyfateb i “household” yw “cartref” ac “aelodau o’r cartref” (yn ôl y digwydd), a
+(b)
+y gair Cymraeg sy’n cyfateb i “householder” yw “deiliad y cartref”.
+(5) Nid yw person rhagnodedig yn torri’r Rheoliadau hyn drwy ddychwelyd fersiwn Gymraeg a fersiwn Saesneg o holiadur gyda’r ddwy fersiwn wedi eu llenwi’n rhannol, ar yr amod bod yr wybodaeth a ddarperir yn yr holiaduron yn gyfystyr â ffurflen gyfan.
+(1)
+2007 p. 18.
+(2)
+O.S. 2020/532.Rhaniadau gweinyddol a phenodiadau
+4.—(1) At ddibenion y cyfrifiad, rhaid i’r Awdurdod—
+(a)
+rhannu Cymru yn ardaloedd cyfrifiad a phenodi rheolwr gweithrediadau ardal i bob ardal gyfrifiad;
+(b)
+rhannu pob ardal gyfrifiad yn—
+(i)
+ardaloedd cydgysylltwyr cyfrifiad a phenodi cydgysylltydd cyfrifiad i bob ardal cydgysylltydd cyfrifiad;
+(ii)
+ardaloedd cydgysylltwyr sefydliadau cymunedol a phenodi cydgysylltydd sefydliadau cymunedol i bob ardal cydgysylltydd sefydliadau cymunedol;
+(c)
+rhannu pob ardal cydgysylltydd cyfrifiad a phob ardal cydgysylltydd sefydliadau cymunedol yn ddosbarthau cyfrifo a phenodi cynifer o swyddogion cyfrifiad a swyddogion sefydliadau cymunedol y mae’n ystyried eu bod yn angenrheidiol at ddiben cynnal y cyfrifiad yn y dosbarthau hynny, yn unol â Deddf 1920 a’r Rheoliadau hyn.
+(2) Caiff yr Awdurdod hefyd benodi cynifer o bersonau eraill y mae’n ystyried eu bod yn angenrheidiol er mwyn cynnal y cyfrifiad.
+(3) Rhaid i’r personau a benodir o dan baragraffau (1) a (2) gyflawni’r dyletswyddau a neilltuir iddynt o dan Ddeddf 1920 a’r Rheoliadau hyn.Holiaduron i’w defnyddio wrth gynnal y cyfrifiad
+5.—(1) At ddibenion y cyfrifiad rhaid i’r Awdurdod sicrhau—
+(a)
+bod holiaduron ar-lein ar gael yn electronig ac yn ddwyieithog drwy godau mynediad unigryw ac yn cynnwys y cwestiynau a’r opsiynau ymateb a nodir (fel y bo’n briodol) yn Rhannau 1, 2 a 3 o Atodlen 2 a’r swyddogaethau a’r nodweddion a ddisgrifir yn Rhan 8 o Atodlen 2;
+(b)
+bod holiaduron papur dwyieithog yn cael eu llunio ar y ffurf a nodir (fel y bo’n briodol) yn Rhannau 4, 5, 6 a 7 o Atodlen 2.
+(2) Rhaid i bob holiadur i’w ddefnyddio yn y cyfrifiad gynnwys rhif adnabod holiadur.Dyletswyddau mewn perthynas â llenwi ffurflenni
+6.—(1) Rhaid i berson rhagnodedig, wrth lenwi ffurflen fel sy’n ofynnol gan Orchymyn y Cyfrifiad—
+(a)
+llenwi’r holiadur perthnasol a nodir ym mharagraff (3), yn unol â’r cyfarwyddiadau a ddarperir ar gyfer yr holiadur hwnnw;
+(b)
+cyflwyno’r holiadur sydd wedi ei lenwi i’r Awdurdod yn unol â’r Rheoliadau hyn.
+(2) Mae holiadur wedi ei gyflwyno i’r Awdurdod yn unol â’r Rheoliadau hyn—
+(a)
+mewn cysylltiad â holiadur ar-lein, pan yw’r Awdurdod wedi ei gael yn electronig, neu
+(b)
+mewn cysylltiad â holiadur papur, pan yw wedi dod i law penodai yn bersonol, neu pan yw wedi ei gael drwy’r post gan yr Awdurdod neu benodai.
+(3) Yr holiadur i’w llenwi a’i gyflwyno yn unol â’r Rheoliadau hyn gan berson rhagnodedig a grybwyllir yng ngholofn (1) o’r tabl yn Atodlen 1 yw’r holiadur ar-lein neu’r holiadur papur y cyfeirir ato yn y cofnod cyfatebol yng ngholofn (2) neu (3).
+(4) Nid oes dim yn y Rheoliadau hyn sy’n atal person rhagnodedig sy’n ddeiliad aelwyd, neu unrhyw berson sydd wedi ei awdurdodi i weithredu ar ran y deiliad aelwyd hwnnw yn unol â Gorchymyn y Cyfrifiad, rhag llenwi ffurflen fel sy’n ofynnol gan Orchymyn y Cyfrifiad—
+(a)
+drwy lenwi a chyflwyno holiadur papur a hefyd, mewn cysylltiad ag aelodau ychwanegol o aelwyd y deiliad aelwyd hwnnw, drwy lenwi a chyflwyno holiadur ar-lein, neu
+(b)
+drwy lenwi a chyflwyno holiadur ar-lein a hefyd, mewn cysylltiad ag aelodau ychwanegol o aelwyd y deiliad aelwyd hwnnw, drwy lenwi a chyflwyno holiadur papur.
+(5) Nid oes dim yn y Rheoliadau hyn sy’n atal person sy’n llenwi ffurflen o dan erthygl 5(9)(a)(i) neu (b) o Orchymyn y Cyfrifiad ar ran person arall rhag llenwi’r ffurflen honno—
+(a)
+drwy lenwi a chyflwyno holiadur papur a hefyd, mewn cysylltiad â’r person arall hwnnw, drwy lenwi a chyflwyno holiadur ar-lein, neu
+(b)
+drwy lenwi a chyflwyno holiadur ar-lein a hefyd, mewn cysylltiad â’r person arall hwnnw, drwy lenwi a chyflwyno holiadur papur.Y system olrhain holiaduron, yr offeryn rheoli gwaith maes a dyfeisiau electronig y cyfrifiad
+7.—(1) Rhaid i’r Awdurdod ddarparu system olrhain holiaduron ar gyfer rheoli’r cyfrifiad ac ar gyfer cadw cofnodion ynghylch—
+(a)
+rhifau adnabod holiaduron,
+(b)
+codau mynediad unigryw sy’n rhoi mynediad i’r fersiynau Cymraeg a Saesneg o’r holiadur fel a ddewisir gan y person rhagnodedig,
+(c)
+codau mynediad unigryw newydd,
+(d)
+cyfeiriadau aelwydydd a sefydliadau cymunedol,
+(e)
+yr aelwydydd neu’r sefydliadau cymunedol y mae pecynnau cyfrifiad wedi eu hanfon iddynt drwy’r post neu wedi eu danfon iddynt yn unol â’r Rheoliadau hyn, neu’r aelwydydd neu’r sefydliadau cymunedol y mae ymweliadau i’w cynnal â hwy,
+(f)
+amgylchiadau’r danfoniad ar gyfer pob pecyn cyfrifiad a ddanfonwyd gan swyddog cyfrifiad neu swyddog sefydliadau cymunedol,
+(g)
+y dyddiad pan ddaeth pob holiadur wedi ei lenwi a gafwyd gan yr Awdurdod i law, a’r modd y’i cafwyd,
+(h)
+amlgeisiadau am becynnau cyfrifiad neu godau mynediad unigryw newydd gan yr un person rhagnodedig,
+(i)
+dychwelyd mwy nag un holiadur wedi ei lenwi mewn perthynas â’r un person rhagnodedig,
+(j)
+y dyddiad pan wneir unrhyw gofnod yn unol â rheoliad 11(8)(a), 13(11)(b) neu 16(5)(b) a’r person rhagnodedig y’i gwnaed mewn cysylltiad ag ef, a
+(k)
+unrhyw wybodaeth arall y mae’r Awdurdod yn ystyried y gall gynorthwyo o ran cynnal y cyfrifiad.
+(2) Rhaid i’r Awdurdod ddarparu offeryn rheoli gwaith maes i’w ddefnyddio wrth gynnal y cyfrifiad, gan gynnwys er mwyn—
+(a)
+creu camau gweithredu y mae’n ofynnol i benodeion eu cymryd;
+(b)
+nodi cyfeiriadau eiddo i benodeion ymweld â hwy;
+(c)
+galluogi cofnodi gwybodaeth ar gyfer y system olrhain holiaduron.
+(3) Rhaid i’r Awdurdod ddarparu dyfeisiau electronig digonol (a elwir yn “dyfeisiau electronig y cyfrifiad” yn y Rheoliadau hyn) y gall pob penodai y mae angen iddo gael mynediad i’r offeryn rheoli gwaith maes eu defnyddio i wneud hynny a chael cyfarwyddiadau yn electronig.Paratoi pecynnau cyfrifiad
+8.—(1) Rhaid i’r Awdurdod baratoi cynifer o becynnau cyfrifiad y cyfeirir atynt ym mharagraffau (3) i (5) y mae’n ystyried eu bod yn angenrheidiol at ddiben y cyfrifiad.
+(2) Rhaid i gynnwys pob pecyn cyfrifiad gael ei roi mewn amlen wedi ei selio y gall unrhyw gyfeiriad wedi ei argraffu gael ei weld drwyddi.
+(3) Rhaid i bob un o’r pecynnau ar-lein i aelwydydd, y pecynnau ar-lein i unigolion a’r pecynnau ar-lein i sefydliadau cymunedol gynnwys—
+(a)
+yn eu trefn, cod mynediad unigryw ar gyfer holiadur H2(online) ac H2W(ar-lein), cod mynediad unigryw ar gyfer holiadur I2(online) ac I2W(ar-lein) a chod mynediad unigryw ar gyfer holiadur CE2(online) ac CE2W(ar-lein), a
+(b)
+unrhyw wybodaeth ychwanegol y mae’r Awdurdod yn ystyried y gall gynorthwyo o ran llenwi a chyflwyno’r holiadur y mae’r pecyn hwnnw yn ymwneud ag ef.
+(4) Rhaid i bob un o’r pecynnau papur i aelwydydd, y pecynnau papur i unigolion a’r pecynnau papur i sefydliadau cymunedol gynnwys—
+(a)
+yn eu trefn, copi o holiadur H2(paper) ac H2W (papur), copi o holiadur I2(paper) ac I2W(papur) a chopi o holiadur CE2(paper) ac CE2W(papur),
+(b)
+yn eu trefn, cod mynediad unigryw ar gyfer holiadur H2(online) ac H2W(ar-lein), cod mynediad unigryw ar gyfer holiadur I2(online) ac I2W(ar-lein) a chod mynediad unigryw ar gyfer holiadur CE2(online) ac CE2W(ar-lein),
+(c)
+unrhyw wybodaeth ychwanegol y mae’r Awdurdod yn ystyried y gall gynorthwyo o ran llenwi a chyflwyno’r holiaduron y mae’r pecynnau hynny yn ymwneud â hwy, a
+(d)
+amlen wedi ei thalu ymlaen llaw.
+(5) Rhaid i’r pecynnau aelwyd (parhad) gynnwys—
+(a)
+copi o holiadur HC2(paper) a chopi o holiadur HC2W(papur),
+(b)
+unrhyw wybodaeth ychwanegol y mae’r Awdurdod yn ystyried y gall gynorthwyo o ran llenwi a chyflwyno’r holiadur, ac
+(c)
+amlen wedi ei thalu ymlaen llaw.Anfon pecynnau i aelwydydd ac at etholwyr drwy’r post
+9.—(1) Caiff yr Awdurdod anfon pecyn aelwyd drwy’r post i’r aelwydydd hynny yn y gofrestr cyfeiriadau, a phecyn unigolyn at yr etholwyr hynny yn y gofrestr cyfeiriadau, y mae’r Awdurdod yn ystyried ei bod yn angenrheidiol at ddiben y cyfrifiad cyn diwrnod y cyfrifiad.
+(2) Os nad yw’r Awdurdod yn anfon pecyn aelwyd neu becyn unigolyn drwy’r post o dan baragraff (1) rhaid iddo, yn lle hynny, ei gwneud yn ofynnol i’r cydgysylltydd cyfrifiad perthnasol drefnu danfon pecyn aelwyd neu becyn unigolyn â llaw i’r aelwyd honno neu at yr etholwr hwnnw (yn ôl y digwydd) yn unol â rheoliad 10.
+(3) Mewn cysylltiad â phob pecyn cyfrifiad a anfonir drwy’r post yn unol â pharagraff (1), rhaid i’r Awdurdod sicrhau y gwneir cofnod yn y system olrhain holiaduron i ddangos y cyfeiriad yr anfonwyd y pecyn cyfrifiad iddo.Danfon pecynnau i aelwydydd ac at etholwyr â llaw
+10.—(1) Rhaid i’r Awdurdod ddyroddi i bob cydgysylltydd cyfrifiad—
+(a)
+dyfais gyfrifiad electronig i’w defnyddio ym mhob dosbarth cyfrifo o fewn ardal cydgysylltydd cyfrifiad y cydgysylltydd cyfrifiad hwnnw;
+(b)
+unrhyw becynnau aelwyd a phecynnau unigolyn y mae’n ystyried eu bod yn angenrheidiol at ddiben y cyfrifiad;
+(c)
+rhestr, sydd wedi ei chynnwys yn yr offeryn rheoli gwaith maes, o gyfeiriadau pob aelwyd a phob etholwr yn y gofrestr cyfeiriadau sydd yn ardal cydgysylltydd cyfrifiad y cydgysylltydd cyfrifiad hwnnw y mae pecynnau aelwyd a phecynnau unigolyn (fel y bo’n briodol) i’w danfon â llaw iddynt yn unol â rheoliad 9(2);
+(d)
+unrhyw ddogfennau eraill neu wybodaeth arall y mae’n ystyried eu bod neu ei bod yn angenrheidiol at ddiben y cyfrifiad.
+(2) Rhaid i bob cydgysylltydd cyfrifiad—
+(a)
+dynodi swyddog cyfrifiad i ddanfon pecynnau aelwyd a phecynnau unigolyn i bob dosbarth cyfrifo;
+(b)
+rhoi i’r swyddog cyfrifiad hwnnw yr eitemau hynny ym mharagraff (1)(a) i (d), a niferoedd digonol ohonynt, y mae eu hangen ar y swyddog cyfrifiad er mwyn cyflawni dyletswyddau’r swyddog cyfrifiad hwnnw o dan y Rheoliadau hyn.
+(3) Rhaid i bob swyddog cyfrifiad a ddynodir o dan baragraff (2)(a) wedyn ddanfon—
+(a)
+pecyn aelwyd neu becyn unigolyn i bob aelwyd neu etholwr (yn ôl y digwydd) y mae ei chyfeiriad neu ei gyfeiriad wedi ei gynnwys yn y rhestr o gyfeiriadau y cyfeirir ati ym mharagraff (1)(c) ac sydd o fewn dosbarth cyfrifo’r swyddog cyfrifiad hwnnw;
+(b)
+pecynnau aelwyd a phecynnau unigolyn (fel y bo’n briodol) i unrhyw aelwydydd eraill neu at unrhyw etholwyr eraill sydd wedi eu nodi gan y swyddog cyfrifiad yn nosbarth cyfrifo’r swyddog cyfrifiad hwnnw.
+(4) Mae dyletswydd swyddog cyfrifiad i ddanfon pecyn cyfrifiad o dan baragraff (3) wedi ei bodloni mewn perthynas â phob aelwyd os yw’r swyddog cyfrifiad yn traddodi pecyn aelwyd i’r deiliad aelwyd neu’r cyd-ddeiliad aelwyd, ac mewn perthynas â phob etholwr, os yw’r swyddog cyfrifiad yn traddodi pecyn unigolyn i’r etholwr neu, yn y naill achos neu’r llall, pan na fo person o’r fath ar gael, os yw’r swyddog cyfrifiad—
+(a)
+yn gadael y pecyn cyfrifiad gyda pherson cyfrifol sy’n honni ei fod yn gweithredu ar ran y deiliad aelwyd, y cyd-ddeiliad aelwyd neu’r etholwr (yn ôl y digwydd), neu
+(b)
+pan na fo unigolyn cyfrifol o’r fath ar gael, yn gadael y pecyn cyfrifiad yn y cyfeiriad perthnasol sydd wedi ei gynnwys yn yr offeryn rheoli gwaith maes, neu’n ei anfon drwy’r post i’r cyfeiriad hwnnw neu, os yw’n cael ei gyfarwyddo i wneud hynny gan y cydgysylltydd cyfrifiad, i gyfeiriad arall a ddarperir gan y cydgysylltydd cyfrifiad.
+(5) Rhaid i bob swyddog cyfrifiad—
+(a)
+gwneud cofnod yn y ddyfais gyfrifiad electronig o’r canlynol—
+(i)
+pob pecyn aelwyd a phecyn unigolyn a ddanfonwyd yn unol â pharagraff (3)(a) neu (b), a
+(ii)
+unrhyw aelwyd ychwanegol neu etholwr ychwanegol y mae’r swyddog cyfrifiad wedi danfon pecyn cyfrifiad iddi neu ato o dan baragraff (3)(b);
+(b)
+galluogi’r cydgysylltydd cyfrifiad i gael mynediad i’r wybodaeth a gofnodir yn nyfais gyfrifiad electronig y swyddog cyfrifiad neu’r wybodaeth sydd ar gael drwy’r ddyfais honno.
+(6) Nid oes dim yn y rheoliad hwn sy’n atal swyddog cyfrifiad rhag cael ei ddynodi i ddanfon pecynnau i fwy nag un dosbarth cyfrifo.Danfon pecynnau i sefydliadau cymunedol â llaw
+11.—(1) Rhaid i’r Awdurdod ddyroddi’r canlynol i bob cydgysylltydd sefydliadau cymunedol—
+(a)
+dyfeisiau electronig digonol i’w defnyddio ym mhob dosbarth cyfrifo o fewn ardal cydgysylltydd sefydliadau cymunedol y cydgysylltydd sefydliadau cymunedol hwnnw;
+(b)
+unrhyw becynnau sefydliadau cymunedol a phecynnau unigolyn y mae’n ystyried eu bod yn angenrheidiol at ddiben y cyfrifiad;
+(c)
+rhestr, sydd wedi ei chynnwys yn yr offeryn rheoli gwaith maes, o gyfeiriadau pob sefydliad cymunedol yn y gofrestr cyfeiriadau sydd yn ardal cydgysylltydd sefydliadau cymunedol y cydgysylltydd sefydliadau cymunedol hwnnw;
+(d)
+unrhyw ddogfennau eraill neu wybodaeth arall y mae’n ystyried eu bod neu ei bod yn angenrheidiol at ddiben y cyfrifiad.
+(2) Rhaid i bob cydgysylltydd sefydliadau cymunedol—
+(a)
+dynodi swyddog sefydliadau cymunedol i ddanfon pecynnau sefydliadau cymunedol a phecynnau unigolyn i bob dosbarth cyfrifo;
+(b)
+cyflenwi i bob swyddog sefydliadau cymunedol a ddynodir o dan baragraff (2)(a) yr eitemau hynny ym mharagraff (1)(a) i (d), a niferoedd digonol ohonynt, y mae eu hangen ar y swyddog sefydliadau cymunedol er mwyn cyflawni dyletswyddau’r swyddog sefydliadau cymunedol hwnnw o dan y Rheoliadau hyn.
+(3) Rhaid i bob cydgysylltydd sefydliadau cymunedol a ddynodir o dan baragraff (2)(a) ddanfon—
+(a)
+pecyn sefydliadau cymunedol i bob sefydliad cymunedol y mae ei gyfeiriad wedi ei gynnwys yn y rhestr o gyfeiriadau y cyfeirir ati ym mharagraff (1)(c) ac sydd o fewn dosbarth cyfrifo’r swyddog sefydliadau cymunedol hwnnw,
+(b)
+nifer digonol o becynnau unigolyn i bob un o’r sefydliadau cymunedol hynny at ddiben y cyfrifiad, ac
+(c)
+pecynnau sefydliadau cymunedol a phecynnau unigolyn i unrhyw sefydliadau cymunedol eraill a nodir gan y swyddog sefydliadau cymunedol yn nosbarth cyfrifo’r swyddog sefydliadau cymunedol.
+(4) Mae dyletswydd swyddog sefydliadau cymunedol i ddanfon pecynnau cyfrifiad o dan baragraff (3) wedi ei bodloni mewn perthynas â phob sefydliad cymunedol os yw’r swyddog sefydliadau cymunedol yn danfon y pecynnau cyfrifiad at y person a chanddo ofal am y tro dros y sefydliad cymunedol neu, pan na fo person o’r fath ar gael, os yw’r swyddog sefydliadau cymunedol—
+(a)
+yn gadael y pecynnau cyfrifiad gyda pherson cyfrifol sy’n honni ei fod yn gweithredu ar ran y person hwnnw a chanddo ofal am y tro dros y sefydliad cymunedol, neu
+(b)
+pan na fo unigolyn cyfrifol o’r fath ar gael, yn gadael y pecynnau cyfrifiad yn y cyfeiriad perthnasol sydd wedi ei gynnwys yn yr offeryn rheoli gwaith maes.
+(5) Caiff y cydgysylltydd sefydliadau cymunedol gyfarwyddo’r swyddog sefydliadau cymunedol i ddosbarthu cynifer o’r pecynnau unigolyn ag a ddanfonir o dan baragraff (3) i’r personau hynny sy’n breswylwyr arferol yn y sefydliad cymunedol ac y mae’n ymddangos i’r swyddog sefydliadau cymunedol eu bod yn alluog i lenwi’r holiadur sydd wedi ei gynnwys yn y pecyn.
+(6) Os yw’n ymddangos i’r swyddog sefydliadau cymunedol nad yw preswylydd arferol yn alluog i lenwi’r holiadur hwnnw, caiff y swyddog sefydliadau cymunedol draddodi’r pecyn unigolyn i berthynas i’r preswylydd arferol, neu i berson arall, sydd wedi cytuno i lenwi’r holiadur ar ran y preswylydd arferol yn unol â Gorchymyn y Cyfrifiad.
+(7) Caiff swyddog sefydliadau cymunedol ofyn i’r person a chanddo ofal am y tro dros sefydliad cymunedol ddosbarthu pecynnau unigolyn mewn perthynas â’r sefydliad cymunedol hwnnw, yn yr un modd ag a nodir ym mharagraffau (5) a (6).
+(8) Rhaid i bob swyddog sefydliadau cymunedol—
+(a)
+gwneud cofnod yn y ddyfais gyfrifiad electronig o’r canlynol—
+(i)
+pob pecyn sefydliadau cymunedol a phob pecyn unigolyn sydd wedi eu danfon yn unol â pharagraff (3)(a), (b) neu (c),
+(ii)
+unrhyw sefydliadau cymunedol ychwanegol y mae’r swyddog sefydliadau cymunedol wedi danfon pecynnau sefydliadau cymunedol a phecynnau unigolyn iddynt o dan baragraff (3)(c), a
+(iii)
+casglu holiaduron papur;
+(b)
+galluogi’r cydgysylltydd sefydliadau cymunedol i gael mynediad i’r wybodaeth yn nyfais gyfrifiad electronig y swyddog sefydliadau cymunedol neu’r wybodaeth sydd ar gael drwy’r ddyfais honno.
+(9) Nid oes dim yn y rheoliad hwn sy’n atal swyddog sefydliadau cymunedol rhag cael ei ddynodi i ddanfon pecynnau i fwy nag un dosbarth cyfrifo.Cais i gael pecynnau cyfrifiad a chodau mynediad unigryw newydd
+12.—(1) Os yw’r amodau ym mharagraff (2) wedi eu bodloni, rhaid i’r Awdurdod ddarparu unrhyw becyn cyfrifiad neu god mynediad unigryw newydd i unrhyw berson rhagnodedig sy’n gofyn amdano.
+(2) Yr amodau hynny yw fel a ganlyn—
+(a)
+ym marn yr Awdurdod, mae’r pecyn cyfrifiad neu’r cod mynediad unigryw newydd yn berthnasol i’r person rhagnodedig hwnnw, a
+(b)
+mae’r person sy’n gwneud y cais yn darparu i’r Awdurdod y cyfeiriad y mae’r person (neu’r personau) rhagnodedig y mae’r holiadur i’w lenwi mewn cysylltiad ag ef (neu â hwy) yn breswylydd arferol ynddo (ac yn y ddarpariaeth hon, ystyr “yr holiadur” yw’r holiadur sy’n ymwneud â’r pecyn cyfrifiad neu’r cod mynediad unigryw newydd y gofynnwyd amdano).
+(3) Rhaid i’r Awdurdod ddarparu unrhyw becyn cyfrifiad y gofynnir amdano o dan baragraff (1) i’r cyfeiriad y cyfeirir ato ym mharagraff (2)(b) a chaiff anfon pecynnau cyfrifiad o’r fath drwy’r post neu eu danfon â llaw i’r cyfeiriad hwnnw.
+(4) Caiff yr Awdurdod ddarparu cod mynediad unigryw newydd o dan baragraff (1) drwy—
+(a)
+anfon y cod drwy’r post, neu ei ddanfon â llaw (ac yn y naill achos neu’r llall, rhaid i’r Awdurdod anfon neu ddanfon y cod mynediad unigryw newydd i’r cyfeiriad y cyfeirir ato ym mharagraff (2)(b)), neu
+(b)
+anfon y cod yn uniongyrchol i rif ffôn symudol a ddarparwyd gan y person sy’n gwneud y cais i gael y cod mynediad unigryw newydd.Dychwelyd holiaduron aelwydydd ac etholwyr
+13.—(1) Rhaid i bob person rhagnodedig y mae pecyn aelwyd ar-lein wedi ei anfon neu ei ddanfon ato, neu y derbyniwyd danfoniad ar ei ran o dan y Rheoliadau hyn, drannoeth diwrnod y cyfrifiad neu cyn gynted ag y bo’n rhesymol ymarferol wedi hynny—
+(a)
+defnyddio’r cod mynediad unigryw a ddarperir yn y pecyn i gael mynediad i holiadur H2(online) neu H2W(ar-lein), a
+(b)
+llenwi a chyflwyno’r holiadur hwnnw yn unol â’r cyfarwyddiadau a ddarperir ar-lein.
+(2) Rhaid i bob person rhagnodedig y mae pecyn papur i aelwydydd neu becyn aelwyd (parhad) wedi ei anfon neu ei ddanfon ato, neu y derbyniwyd danfoniad ar ei ran o dan y Rheoliadau hyn, drannoeth diwrnod y cyfrifiad neu cyn gynted ag y bo’n rhesymol ymarferol wedi hynny—
+(a)
+llenwi, fel y bo’n briodol, gopi o’r holiadur H2(paper), H2W(papur), HC2(paper) neu HC2W(papur) sydd wedi ei gynnwys yn y pecyn a’i roi yn yr amlen wedi ei thalu ymlaen llaw a ddarperir a’i anfon i’r Awdurdod drwy’r post. Caniateir i holiaduron o’r fath gael eu hanfon i’r Awdurdod drwy’r post yn yr un amlen wedi ei thalu ymlaen llaw, neu
+(b)
+defnyddio’r cod mynediad unigryw a ddarperir i gael mynediad i’r holiadur H2(online) neu H2W(ar-lein), a llenwi a chyflwyno’r holiadur hwnnw yn electronig yn unol â’r cyfarwyddiadau a ddarperir ar-lein.
+(3) Mae paragraff (2) (ac nid paragraff (1)) yn gymwys i berson rhagnodedig sydd wedi cael pecyn ar-lein i aelwydydd ond sydd hefyd wedi gofyn am becyn papur i aelwydydd.
+(4) Rhaid i bob etholwr sydd wedi gofyn am becyn ar-lein i unigolion ac wedi ei gael, drannoeth diwrnod y cyfrifiad neu cyn gynted ag y bo’n rhesymol ymarferol wedi hynny—
+(a)
+defnyddio’r cod mynediad unigryw a ddarperir yn y pecyn i gael mynediad i holiadur I2(online) neu I2W(ar-lein), a
+(b)
+llenwi a chyflwyno’r holiadur hwnnw yn unol â’r cyfarwyddiadau a ddarperir ar-lein.
+(5) Rhaid i bob etholwr sydd wedi gofyn am becyn papur i unigolion ac wedi ei gael, drannoeth diwrnod y cyfrifiad neu cyn gynted ag y bo’n rhesymol ymarferol wedi hynny—
+(a)
+llenwi’r copi o holiadur I2(paper) neu I2W(papur) sydd wedi ei gynnwys yn y pecyn, ei roi yn yr amlen wedi ei thalu ymlaen llaw a ddarperir a’i anfon i’r Awdurdod drwy’r post, neu
+(b)
+defnyddio’r cod mynediad unigryw a ddarperir yn y pecyn i gael mynediad i’r holiadur I2(online) neu I2W(ar-lein), a llenwi a chyflwyno holiadur I2(online) neu I2W(ar-lein) yn unol â’r cyfarwyddiadau a ddarperir ar-lein.
+(6) Rhaid i bob etholwr sicrhau bod un o’r holiaduron a ganlyn: H2(online) neu H2W(ar-lein), H2(paper) neu H2W(papur), HC2(paper) neu HC2W(papur), I2(online) neu I2W(ar-lein), I2(paper) neu I2W(papur), wedi ei lenwi mewn cysylltiad ag ef ei hunan.
+(7) Pan fo holiadur H2(online) neu H2W(ar-lein), holiadur H2(paper) neu H2W(papur), neu holiadur HC2(paper) neu HC2W(papur) wedi ei lenwi mewn cysylltiad ag etholwr, caiff yr etholwr hwnnw ddewis cydymffurfio â pharagraff (4) neu (5) (ond nid yw’n ofynnol iddo wneud hynny).
+(8) Mae holiadur I2(online) neu I2W(ar-lein), neu holiadur I2(paper) neu I2W(papur) a gyflwynir gan etholwr yn drech na holiadur H2(online) neu H2W(ar-lein), holiadur H2(paper) neu H2W(papur), neu holiadur HC2(paper) neu HC2W(papur), mewn perthynas ag unrhyw wybodaeth am yr etholwr hwnnw.
+(9) Cyn gynted â phosibl ar ôl i bob holiadur H2(online), H2W(ar-lein), H2(paper), H2W(papur), HC2(paper), HC2W(papur), I2(online), I2W(ar-lein), I2(paper) neu I2W(papur) wedi ei lenwi ddod i law’r Awdurdod, rhaid i’r Awdurdod wneud cofnod yn y system olrhain holiaduron i ddangos bod yr holiadur perthnasol wedi ei ddychwelyd.
+(10) Pan fo penodai wedi ei fodloni, ar ôl siarad â pherson rhagnodedig at ddibenion erthygl 5(1) neu (3) o Orchymyn y Cyfrifiad, nad yw’r person rhagnodedig—
+(a)
+yn alluog i lenwi a dychwelyd holiadur, na
+(b)
+yn gallu awdurdodi unrhyw berson i weithredu ar ran y person rhagnodedig, wedyn mae paragraff (11) yn gymwys.
+(11) O ran y penodai—
+(a)
+caiff, yn unol â chyfarwyddiadau a ddyroddir gan yr Awdurdod, wneud ymholiadau ynghylch y manylion y byddai Gorchymyn y Cyfrifiad yn ei gwneud yn ofynnol i’r person rhagnodedig y cyfeirir ato ym mharagraff (10) eu darparu, a
+(b)
+rhaid iddo gofnodi’r atebion i’r ymholiadau hynny y caniateir iddynt gael eu defnyddio at ddiben y cyfrifiad.
+(12) Cyn gynted â phosibl ar ôl i benodai gofnodi’r atebion yn unol â pharagraff (11)(b), rhaid i’r Awdurdod wneud cofnod yn y system olrhain holiaduron i ddangos bod cofnod o’r fath wedi ei wneud mewn cysylltiad â’r person rhagnodedig hwnnw.Dychwelyd holiaduron sefydliadau cymunedol
+14.—(1) Rhaid i bob person rhagnodedig y mae pecyn ar-lein i sefydliadau cymunedol wedi ei anfon neu ei ddanfon ato mewn sefydliad cymunedol, neu y derbyniwyd danfoniad ar ei ran o dan y Rheoliadau hyn, drannoeth diwrnod y cyfrifiad neu cyn gynted ag y bo’n rhesymol ymarferol wedi hynny—
+(a)
+defnyddio’r cod mynediad unigryw a ddarperir yn y pecyn i gael mynediad i holiadur CE2(online) neu CE2W(ar-lein), a
+(b)
+llenwi a chyflwyno’r holiadur hwnnw yn unol â’r cyfarwyddiadau a ddarperir ar-lein.
+(2) Rhaid i bob person rhagnodedig y mae pecyn papur i sefydliadau cymunedol wedi ei anfon neu ei ddanfon ato mewn sefydliad cymunedol, neu y derbyniwyd danfoniad ar ei ran o dan y Rheoliadau hyn, drannoeth diwrnod y cyfrifiad neu cyn gynted ag y bo’n rhesymol ymarferol wedi hynny—
+(a)
+llenwi’r copi o holiadur CE2(paper) neu CE2W(papur) sydd wedi ei gynnwys yn y pecyn, ei roi yn yr amlen wedi ei thalu ymlaen llaw a ddarperir, a’i anfon i’r Awdurdod drwy’r post, neu
+(b)
+defnyddio’r cod mynediad unigryw a ddarperir i gael mynediad i holiadur CE2(online) neu CE2W(ar-lein) a llenwi’r holiadur a’i gyflwyno wedi ei lenwi yn unol â’r cyfarwyddiadau a ddarperir ar-lein.
+(3) Mae paragraff (2) (ac nid paragraff (1)) yn gymwys i berson rhagnodedig sydd wedi cael pecyn ar-lein i sefydliadau cymunedol ond sydd hefyd wedi gofyn am becyn papur i sefydliadau cymunedol.
+(4) Rhaid i bob person rhagnodedig y mae pecyn unigolyn wedi ei draddodi iddo o dan reoliad 11(5), (6) neu (7), drannoeth diwrnod y cyfrifiad neu cyn gynted ag y bo’n rhesymol ymarferol wedi hynny—
+(a)
+defnyddio’r cod mynediad unigryw a ddarperir yn y pecyn i gael mynediad i holiadur I2(online) neu I2W(ar-lein) a llenwi a chyflwyno’r holiadur hwnnw yn unol â’r cyfarwyddiadau a ddarperir ar-lein,
+(b)
+llenwi’r copi o holiadur I2(paper) neu I2W(papur) sydd wedi ei gynnwys yn y pecyn, ei roi yn yr amlen wedi ei thalu ymlaen llaw a ddarperir a’i anfon i’r Awdurdod drwy’r post, neu
+(c)
+os yw’n cael ei gyfarwyddo i wneud hynny gan y swyddog sefydliadau cymunedol, ddanfon yr holiadur I2(paper) neu I2W(papur) sydd wedi ei gynnwys yn y pecyn ac sydd wedi ei lenwi at y person a chanddo ofal am y tro dros y sefydliad cymunedol neu at y swyddog sefydliadau cymunedol.
+(5) Rhaid i’r person a chanddo ofal am y tro dros y sefydliad cymunedol y traddodir holiadur I2(paper) neu I2W(papur) wedi ei lenwi iddo gan berson rhagnodedig (pa un ai o dan baragraff (4)(c) neu fel arall)—
+(a)
+sicrhau bod yr holiadur wedi ei roi mewn amlen wedi ei thalu ymlaen llaw a heb oedi, ei anfon i’r Awdurdod drwy’r post, neu
+(b)
+danfon yr holiadur at y swyddog sefydliadau cymunedol.
+(6) Mewn cysylltiad â phob holiadur papur wedi ei lenwi a gesglir gan y swyddog sefydliadau cymunedol yn unol â’r rheoliad hwn, rhaid i’r swyddog sefydliadau cymunedol wneud cofnod yn nyfais gyfrifiad electronig y swyddog sefydliadau cymunedol.Cynnal y cyfrifiad ar gyfer personau yng Ngrŵp G
+15.  Rhaid i gydgysylltydd cyfrifiad, yn unol ag unrhyw gyfarwyddiadau a ddyroddir gan yr Awdurdod, wneud trefniadau yn ardal cydgysylltydd cyfrifiad y cydgysylltydd cyfrifiad hwnnw—
+(a)
+i holiadur CE2(online) neu CE2W(ar-lein), neu holiadur CE2(paper) neu CE2W(papur) gael ei lenwi a’i gyflwyno mewn cysylltiad ag unrhyw grŵp o bersonau rhagnodedig sy’n llenwi holiadur I2(online) neu I2W(ar-lein), neu holiadur I2(paper) neu I2W(papur) yn unigol o dan baragraff (b);
+(b)
+i becyn papur i unigolion gael ei draddodi i’r personau rhagnodedig yng Ngrŵp G yn Atodlen 1 i Orchymyn y Cyfrifiad ac i bob person rhagnodedig naill ai—
+(i)
+defnyddio’r cod mynediad unigryw sydd wedi ei gynnwys yn y pecyn i gael mynediad i holiadur I2(online) neu I2W(ar-lein) a llenwi a chyflwyno’r holiadur hwnnw yn unol â’r cyfarwyddiadau a ddarperir ar-lein, neu
+(ii)
+llenwi’r copi o holiadur I2(paper) neu I2W(papur) sydd wedi ei gynnwys yn y pecyn, ei roi yn yr amlen wedi ei thalu ymlaen llaw a ddarperir a’i anfon i’r Awdurdod drwy’r post; neu ei draddodi i’r person sy’n llenwi holiadur o dan baragraff (a).Y weithdrefn pan na fo’r Awdurdod yn cael holiadur neu pan fo’n cael holiadur anghyflawn
+16.—(1) Rhaid i’r Awdurdod—
+(a)
+gwirio’r cofnodion yn y system olrhain holiaduron a chynhyrchu rhestr o gyfeiriadau ar gyfer pob ardal cydgysylltydd cyfrifiad ac ardal cydgysylltydd sefydliadau cymunedol y mae’r Awdurdod wedi anfon neu wedi danfon pecyn cyfrifiad neu god mynediad unigryw newydd iddynt ond nad yw’r Awdurdod wedi cael holiadur wedi ei lenwi mewn cysylltiad â hwy yn unol â’r Rheoliadau hyn;
+(b)
+darparu i bob cydgysylltydd cyfrifiad a phob cydgysylltydd sefydliadau cymunedol y rhestr o gyfeiriadau y cyfeirir ati yn is-baragraff (a) sy’n berthnasol iddynt.
+(2) Rhaid i bob cydgysylltydd cyfrifiad a phob cydgysylltydd sefydliadau cymunedol drefnu yn eu tro i swyddogion cyfrifiad a swyddogion sefydliadau cymunedol ddefnyddio’r rhestr o gyfeiriadau y cyfeirir ati ym mharagraff (1)(b) i wneud unrhyw ymholiadau y mae’r swyddogion hynny yn meddwl eu bod yn rhesymol i unrhyw berson er mwyn cael y manylion y mae Gorchymyn y Cyfrifiad yn ei gwneud yn ofynnol i berson rhagnodedig eu darparu.
+(3) Pan fo swyddog cyfrifiad neu swyddog sefydliadau cymunedol wedi gwneud ymholiadau o dan baragraff (2) i berson rhagnodedig nad yw’r Awdurdod wedi cael holiadur mewn cysylltiad ag ef, caiff y swyddog—
+(a)
+casglu holiadur wedi ei lenwi,
+(b)
+annog y person hwnnw i lenwi holiadur a’i gyflwyno i’r Awdurdod yn unol â’r Rheoliadau hyn,
+(c)
+cytuno y caniateir i’r holiadur wedi ei lenwi gael ei gyflwyno drwy’r post gan ddefnyddio’r amlen wedi ei thalu ymlaen llaw a ddarperir,
+(d)
+gwneud unrhyw drefniadau ar gyfer casglu’r holiadur papur y mae’r swyddog yn meddwl eu bod yn addas, neu
+(e)
+darparu cod mynediad unigryw newydd neu holiadur papur arall.
+(4) Rhaid i’r Awdurdod wneud cofnod yn y system olrhain holiaduron pa bryd bynnag y daw holiadur wedi ei lenwi i’w law ar ôl i’r camau o dan baragraffau (2) a (3) gael eu cymryd.
+(5) Pan fo holiadur yn dod i law’r Awdurdod ond nad yw’r holiadur yn cynnwys rhai o’r manylion neu’r holl fanylion yr oedd Gorchymyn y Cyfrifiad yn ei gwneud yn ofynnol i’r person rhagnodedig eu darparu, wedyn o ran penodai—
+(a)
+caiff wneud, yn unol ag unrhyw gyfarwyddiadau a ddyroddir gan yr Awdurdod, unrhyw ymholiadau y mae’r penodai yn meddwl eu bod yn rhesymol i unrhyw berson er mwyn cael y manylion coll, a
+(b)
+rhaid iddo gofnodi’r atebion i’r ymholiadau hynny y caniateir iddynt gael eu defnyddio at ddiben y cyfrifiad.
+(6) Cyn gynted â phosibl ar ôl i benodai gofnodi’r atebion yn unol â pharagraff (5)(b), rhaid i’r Awdurdod wneud cofnod yn y system olrhain holiaduron i ddangos bod cofnod o’r fath wedi ei wneud mewn cysylltiad â’r person rhagnodedig hwnnw.Rhoi gwybodaeth
+17.—(1) Rhaid i bob person y mae ffurflen i’w llenwi mewn cysylltiad ag ef o dan Orchymyn y Cyfrifiad, i’r graddau y mae’r person hwnnw yn gallu gwneud hynny, roi i’r person rhagnodedig sy’n atebol am lenwi’r ffurflen unrhyw wybodaeth, gan gynnwys gwybodaeth bersonol, y gall fod ei hangen yn rhesymol ar y person rhagnodedig at ddiben cyflawni rhwymedigaethau’r person rhagnodedig hwnnw o dan y Rheoliadau hyn.
+(2) Rhaid i bob person rhagnodedig roi i unrhyw benodai yr wybodaeth honno, gan gynnwys gwybodaeth bersonol, y gall fod ei hangen yn rhesymol ar y penodai er mwyn cyflawni dyletswyddau’r penodai o dan y Rheoliadau hyn.
+(3) Ni chaiff person, y rhoddir gwybodaeth bersonol iddo yn unol â’r Rheoliadau hyn, heb awdurdod cyfreithlon—
+(a)
+defnyddio’r wybodaeth honno (ac eithrio at ddiben cyflawni rhwymedigaeth o dan y Rheoliadau hyn), na
+(b)
+ei chyhoeddi na’i chyfathrebu i unrhyw berson arall (ac eithrio at ddiben cyflawni rhwymedigaeth o dan y Rheoliadau hyn).Cadw holiaduron, cofnodion a dogfennau’n ddiogel
+18.—(1) Rhaid i unrhyw berson sydd, pa un ai ar ran y person hwnnw ei hunan neu ar ran unrhyw berson arall, â holiaduron neu â chofnodion a dogfennau eraill o dan ei ofal (gan gynnwys unrhyw gofnodion a dogfennau a gaiff eu storio ar ddyfais gyfrifiad electronig neu unrhyw gofnodion a dogfennau y ceir mynediad iddynt drwy ddyfais gyfrifiad electronig) sy’n cynnwys gwybodaeth bersonol sy’n ymwneud â’r cyfrifiad, gadw’r holiaduron, y cofnodion a’r dogfennau hynny yn y modd hwnnw sy’n atal unrhyw berson nad yw wedi ei awdurdodi rhag cael mynediad iddynt.
+(2) Pan fo unrhyw benodai yn cael ei gyfarwyddo i wneud hynny gan yr Awdurdod, rhaid iddo anfon i’r Awdurdod pob holiadur, cofnod a dogfen sydd ym meddiant y penodai hwnnw, gan gynnwys unrhyw gofnodion a dogfennau a gaiff eu storio ar ddyfais gyfrifiad electronig neu unrhyw gofnodion a dogfennau y ceir mynediad iddynt drwy ddyfais gyfrifiad electronig.
+(3) Rhaid i’r Awdurdod drefnu i’r canlynol gael eu storio’n ddiogel—
+(a)
+holiaduron wedi eu llenwi,
+(b)
+unrhyw gofnodion a dogfennau papur neu electronig eraill sy’n cynnwys gwybodaeth bersonol sy’n ymwneud â’r cyfrifiad, ac
+(c)
+unrhyw ddyfeisiau electronig y cyfrifiad tra bo’r dyfeisiau hynny yn cynnwys gwybodaeth bersonol sy’n ymwneud â’r cyfrifiad neu y mae modd cael mynediad i wybodaeth bersonol o’r fath o hyd drwyddynt.Cadw dyfeisiau electronig y cyfrifiad yn ddiogel
+19.  Rhaid i unrhyw berson sy’n cael dyfais gyfrifiad electronig—
+(a)
+defnyddio’r ddyfais gyfrifiad electronig yn y modd hwnnw sy’n atal unrhyw berson nad yw wedi ei awdurdodi rhag cael mynediad i’r ddyfais,
+(b)
+sicrhau bod y ddyfais yn cael ei storio’n ddiogel ar bob adeg pan nad yw’n cael ei defnyddio yn y modd hwnnw sy’n atal unrhyw berson nad yw wedi ei awdurdodi rhag cael mynediad i’r ddyfais, ac
+(c)
+gweithredu yn unol â chyfarwyddiadau gan yr Awdurdod ynghylch pryd neu at bwy i ddychwelyd y ddyfais.Datganiadau statudol ac ymgymeriadau
+20.—(1) Rhaid i bob penodai y rhoddir caniatâd iddo gan yr Awdurdod i gael mynediad i’r storfeydd data electronig wneud datganiad statudol sy’n cynnwys y geiriau a nodir yn Atodlen 3, yn unol â’r trefniadau a wneir gan yr Awdurdod, cyn gynted ag y bo’n ymarferol ar ôl penodiad y penodai gan yr Awdurdod neu ar ôl i’r Rheoliadau hyn ddod i rym, pa un bynnag yw’r diweddaraf.
+(2) Caiff unrhyw gyflogai i’r Awdurdod (os yw’n cael ei gyfarwyddo’n addas gan yr Awdurdod i wneud hynny) gymryd y datganiad statudol y cyfeirir ato ym mharagraff (1).
+(3) Yn ddarostyngedig i baragraff (4), rhaid i bob penodai nad yw’n ofynnol iddo gwblhau datganiad statudol o dan baragraff (1) gwblhau ffurflen yr ymgymeriad a nodir yn Atodlen 4, yn unol â’r trefniadau a wneir gan yr Awdurdod, cyn gynted ag y bo’n ymarferol ar ôl penodiad y penodai neu ar ôl i’r Rheoliadau hyn ddod i rym, pa un bynnag yw’r diweddaraf.
+(4) Nid yw’n ofynnol i unrhyw benodai a benodwyd gan yr Awdurdod cyn i’r Rheoliadau hyn ddod i rym, ac a gwblhaodd ffurflen ymgymeriad a chanddi’r un effaith neu’r un effaith yn sylweddol â’r ffurflen yn Atodlen 4, gwblhau ymgymeriad arall yn rhinwedd y rheoliad hwn.
+(5) At ddibenion paragraff (1), ystyr “storfeydd data electronig” yw’r systemau electronig hynny y mae’r Awdurdod yn eu defnyddio i storio’r manylion a gofnodir yn yr holl holiaduron y mae’r Awdurdod yn eu cael.Rebecca Evans
+Y Gweinidog Cyllid a’r Trefnydd, un o Weinidogion Cymru
+28 Mai 2020Rheoliadau 3(2) a 6(3)
+ATODLEN 1
+Tabl
+(1) Personau Rhagnodedig (2) Enw fersiwn Saesneg yr holiadur (3) Enw fersiwn Gymraeg yr holiadur
+Y deiliad aelwyd neu’r cyd-ddeiliaid aelwyd, neu yn absenoldeb unrhyw berson o’r fath sy’n alluog i lenwi ffurflen, unrhyw berson sydd wedi ei awdurdodi i weithredu ar ran y deiliad aelwyd neu’r cyd-ddeiliaid aelwyd, ar bob aelwyd yng Nghymru. Yr holiadur sy’n dwyn yr enw “Household Questionnaire (online)” yn Rhan 1 o Atodlen 2. Yr holiadur sy’n dwyn yr enw “Holiadur (ar-lein) y Cartref” yn Rhan 1 o Atodlen 2.
+Yr holiadur sy’n dwyn yr enw “Household Questionnaire (paper)” yn Rhan 4 o Atodlen 2. Yr holiadur sy’n dwyn yr enw “Holiadur (papur) y Cartref” yn Rhan 4 o Atodlen 2.
+Pan fo erthygl 5(11) o Orchymyn y Cyfrifiad yn gymwys, y person sy’n gyfrifol o dan yr erthygl honno am lenwi ffurflen yng Nghymru. Yr holiadur sy’n dwyn yr enw “Household Continuation Questionnaire (paper)” yn Rhan 5 o Atodlen 2. Yr holiadur sy’n dwyn yr enw “Holiadur (papur) y Cartref (Parhad)” yn Rhan 5 o Atodlen 2.
+Pob preswylydd arferol a bennir yng ngholofn (2) yng Ngrŵp B i F yn Atodlen 1 i Orchymyn y Cyfrifiad neu unrhyw berson sy’n gweithredu ar ran y person hwnnw, yng Nghymru. Yr holiadur sy’n dwyn yr enw “Individual Questionnaire (online)” yn Rhan 2 o Atodlen 2. Yr holiadur sy’n dwyn yr enw “Holiadur (ar-lein) i Unigolion” yn Rhan 2 o Atodlen 2.
+Pob person a bennir yng ngholofn (2) o Grŵp G yn Atodlen 1 i Orchymyn y Cyfrifiad neu unrhyw berson sy’n gweithredu ar ei ran, yng Nghymru.
+Unrhyw etholwr yng Nghymru sy’n llenwi ffurflen unigolyn yn unol â Gorchymyn y Cyfrifiad.
+Yr holiadur sy’n dwyn yr enw “Individual Questionnaire (paper)” yn Rhan 6 o Atodlen 2. Yr holiadur sy’n dwyn yr enw “Holiadur (papur) i Unigolion” yn Rhan 6 o Atodlen 2.
+Y person a chanddo ofal am y tro dros unrhyw fangre neu lestr a grybwyllir yng Ngrŵp B i F yn Atodlen 1 i Orchymyn y Cyfrifiad, yng Nghymru. Yr holiadur sy’n dwyn yr enw “Communal Establishment Questionnaire (online)” yn Rhan 3 o Atodlen 2. Yr holiadur sy’n dwyn yr enw “Holiadur (ar-lein) i Sefydliadau Cymunedol” yn Rhan 3 o Atodlen 2.
+Yr holiadur sy’n dwyn yr enw “Communal Establishment Questionnaire (paper)” yn Rhan 7 o Atodlen 2. Yr holiadur sy’n dwyn yr enw “Holiadur (papur) i Sefydliadau Cymunedol” yn Rhan 7 o Atodlen 2.Rheoliad 5(1)(a) a (b) ac Atodlen 1
+ATODLEN 2
+Holiaduron: disgrifiad
+RHAN 1
+Holiadur (ar-lein) y Cartref
+(1) Cwestiwn (2) Opsiynau Ymateb
+Gwybodaeth am y cartref
+Ydych chi’n byw yn (cyfeiriad y cyfrifiad) fel arfer?
+Dewisir un o’r canlynol:
+—Ydw, rwy’n byw yma fel arfer
+—Nac ydw, nid wyf yn byw yma fel arfer
+Os dewisir yr opsiwn ymateb “Ydw, rwy’n byw yma fel arfer”, ni ofynnir y cwestiynau isod yng ngholofn (1) sydd â (†). Os dewisir yr opsiwn ymateb “Nac ydw, nid wyf yn byw yma fel arfer”, ni ofynnir y cwestiynau cyn y rhai sydd â (†).
+Beth yw eich enw?
+Rhoddir yr ymateb ar y ffurf ganlynol:
+Enw cyntaf
+Enw(au) canol
+Cyfenw
+Oes unrhyw un o’r bobl ganlynol hefyd yn byw yn (cyfeiriad y cyfrifiad) ddydd Sul 21 Mawrth 2021?
+Dewisir pob un sy’n berthnasol:
+—Aelodau o’r teulu a phartneriaid (dylech gynnwys babanod a anwyd ar neu cyn 21 Mawrth 2021, plant, myfyrwyr a phlant ysgol sy’n byw i ffwrdd o’r cartref yn ystod y tymor)
+—Tenantiaid, lojers neu bobl sy’n rhannu cartref
+—Pobl sy’n byw y tu allan i’r Deyrnas Unedig fel arfer, ond sy’n aros yn y Deyrnas Unedig am 3 mis neu fwy
+—Pobl sydd i ffwrdd o’r cartref dros dro (er enghraifft, yn gweithio i ffwrdd, ar wyliau, yn y lluoedd arfog, yn byw mewn sefydliad fel cartref gofal am hyd at 6 mis, dramor am hyd at flwyddyn)
+—Pobl sy’n aros dros dro, sy’n byw yn y Deyrnas Unedig fel arfer, ond sydd heb gyfeiriad arall yn y Deyrnas Unedig (er enghraifft, preswylwyr y Deyrnas Unedig sydd rhwng cyfeiriadau neu heb gartref ar hyn o bryd)
+  Neu
+—Dim un o’r rhain yn berthnasol, fi yw’r unig berson sy’n byw yma fel arfer
+Pwy arall sy’n byw yn (cyfeiriad y cyfrifiad)?
+Rhoddir yr ymateb ar y ffurf ganlynol:
+Enw cyntaf
+Enw(au) canol
+Cyfenw
+Oes unrhyw un arall yn byw yn (cyfeiriad y cyfrifiad)?
+Dewisir un o’r canlynol:
+—Oes, mae angen i mi ychwanegu (ail, trydydd ac ati) unigolyn (Os caiff ei ddewis, caiff y cwestiwn union uchod yng ngholofn (1) ei ailadrodd.)
+—Nac oes, nid oes angen i mi ychwanegu unrhyw un
+(†) Oes unrhyw un o’r bobl ganlynol yn byw yn (cyfeiriad y cyfrifiad) ddydd Sul 21 Mawrth 2021?
+Dewisir pob un sy’n berthnasol:
+—Aelodau o’r teulu a phartneriaid (dylech gynnwys babanod a anwyd ar neu cyn 21 Mawrth 2021, plant, myfyrwyr a phlant ysgol sy’n byw i ffwrdd o’r cartref yn ystod y tymor)
+—Tenantiaid, lojers neu bobl sy’n rhannu cartref
+—Pobl sy’n byw y tu allan i’r Deyrnas Unedig fel arfer, ond sy’n aros yn y Deyrnas Unedig am 3 mis neu fwy
+—Pobl sydd i ffwrdd o’r cartref dros dro (er enghraifft, yn gweithio i ffwrdd, ar wyliau, yn y lluoedd arfog, yn byw mewn sefydliad fel cartref gofal am hyd at 6 mis, dramor am hyd at flwyddyn)
+—Pobl sy’n aros dros dro, sy’n byw yn y Deyrnas Unedig fel arfer, ond sydd heb gyfeiriad arall yn y Deyrnas Unedig (er enghraifft, preswylwyr y Deyrnas Unedig sydd rhwng cyfeiriadau neu heb gartref ar hyn o bryd)
+  Neu
+—Dim un o’r rhain yn berthnasol, nid oes neb yn byw yma fel arfer (er enghraifft, ail gyfeiriad neu dŷ gwyliau yw hwn)
+(†) Pwy sy’n byw yn (cyfeiriad y cyfrifiad)?
+Rhoddir yr ymateb ar y ffurf ganlynol:
+Enw cyntaf
+Enw(au) canol
+Cyfenw
+(†) Oes unrhyw un arall yn byw yn (cyfeiriad y cyfrifiad)?
+Dewisir un o’r canlynol:
+—Oes, mae angen i mi ychwanegu (ail, trydydd ac ati) unigolyn (Os caiff ei ddewis, caiff y cwestiwn union uchod yng ngholofn (1) ei ailadrodd, ond gofynnir: “Pwy arall sy’n byw yn (cyfeiriad y cyfrifiad)?”)
+—Nac oes, nid oes angen i mi ychwanegu unrhyw un
+Ar wahân i bawb a gafodd eu cynnwys eisoes, pwy arall sy’n aros dros nos ddydd Sul 21 Mawrth 2021 yn (cyfeiriad y cyfrifiad)?
+Dewisir pob un sy’n berthnasol:
+—Pobl sydd fel arfer yn byw yn rhywle arall yn y Deyrnas Unedig, er enghraifft, cariadon, ffrindiau, perthnasau
+—Pobl sy’n aros yma gan mai dyma eu hail gyfeiriad, er enghraifft, oherwydd gwaith. Mae eu cyfeiriad parhaol neu gyfeiriad y teulu yn rhywle arall
+—Pobl sy’n byw y tu allan i’r Deyrnas Unedig fel arfer, ac sy’n aros yn y Deyrnas Unedig am lai na 3 mis
+—Pobl sydd ar wyliau yma
+  Neu
+—Nid oes unrhyw ymwelwyr yn aros yma dros nos ddydd Sul 21 Mawrth 2021 (Os caiff ei ddewis, ni ofynnir y cwestiwn nesaf yng ngholofn (1).)
+Beth yw enw’r ymwelydd (ail ymwelydd, trydydd ymwelydd ac ati) sy’n aros dros nos ddydd Sul 21 Mawrth 2021 yn (cyfeiriad y cyfrifiad)?
+Rhoddir yr ymateb ar y ffurf ganlynol:
+Enw cyntaf
+Cyfenw
+Gwybodaeth am berthynas aelodau o’r cartref â’i gilydd
+Disgrifir y berthynas rhwng yr ymatebydd a phob preswylydd arall yn y cartref:
+(Enw’r preswylydd arall hwnnw) yw eich (gwahoddiad i ddewis un o’r opsiynau ymateb gyferbyn, a ddangosir wedyn i gwblhau’r datganiad hwn).
+Dewisir un o’r canlynol:
+—Gŵr neu wraig
+—Partner sifil cofrestredig cyfreithiol
+—Partner
+—Mab neu ferch
+—Llysblentyn
+—Brawd neu chwaer (gan gynnwys hanner brawd neu hanner chwaer)
+—Llysfrawd neu lyschwaer
+—Mam neu dad
+—Llysfam neu lysdad
+—Ŵyr neu wyres
+—Taid/tad-cu neu nain/mam-gu
+—Perthynas arall
+—Ddim yn perthyn (gan gynnwys plentyn maeth)
+Disgrifir y berthynas rhwng pob preswylydd arall yn y cartref (os yw’r ymatebydd yn breswylydd), neu’r berthynas rhwng y preswylwyr yn y cartref (lle nad yw’r ymatebydd yn breswylydd):
+Gan feddwl am (enw preswylydd dau ac ati), mae (enw preswylydd tri ac ati) yn (gwahoddiad i ddewis un o’r opsiynau ymateb gyferbyn, a ddangosir wedyn i gwblhau’r datganiad hwn) i (enw preswylydd dau ac ati).
+Dewisir un o’r opsiynau ymateb a ddangosir mewn perthynas â’r cwestiwn union uchod yng ngholofn (1).
+Gwybodaeth am lety’r cartref
+Pa fath o gartref yw (cyfeiriad y cyfrifiad)?
+Dewisir un o’r canlynol:
+—Tŷ neu fyngalo cyfan
+—Fflat neu maisonette
+—Carafán neu fath arall o gartref symudol neu dros dro
+Os mai “Tŷ neu fyngalo cyfan” yw’r ymateb yna:
+Pa un o’r canlynol yw eich tŷ neu eich byngalo?
+Dewisir un o’r canlynol:
+—Adeilad ar wahân
+—Tŷ neu fyngalo semi
+—Tŷ neu fyngalo mewn teras (gan gynnwys ar y pen)
+Os mai “Fflat neu maisonette” yw’r ymateb yna:
+Ble mae eich fflat neu maisonette?
+Dewisir un o’r canlynol:
+—Mewn bloc o fflatiau neu denement a adeiladwyd yn bwrpasol
+—Yn rhan o dŷ wedi’i addasu neu dŷ sy’n cael ei rannu (gan gynnwys fflatiau un ystafell)
+—Rhan o adeilad arall wedi’i addasu (er enghraifft, hen ysgol, eglwys neu warws)
+—Mewn adeilad masnachol (er enghraifft, mewn adeilad o swyddfeydd, gwesty, neu uwchben siop)
+Ydy pob ystafell yn y cartref, gan gynnwys y gegin, yr ystafell ymolchi a’r toiled, y tu ôl i ddrws sydd ddim ond yn cael ei ddefnyddio gan aelodau o’r cartref hwn?
+Dewisir un o’r canlynol:
+—Ydy
+—Nac ydy, mae o leiaf un o’r ystafelloedd yn cael ei rhannu ag aelodau o gartref arall
+Sawl ystafell wely sydd at ddefnydd aelodau o’r cartref hwn yn unig? Nodir nifer yr ystafelloedd gwely
+Pa fath o wres canolog sydd yn (cyfeiriad y cyfrifiad)?
+Dewisir pob un sy’n berthnasol:
+—Dim gwres canolog
+—Prif gyflenwad nwy
+—Nwy tanc neu botel
+—Trydan (gan gynnwys gwresogyddion stôr)
+—Olew
+—Coed (er enghraifft boncyffion, pren gwastraff neu belenni)
+—Tanwydd solet (er enghraifft, glo)
+—Ynni adnewyddadwy (er enghraifft, pympiau gwres neu solar thermol)
+—Rhwydweithiau gwres rhanbarthol neu gymunedol
+—Arall
+Os oes un neu fwy o breswylwyr arferol yng nghyfeiriad y cyfrifiad, yna:
+Oes aelod neu aelodau o’ch cartref yn berchen ar (cyfeiriad y cyfrifiad) neu’n ei rentu?
+Dewisir un o’r canlynol:
+—Yn berchen arno’n gyfan gwbl
+—Yn berchen arno gyda morgais neu fenthyciad
+—Yn berchen arno’n rhannol ac yn ei rentu’n rhannol (cynllun rhan-berchenogaeth)
+—Yn ei rentu (gyda chymorth budd-dal tai neu hebddo)
+—Yn byw yma heb dalu rhent
+Os mai “Yn berchen arno’n rhannol ac yn ei rentu’n rhannol (cynllun rhan-berchenogaeth)”, neu “Yn ei rentu (gyda chymorth budd-dal tai neu hebddo)” neu “Yn byw yma heb dalu rhent” yw’r ymateb yna:
+Pwy yw eich landlord?
+Dewisir un o’r canlynol:
+—Cymdeithas dai, cwmni tai cydweithredol, ymddiriedolaeth elusennol, landlord cymdeithasol cofrestredig
+—Y cyngor neu’r awdurdod lleol
+—Landlord preifat neu asiantaeth gosod tai
+—Cyflogwr aelod o’r cartref
+—Perthynas neu ffrind i aelod o’r cartref
+—Arall
+Os oes un neu fwy o breswylwyr arferol yng nghyfeiriad y cyfrifiad, yna:
+Sawl car neu fan sy’n eiddo i aelodau o’r cartref hwn, neu sydd ar gael i’w defnyddio ganddynt?
+Dewisir un o’r canlynol:
+—Dim un
+—1
+—2
+—3
+—4
+—5 neu fwy (os felly nodir union nifer y ceir neu faniau)
+Gwybodaeth am breswylwyr unigol
+Ai chi yw (enw’r preswylydd)?
+Dewisir un o’r canlynol:
+—Ie
+—Na, rwy’n ateb ar ran yr unigolyn hwn
+Beth yw eich dyddiad geni?
+Rhoddir yr ymateb ar y ffurf ganlynol:
+Diwrnod-Mis-Blwyddyn
+Rydych chi’n (oedran wedi’i gyfrifo’n awtomatig) oed (neu ‘mis oed’ neu ‘diwrnod oed’ yn dibynnu ar oedran y preswylydd). Ydy hyn yn gywir?
+Dewisir un o’r canlynol:
+—Ydy, rwy’n (oedran wedi’i gyfrifo’n awtomatig) oed (mis neu ddiwrnod)
+—Nac ydy, mae angen i mi gywiro fy nyddiad geni
+Beth yw eich rhyw?
+Dewisir un o’r canlynol:
+—Benyw
+—Gwryw
+Yn gyfreithiol, beth yw eich statws priodasol neu statws eich partneriaeth sifil gofrestredig ar 21 Mawrth 2021?
+Dewisir un o’r canlynol:
+—Erioed wedi priodi na chofrestru partneriaeth sifil
+—Priod
+—Mewn partneriaeth sifil gofrestredig
+—Wedi gwahanu, ond yn gyfreithiol yn dal i fod yn briod
+—Wedi gwahanu, ond yn gyfreithiol yn dal i fod mewn partneriaeth sifil
+—Wedi ysgaru
+—Wedi bod mewn partneriaeth sifil sydd bellach wedi’i diddymu’n gyfreithiol
+—Person gweddw
+—Wedi colli partner sifil cofrestredig drwy farwolaeth
+Os mai “Priod” neu “Wedi gwahanu, ond yn gyfreithiol yn dal i fod yn briod” yw’r ymateb yna:
+Pwy yw eich priod cyfreithiol?
+Dewisir un o’r canlynol:
+—Person o’r rhyw arall
+—Person o’r un rhyw
+Os mai “Wedi ysgaru” neu “Person gweddw” yw’r ymateb yna:
+Pwy oedd eich priod cyfreithiol?
+Dewisir un o’r canlynol:
+—Person o’r rhyw arall
+—Person o’r un rhyw
+Os mai “Mewn partneriaeth sifil gofrestredig” neu “Wedi gwahanu, ond yn gyfreithiol yn dal i fod mewn partneriaeth sifil” yw’r ymateb yna:
+Pwy yw eich partner sifil cofrestredig?
+Dewisir un o’r canlynol:
+—Person o’r rhyw arall
+—Person o’r un rhyw
+Os mai “Wedi bod mewn partneriaeth sifil sydd bellach wedi’i diddymu’n gyfreithiol” neu “Wedi colli partner sifil cofrestredig drwy farwolaeth” yw’r ymateb yna:
+Pwy oedd eich partner sifil cofrestredig?
+Dewisir un o’r canlynol:
+—Person o’r rhyw arall
+—Person o’r un rhyw
+Ydych chi’n aros mewn cyfeiriad arall am fwy na 30 diwrnod y flwyddyn?
+Dewisir un o’r canlynol:
+—Nac ydw
+—Ydw, mewn cyfeiriad yn y Deyrnas Unedig (os felly nodir y cyfeiriad a’r cod post)
+—Ydw, mewn cyfeiriad y tu allan i’r Deyrnas Unedig (os felly nodir enw presennol y wlad)
+Os mai “Ydw, mewn cyfeiriad yn y Deyrnas Unedig” neu “Ydw, mewn cyfeiriad y tu allan i’r Deyrnas Unedig” yw’r ymateb yna:
+Pa fath o gyfeiriad yw (cyfeiriad yn y DU)?
+Neu
+Pa fath o gyfeiriad yw eich cyfeiriad yn (enw’r wlad)?
+Dewisir pob un sy’n berthnasol:
+—Cyfeiriad un o ganolfannau’r lluoedd arfog
+—Cyfeiriad arall wrth weithio i ffwrdd o’r cartref
+—Cyfeiriad cartref myfyriwr
+—Cyfeiriad myfyriwr yn ystod y tymor
+—Cyfeiriad rhiant neu warcheidwad arall
+—Cyfeiriad partner
+—Cyfeiriad tŷ gwyliau
+—Arall
+Os yw’r unigolyn yn 18 oed neu’n iau:
+Ydych chi’n blentyn ysgol neu’n fyfyriwr mewn addysg amser llawn?
+Os yw’r unigolyn yn 19 oed neu drosodd:
+Ydych chi’n fyfyriwr mewn addysg amser llawn?
+Ar gyfer y naill gwestiwn neu’r llall, dewisir un o’r canlynol:
+—Ydw
+—Nac ydw
+Os mai “Ydw” yw’r ymateb yna:
+Yn ystod y tymor, ble ydych chi’n byw fel arfer?
+Dewisir un o’r canlynol:
+—(cyfeiriad y cyfrifiad)
+—(unrhyw gyfeiriad yn y Deyrnas Unedig neu enw presennol y wlad a roddir mewn ymateb i’r cwestiwn cynharach yng ngholofn (1): “Ydych chi’n aros mewn cyfeiriad arall am fwy na 30 diwrnod y flwyddyn?”) (Os dewisir hwn, yna dim ond y cwestiynau isod yng ngholofn (1) sydd â (‡) a ofynnir (lle y bo’n berthnasol), ac ni ofynnir y cwestiynau eraill sy’n gysylltiedig.)
+—Cyfeiriad arall (Os dewisir hwn, yna dim ond y cwestiynau isod yng ngholofn (1) sydd â (‡) a ofynnir (lle y bo’n berthnasol), ac ni ofynnir y cwestiynau eraill sy’n gysylltiedig. Yr eithriad yw’r cwestiwn union isod yng ngholofn (1) sydd hefyd yn cael ei ofyn, os yw’n codi.)
+Os mai “Cyfeiriad arall” yw’r ymateb (ac os nodwyd “Nac ydw” mewn ymateb i’r cwestiwn cynharach: “Ydych chi’n aros mewn cyfeiriad arall am fwy na 30 diwrnod y flwyddyn?”) yna:
+Ydy’r cyfeiriad hwn yn y Deyrnas Unedig?
+Ar ôl y cwestiwn hwn, dim ond y cwestiynau isod sydd â (‡) a ofynnir (lle y bo’n berthnasol), ac ni ofynnir y cwestiynau eraill sy’n gysylltiedig.
+Dewisir un o’r canlynol:
+—Ydy (os felly nodir y cyfeiriad a’r cod post)
+—Nac ydy (os felly nodir enw presennol y wlad)
+Ym mha wlad y cawsoch chi eich geni?
+Dewisir un o’r canlynol:
+—Cymru
+—Lloegr
+—Yr Alban
+—Gogledd Iwerddon
+—Gweriniaeth Iwerddon
+—Rhywle arall (os felly nodir enw presennol y wlad)
+Os mai “Gweriniaeth Iwerddon” neu “Rhywle arall” yw’r ymateb yna:
+Pryd ddaethoch chi i fyw yn y Deyrnas Unedig ddiwethaf?
+Rhoddir yr ymateb ar y ffurf ganlynol:
+Mis-Blwyddyn
+Os mai “Mawrth-2020” yw’r ymateb yna:
+Wnaethoch chi ddod i’r Deyrnas Unedig ar 21 Mawrth 2020 neu ar ôl hynny?
+Dewisir un o’r canlynol:
+—Do
+—Naddo
+Os mai “Do” yw’r ymateb, neu os mai’r ymateb i’r cwestiwn cynharach yw “Ebrill-2020” neu unrhyw ddyddiad diweddarach, yn hytrach na “Mawrth-2020”, yna:
+Gan gynnwys yr amser rydych chi wedi’i dreulio yma’n barod, am faint ydych chi’n bwriadu aros yn y Deyrnas Unedig?
+Dewisir un o’r canlynol:
+—Llai na 12 mis
+—12 mis neu fwy
+Flwyddyn yn ôl, beth oedd eich cyfeiriad arferol?
+Dewisir un o’r canlynol:
+—(lle mae mwy nag un ymatebydd mewn cartref, caiff yr ail, trydydd ymatebydd ac ati yr opsiwn ymateb ychwanegol o fabwysiadu’r opsiwn ymateb sydd wedi’i ddewis gan yr ymatebydd cyntaf)
+—(Cyfeiriad y cyfrifiad)
+—Cyfeiriad myfyriwr yn ystod y tymor neu gyfeiriad ysgol breswyl yn y Deyrnas Unedig (os felly nodir y cyfeiriad a’r cod post)
+—Cyfeiriad arall yn y Deyrnas Unedig (os felly nodir y cyfeiriad a’r cod post)
+—Cyfeiriad y tu allan i’r Deyrnas Unedig (os felly nodir enw presennol y wlad)
+Sut fyddech chi’n disgrifio eich hunaniaeth genedlaethol?
+Dewisir pob un sy’n berthnasol:
+—Cymro/Cymraes
+—Sais/Saesnes
+—Albanwr/Albanes
+—Gwyddel/Gwyddeles o Ogledd Iwerddon
+—Prydeiniwr/Prydeinwraig
+—Arall (os felly disgrifir yr hunaniaeth genedlaethol)
+Beth yw eich grŵp ethnig?
+Dewisir un o’r canlynol:
+—Gwyn
+—Grwpiau Cymysg neu Amlethnig
+—Asiaidd, Asiaidd Cymreig neu Asiaidd Prydeinig
+—Du, Du Cymreig, Du Prydeinig, Caribïaidd neu Affricanaidd
+—Grŵp ethnig arall
+Os mai “Gwyn” yw’r ymateb yna:
+Pa un sy’n disgrifio orau eich grŵp ethnig neu eich cefndir Gwyn?
+Dewisir un o’r canlynol:
+—Cymreig, Seisnig, Albanaidd, Gwyddelig Gogledd Iwerddon neu Brydeinig
+—Gwyddelig
+—Sipsi neu Deithiwr Gwyddelig
+—Roma
+—Unrhyw gefndir Gwyn arall (os felly nodir y cefndir Gwyn arall)
+Os mai “Grwpiau Cymysg neu Amlethnig” yw’r ymateb yna:
+Pa un sy’n disgrifio orau eich grŵp ethnig neu gefndir Cymysg neu Amlethnig?
+Dewisir un o’r canlynol:
+—Gwyn a Du Caribïaidd
+—Gwyn a Du Affricanaidd
+—Gwyn ac Asiaidd
+—Unrhyw gefndir Cymysg neu Amlethnig arall (os felly nodir y cefndir Cymysg neu Amlethnig arall)
+Os mai “Asiaidd, Asiaidd Cymreig neu Asiaidd Prydeinig” yw’r ymateb yna:
+Pa un sy’n disgrifio orau eich grŵp ethnig neu eich cefndir Asiaidd, Asiaidd Cymreig neu Asiaidd Prydeinig?
+Dewisir un o’r canlynol:
+—Indiaidd
+—Pacistanaidd
+—Bangladeshaidd
+—Tsieineaidd
+—Unrhyw gefndir Asiaidd arall (os felly nodir y cefndir Asiaidd arall)
+Os mai “Du, Du Cymreig, Du Prydeinig, Caribïaidd neu Affricanaidd” yw’r ymateb yna:
+Pa un sy’n disgrifio orau eich grŵp ethnig neu eich cefndir Du, Du Cymreig, Du Prydeinig, Caribïaidd neu Affricanaidd?
+Dewisir un o’r canlynol:
+—Caribïaidd
+—Affricanaidd (os felly nodir y cefndir Affricanaidd)
+—Unrhyw gefndir Du, Du Prydeinig neu Garibïaidd arall (os felly nodir y cefndir Du, Du Prydeinig neu Garibïaidd arall)
+Os mai “Grŵp ethnig arall” yw’r ymateb yna:
+Pa un sy’n disgrifio orau eich grŵp ethnig neu eich cefndir arall?
+Dewisir un o’r canlynol:
+—Arabaidd
+—Unrhyw grŵp ethnig arall (os felly nodir y grŵp ethnig arall)
+Beth yw eich crefydd?
+Mae’r cwestiwn hwn yn wirfoddol
+Dewisir un o’r canlynol:
+—Dim crefydd
+—Cristnogaeth (pob enwad)
+—Bwdhaeth
+—Hindŵaeth
+—Iddewiaeth
+—Islam
+—Siciaeth
+—Unrhyw grefydd arall (os felly nodir y grefydd)
+Ydych chi’n gallu deall, siarad, darllen neu ysgrifennu Cymraeg?
+Dewisir pob un sy’n berthnasol:
+—Deall Cymraeg llafar
+—Siarad Cymraeg
+—Darllen Cymraeg
+—Ysgrifennu Cymraeg
+Neu
+—Dim un o’r rhain
+Beth yw eich prif iaith?
+Dewisir un o’r canlynol:
+—Cymraeg neu Saesneg
+—Arall, gan gynnwys Iaith Arwyddion Prydain (os felly nodir yr iaith arall)
+Os mai “Arall, gan gynnwys Iaith Arwyddion Prydain” yw’r ymateb yna:
+Pa mor dda ydych chi’n gallu siarad Saesneg?
+Dewisir un o’r canlynol:
+—Da iawn
+—Da
+—Ddim yn dda
+—Ddim o gwbl
+Pa basbortau sydd gennych chi?
+Dewisir pob un sy’n berthnasol:
+—Y Deyrnas Unedig
+—Iwerddon
+—Arall (os felly nodir y pasbortau sydd gan yr unigolyn)
+  Neu
+—Dim un
+Sut mae eich iechyd yn gyffredinol?
+Dewisir un o’r canlynol:
+—Da iawn
+—Da
+—Gweddol
+—Gwael
+—Gwael iawn
+Oes gennych chi gyflwr neu salwch corfforol neu feddyliol sydd wedi para neu sy’n debygol o bara 12 mis neu fwy?
+Dewisir un o’r canlynol:
+—Oes
+—Nac oes
+Os mai “Oes” yw’r ymateb yna:
+Ydy unrhyw gyflwr neu salwch sydd gennych chi’n lleihau eich gallu i wneud gweithgareddau pob dydd?
+Dewisir un o’r canlynol:
+—Ydy, yn fawr
+—Ydy, ychydig
+—Ddim o gwbl
+Ydych chi’n gofalu am unrhyw un, neu’n cynnig unrhyw help neu gefnogaeth i unrhyw un, oherwydd cyflwr neu salwch corfforol neu feddyliol hir dymor, neu broblemau sy’n gysylltiedig â henaint?
+Dewisir un o’r canlynol:
+—Nac ydw
+—Ydw, 9 awr neu lai yr wythnos
+—Ydw, 10 i 19 awr yr wythnos
+—Ydw, 20 i 34 awr yr wythnos
+—Ydw, 35 i 49 awr yr wythnos
+—Ydw, 50 awr neu fwy yr wythnos
+Mae’r holl gwestiynau isod yng ngholofn (1) ar gyfer ymatebwyr 16 oed a throsodd yn unig, heblaw am y cwestiynau sydd â (‡). Os yw’n berthnasol, gellir gofyn y cwestiynau hyn i unrhyw ymatebydd
+Pa un o’r canlynol sy’n disgrifio orau eich cyfeiriadedd rhywiol?
+Mae’r cwestiwn hwn yn wirfoddol
+Dewisir un o’r canlynol:
+—Heterorywiol/Strêt
+—Hoyw neu Lesbiaidd
+—Deurywiol/Bi
+—Cyfeiriadedd rhywiol arall (os felly nodir y cyfeiriadedd rhywiol)
+A yw’r rhywedd rydych chi’n uniaethu ag ef yr un peth â’ch rhyw a gofrestrwyd pan gawsoch chi eich geni?
+Mae’r cwestiwn hwn yn wirfoddol
+Dewisir un o’r canlynol:
+—Ydy
+—Nac ydy (os felly nodir yr hunaniaeth o ran rhywedd)
+Gwybodaeth am gymwysterau
+Ydych chi wedi cwblhau prentisiaeth?
+Dewisir un o’r canlynol:
+—Ydw (er enghraifft, crefft, uwch, sylfaen neu fodern)
+—Nac ydw
+Oes gennych chi gymhwyster ar lefel gradd neu uwch?
+Dewisir un o’r canlynol:
+—Oes (er enghraifft, gradd, gradd sylfaen, HND neu HNC, NVQ lefel 4 ac uwch, addysgu neu nyrsio)
+—Nac oes
+Oes gennych chi NVQ neu gymhwyster cyfatebol?
+Dewisir pob un sy’n berthnasol:
+—NVQ lefel 3 neu gymhwyster cyfatebol (er enghraifft BTEC Cenedlaethol, OND neu ONC, Crefft Uwch City and Guilds)
+—NVQ lefel 2 neu gymhwyster cyfatebol (er enghraifft, BTEC Cyffredinol, Crefft City and Guilds)
+—NVQ lefel 1 neu gymhwyster cyfatebol
+  Neu
+—Dim un o’r rhain
+Oes gennych chi Lefel AS (Safon UG), Lefel A (Safon Uwch) neu gymhwyster cyfatebol?
+Dewisir pob un sy’n berthnasol:
+—2 neu fwy o gymwysterau Lefel A (Safon Uwch) (gan gynnwys 4 Lefel AS (Safon UG) neu fwy)
+—1 Lefel A (Safon Uwch) (gan gynnwys 2-3 Lefel AS (Safon UG))
+—1 Lefel AS (Safon UG)
+—Bagloriaeth Cymru – Uwch
+  Neu
+—Dim un o’r rhain
+Oes gennych chi gymhwyster TGAU neu gymhwyster cyfatebol?
+Dewisir pob un sy’n berthnasol:
+—5 neu fwy o gymwysterau TGAU A* i C neu 9 i 4 (gan gynnwys 5 neu fwy Lefel O (marc llwyddo) neu TAUau graddau 1)
+—Unrhyw gymwysterau TGAU eraill (gan gynnwys unrhyw Lefel O neu TAU arall ar unrhyw radd)
+—Cwrs Sgiliau Sylfaenol (Sgiliau bywyd, llythrennedd, rhifedd ac iaith)
+—Bagloriaeth Cymru – Canolradd neu Genedlaethol
+—Bagloriaeth Cymru – Sylfaen
+  Neu
+—Dim un o’r rhain
+Os mai “Nac ydw”, “Nac oes” neu “Dim un o’r rhain” yw’r ymateb i’r holl gwestiynau uchod am gymwysterau, yna:
+Oes gennych chi unrhyw gymwysterau eraill?
+Dewisir pob un sy’n berthnasol:
+—Oes, o Gymru neu o Loegr
+—Oes, o unrhyw le y tu allan i Gymru a Lloegr
+  Neu
+—Dim cymwysterau
+Gwybodaeth am swyddi blaenorol a phresennol
+Ydych chi wedi gwasanaethu yn Lluoedd Arfog y Deyrnas Unedig yn y gorffennol (er enghraifft, y fyddin)?
+Dewisir pob un sy’n berthnasol:
+—Ydw, wedi gwasanaethu yn y Lluoedd Arfog Rheolaidd yn y gorffennol
+—Ydw, wedi gwasanaethu yn y Lluoedd Arfog Wrth Gefn yn y gorffennol
+  Neu
+—Nac ydw
+Yn ystod y 7 diwrnod diwethaf, oeddech chi’n gwneud unrhyw un o’r canlynol?
+Dewisir pob un sy’n berthnasol:
+—Gwaith cyflogedig
+—Gwaith hunangyflogedig neu ar eich liwt eich hun
+—I ffwrdd o’ch gwaith dros dro yn sâl, ar wyliau, neu wedi’ch cadw dros dro o’ch gwaith am na all eich cyflogwr gynnig gwaith ar hyn o bryd
+—Ar gyfnod mamolaeth neu dadolaeth
+—Unrhyw fath arall o waith am dâl
+  Neu
+—Dim un o’r rhain
+Os dewisir yr opsiwn ymateb “Dim un o’r rhain”, gofynnir y cwestiynau sydd â (⸸) yng ngholofn (1) (fel y bo’n briodol) ac ni ofynnir y cwestiynau sy’n gysylltiedig. Os dewisir unrhyw opsiwn neu opsiynau ymateb eraill, gofynnir y cwestiynau cysylltiedig ac ni ofynnir y cwestiynau sydd â (⸸).
+Yn eich prif swydd, beth yw eich statws cyflogaeth?
+Dewisir un o’r canlynol:
+—Gweithiwr cyflogedig
+—Hunangyflogedig neu’n gweithio ar eich liwt eich hun heb gyflogi gweithwyr eraill
+—Hunangyflogedig ac yn cyflogi gweithwyr eraill
+Beth yw enw’r sefydliad neu’r busnes rydych chi’n gweithio iddo?
+Dewisir un o’r canlynol:
+—Nodir enw’r sefydliad neu’r busnes
+Neu
+—Dim sefydliad neu’n gweithio i unigolyn preifat
+Beth yw teitl llawn eich swydd? Nodir teitl llawn y swydd
+Beth ydych chi’n ei wneud yn eich prif swydd? Disgrifir y swydd
+Beth yw prif weithgarwch eich sefydliad, busnes neu’ch gwaith ar eich liwt eich hun? Nodir y prif weithgarwch
+Ydych chi’n goruchwylio neu’n cadw golwg ar waith gweithwyr eraill o ddydd i ddydd?
+Dewisir un o’r canlynol:
+—Ydw
+—Nac ydw
+Yn eich prif swydd, sawl awr yr wythnos ydych chi’n gweithio fel arfer?
+Dewisir un o’r canlynol:
+—0 i 15 awr
+—16 i 30 awr
+—31 i 48 awr
+—49 awr neu fwy
+Sut ydych chi’n teithio i’r gwaith fel arfer?
+Dewisir un o’r canlynol:
+—Gweithio gartref neu o’r cartref yn bennaf
+—Trên tanddaearol, metro, tram neu reilffordd ysgafn
+—Trên
+—Bws neu fws mini
+—Tacsi
+—Beic modur, moped neu sgwter
+—Gyrru car neu fan
+—Teithiwr mewn car neu fan
+—Beic
+—Cerdded
+—Arall
+Ble ydych chi’n gweithio’n bennaf?
+Dewisir un o’r canlynol:
+—Mewn gweithle
+—Adrodd i ddepo
+—Gartref neu o’r cartref
+—Ar safle ar y môr
+—Dim man penodol
+Os mai “Mewn gweithle” neu “Adrodd i ddepo” yw’r ymateb yna:
+Ydych chi’n gweithio yn y Deyrnas Unedig yn bennaf?
+Dewisir un o’r canlynol:
+—Ydw (os felly nodir cyfeiriad a chod post y gweithle neu’r depo)
+—Nac ydw (os felly nodir y wlad)
+(⸸) Pa un o’r canlynol sy’n disgrifio’r hyn roeddech chi’n ei wneud yn ystod y 7 diwrnod diwethaf?
+Dewisir pob un sy’n berthnasol:
+—Wedi ymddeol (gan dderbyn pensiwn neu beidio)
+—Astudio
+—Gofalu am y cartref neu am y teulu
+—Anabl neu yn sâl am gyfnod hir
+—Arall
+(⸸) Yn ystod y 4 wythnos diwethaf, oeddech chi wrthi’n chwilio am unrhyw fath o waith am dâl?
+Dewisir un o’r canlynol:
+—Oeddwn
+—Nac oeddwn
+(⸸) Os mai “Oeddwn” yw’r ymateb yna:
+Ydych chi ar gael i ddechrau gweithio yn y pythefnos nesaf?
+Dewisir un o’r canlynol:
+—Ydw
+—Nac ydw
+(⸸) Os mai “Nac oeddwn” yw’r ymateb, ddim wrthi’n chwilio am waith am dâl, neu “Nac ydw”, ddim ar gael i ddechrau gweithio yn y pythefnos nesaf, yna:
+Yn ystod y 7 diwrnod diwethaf, oeddech chi’n aros i ddechrau swydd roeddech chi eisoes wedi’i derbyn?
+Dewisir un o’r canlynol:
+—Oeddwn
+—Nac oeddwn
+(⸸) Ydych chi erioed wedi gwneud unrhyw waith am dâl?
+Dewisir un o’r canlynol:
+—Ydw, yn ystod y 12 mis diwethaf
+—Ydw, ond nid yn ystod y 12 mis diwethaf
+—Nac ydw, erioed wedi gweithio (Os caiff ei ddewis, hepgorir y cwestiynau sy’n weddill yng ngholofn (1) sydd â (⸸).)
+(⸸) Yn eich prif swydd, beth oedd eich statws cyflogaeth?
+Dewisir un o’r canlynol:
+—Gweithiwr cyflogedig
+—Hunangyflogedig neu’n gweithio ar eich liwt eich hun heb gyflogi gweithwyr eraill
+—Hunangyflogedig ac yn cyflogi gweithwyr eraill
+(⸸) Beth oedd enw’r sefydliad neu’r busnes roeddech chi’n gweithio iddo?
+Dewisir un o’r canlynol:
+—Nodir enw’r sefydliad neu’r busnes
+  Neu
+— Dim sefydliad neu’n gweithio i unigolyn preifat
+(⸸) Beth oedd teitl llawn eich swydd? Nodir teitl y swydd
+(⸸) Beth oeddech chi’n ei wneud yn eich prif swydd? Disgrifir y swydd
+(⸸) Beth oedd prif weithgarwch eich sefydliad, busnes neu’ch gwaith ar eich liwt eich hun? Nodir y prif weithgarwch
+(⸸) Oeddech chi’n goruchwylio neu’n cadw golwg ar waith gweithwyr eraill o ddydd i ddydd?
+Dewisir un o’r canlynol:
+—Oeddwn
+—Nac oeddwn
+Gwybodaeth am ymwelwyr
+(‡) Beth yw dyddiad geni (enw’r ymwelydd)?
+Rhoddir yr ymateb ar y ffurf ganlynol:
+Diwrnod-Mis-Blwyddyn
+(‡) Beth yw rhyw (enw’r ymwelydd)?
+Dewisir un o’r canlynol:
+—Benyw
+—Gwryw
+(‡) Beth yw cyfeiriad arferol (enw’r ymwelydd)?
+Dewisir un o’r canlynol:
+—(lle mae mwy nag un ymwelydd mewn cartref, caiff yr ail, trydydd ymwelydd ac ati yr opsiwn ymateb ychwanegol o fabwysiadu’r opsiwn ymateb sydd wedi’i ddewis gan yr ymwelydd cyntaf)
+—Cyfeiriad yn y Deyrnas Unedig (os felly nodir y cyfeiriad a’r cod post)
+—Cyfeiriad y tu allan i’r Deyrnas Unedig (os felly nodir enw presennol y wlad)Rheoliad 5(1)(a) a (b) ac Atodlen 1
+ATODLEN 3
+Holiaduron: disgrifiad
+RHAN 1
+Holiadur (ar-lein) y Cartref
+(1) Cwestiwn (2) Opsiynau Ymateb
+Gwybodaeth am y cartref
+Ydych chi’n byw yn (cyfeiriad y cyfrifiad) fel arfer?
+Dewisir un o’r canlynol:
+—Ydw, rwy’n byw yma fel arfer
+—Nac ydw, nid wyf yn byw yma fel arfer
+Os dewisir yr opsiwn ymateb “Ydw, rwy’n byw yma fel arfer”, ni ofynnir y cwestiynau isod yng ngholofn (1) sydd â (†). Os dewisir yr opsiwn ymateb “Nac ydw, nid wyf yn byw yma fel arfer”, ni ofynnir y cwestiynau cyn y rhai sydd â (†).
+Beth yw eich enw?
+Rhoddir yr ymateb ar y ffurf ganlynol:
+Enw cyntaf
+Enw(au) canol
+Cyfenw
+Oes unrhyw un o’r bobl ganlynol hefyd yn byw yn (cyfeiriad y cyfrifiad) ddydd Sul 21 Mawrth 2021?
+Dewisir pob un sy’n berthnasol:
+—Aelodau o’r teulu a phartneriaid (dylech gynnwys babanod a anwyd ar neu cyn 21 Mawrth 2021, plant, myfyrwyr a phlant ysgol sy’n byw i ffwrdd o’r cartref yn ystod y tymor)
+—Tenantiaid, lojers neu bobl sy’n rhannu cartref
+—Pobl sy’n byw y tu allan i’r Deyrnas Unedig fel arfer, ond sy’n aros yn y Deyrnas Unedig am 3 mis neu fwy
+—Pobl sydd i ffwrdd o’r cartref dros dro (er enghraifft, yn gweithio i ffwrdd, ar wyliau, yn y lluoedd arfog, yn byw mewn sefydliad fel cartref gofal am hyd at 6 mis, dramor am hyd at flwyddyn)
+—Pobl sy’n aros dros dro, sy’n byw yn y Deyrnas Unedig fel arfer, ond sydd heb gyfeiriad arall yn y Deyrnas Unedig (er enghraifft, preswylwyr y Deyrnas Unedig sydd rhwng cyfeiriadau neu heb gartref ar hyn o bryd)
+  Neu
+—Dim un o’r rhain yn berthnasol, fi yw’r unig berson sy’n byw yma fel arfer
+Pwy arall sy’n byw yn (cyfeiriad y cyfrifiad)?
+Rhoddir yr ymateb ar y ffurf ganlynol:
+Enw cyntaf
+Enw(au) canol
+Cyfenw
+Oes unrhyw un arall yn byw yn (cyfeiriad y cyfrifiad)?
+Dewisir un o’r canlynol:
+—Oes, mae angen i mi ychwanegu (ail, trydydd ac ati) unigolyn (Os caiff ei ddewis, caiff y cwestiwn union uchod yng ngholofn (1) ei ailadrodd.)
+—Nac oes, nid oes angen i mi ychwanegu unrhyw un
+(†) Oes unrhyw un o’r bobl ganlynol yn byw yn (cyfeiriad y cyfrifiad) ddydd Sul 21 Mawrth 2021?
+Dewisir pob un sy’n berthnasol:
+—Aelodau o’r teulu a phartneriaid (dylech gynnwys babanod a anwyd ar neu cyn 21 Mawrth 2021, plant, myfyrwyr a phlant ysgol sy’n byw i ffwrdd o’r cartref yn ystod y tymor)
+—Tenantiaid, lojers neu bobl sy’n rhannu cartref
+—Pobl sy’n byw y tu allan i’r Deyrnas Unedig fel arfer, ond sy’n aros yn y Deyrnas Unedig am 3 mis neu fwy
+—Pobl sydd i ffwrdd o’r cartref dros dro (er enghraifft, yn gweithio i ffwrdd, ar wyliau, yn y lluoedd arfog, yn byw mewn sefydliad fel cartref gofal am hyd at 6 mis, dramor am hyd at flwyddyn)
+—Pobl sy’n aros dros dro, sy’n byw yn y Deyrnas Unedig fel arfer, ond sydd heb gyfeiriad arall yn y Deyrnas Unedig (er enghraifft, preswylwyr y Deyrnas Unedig sydd rhwng cyfeiriadau neu heb gartref ar hyn o bryd)
+  Neu
+—Dim un o’r rhain yn berthnasol, nid oes neb yn byw yma fel arfer (er enghraifft, ail gyfeiriad neu dŷ gwyliau yw hwn)
+(†) Pwy sy’n byw yn (cyfeiriad y cyfrifiad)?
+Rhoddir yr ymateb ar y ffurf ganlynol:
+Enw cyntaf
+Enw(au) canol
+Cyfenw
+(†) Oes unrhyw un arall yn byw yn (cyfeiriad y cyfrifiad)?
+Dewisir un o’r canlynol:
+—Oes, mae angen i mi ychwanegu (ail, trydydd ac ati) unigolyn (Os caiff ei ddewis, caiff y cwestiwn union uchod yng ngholofn (1) ei ailadrodd, ond gofynnir: “Pwy arall sy’n byw yn (cyfeiriad y cyfrifiad)?”)
+—Nac oes, nid oes angen i mi ychwanegu unrhyw un
+Ar wahân i bawb a gafodd eu cynnwys eisoes, pwy arall sy’n aros dros nos ddydd Sul 21 Mawrth 2021 yn (cyfeiriad y cyfrifiad)?
+Dewisir pob un sy’n berthnasol:
+—Pobl sydd fel arfer yn byw yn rhywle arall yn y Deyrnas Unedig, er enghraifft, cariadon, ffrindiau, perthnasau
+—Pobl sy’n aros yma gan mai dyma eu hail gyfeiriad, er enghraifft, oherwydd gwaith. Mae eu cyfeiriad parhaol neu gyfeiriad y teulu yn rhywle arall
+—Pobl sy’n byw y tu allan i’r Deyrnas Unedig fel arfer, ac sy’n aros yn y Deyrnas Unedig am lai na 3 mis
+—Pobl sydd ar wyliau yma
+  Neu
+—Nid oes unrhyw ymwelwyr yn aros yma dros nos ddydd Sul 21 Mawrth 2021 (Os caiff ei ddewis, ni ofynnir y cwestiwn nesaf yng ngholofn (1).)
+Beth yw enw’r ymwelydd (ail ymwelydd, trydydd ymwelydd ac ati) sy’n aros dros nos ddydd Sul 21 Mawrth 2021 yn (cyfeiriad y cyfrifiad)?
+Rhoddir yr ymateb ar y ffurf ganlynol:
+Enw cyntaf
+Cyfenw
+Gwybodaeth am berthynas aelodau o’r cartref â’i gilydd
+Disgrifir y berthynas rhwng yr ymatebydd a phob preswylydd arall yn y cartref:
+(Enw’r preswylydd arall hwnnw) yw eich (gwahoddiad i ddewis un o’r opsiynau ymateb gyferbyn, a ddangosir wedyn i gwblhau’r datganiad hwn).
+Dewisir un o’r canlynol:
+—Gŵr neu wraig
+—Partner sifil cofrestredig cyfreithiol
+—Partner
+—Mab neu ferch
+—Llysblentyn
+—Brawd neu chwaer (gan gynnwys hanner brawd neu hanner chwaer)
+—Llysfrawd neu lyschwaer
+—Mam neu dad
+—Llysfam neu lysdad
+—Ŵyr neu wyres
+—Taid/tad-cu neu nain/mam-gu
+—Perthynas arall
+—Ddim yn perthyn (gan gynnwys plentyn maeth)
+Disgrifir y berthynas rhwng pob preswylydd arall yn y cartref (os yw’r ymatebydd yn breswylydd), neu’r berthynas rhwng y preswylwyr yn y cartref (lle nad yw’r ymatebydd yn breswylydd):
+Gan feddwl am (enw preswylydd dau ac ati), mae (enw preswylydd tri ac ati) yn (gwahoddiad i ddewis un o’r opsiynau ymateb gyferbyn, a ddangosir wedyn i gwblhau’r datganiad hwn) i (enw preswylydd dau ac ati).
+Dewisir un o’r opsiynau ymateb a ddangosir mewn perthynas â’r cwestiwn union uchod yng ngholofn (1).
+Gwybodaeth am lety’r cartref
+Pa fath o gartref yw (cyfeiriad y cyfrifiad)?
+Dewisir un o’r canlynol:
+—Tŷ neu fyngalo cyfan
+—Fflat neu maisonette
+—Carafán neu fath arall o gartref symudol neu dros dro
+Os mai “Tŷ neu fyngalo cyfan” yw’r ymateb yna:
+Pa un o’r canlynol yw eich tŷ neu eich byngalo?
+Dewisir un o’r canlynol:
+—Adeilad ar wahân
+—Tŷ neu fyngalo semi
+—Tŷ neu fyngalo mewn teras (gan gynnwys ar y pen)
+Os mai “Fflat neu maisonette” yw’r ymateb yna:
+Ble mae eich fflat neu maisonette?
+Dewisir un o’r canlynol:
+—Mewn bloc o fflatiau neu denement a adeiladwyd yn bwrpasol
+—Yn rhan o dŷ wedi’i addasu neu dŷ sy’n cael ei rannu (gan gynnwys fflatiau un ystafell)
+—Rhan o adeilad arall wedi’i addasu (er enghraifft, hen ysgol, eglwys neu warws)
+—Mewn adeilad masnachol (er enghraifft, mewn adeilad o swyddfeydd, gwesty, neu uwchben siop)
+Ydy pob ystafell yn y cartref, gan gynnwys y gegin, yr ystafell ymolchi a’r toiled, y tu ôl i ddrws sydd ddim ond yn cael ei ddefnyddio gan aelodau o’r cartref hwn?
+Dewisir un o’r canlynol:
+—Ydy
+—Nac ydy, mae o leiaf un o’r ystafelloedd yn cael ei rhannu ag aelodau o gartref arall
+Sawl ystafell wely sydd at ddefnydd aelodau o’r cartref hwn yn unig? Nodir nifer yr ystafelloedd gwely
+Pa fath o wres canolog sydd yn (cyfeiriad y cyfrifiad)?
+Dewisir pob un sy’n berthnasol:
+—Dim gwres canolog
+—Prif gyflenwad nwy
+—Nwy tanc neu botel
+—Trydan (gan gynnwys gwresogyddion stôr)
+—Olew
+—Coed (er enghraifft boncyffion, pren gwastraff neu belenni)
+—Tanwydd solet (er enghraifft, glo)
+—Ynni adnewyddadwy (er enghraifft, pympiau gwres neu solar thermol)
+—Rhwydweithiau gwres rhanbarthol neu gymunedol
+—Arall
+Os oes un neu fwy o breswylwyr arferol yng nghyfeiriad y cyfrifiad, yna:
+Oes aelod neu aelodau o’ch cartref yn berchen ar (cyfeiriad y cyfrifiad) neu’n ei rentu?
+Dewisir un o’r canlynol:
+—Yn berchen arno’n gyfan gwbl
+—Yn berchen arno gyda morgais neu fenthyciad
+—Yn berchen arno’n rhannol ac yn ei rentu’n rhannol (cynllun rhan-berchenogaeth)
+—Yn ei rentu (gyda chymorth budd-dal tai neu hebddo)
+—Yn byw yma heb dalu rhent
+Os mai “Yn berchen arno’n rhannol ac yn ei rentu’n rhannol (cynllun rhan-berchenogaeth)”, neu “Yn ei rentu (gyda chymorth budd-dal tai neu hebddo)” neu “Yn byw yma heb dalu rhent” yw’r ymateb yna:
+Pwy yw eich landlord?
+Dewisir un o’r canlynol:
+—Cymdeithas dai, cwmni tai cydweithredol, ymddiriedolaeth elusennol, landlord cymdeithasol cofrestredig
+—Y cyngor neu’r awdurdod lleol
+—Landlord preifat neu asiantaeth gosod tai
+—Cyflogwr aelod o’r cartref
+—Perthynas neu ffrind i aelod o’r cartref
+—Arall
+Os oes un neu fwy o breswylwyr arferol yng nghyfeiriad y cyfrifiad, yna:
+Sawl car neu fan sy’n eiddo i aelodau o’r cartref hwn, neu sydd ar gael i’w defnyddio ganddynt?
+Dewisir un o’r canlynol:
+—Dim un
+—1
+—2
+—3
+—4
+—5 neu fwy (os felly nodir union nifer y ceir neu faniau)
+Gwybodaeth am breswylwyr unigol
+Ai chi yw (enw’r preswylydd)?
+Dewisir un o’r canlynol:
+—Ie
+—Na, rwy’n ateb ar ran yr unigolyn hwn
+Beth yw eich dyddiad geni?
+Rhoddir yr ymateb ar y ffurf ganlynol:
+Diwrnod-Mis-Blwyddyn
+Rydych chi’n (oedran wedi’i gyfrifo’n awtomatig) oed (neu ‘mis oed’ neu ‘diwrnod oed’ yn dibynnu ar oedran y preswylydd). Ydy hyn yn gywir?
+Dewisir un o’r canlynol:
+—Ydy, rwy’n (oedran wedi’i gyfrifo’n awtomatig) oed (mis neu ddiwrnod)
+—Nac ydy, mae angen i mi gywiro fy nyddiad geni
+Beth yw eich rhyw?
+Dewisir un o’r canlynol:
+—Benyw
+—Gwryw
+Yn gyfreithiol, beth yw eich statws priodasol neu statws eich partneriaeth sifil gofrestredig ar 21 Mawrth 2021?
+Dewisir un o’r canlynol:
+—Erioed wedi priodi na chofrestru partneriaeth sifil
+—Priod
+—Mewn partneriaeth sifil gofrestredig
+—Wedi gwahanu, ond yn gyfreithiol yn dal i fod yn briod
+—Wedi gwahanu, ond yn gyfreithiol yn dal i fod mewn partneriaeth sifil
+—Wedi ysgaru
+—Wedi bod mewn partneriaeth sifil sydd bellach wedi’i diddymu’n gyfreithiol
+—Person gweddw
+—Wedi colli partner sifil cofrestredig drwy farwolaeth
+Os mai “Priod” neu “Wedi gwahanu, ond yn gyfreithiol yn dal i fod yn briod” yw’r ymateb yna:
+Pwy yw eich priod cyfreithiol?
+Dewisir un o’r canlynol:
+—Person o’r rhyw arall
+—Person o’r un rhyw
+Os mai “Wedi ysgaru” neu “Person gweddw” yw’r ymateb yna:
+Pwy oedd eich priod cyfreithiol?
+Dewisir un o’r canlynol:
+—Person o’r rhyw arall
+—Person o’r un rhyw
+Os mai “Mewn partneriaeth sifil gofrestredig” neu “Wedi gwahanu, ond yn gyfreithiol yn dal i fod mewn partneriaeth sifil” yw’r ymateb yna:
+Pwy yw eich partner sifil cofrestredig?
+Dewisir un o’r canlynol:
+—Person o’r rhyw arall
+—Person o’r un rhyw
+Os mai “Wedi bod mewn partneriaeth sifil sydd bellach wedi’i diddymu’n gyfreithiol” neu “Wedi colli partner sifil cofrestredig drwy farwolaeth” yw’r ymateb yna:
+Pwy oedd eich partner sifil cofrestredig?
+Dewisir un o’r canlynol:
+—Person o’r rhyw arall
+—Person o’r un rhyw
+Ydych chi’n aros mewn cyfeiriad arall am fwy na 30 diwrnod y flwyddyn?
+Dewisir un o’r canlynol:
+—Nac ydw
+—Ydw, mewn cyfeiriad yn y Deyrnas Unedig (os felly nodir y cyfeiriad a’r cod post)
+—Ydw, mewn cyfeiriad y tu allan i’r Deyrnas Unedig (os felly nodir enw presennol y wlad)
+Os mai “Ydw, mewn cyfeiriad yn y Deyrnas Unedig” neu “Ydw, mewn cyfeiriad y tu allan i’r Deyrnas Unedig” yw’r ymateb yna:
+Pa fath o gyfeiriad yw (cyfeiriad yn y DU)?
+Neu
+Pa fath o gyfeiriad yw eich cyfeiriad yn (enw’r wlad)?
+Dewisir pob un sy’n berthnasol:
+—Cyfeiriad un o ganolfannau’r lluoedd arfog
+—Cyfeiriad arall wrth weithio i ffwrdd o’r cartref
+—Cyfeiriad cartref myfyriwr
+—Cyfeiriad myfyriwr yn ystod y tymor
+—Cyfeiriad rhiant neu warcheidwad arall
+—Cyfeiriad partner
+—Cyfeiriad tŷ gwyliau
+—Arall
+Os yw’r unigolyn yn 18 oed neu’n iau:
+Ydych chi’n blentyn ysgol neu’n fyfyriwr mewn addysg amser llawn?
+Os yw’r unigolyn yn 19 oed neu drosodd:
+Ydych chi’n fyfyriwr mewn addysg amser llawn?
+Ar gyfer y naill gwestiwn neu’r llall, dewisir un o’r canlynol:
+—Ydw
+—Nac ydw
+Os mai “Ydw” yw’r ymateb yna:
+Yn ystod y tymor, ble ydych chi’n byw fel arfer?
+Dewisir un o’r canlynol:
+—(cyfeiriad y cyfrifiad)
+—(unrhyw gyfeiriad yn y Deyrnas Unedig neu enw presennol y wlad a roddir mewn ymateb i’r cwestiwn cynharach yng ngholofn (1): “Ydych chi’n aros mewn cyfeiriad arall am fwy na 30 diwrnod y flwyddyn?”) (Os dewisir hwn, yna dim ond y cwestiynau isod yng ngholofn (1) sydd â (‡) a ofynnir (lle y bo’n berthnasol), ac ni ofynnir y cwestiynau eraill sy’n gysylltiedig.)
+—Cyfeiriad arall (Os dewisir hwn, yna dim ond y cwestiynau isod yng ngholofn (1) sydd â (‡) a ofynnir (lle y bo’n berthnasol), ac ni ofynnir y cwestiynau eraill sy’n gysylltiedig. Yr eithriad yw’r cwestiwn union isod yng ngholofn (1) sydd hefyd yn cael ei ofyn, os yw’n codi.)
+Os mai “Cyfeiriad arall” yw’r ymateb (ac os nodwyd “Nac ydw” mewn ymateb i’r cwestiwn cynharach: “Ydych chi’n aros mewn cyfeiriad arall am fwy na 30 diwrnod y flwyddyn?”) yna:
+Ydy’r cyfeiriad hwn yn y Deyrnas Unedig?
+Ar ôl y cwestiwn hwn, dim ond y cwestiynau isod sydd â (‡) a ofynnir (lle y bo’n berthnasol), ac ni ofynnir y cwestiynau eraill sy’n gysylltiedig.
+Dewisir un o’r canlynol:
+—Ydy (os felly nodir y cyfeiriad a’r cod post)
+—Nac ydy (os felly nodir enw presennol y wlad)
+Ym mha wlad y cawsoch chi eich geni?
+Dewisir un o’r canlynol:
+—Cymru
+—Lloegr
+—Yr Alban
+—Gogledd Iwerddon
+—Gweriniaeth Iwerddon
+—Rhywle arall (os felly nodir enw presennol y wlad)
+Os mai “Gweriniaeth Iwerddon” neu “Rhywle arall” yw’r ymateb yna:
+Pryd ddaethoch chi i fyw yn y Deyrnas Unedig ddiwethaf?
+Rhoddir yr ymateb ar y ffurf ganlynol:
+Mis-Blwyddyn
+Os mai “Mawrth-2020” yw’r ymateb yna:
+Wnaethoch chi ddod i’r Deyrnas Unedig ar 21 Mawrth 2020 neu ar ôl hynny?
+Dewisir un o’r canlynol:
+—Do
+—Naddo
+Os mai “Do” yw’r ymateb, neu os mai’r ymateb i’r cwestiwn cynharach yw “Ebrill-2020” neu unrhyw ddyddiad diweddarach, yn hytrach na “Mawrth-2020”, yna:
+Gan gynnwys yr amser rydych chi wedi’i dreulio yma’n barod, am faint ydych chi’n bwriadu aros yn y Deyrnas Unedig?
+Dewisir un o’r canlynol:
+—Llai na 12 mis
+—12 mis neu fwy
+Flwyddyn yn ôl, beth oedd eich cyfeiriad arferol?
+Dewisir un o’r canlynol:
+—(lle mae mwy nag un ymatebydd mewn cartref, caiff yr ail, trydydd ymatebydd ac ati yr opsiwn ymateb ychwanegol o fabwysiadu’r opsiwn ymateb sydd wedi’i ddewis gan yr ymatebydd cyntaf)
+—(Cyfeiriad y cyfrifiad)
+—Cyfeiriad myfyriwr yn ystod y tymor neu gyfeiriad ysgol breswyl yn y Deyrnas Unedig (os felly nodir y cyfeiriad a’r cod post)
+—Cyfeiriad arall yn y Deyrnas Unedig (os felly nodir y cyfeiriad a’r cod post)
+—Cyfeiriad y tu allan i’r Deyrnas Unedig (os felly nodir enw presennol y wlad)
+Sut fyddech chi’n disgrifio eich hunaniaeth genedlaethol?
+Dewisir pob un sy’n berthnasol:
+—Cymro/Cymraes
+—Sais/Saesnes
+—Albanwr/Albanes
+—Gwyddel/Gwyddeles o Ogledd Iwerddon
+—Prydeiniwr/Prydeinwraig
+—Arall (os felly disgrifir yr hunaniaeth genedlaethol)
+Beth yw eich grŵp ethnig?
+Dewisir un o’r canlynol:
+—Gwyn
+—Grwpiau Cymysg neu Amlethnig
+—Asiaidd, Asiaidd Cymreig neu Asiaidd Prydeinig
+—Du, Du Cymreig, Du Prydeinig, Caribïaidd neu Affricanaidd
+—Grŵp ethnig arall
+Os mai “Gwyn” yw’r ymateb yna:
+Pa un sy’n disgrifio orau eich grŵp ethnig neu eich cefndir Gwyn?
+Dewisir un o’r canlynol:
+—Cymreig, Seisnig, Albanaidd, Gwyddelig Gogledd Iwerddon neu Brydeinig
+—Gwyddelig
+—Sipsi neu Deithiwr Gwyddelig
+—Roma
+—Unrhyw gefndir Gwyn arall (os felly nodir y cefndir Gwyn arall)
+Os mai “Grwpiau Cymysg neu Amlethnig” yw’r ymateb yna:
+Pa un sy’n disgrifio orau eich grŵp ethnig neu gefndir Cymysg neu Amlethnig?
+Dewisir un o’r canlynol:
+—Gwyn a Du Caribïaidd
+—Gwyn a Du Affricanaidd
+—Gwyn ac Asiaidd
+—Unrhyw gefndir Cymysg neu Amlethnig arall (os felly nodir y cefndir Cymysg neu Amlethnig arall)
+Os mai “Asiaidd, Asiaidd Cymreig neu Asiaidd Prydeinig” yw’r ymateb yna:
+Pa un sy’n disgrifio orau eich grŵp ethnig neu eich cefndir Asiaidd, Asiaidd Cymreig neu Asiaidd Prydeinig?
+Dewisir un o’r canlynol:
+—Indiaidd
+—Pacistanaidd
+—Bangladeshaidd
+—Tsieineaidd
+—Unrhyw gefndir Asiaidd arall (os felly nodir y cefndir Asiaidd arall)
+Os mai “Du, Du Cymreig, Du Prydeinig, Caribïaidd neu Affricanaidd” yw’r ymateb yna:
+Pa un sy’n disgrifio orau eich grŵp ethnig neu eich cefndir Du, Du Cymreig, Du Prydeinig, Caribïaidd neu Affricanaidd?
+Dewisir un o’r canlynol:
+—Caribïaidd
+—Affricanaidd (os felly nodir y cefndir Affricanaidd)
+—Unrhyw gefndir Du, Du Prydeinig neu Garibïaidd arall (os felly nodir y cefndir Du, Du Prydeinig neu Garibïaidd arall)
+Os mai “Grŵp ethnig arall” yw’r ymateb yna:
+Pa un sy’n disgrifio orau eich grŵp ethnig neu eich cefndir arall?
+Dewisir un o’r canlynol:
+—Arabaidd
+—Unrhyw grŵp ethnig arall (os felly nodir y grŵp ethnig arall)
+Beth yw eich crefydd?
+Mae’r cwestiwn hwn yn wirfoddol
+Dewisir un o’r canlynol:
+—Dim crefydd
+—Cristnogaeth (pob enwad)
+—Bwdhaeth
+—Hindŵaeth
+—Iddewiaeth
+—Islam
+—Siciaeth
+—Unrhyw grefydd arall (os felly nodir y grefydd)
+Ydych chi’n gallu deall, siarad, darllen neu ysgrifennu Cymraeg?
+Dewisir pob un sy’n berthnasol:
+—Deall Cymraeg llafar
+—Siarad Cymraeg
+—Darllen Cymraeg
+—Ysgrifennu Cymraeg
+Neu
+—Dim un o’r rhain
+Beth yw eich prif iaith?
+Dewisir un o’r canlynol:
+—Cymraeg neu Saesneg
+—Arall, gan gynnwys Iaith Arwyddion Prydain (os felly nodir yr iaith arall)
+Os mai “Arall, gan gynnwys Iaith Arwyddion Prydain” yw’r ymateb yna:
+Pa mor dda ydych chi’n gallu siarad Saesneg?
+Dewisir un o’r canlynol:
+—Da iawn
+—Da
+—Ddim yn dda
+—Ddim o gwbl
+Pa basbortau sydd gennych chi?
+Dewisir pob un sy’n berthnasol:
+—Y Deyrnas Unedig
+—Iwerddon
+—Arall (os felly nodir y pasbortau sydd gan yr unigolyn)
+  Neu
+—Dim un
+Sut mae eich iechyd yn gyffredinol?
+Dewisir un o’r canlynol:
+—Da iawn
+—Da
+—Gweddol
+—Gwael
+—Gwael iawn
+Oes gennych chi gyflwr neu salwch corfforol neu feddyliol sydd wedi para neu sy’n debygol o bara 12 mis neu fwy?
+Dewisir un o’r canlynol:
+—Oes
+—Nac oes
+Os mai “Oes” yw’r ymateb yna:
+Ydy unrhyw gyflwr neu salwch sydd gennych chi’n lleihau eich gallu i wneud gweithgareddau pob dydd?
+Dewisir un o’r canlynol:
+—Ydy, yn fawr
+—Ydy, ychydig
+—Ddim o gwbl
+Ydych chi’n gofalu am unrhyw un, neu’n cynnig unrhyw help neu gefnogaeth i unrhyw un, oherwydd cyflwr neu salwch corfforol neu feddyliol hir dymor, neu broblemau sy’n gysylltiedig â henaint?
+Dewisir un o’r canlynol:
+—Nac ydw
+—Ydw, 9 awr neu lai yr wythnos
+—Ydw, 10 i 19 awr yr wythnos
+—Ydw, 20 i 34 awr yr wythnos
+—Ydw, 35 i 49 awr yr wythnos
+—Ydw, 50 awr neu fwy yr wythnos
+Mae’r holl gwestiynau isod yng ngholofn (1) ar gyfer ymatebwyr 16 oed a throsodd yn unig, heblaw am y cwestiynau sydd â (‡). Os yw’n berthnasol, gellir gofyn y cwestiynau hyn i unrhyw ymatebydd
+Pa un o’r canlynol sy’n disgrifio orau eich cyfeiriadedd rhywiol?
+Mae’r cwestiwn hwn yn wirfoddol
+Dewisir un o’r canlynol:
+—Heterorywiol/Strêt
+—Hoyw neu Lesbiaidd
+—Deurywiol/Bi
+—Cyfeiriadedd rhywiol arall (os felly nodir y cyfeiriadedd rhywiol)
+A yw’r rhywedd rydych chi’n uniaethu ag ef yr un peth â’ch rhyw a gofrestrwyd pan gawsoch chi eich geni?
+Mae’r cwestiwn hwn yn wirfoddol
+Dewisir un o’r canlynol:
+—Ydy
+—Nac ydy (os felly nodir yr hunaniaeth o ran rhywedd)
+Gwybodaeth am gymwysterau
+Ydych chi wedi cwblhau prentisiaeth?
+Dewisir un o’r canlynol:
+—Ydw (er enghraifft, crefft, uwch, sylfaen neu fodern)
+—Nac ydw
+Oes gennych chi gymhwyster ar lefel gradd neu uwch?
+Dewisir un o’r canlynol:
+—Oes (er enghraifft, gradd, gradd sylfaen, HND neu HNC, NVQ lefel 4 ac uwch, addysgu neu nyrsio)
+—Nac oes
+Oes gennych chi NVQ neu gymhwyster cyfatebol?
+Dewisir pob un sy’n berthnasol:
+—NVQ lefel 3 neu gymhwyster cyfatebol (er enghraifft BTEC Cenedlaethol, OND neu ONC, Crefft Uwch City and Guilds)
+—NVQ lefel 2 neu gymhwyster cyfatebol (er enghraifft, BTEC Cyffredinol, Crefft City and Guilds)
+—NVQ lefel 1 neu gymhwyster cyfatebol
+  Neu
+—Dim un o’r rhain
+Oes gennych chi Lefel AS (Safon UG), Lefel A (Safon Uwch) neu gymhwyster cyfatebol?
+Dewisir pob un sy’n berthnasol:
+—2 neu fwy o gymwysterau Lefel A (Safon Uwch) (gan gynnwys 4 Lefel AS (Safon UG) neu fwy)
+—1 Lefel A (Safon Uwch) (gan gynnwys 2-3 Lefel AS (Safon UG))
+—1 Lefel AS (Safon UG)
+—Bagloriaeth Cymru – Uwch
+  Neu
+—Dim un o’r rhain
+Oes gennych chi gymhwyster TGAU neu gymhwyster cyfatebol?
+Dewisir pob un sy’n berthnasol:
+—5 neu fwy o gymwysterau TGAU A* i C neu 9 i 4 (gan gynnwys 5 neu fwy Lefel O (marc llwyddo) neu TAUau graddau 1)
+—Unrhyw gymwysterau TGAU eraill (gan gynnwys unrhyw Lefel O neu TAU arall ar unrhyw radd)
+—Cwrs Sgiliau Sylfaenol (Sgiliau bywyd, llythrennedd, rhifedd ac iaith)
+—Bagloriaeth Cymru – Canolradd neu Genedlaethol
+—Bagloriaeth Cymru – Sylfaen
+  Neu
+—Dim un o’r rhain
+Os mai “Nac ydw”, “Nac oes” neu “Dim un o’r rhain” yw’r ymateb i’r holl gwestiynau uchod am gymwysterau, yna:
+Oes gennych chi unrhyw gymwysterau eraill?
+Dewisir pob un sy’n berthnasol:
+—Oes, o Gymru neu o Loegr
+—Oes, o unrhyw le y tu allan i Gymru a Lloegr
+  Neu
+—Dim cymwysterau
+Gwybodaeth am swyddi blaenorol a phresennol
+Ydych chi wedi gwasanaethu yn Lluoedd Arfog y Deyrnas Unedig yn y gorffennol (er enghraifft, y fyddin)?
+Dewisir pob un sy’n berthnasol:
+—Ydw, wedi gwasanaethu yn y Lluoedd Arfog Rheolaidd yn y gorffennol
+—Ydw, wedi gwasanaethu yn y Lluoedd Arfog Wrth Gefn yn y gorffennol
+  Neu
+—Nac ydw
+Yn ystod y 7 diwrnod diwethaf, oeddech chi’n gwneud unrhyw un o’r canlynol?
+Dewisir pob un sy’n berthnasol:
+—Gwaith cyflogedig
+—Gwaith hunangyflogedig neu ar eich liwt eich hun
+—I ffwrdd o’ch gwaith dros dro yn sâl, ar wyliau, neu wedi’ch cadw dros dro o’ch gwaith am na all eich cyflogwr gynnig gwaith ar hyn o bryd
+—Ar gyfnod mamolaeth neu dadolaeth
+—Unrhyw fath arall o waith am dâl
+  Neu
+—Dim un o’r rhain
+Os dewisir yr opsiwn ymateb “Dim un o’r rhain”, gofynnir y cwestiynau sydd â (⸸) yng ngholofn (1) (fel y bo’n briodol) ac ni ofynnir y cwestiynau sy’n gysylltiedig. Os dewisir unrhyw opsiwn neu opsiynau ymateb eraill, gofynnir y cwestiwn cysylltiedig ac ni ofynnir y cwestiynau sydd â (⸸).
+Yn eich prif swydd, beth yw eich statws cyflogaeth?
+Dewisir un o’r canlynol:
+—Gweithiwr cyflogedig
+—Hunangyflogedig neu’n gweithio ar eich liwt ei hun heb gyflogi gweithwyr eraill
+—Hunangyflogedig ac yn cyflogi gweithwyr eraill
+Beth yw enw’r sefydliad neu’r busnes rydych chi’n gweithio iddo?
+Dewisir un o’r canlynol:
+—Nodir enw’r sefydliad neu’r busnes
+Neu
+—Dim sefydliad neu’n gweithio i unigolyn preifat
+Beth yw teitl llawn eich swydd? Nodir teitl llawn y swydd
+Beth ydych chi’n ei wneud yn eich prif swydd? Disgrifir y swydd
+Beth yw prif weithgarwch eich sefydliad, busnes neu’ch gwaith ar eich liwt eich hun? Nodir y prif weithgarwch
+Ydych chi’n goruchwylio neu’n cadw golwg ar waith gweithwyr eraill o ddydd i ddydd?
+Dewisir un o’r canlynol:
+—Ydw
+—Nac ydw
+Yn eich prif swydd, sawl awr yr wythnos ydych chi’n gweithio fel arfer?
+Dewisir un o’r canlynol:
+—0 i 15 awr
+—16 i 30 awr
+—31 i 48 awr
+—49 awr neu fwy
+Sut ydych chi’n teithio i’r gwaith fel arfer?
+Dewisir un o’r canlynol:
+—Gweithio gartref neu o’r cartref yn bennaf
+—Trên tanddaearol, metro, tram neu reilffordd ysgafn
+—Trên
+—Bws neu fws mini
+—Tacsi
+—Beic modur, moped neu sgwter
+—Gyrru car neu fan
+—Teithiwr mewn car neu fan
+—Beic
+—Cerdded
+—Arall
+Ble ydych chi’n gweithio’n bennaf?
+Dewisir un o’r canlynol:
+—Mewn gweithle
+—Adrodd i ddepo
+—Gartref neu o’r cartref
+—Ar safle ar y môr
+—Dim man penodol
+Os mai “Mewn gweithle” neu “Adrodd i ddepo” yw’r ymateb yna:
+Ydych chi’n gweithio yn y Deyrnas Unedig yn bennaf?
+Dewisir un o’r canlynol:
+—Ydw (os felly nodir cyfeiriad a chod post y gweithle neu’r depo)
+—Nac ydw (os felly nodir y wlad)
+(⸸) Pa un o’r canlynol sy’n disgrifio’r hyn roeddech chi’n ei wneud yn ystod y 7 diwrnod diwethaf?
+Dewisir pob un sy’n berthnasol:
+—Wedi ymddeol (gan dderbyn pensiwn neu beidio)
+—Astudio
+—Gofalu am y cartref neu am y teulu
+—Anabl neu yn sâl am gyfnod hir
+—Arall
+(⸸) Yn ystod y 4 wythnos diwethaf, oeddech chi wrthi’n chwilio am unrhyw fath o waith am dâl?
+Dewisir un o’r canlynol:
+—Oeddwn
+—Nac oeddwn
+(⸸) Os mai “Oeddwn” yw’r ymateb yna:
+Ydych chi ar gael i ddechrau gweithio yn y pythefnos nesaf?
+Dewisir un o’r canlynol:
+—Ydw
+—Nac ydw
+(⸸) Os mai “Nac oeddwn” yw’r ymateb, ddim wrthi’n chwilio am waith am dâl, neu “Nac ydw”, ddim ar gael i ddechrau gweithio yn y pythefnos nesaf, yna:
+Yn ystod y 7 diwrnod diwethaf, oeddech chi’n aros i ddechrau swydd roeddech chi eisoes wedi’i derbyn?
+Dewisir un o’r canlynol:
+—Oeddwn
+—Nac oeddwn
+(⸸) Ydych chi erioed wedi gwneud unrhyw waith am dâl?
+Dewisir un o’r canlynol:
+—Ydw, yn ystod y 12 mis diwethaf
+—Ydw, ond nid yn ystod y 12 mis diwethaf
+—Nac ydw, erioed wedi gweithio (Os caiff ei ddewis, hepgorir y cwestiynau sy’n weddill yng ngholofn (1) sydd â (⸸).)
+(⸸) Yn eich prif swydd, beth oedd eich statws cyflogaeth?
+Dewisir un o’r canlynol:
+—Gweithiwr cyflogedig
+—Hunangyflogedig neu’n gweithio ar eich liwt ei hun heb gyflogi gweithwyr eraill
+—Hunangyflogedig ac yn cyflogi gweithwyr eraill
+(⸸) Beth oedd enw’r sefydliad neu’r busnes roeddech chi’n gweithio iddo?
+Dewisir un o’r canlynol:
+—Nodir enw’r sefydliad neu’r busnes
+  Neu
+— Dim sefydliad neu’n gweithio i unigolyn preifat
+(⸸) Beth oedd teitl llawn eich swydd? Nodir teitl y swydd
+(⸸) Beth oeddech chi’n ei wneud yn eich prif swydd? Disgrifir y swydd
+(⸸) Beth oedd prif weithgarwch eich sefydliad, busnes neu’ch gwaith ar eich liwt eich hun? Nodir y prif weithgarwch
+(⸸) Oeddech chi’n goruchwylio neu’n cadw golwg ar waith gweithwyr eraill o ddydd i ddydd?
+Dewisir un o’r canlynol:
+—Oeddwn
+—Nac oeddwn
+Gwybodaeth am ymwelwyr
+(‡) Beth yw dyddiad geni (enw’r ymwelydd)?
+Rhoddir yr ymateb ar y ffurf ganlynol:
+Diwrnod-Mis-Blwyddyn
+(‡) Beth yw rhyw (enw’r ymwelydd)?
+Dewisir un o’r canlynol:
+—Benyw
+—Gwryw
+(‡) Beth yw cyfeiriad arferol (enw’r ymwelydd)?
+Dewisir un o’r canlynol:
+—(lle mae mwy nag un ymwelydd mewn cartref, caiff yr ail, trydydd ymwelydd ac ati yr opsiwn ymateb ychwanegol o fabwysiadu’r opsiwn ymateb sydd wedi’i ddewis gan yr ymwelydd cyntaf)
+—Cyfeiriad yn y Deyrnas Unedig (os felly nodir y cyfeiriad a’r cod post)
+—Cyfeiriad y tu allan i’r Deyrnas Unedig (os felly nodir enw presennol y wlad)
+RHAN 2
+Holiadur (ar-lein) i Unigolion
+(1) Cwestiwn (2) Opsiynau Ymateb
+Pa fath o gartref yw (cyfeiriad y cyfrifiad)?
+Dewisir un o’r canlynol:
+—Sefydliad cymunedol (er enghraifft, neuadd breswyl i fyfyrwyr, ysgol breswyl, un o ganolfannau’r lluoedd arfog, ysbyty, cartref gofal, carchar) (Os dewisir yr opsiwn ymateb hwn, gofynnir y cwestiwn isod yng ngholofn (1) sydd â (⁑).)
+—Cartref preifat neu gartref teulu
+Ydych chi’n ateb y cwestiynau hyn drosoch chi eich hun neu ar ran rhywun arall?
+Dewisir un o’r canlynol:
+—Drosof fi fy hun
+—Ar ran rhywun arall
+Os mai “Drosof fi fy hun” yw’r ymateb yna:
+Beth yw eich enw?
+Rhoddir yr ymateb ar y ffurf ganlynol:
+Enw cyntaf
+Enw(au) canol
+Cyfenw
+Os mai “Ar ran rhywun arall” yw’r ymateb yna:
+Beth yw enw’r unigolyn?
+Rhoddir yr ymateb ar y ffurf ganlynol:
+Enw cyntaf
+Enw(au) canol
+Cyfenw
+(⁑) Pa un o’r rhain sy’n eich disgrifio orau yn y sefydliad hwn?
+Dewisir un o’r canlynol:
+—Preswylydd (er enghraifft, myfyriwr, aelod o’r lluoedd arfog, claf, carcharor)
+—Aelod o staff neu berchennog y sefydliad
+—Perthynas neu bartner i’r perchennog neu i aelod o’r staff
+—Aros dros dro (heb gyfeiriad arferol yn y Deyrnas Unedig)
+Mae’r cwestiynau dilynol yn yr holiadur hwn yn union debyg i’r cwestiynau yn Holiadur y Cartref (ar-lein) a nodir yn y tabl yn Rhan 1 o’r Atodlen, o a chan gynnwys y cwestiwn “Beth yw eich dyddiad geni?” hyd at ond heb gynnwys y cwestiynau sydd â (‡).
+Mae’r opsiynau ymateb dilynol yn yr holiadur hwn yn union debyg i’r opsiynau ymateb yn Holiadur y Cartref (ar-lein) a nodir yn y tabl yn Rhan 1 o’r Atodlen, o a chan gynnwys yr opsiwn ymateb i’r cwestiwn “Beth yw eich dyddiad geni?” hyd at ond heb gynnwys yr opsiynau ymateb i’r cwestiynau sydd â (‡).
+Nid yw’r cyfarwyddyd cyfeirio sy’n dilyn yr ail opsiwn ymateb i’r cwestiwn “Yn ystod y tymor, ble ydych chi’n byw fel arfer?”, na’r cyfarwyddyd cyfeirio sy’n dilyn y cwestiwn “Ydy’r cyfeiriad hwn yn y Deyrnas Unedig?” (y mae’r ddau ohonynt yn cyfeirio ymatebwyr i’r cwestiynau sydd â (‡)) yn y tabl yn Rhan 1 o’r Atodlen hon yn gymwys yn y tabl hwn. Yn hytrach, ym mhob achos, y cyfarwyddyd cyfeirio yw: “Os caiff ei ddewis/Ar ôl y cwestiwn hwn (fel y bo’n briodol), ni ofynnir unrhyw gwestiynau pellach.”
+RHAN 3
+Holiadur (ar-lein) i Sefydliadau Cymunedol
+(1) Cwestiwn (2) Opsiynau Ymateb
+Pa fath o sefydliad yw hwn?
+Dewisir un o’r canlynol:
+—Meddygol neu ofal
+—Addysg
+—Lluoedd arfog
+—Sefydliad cadw
+—Llety dros dro neu wrth deithio
+—Sefydliad crefyddol
+—Llety i staff neu weithwyr yn unig
+—Sefydliad arall
+Os mai “Meddygol neu ofal” yw’r ymateb yna:
+Pa fath o sefydliad meddygol neu ofal yw (cyfeiriad y cyfrifiad)?
+Dewisir un o’r canlynol:
+—Cartref gofal heb nyrsio
+—Cartref gofal â nyrsio
+—Cartref plant (gan gynnwys unedau diogel)
+—Ysbyty cyffredinol
+—Ysbyty neu uned iechyd meddwl (gan gynnwys unedau diogel)
+—Ysbyty arall
+—Math arall o sefydliad meddygol neu ofal
+Os mai “Addysg” yw’r ymateb yna:
+Pa fath o sefydliad addysg yw (cyfeiriad y cyfrifiad)?
+Dewisir un o’r canlynol:
+—Ysgol
+—Prifysgol (er enghraifft, neuadd breswyl)
+—Math arall o sefydliad addysg
+Os mai “Sefydliad cadw” yw’r ymateb yna:
+Pa fath o sefydliad cadw yw (cyfeiriad y cyfrifiad)?
+Dewisir un o’r canlynol:
+—Sefydliad gwasanaeth carchardai (gan gynnwys sefydliadau troseddwyr ifanc)
+—Safle a gymeradwywyd (hostel prawf neu fechnïaeth)
+—Canolfan gadw
+—Math arall o sefydliad cadw
+Os mai “Llety dros dro neu wrth deithio” yw’r ymateb yna:
+Pa fath o sefydliad llety dros dro neu wrth deithio yw (cyfeiriad y cyfrifiad)?
+Dewisir un o’r canlynol:
+—Gwesty, tŷ llety, gwely a brecwast, hostel ieuenctid (gan gynnwys tafarndai)
+—Llety gwyliau (er enghraifft, parc gwyliau)
+—Hostel neu loches dros dro i bobl ddigartref
+—Math arall o lety dros dro neu wrth deithio
+Pwy sy’n gyfrifol am reoli’r sefydliad hwn?
+Dewisir un o’r canlynol:
+—Y Gwasanaeth Iechyd Gwladol
+—Awdurdod lleol
+—Un o adrannau neu asiantaethau’r llywodraeth
+—Landlord cymdeithasol cofrestredig neu gymdeithas dai
+—Elusen neu gorff gwirfoddol
+—Cwmni neu berchennog preifat
+—Sefydliad addysg uwch neu addysg bellach
+—Arall
+Oes unrhyw un o’r canlynol yn byw yn y sefydliad hwn ar hyn o bryd?
+Dewisir pob un sy’n berthnasol:
+—Unrhyw un sydd eisoes wedi treulio, neu sy’n disgwyl treulio, 6 mis neu fwy yn y sefydliad hwn, hyd yn oed os bydd i ffwrdd ar 21 Mawrth 2021
+—Preswylwyr y Deyrnas Unedig sy’n aros yn y sefydliad hwn ar 21 Mawrth 2021 ac sydd heb gyfeiriad arferol arall yn y Deyrnas Unedig
+—Pobl sy’n byw y tu allan i’r Deyrnas Unedig fel arfer, sydd wedi aros, neu sy’n bwriadu aros, yn y Deyrnas Unedig am 3 mis neu fwy ac sydd heb gyfeiriad arall yn y Deyrnas Unedig
+—Myfyrwyr neu blant ysgol sy’n aros yn y sefydliad hwn yn ystod y tymor
+—Chi’ch hun, eich teulu, staff ac unrhyw un arall sy’n byw yn y sefydliad hwn
+  Neu
+—Dim un o’r rhain
+Faint o bobl sy’n byw yn y sefydliad hwn ar hyn o bryd?
+Dewisir un o’r canlynol:
+—Nodir nifer y preswylwyr
+—Nid oes neb yn byw yn y sefydliad hwn (Bydd yr opsiwn ymateb ychwanegol hwn ond yn ymddangos os mai’r opsiwn ymateb a ddewiswyd ar gyfer y cwestiwn blaenorol yng ngholofn (1) oedd “Dim un o’r rhain”.)
+Oes unrhyw un o’r ymwelwyr canlynol yn aros dros nos yn y sefydliad hwn ar 21 Mawrth 2021?
+Dewisir pob un sy’n berthnasol:
+—Unrhyw un â chyfeiriad arferol arall yn y Deyrnas Unedig sydd wedi treulio, neu sy’n disgwyl treulio, llai na 6 mis yn y sefydliad hwn
+—Unrhyw un o’r tu allan i’r Deyrnas Unedig sy’n bwriadu aros yn y Deyrnas Unedig am lai na 3 mis
+  Neu
+—Dim un o’r rhain
+Faint o ymwelwyr sy’n aros dros nos yn y sefydliad hwn ar 21 Mawrth 2021?
+Dewisir un o’r canlynol:
+—Nodir nifer yr ymwelwyr
+—Nid oes unrhyw ymwelwyr yn aros dros nos (Bydd yr opsiwn ymateb ychwanegol hwn ond yn ymddangos os mai’r opsiwn ymateb a ddewiswyd ar gyfer y cwestiwn blaenorol yng ngholofn (1) oedd “Dim un o’r rhain”.)
+RHAN 4
+Holiadur (papur) y Cartref
+RHAN 5
+Holiadur (papur) y Cartref (Parhad)
+RHAN 6
+Holiadur (papur) i Unigolion
+RHAN 7
+Holiadur (papur) i Sefydliadau Cymunedol
+RHAN 8
+Swyddogaethau a Nodweddion Holiaduron Ar-lein
+1.  Bydd holiaduron ar-lein a gwefan yr Awdurdod sy’n lletya holiaduron ar-lein yn cynnwys gwybodaeth sy’n ymwneud â’r cyfrifiad ac o ran llenwi a chyflwyno holiaduron ar-lein, gan gynnwys gwybodaeth am y canlynol—
+(a)
+dechrau holiadur ar-lein,
+(b)
+y personau y mae rhaid iddynt lenwi ffurflen y cyfrifiad,
+(c)
+aelodau o’r aelwyd yn ateb y rhannau o holiadur sy’n berthnasol iddynt hwy,
+(d)
+pryd y dylid llenwi ffurflen y cyfrifiad,
+(e)
+sut y bydd yr Awdurdod yn defnyddio ac yn diogelu gwybodaeth sy’n ymwneud â pherson rhagnodedig,
+(f)
+ble a sut y gellir dod o hyd i gymorth er mwyn llenwi holiadur ar-lein, ac
+(g)
+natur fandadol y cyfrifiad yn ei gyfanrwydd, ond natur wirfoddol cwestiynau penodol o fewn y cyfrifiad.
+2.  Bydd holiaduron ar-lein a gwefan yr Awdurdod sy’n lletya holiaduron ar-lein yn cynnwys swyddogaethau a nodweddion er mwyn galluogi—
+(a)
+person rhagnodedig i gael mynediad i’r holiadur ar-lein perthnasol drwy fewnbynnu cod mynediad unigryw ar-lein,
+(b)
+i god mynediad unigryw gysylltu’n awtomatig â chyfeiriad aelwyd neu sefydliad cymunedol,
+(c)
+i gyfeiriad person rhagnodedig gael ei arddangos yn awtomatig pan fo’n berthnasol mewn rhannau gwahanol o holiadur ar-lein,
+(d)
+pan fo holiadur ar-lein yn cael ei lenwi gan berson ar ran person arall yn unol â’r Rholiadau hyn, i unrhyw eiriau, llythrennau neu atalnodi gael eu haddasu’n awtomatig i sicrhau bod y cyfarwyddiadau neu’r cwestiynau yn gwneud synnwyr yn ramadegol, gan gynnwys rhoi enw’r person y mae’r holiadur ar-lein yn cael ei lenwi ar ei ran yn lle’r geiriau ‘chi’ ac ‘eich’ yn awtomatig mewn unrhyw gwestiwn,
+(e)
+i ymatebion ynghylch y berthynas rhwng un person a’r personau eraill mewn aelwyd o bump neu ragor o bersonau gael eu defnyddio er mwyn casglu perthynas y personau eraill hynny â’i gilydd, gan gynnwys, at y diben hwn, y swyddogaeth i ofyn cwestiwn yn y canol, sef “A yw unrhyw un neu ragor o’r bobl hyn yn perthyn i chi?” neu amrywiadau trydydd person ar y cwestiwn hwnnw,
+(f)
+i destun gael ei arddangos sy’n cynnwys cyfarwyddiadau neu wybodaeth sy’n ymwneud â llenwi cwestiynau penodol, neu’n ymwneud yn gyffredinol â llenwi’r holiadur ar-lein,
+(g)
+i wybodaeth gael ei arddangos o ran pam y mae cwestiwn penodol yn bwysig,
+(h)
+i gwestiynau gael eu hateb mewn trefn wahanol,
+(i)
+i ystod o opsiynau ymateb rhagbenodedig gael eu cynnig mewn perthynas â chwestiwn,
+(j)
+i ymatebion sy’n cael eu teipio gael cymorth drwy destun rhagfynegol (pan fo’n briodol),
+(k)
+i lwybr gael ei bennu drwy’r holiadur ar-lein drwy ddefnyddio cwestiynau i bennu’r llwybr hwnnw,
+(l)
+i arwydd gael ei roi nad yw cwestiwn sy’n pennu’r llwybr wedi cael ei ateb,
+(m)
+y gofyniad bod cwestiwn sy’n pennu’r llwybr yn cael ei ateb cyn y caniateir i gwestiynau pellach gael eu hateb,
+(n)
+atal atebion sy’n anghyson â’i gilydd rhag cael eu dewis mewn ymateb i gwestiwn,
+(o)
+i awgrym gael ei arddangos pan fo’n briodol i annog adolygu’r ymateb,
+(p)
+i ymateb gael ei ddiwygio cyn iddo gael ei gyflwyno, a
+(q)
+i holiadur ar-lein sydd wedi ei lenwi’n rhannol gael ei arbed a’i barhau yn nes ymlaen.Rheoliad 20(1)
+ATODLEN 3
+Cynnwys y datganiad statudol
+Byddaf fi, [A.B. etc], sef person a benodwyd at ddiben cynnal Cyfrifiad 2021 (“y cyfrifiad”), yn cyflawni’r dyletswyddau a neilltuir imi o dan Ddeddf y Cyfrifiad 1920 a Rheoliadau’r Cyfrifiad (Cymru) 2020 (“dyletswyddau yn y cyfrifiad”) yn llawn ac yn onest.
+Byddaf yn cyflawni fy nyletswyddau yn y cyfrifiad gan gydymffurfio â darpariaethau adran 39 o Ddeddf Ystadegau a’r Gwasanaeth Cofrestru 2007, y Rheoliad Cyffredinol ar Ddiogelu Data (GDPR), Deddf Diogelu Data 2018 a phob rhwymedigaeth gyfreithiol berthnasol arall. Yr wyf yn deall y gall methu â chydymffurfio â’r rhwymedigaethau hynny arwain at euogfarn droseddol a dirwy neu garchariad.
+Ac eithrio wrth gyflawni fy nyletswyddau yn y cyfrifiad, ni fyddaf yn datgelu nac yn mynegi, ar unrhyw bryd, unrhyw fater y caf wybod amdano ynglŷn ag unrhyw berson, teulu neu aelwyd.
+Dim ond i gyflawni fy nyletswyddau yn y cyfrifiad y byddaf yn defnyddio unrhyw ddeunyddiau mynediad a roddir imi, gan gynnwys unrhyw bàs diogelwch, cyfryngau electronig, deunydd adnabod personol neu gyfrineiriau. Ni fyddaf yn rhoi benthyg, yn trosglwyddo nac yn datgelu fel arall ddeunyddiau o’r fath i unrhyw berson arall, oni bai fy mod yn cael fy nghyfarwyddo’n benodol i wneud hynny gan y Bwrdd Ystadegau.
+Byddaf yn rhoi gwybod am unrhyw bryderon sydd gennyf ynghylch cyfrinachedd gwybodaeth bersonol mewn cysylltiad â’m dyletswyddau yn y cyfrifiad, neu o ran unrhyw faterion eraill sy’n ymwneud â’r cyfrifiad pa un a ydynt yn deillio o’m gweithredoedd i neu weithredoedd pobl eraill, yn uniongyrchol i’r Bwrdd Ystadegau.Rheoliad 20(3) a (4)
+ATODLEN 4
+Ffurflen ymgymeriad
+Yr wyf fi, [A.B. etc], sef person a benodwyd at ddiben cynnal Cyfrifiad 2021 (“y cyfrifiad”), yn ymrwymo y byddaf yn cyflawni’r dyletswyddau a neilltuir imi o dan Ddeddf y Cyfrifiad 1920 a Rheoliadau’r Cyfrifiad (Cymru) 2020 (“dyletswyddau yn y cyfrifiad”) yn llawn ac yn onest.
+Byddaf yn cyflawni fy nyletswyddau yn y cyfrifiad gan gydymffurfio â darpariaethau adran 39 o Ddeddf Ystadegau a’r Gwasanaeth Cofrestru 2007, y Rheoliad Cyffredinol ar Ddiogelu Data (GDPR), Deddf Diogelu Data 2018 a phob rhwymedigaeth gyfreithiol berthnasol arall. Yr wyf yn deall y gall methu â chydymffurfio â’r rhwymedigaethau hynny arwain at euogfarn droseddol a dirwy neu garchariad.
+Ac eithrio wrth gyflawni fy nyletswyddau yn y cyfrifiad, ni fyddaf yn datgelu nac yn mynegi, ar unrhyw bryd, unrhyw fater y caf wybod amdano ynglŷn ag unrhyw berson, teulu neu aelwyd.
+Dim ond i gyflawni fy nyletswyddau yn y cyfrifiad y byddaf yn defnyddio unrhyw ddeunyddiau mynediad a roddir imi, gan gynnwys unrhyw bàs diogelwch, cyfryngau electronig, deunydd adnabod personol neu gyfrineiriau. Ni fyddaf yn rhoi benthyg, yn trosglwyddo nac yn datgelu fel arall ddeunyddiau o’r fath i unrhyw berson arall, oni bai fy mod yn cael fy nghyfarwyddo’n benodol i wneud hynny gan y Bwrdd Ystadegau.
+Byddaf yn rhoi gwybod am unrhyw bryderon sydd gennyf ynghylch cyfrinachedd gwybodaeth bersonol mewn cysylltiad â’m dyletswyddau yn y cyfrifiad, neu o ran unrhyw faterion eraill sy’n ymwneud â’r cyfrifiad pa un a ydynt yn deillio o’m gweithredoedd i neu weithredoedd pobl eraill, yn uniongyrchol i’r Bwrdd Ystadegau.
+  NODYN ESBONIADOL
+(Nid yw’r nodyn hwn yn rhan o’r Rheoliadau)
+Mae’r Rheoliadau hyn yn nodi’r trefniadau manwl sy’n angenrheidiol er mwyn cynnal y cyfrifiad yng Nghymru y cyfarwyddwyd ei gynnal ar 21 Mawrth 2021 gan Orchymyn y Cyfrifiad (Cymru a Lloegr) 2020 (O.S. 2020/532) (“Gorchymyn y Cyfrifiad”). Maent hefyd yn dirymu Rheoliadau’r Cyfrifiad (Cymru) 2010 (O.S. 2010/1361 (Cy. 116)).
+Mae rheoliad 3 yn darparu diffiniadau ar gyfer dehongli’r Rheoliadau hyn ynghyd â byrfoddau i ddehongli’r holiaduron a ddefnyddir yn y cyfrifiad. Mae rheoliad 3 hefyd yn darparu nad yw person rhagnodedig yn torri’r Rheoliadau hyn drwy ddychwelyd fersiwn Gymraeg a fersiwn Saesneg o holiadur gyda’r ddwy fersiwn wedi eu llenwi’n rhannol, ar yr amod bod yr wybodaeth a ddarperir yn yr holiaduron yn gyfystyr â ffurflen gyfan.
+Mae rheoliad 4 yn darparu ar gyfer rhannu Cymru yn ardaloedd cyfrifiad, ardaloedd cydgysylltu cyfrifiad, ardaloedd cydgysylltu sefydliadau cymunedol a dosbarthau cyfrifo. Mae hefyd yn darparu ar gyfer penodi personau i gyflawni’r dyletswyddau a neilltuir iddynt o dan y Rheoliadau hyn.
+Mae rheoliad 5 yn cyflwyno’r gofynion ar gyfer yr holiaduron i’w defnyddio yn ystod y cyfrifiad. Rhaid bod gan yr holiaduron ar-lein y cwestiynau a’r opsiynau ymateb a’r swyddogaethau a’r nodweddion a nodir yn Rhannau 1, 2, 3 ac 8 o Atodlen 2. Rhaid i’r holiaduron papur fod ar y ffurf a ddangosir yn Rhannau 4, 5, 6 a 7 o Atodlen 2.
+Mae rheoliad 6 yn darparu y bydd person y mae Gorchymyn y Cyfrifiad yn ei gwneud yn ofynnol iddo lenwi ffurflen yn y cyfrifiad yn cyflawni ei gyfrifoldeb pan fydd yr holiadur papur neu’r holiadur ar-lein perthnasol a bennir yn Atodlen 1 wedi dod i law’r Bwrdd Ystadegau (“yr Awdurdod”). Mae rheoliad 6 hefyd yn darparu y caiff deiliad aelwyd neu gyd-ddeiliad aelwyd, neu berson a chanddo ofal am y tro dros sefydliad cymunedol, gyflwyno ffurflen bapur mewn perthynas â’r aelwyd neu’r sefydliad cymunedol a ffurflenni ar-lein mewn perthynas â phersonau unigol ar yr aelwyd honno neu yn y sefydliad cymunedol hwnnw, neu yn y drefn arall.
+Mae rheoliad 7 yn ei gwneud yn ofynnol i’r Awdurdod ddarparu systemau electronig digonol (system olrhain holiaduron ac offeryn rheoli gwaith maes) a dyfeisiau electronig digonol (dyfeisiau electronig y cyfrifiad) i gefnogi cynnal y cyfrifiad.
+Mae rheoliad 8 yn nodi’r gofynion ar gyfer cynnwys y mathau gwahanol o becynnau cyfrifiad.
+Mae rheoliadau 9 i 15 yn darparu trefniadau manwl ar gyfer darparu’r holiaduron dwyieithog, eu danfon, eu llenwi a’u dychwelyd. Bydd fersiynau Cymraeg a Saesneg ar gael o bob holiadur. Bydd mynediad i bob categori o holiadur ar-lein drwy ddefnyddio cod mynediad unigryw, er enghraifft, bydd un cod mynediad unigryw yn rhoi mynediad i fersiynau Cymraeg a Saesneg Holiaduron y Cartref.
+Mae rheoliad 16 yn darparu i gamau gweithredu dilynol gael eu cymryd os na fydd holiadur a anfonwyd neu a ddanfonwyd yn unol â’r Rheoliadau hyn yn cael ei ddychwelyd, neu os bydd yn cael ei ddychwelyd yn anghyflawn.
+Mae rheoliad 17 yn gwneud darpariaeth i wybodaeth gael ei rhoi gan berson rhagnodedig i berson sy’n llenwi ffurflen ar ei ran, neu i berson sydd wedi ei benodi i gyflawni dyletswyddau o dan y Rheoliadau hyn. Mae hefyd yn gwneud darpariaeth i atal gwybodaeth a geir at ddiben y cyfrifiad rhag cael ei defnyddio, ei chyhoeddi a’i chyfathrebu heb awdurdod.
+Mae rheoliadau 18 a 19 yn cynnwys darpariaethau sy’n ymwneud â chadw holiaduron a dyfeisiau electronig y cyfrifiad yn ddiogel yn ogystal â storio a diogelu gwybodaeth bersonol sy’n ymwneud â’r cyfrifiad.
+Mae rheoliad 20 yn darparu ar gyfer rhoi naill ai datganiad statudol neu ymgymeriad ynghylch cyfrinachedd gwybodaeth a geir o ganlyniad i’r cyfrifiad gan bersonau a fydd yn cael mynediad at yr wybodaeth honno.
+Ystyriwyd Cod Ymarfer Gweinidogion Cymru ar gynnal Asesiadau Effaith Rheoleiddiol mewn perthynas â’r Rheoliadau hyn. O ganlyniad, lluniwyd asesiad effaith rheoleiddiol o’r costau a’r manteision sy’n debygol o ddeillio o gydymffurfio â’r Rheoliadau hyn. Gellir cael copi oddi wrth: yr Is-adran Cyllid Strategol Llywodraeth Leol, Llywodraeth Cymru, Parc Cathays, Caerdydd, CF10 3NQ.

@@ -1,0 +1,260 @@
+STATUTORY INSTRUMENTS
+2023 No. 689
+AGRICULTURE, ENGLAND
+The Feed Additives (Form of Provisional Authorisations) (Cobalt(II) Compounds) (England) Regulations 2023
+Made
+21st June 2023
+Laid before Parliament
+22nd June 2023
+Coming into force
+14th July 2023
+The Secretary of State makes these Regulations in exercise of the powers conferred by Articles 15 and 18A(3) of Regulation (EC) No. 1831/2003 of the European Parliament and of the Council on additives for use in animal nutrition(1).
+There has been consultation as required by Article 9 of Regulation (EC) No. 178/2002 of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety(2).
+(1)
+EUR 2003/1831, amended by S.I. 2019/654, 2022/377 and 1351. See Article 2 for the definitions of ‘appropriate authority’ and ‘prescribe’.
+(2)
+EUR 2002/178, amended by S.I. 2019/641 and 2022/1351.Citation, commencement, extent, and application
+1.—(1) These Regulations may be cited as the Feed Additives (Form of Provisional Authorisations) (Cobalt(II) Compounds) (England) Regulations 2023 and come into force on 14th July 2023.
+(2) These Regulations extend to England and Wales but apply in relation to England only.Interpretation
+2.—(1) In these Regulations, “Regulation (EC) 1831/2003” means Regulation (EC) No. 1831/2003 of the European Parliament and of the Council on additives for use in animal nutrition.
+(2) Any expression used both in these Regulations and in Regulation (EC) 1831/2003 or Regulation (EC) No. 767/2009 of the European Parliament and of the Council on the placing on the market and use of feed, etc(1) has the same meaning as it has in those Regulations.
+(1)
+EUR 2009/767, amended by S.I. 2019/654 and 2022/1351.Form of provisional authorisations
+3.  Schedules 1 to 4, which prescribe the forms of the provisional authorisations of cobalt(II) acetate tetrahydrate (identification number 3b301), cobalt(II) carbonate (identification number 3b302), cobalt(II) carbonate hydroxide (2:3) monohydrate (identification number 3b303) and cobalt(II) sulphate heptahydrate (identification number 3b305) respectively, pursuant to Article 15 of Regulation (EC) 1831/2003, have effect(1).
+(1)
+The provisional authorisation of these feed additives is an administrative decision taken by the Secretary of State. The decision was made at the time that the Secretary of State made these Regulations.Neil O’Brien
+Parliamentary Under Secretary of State,
+Department of Health and Social Care
+21st June 2023Regulation 3
+SCHEDULE 1
+Form of provisional authorisation of cobalt(II) acetate tetrahydrate (identification number 3b301) as a feed additive for ruminants with a functional rumen, equidae, lagomorphs, rodents, herbivore reptiles and zoo mammals
+The substance cobalt(II) acetate tetrahydrate, belonging to the additive category ‘nutritional additives’ and to the functional group ‘compounds of trace elements’, is provisionally authorised as an additive in animal nutrition in accordance with the specifications in the following table.
+Additive Cobalt(II) acetate tetrahydrate
+(1)
+There is no requirement to include the name of the holder of this authorisation as this authorisation does not fall within the scope of Article 9(5) of Regulation (EC) 1831/2003.
+(2)
+This is a reference to the CAS Registry Number® assigned to this substance by the Chemical Abstracts Service https://cas.org/cas-data/cas-registry.
+(3)
+Details of the analytical methods are set out in the document referenced “JRC.D.5/FSQ/CvH/PRO/ag/Ares(2012)214390” and last updated on 6th June 2016. This document is available at the following address: https://joint-research-centre.ec.europa.eu/publications/fad-cobalt-group_en.
+(4)
+“Monograph 20301: 2.3.1. Identification reactions of ions and functional groups”. European Pharmacopoeia, European Directorate for the Quality of Medicines and Healthcare 11th edition. Published July 2022 (ISBN 978 92 871 9105 2). Available from European Pharmacopoeia Online https://pheur.edqm.eu/home.
+(5)
+BS EN 15510:2017 “Animal feeding stuffs. Methods of sampling and analysis. Determination of calcium, sodium, phosphorus, magnesium, potassium, iron, zinc, copper, manganese, cobalt, molybdenum and lead by ICP-AES”. Published by the British Standards Institution on 31st August 2017 (ISBN 978 0 580 94541 0). Available from the British Standards Institution https://knowledge.bsigroup.com.
+(6)
+BS EN 15621:2017 “Animal feeding stuffs: Methods of sampling and analysis. Determination of calcium, sodium, phosphorus, magnesium, potassium, sulphur, iron, zinc, copper, manganese and cobalt after pressure digestion by ICP-AES”. Published by the British Standards Institution on 31st August 2017 (ISBN 978 0 580 94543 4). Available from the British Standards Institution https://knowledge.bsigroup.com.
+(7)
+BS ISO 13320:2020 “Particle size analysis. Laser diffraction methods”. Published by the British Standards Institution on 31st July 2020 (ISBN 978 0 580 92329 6). Available from the British Standards Institution https://knowledge.bsigroup.com.
+Identification number of the additive 3b301
+Authorisation holder (1)
+Additive category Nutritional additives
+Functional group Compounds of trace elements
+Additive composition
+Cobalt(II) acetate tetrahydrate
+Crystals or granules containing a minimum content of 23% cobalt
+Particles < 50 μm: below 1%
+Characterisation of the active substance(s)
+Chemical formula: Co(CH3COO)2 × 4H2O
+CAS number: 6147-53-1(2)
+Analytical methods (3)
+For the identification of acetate in the additive:
+European Pharmacopoeia monograph 20301(4)
+For the crystallographic characterisation of the additive:
+X-Ray diffraction
+For the determination of total cobalt in the additive, premixtures, feed materials and compound feed:
+Inductively coupled plasma optical (atomic) emission spectrometry (ICP-AES) in accordance with BS EN 15510:2017(5); or
+Inductively coupled plasma optical (atomic) emission spectrometry (ICP-AES) after pressure digestion in accordance with BS EN 15621:2017(6)
+For the determination of particle size distribution:
+Particle size analysis, laser diffraction methods in accordance with BS ISO 13320:2020(7)
+Species or category of animal Ruminants with a functional rumen, equidae, lagomorphs, rodents, herbivore reptiles and zoo mammals
+Maximum age Not applicable
+Element (Co) in mg/kg of complete feed with a moisture content of 12% Minimum content No minimum
+Maximum content 1 (total)
+Other provisions
+1)
+The additive must be incorporated into compound feed in the form of a premixture
+2)
+The following must be stated on the labelling of the additive and premixture:
+The element (cobalt) content
+“It is recommended to limit the supplementation with cobalt to 0.3 mg/kg in complete feed. In this context, the risk for cobalt deficiency due to local conditions and the specific composition of the diet should be taken into account”
+3)
+The following must be stated in the instructions for use of the compound feed:
+“Protective measures to avoid exposure with cobalt by inhalation or by dermal route should be taken”
+Start of provisional authorisation period 15 July 2023
+End of provisional authorisation period 14 July 2028Regulation 3
+SCHEDULE 2
+Form of provisional authorisation of cobalt(II) carbonate (identification number 3b302) as a feed additive for ruminants with a functional rumen, equidae, lagomorphs, rodents, herbivore reptiles and zoo mammals
+The substance cobalt(II) carbonate, belonging to the additive category ‘nutritional additives’ and to the functional group ‘compounds of trace elements’, is provisionally authorised as an additive in animal nutrition in accordance with the specifications in the following table.
+Additive Cobalt(II) carbonate
+(1)
+There is no requirement to include the name of the holder of this authorisation as this authorisation does not fall within the scope of Article 9(5) of Regulation (EC) 1831/2003.
+(2)
+This is a reference to the CAS Registry Number® assigned to this substance by the Chemical Abstracts Service https://cas.org/cas-data/cas-registry.
+(3)
+Details of the analytical methods are set out in the document referenced “JRC.D.5/FSQ/CvH/PRO/ag/Ares(2012)214390” and last updated on 6th June 2016. This document is available at the following address: https://joint-research-centre.ec.europa.eu/publications/fad-cobalt-group_en.
+(4)
+“Monograph 20301: 2.3.1. Identification reactions of ions and functional groups”. European Pharmacopoeia, European Directorate for the Quality of Medicines and Healthcare 11th edition. Published July 2022 (ISBN 978 92 871 9105 2). Available from European Pharmacopoeia Online https://pheur.edqm.eu/home.
+(5)
+BS EN 15510:2017 “Animal feeding stuffs. Methods of sampling and analysis. Determination of calcium, sodium, phosphorus, magnesium, potassium, iron, zinc, copper, manganese, cobalt, molybdenum and lead by ICP-AES”. Published by the British Standards Institution on 31st August 2017 (ISBN 978 0 580 94541 0). Available from the British Standards Institution https://knowledge.bsigroup.com.
+(6)
+BS EN 15621:2017 “Animal feeding stuffs: Methods of sampling and analysis. Determination of calcium, sodium, phosphorus, magnesium, potassium, sulphur, iron, zinc, copper, manganese and cobalt after pressure digestion by ICP-AES”. Published by the British Standards Institution on 31st August 2017 (ISBN 978 0 580 94543 4). Available from the British Standards Institution https://knowledge.bsigroup.com.
+(7)
+BS ISO 13320:2020 “Particle size analysis. Laser diffraction methods”. Published by the British Standards Institution on 31st July 2020 (ISBN 978 0 580 92329 6). Available from the British Standards Institution https://knowledge.bsigroup.com.
+Identification number of the additive 3b302
+Authorisation holder (1)
+Additive category Nutritional additives
+Functional group Compounds of trace elements
+Additive composition
+Cobalt(II) carbonate
+Powder containing a minimum content of 46% cobalt
+Cobalt carbonate: minimum 75%
+Cobalt hydroxide: 3% - 15%
+Water: maximum 6%
+Particles < 11 μm: below 90%
+Characterisation of the active substance(s)
+Chemical formula: CoCO3
+CAS number: 513-79-1(2)
+Analytical methods (3)
+For the identification of carbonate in the additive:
+European Pharmacopoeia monograph 20301(4)
+For the crystallographic characterisation of the additive:
+X-Ray diffraction
+For the determination of total cobalt in the additive, premixtures, feed materials and compound feed:
+Inductively coupled plasma optical (atomic) emission spectrometry (ICP-AES) in accordance with BS EN 15510: 2017(5); or
+Inductively coupled plasma optical (atomic) emission spectrometry (ICP-AES) after pressure digestion in accordance with BS EN 15621:2017(6)
+For the determination of particle size distribution:
+Particle size analysis, laser diffraction methods in accordance with BS ISO 13320:2020(7)
+Species or category of animal Ruminants with a functional rumen, equidae, lagomorphs, rodents, herbivore reptiles and zoo mammals
+Maximum age Not applicable
+Element (Co) in mg/kg of complete feed with a moisture content of 12% Minimum content No minimum
+Maximum content 1 (total)
+Other provisions
+1)
+The additive must be incorporated into compound feed in the form of a premixture. This compound feed must be placed on the market in a non-powdered form
+2)
+The following must be stated on the labelling of the additive and premixture:
+The element (cobalt) content
+“It is recommended to limit the supplementation with cobalt to 0.3 mg/kg in complete feed. In this context, the risk for cobalt deficiency due to local conditions and the specific composition of the diet should be taken into account”
+3)
+The following must be stated in the instructions for use of the compound feed:
+“Protective measures to avoid exposure with cobalt by inhalation or by dermal route should be taken”
+Start of provisional authorisation period 15 July 2023
+End of provisional authorisation period 14 July 2028Regulation 3
+SCHEDULE 3
+Form of provisional authorisation of cobalt(II) carbonate hydroxide (2:3) monohydrate (identification number 3b303) as a feed additive for ruminants with a functional rumen, equidae, lagomorphs, rodents, herbivore reptiles and zoo mammals
+The substance cobalt(II) carbonate hydroxide (2:3) monohydrate, belonging to the additive category ‘nutritional additives’ and to the functional group ‘compounds of trace elements’, is provisionally authorised as an additive in animal nutrition in accordance with the specifications in the following table.
+Additive Cobalt(II) carbonate hydroxide (2:3) monohydrate
+(1)
+There is no requirement to include the name of the holder of this authorisation as this authorisation does not fall within the scope of Article 9(5) of Regulation (EC) 1831/2003.
+(2)
+This is a reference to the CAS Registry Number® assigned to this substance by the Chemical Abstracts Service https://cas.org/cas-data/cas-registry.
+(3)
+Details of the analytical methods are set out in the document referenced “JRC.D.5/FSQ/CvH/PRO/ag/Ares(2012)214390” and last updated on 6th June 2016. This document is available at the following address: https://joint-research-centre.ec.europa.eu/publications/fad-cobalt-group_en.
+(4)
+“Monograph 20301: 2.3.1. Identification reactions of ions and functional groups”. European Pharmacopoeia, European Directorate for the Quality of Medicines and Healthcare 11th edition. Published July 2022 (ISBN 978 92 871 9105 2). Available from European Pharmacopoeia Online https://pheur.edqm.eu/home.
+(5)
+BS EN 15510:2017 “Animal feeding stuffs. Methods of sampling and analysis. Determination of calcium, sodium, phosphorus, magnesium, potassium, iron, zinc, copper, manganese, cobalt, molybdenum and lead by ICP-AES”. Published by the British Standards Institution on 31st August 2017 (ISBN 978 0 580 94541 0). Available from the British Standards Institution https://knowledge.bsigroup.com.
+(6)
+BS EN 15621:2017 “Animal feeding stuffs: Methods of sampling and analysis. Determination of calcium, sodium, phosphorus, magnesium, potassium, sulphur, iron, zinc, copper, manganese and cobalt after pressure digestion by ICP-AES”. Published by the British Standards Institution on 31st August 2017 (ISBN 978 0 580 94543 4). Available from the British Standards Institution https://knowledge.bsigroup.com.
+(7)
+BS ISO 13320:2020 “Particle size analysis. Laser diffraction methods”. Published by the British Standards Institution on 31st July 2020 (ISBN 978 0 580 92329 6). Available from the British Standards Institution https://knowledge.bsigroup.com.
+Identification number of the additive 3b303
+Authorisation holder (1)
+Additive category Nutritional additives
+Functional group Compounds of trace elements
+Additive composition
+Cobalt(II) carbonate hydroxide (2:3) monohydrate
+Powder with a minimum content of 50% cobalt
+Particles < 50 μm: below 98%
+Characterisation of the active substance(s)
+Chemical formula: 2CoCO3 × 3Co(OH)2 × H2O
+CAS number: 51839-24-8(2)
+Analytical methods (3)
+For the identification of carbonate in the additive:
+European Pharmacopoeia monograph 20301(4)
+For the crystallographic characterisation of the additive:
+X-Ray diffraction
+For the determination of total cobalt in the additive, premixtures, feed materials and compound feed:
+Inductively coupled plasma optical (atomic) emission spectrometry (ICP-AES) in accordance with BS EN 15510: 2017(5); or
+Inductively coupled plasma optical (atomic) emission spectrometry (ICP-AES) after pressure digestion in accordance with BS EN 15621:2017(6)
+For the determination of particle size distribution:
+Particle size analysis, laser diffraction methods in accordance with BS ISO 13320:2020(7)
+Species or category of animal Ruminants with a functional rumen, equidae, lagomorphs, rodents, herbivore reptiles and zoo mammals
+Maximum age Not applicable
+Element (Co) in mg/kg of complete feed with a moisture content of 12% Minimum content No minimum
+Maximum content 1 (total)
+Other provisions
+1)
+The additive must be incorporated into compound feed in the form of a premixture. This compound feed must be placed on the market in a non-powdered form
+2)
+The following must be stated on the labelling of the additive and premixture:
+The element (cobalt) content
+“It is recommended to limit the supplementation with cobalt to 0.3 mg/kg in complete feed. In this context, the risk for cobalt deficiency due to local conditions and the specific composition of the diet should be taken into account”
+3)
+The following must be stated in the instructions for use of the compound feed:
+“Protective measures to avoid exposure with cobalt by inhalation or by dermal route should be taken”
+Start of provisional authorisation period 15 July 2023
+End of provisional authorisation period 14 July 2028Regulation 3
+SCHEDULE 4
+Form of provisional authorisation of cobalt(II) sulphate heptahydrate (identification number 3b305) as a feed additive for ruminants with a functional rumen, equidae, lagomorphs, rodents, herbivore reptiles and zoo mammals
+The substance cobalt(II) sulphate heptahydrate, belonging to the additive category ‘nutritional additives’ and to the functional group ‘compounds of trace elements’, is provisionally authorised as an additive in animal nutrition in accordance with the specifications in the following table.
+Additive Cobalt(II) sulphate heptahydrate
+(1)
+There is no requirement to include the name of the holder of this authorisation as this authorisation does not fall within the scope of Article 9(5) of Regulation (EC) 1831/2003.
+(2)
+This is a reference to the CAS Registry Number® assigned to this substance by the Chemical Abstracts Service https://cas.org/cas-data/cas-registry.
+(3)
+Details of the analytical methods are set out in the document referenced “JRC.D.5/FSQ/CvH/PRO/ag/Ares(2012)214390” and last updated on 6th June 2016. This document is available at the following address: https://joint-research-centre.ec.europa.eu/publications/fad-cobalt-group_en.
+(4)
+“Monograph 20301: 2.3.1. Identification reactions of ions and functional groups”. European Pharmacopoeia, European Directorate for the Quality of Medicines and Healthcare 11th edition. Published July 2022 (ISBN 978 92 871 9105 2). Available from European Pharmacopoeia Online https://pheur.edqm.eu/home.
+(5)
+BS EN 15510:2017 “Animal feeding stuffs. Methods of sampling and analysis. Determination of calcium, sodium, phosphorus, magnesium, potassium, iron, zinc, copper, manganese, cobalt, molybdenum and lead by ICP-AES”. Published by the British Standards Institution on 31st August 2017 (ISBN 978 0 580 94541 0). Available from the British Standards Institution https://knowledge.bsigroup.com.
+(6)
+BS EN 15621:2017 “Animal feeding stuffs: Methods of sampling and analysis. Determination of calcium, sodium, phosphorus, magnesium, potassium, sulphur, iron, zinc, copper, manganese and cobalt after pressure digestion by ICP-AES”. Published by the British Standards Institution on 31st August 2017 (ISBN 978 0 580 94543 4). Available from the British Standards Institution https://knowledge.bsigroup.com.
+(7)
+BS ISO 13320:2020 “Particle size analysis. Laser diffraction methods”. Published by the British Standards Institution on 31st July 2020 (ISBN 978 0 580 92329 6). Available from the British Standards Institution https://knowledge.bsigroup.com.
+Identification number of the additive 3b305
+Authorisation holder (1)
+Additive category Nutritional additives
+Functional group Compounds of trace elements
+Additive composition
+Cobalt(II) sulphate heptahydrate
+Powder with a minimum content of 20% cobalt
+Particles < 50 μm: below 95%
+Characterisation of the active substance(s)
+Chemical formula: CoSO4 × 7H2O
+CAS number: 10026-24-1(2)
+Analytical methods (3)
+For the identification of sulphate in the additive:
+European Pharmacopoeia monograph 20301(4)
+For the crystallographic characterisation of the additive:
+X-Ray diffraction
+For the determination of total cobalt in the additive, premixtures, feed materials and compound feed:
+Inductively coupled plasma optical (atomic) emission spectrometry (ICP-AES) in accordance with BS EN 15510: 2017(5); or
+Inductively coupled plasma optical (atomic) emission spectrometry (ICP-AES) after pressure digestion in accordance with BS EN 15621:2017(6)
+For the determination of particle size distribution:
+Particle size analysis, laser diffraction methods in accordance with BS ISO 13320:2020(7)
+Species or category of animal Ruminants with a functional rumen, equidae, lagomorphs, rodents, herbivore reptiles and zoo mammals
+Maximum age Not applicable
+Element (Co) in mg/kg of complete feed with a moisture content of 12% Minimum content No minimum
+Maximum content 1 (total)
+Other provisions
+1)
+The additive must be incorporated into compound feed in the form of a premixture. This compound feed must be placed on the market in a non-powdered form
+2)
+The following must be stated on the labelling of the additive and premixture:
+The element (cobalt) content
+“It is recommended to limit the supplementation with cobalt to 0.3 mg/kg in complete feed. In this context, the risk for cobalt deficiency due to local conditions and the specific composition of the diet should be taken into account”
+3)
+The following must be stated in the instructions for use of the compound feed:
+“Protective measures to avoid exposure with cobalt by inhalation or by dermal route should be taken”
+Start of provisional authorisation period 15 July 2023
+End of provisional authorisation period 14 July 2028EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations make provision as regards the provisional authorisation of feed additives under Regulation (EC) 1831/2003 of the European Parliament and of the Council on additives for use in animal nutrition (EUR 2003/1831) as retained EU law.
+Regulation 3 and Schedules 1 to 4 prescribe the form of provisional authorisation for the following feed additives:—
+Schedule 1 contains the prescribed form of provisional authorisation for cobalt(II) acetate tetrahydrate (identification number 3b301);
+Schedule 2 contains the prescribed form of provisional authorisation for cobalt(II) carbonate (identification number 3b302);
+Schedule 3 contains the prescribed form of provisional authorisation for cobalt(II) carbonate hydroxide (2:3) monohydrate (identification number 3b303);
+Schedule 4 contains the prescribed form of provisional authorisation for cobalt(II) sulphate heptahydrate (identification number 3b305).
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the public, private or voluntary sector is foreseen.
+Further information, including in relation to any documentation referenced in the Schedules can be obtained from the Food Standards Agency, Foss House, Kings Pool, 1-2 Peasholme Green, York YO1 7PR or by writing to FeedAdditives@food.gov.uk.

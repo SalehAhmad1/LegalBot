@@ -1,0 +1,52 @@
+STATUTORY INSTRUMENTS
+2023 No. 1346
+FINANCIAL SERVICES AND MARKETS
+The Insurance and Reinsurance Undertakings (Prudential Requirements) (Risk Margin) Regulations 2023
+Made
+7th December 2023
+Laid before Parliament
+8th December 2023
+Coming into force
+31st December 2023
+The Treasury have consulted the Financial Conduct Authority and Prudential Regulation Authority in accordance with section 3(6) of the Financial Services and Markets Act 2023(1).
+The Treasury make the following Regulations in exercise of the powers conferred by sections 3 and 84(2) of the Financial Services and Markets Act 2023.
+(1)
+2023 c. 29.Citation, commencement and extent
+1.—(1) These Regulations may be cited as the Insurance and Reinsurance Undertakings (Prudential Requirements) (Risk Margin) Regulations 2023 and come into force on 31st December 2023.
+(2) These Regulations extend to England and Wales, Scotland and Northern Ireland.Amendment of Commission Delegated Regulation (EU) 2015/35
+2.—(1) Commission Delegated Regulation (EU) 2015/35 of 10 October 2014 supplementing Directive 2009/138/EC of the European Parliament and of the Council on the taking-up and pursuit of the business of insurance and reinsurance (Solvency II)(1) is amended as follows.
+(2) In Article 37 (calculation of the risk margin), in paragraph 1—
+(a)
+for the formula substitute—
+“”;
+(b)
+after sub-paragraph (d) insert—
+“(e)
+“λ” denotes the risk tapering factor, and equals—
+(i)
+0.9 for life insurance and reinsurance obligations, and
+(ii)
+1.0 for non-life insurance and reinsurance obligations;
+(f)
+“” denotes the risk tapering factor to the power of t years;
+(g)
+“” denotes the floor of the risk tapering factor, and equals 0.25.”.
+(3) In Article 39 (cost-of-capital rate), for “6%” substitute “4%”.
+(4) In Article 312 (deadlines for submitting supervisory reports)—
+(a)
+omit paragraphs 1(a) and 3;
+(b)
+in paragraph 2, omit from “, subject to” to the end.
+(1)
+EUR 2015/35.Amendment of the Solvency 2 Regulations 2015
+3.  In regulation 54 of the Solvency 2 Regulations 2015(1) (transitional measures on technical provisions), in paragraph (9) omit sub-paragraph (b) but not “or” at the end of that sub-paragraph.
+(1)
+S.I. 2015/575.Scott Mann
+Stuart Anderson
+Two of the Lords Commissioners of His Majesty’s Treasury
+7th December 2023EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend Articles 37 (calculation of the risk margin), 39 (cost-of-capital rate) and 312 (deadlines for submitting supervisory reports) of Commission Delegated Regulation (EU) 2015/35 of 10 October 2014 supplementing Directive 2009/138/EC of the European Parliament and of the Council on the taking-up and pursuit of the business of insurance and reinsurance (Solvency II) (“Regulation 2015/35”) and regulation 54 of the Solvency 2 Regulations 2015 (S.I. 2015/575) (transitional measures on technical provisions).
+Regulation 2015/35 and the Solvency 2 Regulations 2015 are revoked by section 1(1) of, and Schedule 1 to, the Financial Services and Markets Act 2023 (c. 29) and it is proposed to bring the revocations into force at the same time as regulations restating elements of the revoked legislation to be made under section 4 of that Act (power to restate and modify saved legislation).
+The Regulations change the calculation of the risk margin. This is the amount of capital that insurance and reinsurance undertakings are required to hold to ensure that they are able to transfer their liabilities to another insurer if required. The revised calculation reduces the amount of risk margin that insurers must hold. The Regulations also remove some of the requirements for insurance and reinsurance undertakings to make reports to the Prudential Regulation Authority. They also alter the conditions under which that Authority must revoke an approval to apply a transitional deduction to an undertaking’s technical provisions. Technical provisions are the reserves an undertaking must hold against their expected future claims due to policyholders and beneficiaries, including a buffer against the risk of the failure of the undertaking.
+A full impact assessment of the effect that this instrument will have on the costs of business, the voluntary sector and community bodies is available from HM Treasury, 1 Horse Guards Road, London, SW1A 2HQ and is published with the Explanatory Memorandum alongside this instrument at www.legislation.gov.uk.

@@ -1,0 +1,1462 @@
+STATUTORY INSTRUMENTS
+2020 No. 1445
+EXITING THE EUROPEAN UNION
+AGRICULTURE
+The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020
+Made
+7th December 2020
+Coming into force in accordance with regulation 1
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 8(1) and 8C(1) and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 M1 and section 6(1) of the Direct Payments to Farmers (Legislative Continuity) Act 2020 M2.
+In accordance with paragraphs 1(1) and 8F(1) of Schedule 7 to the European Union (Withdrawal) Act 2018, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
+In accordance with section 6(5) of the Direct Payments to Farmers (Legislative Continuity) Act 2020, the Secretary of State has obtained consent from the Scottish Ministers, Welsh Ministers and the Department of Agriculture, Environment and Rural Affairs in Northern Ireland.
+Marginal Citations
+M1
+2018 c.16. Section 8 was amended by section 27 of the European Union (Withdrawal Agreement) Act 2020 (c. 1) and paragraph 21 of Schedule 7 was amended by paragraph 53(2) of Schedule 5 to that Act. Section 8C was inserted by section 21 of that Act and paragraph 8F of Schedule 7 was inserted by paragraph 51 of Schedule 5 to that Act.
+M2
+2020 c. 2.Citation and commencement
+1.—(1) These Regulations may be cited as the Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020.
+(2) These Regulations come into force—
+(a)
+as regards Part 3 on IP completion day;
+(b)
+otherwise immediately before IP completion day.
+Commencement Information
+I1
+Reg. 1 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)(b)Treatment of CAP Horizontal Legislation
+2.—(1) On IP completion day, each of the Regulations listed in paragraph (2) is to be treated as though section 3 of the European Union (Withdrawal) Act 2018 resulted in that Regulation forming part of domestic law in the form in which it applied on exit day, but—
+[F1(a)
+insofar as it applies to the CAP direct payment schemes—
+(i)
+excluding any Articles or parts of Articles which were not incorporated by virtue of section 1 of the Direct Payments to Farmers (Legislative Continuity) Act 2020; and
+(ii)
+insofar as it applies in each constituent nation, amended in accordance with any amendments in force in the constituent nation immediately before IP completion day; ]
+(b)
+[F2in all other cases,] amended in accordance with any amendments made to the Regulation as it had effect in EU law by the European Commission or the European Parliament and the Council between exit day and the coming into force of this regulation.
+(2) The Regulations referred to in paragraph (1) are—
+(a)
+Regulation (EU) No 1306/2013 of the European Parliament and of the Council on the financing, management and monitoring of the common agricultural policy M1;
+(b)
+Commission Delegated Regulation (EU) No 907/2014 supplementing Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to paying agencies and other bodies, financial management, clearance of accounts, securities and use of euro M2;
+(c)
+Commission Implementing Regulation (EU) No 908/2014 laying down rules for the application of Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to paying agencies and other bodies, financial management, clearance of accounts, rules on checks, securities and transparency M3;
+(d)
+Commission Implementing Regulation (EU) No 809/2014 laying down rules for the application of Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system, rural development measures and cross compliance M4;
+(e)
+Commission Delegated Regulation (EU) No 640/2014 supplementing Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system and conditions for refusal or withdrawal of payments and administrative penalties applicable to direct payments, rural development support and cross compliance M5.
+(3) In this regulation “constituent nation” means England, Wales, Scotland or Northern Ireland, as the case may be.
+Textual Amendments
+F1
+Reg. 2(1)(a) omitted (E.) (1.1.2024) by virtue of The Agriculture (Delinked Payments and Consequential Provisions) (England) Regulations 2023 (S.I. 2023/1430), reg. 1(2)(a), Sch. 4 para. 10(a)
+F2
+Words in reg. 2(1)(b) omitted (E.) (1.1.2024) by virtue of The Agriculture (Delinked Payments and Consequential Provisions) (England) Regulations 2023 (S.I. 2023/1430), reg. 1(2)(a), Sch. 4 para. 10(b)
+Commencement Information
+I1
+Reg. 2 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)(b)
+Marginal Citations
+M1
+EUR 2013/1306, amended in relation to direct payment schemes by S.I. 2020/90 and 576. EUR 2013/1306 is also amended prospectively with effect from IP completion day by S.I. 2019/748 (as amended by S.I. 2019/831), 763 (as amended by S.I. 2019/812), 831 and 1402.
+M2
+EUR 2014/907, amended in relation to direct payment schemes by S.I. 2020/90. EUR 2014/907 is also amended prospectively with effect from IP completion day by S.I. 2019/765.
+M3
+EUR 2014/908, amended in relation to direct payment schemes by S.I. 2020/90. EUR 2014/908 is also amended prospectively with effect from IP completion day by S.I. 2019/765.
+M4
+EUR 2014/809, amended in relation to direct payment schemes by S.I. 2020/90 and 576. EUR 2014/809 is also amended in relation to direct payment schemes in England by S.I. 2020/510 and 575, in relation to direct payment schemes in Wales by S.I. 2020/473 and 531, in relation to direct payment schemes in Scotland by S.S.I. 2020/244 and in relation to direct payment schemes in Northern Ireland by S.R. 2020/81 and 105. EUR 2014/809 is also amended prospectively with effect from IP completion day by S.I. 2019/765.
+M5
+EUR 2014/640, amended in relation to direct payment schemes by S.I. 2020/90, in relation to direct payment schemes in England by S.I. 2020/551 and in relation to direct payment schemes in Northern Ireland by S.R. 2020/94. EUR 2014/640 is also amended prospectively with effect from IP completion day by S.I. 2019/765.The Common Agricultural Policy (Financing, Management and Monitoring) (Miscellaneous Amendments) (EU Exit) Regulations 2019
+3.—(1) The Common Agricultural Policy (Financing, Management and Monitoring) (Miscellaneous Amendments) (EU Exit) Regulations 2019 M1 is amended as follows.
+(2) In regulation 2, after “amended” insert “ , insofar as it relates to common organisation of the markets and rural development measures M2, ”
+(3) In regulation 3, in paragraph (2)(a)—
+(a)
+before paragraph (i) insert—
+“(ai)
+omit point (e)”;
+(b)
+in paragraph (i), in the substituted text, after “ means ” insert “ , insofar as it relates to agricultural support ”;
+(c)
+in paragraph (iii), for points (h) to (n) in the substituted text, substitute—
+“(h)
+“constituent nation” means England, Wales, Scotland or Northern Ireland, as the case may be;
+(i)
+“agricultural support” means support for rural development and CMO support;
+(j)
+“economic operator” means any person or public entity or group of such persons or entities, including any temporary association of undertakings, which offers the execution of works or a work, the supply of products or the provision of services on the market;
+(k)
+“relevant authority”, unless otherwise defined in this Regulation, means:
+(i)
+in England, the Secretary of State;
+(ii)
+in Wales, the Welsh Ministers;
+(iii)
+in Scotland, the Scottish Ministers;
+(iv)
+in Northern Ireland, the Department of Agriculture, Environment and Rural Affairs;
+(l)
+“relevant accounting officer” means:
+(i)
+in England, the accounting officer for the Department for Environment, Food and Rural Affairs;
+(ii)
+in Wales, the Permanent Secretary of the Welsh Government;
+(iii)
+in Scotland, the Permanent Secretary of the Scottish Government;
+(iv)
+in Northern Ireland, the Permanent Secretary of the Department of Agriculture, Environment and Rural Affairs;
+(n)
+“CMO support” means financial support granted under:
+(i)
+Regulation (EU) No 1308/2013 M3 or any regulations made under, or delegated or implementing acts adopted on the basis of, that Regulation;
+(ii)
+any delegated or implementing acts adopted on the basis of Regulation (EC) No 1234/2007;
+(iii)
+Regulation (EU) No 1144/2014 M4 or any regulations made under, or delegated or implementing acts adopted on the basis of, that Regulation;”.
+(4) In regulation 4, for paragraph (3) substitute—
+“(3) In Article 7, for paragraphs 1 to 6 substitute—
+“1.  Paying agencies shall be departments or bodies designated by the relevant authority, which have an administrative organisation and a system of internal control that provide sufficient guarantees that payments are legal and regular, and properly accounted for.
+2.  The number of paying agencies shall be restricted to no more than one per constituent nation. However, the relevant authorities may jointly designate a single paying agency for the UK to manage aid schemes which, by their nature, have to be managed at UK level.
+3.  Paying agencies shall be responsible for the management and control of expenditure on agricultural support. With the exception of payment, the carrying out of those tasks may be delegated.
+4.  The relevant authorities shall have joint responsibility for the following tasks:
+(a)
+to take or coordinate, as the case may be, actions with a view to resolving deficiencies of a common nature;
+(b)
+to promote and, where possible, ensure harmonised application of sectoral agricultural legislation.
+5.  The paying agencies shall manage and ensure the control of the operations linked to public intervention for which they are responsible and they shall retain overall responsibility in that field.”.”.
+(5) In regulation 5(1)(b)—
+(a)
+the words from “for points” to the end become paragraph (ii) of that sub-paragraph;
+(b)
+before that paragraph, insert—
+“(i)
+omit point (b);”.
+(6) In regulation 6—
+(a)
+in paragraph (2), omit “Direct payment support and”;
+(b)
+in paragraph (5), for “25” substitute “ 29 ”;
+(c)
+omit paragraphs (6) and (7);
+(d)
+for paragraph (17) substitute—
+“(17) In Article 50—
+(a)
+for the heading, substitute— “ Powers ”;
+(b)
+omit paragraph 1.”;
+(e)
+in paragraph (20), in the substituted heading and text, in both places it occurs, omit “ direct payment support and ”.
+(7) In regulation 7—
+(a)
+in paragraph (5)—
+(i)
+for sub-paragraph (a) substitute—
+“(a)
+in paragraph 1—
+(i)
+in the first subparagraph, omit the words from “and, where relevant” to the end;
+(ii)
+in the second subparagraph, omit “national or Union”;”;
+(ii)
+after sub-paragraph (b) insert—
+“(c)
+in paragraph 3, omit “and payment entitlements,”.”;
+(b)
+in paragraph (9)—
+(i)
+for sub-paragraph (b) substitute—
+“(b)
+in paragraph 2—
+(i)
+omit “to the support schemes listed in Annex I of Regulation (EU) No 1307/2013 and”;
+(ii)
+for “34 and 40” substitute “ and 34 ”;”;
+(ii)
+in sub-paragraph (c)—
+(aa)
+in paragraph (i), after “for” insert “ the words from “where” to ”;
+(bb)
+for paragraph (ii) substitute—
+“(ii)
+omit point (b).”;
+(c)
+for paragraph (10) substitute—
+“(10) In Article 68—
+(a)
+in paragraph 1, omit point (c);
+(b)
+omit paragraphs 3 and 4.”;
+(d)
+in paragraph (12), for sub-paragraph (b) substitute—
+“(b)
+omit paragraph 2.”;
+(e)
+for paragraph (13) substitute—
+“(13) Omit Article 71.”;
+(f)
+in paragraph (14)—
+(i)
+in sub-paragraph (a), before paragraph (i) insert—
+“(zi)
+omit “an application for direct payments or”;
+(zai)
+omit point (b);”
+(ii)
+in sub-paragraph (b), after paragraph (i) insert—
+“(ia)
+in point (a), omit the words from “, and/or may decide” to the end of the sentence.”;
+(g)
+in paragraph (16)(a), for paragraph (ii) substitute—
+“(ii)
+omit point (a);”;
+(h)
+for paragraph (17) substitute—
+“(17) In Article 77—
+(a)
+in paragraph 2—
+(i)
+in point (e), for “to be set by the Commission” substitute “ set ”;
+(ii)
+in point (f), for “to be defined by the Commission” substitute “ as defined ”;
+(b)
+omit paragraph 6.”;
+(i)
+in paragraph (27), for sub-paragraph (a) substitute—
+“(a)
+in paragraph 1—
+(i)
+for “Member States” substitute “ The relevant authority ”;
+(ii)
+at the end, insert the following subparagraph—
+“In this paragraph and in paragraph 4, ‘relevant authority’ means:
+(a)
+in England, the Secretary of State;
+(b)
+in Wales, the Welsh Ministers;
+(c)
+in Scotland, the Scottish Ministers.”;”;
+(j)
+in paragraph (28)—
+(i)
+after sub-paragraph (aa) insert the following sub-paragraph—
+“(ab)
+at the end of paragraph 2, insert the following subparagraph—
+“In this Article, ‘relevant authority’ means:
+(a)
+in England, the Secretary of State;
+(b)
+in Wales, the Welsh Ministers;
+(c)
+in Scotland, the Scottish Ministers.”;”;
+(ii)
+for sub-paragraph (b) substitute—
+“(b)
+for “the Union” substitute “ Great Britain ”.”.
+(8) In regulation 8—
+(a)
+for paragraph (2) substitute—
+“(2) In Article 92—
+(a)
+in the first paragraph, omit the words from “direct payments” to “1308/2013 and”;
+(b)
+for second paragraph substitute—
+“However, Article 91 shall not apply to the support referred to in Article 28(9) of Regulation (EU) No 1305/2013 M5.”.”;
+(b)
+in paragraph (4), before sub-paragraph (a) insert—
+“(za)
+in the heading, omit “of Member States”;”;
+(c)
+for paragraph (7) substitute—
+“(7) In Article 97—
+(a)
+in paragraph 1, omit the second subparagraph;
+(b)
+in paragraph 3—
+(i)
+in the first subparagraph, for “Member States” substitute “ the relevant authority ”;
+(ii)
+in the second subparagraph, for “a Member State” substitute “ the relevant authority ”.”.
+(9) In regulation 9(5)—
+(a)
+for point (b) substitute—
+“(b)
+omit paragraph 3;”;
+(b)
+in sub-paragraph (c)(i), omit “direct payment support and”.
+(10) In regulation 10—
+(a)
+in paragraph (3)—
+(i)
+for sub-paragraph (a) substitute—
+“(a)
+in paragraph 1—
+(i)
+for “Member States and the Commission” substitute “The relevant authority;
+(ii)
+after “Title IV,” insert “ and ”;
+(iii)
+omit “and Chapter III of Title VII”;
+(aa)
+in paragraph 2, omit the words from “for monitoring” to “well as”;”;
+(b)
+for paragraph (4) substitute—
+“(4) Omit Articles 118 to 121.”;
+(c)
+omit paragraph (5).
+(11) In regulation 11—
+(a)
+in the heading, for the words from “1 and” to the end substitute “ 1 to 3 (Information, rules on cross-compliance and correlation table) ”;
+(b)
+after paragraph (2) insert—
+“(3) Omit Annex 3.”.
+(12) Omit Part 3.
+Commencement Information
+I1
+Reg. 3 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)(b)
+Marginal Citations
+M1
+S.I. 2019/763; amended by S.I. 2019/812.
+M2
+The Direct Payments to Farmers (Legislative Continuity) Act 2020 (c. 2) incorporated Regulation (EU) 1306/2013 with effect from exit day insofar as it relates to direct payment schemes and that Regulation has been amended in relation to direct payment schemes. Under Article 138 of the withdrawal agreement and section 7A of the European Union (Withdrawal Agreement) Act 2018 certain programmes and activities committed under the MFF 2014-20 and previous financial perspectives continue to be governed by directly applicable EU law. This affects rural development and the common organisation of the markets.
+M3
+EUR 2013/1308, amended prospectively with effect from IP completion day by S.I. 2019/821, 828, 831, 1402, 1422.
+M4
+EUR 2014/1144, amended prospectively with effect from IP completion day by S.I. 2019/821 and 831.
+M5
+EUR 2013/1305, amended prospectively with effect from IP completion day by S.I. 2019/748 and 764.The Common Agricultural Policy (Financing, Management and Monitoring Supplementary Provisions) (Miscellaneous Amendments) (EU Exit) Regulations 2019
+4.  The Common Agricultural Policy (Financing, Management and Monitoring Supplementary Provisions) (Miscellaneous Amendments) (EU Exit) Regulations 2019 M1 are amended in accordance with regulations 5 to 9.
+Commencement Information
+I1
+Reg. 4 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)(b)
+Marginal Citations
+M1
+S.I. 2019/765; amended by S.I. 2019/1405.5.  In regulation 2, in paragraphs (2), (3)(a)(i) and (8)(a)(iii)(aa), omit “direct payments and”.
+Commencement Information
+I1
+Reg. 5 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)(b)6.—(1) Regulation 3 is amended as follows.
+(2) In paragraph (1), after “amended” insert “ , insofar as it relates to common organisation of the markets and rural development measures M1, ”.
+(3) In paragraph (5)(a)(i) omit “direct payments and”.
+(4) In paragraph (6), for “and 13” substitute “ , 13 and 14 ”.
+(5) In paragraphs (9)(b)(ii) and (11)(c), before “national” insert “ the applicable ”.
+(6) For paragraph (24) substitute—
+“(24) In Article 45, omit the second paragraph.”.
+(7) After paragraph (24) insert—
+“(24A) After Article 45 omit the words from “This Regulation” to “States.”.
+(8) In paragraph (28), for “Annex 5” substitute “ Annexes 5 and 6 ”.
+Commencement Information
+I1
+Reg. 6 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)(b)
+Marginal Citations
+M1
+The Direct Payments to Farmers (Legislative Continuity) Act 2020 (c. 2) incorporated Regulation (EU) 907/2014 with effect from exit day insofar as it relates to direct payment schemes and that Regulation has been amended in relation to direct payment schemes only. Under Article 138 of the withdrawal agreement and s7A of the European Union (Withdrawal Agreement) Act 2018 (c. 16) certain common organisation of the markets and rural development measures committed under the MFF 2014-20 and previous financial perspectives continue to be governed by directly applicable EU law.7.—(1) Regulation 4 is amended as follows.
+(2) In paragraph (1), after “amended” insert “ , insofar as it relates to common organisation of the markets and rural development measures M1, ”.
+(3) In paragraphs (7)(a)(ii), (7)(d) and (11)(b)(iii)(bb), omit “direct payment and”.
+(4) For paragraph (29)(b) substitute—
+“(b)
+in paragraph 2, for the words from “expressed” to the end substitute “ to be expressed in sterling ”;”.
+(5) For paragraph (35) substitute—
+“(35) Omit Articles 63 and 64.”.
+(6) After paragraph (35) insert—
+“(35A) After Article 64, omit the words from “This Regulation” to “States.”.”
+(7) In paragraph (37), omit “direct payment and” in each place it occurs.
+(8) In paragraph (38)(b)—
+(a)
+omit “direct payment and” in each place it occurs;
+(b)
+in paragraph (ii)(bb), omit “direct payments and”.
+(9) After paragraph (38), insert—
+“(39) In Annex 13, omit paragraphs 1, 5 and 6.”.
+Commencement Information
+I1
+Reg. 7 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)(b)
+Marginal Citations
+M1
+The Direct Payments to Farmers (Legislative Continuity) Act 2020 (c. 2) incorporated Regulation (EU) 908/2014 with effect from exit day insofar as it relates to direct payment schemes and that Regulation has been amended in relation to direct payment schemes. Under Article 138 of the withdrawal agreement and s7A of the European Union (Withdrawal Agreement) Act 2018 (c. 16) certain common organisation of the markets and rural development measures committed under the MFF 2014-20 and previous financial perspectives continue to be governed by directly applicable EU law.8.—(1) Regulation 5 is amended as follows.
+(2) In paragraph (1), after “amended” insert “ , insofar as it relates to common organisation of the markets and rural development measures M1, ”.
+(3) In paragraph (2)(a)—
+(a)
+in paragraph (iii) for “point (g)” substitute “points (f) and (g);
+(b)
+after paragraph (iii) insert—
+“(iiia)
+in point (h), omit “aid applications and”;
+(iiib)
+in point (j), omit “as well as of unduly allocated payment entitlements”;”;
+(c)
+for paragraph (iv) substitute—
+“(iv)
+for point (m) substitute—
+“(m)
+payment claims, including the final date for the submission of applications, requirements as to the minimum amount of information to be included in applications and provisions which allow a relevant authority to apply simplified procedures;”;”;
+(d)
+after paragraph (iv) insert—
+“(v)
+in point (n), omit “aid application or”.”.
+(4) In paragraph (3)(a)—
+(a)
+before paragraph (i) insert—
+“(ai)
+omit “aid schemes and”;”;
+(b)
+after paragraph (ii) insert—
+“(iia)
+omit “direct payments and”;”;
+(c)
+after paragraph (iii) insert—
+“(iv)
+omit “aid applications,”;”.
+(5) For paragraph (4) substitute—
+“(4) In Article 3, in paragraph 1—
+(a)
+in the first subparagraph, omit “aid application,”;
+(b)
+in the second subparagraph, in both places it occurs, for “Member State” substitute “ relevant authority ”.”.
+(6) After paragraph (4) insert—
+“(4A) In Article 4, for “Aid applications, applications” substitute “ Applications ”.”.
+[F1(7) For paragraph (5) substitute—
+“(5) In Article 5—
+(a)
+in the first paragraph, omit “direct payment schemes or”;
+(b)
+in the second paragraph, for “Union or national law” substitute “ the law applying in the constituent nation ”.”.]
+[F1(8) For paragraph (6) substitute—
+“(6) In Article 6—
+(a)
+omit paragraph 1;
+(b)
+in paragraph 2—
+(i)
+omit the words from “each”, in the first place it occurs, to “and for”;
+(ii)
+omit point (f);
+(c)
+omit paragraph 3;
+(d)
+in paragraph 4, for “paragraph 3” substitute “ paragraph 2 ”.”.]
+(9) In paragraph (10)—
+(a)
+for sub-paragraphs (a) to (c) substitute—
+“(a)
+in paragraph 1—
+(i)
+for “No 1305/2013,” substitute “ No 1305/2013 and ”;
+(ii)
+omit “and (EU) No 1307/2013”;
+(iii)
+in points (b) and (c), omit “direct payment scheme or” in each place it occurs;
+(b)
+in paragraph 2—
+(i)
+omit “aid applications or”;
+(ii)
+for “Member States”—
+(aa)
+in the first it occurs, substitute “ the relevant authority ”;
+(bb)
+in the second place it occurs, substitute “ The relevant authority ”;
+(iii)
+for “an aid application or payment” substitute “ a payment ”;
+(iv)
+omit “direct payment scheme or”;
+(v)
+omit “national”;
+(vi)
+omit “aid applications and”;
+(vii)
+for “Member State” substitute “ The relevant authority ”;
+(c)
+in paragraph 3, omit “aid application or”;”;
+(b)
+after paragraph (c) insert—
+“(ca)
+in paragraph 4—
+(i)
+for “Member States”—
+(aa)
+in the first place it occurs, substitute “ the relevant authority ”;
+(bb)
+in the second place it occurs, substitute “ The relevant authority ”;
+(ii)
+in the first subparagraph, omit “, aid application”;”.
+(10) In paragraph (11)(a)—
+(a)
+after “States” insert “ decide ”;
+(b)
+after “authority” insert “ decides ”.
+(11) In paragraph (12)(a)—
+(a)
+after paragraph (i) insert—
+“(ia)
+omit “, aid applications”;”;
+(b)
+for paragraph (iii) substitute—
+“(iii)
+in the second subparagraph—
+(aa)
+for “Member States” substitute “ the relevant authority ”;
+(bb)
+omit “aid and/or”;”.
+(12) For paragraph (13) substitute—
+“(13) In Article 14—
+(a)
+in paragraph 1—
+(i)
+in points (b) and (g), omit “direct payment schemes and/or” in both places it occurs;
+(ii)
+omit points (c) and (h);
+(b)
+omit paragraphs 2 and 3.”.
+(13) For paragraph (15) substitute—
+“(15) In Article 15—
+(a)
+in paragraph 1, in the first subparagraph—
+(i)
+omit “or individual payment entitlements”;
+(ii)
+omit “direct payment schemes or”;
+(b)
+in paragraph 1, in the second subparagraph—
+(i)
+omit “direct payment scheme or”;
+(ii)
+omit “or in respect of payment entitlements”;
+(c)
+in paragraph 1b—
+(i)
+omit “direct payment schemes or;
+(ii)
+omit the last sentence;
+(d)
+in paragraph 2—
+(i)
+in the first subparagraph, omit the words from “, except in the case of” to the end;
+(ii)
+in the second and third subparagraphs, for “Member States”, in each place it occurs, substitute “ the relevant authority ”;
+(iii)
+in the third subparagraph, omit the words from “the payment for agricultural practices beneficial” to “Regulation (EU) No 1307/2013 or”;”.
+(14) After paragraph 15 insert—
+“(15A) In Article 16, omit the words from “, in particular” to “No 1307/2013,”.”.
+(15) In paragraph (16)—
+(a)
+for sub-paragraphs (b) to (d) substitute—
+“(b)
+in paragraph 4—
+(i)
+in the first subparagraph, omit “basic payment scheme, the single area payment scheme and/or”;
+(ii)
+in the second subparagraph, omit the last sentence.
+(c)
+in paragraph 5, for the first and second subparagraphs substitute—
+“5.  The beneficiary shall unambiguously identify and declare the area of each agricultural parcel. For this purpose, the beneficiary may confirm the information already provided in the pre-established form. However, where the information on the area, location or boundary of the agricultural parcel is not correct or is incomplete, the beneficiary shall correct or make changes to the pre-established form.”;
+(d)
+in paragraph 6, omit the third subparagraph;”;
+(b)
+after sub-paragraph (d) insert—
+“(e)
+omit paragraphs 7 to 9.”.
+(16) In paragraph (17), for “Article 19” substitute “ Articles 18 to 20 ”.
+(17) Omit paragraph (18).
+(18) In paragraph (19)—
+(i)
+for sub-paragraphs (a) and (b) substitute—
+“(a)
+in paragraph 1—
+(i)
+for the words from “livestock aid application” to “that Regulation” substitute “ payment claim under animal related support measures as defined in point (14) of the second subparagraph of Article 2(1) of Delegated Regulation (EU) No 640/2014 ”;
+(ii)
+omit “aid and/or”;
+(iii)
+in point (c), omit “a livestock aid application or”;
+(iv)
+in point (d), for “Member State” substitute “ relevant authority ”;
+(v)
+in point (e) omit “scheme or”;
+(vi)
+in point (f) omit “aid and/or”;
+(ab)
+in paragraph 2, omit “livestock aid application or”;
+(b)
+in paragraph 3—
+(i)
+for “Member States” substitute “ A relevant authority ”;
+(ii)
+omit “livestock aid application or”;”;
+(ii)
+in sub-paragraph (c), for paragraphs (i) to (iii) substitute—
+“(i)
+in the first subparagraph—
+(aa)
+for “Member States” substitute “ A relevant authority ”;
+(bb)
+omit “livestock aid application or”;
+(cc)
+omit “aid schemes or”;
+(ii)
+in the second subparagraph—
+(aa)
+omit “aid and/or” in both places it occurs;
+(bb)
+for “Member State” substitute “ relevant authority ”;
+(iii)
+in the third subparagraph—
+(aa)
+for “Member States” substitute “ the relevant authority ”;
+(bb)
+in point (a), omit “aid scheme and/or”;”.
+(19) For paragraphs (20) and (21) substitute—
+“(20) Omit Article 22.
+(21) Omit Article 23.”.
+(20) For paragraphs (22) to (24) substitute—
+“(22) In Article 24—
+(a)
+in paragraph 1—
+(i)
+in point (a), omit “aid application,”;
+(ii)
+in point (b)—
+(aa)
+omit “aid scheme and/or”;
+(bb)
+omit “aid and/or”;
+(b)
+in paragraph 2—
+(i)
+for “Member States”—
+(aa)
+in the first place it occurs, substitute “ The relevant authority ”;
+(bb)
+in the second place it occurs, substitute “ relevant authority ”;
+(ii)
+for “Union law or laid down in relevant national law” substitute “ the law applying in the constituent nation ”.
+(22A) In Article 25, in the second subparagraph, omit “livestock aid applications or”.
+(23) In Article 26—
+(a)
+in paragraph 1, for “Union law” substitute “ the law applying in the constituent nation ”;
+(b)
+in paragraph 3, omit “aid schemes or”;
+(c)
+in paragraph 4, omit the second subparagraph.
+(24) In Article 27, in the second paragraph—
+(a)
+for “Member States” substitute “ The relevant authority ”;
+(b)
+omit “schemes listed in Annex I to Regulation (EU) No 1307/2013”;
+(c)
+omit the last sentence.”.
+(21) For paragraph (25)(b) substitute—
+“(b)
+in paragraph 2—
+(i)
+omit “animal aid schemes and”;
+(ii)
+for “Member States” substitute “ a relevant authority ”.”.
+(22) For paragraphs (26) to (28) substitute—
+“(26) In Article 29—
+(a)
+in paragraph 1—
+(i)
+in point (a), omit “and Annex VI to Council Regulation (EC) No 73/2009,”;
+(ii)
+omit point (b);
+(iii)
+in point (c), omit “direct payment scheme and/or”;
+(iv)
+omit point (d);
+(v)
+in point (e), omit “aid and/or” in both places it occurs;
+(vi)
+omit points (f) and (g);
+(b)
+in paragraph 3—
+(i)
+for “an”, in the first place it occurs, substitute “ a ”;
+(ii)
+omit “aid application and/or”;
+(ii)
+omit “under the same aid scheme or”;
+(iii)
+for “Member State” substitute “ a relevant authority ”.
+(27) Omit Article 30.
+(28) Omit Article 31.”.
+(23) After paragraph (29) insert—
+“(29A) Omit Article 33.
+(29B) In Article 33a, omit “aid scheme or” in each place it occurs.”.
+(24) For paragraphs (30) to (32) substitute—
+“(30) In Article 34—
+(a)
+omit paragraph 2;
+(b)
+in paragraph 3—
+(i)
+for “Articles”, in both places it occurs, substitute “ Article ”;
+(ii)
+omit “and 33” in both places it occurs;
+(ii)
+in the third subparagraph, for “Member States” substitute “ the relevant authority ”;
+(c)
+in paragraph 4, for “Articles 30 to 33” substitute “ Article 32 ”;
+(d)
+in paragraph 4a—
+(i)
+for “Articles 30 to 33” substitute “ Article 32 ”;
+(ii)
+omit “aid scheme or”;
+(iii)
+omit “aid schemes or”;
+(e)
+in paragraph 5, in point (c), for “Member State” substitute “ relevant territory ”;
+(f)
+in paragraph 7, omit “aid applications or”.
+(30A) In Article 35, omit “aid scheme or”.
+(31) In Article 36—
+(a)
+in paragraph 1, omit “aid schemes or”;
+(b)
+omit paragraphs 2 and 3;
+(c)
+in paragraph 4, for “Member States” substitute “ the relevant authority ”;
+(d)
+in paragraph 5—
+(i)
+for “Paragraphs 2, 3 and 4” substitute “ Paragraph 4 ”;
+(ii)
+omit the words from “or the conditions” to “this Article”;
+(iii)
+for “Member States” substitute “ the relevant authority ”;
+(iv)
+omit “Articles 30(a), (b) and (f) and/or”;
+(v)
+omit “aid schemes or”;
+(e)
+omit paragraph 6.
+(32) In Article 37—
+(a)
+in paragraph 1, in the first subparagraph, omit the words from “for which aid” to “and/or”;
+(b)
+in paragraph 2—
+(i)
+omit “aid schemes and/or”;
+(ii)
+omit the second subparagraph.
+(c)
+omit paragraph 3.”.
+(25) In paragraph (33)—
+(a)
+before sub-paragraph (a) insert—
+“(za)
+in paragraph 1—
+(i)
+for “an aid application or” substitute “ a ”;
+(ii)
+omit “area-related aid schemes or”;”;
+(b)
+for sub-paragraph (c) substitute—
+“(c)
+omit paragraph 6;
+(d)
+in paragraph 8, omit “or the single area payment scheme”;
+(e)
+in paragraph 9—
+(i)
+for “paragraphs 1 to 8”, where those words appear for the first time, substitute “ this Article ”;
+(ii)
+omit “paragraphs 1 to 8 of”;
+(iii)
+omit “aid or”.”.
+(26) For paragraphs (34) to (36) substitute—
+“(34) In Article 39—
+(a)
+in paragraph 1—
+(i)
+for “an aid application or” substitute “ a ”;
+(ii)
+omit “area-related aid schemes or”;
+(b)
+omit paragraphs 2 and 3.
+(35) In Article 40—
+(a)
+for “Member State” substitute “ relevant authority ”;
+(b)
+in point (a), omit “aid application and/or”;
+(36) In Article 40a—
+(a)
+in paragraph 2—
+(i)
+in point (a), omit “30, 31,”;
+(ii)
+omit point (b);
+(b)
+in paragraph 3, in the first subparagraph—
+(i)
+omit “area-related aid scheme or”;
+(ii)
+omit the words from “or to defined groups of beneficiaries” to the end;
+(c)
+in paragraph 4—
+(i)
+omit “direct payment schemes,” in both places it occurs;
+(ii)
+omit “30, 31,”.”.
+(27) In paragraph (38), before sub-paragraph (a) insert—
+“(za)
+in paragraph 1—
+(i)
+in point (a) and (f), omit “aid schemes or” in both places it occurs;
+(ii)
+in point (a), omit “, aid applications”;
+(iii)
+in point (h), omit “aid schemes,”;”.
+(28) For paragraph (39) substitute—
+“(39) In Article 42—
+(a)
+in paragraph 1—
+(i)
+in the first subparagraph—
+(aa)
+omit “aid applications or”;
+(bb)
+omit “animal aid schemes or”;
+(ii)
+in the second subparagraph—
+(aa)
+for “Member State” substitute “ relevant authority ”;
+(bb)
+omit “or Article 33”;
+(cc)
+omit “respective animal aid scheme or”;
+(dd)
+for “an aid application or” substitute “ a ”;
+(ee)
+for “Member States” substitute “ the relevant authority ”;
+(ff)
+omit “or 33”;
+(iii)
+in the third subparagraph, for “Member State” substitute “ relevant authority ”;
+(iv)
+in the fourth subparagraph, omit “aid applications and/or”;
+(b)
+in paragraph 2, omit “aid applications or”.”.
+(29) In paragraph (40), before sub-paragraph (a) insert—
+“(za)
+in paragraph 1—
+(i)
+in point (a)—
+(aa)
+omit “animal aid schemes and/or”;
+(bb)
+omit “livestock aid applications and/or”;
+(ii)
+in point (e), omit “animal aid schemes and/or”;”.
+(30) After paragraph (40) insert—
+“(40A) Omit Article 44.”.
+[F2(31) For paragraph (51) substitute—
+“(51) In Article 64—
+(a)
+in point (a), omit “national”;
+(b)
+in point (d), omit the words from “and the maintenance of permanent pasture” to the end.”.
+(32) In paragraph (54), for sub-paragraph (a) substitute—
+“(a)
+in paragraph 1—
+(i)
+for the first subparagraph substitute—
+“1.  The competent control authority shall, with regard to the requirements and standards for which it is responsible, carry out on-the-spot checks on at least 1% of the total number of the beneficiaries receiving annual premia referred to in Article 92 of Regulation (EU) No 1306/2013 and the other beneficiaries receiving direct payment support.”;
+(ii)
+in the fourth subparagraph, for “Member States” substitute “ the relevant authority ”;”.
+(33) For paragraph (55) substitute—
+“(55) In Article 69—
+(a)
+in paragraph 1, in the third subparagraph, for “A Member State” substitute “ The relevant authority ”;
+(b)
+in paragraph 5, omit the last sentence;
+(c)
+for paragraph 6 substitute—
+“6.  By way of derogation from Article 68(1), the samples of beneficiaries to be checked on the spot may be selected at the minimum rate of 1% of the beneficiaries receiving annual premia under Article 21(1)(a) and (b) and Articles 28 to 31, 33 and 34 of Regulation (EU) No 1305/2013.”;”.
+(34) After paragraph (55) insert—
+“(55A) In Article 70a, in paragraph 3—
+(a)
+omit “direct payment schemes,”;
+(b)
+for “Articles 30, 31, 32 and 68 for on-the-spot checks of direct payments schemes,” substitute “ Articles 32 and 68 for on-the-spot checks of ”.
+(55B) Omit Article 70b.”.
+(35) In paragraph (56), after sub-paragraph (d) insert—
+“(e)
+in paragraph 6—
+(i)
+omit “aid applications, and/or”;
+(ii)
+omit the words from “or, as regards to the applications” to the end.”.
+(36) For paragraph (58) substitute—
+“(58) In Article 73—
+(a)
+in paragraph 1—
+(i)
+for the words from “different schemes listed” to “Member States”, in the first place it occurs, substitute “ measures referred to in Article 21(1)(a) and (b) and Articles 28 to 31, 33 and 34 of Regulation (EU) No 1305/2013, the relevant authority ”;
+(ii)
+for “Member States”, in the second place it occurs, substitute “ The relevant authority ”;
+(b)
+in paragraph 4—
+(i)
+in point (a), omit “aid applications or”;
+(ii)
+omit point (b) and the preceding “and/or”;
+(iii)
+omit the second subparagraph;
+(c)
+in paragraph 5, for “Member States” substitute “ the relevant authority ”.”].
+(37) For paragraph (59) substitute—
+“(59) Omit Article 76.”.
+Textual Amendments
+F1
+Reg. 8(7)(8) revoked (E.) (1.1.2024) by The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816), reg. 1(1), Sch. Pt. 1 para. 1 Table 2 (with Sch. Pt. 2 para. 2)
+F2
+Reg. 8(31)-(36) revoked (E.) (1.1.2024) by The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816), reg. 1(1), Sch. Pt. 1 para. 1 Table 2 (with Sch. Pt. 2 para. 2)
+Commencement Information
+I1
+Reg. 8 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)(b)
+Marginal Citations
+M1
+The Direct Payments to Farmers (Legislative Continuity) Act 2020 (c. 2) incorporated Regulation (EU) 809/2014 with effect from exit day insofar as it relates to direct payment schemes and that Regulation has been amended in relation to direct payment schemes. Under Article 138 of the withdrawal agreement and s7A of the European Union (Withdrawal Agreement) Act 2018 (c. 16) certain common organisation of the markets and rural development measures committed under the MFF 2014-20 and previous financial perspectives continue to be governed by directly applicable EU law.9.—(1) Regulation 6 is amended as follows.
+(2) In paragraph (1), after “amended” insert “ , for the purposes of common organisation of the markets and rural development measures M1, ”.
+(3) After paragraph (1) insert—
+“(1A) In Article 1, omit points (g) and (m).”.
+(4) In paragraph (2)—
+(a)
+before sub-paragraph (a) insert—
+“(za)
+in paragraph 1, in the first subparagraph, omit “in Article 4(1) of Regulation (EU) No 1307/2013 and”;”;
+[F1(b)
+in sub-paragraph (a), before paragraph (i) insert—
+“(ai)
+in point (1), omit the words from “a farmer” to “that Regulation,”;]
+(c)
+after sub-paragraph (a)(iii), insert—
+“(iiia)
+omit points (13) and (15);
+(iiib)
+in point (16), omit the words from “subject”, in the first place it occurs, to “scheme or”;
+(iiic)
+in point (17), omit “the aid under the animal aid scheme or”;
+(iiid)
+in point (18), omit point (a);”;
+(d)
+for sub-paragraph (a)(iv) substitute—
+“(iv)
+omit point (20);”;
+(e)
+after sub-paragraph (a)(iv) insert—
+“(iva)
+omit point (22);
+(ivb)
+in point (23), omit point (a) and the “or” which follows it;”.
+(5) For paragraph (4) substitute—
+“(4) In Article 4, in paragraph 1—
+(a)
+omit the first subparagraph;
+(b)
+in the third subparagraph, for “Member States” substitute “ the relevant authority ”.”.
+(6) In paragraph (5)—
+(a)
+for sub-paragraph (a) substitute—
+“(a)
+in paragraph 1—
+(i)
+in the first subparagraph, omit the words from “areas” to “No 1307/2013 and”;
+(ii)
+in the second subparagraph, for “Member States” substitute “ The relevant authority ”;”;
+(b)
+in sub-paragraph (b)—
+(i)
+after paragraph (ii) insert—
+“(iia)
+omit point (a);”;
+(ii)
+for paragraphs (iii) and (iv) substitute—
+“(iii)
+omit point (c);
+(iv)
+in point (d)—
+(aa)
+for “2000 areas,” substitute “ 2000 areas and ”;
+(bb)
+omit the words from “, agricultural land authorised” to “Article 48 of that Regulation”;”.
+(7) For paragraphs (6) and (7) substitute—
+“(6) Omit Article 6.
+(7) Omit Article 7.”.
+(8) In paragraph (8)(b)(ii), before “relevant” omit “the”.
+(9) In paragraph (9), before “relevant” insert “ the ”.
+(10) After paragraph (9) insert—
+“(9A) In Article 12—
+(a)
+in the first subparagraph—
+(i)
+for the words from the beginning to “where” substitute “ Where ”;
+(ii)
+omit point (b);
+(b)
+omit the second subparagraph.”.
+(11) For paragraph (12) substitute—
+“(12) Omit Article 14.”.
+(12) For paragraph (13) substitute—
+“(13) In Article 16—
+(a)
+in paragraph 1, in the first subparagraph, omit “area-related direct payments and/or”;
+(b)
+omit paragraph 3.”.
+(13) For paragraph (14) substitute—
+“(14) In Article 17—
+(a)
+in paragraph 1—
+(i)
+omit points (a) to (d);
+(ii)
+in point (e), omit “aid scheme or”;
+(b)
+in paragraph 2—
+(i)
+for “an aid application and/or” substitute “ a ”;
+(ii)
+omit “aid scheme or”;
+(ii)
+omit “aid schemes or”.”.
+(14) For paragraph (15) substitute—
+“(15) In Article 18—
+(a)
+omit paragraphs 1 to 4;
+(b)
+in paragraph 5—
+(i)
+omit “aid applications and/or”;
+(ii)
+omit “aid schemes or”;
+(c)
+in paragraph 6—
+(i)
+omit “aid applications and/or”
+(ii)
+omit “aid schemes or”;
+(iii)
+omit the words from “the total area declared for payment under the direct” to “No 1307/2013 or”;
+(d)
+omit paragraph 7.”.
+(15) After paragraph (15) insert—
+“(15A) In Article 19—
+(a)
+in paragraph 1, in the first subparagraph, omit “aid schemes or”;
+(b)
+omit “aid or” in each place it occurs.”.
+(16) For paragraph (16) substitute—
+“(16) In Article 19a—
+(a)
+in the heading, omit the words from “the basic” to “small farmers scheme”;
+(b)
+in paragraph 1, omit the words from “the aid schemes” to “Regulation (EU) No 1307/2013 and”;
+(c)
+in paragraphs 2 and 3, omit “aid scheme or” in both places it occurs.”.
+(17) For paragraph (17) substitute—
+“(17) Omit Articles 20 to 29.”.
+(18) Omit paragraph (18).
+(19) In paragraph (19)—
+(a)
+before sub-paragraph (a) insert—
+“(za)
+in paragraph 1—
+(i)
+omit “aid or”;
+(ii)
+omit “in the aid application or”;”;
+(b)
+in sub-paragraph (a)—
+(aa)
+before paragraph (i) insert—
+“(ai)
+omit “in the aid application or”;
+(bi)
+omit “aid or”;
+(ci)
+omit “application or”;”;
+(bb)
+after paragraph (ii) insert—
+“(iii)
+omit “applications or”;”;
+(c)
+after sub-paragraph (a) insert—
+“(aa)
+in paragraph 3—
+(i)
+for “an aid application or” substitute “ a ”;
+(ii)
+omit “aid or”;”;
+(d)
+after paragraph (b) insert—
+“(c)
+in paragraph 4(c), for the words from “other than that” to “aid scheme or” substitute “ under the ”.”.
+(20) For paragraph (20) substitute—
+“(20) In Article 31—
+(a)
+in paragraph 1—
+(i)
+omit the words from “in respect” to “aid scheme or”, in the first place it occurs;
+(ii)
+omit “aid or”;
+(iii)
+omit “aid scheme or”;
+(b)
+in paragraph 2—
+(i)
+omit “aid or”, in each place it occurs;
+(ii)
+omit “aid scheme or”, in both places it occurs;
+(iii)
+in the fourth subparagraph, for “Member States”, in both places it occurs, substitute “ the relevant authority ”;
+(c)
+in paragraph 3—
+(i)
+in the first subparagraph—
+(aa)
+omit “animal aid scheme or”, in the first place it occurs;
+(bb)
+omit “aid scheme or”, in the second place it occurs;
+(cc)
+omit “aid application or”;
+(ii)
+in the second subparagraph—
+(aa)
+for “Member State” substitute “ relevant authority ”;
+(bb)
+omit the words from “, irrespectively of their status” to the end;
+(d)
+in paragraph 4—
+(i)
+omit “aid or” in both places it occurs;
+(ii)
+for “an aid scheme or” substitute “ a ”.”.
+(21) In paragraph (21)—
+(a)
+after sub-paragraph (a)(ii) insert—
+“(iii)
+omit “aid or”;”;
+(b)
+in sub-paragraph (b)(iii) after “national” insert “ legislation ”.
+(22) After paragraph (21) insert—
+“(21A) In Article 34, omit “aid application or”.”.
+(23) For paragraphs (27) to (29) substitute—
+“(27) Omit Articles 42 to 44.”.
+Textual Amendments
+F1
+Reg. 9(4)(b) revoked (E.) (1.1.2024) by The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816), reg. 1(1), Sch. Pt. 1 para. 1 Table 2 (with Sch. Pt. 2 para. 2)
+Commencement Information
+I1
+Reg. 9 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)(b)
+Marginal Citations
+M1
+The Direct Payments to Farmers (Legislative Continuity) Act 2020 (c. 2) incorporated Regulation (EU) 640/2014 with effect from exit day insofar as it relates to direct payment schemes and the Regulation has subsequently been amended in relation to direct payment schemes. Under Article 138 of the withdrawal agreement and s7A of the European Union (Withdrawal Agreement) Act 2018 (c. 16) certain common organisation of the markets and rural development measures committed under the MFF 2014-20 and previous financial perspectives continue to be governed by directly applicable EU law.The Agriculture (Legislative Functions) (EU Exit) Regulations 2019
+10.—(1) The Agriculture (Legislative Functions) (EU Exit) Regulations 2019 M1 are amended as follows.
+F1(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3) In regulation 5, before sub-paragraph (a) insert—
+“(za)
+for the heading substitute— “ Powers ”;”.
+(4) Omit regulations 7 and 8.
+(5) For regulation 12 substitute—
+“12.  In Article 62—
+(a)
+for the heading substitute— “ Powers as regards checks ”;
+(b)
+in paragraph 2—
+(i)
+for “Commission shall adopt implementing acts” substitute “ appropriate authority may make regulations ”;
+(ii)
+in point (a)—
+(aa)
+for “Member States” substitute “ relevant authority ”;
+(bb)
+omit the words from “resulting” to the end;
+(iii)
+omit points (e) and (f);
+(iv)
+omit the second subparagraph.”.
+(6) In regulation 13, after sub-paragraph (b)(i) insert—
+“(ia)
+in point (b), omit “in respect of unduly allocated payment entitlements and”.”.
+(7) In regulation 17—
+(a)
+after sub-paragraph (a)(ii) insert—
+“(iia)
+in point (a), omit the words from “, in addition to those” to the end;”.
+(b)
+after sub-paragraph (b)(i) insert—
+“(ia)
+omit point (b);”.
+(8) In regulation 18, after sub-paragraph (a)(i) insert—
+“(ia)
+for “paragraphs 5 and 6” substitute “ paragraph 5 ”;”.
+(9) In regulation 19, for sub-paragraph (b) substitute—
+“(b)
+in point (b)—
+(i)
+omit “and applications for payment entitlements,”;
+(ii)
+for the words from “Member” to the end substitute “ for the application of simplified procedures or correction of obvious errors ”;”.
+(10) In regulation 27, in the substituted text—
+(a)
+omit paragraphs 2 and 7 of Article 115A;
+(b)
+omit paragraph 6 of Article 115B;
+(c)
+omit paragraph 6 of Article 115C;
+(d)
+omit paragraph 6 of Article 115D.
+(11) Omit Part 3.
+Textual Amendments
+F1
+Reg. 10(2) revoked (26.2.2022) by The Waste and Agriculture (Legislative Functions) Regulations 2022 (S.I. 2022/190), regs. 1(1), 25
+Commencement Information
+I1
+Reg. 10 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)(b)
+Marginal Citations
+M1
+S.I. 2019/748, as amended by S.I. 2019/831.The Common Agricultural Policy and Agriculture and Horticulture Development Board (Amendment etc.) (EU Exit) Regulations 2019
+11.—(1) The Common Agricultural Policy and Agriculture and Horticulture Development Board (Amendment etc.) (EU Exit) Regulations 2019 M1 are amended as follows.
+(2) Omit regulation 4.
+(3) In regulation 5—
+(a)
+omit paragraph (2)(b);
+(b)
+in paragraph (9), omit “direct payments and”;
+(c)
+after paragraph (9), insert the following paragraph—
+“(10) Omit regulation 36(2).”.
+(4) After regulation 6, insert—
+“Saving provisions
+7.  The Environmental Stewardship Regulations 2005 M2 apply in respect of any programme or activity to which Article 138 of the withdrawal agreement applies as if the amendments made by regulation 2 had not been made.
+8.  The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 M3 apply in respect of any programme or activity to which Article 138 of the withdrawal agreement applies as if the amendments made by regulation 5 had not been made and any reference to a Regulation originating from the European Union in those Regulations is to be read as a reference to that Regulation as it has effect in EU law.
+9.  Regulations 1 to 3 of the Common Agricultural Policy (Competent Authority and Coordinating Body) Regulations 2014 M4 continue to apply in respect of any programmes or activities to which Article 138 of the withdrawal agreement applies as if the revocation made by regulation 6 had not been made.”.
+Commencement Information
+I1
+Reg. 11 in force at 31.12.2020 on IP completion day, see reg. 1(2)(a)
+Marginal Citations
+M1
+S.I. 2019/733.
+M2
+S.I. 2005/621, amended by S.I. 2019/733; there are other amending instruments but none is relevant.
+M3
+S.I. 2014/3263, amended by S.I. 2019/733; there are other amending instruments but none is relevant.
+M4
+S.I. 2014/3260, amended by S.I. 2019/733.The Rural Development (Amendment) (EU Exit) Regulations 2019
+12.—(1) The Rural Development (Amendment) (EU Exit) Regulations 2019 M1 are amended as follows.
+(2) In regulations 3(2) and 6(2), for “exit day”, in each place it occurs, substitute “ IP completion day ”.
+(3) In regulation 5, after paragraph (24) insert—
+“(24A) In Article 39b—
+(a)
+in paragraph 3—
+(i)
+for “Member States” substitute “ The relevant authority ”;
+(ii)
+for “Member State” substitute “ relevant authority ”;
+(b)
+in paragraph 4, omit the second sentence;
+(c)
+in paragraph 6—
+(i)
+for “Member States” substitute “ the relevant authority ”;
+(ii)
+for “other national or Union support instruments” substitute “ Regulation 508/2014 or direct payment support ”.”.
+(4) In regulation 6(9), at the end insert as a new sub-paragraph—
+“(c)
+omit paragraph 4.”.
+(5) In regulation 7(5), after sub-paragraph (f) insert—
+“(fa)
+in paragraph 6a—
+(i)
+omit “EAFRD” in the first place it occurs;
+(ii)
+for “EAFRD”, in the second place it occurs, substitute “ core ”;”.
+(6) In regulation 8(2)(b), after paragraph (ii) insert—
+“(iii)
+in point (b) for “accredited” substitute “ designated ”;
+(iv)
+omit point (c);”.
+Commencement Information
+I1
+Reg. 12 in force at 31.12.2020 on IP completion day, see reg. 1(2)(a)
+Marginal Citations
+M1
+S.I. 2019/764.The Rural Development (Rules and Decisions) (Amendment) (EU Exit) Regulations 2019
+13.—(1) The Rural Development (Rules and Decisions) (Amendment) (EU Exit) Regulations 2019 M1 are amended as follows.
+(2) In regulation 2(10), for “exit day” substitute “ IP completion day ”.
+(3) In regulation 3—
+(a)
+in paragraph (5)(d)(i), after sub-paragraph (bb), insert—
+“(cc)
+for the words from “proposal” to “Commission” substitute “ amendment made in response to the COVID-19 crisis is made ”;”;
+(b)
+in paragraph (14), before sub-paragraph (a) insert—
+“(za)
+in paragraph 1, omit point (g);”.
+Commencement Information
+I1
+Reg. 13 in force at 31.12.2020 on IP completion day, see reg. 1(2)(a)
+Marginal Citations
+M1
+S.I. 2019/770.The European Structural Investment Funds (Common Provisions) (Amendment) (EU Exit) Regulations 2019
+14.—(1) The European Structural Investment Funds (Common Provisions) (Amendment) (EU Exit) Regulations 2019 M1 is amended as follows.
+(2) In regulation 4(2), for “exit day”, in each place it occurs, substitute “ IP completion day ”.
+Commencement Information
+I1
+Reg. 14 in force at 31.12.2020 on IP completion day, see reg. 1(2)(a)
+Marginal Citations
+M1
+S.I. 2019/785.The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019
+15.—(1) The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 M1 are amended as follows.
+(2) In regulation 5, after paragraph (4) insert—
+“(4A) In Article 4(b)—
+(a)
+omit “an Implementing Regulation opening”;
+(b)
+after “procedure or” insert “ the Regulations ”;
+(c)
+for “provides” substitute “ provide ”.
+(4B) Omit Article 5(3)(c).”.
+(3) In regulation 6—
+(a)
+in paragraph (10), after sub-paragraph (a), insert—
+“(ab)
+omit “as provided for in Article 3(6)(a) of that Regulation”;”;
+(b)
+for paragraph (25)(a), substitute—
+“(a)
+in paragraph 1—
+(i)
+for “tenders notified in accordance with Article 42” substitute “ admissible tenders received within the time limits set down in the published tendering procedure ”;
+(ii)
+omit “, as provided for in Article 4(2)(a) of Regulation (EU) No 1370/2013”;”.
+Commencement Information
+I1
+Reg. 15 in force at 31.12.2020 on IP completion day, see reg. 1(2)(a)
+Marginal Citations
+M1
+S.I. 2019/823.The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019
+16.—(1) The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 M1 are amended as follows.
+(2) In regulation 4, at the end of substituted Article 14, insert as a new subparagraph—
+“Regulations under point (b) may provide for the quantitative limitation to be 0.”.
+(3) For regulation 6(c) substitute—
+“(c)
+omit paragraph 3.”.
+(4) In regulation 39, omit “for the constituent nation in which the regulations apply” in both places it occurs.
+(5) In regulation 42—
+(a)
+for paragraph (a) substitute—
+“(a)
+in paragraph 1—
+(i)
+omit “point (a) of”;
+(ii)
+after “limitations” insert “ (applicable to the United Kingdom as a whole) ”;
+(ab)
+in paragraph 2—
+(i)
+for “Article 13(1)” substitute “ Article 13 ”;
+(ii)
+omit “and shall be fixed by means of implementing acts”;”;
+(b)
+in paragraph (b)—
+(i)
+in point (a) of the substituted text, at the beginning insert “ where public intervention is carried out by way of tendering, ”;
+(ii)
+in point (b) of the substituted text, at the beginning insert “ where buying-in is carried out at a fixed price, ”;
+(c)
+for paragraph (c) substitute—
+“(c)
+in paragraph 4, for “The Commission shall adopt implementing acts” substitute “ The appropriate authority may make regulations ”;”;
+(d)
+for paragraph (e) substitute—
+“(e)
+omit paragraph 6.”.
+(6) In regulation 43—
+(a)
+for “4” substitute “ 4(2) ”;
+(b)
+after sub-paragraph (a) insert—
+“(ab)
+omit point (a);”.
+(7) In regulation 58(a)(i)—
+(a)
+for “Article 13” substitute “ Article 13(2) ”;
+(b)
+after “2013” insert “ or Article 3(2) of Regulation (EU) No 1370/2013 ”.
+(8) In regulation 60(a), for the substituted wording substitute “ Any tendering procedure (where tendering applies) or Regulations ”.
+(9) Omit regulation 62.
+Commencement Information
+I1
+Reg. 16 in force at 31.12.2020 on IP completion day, see reg. 1(2)(a)
+Marginal Citations
+M1
+S.I. 2019/831.The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019
+17.  In the Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019 M1, in regulation 5(13)(a), for “laying down” substitute “ Article 227 ”.
+Commencement Information
+I1
+Reg. 17 in force at 31.12.2020 on IP completion day, see reg. 1(2)(a)
+Marginal Citations
+M1
+SI. 2019/1402.The Common Agricultural Policy and Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2019
+18.  In the Common Agricultural Policy and Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 M1, in regulation 3, omit paragraphs (4)(a) and (5).
+Commencement Information
+I1
+Reg. 18 in force at 31.12.2020 on IP completion day, see reg. 1(2)(a)
+Marginal Citations
+M1
+S.I. 2019/1405.The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments etc.) (EU Exit) (No. 2) Regulations 2019
+19.  In the Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments etc.) (EU Exit) (No.2) Regulations 2019 M1, in regulation 4(11)(a), in the substituted text, for “ marketing ” substitute “marking”.
+Commencement Information
+I1
+Reg. 19 in force at 31.12.2020 on IP completion day, see reg. 1(2)(a)
+Marginal Citations
+M1
+S.I. 2019/1422.Commission Implementing Regulation (EU) No 543/2011
+F120.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Textual Amendments
+F1
+Pt. 4 revoked (25.6.2021) by The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756), regs. 1(2), 7(a)Commission Delegated Regulation (EU) 2017/891
+F121.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Textual Amendments
+F1
+Pt. 4 revoked (25.6.2021) by The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756), regs. 1(2), 7(a)Commission Implementing Regulation (EU) 2017/892
+F122.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Textual Amendments
+F1
+Pt. 4 revoked (25.6.2021) by The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756), regs. 1(2), 7(a)Commission Implementing Regulation (EU) 2017/1185
+F123.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Textual Amendments
+F1
+Pt. 4 revoked (25.6.2021) by The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756), regs. 1(2), 7(a)Revocations
+24.  The following are revoked—
+(a)
+the Common Agricultural Policy (Direct Payments to Farmers) (Amendment) (EU Exit) Regulations 2019 M1;
+(b)
+the Common Agricultural Policy (Rules for Direct Payments) (Amendment) (EU Exit) Regulations 2019 M2;
+(c)
+regulation 2 of the Common Agricultural Policy and Market Measures (Miscellaneous Amendments) (EU Exit) Regulations 2019 M3;
+(d)
+Part 4 of the Food and Farming (Amendment) (EU Exit) Regulations 2019 M4.
+Commencement Information
+I1
+Reg. 24 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)(b)
+Marginal Citations
+M1
+S.I. 2019/207, amended by S.I. 2019/759, 812.
+M2
+S.I. 2019/208, amended by S.I. 2019/759.
+M3
+S.I. 2019/812.
+M4
+S.I. 2019/759.Victoria Prentis
+Parliamentary Under Secretary of State
+Department for Environment, Food and Rural AffairsEXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations are made in exercise of the powers conferred by section 6(1) of the Direct Payments to Farmers (Legislative Continuity) Act 2020 (c. 2) and sections 8(1) and 8C(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 (c. 16) in order to address failures of retained EU law to operate effectively and other deficiencies (in particular under section 8(2)(a), (b), (c), (d) and (g) of the 2018 Act) arising from the withdrawal of the United Kingdom from the European Union and to reflect the Protocol on Ireland/Northern Ireland in the withdrawal agreement.
+Regulation 2 makes provision as to the status of the position of certain EU Regulations which were incorporated into domestic law with effect from exit day insofar as relating to direct payments and incorporated with effect from IP completion day for remaining purposes.
+Regulations 3 to 10 make amendments to the Common Agricultural Policy (Financing, Management and Monitoring) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/763), the Common Agricultural Policy (Financing, Management and Monitoring Supplementary Provisions) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/765) and the Agriculture (Legislative Functions) (EU Exit) Regulations 2019 (S.I. 2019/748) to reflect that these amendments will not apply in relation to direct payments following the withdrawal agreement and the Direct Payments to Farmers (Legislative Continuity) Act 2020 including regulations made under that Act. Regulation 18 makes consequential amendments to the Common Agricultural Policy and Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1405).
+Regulation 11 amends the Common Agricultural Policy and Agriculture and Horticulture Development Board (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/733) to reflect the withdrawal agreement.
+Regulations 12 to 14 respectively amend the Rural Development (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/764), the Rural Development (Rules and Decisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/770) and the European Structural Investment Funds (Common Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785) to reflect the withdrawal agreement. Regulations 13 and 14 also insert additional operability amendments.
+Regulations 15 and 16 make amendments to correct errors identified in the Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823) and the Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/831). Regulation 16 makes a consequential amendment to an amendment in Regulation 10.
+Regulations 17 and 19 respectively amend the Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1402) and the Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments etc.) (EU Exit) (No.2) Regulations 2019 (S.I. 2019/1422) to make some small corrections.
+Regulations 20 to 22 make amendments to Commission Implementing Regulation (EU) No 543/2011, Commission Delegated Regulation (EU) 2017/891 and Commission Implementing Regulation (EU) 2017/892 concerning producer groups, producer organisations and notifications in the fruit and vegetables and processed fruit and vegetables sectors.
+Regulation 23 amends provisions of Commission Implementing Regulation (EU) 2017/1185 relating to notifications of agricultural market information to domestic authorities.
+Regulation 24 revokes Regulations and parts of Regulations which have been superseded by the Direct Payments to Farmers (Legislative Continuity) Act 2020 and the Regulations made under that Act.
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.

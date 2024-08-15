@@ -1,0 +1,77 @@
+STATUTORY INSTRUMENTS
+2021 No. 1055
+INFRASTRUCTURE PLANNING
+The North Killingholme (Generating Station) (Amendment) Order 2021
+Made
+16th September 2021
+Coming into force
+17th September 2021
+An application has been made, under paragraph 2 of Schedule 6 to the Planning Act 2008 (the “2008 Act”)(1), to the Secretary of State in accordance with the Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) Regulations 2011 (the “2011 Regulations”)(2) for a non-material change to the North Killingholme (Generating Station) Order 2014 (the “2014 Order”)(3).
+The Secretary of State, having considered the application and the responses to the publicity and consultation carried out in accordance with regulations 6, 7 and 7A of the 2011 Regulations, has decided to make this Order amending the 2014 Order.
+Accordingly, the Secretary of State, in exercise of the powers conferred by paragraph 2 of Schedule 6 to the 2008 Act, makes the following Order:
+(1)
+2008 c. 29. Paragraph 2 was amended by paragraph 4 of Schedule 8 to the Marine and Coastal Access Act 2009 (c. 23), by paragraphs 1 and 72 of Schedule 13 to the Localism Act 2011 (c. 20), and by section 28 of the Infrastructure Act 2015 (c. 7). There are other amendments to the Act that are not relevant to this Order.
+(2)
+S.I. 2011/2055, as amended by S.I. 2012/635, S.I. 2015/760 and S.I. 2020/1534. There are other amendments to the instrument that are not relevant to this Order.
+(3)
+S.I. 2014/2434, as amended by S.I. 2015/1829.Citation and commencement
+1.  This Order may be cited as the North Killingholme (Generating Station) (Amendment) Order 2021 and comes into force on 17th September 2021.Amendment to the North Killingholme (Generating Station) Order 2014
+2.  The North Killingholme (Generating Station) Order 2014 is amended in accordance with this Order.Amendment to article 2 (Interpretation)
+3.  In article 2(1), omit the definition of “the works plans” and substitute—
+““the works plans” means the plans certified as the works plans by the Secretary of State for the purposes of this Order including the works plan dated 31st July 2020 and certified by the Secretary of State in accordance with article 34(1A).”.Amendments to article 34 (Certification of plans, etc.)
+4.  After paragraph (1) insert—
+“(1A) The undertaker shall, as soon as practicable after the coming into force of the North Killingholme (Generating Station) (Amendment) Order 2021, submit to the Secretary of State copies of—
+(a)
+the works plan dated 31st July 2020 (Replacement of Document Reference Nos 2.12, 2.13 and 2.14) that was submitted with the application dated 13th August 2020 for a non-material change to this Order under paragraph 2 of Schedule 6 to the Planning Act 2008; and
+(b)
+the feasibility study dated May 2021 (Carbon Capture Readiness Feasibility Study / Carbon Capture and Storage Design Concept Report),
+for certification that they are true copies of the plans or documents referred to in this Order.”.Amendments to Part 3 (Requirements) of Schedule 1 (Authorised development)
+5.—(1) Part 3 (Requirements) of Schedule 1 (Authorised development) is amended as follows.
+(2) In paragraph 1—
+(a)
+omit the definition of “current CCS proposal” and substitute—
+““current CCS proposal” means—
+(a)
+the pre-combustion CCS proposal; or
+(b)
+the post-combustion CCS proposal;”;
+(b)
+omit the definition of “designated site” and substitute—
+““designated site” means the land shown hatched blue and labelled “Post Combustion CCS Area” on the works plans as the area where the undertaker proposes to locate capture equipment for the post-combustion CCS proposal;”;
+(c)
+after the definition of “operations area” omit “and”;
+(d)
+after the definition of “operations area” insert—
+““post-combustion CCS proposal” means the CCS proposal not including Work No. 2a set out in the feasibility study dated May 2021 (Carbon Capture Readiness Feasibility Study / Carbon Capture and Storage Design Concept Report) certified by the Secretary of State for the purposes of this Order;
+“pre-combustion CCS proposal” means the CCS proposal including Work No. 2a set out in the feasibility study dated May 2021 (Carbon Capture Readiness Feasibility Study / Carbon Capture and Storage Design Concept Report) certified by the Secretary of State for the purposes of this Order; and”; and
+(e)
+omit the definition of “target carbon dioxide” and substitute—
+““target carbon dioxide” means—
+(a)
+in respect of the pre-combustion CCS proposal, as much of the carbon dioxide emitted by the first 300 MWe of the capacity of the authorised development when it is operating at full capacity as it is reasonably practicable to capture for the purposes of permanent storage, having regard to the state of the art in pre-combustion carbon capture and storage technology for the time being; or
+(b)
+in respect of the post-combustion CCS proposal, as much of the carbon dioxide emitted by the authorised development when it is operating at full capacity as it is reasonably practicable to capture for the purposes of permanent storage, having regard to the state of the art in post-combustion carbon capture and storage technology.”.
+(3) In paragraph 2, for “seven” substitute “twelve”.
+(4) In paragraph 36(a), for “land which includes the area to be occupied by Work Nos. 2a, 2b, and 2c” substitute “the designated site”.
+(5) In paragraph 37, omit sub-paragraphs (1) to (7) and insert—
+“(1) The undertaker must make a report (“carbon capture readiness monitoring report”) to the Secretary of State—
+(a)
+on or before the date which is three months after the date upon which electricity is first exported by the authorised development; and
+(b)
+within one month of the second anniversary, and each subsequent even-numbered anniversary, of that date.
+(2) Each carbon capture readiness monitoring report must provide evidence that the undertaker has complied with requirement 36–
+(a)
+in the case of the first carbon capture readiness monitoring report, since commencement of the authorised development; and
+(b)
+in the case of any subsequent report, since the making of the previous carbon capture readiness monitoring report,
+and explain how the undertaker expects to continue to comply with requirement 36 over the next two years.
+(3) Each carbon capture readiness monitoring report must state whether the undertaker considers the retrofit of carbon capture technology is feasible explaining the reasons for any such conclusion and whether any impediments could be overcome.
+(4) Each carbon capture readiness monitoring report must state, with reasons, whether the undertaker has decided to seek any additional regulatory clearances, or to modify any existing regulatory clearances, in respect of any carbon capture readiness proposals.”.
+(6) In paragraph 38(1)(b)(i), for “on the designated site” substitute “for the pre-combustion CCS proposal”.
+(7) In paragraph 38(2), for “post-combustion carbon capture” substitute “the post-combustion CCS proposal.”.Signed by authority of the Secretary of State for Business, Energy and Industrial Strategy
+Gareth Leigh
+Head of Energy Infrastructure Planning
+Department for Business, Energy and Industrial Strategy
+16th September 2021EXPLANATORY NOTE
+(This note is not part of the Order)
+This Order amends the North Killingholme (Generating Station) Order 2014, a development consent order under the Planning Act 2008, following an application made in accordance with the Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) Regulations 2011 for a non-material change under paragraph 2 of Schedule 6 to the Planning Act 2008. This Order extends the commencement/implementation period by five years. It also updates provisions associated with carbon capture, inserts a replacement works plan and substitutes a new updated feasibility study in respect of carbon capture.

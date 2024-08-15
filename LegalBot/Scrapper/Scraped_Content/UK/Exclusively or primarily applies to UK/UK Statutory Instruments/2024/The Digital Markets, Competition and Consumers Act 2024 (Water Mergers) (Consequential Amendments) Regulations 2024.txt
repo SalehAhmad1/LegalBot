@@ -1,0 +1,71 @@
+STATUTORY INSTRUMENTS
+2024 No. 840
+COMPETITION
+WATER INDUSTRY, ENGLAND AND WALES
+The Digital Markets, Competition and Consumers Act 2024 (Water Mergers) (Consequential Amendments) Regulations 2024
+Made
+29th July 2024
+Laid before Parliament
+31st July 2024
+Coming into force
+23rd August 2024
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 336(1) of the Digital Markets, Competition and Consumers Act 2024(1).
+(1)
+2024 c. 13. See section 336(5) for the definition of “appropriate authority”.Citation, commencement and extent
+1.—(1) These Regulations may be cited as the Digital Markets, Competition and Consumers Act 2024 (Water Mergers) (Consequential Amendments) Regulations 2024 and come into force on 23rd August 2024.
+(2) These Regulations extend to England and Wales.Amendment of the Water Mergers (Modification of Enactments) Regulations 2004
+2.  The Water Mergers (Modification of Enactments) Regulations 2004(1) are amended as set out in these Regulations.
+(1)
+S.I. 2004/3202, amended by S.I. 2014/549, 2015/1936, 2019/93 and 2023/1185.Regulation 17
+3.  In regulation 17 (section 72: initial enforcement orders: completed or anticipated mergers), in paragraph (d)(i), for “in paragraph (a)” substitute “in the words before paragraph (a)”.Regulation 17A
+4.  In regulation 17A (section 73A: time-limits for consideration of undertakings), in paragraph (b)(ii), after “73(2)” insert “or (3B)”.Regulation 17B
+5.  In regulation 17B (section 74: effect of undertakings under section 73)—
+(a)
+in paragraph (b)—
+(i)
+in sub-paragraph (i), for “, 45, 68B or 68C” substitute “or 45”;
+(ii)
+in sub-paragraph (ii), for “73” substitute “73(2)”;
+(b)
+omit the “and” after paragraph (b);
+(c)
+after paragraph (b) insert—
+“(ba)
+subsection (1A) were omitted;
+(bb)
+in subsection (2), for “Subsections (1) and (1A) do not” there were substituted “Subsection (1) does not”; and”.Regulation 17C
+6.  In regulation 17C (section 75: order making power where undertakings under section 73 not fulfilled etc)—
+(a)
+in paragraph (b), for “73” substitute “73(2) or (3B)”;
+(b)
+in paragraph (c), after “73(2)” insert “or (3B) (as the case may be)”;
+(c)
+for paragraph (d) substitute—
+“(d)
+for subsections (3A) and (3B) there were substituted—
+“(3A) Subsections (4) and (5) of section 33D of the 1991 Act apply for the purposes of subsection (2) above as they apply for the purposes of subsection (1) of that section.”.”.Regulation 20
+7.  In regulation 20 (section 79: sections 77 and 78: further interpretation provisions)—
+(a)
+omit the “and” after paragraph (a);
+(b)
+for paragraph (b) substitute—
+“(b)
+for paragraphs (c), (d) and (e) of subsection (1), there were substituted—
+“(c)
+the report of the CMA under section 38 contains the decision that there is not a prejudicial outcome;
+(d)
+the report of the CMA under section 38 contains the decision that there is a prejudicial outcome and the CMA has decided under section 41(2) neither to accept an undertaking under section 82 nor to make an order under section 84; or
+(e)
+the report of the CMA under section 38 contains the decision that there is a prejudicial outcome and the CMA has decided under section 41(2) to accept an undertaking under section 82 or to make an order under section 84.”; and”;
+(c)
+after paragraph (b) insert—
+“(c)
+subsection (5A) were omitted.”.Justin Madders
+Parliamentary Under-Secretary of State
+Department for Business and Trade
+29th July 2024EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations make amendments to the Water Mergers (Modification of Enactments) Regulations 2004 (S.I. 2004/3202) (“the 2004 Regulations”) that are consequential on amendments made by Schedule 6 to the Digital Markets, Competition and Consumers Act 2024 (c. 13) (“the DMCCA”). Schedule 6 to the DMCCA makes amendments to Part 3 of the Enterprise Act 2002 (c. 40) in relation to mergers involving energy network enterprises.
+Part 3 of the Enterprise Act 2002 contains the main statutory scheme for the regulation of mergers. Sections 32 to 35 of, and Schedule 4ZA to, the Water Industry Act 1991 (c. 56) provide a separate scheme for the regulation of mergers between water or sewerage enterprises in England and Wales. Paragraph 1 of Schedule 4ZA provides that Part 3 of the Enterprise Act 2002 applies to water mergers with such modifications as may be prescribed by the Secretary of State. These modifications are set out in the 2004 Regulations.
+These Regulations update the modifications made by the 2004 Regulations to sections 72, 73A to 75 and 79 in Part 3 of the Enterprise Act 2002 in consequence of the amendments to those sections made by Schedule 6 to the DMCCA.
+A full regulatory impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.

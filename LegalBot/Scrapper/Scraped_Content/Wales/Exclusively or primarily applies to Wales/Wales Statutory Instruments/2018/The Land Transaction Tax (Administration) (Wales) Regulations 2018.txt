@@ -1,0 +1,97 @@
+WELSH STATUTORY INSTRUMENTS
+2018 No. 2 (W. 2)
+LAND TRANSACTION TAX, WALES
+The Land Transaction Tax (Administration) (Wales) Regulations 2018
+Made
+4 January 2018
+Laid before the National Assembly for Wales
+8 January 2018
+Coming into force
+1 April 2018
+The Welsh Ministers make the following Regulations in exercise of the powers conferred on them by sections 65(5) and 78(1) of, and paragraphs 2, 9(1), 16 and 18(4)(a) and (5) of Schedule 11 to, the Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017(1).
+(1)
+2017 anaw 1.Title and commencement
+1.—(1) The title of these Regulations is the Land Transaction Tax (Administration) (Wales) Regulations 2018.
+(2) These Regulations come into force on 1 April 2018.Interpretation
+2.  In these Regulations—
+“the LTT Act” (“y Ddeddf TTT”) means the Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017;
+“the Schedule” (“yr Atodlen”) means Schedule 11 to the LTT Act;
+“bond-issuer” (“dyroddwr bond”) is “B” as provided for by paragraph 6 of the Schedule;
+“original owner” (“perchennog gwreiddiol”) is “A” as provided for by paragraph 6 of the Schedule; and
+“UTRN” (“CUT”) means the unique transaction reference number allocated by WRA to a land transaction for the purposes of land transaction tax.Conditions to be met before a WRA certificate is issued
+3.—(1) Subject to paragraph (2), a WRA certificate must be issued where WRA is satisfied that—
+(a)
+a return has been made in respect of a notifiable land transaction; and
+(b)
+the return (together with any other returns that are required)—
+(i)
+has been completed; and
+(ii)
+includes the declaration required by section 53 of the LTT Act.
+(2) Where a return relates to a chargeable transaction, WRA must also be satisfied that—
+(a)
+the return includes a self-assessment as required by section 44(2)(b) of the LTT Act; and
+(b)
+on the basis of the information contained in the return, the self-assessment appears to be correct.Form and content of WRA certificates
+4.  A WRA certificate must be in writing and must contain the following information—
+(a)
+the address of the land to which the transaction relates;
+(b)
+any title number of the land in the register of title maintained by the Chief Land Registrar which has been provided in the return;
+(c)
+any National Address Gazetteer unique property reference number which has been provided in the return;
+(d)
+a description of the transaction;
+(e)
+the effective date of the transaction; and
+(f)
+the name of the buyer and seller.Duplicate WRA certificates
+5.  If WRA is satisfied that a WRA certificate has been lost or destroyed, a duplicate WRA certificate may be issued.Multiple WRA certificates
+6.—(1) Where a return is made relating to more than one transaction, the buyer may request that WRA issues separate WRA certificates in respect of each of the transactions to which the return relates.
+(2) Where the buyer makes a request under paragraph (1), WRA must provide separate certificates in respect of each of those transactions.Prescribed evidence for the purpose of paragraph 9(1) of the Schedule
+7.  The prescribed evidence for the purpose of paragraph 9(1) of the Schedule (condition 4 for operation of reliefs) is—
+(a)
+any document provided by the Chief Land Registrar confirming that a legal charge has been entered in the register of title in favour of WRA; and
+(b)
+the UTRN for the return on which relief from tax was claimed in relation to the transaction where land was transferred from the original owner to the bond-issuer.Prescribed evidence for the purpose of paragraph 16 of the Schedule
+8.  The prescribed evidence for the purpose of paragraph 16 of the Schedule (discharge of charge when conditions for relief met) is—
+(a)
+a statement from the bond-issuer, or a person authorised to act on behalf of the bond-issuer, that all of conditions 1 to 3 and 5 to 7 have been met;
+(b)
+the UTRN for the return on which relief from tax was claimed in relation to the transaction where land was transferred from the original owner to the bond-issuer;
+(c)
+the UTRN for the return on which relief from tax was claimed in relation to the transaction where land was transferred from the bond-issuer to the original owner; and
+(d)
+any document as provided by the Chief Land Registrar confirming that the land has been registered in the name of the original owner.Prescribed evidence for the purpose of paragraph 18(4)(a) of the Schedule
+9.  The prescribed evidence for the purpose of paragraph 18(4)(a) of the Schedule (replacement land in Wales) is—
+(a)
+the UTRN for the return on which relief from tax was claimed in relation to the transaction where land was transferred from the original owner to the bond-issuer;
+(b)
+the UTRN for the return on which relief from tax was claimed in relation to the transaction where land was transferred from the bond-issuer to the original owner; and
+(c)
+any document as provided by the Chief Land Registrar confirming that the original land has been registered in the name of the original owner.Prescribed evidence for the purpose of paragraph 18(5) of the Schedule
+10.  The prescribed evidence for the purpose of paragraph 18(5) of the Schedule (replacement land not in Wales) is—
+(a)
+the UTRN for the return on which relief from tax was claimed in relation to the transaction where land was transferred from the original owner to the bond-issuer;
+(b)
+the UTRN for the return on which relief from tax was claimed in relation to the transaction where land was transferred from the bond-issuer to the original owner;
+(c)
+any document that proves that the replacement land is not in Wales and that conditions 1 to 3 in Part 3 of the Schedule have been met in relation to that land; and
+(d)
+any document as provided by the Chief Land Registrar confirming that the original land has been registered in the name of the original owner.Mark Drakeford
+Cabinet Secretary for Finance, one of the Welsh Ministers
+4 January 2018EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations provide for various matters relating to the administration of land transaction tax.
+Part 2 of these Regulations sets out the circumstances in which the Welsh Revenue Authority (“WRA”) must issue a certificate following receipt of a land transaction return and other matters relating to the certificate.
+Section 65(1) of the Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (“the LTT Act”) prohibits the Chief Land Registrar of Her Majesty’s Land Registry from amending the register of title in respect of a notifiable land transaction until such a certificate has been produced.
+Regulation 3 makes provision about the conditions to be met before a certificate is issued by WRA.
+Regulation 4 prescribes the form and content of a certificate issued by WRA.
+Regulation 5 makes provision about the issue of a duplicate WRA certificate in cases where the original certificate has been lost or destroyed.
+Regulation 6 makes provision about the issue of multiple WRA certificates where a land transaction return is made relating to more than one transaction.
+Part 3 of these Regulations prescribes evidence which must be submitted to WRA where relief is claimed under Schedule 11 to the LTT Act in the case of certain land transactions connected to alternative finance investment bonds.
+Regulation 7 prescribes evidence which must be provided to WRA by the bond-issuer for the purpose of paragraph 9(1) of Schedule 11 to the LTT Act. The evidence prescribed by this regulation is to demonstrate that a legal charge in favour of WRA has been entered into the register of title maintained by the Chief Land Registrar.
+Regulation 8 prescribes evidence which must be provided to WRA by the bond-issuer for the purpose of paragraph 16 of Schedule 11 to the LTT Act. The evidence prescribed by this regulation is to demonstrate that each of conditions 1 to 3 and 5 to 7 has been met to discharge the legal charge registered in pursuance of paragraph 9(1) of that Schedule.
+Regulation 9 prescribes evidence which must be provided to WRA by the bond-issuer for the purpose of paragraph 18(4)(a) of Schedule 11 to the LTT Act, where the replacement land is in Wales. The evidence prescribed by this regulation is to demonstrate that the original land has been transferred to the original owner.
+Regulation 10 prescribes evidence which must be provided to WRA by the bond-issuer for the purposes of paragraph 18(5) of Schedule 11 to the LTT Act. The evidence prescribed by this regulation is to demonstrate that the original land has been transferred to the original owner, and that conditions 1 to 3 are met in relation to the replacement land, which is not in Wales.
+The Welsh Minsters’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, it was not considered necessary to carry out a regulatory impact assessment as to the likely costs and benefits of complying with these Regulations.

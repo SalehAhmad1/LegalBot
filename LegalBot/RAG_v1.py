@@ -10,14 +10,14 @@ from LLM.LLM_GGUF import LLM_GGUF
 from langchain_weaviate.vectorstores import WeaviateVectorStore
 
 class RAG_Bot:
-    def __init__(self, collection_names=['Uk', 'Wales', 'Nothernireland', 'Scotland']):
+    def __init__(self, collection_names=['Uk', 'Wales', 'NothernIreland', 'Scotland'], text_splitter='SpaCy', embedding_model="SentenceTransformers"):
         """
         Initializes the RAG_Bot object.
         
         Args:
             collection_names (list, optional): A list of collection names. Defaults to ['Uk', 'Wales', 'Nothernireland', 'Scotland'].
         """
-        self.vector_db = Database_Weaviate(collection_names=collection_names, text_splitter='SpaCy', embedding_model="Google")
+        self.vector_db = Database_Weaviate(collection_names=collection_names, text_splitter=text_splitter, embedding_model=embedding_model)
         self.llm = LLM_GGUF()
 
     def add_text(self, collection_name, text, metadata=None):
@@ -203,7 +203,7 @@ class RAG_Bot:
                     Text_Docs = []
                     Text_Meta_Datas = []
                     
-                    for o in responses.objects:
+                    for o in responses.objects: #output docs of the hybrid search
                         Text_Docs.append(o.properties['text'])
                         Text_Meta_Datas.append({k: v for k, v in o.properties.items() if k != 'text'})
 

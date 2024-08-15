@@ -1,0 +1,404 @@
+STATUTORY INSTRUMENTS
+2022 No. 859
+BUILDING AND BUILDINGS, ENGLAND
+LANDLORD AND TENANT, ENGLAND
+The Building Safety (Leaseholder Protections) (Information etc.) (England) Regulations 2022
+Made
+20th July 2022
+Coming into force
+21st July 2022
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 123 of, and paragraphs 12, 13 and 15 of Schedule 8 to, the Building Safety Act 2022(1).
+In accordance with section 168(6) of that Act, a draft of this instrument has been laid before Parliament and approved by resolution of each House of Parliament.
+(1)
+2022 c. 30.Citation, commencement, extent, application and interpretation
+1.—(1) These Regulations may be cited as the Building Safety (Leaseholder Protections) (Information etc.) (England) Regulations 2022 and come into force on the day after the day on which they are made.
+(2) These Regulations extend to England and Wales and apply in England only.
+(3) In these Regulations—
+“the Act” means the Building Safety Act 2022;
+[F1“current landlord” means a person who is the landlord under a lease of premises in a relevant building;
+“named manager” means, in relation to a building, a person who is named in a lease as being the party with managing and repairing obligations in relation to the building or part of the building and who is a separate legal person from the freeholder of the building and any landlord of the building or part of the building;]
+“RMC” means a body corporate which is party to a lease of a building where—
+(a)
+the body corporate is limited by guarantee and the members of that body are tenants under leases of dwellings in the building (“leaseholders”), or
+(b)
+the majority of the shares of the body corporate are held by leaseholders; and
+“RTM company” has the same meaning as in the Commonhold and Leasehold Reform Act 2002(1).
+[F2“shared ownership lease” means a lease—
+(a)
+granted on payment of a premium calculated by reference to a percentage of the value of the demised premises or the cost of providing them, or
+(b)
+under which the tenant (or the tenant’s personal representatives) will or may be entitled to a sum calculated by reference, directly or indirectly, to the value of those premises.]
+Textual Amendments
+F1
+Words in reg. 1(3) inserted (5.8.2023) by The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895), regs. 1(1), 3(a)
+F2
+Words in reg. 1(3) inserted (5.8.2023) by The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895), regs. 1(1), 3(b)
+Commencement Information
+I1
+Reg. 1 in force at 21.7.2022, see reg. 1(1)
+(1)
+2002 c. 15. See sections 71 to 74.Remediation orders
+2.—(1) For the purposes of section 123 of the Act (remediation orders) the Secretary of State is prescribed as an interested person.
+[F1(1A) For the purposes of section 123(5) of the Act (remediation orders) the Homes and Communities Agency (established by section 1 of the Housing and Regeneration Act 2008(2)) is prescribed as an interested person.]
+(2) The First-tier Tribunal may, on an application made by an interested person(1), make a remediation order under section 123 of the Act.
+(3) An application for a remediation order must—
+(a)
+state it is an application under section 123 of the Act;
+(b)
+identify the building to which the application relates;
+(c)
+identify the defects to the building for which a remediation order is sought;
+(d)
+identify the landlord (as defined in section 123(3) and (4) of the Act) which the applicant considers is responsible for repairing or maintaining anything relating to the relevant defects.
+(4) Where the First-tier Tribunal makes a remediation order it must as soon as is reasonably practicable send a copy of the order to—
+(a)
+the person who made the application; and
+(b)
+the relevant landlord(2).
+Textual Amendments
+F1
+Reg. 2(1A) inserted (5.8.2023) by The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895), regs. 1(1), 4(1)
+Commencement Information
+I1
+Reg. 2 in force at 21.7.2022, see reg. 1(1)
+(1)
+See section 123(5) of the Act.
+(2)
+See section 123(3) of the Act for the definition of “relevant landlord”.[F1Remediation contribution orders
+2A.  For the purposes of section 124(5) of the Act (remediation contribution orders) the following persons are prescribed as an interested person—
+(a)
+the Homes and Communities Agency;
+(b)
+the named manager in relation to the relevant building;
+(c)
+the RMC in relation to the relevant building; and
+(d)
+the RTM company in relation to the relevant building.]
+Textual Amendments
+F1
+Reg. 2A inserted (5.8.2023) by The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895), regs. 1(1), 4(2)Recovery of amounts from other landlords: cases under paragraph 2 of Schedule 8
+3.—(1) This regulation applies where, in relation to a lease of premises in a relevant building, a landlord (L) has paid or is liable to pay the cost of a relevant measure(1) relating to a relevant defect(2) (“the remediation amount”) which, but for paragraph 2 of Schedule 8 to the Act, would have been payable as a service charge by a tenant under the lease.
+[F1(2) Where this regulation applies the responsible landlord is liable to pay L the remediation amount, and where, in relation to a particular relevant defect, two or more persons are responsible landlords, each person is jointly and severally liable for the remediation amount.
+(3) To recover the remediation amount from the responsible landlord or responsible landlords liable under paragraph (2) L must give to at least one responsible landlord a notice which contains the information set out in paragraph (3B).
+(3A) Only a responsible landlord to whom L has given a notice under paragraph (3) can be required to pay the remediation amount.
+(3B) The information which the notice given under paragraph (3) must contain is—
+(a)
+the remediation amount that L has paid or the remediation amount that L expects to pay;
+(b)
+the time limit for appealing under paragraph (5) to the First-tier Tribunal and for applying under paragraph (5A) for an extension of that time limit;
+(c)
+the possible grounds of appeal.]
+(4) The remediation amount may not include any amount which L is entitled to recover under regulations 4 or 5 [F2but nothing in this regulation prevents L from seeking to recover amounts under regulation 4 or 5].
+(5) A person who is notified by L of a requirement to pay all or part of the remediation amount referred to in paragraph (2) may appeal F3... to the First-tier Tribunal within 30 days of the notification, specifying the grounds of appeal.
+[F4(5A) A person who has received a notice under paragraph (3) may apply to the First-tier Tribunal to extend the time limit for lodging an appeal under paragraph (5).
+(5B) An application under paragraph (5A) must be made within 30 days of the notification under paragraph (3).
+(5C) In response to an application under paragraph (5A) the First-tier Tribunal may grant an extension of the time limit for lodging an appeal by no more than 30 days.]
+(6) The grounds of appeal are—
+(a)
+that the remediation amount does not represent the cost of the relevant measure; or
+(b)
+that the person sent the notice is not a responsible landlord.
+[F5(6A) Where an appeal made on the grounds specified in paragraph (6)(a)—
+(a)
+is unsuccessful, subject to the outcome of an appeal on another ground under this regulation the person who was notified by L is required to pay the remediation amount set out in the notice unless that person’s liability has been discharged by payment of the remediation amount by another recipient of the notice;
+(b)
+is successful, subject to the outcome of an appeal on another ground under this regulation the First-tier Tribunal must substitute the remediation amount it rules is the correct one for the remediation amount in the notice.
+(6B) Where an appeal made on the grounds specified in paragraph (6)(b)—
+(a)
+is unsuccessful, subject to the outcome of an appeal on another ground under this regulation the person who was notified by L is required to pay the remediation amount set out in the notice unless that person’s liability has been discharged by payment of the remediation amount by another recipient of the notice;
+(b)
+is successful, the person who was notified by L is not required to pay the remediation amount set out in the notice.]
+(7) For the purposes of this regulation, the reference to landlord (L) includes a RMC or a RTM company [F6or a named manager].
+(8) In this regulation “the responsible landlord” means—
+(a)
+the person who, at the beginning of 14th February 2022, was the landlord of the tenant referred to in paragraph (1) or any superior landlord and was on that date—
+(i)
+responsible for(3) the particular relevant defect to which the relevant measure relates; or
+(ii)
+associated with(4) a person responsible for that relevant defect; or
+(b)
+the person who, on or after 14th February 2022, became the owner of that landlord’s, or superior landlord’s, interest.
+[F7(9) Where two or more landlords are liable for remediation costs under the Act, L must give a notice under paragraph (3) to at least one landlord which fulfils the “responsible for” criteria set out in paragraph 2(3) of Schedule 8 to the Act.
+(10) An amount payable to L under this regulation is recoverable by L as a civil debt.]
+Textual Amendments
+F1
+Reg. 3(2)-(3B) substituted for reg. 3(2) (5.8.2023) by The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895), regs. 1(1), 5(3) (with reg. 5(2))
+F2
+Words in reg. 3(4) inserted (5.8.2023) by The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895), regs. 1(1), 5(4)
+F3
+Words in reg. 3(5) omitted (5.8.2023) by virtue of The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895), regs. 1(1), 5(5) (with reg. 5(2))
+F4
+Reg. 3(5A)-(5C) inserted (5.8.2023) by The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895), regs. 1(1), 5(6) (with reg. 5(2))
+F5
+Reg. 3(6A)(6B) inserted (5.8.2023) by The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895), regs. 1(1), 5(7) (with reg. 5(2))
+F6
+Words in reg. 3(7) inserted (5.8.2023) by The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895), regs. 1(1), 5(8) (with reg. 5(2))
+F7
+Reg. 3(9)(10) inserted (5.8.2023) by The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895), regs. 1(1), 5(9)
+Commencement Information
+I1
+Reg. 3 in force at 21.7.2022, see reg. 1(1)
+(1)
+See paragraph 1 of Schedule 8 to the Act for the definition of “relevant measure”.
+(2)
+See section 120 of the Act for the definition of “relevant defect”.
+(3)
+See paragraph 2(3) of Schedule 8 to the Act for the definition of “responsible for”.
+(4)
+See section 121 of the Act for the definition of “associated with”.Recovery of amounts from other landlords: cases under paragraph 3 of Schedule 8
+4.—(1) This regulation applies where, in relation to a qualifying lease(1) of a dwelling in a relevant building, a landlord (L) has paid or is liable to pay the cost of a relevant measure relating to a relevant defect (“the remediation amount”) which, but for paragraph 3 of Schedule 8 to the Act, would have been payable as a service charge by the tenant under the qualifying lease.
+[F1(2) Where this regulation applies the contributing landlord is liable to pay L the remediation amount.
+(2A) To recover the remediation amount from the contributing landlord who is liable under paragraph (2) L must give the contributing landlord a notice which sets out the information listed in paragraph (2B).
+(2B) The information which the notice given under paragraph (2A) must contain is—
+(a)
+the remediation amount that L has paid or the remediation amount which L expects to pay;
+(b)
+the time limit for appealing under paragraph (4) to the First-tier Tribunal and for applying for an extension of that time limit under paragraph (4A);
+(c)
+the possible grounds of appeal.]
+(3) The remediation amount may not include any amount which L is entitled to recover under regulations 3 or 5 [F2but nothing in this regulation prevents L from seeking to recover amounts under regulation 3 or 5].
+(4) A person who is notified by L of a requirement to pay the remediation amount may appeal F3... to the First-tier Tribunal within 30 days of the notification, specifying the grounds of appeal.
+[F4(4A) A person who has received a notice under paragraph (2A) may apply to the First-tier Tribunal to extend the time limit for lodging an appeal under paragraph (4).
+(4B) An application under paragraph (4A) must be made within 30 days of the notification under paragraph (2A).
+(4C) In response to an application under paragraph (4A) the First-tier Tribunal may grant an extension of the time limit for lodging an appeal by no more than 30 days.]
+(5) The grounds of appeal are—
+(a)
+that the remediation amount does not represent the cost of the relevant measure; or
+(b)
+that the person sent the notice is not the contributing landlord.
+[F5(5A) Where an appeal made on the grounds specified in paragraph (5)(a)—
+(a)
+is unsuccessful, subject to the outcome of an appeal on another ground under this regulation the person who was notified by L is required to pay the remediation amount set out in the notice;
+(b)
+is successful, subject to the outcome of an appeal on another ground under this regulation the person who was notified by L is required to pay the remediation amount determined by the First-tier Tribunal.
+(5B) Where an appeal made on the grounds specified in paragraph (5)(b)—
+(a)
+is unsuccessful, subject to the outcome of an appeal on another ground under this regulation the person who was notified by L is required to pay the remediation amount set out in the notice;
+(b)
+is successful, subject to the outcome of an appeal on another ground under this regulation the person who was notified by L is not required to pay the remediation amount set out in the notice.]
+(6) For the purposes of this regulation, the reference to landlord (L) includes a RMC or a RTM company [F6or a named manager].
+[F7(7) In this regulation “the contributing landlord” means the person who–
+(a)
+is the landlord under the qualifying lease referred to in paragraph (1) provided that they met the contribution condition in paragraph 3 of Schedule 8 to the Act on 14th February 2022; or
+(b)
+after 14th February 2022 became the owner of that landlord’s interest.]
+[F8(8) An amount payable to L under this regulation is recoverable by L as a civil debt.]
+Textual Amendments
+F1
+Reg. 4(2)-(2B) substituted for reg. 4(2) (5.8.2023) by The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895), regs. 1(1), 6(3) (with reg. 6(2))
+F2
+Words in reg. 4(3) inserted (5.8.2023) by The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895), regs. 1(1), 6(4)
+F3
+Words in reg. 4(4) omitted (5.8.2023) by virtue of The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895), regs. 1(1), 6(5) (with reg. 6(2))
+F4
+Reg. 4(4A)-(4C) inserted (5.8.2023) by The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895), regs. 1(1), 6(6) (with reg. 6(2))
+F5
+Reg. 4(5A)(5B) inserted (5.8.2023) by The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895), regs. 1(1), 6(7) (with reg. 6(2))
+F6
+Words in reg. 4(6) inserted (5.8.2023) by The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895), regs. 1(1), 6(8) (with reg. 6(2))
+F7
+Reg. 4(7) substituted (5.8.2023) by The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895), regs. 1(1), 6(9)
+F8
+Reg. 4(8) inserted (5.8.2023) by The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895), regs. 1(1), 6(10)
+Commencement Information
+I1
+Reg. 4 in force at 21.7.2022, see reg. 1(1)
+(1)
+See section 119 of the Act for the definition of “qualifying lease”.Recovery of amounts from other landlords: other cases under Schedule 8
+5.—(1) This regulation applies where, in relation to a relevant building, a landlord (L) under any lease has paid or is liable to pay the cost of a relevant measure relating to a relevant defect (“the remediation amount”) which, but for paragraphs 4 to 9 and 11 of Schedule 8 to the Act, would have been payable as a service charge by the tenant under the lease.
+(2) Where this regulation applies, each landlord under any lease in the building is liable to pay L a share of the remediation amount and that share is to be calculated in accordance with paragraphs (4) to (6).
+(3) The amount referred to in paragraph (2) may not include any amount which L is entitled to recover under regulations 3 or 4 [F1but nothing in this regulation prevents L from seeking to recover amounts under Regulation 3 or 4].
+(4) Where the landlord is a type 1 owner, the share of the remediation amount for each such landlord is—
+where—
+A = the remediation amount for the relevant measure paid (or liable to be paid) by L;
+N1 = the total number of type 1 owners of the building;
+N2 = the total number of type 2 owners of the building;
+N3 = the total number of type 3 owners of the building.
+(5) Where the landlord is a type 2 owner, the share of the remediation amount for each such landlord is—
+where A, N1,N2 and N3 have the same meaning as in paragraph (4).
+(6) Where the landlord is a type 3 owner, the share of the remediation amount for each such landlord is—
+where A, N1,N2 and N3 have the same meaning as in paragraph (4).
+[F2(7) To recover from each landlord their share of the remediation amount for which each is liable under paragraph (2) L must give to each landlord a notice which contains the information set out in paragraph (7A).
+(7A) The information which the notice given under paragraph (7) must contain is—
+(a)
+the remediation amount that L has paid or the remediation amount which L expects to pay;
+(b)
+the amount which the recipient of the notice is required to pay to L (“the specified amount”);
+(c)
+how the specified amount was calculated;
+(d)
+the time limit for appealing under paragraph (8) to the First-tier Tribunal and for applying for an extension of that time limit under paragraph (8A);
+(e)
+the possible grounds of appeal.]
+(8) A person who is notified by L of a requirement to pay a share of the remediation amount referred to in paragraph (2) may appeal F3... to the First-tier Tribunal within 30 days of the notification, specifying the grounds of appeal.
+[F4(8A) A person who has received a notice under paragraph (7) may apply to the First-tier Tribunal to extend the time limit for lodging an appeal under paragraph (8).
+(8B) An application under paragraph (8A) must be made within 30 days of the notification under paragraph (7).
+(8C) In response to an application under paragraph (8A) the First-tier Tribunal may grant an extension of the time limit for lodging an appeal by no more than 30 days.]
+(9) The grounds of appeal are—
+(a)
+that the remediation amount does not represent the cost of the relevant measure;
+(b)
+that the person is not a relevant landlord within the meaning of paragraph 12(2) of Schedule 8 to the Act; or
+(c)
+that the share of the remediation amount determined for the landlord is incorrect.
+[F5(9A) Where an appeal made on the grounds specified in paragraph (9)(a)—
+(a)
+is unsuccessful, subject to the outcome of an appeal on another ground under this regulation, the person who was notified by L is required to pay the specified amount set out in the notice;
+(b)
+is successful, subject to the outcome of an appeal on another ground under this regulation, the First-tier Tribunal must substitute the remediation amount it rules is the correct one for the specified amount set out in the notice.
+(9B) Where an appeal made on the grounds specified in paragraph (9)(b)—
+(a)
+is unsuccessful, subject to the outcome of an appeal on another ground under this regulation, the person who was notified by L is required to pay the specified amount set out in the notice;
+(b)
+is successful, the person who was notified by L is not required to pay the specified amount set out in the notice.
+(9C) Where an appeal made on the grounds specified in paragraph (9)(c)—
+(a)
+is unsuccessful, subject to the outcome of an appeal on another ground under this regulation, the person who was notified by L is required to pay the specified amount set out in the notice;
+(b)
+is successful, subject to the outcome of an appeal on another ground under this regulation, the person who was notified by L is required to pay the share of the remediation amount determined by the First-tier Tribunal, calculated in accordance with paragraphs (4) to (6).]
+(10) For the purposes of this regulation, the reference to landlord (L) includes a RMC or a RTM company [F6or a named manager].
+(11) In this regulation—
+“leasehold interest” means a long lease (which has the same meaning as in section 119 of the Act);
+“type 1 owner” means a landlord who has a freehold interest in the building or a landlord who has or is treated as having a leasehold interest in respect of 90% or more of the storeys in the building as at the date of the notice under paragraph (7);
+“type 2 owner” means a landlord who has or is treated as having a leasehold interest in respect of more than 40% but less than 90% of the storeys in the building as at the date of the notice under paragraph (7);
+“type 3 owner” means a landlord who has or is treated as having a leasehold interest in respect of 40% or less of the storeys in the building as at the date of the notice under paragraph (7),
+and where a person owns a leasehold interest in premises which form part only of a storey in the building in question they are, for the purposes of the calculations under this paragraph, to be treated as having an interest in respect of the whole storey.
+[F7(12) An amount payable to L under this regulation is recoverable by L as a civil debt.]
+Textual Amendments
+F1
+Words in reg. 5(3) inserted (5.8.2023) by The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895), regs. 1(1), 7(3)
+F2
+Reg. 5(7)(7A) substituted for reg. 5(7) (5.8.2023) by The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895), regs. 1(1), 7(4) (with reg. 7(2))
+F3
+Words in reg. 5(8) omitted (5.8.2023) by virtue of The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895), regs. 1(1), 7(5) (with reg. 7(2))
+F4
+Reg. 5(8A)-(8C) inserted (5.8.2023) by The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895), regs. 1(1), 7(6) (with reg. 7(2))
+F5
+Reg. 5(9A)-(9C) inserted (5.8.2023) by The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895), regs. 1(1), 7(7) (with reg. 7(2))
+F6
+Words in reg. 5(10) inserted (5.8.2023) by The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895), regs. 1(1), 7(8) (with reg. 7(2))
+F7
+Reg. 5(12) inserted (5.8.2023) by The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895), regs. 1(1), 7(9)
+Commencement Information
+I1
+Reg. 5 in force at 21.7.2022, see reg. 1(1)Leaseholder deed of certificate: landlord’s steps and requirements for leaseholders
+6.—F1(1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2) Subject to paragraph (3), before the notification date a landlord under a lease that meets the conditions in paragraphs (a) to (c) of section 119(2) of the Act must give a notice in writing to the leaseholder which complies with paragraph (4).
+(3) The requirement in paragraph (2) does not apply where, before the notification date, the landlord under the lease has received a leaseholder deed of certificate in respect of the lease.
+(4) The notice under paragraph (2) must—
+(a)
+state it is a notice for the purposes of paragraphs 13 and 15 of Schedule 8 to the Act;
+(b)
+include a copy of the form of the leaseholder deed of certificate referred to in regulation 7 (leaseholder deed of certificate);
+(c)
+include a statement to the effect that failure to provide a completed leaseholder deed of certificate [F2and the evidence referred to in paragraph (7)]—
+(i)
+will result in the lease being treated, for the purposes of sections 116 to 122 of the Act, as if it were not a qualifying lease;
+(ii)
+where the lease is a shared ownership lease, may result in the landlord assuming the leaseholder owns a 100% share; and
+(iii)
+may result in a higher value for the qualifying lease being used under or pursuant to any provision in Schedule 8 to the Act (remediation costs under qualifying leases etc); and
+(d)
+provide the date (which must be no less than 8 weeks from the date of receipt of the notice under paragraph (5)(a)) by which a reply to the notice must be received (“the reply date”) and the address of the landlord to which the reply must be sent.
+(5) The landlord must give the leaseholder the notice under paragraph (2)—
+(a)
+by leaving it at the address of the leaseholder or sending it to that address by prepaid first class letter; and
+(b)
+where the leaseholder has provided the landlord with an email address, by transmitting it to that email address.
+(6) Subject to paragraph (9), where a leaseholder receives a notice under paragraph (2) then by the reply date the leaseholder must—
+(a)
+provide the landlord under the lease with a leaseholder deed of certificate which complies with the requirements of regulation 7 together with the evidence referred to in paragraph (7); or
+(b)
+reply to the landlord in writing stating that the leaseholder will not provide a leaseholder deed of certificate.
+(7) The evidence which must accompany a leaseholder deed of certificate is—
+(a)
+where the dwelling to which the lease relates was disposed of on the open market before 14th February 2022—
+(i)
+evidence of the most recent sale before that date, including an official copy of the register of title at HM Land Registry which shows the date of the sale in question; and
+(ii)
+evidence of the price paid at completion (in pounds sterling to the nearest pound) in respect of that sale;
+(b)
+additionally, where the dwelling was owned under a shared ownership lease at the beginning of 14th February 2022—
+(i)
+a copy of the shared ownership lease; and
+(ii)
+evidence of the percentage share under the shared ownership lease held on that date.
+(8) If by the date which is 14 days before the reply date the landlord has not received a reply from the leaseholder, the landlord must—
+(a)
+no later than 7 days before the reply date, give the leaseholder a further notice which, in addition to complying with sub-paragraphs (a), (b) and (c) of paragraph (4) and paragraph (5)—
+(i)
+states that no reply to the notice under paragraph (2) has been received;
+(ii)
+sets out the reply date; and
+(iii)
+states that the leaseholder may make a request under paragraph (9);
+(b)
+where the landlord has a telephone number for the leaseholder, telephone the leaseholder to draw the further notice to the leaseholder’s attention.
+(9) If requested by the leaseholder before the reply date, the landlord must allow the leaseholder an additional four weeks from the reply date to comply with the requirements under paragraph (6)(a) and (b).
+(10) The landlord may not charge the leaseholder for sending any notice under this regulation.
+[F3(10A) Within one week of receiving a leaseholder deed of certificate the current landlord must provide a copy of the certificate to any RMC, RTM company or named manager in relation to the building to which the certificate relates.
+(10B) Where a current landlord fails to comply with the requirement in paragraph (10A) the costs of a relevant measure relating to a relevant defect in the building to which the leaseholder deed of certificate relates are prescribed costs under paragraph 16(4) of Schedule 8 to the Act and so are not to be regarded as relevant costs to be taken into account in determining the amount of a service charge payable under a relevant lease of premises in that building and must not be met from a relevant reserve fund as defined in paragraph 10 of Schedule 8 to the Act.]
+(11) In this regulation “the notification date” means the day which is five days after the day on which the landlord becomes aware that—
+(a)
+the interest in the property owned by the leaseholder is to be sold; or
+(b)
+there is a relevant defect in relation to the building in question.
+Textual Amendments
+F1
+Reg. 6(1) omitted (5.8.2023) by virtue of The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895), regs. 1(1), 8(2)
+F2
+Words in reg. 6(4)(c) inserted (5.8.2023) by The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895), regs. 1(1), 8(3)
+F3
+Reg. 6(10A)(10B) inserted (5.8.2023) by The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895), regs. 1(1), 8(4)
+Commencement Information
+I1
+Reg. 6 in force at 21.7.2022, see reg. 1(1)Leaseholder deed of certificate
+7.—(1) A leaseholder deed of certificate in relation to a lease of a dwelling in a relevant building must be executed as a deed by the person who is the leaseholder under that lease.
+(2) The Schedule to these Regulations sets out the information to be provided in the leaseholder deed of certificate and its form.
+Commencement Information
+I1
+Reg. 7 in force at 21.7.2022, see reg. 1(1)Review
+8.—(1) The Secretary of State must from time to time—
+(a)
+carry out a review of the regulatory provision contained in these Regulations, and
+(b)
+publish a report setting out the conclusions of the review.
+(2) The first report must be published before the end of the period of five years beginning with the date on which these Regulations come into force.
+(3) Subsequent reports must be published at intervals not exceeding five years.
+(4) Section 30(4) of the Small Business, Enterprise and Employment Act 2015(1) requires that a report published under this regulation must, in particular—
+(a)
+set out the objectives intended to be achieved by the regulatory provision referred to in paragraph (1)(a),
+(b)
+assess the extent to which those objectives are achieved,
+(c)
+assess whether those objectives remain appropriate, and
+(d)
+if those objectives remain appropriate, assess the extent to which they could be achieved in another way which involves less onerous regulatory provision.
+(5) In this regulation, “regulatory provision” has the same meaning as in sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015 (see section 32 of that Act).
+Commencement Information
+I1
+Reg. 8 in force at 21.7.2022, see reg. 1(1)
+(1)
+2015 c. 26. Section 30(3) was amended by section 19 of the Enterprise Act 2016 (c. 12), and paragraph 36 of Schedule 8 to the European Union (Withdrawal) Act 2018 (c. 16).Signed by authority of the Secretary of State for Levelling Up, Housing and Communities
+Marcus Jones
+Minister of State
+Department for Levelling Up, Housing and Communities
+20th July 2022Regulation 7
+SCHEDULE
+Building Safety Act 2022
+Commencement Information
+I1
+Sch. in force at 21.7.2022, see reg. 1(1)EXPLANATORY NOTE
+(This note is not part of the Regulations)
+Sections 116 to 125 of, and Schedule 8 to, the Building Safety Act 2022 (“the Act”) make provision in relation to remediation of certain defects in buildings. In particular, those provisions include protections from liability for leaseholders in specific circumstances.
+These Regulations support those leaseholder protection provisions.
+Regulation 2 makes provision for and in connection with remediation orders under section 123 of the Act. In particular, it sets out what an application to the First-tier Tribunal for a remediation order must include.
+Regulations 3 to 5 make provision for recovery of amounts as between landlords where, because of paragraphs 2, 3, 4 to 9, and 11 of Schedule 8 to the Act, a service charge cannot be claimed from a leaseholder under a lease.
+Regulation 3 provides that where in relation to a lease any landlord (L) pays or is liable to pay an amount in relation to the remediation of a defect and on 14th February 2022 a landlord under the lease or any superior landlord (or an associate) was responsible for the defect (see paragraph 2 of Schedule 8 to the Act), then L may recover the amount from the current landlord under the lease and any superior landlord.
+Regulation 4 provides that where in relation to a qualifying lease (see section 119 of the Act) any landlord (L) pays or is liable to pay an amount in relation to the remediation of a defect and on 14th February 2022 a landlord under the qualifying lease met the contribution condition (see paragraph 3 of Schedule 8 to the Act) then L may recover the amount from the current landlord under the qualifying lease.
+Regulation 5 provides that where in relation to a lease any landlord (L) pays or is liable to pay an amount in relation to the remediation of a defect and paragraphs 4 to 9, or 11 of Schedule 8 apply then L may recover part of the amount from each landlord with the part of the amount calculated in accordance with the formulas set out.
+Regulations 3, 4 and 5 also provide the person sent a notice of liability with a right of appeal to the First-tier Tribunal and they set out the grounds of appeal in each case.
+Regulation 6 sets out the steps a landlord must take in relation to identifying whether the lease is a qualifying lease. Regulation 6 also makes provisions in relation to the deed of certificate a leaseholder should provide. The deed of certificate sets out information landlords need in relation to each lease for the purposes of applying the provisions in the leaseholder provisions.
+Regulation 7 provides that the leaseholder deed of certificate must be in the form set out in the Schedule to these Regulations and must be executed as a deed.
+Regulation 8 provides for a periodic review of regulatory provisions of these Regulations.
+An impact assessment is available with the explanatory memorandum for these Regulations at www.legislation.gov.uk. A copy may be inspected at the Department for Levelling Up, Housing and Communities, 2 Marsham Street, London SW1P 4DF.

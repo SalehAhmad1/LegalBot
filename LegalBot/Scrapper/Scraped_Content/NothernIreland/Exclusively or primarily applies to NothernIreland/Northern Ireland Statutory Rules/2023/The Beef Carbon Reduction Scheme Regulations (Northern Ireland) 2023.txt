@@ -1,0 +1,184 @@
+STATUTORY RULES OF NORTHERN IRELAND
+2023 No. 212
+AGRICULTURE
+The Beef Carbon Reduction Scheme Regulations (Northern Ireland) 2023
+Made
+11th December 2023
+Coming into operation
+1st January 2024
+The Department of Agriculture, Environment and Rural Affairs(1) makes these Regulations in exercise of the powers conferred by section 9 of the Agriculture Act (Northern Ireland) 1949(2) and Articles 52(9) and 70(4) of Regulation (EU) No1307/2013 of the European Parliament and of the Council of 17 December 2013(3).
+These Regulations are made with the approval of the Department of Finance(4) under section 9 of the Agriculture Act (Northern Ireland) 1949(5).
+(1)
+The Ministry of Agriculture for Northern Ireland became the Department of Agriculture for Northern Ireland the Northern Ireland Constitution Act 1973 c.36 section 40 and Schedule 5 paragraph 8(1); Renamed as the Department of Agriculture and Rural Development the Departments (Northern Ireland) Order 1999 S.I. 1999/283 (N.I.1) Article 3(4) and the Department of Agriculture, Environment and Rural Affairs the Departments Act (Northern Ireland) 2016 c.5 (N.I.) section 1(2)
+(2)
+1949 c.2 (N.I.)
+(3)
+EUR 1307/2013
+(4)
+The “Ministry of Finance” is now the “Department of Finance”; see section 1(4) of the Departments Act (NI) 2016 (c.5(N.I.))
+(5)
+1949 c.2 (N.I.)Citation and commencement
+1.  These Regulations may be cited as the Beef Carbon Reduction Scheme Regulations (Northern Ireland) 2023 and shall come into operation on 1st January 2024.
+Commencement Information
+I1
+Reg. 1 in operation at 1.1.2024, see reg. 1Interpretation
+2.  In these Regulations—
+“applicant” means an eligible farm business which has applied for a payment under the scheme;
+“approved slaughterhouse” means an establishment used for slaughtering eligible animals, the meat of which is intended for human consumption and which is approved or conditionally approved under Article 4 of Regulation (EC) No 853/2004 of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin(1);
+“authorised person” means any person authorised by the Department to act in matters relating to these Regulations;
+“Basic Payment Scheme” has the same meaning as in the Common Agricultural Policy Direct Payments (Cross Compliance) Regulations (Northern Ireland) 2014(2) and the Common Agricultural Policy Basic Payment and Support Schemes Regulations (Northern Ireland) 2015(3);
+“bull” means an uncastrated male bovine animal which has never been used for breeding;
+“eligible farm business” means a farm business which meets the requirements of regulation 5 in a relevant scheme year;
+“heifer” means a female bovine animal which has never been pregnant or given birth to a calf;
+“relevant scheme year” means a scheme year in which an applicant applies for a payment;
+“scheme” means the Beef Carbon Reduction Scheme;
+“scheme year” means a calendar year beginning on 1st January and ending on 31st December;
+“steer” means a castrated bovine animal;
+“the Department” means the Department of Agriculture, Environment and Rural Affairs.
+Commencement Information
+I1
+Reg. 2 in operation at 1.1.2024, see reg. 1
+(1)
+OJ No L139, 30.4.204, p.55
+(2)
+S.R. 2014 No. 291
+(3)
+S.R. 2015 No.191Beef Carbon Reduction Scheme Payments
+3.—(1) Subject to paragraphs (2) and (3), the Department may, in accordance with these Regulations, make a payment to an eligible farm business.
+(2) A payment application approved by the Department in a relevant scheme year shall be paid into the account of the applicant from the month of January in the following scheme year.
+(3) The Department may make payments for a scheme year for up to an annual maximum number of 352,000 eligible animals.
+Commencement Information
+I1
+Reg. 3 in operation at 1.1.2024, see reg. 1Specific requirements; animals and farm businesses
+4.—(1) An eligible animal must be–
+(a)
+a bull, heifer or steer born in Northern Ireland in either case retained by the applicant’s eligible farm business throughout a period of 60 days during the 100 days immediately preceding the date of slaughter;
+(b)
+slaughtered at or under the maximum age specified in column 2 of Table 1 and during the scheme year specified in column 1 of Table 1 below–
+Table 1
+Column 1 Scheme year Column 2 maximum age at slaughter
+Year 1 30 months
+Year 2 28 months
+Year 3 27 months
+Year 4 onwards 26 months
+(c)
+slaughtered in an approved slaughterhouse in Northern Ireland or exported for slaughter outside Northern Ireland.
+(d)
+slaughtered wholly or mainly for human consumption.
+(2) For determining requirements under paragraph (1) information recorded on the Northern Ireland Food Animal Information System maintained by the Department will be used.
+(3) No payment under these Regulations shall be made in respect of an eligible animal which has been acquired by the Department for slaughter under disease control legislation.
+Commencement Information
+I1
+Reg. 4 in operation at 1.1.2024, see reg. 1Specific requirements; animals and farm businesses
+5.  An eligible farm business shall–
+(a)
+have applied for a payment under the scheme on or before the last day of the relevant scheme year; and
+(b)
+be eligible for a payment under the Basic Payment Scheme.
+Commencement Information
+I1
+Reg. 5 in operation at 1.1.2024, see reg. 1Provision of information
+6.  If an applicant has provided information which is incomplete, misleading or inaccurate in relation to an animal then that animal shall be ineligible.
+Commencement Information
+I1
+Reg. 6 in operation at 1.1.2024, see reg. 1Scheme Payment
+7.  The amount of the scheme payment is set out in Table 2 below–
+Table 2
+Payment Period Amount payable for an eligible animal
+For the period from 1 January to 31 January 2024 inclusive. £20
+For the period from 1 February to 29 February 2024 inclusive £40
+For the period from 1 March to 31 March 2024 inclusive. £60
+For the period from 1 April 2024. £75
+Commencement Information
+I1
+Reg. 7 in operation at 1.1.2024, see reg. 1Withholding and recovery of overpayments
+8.—(1) This regulation applies where an application for payment has been approved by the Department and it becomes aware that the applicant—
+(a)
+is not eligible to receive that payment;
+(b)
+has without reasonable cause obstructed an authorised person in the exercise of their powers under regulation 9; or
+(c)
+has failed to provide reasonably required assistance to an authorised person under regulation 10.
+(2) Subject to paragraph (3), the Department may–
+(a)
+revoke the approval of the application for payment; and
+(b)
+where payment has not been made withhold the payment or any part of it; or
+(c)
+where payment has already been made, recover from the applicant an amount equal to the whole or any part of the payment—
+(i)
+as a civil debt; or
+(ii)
+by way of offsetting against any sum otherwise payable to the applicant by the Department.
+(3) Before exercising the power under paragraph (2), the Department must by a withdrawal or recovery notice, (“the notice”)—
+(a)
+give the applicant a written explanation of the reasons for the proposed action;
+(b)
+afford the applicant the opportunity to make written representations within 14 days beginning with the date of the issue of the notice; and
+(c)
+consider any representations made by or on behalf of the applicant.
+Commencement Information
+I1
+Reg. 8 in operation at 1.1.2024, see reg. 1Powers of authorised persons
+9.—(1) An authorised person may exercise any of the powers specified paragraphs (2) to (4) for the purposes of these Regulations.
+(2) An authorised person on producing, if so required, a duly authenticated document showing the person’s authority to do so, may at all reasonable hours enter any land other than a building used only as a dwelling house.
+(3) An authorised person may—
+(a)
+carry out any inquiries, checks, examinations, measurements and tests;
+(b)
+take samples;
+(c)
+inspect any part of the land (whether it is farmed or is withdrawn from agricultural production) and any livestock, crops, machinery or equipment;
+(d)
+mark any animal or other thing for identification purposes;
+(e)
+have access to, inspect and copy any documents or records (in whatever form they are held) or remove such records to enable them to be copied;
+(f)
+have access to, inspect and check the operation of, any computer and any associated apparatus or material which is or has been in use in connection with the documents or records; and for this purpose require any person having charge of, or otherwise concerned with the operation of, the computer, apparatus or material to afford such assistance as is reasonably required and, where a document or record is kept by means of a computer, reasonably require the document to be produced in a form in which it can be taken away;
+(g)
+remove a carcase found on the land for the purpose of carrying out a post-mortem examination on it;
+(h)
+take a photograph of anything on the land; and
+(i)
+remove anything reasonably believed to be evidence of any failure to meet the eligibility conditions.
+(4) An authorised person entering any premises or land by virtue of this regulation may take with them such other persons as they consider necessary.
+(5) For the purposes of this regulation a computer includes any electronic device.
+Commencement Information
+I1
+Reg. 9 in operation at 1.1.2024, see reg. 1Assistance to authorised persons
+10.  An applicant or any employee, agent, contractor or tenant of an applicant shall give an authorised person such assistance as may be reasonably required to enable the authorised person to exercise the powers conferred by regulation 9.
+Commencement Information
+I1
+Reg. 10 in operation at 1.1.2024, see reg. 1Offences and penalties
+11.—(1) Any person who—
+(a)
+without reasonable cause obstructs an authorised person or a person accompanying the authorised person (see regulation 9(4)) in exercise of the power conferred on the authorised person by regulation 9; or
+(b)
+without reasonable cause fails to comply with a requirement under regulation 10, shall be guilty of an offence.
+(2) Nothing in paragraph (1) shall be construed as requiring any person to answer any question if to do so may incriminate that person.
+(3) A person guilty of an offence under paragraph (1)(a) shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+(4) A person guilty of an offence under paragraph (1)(b) shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+Commencement Information
+I1
+Reg. 11 in operation at 1.1.2024, see reg. 1Sealed with the Official Seal of the Department of Agriculture, Environment and Rural Affairs on 11th December 2023
+(L.S.)
+Rosemary Agnew
+A senior officer of the
+Department of Agriculture, Environment and Rural Affairs
+The Department of Finance approves the making of these Regulations.
+Sealed with the Official Seal of the Department of Finance on 11th December 2023
+(L.S.)
+Barry Armstrong
+A senior officer of the
+Department of FinanceEXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations establish the Beef Carbon Reduction Scheme. The Scheme provides for payments to be made by the Department to eligible farm businesses in relation to the slaughter of bulls, heifers and steers which meet the eligible animal requirements.
+The Scheme—
+specifies the payments available (regulation 3);
+specifies the eligibility criteria for animals and farm businesses (regulations 4 and 5);
+specifies the provision of information (regulation 6);
+specifies the Scheme payment (regulation 7);
+provides the powers for withholding and recovery of overpayments (regulation 8);
+provides for the powers of authorised persons (regulations 9);
+specifies the assistance to authorised persons (regulation 10); and
+provides for the offences and penalties (regulation 11).

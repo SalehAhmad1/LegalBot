@@ -1,0 +1,74 @@
+SCOTTISH STATUTORY INSTRUMENTS
+2021 No. 106
+LANDLORD AND TENANT
+The Agricultural Holdings (Relinquishment and Assignation) (Application to Relevant Partnerships) (Scotland) Regulations 2021
+Made
+23rd February 2021
+Coming into force
+28th February 2021
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 74A(2)(b) and (3) of the Agricultural Holdings (Scotland) Act 2003(1) and all other powers enabling them to do so.
+In accordance with section 91(4) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
+(1)
+2003 asp 11. Section 74A was inserted by section 111 of the Land Reform (Scotland) Act 2016 (asp 18).Citation, commencement and interpretation
+1.—(1) These Regulations may be cited as the Agricultural Holdings (Relinquishment and Assignation) (Application to Relevant Partnerships) (Scotland) Regulations 2021 and come into force on 28 February 2021.
+(2) In these Regulations—
+“the 1991 Act” means the Agricultural Holdings (Scotland) Act 1991(1),
+“the 2003 Act” means the Agricultural Holdings (Scotland) Act 2003,
+“landlord” has the meaning given in section 85 of the 1991 Act,
+“limited partnership” and “limited partner” are to be construed in accordance with section 4 of the Limited Partnerships Act 1907(2),
+“relevant partnership” means a partnership listed in regulation 2,
+“tenant” has the meaning given in section 85 of the 1991 Act.
+(1)
+1991 c.55.
+(2)
+1907 c.24.Relevant partnerships
+2.—(1) This regulation applies where the tenant of an agricultural holding to which section 32A(2) of the 1991 Act applies is a relevant partnership.
+(2) A relevant partnership is a limited partnership in which a limited partner is—
+(a)
+the landlord,
+(b)
+an associate of the landlord, or
+(c)
+a partnership or company in which the landlord has a relevant interest.
+(3) For the purposes of paragraph (2)(c), a landlord has a relevant interest in a partnership or company if the landlord or an associate of the landlord is—
+(a)
+a partner in the partnership,
+(b)
+a partner in a partnership which forms part of the partnership,
+(c)
+a shareholder in the company, or
+(d)
+the holder of a standard security or floating charge over an interest in the tenancy where the partnership or company is a partner in the tenant.
+(4) For the purposes of this regulation, a person is an associate of a landlord if the person is—
+(a)
+where the landlord is a partnership or a company, a partner in the landlord or, as the case may be, a shareholder in the landlord,
+(b)
+where an associate of the landlord is a partnership or a company, a partner in or, as the case may be, a shareholder in that associate,
+(c)
+an agent of the landlord or of an associate of the landlord, or
+(d)
+a member of the landlord’s family.
+(5) Section 71 of the 2003 Act applies for the purposes of paragraph (4)(d) as it applies for the purposes of section 70(8)(d) of that Act.Modifications where tenant is a relevant partnership
+3.  Where regulation 2 applies, Part 3A of the 1991 Act has effect as if the following were omitted—
+(a)
+in section 32A(1), the words “or, failing which, assign the lease to an individual who is a new entrant to, or who is progressing, in farming”,
+(b)
+in section 32F(3), paragraph (b),
+(c)
+section 32U,
+(d)
+in section 32W, the definitions of “new entrant to farming” and “person progressing in farming”.BEN MACPHERSON
+Authorised to sign by the Scottish Ministers
+St Andrew’s House,
+Edinburgh
+23rd February 2021EXPLANATORY NOTE
+(This note is not part of the Regulations)
+The Land Reform (Scotland) Act 2016 (“the 2016 Act”) inserted a new Part 3A into the Agricultural Holdings (Scotland) Act 1991 (“the 1991 Act”) to provide for a process whereby a 1991 Act tenant can relinquish their tenancy to the landlord in exchange for compensation or, if the landlord does not buy them out, can assign the tenancy to a new entrant or a person progressing in farming, for the tenancy’s market value (referred to in this note as “the Part 3A process”).
+Section 111 of the 2016 Act inserted section 74A into the Agricultural Holdings (Scotland) Act 2003 (“the 2003 Act”). Section 74A provides that the Scottish Ministers may make regulations that, among other things, apply the Part 3A process to tenants in certain types of partnership with appropriate modifications.
+These Regulations make provision under section 74A to apply the Part 3A process with modifications where the tenant of an agricultural holding is a limited partnership in which the limited partner is the landlord, an associate of the landlord, or a partnership or company in which the landlord has a relevant interest.
+Part 1 of these Regulations deals with the citation, commencement and interpretation of the Regulations.
+Part 2 of these Regulations provides for the application of Part 3A of the 1991 Act to relevant partnerships.
+Regulation 2 sets out what a relevant partnership is for the purposes of these Regulations. A relevant partnership is a limited partnership where the limited partner is the landlord, an associate of the landlord, or partnership or company in which the landlord has a relevant interest.
+Regulation 2(3) sets out when a landlord is treated as having a relevant interest in a partnership or company that is a limited partner in a relevant partnership. For example, a landlord is treated as having a relevant interest if they own shares in a company which is a limited partner in a relevant partnership.
+Regulation 2(4) sets out who is an associate of a landlord. This can include, for example, a member of the landlord’s family (as defined in section 71 of the 2003 Act).
+Regulation 3 lists the modifications which will apply to Part 3A of the 1991 Act where the tenant is a relevant partnership. These modifications have the effect that a tenant in a relevant partnership will not be able to assign the tenancy to a new entrant or person progressing in farming. Tenants will still be able to relinquish the tenancy to the landlord in exchange for compensation.

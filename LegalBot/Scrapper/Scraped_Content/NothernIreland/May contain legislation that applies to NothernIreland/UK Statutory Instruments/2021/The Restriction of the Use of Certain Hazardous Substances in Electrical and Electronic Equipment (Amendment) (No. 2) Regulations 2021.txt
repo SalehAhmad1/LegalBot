@@ -1,0 +1,39 @@
+STATUTORY INSTRUMENTS
+2021 No. 1395
+ENVIRONMENTAL PROTECTION
+The Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) (No. 2) Regulations 2021
+Made
+8th December 2021
+Laid before Parliament
+9th December 2021
+Coming into force in accordance with regulation 1
+The Secretary of State makes these Regulations in exercise of the powers conferred by regulations 3(1)(a) and 5(1) of the Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (“the Regulations”)(1).
+The requirements in regulations 3(2) and (3) (purpose for amending and review of list of restricted substances) and 8(1) (consultation) of the Regulations have been satisfied.
+By virtue of regulations 9 and 10(8) of the Regulations, the Secretary of State has treated the requirements in regulation 5(2) to (5) of the Regulations as satisfied.
+(1)
+S.I. 2020/1647.Citation, commencement and extent
+1.—(1) These Regulations may be cited as the Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) (No. 2) Regulations 2021.
+(2) These Regulations come into force on 1st January 2022, except as provided in paragraph (3).
+(3) Regulation 2(2) comes into force on 1st July 2022.
+(4) These Regulations extend to England and Wales and Scotland.Amendment of the Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment Regulations 2012
+2.—(1) The Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment Regulations 2012(1) are amended as follows.
+(2) In Schedule A1, omit sub-paragraphs (a) and (b);
+(3) In Schedule A2, in Table 1—
+(a)
+in entry No. 93, in column 6 (expiry date or status), for the words “transitional case” substitute “30th June 2026”;
+(b)
+after entry No. 95, insert—
+“96
+Lead diazide, lead styphnate, lead dipicramate, orange lead (lead tetroxide), lead dioxide in electric and electronic initiators of explosives for civil (professional) use and barium chromate in long time pyrotechnic delay charges of electric initiators of explosives for civil (professional) use
+Annex 3, 45 11 20th April 2026”
+(1)
+S.I. 2012/3032, amended by S.I. 2020/1647 and 2021/422. There are other amending instruments which are not relevant to these Regulations.Jo Churchill
+Parliamentary Under Secretary of State
+Department for Environment, Food and Rural Affairs
+8th December 2021EXPLANATORY NOTE
+(This note is not part of these Regulations)
+These Regulations amend Schedules A1 and A2 to the Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment Regulations 2012 (“the RoHS Regulations”) as they apply in England and Wales and Scotland.
+Regulation 2(2) amends the list of restricted substances in Schedule A1 to extend the restriction on the use of four restricted substances (Bis(2-ethylhexyl) phthalate (DEHP), Butyl benzyl phthalate (BBP), Dibutyl phthalate (DBP) and Diisobutyl phthalate (DIBP)) to medical devices and monitoring and control instruments.
+Regulation 2(3)(a) renews the exemption for mercury to be used in electric rotating connectors used in ultrasound imaging systems in Schedule A2 for a period ending on 30th June 2026.
+Regulation 2(3)(b) exempts from the list of restricted substances in Schedule A2 certain lead compounds and barium used in certain civil explosive applications. The exemption is granted for a period ending on 20th April 2026.
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.

@@ -1,0 +1,54 @@
+Draft Regulations laid before Parliament under section 250(6)(e) of the Housing Act 2004, for approval by resolution of each House of Parliament.
+DRAFT STATUTORY INSTRUMENTS
+2023 No. 000
+HOUSING, ENGLAND
+The Houses in Multiple Occupation (Asylum-Seeker Accommodation) (England) Regulations 2023
+Made
+2023
+Coming into force in accordance with regulation 1(2)
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 250(2)(a) and 254(6) of the Housing Act 2004(1).
+In accordance with section 250(6)(e) of that Act, a draft of these Regulations has been laid before and approved by a resolution of each House of Parliament.
+(1)
+2004 c.34; see section 261(1) for the definition of “appropriate national authority”.Citation, commencement and extent
+1.—(1) These Regulations may be cited as the Houses in Multiple Occupation (Asylum-Seeker Accommodation) (England) Regulations 2023.
+(2) These Regulations come into force on the day after the day on which they are made.
+(3) These Regulations extend to England and Wales.Amendment of section 254 of the Housing Act 2004
+2.—(1) Section 254 of the Housing Act 2004 (meaning of “house in multiple occupation”) is amended as follows.
+(2) After subsection (5) insert—
+“(5A) A building, or part of a building, in England which is within subsection (1) is not a house in multiple occupation for the purposes of Part 2 during the relevant period if—
+(a)
+it is occupied solely or principally by asylum-seekers or members of their household; and
+(b)
+the person managing or having control of it is—
+(i)
+a relevant landlord, or
+(ii)
+an AASC provider; and
+(c)
+in the case of an AASC provider, the occupation as mentioned in paragraph (a) began in the period beginning with the date the Houses in Multiple Occupation (Asylum-Seeker Accommodation) (England) Regulations 2023 came into force and ending with 30th June 2024.
+(5B) For the purposes of subsection (5A) and this subsection—
+(a)
+“AASC provider” means a person who has entered into a contract with the Secretary of State to procure accommodation for asylum-seekers to discharge the functions of the Secretary of State under section 4, 95 or 98 of the Immigration and Asylum Act 1999(1);
+(b)
+“asylum-seeker” means a person to whom support may be provided under section 4, 95 or 98 of the Immigration and Asylum Act 1999;
+(c)
+“asylum-seeker accommodation contract” means a contract between an AASC provider and another person under which that other person contracts to provide accommodation to asylum-seekers, but does not include a renewal of a contract entered into before the relevant period;
+(d)
+“relevant landlord” means a person who has entered into an asylum-seeker accommodation contract with an AASC provider during the period beginning with the day the Houses in Multiple Occupation (Asylum-Seeker Accommodation) (England) Regulations 2023 came into force and ending with 30 June 2024;
+(e)
+“relevant period” in relation to a building, or part of a building, means the period of 2 years beginning with—
+(i)
+where the person managing or having control of it is a relevant landlord, the date the asylum-seeker accommodation contract, pursuant to which the building or part of the building is occupied as mentioned in subsection (5A)(a), was entered into;
+(ii)
+where the person managing or having control of it is an AASC provider, the date that the building or part of the building started to be occupied as mentioned in subsection (5A)(a).”.
+(1)
+1999 c.33; section 4 was repealed by paragraph 1 of Schedule 11 to the Immigration Act 2016 (c. 19) (“the 2016 Act”), but that repeal is not yet fully in force; section 4 was amended by section 49 of the Nationality, Immigration and Asylum Act 2002 (c. 41) (“the 2002 Act”), section 10 of the Asylum and Immigration (Treatment of Claimants, etc) Act 2004 (c. 19), section 43(7) of the Immigration, Asylum and Nationality Act 2006 (c. 13) and section 17(1) and (2) of the Nationality and Borders Act 2022 (c. 36) (“the 2022 Act”); section 95 was amended by section 44(1) and (6) and 50(1) of the 2002 Act, and paragraphs 26 and 29 of Schedule 10 to, and paragraphs 5 and 8 of Schedule 11, to the 2016 Act but the amendments made by section 44 of the 2002 Act and Schedule 11 to the 2016 Act are not yet fully in force; section 98 was amended by paragraphs 5 and 12 of Schedule 11 to the 2016 Act and section 13(3) and (4) of the 2022 Act.Repeal of subsections (5A) and (5B) of section 254 when spent
+3.  The amendments made by regulation 2 are repealed on 1st July 2026.Signed by authority of the Secretary of State
+Name
+Parliamentary Under Secretary of State
+Department for Levelling Up, Housing and Communities
+DateEXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the definition of “house in multiple occupation” (“HMO”) in England for the purposes of Part 2 of the Housing Act 2004. The effect is that accommodation provided on behalf of the Home Office for asylum-seekers does not require an HMO licence from a local authority during a specified period.
+The exemption from the requirement to obtain a licence applies where arrangements for accommodation to be provided for asylum-seekers begin during the period beginning with the coming into force of these Regulations and ending on 30th June 2024 and lasts for a period of 2 years from the date those arrangements begin.
+An impact assessment has not been produced as no significant impact on the private or voluntary sectors is envisaged.

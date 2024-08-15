@@ -1,0 +1,779 @@
+STATUTORY INSTRUMENTS
+2020 No. 1372
+EXITING THE EUROPEAN UNION
+IMMIGRATION AND ASYLUM
+The Immigration (Citizens' Rights etc.) (EU Exit) Regulations 2020
+Made
+27th November 2020
+Laid before Parliament
+1st December 2020
+Coming into force in accordance with regulation 1(2)
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 9(2) and (6) of the Immigration Act 1971 M1, section 95(2) of the Immigration and Asylum Act 1999 M2, section 8 and 11(1) and (4) of, and paragraph 12 of Schedule 4 to, the European Union (Withdrawal Agreement) Act 2020 M3, and section 5(1) of the Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 M4.
+Marginal Citations
+M1
+1971 c. 77. Section 9(2) was amended by section 39(6) of, and paragraph 2 of Schedule 4 to, the British Nationality Act 1981 (c. 61). It is prospectively amended by the Immigration and Social Security Co-Ordination (EU Withdrawal) Act 2020 (c. 20).
+M2
+1999 c. 33, there have been amendments to s.95 which are not relevant to these Regulations. See section 167(1) for the definition of “prescribed”.
+M3
+2020 c. 1.
+M4
+2020 c. 20.Citation and commencement
+1.—(1) These Regulations may be cited as the Immigration (Citizens' Rights etc.) (EU Exit) Regulations 2020.
+(2) These Regulations come into force on IP completion day M1 except—
+(a)
+the provisions specified in paragraph (3) which come into force immediately after IP completion day;
+(b)
+regulation 6(5) which comes into force immediately before IP completion day;
+(c)
+regulation 7 which comes into force on 22 December 2020.
+(3) The provisions specified in this paragraph are—
+(a)
+regulation 2;
+(b)
+regulation 4;
+(c)
+regulation 6(3) in so far as it inserts paragraphs (1)(b)(ix) and (x) into Article 3 of the Immigration (Control of Entry through Republic of Ireland) Order 1972 M2;
+(d)
+Part 3.
+Commencement Information
+I1
+Reg. 1 in force at 31.12.2020 in force on IP completion day, see reg. 1(2)
+Marginal Citations
+M1
+“IP completion day” is defined in section 39 of the European Union (Withdrawal Agreement) Act 2020.
+M2
+S.I. 1972/1610, amended by S.I. 2019/468, 2019/745, 2020/1213 and 2020/1309. There have been other amendments to the Order which are not relevant to these Regulations.Amendment of the Immigration (Citizens' Rights Appeals) (EU Exit) Regulations 2020
+2.—(1) The Immigration (Citizens' Rights Appeals) (EU Exit) Regulations 2020 M1 are amended as follows.
+(2) In regulation 2(1) (interpretation)—
+(a)
+after the definition of “the 2002 Act”, insert—
+““the 1972 Order” means the Immigration (Control of Entry through Republic of Ireland) Order 1972;”;
+(b)
+after the definition of “appellant”, insert—
+““Appendix S2” means Appendix S2 Healthcare Visitor to the immigration rules M2;”;
+(c)
+after the definition of “frontier worker permit”, insert—
+““healthcare entry clearance” means entry clearance granted by virtue of Appendix S2 for the purpose of acquiring leave to enter or remain in the United Kingdom by virtue of that Appendix M3;
+“healthcare leave”, in relation to a person (“P”), means leave to enter or remain in the United Kingdom granted to P by virtue of Appendix S2 M4;
+“person with a healthcare right of entry” means a person who has the right to enter the United Kingdom by virtue of—
+(a)
+Article 32(1)(b) of the withdrawal agreement,
+(b)
+Article 31(1)(b) of the EEA EFTA separation agreement, or
+(c)
+Article 26a(1)(b) of the Swiss citizens' rights agreement M5;”.
+(3) In Part 2, in the heading after the heading to Chapter 1 of that Part after “frontier workers” insert “ or persons with a healthcare right of entry ”.
+(4) In regulation 6 (right of appeal against decisions to make a deportation order in respect of a person other than a person claiming to be a frontier worker)—
+(a)
+in the heading, after “worker” insert “ or a person with a healthcare right of entry ”;
+(b)
+for paragraph (3) substitute—
+“(3) But paragraph (2) does not apply to a person if the decision to remove that person was taken—
+(a)
+under regulation 23(6)(b) of the Immigration (European Economic Area) Regulations 2016 M6 (“the 2016 Regulations”), where the decision to remove was taken before the revocation of the 2016 Regulations, or
+(b)
+otherwise, under regulation 23(6)(b) of the 2016 Regulations as it continues to have effect by virtue of the Citizens' Rights (Restrictions of Rights of Entry and Residence) (EU Exit) Regulations 2020 M7 or the Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020 M8.”.
+(5) After regulation 6F (alternative evidence of identity and nationality) M9 insert—
+“Decisions relating to persons with a healthcare right of entry
+Right of appeal against decisions relating to leave to enter or remain in the United Kingdom granted to or obtained by a person with a healthcare right of entry
+6G.—(1) A person (“P”) may appeal against a decision made on or after IP completion day—
+(a)
+to vary P's healthcare leave, so that P does not have leave to enter or remain in the United Kingdom,
+(b)
+to cancel P's healthcare leave,
+(c)
+where P applies on or after IP completion day for leave to enter or remain in the United Kingdom under Appendix S2, not to grant such leave to P, or
+(d)
+not to vary P's leave to enter or remain in the United Kingdom granted by virtue of Appendix S2 in response to P's relevant application.
+(2) In this regulation, “relevant application” means an application for, or as the case may be, to vary, leave to enter or remain in the United Kingdom made under Appendix S2 on or after IP completion day.
+Right of appeal against decisions made in connection with healthcare entry clearance
+6H.  A person may appeal against a decision made on or after IP completion day
+(a)
+where the person applies for healthcare entry clearance on or after IP completion day, to refuse their application,
+(b)
+to cancel or revoke their healthcare entry clearance,
+(c)
+where they have healthcare entry clearance, to refuse them leave to enter the United Kingdom under article 7(1) of the Immigration (Leave to Enter and Remain) Order 2000 M10, or
+(d)
+to cancel or vary the leave to enter the United Kingdom which they have by virtue of having arrived in the United Kingdom with healthcare entry clearance.
+Right of appeal against decision to vary leave under article 5 of the 1972 Order
+6I.  A person (“P”) may appeal against a decision, made on or after IP completion day, to vary their leave to enter or remain in the United Kingdom if—
+(a)
+P is in the United Kingdom, and
+(b)
+Article 5 of the 1972 Order applied to P on their entry to the United Kingdom.
+Right of appeal against decisions to make a deportation order in respect of a person with a healthcare right of entry
+6J.—(1) A person to whom paragraph (2) applies may appeal against a decision, made on or after IP completion day, to make a deportation order under section 5(1) of the 1971 Act in respect of them.
+(2) This paragraph applies to a person —
+(a)
+who has healthcare leave,
+(b)
+who is in the United Kingdom (whether or not the person has entered within the meaning of section 11(1) of the 1971 Act M11) having arrived with healthcare entry clearance, or
+(c)
+to whom Article 5 of the 1972 Order applied on their entry to the United Kingdom.
+(3) But paragraph (2) does not apply to a person if the decision to remove that person was taken—
+(a)
+under regulation 23(6)(b) of the Immigration (European Economic Area) Regulations 2016 (“the 2016 Regulations”), where the decision to remove is taken before the 2016 Regulations are revoked, or
+(b)
+otherwise, under regulation 23(6)(b) of the 2016 Regulations as it continues to have effect by virtue of the Citizens' Rights (Restrictions of Rights of Entry and Residence) (EU Exit) Regulations 2020 or the Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020.
+(4) The reference in paragraph (2) to a person who has healthcare leave includes reference to a person who would have such leave but for the making of a deportation order under section 5(1) of the 1971 Act.”
+(6) In regulation 8 (grounds of appeal)—
+(a)
+in paragraph (2)—
+(i)
+in sub-paragraph (a), after “Title II” insert “ , or Article 32(1)(b) of Title III, ”;
+(ii)
+in sub-paragraph (b), after “Title II” insert “ , or Article 31(1)(b) of Title III, ”;
+(iii)
+in sub-paragraph (c), after “2” insert “ , or Article 26a(1)(b), ”;
+(b)
+in paragraph (3), after sub-paragraph (f) insert—
+“(g)
+where the decision is mentioned in regulation 6G(1)(a) or (1)(b) or 6H, it is not in accordance with the provision of the immigration rules by virtue of which it was made;
+(h)
+where the decision is mentioned in regulation 6G(1)(c) or (1)(d), it is not made in accordance with Appendix S2;
+(i)
+where the decision is mentioned in regulation 6I, it is not made in accordance with the provision of, or made under, the 1971 Act (including the immigration rules) by virtue of which it was made;
+(j)
+where the decision is mentioned in regulation 6J, it is not in accordance with section 3(5) or (6) of the 1971 Act, or Appendix S2 (as the case may be).”.
+(7) In regulation 13 (pending appeal)—
+(a)
+in paragraph (3), for “these Regulations” substitute “ regulations 3 to 6 ”;
+(b)
+after paragraph (4B), insert—
+“(4C) An appeal under regulations 6G to 6J is to be treated as abandoned if the appellant—
+(a)
+is granted leave to enter or remain in the United Kingdom by virtue of Appendix S2, or
+(b)
+obtains leave to enter the United Kingdom by passing through an automated gate in accordance with article 8B of the Immigration (Leave to Enter and Remain) Order 2000 as a person seeking to enter the United Kingdom as an S2 Healthcare Visitor under Appendix S2.
+(4D) An appeal under regulation 6G(d) is also to be treated as abandoned if the appellant's leave to enter or remain in the United Kingdom granted by virtue of Appendix S2 is varied, however that variation may have effect, so that the appellant has leave to enter or remain under Appendix S2.
+(4E) An appeal under regulation 6I or 6J is also to be treated as abandoned if the Secretary of State agrees that Article 5 of the 1972 Order applies to the appellant.”.
+Commencement Information
+I1
+Reg. 2 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(a)
+Marginal Citations
+M1
+S.I. 2020/61, amended by S.I. 2020/1213.
+M2
+See section 17(5) of the European Union (Withdrawal Agreement) Act 2020 for the meaning of “immigration rules”. Appendix S2 Healthcare Visitor refers to “permission to stay” which is defined in paragraph 6 of the immigration rules as laid before Parliament on 22nd October 2020 (HC 813) to include leave to remain in the United Kingdom.
+M3
+See section 17(5) of the European Union (Withdrawal Agreement) Act 2020 Act for the meaning of “entry clearance”.
+M4
+Leave to enter by virtue of Appendix S2 includes leave to enter obtained by passing through an automated gate in accordance with Article 8B of the Immigration (Leave to Enter and Remain) Order 2000 S.I. 2000/1161 as a person seeking to enter the United Kingdom as an S2 Healthcare Visitor under Appendix S2 and leave to enter as an Appendix S2 visitor granted orally in accordance with article 8 of S.I. 2000/1161 as prospectively amended by S.I. 2020/1353.
+M5
+See section 39(1) of the European Union (Withdrawal Agreement) Act 2020 for the meaning of “withdrawal agreement”, EEA EFTA separation agreement” and “Swiss citizens' rights agreement”.
+M6
+SI 2016/1052, amended by S.I 2017/1, 2017/1242, 2018/801, 2019/468, 2019/745 and 2019/1155. The amendments made by S.I. 2019/745 are not yet in force and are revoked by regulation 48 of S.I. 2020/1309 before they come into force. S.I. 2016/1052 is revoked by section 1 of, and paragraph 2(2) of Schedule 1 to, the Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020.
+M7
+S.I. 2020/1210.
+M8
+S.I. 2020/1209.
+M9
+Regulation 6F was inserted by S.I. 2020/2013.
+M10
+S.I. 2000/1161, amended by S.I. 2010/957, 2013/1749, 2015/434, 2016/1132, 2019/298 and prospectively amended by S.I. 2020/1353.
+M11
+Section 11(1) was amended by paragraph 48 of Schedule 14 to the Immigration and Asylum Act 1999 (c. 33), section 62(8) of the Nationality, Immigration and Asylum Act 2002 (c. 14), and paragraph 15 of Schedule 10 to the Immigration Act 2016 (c. 19).Amendment of the Special Immigration Appeals Commission (Procedure) Rules 2003
+3.—(1) The Special Immigration Appeals Commission (Procedure) Rules 2003 M1 are amended as follows.
+(2) In rule 8 (time limit for appealing or for applying for review), in paragraph (4E), in the definition of “relevant rules” for—
+(a)
+paragraph (a), substitute—
+“(a)
+Appendix AR(EU) and Appendix AR (administrative review) to the immigration rules,”.
+Commencement Information
+I1
+Reg. 3 in force at 31.12.2020 in force on IP completion day, see reg. 1(2)
+Marginal Citations
+M1
+S.I. 2003/1034. Rule 8 was amended by S.I. 2007/1285, 2013/2995, 2020/61 and 2020/1213.Amendment of the Tribunal Procedure (Upper Tribunal) Rules 2008
+4.—(1) The Tribunal Procedure (Upper Tribunal) Rules 2008 M1 are amended as follows.
+(2) In rule 17A (appeal treated as abandoned or finally determined in an asylum claim or immigration case), in paragraph (1A), for “13(3)” substitute “ 13 ”.
+Commencement Information
+I1
+Reg. 4 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(b)
+Marginal Citations
+M1
+S.I. 2008/2698, amended by S.I. 2020/61; there are other amending instruments but none is relevant.Amendment of the Tribunal Procedure (First-tier Tribunal) (Immigration and Asylum Chamber) Rules 2014
+5.—(1) The Tribunal Procedure (First-tier Tribunal) (Immigration and Asylum Chamber) Rules 2014 M1 are amended as follows.
+(2) In rule 19 (notice of appeal), in paragraph (3E), in the definition of “relevant rules” for paragraph (a) substitute—
+“(a)
+Appendix AR(EU) and Appendix AR (administrative review) to the immigration rules,”.
+Commencement Information
+I1
+Reg. 5 in force at 31.12.2020 in force on IP completion day, see reg. 1(2)
+Marginal Citations
+M1
+S.I. 2014/2604; relevant amending instruments are S.I. 2020/61 and 2020/1213.Amendment of the Immigration (Control of Entry through Republic of Ireland) Order 1972
+6.—(1) The Immigration (Control of Entry through Republic of Ireland) Order 1972 is amended as follows.
+(2) In article 2(1) (interpretation) M1, at the appropriate places insert—
+“exempt work activity” means an activity listed in Appendix Visitor: Permitted Activities to the immigration rules M2, except those listed in paragraphs PA 1, PA 2, and PA 16.1 to 18;
+“occupation or employment” includes, in particular, the following activities in the United Kingdom (whether paid or unpaid)—
+(a)
+undertaking employment;
+(b)
+doing any work for an organisation or business;
+(c)
+establishing or running a business as a self-employed person;
+(d)
+undertaking a work placement or internship;
+(e)
+undertaking any direct selling to the public;
+(f)
+fulfilling a contract to provide goods or services;
+“permitted paid engagement” means an engagement listed in paragraph V13.3. of Appendix V:Visitor to the immigration rules M3;
+“permitted payment” means a payment of a type listed in paragraph V4.6.(a) to (f) of Appendix V:Visitor to the immigration rules, save that the words in paragraph V4.6.(f) “where the requirements of V13.1. to V13.3. are met” do not apply to payments permitted by this Order;.
+(3) In article 3 (persons excluded from section 1(3) of the Act) M4, after paragraph (1)(b)(vi) insert—
+“(vii)
+he is a person who has at any time been refused admission to the United Kingdom under regulation 23(1), (3) or (4) of the Immigration (European Economic Area) Regulations 2016 M5, and has not since then been granted admission to, or leave to enter or remain in, the United Kingdom;
+(viii)
+he is a person in respect of whom the Secretary of State has made a removal decision under regulation 23(6)(a) or (c) of the Immigration (European Economic Area Regulations) 2016, and has not since then been granted admission to or leave to enter or remain in, the United Kingdom;
+(ix)
+he is a person who has at any time been refused admission to the United Kingdom under regulation 12(1)(a) or (c) of the Citizens' Rights (Frontier Worker) (EU Exit) Regulations 2020 M6, and has not since then been granted admission to, or leave to enter or remain in, the United Kingdom;
+(x)
+he is a person in respect of whom the Secretary of State has made a removal decision under regulation 15(1)(a) or (c) of the Citizens' Rights (Frontier Worker) (EU Exit) Regulations 2020.”.
+(4) In article 4 (restrictions and conditions on entry through Ireland) M7—
+(a)
+in paragraph (1), after “(2B)” insert “ and (2C) and (2D) ”;
+(b)
+after paragraph (2B) M8 insert—
+“(2C) This Article does not apply to any person to whom Article 5 applies, or applied at the time the person entered the United Kingdom.
+(2D) This Article does not apply to any person to whom Article 6 applies.”;
+(c)
+in paragraph (4)—
+(i)
+in sub-paragraph (a), for “three” substitute “ six ”;
+(ii)
+for sub-paragraph (b) (including the “and” after it) substitute—
+“(b)
+he must not engage in any occupation or employment except an exempt work activity, for which he may receive a permitted payment.”;
+(iii)
+omit sub-paragraph (c);
+(d)
+for paragraph (6B)(b) substitute—
+“(b)
+the person must not engage in any occupation or employment except an exempt work activity, for which the person may receive a permitted payment.”;
+(e)
+in paragraph (7)—
+(i)
+for “three” substitute “ six ”;
+(ii)
+for “seven days” substitute “ two months ”.
+(5) After Article 4 insert—
+“5.—(1) Subject to paragraph (3), this Article applies to any person who does not have the right of abode in the United Kingdom under section 2 of the Act, and who—
+(a)
+enters the United Kingdom on a local journey from the Republic of Ireland after having entered the Republic of Ireland—
+(i)
+on coming from a place outside the common travel area; or
+(ii)
+after leaving the United Kingdom whilst having limited leave to enter or remain there which has since expired; and
+(b)
+at the time of the person's entry to the United Kingdom and continuously whilst in the United Kingdom, is a S2 Healthcare Visitor; and
+(c)
+at the time of the person's entry to the United Kingdom, is in possession of—
+(i)
+in the case of a patient (“P”), a valid S2 certificate of entitlement to scheduled treatment; or
+(ii)
+in the case of an accompanying person, the documents set out in paragraph (2).
+(2) The documents referred to in paragraph (1)(c)(ii) are an original or copy of—
+(a)
+P's valid S2 certificate of entitlement to scheduled treatment or evidence of P's leave to enter or remain in the United Kingdom as a S2 Healthcare Visitor; and
+(b)
+if P is an EEA citizen, P's valid national identity card or passport; or if P is a not an EEA citizen, P's passport.
+(3) This Article does not apply to any person who arrives in the United Kingdom with leave to enter or remain in the United Kingdom which is in force but which was given to the person before their arrival, or who requires leave to enter the United Kingdom by virtue of Article 3 or section 9(4) of the Act.
+(4) A person to whom this Article applies is subject to the restrictions in paragraph (5).
+(5) The restrictions referred to in this paragraph are—
+(a)
+the period for which the person may remain in the United Kingdom is not more than six months from the date on which the person entered the United Kingdom;
+(b)
+the person must not engage in any occupation or employment.
+(6) In this Article—
+“accompanying person” means a person who is a S2 Healthcare Visitor who is accompanying a patient (“P”) to the United Kingdom at the same time as P's entry into the United Kingdom, or who is joining P in the United Kingdom on a date after P's entry into the United Kingdom, for the purpose of providing P with care or support during P's course of planned healthcare treatment;
+“EEA citizen” means a person who is a national of Austria, Belgium, Bulgaria, Croatia, Republic of Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Liechtenstein, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland who is not also a British citizen;
+“patient” means a person who is a S2 Healthcare Visitor who is undergoing or plans to undergo a course of planned healthcare treatment in the United Kingdom and who, before entry to the United Kingdom, has been granted a valid S2 certificate of entitlement to scheduled treatment;
+“S2 certificate of entitlement to scheduled treatment” has the same meaning as a portable document S2 issued under Regulation (EC) 883/2004 M9;
+“S2 Healthcare Visitor” means a person with a right to enter the United Kingdom by virtue of and in accordance with—
+(i)
+Article 32(1)(b) of the EU withdrawal agreement;
+(ii)
+Article 31(1)(b) of the EEA EFTA separation agreement; or
+(iii)
+Article 26a(1)(b) of the Swiss citizens' rights agreement;
+and references to the “EEA EFTA separation agreement” and the “Swiss citizens' rights agreement” have the same meanings as in the European Union (Withdrawal Agreement) Act 2020 (see section 39(1) of that Act).
+6.—(1) Subject to paragraph (2), this Article applies to any person who does not have the right of abode in the United Kingdom under section 2 of the Act and is not an Irish citizen, and who—
+(a)
+enters the United Kingdom on a local journey from the Republic of Ireland after having entered the Republic of Ireland—
+(i)
+on coming from a place outside the common travel area; or
+(ii)
+after leaving the United Kingdom whilst having limited leave to enter or remain there which has since expired; and
+(b)
+at the time of the person's entry to the United Kingdom, intends, and has a previously arranged invitation, to undertake a permitted paid engagement in the United Kingdom.
+(2) This Article does not apply to any person who arrives in the United Kingdom with leave to enter or remain in the United Kingdom which is in force but which was given to the person before their arrival, or who requires leave to enter the United Kingdom by virtue of Article 3 or section 9(4) of the Act.
+(3) Subject to paragraph (5), a person to whom this Article applies is subject to the restrictions and conditions in paragraph (4).
+(4) The restrictions and conditions referred to in this paragraph are—
+(a)
+the period for which the person may remain in the United Kingdom is not more than one month from the date on which the person entered the United Kingdom; and
+(b)
+the person must not engage in any occupation or employment except an exempt work activity or the permitted paid engagement referred to in paragraph (1)(b); and
+(c)
+where the person is undertaking an exempt work activity or the permitted paid engagement, the person may receive a permitted payment.
+(5) If a person to whom this Article has applied at any time, leaves the United Kingdom but does not leave the common travel area, on the person's subsequent entry to the United Kingdom the restrictions and conditions in paragraph (6) apply to them.
+(6) The restrictions and the conditions referred to in this paragraph are—
+(a)
+the period for which the person may remain in the United Kingdom is not more than seven days from the date on which the person entered the United Kingdom; and
+(b)
+the person must not engage in any occupation or employment except an exempt work activity or any permitted paid engagement; and
+(c)
+where the person is undertaking an exempt work activity or permitted paid engagement, the person may receive a permitted payment.”.
+Commencement Information
+I1
+Reg. 6(1)(2)(4) in force at 31.12.2020 on IP completion day, see reg. 1(2)
+I2
+Reg. 6(3) in force at 31.12.2020 on IP completion day for specified purposes and immediately after IP completion day in so far as not already in force, see reg. 1(2)(3)(c)
+I3
+Reg. 6(5) in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)(b)
+Marginal Citations
+M1
+Article 2(1) was amended by S.I. 2014/2475 and is prospectively amended by S.I. 2020/1309 which comes into force at the same time as this instrument.
+M2
+Appendix V: Visitor and Appendix Visitor: Permitted Activities were laid before Parliament on 22nd October 2020 (HC 813).
+M3
+Laid before Parliament on 22nd October 2020 (HC 813).
+M4
+Article 3(1)(b)(vi) is prospectively inserted by regulation 2 of S.I. 2019/468 which comes into force at the same time as this instrument. Other amendments have been made to article 3(1)(b) by S.I. 2014/2475.
+M5
+S.I. 2016/1052, amended by S.I. 2017/1, 2017/1242, and 2018/801. Regulation 23(1) and (6) is prospectively amended by regulation 43 of S.I. 2019/745.
+M6
+Regulation 12 of the Citizens' Rights (Frontier Worker) (EU Exit) Regulations 2020 (S.I. 2020/1213) comes into force at the same time as this instrument.
+M7
+Article 4 has been amended by S.I. 1982/1028, 2000/1776, and 2014/2475. It is prospectively amended by regulation 24 of S.I. 2019/745. It is also prospectively amended by S.I. 2019/468 and 2020/1309 which come into force at the same time as this instrument.
+M8
+Article 4(2B) is prospectively inserted by regulation 28 of S.I 2020/1213.
+M9
+Regulation (EC) No.883/2004 of the European Parliament and of the Council of 29 April 2004 on coordination of social security systems.Amendment of the Citizens' Rights (Frontier Workers) (EU Exit) Regulations 2020
+7.—(1) The Citizens' Rights (Frontier Workers) (EU Exit) Regulations 2020 M1 are amended as follows.
+(2) In regulation 4 (retained worker or self-employed person status), for paragraph (5) substitute—
+“(5) A person satisfies this paragraph where the person has—
+(a)
+provided evidence that they continue to seek employment or self-employment in the United Kingdom; and
+(b)
+registered as a jobseeker with the relevant employment office.”.
+(3) In regulation 24 (amendment of the Immigration (Citizens' Rights Appeals) Regulations 2020), in paragraph (5), in the new regulation 6E to be inserted by that paragraph, for paragraph (2) substitute—
+“(2) But paragraph (1) does not apply to a person if the decision to remove that person was taken—
+(a)
+under regulation 23(6)(b) of the Immigration (European Economic Area) Regulations 2016 M2 (“the 2016 Regulations”), where the decision to remove was taken before the revocation of the 2016 Regulations, or
+(b)
+otherwise, under regulation 23(6)(b) of the 2016 Regulations as it continues to have effect by virtue of the Citizens' Rights (Restrictions of Rights of Entry and Residence) (EU Exit) Regulations 2020 or the Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020.”.
+Commencement Information
+I1
+Reg. 7 in force at 22.12.2020, see reg. 1(2)(c)
+Marginal Citations
+M1
+S.I. 2020/1213.
+M2
+SI 2016/1052, amended by S.I 2017/1, 2017/1242, 2018/801, 2019/468, 2019/745 and 2019/1155. The amendments made by S.I. 2019/745 are not yet in force and are revoked by regulation 48 of the Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 before they come into force. S.I. 2016/1052 is revoked by section 1 of, and paragraph 2(2) of Schedule 1 to, the Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020.Amendment of the Income Support (General) Regulations 1987
+8.—(1) The Income Support (General) Regulations 1987 M1 are amended as follows.
+(2) In regulation 21AA (special cases: supplemental – persons from abroad) M2, in paragraph (3A)—
+(a)
+at the end of sub-paragraph (a) omit “or”;
+(b)
+at the end of sub-paragraph (b) insert—
+“; or
+(c)
+having arrived in the United Kingdom with an entry clearance that was granted under Appendix EU (Family Permit) M3 to the immigration rules made under section 3(2) of that Act.”.
+Commencement Information
+I1
+Reg. 8 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+Marginal Citations
+M1
+S.I. 1987/1967.
+M2
+Regulation 21AA was inserted by S.I. 2006/1026 and was amended by S.I. 2019/872, prospective amendments are made by S.I. 2020/1309. There are other amending instruments but none is relevant.
+M3
+Appendix EU (Family Permit) was laid before Parliament on 7th March 2019 (HC 1919).Amendment of the Income Support (General) Regulations (Northern Ireland) 1987
+9.—(1) The Income Support (General) Regulations (Northern Ireland) 1987 M1 are amended as follows.
+(2) In regulation 21AA (special cases: supplemental–persons from abroad) M2, in paragraph (3A)—
+(a)
+at the end of sub-paragraph (a) omit “or”;
+(b)
+at the end of sub-paragraph (b) insert—
+“; or
+(c)
+having arrived in the United Kingdom with an entry clearance that was granted under Appendix EU (Family Permit) to the immigration rules made under section 3(2) of that Act.”.
+Commencement Information
+I1
+Reg. 9 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+Marginal Citations
+M1
+S.R. 1987 No. 459.
+M2
+Regulation 21AA was inserted by S.R. 2006 No. 178 and was amended by S.R. 2019 No. 90, prospective amendments are made by S.I. 2020/1309. There are other amending instruments but none is relevant.Amendment of the Jobseeker's Allowance Regulations 1996
+10.—(1) The Jobseeker's Allowance Regulations 1996 M1 are amended as follows.
+(2) In regulation 85A (special cases: supplemental – persons from abroad) M2, in paragraph (3A)—
+(a)
+at the end of sub-paragraph (a) omit “or”;
+(b)
+at the end of sub-paragraph (b) insert—
+“; or
+(c)
+having arrived in the United Kingdom with an entry clearance that was granted under Appendix EU (Family Permit) to the immigration rules made under section 3(2) of that Act.”.
+Commencement Information
+I1
+Reg. 10 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+Marginal Citations
+M1
+S.I. 1996/207.
+M2
+Regulation 85A was inserted by S.I. 2006/1026 and was amended by S.I. 2019/872, prospective amendments are made by S.I. 2020/1309. There are other amending instruments but none is relevant.Amendment of the Jobseeker's Allowance Regulations (Northern Ireland) 1996
+11.—(1) The Jobseeker's Allowance Regulations (Northern Ireland) 1996 M1 are amended as follows.
+(2) In regulation 85A (special cases: supplemental–persons from abroad) M2, in paragraph (3A)—
+(a)
+at the end of sub-paragraph (a) omit “or”;
+(b)
+at the end of sub-paragraph (b) insert—
+“; or
+(c)
+having arrived in the United Kingdom with an entry clearance that was granted under Appendix EU (Family Permit) to the immigration rules made under section 3(2) of that Act.”.
+Commencement Information
+I1
+Reg. 11 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+Marginal Citations
+M1
+S.R. 1996 No. 198.
+M2
+Regulation 85A was inserted by S.R. 2006 No. 178 and was amended by S.R. 2019 No. 90, prospective amendments are made by S.I. 2020/1309. There are other amending instruments but none is relevant.Amendment of the Asylum Support Regulations 2000
+12.—(1) The Asylum Support Regulations 2000 M1 are amended as follows.
+(2) In regulation 4(4) (persons excluded from support), after paragraph (c) insert—
+“; or
+(d)
+he is a national of a member State who has made a claim for asylum, except where that claim for asylum is accepted as admissible under the immigration rules M2; or
+(e)
+he is the dependant of a person to whom sub-paragraph (d) applies.”.
+Commencement Information
+I1
+Reg. 12 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+Marginal Citations
+M1
+S.I. 2000/704
+M2
+Provision is made for the admissibility of asylum claims made by EU nationals in exceptional circumstances under paragraph 236F of the immigration rules.Amendment of the State Pension Credit Regulations 2002
+13.—(1) The State Pension Credit Regulations 2002 M1 are amended as follows.
+(2) In regulation 2 (persons not in Great Britain) M2, in paragraph (3A)—
+(a)
+at the end of sub-paragraph (a) omit “or”;
+(b)
+at the end of sub-paragraph (b) insert—
+“; or
+(c)
+having arrived in the United Kingdom with an entry clearance that was granted under Appendix EU (Family Permit) to the immigration rules made under section 3(2) of that Act.”.
+Commencement Information
+I1
+Reg. 13 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+Marginal Citations
+M1
+S.I. 2002/1792.
+M2
+Regulation 2 was substituted by S.I. 2006/1026 and was amended by S.I. 2019/872, prospective amendments are made by S.I. 2020/1309. There are other amending instruments but none is relevant.Amendment of the Tax Credits (Residence) Regulations 2003
+14.—(1) The Tax Credits (Residence) Regulations 2003 M1 are amended as follows.
+(2) In regulation 3 (circumstances in which a person is treated as not being in the United Kingdom) M2—
+(a)
+in paragraph (5)—
+(i)
+after “person” insert “ (P) ”;
+(ii)
+omit “he”;
+(b)
+in paragraph (5)(a)—
+(i)
+at the beginning insert “ P ”;
+(ii)
+for “; and” substitute “ and one of sub-paragraphs (b), (c) or (d) applies; ”;
+(c)
+for paragraph (5)(b) substitute—
+“(b)
+P does not have a right to reside in the United Kingdom;
+(c)
+P has a right to reside under paragraph (1) of regulation 16 of the Immigration (European Economic Area) Regulations 2016, but only in a case where the right exists under that regulation because P satisfies the criteria in paragraph (5) of that regulation; or
+(d)
+P would fall within sub-paragraph (b) or (c) but for the fact that P has limited leave to enter, or remain in, the United Kingdom under the Immigration Act 1971 by virtue of—
+(i)
+Appendix EU to the immigration rules; or
+(ii)
+having arrived in the United Kingdom with an entry clearance that was granted under Appendix EU (Family Permit) to the immigration rules made under section 3(2) of that Act.”;
+(d)
+in paragraph (5A), for “(5)(b)(ii)” substitute “ (5)(c) ”;
+(e)
+in paragraph (5B), for “(5)(b)(iii)” substitute “ (5)(d)(i) ”.
+Commencement Information
+I1
+Reg. 14 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+Marginal Citations
+M1
+S.I. 2003/654. Relevant amendments are made by S.I. 2004/1243, 2012/2612, 2014/1511, 2019/364, 2019/867, 2020/672 and prospectively by S.I. 2020/1309.
+M2
+Regulation is prospectively amended by S.I. 2020/1309.Amendment of the State Pension Credit Regulations (Northern Ireland) 2003
+15.—(1) The State Pension Credit Regulations (Northern Ireland) 2003 M1 are amended as follows.
+(2) In regulation 2 (persons not in Northern Ireland) M2, in paragraph (3A)—
+(a)
+at the end of sub-paragraph (a) omit “or”;
+(b)
+at the end of sub-paragraph (b) insert—
+“; or
+(c)
+having arrived in the United Kingdom with an entry clearance that was granted under Appendix EU (Family Permit) to the immigration rules made under section 3(2) of that Act.”.
+Commencement Information
+I1
+Reg. 15 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+Marginal Citations
+M1
+S.R. 2003 No. 28.
+M2
+Regulation 2 was substituted by S.R. 2006 No. 178 and amended by S.R. 2019 No. 90, it is prospectively amended by S.I. 2020/1309. There are other amending instruments but none is relevant.Amendment of the Housing Benefit Regulations 2006
+16.—(1) The Housing Benefit Regulations 2006 M1 are amended as follows.
+(2) In regulation 10 (persons from abroad) M2, in paragraph (3AA)—
+(a)
+at the end of sub-paragraph (a) omit “or”;
+(b)
+at the end of sub-paragraph (b) insert—
+“; or
+(c)
+having arrived in the United Kingdom with an entry clearance that was granted under Appendix EU (Family Permit) to the immigration rules made under section 3(2) of that Act.”.
+Commencement Information
+I1
+Reg. 16 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+Marginal Citations
+M1
+S.I. 2006/213, prospective amendments are made by S.I. 2020/1309.
+M2
+Regulation 10 was amended by S.I. 2019/872 and is prospectively amended by S.I. 2020/1309. There are other amending instruments but none is relevant.Amendment of the Housing Benefit Regulations (Northern Ireland) 2006
+17.—(1) The Housing Benefit Regulations (Northern Ireland) 2006 M1 are amended as follows.
+(2) In regulation 10 (persons from abroad) M2, in paragraph (4A)—
+(a)
+at the end of sub-paragraph (a) omit “or”;
+(b)
+at the end of sub-paragraph (b) insert—
+“; or
+(c)
+having arrived in the United Kingdom with an entry clearance that was granted under Appendix EU (Family Permit) to the immigration rules made under section 3(2) of that Act.”.
+Commencement Information
+I1
+Reg. 17 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+Marginal Citations
+M1
+S.R. 2006 No. 405, prospective amendments are made by S.I. 2020/1309.
+M2
+Regulation 10 was amended by S.R. 2019 No. 90 and is prospectively amended by S.I. 2020/1309. There are other amending instruments but none is relevant.Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006
+18.—(1) The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006 M1 are amended as follows.
+(2) In regulation 10 (persons from abroad) M2, in paragraph (4ZA)—
+(a)
+at the end of sub-paragraph (a) omit “or”;
+(b)
+at the end of sub-paragraph (b) insert—
+“; or
+(c)
+having arrived in the United Kingdom with an entry clearance that was granted under Appendix EU (Family Permit) to the immigration rules made under section 3(2) of that Act.”.
+Commencement Information
+I1
+Reg. 18 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+Marginal Citations
+M1
+S.I. 2006/214, prospective amendments are made by S.I. 2020/1309.
+M2
+Regulation 10 was amended by S.I. 2019/872 and is prospectively amended by S.I. 2020/1309. There are other amending instruments but none is relevant.Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006
+19.—(1) The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006 M1 are amended as follows.
+(2) In regulation 10 (persons from abroad) M2, in paragraph (4A)—
+(a)
+at the end of sub-paragraph (a) omit “or”;
+(b)
+at the end of sub-paragraph (b) insert—
+“; or
+(c)
+having arrived in the United Kingdom with an entry clearance that was granted under Appendix EU (Family Permit) to the immigration rules made under section 3(2) of that Act.”.
+Commencement Information
+I1
+Reg. 19 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+Marginal Citations
+M1
+S.R. 2006 No. 406. Prospective amendments are made by S.I. 2020/1309.
+M2
+Regulation 10 was amended by S.R. 2019 No. 90 and is prospectively amended by S.I. 2020/1309. There are other amending instruments but none is relevant.Amendment of the Allocation of Housing and Homelessness (Eligibility) (England) Regulations 2006
+20.—(1) The Allocation of Housing and Homelessness (Eligibility) (England) Regulations 2006 M1 are amended as follows.
+(2) In each of regulations 4(1A) (other persons from abroad who are ineligible for an allocation of housing accommodation) M2 and 6(1A) (other persons from abroad who are ineligible for housing assistance) M3, for the words from “limited leave to enter” to the end substitute—
+“(a)
+limited leave to enter or remain in the United Kingdom under the Immigration Act 1971 by virtue of Appendix EU to the immigration rules made under section 3(2) of that Act; or
+(b)
+leave to enter the United Kingdom by virtue of an entry clearance that was granted under Appendix EU (Family Permit) to the immigration rules made under section 3(2) of that Act
+is to be disregarded.”.
+Commencement Information
+I1
+Reg. 20 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+Marginal Citations
+M1
+S.I. 2006/1294; amended by S.I. 2012/2588, 2019/861, and is prospectively amended by S.I. 2020/1309. There are other amending instruments but none is relevant.
+M2
+Regulation 4 is prospectively amended by S.I. 2020/1309.
+M3
+Regulation 6 is prospectively amended by S.I. 2020/1309.Amendment of the Allocation of Housing and Homelessness (Eligibility) Regulations (Northern Ireland) 2006
+21.—(1) The Allocation of Housing and Homelessness (Eligibility) Regulations (Northern Ireland) 2006 M1 are amended as follows.
+(2) In each of regulations 3(1A) (persons from abroad who are ineligible for an allocation of housing accommodation: determination of right to reside) M2 and 4(1A) (persons from abroad who are ineligible for housing assistance: determination of right to reside) M3, for the words from “limited leave to enter” to the end substitute—
+“(a)
+limited leave to enter or remain in the United Kingdom under the Immigration Act 1971 by virtue of Appendix EU to the immigration rules made under section 3(2) of that Act; or
+(b)
+leave to enter the United Kingdom by virtue of an entry clearance that was granted under Appendix EU (Family Permit) to the immigration rules made under section 3(2) of that Act
+is to be disregarded.”.
+Commencement Information
+I1
+Reg. 21 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+Marginal Citations
+M1
+S.R. 2006 No. 397; amended by S.R. 2012 No. 429, S.R. 2019 No. 86, and is prospectively amended by S.I. 2020/1309. There are other amending instruments but none is relevant.
+M2
+Regulation 3 is prospectively amended by S.I. 2020/1309.
+M3
+Regulation 4 is prospectively amended by S.I. 2020/1309.Amendment of the Child Benefit (General) Regulations 2006
+22.—(1) The Child Benefit (General) Regulations 2006 M1 are amended as follows.
+(2) In regulation 23 (circumstances in which person treated as not being in Great Britain) M2—
+(a)
+in paragraph (4), in sub-paragraph (c), for “Appendix EU to the immigration rules” substitute—
+“(i)
+Appendix EU to the immigration rules; or
+(ii)
+having arrived in the United Kingdom with an entry clearance that was granted under Appendix EU (Family Permit) to the immigration rules.”;
+(b)
+in paragraph (4B), after “Paragraph (4)(c)” insert “ (i) ”.
+(3) In regulation 27 (circumstances in which person treated as not being in Northern Ireland) M3—
+(a)
+in paragraph (3), in sub-paragraph (c), for “Appendix EU to the immigration rules” substitute—
+“(i)
+Appendix EU to the immigration rules; or
+(ii)
+having arrived in the United Kingdom with an entry clearance that was granted under Appendix EU (Family Permit) to the immigration rules.”;
+(b)
+in paragraph (3B), after “Paragraph (3)(c)” insert “ (i) ”.
+Commencement Information
+I1
+Reg. 22 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+Marginal Citations
+M1
+S.I. 2006/223. Relevant amendments are made by S.I. 2007/2150, 2012/2612, 2014/1511, 2019/364, S.I. 2019/867 and 2020/672. It is prospectively amended by S.I. 2020/1309.
+M2
+Regulation 23 is prospectively amended by S.I. 2020/1309.
+M3
+Regulation 27 is prospectively amended by S.I. 2020/1309.Amendment of the Employment and Support Allowance Regulations 2008
+23.—(1) The Employment and Support Allowance Regulations 2008 M1 are amended as follows.
+(2) In regulation 70 (special cases: supplemental – persons from abroad) M2, in paragraph (3A)—
+(a)
+at the end of sub-paragraph (a) omit “or”;
+(b)
+at the end of sub-paragraph (b) insert—
+“; or
+(c)
+having arrived in the United Kingdom with an entry clearance that was granted under Appendix EU (Family Permit) to the immigration rules made under section 3(2) of that Act.”.
+Commencement Information
+I1
+Reg. 23 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+Marginal Citations
+M1
+S.I. 2008/794.
+M2
+Regulation 70 was amended by S.I. 2019/872 and is prospectively amended by S.I. 2020/1309. There are other amending instruments but none is relevant.Amendment of the Employment and Support Allowance Regulations (Northern Ireland) 2008
+24.—(1) The Employment and Support Allowance Regulations (Northern Ireland) 2008 M1 are amended as follows.
+(2) In regulation 70 (special cases: supplemental – persons from abroad) M2, in paragraph (3A)—
+(a)
+at the end of sub-paragraph (a) omit “or”;
+(b)
+at the end of sub-paragraph (b) insert—
+“; or
+(c)
+having arrived in the United Kingdom with an entry clearance that was granted under Appendix EU (Family Permit) to the immigration rules made under section 3(2) of that Act.”.
+Commencement Information
+I1
+Reg. 24 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+Marginal Citations
+M1
+S.R. 2008 No. 280.
+M2
+Regulation 70 was amended by S.R. 2019 No. 90 and is prospectively amended by S.I. 2020/1309. There are other amending instruments but none is relevant.Amendment of the Universal Credit Regulations 2013
+25.—(1) The Universal Credit Regulations 2013 M1 are amended as follows.
+(2) In regulation 9 (persons treated as not being in Great Britain) M2, in paragraph (3)(c)—
+(a)
+at the end of paragraph (i) omit “or”;
+(b)
+at the end of paragraph (ii) insert—
+“; or
+(iii)
+having arrived in the United Kingdom with an entry clearance that was granted under Appendix EU (Family Permit) to the immigration rules made under section 3(2) of that Act.”.
+Commencement Information
+I1
+Reg. 25 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+Marginal Citations
+M1
+S.I. 2013/376.
+M2
+Regulation 9 was amended by S.I. 2019/872 and is prospectively amended by S.I. 2020/1309. There are other amending instruments but none is relevant.Amendment of the Allocation of Housing and Homelessness (Eligibility) (Wales) Regulations 2014
+26.—(1) The Allocation of Housing and Homelessness (Eligibility) (Wales) Regulations 2014 M1 are amended as follows.
+(2) In each of regulations 4(1A) (other persons from abroad who are ineligible for an allocation of housing accommodation) M2 and 6(1A)(other persons from abroad who are ineligible for housing assistance) M3—
+(a)
+in the English language text, for the words from “limited leave to enter” to the end substitute—
+“(a)
+limited leave to enter or remain in the United Kingdom under the Immigration Act 1971 by virtue of Appendix EU to the immigration rules; or
+(b)
+leave to enter the United Kingdom by virtue of an entry clearance that was granted under Appendix EU (Family Permit) to the immigration rules,
+is to be disregarded.”;
+(b)
+in the Welsh language text, for the words from “caniatâd cyfyngedig” to the end substitute—
+“(a)
+caniatâd cyfyngedig i ddod i mewn i'r Deyrnas Unedig neu i aros ynddi o dan Ddeddf Mewnfudo 1971 yn rhinwedd Atodiad EU i'r rheolau mewnfudo; neu
+(b)
+caniatâd i ddod i mewn i'r Deyrnas Unedig yn rhinwedd cliriad i ddod i mewn a roddwyd o dan Atodiad EU (Hawlen Deuluol) i'r rheolau mewnfudo,
+i'w ddiystyru.”.
+Commencement Information
+I1
+Reg. 26 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+Marginal Citations
+M1
+S.I. 2014/2603 (W. 57), amended by S.I. 2017/698 (W. 164), 2019/1041 (W. 183), 2019/1149 (W. 199), 2020/1209 and prospectively amended by S.I. 2020/1309.
+M2
+Regulation 4 is prospectively amended by S.I. 2020/1309.
+M3
+Regulation 6 is prospectively amended by S.I. 2020/1309.Amendment of the Universal Credit Regulations (Northern Ireland) 2016
+27.—(1) The Universal Credit Regulations (Northern Ireland) 2016 M1 are amended as follows.
+(2) In regulation 9 (persons treated as not being in Northern Ireland) M2, in paragraph (3)(d)—
+(a)
+at the end of paragraph (i) omit “or”;
+(b)
+at the end of paragraph (ii) insert—
+“, or
+(iii)
+having arrived in the United Kingdom with an entry clearance that was granted under Appendix EU (Family Permit) to the immigration rules made under section 3(2) of that Act.”.
+Commencement Information
+I1
+Reg. 27 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+Marginal Citations
+M1
+S.R. 2016 No. 216.
+M2
+Regulation 9 was amended by S.R. 2019 No. 89 and is prospectively amended by S.I. 2020/1309. There are other amending instruments but none is relevant.Kevin Foster
+Parliamentary Under Secretary of State
+Home OfficeEXPLANATORY NOTE
+(This note is not part of the Regulations)
+Regulation 2 amends the provisions of the Immigration (Citizens' Rights Appeal) (EU Exit) Regulations 2020 (S.I. 2020/61) which in turn makes provision for appeals in connection with various immigration decisions relating to, or connected to, leave under residence scheme immigration rules. This amendment makes provision in particular for appeals in connection with decisions made under Appendix S2 Healthcare Visitor of the immigration rules. Appendix S2 Healthcare Visitor is the provision fulfilling the United Kingdom's obligations under the withdrawal agreement, the EEA EFTA separation agreement and the Swiss citizens' rights agreement (as defined in section 39(1) of the European Union (Withdrawal Agreement) Act 2020 (c. 1)) to enable those who had applied for authorisation for a course of planned medical treatment before the end of the Implementation Period to enter the UK to receive that treatment.
+Regulations 3 to 5 make consequential amendments to various specialist tribunal rules to facilitate the appeal rights granted by regulation 2.
+Regulation 6 amends the Immigration (Control of Entry through Republic of Ireland) Order 1972 (S.I. 1972/1610) (“the 1972 Order”). Regulation 6(3) amends Article 3 to add further categories of individuals who are not entitled to benefit from the common travel area principles set out in section 1(3) of the Immigration Act 1971 (c. 77). Regulation 6(4) amends Article 4 of the 1972 Order to extend the period of statutory permission to be in the United Kingdom without leave under the Order from three months to six, and to amend the occupation and employment-related activities that a person is permitted to undertake during that period. Regulation 6(5) inserts two new articles into the 1972 Order. New Article 5 sets out the conditions and restrictions for entry via Ireland relating to the United Kingdom's obligations under the withdrawal agreement, the EEA EFTA separation agreement and the Swiss citizens' rights agreement (as defined in section 39(1) of the European Union (Withdrawal Agreement) Act 2020) to enable those who had applied for authorisation for a course of planned medical treatment before the end of the Implementation Period to enter the UK to receive that treatment. New Article 6 sets out the conditions and restrictions for a person who enters the United Kingdom from Ireland with the intention of undertaking a permitted paid engagement.
+Regulation 7 amends the Citizens' Rights (Frontier Workers) (EU Exit) Regulations 2020 (S.I. 2020/1213) to add to a provision which establishes that a frontier worker duly recorded as unemployed is required to have registered with an employment office in order to continue to be treated as a frontier worker during a temporary break from work or self-employment.
+Regulations 8 to 11, 13, 15 to 19, 23 to 25 and 27 amend the income-related benefit regulations to reflect that leave to enter which is granted by virtue of Appendix EU (Family Permit) to the immigration rules made under s3(2) of the Immigration Act 1971, is leave which is not a relevant right to reside for the purposes of establishing habitual residence.
+Regulation 12 amends regulations 2(1) and 4(4) of the Asylum Support Regulations 2000 (S.I. 2000/704) to expand the categories of persons excluded from receipt of asylum support to include EU nationals, as defined, and their dependents. The exclusion does not apply if the asylum claim made by the EU national is accepted as admissible under the immigration rules.
+Regulation 14 inserts new paragraph (5)(d)(ii) into regulation 3 of the Tax Credits (Residence) Regulations (S.I. 2003/654) which makes equivalent provision to the amendments made to the Child Benefit (General) Regulations 2006 (S.I. 2006/223) (at regulation 22 below).
+Regulation 20 amends the provisions of the Allocation of Housing and Homelessness (Eligibility) (England) Regulations 2006 (S.I. 2006/1294) (“the Eligibility Regulations”) which determine which persons from abroad, other than persons subject to immigration control, are ineligible for an allocation of housing accommodation under Part 6 of the Housing Act 1996 (c. 52) or for housing assistance under Part 7 of that Act. For these purposes, ‘person subject to immigration control’ has the meaning given in section 13(2) of the Asylum and Immigration Act 1996 (c. 49).
+Under regulations 4 and 6 of the Eligibility Regulations, a person who is not subject to immigration control is ineligible for an allocation of social housing and for housing assistance respectively where they are not habitually resident in the United Kingdom, the Channel Islands, the Isle of Man or the Republic of Ireland or their only right to reside in those places is—
+(c)
+as an EEA ‘jobseeker’ or as the ‘family member’ of an EEA jobseeker;
+(d)
+an initial right to reside for a period not exceeding three months under the Immigration (European Economic Area) Regulations 2016 (S.I. 2016/1052) (“the EEA Regulations”);
+(e)
+because they are a non-EEA national primary carer of an EEA dependant under the EEA Regulations.
+This is the case even if such a person also possesses a right to reside pursuant to Appendix EU to the immigration rules.
+The effect of the amendments is to maintain the status quo so that where a person who is a family member of an EEA national with a right to reside of the type mentioned above (for example as the family member of an EEA jobseeker) is also granted limited leave to enter in the United Kingdom with an entry clearance that was granted under Appendix EU (Family Permit) to the Immigration Rules, this does not affect their eligibility.
+Regulation 26 makes amendments to the Allocation of Housing and Homelessness (Eligibility) (Wales) Regulations 2014 equivalent to those made by regulation 20 to the Allocation of Housing and Homelessness (Eligibility) (England) Regulations 2006. Regulation 21 similarly makes equivalent amendments to the Allocation of Housing and Homelessness (Eligibility) Regulations (Northern Ireland) 2006.
+Regulation 22 inserts new paragraphs (4)(c)(ii) and (3)(c)(i) into regulations 23 and 27 of the Child Benefit (General) Regulations 2006 (S.I. 2006/223) respectively. These provide that a person who has been granted leave to enter in the United Kingdom under the Immigration Act 1971 by virtue of having arrived in the United Kingdom with an entry clearance that was granted under Appendix EU (Family Permit) to the Immigration Rules is treated as not being in Great Britain or Northern Ireland, respectively, if that person would fall within paragraph (4)(a) or (b) of regulation 23, or paragraph (3)(a) or (b) of regulation 27, without such leave.
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.

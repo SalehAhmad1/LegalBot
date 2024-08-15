@@ -1,0 +1,103 @@
+STATUTORY RULES OF NORTHERN IRELAND
+2020 No. 134
+SOCIAL SECURITY
+TERMS AND CONDITIONS OF EMPLOYMENT
+The Statutory Sick Pay (Coronavirus) (Suspension of Waiting Days and General Amendment) (No.2) Regulations (Northern Ireland) 2020
+Made
+2nd July 2020
+Laid before Parliament
+3rd July 2020
+Coming into operation-
+6th July 2020
+The Secretary of State makes the following Regulations in exercise of the powers conferred by conferred sections 147(4) and (4A) and 171(3), (4) and (5A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992(1) and section 43(1) to (3) of the Coronavirus Act 2020(2).
+Those powers are exercisable by the Secretary of State by virtue of Article 4(1) of the Welfare Reform (Northern Ireland) Order 2015(3)
+(1)
+1992 c. 7. Section 147(4) was amended by S.R.1994 No.1898. Section 171(1) was amended by paragraph 5 of Schedule 4 to the Tax Credits Act 2002 (c. 21). Section 147(4A) and section 171(5A) were inserted by section 44 of the Coronavirus Act 2020 (c.7).. See section 159(1) for the definition of “prescribed”.
+(2)
+2020 c.7.
+(3)
+Article 4(1) was amended by Article 4(2)(a) of the Welfare Reform and Work (Northern Ireland) Order 2016 (S.I.2016/999 (N.I. 1)).Citation and commencement
+1.  These Regulations may be cited as the Statutory Sick Pay (Coronavirus) (Suspension of Waiting Days and General Amendment) (No.2) Regulations (Northern Ireland) 2020 and come into operation on 6th July 2020.Amendment of the Statutory Sick Pay (General) Regulations (Northern Ireland) 1982
+2.—(1) The Statutory Sick Pay (General) Regulations (Northern Ireland) 1982(1) are amended as follows.
+(2) In regulation 2(1) (persons deemed incapable of work)—
+(a)
+at the end of sub-paragraph (b) omit “or”;
+(b)
+in sub-paragraph (c)—
+(i)
+in head (i), for “the Schedule” substitute “Schedule 1”;
+(ii)
+at the end insert “; or”;
+(c)
+after sub-paragraph (c) insert—
+“(d)
+he is—
+(i)
+shielding himself in such a manner as to prevent infection or contamination with coronavirus in accordance with Schedule 2; and
+(ii)
+by reason of that shielding is unable to work.”.
+(3) In regulation 2(3), after “paragraph (1)(c)” insert “and (d) and Schedules 1 and 2”.
+(4) The Schedule (isolation due to coronavirus) is renumbered Schedule 1.
+(5) The renumbered Schedule 1 is amended in accordance with paragraphs (6) to (9).
+(6) At the end of paragraphs 2 and 4 insert “or, if earlier, until the end of the isolation period”.
+(7) Paragraph 3 is renumbered paragraph 3(1) and—
+(a)
+in the renumbered paragraph 3(1)—
+(i)
+after “someone” insert “, or is in an extended household with someone,”;
+(ii)
+at the end insert “or, if earlier, until the end of the isolation period”;
+(b)
+after the renumbered paragraph 3(1) insert—
+“(2) For the purposes of sub-paragraph (1), the person (P) is in an extended household with the person isolating himself in accordance with paragraph 2 (S) where—
+(a)
+P, and where applicable, the members of P’s household; and
+(b)
+S and where applicable, the members of S’s household,
+have formed an extended household.”.
+(8) Omit paragraph 5A.
+(9) In paragraph 6—
+(a)
+insert in the appropriate places—
+““extended household” means two households where the adults in those households have agreed to be part of a single household in accordance with public health guidance;”;
+““isolation period” means the period ending on the day on which a relevant notification is received advising that the person with the symptoms of coronavirus is not in fact infected or contaminated with coronavirus;”;
+(b)
+for ““public heath guidance”” substitute ““public health guidance””.
+(10) After the renumbered Schedule 1 the Schedule to these Regulations is inserted as Schedule 2.
+(1)
+S.R. 1982 No. 263; relevant amending Regulations are S.R. 2020 Nos. 32, 54, 66 and 89.Amendment of the Statutory Sick Pay (Coronavirus) (Suspension of Waiting Days and General Amendment) Regulations (Northern Ireland) 2020
+3.  In regulation 2 of the Statutory Sick Pay (Coronavirus) (Suspension of Waiting Days and General Amendment) Regulations (Northern Ireland) 2020(1) (suspension of waiting days), in both paragraph (3)(b)(ii) and (4), after “regulation 2(1)(c)” insert “or (d)”.
+(1)
+S.R. 2020 No. 54.Signed by authority of the Secretary of State for Work and Pensions
+Justin Tomlinson
+Minister of State
+Department for Work and Pensions
+2nd July 2020Regulation 2(10)
+SCHEDULE
+INSERTION OF SCHEDULE 2
+Regulation 2(1)
+“SCHEDULE 2
+SHIELDING DUE TO CORONAVIRUS
+1.  A person is, for the purposes of this Schedule, to be regarded as shielding himself where he is shielding himself in such a manner as to prevent infection or contamination with coronavirus pursuant to paragraph 2.
+2.  The person is defined in public health guidance, because of an underlying health condition, as clinically extremely vulnerable and therefore at very high risk of severe illness from coronavirus and has been advised, by shielding notification sent to, or in respect of, that person in accordance with that guidance, to follow shielding measures for the period specified in the notification.
+3.  A person to whom paragraph 2 applies is no longer to be regarded as shielding himself—
+(a)
+immediately after the end of the period specified in the shielding notification;
+(b)
+from the date specified in a further shielding notification sent to, or in respect of, the person, advising him that he need no longer shield himself from that date.
+4.  Nothing in paragraph 3 prevents the person from again being regarded as shielding himself if a further shielding notification is sent to, or in respect of, the person advising the person that he needs to shield himself for the period specified in the notification.
+5.  In this Schedule—
+“public health guidance” has the same meaning as in paragraph 6 of Schedule 1;
+“shielding notification” means a notification in writing sent to, or in respect of, a person by —
+(a)
+the Chief Medical Officer; or
+(b)
+the Regional Agency for Public Health and Social Well-being.”EXPLANATORY NOTE
+(This note is not part of the Regulations)
+Regulation 2 of these Regulations amends the Statutory Sick Pay (General) Regulations (Northern Ireland) 1982 (S.R. 1982 No. 283).
+The amendments in paragraphs (2), (3), (4), (8) and (10) and the Schedule ensure that persons who are shielding themselves from other people in such a manner as to prevent infection or contamination with coronavirus are to be deemed to be incapable of work for the purpose of entitlement to statutory sick pay.
+The amendments in paragraphs (6), (7)(a)(ii) and (9)(a) ensure that persons deemed to be incapable of work because they or another person have the symptoms of coronavirus will remain entitled to statutory sick pay until the person with those symptoms receives notification that they have tested negative for coronavirus.
+The amendments in paragraph (7)(a)(i) and (b) ensure that a person will be entitled to statutory sick pay if a member of their extended household has the symptoms of coronavirus.
+The amendment in paragraph (9)(b) corrects a typographical error.
+Regulation 3 of these Regulations amends the Statutory Sick Pay (Coronavirus) (Suspension of Waiting Days and General Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020 No.54) to ensure that those deemed incapable of work by virtue of the amendments made by regulation 2 of these Regulations do not have to serve waiting days for entitlement for statutory sick pay.
+No regulatory impact assessment has been produced for these Regulations in view of the urgency required to provide additional financial support to those unable to work as a result of coronavirus.

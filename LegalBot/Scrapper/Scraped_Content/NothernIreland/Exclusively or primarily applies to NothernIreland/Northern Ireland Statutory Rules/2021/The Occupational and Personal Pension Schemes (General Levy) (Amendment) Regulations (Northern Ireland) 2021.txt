@@ -1,0 +1,199 @@
+STATUTORY RULES OF NORTHERN IRELAND
+2021 No. 60
+PENSIONS
+The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2021
+Made
+11th March 2021
+Coming into operation
+1st April 2021
+The Department for Communities makes the following Regulations in exercise of the powers conferred by sections 170 and 177(2) and (3) of the Pension Schemes (Northern Ireland) Act 1993(1) and now vested in it(2).
+(1)
+1993 c. 49; section 170 was substituted by Article 161 of the Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22)) and amended by paragraph 3 of Schedule 1, paragraph 23 of Schedule 10 and Schedule 11 to the Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1)), paragraph 1 of Schedule 1 to the Pensions Regulator Tribunal (Transfer of Functions) Act (Northern Ireland) 2010 (c. 4 (N.I.)), section 12(2) of the Financial Guidance and Claims Act 2018 (c. 10) and paragraph 6 of the Schedule to S.I. 2019/383
+(2)
+See Article 8(b) of S.R. 1999 No. 481 and section 1(7) of the Departments Act (Northern Ireland) 2016 (c. 5 (N.I.))Citation, commencement and interpretation
+1.—(1) These Regulations may be cited as the Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2021 and shall come into operation on 1st April 2021.
+(2) The Interpretation Act (Northern Ireland) 1954(1) shall apply to these Regulations as it applies to an Act of the Assembly.
+(1)
+1954 c. 33 (N.I.)Amendment of the Occupational and Personal Pension Schemes (General Levy) Regulations
+2.—(1) The Occupational and Personal Pension Schemes (General Levy) Regulations (Northern Ireland) 2005(1) are amended in accordance with paragraphs (2) to (4).
+(2) In regulation 5 (amount of the general levy: occupational pension schemes)—
+(a)
+for “in column 1 of the following Table” substitute “for that financial year for that scheme in column 1 of the appropriate Table in Part 1 of the Schedule”;
+(b)
+omit the Table(2).
+(3) In regulation 6 (amount of the general levy: personal pension schemes)—
+(a)
+for “in column 1 of the following Table” substitute “for that financial year in column 1 of the appropriate Table in Part 2 of the Schedule”;
+(b)
+omit the Table(3).
+(4) At the end add the Schedule as set out in the Schedule to these Regulations.
+(1)
+S.R. 2005 No. 92; relevant amending Regulations are S.R. 2012 No. 98
+(2)
+The Table was substituted by regulation 2(2) of S.R. 2012 No. 98
+(3)
+The Table was substituted by regulation 2(3) of S.R. 2012 No. 98Revocation
+3.  The Occupational and Personal Pension Schemes (Levies) (Amendment) Regulations (Northern Ireland) 2012(1) are revoked.
+(1)
+S.R. 2012 No. 98Sealed with the Official Seal of the Department for Communities on 11th March 2021
+(L.S.)
+Anne McCleary
+A senior officer of the Department for CommunitiesRegulation 2(4)
+SCHEDULE
+Schedule to be added to the Occupational and Personal Pension Schemes (General Levy) Regulations (Northern Ireland) 2005
+Regulations 5 and 6
+“SCHEDULE
+Amount of the general levy
+PART 1
+Occupational pension schemes
+1.—(1) In this Part—
+“defined benefits scheme”, “hybrid scheme” and “money purchase scheme” have the meanings given by section 78 of the Pensions (No. 2) Act (Northern Ireland) 2008(1)”;
+“Master Trust scheme” has the meaning given by section 1 of the Pension Schemes Act 2017(2) or any corresponding Northern Ireland legislation.
+(2) Where an occupational pension scheme—
+(a)
+is both a Master Trust scheme and a money purchase scheme, or
+(b)
+is both a Master Trust scheme and a hybrid scheme,
+the scheme shall be treated for the purposes of this Part as a Master Trust scheme.
+2.  The following Table relates to defined benefits schemes and hybrid schemes for the financial year beginning with 1st April 2021.
+TABLE
+Column 1 Column 2 Column 3
+Number of members on the reference day Amount of levy calculated by reference to number of members (M) Minimum amount of levy
+2 to 11 £32
+12 to 99 £3∙17 x M Not applicable
+100 to 999 £2∙29 x M £310
+1,000 to 4,999 £1∙78 x M £2,290
+5,000 to 9,999 £1∙35 x M £8,900
+10,000 to 499,999 £0∙95 x M £13,500
+500,000 or more £0∙72 x M £475,000
+3.  The following Table relates to defined benefits schemes and hybrid schemes for the financial year beginning with 1st April 2022.
+TABLE
+Column 1 Column 2 Column 3
+Number of members on the reference day Amount of levy calculated by reference to number of members (M) Minimum amount of levy
+2 to 11 £54
+12 to 99 £5∙33 x M Not applicable
+100 to 999 £3∙85 x M £530
+1,000 to 4,999 £3∙00 x M £3,850
+5,000 to 9,999 £2∙28 x M £15,000
+10,000 to 499,999 £1∙59 x M £22,800
+500,000 or more £1∙20 x M £795,000
+4.  The following Table relates to defined benefits schemes and hybrid schemes for the financial year beginning with 1st April 2023.
+TABLE
+Column 1 Column 2 Column 3
+Number of members on the reference day Amount of levy calculated by reference to number of members (M) Minimum amount of levy
+2 to 11 £64
+12 to 99 £6∙34 x M Not applicable
+100 to 999 £4∙58 x M £630
+1,000 to 4,999 £3∙56 x M £4,580
+5,000 to 9,999 £2∙71 x M £17,800
+10,000 to 499,999 £1∙89 x M £27,100
+500,000 or more £1∙43 x M £945,000
+5.  The following Table relates to money purchase schemes for the financial year beginning with 1st April 2021.
+TABLE
+Column 1 Column 2 Column 3
+Number of members on the reference day Amount of levy calculated by reference to number of members (M) Minimum amount of levy
+2 to 11 £32
+12 to 99 £3∙17 x M Not applicable
+100 to 999 £2∙29 x M £310
+1,000 to 4,999 £1∙78 x M £2,290
+5,000 to 9,999 £1∙35 x M £8,900
+10,000 to 499,999 £0∙95 x M £13,500
+500,000 or more £0∙72 x M £475,000
+6.  The following Table relates to money purchase schemes for the financial year beginning with 1st April 2022.
+TABLE
+Column 1 Column 2 Column 3
+Number of members on the reference day Amount of levy calculated by reference to number of members (M) Minimum amount of levy
+2 to 11 £38
+12 to 99 £3∙74 x M Not applicable
+100 to 999 £2∙70 x M £370
+1,000 to 4,999 £2∙11 x M £2,700
+5,000 to 9,999 £1∙60 x M £10,550
+10,000 to 499,999 £1∙12 x M £16,000
+500,000 or more £0∙85 x M £560,000
+7.  The following Table relates to money purchase schemes for the financial year beginning with 1st April 2023.
+TABLE
+Column 1 Column 2 Column 3
+Number of members on the reference day Amount of levy calculated by reference to number of members (M) Minimum amount of levy
+2 to 11 £44
+12 to 99 £4∙32 x M Not applicable
+100 to 999 £3∙12 x M £430
+1,000 to 4,999 £2∙43 x M £3,120
+5,000 to 9,999 £1∙85 x M £12,150
+10,000 to 499,999 £1∙29 x M £18,500
+500,000 or more £0∙98 x M £645,000
+8.  The following Table relates to Master Trust schemes for the financial year beginning with 1st April 2021.
+TABLE
+Column 1 Column 2 Column 3
+Number of members on the reference day Amount of levy calculated by reference to number of members (M) Minimum amount of levy
+2 to 11 £31
+12 to 99 £3∙02 x M Not applicable
+100 to 999 £2∙18 x M £300
+1,000 to 4,999 £1∙70 x M £2,180
+5,000 to 9,999 £1∙29 x M £8,500
+10,000 to 499,999 £0∙90 x M £12,900
+500,000 or more £0∙68 x M £450,000
+9.  The following Table relates to Master Trust schemes for the financial year beginning with 1st April 2022.
+TABLE
+Column 1 Column 2 Column 3
+Number of members on the reference day Amount of levy calculated by reference to number of members (M) Minimum amount of levy
+2 to 11 £32
+12 to 99 £3∙08 x M Not applicable
+100 to 999 £2∙23 x M £300
+1,000 to 4,999 £1∙73 x M £2,230
+5,000 to 9,999 £1∙32 x M £8,650
+10,000 to 499,999 £0∙92 x M £13,200
+500,000 or more £0∙70 x M £460,000
+10.  The following Table relates to Master Trust schemes for the financial year beginning with 1st April 2023.
+TABLE
+Column 1 Column 2 Column 3
+Number of members on the reference day Amount of levy calculated by reference to number of members (M) Minimum amount of levy
+2 to 11 £32
+12 to 99 £3∙14 x M Not applicable
+100 to 999 £2∙27 x M £310
+1,000 to 4,999 £1∙77 x M £2,270
+5,000 to 9,999 £1∙34 x M £8,850
+10,000 to 499,999 £0∙94 x M £13,400
+500,000 or more £0∙71 x M £470,000
+PART 2
+Personal pension schemes
+11.  The following Table relates to personal pension schemes for the financial year beginning with 1st April 2021.
+TABLE
+Column 1 Column 2 Column 3
+Number of members on the reference day Amount of levy calculated by reference to number of members (M) Minimum amount of levy
+2 to 11 £13
+12 to 99 £1∙21 x M Not applicable
+100 to 999 £0∙85 x M £120
+1,000 to 4,999 £0∙72 x M £850
+5,000 to 9,999 £0∙48 x M £3,600
+10,000 to 499,999 £0∙37 x M £4,800
+500,000 or more £0∙27 x M £185,000
+12.  The following Table relates to personal pension schemes for the financial year beginning with 1st April 2022.
+TABLE
+Column 1 Column 2 Column 3
+Number of members on the reference day Amount of levy calculated by reference to number of members (M) Minimum amount of levy
+2 to 11 £13
+12 to 99 £1∙23 x M Not applicable
+100 to 999 £0∙87 x M £120
+1,000 to 4,999 £0∙74 x M £870
+5,000 to 9,999 £0∙49 x M £3,700
+10,000 to 499,999 £0∙37 x M £4,900
+500,000 or more £0∙28 x M £185,000
+13.  The following Table relates to personal pension schemes for the financial year beginning with 1st April 2023.
+TABLE
+Column 1 Column 2 Column 3
+Number of members on the reference day Amount of levy calculated by reference to number of members (M) Minimum amount of levy
+2 to 11 £14
+12 to 99 £1∙25 x M Not applicable
+100 to 999 £0∙88 x M £120
+1,000 to 4,999 £0∙75 x M £880
+5,000 to 9,999 £0∙50 x M £3,750
+10,000 to 499,999 £0∙38 x M £5,000
+500,000 or more £0∙28 x M £190,000”
+(1)
+2008 c. 13 (N.I.)
+(2)
+2017 c. 17EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations further amend the Occupational and Personal Pension Schemes (General Levy) Regulations (Northern Ireland) 2005 (“the 2005 Regulations”).
+Regulation 2 amends regulations 5 and 6 of, and inserts a Schedule into, the 2005 Regulations to specify the new figures to be used in calculating the rate at which the general levy is payable for the financial years beginning with 1st April 2021, 1st April 2022 and 1st April 2023. The purpose of the general levy is to meet the expenditure mentioned in section 170(1) of the Pension Schemes (Northern Ireland) Act 1993. Specified occupational and personal pension schemes pay the general levy (see regulation 2 of the 2005 Regulations). The general levy is used to fund the Pensions Regulator and the Pensions Ombudsman and partly to fund the Money and Pensions Service. The effect of the changes is to increase the general levy rates for both occupational and personal pension schemes for those financial years and to introduce separate rates for defined benefit and hybrid, money purchase and Master Trust occupational pension schemes.
+Regulation 3 makes a consequential revocation.

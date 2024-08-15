@@ -1,0 +1,65 @@
+STATUTORY INSTRUMENTS
+2020 No. 360
+INVESTIGATORY POWERS
+The Investigatory Powers (Temporary Judicial Commissioners and Modification of Time Limits) Regulations 2020
+Made
+26th March 2020
+Laid before Parliament
+27th March 2020
+Coming into force in accordance with regulation 1
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 22(2) and 23(2) of the Coronavirus Act 2020 M1.
+In accordance with section 22(1) of that Act, the Secretary of State has been notified by the Investigatory Powers Commissioner that, as a result of the effects of coronavirus, there is a shortage of persons able to carry out the functions conferred on Judicial Commissioners by the enactments referred to in that subsection and, in the Commissioner's opinion, the Secretary of State's power in section 22(2) needs to be exercised in order to deal with that shortage.
+In accordance with section 23(1) of that Act, the Secretary of State has been notified by the Investigatory Powers Commissioner that, in the Commissioner's opinion, the Secretary of State's power in section 23(2) needs to be exercised in response to the effects that coronavirus is having, or is likely to have, on the capacity of Judicial Commissioners to carry out their functions.
+Marginal Citations
+M1
+2020 c. 7.Citation and commencement
+1.—(1) These Regulations may be cited as the Investigatory Powers (Temporary Judicial Commissioners and Modification of Time Limits) Regulations 2020.
+(2) These Regulations come into force on the day after they are made.
+Commencement Information
+I1
+Reg. 1 in force at 27.3.2020, see reg. 1(2)Interpretation
+2.  In these Regulations—
+“the Commissioner” means the Investigatory Powers Commissioner;
+“temporary Commissioner” means a person appointed under regulation 3(1).
+Commencement Information
+I1
+Reg. 2 in force at 27.3.2020, see reg. 1(2)Appointment of temporary Judicial Commissioners
+3.—(1) The Commissioner may appoint persons to carry out the functions conferred on Judicial Commissioners by the 1997 Act M1, the 2000 Acts M2 and the 2016 Act M3.
+(2) A temporary Commissioner may be appointed for one or more terms not exceeding six months each and not exceeding 12 months in total.
+(3) Sections 227(4) to (6) (appointments of Judicial Commissioners to be made on joint recommendation of certain persons and consultation requirements) and 228(2) (appointment for a term of three years) of the 2016 Act do not apply to the appointment of temporary Commissioners.
+(4) As soon as practicable after the appointment of any temporary Commissioner, the Commissioner must notify the persons listed in section 22(5)(a) to (f) of the Coronavirus Act 2020 of that appointment.
+Modifications etc. (not altering text)
+C1
+Reg. 3(1) modified (10.8.2021 for specified purposes, 15.9.2021 for specified purposes, 30.9.2021 in so far as not already in force) by Covert Human Intelligence Sources (Criminal Conduct) Act 2021 (c. 4), s. 9(2), Sch. para. 16; S.I. 2021/605, reg. 2(a)(b)(c)
+Commencement Information
+I1
+Reg. 3 in force at 27.3.2020, see reg. 1(2)
+Marginal Citations
+M1
+The “1997 Act” is defined in section 22(1) of the 2020 Act as meaning the Police Act 1997 (c. 50).
+M2
+The “2000 Acts” are defined in section 22(1) of the 2020 Act as meaning the Regulation of Investigatory Act 2000 (c. 23) and the Regulation of Investigatory Powers (Scotland) Act 2000 (asp. 11).
+M3
+The “2016 Act” is defined in section 22(1) of the 2020 Act as meaning the Investigatory Powers Act 2016 (c. 25).Time limits in relation to urgent warrants and modifications under the 2016 Act
+4.  For the purposes of warrants issued, and modifications made, after the coming into force of these Regulations, the 2016 Act has effect as if—
+(a)
+in sections 24(3), 109(3), 180(3) and 209(3) (period within which Judicial Commissioner must decide whether to approve decision to issue urgent warrant), in the definition of “relevant period” for “third” there were substituted “ ninth ”;
+(b)
+in sections 32(2)(a), 116(2)(a), 184(2)(a) and 213(2)(a) (period at end of which urgent warrant ceases to have effect), for “fifth” there were substituted “ 12th ”;
+(c)
+in sections 38(5), 122(5), 124(3), 147(3), 166(3), 188(3) and 217(3) (period within which Judicial Commissioner or other appropriate person must decide whether to approve decision to make urgent modification of warrant), in the definition of “relevant period” for “third” there were substituted “ ninth ”.
+Commencement Information
+I1
+Reg. 4 in force at 27.3.2020, see reg. 1(2)Cessation of effect of Regulations
+5.  These Regulations cease to have effect at the end of the period of 12 months beginning with the day on which they come into force.
+Commencement Information
+I1
+Reg. 5 in force at 27.3.2020, see reg. 1(2)James Brokenshire
+Minister of State
+Home OfficeEXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations are made under the Coronavirus Act 2020 in order to ensure that warrants can continue to be approved by Judicial Commissioners under the Investigatory Powers Act 2016 (“the 2016 Act”).
+These Regulations make it possible for the Investigatory Powers Commissioner to quickly appoint temporary Judicial Commissioners rather than the current (more lengthy) process under the 2016 Act for appointing Judicial Commissioners having to be followed. Such temporary Judicial Commissioners can only be appointed for a (renewable) term of six months, with a maximum tenure of 12 months. This power will ensure that there remain sufficient numbers of Judicial Commissioners to ensure warrants are considered efficiently and expeditiously.
+These Regulations also extend the time limits for approvals of urgent warrants and urgent modifications to occur. Urgent warrants can be issued and then must be approved by a Judicial Commissioner within three working days from the day after the day on which the warrant was issued. Urgent modifications of warrants must also be approved within three working days from the day after the day on which the modification was made. If such warrants are approved, the warrant will continue to be valid for five working days from the day after the day on which the warrant was issued. If urgent modifications are approved, the modifications will continue to be valid for five working days from the day after the day on which the modification was made of the warrant. These Regulations extend the period in which an urgent warrant or modification must be approved to nine working days and the period in which such a warrant or modification is valid for, if it is so approved, to 12 working days.
+These Regulations will cease to have effect after 12 months.
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.

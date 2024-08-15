@@ -1,0 +1,124 @@
+STATUTORY INSTRUMENTS
+2020 No. 1517
+PUBLIC HEALTH, ENGLAND
+TRANSPORT, ENGLAND
+The Health Protection (Coronavirus, International Travel and Public Health Information) (England) (Amendment) (No. 2) Regulations 2020
+Made
+10th December 2020
+Laid before Parliament
+11th December 2020
+Coming into force in accordance with regulation 1(2) and (3)
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 45B, 45F(2) and 45P(2) of the Public Health (Control of Disease) Act 1984 M1.
+Marginal Citations
+M1
+1984 c. 22. Part 2A was inserted by section 129 of the Health and Social Care Act 2008 (c. 14).Citation and commencement
+1.—(1) These Regulations may be cited as the Health Protection (Coronavirus, International Travel and Public Health Information) (England) (Amendment) (No. 2) Regulations 2020.
+(2) Regulations 1, 2, 3(1), 3(4) and 6(1) come into force at 4.00 a.m. on 12th December 2020.
+(3) All other provisions come into force on 14th December 2020.
+Commencement Information
+I1
+Reg. 1 in force at 12.12.2020 at 4.00 a.m., see reg. 1(2)Interpretation
+2.  In these Regulations—
+“the International Travel Regulations” means the Health Protection (Coronavirus, International Travel) (England) Regulations 2020 M1;
+“the Passenger Information Regulations” means the Health Protection (Coronavirus, Public Health Information for Passengers Travelling to England) Regulations 2020 M2.
+Modifications etc. (not altering text)
+C1
+Reg. 2 modified (8.3.2021 at 4.00 a.m.) by The Health Protection (Coronavirus, International Travel and Information for Passengers) (England) (Amendment) Regulations 2021 (S.I. 2021/252), regs. 1(2), 14
+Commencement Information
+I1
+Reg. 2 in force at 12.12.2020 at 4.00 a.m., see reg. 1(2)
+Marginal Citations
+M1
+S.I. 2020/568, amended by S.I. 2020/691, 724, 799, 805, 813, 819, 841, 866, 890, 913, 959, 980, 1013, 1039, 1070, 1076, 1094, 1129, 1161, 1190, 1227, 1238, 1277, 1292, 1360 and 1424, and due to be amended by S.I. 2020/1337 on 15th December 2020.
+M2
+S.I. 2020/567, amended by S.I. 2020/691 and 1090, and due to be amended by S.I. 2020/1337 on 15th December 2020.Amendment of the International Travel Regulations
+3.—(1) The International Travel Regulations are amended as follows.
+(2) In regulation 3 (requirement to provide information)—
+(a)
+in paragraph (3), for “14th” substitute “ 10th ”;
+(b)
+in paragraph (4)(b) for “14” substitute “ 10 ”.
+(3) In regulation 4 (requirement to self-isolate), in paragraphs (1)(b) and (7)(a), for “14th” substitute “ 10th ”.
+(4) In Schedule A1 (exempt countries and territories), in Part 1—
+(a)
+omit the entry for “The Canary Islands”;
+(b)
+insert entries for “ Botswana ” and “Saudi Arabia” at the appropriate places.
+(5) In Schedule 1 (passenger information)—
+(a)
+in paragraph 2(a)(ii), for “14” substitute “ 10 ”;
+(b)
+in paragraph 2(ha), for “14th” substitute “ 10th ”.
+(6) In Schedule 2 (persons not required to comply with regulation 3 or 4)—
+(a)
+in paragraph 3(1)(b), for “14” (in both places) substitute “ 10 ”;
+(b)
+in paragraph 39, in the definition of “international elite sportsperson”, for “14th” substitute “ 10th ”.
+Commencement Information
+I1
+Reg. 3(1)(4) in force at 12.12.2020 at 4.00 a.m., see reg. 1(2)
+I2
+Reg. 3(2)(3)(5)(6) in force at 14.12.2020, see reg. 1(3)Amendment of the Passenger Information Regulations
+4.—(1) The Passenger Information Regulations are amended as follows.
+(2) In regulation 3 (information requirement), after paragraph (9) insert—
+“(9A) If, following the coming into force of any provision which amends the information required to be provided by regulation 3, an operator provides information to a passenger that would have complied with the information requirement but for the coming into force of that amending provision, it is a defence for the operator to show that it was not reasonably practicable for the amended information to be provided.”.
+(3) In Part 1 of the Schedule (specified information)—
+(a)
+for “14” substitute “ 10 ”;
+(b)
+after “It is a legal requirement that you wear a face covering on public transport in the UK.” insert—
+“(4) If you are required to self-isolate, you may be able to shorten the self-isolation period by opting into a test to release scheme, depending on which part of the UK you are in. For further information and a list of providers please visit www.gov.uk/guidance/coronavirus-covid-19-test-to-release-for-international-travel.”.
+(4) In Part 2 of the Schedule, for “14” substitute “ 10 ”.
+Commencement Information
+I1
+Reg. 4 in force at 14.12.2020, see reg. 1(3)Amendment of the Health Protection (Coronavirus, International Travel) (England) (Amendment) (No. 26) Regulations 2020
+5.—(1) The Health Protection (Coronavirus, International Travel) (England) (Amendment) (No. 26) Regulations 2020 M1 are amended as follows.
+(2) In regulation 2 (amendment of the International Travel Regulations), in paragraph (7), in the new Schedule 2A to be inserted—
+(a)
+in paragraph 2(1)(d), for “NHS Act 2006, the NHS (Wales) Act 2006” substitute “ National Health Service Act 2006 M2, the National Health Services (Wales) Act 2006 M3 ”;
+(b)
+in paragraph 2(2)(d)(iii) and paragraph 3(1)(c)(i) and (ii), for “ISO standard 17025” substitute “ ISO/IEC standard 17025 M4 ”;
+(c)
+in paragraph 3(1)(d), before “ISO standard 22870” insert “ ISO standard 15189 M5 and ”;
+(d)
+in paragraph 5(3), in ‘Form B: positive test result’ for “14” substitute “ 10 ”.
+(3) Omit regulation 3 (amendment of the Passenger Information Regulations).
+Commencement Information
+I1
+Reg. 5 in force at 14.12.2020, see reg. 1(3)
+Marginal Citations
+M1
+S.I. 2020/1337, due to come into force on 15th December 2020.
+M2
+2006 c.41.
+M3
+2006 c.42.
+M4
+ISO standards are published in Geneva by the International Organisation for Standardisation, and are available on their website (www.iso.org) or at ISO Central Secretariat, International Organization for Standardization (ISO), 1 rue de Varembé, Case postale 56, CH-1211, Geneva 20, Switzerland. ISO/IEC 17025 General requirements for the competence of testing and calibration laboratories was published in November 2017.
+M5
+ISO 15189 Medical Laboratories requirements for quality and competence was published in November 2012.Transitional and saving provisions
+6.—(1) In relation to any person who arrived in England on or after 10th July 2020 but before 4.00 a.m. on 12th December 2020, the International Travel Regulations apply as if the amendments made by regulation 3(4) had not been made.
+(2) In relation to any booking made before 14th December 2020, the requirement in regulation 3(1) of the Passenger Information Regulations (“the information requirement”) is to be regarded as complied with even if the information provided to passengers does not include the amendments made by regulation 4(3) and (4).
+Commencement Information
+I1
+Reg. 6(1) in force at 12.12.2020 at 4.00 a.m., see reg. 1(2)
+I2
+Reg. 6(2) in force at 14.12.2020, see reg. 1(3)Signed by the authority of the Secretary of State for Transport
+Robert Courts
+Parliamentary Under Secretary of State
+Department for TransportEXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the Health Protection (Coronavirus, International Travel) (England) Regulations 2020 (S.I. 2020/568) (“the International Travel Regulations”) to:
+(a)
+amend the requirement to self-isolate (regulation 4 of the International Travel Regulations) so that it applies to people who have, within the 10 days prior to their arrival in England, been in or transited through a non-exempt country or territory;
+(b)
+amend the length of time for which a person is required to self-isolate so that a person must self-isolate until the end of the 10th day after the day on which they last departed from or transited through such a country or territory, or until they depart from England or become required to self-isolate under the Health Protection (Coronavirus, Restrictions) (Self-Isolation) (England) Regulations 2020 (S.I. 2020/1045);
+(c)
+amend the list of exempt countries and territories by adding Botswana and Saudi Arabia and removing the Canary Islands.
+Consequential amendments are made to:
+(a)
+the information that passengers are required to provide under Schedule 1 to the International Travel Regulations; and
+(b)
+the information that operators are required to provide to passengers under the Health Protection (Coronavirus, Public Health Information for Passengers Travelling to England) Regulations 2020 (S.I. 2020/567).
+These Regulations also correct drafting errors in the Health Protection (Coronavirus, International Travel) (England) (Amendment) (No. 26) Regulations 2020 (S.I. 2020/1337), which themselves amend the International Travel Regulations with effect from 15th December 2020.
+An impact assessment has not been produced for this instrument. An explanatory memorandum has been published alongside this instrument at www.legislation.gov.uk.

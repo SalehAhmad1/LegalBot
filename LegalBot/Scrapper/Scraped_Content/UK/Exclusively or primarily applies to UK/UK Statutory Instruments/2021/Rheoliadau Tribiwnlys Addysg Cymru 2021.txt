@@ -1,0 +1,1439 @@
+OFFERYNNAU STATUDOL CYMRU
+2021 Rhif 406 (Cy. 132)
+ADDYSG, CYMRU
+Rheoliadau Tribiwnlys Addysg Cymru 2021
+Gwnaed
+am 2.10 p.m. ar 24 Mawrth 2021
+Yn dod i rym
+1 Medi 2021
+Mae Gweinidogion Cymru yn gwneud y Rheoliadau a ganlyn drwy arfer y pwerau a roddir iddynt gan adrannau 70(4), 74, 75, 76(3), 77, 91(6) a 92(2) o Ddeddf Anghenion Dysgu Ychwanegol a’r Tribiwnlys Addysg (Cymru) 2018(1), a chan adran 207(4) o Ddeddf Cydraddoldeb 2010(2) a pharagraffau 6(1), (2) i (5) a (7) a 6A o Atodlen 17 iddi.
+Yn unol ag adran 98(3) o Ddeddf Anghenion Dysgu Ychwanegol a’r Tribiwnlys Addysg (Cymru) 2018 ac adran 209(6) o Ddeddf Cydraddoldeb 2010, gosodwyd drafft o’r Rheoliadau hyn gerbron Senedd Cymru(3), ac fe’i cymeradwywyd ganddi drwy benderfyniad.
+(1)
+2018 dccc 2; gweler adran 99(1) am y diffiniadau o “rhagnodedig” ac “a ragnodir” a “rheoliadau”.
+(2)
+2010 p. 15; gweler adran 212(1) am y diffiniad o “prescribed”. Diwygiwyd Deddf 2010, gan gynnwys amnewid paragraff 6A yn Atodlen 17 iddi, gan baragraff 19 o Atodlen 1 i Ddeddf 2018.
+(3)
+Mae’r cyfeiriadau yn adran 98(3) o Ddeddf 2018 ac adran 209(6) o Ddeddf 2010 at Gynulliad Cenedlaethol Cymru i’w darllen bellach fel pe baent yn gyfeiriadau at Senedd Cymru yn rhinwedd adran 150A(2) o Ddeddf Llywodraeth Cymru 2006 (p. 32).Enwi a chychwyn
+1.  Enw’r Rheoliadau hyn yw Rheoliadau Tribiwnlys Addysg Cymru 2021 a deuant i rym ar 1 Medi 2021.
+Gwybodaeth Cychwyn
+I1
+Rhl. 1 mewn grym ar 1.9.2021, gweler rhl. 1Dehongli
+2.—(1) Yn y Rheoliadau hyn—
+ystyr “apêl” (“appeal”) yw—
+(a)
+yn ddarostyngedig i baragraff (b), apêl i’r Tribiwnlys o dan Ran 2 o Ddeddf 2018 yn erbyn penderfyniad awdurdod lleol neu gorff llywodraethu SAB;
+(b)
+yn rheoliadau 55 i 57, apêl i’r Uwch Dribiwnlys yn erbyn penderfyniad y panel tribiwnlys;
+ystyr “apelydd” (“appellant”) yw person a chanddo hawlogaeth i apelio i’r Tribiwnlys o dan Ran 2 o Ddeddf 2018;
+ystyr “awdurdod” (“authority”) yw awdurdod ac eithrio’r awdurdod lleol a wnaeth y penderfyniad a herir;
+ystyr “awdurdod lleol” (“local authority”) yw’r cyngor sir neu’r cyngor bwrdeistref sirol yng Nghymru a wnaeth y penderfyniad a herir;
+ystyr “Cadeirydd” (“Chair”) yw’r Llywydd neu berson a benodir o dan adran 91(4) o Ddeddf 2018 i’r panel o bersonau a gaiff wasanaethu fel cadeirydd cyfreithiol y Tribiwnlys;
+ystyr “clerc i’r panel tribiwnlys” (“clerk to the tribunal panel”) yw’r person a benodir gan Ysgrifennydd y Tribiwnlys i weithredu fel clerc mewn un neu ragor o wrandawiadau;
+ystyr “Cofrestr” (“Register”) yw’r gofrestr y mae’n ofynnol ei chadw o dan reoliad 71;
+mae i “corff cyfrifol” yr ystyr a roddir i “responsible body” gan adran 85(9) o Ddeddf 2010;
+ystyr “corff llywodraethu SAB” (“FEI governing body”) yw corff llywodraethu sefydliad addysg bellach yng Nghymru a wnaeth y penderfyniad a herir ac mae iddo’r ystyr a roddir gan adran 90 o Ddeddf Addysg Bellach ac Uwch 1992(1) fel y cyfeirir ati yn adran 99 o Ddeddf 2018;
+ystyr “cyfaill achos” (“case friend”) yw person a benodir gan y Tribiwnlys yn unol ag adran 85 o Ddeddf 2018 a rheoliadau 60 i 62, i arfer hawl y plentyn i wneud apêl neu hawliad ar ran y plentyn;
+ystyr “cyfeiriad e-bost” (“e-mail address”) yw cyfeiriad post electronig person;
+ystyr “cyfnod datganiad achos” (“case statement period”) yw’r cyfnod a bennir yn rheoliad 17;
+ystyr “datganiad achos” (“case statement”) yw’r datganiad achos a gyflwynir yn unol â rheoliad 18 neu 19;
+ystyr “Deddf 1996” (“the 1996 Act”) yw Deddf Addysg 1996(2);
+ystyr “Deddf 2010” (“the 2010 Act”) yw Deddf Cydraddoldeb 2010;
+ystyr “Deddf 2018” (“the 2018 Act”) yw Deddf Anghenion Dysgu Ychwanegol a’r Tribiwnlys Addysg (Cymru) 2018;
+ystyr “diwrnod gwaith” (“working day”) yw unrhyw ddiwrnod ac eithrio—
+(a)
+dydd Sadwrn,
+(b)
+dydd Sul,
+(c)
+unrhyw ddiwrnod o 25 Rhagfyr i 1 Ionawr yn gynwysedig,
+(d)
+dydd Gwener y Groglith,
+(e)
+y dydd Llun cyntaf ym mis Mai,
+(f)
+unrhyw ddiwrnod ym mis Awst, neu
+(g)
+diwrnod sy’n ŵyl banc yng Nghymru a Lloegr o dan adran 1 o Ddeddf Bancio a Thrafodion Ariannol 1971(3);
+ystyr “dogfen” (“document”) yw unrhyw beth y cofnodir gwybodaeth o unrhyw ddisgrifiad ynddo;
+ystyr “gwrandawiad” (“hearing”) yw gwrandawiad gerbron y Llywydd, Cadeirydd neu’r panel tribiwnlys at ddiben galluogi’r Llywydd, Cadeirydd neu’r panel tribiwnlys i wneud penderfyniad ar apêl, hawliad, cais neu unrhyw gwestiwn neu fater y mae hawlogaeth gan y partïon i fod yn bresennol a chael eu clywed ynddo, ac mae’n cynnwys gwrandawiad a gynhelir yn gyfan gwbl neu’n rhannol drwy gyswllt fideo, ar y ffôn neu drwy ddull arall o gyfathrebu electronig dwyffordd disymwth;
+ystyr “gwŷs tyst” (“witness summons”) yw dogfen a ddyroddir gan y Llywydd neu’r panel tribiwnlys sy’n ei gwneud yn ofynnol i dyst fod yn bresennol mewn gwrandawiad o apêl neu hawliad, i roi tystiolaeth, neu ddangos dogfennau, mewn perthynas ag apêl neu hawliad i’r Tribiwnlys;
+ystyr “hawliad” (“claim”) yw hawliad ar gyfer gwahaniaethu ar sail anabledd o dan Bennod 1 o Ran 6 o Ddeddf 2010 ac Atodlen 17 iddi;
+ystyr “hawlydd” (“claimant”) yw person a chanddo hawlogaeth i wneud hawliad i’r Tribiwnlys o dan Bennod 1 o Ran 6 o Ddeddf 2010 ac Atodlen 17 iddi;
+mae i “llofnod electronig” yr ystyr a roddir i “electronic signature” gan adran 7 o Ddeddf Cyfathrebiadau Electronig 2000(4);
+ystyr “panel tribiwnlys” (“tribunal panel”) yw panel o’r Tribiwnlys a gaiff benderfynu apêl neu hawliad neu unrhyw gwestiwn neu fater mewn perthynas ag apêl neu hawliad;
+ystyr “parti” (“party”) yw—
+(a)
+mewn apêl, yr apelydd, yr awdurdod lleol neu gorff llywodraethu’r SAB, a
+(b)
+mewn hawliad, yr hawlydd neu’r corff cyfrifol;
+ystyr “penderfyniad a herir” (“disputed decision”) yw’r penderfyniad neu’r weithred, neu’r methiant i benderfynu neu weithredu, y dygir yr apêl neu’r hawliad mewn cysylltiad ag ef neu hi;
+ystyr “person ifanc” (“young person”) yw—
+(a)
+mewn apêl, person sy’n destun yr apêl neu’r hawliad, a
+(b)
+mewn hawliad, person sy’n hŷn na’r oedran ysgol gorfodol ac sy’n destun yr hawliad;
+ystyr “plentyn” (“child”) yw person sy’n destun yr apêl neu’r hawliad;
+mae i “rhiant” yr ystyr a roddir i “parent” gan adran 576 o Ddeddf 1996;
+mae “sylwadau llafar” (“oral representations”) yn cynnwys tystiolaeth a roddir, oherwydd amhariad ar leferydd neu glyw, gan berson sy’n defnyddio iaith arwyddion;
+ystyr “sylwedydd” (“observer”) yw person a gaiff fod yn bresennol mewn gwrandawiad at ddiben arsylwi ar y gwrandawiad, ond ni chaniateir iddo gymryd rhan yn y gwrandawiad, na gwneud unrhyw nodiadau o’r gwrandawiad, na gwneud unrhyw recordiad o’r gwrandawiad drwy ddull clyweledol neu drwy unrhyw ddull arall;
+ystyr “Tribiwnlys Haen Gyntaf” (“First-tier Tribunal”) yw’r tribiwnlys a sefydlwyd o dan adran 3 o Ddeddf Tribiwnlysoedd, Llysoedd a Gorfodi 2007(5), sydd ag awdurdodaeth yn Lloegr dros apelau a hawliadau;
+mae “tystiolaeth” (“evidence”) yn cynnwys deunydd o unrhyw ddisgrifiad a gofnodir ar unrhyw ffurf;
+ystyr “Uwch Dribiwnlys” (“Upper Tribunal”) yw’r tribiwnlys apeliadol a sefydlwyd o dan adran 3 o Ddeddf Tribiwnlysoedd, Llysoedd a Gorfodi 2007;
+ystyr “Ysgrifennydd y Tribiwnlys” (“Secretary of the Tribunal”) yw’r person sydd am y tro yn gweithredu fel Ysgrifennydd swyddfa’r Tribiwnlys.
+(2) Mae i’r geiriau a’r ymadroddion a ddefnyddir yn y Rheoliadau hyn ac yn Neddf 2018 yr un ystyr ag sydd iddynt yn y Ddeddf honno, ac eithrio i’r graddau yr ymddengys bwriad i’r gwrthwyneb.
+Gwybodaeth Cychwyn
+I1
+Rhl. 2 mewn grym ar 1.9.2021, gweler rhl. 1
+(1)
+1992 p. 13.
+(2)
+1996 p. 56.
+(3)
+1971 p. 80.
+(4)
+2000 p. 7.
+(5)
+2007 p. 15.Cymhwyso
+3.  Mae’r Rheoliadau hyn yn gymwys i apêl neu hawliad a gofnodir yn y Gofrestr ar neu ar ôl 1 Medi 2021.
+Gwybodaeth Cychwyn
+I1
+Rhl. 3 mewn grym ar 1.9.2021, gweler rhl. 1Y prif amcan
+4.—(1) Prif amcan y Rheoliadau hyn yw galluogi’r Llywydd, a’r panel tribiwnlys, i ymdrin ag apelau a hawliadau yn deg ac yn gyfiawn.
+(2) Mae ymdrin ag achos yn deg ac yn gyfiawn yn cynnwys—
+(a)
+ymdrin â’r apêl neu’r hawliad mewn ffyrdd sy’n gymesur â phwysigrwydd yr achos a chymhlethdod y materion,
+(b)
+osgoi, i’r graddau y bo’r Llywydd neu’r panel tribiwnlys yn ystyried eu bod yn briodol, ffurfioldeb diangen yn yr achosion o dan y Rheoliadau hyn,
+(c)
+sicrhau, i’r graddau y bo’n ymarferol, y trinnir y partïon yn gyfartal o ran trefniadaeth ac y gallant gymryd rhan lawn yn yr achos, gan gynnwys hwyluso unrhyw barti i gyflwyno unrhyw apêl neu hawliad, ond heb argymell pa drywydd y dylai’r parti hwnnw ei ddilyn,
+(d)
+defnyddio arbenigedd neilltuol y Llywydd neu’r panel tribiwnlys yn effeithiol, ac
+(e)
+osgoi oedi, i’r graddau y mae hynny’n gyson â rhoi ystyriaeth briodol i’r materion.
+(3) Rhaid i’r Llywydd neu’r panel tribiwnlys geisio rhoi effaith i brif amcan y Rheoliadau hyn pan fo’r Llywydd neu’r panel tribiwnlys o dan y Rheoliadau hyn—
+(a)
+yn arfer unrhyw swyddogaeth, neu
+(b)
+yn dehongli unrhyw reoliad.
+(4) Rhaid i’r Llywydd neu’r panel tribiwnlys fynd ati’n weithredol i reoli apelau a hawliadau yn unol â phrif amcan y Rheoliadau hyn.
+Gwybodaeth Cychwyn
+I1
+Rhl. 4 mewn grym ar 1.9.2021, gweler rhl. 1Rhwymedigaeth ar y partïon i gydweithredu
+5.—(1) Rhaid i’r partïon—
+(a)
+cydweithredu â’i gilydd at ddibenion symud yr apêl yn ei blaen neu’r hawliad yn ei flaen,
+(b)
+cydweithredu wrth gyfnewid dogfennau neu wybodaeth â’i gilydd, er mwyn galluogi pob parti i lunio datganiad achos,
+(c)
+cynorthwyo’r Llywydd, neu’r panel tribiwnlys, i hyrwyddo prif amcan y Rheoliadau hyn, a
+(d)
+cydweithredu â’r Llywydd a’r panel tribiwnlys yn gyffredinol.
+(2) Caiff y Llywydd, neu’r panel tribiwnlys, ddod i unrhyw gasgliadau anffafriol y maent yn meddwl eu bod yn addas o fethiant parti i gydymffurfio ag unrhyw un neu ragor o’r rhwymedigaethau a bennir ym mharagraff (1).
+(3) Pan fo’r Llywydd neu’r panel tribiwnlys wedi dod i gasgliad anffafriol o dan baragraff (2), caiff gyfarwyddo Ysgrifennydd y Tribiwnlys i gyflwyno hysbysiad i’r parti diffygiol ei fod yn bwriadu gwneud gorchymyn i ddileu—
+(a)
+yr apêl, pan yr apelydd yw’r parti diffygiol,
+(b)
+yr hawliad, pan yr hawlydd yw’r parti diffygiol, neu
+(c)
+y datganiad achos a’r dystiolaeth ysgrifenedig, pan yr awdurdod lleol, corff llywodraethu’r SAB neu’r corff cyfrifol yw’r parti diffygiol.
+(4) Rhaid i’r hysbysiad ym mharagraff (3) wahodd sylwadau, a rhaid i’r Llywydd, neu’r panel tribiwnlys, ystyried unrhyw sylwadau a gyflwynir.
+(5) At ddibenion y rheoliad hwn—
+(a)
+rhaid i hysbysiad sy’n gwahodd sylwadau roi gwybod i’r parti diffygiol y caiff y parti hwnnw, o fewn cyfnod (heb fod yn hwyrach na 10 niwrnod gwaith sy’n dechrau â’r dyddiad yr anfonir yr hysbysiad) a bennir yn yr hysbysiad, naill ai cyflwyno sylwadau ysgrifenedig neu ofyn am gyfle i gyflwyno sylwadau llafar, a
+(b)
+bydd sylwadau wedi eu cyflwyno—
+(i)
+yn achos sylwadau ysgrifenedig, os cyflwynir hwy o fewn y cyfnod penodedig, a
+(ii)
+yn achos sylwadau llafar, os yw’r parti sy’n bwriadu eu cyflwyno wedi gofyn am gyfle i wneud hynny o fewn y cyfnod penodedig.
+(6) Caiff y Llywydd neu’r panel tribiwnlys, ar ôl ystyried unrhyw sylwadau a gyflwynir gan y parti diffygiol, orchymyn bod achos y parti hwnnw yn cael ei ddileu.
+Gwybodaeth Cychwyn
+I1
+Rhl. 5 mewn grym ar 1.9.2021, gweler rhl. 1Dulliau eraill o ddatrys anghydfod
+6.—(1) Rhaid i’r Llywydd neu’r panel tribiwnlys, pan fo’n briodol, dynnu sylw’r partïon at unrhyw weithdrefn arall sydd ar gael i ddatrys yr anghydfod.
+(2) Os yw’r partïon yn dymuno defnyddio’r weithdrefn arall i ddatrys yr anghydfod, caiff y Llywydd neu’r panel tribiwnlys, ar yr amod bod hynny’n gyson â phrif amcan y Rheoliadau hyn, ohirio ystyriaeth o’r apêl neu’r hawliad.
+Gwybodaeth Cychwyn
+I1
+Rhl. 6 mewn grym ar 1.9.2021, gweler rhl. 1Aelodau’r panel lleyg
+7.—(1) Rhaid i Weinidogion Cymru fod wedi eu bodloni nad yw personau a benodir yn aelodau o’r panel lleyg yn gymwys i’w penodi’n Gadeirydd.
+(2) Rhaid i Weinidogion Cymru fod wedi eu bodloni bod gan ddigon o aelodau’r panel wybodaeth gyfredol a phrofiad cyfredol o blant, ac o bobl ifanc, sydd ag—
+(a)
+anghenion dysgu ychwanegol,
+(b)
+anableddau, neu
+(c)
+os yw’n ofynnol, y ddau.
+Gwybodaeth Cychwyn
+I1
+Rhl. 7 mewn grym ar 1.9.2021, gweler rhl. 1Sefydlu paneli tribiwnlys
+8.—(1) Mae awdurdodaeth y Tribiwnlys i’w harfer gan y nifer hwnnw o baneli tribiwnlys y mae’r Llywydd yn penderfynu arno o bryd i’w gilydd.
+(2) Mae’r paneli tribiwnlys sy’n arfer yr awdurdodaeth a roddir iddynt yn unol â pharagraff (1) i eistedd ar yr adegau hynny ac yn y mannau hynny y mae’r Llywydd yn penderfynu arnynt o bryd i’w gilydd.
+Gwybodaeth Cychwyn
+I1
+Rhl. 8 mewn grym ar 1.9.2021, gweler rhl. 1Aelodaeth panel tribiwnlys
+9.—(1) Rhaid i banel tribiwnlys gael Cadeirydd ynghyd â naill ai un neu ddau aelod o’r panel lleyg.
+(2) Ar gyfer pob gwrandawiad—
+(a)
+rhaid i’r Cadeirydd fod naill ai’r Llywydd neu’n berson a ddewisir gan y Llywydd o’r panel cadeirydd cyfreithiol, a
+(b)
+rhaid i’r aelod arall neu’r aelodau eraill fod yn bersonau a ddewisir gan y Llywydd o’r panel lleyg.
+(3) Pan fo’r panel wedi ei gyfansoddi o un Cadeirydd ac un aelod o’r panel lleyg, bydd gan y Cadeirydd bleidlais fwrw os bydd aelodau’r panel yn anghytuno â’i gilydd.
+Gwybodaeth Cychwyn
+I1
+Rhl. 9 mewn grym ar 1.9.2021, gweler rhl. 1Y cyfnod y mae rhaid i achos gael ei gychwyn ynddo
+10.—(1) O ran apêl i’r Tribiwnlys—
+(a)
+rhaid iddi gael ei gwneud yn ysgrifenedig yn unol â’r Rheoliadau hyn, a
+(b)
+rhaid i’r Tribiwnlys ei chael heb fod yn hwyrach na’r diwrnod gwaith cyntaf ar ôl diwedd y cyfnod o 8 wythnos gan ddechrau â’r dyddiad pan roddwyd—
+(i)
+yr hysbysiad o benderfyniad yr awdurdod lleol, neu gorff llywodraethu’r SAB, a
+(ii)
+yr hawl i apelio o dan Ran 2 o Ddeddf 2018 yn erbyn y penderfyniad.
+(2) Mewn perthynas ag apêl neu apêl arfaethedig, os cyfeirir yr anghydfod dan sylw ar gyfer datrys anghydfodau o dan adran 68 o Ddeddf 2018 cyn diwedd y cyfnod a bennir ym mharagraff (1)(b), estynnir am 8 wythnos y cyfnod a ganiateir gan y paragraff hwnnw.
+(3) O ran hawliad i’r Tribiwnlys—
+(a)
+rhaid iddo gael ei wneud yn ysgrifenedig yn unol â’r Rheoliadau hyn, a
+(b)
+rhaid i’r Tribiwnlys ei gael heb fod yn hwyrach na’r diwrnod gwaith cyntaf ar ôl diwedd y cyfnod a ddatgenir ym mharagraff 4(1) o Atodlen 17 i Ddeddf 2010(1).
+(4) Mewn perthynas â hawliad neu hawliad arfaethedig, os cyfeirir yr anghydfod dan sylw ar gyfer datrys anghydfodau o dan baragraff 6C o Atodlen 17 i Ddeddf 2010 cyn diwedd y cyfnod a bennir ym mharagraff (3)(b), estynnir y cyfnod a ganiateir gan y paragraff hwnnw yn unol â pharagraff 4(2A) o Atodlen 17 i Ddeddf 2010.
+(5) Yn ddarostyngedig i reoliad 14, ni chaiff y Tribiwnlys ystyried—
+(a)
+cais apelio, oni chychwynnir achos yn unol â pharagraff (1);
+(b)
+cais hawlio, oni chychwynnir achos yn unol â pharagraff (3).
+Gwybodaeth Cychwyn
+I1
+Rhl. 10 mewn grym ar 1.9.2021, gweler rhl. 1
+(1)
+Mae paragraff 4(1) o Atodlen 17 i Ddeddf Cydraddoldeb 2010 yn pennu’r cyfnod y mae rhaid gwneud hawliad i’r Tribiwnlys ynddo.Cais apelio
+11.—(1) Rhaid i’r cais apelio ddatgan—
+(a)
+enw a chyfeiriad y person sy’n gwneud yr apêl ac, os ydynt ar gael, rhif ffôn a chyfeiriad e-bost y person hwnnw,
+(b)
+enw a dyddiad geni’r plentyn neu’r person ifanc,
+(c)
+os yw’n berthnasol, y berthynas neu’r cysylltiad rhwng y person sy’n gwneud yr apêl a’r plentyn neu’r person ifanc,
+(d)
+enw a chyfeiriad pob person—
+(i)
+y mae ganddo gyfrifoldeb rhiant dros y plentyn, neu
+(ii)
+sy’n rhannu cyfrifoldeb rhiant dros y plentyn, neu
+(iii)
+sy’n gofalu am y plentyn,
+neu’r rhesymau pam na ddarperir enwau a chyfeiriadau’r personau hynny,
+(e)
+enw a chyfeiriad unrhyw gynrychiolydd neu gyfaill achos ar gyfer y person sy’n gwneud yr apêl ac, os ydynt ar gael, rhif ffôn a chyfeiriad e-bost y cynrychiolydd neu’r cyfaill achos,
+(f)
+cyfeiriad ac, os oes un ar gael, cyfeiriad e-bost, lle y dylid anfon hysbysiadau a dogfennau ar gyfer y person sy’n gwneud yr apêl,
+(g)
+enw a chyfeiriad yr awdurdod lleol neu gorff llywodraethu’r SAB a wnaeth y penderfyniad a herir,
+(h)
+y dyddiad pan gafodd y person sy’n gwneud yr apêl gadarnhad ysgrifenedig o’r penderfyniad a herir,
+(i)
+y rheswm neu’r rhesymau dros wneud yr apêl,
+(j)
+y canlyniad a geisir,
+(k)
+y camau, os oes rhai, a gymerwyd eisoes i ddatrys yr anghydfod, ac
+(l)
+unrhyw ofynion a dymuniadau cyfathrebu y plentyn neu’r person ifanc.
+(2) Os yw’r person sy’n gwneud yr apêl yn ceisio gorchymyn—
+(a)
+bod cynllun datblygu unigol yn cael ei ddiwygio, rhaid i’r cais apelio bennu pa adran neu adrannau o’r cynllun datblygu unigol y mae’r apêl yn ymwneud â hi neu â hwy, a
+(b)
+ar gyfer lleoliad mewn ysgol neu sefydliad arall, rhaid i’r cais apelio ddatgan enw a chyfeiriad yr ysgol neu’r sefydliad arall.
+(3) Caniateir cyflwyno’r canlynol gyda’r cais apelio—
+(a)
+copi o’r penderfyniad a herir,
+(b)
+pan fo’r apêl yn cael ei gwneud o dan adran 70 neu 72 o Ddeddf 2018, copi o gynllun datblygu unigol y plentyn neu’r person ifanc, unrhyw ddogfennaeth sydd wedi ei hatodi i’r cynllun datblygu unigol neu sy’n ffurfio rhan ohono ac, os yw ar gael, copi o’r adolygiad diweddaraf o dan adran 23 neu 24 o Ddeddf 2018, ac
+(c)
+y datganiad achos yn unol â rheoliadau 17 a 18.
+(4) Rhaid cyflwyno’r canlynol gyda’r cais apelio—
+(a)
+cadarnhad ysgrifenedig bod y person sy’n gwneud yr apêl wedi hysbysu’r personau, os oes rhai, a enwir yn unol â pharagraff (1)(d) fod y person yn bwriadu gwneud apêl i’r Tribiwnlys, neu gadarnhad ysgrifenedig sy’n esbonio pam nad yw’r person sy’n gwneud yr hawliad wedi hysbysu’r personau hynny,
+(b)
+pan fo’r cais apelio yn datgan enw ysgol neu ddarpariaeth ddysgu ychwanegol mewn sefydliad arall yn unol â pharagraff (2)(b), gadarnhad ysgrifenedig bod y person sy’n gwneud yr apêl wedi rhoi gwybod i bennaeth yr ysgol, neu i gorff llywodraethu neu berchennog y sefydliad arall, fod y person yn bwriadu gofyn i’r ysgol neu i’r sefydliad arall gael ei henwi neu ei enwi yn y cynllun datblygu unigol, ac
+(c)
+pan fo’r cais apelio, o dan baragraff (2)(b), yn datgan enw—
+(i)
+ysgol a gynhelir, gadarnhad ysgrifenedig bod y person sy’n gwneud yr apêl wedi rhoi gwybod i’r awdurdod lleol sy’n cynnal yr ysgol, a all fod yr awdurdod lleol a wnaeth y penderfyniad a herir neu awdurdod lleol gwahanol, fod y person yn bwriadu gofyn i’r ysgol a gynhelir gael ei henwi yn y cynllun datblygu unigol;
+(ii)
+ysgol annibynnol, gadarnhad ysgrifenedig bod y person sy’n gwneud yr apêl wedi rhoi gwybod i berchennog yr ysgol fod y person yn bwriadu gofyn i’r ysgol annibynnol gael ei henwi yn y cynllun datblygu unigol;
+(iii)
+ysgol annibynnol, gadarnhad ysgrifenedig gan berchennog yr ysgol fod lle ar gael yn yr ysgol i’r plentyn;
+(iv)
+unrhyw sefydliad arall, gadarnhad ysgrifenedig bod y person sy’n gwneud yr apêl wedi cadarnhau pa un a oes darpariaeth addas ar gael yn y sefydliad ai peidio.
+(5) Rhaid i’r cais apelio gael ei lofnodi gan y person sy’n gwneud yr apêl, neu gan unrhyw gynrychiolydd neu gyfaill achos ar ran y person hwnnw.
+(6) Yn unol â rheoliad 35, caiff y cais apelio gynnwys archiad i’r apêl gael ei gwrando ar y cyd â hawliad yn erbyn corff cyfrifol.
+Gwybodaeth Cychwyn
+I1
+Rhl. 11 mewn grym ar 1.9.2021, gweler rhl. 1Cais hawlio
+12.—(1) Rhaid i’r cais hawlio ddatgan—
+(a)
+enw a chyfeiriad y person sy’n gwneud yr hawliad ac, os ydynt ar gael, rhif ffôn a chyfeiriad e-bost y person hwnnw,
+(b)
+enw a dyddiad geni’r plentyn neu’r person ifanc,
+(c)
+os yw’n berthnasol, y berthynas neu’r cysylltiad rhwng y person sy’n gwneud yr hawliad a’r plentyn,
+(d)
+enwau a chyfeiriadau pob person y mae ganddo gyfrifoldeb rhiant neu sy’n rhannu cyfrifoldeb rhiant dros y plentyn neu sy’n gofalu am y plentyn, neu’r rhesymau pam na ddarperir enwau a chyfeiriadau’r personau hynny,
+(e)
+enw a chyfeiriad unrhyw gynrychiolydd neu gyfaill achos a benodir gan y person sy’n gwneud yr hawliad ac, os ydynt ar gael, rhif ffôn a chyfeiriad e-bost y cynrychiolydd neu’r cyfaill achos,
+(f)
+cyfeiriad ac, os oes un ar gael, cyfeiriad e-bost, lle y dylid anfon hysbysiadau a dogfennau ar gyfer y person sy’n gwneud yr hawliad,
+(g)
+enw a chyfeiriad—
+(i)
+yr ysgol neu’r awdurdod lleol a wnaeth y penderfyniad a herir, neu
+(ii)
+yr awdurdod ar gyfer yr ysgol a enwir o dan baragraff (1)(g)(i) os yw’r ysgol honno yn ysgol a gynhelir,
+(h)
+manylion y penderfyniad a herir y mae’r hawliad yn ymwneud ag ef,
+(i)
+y dyddiad neu’r dyddiadau y digwyddodd y penderfyniad a herir arno neu arnynt,
+(j)
+y rheswm neu’r rhesymau dros wneud yr hawliad,
+(k)
+y canlyniad a geisir, ac
+(l)
+y camau, os oes rhai, a gymerwyd eisoes i ddatrys yr anghydfod.
+(2) Rhaid i’r cais hawlio gynnwys disgrifiad o anabledd y disgybl ysgol.
+(3) Rhaid i’r cais hawlio gynnwys disgrifiad o unrhyw ofynion a dymuniadau cyfathrebu y plentyn neu’r person ifanc.
+(4) Os yw ar gael, dylid cyflwyno gyda’r cais hawlio dystiolaeth o ddiagnosis meddygol neu ddiagnosis proffesiynol arall mewn perthynas ag anabledd y disgybl.
+(5) Rhaid cyflwyno gyda’r cais hawlio gadarnhad ysgrifenedig bod y person sy’n gwneud yr hawliad wedi hysbysu’r personau, os oes rhai, a enwir yn unol â pharagraff (1)(d), fod y person wedi gwneud hawliad i’r Tribiwnlys, neu gadarnhad ysgrifenedig sy’n esbonio pam nad yw’r person sy’n gwneud yr hawliad wedi hysbysu’r personau hynny.
+(6) Rhaid i’r cais hawlio gael ei lofnodi gan y person sy’n gwneud yr hawliad neu gan unrhyw gynrychiolydd neu gyfaill achos ar ran y person hwnnw.
+(7) Yn unol â rheoliad 35, caiff y cais hawlio gynnwys archiad i’r hawliad gael ei wrando ar y cyd ag apêl yn erbyn awdurdod lleol.
+Gwybodaeth Cychwyn
+I1
+Rhl. 12 mewn grym ar 1.9.2021, gweler rhl. 1Camau gweithredu gan Ysgrifennydd y Tribiwnlys
+13.—(1) Ar ôl cael y cais apelio neu’r cais hawlio, rhaid i Ysgrifennydd y Tribiwnlys—
+(a)
+cofnodi ei fanylion yn y Gofrestr, a
+(b)
+anfon at yr apelydd neu’r hawlydd—
+(i)
+cydnabyddiaeth o gael y cais a nodyn o rif yr achos a gofnodwyd yn y Gofrestr,
+(ii)
+nodyn o’r cyfeiriad y dylid anfon hysbysiadau a chyfathrebiadau iddo ar gyfer y Tribiwnlys,
+(iii)
+hysbysiad y gellir cael cyngor ynghylch y weithdrefn apelio neu’r weithdrefn hawlio o swyddfa’r Tribiwnlys,
+(iv)
+hysbysiad bod gan awdurdodau lleol ddyletswyddau i roi trefniadau yn eu lle ar gyfer gwasanaethau eirioli annibynnol i blant a phobl ifanc y maent yn gyfrifol amdanynt,
+(v)
+datganiad o’r canlyniadau posibl i’r apêl neu’r hawliad os yw parti yn methu â chydymffurfio â rheoliad 5 (rhwymedigaeth ar y partïon i gydweithredu), a
+(vi)
+hysbysiad y caiff partïon gyflwyno datganiadau tyst ysgrifenedig a galw tystion yn unol â rheoliad 43.
+(2) Rhaid i Ysgrifennydd y Tribiwnlys anfon i gorff llywodraethu’r SAB, yr awdurdod lleol neu’r corff cyfrifol, yn ôl y digwydd—
+(a)
+copi o’r cais apelio neu’r cais hawlio ac unrhyw ddogfennau cysylltiedig,
+(b)
+nodyn o’r cyfeiriad y dylid anfon hysbysiadau a chyfathrebiadau iddo ar gyfer y Tribiwnlys,
+(c)
+pan yw datganiad achos yn ddogfen gysylltiedig o dan is-baragraff (a), neu pan geir ar wahân, hysbysiad sy’n datgan yr amser ar gyfer cyflwyno datganiad achos corff llywodraethu’r SAB, yr awdurdod lleol neu’r corff cyfrifol a thystiolaeth o dan reoliad 19, a’r canlyniadau os na wneir hynny,
+(d)
+datganiad o’r canlyniadau posibl i’r apêl neu’r hawliad os yw parti yn methu â chydymffurfio â rheoliad 5 (rhwymedigaeth ar y partïon i gydweithredu), ac
+(e)
+hysbysiad y caiff partïon gyflwyno datganiadau tyst ysgrifenedig a galw tystion yn unol â rheoliad 43.
+(3) Os yw’n angenrheidiol canfod enw’r corff cyfrifol mewn perthynas â hawliad, caiff y Llywydd neu Ysgrifennydd y Tribiwnlys wneud unrhyw ymholiadau sy’n angenrheidiol at y diben hwn.
+(4) Pan fo’n ymddangos i’r Llywydd neu Ysgrifennydd y Tribiwnlys y gall fod mwy nag un corff cyfrifol mewn perthynas â hawliad, caiff y Tribiwnlys anfon y ddogfennaeth a bennir ym mharagraff (2) i unrhyw un neu ragor neu i bob un o’r cyrff hynny, fel y bo’n briodol.
+(5) Pan fo’r Llywydd o’r farn, ar sail y cais apelio neu’r cais hawlio, fod y person sy’n gwneud yr apêl neu’r hawliad yn gofyn i’r Tribiwnlys ystyried mater sydd y tu allan i’w bwerau, caiff Ysgrifennydd y Tribiwnlys roi hysbysiad i’r person—
+(a)
+sy’n datgan y rhesymau dros y farn honno, a
+(b)
+sy’n rhoi gwybod i’r person na chaniateir i’r cais apelio neu’r cais hawlio gael ei gofnodi yn y Gofrestr oni fydd y person, o fewn amser penodedig (na chaniateir iddo fod yn llai na 5 niwrnod gwaith) yn hysbysu Ysgrifennydd y Tribiwnlys fod y person yn dymuno bwrw ymlaen â’r apêl neu’r hawliad.
+(6) Os yw Ysgrifennydd y Tribiwnlys wedi rhoi hysbysiad o dan baragraff (5), mae’r cais apelio neu’r cais hawlio i’w drin fel pe bai wedi ei gael at ddibenion paragraff (1) pan fo’r person sy’n gwneud yr apêl neu’r hawliad yn hysbysu Ysgrifennydd y Tribiwnlys fod y person yn dymuno bwrw ymlaen â’r apêl neu’r hawliad.
+(7) Pan fo Ysgrifennydd y Tribiwnlys o’r farn bod gwall amlwg yn y cais apelio neu’r cais hawlio, caiff Ysgrifennydd y Tribiwnlys gywiro’r gwall hwnnw.
+(8) Pan fo gwall wedi ei gywiro yn unol â pharagraff (7), rhaid i Ysgrifennydd y Tribiwnlys hysbysu’r person sy’n gwneud yr apêl neu’r hawliad am y cywiriad a datgan effaith paragraff (9).
+(9) Oni fydd y person sy’n gwneud yr apêl neu’r hawliad yn rhoi gwybod i Ysgrifennydd y Tribiwnlys o fewn 5 niwrnod gwaith i’r hysbysiad a roddir o dan baragraff (8) fod y person yn gwrthwynebu’r cywiriad, rhaid trin y cais apelio neu’r cais hawlio fel y’i cywirwyd fel y cais apelio neu’r cais hawlio at ddibenion y Rheoliadau hyn.
+(10) Rhaid i Ysgrifennydd y Tribiwnlys anfon yr holl ddogfennau a hysbysiadau ynghylch yr apêl neu’r hawliad at yr apelydd neu’r hawlydd.
+(11) Mae paragraff (10) yn gymwys—
+(a)
+oni fydd yr apelydd neu’r hawlydd yn hysbysu Ysgrifennydd y Tribiwnlys fod rhaid anfon yr holl ddogfennau a hysbysiadau ynghylch yr apêl neu’r hawliad at ei gynrychiolydd yn hytrach nag at yr apelydd neu’r hawlydd;
+(b)
+oni bai bod cyfaill achos wedi ei benodi yn unol ag adran 85 o Ddeddf 2018 a rheoliadau 60 i 62.
+(12) Os yw paragraff (11)(a) neu (b) yn gymwys, rhaid dehongli cyfeiriadau yn y Rheoliadau hyn (sut bynnag y’u mynegir) at anfon dogfennau at yr apelydd neu’r hawlydd, neu at roi hysbysiad i’r apelydd neu’r hawlydd, fel pe baent yn gyfeiriadau at anfon dogfennau at y cynrychiolydd neu at y cyfaill achos, neu at roi hysbysiad i’r cynrychiolydd, neu i’r cyfaill achos, yn ôl y digwydd.
+Gwybodaeth Cychwyn
+I1
+Rhl. 13 mewn grym ar 1.9.2021, gweler rhl. 1Apêl neu hawliad a wneir y tu allan i’r amser
+14.—(1) Caiff y Llywydd ystyried—
+(a)
+unrhyw apêl sydd y tu allan i’r amser os yw’r Llywydd yn ystyried, o dan holl amgylchiadau’r achos, ei bod yn deg ac yn gyfiawn gwneud hynny;
+(b)
+unrhyw hawliad sydd y tu allan i’r amser o dan baragraff 4(3) o Atodlen 17 i Ddeddf 2010.
+(2) Caiff y Llywydd geisio gwybodaeth bellach gan y person sy’n gwneud yr apêl neu’r hawliad cyn gwneud penderfyniad o dan baragraff (1).
+Gwybodaeth Cychwyn
+I1
+Rhl. 14 mewn grym ar 1.9.2021, gweler rhl. 1Digonolrwydd rhesymau
+15.—(1) Os nad yw’r cais apelio neu’r cais hawlio yn cynnwys datganiad o’r rhesymau dros wneud yr apêl neu’r hawliad, neu os na chyflwynir datganiad o’r fath gyda’r cais apelio neu’r cais hawlio, gan gynnwys, mewn perthynas â hawliad, yr wybodaeth a nodir yn rheoliad 12(1)(i) a (j) a (2) y mae’r Llywydd yn ystyried ei bod yn ddigonol i alluogi’r awdurdod lleol neu’r corff cyfrifol i ymateb i’r apêl neu’r hawliad, rhaid i’r Llywydd gyfarwyddo’r apelydd neu’r hawlydd i anfon manylion o’r rhesymau at Ysgrifennydd y Tribiwnlys o fewn 10 niwrnod gwaith i’r cyfarwyddyd.
+(2) Mae rheoliad 33 (methiant i gydymffurfio â chyfarwyddydau) yn gymwys i gyfarwyddyd o dan baragraff (1).
+(3) Mae rhesymau a anfonir wrth ymateb i gyfarwyddyd a wneir o dan baragraff (1) i’w trin fel pe baent yn rhan o’r cais apelio neu’r cais hawlio.
+Gwybodaeth Cychwyn
+I1
+Rhl. 15 mewn grym ar 1.9.2021, gweler rhl. 1Cynrychiolwyr yr apelydd neu’r hawlydd
+16.—(1) Caiff yr apelydd neu’r hawlydd, yn y cais apelio neu’r cais hawlio neu drwy roi hysbysiad ysgrifenedig i Ysgrifennydd y Tribiwnlys ar unrhyw adeg yn ddiweddarach—
+(a)
+penodi cynrychiolydd;
+(b)
+penodi cynrychiolydd arall i gymryd lle’r cynrychiolydd a benodwyd yn flaenorol ac y diddymir ei benodiad gan y penodiad diweddarach;
+(c)
+datgan nad oes unrhyw berson yn gweithredu fel cynrychiolydd yr apelydd neu’r hawlydd, sy’n diddymu unrhyw benodiad blaenorol.
+(2) Pan fo penodiad wedi ei wneud o dan baragraff (1), rhaid i’r apelydd neu’r hawlydd roi enw, cyfeiriad a manylion cyswllt y cynrychiolydd.
+Gwybodaeth Cychwyn
+I1
+Rhl. 16 mewn grym ar 1.9.2021, gweler rhl. 1Cyfnodau’r datganiad achos
+17.—(1) Cyfnod y datganiad achos ar gyfer apelydd sy’n gwneud apêl yw’r cyfnod o amser perthnasol a nodir yn rheoliad 10 ac mae’n cynnwys unrhyw estyniad i’r cyfnod hwnnw o amser a orchmynnir gan y Llywydd o dan reoliad 65.
+[F1(2) Cyfnod y datganiad achos ar gyfer hawlydd yw cyfnod o 8 wythnos gan ddechrau â’r dyddiad yr ystyrir bod y gydnabyddiaeth, a roddir o dan reoliad 13(1)(b)(i), wedi ei chael yn unol â rheoliad 75(11). Mae’n cynnwys unrhyw estyniad i’r cyfnod hwnnw a orchmynnir gan y Llywydd o dan reoliad 65.]
+(3) Os yw’r Llywydd yn gwneud cyfarwyddyd mewn perthynas ag—
+(a)
+apêl yn unol â rheoliad 15, nid yw’r cyfnod a bennir ym mharagraff (1) yn dechrau, ac ni chaiff Ysgrifennydd y Tribiwnlys anfon unrhyw ddogfennau fel sy’n ofynnol gan reoliad 13(2), hyd nes y ceir rhesymau mewn ymateb i’r cyfarwyddyd;
+(b)
+hawliad yn unol â rheoliad 15 neu’n gwneud ymholiadau o dan reoliad 13(3), nid yw’r cyfnod a bennir ym mharagraff (2) yn dechrau, ac ni chaiff Ysgrifennydd y Tribiwnlys anfon unrhyw ddogfennau i’r corff cyfrifol fel sy’n ofynnol gan reoliad 13(2), hyd nes y ceir rhesymau mewn ymateb i’r cyfarwyddyd neu y cwblheir yr ymholiadau.
+(4) Cyfnod y datganiad achos ar gyfer awdurdod lleol neu gorff llywodraethu SAB mewn apêl yw—
+(a)
+4 wythnos, gan ddechrau â’r dyddiad yr ystyrir bod yr hysbysiad, sy’n gysylltiedig â datganiad achos yr apelydd, wedi ei gael yn unol â rheoliad 75(11), a
+(b)
+mae’n cynnwys unrhyw estyniad i’r cyfnod hwnnw a orchmynnir gan y Llywydd o dan reoliad 65.
+(5) Cyfnod y datganiad achos ar gyfer corff cyfrifol yw—
+(a)
+4 wythnos, gan ddechrau â’r dyddiad yr ystyrir bod yr hysbysiad, a roddir o dan reoliad 13(2), wedi ei gael yn unol â rheoliad 75(11), a
+(b)
+mae’n cynnwys unrhyw estyniad i’r cyfnod hwnnw a orchmynnir gan y Llywydd o dan reoliad 65.
+Diwygiadau Testunol
+F1
+Rhl. 17(2) wedi ei amnewid (8.10.2021) gan Rheoliadau Tribiwnlys Addysg Cymru (Diwygio) 2021 (O.S. 2021/1121), rhlau. 1, 2
+Gwybodaeth Cychwyn
+I1
+Rhl. 17 mewn grym ar 1.9.2021, gweler rhl. 1Datganiad achos yr apelydd neu’r hawlydd
+18.—(1) Rhaid i’r apelydd neu’r hawlydd gyflwyno i Ysgrifennydd y Tribiwnlys, cyn diwedd cyfnod y datganiad achos, yn ôl y digwydd—
+(a)
+datganiad achos, a
+(b)
+yr holl dystiolaeth arall y bwriedir dibynnu arni ac nas cyflwynwyd eisoes.
+(2) Rhaid i’r datganiad achos gynnwys—
+(a)
+pan rhiant y plentyn yw’r apelydd neu’r hawlydd—
+(i)
+safbwyntiau’r plentyn ar y materion a godir yn yr apêl neu’r hawliad, neu
+(ii)
+esboniad pam nad yw’r apelydd neu’r hawlydd wedi canfod safbwyntiau’r plentyn;
+(b)
+pan y plentyn yw’r apelydd neu’r hawlydd—
+(i)
+safbwyntiau rhiant y plentyn ar y materion a godir yn yr apêl neu’r hawliad, neu
+(ii)
+esboniad pam nad yw’r apelydd neu’r hawlydd wedi canfod safbwyntiau’r rhiant.
+(3) Os yw’r Llywydd yn rhoi caniatâd, caiff yr apelydd neu’r hawlydd—
+(a)
+diwygio’r cais apelio neu’r cais hawlio;
+(b)
+cyflwyno datganiad atodol o resymau sy’n cefnogi’r cais apelio neu’r cais hawlio;
+(c)
+diwygio datganiad atodol o resymau sy’n cefnogi’r cais apelio neu’r cais hawlio;
+(d)
+cyflwyno datganiad achos atodol;
+(e)
+diwygio datganiad achos atodol.
+(4) Rhaid i’r apelydd neu’r hawlydd gyflwyno copi i Ysgrifennydd y Tribiwnlys o bob diwygiad a datganiad atodol y rhoddwyd caniatâd ar eu cyfer o dan baragraff (3) o fewn y cyfnod o amser a ganiateir.
+(5) Os diwygir cais apelio yn unol â pharagraff (3) fel bod yr apelydd yn gwneud apêl o dan adran 70(2)(f) ac (g) o Ddeddf 2018, rhaid i’r apelydd hysbysu pennaeth yr ysgol a gynhelir a enwir yn y cais apelio diwygiedig, gan ddatgan enw a dyddiad geni’r plentyn.
+(6) Os na chynhelir yr ysgol y cyfeirir ati ym mharagraff (5) gan yr awdurdod lleol, rhaid i’r apelydd hysbysu’r awdurdod sy’n cynnal yr ysgol.
+(7) Pan roddir caniatâd o dan baragraff (3), caiff y Llywydd, os bydd angen, estyn cyfnod y datganiad achos, o dan reoliad 65 neu, os yw wedi dod i ben, ganiatáu unrhyw gyfnod pellach y mae’r Llywydd yn ystyried ei fod yn briodol.
+(8) Os yw’r awdurdod lleol, corff llywodraethu’r SAB neu’r corff cyfrifol sy’n ymateb, ar yr adeg y rhoddir caniatâd o dan baragraff (3), wedi colli ei hawlogaeth i fod yn bresennol neu i gael ei gynrychioli yn y gwrandawiad yn unol â rheoliad 23 neu 33, bydd rhoi caniatâd yn adfer hawlogaeth o’r fath ac, os bydd angen, caniateir gohirio’r gwrandawiad cyn ei gychwyn neu ar ôl ei gychwyn, fel y bo’n briodol, er mwyn i’r ymatebydd allu cael ei gynrychioli.
+Gwybodaeth Cychwyn
+I1
+Rhl. 18 mewn grym ar 1.9.2021, gweler rhl. 1Datganiad achos a thystiolaeth yr awdurdod lleol, corff llywodraethu’r SAB neu’r corff cyfrifol sy’n ymateb
+19.—(1) Rhaid i’r awdurdod lleol, corff llywodraethu’r SAB neu’r corff cyfrifol sy’n ymateb (“yr ymatebydd”) gyflwyno i Ysgrifennydd y Tribiwnlys cyn diwedd cyfnod y datganiad achos—
+(a)
+copi o’r penderfyniad a herir,
+(b)
+copi o gynllun datblygu unigol y plentyn neu’r person ifanc, unrhyw ddogfennaeth sydd wedi ei hatodi i’r cynllun neu sy’n ffurfio rhan ohono ac, os yw ar gael, copi o’r adolygiad diweddaraf,
+(c)
+datganiad achos, a
+(d)
+yr holl dystiolaeth arall y bwriedir dibynnu arni ac nas cyflwynwyd eisoes.
+(2) Rhaid i ddatganiad achos yr ymatebydd gael ei lofnodi gan berson sydd wedi ei awdurdodi i lofnodi dogfennau o’r fath ar ran yr ymatebydd, a rhaid iddo ddatgan pa un a yw’r ymatebydd yn bwriadu gwrthwynebu’r apêl neu’r hawliad ai peidio.
+(3) Os yw’r ymatebydd yn bwriadu gwrthwynebu’r apêl neu’r hawliad, rhaid i’w ddatganiad achos ddatgan—
+(a)
+ar ba seiliau y gwrthwynebir yr apêl neu’r hawliad, neu unrhyw ran o’r apêl neu’r hawliad,
+(b)
+enw a chyfeiriad cynrychiolydd yr ymatebydd ac, os ydynt ar gael, rhif ffôn a chyfeiriad e-bost y cynrychiolydd,
+(c)
+y cyfeiriad lle y dylid anfon neu ddanfon dogfennau ar gyfer yr ymatebydd,
+(d)
+crynodeb o’r ffeithiau ynghylch y penderfyniad a herir,
+(e)
+y rheswm neu’r rhesymau dros y penderfyniad a herir, os nad yw’r rheswm neu’r rhesymau yn gynwysedig yn y penderfyniad, ac
+(f)
+y camau, os oes rhai, a gymerwyd eisoes i ddatrys yr anghydfod.
+(4) Rhaid i ddatganiad achos yr ymatebydd gynnwys—
+(a)
+safbwyntiau’r plentyn neu’r person ifanc ynghylch y materion a godir yn yr apêl neu’r hawliad, neu
+(b)
+esboniad pam nad yw wedi canfod safbwyntiau’r plentyn.
+(5) Caiff yr ymatebydd ddiwygio ei ddatganiad achos, cyflwyno datganiad achos atodol, neu ddiwygio datganiad achos atodol, os rhoddir caniatâd gan y Llywydd.
+(6) Rhaid i’r ymatebydd gyflwyno i Ysgrifennydd y Tribiwnlys gopi o bob diwygiad a datganiad atodol y rhoddwyd caniatâd ar eu cyfer o dan baragraff (5) o fewn y cyfnod o amser a ganiateir.
+(7) Os rhoddir caniatâd o dan baragraff (5), caiff y Llywydd estyn cyfnod y datganiad achos o dan reoliad 65 neu, os yw wedi dod i ben, ganiatáu unrhyw gyfnod pellach y mae’r Llywydd yn ystyried ei fod yn briodol.
+(8) Os yw’r apelydd neu’r hawlydd, ar yr adeg y rhoddir caniatâd o dan baragraff (5), wedi colli hawlogaeth i fod yn bresennol neu i gael ei gynrychioli yn y gwrandawiad yn unol â rheoliad 33, bydd rhoi’r caniatâd yn adfer hawlogaeth o’r fath ac, os bydd angen, caniateir gohirio’r gwrandawiad cyn ei gychwyn neu ar ôl ei gychwyn, fel y bo’n briodol, er mwyn i’r apelydd neu’r hawlydd allu cael ei gynrychioli.
+Gwybodaeth Cychwyn
+I1
+Rhl. 19 mewn grym ar 1.9.2021, gweler rhl. 1Newid cynrychiolydd corff llywodraethu’r SAB, yr awdurdod lleol neu’r corff cyfrifol sy’n ymateb
+20.—(1) Caiff corff llywodraethu’r SAB, yr awdurdod lleol neu’r corff cyfrifol sy’n ymateb (“yr ymatebydd”), ar unrhyw adeg, newid ei gynrychiolydd at ddibenion yr apêl neu’r hawliad drwy hysbysu Ysgrifennydd y Tribiwnlys am enw a chyfeiriad ei gynrychiolydd newydd ac, os ydynt ar gael, rhif ffôn a chyfeiriad e-bost y cynrychiolydd.
+(2) Mae cyfeiriadau yn y Rheoliadau hyn (sut bynnag y’u mynegir) at anfon dogfennau i gorff llywodraethu’r SAB, yr awdurdod lleol neu’r corff cyfrifol, neu roi hysbysiad iddo, i’w dehongli fel pe baent yn gyfeiriadau at anfon dogfennau at y cynrychiolydd a enwir yn unol â pharagraff (1) neu reoliad 19(3)(b) neu roi hysbysiad iddo.
+Gwybodaeth Cychwyn
+I1
+Rhl. 20 mewn grym ar 1.9.2021, gweler rhl. 1Newid yr awdurdod lleol mewn apêl
+21.—(1) Mae’r rheoliad hwn yn gymwys at ddibenion apêl os, ar ôl y dyddiad pan wnaeth yr awdurdod lleol y penderfyniad a herir, nad yw’r awdurdod lleol yn gyfrifol mwyach am y plentyn neu’r person ifanc o fewn ystyr adrannau 13 a 14, neu 18 a 19, o Ddeddf 2018 (“yr hen awdurdod”).
+(2) Pan fo paragraff (1) yn gymwys, caiff y Llywydd orchymyn, at holl ddibenion yr apêl ac wrth gael tystiolaeth bod y rheoliad hwn yn gymwys, y rhoddir enw’r awdurdod sy’n gyfrifol am y plentyn o fewn ystyr adran 13 o Ddeddf 2018 (“yr awdurdod newydd”) yn lle’r hen awdurdod.
+(3) Rhaid rhoi cyfle i’r hen awdurdod, yr awdurdod newydd a’r apelydd i gael eu clywed cyn gwneud gorchymyn o dan baragraff (2).
+(4) Pan wneir gorchymyn o dan baragraff (2)—
+(a)
+rhaid i Ysgrifennydd y Tribiwnlys hysbysu’r hen awdurdod, yr awdurdod newydd a’r apelydd;
+(b)
+ni fydd yr hen awdurdod yn barti yn yr apêl mwyach;
+(c)
+bydd yr awdurdod newydd yn dod yn barti yn yr apêl;
+(d)
+mae’r Rheoliadau hyn yn gymwys fel pe bai’r awdurdod newydd wedi gwneud y penderfyniad a herir;
+(e)
+rhaid i Ysgrifennydd y Tribiwnlys anfon copïau i’r awdurdod newydd o’r holl ddogfennau a thystiolaeth ysgrifenedig ynghylch yr apêl a gafodd y Tribiwnlys oddi wrth yr apelydd ac oddi wrth yr hen awdurdod;
+(f)
+mae’r weithdrefn ar gyfer penderfynu’r apêl yn ailddechrau ac mae rheoliad 13 yn gymwys fel pe bai’r dogfennau a’r dystiolaeth ysgrifenedig a anfonwyd yn unol ag is-baragraff (e) yn rhan o’r cais apelio y cyfeirir ato yn rheoliad 13(1).
+Gwybodaeth Cychwyn
+I1
+Rhl. 21 mewn grym ar 1.9.2021, gweler rhl. 1Copïau o ddogfennau i’r partïon
+22.—(1) Yn ddarostyngedig i baragraff (2), rhaid i Ysgrifennydd y Tribiwnlys—
+(a)
+anfon copi i’r awdurdod lleol, corff llywodraethu’r SAB neu’r corff cyfrifol o unrhyw ddiwygiad i’r cais apelio neu’r cais hawlio a geir yn ystod cyfnod y datganiad achos;
+(b)
+ar ddiwedd pob cyfnod datganiad achos, anfon copi o ddatganiad achos a thystiolaeth ysgrifenedig y naill barti at y llall;
+(c)
+anfon copïau ar unwaith o unrhyw ddiwygiadau neu ddatganiadau atodol, sylwadau ysgrifenedig, tystiolaeth ysgrifenedig (ac eithrio tystiolaeth ysgrifenedig y ceir copi ohoni yn unol â rheoliad 47 (tystiolaeth ysgrifenedig sy’n hwyr)) neu ddogfennau eraill a geir oddi wrth barti ar ôl diwedd cyfnod y datganiad achos, at y parti arall.
+(2) Os cyflwynir cais apelio neu gais hawlio, datganiad achos, diwygiad, datganiad atodol, sylw ysgrifenedig, tystiolaeth ysgrifenedig neu ddogfen arall i Ysgrifennydd y Tribiwnlys ar ôl yr amser a ragnodir gan y Rheoliadau hyn, ni chaiff Ysgrifennydd y Tribiwnlys anfon copi o’r hyn a gyflwynir felly at y parti arall, onid estynnir y terfyn amser gan y Llywydd o dan reoliad 65.
+(3) Pan fo Ysgrifennydd y Tribiwnlys yn anfon unrhyw gopïau o ddogfennau y cyfeirir atynt ym mharagraff (1) at barti sydd eisoes wedi rhoi gwybod i Ysgrifennydd y Tribiwnlys, mewn ymateb i’r ymholiadau a wneir o dan reoliad 24(a)(i) a (ii), nad yw’r parti yn dymuno bod yn bresennol na chael ei gynrychioli yn y gwrandawiad, rhaid i Ysgrifennydd y Tribiwnlys ofyn a yw’r parti’n dymuno newid yr ymateb hwnnw ar sail y copïau a gafwyd.
+Gwybodaeth Cychwyn
+I1
+Rhl. 22 mewn grym ar 1.9.2021, gweler rhl. 1Methiant i gyflwyno datganiad achos ac absenoldeb gwrthwynebiad
+23.—(1) Caiff y panel tribiwnlys benderfynu’r apêl neu’r hawliad heb wrandawiad neu drwy gynnal gwrandawiad—
+(a)
+os na chaiff Ysgrifennydd y Tribiwnlys ddatganiad achos gan yr awdurdod lleol, corff llywodraethu’r SAB neu’r corff cyfrifol o fewn cyfnod y datganiad achos;
+(b)
+os yw’r awdurdod lleol, corff llywodraethu’r SAB neu’r corff cyfrifol yn datgan yn ysgrifenedig nad yw’n gwrthwynebu—
+(i)
+yr apêl, neu
+(ii)
+yr hawliad;
+(c)
+os yw’r awdurdod lleol, corff llywodraethu’r SAB neu’r corff cyfrifol yn tynnu ei wrthwynebiad yn ôl i—
+(i)
+yr apêl, neu
+(ii)
+yr hawliad.
+(2) Pan fo’r panel tribiwnlys yn penderfynu’r apêl neu’r hawliad heb wrandawiad, rhaid iddo wneud hynny ar sail y cais apelio neu’r cais hawlio ac unrhyw ddogfennaeth arall a gafwyd neu a ddiwygiwyd eisoes yn unol â rheoliad 18(3).
+(3) Os yw’r panel tribiwnlys yn penderfynu cynnal gwrandawiad yn unol â pharagraff (1), caiff ddyroddi cyfarwyddyd sy’n gwahardd yr awdurdod lleol, corff llywodraethu’r SAB neu’r corff cyfrifol rhag bod yn bresennol yn y gwrandawiad na chael ei gynrychioli yn y gwrandawiad.
+(4) Os yw’r apêl yn ymwneud ag—
+(a)
+yr hyn a gynhwysir mewn cynllun datblygu unigol plentyn neu berson ifanc, ni chaniateir i ddatganiad nad yw’r awdurdod lleol neu gorff llywodraethu’r SAB yn gwrthwynebu’r apêl, neu ei fod yn tynnu ei wrthwynebiad yn ôl, gael effaith hyd nes bod yr awdurdod lleol neu gorff llywodraethu’r SAB yn cyflwyno i Ysgrifennydd y Tribiwnlys gadarnhad ysgrifenedig o’r diwygiadau (os oes rhai) y mae’n cytuno i’w gwneud i gynllun datblygu unigol y plentyn neu’r person ifanc;
+(b)
+penderfyniad i beidio â chynnal cynllun datblygu unigol, ni chaniateir i ddatganiad nad yw’r awdurdod lleol neu gorff llywodraethu’r SAB yn gwrthwynebu’r apêl, neu ei fod yn tynnu ei wrthwynebiad yn ôl, gael effaith hyd nes bod yr awdurdod lleol neu gorff llywodraethu’r SAB yn cyflwyno i Ysgrifennydd y Tribiwnlys gadarnhad ysgrifenedig o’i benderfyniad i beidio â gwrthwynebu’r apêl neu i dynnu ei wrthwynebiad yn ôl.
+Gwybodaeth Cychwyn
+I1
+Rhl. 23 mewn grym ar 1.9.2021, gweler rhl. 1Ymholiadau gan Ysgrifennydd y Tribiwnlys
+24.  Rhaid i Ysgrifennydd y Tribiwnlys ar unrhyw adeg ar ôl cael y cais apelio neu’r cais hawlio—
+(a)
+gofyn i bob parti—
+(i)
+a yw’r parti yn bwriadu bod yn bresennol yn y gwrandawiad ai peidio;
+(ii)
+a yw’r parti yn dymuno cael ei gynrychioli yn y gwrandawiad yn unol â rheoliad 50 ac, os felly, enw’r cynrychiolydd;
+(iii)
+a yw’r parti yn bwriadu galw tystion ac, os felly, enwau’r tystion arfaethedig, eu galwedigaethau, ac a oes arbenigwr meddygol neu arbenigwr arall yn eu plith;
+(iv)
+a oes ar y parti, neu dyst, angen cymorth oherwydd nam cyfathrebu ac, os felly, manylion y math o gymorth cyfathrebu sy’n ofynnol;
+(v)
+a oes gan y parti, neu dyst y bwriedir ei alw, unrhyw anableddau a all olygu y byddai’n ofynnol gwneud addasiadau rhesymol;
+(vi)
+a yw’r parti yn dymuno i berson fod yn bresennol fel sylwedydd yn y gwrandawiad ac, os felly, enw’r person hwnnw;
+(vii)
+a yw’r parti yn dymuno i unrhyw berson fod yn bresennol yn y gwrandawiad i gyfleu safbwyntiau a dymuniadau’r plentyn neu’r person ifanc ac, os felly, enw a chyfeiriad y person hwnnw ac, os yw’n berthnasol, cysylltiad y person â’r plentyn neu’r person ifanc;
+(b)
+rhoi gwybod i bob parti—
+(i)
+am effaith rheoliad 40(6) a darpariaeth rheoliad 42(2), a
+(ii)
+pan fo ateb i unrhyw un neu ragor o’r ymholiadau o dan baragraff (a) yn newid ar ôl i barti ymateb i’r ymholiadau hynny, fod rhaid i’r parti o dan sylw roi gwybod yn ysgrifenedig ar unwaith i Ysgrifennydd y Tribiwnlys.
+Gwybodaeth Cychwyn
+I1
+Rhl. 24 mewn grym ar 1.9.2021, gweler rhl. 1Methiant i ymateb i ymholiadau a wneir gan Ysgrifennydd y Tribiwnlys
+25.—(1) Caiff y Llywydd orchymyn—
+(a)
+bod y cais apelio neu’r cais hawlio yn cael ei ddileu ar y sail bod methiant yr apelydd neu’r hawlydd i gydymffurfio ag ymholiadau, a wneir gan Ysgrifennydd y Tribiwnlys o dan reoliad 24, yn rhagfarnu neu’n oedi gwrandawiad teg yr apêl neu’r hawliad;
+(b)
+na chaiff yr awdurdod lleol, corff llywodraethu’r SAB neu’r corff cyfrifol gymryd unrhyw gam pellach yn yr apêl neu’r hawliad na bod yn bresennol yn y gwrandawiad na chael ei gynrychioli yno ar y sail bod methiant i gydymffurfio ag ymholiadau, a wneir gan Ysgrifennydd y Tribiwnlys o dan reoliad 24, yn rhagfarnu neu’n oedi gwrandawiad teg yr apêl neu’r hawliad.
+(2) Cyn gwneud gorchymyn o dan baragraff (1), rhaid i’r Llywydd roi hysbysiad i’r parti y mae’r Llywydd yn bwriadu gwneud gorchymyn yn ei erbyn, gan wahodd sylwadau ganddo, a rhaid i’r Llywydd ystyried unrhyw sylwadau a gyflwynir.
+(3) At ddibenion y rheoliad hwn—
+(a)
+rhaid i hysbysiad sy’n gwahodd sylwadau roi gwybod i’r parti y caiff, o fewn cyfnod (nad yw’n llai na 5 niwrnod gwaith) a bennir yn yr hysbysiad, naill ai cyflwyno sylwadau ysgrifenedig neu ofyn am gyfle i gyflwyno sylwadau llafar;
+(b)
+bydd sylwadau wedi eu gwneud—
+(i)
+yn achos sylwadau ysgrifenedig, os cyflwynir hwy o fewn y cyfnod penodedig, a
+(ii)
+yn achos sylwadau llafar, os yw’r parti sy’n bwriadu eu cyflwyno wedi gofyn am gyfle i wneud hynny o fewn y cyfnod penodedig.
+(4) Os yw cais apelio neu gais hawlio yn cael ei ddileu o dan baragraff (1)(a), ystyrir bod yr achos y mae’r apêl neu’r hawliad yn ymwneud ag ef wedi ei derfynu.
+Gwybodaeth Cychwyn
+I1
+Rhl. 25 mewn grym ar 1.9.2021, gweler rhl. 1Pŵer i ddileu’r apêl neu’r hawliad
+26.—(1) Rhaid i Ysgrifennydd y Tribiwnlys, yn ystod unrhyw gam yn yr apêl neu’r hawliad, os yw’r awdurdod lleol, corff llywodraethu’r SAB neu’r corff cyfrifol yn gwneud cais neu os yw’r Llywydd neu’r panel tribiwnlys yn cyfarwyddo felly, gyflwyno hysbysiad i’r apelydd neu’r hawlydd sy’n datgan bod cynnig wedi ei wneud i ddileu’r cyfan neu ran o’r apêl neu’r hawliad, ar un o’r seiliau a bennir ym mharagraff (2) neu oherwydd diffyg erlyniad.
+(2) Y seiliau y cyfeirir atynt ym mharagraff (1) yw—
+(a)
+bod yr apêl wedi ei gwneud neu’r hawliad wedi ei wneud ac eithrio yn unol â’r Rheoliadau hyn;
+(b)
+nad yw’r apêl neu’r hawliad o fewn awdurdodaeth y Tribiwnlys, neu nad yw o fewn awdurdodaeth y Tribiwnlys mwyach;
+(c)
+nad yw’r apêl neu’r hawliad yn datgelu seiliau rhesymol;
+(d)
+bod yr apêl neu’r hawliad yn camddefnyddio proses y Tribiwnlys.
+(3) Rhaid i’r hysbysiad o dan baragraff (1) wahodd yr apelydd neu’r hawlydd i gyflwyno sylwadau.
+(4) At ddibenion y rheoliad hwn—
+(a)
+rhaid i hysbysiad sy’n gwahodd sylwadau roi gwybod i’r apelydd neu’r hawlydd y caiff yr apelydd neu’r hawlydd, o fewn cyfnod (nad yw’n llai na 5 niwrnod gwaith) a bennir yn yr hysbysiad, naill ai cyflwyno sylwadau ysgrifenedig neu ofyn am gyfle i gyflwyno sylwadau llafar;
+(b)
+mae sylwadau wedi eu gwneud—
+(i)
+yn achos sylwadau ysgrifenedig, os cyflwynir hwy o fewn y cyfnod penodedig, a
+(ii)
+yn achos sylwadau llafar, os yw’r parti sy’n bwriadu eu cyflwyno wedi gofyn am gyfle i wneud hynny o fewn y cyfnod penodedig.
+(5) Caiff y Llywydd neu’r panel tribiwnlys, ar ôl ystyried unrhyw sylwadau a gyflwynir gan yr apelydd neu’r hawlydd, orchymyn bod y cyfan neu ran o’r apêl neu’r hawliad yn cael ei ddileu neu ei dileu, ar un o’r seiliau a bennir ym mharagraff (2) neu oherwydd diffyg erlyniad.
+(6) Caniateir gwneud gorchymyn o dan baragraff (5) heb gynnal gwrandawiad, oni fydd yr apelydd neu’r hawlydd yn gofyn am gyfle i gyflwyno sylwadau llafar.
+(7) Os cyflwynir sylwadau llafar yn unol â pharagraff (6), caiff y Llywydd neu’r panel tribiwnlys ystyried y sylwadau llafar ar ddechrau’r gwrandawiad o sylwedd yr apêl neu’r hawliad.
+(8) Os yw’r cyfan o gais apelio neu gais hawlio yn cael ei ddileu o dan baragraff (5), bernir bod yr achos y mae’r apêl neu’r hawliad yn ymwneud ag ef wedi ei derfynu.
+Gwybodaeth Cychwyn
+I1
+Rhl. 26 mewn grym ar 1.9.2021, gweler rhl. 1Gorchymyn i ddiwygio datganiad achos
+27.—(1) Caiff y Llywydd neu’r panel tribiwnlys, os yw’r Llywydd neu’r panel tribiwnlys yn meddwl ei bod yn addas, yn ystod unrhyw gam o’r apêl neu’r hawliad, orchymyn bod datganiad achos parti yn cael ei ddiwygio ar y sail nad yw’n datgelu seiliau rhesymol dros wneud yr apêl neu’r hawliad neu oherwydd ei fod yn camddefnyddio proses y Tribiwnlys.
+(2) Cyn gwneud gorchymyn o dan baragraff (1), rhaid i’r Llywydd neu’r panel tribiwnlys roi hysbysiad i’r parti y mae’r Llywydd neu’r panel tribiwnlys yn bwriadu gwneud gorchymyn yn ei erbyn, gan wahodd sylwadau ganddo, a rhaid i’r Llywydd neu’r panel tribiwnlys ystyried unrhyw sylwadau a gyflwynir.
+(3) At ddibenion y rheoliad hwn—
+(a)
+rhaid i hysbysiad sy’n gwahodd sylwadau roi gwybod i’r parti y caiff, o fewn cyfnod (nad yw’n llai na 5 niwrnod gwaith) a bennir yn yr hysbysiad, naill ai cyflwyno sylwadau ysgrifenedig neu ofyn am gyfle i gyflwyno sylwadau llafar;
+(b)
+bydd sylwadau wedi eu cyflwyno—
+(i)
+yn achos sylwadau ysgrifenedig, os cyflwynir hwy o fewn y cyfnod a bennir felly, a
+(ii)
+yn achos sylwadau llafar, os yw’r parti sy’n bwriadu eu cyflwyno wedi gofyn am gyfle i wneud hynny o fewn y cyfnod a bennir felly.
+Gwybodaeth Cychwyn
+I1
+Rhl. 27 mewn grym ar 1.9.2021, gweler rhl. 1Tystiolaeth a chyflwyniadau
+28.—(1) Caiff y Llywydd neu’r panel tribiwnlys roi cyfarwyddydau ar—
+(a)
+y materion y mae’n ofynnol cael tystiolaeth neu gyflwyniadau yn eu cylch,
+(b)
+natur y dystiolaeth neu’r cyflwyniadau sy’n ofynnol,
+(c)
+pa un a ganiateir i’r partïon ddarparu tystiolaeth arbenigol ai peidio neu a yw’n ofynnol iddynt wneud hynny ac, os felly, a oes rhaid i’r partïon ar y cyd benodi un arbenigwr i ddarparu tystiolaeth o’r fath,
+(d)
+y modd y mae unrhyw dystiolaeth neu gyflwyniadau i’w darparu, a all gynnwys cyfarwyddyd i’w rhoi—
+(i)
+ar lafar mewn gwrandawiad, neu
+(ii)
+fel cyflwyniadau ysgrifenedig neu ddatganiad tyst ysgrifenedig, ac
+(e)
+yr amser erbyn pryd y mae unrhyw dystiolaeth neu gyflwyniadau i’w darparu.
+(2) Caiff y Llywydd neu’r panel tribiwnlys gyfarwyddo, mewn perthynas ag apêl—
+(a)
+rhiant y plentyn i roi’r plentyn ar gael i’w archwilio neu ei asesu gan berson proffesiynol sydd â chymhwyster addas, neu
+(b)
+y person sy’n gyfrifol am ysgol neu leoliad addysgol i ganiatáu i berson proffesiynol sydd â chymhwyster addas gael mynediad i’r ysgol neu’r lleoliad addysgol at ddiben asesu’r plentyn neu’r ddarpariaeth a wneir, neu sydd i’w gwneud, ar gyfer y plentyn.
+(3) Caiff y Llywydd neu’r panel tribiwnlys ystyried bod methiant gan berson, sy’n barti yn yr apêl, i gydymffurfio â gofyniad a wneir o dan baragraff (2), yn absenoldeb unrhyw reswm da dros fethiant o’r fath, yn fethiant i gydweithredu â’r Tribiwnlys.
+(4) Caiff y Llywydd neu’r panel tribiwnlys—
+(a)
+derbyn tystiolaeth, pa un a fyddai’r dystiolaeth yn dderbyniadwy ai peidio mewn treial sifil yng Nghymru neu Loegr;
+(b)
+allgáu tystiolaeth a fyddai fel arall yn dderbyniadwy—
+(i)
+pan na ddarparwyd y dystiolaeth o fewn yr amser a ganiateid gan gyfarwyddyd,
+(ii)
+pan ddarparwyd y dystiolaeth fel arall mewn modd nad oedd yn cydymffurfio â chyfarwyddyd, neu
+(iii)
+pan fyddai’n annheg derbyn y dystiolaeth fel arall.
+Gwybodaeth Cychwyn
+I1
+Rhl. 28 mewn grym ar 1.9.2021, gweler rhl. 1Rheoli’r achos a chyfarwyddydau
+29.—(1) Caiff y Llywydd neu’r panel tribiwnlys, ar ysgogiad y Llywydd neu’r panel tribiwnlys, neu pan wneir cais gan barti, roi pa gyfarwyddydau bynnag i barti ar unrhyw fater sy’n codi mewn cysylltiad â’r apêl neu’r hawliad y mae’r Llywydd neu’r panel tribiwnlys yn meddwl ei bod yn addas, gan gynnwys gohirio’r achos, neu’r cyfarwyddydau hynny a ddarperir yn rheoliadau 31 a 32, i alluogi’r partïon i baratoi ar gyfer y gwrandawiad neu i gynorthwyo’r Llywydd neu’r panel tribiwnlys i benderfynu’r materion.
+(2) Rhaid i gais gan barti am gyfarwyddydau gael ei wneud yn ysgrifenedig i Ysgrifennydd y Tribiwnlys.
+(3) Rhaid i barti sy’n cyflwyno cais am gyfarwyddydau i Ysgrifennydd y Tribiwnlys, oni chyflwynir cydsyniad ysgrifenedig y parti arall gyda’r cais, gyflwyno copi o’r cais i’r parti arall.
+(4) Os yw’r parti arall yn gwrthwynebu’r cyfarwyddydau a geisir, rhaid i’r Llywydd neu’r panel tribiwnlys ystyried y gwrthwynebiad ac, os yw’r Llywydd neu’r panel tribiwnlys yn ystyried bod angen hynny er mwyn penderfynu’r cais, rhaid iddo roi cyfle i’r partïon i gyflwyno sylwadau.
+(5) Pe na fyddai, ym marn y Llywydd neu’r panel tribiwnlys, amser rhesymol cyn gwrandawiad y rhoddwyd hysbysiad ohono o dan reoliad 37(1) i gydymffurfio â chyfarwyddyd y mae parti yn gwneud cais amdano, caiff y Llywydd neu’r panel tribiwnlys—
+(a)
+os yw wedi ei fodloni y gall cydymffurfio â’r cyfarwyddyd gynorthwyo’r panel tribiwnlys i benderfynu’r materion, ohirio’r gwrandawiad, cyn ei gychwyn, o dan reoliad 48, neu
+(b)
+gwrthod y cais.
+(6) Rhaid i gyfarwyddyd—
+(a)
+cynnwys datganiad o’r canlyniadau posibl i’r apêl neu’r hawliad fel y’u darperir gan reoliad 33, pe bai parti yn methu â chydymffurfio â’r cyfarwyddyd o fewn yr amser a ganiateir gan y Llywydd neu’r panel tribiwnlys;
+(b)
+oni chafodd y person y cyfeirir y cyfarwyddyd ato gyfle i wrthwynebu’r cyfarwyddyd, neu wedi cydsynio’n ysgrifenedig i’r cais am y cyfarwyddyd, gynnwys datganiad i’r perwyl y caiff y person hwnnw wneud cais i’r Llywydd neu’r panel tribiwnlys o dan reoliad 30 am amrywio’r cyfarwyddyd neu ei osod o’r neilltu.
+(7) Pan fo’r Llywydd neu’r panel tribiwnlys, yn unol â rheoliad 35(1), yn gorchymyn—
+(a)
+bod apêl i’w gwrando ar y cyd â hawliad, ni chaiff y cyfarwyddydau a roddir o dan baragraff (1) ymwneud ond â’r apêl;
+(b)
+bod hawliad i’w wrando ar y cyd ag apêl, ni chaiff y cyfarwyddydau a roddir o dan baragraff (1) ymwneud ond â’r hawliad.
+(8) Pan fo paragraff (7)(a) yn gymwys, caiff y Llywydd neu’r panel tribiwnlys ystyried a yw’n fuddiol, o ran penderfynu’r apêl a’r hawliad yn effeithlon, ac er budd y partïon, roi’r un cyfarwyddydau, neu gyfarwyddydau tebyg, mewn cysylltiad â’r apêl â’r rheini a roddir yn yr hawliad.
+(9) Pan fo paragraff (7)(b) yn gymwys, caiff y Llywydd neu’r panel tribiwnlys ystyried a yw’n fuddiol, o ran penderfynu’r hawliad a’r apêl yn effeithlon, ac er budd y partïon, roi’r un cyfarwyddydau, neu gyfarwyddydau tebyg, mewn perthynas â’r hawliad â’r rheini a roddir yn yr apêl.
+(10) Pan fo’n ymddangos i’r Llywydd neu’r panel tribiwnlys fod mater yn codi mewn apêl neu hawliad y mae rhaid ei benderfynu cyn y gwrandawiad ar sylwedd yr apêl neu’r hawliad, ac na ellir ei benderfynu’n briodol drwy roi cyfarwyddydau, caiff y Llywydd neu’r panel tribiwnlys wysio’r partïon i ymddangos gerbron y Llywydd neu’r panel tribiwnlys at y diben hwn, a chaiff roi unrhyw gyfarwyddydau angenrheidiol sy’n ymwneud â’u hymddangosiad.
+Gwybodaeth Cychwyn
+I1
+Rhl. 29 mewn grym ar 1.9.2021, gweler rhl. 1Amrywio cyfarwyddydau neu eu gosod o’r neilltu
+30.—(1) Pan na chafodd parti y cyfeirir cyfarwyddyd ato gyfle i wrthwynebu rhoi’r cyfarwyddyd, ac na chydsyniodd yn ysgrifenedig â’r cais am y cyfarwyddyd hwnnw, caiff y parti hwnnw wneud cais i’r Llywydd neu’r panel tribiwnlys, ar unrhyw adeg drwy hysbysiad i Ysgrifennydd y Tribiwnlys, i’r cyfarwyddyd gael ei amrywio neu ei osod o’r neilltu.
+(2) Ni chaiff y Llywydd neu’r panel tribiwnlys amrywio’r cyfarwyddyd na’i osod o’r neilltu heb yn gyntaf hysbysu’r partïon ac ystyried unrhyw sylwadau a gyflwynir ganddynt.
+Gwybodaeth Cychwyn
+I1
+Rhl. 30 mewn grym ar 1.9.2021, gweler rhl. 1Manylion a datganiadau atodol
+31.  Caiff y Llywydd neu’r panel tribiwnlys roi cyfarwyddydau sy’n ei gwneud yn ofynnol i unrhyw barti ddarparu, naill ai yn neu gyda datganiad achos y parti hwnnw, unrhyw fanylion neu ddatganiadau atodol sy’n rhesymol ofynnol ar gyfer penderfynu’r apêl neu’r hawliad.
+Gwybodaeth Cychwyn
+I1
+Rhl. 31 mewn grym ar 1.9.2021, gweler rhl. 1Datgelu dogfennau a deunydd arall
+32.—(1) Caiff y Llywydd neu’r panel tribiwnlys—
+(a)
+cyfarwyddo parti i gyflwyno i’r Llywydd neu’r panel tribiwnlys erbyn dyddiad penodedig unrhyw ddogfen neu ddeunydd arall sy’n ofynnol gan y Llywydd neu’r panel tribiwnlys, ac y mae o fewn pŵer y parti hwnnw i’w chyflwyno neu ei gyflwyno;
+(b)
+rhoi cyfarwyddyd ar—
+(i)
+unrhyw fater y mae’n ofynnol datgelu tystiolaeth yn ei gylch,
+(ii)
+natur a graddau’r datgeliad,
+(iii)
+y modd y mae’r ddogfen neu’r dystiolaeth arall i’w darparu i’r Tribiwnlys, a
+(iv)
+allgáu unrhyw ddogfen neu dystiolaeth arall sy’n amherthnasol, yn ddiangen neu a gafwyd yn amhriodol.
+(2) Caiff y Llywydd neu’r panel tribiwnlys osod amod ar gyflenwi copi o unrhyw ddogfen neu ddeunydd arall a gyflwynir wrth gydymffurfio â chyfarwyddyd a roddir o dan baragraff (1), na chaiff y parti sy’n ei gael ddefnyddio’r copi ond at ddibenion yr apêl neu’r hawliad.
+(3) Caiff y Llywydd neu’r panel tribiwnlys wneud ymgymeriad ysgrifenedig i gadw’r amod y cyfeirir ato ym mharagraff (2) yn ofynnol cyn cyflenwi copi.
+(4) Caiff y Llywydd neu’r panel tribiwnlys roi gorchymyn i barti ar gyfer y math o ddatgelu neu archwilio dogfennau (gan gynnwys cymryd copïau) y gellid ei ganiatáu o dan Reolau Trefniadaeth Sifil 1998(1).
+(5) Rhaid i orchymyn o dan baragraff (4) gynnwys cyfeiriad—
+(a)
+mewn perthynas ag apêl, fod unrhyw berson sydd, heb esgus rhesymol, yn methu â chydymffurfio â’r gofynion ynghylch datgelu neu archwilio dogfennau, yn agored, o dan adran 79 o Ddeddf 2018, ar euogfarn ddiannod i ddirwy nad yw’n uwch na lefel 3 ar y raddfa safonol, a
+(b)
+mewn perthynas â hawliad, fod unrhyw berson sydd, heb esgus rhesymol, yn methu â chydymffurfio â’r gofynion ynghylch datgelu neu archwilio dogfennau, yn agored, o dan baragraff 6(8) o Atodlen 17 i Ddeddf 2010, ar euogfarn ddiannod i ddirwy nad yw’n uwch na lefel 3 ar y raddfa safonol.
+Gwybodaeth Cychwyn
+I1
+Rhl. 32 mewn grym ar 1.9.2021, gweler rhl. 1
+(1)
+Gweler Rhan 31 – Datgelu ac Archwilio Dogfennau.Methiant i gydymffurfio â chyfarwyddydau
+33.—(1) Os nad yw parti wedi cydymffurfio â chyfarwyddyd a roddir o dan y Rheoliadau hyn o fewn yr amser a bennir yn y cyfarwyddyd, caiff y Llywydd neu’r panel tribiwnlys—
+(a)
+pan yr apelydd neu’r hawlydd yw’r parti diffygiol, wrthod yr apêl neu’r hawliad heb wrandawiad;
+(b)
+pan yr awdurdod lleol, corff llywodraethu’r SAB neu’r corff cyfrifol yw’r parti diffygiol, benderfynu’r apêl neu’r hawliad heb wrandawiad;
+(c)
+cynnal gwrandawiad—
+(i)
+heb hysbysu’r parti diffygiol, lle nad yw’r parti diffygiol yn bresennol nac yn cael ei gynrychioli, neu
+(ii)
+pan fo’r partïon wedi eu hysbysu am y gwrandawiad yn unol â rheoliad 37(1), a chyfarwyddo nad oes hawlogaeth gan y parti diffygiol, nac unrhyw berson sy’n bwriadu cynrychioli’r parti hwnnw neu roi tystiolaeth ar ei ran, i fod yn bresennol yn y gwrandawiad.
+(2) Yn y rheoliad hwn, ystyr “y parti diffygiol” yw’r parti sydd wedi methu â chydymffurfio â’r cyfarwyddyd.
+Gwybodaeth Cychwyn
+I1
+Rhl. 33 mewn grym ar 1.9.2021, gweler rhl. 1Cydgrynhoi apelau neu hawliadau
+34.—(1) Os oes mwy nag un apêl yn ymwneud â’r un plentyn neu’r un person ifanc, neu’n galw am benderfyniad ar yr un mater i raddau sylweddol, caiff y Llywydd orchymyn bod yr apelau yn cael eu gwrando gyda’i gilydd.
+(2) Os oes mwy nag un hawliad yn ymwneud â’r un plentyn neu’r un person ifanc, neu’n galw am benderfyniad ar yr un mater i raddau sylweddol, caiff y Llywydd orchymyn bod yr hawliadau yn cael eu gwrando gyda’i gilydd.
+(3) Caiff y Llywydd wneud gorchymyn sy’n amrywio neu’n dirymu gorchymyn cynharach a wnaed o dan baragraff (1) neu (2).
+(4) Yn ddarostyngedig i baragraff (5), caiff y Llywydd ddyroddi gorchymyn o dan y rheoliad hwn ar gais ysgrifenedig y naill barti neu’r llall neu ar ysgogiad y Llywydd ei hunan.
+(5) Ni chaniateir gwneud gorchymyn o dan y rheoliad hwn ond os yw’n ymddangos, ym marn y Llywydd, ei bod yn deg ac yn gyfiawn gwneud hynny, a chyn gwneud gorchymyn, rhaid rhoi cyfle i bob parti, ym mhob un o’r apelau neu’r hawliadau yr effeithir arnynt, i gael ei glywed.
+Gwybodaeth Cychwyn
+I1
+Rhl. 34 mewn grym ar 1.9.2021, gweler rhl. 1Cydgrynhoi hawliadau gydag apelau
+35.—(1) Yn ddarostyngedig i baragraffau (2) a (3), pan fo hawliad yn ymwneud â’r un plentyn neu’r un person ifanc a’i fod naill ai’n deillio o’r un amgylchiadau neu’n galw am benderfyniad ar yr un mater, i raddau sylweddol, ag apêl, caiff y Llywydd orchymyn bod yr hawliad yn cael ei wrando ar y cyd â’r apêl.
+(2) Nid oes dim ym mharagraff (1) sy’n caniatáu i’r Llywydd wneud gorchymyn os yw person wedi methu â gwneud apêl o fewn y terfynau amser a bennir gan reoliad 10 neu gan unrhyw estyniad amser i wneud apêl o’r fath a roddir o dan y Rheoliadau hyn.
+(3) Ni chaiff y Llywydd wneud gorchymyn o dan baragraff (1) ond pe na fyddai gwneud y gorchymyn yn achosi oedi gormodol i benderfynu’r apêl, a chan gydymffurfio yn ogystal â gofynion paragraff (6).
+(4) Caiff y Llywydd wneud gorchymyn sy’n amrywio neu’n dirymu gorchymyn cynharach a wnaed o dan baragraff (1).
+(5) Yn ddarostyngedig i baragraff (6), caiff y Llywydd ddyroddi gorchymyn o dan y rheoliad hwn ar gais ysgrifenedig y naill barti neu’r llall neu ar ysgogiad y Llywydd ei hunan.
+(6) Ni chaniateir gwneud gorchymyn o dan y rheoliad hwn ond os yw’n ymddangos, ym marn y Llywydd, ei bod yn deg ac yn gyfiawn gwneud hynny, a chyn gwneud gorchymyn, rhaid rhoi cyfle i bob parti, ym mhob un o’r hawliadau neu’r apelau yr effeithir arnynt, i gael ei glywed.
+Gwybodaeth Cychwyn
+I1
+Rhl. 35 mewn grym ar 1.9.2021, gweler rhl. 1Ychwanegu ac amnewid partïon
+36.—(1) Caiff person wneud cais i gael ei gysylltu yn barti yn yr apêl neu’r hawliad.
+(2) Caiff y Llywydd neu’r panel tribiwnlys wneud gorchymyn i gysylltu person yn barti yn yr apêl neu’r hawliad—
+(a)
+os gwneir cais ysgrifenedig o dan baragraff (1), neu
+(b)
+ar ysgogiad y Llywydd neu’r panel tribiwnlys ei hun, os nad oes cais ysgrifenedig wedi ei wneud ond bod y person yn cydsynio i gael ei gysylltu yn barti yn yr apêl neu’r hawliad.
+(3) Caiff y Llywydd neu’r panel tribiwnlys wneud gorchymyn i amnewid parti—
+(a)
+os yw’r person anghywir wedi ei enwi’n barti, neu
+(b)
+os yw’r amnewid wedi dod yn angenrheidiol oherwydd newid mewn amgylchiadau er pan ddechreuwyd yr apêl neu’r hawliad.
+(4) Os gwneir gorchymyn o dan baragraff (2) neu (3), caiff y Llywydd neu’r panel tribiwnlys wneud unrhyw gyfarwyddydau canlyniadol, neu ymholiadau o dan reoliad 24, y mae’r Llywydd neu’r panel tribiwnlys yn ystyried eu bod yn briodol.
+(5) Oni fydd y Llywydd neu’r panel tribiwnlys yn cyfarwyddo fel arall, rhaid trin person a benodir neu a amnewidir o dan y rheoliad hwn fel parti at ddiben unrhyw ddarpariaeth yn y Rheoliadau hyn sy’n ei gwneud yn ofynnol cyflwyno dogfen i barti yn yr apêl neu’r hawliad, anfon dogfen ato neu roi hysbysiad iddo.
+Gwybodaeth Cychwyn
+I1
+Rhl. 36 mewn grym ar 1.9.2021, gweler rhl. 1Hysbysu am ddyddiad, lleoliad ac amser gwrandawiadau
+37.—(1) Yn ddarostyngedig i ddarpariaethau paragraff (2) a rheoliad 39, rhaid i Ysgrifennydd y Tribiwnlys, ar ôl ymgynghori â’r partïon, bennu dyddiad, lleoliad ac amser y gwrandawiad ac anfon hysbysiad sy’n pennu dyddiad, lleoliad ac amser y gwrandawiad at bob parti.
+(2) Os yw Ysgrifennydd y Tribiwnlys wedi gofyn i barti ddarparu manylion o’r adegau y byddai ar gael i fod yn bresennol mewn gwrandawiad ac nad yw’r parti hwnnw wedi cydymffurfio â’r cais, caiff Ysgrifennydd y Tribiwnlys fwrw ymlaen i restru’r apêl neu’r hawliad ar gyfer gwrandawiad heb ymgynghori pellach.
+(3) Yn ddarostyngedig i baragraff (4), rhaid i’r hysbysiad o wrandawiad y cyfeirir ato ym mharagraff (1) gael ei anfon—
+(a)
+mewn perthynas â gwrandawiad o dan reoliad 23, 25, 26, 53 neu 54, heb fod yn hwyrach na 5 niwrnod gwaith cyn y dyddiad a bennir ar gyfer gwrandawiad,
+(b)
+mewn unrhyw achos arall, heb fod yn hwyrach na 10 niwrnod gwaith cyn y dyddiad a bennir ar gyfer y gwrandawiad, neu
+(c)
+mewn unrhyw achos, o fewn cyfnod o amser byrrach cyn y dyddiad a bennir ar gyfer y gwrandawiad yn is-baragraff (a) neu (b) y mae’r partïon yn cytuno arno.
+(4) Rhaid i Ysgrifennydd y Tribiwnlys gynnwys yn yr hysbysiad o wrandawiad, neu gyda’r hysbysiad o wrandawiad—
+(a)
+gwybodaeth a chanllawiau, ar ffurf a gymeradwyir gan y Llywydd, ynghylch presenoldeb y partïon a’r tystion yn y gwrandawiad, dod â dogfennau, a’r hawl i gynrychiolaeth neu gymorth fel y’i darperir gan reoliad 50, a
+(b)
+datganiad sy’n esbonio’r canlyniadau posibl os methir â bod yn bresennol, a’r hawl sydd gan y canlynol i gyflwyno sylwadau ysgrifenedig—
+(i)
+yr apelydd neu’r hawlydd os nad yw’r apelydd neu’r hawlydd yn bresennol nac yn cael ei gynrychioli;
+(ii)
+yr awdurdod lleol, corff llywodraethu’r SAB neu’r corff cyfrifol os na chaiff ei gynrychioli ac os yw wedi cyflwyno datganiad o’i achos, oni bai ei fod wedi datgan yn ysgrifenedig nad yw’n gwrthwynebu’r apêl neu’r hawliad, neu wedi tynnu’n ôl ei wrthwynebiad i’r apêl neu’r hawliad.
+(5) Yn ddarostyngedig i baragraff (6), caiff y Llywydd neu’r panel tribiwnlys newid lleoliad ac amser unrhyw wrandawiad, a rhaid i Ysgrifennydd y Tribiwnlys roi i’r partïon heb fod yn llai na 5 niwrnod gwaith (neu gyfnod llai y mae’r partïon yn cytuno arno) o rybudd ynghylch lleoliad ac amser newydd y gwrandawiad.
+(6) Os yw’r partïon yn bresennol pan fydd y Llywydd neu’r panel tribiwnlys yn cyhoeddi lleoliad ac amser newydd y gwrandawiad, ni fydd yn ofynnol rhoi hysbysiad pellach.
+(7) Nid oes dim ym mharagraff (1) neu (5) sy’n gosod rhwymedigaeth ar Ysgrifennydd y Tribiwnlys i ymgynghori ag unrhyw berson nad oes hawlogaeth ganddo i gael ei gynrychioli yn y gwrandawiad, neu anfon hysbysiad at unrhyw berson o’r fath.
+Gwybodaeth Cychwyn
+I1
+Rhl. 37 mewn grym ar 1.9.2021, gweler rhl. 1Trosglwyddiadau
+38.—(1) Yn ddarostyngedig i baragraff (2), caiff y Llywydd atgyfeirio achos mewn perthynas ag apêl i’r Tribiwnlys Haen Gyntaf os oes awdurdodaeth gan y Tribiwnlys Haen Gyntaf mewn perthynas â’r achos.
+(2) Ni chaniateir gwneud atgyfeiriad o dan baragraff (1) oni fydd hysbysiad wedi ei roi i’r partïon.
+(3) Os trosglwyddir achos mewn perthynas ag apêl i’r Tribiwnlys gan y Tribiwnlys Haen Gyntaf, caiff y Tribiwnlys barhau â’r achos os oes awdurdodaeth gan y Tribiwnlys mewn perthynas â’r achos hwnnw.
+Gwybodaeth Cychwyn
+I1
+Rhl. 38 mewn grym ar 1.9.2021, gweler rhl. 1Pŵer i benderfynu’r apêl neu’r hawliad heb wrandawiad
+39.—(1) Caiff y Llywydd neu’r panel tribiwnlys benderfynu’r apêl neu’r hawliad neu unrhyw fater penodol heb wrandawiad—
+(a)
+os yw’r partïon yn cytuno felly yn ysgrifenedig, neu
+(b)
+o dan yr amgylchiadau a ddisgrifir yn rheoliad 23 (methiant i gyflwyno datganiad achos ac absenoldeb gwrthwynebiad) neu 33 (methiant i gydymffurfio â chyfarwyddydau).
+(2) Cyn gwneud penderfyniad o dan baragraff (1), rhaid i’r Llywydd neu’r panel tribiwnlys ystyried unrhyw sylwadau ysgrifenedig a gyflwynwyd eisoes gan y partïon (at ddiben y rheoliad hwn, trinnir y cais apelio neu’r cais hawlio a datganiadau achos y partïon fel pe baent yn sylwadau ysgrifenedig).
+Gwybodaeth Cychwyn
+I1
+Rhl. 39 mewn grym ar 1.9.2021, gweler rhl. 1Gwrandawiadau cyhoeddus a phreifat: trefniadau ac eithriadau
+40.—(1) Yn ddarostyngedig i baragraff (2), rhaid cynnal pob un o wrandawiadau’r Tribiwnlys yn breifat.
+(2) Caiff y Llywydd neu’r panel tribiwnlys wneud gorchymyn bod gwrandawiad neu ran o wrandawiad i’w gynnal neu i’w chynnal yn gyhoeddus os yw’r partïon yn cytuno i gael gwrandawiad cyhoeddus ac os yw’r Llywydd neu’r panel tribiwnlys wedi ei fodloni—
+(a)
+na fyddai gwrandawiad cyhoeddus yn rhagfarnu lles neu fuddiannau’r plentyn neu’r person ifanc, a
+(b)
+y byddai gwrandawiad cyhoeddus yn caniatáu gwrandawiad teg o’r apêl neu’r hawliad.
+(3) Yn ddarostyngedig i baragraff (6), mae hawlogaeth gan y personau a ganlyn i fod yn bresennol mewn gwrandawiad er ei fod yn cael ei gynnal yn breifat—
+(a)
+y partïon,
+(b)
+cynrychiolwyr y partïon,
+(c)
+tystion y partïon, a
+(d)
+unrhyw berson sydd wedi ei benodi i weithredu fel cyfaill achos yn unol â rheoliad 61.
+(4) Mae hawlogaeth gan y personau a ganlyn hefyd i fod yn bresennol mewn gwrandawiad er ei fod yn cael ei gynnal yn breifat—
+(a)
+y plentyn, pan na fo’r plentyn yn barti yn yr apêl neu’r hawliad;
+(b)
+rhiant i’r plentyn, pan na fo’r rhiant yn barti yn yr apêl neu’r hawliad;
+(c)
+y clerc i’r panel tribiwnlys ac Ysgrifennydd y Tribiwnlys;
+(d)
+y Llywydd, Cadeirydd neu aelod o’r panel lleyg (pan nad yw’n eistedd fel aelod o’r panel tribiwnlys);
+(e)
+person sy’n cael ei hyfforddi fel Cadeirydd, aelod o’r panel lleyg neu fel clerc i’r panel tribiwnlys;
+(f)
+person sy’n gweithredu ar ran y Llywydd i hyfforddi neu oruchwylio clercod i banelau tribiwnlys;
+(g)
+cyfieithydd ar y pryd;
+(h)
+unrhyw berson sy’n rhoi cymorth angenrheidiol arall i berson sy’n eistedd fel aelod o’r panel tribiwnlys neu sydd â hawlogaeth i fod yn bresennol yn y gwrandawiad o ganlyniad i’r rheoliad hwn;
+(i)
+unrhyw berson a enwir gan yr apelydd neu’r hawlydd wrth ymateb i’r ymholiad o dan reoliad 24(a)(vi) neu (vii) oni fydd y Llywydd neu’r panel tribiwnlys wedi penderfynu na chaiff unrhyw berson o’r fath fod yn bresennol yn y gwrandawiad ac wedi hysbysu’r apelydd neu’r hawlydd yn unol â hynny.
+(5) Caiff y Llywydd neu’r panel tribiwnlys, gyda chydsyniad y partïon neu eu cynrychiolwyr sy’n bresennol mewn gwirionedd, ganiatáu i unrhyw berson arall fod yn bresennol mewn gwrandawiad a gynhelir yn breifat.
+(6) Heb ragfarnu unrhyw bwerau eraill a all fod ganddo, caiff y Llywydd neu’r panel tribiwnlys allgáu o wrandawiad, neu o ran ohono—
+(a)
+person y mae ei ymddygiad, ym marn y Llywydd neu’r panel tribiwnlys, wedi amharu, neu’n debygol o amharu, ar y gwrandawiad;
+(b)
+person y mae ei bresenoldeb, ym marn y Llywydd neu’r panel tribiwnlys, wedi ei gwneud, neu’n debygol o’i gwneud, yn anodd i unrhyw berson roi tystiolaeth, neu gyflwyno’r sylwadau sy’n angenrheidiol ar gyfer cynnal y gwrandawiad yn briodol;
+(c)
+cynrychiolydd neu dyst nad oedd parti wedi ei enwi, heb esgus rhesymol, mewn ymateb i’r ymholiad gan Ysgrifennydd y Tribiwnlys o dan reoliad 24.
+(7) Ac eithrio fel y’i darperir yn rheoliad 43(3) a (4), ni chaiff unrhyw un o’r personau a grybwyllir ym mharagraff (4) neu (5), ac eithrio yn achos y personau a bennir yn is-baragraffau (c), (g) ac (h) o baragraff (4) fel sy’n ofynnol gan eu priod ddyletswyddau, gymryd unrhyw ran yn y gwrandawiad nac ychwaith (pan fo ganddynt hawlogaeth neu ganiatâd i aros) yn ystyriaethau’r panel tribiwnlys.
+Gwybodaeth Cychwyn
+I1
+Rhl. 40 mewn grym ar 1.9.2021, gweler rhl. 1Gorchmynion sy’n cyfyngu ar adrodd
+41.—(1) Os yw’n ymddangos yn briodol gwneud hynny, caiff y Llywydd neu’r panel tribiwnlys wneud gorchymyn sy’n cyfyngu ar gyhoeddi, neu’n gwahardd cyhoeddi, unrhyw fater sy’n debygol o arwain aelodau o’r cyhoedd at adnabod yr apelydd, yr hawlydd, y plentyn neu berson arall, pan ystyrir na ddylai fod modd ei adnabod.
+(2) Yn y rheoliad hwn, mae “cyhoeddi”, heb ragfarnu cyffredinolrwydd yr ymadrodd hwnnw, yn cynnwys—
+(a)
+cyhoeddi unrhyw fater mewn gwasanaeth rhaglenni, fel y diffinnir “programme service” gan adran 201(1) o Ddeddf Darlledu 1990(1), a
+(b)
+peri i unrhyw fater gael ei gyhoeddi.
+(3) Caniateir gwneud gorchymyn o dan y rheoliad hwn mewn cysylltiad â chyfnod cyfyngedig, a chaiff y Llywydd neu’r panel tribiwnlys amrywio neu ddirymu’r gorchymyn hwnnw.
+Gwybodaeth Cychwyn
+I1
+Rhl. 41 mewn grym ar 1.9.2021, gweler rhl. 1
+(1)
+1990 p. 42; diwygiwyd adran 201(1) gan Ran 3, Pennod 6, adran 360 o Ddeddf Cyfathrebiadau 2003 (p. 21) a pharagraff 1 o Atodlen 19 iddi.Y weithdrefn mewn gwrandawiad
+42.—(1) Ar ddechrau’r gwrandawiad, rhaid i’r Cadeirydd esbonio’r drefn y mae’r panel tribiwnlys yn bwriadu ei mabwysiadu ar gyfer yr achos.
+(2) Rhaid i’r panel tribiwnlys gynnal y gwrandawiad mewn modd y mae’n ystyried ei fod yn briodol er mwyn egluro’r materion a thrin yr achos yn unol â’r prif amcan fel sy’n ofynnol gan reoliad 4.
+(3) Rhaid i’r panel tribiwnlys benderfynu ym mha drefn y clywir y partïon ac y penderfynir ar y materion.
+(4) Caiff y panel tribiwnlys, os yw wedi ei fodloni ei bod yn deg ac yn gyfiawn gwneud hynny, ganiatáu—
+(a)
+i’r apelydd neu’r hawlydd ddibynnu ar seiliau nas datganwyd yn y cais apelio neu’r cais hawlio neu’r datganiad achos, a rhoi tystiolaeth nas cyflwynwyd i’r awdurdod lleol, corff llywodraethu’r SAB neu’r corff cyfrifol, cyn iddo wneud y penderfyniad a herir neu ar yr un pryd ag y gwnaed y penderfyniad hwnnw;
+(b)
+i’r awdurdod lleol, corff llywodraethu’r SAB neu’r corff cyfrifol ddibynnu ar seiliau nas pennwyd yn ei ddatganiad achos.
+(5) Os yw aelod o’r panel tribiwnlys a chanddo dri aelod ac eithrio’r Cadeirydd yn absennol, ar ddechrau’r gwrandawiad neu ar ôl hynny—
+(a)
+caiff y ddau aelod arall, gyda chydsyniad y partïon, gynnal y gwrandawiad, ac os digwydd hynny mae’r panel tribiwnlys i’w ystyried fel pe bai wedi ei gyfansoddi’n briodol, a chaiff y ddau aelod hynny wneud penderfyniad y panel tribiwnlys, a
+(b)
+ni chaiff yr aelod sy’n absennol ailymuno â’r gwrandawiad.
+Gwybodaeth Cychwyn
+I1
+Rhl. 42 mewn grym ar 1.9.2021, gweler rhl. 1Tystiolaeth mewn gwrandawiad
+43.—(1) Yn ddarostyngedig i reoliad 40(6), mae hawlogaeth gan y partïon yn ystod y gwrandawiad i roi tystiolaeth, galw tystion, holi unrhyw dyst ac annerch y panel tribiwnlys ar y dystiolaeth, gan gynnwys y dystiolaeth ysgrifenedig a gyflwynwyd cyn y gwrandawiad, yn ogystal ag yn gyffredinol ar destun yr apêl neu’r hawliad.
+(2) Nid oes hawlogaeth gan barti i alw mwy na dau dyst i roi tystiolaeth ar lafar oni fydd y Llywydd neu’r panel tribiwnlys wedi rhoi caniatâd ar gais gan barti (yn ogystal ag unrhyw dyst y mae ei bresenoldeb yn ofynnol yn unol â pharagraff (6)).
+(3) Caiff y Llywydd neu’r panel tribiwnlys ganiatáu i’r personau a ganlyn roi tystiolaeth ac annerch y panel tribiwnlys ar destun yr apêl neu’r hawliad―
+(a)
+y plentyn, pan na fo’r plentyn yn barti yn yr apêl neu’r hawliad;
+(b)
+rhiant y plentyn, pan na fo’r rhiant yn barti yn yr apêl neu’r hawliad;
+(c)
+person sydd wedi cyflwyno datganiad o addasrwydd i’r Tribiwnlys yn unol â rheoliad 61 er mwyn gweithredu fel cyfaill achos.
+(4) Caiff y Llywydd neu’r panel tribiwnlys ganiatáu—
+(a)
+i’r person, os oes un, a enwir mewn ymateb i ymholiad o dan reoliad 24(a)(vii) roi tystiolaeth ac annerch y panel tribiwnlys ar safbwyntiau a dymuniadau’r plentyn neu’r person ifanc, a
+(b)
+i’r awdurdod lleol neu’r corff cyfrifol holi’r person a bennir yn is-baragraff (a) mewn perthynas ag unrhyw dystiolaeth neu anerchiad a wneir i’r panel tribiwnlys.
+(5) Caniateir rhoi tystiolaeth gerbron y panel tribiwnlys—
+(a)
+ar lafar, neu
+(b)
+drwy ddatganiad ysgrifenedig os cyflwynir y dystiolaeth honno gyda’r cais apelio neu’r cais hawlio neu’r datganiad achos neu yn unol â rheoliad 47.
+(6) Caiff y Llywydd neu’r panel tribiwnlys, yn ystod unrhyw gam o’r apêl neu’r hawliad, wneud presenoldeb unrhyw un sy’n gwneud unrhyw ddatganiad ysgrifenedig yn ofynnol.
+(7) Caniateir i’r Llywydd neu’r panel tribiwnlys gael tystiolaeth o unrhyw ffaith sy’n ymddangos yn berthnasol i’r Llywydd neu’r panel tribiwnlys.
+(8) Caiff y Llywydd neu’r panel tribiwnlys ei gwneud yn ofynnol i unrhyw barti neu dyst roi tystiolaeth ar lw neu drwy gadarnhad, ac at y diben hwnnw caniateir gweinyddu llw neu gadarnhad ar y ffurf gywir, neu ei gwneud yn ofynnol i unrhyw dystiolaeth a roddir drwy ddatganiad ysgrifenedig gael ei rhoi drwy ddatganiad o wirionedd.
+Gwybodaeth Cychwyn
+I1
+Rhl. 43 mewn grym ar 1.9.2021, gweler rhl. 1Newid tyst
+44.—(1) Caiff parti newid y person a enwir yn dyst gan y parti hwnnw, mewn ymateb i ymholiad a wneir o dan reoliad 24, os yw Ysgrifennydd y Tribiwnlys yn cael hysbysiad ysgrifenedig ac os cyflwynir copi o’r hysbysiad i’r parti arall heb fod yn hwyrach na 5 niwrnod gwaith cyn y gwrandawiad.
+(2) Rhaid i unrhyw gais i newid tyst, a wneir llai na 5 niwrnod gwaith cyn y gwrandawiad, gael ei benderfynu gan y Llywydd neu’r panel tribiwnlys.
+Gwybodaeth Cychwyn
+I1
+Rhl. 44 mewn grym ar 1.9.2021, gweler rhl. 1Gwysio tyst
+45.—(1) Yn ddarostyngedig i baragraffau (2) i (5), caiff y Llywydd neu’r panel tribiwnlys, ar gais gan barti neu ar ysgogiad y Llywydd neu’r panel tribiwnlys ei hun, ei gwneud yn ofynnol drwy wŷs i unrhyw berson—
+(a)
+bod yn bresennol fel tyst mewn gwrandawiad, ar yr adeg honno ac yn y lle hwnnw a bennir yn y wŷs, ac mewn unrhyw ohiriad o’r gwrandawiad hwnnw cyn ei gychwyn neu ar ôl ei gychwyn, a
+(b)
+yn y gwrandawiad, iddo ateb unrhyw gwestiynau neu ddangos unrhyw ddogfennau neu ddeunydd arall sydd yng ngwarchodaeth, neu sydd o dan reolaeth, y person hwnnw ac sy’n ymwneud ag unrhyw fater o dan sylw yn yr apêl neu’r hawliad.
+(2) Ni chaniateir gorfodi unrhyw berson i roi unrhyw dystiolaeth neu ddangos unrhyw ddogfen neu ddeunydd arall na ellid gorfodi’r person i’w rhoi neu i’w dangos mewn treial o achos mewn llys barn.
+(3) Wrth arfer y pŵer a roddir gan y rheoliad hwn, rhaid i’r Llywydd neu’r panel tribiwnlys ystyried yr angen i ddiogelu unrhyw fater sy’n ymwneud ag amgylchiadau o natur bersonol agos neu amgylchiadau ariannol, neu sy’n cynnwys gwybodaeth a gyflëwyd neu a gafwyd yn gyfrinachol.
+(4) Ni chaniateir ei gwneud yn ofynnol drwy wŷs i berson fod yn bresennol oni roddwyd o leiaf 5 niwrnod gwaith o rybudd o’r gwrandawiad i’r person hwnnw, neu, os rhoddwyd llai na 5 niwrnod gwaith, oni fydd y person wedi rhoi gwybod i’r Llywydd neu’r panel tribiwnlys fod y person yn derbyn y rhybudd a roddwyd.
+(5) Ni chaniateir ei gwneud yn ofynnol drwy wŷs i berson fod yn bresennol a rhoi tystiolaeth neu ddangos unrhyw ddogfen, oni fydd swm o arian wedi ei dalu neu wedi ei gynnig, sy’n rhesymol ddigonol i dalu treuliau angenrheidiol presenoldeb y person hwnnw.
+(6) Rhaid i barti sy’n ceisio gwŷs tyst wneud cais ysgrifenedig i Ysgrifennydd y Tribiwnlys, o leiaf 8 niwrnod gwaith cyn y gwrandawiad, neu’n ddiweddarach os yw’r person y mae’r wŷs i’w chyfeirio ato yn cydsynio’n ysgrifenedig.
+(7) Rhaid i wŷs tyst gynnwys—
+(a)
+mewn perthynas ag apêl, datganiad bod unrhyw berson sydd, heb esgus rhesymol, yn methu â chydymffurfio ag unrhyw ofyniad i fod yn bresennol i roi tystiolaeth ac, os yw’r wŷs yn gwneud hynny’n ofynnol, i ddangos dogfennau, yn agored o dan adran 79 o Ddeddf 2018, ar euogfarn ddiannod i ddirwy nad yw’n uwch na lefel 3 ar y raddfa safonol,
+(b)
+mewn perthynas â hawliad, datganiad bod unrhyw berson sydd, heb esgus rhesymol, yn methu â chydymffurfio ag unrhyw ofyniad i fod yn bresennol i roi tystiolaeth ac, os yw’r wŷs yn gwneud hynny’n ofynnol, i ddangos dogfennau, yn agored o dan baragraff 6(8) o Atodlen 17 i Ddeddf 2010, ar euogfarn ddiannod i ddirwy nad yw’n uwch na lefel 3 ar y raddfa safonol, ac
+(c)
+datganiad o effaith paragraff (8).
+(8) Caiff person y cyfeirir gwŷs tyst ato wneud cais i’r Llywydd neu’r panel tribiwnlys, drwy roi hysbysiad i Ysgrifennydd y Tribiwnlys, i amrywio’r wŷs neu ei gosod o’r neilltu.
+(9) Ni chaiff y Llywydd neu’r panel tribiwnlys amrywio’r wŷs tyst na’i gosod o’r neilltu heb yn gyntaf hysbysu’r parti a wnaeth gais am ddyroddi’r wŷs tyst ac ystyried unrhyw sylwadau a gyflwynir gan y parti hwnnw.
+Gwybodaeth Cychwyn
+I1
+Rhl. 45 mewn grym ar 1.9.2021, gweler rhl. 1Tystiolaeth dros y ffôn, drwy gyswllt fideo neu drwy ddulliau eraill
+46.  Caiff y Llywydd, ar gais parti neu ar ysgogiad y Llywydd neu’r panel tribiwnlys ei hun, ganiatáu i barti neu i dyst roi tystiolaeth dros y ffôn, drwy gyswllt fideo neu drwy unrhyw ddull arall o gyfathrebu, os yw wedi ei fodloni na fyddai hynny’n rhagfarnu cyflawni prif amcan y Rheoliadau hyn.
+Gwybodaeth Cychwyn
+I1
+Rhl. 46 mewn grym ar 1.9.2021, gweler rhl. 1Tystiolaeth ysgrifenedig sy’n hwyr
+47.—(1) Ar ddechrau’r gwrandawiad, caiff parti gyflwyno tystiolaeth ysgrifenedig bellach ar gyfer ei derbyn—
+(a)
+os yw’r partïon yn cytuno i dderbyn y dystiolaeth bellach, neu
+(b)
+os yw’r dystiolaeth yn bodloni’r amodau a nodir ym mharagraff (2).
+(2) Yr amodau y cyfeirir atynt ym mharagraff (1)(b) yw—
+(a)
+nad oedd y dystiolaeth ar gael ac nad oedd modd, yn rhesymol, iddi fod ar gael i’r parti hwnnw cyn diwedd cyfnod y datganiad achos, a
+(b)
+y cyflwynwyd copi o’r dystiolaeth i Ysgrifennydd y Tribiwnlys a chyflwynwyd copi o’r dystiolaeth i’r parti arall o leiaf 5 niwrnod gwaith cyn y gwrandawiad.
+(3) Ni chaniateir derbyn tystiolaeth ysgrifenedig bellach a gyflwynir yn unol â pharagraff (1)(b), yn ddarostyngedig i baragraff (4), ond os yw’r Llywydd neu’r panel tribiwnlys o’r farn, ar ôl ystyried unrhyw sylwadau gan y parti arall, nad yw graddau a ffurf y dystiolaeth honno yn debygol o rwystro cynnal y gwrandawiad yn effeithlon.
+(4) Ni chaniateir derbyn tystiolaeth ysgrifenedig bellach pe byddai ei derbyn, ym marn y Llywydd neu’r panel tribiwnlys, yn groes i fuddiannau cyfiawnder.
+(5) Os na fodlonir yr amodau ym mharagraff (2), caiff y Llywydd neu’r panel tribiwnlys roi caniatâd i barti gyflwyno tystiolaeth ysgrifenedig bellach yn y gwrandawiad os yw’r Llywydd neu’r panel tribiwnlys o’r farn yr achosid risg ddifrifol o ragfarn yn erbyn y parti sy’n ceisio dibynnu ar y dystiolaeth honno pe na dderbynnid hi.
+Gwybodaeth Cychwyn
+I1
+Rhl. 47 mewn grym ar 1.9.2021, gweler rhl. 1Gohirio gwrandawiad cyn ei gychwyn
+48.—(1) Caiff y Llywydd neu’r panel tribiwnlys, naill ai ar ysgogiad y Llywydd neu’r panel tribiwnlys ei hun neu ar gais parti, o dan amgylchiadau eithriadol, wneud gorchymyn i ohirio gwrandawiad cyn ei gychwyn.
+(2) Rhaid i gais gan barti o dan baragraff (1)—
+(a)
+cael ei wneud yn ysgrifenedig, gan ddatgan y rhesymau yn llawn, a
+(b)
+dod i law Ysgrifennydd y Tribiwnlys, a chael ei gyflwyno gan y ceisydd i’r parti arall, o leiaf 5 niwrnod gwaith cyn y gwrandawiad.
+(3) Os gwneir gorchymyn o dan baragraff (1), rhaid i Ysgrifennydd y Tribiwnlys roi i’r partïon rybudd nad yw’n llai na 5 niwrnod gwaith (neu unrhyw gyfnod byrrach y mae’r partïon yn cytuno arno) o ddyddiad newydd y gwrandawiad.
+(4) Nid oes dim ym mharagraff (3) sy’n gosod rhwymedigaeth ar Ysgrifennydd y Tribiwnlys i ymgynghori ag unrhyw berson nad oes hawlogaeth ganddo i gael ei gynrychioli yn y gwrandawiad neu anfon hysbysiad at unrhyw berson o’r fath.
+Gwybodaeth Cychwyn
+I1
+Rhl. 48 mewn grym ar 1.9.2021, gweler rhl. 1Gohiriadau ar ôl cychwyn a chyfarwyddydau
+49.—(1) Caiff y Llywydd neu’r panel tribiwnlys ohirio gwrandawiad ar ôl ei gychwyn.
+(2) Pan ohirir gwrandawiad ar ôl ei gychwyn—
+(a)
+caiff y Llywydd neu’r panel tribiwnlys roi cyfarwyddydau y mae rhaid cydymffurfio â hwy cyn ailgychwyn y gwrandawiad, neu yn y gwrandawiad ar ôl ailgychwyn, a
+(b)
+caiff y Cadeirydd gyhoeddi casgliadau dros dro a wnaed gan y panel tribiwnlys. Nid yw’r casgliadau dros dro yn benderfyniad gan y panel tribiwnlys.
+(3) Caiff cyfarwyddyd o dan baragraff (2)(a) ei gwneud yn ofynnol i barti ddarparu unrhyw fanylion, unrhyw dystiolaeth neu unrhyw ddatganiadau sy’n rhesymol ofynnol ar gyfer penderfynu’r apêl neu’r hawliad.
+(4) Os yw parti yn methu â chydymffurfio â chyfarwyddyd a wneir o dan baragraff (2)(a), caiff y panel tribiwnlys ystyried y ffaith honno wrth benderfynu’r apêl neu’r hawliad neu wrth benderfynu pa un ai i wneud gorchymyn ar gyfer costau.
+(5) Os cyhoeddir lleoliad ac amser y gwrandawiad a ohiriwyd ar ôl ei gychwyn yn y gwrandawiad cyn ei ohirio felly, ni fydd unrhyw hysbysiad pellach yn ofynnol.
+Gwybodaeth Cychwyn
+I1
+Rhl. 49 mewn grym ar 1.9.2021, gweler rhl. 1Cynrychiolaeth mewn gwrandawiad
+50.—(1) Yn ddarostyngedig i baragraff (2), mewn unrhyw wrandawiad neu ran o wrandawiad—
+(a)
+caiff yr apelydd neu’r hawlydd gynnal yr apêl neu’r hawliad (gyda chymorth gan un person os yw’r apelydd neu’r hawlydd yn dymuno hynny), neu caniateir iddo ymddangos a chael ei gynrychioli gan un person, pa un a oes cymhwyster cyfreithiol gan y person hwnnw ai peidio;
+(b)
+caiff yr awdurdod lleol, corff llywodraethu’r SAB neu’r corff cyfrifol ymddangos a chael ei gynrychioli gan un person, pa un a oes cymhwyster cyfreithiol gan y person hwnnw ai peidio.
+(2) Caiff y Llywydd neu’r panel tribiwnlys roi caniatâd—
+(a)
+i’r apelydd neu’r hawlydd gael cymorth neu gael ei gynrychioli gan fwy nag un person;
+(b)
+i’r awdurdod lleol, corff llywodraethu’r SAB neu’r corff cyfrifol gael ei gynrychioli gan fwy nag un person.
+(3) Os nad yw parti yn bwriadu bod yn bresennol neu gael ei gynrychioli yn y gwrandawiad, caiff y parti hwnnw, heb fod yn hwyrach na 5 niwrnod gwaith cyn y gwrandawiad, anfon at Ysgrifennydd y Tribiwnlys sylwadau ysgrifenedig ychwanegol i gefnogi achos y parti hwnnw.
+Gwybodaeth Cychwyn
+I1
+Rhl. 50 mewn grym ar 1.9.2021, gweler rhl. 1Methiant i fod yn bresennol mewn gwrandawiad
+51.—(1) Os yw parti yn methu â bod yn bresennol neu’n methu â chael ei gynrychioli mewn gwrandawiad yr hysbyswyd y parti hwnnw amdano, caiff y panel tribiwnlys—
+(a)
+oni bai ei fod wedi ei fodloni bod rheswm digonol dros absenoldeb o’r fath, wrando a phenderfynu’r apêl neu’r hawliad yn absenoldeb y parti, neu
+(b)
+gohirio’r gwrandawiad cyn ei gychwyn neu ar ôl ei gychwyn, fel y bo’n briodol.
+(2) Cyn penderfynu apêl neu hawliad yn absenoldeb parti, rhaid i’r panel tribiwnlys ystyried unrhyw sylwadau ysgrifenedig a gyflwynwyd gan y parti hwnnw mewn ymateb i’r hysbysiad o wrandawiad ac, at ddiben y rheoliad hwn, trinnir y cais apelio neu’r cais hawlio a datganiadau achos y partïon fel pe baent yn sylwadau ysgrifenedig.
+Gwybodaeth Cychwyn
+I1
+Rhl. 51 mewn grym ar 1.9.2021, gweler rhl. 1Penderfyniad y panel tribiwnlys
+52.—(1) At ddibenion gwneud ei benderfyniad rhaid i’r panel tribiwnlys, ac at ddibenion trafod mater gweithdrefnol, caiff y panel tribiwnlys, er gwaethaf unrhyw beth a gynhwysir yn y Rheoliadau hyn, orchymyn i bob person adael eisteddiad y panel tribiwnlys ac eithrio aelodau’r panel tribiwnlys ac unrhyw un neu ragor o’r personau a grybwyllir yn rheoliad 40(4)(c) i (f), neu, fel sy’n ofynnol gan eu priod ddyletswyddau, reoliad 40(4)(g) ac (h).
+(2) Caiff panel tribiwnlys a chanddo dri aelod wneud penderfyniad drwy fwyafrif, a phan fo gan y panel tribiwnlys ddau aelod, bydd gan y Cadeirydd ail bleidlais neu bleidlais fwrw.
+(3) Caniateir rhoi penderfyniad y panel tribiwnlys ar lafar ar ddiwedd y gwrandawiad neu ohirio’r penderfyniad ac, ym mhob achos, pa un a gynhaliwyd gwrandawiad ai peidio, rhaid cofnodi’r penderfyniad ar unwaith mewn dogfen y mae rhaid cynnwys ynddi hefyd, neu fel atodiad iddi, ac eithrio mewn achos a benderfynir drwy gydsyniad, ddatganiad o’r rhesymau (ar ffurf gryno) dros benderfyniad y panel tribiwnlys, a rhaid i’r ddogfen honno gael ei llofnodi a’i dyddio gan y Cadeirydd.
+(4) Ni chaiff penderfyniad a roddir ar lafar na’r ddogfen y cyfeirir ati ym mharagraff (3) gynnwys unrhyw gyfeiriad at wneud y penderfyniad drwy fwyafrif (os dyna a ddigwyddodd) nac at unrhyw farn lleiafrif.
+(5) Rhaid cofnodi pob penderfyniad y panel tribiwnlys yn y Gofrestr.
+(6) Rhaid i Ysgrifennydd y Tribiwnlys anfon copi o’r ddogfen y cyfeirir ati ym mharagraff (3), cyn gynted ag y bo’n ymarferol, at bob parti ynghyd â chanllawiau, ar ffurf a gymeradwyir gan y Llywydd, ar yr amgylchiadau pan fo hawl i apelio yn erbyn penderfyniad y panel tribiwnlys ac ar y weithdrefn i’w dilyn.
+(7) Pan fo rheoliad 13(11)(a) neu 62(2) yn gymwys, rhaid i Ysgrifennydd y Tribiwnlys anfon copi o’r dogfennau y cyfeirir atynt ym mharagraff (6) at yr apelydd neu’r hawlydd yn ogystal ag at y cynrychiolydd neu’r cyfaill achos.
+(8) Mae pob penderfyniad i’w drin fel pe bai wedi ei wneud ar y dyddiad yr anfonir copi o’r ddogfen sy’n ei gofnodi at yr apelydd neu’r hawlydd (pa un a gyhoeddwyd y penderfyniad yn flaenorol ar ddiwedd y gwrandawiad ai peidio).
+Gwybodaeth Cychwyn
+I1
+Rhl. 52 mewn grym ar 1.9.2021, gweler rhl. 1Cais neu gynnig ar gyfer adolygiad o benderfyniad y Tribiwnlys
+53.—(1) Caiff parti wneud cais i Ysgrifennydd y Tribiwnlys i benderfyniad y Llywydd neu’r panel tribiwnlys gael ei adolygu ar y seiliau—
+(a)
+bod y penderfyniad wedi ei wneud yn anghywir o ganlyniad i wall perthnasol ar ran gweinyddiaeth y Tribiwnlys,
+(b)
+bod gan barti a oedd â hawlogaeth i gael ei glywed yn y gwrandawiad, ond a fethodd ag ymddangos neu gael ei gynrychioli, reswm da a digonol dros beidio ag ymddangos,
+(c)
+bod gwall amlwg a pherthnasol yn y penderfyniad, neu
+(d)
+bod buddiannau cyfiawnder yn gwneud hynny’n ofynnol.
+(2) Rhaid i gais am adolygu penderfyniad y Llywydd neu’r panel tribiwnlys gael ei wneud—
+(a)
+yn ysgrifenedig, gan ddatgan y seiliau, a
+(b)
+heb fod yn hwyrach nag 28 o ddiwrnodau ar ôl y dyddiad yr anfonwyd y penderfyniad at y partïon.
+(3) Caiff y Llywydd—
+(a)
+ar gais parti neu ar ysgogiad y Llywydd ei hun, adolygu a gosod o’r neilltu neu amrywio unrhyw benderfyniad a wneir gan y Llywydd, ar un o’r seiliau y cyfeirir atynt ym mharagraff (1), neu
+(b)
+gwrthod cais am adolygiad o benderfyniad y Llywydd yn unol â pharagraff (6).
+(4) Caiff y Llywydd neu Gadeirydd y panel tribiwnlys a benderfynodd yr achos—
+(a)
+ar gais parti, neu ar ysgogiad y Llywydd neu’r Cadeirydd ei hun, adolygu a gosod o’r neilltu neu amrywio unrhyw benderfyniad a wneir gan y panel tribiwnlys ar un o’r seiliau y cyfeirir atynt ym mharagraff (1), neu
+(b)
+gwrthod cais am adolygiad o benderfyniad y panel tribiwnlys yn unol â pharagraff (6).
+(5) Caiff Cadeirydd y panel tribiwnlys a benderfynodd yr achos orchymyn cynnal ail wrandawiad, gerbron yr un panel tribiwnlys neu gerbron panel tribiwnlys sydd wedi ei gyfansoddi’n wahanol.
+(6) Caiff Llywydd neu Gadeirydd y panel tribiwnlys a benderfynodd yr achos wrthod y cais am adolygiad yn gyfan gwbl neu’n rhannol os, ym marn y Llywydd neu’r Cadeirydd, nad oes siawns resymol i’r cais cyfan hwnnw neu’r rhan honno lwyddo.
+(7) Oni wrthodir cais am adolygiad yn unol â pharagraff (6), rhaid i’r adolygiad gael ei benderfynu ar ôl rhoi cyfle i’r partïon i gael eu clywed—
+(a)
+gan y Llywydd, pan wnaed y penderfyniad gan y Llywydd, neu
+(b)
+pan wnaed y penderfyniad gan banel tribiwnlys, gan y Llywydd neu’r panel tribiwnlys a wnaeth y penderfyniad neu gan banel tribiwnlys arall a benodir gan y Llywydd.
+(8) Os yw Llywydd neu Gadeirydd y panel tribiwnlys a benderfynodd yr achos, ar ysgogiad y Llywydd neu’r Cadeirydd ei hun, yn cynnig y dylid adolygu penderfyniad—
+(a)
+rhaid i Ysgrifennydd y Tribiwnlys gyflwyno hysbysiad i’r partïon heb fod yn hwyrach nag 28 o ddiwrnodau ar ôl y dyddiad yr anfonwyd y penderfyniad at y partïon, a
+(b)
+rhaid rhoi cyfle i’r partïon i gael eu clywed.
+(9) Wrth benderfynu cais neu gynnig ar gyfer adolygiad o dan baragraff (3), (4) neu (7), caiff y Llywydd neu’r Cadeirydd roi cyfarwyddydau y mae rhaid cydymffurfio â hwy cyn neu yn ystod y gwrandawiad o’r adolygiad.
+(10) Os yw parti yn methu â chydymffurfio â chyfarwyddyd a wneir o dan baragraff (9), caiff y panel tribiwnlys ystyried y ffaith honno wrth benderfynu’r adolygiad neu wrth benderfynu pa un ai i wneud gorchymyn ar gyfer costau.
+(11) Caiff y Llywydd neu’r Cadeirydd, ar gais parti, roi caniatâd i’r parti hwnnw newid tyst at ddiben y gwrandawiad adolygu.
+(12) Rhaid i gais a wneir o dan baragraff (11) ddod i law Ysgrifennydd y Tribiwnlys, a rhaid i’r ceisydd gyflwyno’r cais i’r parti arall, heb fod yn hwyrach na 14 o ddiwrnodau cyn y gwrandawiad adolygu.
+(13) Rhaid i’r Llywydd neu’r Cadeirydd roi cyfle i’r partïon i gael eu clywed ynghylch unrhyw gais a wneir o dan baragraff (11).
+(14) Os gosodir penderfyniad o’r neilltu neu os amrywir penderfyniad yn dilyn adolygiad o dan y rheoliad hwn, rhaid i Ysgrifennydd y Tribiwnlys newid y cofnod yn y Gofrestr a rhaid iddo hysbysu’r partïon yn unol â hynny.
+Gwybodaeth Cychwyn
+I1
+Rhl. 53 mewn grym ar 1.9.2021, gweler rhl. 1Adolygiad o benderfyniad y Tribiwnlys i beidio ag estyn y cyfnod a ganiateir ar gyfer cychwyn achos
+54.—(1) Caniateir i benderfyniad gan y Llywydd i beidio ag estyn yr amser a ganiateir o dan reoliad 14 ar gyfer cyflwyno cais apelio gael ei adolygu o dan reoliad 53 ar gais person fel pe bai’r person hwnnw yn barti yn yr apêl.
+(2) Pan fo’r Llywydd yn penderfynu peidio ag ystyried hawliad sydd y tu allan i’r amser, o dan baragraff 4(3) o Atodlen 17 i Ddeddf 2010, caniateir adolygu’r penderfyniad hwnnw o dan reoliad 53 ar gais person fel pe bai’r person hwnnw yn barti yn yr hawliad.
+(3) Os gwneir cais am adolygiad o dan baragraff (1) neu (2), rhaid i Ysgrifennydd y Tribiwnlys gyflwyno copi o’r cais i’r awdurdod lleol, corff llywodraethu’r SAB neu’r corff cyfrifol ynghyd â hysbysiad sy’n gwahodd sylwadau ysgrifenedig o fewn cyfnod penodedig.
+Gwybodaeth Cychwyn
+I1
+Rhl. 54 mewn grym ar 1.9.2021, gweler rhl. 1Cais am ganiatâd i apelio i’r Uwch Dribiwnlys
+55.—(1) Rhaid i barti sy’n ceisio caniatâd i apelio ar bwynt cyfreithiol o dan adran 81 o Ddeddf 2018 neu baragraff 6AA o Atodlen 17 i Ddeddf 2010 (apelau o Dribiwnlys Addysg Cymru i’r Uwch Dribiwnlys) wneud cais ysgrifenedig i’r Tribiwnlys Addysg am ganiatâd i apelio.
+(2) Rhaid i gais o dan baragraff (1) gael ei anfon at Ysgrifennydd y Tribiwnlys heb fod yn hwyrach nag 28 o ddiwrnodau ar ôl y diweddaraf o’r dyddiadau yr anfonodd Ysgrifennydd y Tribiwnlys at y parti sy’n gwneud y cais—
+(a)
+hysbysiad o’r penderfyniad,
+(b)
+hysbysiad bod cais i’r penderfyniad gael ei adolygu wedi bod yn aflwyddiannus, neu
+(c)
+hysbysiad bod y penderfyniad wedi ei amrywio yn dilyn adolygiad.
+(3) Rhaid i gais o dan baragraff (1)—
+(a)
+nodi’r penderfyniad y mae’n ymwneud ag ef,
+(b)
+nodi’r gwall cyfreithiol honedig neu’r gwallau cyfreithiol honedig yn y penderfyniad, ac
+(c)
+datgan y canlyniad a geisir gan y parti sy’n gwneud y cais.
+(4) Caiff y Llywydd neu’r Cadeirydd roi cyfarwyddydau mewn perthynas â phenderfynu’r cais, a chaiff wneud ei benderfyniad ar y cais gyda gwrandawiad neu hebddo.
+(5) Wrth gael cais am ganiatâd i apelio i’r Uwch Dribiwnlys rhaid i Lywydd neu Gadeirydd y panel tribiwnlys a benderfynodd yr achos ystyried yn gyntaf, gan gymryd i ystyriaeth y prif amcan yn rheoliad 4, pa un ai i adolygu penderfyniad y Tribiwnlys yn unol â rheoliad 53, oni fydd y Llywydd neu’r Cadeirydd eisoes wedi adolygu’r penderfyniad, neu wedi penderfynu peidio ag adolygu’r penderfyniad.
+(6) Os yw’r Llywydd neu’r Cadeirydd yn penderfynu peidio ag adolygu’r penderfyniad, neu’n adolygu’r penderfyniad ac yn penderfynu peidio â chymryd unrhyw gamau gweithredu mewn perthynas â’r penderfyniad, neu ran ohono, rhaid i’r Llywydd neu’r Cadeirydd ystyried wedyn pa un ai i roi caniatâd i apelio mewn perthynas â’r penderfyniad, neu’r rhan honno o’r penderfyniad.
+(7) Rhaid i Ysgrifennydd y Tribiwnlys anfon hysbysiad ysgrifenedig o benderfyniad y Llywydd neu’r Cadeirydd ar y cais at y partïon cyn gynted ag y bo’n ymarferol gan gynnwys manylion unrhyw benderfyniad i roi caniatâd i apelio a wneir o dan baragraff (6).
+(8) Os yw’r Llywydd neu’r Cadeirydd wedi gwrthod y cais rhaid i’r hysbysiad o dan baragraff (7) hefyd gynnwys—
+(a)
+y rhesymau dros wrthodiad o’r fath, a
+(b)
+hysbysiad o’r hawl i wneud cais i’r Uwch Dribiwnlys am ganiatâd i apelio ac o fewn pa gyfnod o amser, a thrwy ba ddull, y mae rhaid gwneud cais o’r fath.
+(9) Caiff y Llywydd neu’r Cadeirydd roi caniatâd i apelio ar seiliau cyfyngedig, ond rhaid iddo gydymffurfio â pharagraff (8) mewn perthynas ag unrhyw seiliau y mae wedi gwrthod caniatâd arnynt.
+Gwybodaeth Cychwyn
+I1
+Rhl. 55 mewn grym ar 1.9.2021, gweler rhl. 1Pŵer i atal dros dro benderfyniad y Tribiwnlys
+56.  Caiff Llywydd neu Gadeirydd y panel tribiwnlys a benderfynodd yr achos, ar gais, neu ar ysgogiad y Llywydd neu’r Cadeirydd ei hun, wneud gorchymyn i atal dros dro effaith penderfyniad y panel tribiwnlys hyd nes y ceir penderfyniad gan y Llywydd neu’r Cadeirydd neu’r Uwch Dribiwnlys ar gais am ganiatâd i apelio yn erbyn y penderfyniad hwnnw ac unrhyw apêl neu adolygiad ohono.
+Gwybodaeth Cychwyn
+I1
+Rhl. 56 mewn grym ar 1.9.2021, gweler rhl. 1Gorchmynion yr Uwch Dribiwnlys neu’r Llys
+57.—(1) Os caiff unrhyw benderfyniad gan y Tribiwnlys ei osod o’r neilltu, ei amrywio neu ei newid mewn unrhyw ffordd drwy orchymyn gan yr Uwch Dribiwnlys neu’r Llys, rhaid i Ysgrifennydd y Tribiwnlys newid y cofnod yn y Gofrestr i gyfateb i’r gorchymyn hwnnw, a rhaid iddo hysbysu’r partïon yn unol â hynny.
+(2) Os ailgyflwynir yr apêl neu’r hawliad i’r Tribiwnlys, drwy orchymyn gan yr Uwch Dribiwnlys neu’r Llys, i’w hailglywed neu i’w ailglywed, rhaid i Ysgrifennydd y Tribiwnlys hysbysu’r partïon y caiff pob parti, yn ystod cyfnod o 15 niwrnod gwaith (neu gyfnod byrrach y mae’r partïon yn cytuno arno), gyflwyno datganiad achos atodol a thystiolaeth ysgrifenedig bellach.
+(3) Os caiff gorchymyn i ddileu’r cais apelio neu’r cais hawlio ei ddiddymu neu ei osod o’r neilltu gan yr Uwch Dribiwnlys neu’r Llys, rhaid i Ysgrifennydd y Tribiwnlys hysbysu’r partïon—
+(a)
+mewn achos pan nad oedd cyfnod y datganiad achos wedi dod i ben cyn i’r gorchymyn i ddileu gael effaith—
+(i)
+bod cyfnod datganiad achos newydd i ddechrau, a
+(ii)
+y caiff y partïon, o fewn cyfnod y datganiad achos newydd, gyflwyno’r ddogfennaeth y cyfeirir ati yn is-baragraff (b) mewn cysylltiad â datganiad achos neu dystiolaeth a gyflwynwyd cyn i’r dileu gymryd effaith, neu
+(b)
+pan na fo is-baragraff (a) yn gymwys, fod gan bob parti 15 niwrnod gwaith (neu gyfnod byrrach y mae’r partïon yn cytuno arno) i gyflwyno datganiad achos atodol a thystiolaeth ysgrifenedig bellach.
+(4) Rhaid i Ysgrifennydd y Tribiwnlys anfon copi o’r holl ddatganiadau achos a thystiolaeth ysgrifenedig a geir gan barti yn ystod y cyfnodau y cyfeirir atynt ym mharagraffau (2) a (3)(b) at y parti arall.
+Gwybodaeth Cychwyn
+I1
+Rhl. 57 mewn grym ar 1.9.2021, gweler rhl. 1Cydymffurfio â gorchmynion y panel tribiwnlys – apelau
+58.—(1) Os yw’r panel tribiwnlys, yn dilyn ei benderfyniad mewn perthynas ag apêl, yn gwneud gorchymyn o dan adran 71 o Ddeddf 2018 sy’n ei gwneud yn ofynnol i awdurdod lleol neu gorff llywodraethu SAB gyflawni’r camau gweithredu y cyfeirir atynt ym mharagraff (2), rhaid i’r awdurdod lleol neu gorff llywodraethu’r SAB gyflawni’r camau gweithredu o fewn y cyfnod o amser a bennir ym mharagraff (2).
+(2) Yn achos gorchymyn—
+(a)
+yn erbyn awdurdod lleol i lunio cynllun datblygu unigol, rhaid iddo lunio’r cynllun datblygu unigol a rhoi copi ohono i’r plentyn, i riant y plentyn neu i’r person ifanc o fewn 7 wythnos;
+(b)
+yn erbyn corff llywodraethu SAB i lunio cynllun datblygu unigol, rhaid iddo lunio’r cynllun datblygu unigol a rhoi copi ohono i’r person ifanc o fewn 35 o ddiwrnodau amser tymor;
+(c)
+yn erbyn awdurdod lleol i ddiwygio cynllun datblygu unigol, rhaid iddo ddiwygio’r cynllun datblygu unigol a rhoi copi ohono i’r plentyn, i riant y plentyn neu i’r person ifanc o fewn 7 wythnos;
+(d)
+yn erbyn corff llywodraethu SAB i ddiwygio cynllun datblygu unigol, rhaid iddo ddiwygio’r cynllun datblygu unigol a rhoi copi ohono i’r person ifanc o fewn 35 o ddiwrnodau amser tymor;
+(e)
+i barhau i gynnal cynllun datblygu unigol (gyda diwygiadau neu hebddynt), gydag effaith ar unwaith;
+(f)
+yn erbyn awdurdod lleol i gymryd drosodd y cyfrifoldeb am gynnal cynllun datblygu unigol, gan ddechrau â’r dyddiad a bennir gan y tribiwnlys;
+(g)
+yn erbyn awdurdod lleol i adolygu cynllun datblygu unigol, rhaid iddo gynnal yr adolygiad a hysbysu’r plentyn, rhiant y plentyn, neu’r person ifanc am ganlyniad yr adolygiad, yn ysgrifenedig, o fewn 7 wythnos;
+(h)
+yn erbyn corff llywodraethu SAB i adolygu cynllun datblygu unigol, rhaid iddo gynnal yr adolygiad a hysbysu’r person ifanc am ganlyniad yr adolygiad, yn ysgrifenedig, o fewn 35 o ddiwrnodau amser tymor;
+(i)
+i anfon yr achos yn ôl i’r awdurdod lleol sy’n gyfrifol am y mater er mwyn iddo ailystyried, ar ôl rhoi sylw i unrhyw sylwadau a wneir gan y tribiwnlys, a oes angen gwneud penderfyniad gwahanol neu gymryd camau gweithredu gwahanol, rhaid i’r awdurdod lleol wneud hynny, a hysbysu’r plentyn, rhiant y plentyn, neu’r person ifanc am ganlyniad yr ailystyriaeth honno o fewn 7 wythnos;
+(j)
+i anfon yr achos yn ôl i gorff llywodraethu’r SAB sy’n gyfrifol am y mater er mwyn iddo ailystyried, ar ôl rhoi sylw i unrhyw sylwadau a wneir gan y tribiwnlys, a oes angen gwneud penderfyniad gwahanol neu gymryd camau gweithredu gwahanol, rhaid i gorff llywodraethu’r SAB wneud hynny, a hysbysu’r plentyn, rhiant y plentyn, neu’r person ifanc am ganlyniad yr ailystyriaeth honno o fewn 35 o ddiwrnodau amser tymor.
+(3) Os yw’r panel tribiwnlys, yn dilyn ei benderfyniad mewn perthynas ag apêl, yn gwneud gorchymyn o dan adran 73 o Ddeddf 2018 sy’n ei gwneud yn ofynnol i awdurdod cartref gyflawni gweithred y cyfeirir ati ym mharagraff (4), rhaid i’r awdurdod cartref gyflawni’r weithred honno o fewn y cyfnod o amser a bennir ym mharagraff (4).
+(4) Yn achos gorchymyn—
+(a)
+i lunio cynllun datblygu unigol, rhaid iddo lunio’r cynllun datblygu unigol a rhoi copi ohono i’r plentyn, i riant y plentyn neu i’r person ifanc o fewn 7 wythnos;
+(b)
+i ddiwygio cynllun datblygu unigol fel a bennir yn y gorchymyn, rhaid iddo ddiwygio’r cynllun datblygu unigol a rhoi copi ohono i’r plentyn, i riant y plentyn neu i’r person ifanc o fewn 7 wythnos;
+(c)
+i anfon yr achos yn ôl i’r awdurdod cartref sy’n gyfrifol am y mater er mwyn iddo ailystyried, ar ôl rhoi sylw i unrhyw sylwadau a wneir gan y tribiwnlys, a oes angen gwneud penderfyniad gwahanol neu gymryd camau gweithredu gwahanol, rhaid iddo wneud hynny a hysbysu’r plentyn, rhiant y plentyn, neu’r person ifanc am ganlyniad yr ailystyriaeth honno o fewn 7 wythnos.
+(5) Ym mhob achos ym mharagraffau (2) a (4), oni phennir fel arall, mae’r cyfnod yn dechrau â’r diwrnod gwaith cyntaf ar ôl gwneud y gorchymyn.
+(6) Pan fo gorchymyn wedi ei wneud mewn cysylltiad â chorff llywodraethu SAB, ystyr “diwrnod amser tymor” yw diwrnod y mae’r sefydliad addysg bellach i fod i gwrdd at ddiben addysgu myfyrwyr, ar yr amod bod y diwrnod hwnnw o fewn cyfnod o amser pan fo’r sefydliad addysg bellach yn darparu’r rhan fwyaf o’i gyrsiau llawnamser.
+Gwybodaeth Cychwyn
+I1
+Rhl. 58 mewn grym ar 1.9.2021, gweler rhl. 1Ceisiadau o dan adran 70(3) o Ddeddf 2018 am ddatganiad o dan adran 71(2) o Ddeddf 2018 sy’n ymwneud â galluedd plentyn i ddeall
+59.—(1) Rhaid i blentyn neu riant i blentyn sy’n ceisio datganiad o’r tribiwnlys yn unol ag adran 71(2) o Ddeddf 2018 gyflwyno cais yn ysgrifenedig i’r tribiwnlys.
+(2) Rhaid i’r cais ddatgan—
+(a)
+enw a chyfeiriad y person sy’n ceisio’r datganiad ac, os ydynt ar gael, rhif ffôn a chyfeiriad e-bost y person hwnnw;
+(b)
+enw a dyddiad geni’r plentyn;
+(c)
+enw a chyfeiriad ysgol y plentyn a’r awdurdod lleol perthnasol;
+(d)
+perthynas y ceisydd â’r plentyn;
+(e)
+enw a chyfeiriad pob person—
+(i)
+y mae ganddo gyfrifoldeb rhiant dros blentyn, neu
+(ii)
+sy’n rhannu cyfrifoldeb rhiant dros blentyn, neu
+(iii)
+sy’n gofalu am y plentyn,
+neu’r rhesymau pam na ddarperir enwau a chyfeiriadau’r personau hynny;
+(f)
+copi o benderfyniadau’r corff llywodraethu a’r awdurdod lleol o dan adran 84 o Ddeddf 2018 sy’n ymwneud â galluedd y plentyn;
+(g)
+y rheswm neu’r rhesymau dros wneud y cais;
+(h)
+tystiolaeth ategol o alluedd y plentyn, neu dystiolaeth ategol nad oes ganddo alluedd, o fewn ystyr adran 85(1) o Ddeddf 2018;
+(i)
+y datganiad a geisir.
+(3) Pan fo’n ymddangos i’r Llywydd neu’r panel tribiwnlys bod angen gwybodaeth bellach cyn y gall datganiad gael ei wneud, caiff y Llywydd neu’r panel tribiwnlys gyfarwyddo’r ceisydd i ddarparu’r wybodaeth honno.
+(4) Rhaid i Ysgrifennydd y Tribiwnlys gyflwyno hysbysiad ynghylch unrhyw ddatganiad a wneir o dan adran 71(2) o Ddeddf 2018 i’r ceisydd, y corff llywodraethu, yr awdurdod lleol a, phan fo’n briodol, y rheini a restrir ym mharagraff (2)(e).
+(5) Rhaid i Ysgrifennydd y Tribiwnlys gofnodi’r penderfyniad ac unrhyw ddatganiad yn y Gofrestr.
+Gwybodaeth Cychwyn
+I1
+Rhl. 59 mewn grym ar 1.9.2021, gweler rhl. 1Pwy a gaiff fod yn gyfaill achos
+60.  Ni chaiff person weithredu fel cyfaill achos ond os nad yw’r person hwnnw wedi ei wahardd rhag gweithgaredd rheoleiddiedig sy’n ymwneud â phlant o dan adran 3(2)(a) o Ddeddf Diogelu Grwpiau Hyglwyf 2006(1).
+Gwybodaeth Cychwyn
+I1
+Rhl. 60 mewn grym ar 1.9.2021, gweler rhl. 1
+(1)
+O dan adran 3(2)(a) o Ddeddf Diogelu Grwpiau Hyglwyf 2006 (p. 47), mae person wedi ei wahardd rhag gweithgaredd rheoleiddiedig sy’n ymwneud â phlant os yw enw’r person wedi ei gynnwys yn y rhestr yn Rhan 1 o Atodlen 3 i’r Ddeddf honno (“the children’s barred list”).Sut y daw person yn gyfaill achos
+61.—(1) Rhaid i berson sy’n dymuno gweithredu fel cyfaill achos gyflwyno cais yn ysgrifenedig i’r Tribiwnlys.
+(2) Rhaid i’r cais ddatgan—
+(a)
+enw a chyfeiriad y person sy’n dymuno gweithredu fel cyfaill achos y plentyn ac, os ydynt ar gael, rhif ffôn a chyfeiriad e-bost y person hwnnw;
+(b)
+enw a dyddiad geni’r plentyn;
+(c)
+enw a chyfeiriad ysgol y plentyn a’r awdurdod lleol perthnasol;
+(d)
+perthynas neu gysylltiad y person â’r plentyn;
+(e)
+datganiad o addasrwydd sy’n cadarnhau bod y person yn bodloni’r amodau a’r gofynion a bennir yn y Rheoliadau hyn ac yn adran 85(6) o Ddeddf 2018;
+(f)
+tystiolaeth ategol nad oes gan y plentyn alluedd o fewn ystyr adran 85(1) o Ddeddf 2018.
+(3) Rhaid i’r cais gynnwys—
+(a)
+safbwyntiau rhiant y plentyn mewn perthynas â dymuniad y person i weithredu fel y cyfaill achos, neu
+(b)
+esboniad pam nad yw’r person wedi canfod safbwyntiau’r rhiant.
+(4) Yn ddarostyngedig i baragraff (5), rhaid cyflwyno tystysgrif datgeliad manylach a ddyroddir gan y Gwasanaeth Datgelu a Gwahardd gyda’r datganiad addasrwydd.
+(5) Nid yw’r gofyniad ym mharagraff (4) yn gymwys pan fo’r person sy’n dymuno gweithredu fel y cyfaill achos yn rhiant, llys-riant, brawd, llysfrawd, hanner brawd, chwaer, llyschwaer, hanner chwaer, tad-cu/taid, mam-gu/nain, ewythr, modryb, nai neu nyth i’r plentyn.
+(6) Rhaid i Ysgrifennydd y Tribiwnlys—
+(a)
+cofnodi ar gofrestr y Tribiwnlys rif y dystysgrif datgeliad manylach ynghyd â’r dyddiad dechrau a’r dyddiad dod i ben, a
+(b)
+defnyddio’r gwasanaeth danfon cofnodedig i ddychwelyd y dystysgrif datgeliad manylach i’r person.
+(7) Rhaid i dystiolaeth i gefnogi addasrwydd y person i weithredu fel cyfaill achos gael ei chyflwyno gyda’r cais.
+(8) Rhaid i’r cais gael ei lofnodi gan y person sy’n dymuno gweithredu fel cyfaill achos y plentyn.
+(9) Rhaid i’r person sy’n dymuno gweithredu fel cyfaill achos y plentyn gyflwyno copi o’r cais i—
+(a)
+y partïon yn yr achos,
+(b)
+rhiant y plentyn, ac
+(c)
+ysgol y plentyn a’r awdurdod lleol.
+Gwybodaeth Cychwyn
+I1
+Rhl. 61 mewn grym ar 1.9.2021, gweler rhl. 1Camau mewn achosion
+62.—(1) Os yw’r Llywydd neu’r panel tribiwnlys yn ystod yr apêl neu’r hawliad yn gwneud canfyddiad nad oes gan blentyn sy’n apelydd neu’n hawlydd alluedd i ddeall o fewn ystyr adran 85(1) o Ddeddf 2018, ac y mae arno angen cyfaill achos i gynnal yr achos ar ei ran, ni chaiff unrhyw barti gymryd cam pellach yn yr apêl neu’r hawliad heb ganiatâd y Llywydd neu’r panel tribiwnlys, hyd nes y bydd ac oni fydd person sy’n dymuno gweithredu fel cyfaill achos yr apelydd neu’r hawlydd wedi cyflwyno cais i’r Tribiwnlys yn unol â rheoliad 61.
+(2) Pan fo’r Llywydd neu’r panel tribiwnlys wedi gorchymyn bod person yn gyfaill achos, rhaid i Ysgrifennydd y Tribiwnlys anfon copi o’r gorchymyn at y cyfaill achos, rhiant y plentyn ac i ysgol y plentyn a’r awdurdod lleol.
+(3) Pan fo’r Llywydd neu’r panel tribiwnlys wedi gorchymyn bod person yn gyfaill achos, rhaid i Ysgrifennydd y Tribiwnlys anfon yr holl ddogfennau a hysbysiadau sy’n ymwneud â’r apêl neu’r hawliad at y cyfaill achos yn hytrach nag at yr apelydd neu’r hawlydd.
+(4) Os yw paragraff (3) yn gymwys, rhaid dehongli cyfeiriadau yn y Rheoliadau hyn (sut bynnag y’u mynegir) at anfon dogfennau at yr apelydd neu’r hawlydd, neu at roi hysbysiad i’r apelydd neu’r hawlydd, fel cyfeiriadau at anfon dogfennau at y cyfaill achos, neu at roi hysbysiad i’r cyfaill achos.
+Gwybodaeth Cychwyn
+I1
+Rhl. 62 mewn grym ar 1.9.2021, gweler rhl. 1Diswyddo cyfaill achos
+63.—(1) Caiff y Llywydd neu’r panel tribiwnlys ddiswyddo cyfaill achos drwy orchymyn yn unol ag adran 85(2)(b) o Ddeddf 2018 ar ysgogiad y Llywydd neu’r panel tribiwnlys ei hun neu ar gais, os yw wedi ei fodloni—
+(a)
+nad yw’r person yn bodloni un neu ragor o’r amodau a nodir yn adran 85(6) o Ddeddf 2018, neu
+(b)
+bod rheswm da arall yn bodoli.
+(2) Rhaid i gais am orchymyn i ddiswyddo cyfaill achos gael ei gefnogi gan dystiolaeth.
+(3) Pan fo gorchymyn wedi ei wneud o dan baragraff (1), caiff y Llywydd neu’r panel tribiwnlys ohirio’r apêl neu’r hawliad hyd nes bod yr apelydd neu’r hawlydd wedi penodi cyfaill achos newydd.
+(4) Rhaid i Ysgrifennydd y Tribiwnlys gyflwyno hysbysiad i’r partïon ynghylch unrhyw orchymyn a wneir o dan baragraff (1) gan ddatgan—
+(a)
+nad yw’r person yn gweithredu mwyach fel cyfaill achos yr apelydd neu’r hawlydd, a
+(b)
+pan fo person arall wedi ei roi yn ei le fel cyfaill achos, enw a chyfeiriad y cyfaill achos newydd ar gyfer cyflwyno hysbysiadau a dogfennau.
+(5) Rhaid i Ysgrifennydd y Tribiwnlys gyflwyno copi o gyfarwyddyd a wneir o dan baragraff (1) i—
+(a)
+y person sydd wedi ei ddiswyddo fel y cyfaill achos,
+(b)
+rhiant y plentyn, ac
+(c)
+ysgol y plentyn a’r awdurdod lleol.
+Gwybodaeth Cychwyn
+I1
+Rhl. 63 mewn grym ar 1.9.2021, gweler rhl. 1Cyrff GIG – Adroddiadau i’r Tribiwnlys
+64.—(1) Rhaid i gorff GIG y gwnaed argymhelliad iddo gan y Tribiwnlys lunio adroddiad i’r Tribiwnlys cyn diwedd 6 wythnos gan ddechrau â’r dyddiad y gwneir yr argymhelliad.
+(2) Rhaid i Ysgrifennydd y Tribiwnlys anfon copi o’r adroddiad at bob parti.
+Gwybodaeth Cychwyn
+I1
+Rhl. 64 mewn grym ar 1.9.2021, gweler rhl. 1Estyn yr amser
+65.—(1) Yn ddarostyngedig i baragraff (2), caiff y Llywydd, ar gais parti neu ar ysgogiad y Llywydd ei hun, gyfarwyddo bod cyfnod o amser yn y Rheoliadau hyn neu mewn cyfarwyddyd a wneir odanynt, yn cael ei estyn.
+(2) Ni chaiff y Llywydd estyn cyfnod o amser yn unol â pharagraff (1) ond os yw’r Llywydd yn ystyried ei bod yn deg ac yn gyfiawn gwneud hynny.
+(3) Caiff y Llywydd estyn cyfnod o amser yn ôl unrhyw gyfnod y mae’r Llywydd yn meddwl ei fod yn addas.
+(4) Pan fo’r Llywydd wedi estyn cyfnod o amser, rhaid dehongli cyfeiriad at y cyfnod hwnnw o amser yn y Rheoliadau hyn, neu mewn cyfarwyddyd a wneir odanynt, fel pe bai’n gyfeiriad at y cyfnod o amser a estynnwyd felly.
+Gwybodaeth Cychwyn
+I1
+Rhl. 65 mewn grym ar 1.9.2021, gweler rhl. 1Tynnu’n ôl
+66.  Caiff person dynnu apêl neu hawliad yn ôl—
+(a)
+drwy roi hysbysiad i Ysgrifennydd y Tribiwnlys ar unrhyw adeg cyn gwrandawiad, neu
+(b)
+ar lafar mewn gwrandawiad.
+Gwybodaeth Cychwyn
+I1
+Rhl. 66 mewn grym ar 1.9.2021, gweler rhl. 1Gorchmynion ar gyfer costau a threuliau
+67.—(1) Fel rheol, ni chaiff y Llywydd neu Gadeirydd y panel tribiwnlys a benderfynodd yr achos wneud gorchymyn mewn cysylltiad â chostau a threuliau, ond, yn ddarostyngedig i baragraff (3), caiff wneud gorchymyn o’r fath—
+(a)
+yn erbyn parti os yw’r Llywydd neu’r Cadeirydd o’r farn bod y parti wedi bod yn gyfrifol am weithred neu anweithred amhriodol, afresymol neu esgeulus, neu am unrhyw fethiant i gydymffurfio â chyfarwyddyd, neu am unrhyw oedi y gellid, gyda diwydrwydd, fod wedi ei osgoi, neu fod ymddygiad y parti, wrth wneud neu wrthwynebu’r apêl neu’r hawliad, yn afresymol;
+(b)
+yn erbyn cynrychiolydd os yw’r Llywydd neu’r Cadeirydd o’r farn bod y cynrychiolydd yn gyfrifol am weithred neu anweithred amhriodol, afresymol neu esgeulus, neu am unrhyw fethiant i gydymffurfio â chyfarwyddyd, neu am unrhyw oedi y gellid, gyda diwydrwydd, fod wedi ei osgoi;
+(c)
+yn erbyn parti sydd wedi methu â bod yn bresennol neu gael ei gynrychioli mewn gwrandawiad yr hysbyswyd y parti hwnnw amdano yn briodol;
+(d)
+yn erbyn yr awdurdod lleol, corff llywodraethu’r SAB neu’r corff cyfrifol pan na fo wedi cyflwyno datganiad achos o dan reoliad 19;
+(e)
+yn erbyn yr awdurdod lleol, corff llywodraethu’r SAB neu’r corff cyfrifol pan fo’r Llywydd neu’r Cadeirydd yn ystyried bod y penderfyniad a herir yn afresymol.
+(2) Caniateir gwneud unrhyw orchymyn mewn cysylltiad â chostau a threuliau—
+(a)
+mewn perthynas ag unrhyw gostau a threuliau yr eir iddynt, neu unrhyw lwfansau a delir, neu
+(b)
+mewn perthynas â’r cyfan, neu unrhyw ran, o unrhyw lwfans (ac eithrio lwfansau a delir i aelodau o’r Tribiwnlys) a delir gan Weinidogion Cymru i unrhyw berson at ddibenion presenoldeb person mewn gwrandawiad Tribiwnlys neu mewn cysylltiad â’r presenoldeb hwnnw.
+(3) Caniateir gwneud gorchymyn ar gyfer costau ar gais parti neu ar ysgogiad y Llywydd neu’r Cadeirydd ei hun.
+(4) Rhaid i barti sy’n gwneud cais am orchymyn o dan baragraff (3)—
+(a)
+cyflwyno cais ysgrifenedig a rhestr o’r costau a hawlir i Ysgrifennydd y Tribiwnlys, a
+(b)
+cyflwyno copi o’r cais a’r rhestr o gostau i’r person y bwriedir gwneud y gorchymyn yn ei erbyn.
+(5) Caniateir gwneud cais am orchymyn o dan baragraff (3) ar unrhyw adeg yn ystod yr apêl neu’r hawliad ond ni chaniateir ei wneud yn hwyrach nag 28 o ddiwrnodau gan ddechrau â’r dyddiad—
+(a)
+pan ddyroddodd y panel tribiwnlys yr hysbysiad o benderfyniad a oedd yn cofnodi’r penderfyniad a oedd yn penderfynu’n derfynol ar yr holl faterion yn yr apêl neu’r hawliad,
+(b)
+ar ôl tynnu’n ôl yr apêl neu’r hawliad, pan wnaeth y panel tribiwnlys orchymyn a oedd yn gwrthod yr apêl neu’r hawliad, neu
+(c)
+yn dilyn ildiad yr awdurdod lleol i’r apêl, pan ddyroddodd y panel tribiwnlys yr hysbysiad o benderfyniad.
+(6) Yn achos cais am orchymyn o dan baragraff (3)—
+(a)
+rhaid i’r Llywydd neu’r Cadeirydd ei wrthod os yw parti yn gofyn i’r Tribiwnlys ystyried mater sydd y tu allan i’w bwerau;
+(b)
+caiff y Llywydd neu’r Cadeirydd ei wrthod yn gyfan gwbl neu’n rhannol os, ym marn y Llywydd neu’r Cadeirydd, nad oes siawns resymol i’r cais cyfan hwnnw neu’r rhan honno lwyddo.
+(7) Oni wrthodir cais am orchymyn o dan baragraff (6), rhaid ei benderfynu ar ôl rhoi cyfle i’r parti a’r person y bwriedir gwneud y gorchymyn ei erbyn i gael eu clywed gan y Llywydd neu’r Cadeirydd.
+(8) Os gwneir gorchymyn o dan baragraff (3), caiff y Llywydd neu’r Cadeirydd roi cyfarwyddydau y mae rhaid cydymffurfio â hwy cyn neu yn ystod y gwrandawiad costau.
+(9) Os yw parti yn methu â chydymffurfio â chyfarwyddyd a roddir o dan baragraff (8), caiff y Llywydd neu’r Cadeirydd ystyried y ffaith honno wrth benderfynu pa un ai i wneud gorchymyn ar gyfer costau.
+(10) Caiff gorchymyn o dan baragraff (3) ei gwneud yn ofynnol i’r parti neu’r cynrychiolydd y gwneir y gorchymyn yn ei erbyn dalu i barti naill ai swm penodedig mewn cysylltiad â’r costau a’r treuliau y mae’r parti arall hwnnw yn mynd iddynt mewn cysylltiad â’r apêl neu’r hawliad, neu’r cyfan neu ran o’r costau hynny, fel y’u hasesir, os na chytunir arnynt fel arall.
+(11) Rhaid i orchymyn o dan y rheoliad hwn ar gyfer asesu costau ganiatáu i’r llys sirol wneud asesiad manwl o gostau yn unol â Rheolau Trefniadaeth Sifil 1998, naill ai ar y sail safonol neu, os pennir hynny yn y gorchymyn, ar sail indemniad.
+Gwybodaeth Cychwyn
+I1
+Rhl. 67 mewn grym ar 1.9.2021, gweler rhl. 1Pŵer i arfer swyddogaethau’r Llywydd a’r Cadeirydd
+68.—(1) Caiff Cadeirydd arfer unrhyw swyddogaeth y mae’n ofynnol i’r Llywydd ei harfer, neu yr awdurdodir y Llywydd i’w harfer, o dan y Rheoliadau hyn.
+(2) Pan, yn unol â pharagraff (1)—
+(a)
+bo’n ofynnol i Gadeirydd ddewis Cadeirydd i banel tribiwnlys, caiff Cadeirydd ddewis ei hunan;
+(b)
+bo Cadeirydd yn gwneud penderfyniad, mae rheoliadau 53 a 55 yn gymwys mewn perthynas â’r penderfyniad hwnnw fel pe baent yn cyfeirio at Gadeirydd yn lle’r Llywydd.
+(3) Yn ddarostyngedig i reoliad 73(6), os bydd farw’r Cadeirydd neu os â’n analluog, neu os yw’n peidio â bod yn aelod o’r panel cadeirydd cyfreithiol, yn dilyn penderfyniad o’r panel tribiwnlys, caiff y Llywydd neu Gadeirydd arall a benodir o’r panel cadeirydd cyfreithiol arfer swyddogaethau’r Cadeirydd.
+Gwybodaeth Cychwyn
+I1
+Rhl. 68 mewn grym ar 1.9.2021, gweler rhl. 1Pŵer i arfer swyddogaethau aelod o’r panel mewn perthynas ag adolygiad
+69.—(1) Os bydd farw aelod o’r panel tribiwnlys ac eithrio’r Cadeirydd, neu os â’n analluog, neu os yw person yn peidio â bod yn aelod o’r panel lleyg, yn dilyn penderfyniad o’r panel tribiwnlys, caiff y ddau aelod arall o’r panel ymgymryd â swyddogaethau’r panel tribiwnlys mewn perthynas ag unrhyw adolygiad o benderfyniad.
+(2) Nid yw’r rheoliad hwn yn gymwys i banel tribiwnlys—
+(a)
+a gyfansoddir o ddau aelod;
+(b)
+yr awdurdodir unrhyw berson i weithredu yn lle’r Cadeirydd ynddo yn unol â rheoliad 68.
+Gwybodaeth Cychwyn
+I1
+Rhl. 69 mewn grym ar 1.9.2021, gweler rhl. 1Ysgrifennydd y Tribiwnlys
+70.  Caiff aelod arall o staff y Tribiwnlys a awdurdodir gan y Llywydd gyflawni unrhyw un neu ragor o swyddogaethau Ysgrifennydd y Tribiwnlys.
+Gwybodaeth Cychwyn
+I1
+Rhl. 70 mewn grym ar 1.9.2021, gweler rhl. 1Y Gofrestr
+71.—(1) Rhaid i Ysgrifennydd y Tribiwnlys gadw Cofrestr o’r apelau a’r hawliadau a gofrestrir gan y Tribiwnlys.
+(2) Rhaid gwneud cofnod yn y Gofrestr o bob apêl a hawliad a gofrestrir, a rhaid i’r cofnod ym mhob achos gynnwys y manylion a ganlyn pan fo’n briodol—
+(a)
+enwau a chyfeiriadau’r partïon,
+(b)
+manylion cryno am natur yr apêl neu’r hawliad,
+(c)
+dyddiad unrhyw wrandawiad, gan gynnwys unrhyw wrandawiad ar faterion rhagarweiniol neu gysylltiedig, a phan fo’n briodol, natur y gwrandawiad,
+(d)
+manylion unrhyw gyfarwyddydau neu orchmynion a ddyroddir,
+(e)
+y ddogfen y cofnodwyd penderfyniad y panel tribiwnlys ynddi o dan reoliad 52(3), ac
+(f)
+a yw’r apêl neu’r hawliad wedi ei thynnu neu ei dynnu yn ôl.
+(3) Caniateir cadw’r Gofrestr neu unrhyw ran ohoni ar ffurf electronig.
+Gwybodaeth Cychwyn
+I1
+Rhl. 71 mewn grym ar 1.9.2021, gweler rhl. 1Cyhoeddi
+72.—(1) Caiff y Llywydd wneud unrhyw drefniadau y mae’r Llywydd yn ystyried eu bod yn briodol ar gyfer cyhoeddi penderfyniadau’r panel tribiwnlys.
+(2) Caniateir cyhoeddi penderfyniadau yn electronig.
+(3) Caniateir cyhoeddi penderfyniad ar ffurf sydd wedi ei golygu, neu’n ddarostyngedig i unrhyw ddileadau, pan fo’r Llywydd yn ystyried bod hynny’n briodol, ar ôl rhoi sylw i—
+(a)
+yr angen i ddiogelu lles a buddiannau’r plentyn, y person ifanc, neu unrhyw berson arall,
+(b)
+yr angen i barchu bywyd preifat unrhyw berson, neu
+(c)
+unrhyw sylwadau ar y mater a ddarparwyd yn ysgrifenedig gan unrhyw berson i’r Llywydd neu’r panel tribiwnlys ar unrhyw adeg cyn cyhoeddi, o dan y trefniadau a wneir o dan baragraff (1).
+(4) Rhaid cyhoeddi penderfyniad y panel tribiwnlys mewn modd a fydd yn sicrhau bod enw’r plentyn neu’r person ifanc yn parhau’n anhysbys.
+Gwybodaeth Cychwyn
+I1
+Rhl. 72 mewn grym ar 1.9.2021, gweler rhl. 1Afreoleidd-dra
+73.—(1) Ni chaiff afreoleidd-dra, sy’n deillio o fethiant i gydymffurfio ag unrhyw ddarpariaeth yn y Rheoliadau hyn, o gyfarwyddyd ymarfer(1), neu o unrhyw gyfarwyddyd gan y Llywydd neu’r panel tribiwnlys cyn i’r panel tribiwnlys wneud ei benderfyniad beri, ynddo’i hun, fod yr achos yn ddi-rym.
+(2) Pan fo unrhyw afreoleidd-dra o’r fath yn dod i sylw’r panel tribiwnlys, caiff y panel tribiwnlys, os yw’n ystyried y gall unrhyw berson fod wedi ei ragfarnu gan yr afreoleidd-dra, roi unrhyw gyfarwyddydau y mae’n meddwl eu bod yn gyfiawn, cyn gwneud ei benderfyniad i gywiro’r afreoleidd-dra.
+(3) Caiff y Cadeirydd neu’r Llywydd (yn ôl y digwydd), ar unrhyw adeg, gywiro camgymeriadau clercol mewn unrhyw ddogfen sy’n cofnodi cyfarwyddyd neu benderfyniad y panel tribiwnlys neu gyfarwyddyd neu benderfyniad y Llywydd a luniwyd gan neu ar ran y Tribiwnlys, neu wallau mewn dogfennau o’r fath a achoswyd gan lithriadau neu hepgoriadau damweiniol, drwy gyfrwng tystysgrif a lofnodir gan y Cadeirydd neu’r Llywydd.
+(4) Rhaid i Ysgrifennydd y Tribiwnlys, cyn gynted ag y bo’n ymarferol, anfon copi at bob parti o unrhyw ddogfen gywiredig sy’n cynnwys rhesymau dros benderfyniad y panel tribiwnlys.
+(5) Pan fo person wedi penodi cynrychiolydd yn unol â rheoliad 16, rhaid i Ysgrifennydd y Tribiwnlys (er gwaethaf rheoliad 13(11)(a)) anfon copi o’r ddogfen y cyfeirir ati ym mharagraff (4) at y person yn ogystal ag at y cynrychiolydd.
+(6) Pan fo’r Rheoliadau hyn yn ei gwneud yn ofynnol i’r Cadeirydd lofnodi dogfen, ond na all y Cadeirydd wneud hynny oherwydd marwolaeth neu analluedd, rhaid i aelodau eraill y panel tribiwnlys lofnodi’r ddogfen ac ardystio na all y Cadeirydd ei llofnodi.
+Gwybodaeth Cychwyn
+I1
+Rhl. 73 mewn grym ar 1.9.2021, gweler rhl. 1
+(1)
+Gweler adran 61(2) o Ddeddf Cymru 2017 (p. 4) am bwerau i wneud cyfarwyddydau ymarfer.Profi dogfennau ac ardystio penderfyniadau
+74.—(1) Mae dogfen sy’n honni bod yn ddogfen a ddyroddwyd gan Ysgrifennydd y Tribiwnlys ar ran y Llywydd neu’r panel tribiwnlys, oni phrofir i’r gwrthwyneb, i’w hystyried yn ddogfen a ddyroddwyd felly.
+(2) Mae dogfen sy’n honni ei bod wedi ei hardystio gan Ysgrifennydd y Tribiwnlys fel copi gwir o ddogfen sy’n cynnwys penderfyniad y panel tribiwnlys, oni phrofir i’r gwrthwyneb, yn dystiolaeth ddigonol o gynnwys y ddogfen honno.
+Gwybodaeth Cychwyn
+I1
+Rhl. 74 mewn grym ar 1.9.2021, gweler rhl. 1Y dull o anfon, rhoi neu gyflwyno hysbysiadau a dogfennau
+75.—(1) Rhaid i hysbysiad a roddir o dan y Rheoliadau hyn fod yn ysgrifenedig, a rhaid i barti y mae’r Rheoliadau hyn yn ei gwneud yn ofynnol iddo hysbysu Ysgrifennydd y Tribiwnlys am fater, wneud hynny yn ysgrifenedig.
+(2) Rhaid i hysbysiadau a dogfennau i’w darparu o dan y Rheoliadau hyn gael—
+(a)
+eu hanfon drwy’r post rhagdaledig at Ysgrifennydd y Tribiwnlys neu eu danfon â llaw i swyddfa’r Tribiwnlys neu i unrhyw swyddfa arall y mae Ysgrifennydd y Tribiwnlys yn hysbysu’r partïon amdani,
+(b)
+eu hanfon drwy e-bost i’r cyfeiriad a bennir ar gyfer y Tribiwnlys, neu
+(c)
+eu hanfon neu eu danfon drwy unrhyw ddull arall a ganiateir neu a gyfarwyddir gan y Tribiwnlys.
+(3) Ni chaiff parti sy’n anfon hysbysiad neu ddogfen i’r Tribiwnlys drwy e-bost drin yr hysbysiad neu’r ddogfen fel pe bai wedi ei ddanfon neu ei danfon oni cheir cydnabyddiaeth o hynny gan y Tribiwnlys.
+(4) Yn ddarostyngedig i baragraff (5), os yw parti yn darparu cyfeiriad e-bost neu fanylion eraill ar gyfer cyflwyno hysbysiadau neu ddogfennau iddo, rhaid i’r parti hwnnw dderbyn danfon dogfennau ato drwy’r dull hwnnw.
+(5) Os yw parti yn rhoi gwybod i’r Tribiwnlys ac i’r parti arall na chaniateir defnyddio dull cyfathrebu penodol, ac eithrio’r post rhagdaledig neu ddanfon â llaw, i ddarparu dogfennau i’r parti hwnnw, ni chaniateir defnyddio’r dull cyfathrebu hwnnw.
+(6) Os yw’r Tribiwnlys neu barti yn anfon dogfen at barti neu i’r Tribiwnlys drwy e-bost neu unrhyw ddull cyfathrebu electronig arall, caiff y derbynnydd ofyn i’r anfonwr ddarparu copi caled o’r ddogfen i’r derbynnydd. Rhaid i’r derbynnydd wneud cais o’r fath cyn gynted ag y bo’n rhesymol ymarferol ar ôl cael y ddogfen yn electronig.
+(7) Caiff y Tribiwnlys a phob parti gymryd mai’r cyfeiriad a ddarperir gan barti neu gynrychiolydd yw’r cyfeiriad y mae rhaid anfon neu ddanfon dogfennau iddo, ac y bydd yn parhau felly, oni chânt hysbysiad ysgrifenedig i’r gwrthwyneb.
+(8) Caniateir i’r hysbysiadau a’r dogfennau y mae’r Rheoliadau hyn yn awdurdodi’r Llywydd, y panel tribiwnlys neu Ysgrifennydd y Tribiwnlys i’w hanfon, neu’n ei gwneud yn ofynnol iddo anfon, gael eu hanfon (yn ddarostyngedig i baragraff (10)), naill ai drwy’r post dosbarth cyntaf neu e-bost, neu drwy eu danfon—
+(a)
+yn achos parti—
+(i)
+i gyfeiriad y parti hwnnw ar gyfer cyflwyno a bennir yn y cais apelio neu’r cais hawlio neu mewn ateb ysgrifenedig neu mewn hysbysiad o dan baragraff (9), neu
+(ii)
+os nad oes cyfeiriad ar gyfer cyflwyno wedi ei bennu felly, i’r cyfeiriad diwethaf sy’n hysbys ar gyfer y parti hwnnw, a
+(b)
+yn achos unrhyw berson arall, i breswylfa neu fan busnes y person hwnnw, neu, os yw’r person yn gorfforaeth, i swyddfa gofrestredig neu brif swyddfa’r gorfforaeth.
+(9) Caiff parti, ar unrhyw adeg, drwy roi hysbysiad i Ysgrifennydd y Tribiwnlys newid cyfeiriad y parti hwnnw ar gyfer cyflwyno o dan y Rheoliadau hyn.
+(10) Rhaid defnyddio’r gwasanaeth danfon cofnodedig yn lle’r post dosbarth cyntaf i gyflwyno gwŷs a ddyroddir o dan reoliad 45, sy’n gwneud presenoldeb tyst yn ofynnol.
+(11) Rhaid cymryd bod hysbysiad neu ddogfen a anfonwyd gan y Tribiwnlys drwy’r post dosbarth cyntaf yn unol â’r Rheoliadau hyn, ac nas dychwelwyd i’r Tribiwnlys, wedi ei gael neu ei chael gan y derbynnydd ar yr ail ddiwrnod gwaith ar ôl y dyddiad postio, oni ddangosir i’r gwrthwyneb.
+(12) Rhaid tybio, oni ddangosir i’r gwrthwyneb, mai’r dyddiad a ddangosir yn y marc post ar yr amlen sy’n cynnwys yr hysbysiad neu’r ddogfen yw’r dyddiad postio.
+(13) Rhaid cymryd bod hysbysiad neu ddogfen a anfonir gan y Tribiwnlys at barti drwy ddefnyddio e-bost wedi ei ddanfon neu ei danfon pan geir yr hysbysiad neu’r ddogfen ar ffurf ddarllenadwy.
+(14) Pan na ellir, am unrhyw reswm digonol, gyflwyno unrhyw ddogfen neu hysbysiad yn y dull a ragnodir o dan y rheoliad hwn, caiff y Llywydd neu’r panel tribiwnlys hepgor y cyflwyno, neu wneud gorchymyn ar gyfer cyflwyno mewn unrhyw ddull arall y mae’r Llywydd neu’r panel tribiwnlys yn barnu ei fod yn briodol, a rhaid bod cyflwyno yn y dull arall hwnnw yn cael yr un effaith â chyflwyno yn y dull a ragnodir o dan y rheoliad hwn.
+Gwybodaeth Cychwyn
+I1
+Rhl. 75 mewn grym ar 1.9.2021, gweler rhl. 1Cyfrifo amser
+76.—(1) Rhaid i weithred y mae’r Rheoliadau hyn, cyfarwyddyd ymarfer neu gyfarwyddyd yn ei gwneud yn ofynnol iddi gael ei gwneud ar ddiwrnod penodol neu erbyn diwrnod penodol gael ei gwneud erbyn 5pm ar y diwrnod hwnnw.
+(2) Os yw’r amser a bennir gan y Rheoliadau hyn, gan gyfarwyddyd ymarfer neu gan gyfarwyddyd ar gyfer gwneud unrhyw weithred yn gorffen ar ddiwrnod nad yw’n ddiwrnod gwaith, mae’r weithred wedi ei gwneud mewn pryd os yw wedi ei gwneud ar y diwrnod gwaith canlynol.
+(3) Os yw’r amser ar gyfer cychwyn achos drwy ddarparu’r cais apelio neu’r cais hawlio i’r Tribiwnlys o dan reoliad 10 yn gorffen ar ddiwrnod yn y cyfnod sy’n dechrau â 25 Rhagfyr ac sy’n dod i ben ag 1 Ionawr, neu ar unrhyw ddiwrnod ym mis Awst—
+(a)
+mae’r cais apelio neu’r cais hawlio wedi ei ddarparu mewn pryd os yw’r Tribiwnlys yn ei gael ar y diwrnod gwaith cyntaf ar ôl 1 Ionawr neu 31 Awst, fel y bo’n briodol, a
+(b)
+ni chaniateir cynnwys y diwrnodau yn y cyfnod sy’n dechrau â 25 Rhagfyr ac sy’n dod i ben ag 1 Ionawr nac unrhyw ddiwrnod ym mis Awst wrth gyfrifo’r amser erbyn pryd y mae rhaid gwneud unrhyw weithred arall.
+(4) Nid yw paragraff (3)(b) yn gymwys pan fo’r Tribiwnlys yn cyfarwyddo bod rhaid i weithred gael ei gwneud erbyn dyddiad penodedig neu ar y dyddiad hwnnw.
+Gwybodaeth Cychwyn
+I1
+Rhl. 76 mewn grym ar 1.9.2021, gweler rhl. 1Llofnodi dogfennau
+77.  Pan fo’r Rheoliadau hyn yn ei gwneud yn ofynnol i ddogfen gael ei llofnodi, mae’r gofyniad hwnnw wedi ei fodloni—
+(a)
+os yw’r llofnod wedi ei ysgrifennu, neu
+(b)
+yn achos dogfen a gyfathrebir yn electronig yn unol â’r Rheoliadau hyn, gan lofnod electronig y person y mae’n ofynnol iddo ei llofnodi.
+Gwybodaeth Cychwyn
+I1
+Rhl. 77 mewn grym ar 1.9.2021, gweler rhl. 1Kirsty Williams
+Y Gweinidog Addysg, un o Weinidogion Cymru
+Am 2.10 p.m. ar 24 Mawrth 2021NODYN ESBONIADOL
+(Nid yw’r nodyn hwn yn rhan o’r Rheoliadau)
+Mae’r Rheoliadau hyn yn nodi’r weithdrefn i’w dilyn mewn achosion gerbron Tribiwnlys Addysg Cymru. Mae’r Rheoliadau hyn yn gwneud darpariaeth ynghylch arfer awdurdodaeth y Tribiwnlys hwnnw o dan Ran 2 o Ddeddf Anghenion Dysgu Ychwanegol a’r Tribiwnlys Addysg (Cymru) 2018, sy’n ymwneud ag apelau anghenion dysgu ychwanegol, a Phennod 1 o Ran 6 o Ddeddf Cydraddoldeb 2010, sy’n ymwneud â hawliadau o wahaniaethu ar sail anabledd mewn cysylltiad â disgyblion ysgol.
+Ystyriwyd Cod Ymarfer Gweinidogion Cymru ar gynnal Asesiadau Effaith Rheoleiddiol mewn perthynas â’r Rheoliadau hyn. O ganlyniad, lluniwyd asesiad effaith rheoleiddiol o’r costau a’r manteision sy’n debygol o ddeillio o gydymffurfio â’r Rheoliadau hyn. Gellir cael copi oddi wrth: Llywodraeth Cymru, Parc Cathays, Caerdydd, CF10 3NQ ac ar wefan Llywodraeth Cymru ar www.llyw.cymru.

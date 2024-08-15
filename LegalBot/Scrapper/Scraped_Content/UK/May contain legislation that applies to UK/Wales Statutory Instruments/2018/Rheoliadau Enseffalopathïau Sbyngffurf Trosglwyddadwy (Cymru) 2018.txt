@@ -1,0 +1,1250 @@
+OFFERYNNAU STATUDOL CYMRU
+2018 Rhif 968 (Cy. 195)
+ANIFEILIAID, CYMRU
+IECHYD ANIFEILIAID
+Rheoliadau Enseffalopathïau Sbyngffurf Trosglwyddadwy (Cymru) 2018
+Gwnaed
+4 Medi 2018
+Gosodwyd gerbron Cynulliad Cenedlaethol Cymru
+6 Medi 2018
+Yn dod i rym
+1 Hydref 2018
+Mae Gweinidogion Cymru wedi eu dynodi(1) at ddibenion adran 2(2) o Ddeddf y Cymunedau Ewropeaidd 1972(2) mewn perthynas â mesurau yn y meysydd milfeddygol a ffytoiechydol ar gyfer diogelu iechyd y cyhoedd.
+Mae Gweinidogion Cymru yn gwneud y Rheoliadau hyn o dan y pwerau a roddir gan adran 2(2) o Ddeddf y Cymunedau Ewropeaidd 1972(3), a pharagraff 1A o Atodlen 2 iddi.
+Mae Gweinidogion Cymru wedi cynnal yr ymgynghoriad sy’n ofynnol gan Erthygl 9 o Reoliad (EC) Rhif 178/2002(4) Senedd Ewrop a’r Cyngor sy’n gosod egwyddorion cyffredinol a gofynion cyfraith bwyd, yn sefydlu Awdurdod Diogelwch Bwyd Ewrop ac yn gosod gweithdrefnau o ran materion diogelwch bwyd.
+(1)
+O.S. 2008/1792.
+(2)
+1972 p. 68.
+(3)
+Mewnosodwyd paragraff 1A o Atodlen 2 gan adran 28 o Ddeddf Diwygio Deddfwriaethol a Rheoleiddiol 2006 (p. 51).
+(4)
+OJ Rhif L 31, 1.2.2002, t. 1.Enwi, cymhwyso a chychwyn
+1.—(1) Enw’r Rheoliadau hyn yw Rheoliadau Enseffalopathïau Sbyngffurf Trosglwyddadwy (Cymru) 2018.
+(2) Mae’r Rheoliadau hyn yn gymwys o ran Cymru.
+(3) Daw’r Rheoliadau hyn i rym ar 1 Hydref 2018.Dehongli
+2.—(1) Yn y Rheoliadau hyn—
+mae “anifail buchol” (“bovine animal”) yn cynnwys bualod a byfflos (gan gynnwys byfflos dŵr);
+ystyr “arolygydd” (“inspector”) yw arolygydd a benodwyd o dan reoliad 13, ac ystyr “arolygydd milfeddygol” (“veterinary inspector”) yw milfeddyg a benodwyd yn arolygydd gan Weinidogion Cymru;
+ystyr “awdurdod lleol” (“local authority”) mewn perthynas ag ardal yw’r cyngor sir neu’r cyngor bwrdeistref sirol ar gyfer yr ardal honno;
+ystyr “BSE” (“BSE”) yw enseffalopathi sbyngffurf buchol;
+ystyr “bwyd anifeiliaid cyfansawdd” (“compound feed”) yw cymysgedd o o leiaf ddau ddeunydd bwyd anifeiliaid, pa un a yw’n cynnwys ychwanegion bwyd anifeiliaid ai peidio, ar gyfer ei fwydo drwy’r geg i anifeiliaid ar ffurf bwyd anifeiliaid cyflawn neu gydategol;
+ystyr “deunydd risg penodedig” (“specified risk material”) yw’r meinweoedd a bennir yn Atodiad V i Reoliad TSE yr UE ac, oni nodir fel arall, nid yw’n cynnwys cynhyrchion sy’n cynnwys y meinweoedd hynny neu sy’n deillio ohonynt;
+ystyr “y gofynion TSE” (“the TSE requirements”) yw’r gofynion hynny yn Rheoliad TSE yr UE a nodir yn rheoliad 5 ac Atodlen 1;
+mae i “lladd-dy” yr ystyr a roddir i “slaughterhouse” ym mharagraff 1.16 o Atodiad I i Reoliad (EC) Rhif 853/2004, ac mae’n sefydliad a gymeradwywyd neu a gymeradwywyd yn amodol fel y cyfryw gan yr Asiantaeth Safonau Bwyd o dan Erthygl 31(2) o Reoliad (EC) Rhif 882/2004;
+mae “mangre” (“premises”) yn cynnwys—
+(a)
+mangre ddomestig os defnyddir hi at unrhyw ddiben mewn cysylltiad â Rheoliad TSE yr UE neu’r Rheoliadau hyn;
+(b)
+tir ac adeiladau allanol;
+(c)
+lladd-dy;
+(d)
+safle torri;
+(e)
+man sydd, at ddibenion pwynt 4.1(a) o Atodiad V, yn fan cigydda arall; ac
+(f)
+unrhyw gerbyd, cynhwysydd neu strwythur (symudol neu fel arall);
+mae i “offal” yr ystyr a roddir i “offal” ym mhwynt 1.11 o Atodiad I i Reoliad (EC) Rhif 853/2004;
+mae i “pasbort gwartheg” (“cattle passport”) yr un ystyr ag yn Rheoliadau Adnabod Gwartheg (Cymru) 2007(1);
+ystyr “Penderfyniad y Comisiwn 2007/411/EC” (“Commission Decision 2007/411/EC”) yw Penderfyniad y Comisiwn 2007/411/EC(2) sy’n gwahardd rhoi ar y farchnad gynhyrchion sy’n deillio o anifeiliaid buchol a anwyd neu a fagwyd yn y Deyrnas Unedig cyn 1 Awst 1996, at unrhyw ddiben, ac yn esemptio anifeiliaid o’r fath rhag mesurau rheoli a dileu penodol a osodir yn Rheoliad TSE yr UE;
+ystyr “person wedi ei hyfforddi” (“trained person”) yw unrhyw berson—
+(a)
+sydd wedi ei hyfforddi i gymryd samplau o anifeiliaid buchol marw, a
+(b)
+y mae gweithredwr y safle wedi ei fodloni ei fod yn gymwys i ymgymryd â samplu o’r fath;
+ystyr “Rheoliad (EC) Rhif 853/2004” (“Regulation (EC) No 853/2004”) yw Rheoliad (EC) Rhif 853/2004 Senedd Ewrop a’r Cyngor sy’n gosod rheolau hylendid penodol ar gyfer bwyd sy’n dod o anifeiliaid, fel y’i darllenir ar y cyd ag—
+(a)
+Cyfarwyddeb 2004/41/EC(3) Senedd Ewrop a’r Cyngor sy’n diddymu cyfarwyddebau penodol ynglŷn â hylendid bwyd ac amodau iechyd ar gyfer cynhyrchu a rhoi ar y farchnad gynhyrchion penodol sy’n dod o anifeiliaid ac a fwriedir ar gyfer eu bwyta gan bobl;
+(b)
+Rheoliad y Comisiwn (EC) Rhif 1688/2005(4) sy’n gweithredu Rheoliad (EC) Rhif 853/2004 Senedd Ewrop a’r Cyngor o ran gwarantau arbennig ynglŷn â salmonela ar gyfer traddodi mathau penodol o gig ac wyau i’r Ffindir a Sweden; ac
+(c)
+Rheoliad y Comisiwn (EC) Rhif 2074/2005(5) sy’n gosod mesurau gweithredu ar gyfer cynhyrchion penodol o dan Reoliad (EC) Rhif 853/2004 Senedd Ewrop a’r Cyngor ac ar gyfer trefnu rheolaethau swyddogol o dan Reoliad (EC) Rhif 854/2004 Senedd Ewrop a’r Cyngor a Rheoliad (EC) Rhif 882/2004 Senedd Ewrop a’r Cyngor sy’n rhanddirymu Rheoliad (EC) Rhif 852/2004(6) Senedd Ewrop a’r Cyngor ac yn diwygio Rheoliadau (EC) Rhif 853/2004 ac (EC) Rhif 854/2004;
+ystyr “Rheoliad (EC) Rhif 882/2004” (“Regulation (EC) No 882/2004”) yw Rheoliad (EC) Rhif 882/2004 Senedd Ewrop a’r Cyngor ar reolaethau swyddogol a gyflawnir i sicrhau y gwirir cydymffurfedd â chyfraith bwyd anifeiliaid a bwyd, rheolau iechyd anifeiliaid a lles anifeiliaid, fel y’i darllenir ar y cyd â Rheoliad y Comisiwn (EC) Rhif 2074/2005 a Rheoliad y Comisiwn (EC) Rhif 2076/2005;
+ystyr “Rheoliad (EC) Rhif 1069/2009” (“Regulation (EC) No 1069/2009”) yw Rheoliad (EC) Rhif 1069/2009(7) Senedd Ewrop a’r Cyngor sy’n gosod rheolau iechyd mewn cysylltiad â sgil-gynhyrchion anifeiliaid a chynhyrchion deilliedig nad ydynt wedi eu bwriadu ar gyfer eu bwyta gan bobl, fel y’i gweithredir gan Reoliad y Comisiwn (EU) Rhif 142/2011(8);
+ystyr “Rheoliad TSE yr UE” (“the EU TSE Regulation”) yw Rheoliad (EC) Rhif 999/2001(9) Senedd Ewrop a’r Cyngor sy’n gosod rheolau ar gyfer atal, rheoli a dileu enseffalopathïau sbyngffurf trosglwyddadwy penodol, fel y’i darllenir ar y cyd ag—
+(a)
+Penderfyniad y Comisiwn 2007/411/EC;
+(b)
+Penderfyniad y Comisiwn 2007/453/EC(10) sy’n pennu statws BSE Aelod-wladwriaethau neu drydydd gwledydd neu ranbarthau ohonynt yn unol â’u risg BSE; ac
+(c)
+Penderfyniad y Comisiwn 2009/719/EC(11) sy’n awdurdodi Aelod-wladwriaethau penodol i ddiwygio eu rhaglen fonitro BSE flynyddol;
+mae i “safle torri” yr ystyr a roddir i “cutting plant” ym mharagraff 1.17 o Atodiad I i Reoliad (EC) Rhif 853/2004(12), ac mae’n sefydliad a gymeradwywyd neu a gymeradwywyd yn amodol fel y cyfryw gan yr Asiantaeth Safonau Bwyd(13) o dan Erthygl 31(2) o Reoliad (EC) Rhif 882/2004(14), neu sy’n gweithredu fel y cyfryw o dan Erthygl 4(5) o Reoliad (EC) Rhif 853/2004, hyd nes y ceir cymeradwyaeth o’r fath;
+ystyr “trydedd wlad” (“third country”) yw unrhyw wlad nad yw’n aelod o’r Undeb Ewropeaidd;
+ystyr “TSE” (“TSE”) yw enseffalopathi sbyngffurf trosglwyddadwy.
+(2) Mae gan ymadroddion nad ydynt wedi eu diffinio yn y Rheoliadau hyn ac sy’n ymddangos yn Rheoliad TSE yr UE yr un ystyr yn y Rheoliadau hyn ag sydd ganddynt at ddibenion Rheoliad TSE yr UE.
+(3) Mae’r cyfeiriadau yn y Rheoliadau hyn at Erthyglau neu Atodiadau yn gyfeiriadau at Erthyglau ac Atodiadau yn Rheoliad TSE yr UE oni nodir fel arall.
+(1)
+O.S. 2007/842 (Cy. 74), fel y’i diwygiwyd gan O.S. 2007/3004 (Cy. 260), O.S. 2013/821 (Cy. 97) ac O.S. 2014/517 (Cy. 60).
+(2)
+OJ Rhif L 155, 15.6.2007, t. 74.
+(3)
+OJ Rhif L 157, 30.4.2004, t. 33. Nodir testun diwygiedig Cyfarwyddeb 2004/41/EC mewn Corigendwm (OJ Rhif L 195, 2.6.2004, t. 12).
+(4)
+OJ Rhif L 271, 15.10.2005, t. 17, fel y’i diwygiwyd ddiwethaf gan Reoliad Gweithredu’r Comisiwn (EU) Rhif 1223/2011 (OJ Rhif L 314, 29.11.2011, t. 12).
+(5)
+OJ Rhif L 338, 22.12.2005, t. 27, fel y’i diwygiwyd ddiwethaf gan Reoliad y Comisiwn (EU) Rhif 2017/1973 (OJ Rhif L 281, 31.10.2017, t. 21).
+(6)
+OJ Rhif L139, 30.4.2004, t. 1, fel y’i diwygiwyd ddiwethaf gan Reoliad (EC) Rhif 219/2009 Senedd Ewrop a’r Cyngor (OJ Rhif L 87, 31.3.2009, t. 109).
+(7)
+OJ L Rhif 300, 14.11.2009, t. 1, fel y’i diwygiwyd ddiwethaf gan Reoliad y Cyngor (EU) Rhif 1385/2013 (OJ Rhif L 354, 28.12.2013, t. 86).
+(8)
+OJ L 54, 26.2.2011, t. 1, fel y’i diwygiwyd ddiwethaf gan Reoliad y Comisiwn (EU) Rhif 1262/2017 (OJ Rhif L 182, 13.7.2017, t. 34).
+(9)
+OJ Rhif L 147, 31.5.2001, t. 1, fel y’i diwygiwyd ddiwethaf gan Reoliad y Comisiwn (EU) Rhif 2018/969 (OJ Rhif L 174, 10.7.2018, t. 12).
+(10)
+OJ Rhif L 172, 30.6.2007, t. 84, fel y’i diwygiwyd ddiwethaf gan Benderfyniad Gweithredu’r Comisiwn 2017/1396/EU (OJ Rhif L 197, 28.7.2017, t. 9).
+(11)
+OJ Rhif L 256, 29.9.2009, t. 35, fel y’i diwygiwyd ddiwethaf gan Benderfyniad Gweithredu’r Comisiwn 2016/851/EU (OJ Rhif L 141, 28.5.2016, t. 131).
+(12)
+OJ Rhif L 139, 30.04.2004, t. 55, fel y’i diwygiwyd ddiwethaf gan Reoliad y Comisiwn (EU) Rhif 1981/2017 (OJ Rhif L 285, 1.11.2017, t. 10).
+(13)
+Sefydlwyd gan Ddeddf Safonau Bwyd 1999 (p. 28).
+(14)
+OJ Rhif L 165, 30.4.2004, t. 1, fel y’i diwygiwyd ddiwethaf gan Reoliad y Comisiwn (EU) Rhif 2018/455 (OJ Rhif L 77, 20.3.2018, t. 4).Penodi awdurdod cymwys
+3.  Gweinidogion Cymru yw’r awdurdod cymwys at ddibenion Rheoliad TSE yr UE ac eithrio fel a bennir fel arall yn y Rheoliadau hyn.Anifeiliaid a fwriedir ar gyfer ymchwil
+4.—(1) Nid yw darpariaethau Atodlenni 2 i 8 yn gymwys mewn perthynas ag anifeiliaid a gedwir at ddibenion ymchwil mewn mangre a gymeradwywyd at y diben hwnnw gan Weinidogion Cymru o dan y rheoliad hwn.
+(2) Os bydd farw neu os lleddir anifail buchol, defeidiog neu afraidd, neu ei epil, a gedwir mewn mangre ymchwil, rhaid i’r meddiannydd waredu’r anifail fel sgil-gynnyrch anifail Categori 1 yn unol â Rheoliad (EC) Rhif 1069/2009, ac mae methu â gwneud hynny yn drosedd.Y Gofynion TSE
+5.—(1) At ddibenion Erthygl 11, pan fo person ag unrhyw anifail yn ei feddiant neu o dan ei reolaeth yr amheuir ei fod wedi ei heintio â TSE rhaid i’r person hwnnw hysbysu Gweinidogion Cymru ar unwaith a chadw’r anifail yn y daliad hyd nes y bydd arolygydd milfeddygol wedi ei archwilio.
+(2) Pan fo arolygydd milfeddygol yn archwilio neu’n arolygu anifail ac yn amau’n rhesymol fod yr anifail wedi ei heintio â TSE, rhaid i’r arolygydd milfeddygol hysbysu Gweinidogion Cymru ar unwaith am yr amheuaeth honno.
+(3) Pan fo person yn archwilio carcas anifail mewn labordy ac yn amau’n rhesymol fod TSE yn bresennol, rhaid i’r person hwnnw hysbysu Gweinidogion Cymru ar unwaith, a chadw’r carcas hyd nes y bydd arolygydd milfeddygol wedi awdurdodi ei waredu.
+(4) Mae’r gofynion TSE yn Atodlen 1 yn gymwys.
+(5) Rhaid i feddiannydd lladd-dy gydymffurfio â’r gofyniad i gymryd samplau neu hwyluso cymryd samplau gan arolygydd sy’n deillio o ofynion monitro TSE Gweinidogion Cymru yn Atodiad 3.
+(6) Yn unol ag Erthygl 12, rhaid i berson sydd ag anifeiliaid a osodir o dan gyfyngiad swyddogol ar symud gydymffurfio ag—
+(a)
+unrhyw gyfarwyddiadau a roddir gan arolygydd a chydweithredu â Gweinidogion Cymru i gyflawni’r gofynion monitro TSE yn Atodiad III;
+(b)
+unrhyw gyfarwyddiadau a roddir gan arolygydd a chydweithredu â Gweinidogion Cymru i gymryd y camau i reoli a dileu TSE yn Atodiad VII;
+(c)
+y gofynion yn Atodiad IV ar gyfer cynhyrchu, defnyddio cyfarpar, pecynnu, storio a chludo bwyd anifeiliaid;
+(d)
+y gofynion bwydo anifeiliaid yn Atodiad IV;
+(e)
+y gwaharddiadau sy’n ymwneud â bwydo anifeiliaid yn Erthygl 7, oni bai bod y cynhyrchion bwyd anifeiliaid yn cael eu cynhyrchu gan ddefnyddio prosesau cynhyrchu a gweithgynhyrchu a gymeradwywyd gan Gomisiwn yr UE;
+(f)
+y gofynion o ran ymdrin â deunydd risg penodedig yn Erthygl 8 ac Atodiad V ac Atodlen 7;
+(g)
+y cyfyngiadau yn Atodiad VIII ac Atodlen 8 ynghylch rhoi anifeiliaid neu gynhyrchion ar y farchnad neu ar gyfer eu hallforio.Cymhwyso’r Atodlenni
+6.  Mae’r Atodlenni a ganlyn yn cael effaith—
+(a)
+Atodlen 2 (Monitro ar gyfer TSE a chymeradwyo labordai);
+(b)
+Atodlen 3 (Rheoli a dileu TSE mewn anifeiliaid buchol);
+(c)
+Atodlen 4 (Rheoli a dileu TSE mewn anifeiliaid defeidiog a gafraidd);
+(d)
+Atodlen 5 (Rheoli a dileu TSE mewn anifeiliaid nad ydynt yn fuchol, yn ddefeidiog nac yn afraidd);
+(e)
+Atodlen 6 (Bwydydd anifeiliaid);
+(f)
+Atodlen 7 (Deunydd risg penodedig, cig a wahenir yn fecanyddol a thechnegau cigydda); ac
+(g)
+Atodlen 8 (Cyfyngiadau ar roi ar y farchnad ac allforio).Cymeradwyo, awdurdodi, trwyddedu neu gofrestru
+7.—(1) Rhaid i Weinidogion Cymru roi cymeradwyaeth, awdurdodiad, trwydded neu gofrestriad o dan y Rheoliadau hyn os ydynt wedi eu bodloni y cydymffurfir â darpariaethau Rheoliad TSE yr UE a’r Rheoliadau hyn.
+(2) Rhaid i gymeradwyaeth, awdurdodiad, trwydded neu gofrestriad fod mewn ysgrifen a rhaid iddi neu iddo bennu—
+(a)
+cyfeiriad y fangre;
+(b)
+enw’r meddiannydd; ac
+(c)
+y diben y’i rhoddir ar ei gyfer.
+(3) Caniateir i gymeradwyaeth, awdurdodiad, trwydded neu gofrestriad gael ei gwneud neu ei wneud yn ddarostyngedig i’r amodau hynny sy’n angenrheidiol er mwyn—
+(a)
+sicrhau y cydymffurfir â darpariaethau Rheoliad TSE yr UE a’r Rheoliadau hyn; neu
+(b)
+diogelu iechyd y cyhoedd neu iechyd anifeiliaid.
+(4) Pan fônt yn gwrthod rhoi cymeradwyaeth, awdurdodiad, trwydded neu gofrestriad, neu’n rhoi un yn ddarostyngedig i amodau, rhaid i Weinidogion Cymru—
+(a)
+rhoi rhesymau mewn ysgrifen; a
+(b)
+egluro bod hawl gan y ceisydd i gyflwyno sylwadau ysgrifenedig i berson a benodir gan Weinidogion Cymru.
+(5) Yna bydd y weithdrefn apelio yn rheoliad 11 yn gymwys.Dyletswydd y meddiannydd
+8.  Mae meddiannydd unrhyw fangre a gymeradwyir, a awdurdodir, a drwyddedir neu a gofrestrir o dan y Rheoliadau hyn yn cyflawni trosedd oni bai ei fod yn sicrhau—
+(a)
+bod y fangre yn cael ei chynnal a’i gweithredu yn unol ag—
+(i)
+unrhyw amod o’r gymeradwyaeth, yr awdurdodiad, y drwydded neu’r cofrestriad;
+(ii)
+gofynion Rheoliad TSE yr UE a’r Rheoliadau hyn; a
+(b)
+bod unrhyw berson a gyflogir ganddo, ac unrhyw berson y caniateir iddo fynd i’r fangre, yn cydymffurfio â’r amodau a’r gofynion hynny.Atal dros dro a diwygio
+9.—(1) Caiff Gweinidogion Cymru atal dros dro neu ddiwygio cymeradwyaeth, awdurdodiad, trwydded neu gofrestriad a roddwyd o dan y Rheoliadau hyn—
+(a)
+os na chyflawnwyd unrhyw un neu ragor o’r amodau y’i rhoddwyd oddi tanynt; neu
+(b)
+os yw Gweinidogion Cymru wedi eu bodloni na chydymffurfir â darpariaethau Rheoliad TSE yr UE neu ddarpariaethau’r Rheoliadau hyn.
+(2) Caiff Gweinidogion Cymru ddiwygio cymeradwyaeth, awdurdodiad, trwydded neu gofrestriad a roddwyd o dan y Rheoliadau hyn os yw Gweinidogion Cymru yn ystyried bod hynny’n angenrheidiol yng ngoleuni datblygiadau technegol neu wyddonol.
+(3) Mewn perthynas ag ataliad dros dro neu ddiwygiad—
+(a)
+caiff gael effaith ar unwaith os yw Gweinidogion Cymru yn ystyried bod hynny’n angenrheidiol er mwyn diogelu iechyd y cyhoedd neu iechyd anifeiliaid; a
+(b)
+fel arall, caiff gael effaith ar ôl i gyfnod o 21 o ddiwrnodau o leiaf ddod i ben.
+(4) Rhaid i’r hysbysiad am yr ataliad dros dro neu’r diwygiad—
+(a)
+bod mewn ysgrifen;
+(b)
+datgan pa bryd y bydd yr ataliad dros dro neu’r diwygiad yn cael effaith;
+(c)
+rhoi’r rhesymau; a
+(d)
+egluro bod hawl gan y person a hysbyswyd i gyflwyno sylwadau ysgrifenedig i berson a benodir gan Weinidogion Cymru.
+(5) Yna bydd y weithdrefn apelio yn rheoliad 11 yn gymwys.
+(6) Os nad yw’r ataliad dros dro neu’r diwygiad yn cael effaith ar unwaith a bod sylwadau’n cael eu cyflwyno o dan reoliad 11, ni chaiff gael effaith hyd nes bod Gweinidogion Cymru yn penderfynu ar yr apêl yn derfynol, oni bai bod Gweinidogion Cymru yn ystyried ei bod yn angenrheidiol i’r ataliad dros dro neu’r diwygiad gael effaith cyn hynny er mwyn diogelu iechyd y cyhoedd neu iechyd anifeiliaid.Dirymu cymeradwyaeth, awdurdodiad, trwydded neu gofrestriad
+10.—(1) Caiff Gweinidogion Cymru ddirymu cymeradwyaeth, awdurdodiad, trwydded neu gofrestriad a roddwyd o dan y Rheoliadau hyn os yw Gweinidogion Cymru wedi eu bodloni na fydd y fangre yn cael ei rhedeg yn unol â Rheoliad TSE yr UE neu’r Rheoliadau hyn ac—
+(a)
+os yw wedi ei hatal neu ei atal dros dro ar hyn o bryd a’r cyfnod ar gyfer apelio o dan reoliad 11 wedi dod i ben neu’r ataliad dros dro wedi ei gadarnhau yn dilyn apêl o’r fath;
+(b)
+os oedd wedi ei hatal neu ei atal dros dro yn flaenorol ac y bu anghydffurfio pellach â Rheoliad TSE yr UE neu’r Rheoliadau hyn; neu
+(c)
+os yw Gweinidogion Cymru wedi eu bodloni nad yw’r meddiannydd bellach yn defnyddio’r fangre at y diben y’i rhoddwyd ar ei gyfer.
+(2) Rhaid i’r hysbysiad am y dirymiad—
+(a)
+bod mewn ysgrifen;
+(b)
+datgan pa bryd y bydd y dirymiad yn cael effaith;
+(c)
+rhoi’r rhesymau; a
+(d)
+egluro bod hawl gan y person a hysbyswyd i gyflwyno sylwadau ysgrifenedig i berson a benodir gan Weinidogion Cymru.
+(3) Os yw Gweinidogion Cymru yn dirymu cymeradwyaeth, awdurdodiad, trwydded neu gofrestriad o dan baragraff (1)(b) neu (1)(c) bydd y weithdrefn apelio yn rheoliad 11 yn gymwys, ond bydd y dirymiad yn parhau mewn grym yn ystod y weithdrefn apelio honno.Y weithdrefn apelio
+11.—(1) Pan fo’r weithdrefn apelio yn y rheoliad hwn yn gymwys, caiff person gyflwyno sylwadau ysgrifenedig i berson a benodir at y diben hwnnw gan Weinidogion Cymru ynglŷn ag unrhyw benderfyniad gan Weinidogion Cymru, o fewn 21 o ddiwrnodau ar ôl hysbysu’r person hwnnw am y penderfyniad.
+(2) Caiff Gweinidogion Cymru hefyd gyflwyno sylwadau ysgrifenedig i’r person a benodir ynglŷn â’r penderfyniad o fewn 21 o ddiwrnodau i gael sylwadau’r apelydd.
+(3) Yna rhaid i’r person a benodir gyflwyno adroddiad mewn ysgrifen i Weinidogion Cymru.
+(4) Rhaid i Weinidogion Cymru roi hysbysiad ysgrifenedig i’r apelydd am benderfyniad terfynol Gweinidogion Cymru a’r rhesymau drosto.
+(5) Oni bai bod Gweinidogion Cymru yn ystyried bod angen cymryd camau ar unwaith er mwyn diogelu iechyd y cyhoedd neu iechyd neu les anifeiliaid, ni chaniateir iddynt ladd unrhyw anifail na difa unrhyw beth o dan y Rheoliadau hyn—
+(a)
+hyd nes y bydd y cyfnod o 21 o ddiwrnodau wedi dod i ben heb i unrhyw apêl gael ei chyflwyno; neu
+(b)
+os gwneir apêl, hyd nes i’r apêl honno gael ei phenderfynu neu ei thynnu yn ôl.Prisiadau
+12.—(1) Mae’r rheoliad hwn yn gymwys pan fo prisiad yn angenrheidiol o dan y Rheoliadau hyn.
+(2) Caiff y perchennog a Gweinidogion Cymru gytuno ar brisiad.
+(3) Os na all y perchennog a Gweinidogion Cymru gytuno ar brisiad, cânt enwebu prisiwr ar y cyd i gynnal prisiad.
+(4) Os na all y perchennog a Gweinidogion Cymru gytuno ar bwy ddylai’r prisiwr fod, rhaid i’r prisiad gael ei gynnal gan brisiwr sydd â’i enw ar restr a gynhelir gan Weinidogion Cymru, ac a enwebir gan Lywydd Sefydliad Brenhinol y Syrfewyr Siartredig, neu gan Lywydd Cymdeithas Ganolog y Priswyr Amaethyddol, yn ôl fel y penderfynir gan Weinidogion Cymru.
+(5) Rhaid i’r prisiwr gynnal y prisiad a’i gyflwyno ynghyd ag unrhyw wybodaeth a dogfennaeth berthnasol arall i Weinidogion Cymru, a darparu copi i’r perchennog.
+(6) Mae hawl gan y perchennog a chynrychiolydd Gweinidogion Cymru i fod yn bresennol yn ystod prisiad.
+(7) Mae’r prisiad yn rhwymo’r perchennog a Gweinidogion Cymru.
+(8) Yn y rheoliad hwn, ystyr “perchennog” (“owner”) yw perchennog yr anifail neu’r cynnyrch o dan sylw.Penodi arolygwyr
+13.—(1) Ac eithrio fel a bennir ym mharagraff (2), caiff Gweinidogion Cymru a’r awdurdod lleol benodi arolygwyr at ddibenion gorfodi’r Rheoliadau hyn.
+(2) Caiff yr Asiantaeth Safonau Bwyd benodi arolygwyr at ddibenion gorfodi Atodlenni 7 ac 8 mewn perthynas â lladd-dy neu safle torri.
+(3) Caniateir i benodiad arolygydd (pa un ai o dan baragraff (1) neu (2)) fod yn gyfyngedig i bwerau a dyletswyddau a bennir yn y penodiad.Pwerau mynediad
+14.—(1) Caiff arolygydd, ar ôl rhoi rhybudd rhesymol, fynd i unrhyw fangre (ac eithrio os defnyddir hi yn llwyr neu’n bennaf fel annedd breifat) ar unrhyw adeg resymol at ddiben gweithredu neu orfodi Rheoliad TSE yr UE neu’r Rheoliadau hyn.
+(2) Rhaid i’r arolygydd, os gofynnir iddo wneud hynny, ddangos rhyw ddogfen sydd wedi ei dilysu yn briodol ac sy’n dangos ei awdurdod cyn arfer ei hawl o dan baragraff (1).
+(3) Nid yw’r gofyniad i roi rhybudd o dan baragraff (1) yn gymwys pan fo—
+(a)
+y meddiannydd wedi hepgor y gofyniad;
+(b)
+ymdrechion rhesymol i adnabod y meddiannydd wedi methu;
+(c)
+ymdrechion rhesymol i gytuno ar apwyntiad wedi methu; neu
+(d)
+pan fo gan arolygydd amheuaeth resymol o fethiant i gydymffurfio â Rheoliad TSE yr UE neu’r Rheoliadau hyn.
+(4) Caiff arolygydd fynd â’r personau eraill hynny y mae’n ystyried eu bod yn angenrheidiol gydag ef.
+(5) Os yw arolygydd yn mynd i unrhyw fangre sydd heb ei meddiannu neu (pan fo’r fangre wedi ei meddiannu) os yw meddiannydd y fangre yn absennol dros dro, rhaid iddo adael y fangre honno (i’r graddau y bo’n ymarferol resymol) wedi ei diogelu yr un mor effeithiol rhag mynediad anawdurdodedig ag ydoedd cyn dyfodiad yr arolygydd.
+(6) Os yw ynad heddwch, ar ôl cael gwybodaeth mewn ysgrifen ar lw, wedi ei fodloni bod sail resymol dros fynd i unrhyw fangre (gan gynnwys tŷ annedd) at ddibenion gorfodi Rheoliad TSE yr UE a’r Rheoliadau hyn, a—
+(a)
+bod mynediad wedi ei wrthod, neu y disgwylir iddo gael ei wrthod, ac (yn y naill achos neu’r llall) fod hysbysiad o gais am warant wedi ei roi i’r meddiannydd;
+(b)
+y byddai gofyn am gael mynediad, neu roi hysbysiad o’r fath, yn mynd yn groes i’r amcan o fynd i mewn;
+(c)
+bod yr achos yn achos brys; neu
+(d)
+bod y fangre heb ei meddiannu neu fod y meddiannydd yn absennol dros dro,
+caiff yr ynad, drwy warant a lofnodwyd, awdurdodi arolygydd i fynd i’r fangre, gan ddefnyddio grym rhesymol pe bai angen.
+(7) Mae gwarant o dan y rheoliad hwn yn ddilys am un mis.Pwerau arolygwyr
+15.—(1) Caiff arolygydd—
+(a)
+ymafael yn unrhyw—
+(i)
+anifail;
+(ii)
+corff anifail, ac unrhyw rannau o’r corff (gan gynnwys y gwaed a’r croen) ac unrhyw semen, embryo neu ofwm;
+(iii)
+protein anifeiliaid neu fwydydd anifeiliaid a all gynnwys protein anifeiliaid; neu
+(iv)
+llaeth neu gynnyrch llaeth,
+a’u gwaredu yn ôl yr angen;
+(b)
+cynnal unrhyw ymholiadau, ymchwiliadau, archwiliadau a phrofion;
+(c)
+casglu, corlannu ac arolygu unrhyw anifail ac at y pwrpas hwn caiff ei gwneud yn ofynnol bod ceidwad unrhyw anifail o’r fath yn trefnu i gasglu a chorlannu’r anifail;
+(d)
+arolygu unrhyw gorff anifail ac unrhyw rannau o’r corff (gan gynnwys y gwaed a’r croen) ac unrhyw semen, embryo neu ofwm;
+(e)
+arolygu unrhyw ran o’r fangre, unrhyw gyfarpar, cyfleuster, gwaith neu weithdrefn;
+(f)
+cymryd unrhyw samplau;
+(g)
+ymafael yn unrhyw basbort gwartheg neu ei gadw;
+(h)
+cael mynediad i unrhyw gofnodion (ym mha ffurf bynnag y’u delir), eu harolygu a’u copïo, er mwyn penderfynu a gydymffurfir â’r Rheoliadau hyn, gan gynnwys cofnodion a gedwir o dan Reoliad TSE yr UE a’r Rheoliadau hyn, neu fynd â chofnodion o’r fath ymaith er mwyn galluogi iddynt gael eu copïo;
+(i)
+cael mynediad i unrhyw gyfrifiadur, ac unrhyw gyfarpar neu ddeunydd cysylltiedig a ddefnyddir neu a ddefnyddiwyd mewn cysylltiad ag unrhyw gofnod, eu harolygu a gwirio eu gweithrediad; ac at y diben hwn, caiff ei gwneud yn ofynnol bod unrhyw berson sy’n gyfrifol am weithredu’r cyfrifiadur, y cyfarpar neu’r deunydd, neu’n gysylltiedig fel arall â’u gweithredu, yn rhoi iddo ba bynnag gymorth y mae’n rhesymol i’r arolygydd ei gwneud yn ofynnol (gan gynnwys darparu unrhyw gyfrineiriau angenrheidiol iddo), a phan gedwir cofnod ar gyfrifiadur, caiff ei gwneud yn ofynnol bod y cofnodion yn cael eu cynhyrchu ar ffurf sy’n caniatáu eu cludo ymaith;
+(j)
+marcio unrhyw beth (gan gynnwys anifail) yn electronig neu fel arall, at y diben o’i adnabod; a
+(k)
+cloi neu selio unrhyw gynhwysydd neu storfa.
+(2) Mae unrhyw berson sy’n difwyno, yn difodi neu’n tynnu unrhyw farc neu sêl, neu’n tynnu unrhyw glo, a osodwyd o dan baragraff (1) yn cyflawni trosedd.
+(3) Nid yw arolygydd yn atebol yn bersonol am unrhyw beth a wneir—
+(a)
+wrth weithredu neu honni gweithredu’r Rheoliadau hyn; a
+(b)
+o fewn cwmpas ei gyflogaeth,
+os oedd yr arolygydd yn gweithredu gan gredu yn onest bod dyletswydd yr arolygydd o dan y Rheoliadau hyn yn ei gwneud yn ofynnol ei fod yn ei wneud, neu’n rhoi’r hawl iddo i’w wneud; ond nid yw hyn yn effeithio ar unrhyw atebolrwydd ar ran cyflogwr yr arolygydd.Hysbysiadau
+16.—(1) Os yw hynny’n angenrheidiol, am unrhyw reswm sy’n gysylltiedig â gorfodi Rheoliad TSE yr UE neu’r Rheoliadau hyn, caiff arolygydd gyflwyno hysbysiad—
+(a)
+i berchennog neu geidwad unrhyw anifail;
+(b)
+i’r person sy’n meddu ar gorff neu unrhyw ran o gorff anifail (gan gynnwys y gwaed a’r croen) neu unrhyw semen, embryo neu ofwm;
+(c)
+i’r person sy’n meddu ar unrhyw brotein anifeiliaid neu fwydydd anifeiliaid a all gynnwys protein anifeiliaid, neu sy’n eu cyflenwi; neu
+(d)
+i berchennog, neu’r person sy’n meddu ar, unrhyw laeth neu gynhyrchion llaeth.
+(2) Rhaid i’r hysbysiad fod mewn ysgrifen.
+(3) Caiff yr hysbysiad—
+(a)
+gwahardd neu ei gwneud yn ofynnol symud unrhyw anifail i mewn neu allan o’r fangre a bennir yn yr hysbysiad;
+(b)
+gwahardd symud unrhyw laeth neu gynhyrchion llaeth o’r fangre a bennir yn yr hysbysiad;
+(c)
+pennu’r rhannau hynny o’r fangre y caniateir neu na chaniateir i anifail gael mynediad iddynt;
+(d)
+ei gwneud yn ofynnol bod unrhyw anifail yn cael ei ladd neu ei gigydda;
+(e)
+gwahardd neu ei gwneud yn ofynnol symud corff unrhyw anifail neu unrhyw ran o gorff (gan gynnwys gwaed a chroen) unrhyw anifail, unrhyw brotein anifeiliaid neu fwydydd anifeiliaid a all gynnwys protein anifeiliaid, ac unrhyw semen, embryo neu ofwm anifeiliaid i mewn neu allan o’r fangre a bennir yn yr hysbysiad;
+(f)
+ei gwneud yn ofynnol bod corff neu unrhyw ran o gorff (gan gynnwys gwaed a chroen) unrhyw anifail (pa un a yw’n anifail yr oedd yn ofynnol ei ddal dan gadw ai peidio) ac unrhyw semen, embryo, ofwm, llaeth neu gynnyrch llaeth a bennir yn yr hysbysiad yn cael eu gwaredu;
+(g)
+ei gwneud yn ofynnol bod unrhyw brotein anifeiliaid neu fwydydd anifeiliaid a all gynnwys protein anifeiliaid yn cael eu gwaredu neu bennu sut y maent i’w defnyddio;
+(h)
+ei gwneud yn ofynnol bod unrhyw brotein anifeiliaid neu fwydydd anifeiliaid a all gynnwys protein anifeiliaid yn cael eu hadalw;
+(i)
+ei gwneud yn ofynnol bod meddiannydd lladd-dy—
+(i)
+yn cymryd sampl o anifeiliaid yn unol â pharagraff 4 o Atodlen 2, neu
+(ii)
+yn caniatáu i filfeddyg swyddogol gymryd sampl o anifeiliaid yn unol â pharagraff 4 o Atodlen 2;
+(j)
+ei gwneud yn ofynnol bod y fangre gyfan neu unrhyw ran o’r fangre (ac unrhyw gyfarpar cysylltiedig) yn cael eu glanhau a’u diheintio pan fo arolygydd yn amau bod risg i iechyd y cyhoedd neu iechyd anifeiliaid; neu
+(k)
+ei gwneud yn ofynnol cymryd unrhyw gam y mae arolygydd yn credu’n rhesymol ei fod yn angenrheidiol er mwyn rheoli lledaeniad clefyd.
+(4) Caiff hysbysiad bennu’r modd y bydd rhaid cydymffurfio â’r hysbysiad, a phennu terfynau amser.
+(5) Rhaid cydymffurfio â hysbysiad ar draul y person y cyflwynir yr hysbysiad iddo, ac oni chydymffurfir ag ef caiff arolygydd drefnu ar gyfer cydymffurfio ag ef ar draul y person hwnnw.
+(6) Mae methu â chydymffurfio â hysbysiad yn drosedd.Cyflwyno hysbysiadau
+17.—(1) Rhaid i unrhyw hysbysiad a gyflwynir o dan y Rheoliadau hyn fod mewn ysgrifen a chaniateir ei ddiwygio, ei atal dros dro neu ei ddirymu ar unrhyw adeg.
+(2) Caniateir cyflwyno unrhyw hysbysiad o’r fath drwy—
+(a)
+ei ddanfon i’r person;
+(b)
+ei adael ym mhriod gyfeiriad y person; neu
+(c)
+ei anfon at y person drwy’r post neu drwy gyfrwng electronig yn y cyfeiriad hwnnw.
+(3) Caniateir cyflwyno unrhyw hysbysiad o’r fath—
+(a)
+yn achos corff corfforaethol, i un o swyddogion y corff;
+(b)
+yn achos partneriaeth, i bartner neu berson a chanddo reolaeth ar, neu sy’n rheoli, busnes y bartneriaeth; ac
+(c)
+yn achos cymdeithas anghorfforedig, i un o swyddogion y gymdeithas.
+(4) At ddibenion y rheoliad hwn, ystyr “priod gyfeiriad” (“proper address”) yw—
+(a)
+yn achos corff corfforaethol neu un o swyddogion y corff hwnnw—
+(i)
+cyfeiriad swyddfa gofrestredig neu brif swyddfa’r corff hwnnw, neu
+(ii)
+cyfeiriad e-bost y swyddog;
+(b)
+yn achos partneriaeth, partner neu berson a chanddo reolaeth ar, neu sy’n rheoli, busnes y bartneriaeth—
+(i)
+cyfeiriad prif swyddfa’r bartneriaeth, neu
+(ii)
+cyfeiriad e-bost y partner neu’r person a chanddo’r rheolaeth honno, neu sy’n rheoli felly;
+(c)
+yn achos cymdeithas anghorfforedig neu un o swyddogion y gymdeithas—
+(i)
+cyfeiriad prif swyddfa’r gymdeithas, neu
+(ii)
+cyfeiriad e-bost y swyddog; a
+(d)
+mewn unrhyw achos arall, y cyfeiriad hysbys diwethaf ar gyfer person, gan gynnwys cyfeiriad e-bost.
+(5) At ddiben paragraff (4), prif swyddfa corff corfforaethol sy’n gofrestredig y tu allan i’r Deyrnas Unedig neu bartneriaeth neu bartneriaeth Albanaidd a sefydlwyd y tu allan i’r Deyrnas Unedig yw ei brif swyddfa neu ei phrif swyddfa yn y Deyrnas Unedig.
+(6) Os na ellir dod o hyd i enw neu gyfeiriad unrhyw feddiannydd mangre y mae hysbysiad i’w gyflwyno iddo o dan y Rheoliadau hyn, ar ôl gwneud ymholiadau rhesymol, caniateir cyflwyno’r hysbysiad drwy ei adael wedi ei osod yn weladwy ar adeilad neu wrthrych yn y fangre.
+(7) Caiff hysbysiad bennu bod person sy’n ei gael yn rhoi gwybod ar unwaith i arolygydd ei fod wedi ei gael yn ddiogel.
+(8) Rhaid i berson gydymffurfio â thelerau unrhyw hysbysiad a gyflwynir, a roddir neu a arddangosir o dan y Rheoliadau hyn.
+(9) Yn y rheoliad hwn—
+mae “corff corfforaethol” (“body corporate”) yn cynnwys partneriaeth atebolrwydd cyfyngedig,
+ystyr “cyfarwyddwr” (“director”), mewn perthynas â chorff corfforaethol y mae ei faterion yn cael eu rheoli gan ei aelodau, yw aelod o’r corff corfforaethol,
+nid yw “partneriaeth” (“partnership”) yn cynnwys partneriaeth atebolrwydd cyfyngedig,
+ystyr “swyddog” (“officer”) mewn perthynas â chorff corfforaethol, yw unrhyw gyfarwyddwr, rheolwr, ysgrifennydd neu swyddog tebyg arall o’r corff corfforaethol.Hysbysiadau sy’n cyfyngu ar symud
+18.—(1) Os cyflwynir hysbysiad sy’n cyfyngu ar symudiadau unrhyw anifail neu gynnyrch, caiff arolygwyr wedi hynny ganiatáu symud o dan awdurdod trwydded.
+(2) Rhaid i’r person sy’n cludo’r anifail neu’r cynnyrch o dan awdurdod trwydded fynd â’r drwydded gydag ef yn ystod unrhyw symudiad, a’i dangos i unrhyw arolygydd sy’n gofyn am gael ei gweld, ac mae methu â gwneud hynny yn drosedd.Troseddau eraill
+19.  Mae person yn cyflawni trosedd os yw’r person hwnnw—
+(a)
+yn fwriadol yn rhwystro arolygydd sy’n gweithredu o dan y Rheoliadau hyn;
+(b)
+heb achos rhesymol, yn methu â rhoi unrhyw gymorth neu wybodaeth i arolygydd sy’n gweithredu o dan y Rheoliadau hyn neu’n methu â darparu unrhyw gyfleusterau y mae’r arolygydd yn rhesymol yn ei gwneud yn ofynnol bod y person hwnnw yn eu rhoi neu’n eu darparu er mwyn i’r arolygydd gyflawni ei swyddogaethau o dan y Rheoliadau hyn;
+(c)
+yn rhoi gwybodaeth ffug neu gamarweiniol i arolygydd sy’n gweithredu o dan y Rheoliadau hyn;
+(d)
+yn methu â dangos cofnod pan fo’n ofynnol iddo wneud hynny gan arolygydd sy’n gweithredu o dan y Rheoliadau hyn;
+(e)
+yn methu â chydymffurfio â gofynion unrhyw hysbysiad neu drwydded a gyflwynwyd neu a ddyroddwyd o dan y Rheoliadau hyn; neu
+(f)
+yn methu â chydymffurfio â’r gofynion TSE.Cosbau
+20.  Mae person sy’n euog o drosedd o dan y Rheoliadau hyn yn agored, o’i euogfarnu’n ddiannod, i ddirwy.Troseddau corfforaethol
+21.—(1) Os dangosir bod trosedd o dan y Rheoliadau hyn a gyflawnwyd gan gorff corfforaethol—
+(a)
+wedi ei chyflawni gyda chydsyniad neu ymoddefiad swyddog; neu
+(b)
+i’w phriodoli i unrhyw esgeulustod ar ei ran,
+mae’r swyddog yn ogystal â’r corff corfforaethol yn agored i gael ei erlyn.
+(2) Os rheolir materion corff corfforaethol gan ei aelodau, mae paragraff (1) yn gymwys mewn perthynas â gweithredoedd a diffyg gweithredoedd aelod mewn cysylltiad â’i swyddogaethau rheoli, fel pe bai’n un o gyfarwyddwyr y corff.
+(3) Os dangosir bod trosedd o dan y Rheoliadau hyn a gyflawnwyd gan bartneriaeth—
+(a)
+wedi ei chyflawni gyda chydsyniad neu ymoddefiad partner; neu
+(b)
+i’w phriodoli i unrhyw esgeulustod ar ei ran,
+mae’r partner yn ogystal â’r bartneriaeth yn agored i gael ei erlyn.
+(4) Os dangosir bod unrhyw drosedd o dan y Rheoliadau hyn a gyflawnwyd gan gymdeithas anghorfforedig, ac eithrio partneriaeth—
+(a)
+wedi ei chyflawni gyda chydsyniad neu ymoddefiad un o swyddogion y gymdeithas neu aelod o’i chorff llywodraethu; neu
+(b)
+i’w phriodoli i unrhyw esgeulustod ar ran y swyddog neu’r aelod hwnnw,
+mae’r swyddog neu’r aelod hwnnw yn ogystal â’r gymdeithas yn agored i gael ei erlyn.
+(5) Yn y rheoliad hwn—
+mae “partner” (“partner”) yn cynnwys person sy’n honni ei fod yn gweithredu fel partner; ac
+ystyr “swyddog” (“officer”), mewn perthynas â chorff corfforaethol neu gymdeithas anghorfforedig, yw cyfarwyddwr, aelod o’r pwyllgor rheoli, prif weithredwr, rheolwr, ysgrifennydd neu swyddog cyffelyb arall y corff, neu berson sy’n honni ei fod yn gweithredu yn rhinwedd unrhyw swydd o’r fath.Gorfodi
+22.—(1) Gorfodir Atodlen 2 mewn lladd-dai a safleoedd torri gan Weinidogion Cymru.
+(2) Gorfodir Atodlen 7 a pharagraff 1 o Atodlen 8 mewn lladd-dai a safleoedd torri gan yr Asiantaeth Safonau Bwyd.
+(3) Fel arall, gorfodir y Rheoliadau hyn gan yr awdurdod lleol.
+(4) Mewn perthynas ag achosion o ddisgrifiad penodol neu mewn unrhyw achos penodol, caiff Gweinidogion Cymru gyfarwyddo bod rhaid i ddyletswydd orfodi a osodir ar yr awdurdod lleol o dan y rheoliad hwn gael ei chyflawni gan Weinidogion Cymru, ac nid gan yr awdurdod lleol.Diwygiadau canlyniadol
+23.—(1) Yn Atodlen 3 i Reoliadau Rheolaethau Swyddogol ar Fwyd Anifeiliaid a Bwyd (Cymru) 2009(1), yn lle “Reoliadau Enseffalopathïau Sbyngffurf Trosglwyddadwy (Cymru) 2008” rhodder “Reoliadau Enseffalopathïau Sbyngffurf Trosglwyddadwy (Cymru) 2018”.
+(2) Mae Rheoliadau Sgil-gynhyrchion Anifeiliaid (Gorfodi) (Cymru) 2014(2) wedi eu diwygio fel a ganlyn—
+(a)
+yn rheoliad 20(a) (cosbau), hepgorer “nad yw’n fwy na’r uchafswm statudol”;
+(b)
+yn rheoliad 29(1) (darpariaeth drosiannol), hepgorer “ar gyfer y cyfnod sy’n dod i ben ar 31 Rhagfyr 2014,”;
+(c)
+yn Atodlen 2, hepgorer paragraff 7.
+(1)
+O.S. 2009/3376 (Cy. 298), y ceir diwygiadau iddo nad ydynt yn berthnasol i’r Rheoliadau hyn.
+(2)
+O.S. 2014/517 (Cy. 60).Dirymiadau
+24.  Mae’r Rheoliadau a ganlyn wedi eu dirymu—
+(a)
+Rheoliadau Enseffalopathïau Sbyngffurf Trosglwyddadwy (Cymru) 2008(1);
+(b)
+Rheoliadau Enseffalopathïau Sbyngffurf Trosglwyddadwy (Cymru) (Diwygio) (Rhif 2) 2008(2);
+(c)
+Rheoliadau Enseffalopathïau Sbyngffurf Trosglwyddadwy (Cymru) (Diwygio) 2009(3);
+(d)
+Rheoliadau Enseffalopathïau Sbyngffurf Trosglwyddadwy (Cymru) (Diwygio) 2010(4);
+(e)
+Rheoliadau Gwartheg Hŷn (Gwaredu) (Cymru) 2006(5);
+(f)
+Rheoliadau Crwyn Gwartheg 1997(6); ac
+(g)
+Rheoliadau Difa Detholus (Gorfodi Amodau Digolledu’r Gymuned) 1996(7).
+(1)
+O.S. 2008/3154 (Cy. 282).
+(2)
+O.S. 2008/3266 (Cy. 288).
+(3)
+O.S. 2009/192 (Cy. 24).
+(4)
+O.S. 2010/1822 (Cy. 179).
+(5)
+O.S. 2006/62 (Cy. 11).
+(6)
+O.S. 1997/813.
+(7)
+O.S. 1996/3186.Darpariaethau trosiannol
+25.  Mae unrhyw hysbysiad, cymeradwyaeth, awdurdodiad, trwydded neu gofrestriad a ddyroddwyd, a gyflwynwyd, a wnaed neu a roddwyd o dan Reoliadau Enseffalopathïau Sbyngffurf Trosglwyddadwy (Cymru) 2008 ac sy’n cael effaith pan fo’r Rheoliadau hyn yn dod i rym yn parhau mewn grym fel pe bai wedi ei ddyroddi neu ei dyroddi, ei gyflwyno neu ei chyflwyno, ei wneud neu ei gwneud, neu ei roi neu ei rhoi o dan y Rheoliadau hyn.Lesley Griffiths
+Ysgrifennydd y Cabinet dros Ynni, Cynllunio a Materion Gwledig, un o Weinidogion Cymru
+4 Medi 2018Rheoliad 5(4)
+ATODLEN 1
+Y gofynion TSE
+Pwnc y gofyniad Darpariaethau Rheoliad TSE yr UE
+1. Gwaharddiad sy’n ymwneud â bwydo protein sy’n deillio o anifeiliaid i anifeiliaid cnoi cil Erthygl 7
+2. Tynnu deunydd risg penodedig o garcasau Erthygl 8 ac Atodiad 5
+3. Cynhyrchu cynhyrchion sy’n dod o anifeiliaid o ddeunydd anifeiliaid cnoi cil, neu o ddeunydd sy’n ei gynnwys Erthygl 9 ac Atodiad 6
+4. Hyfforddi personau sy’n gweithio mewn rolau sy’n ymwneud â TSEs Erthygl 10
+5. Gofyniad hysbysu Erthygl 11
+6. Cyfyngiadau ar symud a mesurau i ymchwilio i anifeiliaid sydd o dan amheuaeth Erthygl 12
+7. Mesurau yn dilyn cadarnhad bod TSE yn bresennol Erthygl 13 ac Atodiadau 3 a 4
+8. Amodau ar gyfer rhoi anifeiliaid byw, semen, embryonau ac ofa ar y farchnad Erthygl 15 ac Atodiadau 8 a 9
+9. Amodau ar gyfer rhoi cynhyrchion sy’n dod o anifeiliaid ar y farchnad Erthygl 16 ac Atodiadau 8 a 9
+10. Ychwanegu at wybodaeth tystysgrif iechyd gyda dosbarthau categori Erthyglau 17 a 18 ac Atodiad 4 a ddarllenir gydag Atodiad F i Gyfarwyddeb 64/432/EEC(1)ac Atodiad E i Gyfarwyddeb 91/68/EEC(2)
+11. Amodau ar gyfer labordai cyfeirio a’u swyddogaethau a’u dyletswyddau Erthygl 19 ac Atodiad 10
+12. Amodau ar gyfer samplu a dulliau labordai Erthygl 20 ac Atodiad 10
+(1)
+Cyfarwyddeb y Cyngor dyddiedig 26 Mehefin 1964 ar broblemau iechyd anifeiliaid sy’n effeithio ar fasnach mewn anifeiliaid buchol a moch o fewn y Gymuned OJ Rhif P 121, 29.7.1964, t. 1977 a ddiwygiwyd ddiwethaf gan Benderfyniad Gweithredu’r Comisiwn (EU) 2015/819, OJ Rhif L 129, 27.5.2015, t. 28.
+(2)
+Cyfarwyddeb y Cyngor dyddiedig 28 Ionawr 1991 ar gyflyrau iechyd anifeiliaid sy’n llywodraethu masnach mewn anifeiliaid defeidiog a gafraidd o fewn y Gymuned OJ Rhif L 46, 19.2,1991, t. 19 fel y’i diwygiwyd ddiwethaf gan Benderfyniad Gweithredu’r Comisiwn (EU) 2016/2002, OJ Rhif L 308, 16.11.2016, t. 29.Rheoliad 6(a)
+ATODLEN 2
+Monitro ar gyfer TSE a chymeradwyo labordai
+Danfon corff anifail buchol at ddiben monitro
+1.—(1) At ddiben monitro o dan Erthygl 6, rhaid i berson sydd â chorff anifail buchol yn ei feddiant, neu o dan ei reolaeth, y mae’n rhaid ei brofi ar gyfer BSE yn unol â phwynt 3.1 o Ran I o Bennod A o Atodiad III (a ddarllenir ar y cyd ag Erthygl 2 o Benderfyniad y Comisiwn 2009/719/EC), oni chyfarwyddir ef yn wahanol gan Weinidogion Cymru—
+(a)
+o fewn 24 o oriau i farwolaeth yr anifail, gwneud trefniadau gyda pherson arall i’r person hwnnw gasglu’r corff a’i ddanfon i safle samplu a gymeradwywyd neu i un o ganolfannau ymchwilio milfeddygol yr Asiantaeth Iechyd Anifeiliaid a Phlanhigion (APHA); neu
+(b)
+o fewn 72 o oriau i farwolaeth yr anifail, danfon y corff yn uniongyrchol i safle samplu a gymeradwywyd neu un o ganolfannau ymchwilio milfeddygol APHA sydd â pherson wedi ei hyfforddi ar gael i gymryd sampl o’r corff,
+ac mae methu â gwneud hynny yn drosedd.
+(2) Rhaid i berson y gwneir trefniadau ag ef ar gyfer danfon corff at ddibenion is-baragraff (1), oni chyfarwyddir ef yn wahanol gan Weinidogion Cymru—
+(a)
+canfod y safle neu’r ganolfan a fydd yn ymgymryd â’r samplu; a
+(b)
+sicrhau ei fod yn cael ei ddanfon i’r safle hwnnw neu’r ganolfan honno fel ei fod yn cyrraedd yno o fewn 72 o oriau,
+ac mae methu â gwneud hynny yn drosedd.
+(3) Mae’r cyfnodau o 24 a 72 o oriau y cyfeirir atynt yn y paragraff hwn yn cychwyn ar yr adeg pan ganfuwyd bod yr anifail wedi marw neu wedi ei ladd.
+(4) Perchennog yr anifail buchol marw sy’n gyfrifol am y gost y mae gweithredwr y safle samplu yn mynd iddi er mwyn ymgymryd â’r samplu.
+(5) Os oes gan berchennog yr anifail buchol marw unrhyw anfoneb sy’n daladwy i weithredwr y safle samplu sydd heb ei thalu, caiff y gweithredwr hwnnw wrthod derbyn unrhyw anifeiliaid byw neu farw gan y perchennog hwnnw hyd nes y bydd unrhyw anfoneb sydd heb ei thalu wedi ei thalu.
+Difa heb samplu
+2.  Mae unrhyw berson sy’n difa corff anifail buchol y mae paragraff 1 yn gymwys iddo cyn iddo gael ei ddanfon ar gyfer samplu at ddibenion y paragraff hwnnw, ac eithrio yn unol â chyfarwyddyd Gweinidogion Cymru, yn cyflawni trosedd.
+Samplu coesyn yr ymennydd mewn anifeiliaid buchol (safleoedd samplu a gymeradwywyd)
+3.  Rhaid i feddiannydd safle samplu a gymeradwywyd y mae anifail y mae’n rhaid ei brofi ar gyfer BSE wedi ei anfon iddo yn unol â pharagraff 1—
+(a)
+cymryd sampl o goesyn yr ymennydd i’w phrofi yn unol â Phennod C o Atodiad X;
+(b)
+sicrhau y gellir adnabod yr anifail (neu bob rhan ohono) y cymerwyd y sampl ohono;
+(c)
+trefnu i’r sampl gael ei danfon i labordy profi a gymeradwywyd; a
+(d)
+cadw corff yr anifail hyd nes y ceir canlyniadau profion a’i waredu yn unol â Rhan I o Bennod A o Atodiad III,
+ac mae methu â gwneud hynny yn drosedd.
+Samplu coesyn yr ymennydd mewn anifeiliaid buchol (lladd-dai)
+4.—(1) Rhaid i feddiannydd lladd-dy neu fan cigydda arall y cigyddir neu y prosesir ynddo anifail buchol y mae is-baragraff (2) yn gymwys iddo—
+(a)
+cymryd sampl, neu wneud trefniadau i sampl gael ei chymryd, o goesyn yr ymennydd i’w phrofi yn unol â Phennod C o Atodiad X;
+(b)
+sicrhau y gellir adnabod yr anifail (neu bob rhan ohono) y cymerwyd y sampl ohono; ac
+(c)
+trefnu i’r sampl gael ei danfon i labordy profi a gymeradwywyd,
+ac mae methu â gwneud hynny yn drosedd.
+(2) Mae’r is-baragraff hwn yn gymwys i anifail buchol—
+(a)
+a aned mewn gwlad nad yw wedi ei rhestru yn yr Atodiad i Benderfyniad y Comisiwn 2009/719/EC ac sy’n dod o fewn pwynt 2 o Bennod A o Atodiad III; neu
+(b)
+sy’n dod o fewn pwynt (b) o baragraff 1 o Erthygl 2 o Benderfyniad y Comisiwn 2009/719/EC.
+(3) Caiff Gweinidogion Cymru gyflwyno hysbysiad i feddiannydd lladd-dy neu fan cigydda arall yn ei gwneud yn ofynnol iddo gymryd sampl o unrhyw anifail buchol a gigyddir yno a’i hanfon i’w phrofi fel sy’n ofynnol gan is-baragraff (1).
+Cymeradwyo labordai profi
+5.—(1) Rhaid i Weinidogion Cymru, os gwneir cais, gymeradwyo labordai i brofi samplau at ddibenion Pennod C o Atodiad X os ydynt wedi eu bodloni—
+(a)
+y bydd y labordy yn cynnal y profion yn unol â Phennod C o’r Atodiad hwnnw;
+(b)
+bod gan y labordy weithdrefnau digonol ar gyfer rheoli ansawdd; ac
+(c)
+bod gan y labordy weithdrefnau digonol i sicrhau adnabyddiaeth gywir o’r samplau ac i hysbysu’r lladd-dy sy’n eu traddodi a Gweinidogion Cymru ynghylch canlyniadau’r profion.
+(2) At ddibenion yr Atodlen hon, ystyr “labordy profi a gymeradwywyd” (“approved testing laboratory”) yw—
+(a)
+labordy a gymeradwywyd o dan y paragraff hwn;
+(b)
+labordy a gymeradwywyd o dan ddeddfwriaeth gyfatebol mewn man arall yn y Deyrnas Unedig;
+(c)
+unrhyw labordy cyfeirio cenedlaethol y cyfeirir ato yn Atodiad X neu labordy cyfeirio yr UE y cyfeirir ato yn yr Atodiad hwnnw; neu
+(d)
+labordy diagnostig a gymeradwywyd gan Aelod-wladwriaeth yn unol ag Atodiad X.
+Safleoedd samplu a gymeradwywyd
+6.—(1) Rhaid i Weinidogion Cymru, os gwneir cais, gymeradwyo safle samplu i samplu anifeiliaid yn unol â’r Rheoliadau hyn os ydynt wedi eu bodloni bod gan y safle samplu weithdrefnau rheoli digonol, gan gynnwys person wedi ei hyfforddi sydd ar gael i ymgymryd â’r samplu.
+(2) Ystyr “safle samplu a gymeradwywyd” (“approved sampling site”) yn yr Atodlen hon yw safle samplu a gymeradwywyd o dan y paragraff hwn neu safle samplu mewn rhan arall o’r Deyrnas Unedig a gymeradwywyd gan yr awdurdod cymwys yn y rhan honno o’r Deyrnas Unedig i ymgymryd â samplu at yr un diben.
+Cadw cynhyrchion a’u gwaredu
+7.—(1) Pan fo’n ofynnol samplu unrhyw anifail buchol at ddibenion paragraff 4, rhaid i feddiannydd y lladd-dy neu fan cigydda arall, yn unol â Rhan I o Bennod A o Atodiad III a hyd nes y ceir canlyniad prawf negyddol, naill ai—
+(a)
+cadw’r carcas a phob rhan o gorff yr anifail y cymerwyd sampl ohono (ac eithrio’r croen pan fo is-baragraff (2) yn gymwys) i’w gwaredu yn unol â’r Rhan honno os bydd y canlyniad yn bositif neu’n amhendant; neu
+(b)
+gwaredu’r carcas a phob rhan o gorff yr anifail y cymerwyd sampl ohono (gan gynnwys y gwaed a’r croen) yn unol â’r Rhan honno.
+(2) Pan fo croen neu lwyth o grwyn wedi ei farcio fel y gellir adnabod ei fod yn dod o anifail y cymerwyd sampl ohono, caniateir traddodi’r croen neu’r llwyth o grwyn i farchnad ledr neu danerdy a rhaid i feddiannydd y farchnad ledr neu’r tanerdy, hyd nes y ceir canlyniad prawf negyddol, naill ai—
+(a)
+cadw’r croen neu’r llwyth o grwyn i’w waredu yn unol â Rhan 1 o Bennod A o Atodiad III os bydd y canlyniad yn bositif neu’n amhendant; neu
+(b)
+gwaredu’r croen neu’r llwyth o grwyn yn unol â’r Rhan honno.
+(3) Pan geir canlyniad positif neu amhendant ar gyfer anifail y cymerwyd sampl ohono, rhaid i feddiannydd lladd-dy neu fan cigydda arall waredu’r canlynol ar unwaith—
+(a)
+carcas a phob rhan o gorff yr anifail hwnnw (gan gynnwys y gwaed a’r croen), a
+(b)
+oni bai bod rhanddirymiad wedi ei roi o dan is-baragraff (6), carcas a phob rhan o gorff (gan gynnwys gwaed a chroen) yr anifail a oedd yn union ragflaenu’r anifail hwnnw ar y llinell gigydda a’r ddau anifail a ddaeth yn union ar ei ôl,
+yn unol â Rhan I o Bennod A o Atodiad III.
+(4) Os nad oes unrhyw sampl wedi ei anfon at labordy profi a gymeradwywyd, neu nad yw labordy profi a gymeradwywyd wedi cael sampl, yn unol â pharagraff 5, neu os ceir canlyniad prawf annigonol, mewn cysylltiad ag anifail y mae’n ofynnol iddo gael ei brofi o dan yr Atodlen hon, rhaid i’r meddiannydd waredu’r canlynol ar unwaith—
+(a)
+carcas a phob rhan o gorff (gan gynnwys gwaed a chroen) yr anifail hwnnw, a
+(b)
+oni bai bod rhan-ddirymiad wedi ei roi o dan is-baragraff (6), carcas a phob rhan o gorff (gan gynnwys gwaed ond nid croen) yr anifail a oedd yn union ragflaenu’r anifail hwnnw ar y llinell gigydda a’r ddau anifail a ddaeth yn union ar ei ôl,
+yn unol â Rhan 1 o Bennod A o Atodiad III ac at ddibenion yr is-baragraff hwn ystyr “canlyniad prawf annigonol” (“insufficient test result”) yw ardystiad gan labordy a gymeradwywyd nad oedd y sampl a anfonwyd at y labordy o safon ddigonol neu nad oedd digon ohoni i gael canlyniad prawf.
+(5) Os ceir canlyniad dim prawf mewn cysylltiad ag anifail y mae’n ofynnol iddo gael ei brofi o dan yr Atodlen hon, rhaid i’r meddiannydd waredu carcas a phob rhan o gorff (gan gynnwys gwaed a chroen) yr anifail hwnnw ar unwaith, yn unol â Rhan 1 o Bennod A o Atodiad III; ac at ddibenion yr is-baragraff hwn ystyr “canlyniad dim prawf” (“no-test result”) yw canlyniad negyddol o sampl yn dilyn profi lluosog a chyflym pan fo labordy profi a gymeradwywyd wedi ardystio fod profi o’r fath yn angenrheidiol.
+(6) Caiff Gweinidogion Cymru, mewn ysgrifen, roi rhanddirymiad o’r gofyniad i ddifa carcasau eraill ar y llinell gigydda pan fônt wedi eu bodloni bod y lladd-dy yn gweithredu system sy’n atal halogi rhwng carcasau.
+(7) Mae unrhyw berson sy’n methu â chydymffurfio â’r paragraff hwn yn cyflawni trosedd.
+Samplu ar gyfer TSE mewn anifeiliaid defeidiog, gafraidd a charwaidd
+8.—(1) Pan fo unrhyw anifail defeidiog neu afraidd wedi ei ddewis ar gyfer samplu at ddibenion Rhan II o Bennod A o Atodiad III, rhaid i feddiannydd lladd-dy neu fan cigydda arall, yn unol â’r Rhan honno a hyd nes y ceir canlyniad prawf negyddol, naill ai—
+(a)
+cadw’r carcas a phob rhan o’r corff (ac eithrio’r croen pan fo is-baragraff (2) yn gymwys) i’w gwaredu yn unol â’r Rhan honno os bydd y canlyniad yn bositif neu’n amhendant; neu
+(b)
+gwaredu’r carcas a phob rhan o’r corff (gan gynnwys y gwaed a’r croen) yn unol â’r Rhan honno.
+(2) Pan fo croen neu lwyth o grwyn wedi ei farcio fel y gellir adnabod ei fod yn dod o anifail y cymerwyd sampl ohono, caniateir traddodi’r croen neu’r llwyth o grwyn i farchnad ledr neu danerdy a rhaid i feddiannydd y farchnad ledr neu’r tanerdy, hyd nes y ceir canlyniad prawf negyddol, naill ai—
+(a)
+cadw’r croen neu’r llwyth o grwyn i’w waredu yn unol â Rhan II o Bennod A o Atodiad III os bydd y canlyniad yn bositif neu’n amhendant; neu
+(b)
+gwaredu’r croen neu’r llwyth o grwyn yn unol â’r Rhan honno.
+(3) Pan fo—
+(a)
+anifail defeidiog, gafraidd neu garwaidd wedi marw, neu wedi ei ladd, ac eithrio ar gyfer ei fwyta gan bobl; a
+(b)
+naill ai—
+(i)
+y digwyddodd y farwolaeth neu’r lladd mewn mangre a gymeradwywyd, neu y mae’n ofynnol ei chymeradwyo, o dan Reoliad (EC) Rhif 1069/2009; neu
+(ii)
+yr aethpwyd â charcas yr anifail defeidiog, gafraidd neu garwaidd i’r fangre honno,
+rhaid i feddiannydd y fangre gydymffurfio ag unrhyw gyfarwyddyd a roddir gan Weinidogion Cymru sy’n ei gwneud yn ofynnol samplu’r carcas yn y fangre.
+(4) Pan fo unrhyw anifail carwaidd wedi ei ddewis i’w fonitro ar gyfer TSE yn unol â Rhan III o Bennod A o Atodiad III, rhaid i feddiannydd lladd-dy, marchnad ledr neu danerdy—
+(a)
+cadw’r carcas a phob rhan o gorff yr anifail y cymerwyd sampl ohono (gan gynnwys y gwaed a’r croen) hyd nes y ceir canlyniad y prawf; a
+(b)
+os bydd y canlyniad yn bositif, gwaredu’r carcas a phob rhan o’r corff (gan gynnwys y gwaed a’r croen) ar unwaith yn unol â Rhan II o Bennod A o Atodiad III.
+(5) Mae unrhyw berson sy’n methu â chydymffurfio â’r paragraff hwn yn cyflawni trosedd.
+Digolledu
+9.—(1) Os yw canlyniad prawf am TSE yn bositif ar anifail a gigyddwyd ar gyfer ei fwyta gan bobl, rhaid i Weinidogion Cymru dalu digollediad i feddiannydd y lladd-dy neu’r man cigydda arall am y carcas a phob rhan o gorff (gan gynnwys gwaed a chroen)—
+(a)
+yr anifail hwnnw; a
+(b)
+yn achos anifail buchol sy’n cael ei ddifa oherwydd y canlyniad positif hwnnw, yr anifail a oedd yn ei union ragflaenu ar y llinell gigydda a’r ddau anifail a ddaeth yn union ar ei ôl oni bai bod Gweinidogion Cymru wedi rhoi rhanddirymiad o dan baragraff 7(6).
+(2) Y digollediad yw’r gwerth ar y farchnad, ac os na ellir cytuno ar y gwerth ar y farchnad rhaid pennu’r prisiad yn unol â’r weithdrefn a osodir yn rheoliad 12(3) i (7) (gan ddarllen y gair “meddiannydd” ym mha le bynnag y crybwyllir “perchennog” yn y paragraffau hynny), gyda’r meddiannydd yn talu unrhyw ffi a godir ynglŷn â’r prisio.
+(3) At ddibenion is-baragraff (2), y gwerth ar y farchnad yw’r pris y disgwylid yn rhesymol bod wedi ei gael am yr anifail gan brynwr ar y farchnad agored ar yr adeg y’i prisiwyd, a hynny gan ragdybio nad oedd yr anifail wedi ei effeithio gan TSE.Rheoliad 6(b)
+ATODLEN 3
+Rheoli a dileu TSE mewn anifeiliaid buchol
+Hysbysu
+1.—(1) At ddibenion Erthygl 11, rhaid i unrhyw berson sydd ag unrhyw anifail buchol yn ei feddiant neu o dan ei reolaeth sydd o dan amheuaeth o fod wedi ei effeithio gan TSE hysbysu Gweinidogion Cymru ar unwaith a chadw’r anifail yn y daliad hyd nes yr archwilir yr anifail gan arolygydd milfeddygol.
+(2) Rhaid i unrhyw filfeddyg sy’n archwilio neu’n arolygu unrhyw anifail o’r fath hysbysu Gweinidogion Cymru cyn gynted ag y bo’n ymarferol bosibl.
+(3) Rhaid i unrhyw berson (ac eithrio Gweinidogion Cymru) sy’n archwilio corff unrhyw anifail buchol, neu unrhyw ran ohono, mewn labordy ac sy’n amau’n rhesymol fod TSE yn bresennol hysbysu Gweinidogion Cymru ar unwaith, a chadw’r corff ac unrhyw rannau ohono hyd nes yr awdurdodir eu gwaredu gan arolygydd milfeddygol.
+(4) Mae methu â chydymffurfio â’r paragraff hwn yn drosedd.
+Cyfyngu ar symudiadau hyd nes y ceir ymchwiliad
+2.—(1) Os yw anifail buchol yn destun hysbysiad o dan baragraff 1 neu yr amheuir fel arall ei fod wedi ei heintio â TSE at ddibenion Erthygl 12, rhaid i arolygydd milfeddygol gyflwyno hysbysiad yn gwahardd symud yr anifail hwnnw o’i ddaliad.
+(2) Ni chaniateir symud anifeiliaid sydd o dan gyfyngiadau ac eithrio yn unol â rheoliad 18.
+(3) Os yw’r arolygydd milfeddygol yn penderfynu, yn dilyn ymchwiliad, nad amheuir bod unrhyw anifail yn y daliad wedi ei heintio â TSE, rhaid i’r arolygydd dynnu’r holl gyfyngiadau ar y daliad hwnnw a dychwelyd unrhyw basbortau gwartheg a gadwyd.
+Lladd anifail sydd o dan amheuaeth
+3.—(1) At ddibenion Erthygl 12(1) a (2) os yw arolygydd milfeddygol yn amau bod anifail buchol wedi ei heintio â TSE, rhaid i’r arolygydd milfeddygol naill ai—
+(a)
+ei ladd yn y daliad ar unwaith;
+(b)
+tynnu ei basbort gwartheg yn ôl; neu
+(c)
+sicrhau bod ei basbort gwartheg wedi ei stampio “Not for human consumption”.
+(2) Os lleddir yr anifail yn y daliad (neu os yw’n marw yno), mae symud y corff o’r daliad hwnnw neu ei waredu, ac eithrio yn unol â chyfarwyddyd ysgrifenedig gan arolygydd milfeddygol, yn drosedd.
+Adnabod a chyfyngu ar fucholion eraill, cohortau ac epil
+4.—(1) At ddibenion Erthygl 12(1), yn dilyn achos o amheuaeth o TSE (pa un ai mewn anifail byw neu drwy fonitro)—
+(a)
+rhaid i arolygydd gyflwyno hysbysiad yn gwahardd symud o’i ddaliad unrhyw anifail buchol sydd yn yr un daliad â’r anifail sydd o dan amheuaeth os yw’r arolygydd yn ystyried y bu’r anifail sydd o dan amheuaeth yn agored i TSE yn y daliad hwnnw;
+(b)
+caiff arolygydd gyflwyno hysbysiad yn gwahardd symud unrhyw anifail buchol i unrhyw ddaliad neu o unrhyw ddaliad os oes tystiolaeth y bu’r anifail sydd o dan amheuaeth yn agored i TSE yn y daliad hwnnw.
+(2) Rhaid i’r arolygydd adnabod—
+(a)
+(os yw’r anifail sydd o dan amheuaeth yn fenyw) ei holl epil a anwyd o fewn y ddwy flynedd cyn, neu ar ôl—
+(i)
+cychwyniad clinigol y clefyd, neu
+(ii)
+pan na wnaeth yr anifail arddangos arwyddion clefyd clinigol, dyddiad ei farwolaeth; a
+(b)
+(ym mhob achos) pob un o’i gohortau buchol a anwyd ar 1 Awst 1996 neu ar ôl hynny,
+ac at y dibenion hyn dyddiad geni anifail yw’r un a ddangosir ar ei basbort gwartheg.
+(3) Rhaid i arolygydd gyflwyno hysbysiadau yn gwahardd symud yr anifeiliaid hynny o’r daliad lle y’u cedwir neu lle y mae’r arolygydd yn amau y gallent fod yn cael eu cadw (pa un ai’r un daliad yw hwnnw â’r daliad lle cedwir yr anifail sydd o dan amheuaeth ai peidio) a thynnu yn ôl eu pasbortau gwartheg.
+(4) Os na ellir adnabod yr anifeiliaid yn is-baragraff (2) ar unwaith caiff arolygydd wahardd symud unrhyw anifail buchol o’r daliad hyd nes y gellir ei adnabod.
+(5) Ni chaniateir symud anifeiliaid sydd o dan gyfyngiadau ac eithrio yn unol â rheoliad 18.
+Gweithredu yn dilyn cadarnhad
+5.—(1) Os ceir cadarnhad bod anifail wedi ei heintio â TSE rhaid i arolygydd—
+(a)
+(os yw’r anifail yn fenyw) lladd pob un o’i hepil a anwyd o fewn dwy flynedd cyn, neu ar ôl—
+(i)
+cychwyniad clinigol y clefyd neu,
+(ii)
+pan na wnaeth yr anifail arddangos arwyddion clefyd clinigol, dyddiad ei farwolaeth; a
+(b)
+(ym mhob achos) lladd pob un o’r anifeiliaid buchol yn ei gohort a anwyd ar 1 Awst 1996 neu ar ôl hynny, ac eithrio pan fo’r arolygydd wedi ei fodloni—
+(i)
+(ym mhob achos) nad oedd gan yr anifail fynediad at yr un bwyd anifeiliaid â’r anifail yr effeithiwyd arno; neu
+(ii)
+(pan fo’r anifail yn darw) y cedwir yr anifail mewn canolfan casglu semen yn barhaus, ac na fydd yn cael ei symud oddi yno, ac mewn achos o’r fath caniateir gohirio’r lladd hyd ddiwedd oes gynhyrchiol yr anifail hwnnw.
+(2) At ddibenion is-baragraff (1), dyddiad geni anifail yw’r un a ddangosir ar ei basbort gwartheg.
+(3) Mae’r weithdrefn apelio yn rheoliad 11 yn gymwys i benderfyniad i ladd o dan is-baragraff (1)(b).
+(4) Pan fo is-baragraff (1)(b)(ii) yn gymwys, mae’n drosedd i symud yr anifail o’r ganolfan casglu semen ac eithrio yn unol â thrwydded a ddyroddwyd o dan reoliad 18.
+(5) Os yw anifail i’w ladd yn unol â’r paragraff hwn, ond nad yw i’w ladd yn y daliad, rhaid i arolygydd sicrhau bod ei basbort gwartheg yn cael ei stampio “Not for human consumption”.
+(6) Os yw canlyniad y prawf yn negyddol rhaid i’r arolygydd dynnu’r holl gyfyngiadau a osodwyd oherwydd yr anifail a oedd o dan amheuaeth a dychwelyd y pasbortau gwartheg.
+(7) Pan leddir anifail o dan y paragraff hwn, mae’n drosedd symud y carcas o’r fangre lle y’i lladdwyd ac eithrio yn unol â chyfarwyddyd ysgrifenedig oddi wrth arolygydd.
+Marwolaeth anifail tra bo o dan gyfyngiad
+6.  Os bydd farw neu os lleddir unrhyw anifail tra bo o dan gyfyngiad am unrhyw reswm o dan yr Atodlen hon, rhaid i’r perchennog hysbysu Gweinidogion Cymru ar unwaith a chadw’r corff yn y fangre hyd nes y caiff gyfarwyddyd gan arolygydd i’w symud neu ei waredu, ac mae’n drosedd i fethu â chydymffurfio â’r paragraff hwn neu fethu â chydymffurfio â chyfarwyddyd oddi tano.
+Rhoi epil buchol ar y farchnad
+7.  Mae unrhyw berson sy’n rhoi anifail ar y farchnad y mae’r person hwnnw yn gwybod ei fod yr epil diwethaf y rhoddodd anifail buchol benywaidd sydd wedi ei heintio â TSE enedigaeth iddo yn ystod y cyfnod o ddwy flynedd cyn, neu yn ystod y cyfnod sy’n dilyn—
+(a)
+yr arwyddion clinigol cyntaf o gychwyniad y clefyd, neu
+(b)
+pan na wnaeth yr anifail arddangos arwyddion clefyd clinigol, dyddiad ei farwolaeth,
+yn cyflawni trosedd.
+Traddodi a chigydda anifail buchol sydd dros yr oed
+8.—(1) Os ganwyd neu os magwyd anifail buchol yn y Deyrnas Unedig cyn 1 Awst 1996, mae’n drosedd—
+(a)
+i’w draddodi i ladd-dy ar gyfer ei fwyta gan bobl (pa un a yw’r anifail yn fyw neu’n farw); neu
+(b)
+i’w gigydda ar gyfer ei fwyta gan bobl.
+(2) At ddibenion is-baragraff (1), bernir bod anifail buchol wedi ei eni neu ei fagu yn y Deyrnas Unedig cyn 1 Awst 1996 oni bai bod ei basbort gwartheg yn dangos naill ai—
+(a)
+ei fod wedi ei eni yn y Deyrnas Unedig ar 1 Awst 1996 neu ar ôl hynny; neu
+(b)
+y daeth i’r Deyrnas Unedig am y tro cyntaf ar 1 Awst 1996 neu ar ôl hynny.
+Pa bryd y mae digollediad yn daladwy
+9.  Rhaid i Weinidogion Cymru dalu digollediad—
+(a)
+pan leddir anifail o dan yr Atodlen hon; a
+(b)
+pan fo anifail yn ddarostyngedig i gyfyngiad ar symud o dan yr Atodlen hon, ac y bu’n rhaid ei ladd fel mesur argyfwng, a milfeddyg wedi datgan mewn ysgrifen y byddai’r anifail, fel arall, wedi bod yn addas ar gyfer ei fwyta gan bobl yn unol â Phennod VI o Adran I o Atodiad III i Reoliad (EC) Rhif 853/2004, ac mewn achos o’r fath y digollediad yw gwerth y corff (gan gynnwys y gwaed a’r croen).
+Digollediad yn seiliedig ar bris cyfartalog y farchnad
+10.—(1) Yn ddarostyngedig i baragraff 11, y digollediad sy’n daladwy am unrhyw wartheg domestig yw pris cyfartalog y farchnad ar gyfer y categori y mae’r anifail yn perthyn iddo ar y dyddiad y cyflwynir yr hysbysiad o’r bwriad i ladd fel a nodir yn y tabl yn is-baragraff (6) ac—
+(a)
+yn achos anifeiliaid di-bedigri, caiff ei gyfrifo bob mis o ddata prisiau gwerthu anifeiliaid yn y categori hwnnw mewn cysylltiad â gwerthiannau sy’n digwydd yn ystod y cyfnod sy’n dod i ben ar 20fed diwrnod y mis blaenorol ac sy’n dechrau ar 21ain diwrnod y mis cyn hynny;
+(b)
+yn achos anifeiliaid pedigri, caiff ei gyfrifo bob mis o ddata prisiau gwerthu anifeiliaid yn y categori hwnnw mewn cysylltiad â gwerthiannau sy’n digwydd dros gyfnod treigl o chwe mis sy’n cwmpasu’r chwe mis sy’n dod i ben ar 20fed diwrnod y mis blaenorol ac sy’n dechrau ar 21ain diwrnod y mis sydd chwe mis cyn hynny.
+(2) Er mwyn bod yn gymwys ar gyfer digollediad rhaid i anifail gael ei adnabod drwy gyfrwng tagiau clust a rhaid cyflwyno, ar adeg y cigydda neu cyn hynny, basbort gwartheg mewn cysylltiad â’r anifail hwnnw i Weinidogion Cymru neu i asiant sy’n gweithredu ar eu rhan.
+(3) Y data prisiau gwerthu yw’r data a gesglir mewn perthynas â gwartheg domestig o farchnadoedd storio, prif farchnadoedd, gwerthiannau lloi magu, gwerthiannau bridio a gwerthiannau gwasgaru ym Mhrydain Fawr.
+(4) Pris cyfartalog y farchnad ar gyfer categori y mae data prisiau gwerthu wedi eu casglu ar ei gyfer yw’r swm a geir drwy rannu swm y prisiau gwerthu hynny â chyfanswm yr anifeiliaid yn y categori hwnnw.
+(5) Mae anifail yn anifail pedigri at ddibenion y paragraff hwn, ar yr adeg y cyflwynir yr hysbysiad o’r bwriad i’w ladd—
+(a)
+os yw’r anifail yn gyfan; a
+(b)
+os yw’r anifail, ar yr adeg y cyflwynir yr hysbysiad rheoliad 16(3)(d), yn anifail bridio pur sydd wedi ei gofnodi neu ei gofrestru ac yn gymwys i’w gofnodi ym mhrif adran llyfr bridio, ac y mae tystysgrif bedigri wedi ei dyroddi ar ei gyfer gan gymdeithas brid sydd wedi ei chydnabod gan Weinidogion Cymru o dan Erthygl 4 neu Erthygl 64(4) o Reoliad (EU) 2016/1012 Senedd Ewrop a’r Cyngor ar amodau sootechnegol ac achyddol ar gyfer bridio anifeiliaid bridio pur, eu masnachu a rhoi mynediad iddynt i’r Undeb(1).
+(6) Rhaid i Weinidogion Cymru gategoreiddio anifeiliaid yn unol â’r tabl a ganlyn, ac at ddibenion penderfynu pa gategori y mae’r anifail yn perthyn iddo, oedran yr anifail yw’r oedran, a ddangosir ar ei basbort gwartheg, ar y dyddiad y cyflwynwyd yr hysbysiad o’r bwriad i’w ladd—
+Categorïau
+Gwryw Benyw
+Y Sector Cig Eidion — anifail di-bedigri Y Sector Cig Eidion — anifail di-bedigri
+Hyd at a chan gynnwys 3 mis Hyd at a chan gynnwys 3 mis
+Dros 3 mis hyd at a chan gynnwys 6 mis Dros 3 mis hyd at a chan gynnwys 6 mis
+Dros 6 mis hyd at a chan gynnwys 9 mis Dros 6 mis hyd at a chan gynnwys 9 mis
+Dros 9 mis hyd at a chan gynnwys 12 mis Dros 9 mis hyd at a chan gynnwys 12 mis
+Dros 12 mis hyd at a chan gynnwys 16 o fisoedd Dros 12 mis hyd at a chan gynnwys 16 o fisoedd
+Dros 16 o fisoedd hyd at a chan gynnwys 20 mis Dros 16 o fisoedd hyd at a chan gynnwys 20 mis
+Dros 20 mis, teirw bridio Dros 20 mis, wedi bwrw llo
+Dros 20 mis, teirw nad ydynt ar gyfer bridio Dros 20 mis, heb fwrw llo
+Y Sector Llaeth — anifail di-bedigri Y Sector Llaeth — anifail di-bedigri
+Hyd at a chan gynnwys 3 mis Hyd at a chan gynnwys 3 mis
+Dros 3 mis hyd at a chan gynnwys 6 mis Dros 3 mis hyd at a chan gynnwys 6 mis
+Dros 6 mis hyd at a chan gynnwys 12 mis Dros 6 mis hyd at a chan gynnwys 12 mis
+Dros 12 mis hyd at a chan gynnwys 16 o fisoedd Dros 12 mis hyd at a chan gynnwys 16 o fisoedd
+Dros 16 o fisoedd hyd at a chan gynnwys 20 mis Dros 16 o fisoedd hyd at a chan gynnwys 20 mis
+Dros 20 mis Dros 20 mis hyd at a chan gynnwys 84 o fisoedd, wedi bwrw llo
+Dros 20 mis hyd at a chan gynnwys 84 o fisoedd, heb fwrw llo
+Dros 84 o fisoedd
+Y Sector Cig Eidion — anifail pedigri Y Sector Cig Eidion — anifail pedigri
+Hyd at a chan gynnwys 6 mis Hyd at a chan gynnwys 6 mis
+Dros 6 mis hyd at a chan gynnwys 12 mis Dros 6 mis hyd at a chan gynnwys 12 mis
+Dros 12 mis hyd at a chan gynnwys 24 o fisoedd Dros 12 mis hyd at a chan gynnwys 24 o fisoedd
+Dros 24 o fisoedd Dros 24 o fisoedd, heb fwrw llo
+Dros 24 o fisoedd hyd at a chan gynnwys 36 o fisoedd, wedi bwrw llo
+Dros 36 o fisoedd, wedi bwrw llo
+Y Sector Llaeth — anifail pedigri Y Sector Llaeth — anifail pedigri
+Hyd at a chan gynnwys 2 fis Hyd at a chan gynnwys 2 fis
+Dros 2 fis hyd at a chan gynnwys 12 mis Dros 2 fis hyd at a chan gynnwys 10 mis
+Dros 12 mis hyd at a chan gynnwys 24 o fisoedd Dros 10 mis hyd at a chan gynnwys 18 mis
+Dros 24 o fisoedd Dros 18 mis, heb fwrw llo
+Dros 18 mis hyd at a chan gynnwys 36 o fisoedd, wedi bwrw llo
+Dros 36 o fisoedd hyd at a chan gynnwys 84 o fisoedd, wedi bwrw llo
+Dros 84 o fisoedd, wedi bwrw llo
+Eithriadau: digollediad yn seiliedig ar werth ar y farchnad
+11.—(1) Pan fo Gweinidogion Cymru yn ystyried bod y data ar gyfer cyfrifo pris cyfartalog y farchnad yn unol â pharagraff 10 yn annigonol, caiff Gweinidogion Cymru dalu digollediad fel a ganlyn—
+(a)
+ar gyfer anifeiliaid yn y categori hwnnw, y pris cyfartalog blaenorol a gyfrifwyd ddiwethaf pan oedd data digonol ar gael i gyfrifo’r pris cyfartalog; neu
+(b)
+ar gyfer yr anifail unigol, y gwerth ar y farchnad.
+(2) Ar gyfer byfflos neu fualod, y digollediad yw’r gwerth ar y farchnad.
+(3) At ddibenion y paragraff hwn, y gwerth ar y farchnad yw’r pris y disgwylid yn rhesymol fod wedi ei gael am yr anifail gan brynwr ar y farchnad agored ar yr adeg y’i prisiwyd, a hynny gan ragdybio nad oedd yr anifail wedi ei effeithio gan TSE.
+(4) Pan na fo’r perchennog a Gweinidogion Cymru yn gallu cytuno ar werth ar y farchnad at ddibenion y paragraff hwn, rhaid cynnal y prisiad yn unol â’r weithdrefn a osodir yn rheoliad 12(3) i (7) gyda’r perchennog yn talu unrhyw ffi a godir ynglŷn â’r prisio.
+(1)
+OJ Rhif L 171, 29.06.2016, t. 66.Rheoliad 6(c)
+ATODLEN 4
+Rheoli a dileu TSE mewn anifeiliaid defeidiog a gafraidd
+Hysbysu
+1.—(1) At ddibenion Erthygl 11, rhaid i unrhyw berson sydd ag unrhyw anifail defeidiog neu afraidd yn ei feddiant neu o dan ei reolaeth, sydd o dan amheuaeth o fod wedi ei effeithio gan TSE, hysbysu Gweinidogion Cymru ar unwaith a’i gadw yn y daliad hyd nes yr archwilir yr anifail gan arolygydd milfeddygol.
+(2) Rhaid i unrhyw filfeddyg sy’n archwilio neu’n arolygu unrhyw anifail o’r fath hysbysu Gweinidogion Cymru cyn gynted ag y bo’n ymarferol bosibl.
+(3) Rhaid i unrhyw berson (ac eithrio Gweinidogion Cymru) sy’n archwilio corff unrhyw anifail defeidiog neu afraidd, neu unrhyw ran ohono, mewn labordy ac sy’n amau’n rhesymol fod TSE yn bresennol hysbysu Gweinidogion Cymru ar unwaith, a chadw’r corff ac unrhyw rannau ohono hyd nes yr awdurdodir eu gwaredu gan arolygydd milfeddygol.
+(4) Mae methu â chydymffurfio â’r paragraff hwn yn drosedd.
+Cyfyngu ar symudiadau hyd nes y ceir ymchwiliad
+2.—(1) Os yw anifail yn destun hysbysiad o dan baragraff 1 neu yr amheuir fel arall ei fod wedi ei heintio â TSE at ddiben Erthygl 12, rhaid i arolygydd milfeddygol gyflwyno hysbysiad yn gwahardd symud yr anifail hwnnw o’i ddaliad.
+(2) Ni chaniateir symud anifeiliaid sydd o dan gyfyngiadau ac eithrio yn unol â rheoliad 18.
+(3) Os yw’r arolygydd milfeddygol yn penderfynu, ar ôl cael canlyniadau profion, nad amheuir bod unrhyw anifail yn y daliad wedi ei heintio â TSE, rhaid i’r arolygydd dynnu’r holl gyfyngiadau ar y daliad hwnnw.
+Lladd anifail sydd o dan amheuaeth
+3.—(1) At ddibenion Erthygl 12(1) a (2), os yw arolygydd milfeddygol yn amau bod anifail defeidiog neu afraidd wedi ei heintio â TSE, rhaid i’r arolygydd milfeddygol naill ai—
+(a)
+ei ladd yn y daliad ar unwaith;
+(b)
+cyflwyno hysbysiad yn gwahardd symud yr anifail o’r daliad hyd nes y bo wedi ei ladd; neu
+(c)
+cyflwyno hysbysiad yn cyfarwyddo’r meddiannydd i draddodi’r anifail i fangre arall i’w ladd, ac yn gwahardd symud ac eithrio yn unol â’r cyfarwyddyd hwnnw.
+(2) Os lleddir yr anifail yn y daliad (neu os yw’n marw yno), mae symud y corff o’r daliad neu ei waredu, ac eithrio yn unol â chyfarwyddyd ysgrifenedig gan arolygydd milfeddygol, yn drosedd.
+Cyfyngiadau ar symud
+4.—(1) At ddibenion Erthygl 12(1), yn dilyn achos o amheuaeth o TSE (pa un ai mewn anifail byw neu drwy fonitro)—
+(a)
+rhaid i arolygydd milfeddygol gyflwyno hysbysiad yn gwahardd symud i’w ddaliad neu o’i ddaliad unrhyw anifail defeidiog neu afraidd sydd yn yr un daliad â’r anifail defeidiog neu afraidd sydd o dan amheuaeth os yw’r arolygydd yn ystyried y bu’r anifail sydd o dan amheuaeth yn agored i TSE yn y daliad hwnnw;
+(b)
+caiff arolygydd milfeddygol gyflwyno hysbysiad yn gwahardd symud unrhyw anifail defeidiog neu afraidd i unrhyw ddaliad neu o unrhyw ddaliad os oes tystiolaeth y bu’r anifail sydd o dan amheuaeth yn agored i TSE yn y daliad hwnnw;
+(c)
+caiff arolygydd milfeddygol gyflwyno hysbysiad yn gwahardd symud i ddaliad neu o ddaliad lle cedwir anifail a bennir ym mhwynt 1(b) o Bennod B o Atodiad VII, neu lle mae’r arolygydd yn amau y cedwir anifail o’r fath; a
+(d)
+rhaid i arolygydd milfeddygol gyflwyno hysbysiad yn gwahardd symud llaeth defaid neu eifr, neu gynhyrchion llaeth defaid neu eifr, sy’n deillio o unrhyw anifail defeidiog neu afraidd sy’n bresennol mewn unrhyw ddaliad y mae cyfyngiad yn gweithredu mewn perthynas ag ef at ddibenion paragraffau (a) i (c).
+(2) Ni chaniateir symud anifeiliaid na chynhyrchion sydd o dan gyfyngiadau ac eithrio yn unol â rheoliad 18.
+(3) Nid yw hysbysiad a gyflwynir o dan is-baragraff (1)(d) yn gwahardd defnyddio llaeth neu gynhyrchion llaeth o fewn y daliad.
+(4) Os yw’r arolygydd milfeddygol yn penderfynu, ar ôl cael canlyniadau profion, nad yw unrhyw anifail yn y daliad wedi ei heintio â TSE, rhaid i’r arolygydd dynnu’r holl gyfyngiadau a osodwyd ar y daliad hwnnw.
+Cadarnhad o TSE (gyda BSE a chlefyd y crafu annodweddiadol wedi eu nacáu) mewn anifeiliaid defeidiog neu afraidd
+5.—(1) Os cadarnheir bod anifail defeidiog neu afraidd sydd o dan amheuaeth, neu gorff anifail defeidiog neu afraidd, wedi ei heintio â TSE, a bod BSE a chlefyd y crafu annodweddiadol wedi eu nacáu, rhaid i Weinidogion Cymru benderfynu yn unol â Phennod B o Atodiad VII a ddylid—
+(a)
+lladd yr holl anifeiliaid cnoi cil yn y daliad;
+(b)
+lladd yr holl anifeiliaid defeidiog a gafraidd a allai gael eu heintio yn y daliad; neu
+(c)
+peidio â lladd unrhyw anifeiliaid sydd yn y daliad.
+(2) Rhaid i Weinidogion Cymru gyflwyno hysbysiad yn rhoi gwybod i feddiannydd y daliad am eu penderfyniad.
+(3) Rhaid i’r hysbysiad bennu—
+(a)
+manylion adnabod neu gategori yr anifeiliaid (os oes rhai) sydd i’w lladd a’u difa;
+(b)
+manylion adnabod neu gategori yr anifeiliaid (os oes rhai) sydd i’w cigydda ar gyfer eu bwyta gan bobl;
+(c)
+manylion adnabod unrhyw ofwm neu embryo sydd i’w ddifa;
+(d)
+manylion adnabod yr anifeiliaid (os oes rhai) y caniateir eu cadw; ac
+(e)
+y terfyn amser ar gyfer cydymffurfio â’r hysbysiad.
+(4) Caiff yr hysbysiad osod amodau, cyfyngiadau neu ofynion monitro pellach sy’n gymwys mewn cysylltiad â’r penderfyniad yn unol â Phennod B o Atodiad VII.
+(5) Ni chaniateir defnyddio a chludo llaeth a chynhyrchion llaeth sy’n deillio o ddefaid a geifr y mae pwynt 2.2.2 o Bennod B o Atodiad VII yn gymwys iddynt ac eithrio yn unol â’r pwynt hwnnw ac mae methu â chydymffurfio yn drosedd.
+(6) Mae’r weithdrefn apelio yn rheoliad 11 yn gymwys.
+Anallu i nacáu BSE mewn anifeiliaid defeidiog neu afraidd
+6.—(1) Mae’r paragraff hwn yn gymwys os cadarnheir TSE mewn anifail defeidiog neu afraidd sydd o dan amheuaeth, neu gorff anifail defeidiog neu afraidd, ac na ellir nacáu BSE.
+(2) Rhaid i Weinidogion Cymru gyflwyno hysbysiad i feddiannydd y daliad yn rhoi gwybod iddo am fwriad Gweinidogion Cymru bod yr anifeiliaid yn cael eu lladd a’u difa, a’r embryonau a’r ofa yn cael eu difa, a’r llaeth a’r cynhyrchion llaeth yn cael eu difa, yn unol â phwynt 2.2.1 o Bennod B o Atodiad VII.
+(3) Caiff yr hysbysiad osod amodau, cyfyngiadau neu ofynion monitro pellach sy’n gymwys mewn cysylltiad â’r penderfyniad yn unol â Phennod B o Atodiad VII.
+(4) Mae’r weithdrefn apelio yn rheoliad 11 yn gymwys.
+Cadarnhad o glefyd y crafu annodweddiadol mewn anifeiliaid defeidiog neu afraidd (BSE a chlefyd y crafu clasurol wedi eu nacáu)
+7.—(1) Os clefyd y crafu annodweddiadol yn unig yw’r TSE a gadarnheir mewn anifail defeidiog neu afraidd sydd o dan amheuaeth, neu gorff anifail defeidiog neu afraidd, a bod BSE wedi ei nacáu, rhaid i Weinidogion Cymru, ar ôl cynnal ymchwiliad, gyflwyno hysbysiad yn rhoi gwybod i feddiannydd y daliad perthnasol y bydd yn destun protocol monitro dwysach ar gyfer TSE yn unol â phwynt 2.2.3 o Bennod B o Atodiad VII.
+(2) Mae’r weithdrefn apelio yn rheoliad 11 yn gymwys.
+Lladd a difa yn dilyn cadarnhad
+8.—(1) Os na leddir unrhyw anifail defeidiog neu afraidd y mae’n ofynnol ei ladd gan hysbysiad a gyflwynwyd o dan baragraff 5 neu 6 yn ei ddaliad ei hun, caiff arolygydd roi cyfarwyddyd mewn ysgrifen i’r perchennog ei draddodi i fangre arall i’w ladd fel a bennir yn y cyfarwyddyd.
+(2) Mae’n drosedd symud corff anifail o’r fangre lle y’i lladdwyd ac eithrio yn unol â chyfarwyddyd ysgrifenedig gan arolygydd.
+Anifeiliaid heintiedig o ddaliad arall
+9.  At ddibenion pwynt 2.3 o Bennod B o Atodiad VII, os daethpwyd ag anifail a heintiwyd â TSE o ddaliad arall, caiff Gweinidogion Cymru gyflwyno hysbysiad yn unol â pharagraff 5 neu 6 mewn perthynas â’r daliad y tarddodd yr anifail ohono yn ogystal â’r daliad lle cadarnhawyd yr haint, neu yn lle’r daliad hwnnw.
+Pori ar dir comin
+10.  Yn achos anifail a heintiwyd â TSE ar dir pori comin, caiff Gweinidogion Cymru gyfyngu cyfyngiadau ar symud a chyfyngu lladd i ddiadell neu eifre unigol.
+Nifer o ddiadelloedd neu eifreoedd ar ddaliad
+11.  Os cedwir mwy nag un ddiadell neu eifre ar un daliad, caiff Gweinidogion Cymru gyfyngu cyfyngiadau ar symud a chyfyngu lladd i ddiadell neu eifre unigol.
+Meddianwyr dilynol
+12.—(1) Os newidir meddiannaeth y daliad, rhaid i feddiannydd y cyflwynwyd hysbysiad iddo o dan yr Atodlen hon sicrhau bod y meddiannydd dilynol yn gwybod am fodolaeth a chynnwys yr hysbysiad hwnnw, ac mae methu â gwneud hynny yn drosedd.
+(2) Rhaid i’r meddiannydd dilynol gydymffurfio â’r hysbysiad fel pe bai’r hysbysiad hwnnw wedi ei gyflwyno i’r meddiannydd hwnnw, ac mae methu â gwneud hynny yn drosedd.
+Marwolaeth anifail tra bo o dan gyfyngiad
+13.  Os bydd farw neu os lleddir unrhyw anifail defeidiog neu afraidd sy’n 18 mis oed neu’n hŷn tra bo o dan gyfyngiad am unrhyw reswm o dan yr Atodlen hon neu Atodiad VII, rhaid i’r perchennog neu’r ceidwad hysbysu Gweinidogion Cymru ar unwaith, a chadw’r corff yn y fangre hyd nes y caiff gyfarwyddyd gan Weinidogion Cymru i’w symud neu i’w waredu, ac mae methu â chydymffurfio â’r paragraff hwn neu fethu â chydymffurfio â chyfarwyddyd oddi tano yn drosedd.
+Rhoi epil anifeiliaid defeidiog a gafraidd ar y farchnad
+14.  Mae unrhyw berson sy’n rhoi ar y farchnad anifail y mae’r person hwnnw yn gwybod ei fod yr epil diwethaf y rhoddodd anifail defeidiog neu afraidd benywaidd a heintiwyd â BSE enedigaeth iddo yn ystod y cyfnod o ddwy flynedd cyn, neu yn ystod y cyfnod sy’n dilyn—
+(a)
+yr arwyddion clinigol cyntaf o gychwyniad y clefyd; neu
+(b)
+pan na wnaeth yr anifail arddangos arwyddion clefyd clinigol, dyddiad ei farwolaeth,
+yn cyflawni trosedd.
+Digolledu am anifail defeidiog neu afraidd a ledir fel anifail sydd o dan amheuaeth neu pan geir cadarnhad o unrhyw TSE
+15.—(1) Rhaid i Weinidogion Cymru dalu digollediad i berchennog yr anifail a leddir yn unol â’r paragraff hwn am anifail defeidiog neu afraidd a leddir fel anifail sydd o dan amheuaeth neu a leddir yn dilyn cadarnhad o TSE.
+(2) Rhaid i Weinidogion Cymru bennu categori’r anifail defeidiog neu afraidd yn unol â’r categori perthnasol a restrir yng ngholofn 1 o’r tabl yn is-baragraff (4).
+(3) Oedran yr anifail yw’r oedran ar y dyddiad y cyflwynir yr hysbysiad rheoliad 16(3)(d).
+(4) Y digollediad sy’n daladwy yw’r swm a bennir yng ngholofn 2 o’r tabl a ganlyn—
+Digollediad
+Categori’r anifail Digollediad (£)
+Geifr (anifeiliaid gafraidd)
+1 flwydd oed neu’n iau 80
+Anifail nad yw ar gyfer bridio, dros 1 flwydd oed 160
+Anifail bridio benywaidd, dros 1 flwydd oed 250
+Anifail bridio gwrywaidd, dros 1 flwydd oed 350
+Defaid (anifeiliaid defeidiog)
+Oen sy’n 1 flwydd oed neu’n iau 80
+Mamog fridio sydd dros 1 flwydd oed 130
+Hwrdd bridio sydd dros 1 flwydd oed 350
+Prisiadau
+16.—(1) Os yw perchennog anifail neu gynnyrch yn ystyried bod y digollediad yn y paragraff blaenorol yn afresymol, rhaid cynnal prisiad yn unol â’r weithdrefn a osodir yn rheoliad 12(3) i (7) gyda’r perchennog yn talu unrhyw ffi a godir ynglŷn â’r prisio.
+(2) Pan fydd yn cynnal prisiad o dan reoliad 12 rhaid i’r prisiwr brisio’r anifail neu’r cynnyrch yn unol â’r pris y gellid yn rhesymol fod wedi ei gael amdano ar adeg y prisiad gan brynwr yn y farchnad agored fel pe na bai’r anifail neu’r cynnyrch o ddiadell neu eifre yr effeithiwyd arni gan TSE.
+Digolledu am laeth a chynhyrchion llaeth a gafodd eu difa yn orfodol
+17.—(1) Rhaid i Weinidogion Cymru dalu digollediad yn unol â’r paragraff hwn am laeth a chynhyrchion llaeth a gafodd eu difa.
+(2) Y digollediad sy’n daladwy yw’r hyn y cred Gweinidogion Cymru y gellid yn rhesymol fod wedi ei gael amdano ar y farchnad agored pe na bai’r llaeth neu’r cynnyrch llaeth wedi ei ddifa’n orfodol, a phe na bai’n llaeth a oedd yn deillio o ddiadell neu eifre yr effeithiwyd arni gan TSE.
+(3) Os yw perchennog llaeth neu gynhyrchion llaeth yn ystyried bod y digollediad yn yr is-baragraff blaenorol yn afresymol, rhaid cynnal prisiad yn unol â’r weithdrefn a osodir yn rheoliad 12(3) i (7) gyda’r perchennog yn talu unrhyw ffi a godir ynglŷn â’r prisio.Rheoliad 6(d)
+ATODLEN 5
+Rheoli a dileu TSE mewn anifeiliaid nad ydynt yn fuchol, yn ddefeidiog nac yn afraidd
+Hysbysu
+1.—(1) At ddibenion Erthygl 11, rhaid i unrhyw berson sydd ag unrhyw anifail yn ei feddiant neu o dan ei reolaeth nad yw yn fuchol, yn ddefeidiog nac yn afraidd ac sydd o dan amheuaeth o fod wedi ei effeithio gan TSE hysbysu Gweinidogion Cymru ar unwaith a’i gadw yn y daliad hyd nes yr archwilir yr anifail gan arolygydd milfeddygol.
+(2) Rhaid i unrhyw filfeddyg sy’n archwilio neu’n arolygu unrhyw anifail o’r fath hysbysu Gweinidogion Cymru cyn gynted ag y bo’n ymarferol bosibl.
+(3) Rhaid i unrhyw berson (ac eithrio Gweinidogion Cymru) sy’n archwilio corff anifail nad yw’n fuchol, yn ddefeidiog nac yn afraidd, neu unrhyw ran ohono, mewn labordy ac sy’n amau’n rhesymol fod TSE yn bresennol, hysbysu Gweinidogion Cymru ar unwaith, a chadw’r corff ac unrhyw rannau ohono hyd nes yr awdurdodir eu gwaredu gan arolygydd milfeddygol.
+(4) Mae methu â chydymffurfio â’r paragraff hwn yn drosedd.
+Cyfyngu ar anifail sy’n destun hysbysiad
+2.—(1) Os yw anifail yn destun hysbysiad o dan baragraff 1, neu yr amheuir fel arall ei fod wedi ei heintio â TSE at ddibenion Erthygl 12, rhaid i arolygydd milfeddygol gyflwyno hysbysiad yn gwahardd symud yr anifail hwnnw o’i ddaliad.
+(2) Ni chaniateir symud anifeiliaid sydd o dan gyfyngiadau ac eithrio yn unol â rheoliad 18.
+(3) Os yw’r arolygydd milfeddygol yn penderfynu, yn dilyn ymchwiliad, nad amheuir bod unrhyw anifail yn y daliad wedi ei heintio â TSE, rhaid i’r arolygydd dynnu’r holl gyfyngiadau ar y daliad hwnnw.
+Lladd anifail sydd o dan amheuaeth
+3.—(1) At ddibenion Erthygl 12(1) a (2), os yw arolygydd milfeddygol yn amau bod anifail nad yw’n fuchol, yn ddefeidiog nac yn afraidd wedi ei heintio â TSE, rhaid i’r arolygydd milfeddygol naill ai—
+(a)
+ei ladd yn y daliad ar unwaith;
+(b)
+cyflwyno hysbysiad yn gwahardd symud yr anifail o’r daliad hyd nes y bo wedi ei ladd; neu
+(c)
+cyflwyno hysbysiad yn cyfarwyddo’r meddiannydd i’w draddodi i fangre arall i’w ladd, ac yn gwahardd symud ac eithrio yn unol â’r cyfarwyddyd hwnnw.
+(2) Os lleddir yr anifail yn y daliad (neu os yw’n marw yno), mae symud y corff o’r daliad neu ei waredu, ac eithrio yn unol â chyfarwyddyd ysgrifenedig gan arolygydd milfeddygol, yn drosedd.
+Digolledu
+4.—(1) Pan leddir anifail o dan baragraff 3, rhaid i Weinidogion Cymru dalu digollediad i berchennog yr anifail hwnnw.
+(2) Y digollediad yw gwerth yr anifail ar y farchnad ar yr adeg y’i lleddir.
+(3) At ddibenion y paragraff hwn, y gwerth ar y farchnad yw’r pris y disgwylid yn rhesymol fod wedi ei gael am yr anifail gan brynwr ar y farchnad agored ar yr adeg y’i prisiwyd, a hynny gan ragdybio nad oedd yr anifail wedi ei effeithio gan TSE.
+(4) Pan na fo’r perchennog a Gweinidogion Cymru yn gallu cytuno ar werth ar y farchnad, rhaid cynnal y prisiad yn unol â’r weithdrefn a osodir yn rheoliad 12(3) i (7) gyda’r perchennog yn talu unrhyw ffi a godir ynglŷn â’r prisio.Rheoliad 6(e)
+ATODLEN 6
+Bwydydd anifeiliaid
+RHAN 1
+Cyfyngiadau ar fwydo proteinau i anifeiliaid
+Gwahardd bwydo protein anifeiliaid
+1.—(1) Mae’n drosedd bwydo i unrhyw anifail cnoi cil neu anifail nad yw’n cnoi cil unrhyw brotein anifeiliaid (neu unrhyw beth sy’n cynnwys protein anifeiliaid) a waherddir gan Erthygl 7 a Phennod I o Atodiad IV mewn perthynas â’r anifail hwnnw.
+(2) Nid yw’r gwaharddiad yn is-baragraff (1) yn gymwys i fwydo unrhyw anifail yn unol â Phennod II o Atodiad IV.
+Gwaharddiadau a chyfyngiadau ar symud
+2.—(1) Pan fo gan arolygydd sail resymol dros gredu bod anifail cnoi cil neu anifail nad yw’n cnoi cil a ffermir wedi ei fwydo ag unrhyw brotein anifeiliaid (neu unrhyw beth sy’n cynnwys protein anifeiliaid), neu wedi cael mynediad ato—
+(a)
+sy’n waharddedig gan Erthygl 7 ac Atodiad IV mewn perthynas â’r anifail hwnnw; neu
+(b)
+na all yr arolygydd ganfod ei darddiad,
+caiff yr arolygydd gymryd y camau a bennir yn is-baragraff (2).
+(2) Caiff yr arolygydd gyflwyno hysbysiad i’r perchennog neu’r person sydd â gofal am yr anifail, yn unol â rheoliad 16, yn gwahardd neu’n cyfyngu ar symud yr anifail ac yn ei gwneud yn ofynnol ei gadw yn y modd a ddarperir yn yr hysbysiad.
+(3) Pan gyflwynir yr hysbysiad mewn cysylltiad ag anifail buchol, rhaid i’r arolygydd—
+(a)
+sicrhau bod ei basbort gwartheg wedi ei stampio “Not for human consumption”; neu
+(b)
+ymafael yn ei basbort gwartheg neu ei gadw, ac mewn achos o’r fath caniateir stampio’r pasbort gwartheg yn y fath fodd cyn ei ddychwelyd.
+(4) Mae’n drosedd i draddodi unrhyw anifail i’w gigydda ar gyfer ei fwyta gan bobl neu gigydda unrhyw anifail ar gyfer ei fwyta gan bobl pan fo pasbort gwartheg yr anifail wedi cael ei stampio yn unol ag is-baragraff (3).
+Lladd anifeiliaid
+3.  Pan fo gan arolygydd sail resymol dros gredu bod anifail cnoi cil neu anifail nad yw’n cnoi cil a ffermir wedi ei fwydo ag unrhyw ddeunydd y cyfeirir ato ym mharagraff 2, neu wedi cael mynediad ato, caiff yr arolygydd gyflwyno hysbysiad i’r perchennog neu’r person sydd â gofal am yr anifail yn unol â rheoliad 16 yn ei gwneud yn ofynnol i’r perchennog neu’r person sydd â gofal am yr anifail ladd yr anifail a’i waredu fel a bennir yn yr hysbysiad.
+Digolledu
+4.—(1) Pan leddir anifail o dan baragraff 3, caiff Gweinidogion Cymru dalu digollediad os ydynt yn ystyried bod hynny’n briodol o dan yr holl amgylchiadau, a rhaid iddynt roi’r penderfyniad ynglŷn â thalu digollediad ai peidio mewn ysgrifen.
+(2) Mae’r weithdrefn apelio yn rheoliad 11 yn gymwys mewn perthynas â’r penderfyniad.
+(3) Y digollediad am—
+(a)
+anifail buchol yw’r gwerth a bennir yn unol â pharagraffau 10 ac 11 o Atodlen 3;
+(b)
+anifail defeidiog neu afraidd yw’r gwerth a bennir yn unol â pharagraffau 15 ac 16 o Atodlen 4; ac
+(c)
+anifail nad yw’n fuchol, yn ddefeidiog nac yn afraidd yw gwerth yr anifail ar y farchnad ar yr adeg y’i lleddir, a bennir yn unol â’r weithdrefn a osodir yn rheoliad 12(3) i (7), gyda’r perchennog yn talu unrhyw ffi a godir ynglŷn â’r prisio.
+Cyfyngu ar fwydydd anifeiliaid anghyfreithlon a’u gwaredu
+5.  Pan fo arolygydd wedi nodi bwydydd anifeiliaid anghyfreithlon fel rhai yr amheuir eu bod yn cynnwys deunydd a waherddir gan Atodiad IV, caiff arolygydd gyflwyno hysbysiad i’r perchennog neu’r person sy’n meddu ar y bwydydd anifeiliaid—
+(a)
+i gyfyngu ar fynediad anifeiliaid i’r ardal lle cedwir y bwydydd anifeiliaid;
+(b)
+i atal y bwydydd anifeiliaid rhag cael eu bwydo i anifeiliaid yn gyffredinol, neu i’w hatal rhag cael eu bwydo i’r anifeiliaid hynny a bennir yn yr hysbysiad;
+(c)
+i’w gwneud yn ofynnol i’r perchennog neu’r person sy’n meddu ar y bwydydd anifeiliaid eu gwaredu yn unol â’r cyfarwyddiadau a gynhwysir yn yr hysbysiad, gyda derbynnydd yr hysbysiad yn ysgwyddo cost y gwarediad hwnnw.
+RHAN 2
+Cynhyrchu protein a bwydydd anifeiliaid
+Mangreoedd sy’n cynhyrchu bwyd anifeiliaid cyfansawdd a fwriedir ar gyfer anifeiliaid nad ydynt yn cnoi cil a ffermir
+6.—(1) Mae’r paragraff hwn yn gymwys i fwyd anifeiliaid cyfansawdd sy’n cynnwys—
+(a)
+blawd pysgod;
+(b)
+ffosffad deucalsiwm a thricalsiwm sy’n dod o anifeiliaid; neu
+(c)
+cynhyrchion gwaed sy’n deillio o anifeiliaid nad ydynt yn cnoi cil.
+(2) Rhaid i unrhyw berson sy’n cynhyrchu bwyd anifeiliaid cyfansawdd, neu fwyd anifeiliaid cyflawn o fwyd anifeiliaid cyfansawdd, a fwriedir ar gyfer ei fwydo i anifeiliaid nad ydynt yn cnoi cil a ffermir, wneud hynny yn unol ag Adran B o Bennod III o Atodiad IV ac—
+(a)
+mewn mangre a awdurdodwyd gan Weinidogion Cymru at ddibenion yr Adran honno; neu
+(b)
+yn achos cyfansoddyddion cartref sy’n cynhyrchu bwyd anifeiliaid cyflawn o fwyd anifeiliaid cyfansawdd, dim ond pan fônt wedi eu cofrestru at y diben hwnnw gan Weinidogion Cymru.
+(3) Mae methu â chydymffurfio â’r paragraff hwn yn drosedd.
+Blawd pysgod a fwriedir ar gyfer anifeiliaid nad ydynt yn cnoi cil a ffermir
+7.—(1) Rhaid i unrhyw berson sy’n cynhyrchu, yn pecynnu neu’n defnyddio—
+(a)
+blawd pysgod; neu
+(b)
+bwyd anifeiliaid cyfansawdd sy’n cynnwys blawd pysgod,
+ar gyfer ei fwydo i anifeiliaid nad ydynt yn cnoi cil a ffermir wneud hynny yn unol ag Adran A o Bennod IV o Atodiad IV.
+(2) Rhaid i’r ddogfennaeth a’r label sy’n mynd gyda’r blawd pysgod fod yn unol â’r Adran honno.
+(3) Mae methu â chydymffurfio â’r paragraff hwn yn drosedd.
+Ffosffadau deucalsiwm a thricalsiwm a fwriedir ar gyfer anifeiliaid nad ydynt yn cnoi cil a ffermir
+8.—(1) Rhaid i unrhyw berson sy’n pecynnu neu’n defnyddio—
+(a)
+ffosffad deucalsiwm neu ffosffad tricalsiwm sy’n dod o anifeiliaid; neu
+(b)
+bwyd anifeiliaid cyfansawdd sy’n cynnwys ffosffadau o’r fath,
+ar gyfer ei fwydo i anifeiliaid nad ydynt yn cnoi cil a ffermir wneud hynny yn unol ag Adran B o Bennod IV o Atodiad IV.
+(2) Rhaid i’r ddogfennaeth a’r label sy’n mynd gyda’r ffosffadau fod yn unol â’r Adran honno.
+(3) Rhaid i unrhyw berson sy’n cludo neu’n storio swmp o’r ffosffadau (neu fwyd anifeiliaid cyfansawdd sy’n cynnwys y ffosffadau) ar gyfer eu bwydo i anifeiliaid nad ydynt yn cnoi cil a ffermir, wneud hynny yn unol ag Adran A o Bennod III o Atodiad IV—
+(a)
+gan gydymffurfio ag unrhyw weithdrefn a awdurdodwyd gan Weinidogion Cymru at ddibenion yr Adran honno; a
+(b)
+(yn achos safleoedd storio y mae pwynt 2 o’r Adran honno yn gymwys iddynt), mewn safleoedd storio sydd wedi eu hawdurdodi at y diben hwnnw gan Weinidogion Cymru.
+(4) Ni chaiff unrhyw feddiannydd mangre sy’n cadw anifeiliaid a ffermir na fwriedir y ffosffadau ar eu cyfer ddefnyddio na storio’r ffosffadau nac unrhyw fwyd anifeiliaid cyfansawdd sy’n eu cynnwys yn y fangre ac eithrio yn achos bwyd anifeiliaid cyfansawdd—
+(a)
+pan fo mesurau a gymeradwywyd gan Weinidogion Cymru wedi eu gweithredu yn unol ag Adran D o Bennod III o Atodiad IV; a
+(b)
+gan gydymffurfio ag amodau unrhyw awdurdodiad a ddyroddir i’r meddiannydd at y diben hwnnw.
+(5) Mae methu â chydymffurfio â’r paragraff hwn yn drosedd.
+Cynhyrchion gwaed a fwriedir ar gyfer anifeiliaid nad ydynt yn cnoi cil a ffermir
+9.—(1) Rhaid i unrhyw berson sy’n casglu neu’n cludo gwaed y bwriedir ei ddefnyddio ar gyfer cynhyrchu cynhyrchion gwaed sy’n deillio o anifeiliaid nad ydynt yn cnoi cil wneud hynny—
+(a)
+yn unol ag Adran C o Bennod IV o Atodiad IV; a
+(b)
+(pan fo gwaed yn cael ei gasglu) o ladd-dy sydd wedi ei gofrestru neu ei awdurdodi gan Weinidogion Cymru at y diben hwnnw.
+(2) Rhaid i unrhyw berson sy’n cynhyrchu, yn storio, yn cludo, yn pecynnu neu’n defnyddio—
+(a)
+cynhyrchion gwaed sy’n deillio o anifeiliaid nad ydynt yn cnoi cil; neu
+(b)
+bwyd anifeiliaid cyfansawdd sy’n cynnwys cynhyrchion o’r fath,
+ar gyfer eu bwydo i anifeiliaid nad ydynt yn cnoi cil a ffermir wneud hynny yn unol ag Adran C o Bennod IV o Atodiad IV a chan gydymffurfio ag unrhyw awdurdodiad a ddyroddwyd gan Weinidogion Cymru at ddibenion yr Adran honno.
+(3) Rhaid i unrhyw berson sy’n cynhyrchu cynhyrchion gwaed o’r fath neu fwyd anifeiliaid cyfansawdd sy’n cynnwys cynhyrchion o’r fath wneud hynny mewn mangre a gofrestrwyd at ddibenion yr Adran honno gan Weinidogion Cymru, oni bai bod Gweinidogion Cymru wedi awdurdodi fel arall yn unol â’r Adran honno.
+(4) Rhaid i’r ddogfennaeth a’r label sy’n mynd gyda’r gwaed neu’r cynhyrchion gwaed fod yn unol â’r Adran honno.
+(5) Rhaid i unrhyw berson sy’n cludo neu’n storio swmp o’r cynhyrchion gwaed (neu fwyd anifeiliaid cyfansawdd sy’n cynnwys cynhyrchion o’r fath) ar gyfer eu bwydo i anifeiliaid nad ydynt yn cnoi cil a ffermir, wneud hynny yn unol ag Adran A o Bennod III o Atodiad IV—
+(a)
+gan gydymffurfio ag unrhyw weithdrefn a awdurdodwyd gan Weinidogion Cymru at ddibenion yr Adran honno; a
+(b)
+(yn achos safleoedd storio y mae pwynt 2 o’r Adran honno yn gymwys iddynt), mewn safleoedd storio sydd wedi eu hawdurdodi at y diben hwnnw gan Weinidogion Cymru.
+(6) Rhaid i unrhyw berson sy’n mewnforio llwyth o’r cynhyrchion gwaed (neu fwyd anifeiliaid cyfansawdd sy’n cynnwys cynhyrchion o’r fath) o drydedd wlad ar gyfer eu bwydo i anifeiliaid nad ydynt yn cnoi cil a ffermir, sicrhau bod y cynhyrchion yn cael eu dadansoddi yn unol ag Adran C o Bennod III o Atodiad IV er mwyn gwirhau nad oes cyfansoddion heb eu hawdurdodi sy’n dod o anifeiliaid yn bresennol.
+(7) Ni chaiff unrhyw feddiannydd mangre sy’n cadw anifeiliaid a ffermir na fwriedir y cynhyrchion ar eu cyfer ddefnyddio na storio’r cynhyrchion nac unrhyw fwyd anifeiliaid cyfansawdd sy’n eu cynnwys yn y fangre ac eithrio yn achos bwyd anifeiliaid cyfansawdd—
+(a)
+pan fo mesurau a gymeradwywyd gan Weinidogion Cymru wedi eu gweithredu yn unol ag Adran D o Bennod III o Atodiad IV; a
+(b)
+gan gydymffurfio ag amodau unrhyw awdurdodiad a ddyroddir i’r meddiannydd at y diben hwnnw.
+(8) Mae methu â chydymffurfio â’r paragraff hwn yn drosedd.
+Protein anifeiliaid wedi ei brosesu ac eithrio blawd pysgod a phrotein anifeiliaid wedi ei brosesu sy’n deillio o bryfed a ffermir i’w fwydo i anifeiliaid dyframaethu
+10.—(1) Rhaid i unrhyw berson sy’n cynhyrchu, yn casglu, yn storio, yn cludo, yn pecynnu neu’n defnyddio—
+(a)
+protein anifeiliaid wedi ei brosesu sy’n deillio o anifeiliaid nad ydynt yn cnoi cil ac eithrio—
+(i)
+blawd pysgod; a
+(ii)
+protein anifeiliaid wedi ei brosesu sy’n deillio o bryfed a ffermir; neu
+(b)
+bwyd anifeiliaid cyfansawdd sy’n cynnwys protein o’r fath,
+ar gyfer ei fwydo i anifeiliaid dyframaethu wneud hynny yn unol ag Adran D o Bennod IV o Atodiad IV a rhaid iddo gydymffurfio ag amodau unrhyw awdurdodiad a ddyroddwyd gan Weinidogion Cymru at ddibenion yr Adran honno.
+(2) Rhaid i unrhyw berson sy’n cynhyrchu’r bwyd anifeiliaid cyfansawdd sy’n cynnwys protein o’r fath, neu fwyd anifeiliaid cyflawn o’r bwyd anifeiliaid cyfansawdd, wneud hynny—
+(a)
+mewn mangre a awdurdodwyd at y diben hwnnw gan Weinidogion Cymru; neu
+(b)
+yn achos cyfansoddyddion cartref sy’n cynhyrchu bwyd anifeiliaid cyflawn o fwyd anifeiliaid cyfansawdd, dim ond pan fônt wedi eu cofrestru at y diben hwnnw gan Weinidogion Cymru.
+(3) Rhaid i’r ddogfennaeth a’r label sy’n mynd gyda’r protein anifeiliaid wedi ei brosesu (neu’r bwyd anifeiliaid cyfansawdd sy’n ei gynnwys) fod yn unol â’r Adran honno.
+(4) Rhaid i unrhyw berson sy’n cyflenwi neu’n cludo is-gynhyrchion ar gyfer cynhyrchu’r protein anifeiliaid wedi ei brosesu wneud hynny—
+(a)
+yn unol ag Adran D o Bennod IV o Atodiad IV; a
+(b)
+pan fo is-gynhyrchion yn cael eu cyflenwi, o ladd-dy, safle torri neu sefydliad arall a gofrestrwyd at y diben hwnnw gan Weinidogion Cymru.
+(5) Mae methu â chydymffurfio â’r paragraff hwn yn drosedd.
+Protein anifeiliaid wedi ei brosesu sy’n deillio o bryfed a ffermir i’w fwydo i anifeiliaid dyframaethu
+11.—(1) Rhaid i unrhyw berson sy’n cynhyrchu, yn storio, yn cludo, yn pecynnu neu’n defnyddio—
+(a)
+protein anifeiliaid wedi ei brosesu sy’n deillio o bryfed a ffermir; a
+(b)
+bwyd anifeiliaid cyfansawdd sy’n cynnwys protein o’r fath,
+ar gyfer ei fwydo i anifeiliaid dyframaethu wneud hynny yn unol ag Adran F o Bennod IV o Atodiad IV a rhaid iddo gydymffurfio ag amodau unrhyw awdurdodiad a ddyroddwyd gan Weinidogion Cymru at ddibenion yr Adran honno.
+(2) Rhaid i unrhyw berson sy’n cynhyrchu’r bwyd anifeiliaid cyfansawdd sy’n cynnwys protein o’r fath, neu fwyd anifeiliaid cyflawn o’r bwyd anifeiliaid cyfansawdd, wneud hynny—
+(a)
+mewn mangre a awdurdodwyd at y diben hwnnw gan Weinidogion Cymru; neu
+(b)
+yn achos cyfansoddyddion cartref sy’n cynhyrchu bwyd anifeiliaid cyflawn o fwyd anifeiliaid cyfansawdd, dim ond pan fônt wedi eu cofrestru at y diben hwnnw gan Weinidogion Cymru.
+(3) Rhaid i’r ddogfennaeth a’r label sy’n mynd gyda’r protein anifeiliaid wedi ei brosesu (neu’r bwyd anifeiliaid cyfansawdd sy’n ei gynnwys) fod yn unol â’r Adran honno.
+(4) Mae methu â chydymffurfio â’r paragraff hwn yn drosedd.
+Amnewidion llaeth sy’n cynnwys blawd pysgod i’w bwydo i anifeiliaid cnoi cil heb eu diddyfnu
+12.—(1) Rhaid i unrhyw berson—
+(a)
+sy’n cynhyrchu blawd pysgod i’w ddefnyddio mewn amnewidion llaeth i’w bwydo i anifeiliaid cnoi cil a ffermir heb eu diddyfnu, neu
+(b)
+sy’n cynhyrchu, yn storio, yn cludo, yn pecynnu neu’n defnyddio amnewidion llaeth sy’n cynnwys blawd pysgod i’w bwydo i anifeiliaid cnoi cil a ffermir heb eu diddyfnu,
+wneud hynny yn unol ag Adran E o Bennod IV o Atodiad IV a chan gydymffurfio ag unrhyw weithdrefn a awdurdodwyd gan Weinidogion Cymru at ddibenion yr Adran honno.
+(2) Rhaid i unrhyw berson sy’n cynhyrchu’r amnewidion llaeth wneud hynny mewn mangre a awdurdodwyd at y diben hwnnw gan Weinidogion Cymru.
+(3) Rhaid i’r ddogfennaeth a’r label sy’n mynd gyda’r amnewidion llaeth fod yn unol ag Adran E o Bennod IV o Atodiad IV.
+(4) Rhaid i unrhyw berson sy’n mewnforio llwyth o’r amnewidion llaeth o drydedd wlad sicrhau bod pob llwyth yn cael ei ddadansoddi gan gydymffurfio â’r Adran honno er mwyn gwirhau nad oes cyfansoddion heb eu hawdurdodi sy’n dod o anifeiliaid yn bresennol.
+(5) Rhaid i unrhyw feddiannydd mangre sy’n defnyddio amnewidion llaeth i’w bwydo i anifeiliaid cnoi cil sydd heb eu diddyfnu ac sy’n cadw anifeiliaid cnoi cil eraill yn y fangre fod wedi ei gofrestru gyda Gweinidogion Cymru at ddibenion yr Adran honno.
+(6) Mae methu â chydymffurfio â’r paragraff hwn yn drosedd.
+Protein anifeiliaid wedi ei brosesu, gan gynnwys blawd pysgod, sy’n deillio o anifeiliaid nad ydynt yn cnoi cil
+13.—(1) Mae’r paragraff hwn yn gymwys i—
+(a)
+protein anifeiliaid wedi ei brosesu sy’n deillio o anifeiliaid nad ydynt yn cnoi cil, gan gynnwys blawd pysgod a phrotein anifeiliaid wedi ei brosesu sy’n deillio o bryfed a ffermir, a
+(b)
+bwyd anifeiliaid cyfansawdd sy’n cynnwys protein o’r fath.
+(2) Rhaid i unrhyw berson sy’n cludo neu’n storio swmp o’r protein ar gyfer ei fwydo i anifeiliaid nad ydynt yn cnoi cil a ffermir, wneud hynny yn unol ag Adran A o Bennod III o Atodiad IV—
+(a)
+gan gydymffurfio ag unrhyw weithdrefn a awdurdodwyd gan Weinidogion Cymru at ddibenion yr Adran honno; a
+(b)
+(yn achos safleoedd storio y mae pwynt 2 o’r Adran honno yn gymwys iddynt), mewn safleoedd storio sydd wedi eu hawdurdodi at y diben hwnnw gan Weinidogion Cymru.
+(3) Rhaid i unrhyw berson sy’n mewnforio llwyth o’r protein o drydedd wlad ar gyfer ei fwydo i anifeiliaid nad ydynt yn cnoi cil a ffermir, sicrhau ei fod yn cael ei ddadansoddi yn unol ag Adran C o Bennod III o Atodiad IV er mwyn gwirhau nad oes cyfansoddion heb eu hawdurdodi sy’n dod o anifeiliaid yn bresennol.
+(4) Ni chaiff unrhyw feddiannydd mangre sy’n cadw anifeiliaid a ffermir na fwriedir y protein ar eu cyfer ddefnyddio na storio’r protein nac unrhyw fwyd anifeiliaid cyfansawdd sy’n ei gynnwys yn y fangre ac eithrio yn achos bwyd anifeiliaid cyfansawdd—
+(a)
+pan fo mesurau a gymeradwywyd gan Weinidogion Cymru wedi eu gweithredu yn unol ag Adran D o Bennod III o Atodiad IV; a
+(b)
+gan gydymffurfio ag amodau unrhyw awdurdodiad a ddyroddir i’r meddiannydd at y diben hwnnw.
+(5) Mae methu â chydymffurfio â’r paragraff hwn yn drosedd.
+Deunyddiau bwyd anifeiliaid a bwyd anifeiliaid cyfansawdd
+14.—(1) Rhaid i unrhyw berson sy’n cludo ac yn storio swmp o ddeunyddiau bwyd anifeiliaid a swmp o fwyd anifeiliaid cyfansawdd sy’n cynnwys deunyddiau sy’n deillio o anifeiliaid cnoi cil wneud hynny yn unol ag Adran B o Bennod V o Atodiad IV a chan gydymffurfio ag unrhyw weithdrefn a awdurdodwyd gan Weinidogion Cymru at ddibenion yr Adran honno.
+(2) Rhaid i unrhyw berson sy’n cynhyrchu bwyd anifeiliaid cyfansawdd a fwriedir ar gyfer anifeiliaid ffwr neu ar gyfer anifeiliaid anwes sy’n cynnwys cynhyrchion sy’n deillio o anifeiliaid cnoi cil neu o anifeiliaid nad ydynt yn cnoi cil wneud hynny yn unol ag Adran C o Bennod V o Atodiad IV.
+(3) Ni chaiff unrhyw feddiannydd mangre sy’n cadw anifeiliaid a ffermir ddefnyddio na storio unrhyw ddeunyddiau bwyd anifeiliaid na bwyd anifeiliaid cyfansawdd ar gyfer anifeiliaid a ffermir sy’n cynnwys deunyddiau sy’n deillio o anifeiliaid cnoi cil ac eithrio yn unol ag Adran D o Bennod V o Atodiad IV.
+(4) Mae methu â chydymffurfio â’r paragraff hwn yn drosedd.
+Allforio protein anifeiliaid wedi ei brosesu i drydydd gwledydd
+15.—(1) Mae’n drosedd allforio i drydedd wlad brotein anifeiliaid wedi ei brosesu sy’n deillio o anifeiliaid cnoi cil, neu brotein anifeiliaid wedi ei brosesu sy’n deillio o anifeiliaid cnoi cil ac anifeiliaid nad ydynt yn cnoi cil, ac eithrio yn unol â’r amodau ym mhwynt 1 o Adran E o Bennod V o Atodiad IV.
+(2) Mae’n drosedd allforio i drydedd wlad gynhyrchion sy’n cynnwys protein anifeiliaid wedi ei brosesu sy’n deillio o anifeiliaid cnoi cil, ac eithrio yn unol â’r amodau ym mhwynt 2 o Adran E o Bennod V o Atodiad IV.
+(3) Mae’n drosedd allforio i drydedd wlad brotein anifeiliaid wedi ei brosesu sy’n deillio o anifeiliaid nad ydynt yn cnoi cil, neu fwyd anifeiliaid cyfansawdd sy’n cynnwys protein o’r fath, ac eithrio yn unol â’r amodau ym mhwynt 3 o Adran E o Bennod V o Atodiad IV a chan gydymffurfio ag amodau unrhyw awdurdodiad a ddyroddwyd gan Weinidogion Cymru at y diben hwnnw.Rheoliad 6(f)
+ATODLEN 7
+Deunydd risg penodedig, cig a wahenir yn fecanyddol a thechnegau cigydda
+Penodi’r Asiantaeth Safonau Bwyd fel yr awdurdod cymwys
+1.  Rhaid i’r Asiantaeth Safonau Bwyd gyflawni’r dyletswyddau a osodir ar yr Aelod-wladwriaeth ym mhwynt 11.1 a phwynt 11.2 o Atodiad V mewn perthynas â’r Atodlen hon, a chaiff roi awdurdodiadau i safle torri ar gyfer tynnu madruddyn y cefn o anifeiliaid defeidiog a gafraidd.
+Hyfforddiant
+2.  Rhaid i feddiannydd unrhyw ladd-dy neu safle torri lle y mae deunydd risg penodedig yn cael ei dynnu—
+(a)
+sicrhau bod staff yn cael unrhyw hyfforddiant sydd ei angen i sicrhau bod y meddiannydd yn cydymffurfio â dyletswyddau’r meddiannydd o dan yr Atodlen hon; a
+(b)
+cadw cofnod o hyfforddiant pob person cyhyd ag y bo’r person hwnnw yn gweithio yno,
+ac mae methu â gwneud hynny yn drosedd.
+Cig a wahenir yn fecanyddol
+3.—(1) Mae unrhyw berson sy’n methu â chydymffurfio â phwynt 5 o Atodiad V (mesurau ynghylch cig a wahenir yn fecanyddol) yn cyflawni trosedd.
+(2) Mae unrhyw berson sy’n defnyddio unrhyw gig a wahanwyd yn fecanyddol a gynhyrchwyd yn groes i’r pwynt hwnnw wrth baratoi unrhyw fwyd i’w werthu ar gyfer ei fwyta gan bobl neu unrhyw fwydydd anifeiliaid yn cyflawni trosedd.
+Pithio
+4.  Mae unrhyw berson sy’n methu â chydymffurfio â phwynt 6 o Atodiad V (mesurau ynghylch rhwygo meinweoedd) yn cyflawni trosedd.
+Cynaeafu tafodau
+5.  Mae unrhyw berson sy’n methu â chydymffurfio â phwynt 7 o Atodiad V (cynaeafu tafodau o anifeiliaid buchol) yn cyflawni trosedd.
+Cynaeafu cig y pen
+6.  Mae unrhyw berson sy’n methu â chydymffurfio â phwynt 8 o Atodiad V (cynaeafu cig pen buchol) yn cyflawni trosedd.
+Tynnu deunydd risg penodedig
+7.—(1) Mae unrhyw berson sy’n tynnu deunydd risg penodedig mewn unrhyw fangre neu fan ar wahân i fangre neu fan lle caniateir tynnu’r deunydd risg penodedig hwnnw yn unol ag Atodiad V yn cyflawni trosedd.
+(2) Yn achos safle torri, mae tynnu’r canlynol yn drosedd—
+(a)
+unrhyw ran o asgwrn y cefn sy’n ddeunydd risg penodedig o unrhyw anifail buchol, oni bai bod y safle wedi ei awdurdodi o dan baragraff 13(1)(a); neu
+(b)
+madruddyn y cefn o unrhyw anifail defeidiog neu afraidd sydd dros 12 mis oed ar adeg ei gigydda, neu sydd â blaenddant parhaol wedi torri drwy’r deintgig, oni bai bod y safle wedi ei awdurdodi o dan baragraff 13(1)(b) at y diben o dynnu deunydd o’r fath.
+Anifeiliaid buchol mewn lladd-dy
+8.—(1) Pan gigyddir anifail buchol mewn lladd-dy, neu pan gludir carcas anifail buchol i ladd-dy ar ôl ei gigydda mewn man arall fel mesur argyfwng, rhaid i feddiannydd y lladd-dy dynnu’r holl ddeunydd risg penodedig o’r carcas (ar wahân i’r rhannau hynny o asgwrn y cefn sy’n ddeunydd risg penodedig) cyn gynted ag y bo’n rhesymol ymarferol ar ôl cigydda ac ym mhob achos cyn arolygiad post-mortem.
+(2) Rhaid i’r meddiannydd—
+(a)
+cyn gynted ag y bo’n rhesymol ymarferol ar ôl arolygiad post-mortem, traddodi unrhyw offal sydd wedi ei dynnu o’r carcas ac sy’n cynnwys neu sy’n gysylltiedig â deunydd risg penodedig i ran briodol o’r lladd-dy; a
+(b)
+cyn gynted ag y bo’n rhesymol ymarferol ar ôl i’r offal gael ei draddodi yno ac ym mhob achos cyn i’r offal gael ei symud o’r lladd-dy, tynnu’r deunydd risg penodedig.
+(3) Rhaid i’r meddiannydd, cyn gynted ag y bo’n rhesymol ymarferol ar ôl y cigydda, draddodi unrhyw gig sy’n cynnwys y rhannau hynny o’r asgwrn cefn sy’n ddeunydd risg penodedig i—
+(a)
+safle torri sydd wedi ei awdurdodi o dan baragraff 13(1)(a);
+(b)
+safle torri a leolir mewn rhan arall o’r Deyrnas Unedig ac a awdurdodwyd o dan y ddarpariaeth gyfatebol sy’n gymwys yn y rhan honno; neu
+(c)
+Aelod-wladwriaeth arall yn unol â phwynt 10.2 o Atodiad V.
+(4) Rhaid i’r meddiannydd nodi cig sy’n cynnwys asgwrn y cefn nad yw’n ddeunydd risg penodedig yn unol â phwynt 11.3(a) o Atodiad V a darparu gwybodaeth yn unol â phwynt 11.3(b) o’r Atodiad hwnnw.
+(5) Rhaid i’r meddiannydd labelu carcasau neu ddarnau cyfanwerthu sy’n cynnwys asgwrn y cefn yn unol â phwynt 11.3(a) o Atodiad V.
+(6) Mae methu â chydymffurfio â’r paragraff hwn yn drosedd.
+Anifeiliaid defeidiog a gafraidd mewn lladd-dy
+9.—(1) Pan gigyddir anifail defeidiog neu afraidd mewn lladd-dy, neu pan gludir carcas anifail defeidiog neu afraidd i ladd-dy ar ôl ei gigydda mewn man arall fel mesur argyfwng, rhaid i feddiannydd y lladd-dy dynnu’r holl ddeunydd risg penodedig o’r carcas (ar wahân i fadruddyn y cefn) cyn gynted ag y bo’n rhesymol ymarferol ar ôl cigydda ac ym mhob achos cyn arolygiad post-mortem.
+(2) Rhaid i’r meddiannydd—
+(a)
+cyn gynted ag y bo’n rhesymol ymarferol ar ôl arolygiad post-mortem, traddodi unrhyw offal sydd wedi ei dynnu o’r carcas ac sy’n cynnwys neu sy’n gysylltiedig â deunydd risg penodedig i ran briodol o’r lladd-dy; a
+(b)
+cyn gynted ag y bo’n rhesymol ymarferol ar ôl i’r offal gael ei draddodi yno ac ym mhob achos cyn i’r offal gael ei symud o’r lladd-dy, tynnu’r deunydd risg penodedig.
+(3) Yn achos anifail defeidiog neu afraidd sydd dros 12 mis oed ar adeg ei gigydda, neu sydd â blaenddant parhaol wedi torri drwy’r deintgig, rhaid i’r meddiannydd, cyn gynted ag y bo’n rhesymol ymarferol ar ôl cigydda—
+(a)
+tynnu madruddyn y cefn yn y lladd-dy yn ddi-oed yn dilyn yr arolygiad post-mortem; neu
+(b)
+anfon y cig i—
+(i)
+safle torri sydd wedi ei awdurdodi o dan baragraff 13(1)(b);
+(ii)
+safle torri a leolir mewn rhan arall o’r Deyrnas Unedig ac a awdurdodwyd o dan y ddarpariaeth gyfatebol sy’n gymwys yn y rhan honno; neu
+(iii)
+yn unol â phwynt 10.1 o Atodiad V, safle torri a leolir mewn Aelod-wladwriaeth arall.
+(4) Mae methu â chydymffurfio â’r paragraff hwn yn drosedd.
+Anifeiliaid buchol, defeidiog a gafraidd mewn mannau cigydda eraill
+10.—(1) Pan fydd anifail buchol, defeidiog neu afraidd yn cael ei gigydda mewn man sydd, at ddibenion pwynt 4.1(a) o Atodiad V, yn fan cigydda arall, rhaid i’r person sy’n ymgymryd â’r cigydda dynnu’r holl ddeunydd risg penodedig cyn gynted ag y bo’n rhesymol ymarferol ar ôl cigydda.
+(2) Mae methu â chydymffurfio â’r paragraff hwn yn drosedd.
+Stampiau ŵyn a geifr ifanc
+11.—(1) Caiff arolygydd stampio anifail defeidiog neu afraidd mewn lladd-dy gyda stamp oen ifanc neu stamp gafr ifanc, yn y drefn honno, os nad oes gan yr anifail flaenddant parhaol sydd wedi torri drwy’r deintgig, ac os nad yw’r ddogfennaeth sy’n gysylltiedig â’r anifail, os oes dogfennaeth o’r fath, yn dangos ei fod dros 12 mis oed ar adeg ei gigydda.
+(2) Rhaid i’r stamp farcio’r cig gyda chylch sy’n 5 centimetr mewn diamedr ac yn cynnwys y canlynol mewn llythrennau bras 1 centimetr o uchder—
+(a)
+“MHS”; a
+(b)
+yn achos—
+(i)
+anifail defeidiog, “YL”; neu
+(ii)
+anifail gafraidd, “YG”.
+(3) Mae’n drosedd i unrhyw berson ac eithrio arolygydd osod y stamp neu farc tebyg iddo, neu fod â chyfarpar ar gyfer ei osod yn ei feddiant.
+(4) Mae’n drosedd marcio anifail defeidiog neu anifail gafraidd gyda stamp oen ifanc neu stamp gafr ifanc neu stamp sy’n debyg iddynt oni bai bod yr anifail yn un y caniateir ei farcio yn unol ag is-baragraff (1).
+Tynnu madruddyn y cefn o anifeiliaid defeidiog a gafraidd
+12.—(1) Mae’n drosedd tynnu madruddyn y cefn neu unrhyw ran ohono o anifail defeidiog neu afraidd sydd dros 12 mis oed ar adeg ei gigydda neu a oedd ag un neu fwy o’i flaenddannedd parhaol wedi torri drwy’r deintgig (ac eithrio at ddibenion archwiliad milfeddygol neu wyddonol) ac eithrio drwy—
+(a)
+hollti’r holl asgwrn cefn yn hydredol;
+(b)
+tynnu ymaith doriad hydredol o’r holl asgwrn cefn gan gynnwys madruddyn y cefn; neu
+(c)
+dull arall a gymeradwywyd yn unol ag is-baragraff (2).
+(2) Caiff yr Asiantaeth Safonau Bwyd gymeradwyo dull arall o dynnu ymaith mewn daliad penodedig ar yr amod bod meddiannydd y daliad yn dangos er boddhad yr Asiantaeth—
+(a)
+bod y dull yn briodol er mwyn cyflawni amcanion Rheoliad TSE yr UE;
+(b)
+bod y cyfarpar a ddefnyddir i dynnu ymaith yn gwbl effeithiol; ac
+(c)
+bod y personau sy’n defnyddio’r cyfarpar wedi eu hyfforddi’n briodol ac yn fedrus o ran ei ddefnyddio a’i gynnal.
+Awdurdodi safleoedd torri gan yr Asiantaeth Safonau Bwyd
+13.—(1) Os yw’r Asiantaeth Safonau Bwyd wedi ei bodloni y cydymffurfir â darpariaethau Atodiad V a’r Atodlen hon, caiff yr Asiantaeth awdurdodi safle torri i—
+(a)
+tynnu’r rhannau hynny o asgwrn cefn anifeiliaid buchol sy’n ddeunydd risg penodedig; neu
+(b)
+tynnu madruddyn y cefn o anifeiliaid defeidiog a gafraidd sydd dros 12 mis oed ar adeg eu cigydda, neu sydd â blaenddant parhaol wedi torri drwy’r deintgig, neu
+(c)
+cynaeafu cig y pen o anifeiliaid buchol yn unol â phwynt 9 o Atodiad V.
+(2) Mae’r gweithdrefnau yn rheoliadau 7, 9, 10 ac 11 yn gymwys, ond rhaid dehongli pob cyfeiriad at Weinidogion Cymru fel pe baent yn gyfeiriadau at yr Asiantaeth Safonau Bwyd.
+Tynnu deunydd risg penodedig mewn safle torri a awdurdodwyd o dan baragraff 13(1)
+14.  Mae meddiannydd safle torri a awdurdodwyd o dan baragraff 13(1) yn cyflawni trosedd oni fydd yn tynnu o’r cig yr holl ddeunydd risg penodedig o’r math y mae’r awdurdodiad yn ymwneud ag ef, cyn gynted ag y bo’n rhesymol ymarferol ar ôl i’r cig gyrraedd y safle, ac mewn unrhyw achos cyn i’r cig gael ei symud o’r safle.
+Carcasau o Aelod-wladwriaeth
+15.  At ddibenion pwynt 10.1 a phwynt 10.2 o Atodiad V, pan gludir carcas sy’n cynnwys y rhannau hynny o asgwrn cefn anifail buchol sy’n ddeunydd risg penodedig i Gymru o Aelod-wladwriaeth, rhaid i’r mewnforiwr ei anfon ar ei union i safle torri a awdurdodwyd o dan baragraff 13(1)(a), ac mae methu â gwneud hynny yn drosedd.
+Staenio a gwaredu deunydd risg penodedig
+16.—(1) Mae meddiannydd unrhyw fangre lle y tynnir deunydd risg penodedig yn cyflawni trosedd os yw’r meddiannydd hwnnw yn methu â chydymffurfio â phwynt 3 o Atodiad V (marcio a gwaredu).
+(2) At ddibenion y pwynt hwnnw—
+(a)
+mae staenio yn golygu trin y deunydd (pa un ai drwy drochi, chwistrellu neu daenu rywfodd arall) gyda chyfrwng lliwio glas gan ddefnyddio toddiant sy’n ddigon cryf fel bod y staen yn hollol weladwy ac yn parhau’n weladwy ar ôl i’r deunydd risg penodedig gael ei oeri neu ei rewi; a
+(b)
+rhaid taenu’r staen yn y fath fodd fel bod y lliw yn hollol weladwy ac yn parhau felly—
+(i)
+dros holl arwyneb y toriad a’r rhan fwyaf o’r pen yn achos pen anifail defeidiog neu afraidd; a
+(ii)
+yn achos pob deunydd risg penodedig arall, dros holl arwyneb y deunydd.
+Diogelwch deunydd risg penodedig
+17.—(1) Hyd nes y traddodir neu y gwaredir y deunydd o’r fangre neu’r man lle y’i tynnwyd, rhaid i feddiannydd y fangre sicrhau bod deunydd risg penodedig yn cael ei wahanu’n ddigonol oddi wrth unrhyw fwyd, bwydydd anifeiliaid neu gynnyrch cosmetig, fferyllol neu feddygol, a’i gadw mewn cynhwysydd anhydraidd sydd â chaead arno a label i nodi ei fod yn cynnwys naill ai—
+(a)
+deunydd risg penodedig; neu
+(b)
+sgil-gynhyrchion anifeiliaid Categori 1 ac yn dwyn y geiriau “For disposal only”.
+(2) Rhaid i’r meddiannydd sicrhau bod y cynhwysydd yn cael ei olchi’n drylwyr cyn gynted ag y bo’n rhesymol ymarferol bob tro y caiff ei wagio, a’i ddiheintio cyn ei ddefnyddio at unrhyw ddiben arall.
+(3) Mae methu â chydymffurfio â’r paragraff hwn yn drosedd.
+Gwahardd gwerthu neu gyflenwi deunydd risg penodedig, neu feddu arno ar gyfer ei werthu neu ei gyflenwi, ar gyfer ei fwyta gan bobl
+18.  Mae’n drosedd gwerthu neu gyflenwi’r canlynol, neu feddu ar y canlynol ar gyfer ei werthu neu ei gyflenwi—
+(a)
+unrhyw ddeunydd risg penodedig, neu unrhyw fwyd sy’n cynnwys deunydd risg penodedig, ar gyfer ei fwyta gan bobl; neu
+(b)
+unrhyw ddeunydd risg penodedig i’w ddefnyddio i baratoi unrhyw fwyd ar gyfer ei fwyta gan bobl.Rheoliad 6(g)
+ATODLEN 8
+Cyfyngiadau ar roi ar y farchnad ac allforio
+Rhoi cynhyrchion buchol ar y farchnad neu eu hallforio i drydydd gwledydd
+1.—(1) Mae’n drosedd i unrhyw berson roi ar y farchnad neu allforio (neu gynnig allforio) i drydydd gwledydd unrhyw gynhyrchion sydd ar ffurf neu sy’n ymgorffori unrhyw ddeunydd (ac eithrio llaeth) sy’n deillio o anifail buchol a anwyd neu a fagwyd o fewn y Deyrnas Unedig cyn 1 Awst 1996.
+(2) Nid yw’r gwaharddiad yn is-baragraff (1) yn gymwys i grwyn anifeiliaid buchol a anwyd neu a fagwyd o fewn y Deyrnas Unedig cyn 1 Awst 1996 a ddefnyddiwyd i gynhyrchu lledr yn unol ag Erthygl 1(3) o Benderfyniad y Comisiwn 2007/411/EC(1).
+(3) At ddibenion y paragraff hwn, bernir bod anifail buchol wedi ei eni neu ei fagu yn y Deyrnas Unedig cyn 1 Awst 1996 oni bai bod ei basbort gwartheg yn dangos naill ai—
+(a)
+ei fod wedi ei eni yn y Deyrnas Unedig ar 1 Awst 1996 neu ar ôl hynny; neu
+(b)
+y daeth i’r Deyrnas Unedig am y tro cyntaf ar 1 Awst 1996 neu ar ôl hynny.
+Rhoi anifeiliaid buchol ar y farchnad neu eu hallforio i drydydd gwledydd
+2.—(1) Mae’n drosedd i unrhyw berson roi ar y farchnad neu allforio (neu gynnig allforio) i drydydd gwledydd anifeiliaid buchol a anwyd neu a fagwyd yn y Deyrnas Unedig cyn 1 Awst 1996.
+(2) Nid yw’r gwaharddiad yn is-baragraff (1) yn gymwys i roi anifeiliaid o’r fath ar y farchnad i’w gwerthu neu i’w cyflenwi i unrhyw berson yn y Deyrnas Unedig.
+(3) At ddibenion y paragraff hwn, bernir bod anifail buchol wedi ei eni neu ei fagu yn y Deyrnas Unedig cyn 1 Awst 1996 oni bai bod ei basbort gwartheg yn dangos naill ai—
+(a)
+ei fod wedi ei eni yn y Deyrnas Unedig ar 1 Awst 1996 neu ar ôl hynny; neu
+(b)
+y daeth i’r Deyrnas Unedig am y tro cyntaf ar 1 Awst 1996 neu ar ôl hynny.
+(1)
+OJ Rhif L 155, 15.6.2007, t. 74.NODYN ESBONIADOL
+(Nid yw’r nodyn hwn yn rhan o’r Rheoliadau)
+Mae’r Rheoliadau hyn, sy’n gymwys o ran Cymru, yn dirymu ac yn ail-wneud gyda diwygiadau Reoliadau Enseffalopathïau Sbyngffurf Trosglwyddadwy (Cymru) 2008 (O.S. 2008/3154 (Cy. 282)).
+Mae’r Rheoliadau hyn yn parhau i orfodi Rheoliad (EC) Rhif 999/2001 Senedd Ewrop a’r Cyngor sy’n gosod rheolau ar gyfer atal, rheoli a dileu enseffalopathïau sbyngffurf trosglwyddadwy penodol (OJ Rhif L 147, 31.5.2001, t. 1) (“Rheoliad TSE yr UE”).
+Mae Rhan 1 o’r Rheoliadau yn darparu mai Gweinidogion Cymru yw’r awdurdod cymwys at ddibenion Rheoliad TSE yr UE, ac eithrio yn Atodlen 7, lle yr Asiantaeth Safonau Bwyd yw’r awdurdod cymwys (rheoliad 3). Rhaid i anifeiliaid a gedwir at ddibenion ymchwil (ac nad yw Rheoliad TSE yr UE yn gymwys iddynt) gael eu gwaredu yn unol â Rheoliad (EC) Rhif 1069/2009 Senedd Ewrop a’r Cyngor sy’n gosod rheolau iechyd o ran sgil-gynhyrchion anifeiliaid a chynhyrchion deilliedig nad ydynt wedi eu bwriadu ar gyfer eu bwyta gan bobl (OJ Rhif L 300, 14.11.2009, t. 1) (rheoliad 4).
+Mae’r darpariaethau yn Rhan 2 yn nodi’r rheolaethau TSE sy’n destun gorfodaeth o dan y Rheoliadau hyn ac yn cyflwyno Atodlenni 2 i 8.
+Mae Rhan 3 yn ymdrin â gweinyddu a gorfodi.
+Mae rheoliadau 7 i 11 yn ymdrin â chymeradwyo, awdurdodi, trwyddedu a chofrestru, dyletswyddau’r meddiannydd, atal dros dro, diwygio a dirymu cymeradwyaethau etc., a gweithdrefn apelio.
+Mae rheoliad 12 yn ymdrin â phrisiadau.
+Mae rheoliadau 13 i 15 yn rhoi pwerau i Weinidogion Cymru, yr awdurdod lleol a’r Asiantaeth Safonau Bwyd benodi arolygwyr, ac yn ymdrin â phwerau mynediad a phwerau arolygwyr. Mae rheoliad 16 yn darparu ar gyfer gweithdrefn hysbysu, mae rheoliad 17 yn darparu ar gyfer cyflwyno hysbysiadau ac mae rheoliad 18 yn darparu ar gyfer trwyddedau sy’n caniatáu symud yn ystod cyfnod o gyfyngu ar symud.
+Mae rheoliadau 19 i 21 yn ymdrin â chosbau a throseddau.
+Mae rheoliad 22 yn manylu ar bwy sy’n gyfrifol am orfodi’r Rheoliadau hyn.
+Mae rheoliad 23 yn cynnwys rhai diwygiadau canlyniadol.
+Mae rheoliad 24 yn ymdrin â dirymiadau.
+Mae rheoliad 25 yn cynnwys darpariaethau trosiannol.
+Mae Atodlen 1 yn nodi’r gofynion TSE.
+Mae Atodlen 2 yn nodi’r gofynion o ran monitro ar gyfer TSE a chymeradwyo labordai ac yn darparu ar gyfer digolledu.
+Mae Atodlen 3 yn ymdrin â rheoli a dileu TSEs mewn anifeiliaid buchol, ac at y dibenion hynny mae’n gwneud darpariaeth i Weinidogion Cymru dalu digollediad am anifail buchol.
+Mae Atodlen 4 yn ymdrin â rheoli a dileu TSEs mewn defaid a geifr, ac at y dibenion hynny mae’n gwneud darpariaeth i Weinidogion Cymru dalu digollediad am ddefaid a geifr.
+Mae Atodlen 5 yn ymdrin â rheoli a dileu TSEs mewn anifeiliaid nad ydynt yn fuchol, yn ddefeidiog nac yn afraidd, ac at y dibenion hynny mae’n gwneud darpariaeth i Weinidogion Cymru dalu digollediad.
+Mae Atodlen 6 yn ymdrin â bwydydd anifeiliaid. Mae Rhan 1 yn ymwneud â chyfyngiadau ar fwydo protein i anifeiliaid ac yn gwneud darpariaeth i Weinidogion Cymru dalu digollediad am gigydda anifeiliaid sydd wedi cael mynediad i fwydydd anifeiliaid anghyfreithlon. Mae Rhan 2 yn ymdrin â rheolaethau ar gynhyrchu protein a bwydydd anifeiliaid.
+Mae Atodlen 7 yn ymwneud â deunydd risg penodedig, cig a wahenir yn fecanyddol a thechnegau cigydda. Penodir yr Asiantaeth Safonau Bwyd fel yr awdurdod cymwys at ddibenion yr Atodlen hon.
+Mae Atodlen 8 yn ymdrin ag allforio anifeiliaid buchol byw a chynhyrchion sy’n deillio ohonynt i Aelod-wladwriaethau eraill ac i drydydd gwledydd.
+Ystyriwyd Cod Ymarfer Gweinidogion Cymru ar gynnal Asesiadau Effaith Rheoleiddiol mewn perthynas â’r Rheoliadau hyn. O ganlyniad, lluniwyd Asesiad Effaith Rheoleiddiol o’r costau a’r manteision sy’n debygol o ddeillio o gydymffurfio â’r Rheoliadau hyn. Gellir cael copi oddi wrth Lywodraeth Cymru, Parc Cathays, Caerdydd, CF10 3NQ.

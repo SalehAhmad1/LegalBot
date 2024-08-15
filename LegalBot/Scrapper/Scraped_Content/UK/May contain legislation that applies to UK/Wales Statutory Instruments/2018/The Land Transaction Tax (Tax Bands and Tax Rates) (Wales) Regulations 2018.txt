@@ -1,0 +1,88 @@
+WELSH STATUTORY INSTRUMENTS
+2018 No. 128 (W. 32)
+LAND TRANSACTION TAX, WALES
+The Land Transaction Tax (Tax Bands and Tax Rates) (Wales) Regulations 2018
+Made
+31 January 2018
+Coming into force
+1 April 2018
+The Welsh Ministers make the following Regulations in exercise of the powers conferred on them by section 24(1) of, and paragraph 28(1) of Schedule 6 to, the Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 M1.
+In accordance with section 25(1) of that Act, a draft of these Regulations was laid before and approved by a resolution of the National Assembly for Wales.
+Marginal Citations
+M1
+2017 anaw 1.Title and commencement
+1.—(1) The title of these Regulations is the Land Transaction Tax (Tax Bands and Tax Rates) (Wales) Regulations 2018.
+(2) These Regulations come into force on 1 April 2018.Application
+2.—[F1(1)] [F2Subject to paragraph (2),] these Regulations have effect in relation to any chargeable transaction M1 with an effective date on or after 1 April 2018.
+[F3(2) These Regulations do not have effect in relation to any chargeable transaction that is subject to the Land Transaction Tax (Temporary Variation of Rates and Bands for Residential Property Transactions) (Wales) Regulations 2020.]
+Textual Amendments
+F1
+Reg. 2(1): reg. 2 renumbered as reg. 2(1) (27.7.2020) by virtue of The Land Transaction Tax (Temporary Variation of Rates and Bands for Residential Property Transactions) (Wales) Regulations 2020 (S.I. 2020/794), regs. 1(2), 4(2)(a) (with reg. 2)
+F2
+Words in reg. 2(1) inserted (27.7.2020) by The Land Transaction Tax (Temporary Variation of Rates and Bands for Residential Property Transactions) (Wales) Regulations 2020 (S.I. 2020/794), regs. 1(2), 4(2)(b) (with reg. 2)
+F3
+Reg. 2(2) inserted (27.7.2020) by The Land Transaction Tax (Temporary Variation of Rates and Bands for Residential Property Transactions) (Wales) Regulations 2020 (S.I. 2020/794), regs. 1(2), 4(2)(c) (with reg. 2)
+Marginal Citations
+M1
+See section 17 of the Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 for the definition of “chargeable transaction”.Tax bands and percentage tax rates
+3.  The Schedule to these Regulations specifies the tax bands and percentage tax rates for the purposes of section 24(1) of, and paragraph 28(1) of Schedule 6 to, the Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017—
+(a)
+Table 1 specifies the tax bands and percentage tax rates for each band for residential property transactions;
+(b)
+Table 2 specifies the tax bands and percentage tax rates for each band for higher rates residential property transactions;
+(c)
+Table 3 specifies the tax bands and percentage tax rates for each band for non-residential property transactions; and
+(d)
+Table 4 specifies the tax bands and percentage tax rates for each band for transactions where the chargeable consideration consists of rent.Mark Drakeford
+Cabinet Secretary for Finance, one of the Welsh MinistersRegulation 3
+SCHEDULE
+[F1Table 1
+Residential property transactions
+Tax band Relevant consideration Percentage tax rate
+Zero rate band Not more than £225,000 0%
+First tax band More than £225,000 but not more than £400,000 6%
+Second tax band More than £400,000 but not more than £750,000 7.5%
+Third tax band More than £750,000 but not more than £1,500,000 10%
+Fourth tax band More than £1,500,000 12%]
+Textual Amendments
+F1
+Sch. Table 1 substituted (10.10.2022) by The Land Transaction Tax (Tax Bands and Tax Rates) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1027), regs. 1, 7(2) (with regs. 3-6)
+[F2Table 2: Higher rates residential property transactions
+Tax band Relevant consideration Percentage tax rate
+First tax band Not more than £180,000 4%
+Second tax band More than £180,000 but not more than £250,000 7.5%
+Third tax band More than £250,000 but not more than £400,000 9%
+Fourth tax band More than £400,000 but not more than £750,000 11.5%
+Fifth tax band More than £750,000 but not more than £1,500,000 14%
+Sixth tax band More than £1,500,000 16%]
+Textual Amendments
+F2
+Sch. Table 2 substituted (with effect in accordance with regs. 3-5 of the amending S.I.) by The Land Transaction Tax (Tax Bands and Tax Rates) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1618), regs. 1, 6(2)
+[F3Table 3: Non-residential property transactions
+Tax band Relevant consideration Percentage tax rate
+Zero rate band Not more than £225,000 0%
+First tax band More than £225,000 but not more than £250,000 1%
+Second tax band More than £250,000 but not more than £1,000,000 5%
+Third tax band More than £1,000,000 6%]
+Textual Amendments
+F3
+Sch. Table 3 substituted (with effect in accordance with regs. 3-5 of the amending S.I.) by The Land Transaction Tax (Tax Bands and Tax Rates) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1618), regs. 1, 6(3)
+[F4Table 4: Chargeable consideration which consists of rent
+Tax band Relevant consideration Percentage tax rate
+NRL zero rate band Not more than £225,000 0%
+First tax band More than £225,000 but not more than £2,000,000 1%
+Second tax band More than £2,000,000 2%]
+Textual Amendments
+F4
+Sch. Table 4 substituted (with effect in accordance with regs. 3-5 of the amending S.I.) by The Land Transaction Tax (Tax Bands and Tax Rates) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1618), regs. 1, 6(4)EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations specify the first tax bands and percentage tax rates for land transaction tax, which is introduced by the Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (“the LTT Act”).
+The tax bands and percentage tax rates in these Regulations have effect in relation to chargeable transactions with an effective date on or after 1 April 2018.
+Separate tax bands and percentage tax rates apply to:
+Residential property transactions (Table 1);
+Higher rates residential property transactions (Table 2);
+Non-residential property transactions (Table 3); and
+Chargeable consideration which consists of rent (and therefore which is only relevant in the case of leases) (Table 4).
+Tax is to be calculated in accordance with sections 27 and 28 of the LTT Act except where the chargeable consideration consists of rent. In these cases, tax is to be calculated in accordance with Part 5 of Schedule 6 to the LTT Act.
+By virtue of section 24(8) of the LTT Act, transactions involving a mixture of residential and non-residential property are to be treated as non-residential property transactions (and the tax bands and percentage tax rates in Table 3 apply).
+The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, a Regulatory Impact Assessment has been prepared as to the likely costs and benefits of complying with these Regulations. A copy can be obtained from the Welsh Government, Cathays Park, Cardiff CF10 3NQ.

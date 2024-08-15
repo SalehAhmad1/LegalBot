@@ -1,0 +1,45 @@
+STATUTORY INSTRUMENTS
+2023 No. 518
+CORPORATION TAX
+INCOME TAX
+The Community Investment Tax Relief (Amendment of Investment Limits) Regulations 2023
+Made
+9th May 2023
+Laid before the House of Commons
+11th May 2023
+Coming into force
+1st June 2023
+The Treasury, in exercise of the powers conferred by sections 340(2)(b) and (6), 341(1) and 348(6) and (7) of the Income Tax Act 2007(1) and section 229(6) and (7) of the Corporation Tax Act 2010(2), make the following Regulations.
+(1)
+2007 c. 3. Section 348(7) was amended by paragraph 511 of Schedule 1 to the Corporation Tax Act 2010.
+(2)
+2010 c. 4.Citation, commencement and effect
+1.—(1) These Regulations may be cited as the Community Investment Tax Relief (Amendment of Investment Limits) Regulations 2023 and come into force on 1st June 2023.
+(2) Regulations 2 and 3 have effect in relation to accreditation periods ending on or after 1st June 2023.Amendment of the Income Tax Act 2007
+2.  In section 348(4) of the Income Tax Act 2007 (tax relief certificates)—
+(a)
+in paragraph (a), for “£10 million” substitute “£25 million”;
+(b)
+in paragraph (b), for “£20 million” substitute “£100 million”.Amendment of the Corporation Tax Act 2010
+3.  In section 229(4) of the Corporation Tax Act 2010 (tax relief certificates)—
+(a)
+in paragraph (a), for “£10 million” substitute “£25 million”;
+(b)
+in paragraph (b), for “£20 million” substitute “£100 million”.Amendment of the Community Investment Tax Relief (Accreditation of Community Development Finance Institutions) Regulations 2003
+4.  In Schedule 1 to the Community Investment Tax Relief (Accreditation of Community Development Finance Institutions) Regulations 2003(1) (investments which are not relevant investments)—
+(a)
+in paragraph 2, for “£100,000” in each place it occurs, substitute “£250,000”;
+(b)
+in paragraph 3, for “(as published at http://europa.eu.int/comm/competition/‌state_aid/others/reference_rates.html)”, substitute “(the base rate for the United Kingdom as published at https://competition-policy.ec.europa.eu/state-aid/legislation/reference-discount-rates-and-recovery-interest-rates/reference-and-discount-rates_en)”;
+(c)
+in paragraph 4, for “£250,000” in each place it occurs, substitute “£375,000”.
+(1)
+S.I. 2003/96; paragraphs 2 and 4 of Schedule 1 were amended by S.I. 2013/417.Steve Double
+Andrew Stephenson
+Two of the Lords Commissioners of His Majesty’s Treasury
+9th May 2023EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the investment limits in respect of community investment tax relief (CITR), which is tax relief for investments made by individuals and companies in bodies which are accredited as community development finance institutions (CDFIs).
+Regulations 2 and 3 increase the limits of investments in respect of which tax relief certificates may be issued for the purposes of CITR under section 348 of the Income Tax Act 2007 and section 229 of the Corporation Tax Act 2010. The amendments apply to any accreditation period which ends on or after the date that these Regulations come into force; authority for retrospective effect is provided by section 348(7) of the Income Tax Act 2007 and section 229(7) of the Corporation Tax Act 2010.
+Regulation 4 amends Schedule 1 to the Community Investment Tax Relief (Accreditation of Community Development Finance Institutions) Regulations 2003 to increase the limits of “relevant investments” for the purposes of those Regulations; it is a term of accreditation that CDFIs must invest specified proportions of their funds in relevant investments. Regulation 4 also amends an outdated cross-reference in paragraph 3 of Schedule 1 to those Regulations.
+A Tax Information and Impact Note covering this instrument will be published on the website at https://www.gov.uk/government/collections/tax-information-and-impact-notes-tiins.

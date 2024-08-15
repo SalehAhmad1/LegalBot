@@ -1,0 +1,578 @@
+Draft Regulations laid before the Scottish Parliament under section 128(2) and (3) of the Transport (Scotland) Act 2019, for approval by resolution of the Scottish Parliament.
+DRAFT SCOTTISH STATUTORY INSTRUMENTS
+2021 No.
+TRANSPORT
+The Low Emission Zones (Emission Standards, Exemptions and Enforcement) (Scotland) Regulations 2021
+Made
+2021
+Coming into force
+31st May 2021
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 6(4), 7(4)(b), 8(1) and 128(1)(b) of the Transport (Scotland) Act 2019(1) and all other powers enabling them to do so.
+In accordance with sections 6(4), 7(4)(b) and 8(1) of that Act, the Scottish Ministers have consulted with such persons as they consider appropriate.
+In accordance with section 128(2) and (3) of that Act(2), a draft of these Regulations has been laid before, and approved by resolution of, the Scottish Parliament.
+(1)
+2019 asp 17.
+(2)
+2019 asp 17. The powers to make these Regulations are exercised together by virtue of section 33(2) of the Interpretation ad Legislative Reform (Scotland) Act 2010 (asp 10). These Regulations are subject to the affirmative procedure by virtue of section 33(3) of that Act.Citation, commencement and interpretation
+1.—(1) These Regulations may be cited as the Low Emission Zones (Emission Standards, Exemptions and Enforcement) (Scotland) Regulations 2021 and come into force on 31 May 2021.
+(2) In these Regulations—
+“the 2019 Act” means the Transport (Scotland) Act 2019,
+“the 1994 Act” means the Vehicle Excise and Registration Act 1994(1),
+“ambulance” means a vehicle within category M intended for the transport of sick or injured persons and having special equipment for such purpose,
+“the appeal period” means the period of 28 days beginning with the date of service of the notice of rejection,
+“approved device” means a device approved for use in connection with the operation of a Low Emission Zone scheme in accordance with regulation 20 (approved devices) of the Low Emission Zones (Scotland) Regulations 2021(2),
+“bus” means a vehicle within category M3,
+“category M” means vehicles designed and constructed primarily for the carriage of passengers and their luggage, sub-divided into categories M1, M2 and M3,
+“category M1” means a vehicle designed and constructed primarily for the carriage of passengers with not more than 8 seating positions in addition to the driver’s seating position,
+“category M2” means a vehicle designed and constructed primarily for the carriage of passengers with more than eight seating positions in addition to the driver’s seating position and having a maximum mass not exceeding 5 tonnes,
+“category M3” means a vehicle designed and constructed primarily for the carriage of passengers with more than eight seating positions in addition to the driver’s seating position and having a maximum mass exceeding 5 tonnes,
+“category N1” means a vehicle designed and constructed primarily for the carriage of goods with a maximum mass not exceeding 3.5 tonnes,
+“category N2” means a vehicle designed and constructed primarily for the carriage of goods with a maximum mass exceeding 3.5 tonnes but not exceeding 12 tonnes,
+“category N3” means a vehicle designed and constructed primarily for the carriage of goods with a maximum mass exceeding 12 tonnes,
+“CH4” means methane,
+“coach” means a vehicle within category M3,
+“compression ignition engine” means an internal combustion engine in which combustion is initiated by heat produced from compression of the air in the cylinder or combustion space,
+“compression ignition engine vehicle” includes a vehicle which is propelled wholly or partly by a compression ignition engine,
+“contravention” means a contravention of the prohibition in section 6(1) (restriction on driving within a zone) of the 2019 Act,
+“CO” means carbon monoxide,
+“the detection date” means the date on which the contravention occurred, according to a record produced by an approved device,
+“Directive 70/220/EEC” means Council Directive 70/220/EEC on the approximation of the laws of the Member States relating to measures to be taken against air pollution by gases from positive-ignition engines of motor vehicles(3) as it had effect immediately before its repeal,
+“Directive 88/77/EEC” means Council Directive 88/77/EEC on the approximation of the laws of the Member States relating to the measures to be taken against the emission of gaseous pollutants from diesel engines for use in vehicles(4) as it had effect immediately before its repeal,
+“Directive 97/24/EC” means Directive 97/24/EC of the European Parliament and of the Council on certain components and characteristics of two or three-wheel motor vehicles(5) as it had effect immediately before its repeal,
+“ELR test” means a test cycle consisting of a sequence of load steps at constant engine speeds to be applied in accordance with section 6.2 of Annex 1 of Directive 88/77/EEC,
+“ESC test” means a test cycle consisting of 13 steady state modes to be applied in accordance with section 6.2 of Annex 1 of Directive 88/77/EEC,
+“ETC test” means a test a test cycle consisting of 1,800 second-by-second transient modes to be applied in accordance with section 6.2 of Annex 1 of Directive 88/77/EEC,
+“euro 3” means—
+(a)
+for mopeds, the emissions limit values specified in the Table in point 2.2.1.1.3.1 of Annex 1, or
+(b)
+for motorcycles, the emissions limit values in row B of the Table in point 2.2.1.1.5 of Annex 2,
+of Chapter 5 of Directive 97/24/EC,
+“euro 4” means the emissions limit values set out in the rows corresponding with Category B in the first of the tables at section 5.3.1.4 of Annex 1 of Directive 70/220/EEC,
+“euro IV” means the emissions limit values set out in Row B1 of Table 1 and Table 2 of section 6.2.1 of Annex 1 of Directive 88/77/EEC,
+“euro 6” means the emissions limit values set out in Table 2 of Annex 1 of Regulation (EC) No 715/2007 of the European Parliament and of the Council on type approval of motor vehicles with respect to emissions from light passenger and commercial vehicles(6),
+“euro VI” means the emissions limit values set out in the Table in Annex 1 of Regulation (EC) No 595/2009 of the European Parliament and of the Council on type-approval of motor vehicles and engines with respect to emissions from heavy duty vehicles(7),
+“First-tier Tribunal” means the First-tier Tribunal for Scotland (see section 1(1) (establishment of the tribunals) of the Tribunals (Scotland) Act 2014(8)),
+“hearse” means a vehicle within category M intended for the transport of deceased persons and having special equipment for such a purpose,
+“heavy goods vehicle” means—
+(a)
+a vehicle within category N2, or
+(b)
+a vehicle within category N3,
+“HC” means hydrocarbons,
+“light goods vehicle” means a vehicle within category N1,
+“light passenger vehicle” means a vehicle within category M1,
+“local authority” means the local authority operating a low emission zone scheme or, as the case may be, local authorities jointly operating such a scheme,
+“maximum mass” means the technically permissible maximum laden mass as specified by the manufacturer,
+“minibus” means a vehicle within category M2,
+“motor caravan” means a vehicle within category M with living accommodation space which contains the following equipment as a minimum—
+(a)
+seats and table,
+(b)
+sleeping accommodation which may be converted from the seats,
+(c)
+cooking facilities,
+(d)
+storage facilities,
+where this equipment must be rigidly fixed to the living compartment but the table may be designed to be easily removable,
+“moped” means a two-wheeled vehicle or a three-wheeled vehicle with a maximum design speed of not more than 45 km/h that is characterised by—
+(a)
+for two-wheeled vehicles, an internal combustion engine with a cylinder capacity which does not exceed 50 cm3,
+(b)
+for three-wheeled vehicles, an engine—
+(i)
+with a cylinder capacity which does not exceed 50 cm3 for positive ignition engines, or
+(ii)
+where the engine’s maximum net power output does not exceed 4 kW for compression ignition engines,
+“motorcycle” means a two-wheeled vehicle fitted with an internal combustion engine having a cylinder capacity of more than 50 cm3 and having a maximum design speed of more than 45 km/h,
+“NH3” means ammonia,
+“NMHC” means non-methane hydrocarbons,
+“NOx” means oxides of nitrogen,
+“notice of rejection” means the notice served on a person by a local authority under regulation 9(3), where the local authority is satisfied that none of the grounds on which representations have been made have been established,
+“PM” means particulate matter,
+“PN” means particle number,
+“the payment period”, in relation to a penalty charge notice, means the period of 28 days beginning with the date of service of the notice,
+“positive ignition engine” means an internal combustion engine in which combustion is initiated by a localised high temperature in the combustion chamber produced by energy supplied from a source external to the engine,
+“positive ignition engine vehicle” includes a vehicle which is propelled wholly or partly by a positive ignition engine,
+“reference mass” means the mass of the vehicle in running order less the uniform mass of the driver of 75 kilograms and increased by a uniform mass of 100 kilograms,
+“registered keeper” means the person in whose name a vehicle is registered under section 21 (registration of vehicles) of the 1994 Act(9),
+“relevant vehicle” means the vehicle in which the contravention occurred,
+“THC+NOx” means combined mass of hydrocarbons and oxides of nitrogen,
+“Type I” means a test as described in section 5.3 of Annex 1 of Directive 70/220/EEC (test for simulating/verifying the average tailpipe emissions after a cold start) and carried out using the procedure described in Annex 3 of that Directive,
+“Type I for mopeds and motorcycles” means a test as described in section 2.2.1.1 of Annex 1 of Chapter 5 of Directive 97/24/EC and carried out using the procedure described in Appendix 1 of that Annex,
+“Type II for mopeds and motorcycles” means a test as described in section 2.2.1.1 of Annex 1 of Chapter 5 of Directive 97/24/EC and carried out using the procedure described in Appendix 2 of that Annex,
+“Upper Tribunal” means the Upper Tribunal for Scotland (see section 1(1) (establishment of the tribunals) of the Tribunals (Scotland) Act 2014),
+“WHSC” means the World Harmonised Steady state Driving Cycle as defined in Regulation No. 49 of the Economic Commission for Europe of the United Nations(10),
+“WHTC” means the World Transient Steady state Driving cycle as defined in Regulation No. 49 of the Economic Commission for Europe of the United Nations,
+“writing” and “written” include electronic communications within the meaning of section 15 (general interpretation) of the Electronic Communications Act 2000(11).
+(1)
+1994 c.22.
+(2)
+S.S.I. 2021/    .
+(3)
+OJ L 076, 6.4.1970, p.1. Directive 70/220/EEC was repealed by Regulation (EC) No 715/2007 of the European Parliament and of the Council of 20 June 2007 on type approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance (OJ L 171, 29.6.2007, p.1).
+(4)
+OJ L 36, 9.2.1988, p.33. Directive 87/77/EEC was repealed by Directive 2005/55/EC of the European Parliament and of the Council of 28 September 2005 on the approximation of the laws of the Member States relating to the measures to be taken against the emission of gaseous and particulate pollutants from compression-ignition engines for use in vehicles, and the emission of gaseous pollutants from positive-ignition engines fuelled with natural gas or liquefied petroleum gas for use in vehicles (OJ L 275, 20.10.2005, p.1).
+(5)
+OJ L 226, 18.8.1997, p.1. Directive 97/24/EC was repealed by Regulation (EU) No 168/2013 of the European Parliament and of the Council of 15 January 2013 on the approval and market surveillance of two- or three-wheel vehicles and quadricycles text with EEA relevance (OJ L 60, 2.3.2013, p.52).
+(6)
+EUR 2007/715.
+(7)
+EUR 2009/595.
+(8)
+2014 asp 10.
+(9)
+1994 c.22. Section 21 was amended for purposes not relevant to these Regulations.
+(10)
+Regulation No. 49 of the Economic Commission for Europe of the United Nations (UN/ECE) – Uniform provisions concerning the measures to be taken against the emission of gaseous and particulate pollutants from compression-ignition engines for use in vehicles, and the emission of gaseous pollutants from positive-ignition engines fuelled with natural gas or liquefied petroleum gas for use in vehicles as amended up to revision 6, which amendments came into force on 27 January 2013.
+(11)
+2000 c.7. Section 15 was relevantly amended by paragraph 158 of schedule 17 of the Communications Act 2003 (c.17).Emission standards
+2.  For the purpose of section 6(1)(a) (restriction on driving within a zone) of the 2019 Act(1) the emission standard for—
+(a)
+a compression ignition engine vehicle is the standard specified for that vehicle in—
+(i)
+Table 1 in schedule 1 (euro 6 standards for compression ignition engine vehicles), or
+(ii)
+Table 2 in schedule 1 (euro VI standards for compression ignition engine vehicles),
+(b)
+a positive ignition engine vehicle is the standard specified for that vehicle in—
+(i)
+Table 1 in schedule 2 (euro 4 standards for positive ignition engine vehicles), or
+(ii)
+Table 2 in schedule 2 (euro IV standards for positive ignition engine vehicles),
+(c)
+mopeds and motorcycles is standard specified for those vehicles in the Table in schedule 3 (euro 3).
+(1)
+2019 asp 17.Exemptions
+3.—(1) For the purpose of section 6(1)(b) (restriction on driving within a zone) of the 2019 Act a vehicle is exempt if—
+(a)
+it is being driven by any person—
+(i)
+in the exercise of their duty as a constable,
+(ii)
+providing a response to an emergency at the request of the Scottish Ambulance Service Board,
+(iii)
+in the exercise of the functions of—
+(aa)
+the Scottish Ambulance Service Board under article 4(1)(a) (functions of the Board) of the Scottish Ambulance Service Board Order 1999(1),
+(bb)
+the Scottish Fire and Rescue Service,
+(cc)
+Her Majesty’s Coastguard,
+(dd)
+the National Crime Agency,
+(iv)
+for naval, military or air force purposes,
+(b)
+it is being driven by a person to whom a badge has been issued under section 21(2) (badges for display on motor vehicles used by disabled persons) of the Chronically Sick and Disabled Persons Act 1970(2),
+(c)
+a passenger in the vehicle has been issued with a badge under that section of that Act,
+(d)
+a badge for the vehicle has been issued under section 21(4) of that Act(3),
+(e)
+it is one to which paragraph 1ZA of schedule 1 (annual rates of duty) of the 1994 Act(4) applies by virtue of sub-paragraph (2) of that paragraph,
+(f)
+it is exempt from payment of vehicle excise duty under paragraph 19(1) or 20(1)(5) of schedule 2 (exempt vehicles) of the 1994 Act,
+(g)
+it is a showman’s goods vehicle or a showman’s vehicle,
+(h)
+it is a vehicle of historical interest.
+(2) In this regulation—
+“showman’s goods vehicle” and “showman’s vehicle” have the meanings given by section 62(1)(6) (other definitions) of the 1994 Act,
+“vehicle excise duty” has the meaning given by section 1(1)(7) (duty and licences) of the 1994 Act,
+”vehicle of historical interest” means a vehicle which is considered to be of historical interest to the United Kingdom and which—
+(a)
+was manufactured, or registered, for the first time at least 30 years previously,
+(b)
+is of a type no longer in production, and
+(c)
+has been historically preserved or maintained in its original state and has not undergone substantial changes in the technical characteristics of its main components,
+where “type” in relation to the vehicle has same meaning as “type of vehicle” in Article 3(32) of Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles(8).
+(1)
+S.I. 1999/686.
+(2)
+1970 c.44. Section 21(2) was substituted by section 35(2) of the Road Traffic Act 1991 (c.40).
+(3)
+Section 21(4) was amended by section 49 of the Transport (Scotland) Act 2005 (asp 12).
+(4)
+1994 c.22. Paragraph 1ZA of schedule 1 was inserted by paragraph 5 of schedule 37 of the Finance Act 2013 (c.29).
+(5)
+Paragraph 19 of schedule 2 was amended by section 17 of the Finance Act 1997 (c.16), paragraph 172 of schedule 1 of the National Health Service (Consequential Provisions) Act 2006 (c.43), and paragraph 6 of schedule 37 of the Finance Act 2013. Paragraph 20 of schedule 2 has been amended for purposes nor relevant to these Regulations.
+(6)
+Section 62 has been amended for purposes not relevant to these Regulations.
+(7)
+Section 1(1) was substituted by paragraph 2 of schedule 5 of the Finance Act 2002 (c.23).
+(8)
+EUR 2018/858, to which there are amendments not relevant to these Regulations.Penalty charges
+4.—(1) The penalty charge payable in respect of a first contravention is the amount specified in the entry in column 3 of the table in schedule 4 corresponding to the vehicle type specified in column 1 of that table in which the contravention occurred.
+(2) The penalty charge payable in respect of a second contravention is—
+(a)
+the amount specified in the entry in column 3 of the table in schedule 4 corresponding to the vehicle type specified in column 1 of that table in which the contravention occurred, and
+(b)
+the surcharge specified in column 4 of that table corresponding to the entry in column 1 of that table for that vehicle.
+(3) The penalty charge payable in respect of a third contravention is—
+(a)
+the amount specified in the entry in column 3 of the table in schedule 4 corresponding to the vehicle type specified in column 1 of that table in which the contravention occurred, and
+(b)
+the second surcharge specified in column 5 of that table corresponding to the entry in column 1 of that table for that vehicle.
+(4) The penalty charge payable in respect of a fourth contravention is—
+(a)
+the amount specified in the entry in column 3 of the table in schedule 4 corresponding to the vehicle type specified in column 1 of that table in which the contravention occurred, and
+(b)
+the third surcharge specified in column 6 of that table corresponding to the entry in column 1 of that table for that vehicle.
+(5) The penalty charge payable in respect of a fifth and any subsequent contravention is—
+(a)
+the amount specified in the entry in column 3 of the table in schedule 4 corresponding to the vehicle type specified in column 1 of that table in which the contravention occurred, and
+(b)
+the fourth surcharge specified in column 7 of that table corresponding to the entry in column 1 of that table for that vehicle.
+(6) This paragraph applies where—
+(a)
+a person is found liable to pay a penalty charge under section 6(2) of the 2019 Act by virtue of a contravention occurring in a particular vehicle in relation to a particular low emission zone (“the relevant contravention”), and
+(b)
+the relevant contravention occurs 90 days or more after that person’s most recent previous contravention for which they were found liable under section 6(2) of the 2019 Act in that particular vehicle in that particular zone.
+(7) Where paragraph (6) applies, the relevant contravention is to be treated as if it were a first contravention for the purposes of paragraphs (1) to (5).
+(8) If a penalty charge is paid before the end of the period of 14 days beginning with the date of service of a penalty charge notice under regulation 6, the penalty charge is reduced by 50 per cent.
+(9) Where a charge certificate is served under regulation 7 the penalty charge is increased by 50 per cent.
+(10) In this regulation—
+“first contravention” refers to the first occasion in which a person is liable to pay a penalty charge under sections 6(2) and 7(4) (proving contraventions and issue of penalty charge notice) of the 2019 Act by virtue of a contravention occurring in a particular vehicle in relation to a particular low emission zone,
+“second contravention” refers to the second occasion in which the same person as in the first contravention is liable to pay a penalty charge under sections 6(2) and 7(4) of the 2019 Act by virtue of a contravention occurring in the same vehicle and in relation to the same low emission zone as the first contravention,
+“third contravention” refers to the third occasion in which the same person as in the first contravention is liable to pay a penalty charge under sections 6(2) and 7(4) of the 2019 Act by virtue of a contravention occurring in the same vehicle and in relation to the same low emission zone as the first contravention,
+“fourth contravention” refers to the fourth occasion in which the same person as in the first contravention is liable to pay a penalty charge under sections 6(2) and 7(4) of the 2019 Act by virtue of a contravention occurring in the same vehicle and in relation to the same low emission zone as the first contravention,
+“fifth and any subsequent contravention” refers to the fifth and any subsequent occasion in which the same person as in the first contravention is liable to pay a penalty charge under sections 6(2) and 7(4) of the 2019 Act(1) by virtue of a contravention occurring in the same vehicle and in relation to the same low emission zone as the first contravention.
+(1)
+2019 asp 17.Liability of persons other than the registered keeper for penalty charges
+5.—(1) A penalty charge under section 6(2) of the 2019 Act is payable by a person other than the registered keeper of a vehicle in the circumstances specified in paragraphs (2) to (5).
+(2) Where the relevant vehicle is not registered in terms of section 21 (registration of vehicles) of the 1994 Act(1), a penalty charge is payable by the person by whom the relevant vehicle was used or kept at the time of the contravention.
+(3) Where the registered keeper has sold or transferred the relevant vehicle before the time of the contravention, a penalty charge is payable by the person by whom the relevant vehicle was used or kept at the time of the contravention.
+(4) Where at the time of the contravention—
+(a)
+the registered keeper of the relevant vehicle was a vehicle hire firm, and
+(b)
+the relevant vehicle was hired to a person under a hiring agreement with the vehicle hire firm,
+a penalty charge is payable by the person hiring the relevant vehicle.
+(5) Where at the time of the contravention the relevant vehicle was used or kept by a person who was a vehicle trader and that vehicle trader was not the registered keeper, a penalty charge is payable by that person.
+(6) In this regulation—
+“hiring agreement” means an agreement for the hire of a vehicle—
+(a)
+under the terms of which the vehicle is let to the hirer for a fixed period of any duration (whether or not that period is capable of extension by agreement between the parties or otherwise),
+(b)
+which contains such particulars as may for the time being be prescribed for the purpose of section 66 (hired vehicles) of the Road Traffic Offenders Act 1988(2), and
+(c)
+which is not a hire-purchase agreement within the meaning given to that term by section 189(1) (definitions) of the Consumer Credit Act 1974(3),
+“vehicle trader” has the same meaning as in regulation 3(1) (interpretation) of the Road Vehicle (Registration and Licensing) Regulations 2002(4).
+(1)
+1994 c.22. Section 21(1) was substituted by paragraph 2 of schedule 3 of the Finance Act 1997 (c.16), and section 21(2) was amended, and section 21(4) substituted, by paragraph 33 of schedule 4 of the Finance Act 1995 (c.4).
+(2)
+1988 c.53. Section 66 was relevantly amended by paragraph 1 of schedule 7 of the Road Safety Act 2006 (c.49).
+(3)
+1974 c.39.
+(4)
+S.I. 2002/2742. Regulation 3(1) was relevantly amended by S.I. 2015/403.Penalty charge notices
+6.—(1) Where a local authority has reason to believe that a penalty charge is payable under section 6(2) of the 2019 Act, it may serve a notice (“a penalty charge notice”) on—
+(a)
+the registered keeper, or
+(b)
+any person by whom the penalty charge is payable under regulation 5.
+(2) A penalty charge notice must be served before the end of the period of 28 days beginning with the detection date.
+(3) But where—
+(a)
+within 14 days of the detection date a local authority has made a request to the Secretary of State for the supply of relevant information, and
+(b)
+that information has not been supplied before the end of the period described in paragraph (2),
+the local authority may serve a penalty charge notice within 14 days beginning with the date on which the information is received under sub-paragraph (a).
+(4) In paragraph (3) “relevant information” means—
+(a)
+information relating to the identity and address of the registered keeper of the vehicle,
+(b)
+the emission standard of the vehicle involved in the alleged contravention.
+(5) A penalty charge notice must—
+(a)
+specify the registration mark of the vehicle involved in the contravention,
+(b)
+specify the detection date and time at which the alleged contravention occurred,
+(c)
+specify the reasons why the local authority believes that a contravention has occurred and that a penalty charge is payable by the recipient of the notice,
+(d)
+specify the amount of the penalty charge,
+(e)
+describe the manner in which the penalty charge may be paid to the local authority which has served the notice under paragraph (1),
+(f)
+state that the penalty charge must be paid before the end of the payment period, unless representations have been made under regulation 8(1),
+(g)
+state that if the penalty charge is paid before the end of the period of 14 days beginning with the date of service of the penalty charge notice, the penalty charge will be reduced by 50 per cent,
+(h)
+state that representations may be made, on any of the grounds specified in regulation 8(4), to the local authority against the decision to serve the penalty charge notice, but that representations made outside the payment period may be disregarded,
+(i)
+state that the penalty charge must not be paid if representations have been made under regulation 8(1) and notice of a decision in respect of those representations has not been served under regulation 9(1)(b),
+(j)
+state the grounds specified in regulation 8(4),
+(k)
+specify where representations are to be sent,
+(l)
+state that unless, before the end of the payment period—
+(i)
+the penalty charge is paid, or
+(ii)
+representations have been made under regulation 8(1),
+the local authority may issue a charge certificate under regulation 7 (and describe the effect of that regulation were it to do so),
+(m)
+state that if the representations are rejected an appeal may be made to the First-tier Tribunal against the decision to serve a penalty charge notice on any of the grounds specified in regulation 8(4),
+(n)
+state that the recipient of the penalty charge notice may, by giving notice in writing to the local authority, request that the local authority provide the recipient, free of charge, with a copy of the record of the contravention produced by the approved device pursuant to which the penalty charge notice was served or with such still images from that record as, in the local authority’s opinion, establish the contravention.
+(6) Where the recipient makes a request as described in paragraph (5)(n), the local authority must comply with the request within 14 days of receipt of that request.
+(7) In this regulation “registration mark” has the meaning given by section 23 (registration marks) of the 1994 Act.Charge certificates
+7.—(1) Where—
+(a)
+a penalty charge notice is served on a person, and
+(b)
+the penalty charge to which it relates is not paid before the end of the relevant period,
+the local authority that served the penalty charge notice may serve on that person a statement (a “charge certificate”) to the effect that the penalty charge is increased by 50 per cent.
+(2) The ‘relevant period’ for the purposes of paragraph (1) means—
+(a)
+where a notice of rejection is served but no appeal is made under regulation 10, the period of 28 days beginning with the date of service of the notice of rejection,
+(b)
+where there has been an unsuccessful appeal against the imposition of the charge to the First-tier Tribunal and no subsequent appeal to the Upper Tribunal, the period of 28 days beginning with the date on which the decision of the First-tier Tribunal is sent to the appellant,
+(c)
+where there has been an unsuccessful appeal against the imposition of the charge to the Upper Tribunal, the period of 28 days beginning with the date on which the decision of the Upper Tribunal is sent to the appellant,
+(d)
+where an appeal to either the First-tier Tribunal or Upper Tribunal is withdrawn, the period of 14 days beginning with the date on which it is withdrawn, and
+(e)
+where no representations are made under regulation 8(1) within the payment period, that period.
+(3) If representations are received by a local authority after the payment period and taken account of under regulation 8(3), the local authority must cancel a charge certificate served under paragraph (1).
+(4) Where in relation to a penalty charge notice—
+(a)
+the relevant period for the purposes of paragraph (1)(b) has expired, and
+(b)
+the increased charge for which the charge certificate provides is not paid before the end of the period of 14 days beginning with the date on which the certificate is served,
+the local authority concerned may recover the increased charge as if it were payable under an extract registered decree arbitral bearing a warrant for execution issued by the sheriff for any sheriffdom.
+(5) In paragraph (4), “the increased charge” means the penalty charge payable in respect of a contravention in accordance with a charge certificate served in relation to that contravention under paragraph (1).Representations in respect of penalty charges
+8.—(1) The recipient of a penalty charge notice may make written representations within the payment period to the local authority against the decision to serve a penalty charge notice on any of the grounds specified in paragraph (4).
+(2) Where a representation is made under paragraph (1), the recipient of the penalty charge notice must include evidence relevant to the specified ground relied upon.
+(3) The local authority may consider whether it is reasonable and appropriate to take account of such representations made under paragraph (1) which are received by them after the end of the payment period.
+(4) The specified grounds are—
+(a)
+that the alleged contravention did not occur,
+(b)
+where the penalty charge notice has been served on the recipient on the basis that the recipient was the registered keeper of the relevant vehicle, that the recipient was not the registered keeper on the detection date,
+(c)
+where the recipient of the penalty charge notice was the registered keeper of the relevant vehicle on the detection date, that the penalty is payable by another person under regulation 5,
+(d)
+where the penalty charge notice has been served on the recipient on the basis that the recipient, though not the registered keeper of the relevant vehicle, was the person by whom the penalty charge was payable under regulation 5, that the penalty charge was not payable by that person,
+(e)
+that the penalty charge exceeded the amount applicable in the circumstances of the case, and
+(f)
+that the contravention did occur but in light of extenuating circumstances, it would be unreasonable to impose a penalty charge notice.
+(5) Where the ground mentioned in paragraph (4)(c) is relied on in any representations made under paragraph (1), those representations must include a statement of the name and address (if known) of the person who is considered by the recipient of the penalty charge notice to be responsible for payment of the penalty charge under regulation 5.Response to representations
+9.—(1) Where representations are made to a local authority under regulation 8(1) within the payment period, or taken account of by the local authority under regulation 8(3), it must—
+(a)
+consider those representations and any supporting evidence provided,
+(b)
+serve on the person by whom the representations were made a notice under paragraph (2) or, as the case may be, paragraph (3).
+(2) Where a local authority accepts that at least one of the grounds specified in regulation 8(4) is established, it must—
+(a)
+cancel the penalty charge notice,
+(b)
+serve a notice on the person by whom representations were made—
+(i)
+stating that the penalty charge notice has been cancelled,
+(ii)
+explaining the local authority’s decision, and its reasons for that decision, on each of the grounds on which representations were made
+(c)
+refund any penalty charge paid in relation to the cancelled penalty charge notice.
+(3) Where a local authority is satisfied that none of the grounds on which representations are made is established, it must serve on the person by whom those representations were made a notice to that effect (“a notice of rejection”).
+(4) A notice of rejection must—
+(a)
+state the reasons for the local authority’s decision on each ground on which representations were made,
+(b)
+state that an appeal against the imposition of the penalty charge may be made to the First-tier Tribunal within the appeal period, or such longer period as the First-tier Tribunal may allow,
+(c)
+state the grounds upon which an appeal may be made (being the same grounds as are specified in regulation 8(4)),
+(d)
+describe in general terms the manner and form for making an appeal,
+(e)
+state that the First-tier Tribunal has power to make an award of expenses,
+(f)
+state that if the penalty charge is paid before the end of the period of 14 days beginning with the date of service of the notice of rejection, the penalty charge will be reduced by 50 per cent, and
+(g)
+state that unless, before the end of the appeal period—
+(i)
+the penalty charge is paid, or
+(ii)
+an appeal is made to the First-tier Tribunal against the imposition of the charge,
+the local authority may issue a charge certificate under regulation 7 (and describe the effect of that regulation were it to do so).
+(5) Where a penalty charge notice is cancelled under paragraph (2), the local authority may serve another penalty charge notice in relation to the alleged contravention that was the subject of the cancelled penalty charge notice on any person (other than the person on whom the original penalty charge notice was served) appearing to it to be liable to pay the charge in respect of that contravention.
+(6) Regulation 6(2) to (6) applies in relation to a notice served under paragraph (5) as if—
+(a)
+for paragraph (2) there were substituted—
+“(2) A penalty charge notice must be served before the end of the period of 28 days beginning with the date on which notification of cancellation is made under  regulation 9(2)”,
+(b)
+for sub-paragraph (a) of paragraph (3) there were substituted—
+“(a)
+within 14 days of the date on which the penalty charge notice is cancelled a local authority has made a request to the Secretary of State for the supply of relevant particulars”, and
+(c)
+in paragraph (3)(b), the reference to paragraph (2) were a reference to that paragraph as modified by sub-paragraph (b) of this paragraph.Appeal to the First-tier Tribunal
+10.—(1) A person on whom a penalty charge notice has been served may, on any of the grounds set out in regulation 8(4) and before the end of the appeal period or such longer period as the First-tier Tribunal may allow, appeal to the First-tier Tribunal against the imposition of the penalty charge if—
+(a)
+that person has made representations to the local authority under regulation 8(1), and
+(b)
+that person has received from the local authority a notice of rejection under regulation 9(3).
+(2) An appeal is to made by a notice of appeal sent in writing to the First-tier Tribunal.Enforcement arrangements
+11.  A local authority may enter into arrangements with any person for the exercise by that person of any function conferred by or under section 7 of the 2019 Act(1) and these Regulations.
+(1)
+2019 asp 17.Interference with operation of low emission zone scheme
+12.—(1) A person commits an offence if, with intent to avoid payment of, or with intent to avoid being identified as having failed to pay, a penalty charge payable under section 6(2) of the 2019 Act, the person—
+(a)
+interferes with any approved device used for or in connection with a low emission zone scheme,
+(b)
+interferes with any traffic sign or direction used for or in connection with a low emission zone scheme,
+(c)
+causes or permits the registration plate of a motor vehicle to be obscured,
+(d)
+makes or uses any false document, or
+(e)
+makes a false representation in response to a penalty charge notice served in accordance with regulation 6.
+(2) A person guilty of an offence under paragraph (1) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.Name
+A member of the Scottish Government
+St Andrew’s House,
+Edinburgh
+DateRegulation 2(1)(a)
+SCHEDULE 1
+Euro Standards for Compression Ignition Engine Vehicles
+In this schedule vehicle categories M1 to M3 include ambulances, hearses and motor caravans.
+Table 1
+Euro 6 standards for compression ignition engine vehicles
+Vehicle category Reference mass of vehicle, where relevant (kg)
+Limit values for CO
+(mg/km)
+Limit values for NOx
+(mg/km)
+Limit values for THC+
+NOx (mg/km)
+Limit values for PM Limit values for PN (#/km) Appropriate Test
+category M1 not exceeding 2610 500 80 170 4.5 6 x 10 Type I
+category M2 not exceeding 2610 500 80 170 4.5 6 x 10 Type I
+category N1 sub-class (i) not exceeding 1305 500 80 170 4.5 6 x 10 Type I
+category N1 sub-class (ii) exceeding 1305 and not exceeding 1760 630 105 195 4.5 6 x 10 Type I
+category N1 sub-class (iii) exceeding 1760 740 125 215 4.5 6 x 10 Type I
+category N2 not exceeding 2610 740 125 215 4.5 6 x 10 Type I
+Table 2
+Euro VI standards for compression ignition engine vehicles
+Vehicle category Reference mass of vehicle, where relevant (kg)
+Limit values for CO
+(mg/kWh)
+Limit values for NOx
+(mg/kWh)
+Limit values for NH3
+(ppm)
+Limit values for PM
+(mg/kWh)
+ParticleMass Number(#kWh) Appropriate Test
+category M1 exceeding 2610 1500 400 10 10 6 x 10 WHSC
+category M1 exceeding 2610 4000 460 10 10 6 x 10 WHTC
+category M2 exceeding 2610 1500 400 10 10 6 x 10 WHSC
+category M2 exceeding 2610 4000 460 10 10 6 x 10 WHTC
+category M3 exceeding 2610 1500 400 10 10 6 x 10 WHSC
+category M3 exceeding 2610 4000 460 10 10 6 x 10 WHTC
+category N2 exceeding 2610 1500 400 10 10 6 x 10 WHSC
+category N2 exceeding 2610 4000 460 10 10 6 x 10 WHTC
+category N3 exceeding 2610 1500 400 10 10 6 x 10 WHSC
+category N3 exceeding 2610 4000 460 10 10 6 x 10 WHTCRegulation 2(1)(b)
+SCHEDULE 2
+Euro Standards for Positive Ignition Engine Vehicles
+In this schedule vehicle categories M1 to M3 include ambulances, hearses and motor caravans.
+Table 1
+Euro 4 standards for positive ignition engine vehicles
+Vehicle category Reference mass of vehicle, where relevant (kg) Maximum mass of vehicle, where relevant (kg) Limit values for CO (g/km) Limit values for NOx (g/km) Limit values for HC (g/km) Appropriate Test
+category M1 not exceeding 2500 1 0.08 0.1 Type I
+category M1 not exceeding 1305 exceeding 2500 1 0.08 0.1 Type I
+category M1 exceeding 1305 and not exceeding 1760 exceeding 2500 1.81 0.1 0.13 Type I
+category M1 exceeding 1760 exceeding 2500 2.27 0.11 0.16 Type I
+category M2 not exceeding 2500 1 0.08 0.1 Type I
+category M2 exceeding 1305 and not exceeding 1760 exceeding 2500 and not exceeding 3500 1.81 0.1 0.13 Type I
+category M2 exceeding 1760 exceeding 2500 and not exceeding 3500 2.27 0.16 0.11 Type I
+category M2 not exceeding 2840 exceeding 3500 2.27 0.16 0.11 Type I
+category N1 sub-class (i) not exceeding 1305 1 0.08 0.1 Type I
+category N1 sub-class (ii) exceeding 1305 and not exceeding 1760 1.81 0.1 0.13 Type I
+category N1 sub-class (iii) exceeding 1760 2.27 0.11 0.16 Type I
+category N2 not exceeding 2840 2.27 0.11 0.16 Type I
+Table 2
+Euro IV standards for positive ignition engine vehicles
+Vehicle category
+Reference mass of
+vehicle, where relevant (kg)
+Limit values
+for CO
+(g/kWh)
+Limit values
+for HC
+(g/kWh)
+Limit values
+for NOx
+(g/kWh)
+Limit values
+for PM
+(g/kWh)
+Limit values
+for NMHC
+(g/kWh)
+Limit values
+for
+CH4
+(g/kWh)
+Limit values
+for smoke(m-1)
+Appropriate
+Test
+category M3 exceeding 2610 1.5 0.46 3.5 0.02 0.5 ESC and ELR
+category M3 exceeding 2610 4.0 3.5 0.55 1.1 ETC
+category N3 exceeding 2610 1.5 0.46 3.5 0.02 0.5 ESC and ELR
+category N3 exceeding 2610 4.0 3.5 0.55 1.1 ETCRegulation 2(1)(c)
+SCHEDULE 3
+Euro Standards for Mopeds and Motorcycles
+Table
+Euro 3 standards for mopeds and motorcycles
+Vehicle category Class (engine capacity in cubic centimetres) Limit values for CO (g/km) Limit values for HC (g/km) Limit values for NOx (g/km)
+Limit values for THC+
+NOx
+(g/km)
+Appropriate Test
+moped 1 1.2 Type I for mopeds and motorcycles and Type II for mopeds and motorcycles
+motorcycle not exceeding 150 2 0.8 0.15 Type I for mopeds and motorcycles and Type II for mopeds and motorcycles
+motorcycle exceeding 150 2 0.3 0.15 Type I for mopeds and motorcycles and Type II for mopeds and motorcyclesRegulation 4
+SCHEDULE 4
+Penalty Charge Rates
+Table
+Vehicle Description Initial penalty charge First surcharge Second surcharge Third Surcharge Fourth Surcharge
+Column 1 Column 2 Column 3 Column 4 Column 5 Column 6 Column 7
+light passenger vehicle £60 £60 £180 £420 £420
+minibus £60 £60 £180 £420 £900
+bus or coach £60 £60 £180 £420 £900
+light goods vehicle £60 £60 £180 £420 £420
+heavy goods vehicle vehicle within category N2 £60 £60 £180 £420 £900
+heavy goods vehicle vehicle within category N3 £60 £60 £180 £420 £900
+ambulance £60 £60 £180 £420 £420
+hearse £60 £60 £180 £420 £420
+motor caravan £60 £60 £180 £420 £420
+mopeds or motorcycles £60 £60 £180 £420 £420EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations make provision for the operation of low emission zone schemes.
+In Part 2—
+(a)
+regulation 2 and schedules 1 to 3 set out the emission standards with which vehicles must comply in order for those vehicles to be driven within a low emission zone, and
+(b)
+regulation 3 sets out the vehicles which are permanently exempt from the requirement to comply with those standards within a low emission zone.
+Regulations 4 to 12 in Part 3 make provision for penalty charges imposed as a consequence of a contravention of section 6(1) of the Transport (Scotland) Act 2019, and for the enforcement of a low emission zone scheme by the local authority, or authorities, operating the scheme.
+Regulation 4 and schedule 4 specify—
+(a)
+the penalty charges, including certain surcharges, for non-compliance with the emission standards set by these Regulations where an exemption does not apply,
+(b)
+the discount for early payment of a penalty charge.
+Regulation 5 establishes the circumstances under which a person other than the registered keeper of a vehicle is to be held liable for a penalty charge.
+Regulation 6 provides for penalty charge notices to be served by local authorities. Regulation 6(2) establishes that a penalty charge notice must be served before the end of the period of 28 days beginning with the detection date. Regulation 6(5) sets out the required content of a penalty charge notice.
+Regulation 7 allows a local authority to serve a charge certificate, with the effect of increasing the charge in question by 50 per cent, on a person who has failed to pay a penalty charge within the timeframe specified at regulation 7(2).
+Regulation 8 sets out the manner in which representations may be made against a penalty charge notice served under regulation 6, and the grounds on which such representations can be made.
+Regulation 9 specifies the procedure and consideration that a local authority must afford to any representations received under regulation 8. Regulation 9(1) requires a local authority to provide notice of its decision in response to representations, addressing each ground on which the representations are made and stating whether it is accepted or refused by the local authority. Regulation 9(2) allows a local authority to cancel a penalty charge notice upon acceptance of a representation made under regulation 8(4). Regulation 9(3) and (4) provide that where a local authority does not accept any representations made under regulation 8 it must serve a notice of rejection which contains information as to how an appeal against that rejection may be made. Under regulation 9(5) the local authority can serve a fresh penalty charge notice in relation to the alleged contravention that was the subject of the cancelled penalty charge notice.
+An appeal to the First-tier Tribunal against the imposition of a penalty charge may be made under regulation 10.
+A local authority may appoint an agent to undertake enforcement measures on its behalf under regulation 11.
+Offences associated with the interference with the operation of a low emission zone scheme are created under regulation 12. A person guilty of an offence under regulation 12(1) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+A Business and Regulatory Impact Assessment (“BRIA”) has been prepared in relation to these Regulations and placed in the Scottish Parliament Information Centre. A copy of the BRIA can be obtained from Transport Scotland, Buchanan House, 58 Port Dundas Rd, Glasgow G4 0HF or online at www.legislation.gov.uk.

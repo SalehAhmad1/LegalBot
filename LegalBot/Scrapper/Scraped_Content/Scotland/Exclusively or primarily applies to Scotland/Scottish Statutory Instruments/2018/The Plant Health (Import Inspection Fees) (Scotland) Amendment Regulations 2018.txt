@@ -1,0 +1,56 @@
+SCOTTISH STATUTORY INSTRUMENTS
+2018 No. 22
+PLANT HEALTH
+The Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2018
+Made
+23rd January 2018
+Laid before the Scottish Parliament
+25th January 2018
+Coming into force
+19th March 2018
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 56(1) and (2) of the Finance Act 1973 M1 and all other powers enabling them to do so.
+Marginal Citations
+M1
+1973 c.51. The reference to a Government department in section 56(1) is to be read as a reference to the Scottish Administration by virtue of article 2(2) of the Scotland Act 1998 (Consequential Modifications) (No. 2) Order 1999 (S.I. 1999/1820) and the functions of the Minister transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998 (c.46). The requirement to obtain the consent of the Treasury was removed by section 55 of the Scotland Act 1998. Section 56(1) was amended by article 6(1)(e) of the Treaty of Lisbon (Changes of Terminology) Order 2011 (S.I. 2011/1043).Citation, commencement and extent
+1.—(1) These Regulations may be cited as the Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2018 and come into force on 19th March 2018.
+(2) These Regulations extend to Scotland only.Amendment of the Plant Health (Import Inspection Fees) (Scotland) Regulations 2014
+F12.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Textual Amendments
+F1
+Reg. 2 revoked (29.3.2019) by The Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2019 (S.S.I. 2019/28), regs. 1(1), 3Revocation
+3.  Regulation 2 of the Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2017 M1 is revoked.
+Marginal Citations
+M1
+S.S.I. 2017/6.FERGUS EWING
+A member of the Scottish Government
+St Andrew's House,
+EdinburghEXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the Plant Health (Import Inspection Fees) (Scotland) Regulations 2014 (“the principal Regulations”).
+Article 13d of Council Directive 2000/29/EC (OJ L 169, 10.7.2000, p.1) (“the Directive”) requires a Member State to ensure the collection of fees to cover the costs occasioned by the documentary checks, identity checks and plant health checks of certain imports of plants, plant products and other objects from third countries which are required by Article 13a(1) of the Directive. Pursuant to Article 2 of Commission Regulation (EC) 1756/2004 (OJ L 313, 12.10.2004, p.6), the European Commission notifies Member States of plants and plant products which should be subject to reduced inspection and of the rate of such inspection. Regulation 2 substitutes schedule 2 of the principal Regulations to take account of the most recent Commission Notification on reduced inspection rates as published on the following website: http://ec.europa.eu/food/plant/plant_health_biosafety/trade_non_eu/reduced_frequency_checks_en.htm.
+The table provides a comparison of changes made to the fees in schedule 2 of the principal Regulations:
+TABLE
+1 Initial fee per consignment for cut flowers (up to 20,000 in number) and fruit and vegetables (up to 25,000 kg in weight). Corresponding fees are set in the principal Regulations for additional quantities, maximum price per consignment and inspections carried out outside normal working hours.
+2 Consignments subject to an inspection rate of 100% are excluded from the reduced rate inspection scheme and are subject to the import inspection fees specified in schedule 1 of the principal Regulations.
+3 In 2018 the Commission Notification revised the rate of inspection for Citrus coming from Israel up to 100%, except in respect of the subspecies Citrus limon C.aurantiifolia.
+4 In 2018 the Commission Notification revised the rate of inspection for Prunus-persica coming from South Africa up to 100%. For all other sub-species of Prunus coming from South Africa the rate of inspection has been revised down to 5%.
+Regulation 3 revokes regulation 2 of the Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2017.
+No business and regulatory impact assessment has been prepared for this instrument as it has limited impact on the cost of business.
+Genus Country of origin Previous rate of inspection Previous fee1 New rate of inspection New fee, specified in schedule 21
+Fruit
+Citrus Egypt 25% £28.50 100%2 -
+Citrus limon C.aurantiifolia 3 Israel 10% £25.80 25% £28.50
+Citrus- other 3 Israel 10% £25.80 100%2 -
+Malus Brazil 25% £28.50 75% £37.50
+Malus USA 75% £37.50 100%2 -
+Passiflora Zimbabwe 75% £37.50 50% £33.00
+Prunus-persica 4 South Africa 10% £25.80 100%2 -
+Prunus-other(4) South Africa 10% £25.80 5% £24.90
+Prunus Turkey 10% £25.80 35% £30.30
+Pyrus Argentina 10% £25.80 15% £26.70
+Pyrus China 75% £37.50 50% £33.00
+Vegetables
+Capsicum Israel 10% £25.80 100%2 -
+Solanum lycopersicon Morocco New - 5% £24.90
+Solanum lycopersicon Canary Islands New - 5% £24.90
+Solanum melongena Turkey 5% £24.90 25% £28.50

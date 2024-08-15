@@ -1,0 +1,3486 @@
+S T A T U T O R Y  I N S T R U M E N T S  
+2024 No. 842 (L. 12) 
+SENIOR COURTS OF ENGLAND AND WALES 
+MAGISTRATES’ COURTS, ENGLAND AND WALES 
+The Criminal Procedure (Amendment No. 2) Rules 2024 
+Made 
+- 
+- 
+- 
+- 
+at 2:15 p.m. on 30th July 2024 
+Laid before Parliament 
+at 3:50 p.m. on 30th July 2024 
+Coming into force in accordance with rule 2 
+The Criminal Procedure Rule Committee makes the following Rules under sections 67B(1), 69 
+and 86A(2) of the Courts Act 2003(a), sections 17ZA(2), 17ZB(2), 17ZC(2) and 24ZA(2) of the 
+Magistrates’ Courts Act 1980(b) and sections 51(2D), (2E), (3A), (3B) and 51A(3D), (3E), (4A), 
+(4B) of the Crime and Disorder Act 1998(c), after consulting in accordance with section 72(1)(a) 
+of the 2003 Act. 
+Citation and commencement 
+1. These Rules amend the Criminal Procedure Rules 2020(d) and may be cited as the Criminal 
+Procedure (Amendment No. 2) Rules 2024. 
+2. These Rules come into force on 7th October 2024, save for— 
+(a) the following, which come into force on the date on which there come into force the 
+amendments to and insertions of sections 17ZA(2), 17ZB(2), 17ZC(2) and 24ZA(2) of 
+the Magistrates’ Courts Act 1980 and sections 51(2D), (2E), (3A), (3B) and 51A(3D), 
+(3E), (4A), (4B) of the Crime and Disorder Act 1998 effected by the Judicial Review and 
+Courts Act 2022(e)— 
+(i) rule 6(d)(iii), (iv) and (v), 
+(ii) rule 7, 
+(iii) rule 16, as far as that gives effect to paragraphs 2, 4, 5(a) and 7(a)(i) and (b) of 
+Schedule 2, and 
+(iv) rule 17; 
+                                                                                                                                            
+(a) 2003 c. 39; section 67B was inserted by section 3 of, and paragraph 32 of the Schedule to, the Courts and Tribunals 
+(Judiciary and Functions of Staff) Act 2018 (c. 33). Section 69 was amended by sections 15(1) and 146 of, and paragraphs 
+308 and 332 of Schedule 4 and Part 2 of Schedule 18 to, the Constitutional Reform Act 2005 (c. 4). Section 86A was 
+inserted by section 162 of the Police, Crime, Sentencing and Courts Act 2022 (c. 32). 
+(b) 1980 c. 43; sections 17ZA, 17ZB and 17ZC are inserted by section 6, and section 24ZA by section 8, of the Judicial Review 
+and Courts Act 2022 (c. 35) with effect from a date to be appointed. 
+(c) 1998 c. 37; sections 51 and 51A are materially amended by section 10 of the Judicial Review and Courts Act 2022 (c. 35) 
+with effect from a date to be appointed. 
+(d) S.I. 2020/759; amended by S.I. 2021/40, 2021/849, 2022/45, 2022/815, 2023/44, 2023/786, 2024/62. 
+(e) 2022 c. 35. 
+ 
+2
+(b) rule 9, which comes into force on the date on which there comes into force section 46 of 
+the Domestic Abuse Act 2021(a); and 
+(c) the following, which come into force on the date on which there come into force the 
+amendments to and insertions of sections 6, 6A, 6B and 6C of the European Union 
+(Withdrawal) Act 2018(b) effected by section 6 of the Retained EU Law (Revocation and 
+Reform) Act 2023(c)— 
+(i) rule 10, 
+(ii) rule 12, and 
+(iii) rule 13. 
+Interpretation 
+3. In rules 4 to 17 beneath a reference to a Part or rule by number alone means the Part or rule so 
+numbered in the Criminal Procedure Rules 2020. 
+Amendments to the Criminal Procedure Rules 
+4. In Part 2 (Understanding and applying the rules; powers of authorised court officers), in rule 
+2.7 (Exercise of functions of the Crown Court)— 
+(a) at the end of paragraph (2)(b) omit “and”; 
+(b) at the end of paragraph (2)(c) insert “and”; and 
+(c) after paragraph (2)(c) insert— 
+“(d) issue a summons under section 80 of the Senior Courts Act 1981(d) in proceedings 
+to which rule 32.2 applies (application, etc. in relation to the breach, revocation or 
+amendment of a community or other order).”. 
+5. In Part 4 (Service of documents) in rule 4.11 (Date of service) for paragraph (2)(d) 
+substitute— 
+“(d) in the case of a document served by electronic means— 
+ 
+(i) on the day on which the document is sent under rule 4.6(2)(a) or on which 
+notice of its deposit is given under rule 4.6(2)(b), if that day is a business day 
+and if the document is so sent or that notice is given by no later than 2.30pm 
+that day, 
+ 
+(ii) if the document is an application for permission to refer a sentencing case 
+under rule 41.2 (Service of notice of reference and application for 
+permission), on the day on which the document is so sent or on which notice 
+of its deposit is so given if that day is a business day and if that document is 
+sent or the notice given by no later than 5pm that day, 
+ 
+(iii) in an extradition appeal case in the High Court, on the day on which the 
+document is so sent or on which notice of its deposit is so given if that day is a 
+business day and if the document is sent or the notice given by no later than 
+4.30pm that day (or by no later than midnight at the end of that day if the 
+document is an appeal notice served under rule 50.19 (Service of appeal 
+notice)), 
+                                                                                                                                            
+(a) 2021 c. 17; section 46 comes into force on a date to be appointed. 
+(b) 2018 c. 16; section 6 was amended by section 26 of the European Union (Withdrawal Agreement) Act 2020 (c. 1) and 
+sections 4 and 22 of, and paragraph 8 of Schedule 2 to, the Retained EU Law (Revocation and Reform) Act 2023 (c. 28). It 
+is further amended, and sections 6A, 6B and 6C are inserted, by section 6 of the 2023 Act with effect from a date to be 
+appointed. 
+(c) 2023 c. 28. 
+(d) 1981 c. 54; section 80 was amended by section 41 of, and paragraph 54 of Schedule 3 to, the Criminal Justice Act 2003 (c. 
+44). 
+ 
+3
+ 
+(iv) on the day of its deposit under rule 4.6(2)(b), if that day is a business day and 
+if under rule 4.6(3)(b) no notice of deposit is required, or 
+ 
+(v) otherwise, on the next business day after it was sent, deposited or such notice 
+was given; and”. 
+6. In Part 5 (Forms and court records)— 
+(a) in rule 5.4 (Duty to make records)— 
+(i) at the end of paragraph (1)(m) omit “and”, 
+(ii) at the end of paragraph (1)(n) insert “and”, and 
+(iii) after paragraph (1)(n) insert— 
+“(o) any order made by the court on an application under rule 5.8(8) which prohibits a 
+supply of information by the court officer without the court’s permission.”; 
+(b) in rule 5.8 (Request for information about a case)— 
+(i) at the end of paragraph (1)(a) for “but” substitute “and”, 
+(ii) renumber paragraph (1)(b) as (1)(c), 
+(iii) after paragraph (1)(a) insert— 
+“(b) applies where a party or other person wants the court to prohibit a supply of 
+information without the court’s permission which affects that party or person and 
+which otherwise would be required by this rule; but”, 
+(iv) in paragraph (3) for “The request” substitute “A request for information”, 
+(v) for paragraph (4)(b) substitute— 
+“(b) the statement of each alleged offence (but not the particulars of offence) and any 
+plea entered;”, 
+(vi) in paragraph(4)(c)(ii) after “bail condition” insert “(but not the terms of any such 
+condition)”, 
+(vii) for paragraph (5)(a) substitute— 
+“(a) the supply of that information is prohibited by— 
+ 
+(i) a reporting restriction, or 
+ 
+(ii) an order made on an application under paragraph (8);”, and 
+(viii) after paragraph (7) insert— 
+“(8) Where a party or other person wants the court to prohibit a supply of information 
+without the court’s permission which affects that party or person and which otherwise 
+would be required by this rule— 
+(a) that party or person must serve an application on the court officer; 
+(b) the application must— 
+ 
+(i) specify the information to which the applicant wants the prohibition to apply, 
+ 
+(ii) explain why that information affects that party or person, and 
+ 
+(iii) explain why the applicant wants the court to prohibit the supply of that 
+information without the court’s permission; and 
+(c) rule 5.10 applies.”; 
+(c) in rule 5.10 (Request for information determined by the court)— 
+(i) for the heading to the rule substitute “Request or application determined by the 
+court”, 
+(ii) for paragraph (1) substitute— 
+“(1) This rule applies where— 
+ 
+4
+(a) the court officer refers to the court a request for information under rule 5.8 
+(Request for information about a case) or rule 5.9. (Request for information by a 
+party or person directly affected by a case); or 
+(b) a party or other person applies to the court under rule 5.8(8) to prohibit a supply of 
+information without the court’s permission.”, 
+(iii) for paragraph (2)(a) substitute— 
+“(a) serve a request for information on a party or person likely to be affected by it, 
+including— 
+ 
+(i) the applicant for any direction, order or warrant that the request concerns 
+which was made or issued in the absence of the party or person making the 
+request, 
+ 
+(ii) the applicant under rule 5.8(8) for a prohibition that affects the request (or 
+may do so, where that application has yet to be determined), and 
+ 
+(iii) anyone else, and to such extent, as the court directs; and”, 
+(iv) in paragraph (3) for the words before sub-paragraph (a) substitute “If a party or 
+person served with a request for information objects to the supply of the information 
+requested the objector must”, 
+(v) in each of paragraphs (4), (5) and (8) after “notice of objection” insert “to a request 
+for information”, 
+(vi) in paragraph (6), in the words before sub-paragraph (a) for “the request” substitute “a 
+request for information”, 
+(vii) for paragraph (7) substitute— 
+“(7) The court may determine a request for information or an application under rule 
+5.8(8)— 
+(a) at a hearing in public or private, or without a hearing; but 
+(b) any hearing must be in private, unless the court otherwise directs— 
+ 
+(i) where a request for information concerns a direction, order or warrant made or 
+issued in the absence of the party or person making the request, or 
+ 
+(ii) on an application under rule 5.8(8).”, 
+(viii) in paragraph (9) for the words before sub-paragraph (a) substitute “In deciding 
+whether to order a supply of information requested or to prohibit a supply of 
+information by the court officer without the court’s permission the court must have 
+regard to”, and 
+(ix) in paragraph (10) for “the information requested” substitute “information”; 
+(d) in rule 5.11 (Publication of information about court hearings, etc.)— 
+(i) for paragraph (2)(d)(ii) substitute— 
+ 
+“(ii) the statement of each alleged offence (but not the particulars of offence)”, 
+(ii) subject to sub-paragraph (iv) of this paragraph when it comes into force, for 
+paragraph (4)(c) substitute— 
+“(c) the statement of each alleged offence (but not the particulars of offence); and”, 
+(iii) renumber paragraph (5) as (6), 
+(iv) for paragraphs (3) and (4) substitute— 
+“(3) Paragraph (4) applies where— 
+(a) the defendant responds in writing to a notice under— 
+ 
+(i) rule 9.8 (Sending by written procedure for Crown Court trial), or 
+ 
+(ii) rule 9.10 (Request by written procedure for plea indication); 
+(b) the defendant is sent by written notice to the Crown Court for trial under— 
+ 
+5
+ 
+(i) rule 9.8 (Sending by written procedure for Crown Court trial), or 
+ 
+(ii) rule 9.23 (Sending after allocation for Crown Court trial); or 
+(c) 15 business days have expired after service on the defendant of a written charge 
+and other documents under rule 24.9 (Single justice procedure: special rules). 
+(4) The court officer must— 
+(a) publish the information listed in paragraph (5)— 
+ 
+(i) if that information is available to the court officer, and 
+ 
+(ii) unless the publication of that information is prohibited by a reporting 
+restriction; and 
+(b) publish that information by such arrangements as the Lord Chancellor directs, 
+including arrangements for publication by electronic means (but only to the extent 
+needed to comply with the open justice principle)— 
+ 
+(i) until the case is sent to the Crown Court or allocated to a magistrates’ court 
+for trial, where paragraph (3)(a) applies, or 
+ 
+(ii) for no longer than 5 business days, in any other case. 
+(5) The information that paragraph (4) requires the court officer to publish is— 
+(a) in every case— 
+ 
+(i) the identity of the defendant, 
+ 
+(ii) the identity of the prosecutor, 
+ 
+(iii) the statement of each alleged offence (but not the particulars of offence), and 
+ 
+(iv) such information as it may be practicable to publish about any reporting 
+restriction that applies; 
+(b) where paragraph (3)(a) applies (defendant participating by written procedure), the 
+date and place of the public hearing at which the defendant is due to attend if the 
+case is not sent to the Crown Court or allocated to a magistrates’ court for trial by a 
+written procedure; and 
+(c) where paragraph (3)(b) applies (defendant sent by written notice to the Crown 
+Court)— 
+ 
+(i) the decision made, including any decision to grant or withhold bail and, if bail 
+was granted, any decision to impose a condition or conditions (but not the 
+terms of any such condition), 
+ 
+(ii) the identity of the court which made the decision, and 
+ 
+(iii) the date and place of the public hearing at which the decision requires the 
+defendant to attend.”, and 
+(v) at the end of the note to the rule insert— 
+“Under section 52A of the Crime and Disorder Act 1998(a), only the matters listed in that 
+section may be contained in a report of allocation and sending proceedings unless the court 
+otherwise directs. By section 52A(10) that restriction applies in addition to any other 
+reporting restriction applicable. See also Part 6 (Reporting, etc. restrictions).”; and 
+(e) amend the table of contents correspondingly. 
+7. For Part 9 (Allocation and sending for trial) substitute the Part set out in Schedule 1 to these 
+Rules. 
+8. In Part 28 (Sentencing procedures in special cases and on committal for sentence, etc.)— 
+                                                                                                                                            
+(a) 1998 c. 37; section 52A was inserted by paragraphs 15 and 19 of Schedule 3 to the Criminal Justice Act 2003 (c. 44) and 
+amended by paragraphs 46 and 47 of Schedule 5 to the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 
+10). 
+ 
+6
+(a) in rule 28.1 (Reasons for not following usual sentencing requirements)— 
+(i) at the beginning of paragraph (1)(d) insert “under section 74 or section 388 of the 
+Sentencing Act 2020(a),”, and 
+(ii) in the first paragraph of the note to the rule for “section 74 of the 2020 Act” 
+substitute “sections 74 and 388 of the 2020 Act”; 
+(b) in rule 28.11 (Application to review sentence because of assistance given or withheld)— 
+(i) for the heading to the rule substitute “Assistance to an investigator, etc.: applications 
+under the Sentencing Act 2020”, and 
+(ii) for paragraph (1) substitute— 
+“(1) This rule applies where on application by the prosecutor the Crown Court can— 
+(a) reduce a sentence that it passes, under section 74 or section 388 of the Sentencing 
+Act 2020 (assistance or agreement to assist before or after sentence); or 
+(b) increase a sentence that it has passed, under section 387 of the Sentencing Act 
+2020(b) (failure after sentence to give agreed assistance).”; 
+(c) renumber rule 28.12 (Sentencing, etc. after committal to the Crown Court) as 28.13; 
+(d) after rule 28.11 insert— 
+“Assistance to an investigator, etc.: confidential information for the sentencing court 
+28.12.—(1) This rule applies where in the exercise of its inherent power the court can 
+reduce a sentence that it passes in a case in which the defendant has assisted an investigator 
+or prosecutor before being sentenced. 
+(2) An officer who has not been involved in the investigation or prosecution in respect of 
+which the defendant is to be sentenced must prepare a text for the sentencing court which— 
+(a) describes the capacity in which the defendant provided assistance, and in particular 
+whether the defendant is a covert human intelligence source with the meaning of 
+the Regulation of Investigatory Powers Act 2000(c); 
+(b) gives details of the assistance provided; 
+(c) describes the effort expended by the defendant in obtaining such information as 
+has been supplied; 
+(d) gives an indication of whether the defendant is willing to give evidence in support 
+of a prosecution; 
+(e) assesses the risk, if any, to the defendant or to the defendant’s family or associates 
+occasioned by the assistance provided; 
+(f) assesses the benefit already derived by investigating or prosecuting agencies in 
+consequence of the assistance provided, and in particular give details of any related 
+arrest, conviction or recovery or confiscation of property; 
+(g) gives details of any financial reward received by the defendant for the assistance; 
+(h) assesses the potential future use of assistance provided or expected from the 
+defendant; and 
+(i) includes a statement of whether the defendant does or does not wish any legal 
+representative or advocate acting for the defendant to be made aware of the 
+existence of the text. 
+(3) Before the court passes sentence— 
+(a) the officer who prepared the text must— 
+                                                                                                                                            
+(a) 2020 c. 17; section 74 was amended by section 10 of the Counter-Terrorism and Sentencing Act 2021 (c. 11) and is further 
+amended by section 408 of, and paragraph 38B of Schedule 22 to, the 2020 Act with effect from a date to be appointed. 
+(b) 2020 c. 17. 
+(c) 2000 c. 23. 
+ 
+7
+ 
+(i) arrange for its delivery in confidence to the sentencing court and for its 
+subsequent return to the officer, and 
+ 
+(ii) ensure that the prosecution advocate is aware of the existence of the text and 
+of its content; and 
+(b) the sentencing court— 
+ 
+(i) must consider the content of the text, 
+ 
+(ii) by signature, initial or other endorsement on the text must indicate that it has 
+been considered, and 
+ 
+(iii) must not make, or allow to be made, any other court record of the receipt and 
+consideration of the text. 
+(4) When passing sentence the court must not— 
+(a) refer, directly or indirectly, to the text; or 
+(b) include in the explanation of sentence required by rule 24.11(9) or rule 25.16(7) 
+any indication of the extent, if any, of the effect on sentence of the content of the 
+text. 
+(5) In the event of an appeal in which the defendant’s sentence is or may be in issue— 
+(a) the officer who prepared the text must arrange for its delivery in confidence to the 
+appeal court and for its subsequent return to the officer; and 
+(b) the appeal court must take such measures as may be required to maintain the 
+confidentiality of the text. 
+[Note. Under section 26(8) of the Regulation of Investigatory Powers Act 2000 a person is 
+a covert human intelligence source if that person (a) establishes or maintains a personal or 
+other relationship with a person for the covert purpose of facilitating the doing of anything 
+falling within (b) or (c); (b) covertly uses such a relationship to obtain information or to 
+provide access to any information to another person; or (c) covertly discloses information 
+obtained by the use of such a relationship, or as a consequence of the existence of such a 
+relationship.]”; and 
+(e) amend the table of contents correspondingly. 
+9. In Part 34 (Appeal to the Crown Court), in rule 34.2 (Service of appeal and respondent’s 
+notices)— 
+(a) for paragraph (1) substitute— 
+“(1) An appellant must serve an appeal notice— 
+(a) in every case, on the magistrates’ court officer; 
+(b) on the prosecutor, where the defendant is the appellant; and 
+(c) on the defendant, where the prosecutor is the appellant.”; 
+(b) after paragraph (5) insert— 
+“(6) Where the appeal is about the variation or discharge of a domestic abuse protection 
+order, the magistrates’ court officer must serve the appeal notice on— 
+(a) the defendant, unless the defendant is the appellant; 
+(b) each relevant Chief Officer of Police who is not the appellant; and 
+(c) any other person if the court so directs.”; and 
+(c) at the end of the note to the rule insert— 
+“Section 47 of the Domestic Abuse Act 2021(a) lists those who are relevant Chief Officers 
+of Police for the purposes of an appeal under section 46 of that Act.”. 
+                                                                                                                                            
+(a) 2021 c. 17; section 47 comes into force on a date to be appointed. 
+ 
+8
+10. In Part 36 (Appeal to the Court of Appeal: general rules)— 
+(a) in rule 36.6 (Hearings) in paragraph (1)(a) after “permission to appeal” insert “or to 
+accept a reference of a point of law”; 
+(b) for rule 36.12 (Declaration of incompatibility with a Convention right) substitute— 
+“Notice of opportunity to intervene 
+36.12.—(1) This rule applies where— 
+(a) a party— 
+ 
+(i) wants the court to make a declaration of incompatibility with a Convention 
+right under section 4 of the Human Rights Act 1998(a), or 
+ 
+(ii) raises an issue that the Registrar thinks may lead the court to make such a 
+declaration; or 
+(b) the court considers an argument that the court should depart from assimilated case 
+law under section 6 of the European Union (Withdrawal) Act 2018(b)— 
+ 
+(i) on a reference by a magistrates’ court or the Crown Court under rule 41.6 
+(Reference of point of law by a court), or 
+ 
+(ii) in any other case before the court to which neither the Attorney General nor 
+the Counsel General for Wales already is a party. 
+(2) The Registrar must serve notice on— 
+(a) where paragraph (1)(a) applies— 
+ 
+(i) the relevant person named in the list published under section 17(1) of the 
+Crown Proceedings Act 1947(c), or 
+ 
+(ii) the Treasury Solicitor, if it is not clear who is the relevant person; or 
+(b) where paragraph (1)(b) applies, those entitled to notice under section 6C(2) of the 
+2018 Act(d). 
+(3) That notice must include or attach details of— 
+(a) the legislation affected and the Convention right concerned where paragraph (1)(a) 
+applies, 
+(b) the assimilated case law affected where paragraph (1)(b) applies; 
+(c) the parties to the case; and 
+(d) any other information or document that the Registrar thinks relevant. 
+(4) A person who has a right under section 5 of the 1998 Act(e) or under section 6C of the 
+2018 Act to become a party to the case must— 
+(a) serve notice on— 
+ 
+(i) the Registrar, and 
+ 
+(ii) the other parties, 
+if that person wants to exercise that right; and 
+(b) in that notice— 
+                                                                                                                                            
+(a) 1998 c. 42; section 4 was amended by section 40 of, and paragraph 66 of Schedule 9 to, the Constitutional Reform Act 2005 
+(c. 4), section 67 of, and paragraph 43 of Schedule 6 to, the Mental Capacity Act 2005 (c. 9) and section 61 of, and 
+paragraph 5 of Schedule 14 to, the Crime and Courts Act 2013 (c. 22). 
+(b) 2018 c. 16; section 6 was amended by section 26 of the European Union (Withdrawal Agreement) Act 2020 (c. 1) and 
+sections 4 and 22 of, and paragraph 8 of Schedule 2 to, the Retained EU Law (Revocation and Reform) Act 2023 (c. 28). It 
+is further amended by section 6 of the 2023 Act with effect from a date to be appointed. 
+(c) 1947 c. 44; section 17 was amended by article 3(2) of S.I. 1968/1656. 
+(d) 2018 c. 16; section 6C is inserted by section 6 of the Retained EU Law (Revocation and Reform) Act 2023 (c. 28) with 
+effect from a date to be appointed. 
+(e) 1998 c. 42; section 5 was amended by section 40 of, and paragraph 66 of Schedule 9 to, the Constitutional Reform Act 2005 
+(c. 4). 
+ 
+9
+ 
+(i) indicate the conclusion that that person invites the court to reach on the matter 
+raised, and 
+ 
+(ii) identify each ground for that invitation, concisely outlining the arguments in 
+support. 
+(5) The court must not reach a conclusion on the matter raised— 
+(a) less than— 
+ 
+(i) 15 business days after the Registrar serves notice under paragraph (2)(a), or 
+ 
+(ii) 20 business days after the Registrar serves notice under paragraph (2)(b); and 
+(b) without giving a person who serves a notice under paragraph (4) an opportunity to 
+make representations at a hearing.”; and 
+(c) amend the table of contents correspondingly. 
+11. In Part 37 (Appeal to the Court of Appeal against ruling at preparatory hearing) for the title 
+to the Part substitute “Appeal to the Court of Appeal against ruling at preparatory hearing or in 
+response to jury tampering”. 
+12. In Part 41 (Reference to the Court of Appeal of point of law or unduly lenient sentencing)— 
+(a) in rule 41.1 (When this Part applies)— 
+(i) for the words of the rule substitute— 
+“41.1. This Part applies where— 
+(a) the Attorney General wants to refer to the Court of Appeal— 
+ 
+(i) a point of law under section 36 of the Criminal Justice Act 1972(a), or 
+ 
+(ii) a sentencing case under section 36 of the Criminal Justice Act 1988(b); 
+(b) the Attorney General or the Counsel General for Wales wants to refer to the Court 
+of Appeal a point of law under section 6B of the European Union (Withdrawal) 
+Act 2018(c); or 
+(c) a magistrates’ court or the Crown Court decides to refer to the Court of Appeal a 
+point of law under section 6A of the European Union (Withdrawal) Act 2018(d).”, 
+and 
+(ii) after the second paragraph of the note to the rule insert— 
+“Under section 6A of the European Union (Withdrawal) Act 2018, where a magistrates’ 
+court or the Crown Court must apply assimilated case law, as defined in section 6 of that 
+Act, then unless that assimilated case law is case law of the Supreme Court the court can 
+refer to the Court of Appeal for decision one or more points of law (i) which arise on the 
+interpretation or application of that case law, (ii) which are relevant to a case proceeding 
+in the referring court, and (iii) which the referring court considers to be of general public 
+importance. (Assimilated case law of the Supreme Court must be referred direct to that 
+court.) 
+                                                                                                                                            
+(a) 1972 c. 71; section 36 was amended by section 31 of, and paragraph 8 of Schedule 1 to, the Prosecution of Offences Act 
+1985 (c. 23), section 148 of, and paragraph 23 of Schedule 9 to, the Constitutional Reform Act 2005 (c. 4) and section 151 
+of, and paragraph 9 of Schedule 7 to, the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10). 
+(b) 1988 c. 33; section 36 was amended by section 272 of, and paragraphs 45 and 46 of Schedule 32 and paragraph 96 of 
+Schedule 36 to, the Criminal Justice Act 2003 (c. 44), section 40 of, and paragraph 48 of Schedule 9 to, the Constitutional 
+Reform Act 2005 (c. 4), sections 49 and 65 of, and paragraph 3 of Schedule 1 and Schedule 5 to, the Violent Crime 
+Reduction Act 2006 (c. 38), sections 46, 148 and 149 of, and paragraphs 22 and 23 of Schedule 26 and Part 3 of Schedule 
+28 to, the Criminal Justice and Immigration Act 2008 (c. 4), paragraph 2 of Schedule 19 and paragraphs 4 and 5 of Schedule 
+26 to the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), section 28 of, and paragraph 2 of Schedule 
+5 to, the Criminal Justice and Courts Act 2015 (c. 2) and section 416 of, and paragraphs 89 and 267 of Schedule 24 to, the 
+Sentencing Act 2020 (c. 17). 
+(c) 2018 c. 16; section 6B is inserted by section 6 of the Retained EU Law (Revocation and Reform) Act 2023 (c. 28) with 
+effect from a date to be appointed. 
+(d) 2018 c. 16; section 6A is inserted by section 6 of the Retained EU Law (Revocation and Reform) Act 2023 (c. 28) with 
+effect from a date to be appointed. 
+ 
+10
+Under section 6B of the 2018 Act the Attorney General can refer such a point of law which 
+arose in a case in a magistrates’ court or the Crown Court which has ended.”; 
+(b) in rule 41.2 (Service of notice of reference and application for permission)— 
+(i) in paragraph (1) after “notice” insert “of reference of a point of law under section 36 
+of the Criminal Justice Act 1972” and after “sentencing case” insert “under section 
+36 of the Criminal Justice Act 1988”, 
+(ii) in paragraph (2) after “refers” insert “such”, 
+(iii) in paragraph (3) and in paragraph (4) after “permission to refer” insert “such”, 
+(iv) after paragraph (4) insert— 
+“(5) The Attorney General or the Counsel General for Wales must serve any notice of 
+reference of a point of law under section 6B of the European Union (Withdrawal) Act 2018 
+on— 
+(a) the Registrar; 
+(b) the defendant; and 
+(c) each other law officer listed in section 6B(2). 
+(6) A reference to which paragraph (5) applies must be served not more than 6 months 
+after— 
+(a) the last day on which an appeal in the case could have been made, if there has been 
+no appeal; or 
+(b) the day on which any such appeal finally was dealt with.”, and 
+(v) for the note to the rule substitute— 
+“[Note. The time limit for serving an application for permission to refer a sentencing case 
+is prescribed by paragraph 1 of Schedule 3 to the Criminal Justice Act 1988(a). The time 
+limit for serving a reference of a point of law under section 6B of the European Union 
+(Withdrawal) Act 2018 is prescribed by section 6B(3). Neither time limit may be extended 
+or shortened.]”; 
+(c) in rule 41.3 (Form of notice and reference and application for permission)— 
+(i) in paragraph (1) after “sentencing case” insert “under rule 41.2”, 
+(ii) in paragraph (2), in the words before sub-paragraph (a), after “point of law” insert 
+“under section 36 of the Criminal Justice Act 1972”, 
+(iii) in paragraph (2)(a) for “opinion” substitute “conclusion on the matter raised” and for 
+“give” substitute “reach”, 
+(iv) in paragraph (3) after “sentencing case” insert “under section 36 of the Criminal 
+Justice Act 1988”, 
+(v) in paragraph (6) after “notice of reference” insert “under paragraph (2) or (4)”, and 
+(vi) after paragraph (6) insert— 
+“(7) A notice of reference of a point of law under section 6B of the European Union 
+(Withdrawal) Act 2018 must— 
+(a) confirm that the conditions for making a reference listed in section 6B(1) are met; 
+(b) specify the point of law in issue and explain the relevance of that point of law to 
+the proceedings which have ended; 
+(c) indicate the conclusion on the matter raised that the Attorney General or the 
+Counsel General for Wales (as the case may be) invites the court to reach; 
+(d) identify each ground for that invitation, numbering them consecutively (if there is 
+more than one) and concisely outlining each argument in support; 
+                                                                                                                                            
+(a) 1988 c. 33. 
+ 
+11
+(e) summarise the relevant facts; and 
+(f) identify any relevant authorities.”; 
+(d) in rule 41.4 (Respondent’s notice) in paragraph (1) after “defendant on whom” insert 
+“under rule 41.2” and after “point of law” insert “under section 36 of the Criminal Justice 
+Act 1972”; 
+(e) in rule 41.5 (Variation or withdrawal of notice of reference or application for permission) 
+in paragraph (1) after “notice of reference” insert “under rule 41.2”; 
+(f) renumber rules 41.6 (Right to attend hearing) and 41.7 (Anonymity of defendant on 
+reference of point of law) as 41.7 and 41.8 respectively; 
+(g) after rule 41.5 insert— 
+“Reference of point of law by a court 
+41.6.—(1) A magistrates’ court or the Crown Court— 
+(a) may refer to the Court of Appeal a point of law arising on assimilated case law, 
+other than case law of the Supreme Court, under section 6A of the European Union 
+(Withdrawal) Act 2018— 
+ 
+(i) on application by a party, or 
+ 
+(ii) on the referring court’s own initiative; and 
+(b) may direct the preparation of the reference by a party. 
+(2) Such a reference must— 
+(a) specify— 
+ 
+(i) the assimilated case law concerned, and 
+ 
+(ii) the point or points of law referred; 
+(b) identify the referring court and the prosecutor in the case; 
+(c) summarise— 
+ 
+(i) the nature and history of the case, 
+ 
+(ii) the relevant facts, and 
+ 
+(iii) the relevant contentions of the parties; 
+(d) explain why the referring court— 
+ 
+(i) considers the point or points of law referred to be relevant to the case 
+proceeding in that court, and 
+ 
+(ii) why that court considers that point or those points of law to be of general 
+public importance; and 
+(e) exclude any reference to the defendant’s name and any other information that may 
+identify the defendant. 
+(3) The court officer for the referring court must— 
+(a) serve the reference on the Registrar; and 
+(b) give the Registrar details of the defendant affected.”; 
+(h) in rule 41.7, as renumbered, for “respondent” substitute “defendant” in each place it 
+occurs; and 
+(i) amend the table of contents correspondingly. 
+13. In Part 43 (Appeal or reference to the Supreme Court)— 
+(a) in rule 43.1 (When this Part applies)— 
+(i) at the end of paragraph (1)(a)(i) omit “or”, 
+(ii) after paragraph (1)(a)(ii) insert— 
+ 
+12
+ 
+“(iii) a reference to the Court of Appeal to which Part 41 applies (Reference to the 
+Court of Appeal of point of law or unduly lenient sentencing) made under 
+section 6A or 6B of the European Union (Withdrawal) Act 2018(a); or”, 
+(iii) in paragraph (1)(b) for “(Reference to the Court of Appeal of point of law or unduly 
+lenient sentencing)” substitute “made under section 36 of the Criminal Justice Act 
+1972(b) or section 36 of the Criminal Justice Act 1988(c)”, and 
+(iv) after the seventh paragraph of the note to the rule insert— 
+(v) for the note to the rule substitute— 
+“Under section 6A(8) or section 6B(7) of the European Union (Withdrawal) Act 2018 a 
+party may appeal to the Supreme Court from a decision of the Court of Appeal on a 
+reference to that court under either of those sections. See also Part 41.”; and 
+(b) in rule 43.2 (Application for permission or reference)— 
+(i) in the second paragraph of the note to the rule, in the second sentence, for “Under 
+those provisions,” substitute “Under each of those provisions, except for section 
+6A(8) or section 6B(7) of the European Union (Withdrawal) Act 2018,”, and 
+(ii) in the third paragraph of the note to the rule after “certificate” insert “, where 
+required,”. 
+14. In Part 47 (Investigation orders and warrants), in Section 5: Orders for the retention of 
+fingerprints, etc.— 
+(a) in rule 47.42 (When this Section applies)— 
+(i) in paragraph (a) before “a District Judge (Magistrates’ Courts)” insert “a magistrates’ 
+court consisting of”, 
+(ii) at the end of paragraph (a)(i) omit “or”, 
+(iii) at the end of paragraph (a)(ii) for “and” substitute “or”, 
+(iv) after paragraph (a)(ii) insert— 
+ 
+“(iii) paragraph 20(6) or 25(9) of Schedule 6 to the National Security Act 2023(d); 
+and”, 
+(v) at the end of paragraph (b)(i) omit “or”, 
+(vi) at the end of paragraph (b)(ii) insert “or”, 
+(vii) after paragraph (b)(ii) insert— 
+ 
+“(iii) paragraph 20(9) of Schedule 6 to the National Security Act 2023.”, and 
+(viii) in the note to the rule for “or under the Terrorism Act 2000(e)” substitute “, under 
+the Terrorism Act 2000 or under the National Security Act 2023”; 
+(b) in rule 47.44 (Application to extend retention period)— 
+(i) at the end of paragraph (1)(a)(ii) omit “or”, 
+(ii) at the end of paragraph (1)(a)(iii) insert “or”, 
+                                                                                                                                            
+(a) 2018 c. 16; sections 6A and 6B are inserted by section 6 of the Retained EU Law (Revocation and Reform) Act 2023 (c. 28) 
+with effect from a date to be appointed. 
+(b) 1972 c. 71; section 36 was amended by section 31 of, and paragraph 8 of Schedule 1 to, the Prosecution of Offences Act 
+1985 (c. 23), section 148 of, and paragraph 23 of Schedule 9 to, the Constitutional Reform Act 2005 (c. 4) and section 151 
+of, and paragraph 9 of Schedule 7 to, the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10). 
+(c) 1988 c. 33; section 36 was amended by section 272 of, and paragraphs 45 and 46 of Schedule 32 and paragraph 96 of 
+Schedule 36 to, the Criminal Justice Act 2003 (c. 44), section 40 of, and paragraph 48 of Schedule 9 to, the Constitutional 
+Reform Act 2005 (c. 4), sections 49 and 65 of, and paragraph 3 of Schedule 1 and Schedule 5 to, the Violent Crime 
+Reduction Act 2006 (c. 38), sections 46, 148 and 149 of, and paragraphs 22 and 23 of Schedule 26 and Part 3 of Schedule 
+28 to, the Criminal Justice and Immigration Act 2008 (c. 4), paragraph 2 of Schedule 19 and paragraphs 4 and 5 of Schedule 
+26 to the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), section 28 of, and paragraph 2 of Schedule 
+5 to, the Criminal Justice and Courts Act 2015 (c. 2) and section 416 of, and paragraphs 89 and 267 of Schedule 24 to, the 
+Sentencing Act 2020 (c. 17). 
+(d) 2023 c. 32. 
+(e) 2000 c. 11. 
+ 
+13
+(iii) after paragraph (1)(a)(iii) insert— 
+ 
+“(iv) under a power conferred by Schedule 6 to the National Security Act 2023 in 
+relation to a person detained under section 27 of that Act(a);”, 
+(iv) in the second paragraph of the note to the rule omit “and”, in the second place it 
+occurs, and after “Schedule 8 to the Terrorism Act 2000” insert “and by paragraphs 
+20(7) and 25(8) of Schedule 6 to the National Security Act 2023”, 
+(v) in the third paragraph of the note to the rule omit “and”, in the second place it occurs, 
+and after “Schedule 8 to the 2000 Act” insert “and paragraphs 19 and 24 of Schedule 
+6 to the 2023 Act”, 
+(vi) in the fourth paragraph of the note to the rule in the first sentence omit “and”, in the 
+first place it occurs, and after “Schedule 8 to the 2000 Act” insert “and paragraph 20 
+of Schedule 6 to the 2023 Act”, 
+(vii) in the fourth paragraph of the note to the rule for the second sentence substitute 
+“Under section 63F(7) of the 1984 Act(b), paragraph 20B(5) of Schedule 8 to the 
+2000 Act(c) and paragraph 20(6) of Schedule 6 to the 2023 Act a chief officer of 
+police to whom those provisions apply may apply for an order extending the 
+statutory retention period of 3 years by up to another 2 years.”, 
+(viii) in the fifth paragraph of the note to the rule in the first sentence omit “and” and after 
+“Schedule 8 to the 2000 Act” insert “and paragraph 25 of Schedule 6 to the 2023 
+Act”, 
+(ix) in the fifth paragraph of the note to the rule in the second sentence omit “and” and 
+after “Schedule 8 to the 2000 Act” insert “and paragraph 25(6) of Schedule 6 to the 
+2023 Act”, and 
+(x) in the fifth paragraph of the note to the rule for the third sentence substitute “Under 
+section 63R(9) of the 1984 Act(d), paragraph 20G(9) of Schedule 8 to the 2000 
+Act(e) and paragraph 25(9)(b) of Schedule 6 to the 2023 Act such an order may be 
+renewed, on one or more occasions, for a further period of not more than 12 months 
+from the end of the period when the order would otherwise cease to have effect.”; 
+and 
+(c) in rule 47.45 (Appeal) in the note to the rule omit “and”, in the second place it occurs, and 
+after “Schedule 8 to the Terrorism Act 2000” insert “and under paragraph 20(9) of 
+Schedule 6 to the National Security Act 2023”. 
+15. In Part 50 (Extradition), in Section 3: Appeal to the High Court— 
+(a) in rule 50.19 (Service of appeal notice), in the first paragraph of the note to the rule— 
+(i) at the end of sub-paragraph (a) omit “and”, 
+(ii) at the end of sub-paragraph (b) insert “and”, and 
+(iii) after sub-paragraph (b) insert— 
+“(c) where the time for appeal otherwise would expire at a weekend or on a public 
+holiday it is treated as expiring at the end of the next business day.”; and 
+(b) in rule 50.20 (Form of appeal notice), for paragraphs (2) and (3) substitute— 
+“(2) In every case, the appeal notice must— 
+                                                                                                                                            
+(a) 2023 c. 32. 
+(b) 1984 c. 60; section 63F was inserted by section 3 of the Protection of Freedoms Act 2012 (c. 9) and amended by section 70 
+of the Policing and Crime Act 2017 (c. 3), paragraph 2 of Schedule 2 to the Counter-Terrorism and Border Security Act 
+2019 (c. 3) and paragraph 4 of Schedule 18 to the National Security Act 2023 (c. 32). 
+(c) 2000 c. 11; paragraph 20B of Schedule 8 was inserted by section 19 of, and paragraph 1 of Schedule 1 to, the Protection of 
+Freedoms Act 2012 (c. 9) and amended by section 181 of, and paragraph 125 of Schedule 11 to, the Anti-social Behaviour, 
+Crime and Policing Act 2014 (c. 12) and section 71 of the Policing and Crime Act 2017 (c. 3). 
+(d) 1984 c. 60; section 63R was inserted by section 14 of the Protection of Freedoms Act 2012 (c. 9). 
+(e) 2000 c. 11; paragraph 20G of Schedule 8 was inserted by section 19 of, and paragraph 1 of Schedule 1 to, the Protection of 
+Freedoms Act 2012 (c. 9). 
+ 
+14
+(a) specify— 
+ 
+(i) the date of the defendant’s arrest under Part 1 or Part 2 of the Extradition Act 
+2003, and 
+ 
+(ii) the decision about which the appellant wants to appeal, including the date of 
+that decision; 
+(b) identify each ground of appeal on which the appellant relies; 
+(c) summarise the relevant facts; 
+(d) include or attach a copy of— 
+ 
+(i) the warrant or the request for the defendant’s extradition, 
+ 
+(ii) any material served by the authority or territory requesting the defendant’s 
+extradition in support of the warrant or the request, 
+ 
+(iii) the reasons for the decision about which the appellant wants to appeal, or a 
+note of those reasons agreed between the parties and approved by the 
+magistrates’ court, and 
+ 
+(iv) any other document or material on which the appellant relies; and 
+(e) include or attach a list of those on whom the appellant has served the appeal 
+notice. 
+(3) If an appeal notice omits information, a document or material required by paragraph 
+(2), then unless the High Court otherwise directs— 
+(a) the High Court officer must serve on the appellant a notice— 
+ 
+(i) identifying the omission or omissions, and 
+ 
+(ii) requiring the supply of the missing information, document or material within 
+a period specified in the notice; 
+(b) the appellant must comply with that requirement; and 
+(c) if within the period specified in the notice the missing information, document or 
+material has not been supplied, the High Court may exercise its power— 
+ 
+(i) to reject the appeal notice, and 
+ 
+(ii) to dismiss the application for permission to appeal in consequence of that 
+rejection.”. 
+Consequential amendments and corrections 
+16. Schedule 2 to these Rules, which makes amendments in consequence of those made by rules 
+6(c), 7, 8(c) and 11 of these Rules and which makes other corrections, has effect. 
+Amendments to the preamble to the Criminal Procedure Rules 
+17. In the preamble to the Criminal Procedure Rules 2020, in sub-paragraph (b)— 
+(a) in the first column, headed “Rule”, beginning immediately beneath the entry for rule 9.2 
+insert successive entries for rules 9.8, 9.10, 9.11, 9.12, 9.19 and 9.23; and 
+(b) in the second column, headed “Power”— 
+(i) for the entry corresponding with rule 9.2 substitute “Sections 51(3A), (3B) and 
+51A(4A), (4B) of the Crime and Disorder Act 1998(a) and section 86A(2) of the 
+Courts Act 2003(b)”, 
+(ii) in the position corresponding with rule 9.8 insert “Sections 51(2D), (2E) and 
+51A(3D), (3E) of the Crime and Disorder Act 1998”, 
+                                                                                                                                            
+(a) 1998 c. 37; sections 51 and 51A are materially amended by section 10 of the Judicial Review and Courts Act 2022 (c. 35) 
+with effect from a date to be appointed. 
+(b) 2003 c. 39; section 86A was inserted by section 162 of the Policing and Crime Act 2017 (c. 3). 
+ 
+15
+(iii) in the position corresponding with rule 9.10 insert “Section 17ZA(2) of the 
+Magistrates’ Courts Act 1980(a)”, 
+(iv) in the position corresponding with rule 9.11 insert “Sections 17ZA(2) and 17ZB(2) 
+of the Magistrates’ Courts Act 1980(b)”, 
+(v) in the position corresponding with rule 9.12 insert “Sections 17ZA(2) and 17ZC(2) 
+of the Magistrates’ Courts Act 1980(c)”, 
+(vi) in the position corresponding with rule 9.19 insert “Section 24ZA(2) of the 
+Magistrates’ Courts Act 1980(d)”, and 
+(vii) in the position corresponding with rule 9.23 insert “Sections 51(2D), (2E) and 
+51A(3D), (3E) of the Crime and Disorder Act 1998.”. 
+ 
+ 
+Carr of Walton-on-the-Hill, C.J. 
+ 
+Holroyde, L.J. 
+ 
+William Davis, L.J. 
+ 
+Foster, J. 
+ 
+Patrick Field 
+ 
+Heather Norton 
+ 
+Michael Snow 
+ 
+David Barrand 
+ 
+Amy McEvoy 
+ 
+Ed Lidington 
+ 
+Stephen Parkinson 
+ 
+Alison Pople 
+ 
+Paul Jarvis 
+ 
+Folashade Abiodun 
+ 
+Edmund Smyth 
+ 
+Rob Nixon 
+ 
+Rebecca White 
+ 
+Robert Thomas 
+ 
+I allow these Rules, which shall come into force on 7th October 2024. 
+ 
+ 
+Shabana Mahmood 
+At 2:15 p.m. on 30th July 2024 
+Lord Chancellor 
+ 
+Ministry of Justice 
+                                                                                                                                            
+(a) 1980 c. 43; section 17ZA is inserted by section 6 of the Judicial Review and Courts Act 2022 (c. 35) with effect from a date 
+to be appointed. 
+(b) 1980 c. 43; section 17ZB is inserted by section 6 of the Judicial Review and Courts Act 2022 (c. 35) with effect from a date 
+to be appointed. 
+(c) 1980 c. 43; section 17ZC is inserted by section 6 of the Judicial Review and Courts Act 2022 (c. 35) with effect from a date 
+to be appointed. 
+(d) 1980 c. 43; section 24ZA is inserted by section 8 of the Judicial Review and Courts Act 2022 (c. 35) with effect from a date 
+to be appointed. 
+ 
+16
+ 
+SCHEDULE 1 
+Rule 7 
+“PART 9 
+ALLOCATION AND SENDING FOR TRIAL 
+ 
+Contents of this Part 
+ 
+ 
+ 
+General rules 
+ 
+When this Part applies 
+rule 9.1 
+Exercise of magistrates’ court’s powers 
+rule 9.2 
+Matters to be specified on sending for trial 
+rule 9.3 
+Duty of justices’ legal adviser 
+rule 9.4 
+Duty of magistrates’ court officer 
+rule 9.5 
+Giving and service of written notices, etc. 
+rule 9.6 
+ 
+ 
+Sending without allocation for Crown Court trial 
+ 
+Prosecutor’s notice requiring Crown Court trial 
+rule 9.7 
+Sending by written procedure for Crown Court trial 
+rule 9.8 
+Sending at a hearing for Crown Court trial 
+rule 9.9 
+ 
+ 
+Allocation for trial: adult defendants 
+ 
+Request by written procedure for plea indication 
+rule 9.10 
+Guilty plea indication by written procedure 
+rule 9.11 
+Not guilty plea indication by written procedure 
+rule 9.12 
+Allocation by written procedure for magistrates’ court trial 
+rule 9.13 
+Request at a hearing for plea indication 
+rule 9.14 
+Guilty plea indication at a hearing 
+rule 9.15 
+Not guilty plea indication at a hearing 
+rule 9.16 
+Allocation at a hearing for magistrates’ court trial 
+rule 9.17 
+Prosecutor’s application for Crown Court trial 
+rule 9.18 
+ 
+ 
+Allocation for trial: young defendants 
+ 
+Allocation by written procedure for youth court or Crown Court trial 
+rule 9.19 
+Young defendant becoming an adult during written procedure 
+rule 9.20 
+Allocation at a hearing for youth court or Crown Court trial 
+rule 9.21 
+Young defendant becoming an adult after allocation for youth court trial 
+rule 9.22 
+ 
+ 
+Sending after allocation for Crown Court trial 
+ 
+Sending after allocation for Crown Court trial 
+rule 9.23 
+ 
+ 
+Committal for sentence in connection with sending for trial 
+ 
+Committal for sentence for offence related to an offence sent for trial 
+rule 9.24 
+ 
+ 
+Sending back, etc. for magistrates’ court trial 
+ 
+Sending back or referring case for magistrates’ court trial 
+rule 9.25 
+ 
+ 
+17
+GENERAL RULES 
+When this Part applies 
+9.1.—(1) This Part applies to— 
+(a) the allocation and sending of cases for trial under— 
+ 
+(i) sections 17ZA to 26 of the Magistrates’ Courts Act 1980(a), and 
+ 
+(ii) sections 50A to 52 of the Crime and Disorder Act 1998(b); and 
+(b) the sending back or referring of cases to a magistrates’ court for trial under— 
+ 
+(i) section 46ZA of the Senior Courts Act 1981(c), and 
+ 
+(ii) paragraph 6 of Schedule 3 to the Crime and Disorder Act 1998(d). 
+(2) Rules 9.7 to 9.9 apply in a magistrates’ court where the court must, or can, send a 
+defendant to the Crown Court for trial without allocating the case for trial there. 
+(3) Rules 9.10 to 9.23 apply in a magistrates’ court where the court must allocate the case 
+to a magistrates’ court or to the Crown Court for trial. 
+(4) Rule 9.24 applies in a magistrates’ court where, after applying other rules in this Part, 
+the court can commit for sentence to the Crown Court a defendant who pleads guilty to an 
+offence related to one sent for trial there. 
+(5) Rule 9.25 applies in the Crown Court where the court can send back or refer a 
+defendant to a magistrates’ court for trial. 
+[Note. At the first hearing in a magistrates’ court the court may (and in some cases must) 
+order trial in that court, or may (and in some cases must) send the defendant to the Crown 
+Court for trial under section 51 or 51A of the Crime and Disorder Act 1998(e). The 
+decision depends upon— 
+(a) the classification of the offence (and the general rule, subject to exceptions, is that 
+an offence classified as triable only on indictment must be sent to the Crown Court 
+for trial; an offence classified as triable only summarily must be tried in a 
+magistrates’ court; and an offence classified as triable either way, on indictment 
+or summarily, must be allocated to one or the other court for trial, subject to the 
+                                                                                                                                            
+(a) 1980 c. 43; sections 17ZA, 17ZB and 17ZC are inserted by section 6 of the Judicial Review and Courts Act 2022 (c. 35) 
+with effect from a date to be appointed. Sections 17A to 17C were inserted by section 49 of the Criminal Procedure and 
+Investigations Act 1996 (c. 25). Section 17BA is inserted by section 7 of the Judicial Review and Courts Act 2022 (c. 35) 
+with effect from a date to be appointed. Sections 17D and 17E were inserted by section 336 of, and paragraph 3 of Schedule 
+3 to, the Criminal Justice Act 2003 (c. 44). Section 20A was inserted by section 336 of, and paragraph 6 of Schedule 3 to, 
+the Criminal Justice Act 2003 (c. 44). Section 22A was inserted by sections 176 and 185 of the Anti-social Behaviour, 
+Crime and Policing Act 2014 (c. 12). Sections 24ZA and 24ZB are inserted by section 8 of the Judicial Review and Courts 
+Act 2022 (c. 35) with effect from a date to be appointed. Sections 24A, 24B, 24C and 24D were inserted by section 336 of, 
+and paragraph 10 of Schedule 3 to, the Criminal Justice Act 2003 (c. 44). Section 24BA is inserted by section 9 of the 
+Judicial Review and Courts Act 2022 (c. 35) with effect from a date to be appointed. For amendments to these provisions, 
+see subsequent footnotes. 
+(b) 1998 c. 37; sections 50A, 51A, 51B, 51C, 51D and 51E were inserted by paragraphs 15, 17 and 18 of Schedule 3 to the 
+Criminal Justice Act 2003 (c. 44). For amendments to these provisions, see subsequent footnotes. 
+(c) 1981 c. 54; section 46ZA was inserted by section 11 of the Judicial Review and Courts Act 2022 (c. 35). 
+(d) 1998 c. 37; paragraph 6 of Schedule 3 was amended by sections 90 and 106 of, and paragraph 179 of Schedule 13 and 
+Schedule 15 to, the Access to Justice Act 1999 (c. 22), sections 41 of, and paragraphs 15 and 20 of Schedule 3 to, the 
+Criminal Justice Act 2003 (c. 44), S.I. 2005/886 and paragraphs 20 and 23 of the Schedule to the Courts and Tribunals 
+(Judiciary and Functions of Staff) Act 2018 (c. 33). It is further amended by paragraph 15 of Schedule 2 to the Judicial 
+Review and Courts Act 2022 (c. 35) with effect from a date to be appointed. 
+(e) 1998 c. 37; section 51 was substituted by paragraphs 15 and 18 of Schedule 3 to the Criminal Justice Act 2003 (c. 44) and 
+amended by section 52 of the Criminal Justice and Courts Act 2015 (c. 2). Section 51A was inserted by paragraphs 15 and 
+18 of Schedule 3 to the Criminal Justice Act 2003 (c. 44) and amended by section 49 of, and paragraph 5 of Schedule 1 to, 
+the Violent Crime Reduction Act 2006 (c. 38), paragraph 6 of Schedule 21 to the Legal Aid, Sentencing and Punishment of 
+Offenders Act 2012 (c. 10), and paragraph 156 of Schedule 24 to the Sentencing Act 2020 (c. 17). Each is further amended 
+by section 10 of the Judicial Review and Courts Act 2022 (c. 35) with effect from a date to be appointed. 
+ 
+18
+defendant’s right to choose Crown Court trial: see in particular sections 50A, 51 
+and 51A of the 1998 Act(a) and section 19 of the Magistrates’ Courts Act 
+1980(b)); 
+(b) the defendant’s age (and the general rule, subject to exceptions, is that an offence 
+alleged against a defendant under 18 must be tried in a magistrates’ court sitting 
+as a youth court: see in particular sections 24 and 24A of the 1980 Act(c)); 
+(c) whether the defendant is awaiting Crown Court trial for another offence; 
+(d) whether another defendant, charged with the same or a connected offence, is 
+awaiting Crown Court trial for that offence; 
+(e) in some cases (destroying or damaging property; aggravated vehicle taking), 
+whether the value involved is more or less than £5,000; and 
+(f) in a case of low-value shoplifting, whether the defendant chooses Crown Court 
+trial: see section 22A of the 1980 Act(d). 
+A magistrates’ court’s powers of sending and allocation, including its powers (i) to receive 
+a defendant’s indication of an intention to plead guilty and (ii) to give an indication of 
+likely sentence, may be exercised by a single justice: see sections 51(13) and 51A(11) of the 
+1998 Act, and sections 17E, 18(5) and 24D of the 1980 Act(e). 
+The circumstances in which the Crown Court can send back or refer a case for magistrates’ 
+court trial are summarised in the note to rule 9.25.] 
+Exercise of magistrates’ court’s powers 
+9.2.—(1) This rule applies to the exercise of a magistrates’ court’s powers to which this 
+Part applies. 
+(2) Where the court considers the case of a defendant charged with two or more offences 
+the court must deal with those offences in the following sequence (and the court may ask 
+the defendant questions to help it decide with which offence to begin)— 
+(a) any to which rule 9.7 applies (Prosecutor’s notice requiring Crown Court trial); 
+                                                                                                                                            
+(a) 1998 c. 37; section 50A was inserted by paragraphs 15 and 17 of Schedule 3 to the Criminal Justice Act 2003 (c. 44). It is 
+amended by paragraphs 8 and 11 of Schedule 2 to the Judicial Review and Courts Act 2022 (c. 35) with effect from a date 
+to be appointed. 
+(b) 1980 c. 43; section 19 was amended by section 336 of, and paragraph 5 of Schedule 3 to, the Criminal Justice Act 2003 (c. 
+44), section 182 of, and paragraph 4 of Schedule 17 to, the Coroners and Justice Act 2009 (c. 25), and S.I. 2019/780. It is 
+further amended by paragraph 10 of Schedule 2 to the Judicial Review and Courts Act 2022 (c. 35) with effect from a date 
+to be appointed. 
+(c) 1980 c. 43; section 24 was amended by section 77 of, and paragraph 47 of Schedule 14 to, the Criminal Justice Act 1982 (c. 
+48), sections 17, 68 and 101 of, and paragraph 6 of Schedule 8, paragraphs 6 and 22 of Schedule 12 and Schedule 13 to, the 
+Criminal Justice Act 1991 (c. 53), sections 47, 119 and 121 of, and paragraph 40 of Schedule 8 to, the Crime and Disorder 
+Act 1998 (c. 37), sections 42 and 336 of, and paragraph 9 of Schedule 3 to, the Criminal Justice Act 2003 (c. 44), sections 
+49, 65 and 66 of, and paragraph 1 of Schedule 1 and Schedule 5 to, the Violent Crime Reduction Act 2006 (c. 38) and 
+section 416 of, and paragraph 48 of Schedule 24 to, the Sentencing Act 2020 (c. 17). Section 24A was inserted by section 
+336 of, and paragraph 10 of Schedule 3 to, the Criminal Justice Act 2003 (c. 44) and amended by section 416 of, and 
+paragraph 49 of Schedule 24 to, the Sentencing Act 2020 (c. 17) and section 50 of, and paragraph 14 of Schedule 13 to, the 
+Counter-Terrorism and Sentencing Act 2021 (c. 11). Section 24 is further amended by paragraph 9, and section 24A by 
+paragraphs 6, 9 and 10, of Schedule 2 to the Judicial Review and Courts Act 2022 (c. 35) with effect from a date to be 
+appointed. 
+(d) 1980 c. 43; section 22A was inserted by section 176 of the Anti-social Behaviour, Crime and Policing Act 2014 (c. 12) and 
+amended by section 52 of the Criminal Justice and Courts Act 2015 (c. 2). It is further amended by section 6 of, and 
+paragraph 10 of Schedule 2 to, the Judicial Review and Courts Act 2022 (c. 35) with effect from a date to be appointed. 
+(e) 1980 c. 43; section 17E was inserted by section 336 of, and paragraph 3 of Schedule 3 to, the Criminal Justice Act 2003 (c. 
+44). It is amended by paragraph 6 of Schedule 2 to the Judicial Review and Courts Act 2022 (c. 35) with effect from a date 
+to be appointed. Section 18 was amended by section 59 of, and paragraph 1 of Schedule 9 to, the Criminal Justice Act 1982 
+(c. 48), sections 68 and 101 of, and paragraph 6 of Schedule 8 and paragraph 22 of Schedule 12 to, the Criminal Justice Act 
+1991 (c. 53), section 49 of the Criminal Procedure and Investigations Act 1996 (c. 25) and section 336 of, and paragraph 4 
+of Schedule 3 to, the Criminal Justice Act 2003 (c. 44). It is further amended by section 9 of, and paragraphs 6 and 9 of 
+Schedule 2 to, the Judicial Review and Courts Act 2022 (c. 35) with effect from a date to be appointed. Section 24D was 
+inserted by section 336 of, and paragraph 10 of Schedule 3 to, the Criminal Justice Act 2003 (c. 44). 
+ 
+19
+(b) any to which rule 9.8 or rule 9.9 applies (sending for Crown Court trial without 
+allocation there), in this sequence— 
+ 
+(i) any one or more that the court must send for trial because of section 51(1) or 
+section 51A(A1) of the Crime and Disorder Act 1998 (which set out the 
+principal conditions for sending for trial an adult or a young defendant 
+respectively), 
+ 
+(ii) any the court must send for trial under paragraph (3) or (4) of this rule, and 
+ 
+(iii) any the court may send for trial under paragraph (4) of this rule; and 
+(c) any to which rule 9.23 applies (Sending after allocation for Crown Court trial). 
+(3) Where the court on the same or separate occasions considers the cases of two or more 
+defendants charged jointly with an offence, if the court sends one of those defendants to the 
+Crown Court for trial for that offence— 
+(a) on the same occasion the court must so send each other defendant so charged even 
+if by then the court has decided to allocate that other defendant for magistrates’ 
+court trial; and 
+(b) on a subsequent occasion the court may so send another defendant so charged; but 
+(c) where a jointly charged defendant is under 18— 
+ 
+(i) unless the jointly charged offence is one that falls within section 51A(12) of 
+the Crime and Disorder Act 1998 (homicide and certain offences involving 
+weapons), before the court sends that defendant to the Crown Court for that 
+offence the court must take a plea indication from that defendant under 
+section 24A of the Magistrates’ Courts Act 1980 (or section 24B of that Act, 
+where that applies) and deal with the defendant accordingly, and 
+ 
+(ii) if the defendant indicates a not guilty plea then the court may send that 
+defendant for Crown Court trial only if the court considers it necessary in the 
+interests of justice to do so. 
+(4) Subject to paragraph (3) (jointly charged defendants), where the court sends a 
+defendant whose case it is considering to the Crown Court for trial for an offence because 
+of section 51(1) or section 51A(A1) of the Crime and Disorder Act 1998 (in this rule, ‘a 
+lead offence’)— 
+(a) on the same occasion as that sending the court must send that defendant to the 
+Crown Court for trial for any other indictable or summary offence with which that 
+defendant is charged (in this rule, ‘a connected offence’)— 
+ 
+(i) if the circumstances of that other offence appear to the court to be the same as, 
+or connected with, those giving rise to a lead offence, and 
+ 
+(ii) where the connected offence is a summary offence, if it is one to which 
+section 40 of the Criminal Justice Act 1988 applies (specified summary 
+offences founded on the prosecution evidence), or one which is punishable 
+with imprisonment, or one which involves obligatory or discretionary 
+disqualification from driving, but 
+ 
+(iii) where the defendant is under 18, only if the court considers it necessary in the 
+interests of justice to do so; 
+(b) on the same occasion as that sending, if another defendant whose case the court is 
+considering is charged with a connected offence then the court must send that other 
+defendant to the Crown Court for trial for that offence, subject to paragraph (4)(d) 
+if it applies; 
+(c) on an occasion subsequent to that sending the court may send any defendant whose 
+case it is considering to the Crown Court for trial for a connected offence with 
+which that defendant is charged, subject to paragraph (4)(d) if it applies; and 
+(d) where a defendant to whom paragraph (4)(b) or (4)(c) refers is under 18 then— 
+ 
+20
+ 
+(i) a connected offence for which that defendant is sent for trial must be an 
+indictable offence, 
+ 
+(ii) unless the connected offence is one that falls within section 51A(12) of the 
+Crime and Disorder Act 1998 (homicide and certain offences involving 
+weapons), before the court sends that defendant to the Crown Court for that 
+offence the court must take a plea indication from that defendant under 
+section 24A of the Magistrates’ Courts Act 1980 (or section 24B of that Act, 
+where that applies) and deal with the defendant accordingly, and 
+ 
+(iii) if the defendant indicates a not guilty plea then the court may send that 
+defendant for Crown Court trial only if the court considers it necessary in the 
+interests of justice to do so. 
+(5) The court must require the defendant to provide or confirm the defendant’s name and 
+date of birth in response to a notice served on the defendant under— 
+(a) rule 9.8(3) (Sending by written procedure for Crown Court trial); 
+(b) rule 9.10(2) (Request by written procedure for plea indication); or 
+(c) rule 9.19(2) (Allocation by written procedure for youth court or Crown Court 
+trial). 
+(6) At a hearing, the court— 
+(a) must, as a general rule, exercise its powers in public, but it may exercise any 
+power it has to— 
+ 
+(i) withhold information from the public, or 
+ 
+(ii) order a hearing in private; and 
+(b) may exercise its power to adjourn— 
+ 
+(i) if either party asks, or 
+ 
+(ii) on its own initiative. 
+(7) At a hearing the general rule is that the court must exercise its powers in the 
+defendant’s presence (which presence may be by live link or through a legal 
+representative), but it may exercise the powers to which the following rules apply in the 
+defendant’s absence on the conditions specified— 
+(a) where rule 9.9 (Sending at a hearing for Crown Court trial) applies, after following 
+the procedure in rule 9.8 (Sending by written procedure for Crown Court trial); 
+(b) where rule 9.14 (Request at a hearing for plea indication), rule 9.16 (Not guilty 
+plea indication at a hearing) or rule 9.17 (Allocation for magistrates’ court trial at a 
+hearing) applies, if the court is satisfied that it is not contrary to the interests of 
+justice to proceed in the defendant’s absence and— 
+ 
+(i) the defendant’s legal representative is present and either that representative 
+tells the court that the defendant agrees to it proceeding in the defendant’s 
+absence or the court does not consider that there is an acceptable reason for 
+the defendant’s failure to attend, 
+ 
+(ii) either the court is satisfied that the defendant had reasonable notice of the 
+hearing or the defendant has attended a previous hearing in the case and in 
+either case the court does not consider that there is an acceptable reason for 
+the defendant’s failure to attend, or 
+ 
+(iii) the defendant’s disorderly conduct at the hearing makes it impracticable to 
+proceed in the defendant’s presence; 
+(c) where rule 9.21 (Allocation at a hearing for youth court or Crown Court trial) 
+applies, when the court asks the defendant for a plea indication, guilty or not 
+guilty, if— 
+ 
+(i) the defendant’s legal representative is present, 
+ 
+21
+ 
+(ii) the defendant’s disorderly conduct at the hearing makes it impracticable to 
+proceed in the defendant’s presence, and 
+ 
+(iii) the court considers that it should proceed in the defendant’s absence; 
+(d) where rule 9.21 (Allocation at a hearing for youth court or Crown Court trial) 
+applies, after the court asks the defendant for a plea indication if— 
+ 
+(i) the defendant has given no notice of plea indication under rule 9.19 
+(Allocation by written procedure for youth court or Crown Court trial), 
+ 
+(ii) either the court is satisfied that the defendant had reasonable notice of the 
+hearing or the defendant has attended a previous hearing in the case and in 
+either case the court does not consider that there is an acceptable reason for 
+the defendant’s failure to attend, and 
+ 
+(iii) the court is satisfied that it is not contrary to the interests of justice to proceed 
+in the defendant’s absence; and 
+(e) where rule 9.24 (Committal for sentence for offence related to an offence sent for 
+trial) applies, unless— 
+ 
+(i) it appears to the court to be contrary to the interests of justice to do so, and 
+ 
+(ii) the court considers that there is an acceptable reason for the defendant’s 
+absence. 
+(8) Where the defendant is under 18— 
+(a) if rule 9.8 or rule 9.19 applies (Sending by written procedure for Crown Court 
+trial; Allocation by written procedure for youth court or Crown Court trial), unless 
+the court is satisfied that it would be unreasonable to do so having regard to the 
+circumstances of the case the court may, in any case, and where the defendant is 
+under 16 the court must— 
+ 
+(i) ask whether a parent or guardian of the defendant is aware of the written 
+proceedings, and 
+ 
+(ii) if that may not be so then serve on at least one such person the notices, 
+explanations and requests required by whichever of those rules applies; 
+(b) if the defendant gives notice of a guilty or not guilty plea under rule 9.19, unless 
+the court is satisfied that it would be unreasonable to do so having regard to the 
+circumstances of the case the court may, in any case, and where the defendant is 
+under 16 the court must— 
+ 
+(i) ask whether a parent or guardian of the defendant is aware of that, and 
+ 
+(ii) if that may not be so then serve on at least one such person notice that the 
+defendant has given that plea indication; and 
+(c) if there is to be a hearing, unless the court is satisfied that it would be unreasonable 
+to do so having regard to the circumstances of the case— 
+ 
+(i) the court must require a parent or guardian of the defendant to attend where 
+the defendant is under 16, and 
+ 
+(ii) may require such a person to attend where the defendant is over 16. 
+[Note. See sections 47, 50A, 51, 51A and 52 of the Crime and Disorder Act 1998(a) and 
+sections 17A, 17B, 17BA, 17C, 18, 23, 24A, 24B, 24BA and 24C of the Magistrates’ Courts 
+Act 1980(a). 
+                                                                                                                                            
+(a) 1998 c. 37; section 47 was amended by sections 165 and 168 of, and Part I of Schedule 12 to, the Powers of Criminal 
+Courts (Sentencing) Act 2000 (c. 6), section 336 of, and Part 4 of Schedule 37 to, the Criminal Justice Act 2003 (c. 44) and 
+article 2 of, and paragraph 59 of the Schedule to, S.I. 2005/886. It is further amended by section 12 of the Judicial Review 
+and Courts Act 2022 (c. 35) with effect from a date to be appointed. Section 52 was amended by paragraphs 68 and 69 of 
+Schedule 3 to the Criminal Justice Act 2003 (c. 44) and section 177 of, and paragraph 78 of Schedule 21 to, the Coroners 
+and Justice Act 2009 (c. 25). It is further amended by section 10 of, and paragraph 15 of Schedule 2 to, the Judicial Review 
+and Courts Act 2022 (c. 35) with effect from a date to be appointed. 
+ 
+22
+Under sections 51(3A), (3B) and 51A(4A), (4B) of the Crime and Disorder Act 1998(b), 
+Criminal Procedure Rules may make provision about situations where a defendant is sent 
+to the Crown Court for trial for an alleged offence and any other offence is, or appears to 
+be, related (in such a way as is specified in the Rules) to that alleged offence. 
+Under section 51 of the Criminal Justice Act 2003, the court may require a defendant to 
+attend by live link a hearing to which this Part applies. 
+Part 46 contains rules allowing a representative to act on a defendant’s behalf for the 
+purposes of these Rules. Rules 9.8 and 9.17 set out procedures that apply where neither the 
+defendant nor the defendant’s legal representative attends a hearing to which those rules 
+apply. 
+Where a defendant waives the right to be present then the court may nonetheless require his 
+or her attendance by summons or warrant: see section 26 of the 1980 Act(c). 
+Under section 52A of the 1998 Act(d), reporting restrictions apply to the proceedings to 
+which rules 9.7 to 9.23 apply. 
+Under section 86A of the Courts Act 2003(e), Criminal Procedure Rules must specify stages 
+of proceedings at which the court must require the information listed in rule 9.2(5) and may 
+specify other stages of proceedings when such requirements may be imposed. A person 
+commits an offence if, without reasonable excuse, that person fails to comply with such a 
+requirement, whether by providing false or incomplete information or by providing no 
+information. 
+Section 34A of the Children and Young Persons Act 1933(f) allows, and in some 
+circumstances requires, the court to notify a parent or guardian and require their 
+attendance. 
+Section 40 of the Criminal Justice Act 1988 lists summary offences which may be included 
+in an indictment if the charge— 
+(a) is founded on the same facts or evidence as a count charging an indictable 
+offence; or 
+                                                                                                                                            
+(a) 1980 c. 43; Sections 17A, 17B and 17C were inserted by section 49 of the Criminal Procedure and Investigations Act 1996 
+(c. 25). Section 17A was amended by section 336 of, and paragraph 2 of Schedule 3 to, the Criminal Justice Act 2003 (c. 
+44) and section 416 of, and paragraph 44 of Schedule 24 to, the Sentencing Act 2020 (c. 17). It is further amended by 
+paragraph 6 of Schedule 2 to the Judicial Review and Courts Act 2022 (c. 35) with effect from a date to be appointed. 
+Section 17B is amended by section 9 of, and paragraph 6 of Schedule 2 to, the Judicial Review and Courts Act 2022 (c. 35) 
+with effect from a date to be appointed. Section 17C is amended by paragraph 6 of Schedule 2 to the Judicial Review and 
+Courts Act 2022 (c. 35) with effect from a date to be appointed. Section 17BA is inserted by section 7 of the Judicial 
+Review and Courts Act 2022 (c. 35) with effect from a date to be appointed. Section 23 was amended by section 125 of, and 
+paragraph 25 of Schedule 18 to, the Courts and Legal Services Act 1990 (c. 41) and section 336 of, and paragraph 8 of 
+Schedule 3 to, the Criminal Justice Act 2003 (c. 44). It is further amended by paragraphs 6 and 10 of Schedule 2 to the 
+Judicial Review and Courts Act 2022 (c. 35) with effect from a date to be appointed. Sections 24A, 24B and 24C were 
+inserted by section 336 of, and paragraph 10 of Schedule 3 to, the Criminal Justice Act 2003 (c. 44). Section 24A was 
+amended by section 416 of, and paragraph 49 of Schedule 24 to, the Sentencing Act 2020 (c. 17) and section 50 of, and 
+paragraph 14 of Schedule 13 to, the Counter-Terrorism and Sentencing Act 2021 (c. 11). It is further amended by 
+paragraphs 6, 9 and 10 of Schedule 2 to the Judicial Review and Courts Act 2022 (c. 35) with effect from a date to be 
+appointed. Section 24C is amended by paragraph 9 of Schedule 2 to the Judicial Review and Courts Act 2022 (c. 35) with 
+effect from a date to be appointed. Section 24BA is inserted by section 9 of the Judicial Review and Courts Act 2022 (c. 35) 
+with effect from a date to be appointed. 
+(b) 1998 c. 37; section 51(3A), (3B) are substituted for subsections (3) to (12) as originally enacted by section 10(1), (5) of the 
+Judicial Review and Courts Act 2022 (c. 35) and section 51A(4A), (4B) are substituted for subsections (4) to (10) as 
+originally enacted by section 10(6), (10) of the 2022 Act with effect from a date to be appointed. 
+(c) 1980 c. 43; section 26 was amended by section 336 of, and paragraph 12 of Schedule 3 to, the Criminal Justice Act 2003 (c. 
+44). 
+(d) 1998 c. 37; section 52A was inserted by paragraphs 15 and 19 of Schedule 3 to the Criminal Justice Act 2003 (c. 44) and 
+amended by paragraphs 46 and 47 of Schedule 5 to the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 
+10). 
+(e) 2003 c. 39; section 86A was inserted by section 162 of the Police, Crime, Sentencing and Courts Act 2022 (c. 32). 
+(f) 
+1933 c. 12; section 34A was inserted by section 56 of the Criminal Justice Act 1991 (c. 53) and amended by section 107 of, 
+and paragraph 1 of Schedule 5 to, the Local Government Act 2000 (c. 22) and S.I. 2016/413. 
+ 
+23
+(b) is part of a series of offences of the same or similar character as an indictable 
+offence which is also charged. 
+Part 3 contains rules about the court’s powers of case management.] 
+Matters to be specified on sending for trial 
+9.3.—(1) Where the court sends a defendant to the Crown Court for trial, it must 
+specify— 
+(a) each offence to be tried; 
+(b) in respect of each, the power exercised to send the defendant for trial for that 
+offence; and 
+(c) the Crown Court centre at which the trial will take place. 
+(2) In a case in which the prosecutor serves a notice to which rule 9.7(1)(a) applies 
+(notice requiring Crown Court trial in a case of serious or complex fraud), the court must 
+specify the Crown Court centre identified by that notice. 
+(3) In any other case, in deciding the Crown Court centre at which the trial will take 
+place, the court must take into account— 
+(a) the convenience of the parties and witnesses; 
+(b) how soon a suitable courtroom will be available; and 
+(c) the directions on the allocation of Crown Court business contained in the Practice 
+Direction. 
+[Note. See section 51D of the Crime and Disorder Act 1998(a).] 
+Duty of justices’ legal adviser 
+9.4.—(1) This rule applies— 
+(a) only in a magistrates’ court; and 
+(b) unless the court— 
+ 
+(i) includes a District Judge (Magistrates’ Courts), and 
+ 
+(ii) otherwise directs. 
+(2) On the court’s behalf, a justices’ legal adviser may— 
+(a) read the allegation of the offence to the defendant; and 
+(b) give any explanation and ask any question required by the rules in this Part. 
+[Note. For the functions of a justices’ legal adviser, see sections 28 and 29 of the Courts 
+Act 2003(b). See also rule 2.12 (Duties of justices’ legal adviser).] 
+Duty of magistrates’ court officer 
+9.5.—(1) The magistrates’ court officer must— 
+(a) notify the prosecutor of the defendant’s withdrawal of a notice given under rule 
+9.11, 9.12 or 9.19 (written notices of plea indication); 
+(b) make available to the Crown Court officer and give to or serve on the parties 
+notice of a sending for Crown Court trial under rule 9.8, 9.9 or 9.23; 
+                                                                                                                                            
+(a) 1998 c. 37; section 51D was inserted by paragraphs 15 and 18 of Schedule 3 to the Criminal Justice Act 2003 (c. 44) and 
+amended by section 59 of, and paragraph 1 of Schedule 11 to, the Constitutional Reform Act 2005 (c. 4). It is further 
+amended by paragraph 15 of Schedule 2 to the Judicial Review and Courts Act 2022 (c. 35) with effect from a date to be 
+appointed. 
+(b) 2003 c. 39; sections 28 and 29 were substituted by section 4 of, and paragraph 26 of the Schedule to, the Courts and 
+Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33). 
+ 
+24
+(c) in such a notice of sending include— 
+ 
+(i) the matters specified by the court under rule 9.3 (Matters to be specified on 
+sending for trial), 
+ 
+(ii) any decision by the defendant under rule 9.8 or 9.9 (sending without 
+allocation for Crown Court trial) to require Crown Court trial for low-level 
+shoplifting, 
+ 
+(iii) any indication given by the defendant under rule 9.8 or 9.9 of intended guilty 
+plea, 
+ 
+(iv) any decision by the defendant under rule 9.12 or 9.16 to require Crown Court 
+trial (not guilty plea indication by written procedure or at a hearing), 
+ 
+(v) any indication of likely sentence to which rule 9.11 or rule 9.13 applies, 
+ 
+(vi) any decision by the defendant under rule 9.13 or 9.17 to decline magistrates’ 
+court trial (allocation for magistrates’ court trial by written procedure or at a 
+hearing), 
+ 
+(vii) any opinion stated by the court under rule 9.24 (Committal for sentence of 
+offence related to an offence sent for trial), and 
+ 
+(viii) the date on which any custody time limit will expire; and 
+(d) give the court such other assistance as it requires. 
+(2) The magistrates’ court officer must make available to the Crown Court officer— 
+(a) the initial details of the prosecution case served by the prosecutor under rule 8.2; 
+(b) any information supplied by the parties for the purposes of case management by 
+the court; 
+(c) a record of any— 
+ 
+(i) listing or case management direction affecting the Crown Court, 
+ 
+(ii) direction about reporting restrictions, 
+ 
+(iii) decision about bail, for the purposes of section 5 of the Bail Act 1976(a), 
+ 
+(iv) recognizance given by a surety, or 
+ 
+(v) representation order; and 
+(d) if relevant, any available details of any— 
+ 
+(i) interpreter, 
+ 
+(ii) intermediary, or 
+ 
+(iii) other supporting adult, where the defendant is assisted by such a person. 
+[Note. See sections 51, 51A and 51D of the Crime and Disorder Act 1998(b), and section 
+20A of the Magistrates’ Courts Act 1980(c).] 
+                                                                                                                                            
+(a) 1976 c. 63; section 5 was amended by section 65 of, and Schedule 12 to, the Criminal Law Act 1977 (c. 45), section 60 of 
+the Criminal Justice Act 1982 (c. 48), paragraph 1 of Schedule 3 to the Criminal Justice and Public Order Act 1994 (c. 33), 
+paragraph 53 of Schedule 9 to the Powers of Criminal Courts (Sentencing) Act 2000 (c. 6), section 129(1) of the Criminal 
+Justice and Police Act 2001 (c. 16), paragraph 182 of Schedule 8 to the Courts Act 2003 (c. 39), paragraph 48 of Schedule 
+3, paragraphs 1 and 2 of Schedule 36, and Parts 2, 4 and 12 of Schedule 37 to the Criminal Justice Act 2003 (c. 44) and 
+section 208 of, and paragraphs 33 and 35 of Schedule 21 to, the Legal Services Act 2007 (c. 27). 
+(b) 1998 c. 37; section 51 was substituted and section 51A inserted by paragraphs 15 and 18 of Schedule 3 to the Criminal 
+Justice Act 2003 (c. 44). Section 51 was amended by section 52 of the Criminal Justice and Courts Act 2015 (c. 2). Section 
+51A was amended by section 49 of, and paragraph 5 of Schedule 1 to, the Violent Crime Reduction Act 2006 (c. 38), 
+paragraph 6 of Schedule 21 to the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), and paragraph 156 
+of Schedule 24 to the Sentencing Act 2020 (c. 17). Each is further amended by section 10 of the Judicial Review and Courts 
+Act 2022 (c. 35) with effect from a date to be appointed. 
+(c) 1980 c. 43; section 20A was inserted by section 336 of, and paragraph 6 of Schedule 3 to, the Criminal Justice Act 2003 (c. 
+44) and amended by section 416 of, and paragraph 47 of Schedule 24 to, the Sentencing Act 2020 (c. 17). 
+ 
+25
+Giving and service of written notices, etc. 
+9.6.—(1) In this rule “the written procedure rules” means rules 9.8, 9.10 to 9.13, 9.19 and 
+9.20. 
+(2) The notices, explanations and warnings required by the following rules must be 
+served on the defendant— 
+(a) rule 9.8(3) (Sending by written procedure for Crown Court trial); 
+(b) rule 9.10(2) (Request by written procedure for plea indication); and 
+(c) rule 9.19(2) (Allocation by written procedure for youth court or Crown Court 
+trial). 
+(3) Paragraph (4) applies to— 
+(a) notices, explanations, warnings and requests required, and responses invited, under 
+the written procedure rules other than those to which paragraph (2) refers; 
+(b) any withdrawal by a defendant of a plea indication given under rule 9.11, 9.12 or 
+9.19; and 
+(c) any written notice, explanation, warning or request required, and any written 
+response invited, under rule 9.23 (Sending after allocation for Crown Court trial). 
+(4) Where this paragraph applies the communication must be— 
+(a) given by means of such electronic arrangements as have been made for the 
+purposes of rule 5.1 (Applications, etc. by forms or electronic means); or 
+(b) served if, but only if— 
+ 
+(i) no such electronic arrangements have been made, or 
+ 
+(ii) the recipient has not used such arrangements in response to an invitation to do 
+so. 
+[Note. Each of rules 9.8(3), 9.10(2) and 9.19(2) requires a notice inviting the defendant to 
+take part in a written procedure using electronic means.] 
+ 
+SENDING WITHOUT ALLOCATION FOR CROWN COURT TRIAL 
+Prosecutor’s notice requiring Crown Court trial 
+9.7.—(1) This rule applies where a prosecutor with power to do so requires a magistrates’ 
+court to send for trial in the Crown Court— 
+(a) a case of serious or complex fraud; or 
+(b) a case which will involve a child witness. 
+(2) The prosecutor must serve notice of that requirement— 
+(a) on the magistrates’ court officer and on the defendant; and 
+(b) before trial in a magistrates’ court begins under Part 24 (Trial and sentence in a 
+magistrates’ court). 
+(3) The notice must identify— 
+(a) the power on which the prosecutor relies; and 
+(b) the Crown Court centre at which the prosecutor wants the trial to take place. 
+(4) The prosecutor— 
+(a) must, when choosing a Crown Court centre, take into account the matters listed in 
+rule 9.3(3) (court deciding to which Crown Court centre to send a case); and 
+(b) may change the centre identified before the case is sent for trial. 
+ 
+26
+[Note. Under section 51B of the Crime and Disorder Act 1998(a), the Director of Public 
+Prosecutions or a Secretary of State may require the court to send a case for trial in the 
+Crown Court if, in that prosecutor’s opinion, the evidence of the offence charged— 
+(a) is sufficient for the person charged to be put on trial for the offence; and 
+(b) reveals a case of fraud of such seriousness or complexity that it is appropriate that 
+the management of the case should without delay be taken over by the Crown 
+Court. 
+Under section 51C of the Crime and Disorder Act 1998(b), the Director of Public 
+Prosecutions may require the court to send for trial in the Crown Court a case involving 
+one of certain specified violent or sexual offences if, in the Director’s opinion— 
+(a) the evidence of the offence would be sufficient for the person charged to be put on 
+trial for that offence; 
+(b) a child would be called as a witness at the trial; and 
+(c) for the purpose of avoiding any prejudice to the welfare of the child, the case 
+should be taken over and proceeded with without delay by the Crown Court. 
+‘Child’ for these purposes is defined by section 51C(7) of the 1998 Act.] 
+Sending by written procedure for Crown Court trial 
+9.8.—(1) This rule— 
+(a) applies where the court must, or can, send a defendant to the Crown Court for trial 
+without first allocating the case for trial there; but 
+(b) does not apply where the defendant is present at a hearing to which rule 9.9 applies 
+(Sending at a hearing for Crown Court trial). 
+(2) Where this rule applies— 
+(a) paragraphs (3), (4) and (5) (about procedure before sending for trial by written 
+notice) do not apply where— 
+ 
+(i) a hearing to which rule 9.9 applies is due to take place less than 15 business 
+days after the notice, explanations and warning required by paragraph (3) 
+otherwise would be served, or 
+ 
+(ii) such a hearing has taken place, or is taking place, in the defendant’s absence; 
+and 
+(b) if paragraphs (3), (4) and (5) apply then paragraphs (6), (7), (8) and (9) (about 
+sending for trial by written notice) do not apply until the earlier of— 
+ 
+(i) the date specified under paragraph (3)(c), or 
+ 
+(ii) the receipt from both parties of responses to the requests under paragraph (5). 
+(3) The court officer must serve on the parties— 
+(a) notice— 
+ 
+(i) that the court is about to consider sending the defendant for Crown Court trial 
+for the offence or offences of which the defendant is accused, with a statement 
+of each offence, 
+                                                                                                                                            
+(a) 1998 c. 37; section 51B was inserted by paragraphs 15 and 18 of Schedule 3 to the Criminal Justice Act 2003 (c. 44) and 
+amended by section 50 of, and paragraph 69 of Schedule 4 to, the Commissioners for Revenue and Customs Act 2005 (c. 
+11), section 39 of, and paragraphs 46 and 48 of Schedule 5 to, the Legal Aid, Sentencing and Punishment of Offenders Act 
+2012 (c. 10) and article 1 of, and paragraph 15 of Schedule 2 to, S.I. 2014/834. It is further amended by paragraph 8 of 
+Schedule 2 to the Judicial Review and Courts Act 2022 (c. 35) with effect from a date to be appointed. 
+(b) 1998 c. 37; section 51C was inserted by section 336 of, and paragraph 18 of Schedul3 3 to, the Criminal Justice Act 2003 
+(c. 44) and amended by S.I. 2016/244 and section 186 of, and paragraph 7 of Schedule 16 to, the Health and Care Act 2022 
+(c. 31).  
+ 
+27
+ 
+(ii) that a hearing for that purpose has been arranged, on a date and at a time and 
+place specified in the notice, and 
+ 
+(iii) advising the defendant to consult a legal representative and giving information 
+about how to find a representative if the defendant does not already have one; 
+(b) explanations that— 
+ 
+(i) because at least one offence of which the defendant is accused can only be 
+tried in the Crown Court, or for some other reason must or can be sent for trial 
+there, the court expects to send the defendant for Crown Court trial, 
+ 
+(ii) the court can send the defendant without a hearing for Crown Court trial, 
+ 
+(iii) if the court sends the defendant without a hearing for Crown Court trial it will 
+be on bail, which will be without conditions if the defendant is already on 
+unconditional bail or is not on bail at all, and will be on the same conditions if 
+the defendant is already on conditional bail, 
+ 
+(iv) the parties may make any written representations they wish to make about the 
+exercise of the court’s powers and about any ancillary matters, including the 
+preparation of the case for trial in the Crown Court, and may supply in writing 
+such information as the court requires for the purposes of case management, 
+ 
+(v) the defendant may give a written indication of intended plea in the Crown 
+Court, guilty or not guilty, to each offence of which the defendant is accused, 
+and 
+ 
+(vi) only legal representatives have access to the electronic arrangements needed 
+to make written representations, supply information and give a written 
+indication of intended plea; and 
+(c) a warning that if the defendant does not respond using those electronic 
+arrangements by a date specified in the notice then the hearing to which the notice 
+refers will take place and— 
+ 
+(i) if the defendant fails to attend that hearing then the defendant may be arrested 
+and, if the defendant is on bail, then as well as being arrested may be punished 
+and bail may be withdrawn, 
+ 
+(ii) the defendant may be sent for Crown Court trial anyway without the court 
+having been able to take account of any representations and information that 
+the defendant might want to make or give. 
+(4) The date specified under paragraph (3)(c) must be not less than 10 business days after 
+service of the notice, explanations and warning required by paragraph (3). 
+(5) If by the date specified under paragraph (3)(c) the parties respond by means of the 
+electronic arrangements to which that paragraph refers then the court officer must give by 
+those means— 
+(a) an explanation that an indication of intended plea in the Crown Court— 
+ 
+(i) does not of itself constitute a plea, there will be a court hearing for the 
+defendant to confirm that plea, and the defendant will be able to withdraw that 
+indication before the plea is taken in court, but 
+ 
+(ii) the defendant is likely to receive a reduced sentence as a result of indicating at 
+once an intention to plead guilty and then pleading guilty in the Crown Court; 
+(b) a request that the parties— 
+ 
+(i) make such representations as the parties wish to make about the exercise of 
+the court’s powers and about any ancillary matters, including the preparation 
+of the case for trial in the Crown Court, and 
+ 
+(ii) give such information as the court requires for the purposes of case 
+management; 
+(c) a request that the defendant gives an indication of intended plea in the Crown 
+Court to each offence of which the defendant is accused; and 
+ 
+28
+(d) a warning that if after considering such responses as are received the court requires 
+a hearing for the defendant to attend after all— 
+ 
+(i) the court officer will so notify the parties, 
+ 
+(ii) if the defendant fails to attend that hearing then the defendant may be arrested 
+and, if the defendant is on bail, then as well as being arrested may be punished 
+and bail may be withdrawn, and 
+ 
+(iii) with or without a hearing the defendant may be sent for trial. 
+(6) No sooner than the earlier of the date specified under paragraph (3)(c) or the receipt 
+from both parties of responses to the requests under paragraph (5) the court must— 
+(a) consider any responses to those requests; and 
+(b) decide whether to— 
+ 
+(i) send the defendant by written notice to the Crown Court for trial, or 
+ 
+(ii) require a hearing, or further hearing, under rule 9.9 (Sending at a hearing for 
+Crown Court trial). 
+(7) In deciding whether to require such a hearing, or further hearing, the court must have 
+regard to— 
+(a) any need, in the court’s opinion, for a hearing to— 
+ 
+(i) consider bail, or 
+ 
+(ii) collect or consider information required for the purposes of case management; 
+(b) any indication that the defendant has no legal representative; and 
+(c) any other circumstance which in the court’s opinion makes such a hearing 
+necessary. 
+(8) If the court decides to send the defendant by written notice to the Crown Court for 
+trial— 
+(a) the court must give any ancillary directions; and 
+(b) the court officer must— 
+ 
+(i) issue a notice of sending under rule 9.5(1), 
+ 
+(ii) arrange for the Crown Court to take the defendant’s plea as soon as possible, 
+if the defendant has indicated an intention to plead guilty in the Crown Court, 
+ 
+(iii) if the defendant has given no such indication, arrange for a case management 
+hearing in the Crown Court, and 
+ 
+(iv) warn the defendant that failure to attend at the Crown Court when required is 
+an offence for which the defendant may be arrested and punished and bail 
+may be withdrawn. 
+(9) If the court requires a hearing, or further hearing, under rule 9.9 (Sending at a hearing 
+for Crown Court trial) the court officer must so notify the parties. 
+[Note. See sections 51, 51A and 52 of the Crime and Disorder Act 1998(a), and sections 
+22A and 24A of the Magistrates’ Courts Act 1980(b). Under sections 51(2A), (2B) and 
+                                                                                                                                            
+(a) 1998 c. 37; section 51 was substituted and section 51A inserted by paragraphs 15 and 18 of Schedule 3 to the Criminal 
+Justice Act 2003 (c. 44). Section 51 was amended by section 52 of the Criminal Justice and Courts Act 2015 (c. 2). Section 
+51A was amended by section 49 of, and paragraph 5 of Schedule 1 to, the Violent Crime Reduction Act 2006 (c. 38), 
+paragraph 6 of Schedule 21 to the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), and paragraph 156 
+of Schedule 24 to the Sentencing Act 2020 (c. 17). Each is further amended by section 10 of the Judicial Review and Courts 
+Act 2022 (c. 35) with effect from a date to be appointed. Section 52 was amended by paragraphs 68 and 69 of Schedule 3 to 
+the Criminal Justice Act 2003 (c. 44) and section 177 of, and paragraph 78 of Schedule 21 to, the Coroners and Justice Act 
+2009 (c. 25). It is further amended by section 10 of, and paragraph 15 of Schedule 2 to, the Judicial Review and Courts Act 
+2022 (c. 35) with effect from a date to be appointed. 
+(b) 1980 c. 43; section 22A was inserted by section 176 of the Anti-social Behaviour, Crime and Policing Act 2014 (c. 12) and 
+amended by section 52 of the Criminal Justice and Courts Act 2015 (c. 2). It is further amended by section 6 of, and 
+paragraph 10 of Schedule 2 to, the Judicial Review and Courts Act 2022 (c. 35) with effect from a date to be appointed. 
+ 
+ 
+29
+51A(3A), (3B) of the 1998 Act, unless the defendant is present before the court a 
+magistrates’ court must follow the written procedure described in this rule except in 
+circumstances for which Criminal Procedure Rules provide: see sections 51(2D), (2E) and 
+51A(3D), (3E). 
+A defendant will be present at a hearing to which rule 9.9 applies if arrested and brought to 
+court in custody. A hearing to which rule 9.9 will apply will have been arranged if a 
+defendant is not in custody but has been required to attend court for such a hearing. 
+Rule 9.5 (Duty of magistrates’ court officer) prescribes the content of a record of sending.] 
+Sending at a hearing for Crown Court trial 
+9.9.—(1) This rule applies at a hearing where a magistrates’ court must, or can, send a 
+defendant to the Crown Court for trial without first allocating the case for trial there. 
+(2) The court must read the allegation of the offence to the defendant. 
+(3) The court must explain, in terms the defendant can understand (with help, if 
+necessary)— 
+(a) the allegation, unless it is self-explanatory; 
+(b) that the offence is one for which the court, as appropriate— 
+ 
+(i) must send the defendant to the Crown Court for trial, or 
+ 
+(ii) may send the defendant to the Crown Court for trial if the court decides that 
+the offence is connected with one already sent for trial there; and 
+(c) that reporting restrictions apply, which the defendant may ask the court to vary or 
+remove. 
+(4) In the following sequence, the court must then— 
+(a) invite the prosecutor to— 
+ 
+(i) identify the court’s power to send the defendant to the Crown Court for trial 
+for the offence, and 
+ 
+(ii) make representations about any ancillary matters, including bail and 
+directions for the management of the case in the Crown Court; 
+(b) invite the defendant to make representations about— 
+ 
+(i) the court’s power to send the defendant to the Crown Court, and 
+ 
+(ii) any ancillary matters; 
+(c) invite the parties to supply such information as the court requires for the purposes 
+of case management; and 
+(d) send the defendant to the Crown Court for trial, in custody or on bail. 
+(5) If the court sends the defendant to the Crown Court for trial, it must— 
+(a) ask whether the defendant intends to plead guilty in the Crown Court and— 
+ 
+(i) if the answer is ‘yes’, make arrangements for the Crown Court to take the 
+defendant’s plea as soon as possible, or 
+ 
+(ii) if the defendant does not answer, or the answer is ‘no’, make arrangements for 
+a case management hearing in the Crown Court; and 
+(b) give any other ancillary directions. 
+                                                                                                                                            
+Section 24A was inserted by section 336 of, and paragraph 10 of Schedule 3 to, the Criminal Justice Act 2003 (c. 44) and 
+amended by section 416 of, and paragraph 49 of Schedule 24 to, the Sentencing Act 2020 (c. 17) and section 50 of, and 
+paragraph 14 of Schedule 13 to, the Counter-Terrorism and Sentencing Act 2021 (c. 11). It is further amended by 
+paragraphs 6, 9 and 10 of Schedule 2 to the Judicial Review and Courts Act 2022 (c. 35) with effect from a date to be 
+appointed. 
+ 
+30
+(6) Where the court decides to exercise the powers to which this rule applies in the 
+defendant’s absence— 
+(a) paragraphs (2) to (5) do not apply; and 
+(b) rule 9.8 applies instead (Sending by written procedure for Crown Court trial). 
+[Note. See sections 51, 51A and 52 of the Crime and Disorder Act 1998, and sections 22A 
+and 24A of the Magistrates’ Courts Act 1980. Under section 51(2B) of the 1998 Act, if the 
+defendant is absent the court must serve specified documents before sending for trial: see 
+rule 9.8. 
+Rule 9.5 (Duty of magistrates’ court officer) prescribes the content of a record of sending. 
+See also Part 6 (Reporting, etc. restrictions).] 
+ 
+ALLOCATION FOR TRIAL: ADULT DEFENDANTS 
+Request by written procedure for plea indication 
+9.10.—(1) This rule— 
+(a) applies where— 
+ 
+(i) the defendant is 18 or over, and 
+ 
+(ii) the court must decide whether a case should be tried in a magistrates’ court or 
+in the Crown Court; but 
+(b) does not apply where— 
+ 
+(i) the defendant is present at a hearing to which rule 9.14 applies (Request at a 
+hearing for plea indication), or 
+ 
+(ii) such a hearing is due to take place less than 15 business days after the notice, 
+explanations and warning required by paragraph (2) otherwise would be 
+served. 
+(2) The court officer must serve on the parties— 
+(a) notice— 
+ 
+(i) that the court will consider the offence or offences of which the defendant is 
+accused on a date and at a time and place specified in the notice, with a 
+statement of each offence, and 
+ 
+(ii) advising the defendant to consult a legal representative and giving information 
+about how to find a representative if the defendant does not already have one; 
+(b) explanations that— 
+ 
+(i) because the court must decide whether the defendant’s case should be tried in 
+a magistrates’ court or in the Crown Court a hearing for that purpose has been 
+arranged, 
+ 
+(ii) instead of attending that hearing the defendant may give a written plea 
+indication, guilty or not guilty, to each offence of which the defendant is 
+accused, 
+ 
+(iii) only legal representatives have access to the electronic arrangements needed 
+to give a written plea indication, and 
+ 
+(iv) if the defendant uses those electronic arrangements then the court officer will 
+provide more information about the procedure; and 
+(c) a warning that if the defendant gives no plea indication using those electronic 
+arrangements by a date specified in the notice then the hearing to which the notice 
+refers will take place and— 
+ 
+31
+ 
+(i) if the defendant fails to attend that hearing then the defendant may be arrested 
+and, if the defendant is on bail, then as well as being arrested may be punished 
+and bail may be withdrawn, 
+ 
+(ii) the case may proceed anyway without the court having been able to take 
+account of any representations and information that the defendant might want 
+to make or give. 
+(3) The date specified under paragraph (2)(c) must be not less than 8 business days after 
+service of the notice, explanations and warning required by paragraph (2). 
+(4) If by the date specified under paragraph (2)(c) the defendant uses the electronic 
+arrangements to which that paragraph refers then the court officer must give the defendant 
+by those means— 
+(a) explanations that— 
+ 
+(i) a plea indication does not of itself constitute a plea, there will be a court 
+hearing for the defendant to confirm that plea, and the defendant will be able 
+to withdraw the plea indication before the case is sent for trial or the plea is 
+taken in court, 
+ 
+(ii) if the defendant indicates an intention to plead guilty then the court officer 
+will arrange a hearing at which the plea will be taken in court, and if the 
+defendant then pleads guilty the court will pass sentence or commit the 
+defendant for sentence to the Crown Court, 
+ 
+(iii) if the defendant indicates an intention to plead not guilty and the court then, 
+without a hearing, sends the defendant for trial in the Crown Court it will be 
+on bail, which will be without conditions if the defendant is already on 
+unconditional bail or is not on bail at all, or will be subject to the same 
+conditions if the defendant is already on conditional bail, 
+ 
+(iv) if the defendant is sent for trial on bail, failure to attend at the Crown Court 
+when required is an offence for which the defendant may be arrested and 
+punished and bail may be withdrawn, and 
+ 
+(v) if the defendant gives a plea indication then the court officer will provide 
+more information about the procedure and will ask for more information from 
+the defendant; 
+(b) a request that the defendant gives a plea indication; and 
+(c) a warning that if the defendant gives a plea indication but later withdraws it, or 
+during the written procedure asks for a hearing, the hearing to which the paragraph 
+(2) notice refers will take place and— 
+ 
+(i) if the defendant fails to attend that hearing then the defendant may be arrested 
+and, if the defendant is on bail, then as well as being arrested may be punished 
+and bail may be withdrawn, 
+ 
+(ii) the case may proceed anyway without the court having been able to take 
+account of any representations and information that the defendant might want 
+to make or give. 
+[Note. See section 17ZA of the Magistrates’ Courts Act 1980(a). Under section 17ZA(3) of 
+the Act, a magistrates’ court must offer the procedure set out in this rule except in 
+circumstances for which Criminal Procedure Rules provide: see section 17ZA(2). 
+A defendant will be present at a hearing to which rule 9.14 applies if arrested and brought 
+to court in custody. A hearing to which rule 9.14 will apply will have been arranged if a 
+defendant is not in custody but has been required to attend court for such a hearing.] 
+                                                                                                                                            
+(a) 1980 c. 43; section 17ZA is inserted by section 6 of the Judicial Review and Courts Act 2022 (c. 35) with effect from a date 
+to be appointed. 
+ 
+32
+Guilty plea indication by written procedure 
+9.11.—(1) This rule— 
+(a) applies where— 
+ 
+(i) rule 9.10 applied (Request by written procedure for plea indication), and 
+ 
+(ii) in response to a request under rule 9.10(4)(b) the defendant indicates an 
+intention to plead guilty; but 
+(b) ceases to apply if the defendant withdraws that plea indication before the court 
+completes the procedure under this rule, in which event the court officer must 
+arrange a hearing for the purposes of rule 9.14 (Request at a hearing for plea 
+indication). 
+(2) As soon as practicable after that guilty plea indication the court may decide whether it 
+would have been highly likely to commit the defendant to the Crown Court for sentence— 
+(a) if that guilty plea indication had constituted a guilty plea; and 
+(b) taking into account only such information as is then available to the court. 
+(3) Where the court decides that it would have been highly likely to commit the defendant 
+to the Crown Court for sentence then as soon as practicable after that decision the court 
+officer must give the parties explanations that— 
+(a) the court has decided that it would have been highly likely to commit the 
+defendant to the Crown Court for sentence if the guilty plea indication had 
+constituted a guilty plea; 
+(b) if neither party objects then the court will send the defendant to the Crown Court 
+for trial in the expectation that the defendant will plead guilty as indicated and will 
+be sentenced there; but 
+(c) if either party objects within 5 business days then the court will not send the 
+defendant to the Crown Court but instead a magistrates’ court trial will be 
+arranged. 
+(4) Where within 5 business days of giving the explanations required by paragraph (3) 
+neither party objects to the court sending the defendant to the Crown Court then rule 9.23 
+applies (Sending after allocation for Crown Court trial). 
+(5) Paragraph (6) applies where any of the following occurs— 
+(a) the court chooses to make no decision whether or not it would have been highly 
+likely to commit the defendant to the Crown Court for sentence if the guilty plea 
+indication had constituted a guilty plea; 
+(b) the court decides that it would not have been highly likely to commit the defendant 
+to the Crown Court for sentence; or 
+(c) within 5 business days of giving the explanations required by paragraph (3) either 
+party objects to the court sending the defendant to the Crown Court. 
+(6) Where this paragraph applies— 
+(a) the court officer must arrange a hearing for the purposes of Part 24 (Trial and 
+sentence in a magistrates’ court); 
+(b) if at that hearing the defendant pleads guilty the court must deal with the case in 
+accordance with rule 24.11 (Procedure if the court convicts); and 
+(c) if at that hearing the defendant pleads not guilty the court must deal with the case 
+in accordance with rule 9.16 (Not guilty plea indication at a hearing). 
+ 
+33
+[Note. See sections 17ZA and 17ZB of the Magistrates’ Courts Act 1980(a). Under sections 
+17ZA(2) and 17ZB(2), Criminal Procedure Rules may provide for circumstances in which 
+the procedure set out in this rule does not apply.] 
+Not guilty plea indication by written procedure 
+9.12.—(1) This rule— 
+(a) applies where— 
+ 
+(i) rule 9.10 applied (Request by written procedure for plea indication), and 
+ 
+(ii) in response to a request under rule 9.10(4)(b) the defendant indicates an 
+intention to plead not guilty; but 
+(b) ceases to apply if the defendant withdraws that plea indication before the court 
+completes the procedure under this rule, in which event the court officer must 
+arrange a hearing for the purposes of rule 9.14 (Request at a hearing for plea 
+indication). 
+(2) As soon as practicable after that not guilty plea indication the court officer must give 
+the parties explanations that— 
+(a) because the defendant has indicated an intention to plead not guilty the court must 
+decide whether the case should be tried in a magistrates’ court or in the Crown 
+Court; 
+(b) (if applicable) the offence is one to which section 22 of the Magistrates’ Courts 
+Act 1980(b) applies (Certain offences triable either way to be tried summarily if 
+value involved is small) and for that reason— 
+ 
+(i) the court must first assess the value involved, and the parties will be invited to 
+make representations about that value, 
+ 
+(ii) if the court decides that that value clearly is less than £5,000 then the court 
+will order trial in a magistrates’ court, and 
+ 
+(iii) if the court decides that the value involved is not clearly less than £5,000, 
+before deciding whether the case should be tried in a magistrates’ court or in 
+the Crown Court the court will ask whether the defendant wants to be tried in 
+the Crown Court; 
+(c) (if applicable) the offence is one to which section 22A of the Magistrates’ Courts 
+Act 1980(c) may apply (Low-value shoplifting to be a summary offence) and for 
+that reason— 
+ 
+(i) the court must first assess the value and circumstances involved, and the 
+parties will be invited to make representations about that, 
+ 
+(ii) if the court decides that the offence is low-value shoplifting then the case must 
+be tried in a magistrates’ court unless the defendant requires Crown Court trial 
+and the court will ask whether the defendant wants to be tried in the Crown 
+Court; and 
+(d) (in any other case) the court will decide by written procedure whether the case 
+should be tried in a magistrates’ court or in the Crown Court unless— 
+                                                                                                                                            
+(a) 1980 c. 43; section 17ZB is inserted by section 6 of the Judicial Review and Courts Act 2022 (c. 35) with effect from a date 
+to be appointed. 
+(b) 1980 c. 43; section 22 was amended by sections 38, 123 and 170 of, and paragraph 16 of Schedule 8 and Schedule 16 to, the 
+Criminal Justice Act 1988 (c. 33), sections 68 and 101 of, and paragraph 6 of Schedule 8 and paragraph 22 of Schedule 12 
+to, the Criminal Justice Act 1991 (c. 53), section 2 of the Aggravated Vehicle-Taking Act 1992 (c. 11) and sections 46 and 
+168 of, and Schedule 11 to, the Criminal Justice and Public Order Act 1994 (c. 33). It is further is amended by paragraph 6 
+of Schedule 2 to the Judicial Review and Courts Act 2022 (c. 35) with effect from a date to be appointed. 
+(c) 1980 c. 43; section 22A was inserted by section 176 of the Anti-social Behaviour, Crime and Policing Act 2014 (c. 12) and 
+amended by section 52 of the Criminal Justice and Courts Act 2015 (c. 2). It is further amended by section 6 of, and 
+paragraph 10 of Schedule 2 to, the Judicial Review and Courts Act 2022 (c. 35) with effect from a date to be appointed. 
+ 
+34
+ 
+(i) the defendant requires Crown Court trial, in which case the court must send 
+the defendant for such a trial without asking for representations about that 
+decision and without offering any indication of likely magistrates’ court 
+sentence, or 
+ 
+(ii) the defendant gives notice requiring the court to decide at a hearing whether 
+the case should be tried in a magistrates’ court or in the Crown Court, in 
+which case a hearing will be arranged for the purposes of rule 9.16 (Not guilty 
+plea indication at a hearing). 
+(3) At the same time as giving the explanations required by paragraph (2) the court officer 
+must request that not more than 5 business days later— 
+(a) the prosecutor identifies any previous convictions of which the court can take 
+account; 
+(b) the parties make representations about— 
+ 
+(i) the value and circumstances of the offence, if relevant, and 
+ 
+(ii) whether the court should order trial in a magistrates’ court or send the 
+defendant for Crown Court trial; and 
+(c) the defendant, as applicable— 
+ 
+(i) requires Crown Court trial, or 
+ 
+(ii) requires the court to decide at a hearing whether the case should be tried in a 
+magistrates’ court or in the Crown Court. 
+(4) If within 5 business days of service of the requests under paragraph (3) the defendant 
+requires Crown Court trial then rule 9.23 applies (Sending after allocation for Crown Court 
+trial). 
+(5) If within 5 business days of service of the requests under paragraph (3) the defendant 
+requires the court to decide at a hearing whether the case should be tried in a magistrates’ 
+court or in the Crown Court then the court officer must arrange a hearing for the purposes 
+of rule 9.16 (Not guilty plea indication at a hearing). 
+(6) The court must order trial in a magistrates’ court where— 
+(a) the offence is one to which section 22 of the Magistrates’ Courts Act 1980 applies 
+and the court decides that the value involved clearly is less than £5,000; or 
+(b) the court decides that section 22A of the 1980 Act applies (low-value shoplifting) 
+and the defendant does not require Crown Court trial. 
+(7) Where none of paragraphs (4), (5) or (6) applies the court must decide whether the 
+case should be tried in a magistrates’ court or in the Crown Court, taking into account— 
+(a) the adequacy of a magistrates’ court’s sentencing powers; 
+(b) any representations by the parties, and 
+(c) any allocation guidelines issued by the Sentencing Council. 
+(8) If the court decides that the case should be tried in the Crown Court then rule 9.23 
+applies (Sending after allocation for Crown Court trial). 
+[Note. See sections 17ZA, 17ZC, 18, 19 and 22 of the Magistrates’ Courts Act 1980(a). 
+Under sections 17ZA(2) and 17ZC(2), Criminal Procedure Rules may provide for 
+circumstances in which the procedure set out in this rule does not apply. 
+                                                                                                                                            
+(a) 1980 c. 43; section 17ZC is inserted by section 6 of the Judicial Review and Courts Act 2022 (c. 35) with effect from a date 
+to be appointed. Section 18 was amended by section 59 of, and paragraph 1 of Schedule 9 to, the Criminal Justice Act 1982 
+(c. 48), sections 68 and 101 of, and paragraph 6 of Schedule 8 and paragraph 22 of Schedule 12 to, the Criminal Justice Act 
+1991 (c. 53), section 49 of the Criminal Procedure and Investigations Act 1996 (c. 25) and section 336 of, and paragraph 4 
+of Schedule 3 to, the Criminal Justice Act 2003 (c. 44). It is further amended by section 9 of, and paragraphs 6 and 9 of 
+Schedule 2 to, the Judicial Review and Courts Act 2022 (c. 35) with effect from a date to be appointed. Section 19 was 
+amended by section 336 of, and paragraph 5 of Schedule 3 to, the Criminal Justice Act 2003 (c. 44), section 182 of, and 
+ 
+ 
+35
+Under section 22 of the 1980 Act, some offences, which otherwise could be tried in a 
+magistrates’ court or in the Crown Court, must be tried in a magistrates’ court in the 
+circumstances described in this rule. 
+Under section 22A of the 1980 Act, an offence of theft, which otherwise could be tried in a 
+magistrates’ court or in the Crown Court, must be tried in a magistrates’ court as low-
+value shoplifting if— 
+(a) the value of stolen goods does not exceed £200; 
+(b) the goods were being offered for sale in a shop or any other premises, stall, vehicle 
+or place from which a trade or business is carried on; and 
+(c) at the time of the offence the defendant was, or was purporting to be, a customer 
+or potential customer, 
+unless the defendant requires Crown Court trial. 
+The convictions of which the court may take account are those specified by section 19 of the 
+1980 Act. 
+The Sentencing Council may issue allocation guidelines under section 122 of the Coroners 
+and Justice Act 2009(a). The definitive allocation guideline which took effect on 1st March, 
+2016 provides: 
+(1) In general, either way offences should be tried summarily unless— 
+(a) the outcome would clearly be a sentence in excess of the court’s powers for the 
+offence(s) concerned after taking into account personal mitigation and any 
+potential reduction for a guilty plea; or 
+(b) for reasons of unusual legal, procedural or factual complexity, the case should be 
+tried in the Crown Court. This exception may apply in cases where a very 
+substantial fine is the likely sentence. Other circumstances where this exception 
+will apply are likely to be rare and case specific; the court will rely on the 
+submissions of the parties to identify relevant cases. 
+(2) In cases with no factual or legal complications the court should bear in mind its 
+power to commit for sentence after a trial and may retain jurisdiction notwithstanding that 
+the likely sentence might exceed its powers. 
+(3) Cases may be tried summarily even where the defendant is subject to a Crown Court 
+Suspended Sentence Order or Community Order. 
+(4) All parties should be asked by the court to make representations as to whether the 
+case is suitable for summary trial. The court should refer to definitive guidelines (if any) to 
+assess the likely sentence for the offence in the light of the facts alleged by the prosecution 
+case, taking into account all aspects of the case including those advanced by the defence, 
+including any personal mitigation to which the defence wish to refer. 
+Where the court decides that the case is suitable to be dealt with in the magistrates’ court, 
+it must warn the defendant that all sentencing options remain open and, if the defendant 
+consents to summary trial and is convicted by the court or pleads guilty, the defendant may 
+be committed to the Crown Court for sentence.] 
+Allocation by written procedure for magistrates’ court trial 
+9.13.—(1) This rule— 
+(a) applies where— 
+                                                                                                                                            
+paragraph 4 of Schedule 17 to, the Coroners and Justice Act 2009 (c. 25), and S.I. 2019/780. It is further amended by 
+paragraph 10 of Schedule 2 to the Judicial Review and Courts Act 2022 (c. 35) with effect from a date to be appointed. 
+(a) 2009 c. 25; section 122 was amended by section 51 of, and paragraph 13 of Schedule 2 to, the Judicial Review and Courts 
+Act 2022 (c. 35). 
+ 
+36
+ 
+(i) rule 9.12 applied (Not guilty plea indication by written procedure), and 
+ 
+(ii) under rule 9.12(7) the court decides that the case should be tried in a 
+magistrates’ court; but 
+(b) ceases to apply if the defendant withdraws the not guilty plea indication before the 
+court completes the procedure under this rule, in which event the court officer 
+must arrange a hearing for the purposes of rule 9.14 (Request at a hearing for plea 
+indication). 
+(2) As soon as practicable after the court decides that the case should be tried in a 
+magistrates’ court the court officer must give the defendant explanations that— 
+(a) the court has decided that the case should be tried in a magistrates’ court; 
+(b) if the defendant is convicted at a trial in a magistrates’ court then in some 
+circumstances the court may commit the defendant to the Crown Court for 
+sentence; 
+(c) if the defendant agrees to a magistrates’ court trial then such a trial will be 
+arranged; 
+(d) if the defendant does not agree to such a trial then the court will send the defendant 
+to the Crown Court for trial; 
+(e) before deciding whether to agree to a magistrates’ court trial the defendant may 
+ask the court for an indication of whether a custodial or non-custodial sentence is 
+more likely in the event of a guilty plea at such a trial (“a sentencing indication”) 
+but the court need not give such an indication; and 
+(f) if the defendant asks for and the court gives a sentencing indication then a 
+magistrates’ court trial will be arranged if the defendant then either— 
+ 
+(i) indicates an intention to plead guilty instead of not guilty, or 
+ 
+(ii) without changing the not guilty plea indication agrees to magistrates’ court 
+trial. 
+(3) At the same time as giving the explanations required by paragraph (2) the court officer 
+must request that not more than 5 business days later the defendant either— 
+(a) agrees to trial in a magistrates’ court; or 
+(b) asks for a sentencing indication. 
+(4) If within 5 business days of the request under paragraph (3) the defendant asks for a 
+sentencing indication— 
+(a) as soon as practicable the court must decide whether to give such an indication and 
+if so in what terms; 
+(b) as soon as practicable after the court makes those decisions the court officer must 
+notify the defendant accordingly; and 
+(c) at the same time as notifying the defendant of the court’s decisions the court 
+officer must request that not more than 3 business days later the defendant either— 
+ 
+(i) gives a guilty plea indication, or 
+ 
+(ii) without giving such an indication agrees to trial in a magistrates’ court. 
+(5) If within the time allowed under paragraph (3) or paragraph (4) the defendant gives a 
+guilty plea indication or agrees to trial in a magistrates’ court— 
+(a) the court must give such directions, if any, as are required for an effective trial and 
+may require further information from the parties for that purpose; 
+(b) the court officer must arrange a hearing for the purposes of Part 24 (Trial and 
+sentence in a magistrates’ court); 
+(c) if at that hearing the defendant pleads guilty the court must deal with the case in 
+accordance with rule 24.11 (Procedure if the court convicts); and 
+ 
+37
+(d) if at that hearing the defendant pleads not guilty the court must deal with the case 
+in accordance with rule 9.17(4) (opportunity at a hearing for the defendant to agree 
+or withhold agreement to trial in a magistrates’ court). 
+(6) If within the time allowed under paragraph (3) or paragraph (4) the defendant neither 
+indicates an intention to plead guilty nor agrees to trial in a magistrates’ court then rule 9.23 
+applies (Sending after allocation for Crown Court trial). 
+[Note. See sections 20 and 23 of the Magistrates’ Courts Act 1980(a). 
+For the circumstances in which a magistrates’ court may (and, in some cases, must) commit 
+a defendant to the Crown Court for sentence after that defendant has been convicted at a 
+magistrates’ court trial, see sections 14, 15 and 20 of the Sentencing Act 2020(b). 
+For the circumstances in which an indication of sentence to which this rule applies restricts 
+the sentencing powers of a court, see section 20A of the 1980 Act(c). 
+Where the court orders trial in a magistrates’ court, see also rules 3.16 to 3.18 about 
+preparation for trial.] 
+Request at a hearing for plea indication 
+9.14.—(1) This rule applies at a hearing where— 
+(a) the defendant is 18 or over; and 
+(b) the court must decide whether a case should be tried in a magistrates’ court or in 
+the Crown Court. 
+(2) The court must read the allegation of the offence to the defendant. 
+(3) The court must explain, in terms the defendant can understand (with help, if 
+necessary)— 
+(a) the allegation, unless it is self-explanatory; 
+(b) that the offence is one which can be tried in a magistrates’ court or in the Crown 
+Court; 
+(c) that the court is about to ask whether the defendant intends to plead guilty or not 
+guilty; 
+(d) that if the answer is ‘guilty’, then the court must treat that as a guilty plea and must 
+sentence the defendant, or commit the defendant to the Crown Court for sentence; 
+(e) that if the defendant does not answer, or the answer is ‘not guilty’, then— 
+ 
+(i) (where the offence is one to which section 22 or section 22A of the 
+Magistrates’ Courts Act 1980 applies) the value involved may require the 
+court to order trial in a magistrates’ court, 
+ 
+(ii) (in any other case) the court must decide whether the case should be tried in a 
+magistrates’ court or in the Crown Court and the parties will be invited to 
+make representations about that, and 
+ 
+(iii) even if the court orders trial in a magistrates’ court then (unless under section 
+22 of the 1980 Act the value involved requires magistrates’ court trial) the 
+defendant will be able to require Crown Court trial; and 
+                                                                                                                                            
+(a) 1980 c. 43; section 20 was amended by section 336 of, and paragraph 6 of Schedule 3 to, the Criminal Justice Act 2003 (c. 
+44) and section 416 of, and paragraph 46 of Schedule 24 to, the Sentencing Act 2020 (c. 17). Section 23 was amended by 
+section 125 of, and paragraph 25 of Schedule 18 to, the Courts and Legal Services Act 1990 (c. 41) and section 336 of, and 
+paragraph 8 of Schedule 3 to, the Criminal Justice Act 2003 (c. 44). Each is further amended by paragraphs 6 and 10 of 
+Schedule 2 to the Judicial Review and Courts Act 2022 (c. 35) with effect from a date to be appointed. 
+(b) 2020 c. 17; section 15 was amended by section 50 of, and paragraph 11 of Schedule 13 to, the Counter-Terrorism and 
+Sentencing Act 2021 (c. 11). 
+(c) 1980 c. 43; section 20A was inserted by section 336 of, and paragraph 6 of Schedule 3 to, the Criminal Justice Act 2003 (c. 
+44) and amended by section 416 of, and paragraph 47 of Schedule 24 to, the Sentencing Act 2020 (c. 17). 
+ 
+38
+(f) that reporting restrictions apply, which the defendant may ask the court to vary or 
+remove. 
+(4) The court must then ask whether the defendant intends to plead guilty or not guilty. 
+(5) Where neither the defendant nor the defendant’s legal representative is present when 
+this rule otherwise would apply— 
+(a) paragraphs (2), (3) and (4) do not apply; and 
+(b) rule 9.16 applies as if the defendant had indicated an intention to plead not guilty. 
+[Note. See sections 17A, 17B and 17BA of the Magistrates’ Courts Act 1980(a). 
+For the circumstances in which a magistrates’ court may (and, in some cases, must) commit 
+a defendant to the Crown Court for sentence after that defendant has indicated an intention 
+to plead guilty where this rule applies, see sections 18 and 20 of the Sentencing Act 
+2020(b). 
+See also Part 6 (Reporting, etc. restrictions).] 
+Guilty plea indication at a hearing 
+9.15.—(1) This rule applies at a hearing where— 
+(a) rule 9.14 applies; 
+(b) the defendant is present; and 
+(c) the defendant indicates an intention to plead guilty. 
+(2) The court must deal with the case— 
+(a) as if the defendant had just pleaded guilty at a trial in a magistrates’ court; and 
+(b) in accordance with rule 24.11 (Procedure if the court convicts). 
+[Note. See section 17A of the Magistrates’ Courts Act 1980.] 
+Not guilty plea indication at a hearing 
+9.16.—(1) This rule applies at a hearing where— 
+(a) rule 9.12 applied (Not guilty plea indication by written procedure) and under rule 
+9.12(5) the defendant required the court to decide at a hearing whether the case 
+should be tried in a magistrates’ court or in the Crown Court; or 
+(b) rule 9.14 applies (Request at a hearing for plea indication) and the defendant— 
+ 
+(i) indicates an intention to plead not guilty, or 
+ 
+(ii) gives no indication of intended plea. 
+(2) Where the offence is one to which section 22 of the Magistrates’ Courts Act 1980(c) 
+applies (Certain offences triable either way to be tried summarily if value involved is 
+small), in the following sequence the court must— 
+                                                                                                                                            
+(a) 1980 c. 43; sections 17A and 17B were inserted by section 49 of the Criminal Procedure and Investigations Act 1996 (c. 
+25). Section 17A was amended by section 336 of, and paragraph 2 of Schedule 3 to, the Criminal Justice Act 2003 (c. 44) 
+and section 416 of, and paragraph 44 of Schedule 24 to, the Sentencing Act 2020 (c. 17). It is further amended by paragraph 
+6 of Schedule 2 to the Judicial Review and Courts Act 2022 (c. 35) with effect from a date to be appointed. Section 17B is 
+amended by section 9 of, and paragraph 6 of Schedule 2 to, the Judicial Review and Courts Act 2022 (c. 35) with effect 
+from a date to be appointed. Section 17BA is inserted by section 7 of the Judicial Review and Courts Act 2022 (c. 35) with 
+effect from a date to be appointed. 
+(b) 2020 c. 17. 
+(c) 1980 c. 43; section 22 was amended by sections 38, 123 and 170 of, and paragraph 16 of Schedule 8 and Schedule 16 to, the 
+Criminal Justice Act 1988 (c. 33), sections 68 and 101 of, and paragraph 6 of Schedule 8 and paragraph 22 of Schedule 12 
+to, the Criminal Justice Act 1991 (c. 53), section 2 of the Aggravated Vehicle-Taking Act 1992 (c. 11) and sections 46 and 
+168 of, and Schedule 11 to, the Criminal Justice and Public Order Act 1994 (c. 33). It is further is amended by paragraph 6 
+of Schedule 2 to the Judicial Review and Courts Act 2022 (c. 35) with effect from a date to be appointed. 
+ 
+39
+(a) explain in terms the defendant, if present, can understand (with help, if necessary) 
+that that section applies and if the court decides that— 
+ 
+(i) the value involved clearly is less than £5,000 then the trial must be in a 
+magistrates’ court, or 
+ 
+(ii) the value involved is not clearly less than £5,000 then before deciding whether 
+the case should be tried in a magistrates’ court or in the Crown Court the court 
+will ask whether the defendant wants to be tried in the Crown Court; 
+(b) invite the parties to make representations about the value involved; and 
+(c) if the court decides that the value involved— 
+ 
+(i) clearly is less than £5,000 then the court must order trial in a magistrates’ 
+court, or 
+ 
+(ii) is not clearly less than £5,000 then paragraph (5) applies. 
+(3) Where the offence is one to which section 22A of the 1980 Act(a) may apply (Low-
+value shoplifting to be a summary offence), in the following sequence the court must— 
+(a) explain in terms the defendant, if present, can understand (with help, if necessary) 
+that that section may apply and if the court decides that the offence is low-value 
+shoplifting then— 
+ 
+(i) the trial must be in a magistrates’ court unless the defendant requires Crown 
+Court trial, 
+ 
+(ii) the court will ask whether the defendant wants to be tried in the Crown Court, 
+and 
+ 
+(iii) if the answer to that question is ‘yes’ then the court must send the defendant to 
+the Crown Court for trial without asking for representations about that 
+decision and without offering any indication of likely magistrates’ court 
+sentence; 
+(b) invite the parties to make representations about the value and circumstances of the 
+offence; and 
+(c) if the court decides that the offence is low-value shoplifting, ask whether the 
+defendant wants to be tried in the Crown Court and— 
+ 
+(i) if the answer to that question is ‘yes’ then rule 9.23 applies (Sending after 
+allocation for Crown Court trial), or 
+ 
+(ii) if the answer to that question is ‘no’, or the defendant does not answer, order 
+trial in a magistrates’ court. 
+(4) Paragraph (5) applies where— 
+(a) the offence is— 
+ 
+(i) one to which section 22 of the 1980 Act applies and the court decides that the 
+value involved is not clearly less than £5,000, or 
+ 
+(ii) not one to which section 22 of the 1980 Act applies; and 
+(b) the court decides that the offence is not one to which section 22A of the 1980 Act 
+applies. 
+(5) Where this paragraph applies the court must— 
+(a) explain in terms the defendant, if present, can understand (with help, if necessary) 
+that— 
+ 
+(i) the court must decide whether the case should be tried in a magistrates’ court 
+or in the Crown Court, 
+                                                                                                                                            
+(a) 1980 c. 43; section 22A was inserted by section 176 of the Anti-social Behaviour, Crime and Policing Act 2014 (c. 12) and 
+amended by section 52 of the Criminal Justice and Courts Act 2015 (c. 2). It is further amended by section 6 of, and 
+paragraph 10 of Schedule 2 to, the Judicial Review and Courts Act 2022 (c. 35) with effect from a date to be appointed. 
+ 
+40
+ 
+(ii) before making that decision the court will ask whether the defendant wants to 
+be tried in the Crown Court, and 
+ 
+(iii) if the answer to that question is ‘yes’ then the court must send the defendant to 
+the Crown Court for trial without asking for representations about that 
+decision and without offering any indication of likely magistrates’ court 
+sentence; 
+(b) ask whether the defendant wants to be tried in the Crown Court and— 
+ 
+(i) if the defendant’s answer to that question is ‘yes’ then rule 9.23 applies 
+(Sending after allocation for Crown Court trial) and sub-paragraphs (c), (d) 
+and (e) of this rule do not apply, 
+ 
+(ii) if the defendant does not answer that question, or the answer is ‘no’, sub-
+paragraphs (c), (d) and (e) apply; 
+(c) invite the prosecutor to— 
+ 
+(i) identify any previous convictions of which the court can take account, and 
+ 
+(ii) make representations about how the court should allocate the case for trial; 
+(d) invite the defendant to make such representations; and 
+(e) decide whether the case should be tried in a magistrates’ court or in the Crown 
+Court, taking into account— 
+ 
+(i) the adequacy of a magistrates’ court’s sentencing powers, 
+ 
+(ii) any representations by the parties, and 
+ 
+(iii) any allocation guidelines issued by the Sentencing Council. 
+(6) If the court decides that the case should be tried in the Crown Court then rule 9.23 
+applies (Sending after allocation for Crown Court trial). 
+[Note. See sections 17A, 17BA, 18, 19 and 22 of the Magistrates’ Courts Act 1980(a). 
+Under section 22 of the 1980 Act, some offences, which otherwise could be tried in a 
+magistrates’ court or in the Crown Court, must be tried in a magistrates’ court in the 
+circumstances described in this rule. 
+Under section 22A of the 1980 Act, an offence of theft, which otherwise could be tried in a 
+magistrates’ court or in the Crown Court, must be tried in a magistrates’ court as low-
+value shoplifting if— 
+(a) the value of stolen goods does not exceed £200; 
+(b) the goods were being offered for sale in a shop or any other premises, stall, vehicle 
+or place from which a trade or business is carried on; and 
+(c) at the time of the offence the defendant was, or was purporting to be, a customer 
+or potential customer, 
+unless the defendant requires Crown Court trial. 
+The convictions of which the court may take account are those specified by section 19 of the 
+1980 Act. 
+                                                                                                                                            
+(a) 1980 c. 43; section 18 was amended by section 59 of, and paragraph 1 of Schedule 9 to, the Criminal Justice Act 1982 (c. 
+48), sections 68 and 101 of, and paragraph 6 of Schedule 8 and paragraph 22 of Schedule 12 to, the Criminal Justice Act 
+1991 (c. 53), section 49 of the Criminal Procedure and Investigations Act 1996 (c. 25) and section 336 of, and paragraph 4 
+of Schedule 3 to, the Criminal Justice Act 2003 (c. 44). It is further amended by section 9 of, and paragraphs 6 and 9 of 
+Schedule 2 to, the Judicial Review and Courts Act 2022 (c. 35) with effect from a date to be appointed. Section 19 was 
+amended by section 336 of, and paragraph 5 of Schedule 3 to, the Criminal Justice Act 2003 (c. 44), section 182 of, and 
+paragraph 4 of Schedule 17 to, the Coroners and Justice Act 2009 (c. 25), and S.I. 2019/780. It is further amended by 
+paragraph 10 of Schedule 2 to the Judicial Review and Courts Act 2022 (c. 35) with effect from a date to be appointed. 
+ 
+41
+The Sentencing Council may issue allocation guidelines under section 122 of the Coroners 
+and Justice Act 2009(a). The definitive allocation guideline which took effect on 1st March, 
+2016 provides: 
+(1) In general, either way offences should be tried summarily unless— 
+(a) the outcome would clearly be a sentence in excess of the court’s powers for the 
+offence(s) concerned after taking into account personal mitigation and any 
+potential reduction for a guilty plea; or 
+(b) for reasons of unusual legal, procedural or factual complexity, the case should be 
+tried in the Crown Court. This exception may apply in cases where a very 
+substantial fine is the likely sentence. Other circumstances where this exception 
+will apply are likely to be rare and case specific; the court will rely on the 
+submissions of the parties to identify relevant cases. 
+(2) In cases with no factual or legal complications the court should bear in mind its 
+power to commit for sentence after a trial and may retain jurisdiction notwithstanding that 
+the likely sentence might exceed its powers. 
+(3) Cases may be tried summarily even where the defendant is subject to a Crown Court 
+Suspended Sentence Order or Community Order. 
+(4) All parties should be asked by the court to make representations as to whether the 
+case is suitable for summary trial. The court should refer to definitive guidelines (if any) to 
+assess the likely sentence for the offence in the light of the facts alleged by the prosecution 
+case, taking into account all aspects of the case including those advanced by the defence, 
+including any personal mitigation to which the defence wish to refer. 
+Where the court decides that the case is suitable to be dealt with in the magistrates’ court, 
+it must warn the defendant that all sentencing options remain open and, if the defendant 
+consents to summary trial and is convicted by the court or pleads guilty, the defendant may 
+be committed to the Crown Court for sentence. 
+Where the court orders trial in a magistrates’ court, see also rules 3.16 to 3.18 about 
+preparation for trial.] 
+Allocation at a hearing for magistrates’ court trial 
+9.17.—(1) This rule applies at a hearing where— 
+(a) rule 9.16 applies; and 
+(b) under rule 9.16(5)(e) the court decides that the case should be tried in a 
+magistrates’ court. 
+(2) The court must explain, in terms the defendant can understand (with help, if 
+necessary) that— 
+(a) the court has decided that the case should be tried in a magistrates’ court; 
+(b) if the defendant is convicted at a trial in a magistrates’ court then in some 
+circumstances the court may commit the defendant to the Crown Court for 
+sentence; 
+(c) if the defendant agrees to a magistrates’ court trial then such a trial will be 
+arranged; 
+(d) if the defendant does not agree to such a trial then the court will send the defendant 
+to the Crown Court for trial; and 
+(e) before deciding whether to agree to a magistrates’ court trial the defendant may 
+ask the court for an indication of whether a custodial or non-custodial sentence is 
+                                                                                                                                            
+(a) 2009 c. 25; section 122 was amended by section 51 of, and paragraph 13 of Schedule 2 to, the Judicial Review and Courts 
+Act 2022 (c. 35). 
+ 
+42
+more likely in the event of a guilty plea at such a trial (“a sentencing indication”) 
+but the court need not give such an indication. 
+(3) If the defendant asks for a sentencing indication and the court gives such an 
+indication— 
+(a) the court must then ask again whether the defendant intends to plead guilty; 
+(b) if, in answer to that question, the defendant indicates an intention to plead guilty 
+then the court must deal with the case— 
+ 
+(i) as if the defendant had just pleaded guilty to an offence that can be tried only 
+in a magistrates’ court, and 
+ 
+(ii) in accordance with rule 24.11 (Procedure if the court convicts); and 
+(c) if, in answer to that question, the defendant indicates an intention to plead not 
+guilty, or gives no indication of intended plea, in the following sequence the court 
+must then— 
+ 
+(i) ask whether the defendant agrees to trial in a magistrates’ court, 
+ 
+(ii) if the defendant’s answer to that question is ‘yes’, order such a trial, and 
+ 
+(iii) if the defendant does not answer that question, or the answer is ‘no’, then rule 
+9.23 applies (Sending after allocation for Crown Court trial). 
+(4) If the defendant asks for a sentencing indication but the court gives none, or if the 
+defendant does not ask for such an indication, in the following sequence the court must 
+then— 
+(a) ask whether the defendant agrees to trial in a magistrates’ court; 
+(b) if the defendant’s answer to that question is ‘yes’, order such a trial; and 
+(c) if the defendant does not answer that question, or the answer is ‘no’, then rule 9.23 
+applies (Sending after allocation for Crown Court trial). 
+(5) Where neither the defendant nor the defendant’s legal representative is present when 
+this rule applies— 
+(a) paragraphs (2), (3) and (4) do not apply; 
+(b) the court must order trial in a magistrates’ court; but 
+(c) the court may direct a fresh hearing under this rule if— 
+ 
+(i) before pleading guilty or not guilty at that trial the defendant asks for such a 
+fresh hearing and gives an explanation for the absence, and 
+ 
+(ii) the court thinks it in the interests of justice so to direct, having regard to that 
+explanation. 
+[Note. See sections 20 and 23 of the Magistrates’ Courts Act 1980(a). 
+For the circumstances in which a magistrates’ court may (and, in some cases, must) commit 
+a defendant to the Crown Court for sentence after that defendant has been convicted at a 
+magistrates’ court trial, see sections 14, 15, 17 and 20 of the Sentencing Act 2020(b). 
+For the circumstances in which an indication of sentence to which this rule applies restricts 
+the sentencing powers of a court, see section 20A of the 1980 Act(c). 
+                                                                                                                                            
+(a) 1980 c. 43; section 20 was amended by section 336 of, and paragraph 6 of Schedule 3 to, the Criminal Justice Act 2003 (c. 
+44) and section 416 of, and paragraph 46 of Schedule 24 to, the Sentencing Act 2020 (c. 17). Section 23 was amended by 
+section 125 of, and paragraph 25 of Schedule 18 to, the Courts and Legal Services Act 1990 (c. 41) and section 336 of, and 
+paragraph 8 of Schedule 3 to, the Criminal Justice Act 2003 (c. 44). Each is further amended by paragraphs 6 and 10 of 
+Schedule 2 to the Judicial Review and Courts Act 2022 (c. 35) with effect from a date to be appointed. 
+(b) 2020 c. 17; sections 15 and 17 were amended by section 50 of, and paragraphs 11 and 26 of Schedule 13 to, the Counter-
+Terrorism and Sentencing Act 2021 (c. 11). 
+(c) 1980 c. 43; section 20A was inserted by section 336 of, and paragraph 6 of Schedule 3 to, the Criminal Justice Act 2003 (c. 
+44) and amended by section 416 of, and paragraph 47 of Schedule 24 to, the Sentencing Act 2020 (c. 17). 
+ 
+43
+Where the court orders trial in a magistrates’ court, see also rules 3.16 to 3.18 about 
+preparation for trial.] 
+Prosecutor’s application for Crown Court trial 
+9.18.—(1) This rule applies where— 
+(a) rule 9.13 or 9.17 applies and the defendant agrees to trial in a magistrates’ court; 
+but 
+(b) the prosecutor wants the court to send the defendant to the Crown Court for trial 
+instead. 
+(2) The prosecutor must— 
+(a) apply before trial in a magistrates’ court begins under Part 24 (Trial and sentence 
+in a magistrates’ court); and 
+(b) notify— 
+ 
+(i) the defendant, and 
+ 
+(ii) the magistrates’ court officer. 
+(3) The court must determine an application to which this rule applies before it deals with 
+any other pre-trial application. 
+(4) If the court grants the application then rule 9.23 applies (Sending after allocation for 
+Crown Court trial). 
+[Note. See sections 8A and 25 of the Magistrates’ Courts Act 1980(a). Under section 
+25(2B), the court may grant an application to which this rule applies only if it is satisfied 
+that the sentence which a magistrates’ court would have power to impose would be 
+inadequate.] 
+ 
+ALLOCATION FOR TRIAL: YOUNG DEFENDANTS 
+Allocation by written procedure for youth court or Crown Court trial 
+9.19.—(1) This rule— 
+(a) applies where— 
+ 
+(i) the defendant is under 18, and 
+ 
+(ii) the court must decide whether to send the defendant for Crown Court trial 
+instead of ordering trial in a youth court; but 
+(b) does not apply where— 
+ 
+(i) the defendant is present at a hearing to which rule 9.21 applies (Allocation at a 
+hearing for youth court or Crown Court trial), or 
+ 
+(ii) such a hearing is due to take place less than 15 business days after the notice, 
+explanations and warning required by paragraph (2) otherwise would be 
+served; and 
+(c) ceases to apply if, before the court completes the procedure under this rule, the 
+defendant withdraws a plea indication given under paragraph (6), in which event 
+                                                                                                                                            
+(a) 1980 c. 43; section 8A was inserted by section 45 of, and Schedule 3 to, the Courts Act 2003 (c. 39) and amended by S.I. 
+2006/2493 and section 151 of, and paragraph 14 of Schedule 5 to, the Legal Aid, Sentencing and Punishment of Offenders 
+Act 2012 (c. 10). Section 25 was amended by section 31 of, and paragraph 3 of Schedule 1 and Schedule 2 to, the 
+Prosecution of Offences Act 1985 (c. 23), sections 68 and 101 of, and paragraph 6 of Schedule 8 and paragraph 22 of 
+Schedule 12 to, the Criminal Justice Act 1991 (c. 53), section 47 of, and paragraph 5 of Schedule 1 to, the Criminal 
+Procedure and Investigations Act 1996 (c. 25) and sections 42 and 336 of, and paragraph 11 of Schedule 3 and Part 4 of 
+Schedule 37 to, the Criminal Justice Act 2003 (c. 44). It is further amended by paragraph 10 of Schedule 2 to the Judicial 
+Review and Courts Act 2022 (c. 35) with effect from a date to be appointed. 
+ 
+44
+the court officer must arrange a hearing for the purposes of rule 9.21 (Allocation at 
+a hearing for youth court or Crown Court trial). 
+(2) The court officer must serve on the parties— 
+(a) notice— 
+ 
+(i) that the court will consider the offence or offences of which the defendant is 
+accused on a date and at a time and place specified in the notice, with a 
+statement of each offence, and 
+ 
+(ii) advising the defendant to consult a legal representative and giving information 
+about how to find a representative if the defendant does not already have one; 
+(b) explanations that— 
+ 
+(i) because the court must decide whether the defendant’s case should be tried in 
+the Crown Court instead of in a youth court a hearing for that purpose has 
+been arranged, 
+ 
+(ii) instead of attending that hearing the parties may make written representations 
+about whether the court should order trial in a youth court or send the 
+defendant for Crown Court trial, 
+ 
+(iii) instead of attending that hearing the defendant may give a written plea 
+indication, guilty or not guilty, to each offence of which the defendant is 
+accused, 
+ 
+(iv) only legal representatives have access to the electronic arrangements needed 
+to make written representations or give a written plea indication, and 
+ 
+(v) if the defendant uses those electronic arrangements to respond then the court 
+officer will provide more information about the procedure; and 
+(c) a warning that if the defendant does not respond using those electronic 
+arrangements by a date specified in the notice then the hearing to which the notice 
+refers will take place and— 
+ 
+(i) if the defendant fails to attend that hearing then the defendant may be arrested 
+and, if the defendant is on bail, then as well as being arrested may be punished 
+and bail may be withdrawn, 
+ 
+(ii) the case may proceed anyway without the court having been able to take 
+account of any representations and information that the defendant might want 
+to make or give. 
+(3) The date specified under paragraph (2)(c) must be not less than 8 business days after 
+service of the notice, explanations and warning required by paragraph (2). 
+(4) If by the date specified under paragraph (2)(c) the defendant uses the electronic 
+arrangements to which that paragraph refers then the court officer must give the defendant 
+by those means— 
+(a) explanations that— 
+ 
+(i) a plea indication does not of itself constitute a plea, there will be a court 
+hearing for the defendant to confirm that plea, and the defendant will be able 
+to withdraw the plea indication before the case is sent for trial or the plea is 
+taken in court, 
+ 
+(ii) before giving a plea indication the defendant may ask the court for an 
+indication of whether a custodial or non-custodial sentence is more likely in 
+the event of a guilty plea at a trial in a youth court (“a sentencing indication”) 
+but the court need not give such an indication, 
+ 
+(iii) if the defendant indicates an intention to plead guilty then the court officer 
+will arrange a hearing at which the plea will be taken in court, and if the 
+defendant then pleads guilty the court will pass sentence or commit the 
+defendant for sentence to the Crown Court, 
+ 
+45
+ 
+(iv) if the defendant indicates an intention to plead not guilty and the court then, 
+without a hearing, sends the defendant for trial in the Crown Court it will be 
+on bail, which will be without conditions if the defendant is already on 
+unconditional bail or is not on bail at all, or will be subject to the same 
+conditions if the defendant is already on conditional bail, 
+ 
+(v) if the defendant is sent for trial on bail, failure to attend at the Crown Court 
+when required is an offence for which the defendant may be arrested and 
+punished and bail may be withdrawn, and 
+ 
+(vi) if the defendant gives a plea indication then the court officer will provide 
+more information about the procedure and will ask for more information from 
+the defendant; 
+(b) a request that the defendant gives a plea indication or asks for a sentencing 
+indication; and 
+(c) a warning that if the defendant gives a plea indication but later withdraws it the 
+hearing to which the paragraph (2) notice refers will take place and— 
+ 
+(i) if the defendant fails to attend that hearing then the defendant may be arrested 
+and, if the defendant is on bail, then as well as being arrested may be punished 
+and bail may be withdrawn, 
+ 
+(ii) the case may proceed anyway without the court having been able to take 
+account of any representations and information that the defendant might want 
+to make or give. 
+(5) If in response to the request under paragraph (4) the defendant asks for a sentencing 
+indication— 
+(a) the court must as soon as practicable decide whether to give such an indication, 
+and if so in what terms; and 
+(b) as soon as practicable after the court makes those decisions, the court officer 
+must— 
+ 
+(i) notify the defendant accordingly, and 
+ 
+(ii) request that the defendant gives a plea indication not more than 3 business 
+days later. 
+(6) If by the date specified under paragraph (2)(c) or within the time allowed under 
+paragraph (5) the defendant indicates an intention to plead guilty then— 
+(a) the court officer must arrange a hearing for the purposes of Part 24 (Trial and 
+sentence in a magistrates’ court); 
+(b) if at that hearing the defendant pleads guilty the court must deal with the case in 
+accordance with rule 24.11 (Procedure if the court convicts); and 
+(c) if at that hearing the defendant pleads not guilty the court must deal with the case 
+in accordance with rule 9.21(7) (procedure where defendant pleads not guilty 
+under that rule). 
+(7) If by the date specified under paragraph (2)(c) or within the time allowed under 
+paragraph (5) the defendant indicates an intention to plead not guilty then— 
+(a) the court officer must request that not more than 5 business days later the parties 
+should make representations about whether the court should send the defendant for 
+Crown Court trial instead of ordering trial in a youth court; and 
+(b) no sooner than the earlier of the receipt from both parties of responses to that 
+request or the expiry of 5 business days the court must consider any response and 
+must decide whether the case should be tried in a youth court or in the Crown 
+Court, taking into account— 
+ 
+(i) any representations by the parties, and 
+ 
+(ii) any guidelines affecting the court’s decision issued by the Sentencing 
+Council. 
+ 
+46
+(8) If the court decides that the case should be tried in a youth court— 
+(a) the court must give such directions as are required for an effective trial and may 
+require further information from the parties for that purpose; and 
+(b) the court officer must arrange a hearing for the purposes of Part 24 (Trial and 
+sentence in a magistrates’ court). 
+(9) If the court decides that the case should be tried in the Crown Court then rule 9.23 
+applies (Sending after allocation for Crown Court trial). 
+[Note. See sections 24ZA and 24ZB of the Magistrates’ Courts Act 1980(a) and section 51A 
+of the Crime and Disorder Act 1998(b). Under section 24ZA(3) of the 1980 Act, a 
+magistrates’ court must offer the procedure set out in this rule except in circumstances for 
+which Criminal Procedure Rules provide: see section 24ZA(2). 
+A defendant will be present at a hearing to which rule 9.21 applies if arrested and brought 
+to court in custody. A hearing to which rule 9.21 will apply will have been arranged if a 
+defendant is not in custody but has been required to attend court for such a hearing. 
+The Sentencing Council may issue sentencing guidelines under section 120 of the Coroners 
+and Justice Act 2009(c). The definitive guideline on sentencing children and young people 
+which took effect on 1st June, 2017, in Section two: Allocation provides, “Subject to the 
+exceptions noted below, cases involving children and young people should be tried in the 
+youth court. It is the court which is best designed to meet their specific needs. A trial in the 
+Crown Court with the inevitably greater formality and greatly increased number of people 
+involved (including a jury and the public) should be reserved for the most serious cases.” 
+The guideline includes further detailed guidance. 
+For the circumstances in which a magistrates’ court may (and, in some cases, must) commit 
+a defendant who is under 18 to the Crown Court for sentence after that defendant has 
+indicated a guilty plea, see sections 16, 16A, 17, 19 and 20 of the Sentencing Act 2020(d). 
+Where the court orders trial in a youth court, see also rules 3.16 to 3.18 about preparation 
+for trial. 
+In the circumstances for which this rule provides section 34A of the Children and Young 
+Persons Act 1933(e) allows, and in some circumstances requires, the court to ensure that a 
+parent or guardian is aware of the proceedings.] 
+Young defendant becoming an adult during written procedure 
+9.20.—(1) This rule applies where the defendant becomes 18 before the court completes 
+the procedure under rule 9.19 (Allocation by written procedure for youth court or Crown 
+Court trial). 
+(2) Instead of that procedure— 
+(a) where the defendant becomes 18 without having indicated an intention to plead 
+guilty or not guilty under rule 9.19(6) and before the time for such an indication 
+expires then the request for that indication constitutes a request under rule 9.10 
+                                                                                                                                            
+(a) 1980 c. 43; sections 24ZA and 24ZB are inserted by section 8 of the Judicial Review and Courts Act 2022 (c. 35) with 
+effect from a date to be appointed. 
+(b) 1998 c. 37; section 51A was inserted by paragraphs 15 and 18 of Schedule 3 to the Criminal Justice Act 2003 (c. 44) and 
+amended by section 49 of, and paragraph 5 of Schedule 1 to, the Violent Crime Reduction Act 2006 (c. 38), paragraph 6 of 
+Schedule 21 to the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), and paragraph 156 of Schedule 24 
+to the Sentencing Act 2020 (c. 17). It is further amended by section 10 of the Judicial Review and Courts Act 2022 (c. 35) 
+with effect from a date to be appointed. 
+(c) 2009 c. 25; section 120 was amended by section 416 of, and paragraph 277 of Schedule 24 to, the Sentencing Act 2020 (c. 
+17). 
+(d) 2020 c. 17; section 16A was inserted, and sections 17 and 19 amended, by section 50 of, and paragraph 26 of Schedule 13 
+to, the Counter-Terrorism and Sentencing Act 2021 (c. 11). 
+(e) 1933 c. 12; section 34A was inserted by section 56 of the Criminal Justice Act 1991 (c. 53) and amended by section 107 of, 
+and paragraph 1 of Schedule 5 to, the Local Government Act 2000 (c. 22) and S.I. 2016/413. 
+ 
+47
+(request by written procedure for plea indication by an adult) and rules 9.11 to 9.13 
+apply accordingly (the rules about written procedures in respect of an adult 
+defendant); 
+(b) where the defendant becomes 18 after indicating an intention to plead guilty or not 
+guilty under rule 9.19(6) but before the court decides whether the case should be 
+tried in a youth court or in the Crown Court and before the defendant enters a plea 
+at a hearing then paragraph (3) applies; 
+(c) where the defendant becomes 18 without having indicated an intention to plead 
+guilty or not guilty under rule 9.19(6), after the time for such an indication expires 
+and before the hearing under rule 9.21 (Allocation at a hearing for youth court or 
+Crown Court trial), then that hearing constitutes a hearing under rule 9.14 (request 
+at a hearing for plea indication by an adult); and 
+(d) where the defendant becomes 18 after withdrawing a notice of intention to plead 
+guilty or not guilty under rule 9.19(6) but before the hearing under rule 9.21 then 
+paragraph (3) applies. 
+(3) Where this paragraph applies (plea indication but no allocation yet, or withdrawal of 
+plea indication)— 
+(a) the court must decide whether to continue as if the defendant were still under 18, 
+taking into account— 
+ 
+(i) any representations by the parties, and 
+ 
+(ii) any guidelines affecting the court’s decision issued by the Sentencing 
+Council; 
+(b) if the court decides not to continue as if the defendant were still under 18 where 
+the offence is one for which an adult defendant must be tried in the Crown Court 
+(an offence triable only on indictment) then rule 9.8 applies (Sending by written 
+procedure for Crown Court trial); and 
+(c) if the court decides not to continue as if the defendant were still under 18 where 
+the offence is one for which an adult defendant can be tried in a magistrates’ court 
+or the Crown Court (an offence triable either way)— 
+ 
+(i) rule 9.11(6) or rule 9.12 applies accordingly (the rules about written 
+indications by an adult defendant of intention to plead guilty or not guilty), 
+and 
+ 
+(ii) a hearing under rule 9.21 constitutes a hearing under rule 9.14 (request at a 
+hearing for plea indication by an adult). 
+[Note. See section 24ZB of the Magistrates’ Courts Act 1980 and section 47 of the Crime 
+and Disorder Act 1998(a). 
+See also the note to rule 9.19 (Allocation by written procedure for youth court or Crown 
+Court trial).] 
+Allocation at a hearing for youth court or Crown Court trial 
+9.21.—(1) This rule applies at a hearing where— 
+(a) the defendant is under 18 and 
+(b) the court must decide whether to send the defendant for Crown Court trial instead 
+of ordering trial in a youth court. 
+(2) The court must read the allegation of the offence to the defendant. 
+                                                                                                                                            
+(a) 1998 c. 37; section 47 was amended by sections 165 and 168 of, and Part I of Schedule 12 to, the Powers of Criminal 
+Courts (Sentencing) Act 2000 (c. 6), section 336 of, and Part 4 of Schedule 37 to, the Criminal Justice Act 2003 (c. 44) and 
+article 2 of, and paragraph 59 of the Schedule to, S.I. 2005/886. It is further amended by section 12 of the Judicial Review 
+and Courts Act 2022 (c. 35) with effect from a date to be appointed. 
+ 
+48
+(3) The court must explain, in terms the defendant can understand (with help, if 
+necessary)— 
+(a) the allegation, unless it is self-explanatory; 
+(b) that the offence is one which can be tried in the Crown Court instead of in a youth 
+court; 
+(c) that the court is about to ask whether the defendant intends to plead guilty; 
+(d) that if the answer is ‘yes’, then the court must treat that as a guilty plea and must 
+sentence the defendant, or commit the defendant to the Crown Court for sentence; 
+(e) that if the defendant does not answer, or the answer is ‘no’, then the court must 
+decide whether to send the defendant for Crown Court trial instead of ordering trial 
+in a youth court; 
+(f) that before answering and at any time until the court decides whether to send the 
+defendant for Crown Court trial or order trial in a youth court— 
+ 
+(i) the defendant may ask the court for an indication of whether a custodial or 
+non-custodial sentence is more likely in the event of a guilty plea there and 
+then, but 
+ 
+(ii) the court need not give such an indication; and 
+(g) that reporting restrictions apply, which the defendant may ask the court to vary or 
+remove. 
+(4) The defendant may then ask the court for such an indication of sentence. 
+(5) Whether the defendant asks for and the court gives such an indication or not, the court 
+must then ask whether the defendant intends to plead guilty. 
+(6) If the defendant’s answer to that question is ‘yes’, the court must deal with the case— 
+(a) as if the defendant had just pleaded guilty at a trial in a youth court; and 
+(b) in accordance with rule 24.11 (Procedure if the court convicts). 
+(7) If the defendant does not answer that question, or the answer is ‘no’, in the following 
+sequence the court must then— 
+(a) invite the prosecutor to make representations about whether the court should send 
+the defendant for Crown Court trial instead of ordering trial in a youth court; 
+(b) invite the defendant to make such representations; and 
+(c) decide whether the case should be tried in a youth court or in the Crown Court, 
+taking into account— 
+ 
+(i) any representations by the parties, and 
+ 
+(ii) any guidelines affecting the court’s decision issued by the Sentencing 
+Council. 
+(8) If the court decides that the case should be tried in a youth court— 
+(a) the court must give such directions as are required for an effective trial and may 
+require further information from the parties for that purpose; and 
+(b) the court officer must arrange a hearing for the purposes of Part 24 (Trial and 
+sentence in a magistrates’ court). 
+(9) If the court decides that the case should be tried in the Crown Court then rule 9.23 
+applies (Sending after allocation for Crown Court trial). 
+(10) Where the court decides to exercise the powers to which this rule applies in the 
+defendant’s absence— 
+(a) paragraphs (2) to (6) and (7)(b) do not apply; and 
+(b) the rest of paragraph (7) and paragraphs (8) and (9) apply as if the defendant were 
+present and had indicated an intention to plead not guilty. 
+ 
+49
+[Note. See sections 24A, 24B and 24BA of the Magistrates’ Courts Act 1980(a) and sections 
+47 and 51A of the Crime and Disorder Act 1998. 
+The Sentencing Council may issue sentencing guidelines under section 120 of the Coroners 
+and Justice Act 2009. The definitive guideline on sentencing children and young people 
+which took effect on 1st June, 2017, in Section two: Allocation provides, “Subject to the 
+exceptions noted below, cases involving children and young people should be tried in the 
+youth court. It is the court which is best designed to meet their specific needs. A trial in the 
+Crown Court with the inevitably greater formality and greatly increased number of people 
+involved (including a jury and the public) should be reserved for the most serious cases.” 
+The guideline includes further detailed guidance. 
+For the circumstances in which a magistrates’ court may (and, in some cases, must) commit 
+a defendant who is under 18 to the Crown Court for sentence after that defendant has 
+indicated a guilty plea, see sections 16, 16A, 17, 19 and 20 of the Sentencing Act 2020. 
+Where the court orders trial in a youth court, see also rules 3.16 to 3.18 about preparation 
+for trial.] 
+Young defendant becoming an adult after allocation for youth court trial 
+9.22.—(1) This rule applies where— 
+(a) under rule 9.19 (Allocation by written procedure for youth court or Crown Court 
+trial) or rule 9.21 (Allocation at a hearing for youth court or Crown Court trial) the 
+court decides that the case should be tried in a youth court; and 
+(b) the defendant becomes 18 before that trial begins. 
+(2) The court must decide, at a hearing or without a hearing, whether the case should be 
+tried in the Crown Court or in a magistrates’ court instead of allowing youth court trial to 
+take place, taking into account— 
+(a) any representations made by the parties under rule 9.19 or under rule 9.21, as 
+applicable, and 
+(b) any guidelines affecting the court’s decision issued by the Sentencing Council. 
+(3) If the court decides that the case should not now be tried in the youth court— 
+(a) where the offence is one for which an adult defendant must be tried in the Crown 
+Court (an offence triable only on indictment) and the court decides to send the 
+defendant to the Crown Court for trial— 
+ 
+(i) rule 9.8 applies (Sending by written procedure for Crown Court trial) unless 
+the defendant is present at a hearing, and 
+ 
+(ii) if the defendant is present at a hearing, rule 9.9 applies (Sending at a hearing 
+for Crown Court trial); 
+(b) where the offence is one for which an adult defendant can be tried in a magistrates’ 
+court or in the Crown Court (an offence triable either way) and the court decides to 
+send the defendant to the Crown Court then rule 9.23 applies (Sending after 
+allocation for Crown Court trial); 
+(c) where the offence is one for which an adult defendant can be tried in a magistrates’ 
+court or in the Crown Court (an offence triable either way) and the court is inclined 
+to order trial in a magistrates’ court— 
+ 
+(i) paragraph (4) applies if the defendant is present at a hearing; and 
+                                                                                                                                            
+(a) 1980 c. 43; sections 24A and 24B were inserted by section 336 of, and paragraph 10 of Schedule 3 to, the Criminal Justice 
+Act 2003 (c. 44). Section 24A was amended by section 416 of, and paragraph 49 of Schedule 24 to, the Sentencing Act 
+2020 (c. 17) and section 50 of, and paragraph 14 of Schedule 13 to, the Counter-Terrorism and Sentencing Act 2021 (c. 11). 
+It is further amended by paragraphs 6, 9 and 10 of Schedule 2 to the Judicial Review and Courts Act 2022 (c. 35) with effect 
+from a date to be appointed. Section 24BA is inserted by section 9 of the Judicial Review and Courts Act 2022 (c. 35) with 
+effect from a date to be appointed. 
+ 
+50
+ 
+(ii) otherwise paragraphs (6) and (7) apply; and 
+(d) where the offence is one for which an adult defendant can be tried only in a 
+magistrates’ court (a summary offence) and the court is inclined to order trial in a 
+magistrates’ court— 
+ 
+(i) paragraph (5) applies if the defendant is present at a hearing; and 
+ 
+(ii) otherwise paragraphs (6) and (7) apply. 
+(4) Where this paragraph applies (offence triable either way; court inclined to order trial 
+in a magistrates’ court; defendant present at a hearing) the court must— 
+(a) explain, in terms the defendant can understand (with help, if necessary) that the 
+court is inclined to order a magistrates’ court trial but before making a final 
+decision the court will ask whether the defendant wants to be tried in the Crown 
+Court and if the answer is ‘yes’ then the court must send the defendant for such a 
+trial; and 
+(b) ask whether the defendant wants to be tried in the Crown Court and— 
+ 
+(i) if the defendant’s answer to that question is ‘yes’ then rule 9.23 applies 
+(Sending after allocation for Crown Court trial), 
+ 
+(ii) if the defendant does not answer that question, or the answer is ‘no’, order 
+trial in a magistrates’ court. 
+(5) Where this paragraph applies (summary offence; court inclined to order trial in a 
+magistrates’ court; defendant present at a hearing) the court must— 
+(a) explain, in terms the defendant can understand (with help, if necessary) that the 
+court is inclined to order a magistrates’ court trial but before making a final 
+decision the court will invite the parties to make representations; 
+(b) invite the parties to make any representations they wish to make about the court’s 
+proposed decision and about any ancillary matters, including directions for the 
+management of the case in the magistrates’ court, and 
+(c) decide whether the trial should take place in the youth court or in a magistrates’ 
+court. 
+(6) Where this paragraph applies (court inclined to order trial in a magistrates’ court; no 
+hearing, or defendant absent) the court officer must— 
+(a) serve on or give to the parties— 
+ 
+(i) a statement of each offence for which the court is inclined to order trial in a 
+magistrates’ court, and 
+ 
+(ii) the same explanations as would have been required at a hearing under 
+paragraph (4) or paragraph (5), as applicable; 
+(b) request that not more than 5 business days later— 
+ 
+(i) the defendant requires Crown Court trial, if applicable, and 
+ 
+(ii) the parties make any representations they wish to make about the court’s 
+proposed decision and about any ancillary matters, including directions for the 
+management of the case. 
+(7) No sooner than the earlier of the receipt of responses from both parties to the requests 
+under paragraph (6) or the expiry of 5 business days the court must consider any response 
+and, as applicable— 
+(a) send the defendant to the Crown Court for trial and rule 9.23 applies (Sending after 
+allocation for Crown Court trial); or 
+(b) decide whether the trial should take place in the youth court or in a magistrates’ 
+court, taking into account— 
+ 
+(i) any representations by the parties, and 
+ 
+51
+ 
+(ii) any guidelines affecting the court’s decision issued by the Sentencing 
+Council. 
+[Note. See section 47 of the Crime and Disorder Act 1998. 
+See also the notes to rules 9.19 and 9.21.] 
+ 
+SENDING AFTER ALLOCATION FOR CROWN COURT TRIAL 
+Sending after allocation for Crown Court trial 
+9.23.—(1) This rule applies where— 
+(a) under rule 9.11(4) (Guilty plea indication by written procedure) neither party 
+objects to the defendant being sent for Crown Court trial; 
+(b) under rule 9.12 (Not guilty plea indication by written procedure)— 
+ 
+(i) the defendant requires Crown Court trial (see rule 9.12(4)), or 
+ 
+(ii) the court decides that the case should be tried in the Crown Court (see rule 
+9.12(8)); 
+(c) under rule 9.13(6) (Allocation by written procedure for magistrates’ court trial) the 
+defendant neither indicates an intention to plead guilty nor agrees to trial in a 
+magistrates’ court; 
+(d) under rule 9.16 (Not guilty plea indication at a hearing)— 
+ 
+(i) the defendant requires Crown Court trial (see rule 9.16(3)(c) and (5)(b)), or 
+ 
+(ii) the court decides that the case should be tried in the Crown Court (see rule 
+9.16(6)); 
+(e) under rule 9.17 (Allocation at a hearing for magistrates’ court trial) the defendant 
+does not agree to trial in a magistrates’ court (see rule 9.17(3)(c) and (4)(c)); 
+(f) under rule 9.18(4) (Prosecutor’s application for Crown Court trial) the court grants 
+the prosecutor’s application for Crown Court trial; 
+(g) under rule 9.19(9) (Allocation by written procedure for youth court or Crown 
+Court trial) the court decides that the case should be tried in the Crown Court; 
+(h) under rule 9.21(9) (Allocation at a hearing for youth court or Crown Court trial) 
+the court decides that the case should be tried in the Crown Court; or 
+(i) under rule 9.22 (Young defendant becoming an adult after allocation for youth 
+court trial)— 
+ 
+(i) the court decides that the case should be tried in the Crown Court (see rule 
+9.22(3)(b)); or 
+ 
+(ii) the defendant requires Crown Court trial (see rule 9.22(4)(b)(i) or (7)(a)). 
+(2) Where this rule applies— 
+(a) paragraphs (3) to (9) apply unless the defendant is present at a hearing; and 
+(b) if the defendant is present at a hearing then paragraph (10) applies. 
+(3) The court must decide whether to— 
+(a) send the defendant by written notice to the Crown Court for trial; or 
+(b) require a hearing for that purpose. 
+(4) In deciding whether to require such a hearing the court must have regard to— 
+(a) any need, in the court’s opinion, for a hearing to— 
+ 
+(i) consider bail, or 
+ 
+(ii) collect or consider information required for the purposes of case management; 
+(b) any indication that the defendant has no legal representative; and 
+ 
+52
+(c) any other circumstance which in the court’s opinion makes such a hearing 
+necessary. 
+(5) If the court decides to send the defendant by written notice to the Crown Court for 
+trial the court officer must give to or serve on the parties— 
+(a) notice— 
+ 
+(i) that the court is about to send the defendant for Crown Court trial for the 
+offence or offences of which the defendant is accused, with a statement of 
+each offence, and 
+ 
+(ii) (where the notice is served on the defendant) advising the defendant to consult 
+a legal representative and giving information about how to find a 
+representative if the defendant does not already have one; 
+(b) explanations that— 
+ 
+(i) the court can send the defendant without a hearing for Crown Court trial, 
+ 
+(ii) if the court sends the defendant without a hearing for Crown Court trial it will 
+be on bail, which will be without conditions if the defendant is already on 
+unconditional bail or is not on bail at all, and will be on the same conditions if 
+the defendant is already on conditional bail, 
+ 
+(iii) the parties may make any written representations they wish to make about the 
+exercise of the court’s powers and about any ancillary matters, including the 
+preparation of the case for trial in the Crown Court, and may supply in writing 
+such information as the court requires for the purposes of case management, 
+ 
+(iv) (where the notice is served on the defendant) only legal representatives have 
+access to the electronic arrangements needed to make written representations 
+and supply such information; and 
+(c) a warning that if the defendant does not respond using those electronic 
+arrangements by a date specified in the notice then the defendant will be sent for 
+Crown Court trial without the court having been able to take account of any 
+representations and information that the defendant might want to make or give. 
+(6) The date specified under paragraph (5)(c) must be not less than 5 business days after 
+service of the notice, explanations and warning required by paragraph (5). 
+(7) If by the date specified under paragraph (5)(c) the parties respond by means of the 
+electronic arrangements to which that paragraph refers then the court officer must request 
+by those means— 
+(a) such representations as the parties wish to make about the exercise of the court’s 
+powers and about any ancillary matters, including the preparation of the case for 
+trial in the Crown Court; and 
+(b) such information as the court requires for the purposes of case management. 
+(8) No sooner than the earlier of the date specified under paragraph (5)(c) or the receipt 
+from both parties of responses to the requests under paragraph (7) the court must— 
+(a) consider any responses to those requests; and 
+(b) send the defendant by written notice to the Crown Court for trial on bail. 
+(9) On sending the defendant to the Crown Court for trial— 
+(a) the court must give any ancillary directions; and 
+(b) the court officer must— 
+ 
+(i) issue a notice of sending under rule 9.5(1), 
+ 
+(ii) arrange for a case management hearing in the Crown Court, and 
+ 
+(iii) warn the defendant that failure to attend at the Crown Court when required is 
+an offence for which the defendant may be arrested and punished and bail 
+may be withdrawn. 
+ 
+53
+(10) If the court decides to send the defendant to the Crown Court for trial at a hearing— 
+(a) at that hearing the court must— 
+ 
+(i) explain, in terms the defendant can understand (with help, if necessary), that 
+the court is about to send the defendant for Crown Court trial for the offence 
+or offences of which the defendant is accused; 
+ 
+(ii) invite such representations as the parties wish to make about the exercise of 
+the court’s powers and about any ancillary matters, including the preparation 
+of the case for trial in the Crown Court, 
+ 
+(iii) invite the parties to supply such information as the court requires for the 
+purposes of case management, and 
+ 
+(iv) send the defendant to the Crown Court for trial, in custody or on bail, and give 
+any ancillary directions; and 
+(b) after that hearing the court officer must issue a notice of sending under rule 9.5(1). 
+[Note. See sections 21 and 24A of the Magistrates’ Courts Act 1980(a) and sections 51, 
+51A and 52 of the Crime and Disorder 1998(b). See also rule 9.3 (matters to be specified 
+on sending for trial). 
+Under sections 51(2A), (2B) and 51A(3A), (3B) of the 1998 Act, unless the defendant is 
+present before the court a magistrates’ court must follow the procedure described in 
+paragraphs (4) and (5) of this rule except in circumstances for which Criminal Procedure 
+Rules provide: see sections 51(2D), (2E) and 51A(3D), (3E).] 
+ 
+COMMITTAL FOR SENTENCE IN CONNECTION WITH SENDING FOR TRIAL 
+Committal for sentence for offence related to an offence sent for trial 
+9.24.—(1) This rule applies where— 
+(a) the court has sent the defendant to the Crown Court for trial for an offence; 
+(b) the defendant indicates an intention to plead guilty to, and is convicted of, an 
+offence which the court decides is related to the offence for which the defendant 
+was sent for trial; 
+(c) the court decides to commit the defendant to the Crown Court for sentence for the 
+related offence under— 
+ 
+(i) section 18 of the Sentencing Act 2020(c), if the defendant is 18 or over, or 
+ 
+(ii) section 19 of the 2020 Act(d), if the defendant is under 18; and 
+                                                                                                                                            
+(a) 1980 c. 43; section 21 was amended by section 336 of, and paragraph 7 of Schedule 3 to, the Criminal Justice Act 2003 (c. 
+44). It is further amended by paragraph 10 of Schedule 2 to the Judicial Review and Courts Act 2022 (c. 35) with effect 
+from a date to be appointed. Section 24A was inserted by section 336 of, and paragraph 10 of Schedule 3 to, the Criminal 
+Justice Act 2003 (c. 44) and amended by section 416 of, and paragraph 49 of Schedule 24 to, the Sentencing Act 2020 (c. 
+17) and section 50 of, and paragraph 14 of Schedule 13 to, the Counter-Terrorism and Sentencing Act 2021 (c. 11). It is 
+further amended by paragraphs 6, 9 and 10 of Schedule 2 to the Judicial Review and Courts Act 2022 (c. 35) with effect 
+from a date to be appointed. 
+(b) 1998 c. 37; section 51 was substituted by paragraphs 15 and 18 of Schedule 3 to the Criminal Justice Act 2003 (c. 44) and 
+amended by section 52 of the Criminal Justice and Courts Act 2015 (c. 2). Section 51A was inserted by paragraphs 15 and 
+18 of Schedule 3 to the Criminal Justice Act 2003 (c. 44) and amended by section 49 of, and paragraph 5 of Schedule 1 to, 
+the Violent Crime Reduction Act 2006 (c. 38), paragraph 6 of Schedule 21 to the Legal Aid, Sentencing and Punishment of 
+Offenders Act 2012 (c. 10), and paragraph 156 of Schedule 24 to the Sentencing Act 2020 (c. 17). Each is further amended 
+by section 10 of the Judicial Review and Courts Act 2022 (c. 35) with effect from a date to be appointed. Section 52 was 
+amended by paragraphs 68 and 69 of Schedule 3 to the Criminal Justice Act 2003 (c. 44) and section 177 of, and paragraph 
+78 of Schedule 21 to, the Coroners and Justice Act 2009 (c. 25). It is further amended by section 10 of, and paragraph 15 of 
+Schedule 2 to, the Judicial Review and Courts Act 2022 (c. 35) with effect from a date to be appointed. 
+(c) 2020 c. 17. 
+(d) 2020 c. 17; section 19 was amended by section 50 of, and paragraph 26 of Schedule 13 to, the Counter-Terrorism and 
+Sentencing Act 2021 (c. 11). 
+ 
+54
+(d) in the court’s opinion, if it were not committing the defendant for sentence under 
+section 18 or 19 of the 2020 Act then it could, or would be required to, commit the 
+defendant to the Crown Court for sentence for the related offence under— 
+ 
+(i) section 14 or 15 of the Act(a), if the defendant is 18 or over, or 
+ 
+(ii) section 16, 16A or 17 of the Act(b), if the defendant is under 18. 
+(2) The court must state that opinion for the Crown Court. 
+[Note. See sections 18(4) and 19(3) of the Sentencing Act 2020 for the court’s powers to 
+state the opinion to which this rule refers. 
+Under sections 18(7) and 19(6) of the 2020 Act, for the purposes of those sections one 
+offence is related to another if, were they both to be prosecuted on indictment, the charges 
+for them could be joined in the same indictment. 
+For the circumstances in which a magistrates’ court may (and, in some cases, must) commit 
+a defendant to the Crown Court for sentence or for the making of other orders beyond a 
+magistrates’ court’s powers, see sections 14, 15, 16, 16A, 17, 18, 19, 20 and 24 of the 
+Sentencing Act 2020(c) and paragraph 11 of Schedule 16 to that Act(d). See also rules 
+24.11 (Procedure if the court convicts) and 28.13 (Sentencing, etc. after committal to the 
+Crown Court). The note to rule 28.13 summarises the statutory provisions that apply.] 
+ 
+SENDING BACK, ETC. FOR MAGISTRATES’ COURT TRIAL 
+Sending back or referring case for magistrates’ court trial 
+9.25.—(1) This rule applies where a magistrates’ court sends the defendant to the Crown 
+Court for trial and— 
+(a) under section 46ZA of the Senior Courts Act 1981(e), the Crown Court can send 
+the defendant back to a magistrates’ court for trial for a summary offence or for an 
+offence triable either way; or 
+(b) under paragraph 6 of Schedule 3 to the Crime and Disorder Act 1998(f), where a 
+summary offence remains outstanding the Crown Court must so inform the 
+magistrates’ court. 
+(2) Where paragraph (1)(a) applies— 
+(a) the Crown Court may exercise its power to send back— 
+ 
+(i) at a hearing, in public or in private, or without a hearing, 
+ 
+(ii) in the defendant’s absence, but only if the defendant consents to being absent 
+on its exercise, and 
+ 
+(iii) in the prosecutor’s absence, but only if the prosecutor has had at least 5 
+business days in which to make representations; and 
+(b) if the defendant is under 18, the Crown Court must— 
+ 
+(i) consider sending the defendant back, and 
+                                                                                                                                            
+(a) 2020 c. 17; section 15 was amended by section 50 of, and paragraph 11 of Schedule 13 to, the Counter-Terrorism and 
+Sentencing Act 2021 (c. 11). 
+(b) 2020 c. 17; section 16A was inserted, and section 17 amended, by section 50 of, and paragraph 26 of Schedule 13 to, the 
+Counter-Terrorism and Sentencing Act 2021 (c. 11). 
+(c) 2020 c. 17. 
+(d) 2020 c. 17; paragraph 11 of Schedule 16 was amended by section 208 of, and paragraph 8 of Schedule 21 to, the Police, 
+Crime, Sentencing and Courts Act 2022 (c. 32). 
+(e) 1981 c. 54; section 46ZA was inserted by section 11 of the Judicial Review and Courts Act 2022 (c. 35). 
+(f) 
+1998 c. 37; paragraph 6 of Schedule 3 was amended by sections 90 and 106 of, and paragraph 179 of Schedule 13 and 
+Schedule 15 to, the Access to Justice Act 1999 (c. 22), sections 41 of, and paragraphs 15 and 20 of Schedule 3 to, the 
+Criminal Justice Act 2003 (c. 44), S.I. 2005/886 and paragraphs 20 and 23 of the Schedule to the Courts and Tribunals 
+(Judiciary and Functions of Staff) Act 2018 (c. 33). It is further amended by paragraph 15 of Schedule 2 to the Judicial 
+Review and Courts Act 2022 (c. 35) with effect from a date to be appointed. 
+ 
+55
+ 
+(ii) explain why, if it does not do so. 
+(3) Where paragraph (1)(a) applies and the Crown Court sends the defendant back— 
+(a) the Crown Court must— 
+ 
+(i) specify the date on which the defendant must attend at or be taken to the 
+magistrates’ court, and 
+ 
+(ii) decide whether to grant or withhold bail; 
+(b) the Crown Court officer must make available to the magistrates’ court officer a 
+record of the Crown Court’s order under paragraph (3)(a) and details of any— 
+ 
+(i) case management direction affecting the magistrates’ court, 
+ 
+(ii) direction about reporting restrictions, 
+ 
+(iii) period for which the defendant was in custody during proceedings in the 
+Crown Court, 
+ 
+(iv) decision about bail, for the purposes of section 5 of the Bail Act 1976(a), 
+ 
+(v) recognizance given by a surety, 
+ 
+(vi) representation order, 
+ 
+(vii) interpreter, intermediary, or supporting adult, and 
+ 
+(viii) information supplied by the parties for the purposes of case management by 
+the court; and 
+(c) the Crown Court officer must at the same time serve on each party notice of the 
+sending back and of the Crown Court’s order, unless that party was present when 
+the order was made. 
+(4) Where paragraph (1)(b) applies— 
+(a) the Crown Court must exercise its power at a hearing; and 
+(b) unless the defendant pleads guilty to the summary offence, the Crown Court 
+officer must notify the magistrates’ court officer of the outcome of the 
+proceedings. 
+[Note. An offence may be classified as triable only on indictment; triable only summarily (a 
+summary offence); or triable either way (on indictment or summarily). Offences classified 
+either as triable only on indictment or as triable either way collectively are described as 
+indictable offences. 
+Under section 46ZA(2) of the Senior Courts Act 1981 the Crown Court cannot send the 
+defendant back to a magistrates’ court for trial— 
+(a) where the defendant is 18 or over, or is a corporation, and the offence is triable 
+only on indictment; or 
+(b) where the defendant is under 18 and the offence is homicide or one of the other 
+offences listed in section 51A(12) of the Crime and Disorder Act 1998. 
+Under section 46ZA(3) of the 1981 Act the Crown Court cannot send an adult or corporate 
+defendant back to a magistrates’ court for trial for an offence triable either way unless the 
+defendant consents. 
+Under section 46ZA(5) of the 1981 Act, in deciding whether to send a defendant back the 
+Crown Court must take into account (a) any other related offence before the Crown Court 
+                                                                                                                                            
+(a) 1976 c. 63; section 5 was amended by Schedule 12 to the Criminal Law Act 1977 (c. 45), section 60 of the Criminal Justice 
+Act 1982 (c. 48), section 27 of, and paragraph 1 of Schedule 3 to, the Criminal Justice and Public Order Act 1994 (c. 33), 
+sections 165 and 168 of, and paragraph 53 of Schedule 9 to, the Powers of Criminal Courts (Sentencing) Act 2000 (c. 6), 
+section 129 of the Criminal Justice and Police Act 2001 (c. 16), paragraph 182 to Schedule 8 to the Courts Act 2003 (c. 39), 
+section 336 of, and paragraph 48 of Schedule 3 and Parts 2 and 12 of Schedule 37 to, the Criminal Justice Act 2003 (c. 44), 
+section 383 of, and paragraph 74 of Schedule 16 to, the Armed Forces Act 2006 (c. 52) and section 211 of, and paragraph 
+35 of Schedule 21 to, the Legal Services Act 2007 (c. 29). 
+ 
+56
+(whether the same, or a different, person is accused or has been convicted of the other 
+offence), and (b) any allocation guideline. 
+Under section 46ZA(6) of the 1981 Act, on sending a defendant back the Crown Court may 
+give such directions as appear to be necessary with respect to the custody of the defendant 
+or for the defendant’s release on bail until the defendant can appear or be brought before 
+the magistrates’ court. 
+Under paragraph 6(7) of Schedule 3 to the Crime and Disorder Act 1998, the Crown Court 
+must inform the magistrates’ court of the outcome of the proceedings in the Crown Court 
+where— 
+(a) the offences for which the defendant was sent for trial include a summary offence; 
+(b) that summary offence is not tried in the Crown Court under a power to do so; 
+(c) in the Crown Court the defendant is convicted of an indictable offence; 
+(d) the Crown Court considers that the summary offence is related to any indictable 
+offence for which the defendant was sent for trial; 
+(e) under paragraph 6(4), the defendant does not plead guilty in the Crown Court to 
+the summary offence; and 
+(f) under paragraph 6(6), the prosecutor does not wish to withdraw the prosecution 
+for that offence. 
+Under paragraph 6(5) of Schedule 3 to the 1998 Act, the Crown Court then has no other 
+powers, for example to send the defendant back to the magistrates’ court on bail or in 
+custody. 
+See also rule 28.10 (Committal or remission, etc. for sentence), which applies to the 
+exercise of the Crown Court’s powers under sections 25, 25A and 26 of the Sentencing Act 
+2020(a) to remit a convicted defendant to a magistrates’ court for sentence.]”. 
+                                                                                                                                            
+(a) 2020 c. 17; section 25 was amended, and section 25A inserted, by section 11 of the Judicial Review and Courts Act 2022 (c. 
+35). Section 26 was amended by paragraph 14 of Schedule 2 to that latter Act. 
+ 
+57
+ 
+SCHEDULE 2 
+Rule 16 
+1. In rule 2.8 (Exercise of functions of a magistrates’ court), in paragraph (4)(g) for “Request for 
+information determined by the court” substitute “Request or application determined by the court”. 
+2. In rule 3.16 (Pre-trial hearings in a magistrates’ court: general rules), in paragraph (1)(a)(i)— 
+(a) for “rule 9.11” substitute “rule 9.17”; and 
+(b) for “rule 9.13” substitute “rule 9.21”. 
+3. In rule 4.1 (When this Part applies) in paragraph (3)(b) for “Queen’s Bench Listing Office” 
+substitute “King’s Bench Listing Office”. 
+4. In rule 5.4 (Duty to make records), in the fourth paragraph of the note to the rule— 
+(a) for “rule 9.11(3)” substitute “rule 9.17(3)”; and 
+(b) for “9.13” substitute “9.21”. 
+5. In rule 24.11 (Procedure if the court convicts), in the final paragraph of the note to the rule— 
+(a) for “9.15” substitute “9.24”; and 
+(b) for “28.12”, in each place it occurs, substitute “28.13”. 
+6. In rule 25.10 (Defendant unfit to plead) in paragraph (3)(c)(iii) for “rule 25.9(2)(e)” substitute 
+“rule 25.9(2)(f)”. 
+7. In rule 28.10 (Committal or remission, etc. for sentence), in the note to the rule— 
+(a) in sub-paragraph (a) of the first paragraph— 
+(i) for “9.15” substitute “9.24”, and 
+(ii) for “28.12”, in each place it occurs, substitute “28.13”; and 
+(b) in the final paragraph for “rule 9.16” substitute “rule 9.25”. 
+8. In rule 45.13 (Appeal to a High Court judge) in paragraph (3)(a) for “Queen’s Bench 
+Division” substitute “King’s Bench Division”. 
+9. For the heading to Part 37 substitute “Appeal to the Court of Appeal against ruling at 
+preparatory hearing or in response to jury tampering” in each of the following references to that 
+heading— 
+(a) in rule 45.4 (Costs out of central funds), in the second paragraph of the note to the rule in 
+sub-paragraph (a)(v); 
+(b) in rule 43.1 (When this Part applies), in paragraph (1)(a)(ii); 
+(c) in rule 36.8 (Duty of Crown Court officer), in paragraph (3); 
+(d) in rule 36.14 (Grounds of appeal and opposition), in paragraph (4)(a); and 
+(e) in the table of contents of the Criminal Procedure Rules. 
+ 
+58
+EXPLANATORY NOTE 
+(This note is not part of the Rules) 
+These Rules amend the Criminal Procedure Rules 2020, S.I. 2020/759, as follows: 
+ 
+ 
+Rule 
+Amendment 
+Part 2 
+Rule 2.7 is amended to allow an authorised court officer in the Crown 
+Court to issue a summons requiring a defendant to attend proceedings for 
+the alleged breach of a community or other order. 
+Part 4 
+Rule 4.11 is amended explicitly to refer to the time limit for service of 
+notice of an appeal to the High Court in an extradition case, as interpreted 
+in case law. 
+Part 5 
+Rules 5.8 and 5.10 are amended explicitly to provide for an application to 
+prohibit the supply of information by court staff on request otherwise 
+required by rule 5.8 unless the court specifically permits that supply. Rule 
+5.4 is amended to require the recording of any such prohibition. Rule 
+5.11 is amended to require the publication of information about cases 
+conducted in writing under the new rules in Part 9. Rules 5.8 and 5.11 are 
+amended to clarify the extent of the information about alleged offences 
+and about conditions of bail that must be supplied on request and 
+published. 
+Part 9 
+The rules in Part 9 are replaced with rules that (a) maintain existing 
+provision for allocation and sending for trial in the Crown Court done at a 
+hearing in a magistrates’ court, (b) supplement new written procedures 
+for allocation and sending introduced by the Judicial Review and Courts 
+Act 2022, and (c) define criteria for sending an offence for trial because 
+of its connection with another offence under new powers conferred on the 
+Criminal Procedure Rules by that Act. Rules in the present Part 9 are 
+amended and renumbered as listed beneath, with the table of contents 
+correspondingly amended. 
+Part 28 
+Rules 28.1 and 28.11 are amended and a new rule 28.12 is added (a) to 
+provide for the established practice of courts considering for sentencing 
+purposes confidential information about assistance given to investigators 
+by a defendant, and (b) explicitly to distinguish between that practice and 
+the comparable statutory procedure. 
+Part 34 
+Rule 34.2 is amended to require the magistrates’ court officer, not the 
+appellant, to serve the appeal notice in an appeal about a decision on the 
+variation or discharge of a domestic abuse protection order. 
+Part 36 
+Rules 36.6 and 36.12 are amended to provide for intervention by HM 
+Attorney General and others in cases in the Court of Appeal that involve 
+points of law arising under the European Union (Withdrawal) Act 2018. 
+Part 41 
+Existing rules are amended and a new rule 41.6 is added to provide for 
+references to the Court of Appeal of points of law arising under the 
+European Union (Withdrawal) Act 2018. 
+Part 43 
+Rules 43.1 and 43.2 are amended to supply the initial procedure on an 
+appeal to the Supreme Court from a decision of the Court of Appeal on a 
+reference of a point of law arising under the European Union 
+(Withdrawal) Act 2018. 
+Part 47 
+Rules 47.42, 47.44 and 47.45 are amended to accommodate new powers 
+to extend the retention periods for fingerprints, DNA samples and DNA 
+profiles taken under the National Security Act 2023. 
+Part 50 
+Rule 50.19 is amended to refer to the time limit for service of notice of an 
+appeal to the High Court in an extradition case, as interpreted in case law. 
+Rule 50.20 is amended to require the provision of supplementary 
+information with notice of an appeal in an extradition case. 
+ 
+59
+New Part 9 rules correspond with the rules they replace as follows: 
+ 
+Derivations 
+Destinations 
+New rule 
+Former rule 
+ 
+ 
+Former rule 
+New rule 
+9.1 
+9.1 
+ 
+ 
+9.1 
+9.1 
+9.2 
+9.2 
+ 
+ 
+9.2 
+9.2 
+9.3 
+9.3 
+ 
+ 
+9.3 
+9.3 
+9.4 
+9.4 
+ 
+ 
+9.4 
+9.4 
+9.5 
+9.5 
+ 
+ 
+9.5 
+9.5 
+9.6 
+ 
+ 
+ 
+9.6 
+9.7 
+9.7 
+9.6 
+ 
+ 
+9.7 
+9.9 
+9.8 
+ 
+ 
+ 
+9.8 
+9.14 
+9.9 
+9.7 
+ 
+ 
+9.9 
+9.15 
+9.10 
+ 
+ 
+ 
+9.10 
+9.16 
+9.11 
+ 
+ 
+ 
+9.11 
+9.17 
+9.12 
+ 
+ 
+ 
+9.12 
+9.18 
+9.13 
+ 
+ 
+ 
+9.13 
+9.21 
+9.14 
+9.8 
+ 
+ 
+9.14 
+9.23 
+9.15 
+9.9 
+ 
+ 
+9.15 
+9.24 
+9.16 
+9.10 
+ 
+ 
+9.16 
+9.25 
+9.17 
+9.11 
+ 
+ 
+ 
+ 
+9.18 
+9.12 
+ 
+ 
+ 
+ 
+9.19 
+ 
+ 
+ 
+ 
+ 
+9.20 
+ 
+ 
+ 
+ 
+ 
+9.21 
+9.13 
+ 
+ 
+ 
+ 
+9.22 
+ 
+ 
+ 
+ 
+ 
+9.23 
+9.14 
+ 
+ 
+ 
+ 
+9.24 
+9.15 
+ 
+ 
+ 
+ 
+9.25 
+9.16 
+ 
+ 
+ 
+ 
+Consequential amendments and corrections. Rules 4.1 and 45.13 are amended to bring up to date 
+references to the King’s Bench Division of the High Court. A cross-reference in rule 25.10 is 
+corrected. The title to Part 37 is amended the better to describe the application of the rules in that 
+Part. Other rules are amended in consequence of the principal amendments made by these Rules. 
+These Rules come into force in accordance with rule 2, so that— 
+(a) the following amendments take effect when the statutory provisions which they 
+supplement come into force— 
+(i) the amendments in Part 5 about the publication of information concerning allocation 
+and sending for trial by written procedure, 
+(ii) the replacement of Part 9, 
+(iii) the amendments to cross-references and to enabling powers in consequence of the 
+replacement of Part 9, 
+(iv) the amendments in Part 34 about service of an appeal notice, 
+(v) the amendments in Part 36 about intervention in a Court of Appeal case, 
+(vi) the amendments in Part 41 about references to the Court of Appeal, and 
+(vii) the amendments in Part 43 about appeal from the Court of Appeal to the Supreme 
+Court; and 
+(b) all the other amendments made by these Rules come into force on 7th October 2024. 

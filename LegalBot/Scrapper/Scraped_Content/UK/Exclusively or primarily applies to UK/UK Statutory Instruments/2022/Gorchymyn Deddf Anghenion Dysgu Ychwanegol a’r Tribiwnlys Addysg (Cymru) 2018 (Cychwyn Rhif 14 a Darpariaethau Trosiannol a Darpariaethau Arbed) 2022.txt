@@ -1,0 +1,855 @@
+OFFERYNNAU STATUDOL CYMRU
+2022 Rhif 897 (Cy. 194) (C. 61)
+ADDYSG, CYMRU
+Gorchymyn Deddf Anghenion Dysgu Ychwanegol a’r Tribiwnlys Addysg (Cymru) 2018 (Cychwyn Rhif 14 a Darpariaethau Trosiannol a Darpariaethau Arbed) 2022
+Gwnaed
+16 Awst 2022
+Mae Gweinidogion Cymru, drwy arfer y pwerau a roddir gan adran 100(3) a (4) o Ddeddf Anghenion Dysgu Ychwanegol a’r Tribiwnlys Addysg (Cymru) 2018(1), yn gwneud y Gorchymyn a ganlyn:
+(1)
+2018 dccc 2.Enwi a dehongli
+1.—(1) Enw’r Gorchymyn hwn yw Gorchymyn Deddf Anghenion Dysgu Ychwanegol a’r Tribiwnlys Addysg (Cymru) 2018 (Cychwyn Rhif 14 a Darpariaethau Trosiannol a Darpariaethau Arbed) 2022.
+(2) Yn y Gorchymyn hwn—
+mae i “addysg feithrin” yr un ystyr â “nursery education” yn adran 117 o Ddeddf Safonau a Fframwaith Ysgolion 1998(1);
+mae i “anhawster dysgu” yr un ystyr â “learning difficulty” yn—
+(a)
+adran 312(2)(2) o Ddeddf 1996—
+(i)
+mewn perthynas â phlentyn yn ardal awdurdod lleol yng Nghymru ond nid plentyn sy’n ddisgybl cofrestredig mewn ysgol brif ffrwd yn Lloegr,
+(ii)
+mewn perthynas â phlentyn yn ardal awdurdod lleol yn Lloegr sy’n ddisgybl cofrestredig mewn ysgol a gynhelir yng Nghymru, fel pe bai “a child in the area of a local authority in Wales” wedi ei hepgor,
+(b)
+adran 20 o Ddeddf 2014 mewn perthynas â phlentyn yn ardal awdurdod lleol yng Nghymru sy’n ddisgybl cofrestredig mewn ysgol brif ffrwd yn Lloegr;
+mae i “asesiad o anghenion AIG” yr un ystyr ag “EHC needs assessment” yn adran 36(2) o Ddeddf 2014;
+mae i “awdurdod lleol” yr un ystyr â “local authority” yn adran 579(3) o Ddeddf 1996;
+ystyr “blwyddyn 2” (“year 2”) yw grŵp blwyddyn y bydd mwyafrif y plant, yn ystod y flwyddyn ysgol, yn cyrraedd 7 oed;
+ystyr “blwyddyn 4” (“year 4”) yw grŵp blwyddyn y bydd mwyafrif y plant, yn ystod y flwyddyn ysgol, yn cyrraedd 9 oed;
+ystyr “blwyddyn 6” (“year 6”) yw grŵp blwyddyn y bydd mwyafrif y plant, yn ystod y flwyddyn ysgol, yn cyrraedd 11 oed;
+ystyr “blwyddyn 8” (“year 8”) yw grŵp blwyddyn y bydd mwyafrif y plant, yn ystod y flwyddyn ysgol, yn cyrraedd 13 oed;
+ystyr “blwyddyn 10” (“year 10”) yw grŵp blwyddyn y bydd mwyafrif y plant, yn ystod y flwyddyn ysgol, yn cyrraedd 15 oed;
+ystyr “blwyddyn 11” (“year 11”) yw grŵp blwyddyn y bydd mwyafrif y plant, yn ystod y flwyddyn ysgol, yn cyrraedd 16 oed;
+mae i “blwyddyn ysgol” yr un ystyr â “school year” yn adran 579(4) o Ddeddf 1996;
+ystyr “cod” (“code”) yw cod ar anghenion dysgu ychwanegol a ddyroddir o dan adran 4 o’r Ddeddf;
+mae i “cynllun AIG” yr un ystyr ag “EHC plan” yn adran 37(2)(5) o Ddeddf 2014;
+ystyr “cynllun datblygu unigol” (“individual development plan”) yw cynllun a lunnir ac a gynhelir o dan Bennod 2 o Ran 2 o’r Ddeddf;
+mae i “darpariaeth addysgol arbennig” yr un ystyr â “special educational provision” yn—
+(a)
+adran 312(4)(6) o Ddeddf 1996—
+(i)
+mewn perthynas â phlentyn yn ardal awdurdod lleol yng Nghymru ond nid plentyn sy’n ddisgybl cofrestredig mewn ysgol brif ffrwd yn Lloegr,
+(ii)
+mewn perthynas â phlentyn yn ardal awdurdod lleol yn Lloegr sy’n ddisgybl cofrestredig mewn ysgol a gynhelir yng Nghymru fel pe bai “in relation to a child in the area of a local authority in Wales” wedi ei hepgor,
+(b)
+adran 21 o Ddeddf 2014 mewn perthynas â phlentyn yn ardal awdurdod lleol yng Nghymru sy’n ddisgybl cofrestredig mewn ysgol brif ffrwd yn Lloegr;
+ystyr “Deddf 1996” (“the 1996 Act”) yw Deddf Addysg 1996(7);
+ystyr “Deddf 2014” (“the 2014 Act”) yw Deddf Plant a Theuluoedd 2014(8);
+mae i “disgybl cofrestredig” yr un ystyr â “registered pupil” yn adran 434(9) o Ddeddf 1996;
+ystyr “dosbarth derbyn” (“reception class”) yw grŵp blwyddyn y bydd mwyafrif y plant, yn ystod y flwyddyn ysgol, yn cyrraedd 5 oed;
+ystyr “dosbarth meithrin” (“nursery class”) yw dosbarth o ddisgyblion y mae addysg feithrin yn cael ei darparu iddynt mewn ysgol a gynhelir;
+ystyr “y Ddeddf” (“the Act”) yw Deddf Anghenion Dysgu Ychwanegol a’r Tribiwnlys Addysg (Cymru) 2018;
+ystyr “grŵp blwyddyn” (“year group”) yw grŵp o blant mewn ysgol y bydd y mwyafrif ohonynt, mewn blwyddyn ysgol benodol, yn cyrraedd yr un oedran;
+mae i “oedran ysgol gorfodol” yr un ystyr â “compulsory school age” yn adran 8 o Ddeddf 1996;
+ystyr “plentyn” (“child”) yw person nad yw’n hŷn na’r oedran ysgol gorfodol;
+ystyr “plentyn a addysgir ac eithrio yn yr ysgol” (“a child educated other than at school”) yw plentyn y mae awdurdod lleol yng Nghymru wedi gwneud trefniadau i ddarparu addysg ac eithrio yn yr ysgol ar ei gyfer sydd o fewn ardal yr awdurdod ac—
+(a)
+sydd o oedran ysgol gorfodol,
+(b)
+na all, oherwydd salwch, gwaharddiad o’r ysgol neu fel arall, gael addysg addas am gyfnod oni bai bod trefniadau o’r fath yn cael eu gwneud ar gyfer y plentyn, ac
+(c)
+nad yw’n ddisgybl cofrestredig mewn ysgol a gynhelir;
+mae i “plentyn sy’n derbyn gofal” (“looked after child”) yr un ystyr ag yn adran 15 o’r Ddeddf;
+ystyr “Rheolau’r Tribiwnlys” (“Tribunal Rules”) yw Rheoliadau Tribiwnlys Anghenion Addysgol Arbennig Cymru 2012(10);
+mae i “rhiant” yr un ystyr â “parent” yn adran 576(11) o Ddeddf 1996;
+mae i “sefydliad yn y sector addysg bellach” (“institution in the further education sector”) yr un ystyr ag yn adran 99 o’r Ddeddf;
+ystyr “Tribiwnlys” (“Tribunal”) yw Tribiwnlys Addysg Cymru(12);
+mae i “yn ardal awdurdod lleol yng Nghymru” yr un ystyr ag ““in the area” of a local authority in Wales” yn adran 579(3B)(13) o Ddeddf 1996;
+mae i “yn ardal awdurdod lleol yn Lloegr” yr un ystyr ag ““in the area” of a local authority in England” yn adran 579(3A)(14) o Ddeddf 1996;
+mae i “ysgol a gynhelir” (“maintained school”) yr un ystyr ag yn adran 99 o’r Ddeddf;
+mae i “ysgol brif ffrwd” yr un ystyr â “mainstream school” yn adran 83(2) o Ddeddf 2014.
+(3) Mae cyfeiriadau yn y Gorchymyn hwn at “yr hen gyfraith” yn gyfeiriadau at Bennod 1 o Ran 4 o Ddeddf 1996 ond ac eithrio—
+(a)
+adran 323;
+(b)
+adran 329;
+(c)
+adran 329A.
+(4) Mae cyfeiriadau yn y Gorchymyn hwn at “y gyfraith newydd” yn gyfeiriadau at—
+(a)
+y Ddeddf,
+(b)
+rheoliad neu’r cod a wneir o dan y Ddeddf honno, ac
+(c)
+unrhyw ddarpariaeth arall o ddeddf, neu a wneir o dan ddeddf, sy’n cael effaith at ddibenion y canlynol neu mewn perthynas â’r canlynol—
+(i)
+darpariaeth o’r Ddeddf neu reoliadau neu god o’r fath, neu
+(ii)
+person y mae’r Ddeddf neu reoliadau neu god o’r fath yn gymwys iddo.
+(5) At ddibenion y Gorchymyn hwn dyfernir yn derfynol ar apêl—
+(a)
+os caiff penderfyniad ei wneud gan dribiwnlys neu lys ar yr apêl, a
+(b)
+os caniateir gwneud cais i adolygu’r penderfyniad neu os caniateir ei apelio ymhellach, a daw’r cyfnod (neu bob un o’r cyfnodau) ar gyfer gwneud hynny i ben heb fod cais am adolygiad wedi ei wneud neu apêl bellach wedi ei wneud.
+(6) At ddibenion y Gorchymyn hwn, mae awdurdod lleol yn gyfrifol am blentyn os yw yn ardal yr awdurdod.
+(7) At ddibenion y Gorchymyn hwn, o ran plentyn—
+(a)
+pan fo’n blentyn sy’n derbyn gofal, yr awdurdod lleol priodol yw’r awdurdod lleol sy’n gofalu am y plentyn;
+(b)
+pan na fo’n blentyn sy’n derbyn gofal, yr awdurdod lleol priodol yw’r awdurdod lleol sy’n gyfrifol am y plentyn.
+(8) Nid yw’r Gorchymyn hwn yn gymwys i berson y cychwynnwyd darpariaethau’r Ddeddf mewn perthynas ag ef gan Orchymyn Deddf Anghenion Dysgu Ychwanegol a’r Tribiwnlys Addysg (Cymru) 2018 (Cychwyn Rhif 5 a Darpariaethau Trosiannol a Darpariaethau Arbed) 2021(15) neu Orchymyn Deddf Anghenion Dysgu Ychwanegol a’r Tribiwnlys Addysg (Cymru) 2018 (Cychwyn Rhif 6 a Darpariaethau Trosiannol a Darpariaethau Arbed) 2021(16).
+Gwybodaeth Cychwyn
+I1
+Ergl. 1 mewn grym ar y dyddiad gwneud
+(1)
+1998 p. 31.
+(2)
+Diwygiwyd gan Ddeddf Prentisiaethau, Sgiliau, Plant a Dysgu 2009 (p. 22), adran 59 a pharagraffau 1 a 6 o Atodlen 2, gan Ddeddf Plant a Theuluoedd 2014 (p. 6), adran 82 a pharagraffau 1 ac 11 o Atodlen 3, gan Orchymyn Awdurdodau Addysg Lleol ac Awdurdodau Gwasanaethau Plant (Integreiddio Swyddogaethau) 2010 (O.S. 2010/1158), erthygl 5 a pharagraff 7 o Atodlen 2, gan Ddeddf Addysg 1997 (p. 44), adran 57, paragraff 23 o Atodlen 7 ac Atodlen 8.
+(3)
+Amnewidiwyd y diffiniad o “local authority” gan Orchymyn Awdurdodau Addysg Lleol ac Awdurdodau Gwasanaethau Plant (Integreiddio Swyddogaethau) 2010 (O.S. 2010/1158), erthygl 3.
+(4)
+Mewnosodwyd diffiniad o “school year” gan Ddeddf Addysg 1997 (p. 44), adran 57, paragraff 43 o Atodlen 7.
+(5)
+Diwygiwyd gan Ddeddf Gofal 2014 a Gorchymyn Deddf Plant a Theuluoedd 2014 (Diwygiadau Canlyniadol) 2015 (O.S. 2015/914), erthygl 2 a pharagraff 97 o’r Atodlen.
+(6)
+Diwygiwyd gan Ddeddf Plant a Theuluoedd 2014 (p. 6), adran 82 a pharagraffau 1 ac 11 o Atodlen 3, gan Orchymyn Awdurdodau Addysg Lleol ac Awdurdodau Gwasanaethau Plant (Integreiddio Swyddogaethau) 2010 (O.S. 2010/1158), erthygl 5 a pharagraff 7 o Atodlen 2, gan Ddeddf Safonau a Fframwaith Ysgolion 1998 (p. 31), adran 140 a pharagraff 71 o Atodlen 30 ac Atodlen 31.
+(7)
+1996 p. 56.
+(8)
+2014 p. 6.
+(9)
+Diwygiwyd gan Ddeddf Safonau a Fframwaith Ysgolion 1998 (p. 31), adran 140 a pharagraff 111 o Atodlen 30 a chan Orchymyn Awdurdodau Addysg Lleol ac Awdurdodau Gwasanaethau Plant (Integreiddio Swyddogaethau) 2010 (O.S. 2010/1158), erthygl 3.
+(10)
+O.S. 2012/322 (Cy. 53).
+(11)
+Diwygiwyd gan Ddeddf Safonau a Fframwaith Ysgolion 1998 (p. 31), adran 140 a pharagraff 180 o Atodlen 30 ac Atodlen 31.
+(12)
+Arferai Tribiwnlys Addysg Cymru gael ei alw’n Dribiwnlys Anghenion Addysgol Arbennig Cymru. Gweler adran 91 o Ddeddf Anghenion Dysgu Ychwanegol a’r Tribiwnlys Addysg (Cymru) 2018.
+(13)
+Mewnosodwyd gan Ddeddf Plant a Theuluoedd 2014 (p. 6), adran 82 a pharagraffau 1 a 59 o Atodlen 3 a diwygiwyd gan adran 95 o’r Ddeddf.
+(14)
+Mewnosodwyd gan Ddeddf Plant a Theuluoedd 2014 (p. 6), adran 82 a pharagraffau 1 a 59 o Atodlen 3 a diwygiwyd gan adran 95 o’r Ddeddf.
+(15)
+O.S. 2021/1243 (Cy. 315) (C. 68) a ddiwygiwyd gan O.S. 2021/1428 (Cy. 369) (C. 80).
+(16)
+O.S. 2021/1244 (Cy. 316) (C. 69) a ddiwygiwyd gan O.S. 2021/1428 (Cy. 369) (C. 80).Ystyr anghenion addysgol arbennig a nodwyd
+2.—(1) At ddibenion y Gorchymyn hwn, mae gan blentyn “anghenion addysgol arbennig a nodwyd” os yw’r plentyn—
+(a)
+yn blentyn sy’n derbyn gofal ond nid yn blentyn sy’n derbyn gofal sydd yn ardal awdurdod lleol yn Lloegr;
+(b)
+yn ddisgybl cofrestredig mewn ysgol a gynhelir yng Nghymru ac—
+(i)
+yn ddisgybl cofrestredig neu’n fyfyriwr sydd wedi ymrestru mewn sefydliad arall (a bod y sefydliad hwnnw yn ysgol neu’n sefydliad yn y sector addysg bellach), a
+(ii)
+y mae awdurdod lleol yng Nghymru yn gyfrifol am y plentyn hwnnw;
+(c)
+yn blentyn sy’n cael ei addysgu ac eithrio yn yr ysgol;
+a bod ganddo anhawster dysgu a nodwyd gan berchennog yr ysgol y mae’r plentyn yn ddisgybl cofrestredig ynddi neu gan yr awdurdod lleol priodol sy’n galw am wneud darpariaeth addysgol arbennig ar gyfer P.
+(2) Ond nid yw’n cynnwys plentyn—
+(a)
+y mae awdurdod lleol yn cynnal datganiad mewn perthynas ag ef o dan adran 324 o Ddeddf 1996;
+(b)
+y mae awdurdod lleol yn cynnal cynllun AIG mewn perthynas ag ef;
+(c)
+y mae awdurdod lleol wedi cyflwyno hysbysiad mewn perthynas ag ef o dan adran 323 o Ddeddf 1996 ac nad yw’r asesiad wedi cychwyn ac nad oes hysbysiad wedi ei roi o dan adran 323(6) o Ddeddf 1996;
+(d)
+y mae cais wedi ei wneud mewn perthynas ag ef o dan adran 329 neu 329A o Ddeddf 1996 am asesiad o dan adran 323 o Ddeddf 1996 ac nad yw’r awdurdod lleol wedi penderfynu pa un ai i asesu ai peidio;
+(e)
+y mae cais wedi ei wneud mewn perthynas ag ef o dan adran 329 neu 329A o Ddeddf 1996 am asesiad o dan adran 323 o Ddeddf 1996 a bod yr awdurdod lleol yn penderfynu peidio â chydymffurfio â’r cais ac—
+(i)
+nad yw’r amser y mae rhaid i apêl o dan adran 329(2) neu 329A(8) o Ddeddf 1996 gael ei dwyn ynddo o dan Ran B o Reolau’r Tribiwnlys wedi dod i ben;
+(ii)
+bod apêl wedi ei dwyn i’r Tribiwnlys o dan adran 329(2) neu 329A(8) o Ddeddf 1996 mewn perthynas â’r penderfyniad hwnnw ond na ddyfarnwyd yn derfynol arni; neu
+(iii)
+dyfarnwyd yn derfynol ar apêl i’r Tribiwnlys o dan adran 329(2) neu 329A(8) o Ddeddf 1996 mewn perthynas â’r penderfyniad hwnnw a gorchmynnwyd i’r awdurdod lleol drefnu asesiad, ac nad yw’r asesiad hwnnw wedi cychwyn;
+(f)
+y mae awdurdod lleol yn ymgymryd ag asesiad o anghenion addysgol mewn perthynas ag ef o dan adran 323 o Ddeddf 1996;
+(g)
+y mae awdurdod lleol yn bwriadu peidio â gwneud datganiad mewn perthynas ag ef yn dilyn asesiad ac—
+(i)
+nad yw’r amser y mae rhaid i apêl o dan adran 325(2) o Ddeddf 1996 gael ei dwyn ynddo o dan Ran B o Reolau’r Tribiwnlys wedi dod i ben;
+(ii)
+bod apêl wedi ei dwyn i’r Tribiwnlys o dan adran 325(2) o Ddeddf 1996 mewn perthynas â’r penderfyniad hwnnw ond na ddyfarnwyd yn derfynol arni;
+(iii)
+dygwyd apêl i’r Tribiwnlys o dan adran 325(2) o Ddeddf 1996 mewn perthynas â’r penderfyniad hwnnw a dyfarnwyd yn derfynol arni a gorchmynnwyd i’r awdurdod lleol—
+(aa)
+gwneud a chynnal datganiad ac nad yw’r broses o wneud y datganiad wedi cychwyn, neu
+(bb)
+ailystyried ei benderfyniad ac nad yw’r ailystyried hwnnw wedi cychwyn;
+(h)
+y mae rhaid i awdurdod lleol wneud datganiad mewn perthynas ag ef o dan adran 324 o Ddeddf 1996 ond nad yw’r broses o wneud y datganiad wedi dod i ben;
+(i)
+y mae awdurdod lleol wedi penderfynu peidio â chynnal datganiad mewn perthynas ag ef o dan baragraff 11(1) o Atodlen 27 i Ddeddf 1996 mwyach ac—
+(i)
+nad yw’r amser y mae rhaid i apêl o dan baragraff 11(2)(b) o’r Atodlen honno gael ei dwyn ynddo o dan Ran B o Reolau’r Tribiwnlys wedi dod i ben, neu
+(ii)
+bod apêl wedi ei dwyn i’r Tribiwnlys o dan baragraff 11(2)(b) o’r Atodlen honno mewn perthynas â’r penderfyniad hwnnw ond na ddyfarnwyd yn derfynol arni;
+(j)
+y mae asesiad mewn perthynas ag ef o dan adran 331 o Ddeddf 1996 yn mynd rhagddo;
+(k)
+nad yw’n hŷn na’r oedran ysgol gorfodol ond y mae asesiad mewn perthynas ag ef o dan adran 140 o Ddeddf Dysgu a Sgiliau 2000(1)—
+(i)
+yn mynd rhagddo, neu
+(ii)
+wedi arwain at adroddiad ar anghenion addysgol a hyfforddi y person a’r ddarpariaeth sy’n ofynnol i’w diwallu;
+(l)
+y mae cais wedi ei wneud mewn perthynas ag ef i awdurdod lleol i sicrhau asesiad o anghenion AIG o dan adran 36(1) o Ddeddf 2014 ac nad yw’r awdurdod lleol wedi penderfynu ar y cais hwnnw o dan adran 36(3);
+(m)
+y mae awdurdod lleol wedi penderfynu, o dan adran 36 o Ddeddf 2014, beidio â sicrhau asesiad o anghenion AIG mewn perthynas ag ef ac—
+(i)
+nad yw’r cyfnod ar gyfer dilyn cyfryngu mewn perthynas â’r penderfyniad hwnnw o dan adran 52 o Ddeddf 2014 wedi dod i ben;
+(ii)
+bod cyfryngu o dan adran 55 o Ddeddf 2014 yn mynd rhagddo mewn perthynas â’r penderfyniad hwnnw;
+(iii)
+bod tystysgrif gyfryngu wedi ei dyroddi o dan adran 55(4) o Ddeddf 2014 mewn perthynas â’r penderfyniad hwnnw ac nad yw’r cyfnod ar gyfer cyflwyno apêl i’r Tribiwnlys Haen Gyntaf o dan adran 51 o Ddeddf 2014 wedi dod i ben;
+(iv)
+bod apêl wedi ei dwyn i’r Tribiwnlys Haen Gyntaf o dan adran 51(2)(a) o Ddeddf 2014 mewn perthynas â’r penderfyniad hwnnw ond na ddyfarnwyd yn derfynol arni;
+(v)
+bod apêl wedi ei dwyn i’r Tribiwnlys Haen Gyntaf o dan adran 51(2)(a) o Ddeddf 2014 mewn perthynas â’r penderfyniad hwnnw a dyfarnwyd yn derfynol arni a gorchmynnwyd i’r awdurdod lleol drefnu asesiad neu ailasesiad, ac nad yw’r asesiad hwnnw neu’r ailasesiad hwnnw wedi cychwyn;
+(n)
+y mae awdurdod lleol wedi cyflwyno hysbysiad mewn perthynas ag ef o dan adran 36(7) o Ddeddf 2014 ei fod yn ystyried sicrhau asesiad o anghenion AIG ac—
+(i)
+nad yw’r asesiad wedi cychwyn,
+(ii)
+bod yr asesiad yn mynd rhagddo, neu
+(iii)
+nad oes hysbysiad wedi ei gyflwyno o dan adran 36(9) o Ddeddf 2014;
+(o)
+y mae awdurdod lleol wedi penderfynu o dan adran 36(9) o Ddeddf 2014 nad yw’n angenrheidiol gwneud darpariaeth addysgol arbennig yn unol â chynllun AIG mewn perthynas ag ef ac—
+(i)
+nad yw’r cyfnod ar gyfer dilyn cyfryngu mewn perthynas â’r penderfyniad hwnnw o dan adran 52 o Ddeddf 2014 wedi dod i ben;
+(ii)
+bod cyfryngu o dan adran 55 o Ddeddf 2014 yn mynd rhagddo mewn perthynas â’r penderfyniad hwnnw;
+(iii)
+bod tystysgrif gyfryngu wedi ei dyroddi o dan adran 55(4) o Ddeddf 2014 mewn perthynas â’r penderfyniad hwnnw ac nad yw’r cyfnod ar gyfer cyflwyno apêl i’r Tribiwnlys Haen Gyntaf o dan adran 51 o Ddeddf 2014 wedi dod i ben;
+(iv)
+bod apêl wedi ei dwyn i’r Tribiwnlys Haen Gyntaf o dan adran 51(2)(b) o Ddeddf 2014 mewn perthynas â’r penderfyniad hwnnw ond na ddyfarnwyd yn derfynol arni;
+(v)
+bod apêl wedi ei dwyn i’r Tribiwnlys Haen Gyntaf o dan adran 51(2)(b) o Ddeddf 2014 mewn perthynas â’r penderfyniad hwnnw a dyfarnwyd yn derfynol arni a gorchmynnwyd i’r awdurdod lleol—
+(aa)
+gwneud a chynnal cynllun AIG ac nad yw’r broses o wneud y cynllun AIG wedi cychwyn, neu
+(bb)
+ailystyried ei benderfyniad ac nad yw’r ailystyried hwnnw wedi cychwyn;
+(p)
+y mae awdurdod lleol wedi penderfynu o dan adran 36(9) o Ddeddf 2014 ei bod yn angenrheidiol gwneud darpariaeth addysgol arbennig yn unol â chynllun AIG mewn perthynas ag ef ond nad yw’r cynllun hwnnw wedi ei lunio;
+(q)
+y mae awdurdod lleol wedi penderfynu o dan adran 45 o Ddeddf 2014 nad yw’n angenrheidiol mwyach gynnal cynllun AIG mewn perthynas ag ef ac—
+(i)
+nad yw’r cyfnod ar gyfer dilyn cyfryngu mewn perthynas â’r penderfyniad hwnnw o dan adran 52 o Ddeddf 2014 wedi dod i ben;
+(ii)
+bod cyfryngu o dan adran 55 o Ddeddf 2014 yn mynd rhagddo mewn perthynas â’r penderfyniad hwnnw;
+(iii)
+bod tystysgrif gyfryngu wedi ei dyroddi o dan adran 55(4) o Ddeddf 2014 mewn perthynas â’r penderfyniad hwnnw ac nad yw’r cyfnod ar gyfer cyflwyno apêl i’r Tribiwnlys Haen Gyntaf o dan adran 51 o Ddeddf 2014 wedi dod i ben;
+(iv)
+bod apêl wedi ei dwyn i’r Tribiwnlys Haen Gyntaf o dan adran 51(2)(f) o Ddeddf 2014 mewn perthynas â’r penderfyniad hwnnw ond na ddyfarnwyd yn derfynol arni.
+Gwybodaeth Cychwyn
+I1
+Ergl. 2 mewn grym ar y dyddiad gwneud
+(1)
+2000 p. 21.Y darpariaethau sy’n dod i rym ar 1 Medi 2022
+3.  Daw’r darpariaethau a ganlyn o’r Ddeddf i rym ar 1 Medi 2022 mewn perthynas â phlentyn sydd ag anghenion addysgol arbennig a nodwyd ar 1 Medi 2022—
+(a)
+adrannau 2 i 4;
+(b)
+adrannau 6 i 14;
+(c)
+adrannau 17 i 36;
+(d)
+adran 38;
+(e)
+adrannau 40 i 44;
+(f)
+adrannau 47 i 49;
+(g)
+adran 50(1) at ddibenion y darpariaethau ym mharagraff (h);
+(h)
+adran 50(4) i (5);
+(i)
+adrannau 51 i 53;
+(j)
+adran 55;
+(k)
+adran 59;
+(l)
+adrannau 63 i 66;
+(m)
+adrannau 68 i 69;
+(n)
+adran 96 at ddibenion y darpariaethau ym mharagraff (o);
+(o)
+yn yr Atodlen—
+(i)
+paragraff 1;
+(ii)
+paragraff 4(1) at ddibenion y darpariaethau yn is-baragraffau (iii) i (xi);
+(iii)
+paragraff 4(2) i 4(6);
+(iv)
+paragraff 4(7) i’r graddau nad yw’r paragraff wedi ei ddiddymu mewn perthynas â’r plentyn(1);
+(v)
+paragraff 4(8) a (9);
+(vi)
+paragraff 4(10);
+(vii)
+paragraff 4(13) i 4(18);
+(viii)
+paragraff 4(19)(b);
+(ix)
+paragraff 4(20) a 4(21);
+(x)
+paragraff 4(23) i 4(29);
+(xi)
+paragraff 4(32)(a)(i) a (ii) a pharagraff 4(32)(b);
+(xii)
+paragraff 7;
+(xiii)
+paragraff 8;
+(xiv)
+paragraff 11(a);
+(xv)
+paragraff 12(a);
+(xvi)
+paragraff 14(1) at ddibenion y darpariaethau yn is-baragraff (xvii);
+(xvii)
+paragraff 14(2) a (3);
+(xviii)
+paragraff 19(1) at ddiben y ddarpariaeth yn is-baragraff (xix);
+(xix)
+paragraff 19(5)(e)(ii);
+(xx)
+paragraff 21(1) at ddibenion y darpariaethau yn is-baragraff (xxi);
+(xxi)
+paragraff 21(2)(a)(i) a (2)(b)(ii);
+(xxii)
+paragraff 22;
+(xxiii)
+paragraff 23(1) at ddiben y ddarpariaeth yn is-baragraff (xxiv);
+(xxiv)
+paragraff 23(4);
+(xxv)
+paragraff 24(1) at ddibenion y darpariaethau yn is-baragraff (xxvi);
+(xxvi)
+paragraff 24(3) a (6)(a).
+Gwybodaeth Cychwyn
+I1
+Ergl. 3 mewn grym ar y dyddiad gwneud
+(1)
+Mae paragraff 4(7) (“y ddarpariaeth”) wedi ei ddiddymu gan baragraff 75 o Atodlen 2 i Ddeddf Cwricwlwm ac Asesu (Cymru) 2021 (dsc 4) (“Deddf 2021”). Fodd bynnag, mae’r ddarpariaeth wedi ei harbed gan Reoliadau Deddf Cwricwlwm ac Asesu (Cymru) 2021 (Darpariaeth Drosiannol a Darpariaeth Arbed) 2022 (O.S. 2022/111 (Cy. 39)) mewn perthynas â phlentyn neu ddisgybl y darperir addysg iddo o dan yr hen gwricwlwm (h.y. nad yw Deddf 2021 wedi cychwyn mewn perthynas ag ef). Effaith y ddarpariaeth arbed honno yw bod paragraff 4(7) o’r Atodlen i’r Ddeddf yn parhau mewn grym hyd nes y darperir addysg o dan Ddeddf 2021 i’r plentyn neu’r disgybl.Darpariaeth arbed
+4.  Yn ddarostyngedig i erthyglau 9 i 11 a 13 i 18, er bod Pennod 1 o Ran 4 o Ddeddf 1996(1) wedi ei datgymhwyso gan adran 96 o’r Ddeddf a pharagraff 4(9) o’r Atodlen iddi mewn perthynas â phlentyn sydd ag anghenion addysgol arbennig a nodwyd—
+(a)
+mae’r hen gyfraith yn parhau i gael effaith mewn perthynas â’r plentyn hwnnw, a
+(b)
+nid yw’r gyfraith newydd yn cael effaith mewn perthynas â’r plentyn hwnnw.
+Gwybodaeth Cychwyn
+I1
+Ergl. 4 mewn grym ar y dyddiad gwneud
+(1)
+Gweler erthygl 3 o’r Gorchymyn hwn a gychwynnodd y darpariaethau hynny.Hysbysiad CDU
+5.  Hysbysiad a roddir i blentyn a rhiant plentyn yw hysbysiad CDU sy’n cadarnhau—
+(a)
+bod gan y plentyn anghenion dysgu ychwanegol at ddibenion Pennod 2 o Ran 2 o’r Ddeddf, a
+(b)
+y bydd cynllun datblygu unigol yn cael ei lunio ar gyfer y plentyn.
+Gwybodaeth Cychwyn
+I1
+Ergl. 5 mewn grym ar y dyddiad gwneudHysbysiad Dim CDU
+6.  Hysbysiad a roddir i blentyn a rhiant plentyn yw hysbysiad Dim CDU sy’n cadarnhau bod yr awdurdod lleol priodol wedi penderfynu nad oes gan y plentyn anghenion dysgu ychwanegol at ddibenion Pennod 2 o Ran 2 o’r Ddeddf.
+Gwybodaeth Cychwyn
+I1
+Ergl. 6 mewn grym ar y dyddiad gwneudEffaith hysbysiad CDU
+7.  Effaith yr hysbysiad CDU yw—
+(a)
+y bernir bod yr awdurdod lleol priodol wedi penderfynu ar ddyddiad yr hysbysiad bod gan y plentyn anghenion dysgu ychwanegol o dan Bennod 2 o Ran 2 o’r Ddeddf,
+(b)
+bod y gyfraith newydd yn gymwys mewn perthynas â’r plentyn ar y dyddiad hwnnw, ac
+(c)
+bod yr hen gyfraith yn peidio â bod yn gymwys mewn perthynas â’r plentyn ar y dyddiad hwnnw.
+Gwybodaeth Cychwyn
+I1
+Ergl. 7 mewn grym ar y dyddiad gwneudEffaith hysbysiad Dim CDU
+8.  Effaith yr hysbysiad Dim CDU yw—
+(a)
+y bernir bod yr awdurdod lleol priodol wedi penderfynu ar ddyddiad yr hysbysiad nad oes gan y plentyn anghenion dysgu ychwanegol o dan Bennod 2 o Ran 2 o’r Ddeddf,
+(b)
+bod y gyfraith newydd yn gymwys mewn perthynas â’r plentyn ar y dyddiad hwnnw, ac
+(c)
+bod yr hen gyfraith yn peidio â bod yn gymwys mewn perthynas â’r plentyn ar y dyddiad hwnnw.
+Gwybodaeth Cychwyn
+I1
+Ergl. 8 mewn grym ar y dyddiad gwneudDyletswydd i roi hysbysiad
+9.—(1) Mae’r erthygl hon yn gymwys i blentyn sydd ag anghenion addysgol arbennig a nodwyd ar 1 Medi 2022 ac sydd mewn dosbarth meithrin, neu sydd mewn dosbarth derbyn, neu sydd ym mlwyddyn 2, blwyddyn 4, blwyddyn 6, blwyddyn 8, blwyddyn 10 neu flwyddyn 11, neu a fyddai mewn dosbarth meithrin neu unrhyw un o’r grwpiau blwyddyn hynny pe bai’r plentyn yn ddisgybl cofrestredig mewn ysgol a gynhelir.
+(2) Oni bai bod y gyfraith newydd yn gymwys mewn perthynas â’r plentyn, rhaid i’r awdurdod lleol priodol roi naill ai hysbysiad CDU neu hysbysiad Dim CDU i’r plentyn a rhiant y plentyn yn ystod y flwyddyn ysgol 2022-2023.
+Gwybodaeth Cychwyn
+I1
+Ergl. 9 mewn grym ar y dyddiad gwneud[F19A.—(1) Mae’r erthygl hon yn gymwys i blentyn sydd ag anghenion addysgol arbennig a nodwyd ar 1 Medi 2023 ac sydd ym mlwyddyn 6 neu ym mlwyddyn 10 yn ystod y flwyddyn ysgol 2023-2024 neu a fyddai yn y naill neu’r llall o’r grwpiau blwyddyn hynny pe bai’r plentyn yn ddisgybl cofrestredig mewn ysgol a gynhelir.
+(2) Oni bai bod y gyfraith newydd yn gymwys mewn perthynas â’r plentyn, rhaid i’r awdurdod lleol priodol roi naill ai hysbysiad CDU neu hysbysiad Dim CDU i’r plentyn a rhiant y plentyn yn ystod y flwyddyn ysgol 2023-2024.]
+Diwygiadau Testunol
+F1
+Ergl. 9A wedi ei fewnosod (21.8.2023) gan Gorchymyn Deddf Anghenion Dysgu Ychwanegol a’r Tribiwnlys Addysg (Cymru) 2018 (Diwygio Gorchmynion Cychwyn Rhif 5, Rhif 6, Rhif 8, Rhif 13 a Rhif 14) 2023 (O.S. 2023/932), ergl. 6(2)10.—(1) Mae’r erthygl hon yn gymwys i blentyn sydd ag anghenion addysgol arbennig a nodwyd ar 1 Medi 2023 ac nad oedd yn dod o fewn erthygl 9 [F1na 9A].
+(2) Oni bai bod y gyfraith newydd yn gymwys mewn perthynas â’r plentyn, rhaid i’r awdurdod lleol priodol roi naill ai hysbysiad CDU neu hysbysiad Dim CDU i’r plentyn a rhiant y plentyn yn ystod y flwyddyn ysgol 2023-2024 [F2neu’r flwyddyn ysgol 2024-2025].
+Diwygiadau Testunol
+F1
+Geiriau yn ergl. 10(1) wedi eu mewnosod (21.8.2023) gan Gorchymyn Deddf Anghenion Dysgu Ychwanegol a’r Tribiwnlys Addysg (Cymru) 2018 (Diwygio Gorchmynion Cychwyn Rhif 5, Rhif 6, Rhif 8, Rhif 13 a Rhif 14) 2023 (O.S. 2023/932), ergl. 6(3)(a)
+F2
+Geiriau yn ergl. 10(2) wedi eu mewnosod (21.8.2023) gan Gorchymyn Deddf Anghenion Dysgu Ychwanegol a’r Tribiwnlys Addysg (Cymru) 2018 (Diwygio Gorchmynion Cychwyn Rhif 5, Rhif 6, Rhif 8, Rhif 13 a Rhif 14) 2023 (O.S. 2023/932), ergl. 6(3)(b)
+Gwybodaeth Cychwyn
+I1
+Ergl. 10 mewn grym ar y dyddiad gwneudHawl i ofyn am hysbysiad CDU neu hysbysiad Dim CDU
+11.  Caiff plentyn a oedd ag anghenion addysgol arbennig a nodwyd ar 1 Medi 2022 neu riant y plentyn hwnnw ofyn i’r awdurdod lleol priodol roi hysbysiad CDU neu hysbysiad Dim CDU a rhaid i’r awdurdod lleol roi naill ai hysbysiad CDU neu hysbysiad Dim CDU o fewn 15 niwrnod gwaith i’r cais.
+Gwybodaeth Cychwyn
+I1
+Ergl. 11 mewn grym ar y dyddiad gwneudAmser ar gyfer rhoi cynllun datblygu unigol
+12.—(1) Pan fo hysbysiad CDU wedi ei roi yn unol ag erthyglau 9, [F19A,] 10 neu 11 rhaid i’r awdurdod lleol priodol roi copi o’r cynllun datblygu unigol i’r plentyn a rhiant y plentyn o fewn 12 wythnos i ddyddiad yr hysbysiad, oni bai—
+(a)
+bod amgylchiadau eithriadol,
+(b)
+bod adran 31 o’r Ddeddf yn gymwys.
+(2) Os oes amgylchiadau eithriadol, rhaid rhoi copi o’r cynllun datblygu unigol cyn gynted ag y bo’n rhesymol ymarferol.
+(3) Nid yw unrhyw amserlenni yn y cod sy’n ymwneud â llunio cynllun datblygu unigol gan awdurdod lleol yn gymwys pan fo cynllun datblygu unigol wedi ei lunio yn dilyn rhoi hysbysiad CDU.
+Diwygiadau Testunol
+F1
+Gair yn ergl. 12(1) wedi ei fewnosod (21.8.2023) gan Gorchymyn Deddf Anghenion Dysgu Ychwanegol a’r Tribiwnlys Addysg (Cymru) 2018 (Diwygio Gorchmynion Cychwyn Rhif 5, Rhif 6, Rhif 8, Rhif 13 a Rhif 14) 2023 (O.S. 2023/932), ergl. 6(4)
+Gwybodaeth Cychwyn
+I1
+Ergl. 12 mewn grym ar y dyddiad gwneudHysbysiad ADY
+13.—(1) Mae’r erthygl hon yn gymwys i blentyn a oedd ag anghenion addysgol arbennig a nodwyd ar 1 Medi 2022.
+(2) Yn ddarostyngedig i baragraff (4), caiff yr awdurdod lleol priodol roi hysbysiad ADY i blentyn a rhiant y plentyn hwnnw ar unrhyw adeg.
+(3) Effaith yr hysbysiad ADY yw—
+(a)
+bod y gyfraith newydd yn gymwys mewn perthynas â’r plentyn ar ddyddiad yr hysbysiad, a
+(b)
+bod yr hen gyfraith yn peidio â bod yn gymwys mewn perthynas â’r plentyn ar ddyddiad yr hysbysiad.
+(4) Ni chaiff yr awdurdod lleol priodol ond rhoi hysbysiad ADY o dan amgylchiadau eithriadol.
+Gwybodaeth Cychwyn
+I1
+Ergl. 13 mewn grym ar y dyddiad gwneudPlant nad yw’r gyfraith newydd yn gymwys iddynt erbyn dyddiad penodol
+14.—(1) Mae’r erthygl hon yn gymwys i blentyn—
+(a)
+a oedd ag anghenion addysgol arbennig a nodwyd ar 1 Medi 2022,
+(b)
+a oedd mewn dosbarth meithrin, neu mewn dosbarth derbyn, neu ym mlwyddyn 2, blwyddyn 4, blwyddyn 6, blwyddyn 8, blwyddyn 10 neu flwyddyn 11 yn ystod y flwyddyn ysgol 2022-2023, [F1neu a fyddai mewn dosbarth meithrin neu yn unrhyw un o’r grwpiau blwyddyn hynny pe bai’r plentyn yn ddisgybl cofrestredig mewn ysgol a gynhelir,] ac
+(c)
+nad yw’r gyfraith newydd yn gymwys mewn perthynas ag ef ar 30 Awst 2023.
+(2) Ar 31 Awst 2023—
+(a)
+mae’r gyfraith newydd yn gymwys mewn perthynas â’r plentyn, a
+(b)
+mae’r hen gyfraith yn peidio â bod yn gymwys mewn perthynas â’r plentyn.
+Diwygiadau Testunol
+F1
+Geiriau yn ergl. 14(1)(b) wedi eu mewnosod (21.8.2023) gan Gorchymyn Deddf Anghenion Dysgu Ychwanegol a’r Tribiwnlys Addysg (Cymru) 2018 (Diwygio Gorchmynion Cychwyn Rhif 5, Rhif 6, Rhif 8, Rhif 13 a Rhif 14) 2023 (O.S. 2023/932), ergl. 6(5)
+Gwybodaeth Cychwyn
+I1
+Ergl. 14 mewn grym ar y dyddiad gwneud[F114A.—(1) Mae’r erthygl hon yn gymwys i blentyn—
+(a)
+a oedd ag anghenion addysgol arbennig a nodwyd ar 1 Medi 2022,
+(b)
+a oedd ym mlwyddyn 6 neu ym mlwyddyn 10 yn ystod y flwyddyn ysgol 2023-2024 neu a fyddai yn y naill neu’r llall o’r grwpiau blwyddyn hynny pe bai’r plentyn yn ddisgybl cofrestredig mewn ysgol a gynhelir, ac
+(c)
+nad yw’r gyfraith newydd yn gymwys mewn perthynas ag ef ar 30 Awst 2024.
+(2) Ar 31 Awst 2024—
+(a)
+mae’r gyfraith newydd yn gymwys mewn perthynas â’r plentyn, a
+(b)
+mae’r hen gyfraith yn peidio â bod yn gymwys mewn perthynas â’r plentyn.]
+Diwygiadau Testunol
+F1
+Ergl. 14A wedi ei fewnosod (21.8.2023) gan Gorchymyn Deddf Anghenion Dysgu Ychwanegol a’r Tribiwnlys Addysg (Cymru) 2018 (Diwygio Gorchmynion Cychwyn Rhif 5, Rhif 6, Rhif 8, Rhif 13 a Rhif 14) 2023 (O.S. 2023/932), ergl. 6(6)15.—(1) Mae’r erthygl hon yn gymwys i blentyn—
+(a)
+a oedd ag anghenion addysgol arbennig a nodwyd ar 1 Medi 2022, a
+(b)
+nad yw’r gyfraith newydd yn gymwys mewn perthynas ag ef ar 30 Awst [F12025].
+(2) Ar 31 Awst [F12025]—
+(a)
+mae’r gyfraith newydd yn gymwys mewn perthynas â’r plentyn, a
+(b)
+mae’r hen gyfraith yn peidio â bod yn gymwys mewn perthynas â’r plentyn.
+Diwygiadau Testunol
+F1
+Geiriau yn ergl. 15 wedi eu mewnosod (21.8.2023) gan Gorchymyn Deddf Anghenion Dysgu Ychwanegol a’r Tribiwnlys Addysg (Cymru) 2018 (Diwygio Gorchmynion Cychwyn Rhif 5, Rhif 6, Rhif 8, Rhif 13 a Rhif 14) 2023 (O.S. 2023/932), ergl. 6(7)
+Gwybodaeth Cychwyn
+I1
+Ergl. 15 mewn grym ar y dyddiad gwneudNewid mewn amgylchiadau
+16.—(1) Mae’r erthygl hon yn gymwys i blentyn a oedd ag anghenion addysgol arbennig a nodwyd ar 1 Medi 2022—
+(a)
+sy’n peidio â bod yn ddisgybl cofrestredig neu’n fyfyriwr sydd wedi ymrestru mewn sefydliad arall (a bod y sefydliad hwnnw yn ysgol neu’n sefydliad yn y sector addysg bellach),
+(b)
+nad yw’n blentyn sy’n derbyn gofal,
+(c)
+nad oes cais wedi ei wneud am hysbysiad CDU nac hysbysiad Dim CDU ar ei gyfer, a
+(d)
+y mae’r hen gyfraith yn gymwys mewn perthynas ag ef.
+(2) Ar y dyddiad y mae’r plentyn yn peidio â bod yn ddisgybl cofrestredig neu’n fyfyriwr sydd wedi ymrestru mewn sefydliad arall—
+(a)
+mae’r gyfraith newydd yn gymwys mewn perthynas â’r plentyn, a
+(b)
+mae’r hen gyfraith yn peidio â bod yn gymwys mewn perthynas â’r plentyn.
+Gwybodaeth Cychwyn
+I1
+Ergl. 16 mewn grym ar y dyddiad gwneudNewid mewn amgylchiadau
+17.—(1) Mae’r erthygl hon yn gymwys i blentyn a oedd ag anghenion addysgol arbennig a nodwyd ar 1 Medi 2022—
+(a)
+sy’n peidio â bod yn blentyn sy’n derbyn gofal,
+(b)
+nad oes cais wedi ei wneud am hysbysiad CDU nac hysbysiad Dim CDU ar ei gyfer, ac
+(c)
+y mae’r hen gyfraith yn gymwys mewn perthynas ag ef.
+(2) Ar y dyddiad y mae’r plentyn yn peidio â bod yn blentyn sy’n derbyn gofal—
+(a)
+mae’r gyfraith newydd yn gymwys mewn perthynas â’r plentyn, a
+(b)
+mae’r hen gyfraith yn peidio â bod yn gymwys mewn perthynas â’r plentyn.
+Gwybodaeth Cychwyn
+I1
+Ergl. 17 mewn grym ar y dyddiad gwneudNewid mewn amgylchiadau
+18.—(1) Mae’r erthygl hon yn gymwys i blentyn a oedd ag anghenion addysgol arbennig a nodwyd ar 1 Medi 2022—
+(a)
+sy’n peidio â bod yn blentyn sy’n cael ei addysgu ac eithrio yn yr ysgol,
+(b)
+nad yw’n blentyn sy’n derbyn gofal,
+(c)
+nad oes cais wedi ei wneud am hysbysiad CDU nac hysbysiad Dim CDU ar ei gyfer, a
+(d)
+y mae’r hen gyfraith yn gymwys mewn perthynas ag ef.
+(2) Ar y dyddiad y mae’r plentyn yn peidio â bod yn blentyn sy’n cael ei addysgu ac eithrio yn yr ysgol—
+(a)
+mae’r gyfraith newydd yn gymwys mewn perthynas â’r plentyn, a
+(b)
+mae’r hen gyfraith yn peidio â bod yn gymwys mewn perthynas â’r plentyn.
+Gwybodaeth Cychwyn
+I1
+Ergl. 18 mewn grym ar y dyddiad gwneudSylw i ddarpariaeth addysgol arbennig wrth lunio cynllun datblygu unigol
+19.  Pan fo’n ofynnol i awdurdod lleol lunio cynllun datblygu unigol ar gyfer plentyn o fewn 12 wythnos i symud i’r gyfraith newydd, rhaid i’r awdurdod lleol roi sylw i’r ddarpariaeth addysgol arbennig a ddarparwyd i’r plentyn yn union cyn symud i’r gyfraith newydd.
+Gwybodaeth Cychwyn
+I1
+Ergl. 19 mewn grym ar y dyddiad gwneudGalluedd plant
+20.—(1) Yn ddarostyngedig i baragraff (2), mae paragraff (3) yn gymwys i blentyn a oedd ag anghenion addysgol arbennig a nodwyd ar 1 Medi 2022.
+(2) Nid oes dim yn yr erthygl hon sy’n gymwys i berson pan fydd y person hwnnw yn peidio â bod o oedran ysgol gorfodol.
+(3) Nid yw dyletswydd ym mharagraff (4) na’r pŵer ym mharagraff (5) yn gymwys os yw’r person priodol yn ystyried nad oes gan y plentyn alluedd i ddeall y mater o dan sylw.
+(4) Y dyletswyddau y cyfeirir atynt ym mharagraff (3) yw—
+(a)
+y ddyletswydd i roi hysbysiad CDU neu hysbysiad Dim CDU i blentyn yn erthyglau 9(2) [F1, 9A(2),] a 10(2);
+(b)
+y ddyletswydd i roi hysbysiad yn dilyn cais gan blentyn o dan erthygl 11;
+(c)
+y ddyletswydd i roi copi o’r cynllun datblygu unigol i blentyn o fewn 12 wythnos yn erthygl 12(1).
+(5) Y pŵer y cyfeirir ato ym mharagraff (3) yw’r pŵer i roi hysbysiad ADY i blentyn yn erthygl 13.
+(6) Pan fo paragraff (3) yn gymwys mewn perthynas â dyletswydd ym mharagraff (4)(a) neu (b), mae’r cyfeiriad cyntaf at blentyn yn erthygl 5 i’w ddarllen fel pe bai wedi ei hepgor.
+(7) Pan fo paragraff (3) yn gymwys mewn perthynas â dyletswydd ym mharagraff (4)(a) neu (b), mae’r cyfeiriad cyntaf at blentyn yn erthygl 6 i’w ddarllen fel pe bai wedi ei hepgor.
+Diwygiadau Testunol
+F1
+Gair yn ergl. 20(4)(a) wedi ei fewnosod (21.8.2023) gan Gorchymyn Deddf Anghenion Dysgu Ychwanegol a’r Tribiwnlys Addysg (Cymru) 2018 (Diwygio Gorchmynion Cychwyn Rhif 5, Rhif 6, Rhif 8, Rhif 13 a Rhif 14) 2023 (O.S. 2023/932), ergl. 6(8)
+Gwybodaeth Cychwyn
+I1
+Ergl. 20 mewn grym ar y dyddiad gwneudPlant sy’n dod yn bersonau ifanc cyn bod y gyfraith newydd yn gymwys
+21.—(1) Mae paragraff (2) yn gymwys i blentyn a oedd ag anghenion addysgol arbennig a nodwyd ar 1 Medi 2022.
+(2) Nid yw dyletswydd ym mharagraff (3) na phŵer ym mharagraff (4) yn gymwys pan fydd person yn peidio â bod o oedran ysgol gorfodol.
+(3) Y dyletswyddau y cyfeirir atynt ym mharagraff (2) yw—
+(a)
+y ddyletswydd i roi hysbysiad CDU neu hysbysiad Dim CDU i riant yn erthyglau 9(2) [F1, 9A(2),] a 10(2);
+(b)
+y ddyletswydd i roi hysbysiad yn dilyn cais gan riant o dan erthygl 11;
+(c)
+y ddyletswydd i roi copi o’r cynllun datblygu unigol i riant o fewn 12 wythnos yn erthygl 12(1).
+(4) Y pwerau y cyfeirir atynt ym mharagraff (2) yw—
+(a)
+y pŵer i riant ofyn am hysbysiad CDU neu hysbysiad Dim CDU yn erthygl 11;
+(b)
+y pŵer i roi hysbysiad ADY i riant yn erthygl 13.
+(5) Pan fo paragraff (2) yn gymwys mewn perthynas â dyletswydd ym mharagraff (3)(a) neu (b), mae’r cyfeiriad cyntaf at riant plentyn yn erthygl 5 i’w ddarllen fel pe bai wedi ei hepgor.
+(6) Pan fo paragraff (2) yn gymwys mewn perthynas â dyletswydd ym mharagraff (3)(a) neu (b), mae’r cyfeiriad cyntaf at riant plentyn yn erthygl 6 i’w ddarllen fel pe bai wedi ei hepgor.
+Diwygiadau Testunol
+F1
+Gair yn ergl. 21(3)(a) wedi ei fewnosod (21.8.2023) gan Gorchymyn Deddf Anghenion Dysgu Ychwanegol a’r Tribiwnlys Addysg (Cymru) 2018 (Diwygio Gorchmynion Cychwyn Rhif 5, Rhif 6, Rhif 8, Rhif 13 a Rhif 14) 2023 (O.S. 2023/932), ergl. 6(9)
+Gwybodaeth Cychwyn
+I1
+Ergl. 21 mewn grym ar y dyddiad gwneudJeremy Miles
+Gweinidog y Gymraeg ac Addysg, un o Weinidogion Cymru
+16 Awst 2022NODYN ESBONIADOL
+(Nid yw’r nodyn hwn yn rhan o’r Gorchymyn)
+Mae’r Gorchymyn hwn yn dwyn i rym ddarpariaethau yn Neddf Anghenion Dysgu Ychwanegol a’r Tribiwnlys Addysg (Cymru) 2018 (“y Ddeddf”).
+Mae’r Ddeddf yn sefydlu fframwaith statudol ar gyfer cefnogi plant a phobl ifanc ag anghenion dysgu ychwanegol. Mae hyn yn disodli’r ddeddfwriaeth sy’n ymwneud ag anghenion addysgol arbennig ac asesu plant a phobl ifanc ag anawsterau dysgu.
+Daw’r darpariaethau a restrir yn erthygl 3 i rym ar 1 Medi 2022 mewn perthynas â’r rheini sydd ym mlwyddyn 11 ac is, sydd ag anghenion addysgol arbennig penodol a nodwyd ac sydd—
+(a)
+yn blant sy’n derbyn gofal,
+(b)
+yn mynychu ysgol a gynhelir ac sydd hefyd wedi eu cofrestru mewn sefydliad arall, neu
+(c)
+yn cael eu haddysgu ac eithrio yn yr ysgol yn unol â threfniadau a wneir gan awdurdod lleol yng Nghymru.
+Mae’n eithrio rhai eraill sy’n ymwneud â’r fframwaith statudol presennol, gan gynnwys y rheini sydd â datganiad anghenion addysgol arbennig (erthygl 2).
+Mae erthygl 1 yn cynnwys diffiniadau, gan gynnwys y “gyfraith newydd” yn y Ddeddf a’r “hen gyfraith” yn Rhan 4 o Ddeddf Addysg 1996. Hyd nes y caiff plentyn ei drosglwyddo i’r gyfraith newydd, bydd yr hen gyfraith yn parhau i fod yn gymwys i’r plentyn ac ni fydd y gyfraith newydd yn cael effaith (erthygl 4).
+Mae’r Gorchymyn hwn yn ei gwneud yn ofynnol i’r awdurdod lleol priodol (gweler erthygl 1(7)) roi hysbysiad i blentyn mewn grŵp blwyddyn penodol mewn blwyddyn ysgol benodol (erthyglau 9 a 10). Er enghraifft, bydd plentyn sydd mewn dosbarth meithrin, neu sydd mewn dosbarth derbyn, neu sydd ym mlwyddyn 2, 4, 6, 8, 10 neu 11 yn trosglwyddo i’r gyfraith newydd yn ystod y flwyddyn ysgol 2022-2023. Dyddiad yr hysbysiad a roddir i blentyn penodol fydd y dyddiad y mae’r plentyn yn trosglwyddo i’r gyfraith newydd.
+Caiff yr awdurdod lleol priodol roi hysbysiad CDU neu hysbysiad Dim CDU i’r plentyn. Mae hysbysiad CDU yn golygu y bernir bod gan y plentyn anghenion dysgu ychwanegol at ddibenion Pennod 2 o Ran 2 o’r Ddeddf ar ddyddiad yr hysbysiad ac y bwriedir llunio cynllun datblygu unigol ar gyfer y plentyn (erthygl 5). Mae hysbysiad Dim CDU yn golygu y bernir nad oes gan y plentyn anghenion dysgu ychwanegol at ddibenion Pennod 2 o Ran 2 o’r Ddeddf ar ddyddiad yr hysbysiad (erthygl 6).
+Caiff plentyn ag anghenion addysgol arbennig a nodwyd neu riant y plentyn ofyn bod hysbysiad yn cael ei roi (erthygl 11). Pan fo cynllun datblygu unigol wedi ei lunio yn dilyn hysbysiad CDU, rhaid rhoi copi o’r cynllun datblygu unigol i’r plentyn a rhiant y plentyn o fewn 12 wythnos i ddyddiad yr hysbysiad oni bai bod amgylchiadau eithriadol yn gymwys (erthygl 12).
+Caiff yr awdurdod lleol priodol hefyd, o dan amgylchiadau eithriadol, roi i unrhyw blentyn a rhiant y plentyn hwnnw hysbysiad ADY a fydd yn trosglwyddo’r plentyn i’r gyfraith newydd (erthygl 13).
+Os nad yw’r plentyn wedi trosglwyddo i’r gyfraith newydd erbyn diwedd y flwyddyn ysgol y dylai’r plentyn fod wedi trosglwyddo, mae’r hen gyfraith yn peidio â chael effaith ac mae’r gyfraith newydd yn cael effaith ar ddiwrnod olaf y flwyddyn ysgol berthnasol (erthyglau 14 i 15).
+Mae erthygl 16 yn gymwys pan fo plentyn yn peidio â bod yn ddisgybl cofrestredig neu’n fyfyriwr sydd wedi ymrestru mewn sefydliad arall ac na fo’n derbyn gofal. Bydd y plentyn yn trosglwyddo i’r gyfraith newydd ar y dyddiad y mae’r plentyn yn peidio â bod yn ddisgybl cofrestredig neu’n fyfyriwr sydd wedi ymrestru mewn sefydliad arall.
+Mae erthygl 17 yn gymwys i blentyn sy’n peidio â derbyn gofal. Bydd y plentyn yn trosglwyddo i’r gyfraith newydd ar y dyddiad y mae’r plentyn yn peidio â derbyn gofal gan yr awdurdod lleol.
+Mae erthygl 18 yn gymwys i blentyn sy’n peidio â chael ei addysgu ac eithrio yn yr ysgol. Bydd y plentyn yn trosglwyddo i’r gyfraith newydd ar y dyddiad y mae’r plentyn yn peidio â chael ei addysgu ac eithrio yn yr ysgol.
+Wrth lunio cynllun datblygu unigol ar gyfer plentyn ag anghenion addysgol arbennig a nodwyd, o dan amgylchiadau penodol, rhaid rhoi sylw i’r ddarpariaeth addysgol arbennig yr oedd y plentyn yn ei chael yn union cyn trosglwyddo i’r gyfraith newydd (erthygl 19).
+Mae erthygl 20 yn adlewyrchu, at ddibenion y Gorchymyn hwn, adran 84 o’r Ddeddf sy’n darparu nad yw dyletswyddau ac amodau penodol mewn perthynas â phlant (e.e. i roi copi o gynllun datblygu unigol i blentyn) yn gymwys os ystyrir nad oes gan y plentyn alluedd i ddeall y mater o dan sylw.
+Mae erthygl 21 yn darparu nad yw dyletswyddau ac amodau penodol mewn perthynas â rhieni yn y Gorchymyn hwn (e.e. i roi hysbysiad CDU neu hysbysiad Dim CDU i riant) yn gymwys pan fydd y plentyn yn peidio â bod o oedran ysgol gorfodol.NODYN AM Y GORCHMYNION CYCHWYN CYNHARACH
+Mae’r darpariaethau a ganlyn o’r Ddeddf wedi eu dwyn i rym drwy Orchymynion Cychwyn a wnaed cyn dyddiad y Gorchymyn hwn(1):
+Ddarpariaeth Y Dyddiad Cychwyn Rhif O.S.
+Adrannau 2 i 3 (yn rhannol) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+1 Ionawr 2022
+O.S. 2021/1243 (Cy. 315) (C. 68)(2)
+O.S. 2021/1244 (Cy. 316) (C. 69)(3)
+O.S. 2021/1245 (W. 317) (C. 70)
+Adran 4 (yn rhannol) 2 Tachwedd 2020 O.S. 2020/1182 (Cy. 267) (C. 33)
+1 Medi 2021 O.S. 2021/373 (Cy. 116)( C. 12)
+1 Ionawr 2022
+O.S. 2021/1243 (Cy. 315) (C. 68)
+O.S. 2021/1244 (Cy. 316) (C. 69)
+O.S. 2021/1245 (Cy. 317) (C. 70)
+Adran 5 2 Tachwedd 2020 O.S. 2020/1182 (Cy. 267) (C. 33)
+Adran 6 (yn rhannol) 1 Medi 2021 O.S. 2021/373 (Cy. 116)(C. 12)
+1 Ionawr 2022
+O.S. 2021/1243 (Cy. 315) (C. 68)
+O.S. 2021/1244 (Cy. 316) (C. 69)
+O.S. 2021/1245 (Cy. 317) (C. 70)
+Adran 7 (yn rhannol) 2 Tachwedd 2020 O.S. 2020/1182 (Cy. 267) (C. 33)
+1 Medi 2021 O.S. 2021/373 (Cy. 116)(C. 12)
+1 Ionawr 2022
+O.S. 2021/1243 (Cy. 315) (C. 68)
+O.S. 2021/1244 (Cy. 316) (C. 69)
+O.S. 2021/1245 (Cy. 317) (C. 70)
+Adran 8 (yn rhannol) 2 Tachwedd 2020 O.S. 2020/1182 (Cy. 267) (C. 33)
+1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+1 Ionawr 2022
+O.S. 2021/1243 (Cy. 315) (C. 68)
+O.S. 2021/1244 (Cy. 316) (C. 69)
+O.S. 2021/1245 (Cy. 317) (C. 70)
+Adrannau 9 i 14 (yn rhannol) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+1 Ionawr 2022
+O.S. 2021/1243 (Cy. 315) (C. 68)
+O.S. 2021/1244 (Cy. 316) (C. 69)
+O.S. 2021/1245 (Cy. 317) (C. 70)
+Adran 15 2 Tachwedd 2020 O.S. 2020/1182 (Cy. 267) (C. 33)
+Adran 16 (yn rhannol) 2 Tachwedd 2020 O.S. 2020/1182 (Cy. 267) (C. 33)
+(yn llawn) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12) (4)
+Adrannau 17 i 20 (yn rhannol) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+1 Ionawr 2022
+O.S. 2021/1243 (Cy. 315) (C. 68)
+O.S. 2021/1244 (Cy. 316) (C. 69)
+O.S. 2021/1245 (Cy. 317) (C. 70)
+Adran 21 (yn rhannol) 2 Tachwedd 2020 O.S. 2020/1182 (Cy. 267) (C. 33)
+1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+1 Ionawr 2022
+O.S. 2021/1243 (Cy. 315) (C. 68)
+O.S. 2021/1244 (Cy. 316) (C. 69)
+O.S. 2021/1245 (Cy. 317) (C. 70)
+Adrannau 22 i 31 (yn rhannol) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+1 Ionawr 2022
+O.S. 2021/1243 (Cy. 315) (C. 68)
+O.S. 2021/1244 (Cy. 316)(C. 69)
+O.S. 2021/1245 (Cy. 317) (C. 70)
+Adran 32 (yn rhannol) 2 Tachwedd 2020 O.S. 2020/1182 (Cy. 267) (C. 33)
+1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+1 Ionawr 2022
+O.S. 2021/1243 (Cy. 315) (C. 68)
+O.S. 2021/1244 (Cy. 316) (C. 69)
+O.S. 2021/1245 (Cy. 317) (C. 70)
+Adrannau 33 i 35 (yn rhannol) 1 Medi 2021 O.S. 2021/373 (Cy. 116)(C. 12)
+1 Ionawr 2022
+O.S. 2021/1243 (Cy. 315) (C. 68)
+O.S. 2021/1244 (Cy. 316) (C. 69)
+O.S. 2021/1245 (Cy. 317) (C. 70)
+Adran 36 (yn rhannol) 2 Tachwedd 2020 O.S. 2020/1182 (Cy. 267) (C. 33)
+1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+1 Ionawr 2022
+O.S. 2021/1243 (Cy. 315) (C. 68)
+O.S. 2021/1244 (Cy. 316) (C. 69)
+O.S. 2021/1245 (Cy. 317) (C. 70)
+Adran 37 2 Tachwedd 2020 O.S. 2020/1182 (Cy. 267) (C. 33)
+Adran 38 (yn rhannol) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+1 Ionawr 2022
+O.S. 2021/1243 (Cy. 315) (C. 68)
+O.S. 2021/1244 (Cy. 316) (C. 69)
+O.S. 2021/1245 (Cy. 317) (C. 70)
+Adran 39 2 Tachwedd 2020 O.S. 2020/1182 (Cy. 267) (C. 33)
+Adrannau 40 i 44 (yn rhannol) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+1 Ionawr 2022
+O.S. 2021/1243 (Cy. 315) (C. 68)
+O.S. 2021/1244 (Cy. 316) (C. 69)
+O.S. 2021/1245 (Cy. 317) (C. 70)
+Adran 45 2 Tachwedd 2020 O.S. 2020/1182 (Cy. 267) (C. 33)
+Adran 46 2 Tachwedd 2020 O.S. 2020/1182 (Cy. 267) (C. 33)
+Adran 47 (yn rhannol) 2 Tachwedd 2020 O.S. 2020/1182 (Cy. 267) (C. 33)
+1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+1 Ionawr 2022
+O.S. 2021/1243 (Cy. 315) (C. 68)
+O.S. 2021/1244 (Cy. 316) (C. 69)
+O.S. 2021/1245 (Cy. 317) (C. 70)
+Adrannau 48 i 49 (yn rhannol) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+1 Ionawr 2022
+O.S. 2021/1243 (Cy. 315) (C. 68)
+O.S. 2021/1244 (Cy. 316) (C. 69)
+O.S. 2021/1245 (Cy. 317) (C. 70)
+Adran 50(1), (4) a (5) (yn rhannol) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+1 Ionawr 2022
+O.S. 2021/1243 (Cy. 315) (C. 68)
+O.S. 2021/1244 (Cy. 316) (C. 69)
+O.S. 2021/1245 (Cy. 317) (C. 70)
+Adran 50(1), (2) a (3) (yn llawn) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+Adrannau 51 i 53 (yn rhannol) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+1 Ionawr 2022
+O.S. 2021/1243 (Cy. 315) (C. 68)
+O.S. 2021/1244 (Cy. 316) (C. 69)
+O.S. 2021/1245 (Cy. 317) (C. 70)
+Adran 54 (yn rhannol) 2 Tachwedd 2020 O.S. 2020/1182 (Cy. 267) (C. 33)
+(yn llawn) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+Adran 55 (yn rhannol) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+1 Ionawr 2022
+O.S. 2021/1243 (Cy. 315) (C. 68)
+O.S. 2021/1244 (Cy. 316) (C. 69)
+O.S. 2021/1245 (Cy. 317) (C. 70)
+Adran 56 (yn rhannol) 2 Tachwedd 2020 O.S. 2020/1182 (Cy. 267) (C. 33)
+(yn llawn) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+Adran 56(1) 4 Ionawr 2021 O.S. 2020/1182 (Cy. 267) (C. 33)
+Adran 56(4) i (6) 4 Ionawr 2021 O.S. 2020/1182 (Cy. 267) (C. 33)
+Adrannau 57 i 58 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+Adran 59 (yn rhannol) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+1 Ionawr 2022
+O.S. 2021/1243 (Cy. 315) (C. 68)
+O.S. 2021/1244 (Cy. 316) (C. 69)
+O.S. 2021/1245 (Cy. 317) (C. 70)
+Adran 60 4 Ionawr 2021 O.S. 2020/1182 (Cy. 267) (C. 33)
+Adran 61 4 Ionawr 2021 O.S. 2020/1182 (Cy. 267) (C. 33)
+Adran 62 4 Ionawr 2021 O.S. 2020/1182 (Cy. 267) (C. 33)
+Adrannau 63 i 64 (yn rhannol) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+1 Ionawr 2022
+O.S. 2021/1243 (Cy. 315) (C. 68)
+O.S. 2021/1244 (Cy. 316) (C. 69)
+O.S. 2021/1245 (Cy. 317) (C. 70)
+Adran 65 (yn rhannol) 2 Tachwedd 2020 O.S. 2020/1182 (Cy. 267) (C. 33)
+1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+1 Ionawr 2022
+O.S. 2021/1243 (Cy. 315) (C. 68)
+O.S. 2021/1244 (Cy. 316) (C. 69)
+O.S. 2021/1245 (Cy. 317) (C. 70)
+Adran 66 (yn rhannol) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+1 Ionawr 2022
+O.S. 2021/1243 (Cy. 315) (C. 68)
+O.S. 2021/1244 (Cy. 316) (C. 69)
+O.S. 2021/1245 (Cy. 317) (C. 70)
+Adran 67 2 Tachwedd 2020 O.S. 2020/1182 (Cy. 267) (C. 33)
+Adrannau 68 i 69 (yn rhannol) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+1 Ionawr 2022
+O.S. 2021/1243 (Cy. 315) (C. 68)
+O.S. 2021/1244 (Cy. 316) (C. 69)
+O.S. 2021/1245 (Cy. 317) (C. 70)
+Adrannau 70 i 73 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+Adran 74 2 Tachwedd 2020 O.S. 2020/1182 (Cy. 267) (C. 33)
+Adran 75 (yn rhannol) 2 Tachwedd 2020 O.S. 2020/1182 (Cy. 267) (C. 33)
+(yn llawn) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+Adran 76 (yn rhannol) 2 Tachwedd 2020 O.S. 2020/1182 (Cy. 267) (C. 33)
+(yn llawn) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+Adran 77 (yn rhannol) 2 Tachwedd 2020 O.S. 2020/1182 (Cy. 267) (C. 33)
+(yn llawn) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+Adrannau 78 i 81 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+Adran 82 2 Tachwedd 2020 O.S. 2020/1182 (Cy. 267) (C. 33)
+Adran 83 (yn rhannol) 2 Tachwedd 2020 O.S. 2020/1182 (Cy. 267) (C. 33)
+(yn llawn) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+Adran 84 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+Adran 85 (yn rhannol) 2 Tachwedd 2020 O.S. 2020/1182 (Cy. 267) (C. 33)
+(yn llawn) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+Adrannau 86 i 90 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+Adran 91 (yn rhannol) 2 Tachwedd 2020 O.S. 2020/1182 (Cy. 267) (C. 33)
+(yn llawn) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+Adran 92 (yn rhannol) 2 Tachwedd 2020 O.S. 2020/1182 (Cy. 267) (C. 33)
+(yn llawn) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+Adrannau 93 i 94 1 Medi 2021 O.S. 2021/373 (Cy. 116)(C. 12)
+Adran 95 (yn rhannol) 2 Tachwedd 2020 O.S. 2020/1182 (Cy. 267) (C. 33)
+(yn llawn) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+Adran 96 (yn rhannol) 2 Tachwedd 2020 O.S. 2020/1182 (Cy. 267) (C. 33)
+1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+1 Ionawr 2022
+O.S. 2021/1243 (Cy. 315) (C. 68)
+O.S. 2021/1244 (Cy. 316) (C. 69)
+O.S. 2021/1245 (Cy. 317) (C. 70)
+Yr Atodlen, paragraff 1 (yn rhannol) 1 Medi 2021 O.S. 2021/373 (Cy. 116)(C. 12)
+1 Ionawr 2022
+O.S. 2021/1243 (Cy. 315) (C. 68)
+O.S. 2021/1244 (Cy. 316) (C. 69)
+O.S. 2021/1245 (Cy. 317) (C. 70)
+Yr Atodlen, paragraff 2(1), 2(2)(b) a 2(3) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+Yr Atodlen, paragraff 3 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+Yr Atodlen, paragraff 4(1), 4(2) i 4(8), 4(9), 4(10), 4(13) i 4(18), 4(19)(b), 4(20), 4(21), 4(23) i 4(29), 4(32)(a)(i) a (ii), 4(32)(b) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+(yn rhannol) 1 Ionawr 2022
+O.S. 2021/1243 (Cy. 315) (C. 68)
+O.S. 2021/1244 (Cy. 316) (C. 69)
+O.S. 2021/1245 (Cy. 317) (C. 70)
+Yr Atodlen, paragraff 4(9) (i’r graddau y mae’n hepgor adrannau 333(1ZA), 333(2) i 333(6) a 334 i 335), 4(12), 4(19)(a), 4(22), 4(30)(a)(ii), 4(30)(b), 4(31), 4(32)(a)(iii), 4(33)(a), 4(33)(b) (i’r graddau y mae’n hepgor diffiniadau penodol), 4(33)(d), 4(33)(e) a 4(33)(g) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+Yr Atodlen, paragraff 6(d)(v), 6(f), 6(g), 6(j)(i), 6(l)(i), 6(l)(iii), 6(n)(ii) (i’r graddau y mae’n hepgor paragraff 11 o Atodlen 2), a 6(t) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+Yr Atodlen, paragraff 7 (yn rhannol) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+1 Ionawr 2022
+O.S. 2021/1243 (Cy. 315) (C. 68)
+O.S. 2021/1244 (Cy. 316) (C. 69)
+O.S. 2021/1245 (Cy. 317) (C. 70)
+Yr Atodlen, paragraff 8 (yn rhannol) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+1 Ionawr 2022
+O.S. 2021/1243 (Cy. 315) (C. 68)
+O.S. 2021/1244 (Cy. 316) (C. 69)
+O.S. 2021/1245 (Cy. 317) (C. 70)
+Yr Atodlen, paragraffau 9 a 10 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+Yr Atodlen, paragraff 11(a) (yn rhannol) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+1 Ionawr 2022
+O.S. 2021/1243 (Cy. 315) (C. 68)
+O.S. 2021/1244 (Cy. 316) (C. 69)
+O.S. 2021/1245 (Cy. 317) (C. 70)
+Yr Atodlen, paragraff 11(b) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+Yr Atodlen, paragraff 12(a) (yn rhannol) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+1 Ionawr 2022
+O.S. 2021/1243 (Cy. 315) (C. 68)
+O.S. 2021/1244 (Cy. 316) (C. 69)
+O.S. 2021/1245 (Cy. 317) (C. 70)
+Yr Atodlen, paragraff 12(b) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+Yr Atodlen, paragraff 13 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+Yr Atodlen, paragraff 14(1) i (3) (yn rhannol) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+1 Ionawr 2022
+O.S. 2021/1243 (Cy. 315) (C. 68)
+O.S. 2021/1244 (Cy. 316) (C. 69)
+O.S. 2021/1245 (Cy. 317) (C. 70)
+Yr Atodlen, paragraff 14(1) a 14(4) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+Yr Atodlen, paragraff 15(1) a 15(3) i 15(4) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+Yr Atodlen, paragraffau 17 a 18 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+Yr Atodlen, paragraff 19(1), (2), (3), (5)(a) i (d), (5)(e)(i), (5)(f) a (6) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+Yr Atodlen, paragraff 19(1), (4) a (5)(g) ac (h) (yn rhannol) 2 Tachwedd 2020 O.S. 2020/1182 (Cy. 267) (C. 33)
+(yn llawn) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+Yr Atodlen, paragraff 19(1), (5)(e)(ii) (yn rhannol) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+1 Ionawr 2022
+O.S. 2021/1243 (Cy. 315) (C. 68)
+O.S. 2021/1244 (Cy. 316) (C. 69)
+O.S. 2021/1245 (Cy. 317) (C. 70)
+Yr Atodlen, paragraff 20 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+Yr Atodlen, paragraff 21(1), (2)(a)(i) a (2)(b)(ii) (yn rhannol) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+1 Ionawr 2022
+O.S. 2021/1243 (Cy. 315) (C. 68)
+O.S. 2021/1244 (Cy. 316) (C. 69)
+O.S. 2021/1245 (Cy. 317) (C. 70)
+Yr Atodlen, paragraff 21(1) ac 21(b)(i) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+Yr Atodlen, paragraff 22 (yn rhannol) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+1 Ionawr 2022
+O.S. 2021/1243 (Cy. 315) (C. 68)
+O.S. 2021/1244 (Cy. 316) (C. 69)
+O.S. 2021/1245 (Cy. 317) (C. 70)
+Yr Atodlen, paragraff 23(1), 23(3)(a) i (c) a (5) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+Yr Atodlen, paragraff 23(1) a (4) (yn rhannol) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+1 Ionawr 2022
+O.S. 2021/1243 (Cy. 315) (C. 68)
+O.S. 2021/1244 (Cy. 316) (C. 69)
+O.S. 2021/1245 (Cy. 317) (C. 70)
+Yr Atodlen, paragraff 24(1) a 24(3) a (6)(a) (yn rhannol) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)
+1 Ionawr 2022
+O.S. 2021/1243 (Cy. 315) (C. 68)
+O.S. 2021/1244 (Cy. 316) (C. 69)
+O.S. 2021/1245 (Cy. 317) (C. 70)
+Yr Atodlen, paragraff 24(1), 24(2), (5) a (6)(b) ac (c) 1 Medi 2021 O.S. 2021/373 (Cy. 116) (C. 12)(5)
+(1)
+Gweler Gorchymyn Deddf Anghenion Dysgu Ychwanegol a’r Tribiwnlys Addysg (Cymru) 2018 (Cychwyn Rhif 8 a Darpariaethau Trosiannol a Darpariaethau Arbed) 2022 (O.S. 2022/891 (Cy. 188) (C. 55)), Gorchymyn Deddf Anghenion Dysgu Ychwanegol a’r Tribiwnlys Addysg (Cymru) 2018 (Cychwyn Rhif 9 a Darpariaethau Trosiannol a Darpariaethau Arbed) 2022 (O.S. 2022/892 (Cy. 189) (C. 56)), Gorchymyn Deddf Anghenion Dysgu Ychwanegol a’r Tribiwnlys Addysg (Cymru) 2018 (Cychwyn Rhif 10) 2022 (O.S. 2022/893 (Cy. 190) (C. 57)), Gorchymyn Deddf Anghenion Dysgu Ychwanegol a’r Tribiwnlys Addysg (Cymru) 2018 (Cychwyn Rhif 11) 2022 (O.S. 2022/894 (Cy. 191) (C. 58)), Gorchymyn Deddf Anghenion Dysgu Ychwanegol a’r Tribiwnlys Addysg (Cymru) 2018 (Cychwyn Rhif 12) 2022 (O.S. 2022/895 (Cy. 192) (C. 59)), Gorchymyn Deddf Anghenion Dysgu Ychwanegol a’r Tribiwnlys Addysg (Cymru) 2018 (Cychwyn Rhif 13 a Darpariaethau Trosiannol a Darpariaethau Arbed) 2022 (O.S. 2022/896 (Cy. 193) (C. 60)) a Gorchymyn Deddf Anghenion Dysgu Ychwanegol a’r Tribiwnlys Addysg (Cymru) 2018 (Cychwyn Rhif 15) 2022 (O.S. 2022/898 (Cy. 195) (C. 62)) sy’n dwyn i rym ddarpariaethau at ddibenion penodol ar yr un dyddiad â’r Gorchymyn hwn.
+(2)
+Diwygiwyd gan O.S. 2021/1428 (Cy. 369) (C. 80).
+(3)
+Diwygiwyd gan O.S. 2021/1428 (Cy. 369) (C. 80).
+(4)
+Diwygiwyd gan O.S. 2021/735 (Cy. 184) (C. 34).
+(5)
+Diwygiwyd gan O.S. 2021/735 (Cy. 184) (C. 34).

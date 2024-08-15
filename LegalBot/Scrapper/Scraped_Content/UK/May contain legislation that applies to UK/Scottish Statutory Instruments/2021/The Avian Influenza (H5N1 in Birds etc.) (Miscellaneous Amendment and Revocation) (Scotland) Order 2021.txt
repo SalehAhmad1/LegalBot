@@ -1,0 +1,90 @@
+SCOTTISH STATUTORY INSTRUMENTS
+2021 No. 444
+ANIMALS
+The Avian Influenza (H5N1 in Birds etc.) (Miscellaneous Amendment and Revocation) (Scotland) Order 2021
+Made
+29th November 2021
+Laid before the Scottish Parliament
+1st December 2021
+Coming into force
+4th December 2021
+The Scottish Ministers make the following Order in exercise of the powers conferred by sections 1, 7, 8(1), 11, 17(1), 23 and 25 of the Animal Health Act 1981(1) and all other powers enabling them to do so.
+(1)
+1981 c. 22; section 8(1) was amended by section 34(2) of the Agriculture Act 2020 (c. 21). Powers to make Orders under these sections were originally conferred on “the Minister” or “the Ministers”, as defined in section 86(1) of the Animal Health Act 1981. The functions of the Minister or Ministers were, in so far as within devolved competence, transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998 (c. 46).Citation, commencement and extent
+1.—(1) This Order may be cited as the Avian Influenza (H5N1 in Birds etc.) (Miscellaneous Amendment and Revocation) (Scotland) Order 2021 and comes into force on 4 December 2021.
+(2) This Order extends to Scotland only.Amendment of the Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Order 2006
+2.—(1) The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Order 2006(1) is amended as follows.
+(2) In article 47(2)(a) (movement of eggs from premises where low pathogenic avian influenza is confirmed) omit “, in disposable packaging”.
+(3) In paragraph 25 (requirements for the movement of table eggs to a packing centre) of schedule 4 (measures in a protection zone) omit sub-paragraph (a).
+(4) In paragraph 22 (requirements for the movement of table eggs to a packing centre) of schedule 5 (measures in a surveillance zone) omit sub-paragraph (a).
+(5) In paragraph 7(f) (restrictions on the movement of poultry, other captive birds and eggs out of the zone) of schedule 7 (measures in a low pathogenic avian influenza restricted zone) omit “in disposable packaging and”.
+(1)
+S.S.I. 2006/336.Revocation of Commission Decision 2006/563/EC concerning certain protection measures in relation to highly pathogenic avian influenza of subtype H5N1 in wild birds.
+3.  Commission Decision 2006/563/EC concerning certain protection measures in relation to highly pathogenic avian influenza of subtype H5N1 in wild birds in the Community and repealing Decision 2006/115/EC(1) is revoked.
+(1)
+EUDN 2006/563, as amended by S.I. 2018/1410.Amendment of the Avian Influenza (H5N1 in Wild Birds) (Scotland) Order 2007
+4.—(1) The Avian Influenza (H5N1 in Wild Birds) (Scotland) Order 2007(1) is amended as follows.
+(2) In article 2 (interpretation)—
+(a)
+for the definition of “H5N1” substitute—
+““H5N1” means a highly pathogenic avian influenza virus of the H5 subtype and neuraminidase N1 of significant risk to animal and human health,”,
+(b)
+after the definition of “hatching egg” insert—
+““highly pathogenic avian influenza” means—
+(a)
+a virus with genome sequences codifying for multiple basic amino acids at the cleavage site of the haemagglutinin molecule similar to that observed for other highly pathogenic avian influenza viruses, indicating that the haemagglutinin molecule can be cleaved by a host ubiquitous protease, or
+(b)
+avian influenza viruses with an intravenous pathogenicity index in six-week old chickens greater than 1.2,”.
+(3) For article 5(1) (confirmation or suspicion of H5N1 in wild birds) substitute—
+“(1) This article applies if the Chief Veterinary Officer (Scotland) advises the Scottish Ministers that—
+(a)
+a highly pathogenic avian influenza virus of the H5 subtype and neuraminidase N1 is present in a wild bird or the carcase of a wild bird in Great Britain, and
+(b)
+the Chief Veterinary Officer (Scotland) suspects, or is of the opinion, that the virus is a significant risk to animal and human health.”.
+(4) In article 12 (maintenance of areas)—
+(a)
+in paragraph (1) for the words from the beginning to “neuraminidase N1” substitute “Subject to paragraph (4), where article 5 applies”,
+(b)
+in paragraph (4)—
+(i)
+after “H5” insert “and neuraminidase N1”,
+(ii)
+for “of neuraminidase N1” substitute “a significant risk to animal and human health”.
+(1)
+S.S.I. 2007/61.Amendment of the Avian Influenza (H5N1 in Poultry) (Scotland) Order 2007
+5.—(1) The Avian Influenza (H5N1 in Poultry) (Scotland) Order 2007(1) is amended as follows.
+(2) In article 6(1) (establishment of zones on suspicion of avian influenza of subtype H5N1 in poultry)—
+(a)
+in sub-paragraph (a) omit “and”,
+(b)
+at the end of sub-paragraph (b) insert—
+“, and
+(c)
+the virus is a significant risk to animal and human health.”.
+(3) In article 8(1) (establishment of a restricted zone on confirmation of avian influenza of subtype H5N1 in poultry)—
+(a)
+in sub-paragraph (a) omit “and”,
+(b)
+at the end of sub-paragraph (b) insert—
+“, and
+(c)
+the Chief Veterinary Officer (Scotland) is of the opinion that the virus is a significant risk to animal and human health.”.
+(1)
+S.S.I. 2007/62.Amendment of Commission Decision 2010/367/EU on the implementation of surveillance programmes for avian influenza in poultry and wild birds.
+6.—(1) Commission Decision 2010/367/EU on the implementation by Member States of surveillance programmes for avian influenza in poultry and wild birds(1) is amended as follows.
+(2) In paragraph 5 (follow-up) of Part 1 of Annex 2 (guidelines on the implementation of surveillance programmes for avian influenza in wild birds) for the words from “control measures” to “Decision 2006/115/EC” substitute “measures in the Avian Influenza (H5N1 in Wild Birds) (Scotland) Order 2007(2)”.
+(1)
+EUDN 2010/367. Part 1 of Annex 2 was amended by S.I. 2018/1410.
+(2)
+S.S.I. 2007/61.BEN MACPHERSON
+Authorised to sign by the Scottish Ministers
+St Andrew’s House
+Edinburgh
+29th November 2021EXPLANATORY NOTE
+(This note is not part of the Order)
+This Order amends and revokes legislation concerning certain protection measures in relation to avian influenza of subtype H5N1 in birds, and other measures for the control of avian influenza.
+Article 2 amends the Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Order 2006 which transposed aspects of Council Directive 2005/94 on Community measures for the control of avian influenza. It removes requirements, for licensing the movement of eggs, that the eggs be in disposable packaging.
+Article 3 revokes Commission Decision 2006/563/EC concerning certain protection measures in relation to highly pathogenic avian influenza of subtype H5N1 in wild birds. Commission Decision 2006/563/EC was implemented in Scotland by the Avian Influenza (H5N1 in Wild Birds) (Scotland) Order 2007 (“the Wild Birds Order”).
+Article 4 amends the Wild Birds Order. Article 4(3) substitutes article 5(1) of the Wild Birds Order to prescribe the cases in which wild bird control areas and wild bird monitoring areas are to be declared. The cases in which these areas must or may be declared are where the Chief Veterinary Officer (Scotland) advises Scottish Ministers that a highly pathogenic avian influenza virus of the H5 subtype and neuraminidase N1 is present in a wild bird or the carcase of a wild bird in Great Britain and the Chief Veterinary Officer (Scotland) suspects, or is of the opinion, that the virus is a significant risk to animal and human health. Related amendments are made by article 4(2)(a) and (b) to article 2 (interpretation) of the Wild Birds Order to define highly pathogenic avian influenza and H5N1. Article 4(4) amends article 12 of the Wild Birds Order on the maintenance of areas and the circumstances where these areas must, and must not be, discontinued.
+Article 5 amends the Avian Influenza (H5N1 in Poultry) (Scotland) Order 2007 (“the Poultry Order”) which implemented Commission Decision 2006/415/EC concerning certain protection measures in relation to highly pathogenic avian influenza of subtype H5N1 in poultry. Article 5(2) amends article 6 of the Poultry Order prescribing the cases in which zones are to be established on suspicion of highly pathogenic avian influenza virus of subtype H5N1 in poultry. Those zones are now to be established where the Chief Veterinary Officer (Scotland) also suspects that the virus is a significant risk to animal and human health. Article 5(3) amends article 8 of the Poultry Order prescribing the cases in which a restricted zone is to be established on confirmation of highly pathogenic avian influenza of subtype H5N1 in poultry. A restricted zone must now be established where the Chief Veterinary Officer (Scotland) also confirms that, in the opinion of Chief Veterinary Officer (Scotland), the virus is a significant risk to animal and human health.
+Article 6 amends Commission Decision 2010/367/EU, on the implementation of surveillance programmes for avian influenza in poultry and wild birds, consequential on the revocation of Commission Decision 2006/563/EC by article 2. It provides that follow-up measures to be taken in the case of confirmed positive cases of highly pathogenic avian influenza of subtype H5N1 in wild birds are the measures in the Wild Birds Order.

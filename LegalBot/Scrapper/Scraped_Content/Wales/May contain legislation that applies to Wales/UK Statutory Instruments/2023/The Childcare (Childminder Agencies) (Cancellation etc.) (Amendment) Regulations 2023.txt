@@ -1,0 +1,68 @@
+STATUTORY INSTRUMENTS
+2023 No. 1167
+CHILDREN AND YOUNG PERSONS, ENGLAND
+The Childcare (Childminder Agencies) (Cancellation etc.) (Amendment) Regulations 2023
+Made
+1st November 2023
+Laid before Parliament
+3rd November 2023
+Coming into force
+27th November 2023
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 69A(1) and 104(2) of the Childcare Act 2006(1).
+(1)
+2006 c. 21. Section 69A was inserted by the Children and Families Act 2014 (c. 6), Schedule 4, paragraphs 32 and 35.Citation, commencement, extent and application
+1.—(1) These Regulations may be cited as the Childcare (Childminder Agencies) (Cancellation etc.) (Amendment) Regulations 2023.
+(2) They come into force on 27th November 2023.
+(3) They extend to England and Wales and apply in England.Amendment of the Childcare (Childminder Agencies) (Cancellation etc.) Regulations 2014
+2.—(1) The Childcare (Childminder Agencies) (Cancellation etc.) Regulations 2014(1) are amended as follows.
+(2) For the heading of Part 3 substitute “Childminder Agencies: Cancellation of Registration and Voluntary Removal”.
+(3) After regulation 14, insert—
+“Voluntary removal of childminder agency from register: providers (early years, etc.)
+15.—(1) This regulation applies where an early years childminder agency (“the agency”) is removed from the early years register in accordance with section 70A(2) of the Act (voluntary removal from a childcare register: childminder agencies).
+(2) Immediately before the point of removal, the registration of each provider registered with the agency (a “relevant provider”) is deemed to be terminated.
+(3) As from the point of removal, unless paragraph (6) applies in relation to a relevant provider, a relevant provider is deemed to be registered for the period specified in paragraph (4) and in accordance with paragraph (5).
+(4) The period begins with the point of removal and ends six months after the day after the point of removal.
+(5) The deemed registrations are as follows—
+(a)
+an early years childminder who was registered under Chapter 2 of Part 3 of the Act is deemed registered in the early years register under section 37(1) of the Act,
+(b)
+an early years provider (other than a childminder) who was registered under Chapter 2 of Part 3 of the Act is deemed registered in the early years register under section 37(2) of the Act,
+(c)
+a childminder who was registered under Chapter 4 of Part 3 of the Act is deemed registered in Part B of the general childcare register under section 64(1) of the Act, and
+(d)
+a provider of childcare (other than a childminder) who was registered under Chapter 4 of Part 3 of the Act is deemed registered in Part B of the general childcare register under section 64(2) of the Act.
+(6) This paragraph applies in relation to any relevant provider—
+(a)
+who has before the point of removal provided the Chief Inspector with written confirmation that the provider does not wish to be treated as registered in the early years register or Part B of the general childcare register, or
+(b)
+where it appears to the Chief Inspector that the provider is disqualified from registration by regulations under section 75 of the Act.
+(7) In this regulation, the “point of removal” means the time at which the agency is removed from the early years register in accordance with section 70A(2) of the Act.
+Voluntary removal of childminder agency from register: providers (later years, etc.)
+16.—(1) This regulation applies where a later years childminder agency (“the agency”) is removed from Part A of the general childcare register in accordance with section 70A(2) of the Act (voluntary removal from a childcare register: childminder agencies).
+(2) Immediately before point of removal, the registration of each provider registered with the agency (a “relevant provider”) is deemed to be terminated.
+(3) As from the point of removal, unless paragraph (6) applies in relation to a relevant provider, a relevant provider is deemed to be registered for the period specified in paragraph (4) and in accordance with paragraph (5).
+(4) The period begins with the point of removal and ends six months after the day after the point of removal.
+(5) The deemed registrations are as follows—
+(a)
+a later years childminder who was registered under Chapter 3 of Part 3 of the Act is deemed registered in Part A of the general childcare register under section 56(1) of the Act,
+(b)
+a later years provider (other than a childminder) who was registered under Chapter 3 of Part 3 of the Act is deemed registered in Part A of the general childcare register under section 56(2) of the Act,
+(c)
+a childminder who was registered under Chapter 4 of Part 3 of the Act is deemed registered in Part B of the general childcare register under section 64(1) of the Act, and
+(d)
+a provider of childcare (other than a childminder) who was registered under Chapter 4 of Part 3 of the Act is deemed registered in Part B of the general childcare register under section 64(2) of the Act.
+(6) This paragraph applies in relation to any relevant provider—
+(a)
+who has before the point of removal provided the Chief Inspector with written confirmation that the provider does not wish to be treated as registered in that Part of the general childcare register, or
+(b)
+where it appears to the Chief Inspector that the provider is disqualified from registration by regulations under section 75 of the Act.
+(7) In this regulation, the “point of removal” means the time at which the agency is removed from Part A of the general childcare register in accordance with section 70A(2) of the Act.”.
+(1)
+S.I. 2014/1922.David Johnston
+Parliamentary Under-Secretary of State
+Department for Education
+1st November 2023EXPLANATORY NOTE
+(This note is not part of the Regulations)
+The Childcare (Childminder Agencies) (Cancellation etc.) Regulations 2014 (S.I. 2014/1922) (“the 2014 Regulations”) make provision for the cancellation, termination and suspension from registration of providers of childcare who are registered with childminder agencies under Part 3 of the Childcare Act 2006 (“the Act”).
+These Regulations amend the 2014 Regulations. Regulation 2 inserts new regulations 15 and 16, which make provision for the termination of the registration of providers with a childminder agency where a childminder agency is removed at its request from either or both of the early years register or the general childcare register by the Chief Inspector under section 70A of the Act. Providers who do not wish to opt out will be deemed to be registered in the relevant register maintained by the Chief Inspector for a period of six months. This will not be the case in respect of providers who have indicated to the Chief Inspector that they do not wish to be registered in the relevant register or if it appears to the Chief Inspector that the provider is disqualified. In those circumstances, the provider’s registration will remain terminated for the purposes of Part 3 of the Act.
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.

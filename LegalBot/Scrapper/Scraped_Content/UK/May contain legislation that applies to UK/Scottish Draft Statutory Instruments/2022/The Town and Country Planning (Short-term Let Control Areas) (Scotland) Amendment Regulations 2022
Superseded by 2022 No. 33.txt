@@ -1,0 +1,102 @@
+Draft Regulations laid before the Scottish Parliament under section 275(7BA) of the Town and Country Planning (Scotland) Act 1997, for approval by resolution of the Scottish Parliament.
+DRAFT SCOTTISH STATUTORY INSTRUMENTS
+2022 No.
+TOWN AND COUNTRY PLANNING
+The Town and Country Planning (Short-term Let Control Areas) (Scotland) Amendment Regulations 2022
+Made
+2022
+Coming into force
+1st March 2022
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 26B(5) and 275 of the Town and Country Planning (Scotland) Act 1997(1) and all other powers enabling them to do so.
+In accordance with section 275(7BA) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
+The Scottish Ministers before making these Regulations have consulted planning authorities and such other persons as they considered appropriate.
+(1)
+1997 c. 8. Sections 26B and 275(7BA) are inserted by section 17 and paragraph 9 of schedule 2 of the Planning (Scotland) Act 2019 (asp 13). The functions conferred upon the Secretary of State under section 275, insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.Citation and commencement
+1.  These Regulations may be cited as the Town and Country Planning (Short-term Let Control Areas) (Scotland) Amendment Regulations 2022 and come into force on 1 March 2022.Amendment of the Town and Country Planning (Short-term Let Control Areas) (Scotland) Regulations 2021
+2.—(1) The Town and Country Planning (Short-term Let Control Areas) (Scotland) Regulations 2021(1) are amended in accordance with paragraphs (2) to (4).
+(2) In regulation 1(2) (interpretation)—
+(a)
+before the definition of “the Act” insert—
+““the 1993 Act” means the Crofters (Scotland) Act 1993(2),
+“the 2003 Act” means the Agricultural Holdings (Scotland) Act 2003(3),
+“the 2016 Act” means the Private Housing (Tenancies) (Scotland) Act 2016(4),”,
+(b)
+after the definition of “excluded accommodation” insert—
+““excluded tenancy” means a tenancy which is—
+(a)
+a 1991 Act tenancy (within the meaning of section 1(4) of the 2003 Act),
+(b)
+a modern limited duration tenancy (within the meaning of section 5A of the 2003 Act),
+(c)
+a short limited duration tenancy (within the meaning of section 4 of the 2003 Act),
+(d)
+a student residential tenancy,
+(e)
+a tenancy of a croft (within the meaning of section 3 the 1993 Act),
+(f)
+a tenancy of a holding situated outwith the crofting counties (within the meaning of section 61 of the 1993 Act) to which any provisions of the Small Landholders (Scotland) Acts 1886 to 1931 (5) applies,”,
+(c)
+after the definition of “section 26B designation” insert—
+““student” has the same meaning as in paragraph 5 of schedule 1 (tenancies which cannot be private residential tenancies) of the 2016 Act,
+“student residential tenancy” means a tenancy—
+(a)
+the purpose of which is to confer on the tenant the right to occupy the let property while the tenant is a student, and
+(b)
+to which paragraph 5(2) of schedule 1 of the 2016 Act applies.”.
+(3) In regulation (2) (short-term let)—
+(a)
+in paragraph (1)(a) after “provided” insert “in the course of business”,
+(b)
+after paragraph (1)(b) insert—
+“(ba)
+the accommodation is not provided under an excluded tenancy,”.
+(4) In the schedule (excluded accommodation)—
+(a)
+in paragraph 1—
+(i)
+omit sub-paragraphs (a), (b), (c), (d) and (k),
+(ii)
+in paragraph (e) for “care is provided to people in need of care” substitute “personal care is provided to residents”,
+(iii)
+after paragraph (k) insert—
+“(l)
+premises in respect of which a premises licence within the meaning of section 17 of the Licensing (Scotland) Act 2005(6) has effect and where the provision of accommodation is an activity listed in the operating plan as defined in section 20(4) of that Act.”,
+(b)
+in paragraph 2—
+(i)
+omit the definitions of “aparthotel”, “hostel” and “serviced apartment”,
+(ii)
+before the definition of “student accommodation” insert—
+““personal care” has the same meaning as in paragraph 20 of schedule 12 of the Public Services Reform (Scotland) Act 2010(7),
+“refuge” means premises used wholly or mainly for providing accommodation to persons who have been subject to any incident or pattern of incidents, of—
+(a)
+controlling, coercive or threatening behaviour,
+(b)
+physical violence,
+(c)
+abuse of any other description (whether physical or mental in nature), or
+(d)
+threats of any such violence or abuse,”,
+(iii)
+in the definition of “student accommodation” for “solely” substitute “predominantly”.
+(1)
+S.S.I. 2021/154.
+(2)
+1993 c. 44.
+(3)
+2003 asp 11.
+(4)
+2016 asp 19.
+(5)
+See section 26 of the Small Landholders and Agriculture Holdings (Scotland) Act 19311931 c. 44. Section 26(2) was substituted by Agricultural Holdings (Scotland) Act 1949 (c. 75), Schedule. 7.
+(6)
+2005 asp 16.
+(7)
+2010 asp 8.Name
+Authorised to sign by the Scottish Ministers
+St Andrew’s House,
+Edinburgh
+DateEXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the Town and Country Planning (Short-term Let Control Areas) (Scotland) Regulations 2021 (“the 2021 Regulations”) which made further provision for the purposes of section 26B of the Town and Country Planning (Scotland) Act 1997 (“the 1997 Act”). Section 26B enables a planning authority to designate all or part of its area as a short-term let control area. Where an area is designated as a short-term let control area a change of use of a dwellinghouse to use for the purpose of providing short-term lets is deemed to be a material change of use and so constitutes development under section 26 of the 1997 Act.
+Regulation 2 of the 2021 Regulations makes provision about what constitutes providing a short-term let for the purposes of section 26B of the 1997 Act. This does not include the letting of excluded accommodation. Regulation 2 removes from the list of excluded accommodation in the schedule of the 2021 Regulations dwellinghouses which are, or which are part of, a hotel, a boarding house, a guest house, a hostel or an aparthotel. Regulation 2 also amends regulation 2 the 2021 Regulations to provide that short term letting for the purposes of section 26B does not include provision of accommodation under an “excluded tenancy”. What is an “excluded tenancy” is defined in the changes made to regulation 1(2) of the 2021 Regulations. Regulation 2 also makes it clear that for the provision of accommodation to be a short term let for the purposes of section 26B it must be done in the course of business.

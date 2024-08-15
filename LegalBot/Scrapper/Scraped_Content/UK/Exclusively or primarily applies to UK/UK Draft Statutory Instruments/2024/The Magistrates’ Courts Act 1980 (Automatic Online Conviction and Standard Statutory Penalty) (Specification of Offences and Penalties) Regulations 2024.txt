@@ -1,0 +1,61 @@
+Draft Regulations laid before Parliament under sections 16H(5) and 16J(6) of the Magistrates’ Courts Act 1980 for approval by resolution of each House of Parliament.
+DRAFT STATUTORY INSTRUMENTS
+2024 No.
+CRIMINAL LAW, ENGLAND AND WALES
+The Magistrates’ Courts Act 1980 (Automatic Online Conviction and Standard Statutory Penalty) (Specification of Offences and Penalties) Regulations 2024
+Made
+***
+Coming into force in accordance with regulation 1
+The Lord Chancellor, in exercise of the powers conferred by sections 16H(3)(a) and 16I(2), (4), (5)(b), (8) and (9) of the Magistrates’ Courts Act 1980(1) makes the following Regulations.
+In accordance with sections 16H(5) and 16J(6) of the Magistrates’ Courts Act 1980 a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
+(1)
+1980 c. 43. Sections 16G to 16M were inserted by section 3 of the Judicial Review and Courts Act 2022 (c. 35).Citation, commencement and interpretation
+1.—(1) These Regulations may be cited as the Magistrates’ Courts Act 1980 (Automatic Online Conviction and Standard Statutory Penalty) (Specification of Offences and Penalties) Regulations 2024 and shall come into force on the day after the day on which they are made.
+(2) In these Regulations, a reference to a section by number alone is a reference to the section so numbered in the Magistrates’ Courts Act 1980.
+(3) A reference in these Regulations to “the table” is a reference to the table in the Schedule.
+(4) In the Schedule—
+(a)
+“Railway Byelaws” means the Railway Byelaws made under section 219 of the Transport Act 2000(1) by the Strategic Rail Authority and confirmed under Schedule 20 to the Transport Act 2000(2) by the Secretary of State for Transport on 22nd June 2005 and preserved by section 46(4) of the Railways Act 2005 by the Secretary of State for Transport on 16 October 2005;
+(b)
+“Croydon Tramlink Byelaws” means the Tramlink Byelaws made under section 46 of the Croydon Tramlink Act 1994(3);
+(c)
+“Manchester Metrolink Byelaws” means the Greater Manchester Metrolink System Byelaws made under section 30 of the Greater Manchester (Light Rapid Transit System) Act 1988(4);
+(d)
+“Nottingham Express Transit Byelaws” means the Nottingham Express Transit Byelaws 2014, made under Article 53 of the Nottingham Express Transit System Order 2009(5) by Tramlink Nottingham Limited on 23rd February 2014 by agreement with Nottingham City Council and confirmed by the Secretary of State for Transport.
+(1)
+2000 c. 38. Section 219 of the Transport Act 2000 was repealed by Schedule 1, paragraph 36(c) and Schedule 13, Part 1 to the Railways Act 2005. Byelaws made under section 219 of the Transport Act 2000 continue to have effect by virtue of section 46(4) and paragraph 2 of Part 2 of Schedule 13 to the Railways Act 2005.
+(2)
+2000 c. 38. Schedule 20 to the Transport Act 2000 was repealed by Schedule 13 to the Railways Act 2005.
+(3)
+1994 c. xi.
+(4)
+1994 c. i.
+(5)
+S.I. 2009/1300.Specification of offences
+2.  The offences described in column 1 of the table are specified as offences for which the automatic online conviction option may be offered under section 16G and are those in respect of which compensation may be ordered when convicted of an offence under section 16H.Specification of fine
+3.  The sum in column 2 of the table is the fine for which a person is liable when convicted under section 16H of the corresponding offence in column 1 of the table.Specification of compensation maximum
+4.  The sum in column 3 of the table is the maximum amount of compensation which may be determined by the relevant prosecutor who instituted proceedings for the offence as payable by a person convicted under section 16H of the corresponding offence in column 1 of the table.Specification of surcharge
+5.  The sum specified in column 4 of the table is the amount of surcharge for which a person is liable when convicted under section 16H of the corresponding offence in column 1 of the table.Name
+Parliamentary Under Secretary of State
+Ministry of Justice
+DateRegulation 1
+SCHEDULE
+Specification of offences and penalties
+Table
+Column 1 Column 2 Column 3 Column 4
+Byelaws 18(2) and 24 of the Railway Byelaws(1) (failure to produce a valid ticket) £66 £10 40% of fine
+Section 5(2) and (3) of the Tyne and Wear Passenger Transport Act 1979(2) (failure to produce a valid ticket) £80 £10 40% of fine
+Byelaws 19(2) and 26 of the Croydon Tramlink Byelaws (failure to produce a valid ticket) £80 £10 40% of fine
+Byelaws 2(2) and 4(4) of the Manchester Metrolink Byelaws (failure to produce a valid ticket) £80 £10 40% of fine
+Byelaws 20(2) and 29(1) of the Nottingham Express Transit Byelaws (failure to produce a valid ticket) £80 £10 40% of fine
+Section 27(1)(a) of the Salmon and Freshwater Fisheries Act 1975(3) (fishing without a licence) where the offence is one alleged to be committed by use or possession of rod and line (only) and is triable only summarily and the maximum penalty is a fine not exceeding level 4 on the standard scale £123 £10 40% of fine
+(1)
+2000 c. 38.
+(2)
+1979 c. i.
+(3)
+1975 c. 51. Existing section 27 was renumbered as section 27(1), words were amended and section 27(2) was inserted by the Marine and Coastal Access Act 2009 (c. 23), section 233(1), Schedule 16, paragraphs 1, 11(1), (2), (3), (4) and (5). S.I. 2010/298, article 2, Schedule, Part 2, paragraph 13.EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations specify the offences which may be dealt with by use of the automatic online conviction process set out in sections 16G to 16M of the Magistrates’ Court Act 1980. This process uses an automatic procedure and allows a guilty plea in a summary only conviction (where there is no custodial option), to be dealt with online without the need for attendance at court. It is intended to simplify the process for suitable cases. A defendant may decline the offer of an automatic online conviction in which case the proceedings will be dealt with by a single magistrate under the Single Justice Procedure or by an attendance at court. The court retains the power to set aside a conviction if it considers it to be unjust.
+Regulations 3, 4 and 5 also set out the levels of fines, compensation and surcharge which are to be applied.
+A full impact assessment of the effect that this instrument will have on the costs of business, the voluntary sector and the public sector is available alongside these Regulations on the UK legislation website at http://www.legislation.gov.uk.

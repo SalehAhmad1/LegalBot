@@ -1,0 +1,739 @@
+OFFERYNNAU STATUDOL CYMRU
+2024 Rhif 27 (Cy. 10)
+ADDYSG, CYMRU
+Rheoliadau Safonau Ysgolion Annibynnol (Cymru) 2024
+Gwnaed
+11 Ionawr 2024
+Gosodwyd gerbron Senedd Cymru
+15 Ionawr 2024
+Yn dod i rym
+14 Chwefror 2024
+Mae Gweinidogion Cymru, drwy arfer y pwerau a roddwyd i Gynulliad Cenedlaethol Cymru gan adrannau 157(1) a 210(7)(c) o Ddeddf Addysg 2002(1), ac sydd bellach yn arferadwy ganddynt hwy(2), yn gwneud y Rheoliadau a ganlyn.
+(1)
+2002 p. 32. Gweler adran 212(1) am y diffiniad o “regulations” a “prescribed”.
+(2)
+Trosglwyddwyd swyddogaethau Cynulliad Cenedlaethol Cymru i Weinidogion Cymru yn rhinwedd adran 162 o Ddeddf Llywodraeth Cymru 2006 a pharagraff 30 o Atodlen 11 iddi.Enwi, dod i rym, cymhwyso a dirymu
+1.—(1) Enw’r Rheoliadau hyn yw Rheoliadau Safonau Ysgolion Annibynnol (Cymru) 2024, a deuant i rym ar 14 Chwefror 2024.
+(2) Mae’r Rheoliadau hyn yn gymwys o ran Cymru.
+(3) Mae Rheoliadau Safonau Ysgol Annibynnol (Cymru) 2003(1) wedi eu dirymu.
+(1)
+O.S. 2003/3234 (Cy. 314) a ddiwygiwyd gan O.S. 2005/2929 (Cy. 214), O.S. 2007/947 (Cy. 81), O.S. 2009/2544 (Cy. 206) ac O.S. 2010/1142 (Cy. 101).Dehongli
+2.—(1) Yn y Rheoliadau hyn—
+mae i “addysg bellach” yr ystyr a roddir i “further education” yn adran 2(3) o Ddeddf 1996;
+mae i “addysg uwchradd” yr ystyr a roddir i “secondary education” yn adran 2(2) o Ddeddf 1996;
+mae i “awdurdod lleol” yr ystyr a roddir i “local authority” yn adran 579(1) o Ddeddf 1996(1);
+mae i “busnes cyflogi” yr ystyr a roddir i “employment business” yn adran 13(3) o Ddeddf Asiantaethau Cyflogi 1973(2);
+mae “cadeirydd” (“chair”), fel cyfeiriad at gadeirydd yr ysgol annibynnol, yn gyfeiriad at unigolyn sy’n gadeirydd corff o bersonau corfforedig neu anghorfforedig sydd wedi ei enwi fel perchennog yr ysgol annibynnol yn y gofrestr neu mewn cais i gynnwys yr ysgol annibynnol yn y gofrestr, ac mae’n cynnwys cyfeiriad at swyddog tebyg;
+ystyr “y Confensiwn” (“the Convention”) yw Confensiwn y Cenhedloedd Unedig ar Hawliau’r Plentyn a fabwysiadwyd ac a agorwyd i’w lofnodi, ei gadarnhau a’i gytuno gan benderfyniad y Cynulliad Cyffredinol 44/25 dyddiedig 20 Tachwedd 1989(3)
+mae i “cynllun datblygu unigol” (“individual development plan”) yr ystyr a roddir yn adran 10 o Ddeddf 2018;
+ystyr “datganiad” (“statement”) yw datganiad anghenion addysgol arbennig a wneir o dan adran 324(1)(4) o Ddeddf 1996;
+ystyr “Deddf 1989” (“the 1989 Act”) yw Deddf Plant 1989(5);
+ystyr “Deddf 1996” (“the 1996 Act”) yw Deddf Addysg 1996(6);
+ystyr “Deddf 1997” (“the 1997 Act”) yw Deddf yr Heddlu 1997(7);
+ystyr “Deddf 2002” (“the 2002 Act”) yw Deddf Addysg 2002;
+ystyr “Deddf 2006” (“the 2006 Act”) yw Deddf Diogelu Grwpiau Hyglwyf 2006(8);
+ystyr “Deddf 2008” (“the 2008 Act”) yw Deddf Addysg a Sgiliau 2008(9);
+ystyr “Deddf 2010” (“the 2010 Act”) yw Deddf Cydraddoldeb 2010(10);
+ystyr “Deddf 2014” (“the 2014 Act”) yw Deddf Addysg (Cymru) 2014(11);
+ystyr “Deddf 2018” (“the 2018 Act”) yw Deddf Anghenion Dysgu Ychwanegol a’r Tribiwnlys Addysg (Cymru) 2018(12);
+mae i “disgybl” yr ystyr a roddir i “pupil” yn adran 3(1) o Ddeddf 1996(13);
+mae i “disgybl cofrestredig” yr ystyr a roddir i “registered pupil” yn adran 434(5) o Ddeddf 1996;
+ystyr “disgybl sy’n byrddio” (“boarder”) yw disgybl y mae ysgol annibynnol yn darparu llety ar ei gyfer, pa un a yw’r disgybl yn ddisgybl cofrestredig yn yr ysgol annibynnol honno ai peidio;
+ystyr “y gofrestr” (“theregister”) yw’r gofrestr o ysgolion annibynnol a gedwir gan yr awdurdod cofrestru o dan adran 158(3)(14) o Ddeddf 2002;
+ystyr “gorchymyn atal dros dro” (“suspension order”) yw gorchymyn a wneir gan Gyngor y Gweithlu Addysg o dan adran 26(5) o Ddeddf 2014 ac sy’n cael yr effaith a ddisgrifir yn adran 30(2) a (3) o’r Ddeddf honno;
+mae i “gorchymyn atal dros dro interim” (“interim suspension order”) yr ystyr a roddir yn erthygl 2 o Orchymyn Cyngor y Gweithlu Addysg (Gorchmynion Atal Dros Dro Interim) (Swyddogaethau Ychwanegol) (Cymru) 2021(15);
+ystyr “gorchymyn gwahardd” (“prohibition order”) yw gorchymyn a wneir gan Gyngor y Gweithlu Addysg o dan adran 26(5) o Ddeddf 2014 ac sy’n cael yr effaith a ddisgrifir yn adran 31(2) a (3) o’r Ddeddf honno neu, yn ôl y digwydd, mae iddo’r ystyr a roddir i “prohibition order” yn adran 141B(4)(16) o Ddeddf 2002;
+mae i “gorchymyn gwahardd interim” yr ystyr a roddir i “interim prohibition order” yn adran 141C(7)(17) o Ddeddf 2002;
+ystyr “gwasanaeth diweddaru’r GDG” (“DBS up-date service”) yw’r gwasanaeth a weithredir gan y Gwasanaeth Datgelu a Gwahardd sy’n darparu gwybodaeth ddiweddaru berthnasol o fewn yr ystyr a roddir i “up-date information” yn adran 116A(8)(b)(i)(18) neu 116A(8)(c)(i) o Ddeddf 1997;
+mae i “llesiant” (“well-being”) yr ystyr a roddir yn adran 2 o Ddeddf Gwasanaethau Cymdeithasol a Llesiant (Cymru) 2014;
+ystyr “llety byrddio” (“boarding accommodation”) yw llety dros nos a drefnir neu a ddarperir gan yr ysgol annibynnol yn yr ysgol annibynnol neu yn rhywle arall, ac eithrio llety ar gyfer disgyblion sy’n cael eu lletya i ffwrdd o fangre’r ysgol annibynnol yn ystod trip ysgol;
+mae i “mangre” yr ystyr a roddir i “premises” yn adran 579(1) o Ddeddf 1996(19);
+mae i “perchennog” yr ystyr a roddir i “proprietor” yn adran 579(1)(20) o Ddeddf 1996;
+mae i “Prif Arolygydd” yr ystyr a roddir i “Chief Inspector” yn adran 171(21) o Ddeddf 2002;
+ystyr “y rheoliadau mangreoedd ysgolion” (“the school premises regulations”) yw rheoliadau sydd wedi eu gwneud o dan adran 542(1) o Ddeddf 1996(22);
+mae i “rhiant” yr ystyr a roddir i “parent” yn adran 576 o Ddeddf 1996(23);
+ystyr “y Safonau Gofynnol Cenedlaethol ar gyfer Ysgolion Arbennig Preswyl(24)” (“the National Minimum Standards for Residential Special Schools”) yw’r datganiad o safonau gofynnol cenedlaethol a gyhoeddir o dan y teitl hwnnw o dan adran 87C(1) o Ddeddf 1989;
+ystyr “y Safonau Gofynnol Cenedlaethol ar gyfer Ysgolion Preswyl y Brif Ffrwd(25)” (“the National Minimum Standards for Boarding Schools”) yw’r datganiad o safonau gofynnol cenedlaethol a gyhoeddir o dan y teitl hwnnw o dan adran 87C(1)(26) o Ddeddf 1989;
+ystyr “staff” (“staff”) yw unrhyw berson sy’n gweithio yn yr ysgol annibynnol pa un ai o dan gontract cyflogaeth, o dan gontract am wasanaethau neu o dan gontract fel arall, ond nid yw’n cynnwys staff cyflenwi na gwirfoddolwyr;
+ystyr “staff cyflenwi” (“supply staff”) yw unrhyw berson sy’n gweithio yn yr ysgol annibynnol, a gyflenwir gan fusnes cyflogi;
+mae i “sy’n derbyn gofal gan awdurdod lleol” (“looked after by a local authority”) yr ystyr a roddir yn adran 74(1) o Ddeddf Gwasanaethau Cymdeithasol a Llesiant (Cymru) 2014(27) neu, yn ôl y digwydd, yn adran 22(1) o Ddeddf 1989(28);
+ystyr “tystysgrif GDG” (“DBS certificate”) yw tystysgrif cofnod troseddol manwl a ddyroddir o dan adran 113B(1)(29) o Ddeddf 1997, sy’n cynnwys, mewn unrhyw achosion a ragnodir o bryd i’w gilydd o dan adran 113BA(1) o’r Ddeddf honno, wybodaeth addasrwydd sy’n ymwneud â phlant;
+mae i “ysgol a gynhelir” (“maintained school”) yr ystyr a roddir yn adran 99(1) o Ddeddf 2018(30);
+mae i “ysgol annibynnol” yr ystyr a roddir i “independent school” yn adran 463 o Ddeddf 1996(31);
+ystyr “ysgol annibynnol gofrestredig” (“registered independent school”) yw ysgol annibynnol y mae ei henw wedi ei gofnodi yn y gofrestr.
+(2) Yn y Rheoliadau hyn, pan fo “rhoi ar gael” wybodaeth neu ddogfen yn elfen o safon, mae’r elfen honno o’r safon wedi ei chyrraedd—
+(a)
+mewn achos pan fo gan yr ysgol annibynnol wefan—
+(i)
+os yw’r wybodaeth neu gopi o’r ddogfen ar gael ar y wefan ar ffurf sy’n hygyrch i ddisgyblion, rhieni disgyblion a rhieni darpar ddisgyblion a bod yr wybodaeth neu’r copi o’r ddogfen ar gael ym mangre’r ysgol annibynnol er mwyn iddynt edrych ar yr wybodaeth neu’r copi o’r ddogfen yn ystod y diwrnod ysgol, a
+(ii)
+os yw’r perchennog yn cymryd camau rhesymol i sicrhau bod disgyblion, rhieni disgyblion a rhieni darpar ddisgyblion yn ymwybodol bod yr wybodaeth neu gopi o’r ddogfen ar gael ac ar ba ffurf y mae’r wybodaeth neu’r copi ar gael,
+(b)
+mewn achos pan fo gan yr ysgol annibynnol wefan ond nad yw’r wybodaeth na chopi o’r ddogfen ar gael ar y wefan, neu pan na fo gan yr ysgol annibynnol wefan—
+(i)
+os yw’r perchennog yn cymryd camau rhesymol i sicrhau bod disgyblion, rhieni disgyblion a rhieni darpar ddisgyblion yn cael gwybod y cânt ofyn am yr wybodaeth neu am gopi o’r ddogfen, a
+(ii)
+os anfonir yr wybodaeth neu gopi o’r ddogfen am ddim at ddisgyblion neu rieni o’r fath, neu os rhoddir yr wybodaeth neu gopi o’r ddogfen am ddim iddynt, a hynny mewn ymateb i gais am yr wybodaeth neu gopi o’r ddogfen.
+(3) Yn y Rheoliadau hyn, pan fo “darparu” gwybodaeth neu ddogfen i berson yn elfen o safon, mae’r elfen honno o’r safon wedi ei chyrraedd—
+(a)
+pan fo’r person wedi rhoi cyfeiriad e-bost i’r ysgol annibynnol, drwy anfon i’r cyfeiriad hwnnw—
+(i)
+yr wybodaeth neu gopi o’r ddogfen ar ffurf electronig, neu
+(ii)
+cyfeiriad gwefan lle y gall y person lawrlwytho’r wybodaeth neu gopi o’r ddogfen,
+ac yn yr achos hwn rhaid i’r wybodaeth neu gopi o’r ddogfen fod ar gael ym mangre’r ysgol annibynnol er mwyn i’r person edrych ar yr wybodaeth neu’r copi o’r ddogfen yn ystod y diwrnod ysgol, neu
+(b)
+drwy anfon yr wybodaeth neu gopi o’r ddogfen at y person neu drwy roi’r wybodaeth neu gopi o’r ddogfen iddo.
+(4) At ddibenion paragraffau 20(2)(e), 21(2)(a)(i)(bb), 22(3)(b), (5)(b) a (6)(b)(i) o’r Atodlen, nid yw tystysgrif GDG neu wiriad gwasanaeth diweddaru’r GDG ond yn berthnasol pan fo unigolyn yn cymryd rhan, neu pan fydd yn cymryd rhan, mewn—
+(a)
+gweithgaredd rheoleiddiedig o fewn yr ystyr a roddir i “regulated activity” yn Rhan 1 o Atodlen 4 i Ddeddf 2006, neu
+(b)
+gweithgaredd rheoleiddiedig sy’n ymwneud â phlant o fewn yr ystyr a roddir i “regulated activity” yn Rhan 1 o Atodlen 4 i Ddeddf 2006 fel yr oedd yn cael effaith yn union cyn i adran 64 o Ddeddf Diogelu Rhyddidau 2012 ddod i rym.
+(1)
+Amnewidiwyd y diffiniad o “local authority” gan erthygl 3(1) a (2)(b) o O.S. 2010/1158.
+(2)
+1973 p. 35.
+(3)
+Cyfres Cytuniadau Rhif 44 (1992) Cm 1976.
+(4)
+Diwygiwyd adran 324(1) gan erthygl 5(1) o O.S. 2010/1158 a pharagraff 7(1) a (2) o Atodlen 2 iddo.
+(5)
+1989 p. 41.
+(6)
+1996 p. 56.
+(7)
+1997 p. 50.
+(8)
+2006 p. 47.
+(9)
+2008 p. 25.
+(10)
+2010 p. 15.
+(11)
+2014 dccc 5.
+(12)
+2018 dccc 2.
+(13)
+Diwygiwyd adran 3(1) gan adran 57(1) o Ddeddf Addysg 1997 (p. 44) a pharagraff 9 o Atodlen 7 iddi.
+(14)
+Diwygiwyd adran 158(3) gan adran 169(1) o Ddeddf Addysg a Sgiliau 2008 (p. 25) a pharagraffau 13 a 17(b) o Atodlen 1 iddi.
+(15)
+O.S. 2021/350 (Cy. 102).
+(16)
+Mewnosodwyd adran 141B yn Neddf Addysg 2002 (p. 32) gan adran 8(1) o Ddeddf Addysg 2011 (p. 21).
+(17)
+Mewnosodwyd adran 141C yn Neddf Addysg 2002 (p. 32) gan adran 8(1) o Ddeddf Addysg 2011 (p. 21).
+(18)
+Mewnosodwyd adran 116A gan adran 83 o Ddeddf Diogelu Rhyddidau 2012 (p. 9) ac fe’i diwygiwyd gan erthyglau 36 a 37(g) o O.S. 2012/3006.
+(19)
+Mae adran 579(1) wedi ei diwygio ond nid yw’r diwygiadau hynny yn berthnasol i’r Rheoliadau hyn.
+(20)
+Diwygiwyd y diffiniad o “proprietor” gan adran 140(1) o Ddeddf Safonau a Fframwaith Ysgolion 1998 (p. 31) a pharagraff 183(a)(iii) o Atodlen 30 iddi. Mae offerynnau diwygio eraill nad ydynt yn berthnasol i’r Rheoliadau hyn.
+(21)
+Diwygiwyd adran 171 gan adran 169 o Ddeddf Addysg a Sgiliau 2008 (p. 25) a pharagraffau 13 a 24(1), (2)(a) a 2(b) o Atodlen 1, ac Atodlen 2 iddi. Mae diwygiadau eraill i adran 171 nad ydynt yn berthnasol i’r Rheoliadau hyn.
+(22)
+Diwygiwyd adran 542(1) gan erthygl 5(1) o Orchymyn Awdurdodau Addysg Lleol ac Awdurdodau Gwasanaethau Plant (Integreiddio Swyddogaethau) 2010 (O.S. 2010/1158) a pharagraff 7(1) a (3) o Ran 1 o Atodlen 2 iddo, a chan adran 140(1) a (3) o Ddeddf Safonau a Fframwaith Ysgolion 1998 a pharagraff 158(a) o Atodlen 30, ac Atodlen 31, i’r Ddeddf honno. Y Rheoliadau cyfredol yw Rheoliadau Addysg (Mangreoedd Ysgolion) 1999 (O.S. 1999/2) a ddiwygiwyd gan O.S. 2010/1142 (Cy. 101) ac O.S. 2012/1943.
+(23)
+Diwygiwyd adran 576 gan adran 140(1) a (3) o Ddeddf Safonau a Fframwaith Ysgolion 1998 (p. 31) a pharagraff 180 o Atodlen 30, ac Atodlen 31, i’r Ddeddf honno.
+(24)
+ISBN 0 7504 3076 1.
+(25)
+ISBN 0 7504 3077 X.
+(26)
+Mewnosodwyd adran 87C gan adran 107 o Ddeddf Safonau Gofal 2000 (p. 14). Trosglwyddwyd swyddogaethau’r Ysgrifennydd Gwladol, i’r graddau yr oeddent yn arferadwy o ran Cymru, i Gynulliad Cenedlaethol Cymru gan erthygl 2 o Orchymyn Cynulliad Cenedlaethol Cymru (Trosglwyddo Swyddogaethau) 1999 (O.S. 1999/672) ac Atodlen 1 iddo. Trosglwyddwyd swyddogaethau Cynulliad Cenedlaethol Cymru i Weinidogion Cymru yn rhinwedd adran 162 o Ddeddf Llywodraeth Cymru 2006 (p. 32) a pharagraff 30 o Atodlen 11 iddi.
+(27)
+2014 dccc 4.
+(28)
+Diwygiwyd adran 22(1) gan adran 107 o Ddeddf Llywodraeth Leol 2000 (p. 22) a pharagraff 19 o Atodlen 5 iddi, adran 2(1) a (2) o Ddeddf Plant (Ymadael â Gofal) 2000 (p. 35) ac adran 116(2) o Ddeddf Mabwysiadu a Phlant 2002 (p. 38). Fe’i diwygiwyd hefyd gan reoliadau 55 a 69(a) o O.S. 2016/413.
+(29)
+Mewnosodwyd adran 113B yn Neddf yr Heddlu 1997 (p. 50) gan adran 163(2) o Ddeddf Troseddu Cyfundrefnol Difrifol a’r Heddlu 2005 (p. 15). Diwygiwyd adran 113B(1) gan erthyglau 36 a 37(c) o O.S. 2012/3006, gan adrannau 97(2) a 112(2) o Ddeddf Plismona a Throsedd 2009 (p. 26) a Rhan 8 o Atodlen 8 iddi, a chan adran 80(1) o Ddeddf Diogelu Rhyddidau 2012 (p. 9).
+(30)
+Mae adran 99(1) wedi ei diwygio ond nid yw’r diwygiadau hynny yn berthnasol i’r Rheoliadau hyn.
+(31)
+Amnewidiwyd adran 463 gan adran 172 o Ddeddf Addysg 2002 (p. 32). Diwygiwyd is-adran (1) gan adran 26 o Ddeddf Anghenion Dysgu Ychwanegol a’r Tribiwnlys Addysg (Cymru) 2018 (dccc 2) a pharagraff 4 o Atodlen 1 iddi, a chan O.S. 2010/1158 ac O.S. 2016/413 (Cy. 131). Mae offerynnau diwygio eraill ond nid yw’r un ohonynt yn berthnasol i’r Rheoliadau hyn.Safonau Ysgolion Annibynnol
+3.  Mae’r darpariaethau sydd wedi eu cynnwys yn yr Atodlen wedi eu rhagnodi fel y safonau ysgolion annibynnol at ddibenion Pennod 1 o Ran 10 o Ddeddf 2002.Jeremy Miles
+Gweinidog y Gymraeg ac Addysg, un o Weinidogion Cymru
+11 Ionawr 2024Rheoliad 3
+YR ATODLEN
+Y SAFONAU
+RHAN 1
+Ansawdd yr addysg a ddarperir
+1.  Y safonau ynghylch ansawdd yr addysg a ddarperir yn yr ysgol annibynnol yw’r rhai sydd wedi eu cynnwys yn y Rhan hon.
+2.—(1) Mae’r safon yn yr is-baragraff hwn wedi ei chyrraedd—
+(a)
+os yw’r perchennog yn sicrhau bod polisi ysgrifenedig ar gwricwlwm yr ysgol annibynnol, wedi ei ategu gan gynlluniau a chynlluniau gwaith priodol, sy’n darparu ar gyfer y materion a bennir yn is-baragraff (2), wedi ei lunio a’i weithredu’n effeithiol, a
+(b)
+o ran y polisi ysgrifenedig, y cynlluniau a’r cynlluniau gwaith—
+(i)
+os ydynt yn ystyried oedrannau, doniau ac anghenion yr holl ddisgyblion, gan gynnwys y disgyblion hynny sydd â chynllun datblygu unigol neu ddatganiad,
+(ii)
+os nad ydynt yn tanseilio gwerthoedd sylfaenol democratiaeth, rheolaeth y gyfraith, rhyddid yr unigolyn, a pharch a goddefgarwch y rhai sydd â ffydd a chredoau gwahanol at ei gilydd, a
+(iii)
+os ydynt yn ystyried yr egwyddorion yn Rhan 1 o’r Confensiwn.
+(2) At ddibenion paragraff 2(1)(a) y materion yw—
+(a)
+addysg lawnamser o dan oruchwyliaeth ar gyfer pob disgybl o oedran ysgol gorfodol, sy’n rhoi profiad i ddisgyblion yn y meysydd a ganlyn: iaith, cyfathrebu, mathemateg, gwyddoniaeth, technoleg, y dyniaethau, iechyd, llesiant a’r celfyddydau mynegiannol,
+(b)
+bod disgyblion yn caffael sgiliau siarad, gwrando, llythrennedd a rhifedd,
+(c)
+pan fo prif iaith yr addysgu yn iaith heblaw’r Gymraeg neu’r Saesneg, gwersi Cymraeg ysgrifenedig a llafar, neu wersi Saesneg ysgrifenedig a llafar, ac eithrio na fydd y gofyniad hwn yn gymwys mewn cysylltiad ag ysgol annibynnol nad yw’n darparu addysg ond i ddisgyblion sydd i gyd yn preswylio dros dro yng Nghymru a’r ysgol annibynnol honno yn dilyn cwricwlwm gwlad arall,
+(d)
+addysg bersonol, addysg gymdeithasol ac addysg iechyd—
+(i)
+sy’n adlewyrchu nodau ac ethos yr ysgol annibynnol, a
+(ii)
+sy’n annog parch at bobl eraill, gan roi sylw penodol i’r nodweddion gwarchodedig a nodir yn Neddf 2010(1),
+(e)
+ar gyfer disgyblion sy’n cael addysg uwchradd, mynediad at gyngor gyrfaoedd cyfredol, cywir—
+(i)
+sy’n cael ei gyflwyno mewn modd diduedd,
+(ii)
+sy’n eu galluogi i wneud dewisiadau gwybodus am ystod eang o opsiynau gyrfaoedd, a
+(iii)
+sy’n helpu i’w hannog i gyflawni eu potensial,
+(f)
+pan fo gan yr ysgol annibynnol ddisgyblion sy’n iau na’r oedran ysgol gorfodol, rhaglen o weithgareddau sy’n briodol i’w hanghenion addysgol mewn perthynas â datblygiad personol, cymdeithasol, emosiynol a chorfforol a sgiliau cyfathrebu ac iaith,
+(g)
+pan fo gan yr ysgol annibynnol ddisgyblion sy’n hŷn na’r oedran ysgol gorfodol, rhaglen o weithgareddau sy’n briodol i’w hanghenion,
+(h)
+y cyfle i bob disgybl i ddysgu a gwneud cynnydd, gan gynnwys darparu cyfleodd gwahaniaethol pan fo’n briodol, ac
+(i)
+paratoi disgyblion yn effeithiol ar gyfer cyfleoedd, cyfrifoldebau a phrofiadau bywyd fel oedolion.
+(3) Mae’r safon yn yr is-baragraff hwn wedi ei chyrraedd os yw’r perchennog yn sicrhau—
+(a)
+bod yr addysgu yn yr ysgol annibynnol yn galluogi disgyblion i gaffael gwybodaeth newydd a gwneud cynnydd da yn unol â’u gallu er mwyn iddynt wella eu dealltwriaeth a datblygu eu sgiliau yn y pynciau a addysgir,
+(b)
+bod yr addysgu yn yr ysgol annibynnol yn meithrin mewn disgyblion yr ymroddiad i ymdrechu’n ddeallusol, yn gorfforol neu’n greadigol, diddordeb yn eu gwaith a’r gallu i feddwl a dysgu drostynt hwy eu hunain,
+(c)
+bod yr addysgu yn yr ysgol annibynnol yn cynnwys gwersi sydd wedi eu cynllunio’n dda, dulliau addysgu effeithiol, gweithgareddau addas a rheolaeth ddoeth ar amser dysgu,
+(d)
+bod yr addysgu yn yr ysgol annibynnol yn dangos dealltwriaeth dda o ddoniau, anghenion a chyraeddiadau blaenorol y disgyblion ac yn sicrhau bod y rhain yn cael eu hystyried wrth gynllunio gwersi,
+(e)
+bod yr addysgu yn yr ysgol annibynnol yn dangos gwybodaeth dda am y pwnc sy’n cael ei addysgu a dealltwriaeth dda ohono,
+(f)
+bod yr addysgu yn yr ysgol annibynnol yn defnyddio adnoddau dysgu yn effeithiol a bod digon ohonynt ar gael a’u bod yn dda o ran eu hansawdd a’u hystod,
+(g)
+bod yr addysgu yn yr ysgol annibynnol yn dangos bod fframwaith yn ei le i asesu gwaith disgyblion yn rheolaidd ac yn drylwyr ac yn defnyddio’r wybodaeth a geir o’r asesiadau hynny i gynllunio’r addysgu fel bod disgyblion yn gallu gwneud cynnydd,
+(h)
+bod yr addysgu yn yr ysgol annibynnol yn defnyddio strategaethau effeithiol ar gyfer rheoli ymddygiad ac annog y disgyblion i ymddwyn yn gyfrifol,
+(i)
+nad yw’r addysgu yn yr ysgol annibynnol yn tanseilio gwerthoedd sylfaenol democratiaeth a chymorth i gymryd rhan yn y broses ddemocrataidd, rheolaeth y gyfraith, rhyddid yr unigolyn, a pharch a goddefgarwch y rhai sydd â ffydd a chredoau gwahanol at ei gilydd,
+(j)
+bod yr addysgu yn yr ysgol annibynnol yn rhoi sylw dyledus i Ran 1 o’r Confensiwn, a
+(k)
+nad yw’r addysgu yn yr ysgol annibynnol yn gwahaniaethu yn erbyn disgyblion yn groes i Ran 6 o Ddeddf 2010(2).
+3.  Mae’r safon yn y paragraff hwn wedi ei chyrraedd pan fo’r perchennog yn sicrhau bod gan yr ysgol annibynnol fframwaith i werthuso perfformiad disgyblion, drwy gyfeirio naill ai at nodau’r ysgol annibynnol ei hun fel y’u darperir i rieni, neu at yr hyn sy’n arferol yn genedlaethol, neu at y ddau.
+RHAN 2
+Datblygiad ysbrydol, moesol, cymdeithasol a diwylliannol disgyblion
+4.  Mae’r safon ynghylch datblygiad ysbrydol, moesol, cymdeithasol a diwylliannol disgyblion yn yr ysgol annibynnol wedi ei chyrraedd os yw’r perchennog—
+(a)
+yn mynd ati’n weithredol i hybu gwerthoedd sylfaenol democratiaeth a chymorth i gymryd rhan yn y broses ddemocrataidd, rheolaeth y gyfraith, rhyddid yr unigolyn, a pharch a goddefgarwch y rhai sydd â ffydd a chredoau gwahanol at ei gilydd,
+(b)
+yn mynd ati’n weithredol i hybu gwybodaeth am Ran 1 o’r Confensiwn a dealltwriaeth ohoni,
+(c)
+yn sicrhau bod egwyddorion yn cael eu hybu’n weithredol sy’n—
+(i)
+galluogi disgyblion i ddod i’w hadnabod eu hunain yn well ac i ddatblygu eu hunan-dyb a’u hunan-hyder,
+(ii)
+galluogi disgyblion i wahaniaethu rhwng da a drwg ac i barchu’r gyfraith sifil a chyfraith trosedd,
+(iii)
+annog disgyblion i dderbyn cyfrifoldeb am eu hymddygiad, i ddangos blaengaredd ac i ddeall sut y gallant gyfrannu’n gadarnhaol at fywydau’r rhai o fewn cymuned yr ysgol annibynnol, y rhai sy’n byw ac sy’n gweithio yn yr ardal y mae’r ysgol annibynnol ynddi, ac at gymdeithas yn ehangach,
+(iv)
+annog parch at bobl eraill, gan roi sylw penodol i’r nodweddion gwarchodedig a nodir yn Neddf 2010,
+(v)
+darparu i ddisgyblion wybodaeth gyffredinol eang am sefydliadau a gwasanaethau cyhoeddus yng Nghymru a’r Deyrnas Unedig yn ehangach,
+(vi)
+cynorthwyo disgyblion i werthfawrogi a pharchu eu diwylliant eu hunain a diwylliannau eraill mewn ffordd sy’n hybu goddefgarwch a chytgord pellach rhwng traddodiadau diwylliannol gwahanol,
+(vii)
+annog disgyblion i barchu gwerthoedd sylfaenol democratiaeth a chymorth i gymryd rhan yn y broses ddemocrataidd, rheolaeth y gyfraith, rhyddid yr unigolyn, a pharch a goddefgarwch y rhai sydd â ffydd a chredoau gwahanol at ei gilydd,
+(d)
+yn eithrio hybu safbwyntiau gwleidyddol pleidiol wrth addysgu unrhyw bwnc yn yr ysgol annibynnol, ac
+(e)
+yn cymryd unrhyw gamau sy’n rhesymol ymarferol i sicrhau, pan fo materion gwleidyddol yn cael eu dwyn i sylw disgyblion—
+(i)
+pan fyddant yn bresennol yn yr ysgol annibynnol,
+(ii)
+pan fyddant yn cymryd rhan mewn gweithgareddau allgyrsiol sydd wedi eu darparu neu eu trefnu gan yr ysgol annibynnol neu ar ei rhan, neu
+(iii)
+wrth wneud unrhyw hybu yn yr ysgol annibynnol, gan gynnwys drwy ddosbarthu deunydd hybu, weithgareddau allgyrsiol sy’n digwydd yn yr ysgol annibynnol neu yn rhywle arall,
+bod safbwyntiau croes yn cael eu cyflwyno’n gytbwys.
+RHAN 3
+Lles, iechyd a diogelwch disgyblion
+5.  Y safonau ynghylch lles, iechyd a diogelwch disgyblion yn yr ysgol annibynnol yw’r rhai sydd wedi eu cynnwys yn y Rhan hon.
+6.  Mae’r safon yn y paragraff hwn wedi ei chyrraedd os yw’r perchennog yn sicrhau—
+(a)
+bod trefniadau yn cael eu gwneud i ddiogelu a hybu lles disgyblion yn yr ysgol annibynnol,
+(b)
+bod polisi ysgrifenedig i ddiogelu a hybu lles disgyblion yn cael ei lunio a’i weithredu’n effeithiol, ac
+(c)
+bod y trefniadau hynny a’r polisi hwnnw yn rhoi sylw i unrhyw ganllawiau perthnasol a ddyroddir gan Weinidogion Cymru.
+7.  Pan fo’r ysgol annibynnol yn darparu llety byrddio, mae’r safon yn y paragraff hwn wedi ei chyrraedd pan fo’r perchennog yn sicrhau—
+(a)
+bod trefniadau yn cael eu gwneud i ddiogelu a hybu lles disgyblion sy’n byrddio pan fyddant yn cael eu lletya yn yr ysgol annibynnol,
+(b)
+bod polisi llety byrddio ysgrifenedig yn cael ei lunio a’i weithredu’n effeithiol, ac
+(c)
+bod y trefniadau hynny a’r polisi hwnnw yn rhoi sylw i’r Safonau Gofynnol Cenedlaethol ar gyfer Ysgolion Preswyl y Brif Ffrwd neu, pan fo’n gymwys, y Safonau Gofynnol Cenedlaethol ar gyfer Ysgolion Arbennig Preswyl.
+8.  Mae’r safon yn y paragraff hwn wedi ei chyrraedd os yw’r perchennog yn sicrhau—
+(a)
+bod lles disgyblion yn yr ysgol annibynnol yn cael ei ddiogelu a’i hybu drwy lunio polisi asesu risg ysgrifenedig sy’n cynnwys asesu gweithgareddau a wneir y tu allan i fangre’r ysgol annibynnol, a gweithredu’r polisi hwnnw yn effeithiol, a
+(b)
+bod camau gweithredu priodol yn cael eu cymryd i leihau risgiau a nodir.
+9.  Mae’r safon yn y paragraff hwn wedi ei chyrraedd pan fo’r perchennog yn sicrhau bod yr holl staff, yr holl staff cyflenwi a’r holl bersonau sydd â chyfrifoldebau arwain a rheoli yn yr ysgol annibynnol yn mynd ati’n weithredol i hybu llesiant disgyblion.
+10.  Mae’r safon yn y paragraff hwn wedi ei chyrraedd pan fo’r perchennog yn sicrhau—
+(a)
+bod yr holl staff, yr holl staff cyflenwi, yr holl wirfoddolwyr a’r holl ddisgyblion yn cael hyfforddiant priodol ar bolisi diogelu’r ysgol annibynnol yn unol ag unrhyw ganllawiau a ddyroddir gan Weinidogion Cymru mewn perthynas â diogelu, a
+(b)
+bod cofnod ysgrifenedig o’r hyfforddiant hwnnw yn cael ei gynnal.
+11.  Mae’r safon yn y paragraff hwn wedi ei chyrraedd os yw’r perchennog yn hybu ymddygiad da ymhlith disgyblion drwy sicrhau—
+(a)
+bod polisi ymddygiad ysgrifenedig yn cael ei lunio a’i weithredu’n effeithiol—
+(i)
+sy’n annog ac yn gwobrwyo ymddygiad da,
+(ii)
+sy’n nodi’r sancsiynau sydd i’w mabwysiadu os bydd disgybl yn camymddwyn,
+(iii)
+sy’n rhoi sylw i unrhyw ganllawiau perthnasol a ddyroddir gan Weinidogion Cymru, a
+(b)
+bod cofnod yn cael ei gadw o’r sancsiynau a osodir ar ddisgyblion am gamymddwyn difrifol.
+12.  Mae’r safon yn y paragraff hwn wedi ei chyrraedd os yw’r perchennog yn sicrhau bod bwlio yn yr ysgol annibynnol yn cael ei atal cyn belled ag y bo’n rhesymol ymarferol, drwy lunio strategaeth gwrth-fwlio effeithiol a’i gweithredu.
+13.  Mae’r safon yn y paragraff hwn wedi ei chyrraedd os yw’r perchennog yn sicrhau y cydymffurfir â chyfreithiau iechyd a diogelwch perthnasol drwy lunio polisi iechyd a diogelwch ysgrifenedig, sy’n cynnwys ystyried gweithgareddau y tu allan i fangre’r ysgol annibynnol, a gweithredu’r polisi hwnnw yn effeithiol.
+14.  Mae’r safon yn y paragraff hwn wedi ei chyrraedd os yw’r perchennog yn sicrhau cydymffurfedd â Gorchymyn Diwygio Rheoleiddio (Diogelwch Tân) 2005(3).
+15.  Mae’r safon yn y paragraff hwn wedi ei chyrraedd os yw’r perchennog yn sicrhau bod cymorth cyntaf yn cael ei roi mewn modd amserol a medrus drwy lunio polisi cymorth cyntaf ysgrifenedig a’i weithredu’n effeithiol.
+16.  Mae’r safon yn y paragraff hwn wedi ei chyrraedd os yw’r perchennog yn sicrhau bod disgyblion yn cael eu goruchwylio’n briodol drwy ddefnyddio staff yr ysgol annibynnol yn briodol.
+17.  Mae’r safon yn y paragraff hwn wedi ei chyrraedd os yw’r perchennog yn sicrhau bod cofrestr dderbyn a chofrestr bresenoldeb yn cael eu cynnal yn unol â rheoliadau sydd wedi eu gwneud o dan adran 434 o Ddeddf 1996(4).
+18.  Mae’r safon yn y paragraff hwn wedi ei chyrraedd pan fo’r perchennog—
+(a)
+yn sicrhau bod y polisïau a’r strategaethau sy’n ofynnol gan y Rhan hon yn cael eu hadolygu’n rheolaidd a’u diweddaru pan fo’n briodol, a
+(b)
+yn cynnal cofnod ysgrifenedig ynglŷn â pha bryd y mae pob polisi wedi cael ei adolygu a’i ddiweddaru a phob strategaeth wedi cael ei hadolygu a’i diweddaru.
+RHAN 4
+Addasrwydd perchnogion, staff a staff cyflenwi
+19.  Y safonau ynghylch addasrwydd perchnogion, staff, a staff cyflenwi yw’r rhai sydd wedi eu cynnwys yn y Rhan hon.
+20.—(1) Mae’r safon yn y paragraff hwn yn ymwneud ag addasrwydd personau a benodir yn aelodau staff yn yr ysgol annibynnol, heblaw’r perchennog a staff cyflenwi.
+(2) Mae’r safon yn y paragraff hwn wedi ei chyrraedd—
+(a)
+os nad yw person o’r fath wedi ei wahardd rhag gweithgaredd rheoleiddiedig sy’n ymwneud â phlant yn unol ag adran 3(2) o Ddeddf 2006 pan fo’r person hwnnw yn cymryd rhan mewn gweithgaredd, neu y bydd yn cymryd rhan mewn gweithgaredd, sy’n weithgaredd rheoleiddiedig o fewn yr ystyr a roddir i “regulated activity” yn Rhan 1 o Atodlen 4 i’r Ddeddf honno,
+(b)
+os nad yw person o’r fath yn cyflawni gwaith yn yr ysgol annibynnol yn groes i orchymyn gwahardd, gorchymyn gwahardd interim, gorchymyn atal dros dro neu orchymyn atal dros dro interim,
+(c)
+os nad yw person o’r fath yn cyflawni gwaith yn yr ysgol annibynnol yn groes i unrhyw gyfarwyddyd a wneir o dan adran 142 neu 167A o Ddeddf 2002, adran 128 o Ddeddf 2008 neu unrhyw anghymhwysiad, gwaharddiad neu gyfyngiad sy’n cymryd effaith fel pe bai wedi ei gynnwys mewn unrhyw gyfarwyddyd o’r fath,
+(d)
+os yw’r perchennog yn gwneud gwiriadau priodol i gadarnhau, mewn cysylltiad â phob person o’r fath—
+(i)
+pwy yw’r person,
+(ii)
+ffitrwydd meddygol y person,
+(iii)
+hawl y person i weithio yn y Deyrnas Unedig, a
+(iv)
+pan fo’n briodol, cymwysterau’r person,
+(e)
+pan fo’n berthnasol i unrhyw berson o’r fath—
+(i)
+os oes tystysgrif GDG wedi ei chael mewn cysylltiad â’r person hwnnw, neu
+(ii)
+pan fo’r person hwnnw wedi ei gofrestru â gwasanaeth diweddaru’r GDG, os yw gwiriad yn cael ei wneud o ran statws tystysgrif GDG y person,
+(f)
+yn achos unrhyw berson nad yw cael tystysgrif o’r fath yn ddigonol, oherwydd bod y person hwnnw yn byw neu wedi byw y tu allan i’r Deyrnas Unedig, i gadarnhau addasrwydd y person i weithio mewn ysgol annibynnol, os oes unrhyw wiriadau pellach yn cael eu gwneud sy’n briodol ym marn y perchennog, gan roi sylw i unrhyw ganllawiau perthnasol a ddyroddir gan Weinidogion Cymru, ac
+(g)
+yn achos staff sy’n gofalu am ddisgyblion sy’n byrddio, sy’n eu hyfforddi, sy’n eu goruchwylio neu y mae ganddynt ofal drostynt, yn ychwanegol at y materion a bennir ym mharagraffau (a) i (f), os yw’r perchennog yn gwirio cydymffurfedd â’r Safonau yn y Safonau Gofynnol Cenedlaethol ar gyfer Ysgolion Preswyl y Brif Ffrwd neu, pan fo’n gymwys, y Safonau Gofynnol Cenedlaethol ar gyfer Ysgolion Arbennig Preswyl, sy’n ymwneud â fetio staff,
+ac os yw’r perchennog, ar ôl ystyried yr wybodaeth a ddaw o’r gwiriadau y cyfeirir atynt ym mharagraffau (c) i (g), yn ystyried bod y person yn addas ar gyfer y swydd y mae wedi ei benodi iddi.
+(3) Rhaid cwblhau’r gwiriadau y cyfeirir atynt yn is-baragraff (2) (ac eithrio pan fo is-baragraff (4) yn gymwys) cyn i berson gael ei benodi.
+(4) Nid oes angen i’r gwiriadau a bennir yn is-baragraff (2)(d), (e), (f) ac (g) gael eu gwneud pan fo’r aelod newydd o staff (“A”) wedi gweithio—
+(a)
+mewn ysgol annibynnol neu ysgol a gynhelir yng Nghymru mewn swydd yr oedd A yn dod i gysylltiad rheolaidd â phlant neu bobl ifanc ynddi,
+(b)
+mewn ysgol a gynhelir yng Nghymru mewn swydd y penodwyd A iddi ar neu ar ôl 1 Ebrill 2006 ac nad oedd A yn dod i gysylltiad rheolaidd â phlant neu bobl ifanc ynddi, neu
+(c)
+mewn sefydliad yn y sector addysg bellach yng Nghymru mewn swydd a oedd yn ymwneud â darparu addysg neu swydd yr oedd A yn dod i gysylltiad rheolaidd â phlant neu bobl ifanc ynddi,
+yn ystod cyfnod a ddaeth i ben heb fod yn fwy na 90 o ddiwrnodau cyn i A gael ei benodi.
+21.—(1) Mae’r paragraff hwn yn ymwneud ag addasrwydd staff cyflenwi yn yr ysgol annibynnol.
+(2) Mae’r safon yn y paragraff hwn wedi ei chyrraedd—
+(a)
+os nad yw person a gynigir i’r ysgol annibynnol fel aelod o staff cyflenwi gan fusnes cyflogi ond yn dechrau gweithio yn yr ysgol annibynnol os yw’r perchennog wedi cael—
+(i)
+hysbysiad ysgrifenedig gan y busnes cyflogi mewn perthynas â’r person hwnnw—
+(aa)
+bod y gwiriadau y cyfeirir atynt ym mharagraff 24(3)(b)(i) i (iv) a (vii) wedi eu gwneud i’r graddau sy’n berthnasol i’r person hwnnw,
+(bb)
+pan fo’n berthnasol i’r person hwnnw, fod tystysgrif GDG wedi ei chael (neu pan fo’r person wedi ei gofrestru â gwasanaeth diweddaru’r GDG, fod gwiriad o statws tystysgrif GDG y person wedi ei wneud) gan y busnes cyflogi hwnnw neu gan fusnes cyflogi arall,
+(cc)
+os yw’r busnes cyflogi wedi cael tystysgrif o’r fath neu wedi gwirio statws tystysgrif GDG cyn bod y person i fod i ddechrau gweithio yn yr ysgol annibynnol, pa un a oedd y dystysgrif yn datgelu unrhyw fater neu unrhyw wybodaeth, a
+(dd)
+pan fo’r person hwnnw yn berson nad yw cael tystysgrif o’r fath yn ddigonol, oherwydd bod y person hwnnw yn byw neu wedi byw y tu allan i’r Deyrnas Unedig, i gadarnhau addasrwydd y person i weithio mewn ysgol annibynnol, fod y busnes cyflogi hwnnw neu fusnes cyflogi arall wedi cael unrhyw wiriadau pellach sy’n briodol, gan roi sylw i unrhyw ganllawiau perthnasol a ddyroddir gan Weinidogion Cymru, a
+(ii)
+copi o unrhyw dystysgrif GDG y mae busnes cyflogi wedi ei chael cyn bod y person i fod i ddechrau gweithio yn yr ysgol annibynnol,
+(b)
+os nad yw person a gynigir fel aelod o staff cyflenwi gan fusnes cyflogi ond yn dechrau gweithio yn yr ysgol annibynnol os yw’r perchennog yn ystyried bod y person yn addas i’r gwaith y mae’r person wedi ei gyflenwi ar ei gyfer,
+(c)
+os yw perchennog yr ysgol annibynnol, cyn i berson a gynigir fel aelod o staff cyflenwi gan fusnes cyflogi ddechrau gweithio yn yr ysgol annibynnol, yn gwirio pwy yw’r person (ni waeth a oes unrhyw wiriad o’r fath wedi ei gynnal gan y busnes cyflogi cyn cynnig y person fel aelod o staff cyflenwi),
+(d)
+os yw’r perchennog, yn y contract neu drefniadau eraill y mae’r perchennog yn eu gwneud gydag unrhyw fusnes cyflogi, yn ei gwneud yn ofynnol i’r busnes cyflogi ddarparu—
+(i)
+yr hysbysiad y cyfeirir ato ym mharagraff (a)(i), a
+(ii)
+copi o unrhyw dystysgrif GDG y mae’r busnes cyflogi yn ei chael,
+mewn cysylltiad ag unrhyw berson y mae’r busnes cyflogi yn ei gyflenwi i’r ysgol annibynnol, ac
+(e)
+ac eithrio ar gyfer y personau hynny y mae is-baragraff (4) yn gymwys iddynt, yn achos staff cyflenwi sy’n gofalu am ddisgyblion sy’n byrddio, sy’n eu hyfforddi, sy’n eu goruchwylio neu y mae ganddynt ofal drostynt, os yw’r perchennog yn gwirio cydymffurfedd â’r rhannau perthnasol o’r Safonau Gofynnol Cenedlaethol ar gyfer Ysgolion Preswyl y Brif Ffrwd neu, pan fo’n gymwys, y Safonau Gofynnol Cenedlaethol ar gyfer Ysgolion Arbennig Preswyl, sy’n ymwneud â fetio staff.
+(3) Ac eithrio yn achos person y mae is-baragraff (4) yn gymwys iddo, rhaid bod y dystysgrif y cyfeirir ati yn is-baragraff (2)(a)(i)(bb) wedi ei chael neu’r gwiriad statws tystysgrif y cyfeirir ato yn is-baragraff (2)(a)(i)(bb) wedi ei wneud heb fod yn fwy na 90 o ddiwrnodau cyn y dyddiad y mae’r person i fod i ddechrau gweithio yn yr ysgol annibynnol.
+(4) Mae’r is-baragraff hwn yn gymwys i berson (“P”) sydd wedi gweithio—
+(a)
+mewn ysgol annibynnol neu ysgol a gynhelir yng Nghymru mewn swydd yr oedd P yn dod i gysylltiad rheolaidd â phlant neu bobl ifanc ynddi,
+(b)
+mewn ysgol a gynhelir yng Nghymru mewn swydd y penodwyd P iddi ar neu ar ôl 1 Ebrill 2006 ac nad oedd P yn dod i gysylltiad rheolaidd â phlant neu bobl ifanc ynddi, neu
+(c)
+mewn sefydliad yn y sector addysg bellach yng Nghymru mewn swydd a oedd yn ymwneud â darparu addysg neu swydd yr oedd P yn dod i gysylltiad rheolaidd â phlant neu bobl ifanc ynddi,
+yn ystod cyfnod a ddaeth i ben heb fod yn fwy na 90 o ddiwrnodau cyn y dyddiad y mae P i fod i ddechrau gweithio yn yr ysgol annibynnol.
+22.—(1) Mae’r safon yn y paragraff hwn yn ymwneud ag addasrwydd perchennog yr ysgol annibynnol.
+(2) Mae is-baragraff (3) yn ymwneud ag addasrwydd y perchennog pan fo’r perchennog yn unigolyn.
+(3) Mae’r safon yn y paragraff hwn wedi ei chyrraedd—
+(a)
+os—
+(i)
+nad yw’r unigolyn wedi ei wahardd rhag gweithgaredd rheoleiddiedig sy’n ymwneud â phlant yn unol ag adran 3(2) o Ddeddf 2006 pan fo’r unigolyn hwnnw yn cymryd rhan mewn gweithgaredd, neu y bydd yn cymryd rhan mewn gweithgaredd, sy’n weithgaredd rheoleiddiedig o fewn yr ystyr a roddir i “regulated activity” yn Rhan 1 o Atodlen 4 i’r Ddeddf honno,
+(ii)
+nad yw’r unigolyn yn cyflawni gwaith yn yr ysgol annibynnol yn groes i orchymyn gwahardd, gorchymyn gwahardd interim, gorchymyn atal dros dro neu orchymyn atal dros dro interim, a
+(iii)
+nad yw’r unigolyn yn cyflawni gwaith yn yr ysgol annibynnol yn groes i unrhyw gyfarwyddyd a wneir o dan adran 142 neu 167A o Ddeddf 2002, adran 128 o Ddeddf 2008 neu unrhyw anghymhwysiad, gwaharddiad neu gyfyngiad sy’n cymryd effaith fel pe bai wedi ei gynnwys mewn unrhyw gyfarwyddyd o’r fath;
+(b)
+cyn i’r ysgol annibynnol gael ei chynnwys yn y gofrestr neu, yn achos ysgol annibynnol gofrestredig, cyn i’r unigolyn gymryd drosodd fel perchennog, pan fo’n berthnasol i’r unigolyn—
+(i)
+os ceir tystysgrif GDG ac os darperir y dystysgrif i Weinidogion Cymru, neu
+(ii)
+pan fo’r unigolyn hwnnw wedi ei gofrestru â gwasanaeth diweddaru’r GDG, os gwneir gwiriad o statws tystysgrif GDG yr unigolyn ac os adroddir am y gwiriad i Weinidogion Cymru,
+ac os yw Gweinidogion Cymru, ar ôl ystyried yr wybodaeth a ddaw o’r dystysgrif GDG, wedi cadarnhau eu bod yn ystyried bod yr unigolyn yn addas i fod yn berchennog yr ysgol annibynnol;
+(c)
+cyn i’r ysgol annibynnol gael ei chynnwys yn y gofrestr neu, yn achos ysgol annibynnol gofrestredig, cyn i’r unigolyn gymryd drosodd fel perchennog yn achos unigolyn nad yw cael tystysgrif GDG yn ddigonol, oherwydd bod yr unigolyn hwnnw yn byw neu wedi byw y tu allan i’r Deyrnas Unedig, i gadarnhau addasrwydd yr unigolyn i weithio mewn ysgol annibynnol, os yw Gweinidogion Cymru yn gwneud unrhyw wiriadau pellach y mae Gweinidogion Cymru yn ystyried eu bod yn briodol ac os ydynt, ar ôl ystyried yr wybodaeth a ddaw o’r gwiriadau hyn, yn ystyried bod yr unigolyn yn addas i fod yn berchennog yr ysgol annibynnol;
+(d)
+cyn i’r ysgol annibynnol gael ei chynnwys yn y gofrestr neu, yn achos ysgol annibynnol gofrestredig, cyn i’r unigolyn gymryd drosodd fel perchennog—
+(i)
+os yw Gweinidogion Cymru yn gwneud gwiriadau sy’n cadarnhau pwy yw’r unigolyn, neu
+(ii)
+os yw Gweinidogion Cymru yn gofyn am wneud gwiriadau at ddibenion cadarnhau pwy yw’r unigolyn ac yn dilyn y cais hwnnw—
+(aa)
+bod tystiolaeth yn cael ei darparu er boddhad Gweinidogion Cymru mai’r unigolyn yw’r person â’r hunaniaeth benodol y mae’r unigolyn yn ei hawlio, a
+(bb)
+bod Gweinidogion Cymru yn hysbysu’r unigolyn bod Gweinidogion Cymru wedi eu bodloni bod hunaniaeth yr unigolyn wedi ei gadarnhau;
+(e)
+cyn i’r ysgol annibynnol gael ei chynnwys yn y gofrestr neu, yn achos ysgol annibynnol gofrestredig, cyn i’r unigolyn gymryd drosodd fel perchennog—
+(i)
+os yw Gweinidogion Cymru yn gwneud gwiriadau sy’n cadarnhau bod gan yr unigolyn hawl i weithio yn y Deyrnas Unedig, neu
+(ii)
+os yw Gweinidogion Cymru yn gofyn am wneud gwiriadau at ddibenion cadarnhau bod gan yr unigolyn hawl i weithio yn y Deyrnas Unedig ac yn dilyn y cais hwnnw—
+(aa)
+bod tystiolaeth yn cael ei darparu er boddhad Gweinidogion Cymru bod yr hawl hwnnw gan yr unigolyn, a
+(bb)
+bod Gweinidogion Cymru yn hysbysu’r unigolyn bod Gweinidogion Cymru wedi eu bodloni bod yr hawl hwnnw gan yr unigolyn.
+(4) Mae is-baragraffau (5) i (7) yn ymwneud ag addasrwydd y perchennog pan fo’r perchennog yn gorff o bersonau corfforedig neu anghorfforedig.
+(5) Mae’r safon yn y paragraff hwn wedi ei chyrraedd mewn perthynas ag unigolyn sy’n gadeirydd yr ysgol annibynnol—
+(a)
+os—
+(i)
+nad yw’r unigolyn wedi ei wahardd rhag gweithgaredd rheoleiddiedig sy’n ymwneud â phlant yn unol ag adran 3(2) o Ddeddf 2006 pan fo’r unigolyn hwnnw yn cymryd rhan mewn gweithgaredd, neu y bydd yn cymryd rhan mewn gweithgaredd, sy’n weithgaredd rheoleiddiedig o fewn yr ystyr a roddir i “regulated activity” yn Rhan 1 o Atodlen 4 i’r Ddeddf honno,
+(ii)
+nad yw’r unigolyn yn cyflawni gwaith yn yr ysgol annibynnol yn groes i orchymyn gwahardd, gorchymyn gwahardd interim, gorchymyn atal dros dro neu orchymyn atal dros dro interim, a
+(iii)
+nad yw’r unigolyn yn cyflawni gwaith yn yr ysgol annibynnol yn groes i unrhyw gyfarwyddyd a wneir o dan adran 142 neu 167A o Ddeddf 2002, adran 128 o Ddeddf 2008 neu unrhyw anghymhwysiad, gwaharddiad neu gyfyngiad sy’n cymryd effaith fel pe bai wedi ei gynnwys mewn unrhyw gyfarwyddyd o’r fath;
+(b)
+yn ddarostyngedig i is-baragraff (7), pan fo’n berthnasol i’r unigolyn—
+(i)
+os ceir tystysgrif GDG ac os darperir y dystysgrif i Weinidogion Cymru, neu
+(ii)
+pan fo’r unigolyn hwnnw wedi ei gofrestru â gwasanaeth diweddaru’r GDG, os gwneir gwiriad o statws tystysgrif GDG yr unigolyn ac os adroddir am y gwiriad i Weinidogion Cymru,
+ac os yw Gweinidogion Cymru, ar ôl ystyried yr wybodaeth a ddaw o’r dystysgrif GDG, wedi cadarnhau eu bod yn ystyried bod yr unigolyn yn addas i fod yn gadeirydd yr ysgol annibynnol;
+(c)
+yn ddarostyngedig i is-baragraff (7), yn achos unigolyn nad yw cael tystysgrif GDG yn ddigonol, oherwydd bod yr unigolyn hwnnw yn byw neu wedi byw y tu allan i’r Deyrnas Unedig, i gadarnhau addasrwydd yr unigolyn i weithio mewn ysgol annibynnol, os yw Gweinidogion Cymru yn gwneud unrhyw wiriadau pellach y maent yn ystyried eu bod yn briodol ac os yw Gweinidogion Cymru, ar ôl ystyried yr wybodaeth a ddaw o’r gwiriadau hyn, wedi cadarnhau eu bod yn ystyried bod yr unigolyn yn addas i fod yn gadeirydd yr ysgol annibynnol;
+(d)
+yn ddarostyngedig i is-baragraff (7)—
+(i)
+os yw Gweinidogion Cymru yn gwneud gwiriadau sy’n cadarnhau pwy yw’r unigolyn, neu
+(ii)
+os yw Gweinidogion Cymru yn gofyn am wneud gwiriadau at ddibenion cadarnhau pwy yw’r unigolyn ac yn dilyn y cais hwnnw—
+(aa)
+bod tystiolaeth yn cael ei darparu er boddhad Gweinidogion Cymru mai’r unigolyn yw’r person â’r hunaniaeth benodol y mae’r unigolyn yn ei hawlio, a
+(bb)
+bod Gweinidogion Cymru yn hysbysu perchennog yr ysgol annibynnol bod Gweinidogion Cymru wedi eu bodloni bod hunaniaeth yr unigolyn wedi ei gadarnhau;
+(e)
+yn ddarostyngedig i is-baragraff (7)—
+(i)
+os yw Gweinidogion Cymru yn gwneud gwiriadau sy’n cadarnhau bod gan yr unigolyn hawl i weithio yn y Deyrnas Unedig, neu
+(ii)
+os yw Gweinidogion Cymru yn gofyn am wneud gwiriadau at ddibenion cadarnhau bod gan yr unigolyn hawl i weithio yn y Deyrnas Unedig ac yn dilyn y cais hwnnw—
+(aa)
+bod tystiolaeth yn cael ei darparu er boddhad Gweinidogion Cymru bod yr hawl hwnnw gan yr unigolyn, a
+(bb)
+bod Gweinidogion Cymru yn hysbysu perchennog yr ysgol annibynnol bod Gweinidogion Cymru wedi eu bodloni bod yr hawl hwnnw gan yr unigolyn.
+(6) Mae’r safon yn y paragraff hwn wedi ei chyrraedd mewn perthynas ag unigolyn (“AG”), nad ef yw cadeirydd yr ysgol annibynnol, sy’n aelod o gorff o bersonau corfforedig neu anghorfforedig sydd wedi ei enwi fel perchennog yr ysgol annibynnol yn y gofrestr neu mewn cais i gynnwys yr ysgol annibynnol yn y gofrestr—
+(a)
+os—
+(i)
+nad yw AG wedi ei wahardd rhag gweithgaredd rheoleiddiedig sy’n ymwneud â phlant yn unol ag adran 3(2) o Ddeddf 2006 pan fo’r unigolyn hwnnw yn cymryd rhan mewn gweithgaredd, neu y bydd yn cymryd rhan mewn gweithgaredd, sy’n weithgaredd rheoleiddiedig o fewn yr ystyr a roddir i “regulated activity” yn Rhan 1 o Atodlen 4 i’r Ddeddf honno,
+(ii)
+nad yw AG yn cyflawni gwaith yn yr ysgol annibynnol yn groes i orchymyn gwahardd, gorchymyn gwahardd interim, gorchymyn atal dros dro neu orchymyn atal dros dro interim, a
+(iii)
+nad yw AG yn cyflawni gwaith yn yr ysgol annibynnol yn groes i unrhyw gyfarwyddyd a wneir o dan adran 142 neu 167A o Ddeddf 2002, adran 128 o Ddeddf 2008 neu unrhyw anghymhwysiad, gwaharddiad neu gyfyngiad sy’n cymryd effaith fel pe bai wedi ei gynnwys yn y naill gyfarwyddyd neu’r llall;
+(b)
+yn ddarostyngedig i is-baragraff (7), os yw cadeirydd yr ysgol annibynnol, mewn perthynas ag AG—
+(i)
+pan fo’n berthnasol, yn cael tystysgrif GDG (neu pan fo AG wedi ei gofrestru â gwasanaeth diweddaru’r GDG, yn gwneud gwiriad o statws tystysgrif GDG AG),
+(ii)
+yn cael gwiriadau sy’n cadarnhau pwy yw AG a hawl AG i weithio yn y Deyrnas Unedig, a
+(iii)
+pan na fo cael tystysgrif GDG yn ddigonol, oherwydd bod AG yn byw neu wedi byw y tu allan i’r Deyrnas Unedig, i gadarnhau addasrwydd AG i weithio mewn ysgol annibynnol, yn gwneud unrhyw wiriadau pellach y mae cadeirydd yr ysgol annibynnol yn ystyried eu bod yn briodol, gan roi sylw i unrhyw ganllawiau perthnasol a ddyroddir gan Weinidogion Cymru,
+ac os yw’r cadeirydd, ar ôl ystyried yr wybodaeth a ddaw o’r gwiriadau hyn, yn ystyried bod AG yn addas i fod yn aelod o gorff o bersonau corfforedig neu anghorfforedig sydd wedi ei enwi fel perchennog yr ysgol annibynnol.
+(7) Yn achos ysgol annibynnol gofrestredig—
+(a)
+mae is-baragraffau (5)(b) ac (c) wedi eu bodloni pan fo’r gwiriadau y cyfeirir atynt yn yr is-baragraffau hynny wedi eu cwblhau cyn i gadeirydd yr ysgol annibynnol ddechrau gweithredu fel cadeirydd,
+(b)
+mae is-baragraff (5)(d) wedi ei fodloni pan fo’r gwiriadau y cyfeirir atynt ym mharagraff (d) wedi eu cwblhau, neu pan roddir hysbysiad gan Weinidogion Cymru i berchennog yr ysgol annibynnol fel y cyfeirir ato ym mharagraff (d)(ii)(bb), cyn i gadeirydd yr ysgol annibynnol ddechrau gweithredu fel cadeirydd,
+(c)
+mae is-baragraff (5)(e) wedi ei fodloni pan fo’r gwiriadau y cyfeirir atynt ym mharagraff (e)(i) wedi eu cwblhau, neu pan roddir hysbysiad gan Weinidogion Cymru i berchennog yr ysgol annibynnol fel y cyfeirir ato ym mharagraff (e)(ii)(bb), cyn i gadeirydd yr ysgol annibynnol ddechrau gweithredu fel cadeirydd, a
+(d)
+mae is-baragraff (6)(b) wedi ei fodloni pan fo’r gwiriadau y cyfeirir atynt ym mharagraff (b)(i) a (iii) wedi eu cwblhau cyn i AG ddechrau gweithredu fel aelod o gorff o bersonau corfforedig neu anghorfforedig sydd wedi ei enwi yn y gofrestr fel perchennog yr ysgol annibynnol.
+23.  Mae’r safon yn y paragraff hwn wedi ei chyrraedd pan fo’n berthnasol i unigolyn—
+(a)
+mewn perthynas ag aelodau o staff yn yr ysgol annibynnol—
+(i)
+pan fo unigolyn wedi ei gofrestru â gwasanaeth diweddaru’r GDG, os yw’r perchennog yn gwirio statws tystysgrif yr unigolyn o leiaf bob tair blynedd;
+(ii)
+pan na fo unigolyn wedi ei gofrestru â gwasanaeth diweddaru’r GDG, os yw’r perchennog yn gwneud cais am dystysgrif GDG mewn cysylltiad â’r unigolyn hwnnw o leiaf bob tair blynedd,
+ac os yw’r perchennog, ar ôl ystyried yr wybodaeth a ddaw o’r gwiriad neu’r cais, yn ystyried bod yr unigolyn yn parhau i fod yn addas ar gyfer y swydd y mae wedi ei benodi iddi;
+(b)
+mewn perthynas â’r perchennog pan fo’r perchennog yn unigolyn—
+(i)
+pan fo unigolyn wedi ei gofrestru â gwasanaeth diweddaru’r GDG, os gwneir gwiriad o statws tystysgrif yr unigolyn ac yr adroddir am y gwiriad i Weinidogion Cymru o leiaf bob tair blynedd;
+(ii)
+pan na fo unigolyn wedi ei gofrestru â gwasanaeth diweddaru’r GDG, os gwneir cais am dystysgrif GDG mewn cysylltiad â’r unigolyn ac os darperir y dystysgrif i Weinidogion Cymru o leiaf bob tair blynedd,
+ac os yw Gweinidogion Cymru, ar ôl ystyried yr wybodaeth a ddaw o’r gwiriad neu’r cais, yn ystyried bod yr unigolyn yn parhau i fod yn addas i fod yn berchennog yr ysgol annibynnol;
+(c)
+mewn perthynas ag unigolyn sy’n gadeirydd yr ysgol annibynnol—
+(i)
+pan fo unigolyn wedi ei gofrestru â gwasanaeth diweddaru’r GDG, os gwneir gwiriad o statws tystysgrif yr unigolyn ac yr adroddir am y gwiriad i Weinidogion Cymru o leiaf bob tair blynedd;
+(ii)
+pan na fo unigolyn wedi ei gofrestru â gwasanaeth diweddaru’r GDG, os gwneir cais am dystysgrif GDG mewn cysylltiad â’r unigolyn ac os darperir y dystysgrif i Weinidogion Cymru o leiaf bob tair blynedd,
+ac os yw Gweinidogion Cymru, ar ôl ystyried yr wybodaeth a ddaw o’r gwiriad neu’r cais, yn ystyried bod yr unigolyn yn parhau i fod yn addas i fod yn gadeirydd yr ysgol annibynnol;
+(d)
+mewn perthynas ag unigolyn, nad yw’n gadeirydd yr ysgol annibynnol, sy’n aelod o gorff o bersonau corfforedig neu anghorfforedig sydd wedi ei enwi fel perchennog yr ysgol annibynnol—
+(i)
+pan fo unigolyn wedi ei gofrestru â gwasanaeth diweddaru’r GDG, os gwneir gwiriad o statws tystysgrif yr unigolyn gan y cadeirydd o leiaf bob tair blynedd;
+(ii)
+pan na fo unigolyn wedi ei gofrestru â gwasanaeth diweddaru’r GDG, os gwneir cais am dystysgrif GDG mewn cysylltiad â’r unigolyn gan y cadeirydd o leiaf bob tair blynedd,
+ac os yw’r cadeirydd, ar ôl ystyried yr wybodaeth a ddaw o’r gwiriad neu’r cais, yn ystyried bod yr unigolyn yn parhau i fod yn addas i fod yn aelod o’r corff o bersonau corfforedig neu anghorfforedig sydd wedi ei enwi fel perchennog yr ysgol annibynnol;
+(e)
+at ddibenion is-baragraffau (a) i (d), pan na fo gwiriad gwasanaeth diweddaru’r GDG wedi ei wneud na chais am dystysgrif GDG wedi ei wneud mewn cysylltiad ag unrhyw unigolyn o fewn cyfnod o 3 blynedd sy’n dod i ben â’r dyddiad y daw’r Rheoliadau hyn i rym, rhaid gwneud y gwiriad cyntaf neu’r cais cyntaf o’r fath o fewn cyfnod o 180 o ddiwrnodau gan ddechrau â’r dyddiad y daw’r Rheoliadau hyn i rym.
+24.—(1) Mae’r safon yn y paragraff hwn wedi ei chyrraedd os yw’r perchennog yn cadw cofrestr yn unol â pholisi’r ysgol annibynnol ar gadw data sy’n dangos yr wybodaeth honno y cyfeirir ati yn is-baragraffau (3) i (5) sy’n gymwys i’r ysgol annibynnol o dan sylw.
+(2) Caniateir cadw’r gofrestr y cyfeirir ati yn is-baragraff (1) ar ffurf electronig, ar yr amod bod modd atgynhyrchu’r wybodaeth a gofnodir ar ffurf ddarllenadwy.
+(3) Yr wybodaeth y cyfeirir ati yn yr is-baragraff hwn yw—
+(a)
+mewn perthynas â phob aelod o staff, y dyddiad y’i penodwyd;
+(b)
+mewn perthynas â phob aelod o staff (“S”)—
+(i)
+a wiriwyd pwy yw S,
+(ii)
+a wiriwyd pa un a yw S wedi ei wahardd rhag gweithgaredd rheoleiddiedig sy’n ymwneud â phlant yn unol ag adran 3(2) o Ddeddf 2006,
+(iii)
+a wiriwyd pa un a yw S yn ddarostyngedig i orchymyn gwahardd, gorchymyn gwahardd interim, gorchymyn atal dros dro, neu orchymyn gwahardd dros dro interim,
+(iv)
+a wiriwyd pa un a yw S yn ddarostyngedig i unrhyw gyfarwyddyd a wneir o dan adran 142 neu 167A o Ddeddf 2002, adran 128 o Ddeddf 2008 neu unrhyw anghymhwysiad, gwaharddiad neu gyfyngiad sy’n cymryd effaith fel pe bai wedi ei gynnwys mewn cyfarwyddyd o’r fath,
+(v)
+a wnaed gwiriadau i sicrhau bod gan S y cymwysterau perthnasol, pan fo’n briodol,
+(vi)
+a gafwyd tystysgrif GDG mewn cysylltiad ag S (neu pan fo S wedi ei gofrestru â gwasanaeth diweddaru’r GDG, a wnaed gwiriad o statws tystysgrif S),
+(vii)
+a wiriwyd hawl S i weithio yn y Deyrnas Unedig, ac
+(viii)
+a wnaed gwiriadau yn unol â pharagraff 20(2)(f),
+gan gynnwys y dyddiad y cwblhawyd pob gwiriad o’r fath neu y cafwyd y dystysgrif.
+(4) Yr wybodaeth y cyfeirir ati yn yr is-baragraff hwn yw, mewn perthynas â staff cyflenwi—
+(a)
+a gafwyd hysbysiad ysgrifenedig oddi wrth y busnes cyflogi—
+(i)
+bod y gwiriadau sy’n cyfateb i’r rhai y cyfeirir atynt yn is-baragraff (3)(b)(i) i (iv), (vii) ac (viii) wedi eu gwneud i’r graddau sy’n berthnasol i unrhyw berson o’r fath, a
+(ii)
+bod y busnes cyflogi hwnnw neu fusnes cyflogi arall wedi cael tystysgrif GDG (neu pan fo’r person wedi ei gofrestru â gwasanaeth diweddaru’r GDG, bod gwiriad wedi ei wneud o ran statws tystysgrif y person),
+ynghyd â’r dyddiad y cafwyd yr hysbysiad ysgrifenedig bod pob gwiriad o’r fath wedi ei wneud, neu fod tystysgrif wedi ei chael,
+(b)
+pan fo hysbysiad ysgrifenedig wedi ei gael gan y busnes cyflogi yn unol â chontract neu drefniadau eraill y cyfeirir atynt ym mharagraff 21(2)(d) ei fod wedi cael tystysgrif GDG, pa un a yw’r busnes cyflogi wedi rhoi copi o’r dystysgrif i’r ysgol annibynnol ai peidio, ac
+(c)
+a oes gwiriad wedi ei wneud yn unol â pharagraff 21(2)(e), ynghyd â’r dyddiad y cwblhawyd y gwiriad.
+(5) Yr wybodaeth y cyfeirir ati yn yr is-baragraff hwn yw, mewn perthynas â phob aelod o gorff o bersonau sydd wedi ei enwi fel y perchennog—
+(a)
+y dyddiad y’i penodwyd;
+(b)
+a wnaed y gwiriadau y cyfeirir atynt ym mharagraff 22(6)(b), y dyddiad y gwnaed y gwiriadau hynny a’r dyddiad y cafwyd y dystysgrif sy’n deillio o’r gwiriadau hynny.
+(6) Nid yw’n berthnasol at ddibenion is-baragraffau (3), (4) a (5) a wnaed y gwiriad neu a gafwyd y dystysgrif yn unol â rhwymedigaeth gyfreithiol.
+RHAN 5
+Mangreoedd ysgolion a llety byrddio mewn ysgolion annibynnol
+25.  Y safonau ynghylch mangreoedd a llety byrddio yn yr ysgol annibynnol yw’r rhai sydd wedi eu cynnwys yn y Rhan hon.
+26.  At ddibenion y Rhan hon, mae gan ddisgybl “gofynion arbennig” os oes gan y disgybl unrhyw anghenion sy’n deillio o amhariadau corfforol, meddygol, synhwyraidd, dysgu, emosiynol neu ymddygiadol sy’n gofyn am ddarpariaeth sy’n ychwanegol at yr hyn sy’n ofynnol yn gyffredinol gan blant o’r un oedran mewn ysgolion a gynhelir ac ysgolion annibynnol heblaw ysgolion arbennig neu’n wahanol i’r hyn sy’n ofynnol yn gyffredinol ganddynt.
+27.  Mae’r safon yn y paragraff hwn wedi ei chyrraedd os yw’r perchennog yn sicrhau—
+(a)
+bod y cyflenwad dŵr yn bodloni gofynion y rheoliadau mangreoedd ysgolion,
+(b)
+bod system ddraenio ddigonol at ddibenion hylendid ac i gael gwared ar ddŵr gwastraff a dŵr wyneb,
+(c)
+bod pob strwythur sy’n dal pwysau yn foddhaol yn unol â’r rheoliadau mangreoedd ysgolion,
+(d)
+bod gan yr ysgol annibynnol drefniadau effeithiol o ran diogelwch ar gyfer ei thir a’i hadeilad,
+(e)
+bod mangreoedd sy’n cael eu defnyddio at ddiben arall heblaw cynnal yr ysgol annibynnol wedi eu trefnu i sicrhau bod iechyd, diogelwch a lles disgyblion wedi eu diogelu ac i sicrhau na thorrir ar draws eu haddysg gan ddefnyddwyr eraill,
+(f)
+bod adeiladau’r ysgol annibynnol yn darparu lloches resymol rhag y glaw, yr eira, y gwynt a lleithder o’r ddaear,
+(g)
+bod mynediad yn ddigonol fel bod modd i bob disgybl, yn enwedig y rhai â gofynion arbennig, adael yn ddiogel mewn argyfwng,
+(h)
+bod mynediad i’r ysgol annibynnol yn caniatáu i bob disgybl, gan gynnwys y rhai â gofynion arbennig, fynd i mewn i’r ysgol annibynnol a’i gadael yn ddiogel ac yn gyfforddus,
+(i)
+nad yw’r fangre a’r llety byrddio mewn cyflwr sy’n golygu eu bod yn niweidiol i iechyd neu’n niwsans,
+(j)
+gan roi sylw i nifer, oedran ac anghenion (gan gynnwys unrhyw ofynion arbennig) y disgyblion, fod yr ystafelloedd dosbarth yn briodol o ran maint i ganiatáu addysgu effeithiol ac nad ydynt yn peryglu iechyd a diogelwch,
+(k)
+bod digon o ystafelloedd ymolchi i’r staff a’r disgyblion, gan gynnwys cyfleusterau ar gyfer disgyblion â gofynion arbennig, gan roi ystyriaeth i’r rheoliadau mangreoedd ysgolion,
+(l)
+bod cyfleusterau priodol ar gyfer disgyblion sy’n sâl, yn unol â’r rheoliadau mangreoedd ysgolion,
+(m)
+pan fo bwyd a diod yn cael eu gweini, fod cyfleusterau digonol ar gyfer eu paratoi, eu gweini, a’u bwyta a’u hyfed yn hylan,
+(n)
+bod ystafelloedd dosbarth a rhannau eraill o’r ysgol annibynnol yn cael eu cadw mewn cyflwr taclus, glân a hylan,
+(o)
+bod y dulliau ynysu rhag sŵn a’r acwsteg yn caniatáu addysgu a chyfathrebu effeithiol,
+(p)
+bod y dulliau goleuo, gwresogi ac awyru yn yr ystafelloedd dosbarth a rhannau eraill o’r ysgol annibynnol yn foddhaol yn unol â’r rheoliadau mangreoedd ysgolion,
+(q)
+bod y gwaith addurno o safon foddhaol ac wedi ei gynnal a’i gadw’n ddigonol,
+(r)
+bod y dodrefn a’r ffitiadau wedi eu dylunio’n briodol ar gyfer oedran a gofynion (gan gynnwys unrhyw ofynion arbennig) pob disgybl cofrestredig yn yr ysgol annibynnol,
+(s)
+bod gorchuddion priodol ar y llawr a’u bod mewn cyflwr da,
+(t)
+bod trefniadau priodol ar gyfer darparu lle yn yr awyr agored i’r holl ddisgyblion chwarae yn ddiogel (gan gynnwys disgyblion ag unrhyw ofynion arbennig),
+(u)
+pan fo llety byrddio yn cael ei ddarparu, ei fod yn rhoi sylw i’r Safonau Gofynnol Cenedlaethol ar gyfer Ysgolion Preswyl y Brif Ffrwd neu, pan fo’n gymwys, y Safonau Gofynnol Cenedlaethol ar gyfer Ysgolion Arbennig Preswyl, a
+(v)
+bod cynllun hygyrchedd wedi ei lunio a’i adolygu yn unol â gofynion adran 88 o Ddeddf 2010 ac Atodlen 10 iddi.
+RHAN 6
+Darparu gwybodaeth
+28.—(1) Mae’r ddarpariaeth o wybodaeth gan yr ysgol annibynnol yn cyrraedd y safon os yw’r perchennog yn sicrhau bod y gofynion yn is-baragraffau (2) i (8) wedi eu bodloni.
+(2) Rhaid i’r ysgol annibynnol ddarparu i rieni disgyblion a rhieni darpar ddisgyblion ac, ar gais, i’r Prif Arolygydd, Gweinidogion Cymru, neu gorff sydd wedi ei gymeradwyo o dan adran 163(1)(b) o Ddeddf 2002—
+(a)
+cyfeiriad, cyfeiriad e-bost a rhif ffôn yr ysgol annibynnol, ac enw’r pennaeth;
+(b)
+naill ai—
+(i)
+pan fo’r perchennog yn unigolyn, yr wybodaeth a ganlyn am y person hwnnw—
+(aa)
+enw llawn,
+(bb)
+cyfeiriad e-bost busnes uniongyrchol,
+(cc)
+rhif ffôn (yn ystod y tymor a’r tu allan i’r tymor),
+(dd)
+cyfeiriad ar gyfer gohebiaeth (yn ystod y tymor a’r tu allan i’r tymor), neu
+(ii)
+pan fo’r perchennog yn gorff o bersonau corfforedig neu anghorfforedig, cyfeiriad a rhif ffôn ei swyddfa gofrestredig neu ei brif swyddfa;
+(c)
+pan fo gan yr ysgol annibynnol gorff llywodraethu, enw a manylion cyswllt cadeirydd y corff hwnnw;
+(d)
+datganiad am ethos yr ysgol annibynnol (gan gynnwys unrhyw ethos crefyddol) a’i nodau;
+(e)
+manylion am bolisi’r ysgol annibynnol o ran derbyn disgyblion, disgyblaeth a gwahardd disgyblion a threfniadau’r ysgol mewn perthynas â hwy;
+(f)
+manylion am y ddarpariaeth o ran addysg a lles ar gyfer disgyblion sydd â chynlluniau datblygu unigol neu ddatganiadau a disgyblion y mae’r Gymraeg neu’r Saesneg yn iaith ychwanegol iddynt.
+(3) Rhaid i’r ysgol annibynnol roi ar gael i rieni disgyblion a rhieni darpar ddisgyblion ac, ar gais, i’r Prif Arolygydd, Gweinidogion Cymru, neu gorff sydd wedi ei gymeradwyo o dan adran 163(1)(b) o Ddeddf 2002—
+(a)
+manylion y polisïau a lunnir o dan Ran 1 o’r Atodlen hon,
+(b)
+manylion y polisïau a lunnir o dan Ran 3 o’r Atodlen hon,
+(c)
+manylion perfformiad academaidd yr ysgol annibynnol yn ystod y flwyddyn ysgol flaenorol, gan gynnwys canlyniadau unrhyw arholiadau ac asesiadau cyhoeddus a oedd yn arwain at gymwysterau,
+(d)
+manylion y weithdrefn gwyno a nodir yn unol â pharagraff 29 o’r Atodlen hon, a nifer y cwynion a gofrestrwyd o dan y weithdrefn ffurfiol yn ystod y flwyddyn ysgol flaenorol,
+(e)
+nifer y staff sydd wedi eu cyflogi yn yr ysgol annibynnol, gan gynnwys staff dros dro, a chrynodeb o’u cymwysterau,
+(f)
+dyddiadau’r tymor ar gyfer—
+(i)
+y flwyddyn academaidd bresennol, a
+(ii)
+y flwyddyn academaidd ddilynol, ac
+(g)
+y dyddiadau y bwriedir bod ar gau yn ystod dyddiadau’r tymor a roddir ar gael o dan baragraff (f).
+(4) Yn dilyn arolygiad o dan adran 163(1) o Ddeddf 2002 a heb fod yn fwy na 14 o ddiwrnodau ar ôl i gopi o adroddiad yr arolygiad gael ei ddarparu i’r perchennog neu’r ysgol annibynnol mae’r adroddiad arolygu—
+(a)
+yn cael ei gyhoeddi a’i gynnal ar wefan yr ysgol annibynnol (os oes gan yr ysgol annibynnol wefan), a
+(b)
+yn cael ei ddarparu—
+(i)
+i rieni pob disgybl cofrestredig,
+(ii)
+pan fo disgybl cofrestredig yn derbyn gofal gan awdurdod lleol, i’r awdurdod lleol sy’n gyfrifol am roi’r gofal iddo,
+(iii)
+pan fo lleoliad disgybl cofrestredig wedi ei gyllido’n gyfan gwbl neu’n rhannol gan awdurdod lleol, i’r awdurdod lleol sy’n darparu’r cyllid, a
+(iv)
+pan fo gan ddisgybl cofrestredig gynllun datblygu unigol neu ddatganiad, i’r awdurdod lleol sy’n gyfrifol am gynnal y cynllun datblygu unigol neu’r datganiad.
+(5) Rhaid i’r ysgol annibynnol ddarparu adroddiad ysgrifenedig blynyddol ar gynnydd pob disgybl cofrestredig a’i gyrhaeddiad yn y prif feysydd pwnc a addysgir, ac eithrio nad oes angen anfon adroddiad at riant sydd wedi cytuno fel arall â’r ysgol annibynnol.
+(6) Bydd yr ysgol annibynnol yn darparu i unrhyw gorff sy’n cynnal arolygiad o dan adran 163 o Ddeddf 2002—
+(a)
+unrhyw wybodaeth y gofynnir amdani’n rhesymol mewn cysylltiad ag arolygiad sy’n angenrheidiol at ddibenion yr arolygiad, a
+(b)
+mynediad at y gofrestr dderbyn, ac unrhyw gofrestr bresenoldeb, a gynhelir yn unol â’r rheoliadau sydd wedi eu gwneud o dan adran 434 o Ddeddf 1996.
+(7) Pan fo disgybl sy’n cael ei gyllido’n gyfan gwbl neu’n rhannol gan awdurdod lleol wedi ei gofrestru yn yr ysgol annibynnol, rhaid rhoi cyfrif blynyddol wedi ei archwilio o’r incwm a gafwyd a’r gwariant yr aed iddo gan yr ysgol annibynnol i’r awdurdod lleol ac ar gais i Weinidogion Cymru.
+(8) Pan fo disgybl sydd â chynllun datblygu unigol neu ddatganiad wedi ei gofrestru yn yr ysgol annibynnol, rhaid i’r ysgol annibynnol ddarparu i’r awdurdod lleol unrhyw wybodaeth y mae’n ei gwneud yn rhesymol yn ofynnol at ddiben adolygiad statudol o’r cynllun datblygu unigol neu’r datganiad.
+RHAN 7
+Y dull o ymdrin â chwynion
+29.  Mae’r dull o ymdrin â chwynion yn cyrraedd y safon os yw’r perchennog yn sicrhau bod yr ysgol annibynnol yn llunio gweithdrefn gwyno a’i bod yn ei gweithredu’n effeithiol, a bod y weithdrefn gwyno honno—
+(a)
+yn ysgrifenedig,
+(b)
+yn cael ei rhoi ar gael ar wefan yr ysgol annibynnol neu, pan na fo gan yr ysgol annibynnol wefan, ei bod yn cael ei darparu i’r disgyblion neu’r disgyblion sy’n byrddio, rhieni’r disgyblion neu’r disgyblion sy’n byrddio a rhieni darpar ddisgyblion neu ddarpar ddisgyblion sy’n byrddio yn yr ysgol annibynnol,
+(c)
+yn nodi amserlenni clir at gyfer rheoli cwyn,
+(d)
+yn rhoi cyfle i gŵyn gael ei gwneud a’i hystyried yn anffurfiol i ddechrau,
+(e)
+pan na fo’r rhieni, y disgyblion neu’r disgyblion sy’n byrddio wedi eu bodloni ar yr ymateb a wneir yn unol ag is-baragraff (d), neu’n dymuno gwneud cwyn ffurfiol, yn sefydlu gweithdrefn er mwyn gwneud y gŵyn yn ysgrifenedig,
+(f)
+pan na fo’r rhieni, y disgyblion neu’r disgyblion sy’n byrddio wedi eu bodloni ar yr ymateb i’r gŵyn a wneir yn unol ag is-baragraff (e), yn gwneud darpariaeth ar gyfer cynnal gwrandawiad gerbron panel a benodir gan y perchennog, neu ar ei ran, ac sydd wedi ei lunio o dri o bobl o leiaf nad oeddent yn ymwneud yn uniongyrchol â’r materion sy’n cael eu trafod yn y gŵyn,
+(g)
+yn mynnu, pan fo panel yn gwrando ar gŵyn, y bydd un person ar y panel sy’n annibynnol ar y sawl sy’n rheoli ac yn rhedeg yr ysgol annibynnol,
+(h)
+yn caniatáu i rieni, disgyblion neu ddisgyblion sy’n byrddio fod yn bresennol yn y gwrandawiad gan y panel os ydynt yn dymuno hynny, a’u bod yn cael mynd â rhywun gyda hwy,
+(i)
+yn darparu i’r panel wneud canfyddiadau ac argymhellion ac yn mynnu bod yr achwynydd, y perchennog a’r pennaeth a, phan fo’n berthnasol, y person y gwnaed y gŵyn amdano, yn cael copi yr un o unrhyw ganfyddiadau ac argymhellion,
+(j)
+yn darparu i gofnodion ysgrifenedig gael eu cadw, yn unol â pholisi’r ysgol annibynnol ar gadw data, am bob cwyn, gan gynnwys a gafodd y cwynion eu datrys yn ystod y cam rhagarweiniol neu a aethpwyd â hwy i wrandawiad gan banel ac unrhyw gamau a gymerwyd gan yr ysgol annibynnol o ganlyniad i’r cwynion hynny ac a gafodd y cwynion hynny eu cadarnhau,
+(k)
+yn darparu, yn ddarostyngedig i baragraff 28(3)(d) o’r Atodlen hon, i ohebiaeth, datganiadau a chofnodion o gwynion gael eu cadw’n gyfrinachol ac eithrio pan fo Gweinidogion Cymru neu gorff sy’n cynnal arolygiad o dan adran 163 o Ddeddf 2002 yn gofyn am gael mynediad at unrhyw ddogfennau sy’n ymwneud â’r gŵyn, ac
+(l)
+pan fo’r ysgol annibynnol yn darparu llety byrddio, yn cydymffurfio âr Safonau Gofynnol Cenedlaethol ar gyfer Ysgolion Preswyl y Brif Ffrwd neu, pan fo’n gymwys, y Safonau Gofynnol Cenedlaethol ar gyfer Ysgolion Arbennig Preswyl.
+(1)
+Mae’r nodweddion gwarchodedig wedi eu nodi ym Mhennod 1 o Ran 2 o Ddeddf Cydraddoldeb 2010 (p. 15).
+(2)
+Mae Rhan 6 yn gwneud darpariaeth ynghylch addysg ac mae ganddi bedair Pennod. Mae Pennod 1 yn gwneud darpariaeth ynghylch ysgolion.
+(3)
+O.S. 2005/1541.
+(4)
+Diwygiwyd adran 434 gan adran 140(1) o Ddeddf Safonau a Fframwaith Ysgolion 1998 (p. 31) a pharagraff 111 o Atodlen 30 iddi, ac erthygl 5(1) o O.S. 2010/1158 a pharagraff 7(1) a (3) o Atodlen 2 iddo. Y rheoliadau cyfredol yw Rheoliadau Addysg (Cofrestru Disgyblion) (Cymru) 2010 (O.S. 2010/1954) (Cy. 187) a ddiwygiwyd gan O.S 2022/758 (Cy. 164).NODYN ESBONIADOL
+(Nid yw’r nodyn hwn yn rhan o’r Rheoliadau)
+Mae’r Rheoliadau hyn yn dirymu ac yn disodli Rheoliadau Safonau Ysgol Annibynnol (Cymru) 2003 (rheoliad 1). Mae’r Rheoliadau hyn yn gymwys o ran Cymru.
+Mae’r Rheoliadau hyn yn ymwneud ag arolygu ysgolion annibynnol ac maent yn nodi’r safonau sydd i’w cyrraedd gan ysgolion annibynnol at ddibenion cofrestru, adrodd ac arolygu.
+Darpariaeth ddehongli yw rheoliad 2.
+Mae rheoliad 3 yn darparu bod yr Atodlen yn nodi’r safonau ysgolion annibynnol (“y safonau”) y bydd ysgol annibynnol yng Nghymru yn cael ei harolygu yn unol â hwy o dan adrannau 160(4), 162(4) a 163(2) o Ddeddf Addysg 2002 (“Deddf 2002”).
+Bydd y person sy’n cynnal yr arolygiad yn gwneud adroddiad o dan adran 160(4), 162(4) neu 163(3) o Ddeddf 2002 o ran y graddau y mae’r safonau yn cael eu cyrraedd. Bydd yr awdurdod cofrestru yn ystyried yr adroddiad arolygu ac unrhyw dystiolaeth arall wrth benderfynu a ddylai ysgol annibynnol gael ei chofrestru neu a ddylai barhau i fod wedi ei chofrestru o dan adran 161 o Ddeddf 2002.
+Mae’r Atodlen yn nodi’r safonau ac mae wedi ei rhannu’n saith rhan, gan adlewyrchu’r categorïau a bennir yn adran 157(1) o Ddeddf 2002. Cyfrifoldeb perchennog ysgol annibynnol yw sicrhau bod y safonau yn cael eu cyrraedd.
+Mae Rhan 1 o’r Atodlen yn gwneud darpariaeth ynghylch ansawdd yr addysg a ddarperir. Mae’r safon ym mharagraff 2(1) wedi ei chyrraedd os yw’r perchennog yn sicrhau bod polisi ysgrifenedig ar y cwricwlwm, wedi ei ategu gan gynlluniau a chynlluniau gwaith, wedi ei lunio a’i weithredu’n effeithiol sy’n darparu ar gyfer y materion a nodir ym mharagraff 2(2).
+Mae Rhan 2 o’r Atodlen yn gwneud darpariaeth ar gyfer datblygiad ysbrydol, moesol, cymdeithasol a diwylliannol disgyblion. Mae hyn yn cynnwys gofynion i fynd ati’n weithredol i hybu gwerthoedd sylfaenol democratiaeth, rheolaeth y gyfraith, rhyddid yr unigolyn, a pharch a goddefgarwch y rhai sydd â ffydd a chredoau gwahanol at ei gilydd (paragraff 4(a)).
+Mae Rhan 2 hefyd yn cynnwys gofynion i fynd ati’n weithredol i hybu gwybodaeth am Ran 1 o Gonfensiwn y Cenhedloedd Unedig ar Hawliau’r Plentyn a dealltwriaeth ohoni (paragraff 4(b)), ac i eithrio hybu safbwyntiau gwleidyddol pleidiol wrth addysgu (paragraff 4(d)).
+Mae Rhan 3 o’r Atodlen yn gwneud darpariaeth ar gyfer lles, iechyd a diogelwch disgyblion. Mae’n cynnwys, ymysg pethau eraill, ofyniad ar gyfer gweithredu yn effeithiol bolisi diogelu ysgrifenedig (paragraff 6(b)) a hyfforddiant diogelu priodol (paragraff 10).
+Mae Rhan 4 o’r Atodlen yn gwneud darpariaeth ynghylch addasrwydd perchnogion, staff a staff cyflenwi, gan nodi’r gwiriadau y mae rhaid eu gwneud. Mae paragraff 23 yn ei gwneud yn ofynnol i wiriadau’r Gwasanaeth Datgelu a Gwahardd gael eu hadnewyddu o leiaf bob tair blynedd. Mae paragraff 24 yn ei gwneud yn ofynnol i’r perchennog gadw cofrestr sy’n cynnwys manylion y gwiriadau addasrwydd a wneir o dan Ran 4.
+Mae Rhan 5 o’r Atodlen yn gwneud darpariaeth ynghylch mangreoedd ysgol annibynnol a mangre unrhyw lety byrddio. Rhaid i’r rhain fod yn addas ar gyfer unrhyw ddisgyblion cofrestredig â gofynion arbennig. Diffinnir “gofynion arbennig” ym mharagraff 26.
+Mae Rhan 6 o’r Atodlen yn nodi’r safon ar gyfer darparu gwybodaeth i rieni disgyblion, rhieni darpar ddisgyblion, Prif Arolygydd Ei Fawrhydi dros Addysg a Hyfforddiant yng Nghymru a Gweinidogion Cymru.
+Mae Rhan 7 o’r Atodlen yn gwneud darpariaeth ynghylch y modd y mae ysgolion annibynnol yn ymdrin â chwynion.
+Mae Rhannau 3, 4, 5 a 7 o’r Atodlen yn gwneud darpariaeth sy’n cynnwys cyfeiriad at y Safonau Gofynnol Cenedlaethol ar gyfer Ysgolion Preswyl y Brif Ffrwd a’r Safonau Gofynnol Cenedlaethol ar gyfer Ysgolion Arbennig Preswyl.
+Gellir dod o hyd i’r Safonau Gofynnol Cenedlaethol ar gyfer Ysgolion Preswyl y Brif Ffrwd yn 131009nmsboardingschoolscy.pdf (arolygiaethgofal.cymru).
+Gellir dod o hyd i’r Safonau Gofynnol Cenedlaethol ar gyfer Ysgolion Arbennig Preswyl yn
+130910nmsspecialschoolscy.pdf (arolygiaethgofal.cymru).
+Ystyriwyd Cod Ymarfer Gweinidogion Cymru ar gynnal Asesiadau Effaith Rheoleiddiol mewn perthynas â’r Rheoliadau hyn. O ganlyniad, lluniwyd asesiad effaith rheoleiddiol o’r costau a’r manteision sy’n debygol o ddeillio o gydymffurfio â’r Rheoliadau hyn. Gellir cael copi oddi wrth: Llywodraeth Cymru, Parc Cathays, Caerdydd, CF10 3NQ ac fe’i cyhoeddir ar www.llyw.cymru.

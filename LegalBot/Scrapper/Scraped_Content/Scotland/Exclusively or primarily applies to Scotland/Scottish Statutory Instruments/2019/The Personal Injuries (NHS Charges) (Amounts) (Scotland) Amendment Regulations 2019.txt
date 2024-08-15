@@ -1,0 +1,60 @@
+SCOTTISH STATUTORY INSTRUMENTS
+2019 No. 27
+NATIONAL HEALTH SERVICE
+The Personal Injuries (NHS Charges) (Amounts) (Scotland) Amendment Regulations 2019
+Made
+3rd February 2019
+Laid before the Scottish Parliament
+5th February 2019
+Coming into force
+1st April 2019
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 153(2) and (5) and 195(1) and (2) of the Health and Social Care (Community Health and Standards) Act 2003(1) and all other powers enabling them to do so.
+(1)
+2003 c.43 (“the 2003 Act”). By virtue of section 167(1) of the 2003 Act any power to make regulations in relation to the recovery of NHS charges is exercisable in relation to Scotland by the Scottish Ministers. Section 168 of the 2003 Act contains a definition of “prescribed” relevant to the exercise of the statutory powers under which these Regulations are made.Citation and commencement
+1.  These Regulations may be cited as the Personal Injuries (NHS Charges) (Amounts) (Scotland) Amendment Regulations 2019 and come into force on 1 April 2019.Amendment of the Personal Injuries (NHS Charges) (Amounts) (Scotland) Regulations 2006
+2.—(1) The Personal Injuries (NHS Charges) (Amounts) (Scotland) Regulations 2006(1) are amended as follows.
+(2) In regulation 2K(1) (amount of NHS charges – injuries occurring on or after 1 April 2018)(2), after “1st April 2018” insert “and before 1st April 2019”.
+(3) After regulation 2K insert—
+“Amount of NHS charges – injuries occurring on or after 1st April 2019
+2L.—(1) Subject to the following paragraphs of this regulation and regulations 3 and 3A, a certificate relating to an injury which occurs on or after 1st April 2019 shall, for the purpose of section 153(2), specify—
+(a)
+the sum of £219 for each occasion on which, as a result of such an injury, the injured person was provided with NHS ambulance services for the purpose of taking the injured person to a hospital for NHS treatment; and
+(b)
+where the injured person received NHS treatment at a hospital in respect of the injury, either—
+(i)
+if the injured person was not admitted to hospital, the sum of £725; or
+(ii)
+if the injured person was admitted to hospital, the sum of £891 for each day or part day of admission.
+(2) For the purposes of paragraph (1)(a), the reference to taking an injured person to a hospital includes taking that person from one hospital to another.
+(3) Where the injured person was admitted to hospital on one day and discharged on another day, the day of discharge shall be disregarded for the purposes of paragraph (1)(b)(ii).
+(4) The amount which a certificate may specify under paragraph (1)(a) or (1)(b), or both, must not exceed £53,278 (“the maximum”).
+(5) Where—
+(a)
+amounts fall to be specified under both paragraph (1)(a) and paragraph (1)(b), and
+(b)
+the aggregate of those amounts would exceed the maximum,
+the amount to be specified under paragraph (1)(b) is to be reduced by the difference between the maximum and the aggregate of those amounts.”.
+(4) In regulation 3(2) (amount of NHS charges: further provision)(3), for “or 2K” substitute “, 2K or 2L”.
+(5) In regulation 6 (adjustment of amounts where certificates are issued by the Scottish Ministers and the Secretary of State)—
+(a)
+in paragraph (1)(b)(4), for “or 2K(4)” substitute “, 2K(4) or 2L(4)”, and
+(b)
+in paragraph (2)(a)(5), for “or 2K(4) and (5)” substitute “, (2K)(4) and (5) or (2L)(4) and (5)”.
+(1)
+S.S.I. 2006/588, as relevantly amended by S.S.I. 2008/96, S.S.I. 2009/193, S.S.I. 2010/42, S.S.I. 2011/71, S.S.I. 2012/76, S.S.I. 2013/53, S.S.I. 2014/57, S.S.I. 2015/81, S.S.I. 2016/59, S.S.I. 2017/58 and S.S.I. 2018/47.
+(2)
+Regulation 2K was inserted by S.S.I. 2018/47.
+(3)
+Regulation 3(2) was most recently amended by S.S.I. 2018/47.
+(4)
+Paragraph (1)(b) was most recently amended by S.S.I. 2018/47.
+(5)
+Paragraph (2)(a) was most recently amended by S.S.I. 2018/47.JEANE FREEMAN
+A member of the Scottish Government
+St Andrew’s House,
+Edinburgh
+3rd February 2019EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the Personal Injuries (NHS Charges) (Amounts) (Scotland) Regulations 2006 (“the principal Regulations”) which make provision in relation to the amount of NHS charges which can be recovered from a person who pays compensation to an injured person, where that injured person has received National Health Service treatment or ambulance services.
+Regulation 2 amends regulation 2K of the principal Regulations and inserts regulation 2L into the principal Regulations to increase the charges in respect of injuries which occur on or after 1 April 2019. Where the injured person is provided with NHS ambulance services, the charge is increased from £208 to £219 for each occasion the service is provided. Where the injured person receives NHS treatment but is not admitted to hospital, the charge is increased from £688 to £725. The daily charge for NHS in-patient treatment is increased from £846 to £891. The maximum charge in respect of an injury is increased from £50,561 to £53,278.
+Regulation 2 also makes amendments, by way of inserting references to the increased charges in new regulation 2L, to provisions in the principal Regulations in relation to situations where (a) a person makes more than one compensation payment to an injured person and (b) a person is due to pay NHS charges to both the Scottish Ministers and the Secretary of State.

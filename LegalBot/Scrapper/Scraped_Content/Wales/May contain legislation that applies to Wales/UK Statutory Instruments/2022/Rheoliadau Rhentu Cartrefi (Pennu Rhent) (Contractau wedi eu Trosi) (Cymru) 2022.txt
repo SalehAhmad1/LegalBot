@@ -1,0 +1,217 @@
+OFFERYNNAU STATUDOL CYMRU
+2022 Rhif 781 (Cy. 170)
+TAI, CYMRU
+Rheoliadau Rhentu Cartrefi (Pennu Rhent) (Contractau wedi eu Trosi) (Cymru) 2022
+Gwnaed
+15 Gorffennaf 2022
+Gosodwyd gerbron Senedd Cymru
+18 Gorffennaf 2022
+Yn dod i rym yn unol â rheoliad 1
+Mae Gweinidogion Cymru yn gwneud y Rheoliadau a ganlyn drwy arfer y pwerau a roddir gan adrannau 236(3) a 256(1) a (2)(1) o Ddeddf Rhentu Cartrefi (Cymru) 2016(2) a pharagraff 15(2) o Atodlen 12 iddi.
+(1)
+Diwygiwyd adran 256(2) gan adran 18 o Ddeddf Rhentu Cartrefi (Diwygio) (Cymru) 2021 (dsc 3) a pharagraffau 1 a 21(a) o Atodlen 6 iddi.
+(2)
+2016 dccc 1. Cyflwynir Atodlen 12 gan adran 240.Enwi a chychwyn
+1.  Enw’r Rheoliadau hyn yw Rheoliadau Rhentu Cartrefi (Pennu Rhent) (Contractau wedi eu Trosi) (Cymru) 2022 a deuant i rym ar [F11 Rhagfyr 2022 (y diwrnod y daw adran 239 o’r Ddeddf i rym)] .
+Diwygiadau Testunol
+F1
+Geiriau yn rhl. 1 wedi eu hamnewid (13.8.2022) gan Gorchymyn Deddf Rhentu Cartrefi (Cymru) 2016 (Cychwyn Rhif 2 a Diwygiadau Canlyniadol) 2022 (O.S. 2022/906), erglau. 1(2), 13
+Gwybodaeth Cychwyn
+I1
+Rhl. 1 mewn grym ar 1.12.2022 , gweler rhl. 1 (fel y'i diwygiwyd gan Gorchymyn Deddf Rhentu Cartrefi (Cymru) 2016 (Cychwyn Rhif 2 a Diwygiadau Canlyniadol) 2022 (O.S. 2022/906), ergl. 13Dehongli
+[F12.  Yn y Rheoliadau hyn—
+mae i “annedd” (“dwelling”) yr ystyr a roddir gan y Ddeddf (gweler adran 246(1));
+mae i “awdurdod bilio” yr ystyr a roddir i “billing authority” gan adran 1(2) o Ddeddf Cyllid Llywodraeth Leol 1992(2);
+mae i “categori o anheddau” yr ystyr a roddir i “category of dwellings” gan adran 30(1) a (2) o Ddeddf Cyllid Llywodraeth Leol 1992(3);
+mae i “contract wedi ei drosi perthnasol” (“relevant converted contract”) yr ystyr a roddir gan y Ddeddf (gweler paragraff 15(3)(4) o Atodlen 12 i’r Ddeddf);
+ystyr “deiliad contract perthnasol” (“relevant contract-holder”) yw deiliad contract (y mae iddo’r ystyr a roddir gan y Ddeddf (gweler adran 7(5)) o dan gontract wedi ei drosi perthnasol;
+mae i “y diwrnod penodedig” (“appointed day”) yr ystyr a roddir gan y Ddeddf (gweler adran 242);
+ystyr “y Ddeddf” (“the Act”) yw Deddf Rhentu Cartrefi (Cymru) 2016;
+ystyr “gwelliant perthnasol” (“relevant improvement”) yw gwelliant—
+(a)
+a wnaed yn ystod y contract wedi ei drosi perthnasol y mae’r hysbysiad o dan adran 104 neu 123 o’r Ddeddf yn gymwys iddo, neu
+(b)
+sy’n bodloni’r amodau a ganlyn—
+(i)
+cafodd y gwelliant ei wneud heb fod yn fwy nag un ar hugain o flynyddoedd cyn dyddiad cyflwyno’r hysbysiad o dan adran 104 neu 123 o’r Ddeddf,
+(ii)
+ar bob adeg yn ystod y cyfnod gan ddechrau pan gafodd y gwelliant ei wneud a chan ddod i ben ar ddyddiad cyflwyno’r hysbysiad o dan adran 104 neu 123 o’r Ddeddf, mae’r annedd wedi ei gosod o dan gontract wedi ei drosi perthnasol, tenantiaeth sicr neu feddiannaeth amaethyddol sicr, a
+(iii)
+pan ddaw tenantiaeth sicr neu feddiannaeth amaethyddol sicr i ben, ar unrhyw adeg yn ystod y cyfnod hwnnw, nid ymadawodd y tenant na’r trwyddedai (neu, yn achos cyd-denantiaid neu gyd-drwyddedeion, o leiaf un ohonynt);
+mae i “hereditament” yr ystyr a roddir i “hereditament” gan adran 3 o Ddeddf Cyllid Llywodraeth Leol 1992;
+mae i “landlord” (“landlord”) yr ystyr a roddir gan y Ddeddf (gweler adran 244(2));
+mae i “meddiannaeth amaethyddol sicr” (“assured agricultural occupancy”) yr ystyr a roddir gan y Ddeddf (gweler paragraff 1(5) o Atodlen 12 i’r Ddeddf);
+ystyr “pwyllgor asesu rhenti” (“rent assessment committee”) yw pwyllgor asesu rhenti a gyfansoddwyd yn unol ag Atodlen 10 i Ddeddf Rhenti 1977(6);
+nid yw “rhent” (“rent”) yn cynnwys—
+(a)
+unrhyw dâl gwasanaeth o fewn ystyr adran 18 o Ddeddf Landlord a Thenant 1985(7), na
+(b)
+unrhyw daliadau a waherddir o dan adran 4 o Ddeddf Rhentu Cartrefi (Ffioedd etc.) (Cymru) 2019,
+ond, yn ddarostyngedig i hynny, mae’n cynnwys unrhyw symiau sy’n daladwy gan y deiliad contract perthnasol i’r landlord am ddefnyddio dodrefn, mewn cysylltiad â’r dreth gyngor neu ar gyfer unrhyw un neu ragor o’r materion y cyfeirir atynt yn adran 18(1)(a) o Ddeddf Landlord a Thenant 1985, pa un a yw’r symiau hynny ar wahân i’r symiau sy’n daladwy am feddiannu’r annedd o dan sylw neu’n daladwy o dan gytundebau ar wahân ai peidio;
+mae i “tenantiaeth sicr” (“assured tenancy”) yr ystyr a roddir gan y Ddeddf (gweler adran 242).]
+Diwygiadau Testunol
+F1
+Rhl. 2 wedi ei amnewid (30.11.2022) gan Rheoliadau Rhentu Cartrefi (Pennu Rhent) (Contractau wedi eu Trosi) (Cymru) (Diwygio) 2022 (O.S. 2022/1078), rhlau. 1, 3(2)
+Gwybodaeth Cychwyn
+I1
+Rhl. 2 mewn grym ar 1.12.2022 , gweler rhl. 1 (fel y'i diwygiwyd gan Gorchymyn Deddf Rhentu Cartrefi (Cymru) 2016 (Cychwyn Rhif 2 a Diwygiadau Canlyniadol) 2022 (O.S. 2022/906), ergl. 13
+(1)
+1992 p. 14. Diwygiwyd adran 1(2) gan adran 35(5) o Ddeddf Llywodraeth Leol (Cymru) 1994 (p. 19).
+(2)
+Diwygiwyd adran 30 gan baragraff 8 o Atodlen 7 i Ddeddf Lleoliaeth 2011 (p. 20).
+(3)
+Diwygiwyd paragraff 15(3) o Atodlen 12 i’r Ddeddf gan reoliad 12(b) o Reoliadau Deddf Rhentu Cartrefi (Cymru) 2016 (Diwygio Atodlen 12) 2022 (O.S. 2022/795 (Cy. 173)).
+(4)
+1977 p. 42. Diwygiwyd Atodlen 10 gan adrannau 71(2), 148 a 152 o Ddeddf Tai 1980 (p. 51), paragraff 56 o Atodlen 25 iddi, ac Atodlen 26 iddi; adran 26 o Ddeddf Pensiynau ac Ymddeoliadau Barnwrol 1993 (p. 8) a pharagraff 56 o Atodlen 6 iddi; adrannau 222 a 227 o Ddeddf Tai 1996 (p. 52), paragraff 22 o Atodlen 18 iddi a pharagraff 1 o Ran 13 o Atodlen 19 iddi; ac adran 62(2) o Ddeddf Cymru 2017 (p. 4). Gwnaed diwygiadau hefyd gan Orchymyn Trosglwyddo Swyddogaethau Tribiwnlysoedd 2013 (O.S. 2013/1036), a ddiddymodd bwyllgorau asesu rhenti yn Lloegr, ac erthygl 5(2)(c) o Orchymyn Cyllid Llywodraeth Leol (Diddymiadau, Arbedion a Diwygiadau Canlyniadol) 1990 (O.S. 1990/776).
+(5)
+1985 p. 70. Diwygiwyd adran 18 gan adran 41 o Ddeddf Landlord a Thenant 1987 (p. 31) a pharagraff 1 o Atodlen 2 iddi, a chan adran 150 o Ddeddf Cyfunddaliad a Diwygio Cyfraith Lesddaliad 2002 (p. 15), a pharagraff 7 o Atodlen 9 iddi.
+(6)
+2019 dccc 2. Diwygiwyd adran 4 gan adrannau 15(2) ac 16(1) a (3) o Ddeddf Rhentu Cartrefi (Diwygio) (Cymru) 2021.
+(7)
+1985 p. 70. Diwygiwyd adran 18(1)(a) gan adran 41 o Ddeddf Landlord a Thenant 1987 (p. 31), a pharagraff 1 o Atodlen 2 iddi; ac adran 150 o Ddeddf Cyfunddaliad a Diwygio Cyfraith Lesddaliad 2002 (p. 15), a pharagraff 7 o Atodlen 9 iddi.Cais i bwyllgor asesu rhenti
+3.—(1) Ar ôl cael hysbysiad o dan adran 104 neu 123 o’r Ddeddf, caiff deiliad contract perthnasol wneud cais i bwyllgor asesu rhenti bennu’r rhent ar gyfer yr annedd.
+(2) Rhaid i’r cais i bwyllgor asesu rhenti gael ei wneud—
+(a)
+ar y ffurf ragnodedig, a
+(b)
+o fewn 2 fis ar ôl cael yr hysbysiad o dan adran 104 neu 123 o’r Ddeddf.
+(3) Mae’r ffurf ragnodedig fel y’i nodir yn yr Atodlen.
+(4) Mae cais sydd ar ffurf sydd ag effaith sylweddol debyg i’r ffurf ragnodedig yn ddilys.
+Gwybodaeth Cychwyn
+I1
+Rhl. 3 mewn grym ar 1.12.2022 , gweler rhl. 1 (fel y'i diwygiwyd gan Gorchymyn Deddf Rhentu Cartrefi (Cymru) 2016 (Cychwyn Rhif 2 a Diwygiadau Canlyniadol) 2022 (O.S. 2022/906), ergl. 13), gweler RheoliadauPenderfyniad ar rent gan bwyllgor asesu rhenti
+4.  Rhaid i bwyllgor asesu rhenti benderfynu ar bob cais a wneir o dan reoliad 3 yn unol â’r rhagdybiaethau a nodir yn rheoliad 6.
+Gwybodaeth Cychwyn
+I1
+Rhl. 4 mewn grym ar 1.12.2022 , gweler rhl. 1 (fel y'i diwygiwyd gan Gorchymyn Deddf Rhentu Cartrefi (Cymru) 2016 (Cychwyn Rhif 2 a Diwygiadau Canlyniadol) 2022 (O.S. 2022/906), ergl. 13), gweler RheoliadauAmrywio rhent yn sgil penderfyniad gan bwyllgor asesu rhenti
+5.  Rhent a bennir gan bwyllgor asesu rhenti, yn unol â’r rhagdybiaethau a nodir yn rheoliad 6, fydd y rhent ar gyfer yr annedd o dan y contract wedi ei drosi perthnasol gydag effaith o’r dyddiad a bennir yn yr hysbysiad o dan adran 104 neu 123 o’r Ddeddf, oni bai bod y landlord a’r deiliad contract perthnasol yn cytuno fel arall.
+Gwybodaeth Cychwyn
+I1
+Rhl. 5 mewn grym ar 1.12.2022 , gweler rhl. 1 (fel y'i diwygiwyd gan Gorchymyn Deddf Rhentu Cartrefi (Cymru) 2016 (Cychwyn Rhif 2 a Diwygiadau Canlyniadol) 2022 (O.S. 2022/906), ergl. 13), gweler RheoliadauRhagdybiaethau y mae rhaid i bwyllgor asesu rhenti bennu rhent yn unol â hwy
+6.  Wrth bennu rhent ar gyfer annedd o dan y Rheoliadau hyn, rhaid i bwyllgor asesu rhenti bennu’r rhent y mae’n ystyried y gallai fod disgwyl i’r annedd dan sylw [F1gael ei gosod] amdano ar y farchnad agored gan landlord parod o dan [F2gontract meddiannaeth o’r un math â’r contract wedi ei drosi perthnasol] y mae’r hysbysiad o dan adran 104 neu 123 o’r Ddeddf yn [F3ymwneud ag ef], gan ragdybio—
+(a)
+bod y contract [F4meddiannaeth] yn dechrau ar y dyddiad a bennir yn yr hysbysiad o dan adran 104 neu 123 o’r Ddeddf,
+(b)
+nad yw rhoi contract i ddeiliad contract cyfredol yn cael dim effaith ar y rhent,
+(c)
+nad yw unrhyw gynnydd yng ngwerth yr annedd y gellir ei briodoli i welliant perthnasol a wnaed gan berson a oedd y [F5tenant neu’r trwyddedai,] neu’r deiliad contract perthnasol ar yr adeg y’i gwnaed yn cael dim effaith ar y rhent, os gwnaed y gwelliant—
+(i)
+ac eithrio yn unol â rhwymedigaeth i’r landlord uniongyrchol, neu
+(ii)
+yn unol â rhwymedigaeth i’r landlord uniongyrchol nad yw’n rhwymedigaeth a oedd yn ymwneud â’r gwelliant penodol o dan sylw ond a gododd drwy gyfeirio at gydsyniad a roddwyd i wneud y gwelliant hwnnw,
+(d)
+nad yw unrhyw ostyngiad yng ngwerth yr annedd y gellir ei briodoli i fethiant gan y F6... deiliad contract perthnasol i gydymffurfio ag unrhyw un neu ragor o delerau’r F7... contract wedi ei drosi perthnasol [F8neu’r denantiaeth neu’r drwydded a fodolai yn union cyn y diwrnod penodedig] yn cael dim effaith ar y rhent,
+(e)
+pan fo’r landlord neu uwchlandlord yn atebol i dalu’r dreth gyngor mewn cysylltiad â hereditament y mae’r annedd yn rhan ohono, o dan Ran 1 o Ddeddf Cyllid Llywodraeth Leol 1992, fod swm y dreth gyngor a bennwyd gan yr awdurdod bilio, fel ar y dyddiad y cyflwynwyd yr hysbysiad o dan adran 104 neu 123—
+(i)
+ar gyfer y flwyddyn ariannol y cyflwynwyd yr hysbysiad ynddi, a
+(ii)
+ar gyfer y categori o anheddau yr oedd yr hereditament perthnasol yn perthyn iddo ar y dyddiad hwnnw,
+yn cael effaith ar y rhent, ond nad yw unrhyw ddisgownt neu ostyngiad arall sy’n effeithio ar swm y dreth gyngor sy’n daladwy yn cael dim effaith ar y rhent, ac
+(f)
+nad yw’r landlord nac uwchlandlord yn talu ardrethi mewn cysylltiad â’r annedd.
+Diwygiadau Testunol
+F1
+Geiriau yn rhl. 6 wedi eu hamnewid (30.11.2022) gan Rheoliadau Rhentu Cartrefi (Pennu Rhent) (Contractau wedi eu Trosi) (Cymru) (Diwygio) 2022 (O.S. 2022/1078), rhlau. 1, 3(3)(a)(i)
+F2
+Geiriau yn rhl. 6 wedi eu hamnewid (30.11.2022) gan Rheoliadau Rhentu Cartrefi (Pennu Rhent) (Contractau wedi eu Trosi) (Cymru) (Diwygio) 2022 (O.S. 2022/1078), rhlau. 1, 3(3)(b)
+F3
+Geiriau yn rhl. 6 wedi eu hamnewid (30.11.2022) gan Rheoliadau Rhentu Cartrefi (Pennu Rhent) (Contractau wedi eu Trosi) (Cymru) (Diwygio) 2022 (O.S. 2022/1078), rhlau. 1, 3(3)(a)(ii)
+F4
+Gair yn rhl. 6(a) wedi ei amnewid (30.11.2022) gan Rheoliadau Rhentu Cartrefi (Pennu Rhent) (Contractau wedi eu Trosi) (Cymru) (Diwygio) 2022 (O.S. 2022/1078), rhlau. 1, 3(3)(c)
+F5
+Geiriau yn rhl. 6(c) wedi eu hamnewid (30.11.2022) gan Rheoliadau Rhentu Cartrefi (Pennu Rhent) (Contractau wedi eu Trosi) (Cymru) (Diwygio) 2022 (O.S. 2022/1078), rhlau. 1, 3(3)(d)
+F6
+Geiriau yn rhl. 6(d) wedi eu hepgor (30.11.2022) yn rhinwedd Rheoliadau Rhentu Cartrefi (Pennu Rhent) (Contractau wedi eu Trosi) (Cymru) (Diwygio) 2022 (O.S. 2022/1078), rhlau. 1, 3(3)(e)(i)
+F7
+Geiriau yn rhl. 6(d) wedi eu hepgor (30.11.2022) yn rhinwedd Rheoliadau Rhentu Cartrefi (Pennu Rhent) (Contractau wedi eu Trosi) (Cymru) (Diwygio) 2022 (O.S. 2022/1078), rhlau. 1, 3(3)(e)(ii)
+F8
+Geiriau yn rhl. 6(d) wedi eu mewnosod (30.11.2022) gan Rheoliadau Rhentu Cartrefi (Pennu Rhent) (Contractau wedi eu Trosi) (Cymru) (Diwygio) 2022 (O.S. 2022/1078), rhlau. 1, 3(3)(e)(iii)
+Gwybodaeth Cychwyn
+I1
+Rhl. 6 mewn grym ar 1.12.2022 , gweler rhl. 1 (fel y'i diwygiwyd gan Gorchymyn Deddf Rhentu Cartrefi (Cymru) 2016 (Cychwyn Rhif 2 a Diwygiadau Canlyniadol) 2022 (O.S. 2022/906), ergl. 13Hysbysiad landlord a deiliad contract perthnasol i bwyllgor asesu rhenti
+7.  Nid oes dim yn y Rheoliadau hyn yn ei gwneud yn ofynnol i’r pwyllgor asesu rhenti barhau i bennu rhent ar gyfer annedd o dan y contract wedi ei drosi perthnasol os yw’r landlord a’r deiliad contract perthnasol yn rhoi hysbysiad ysgrifenedig nad oes angen penderfyniad o’r fath arnynt mwyach neu os yw’r contract wedi ei drosi perthnasol wedi dod i ben.
+Gwybodaeth Cychwyn
+I1
+Rhl. 7 mewn grym ar 1.12.2022 , gweler rhl. 1 (fel y'i diwygiwyd gan Gorchymyn Deddf Rhentu Cartrefi (Cymru) 2016 (Cychwyn Rhif 2 a Diwygiadau Canlyniadol) 2022 (O.S. 2022/906), ergl. 13), gweler RheoliadauDiwygiadau canlyniadol i Reoliadau Pwyllgorau Asesu Rhenti (Cymru a Lloegr) 1971
+8.—(1) Mae Rheoliadau Pwyllgorau Asesu Rhenti (Cymru a Lloegr) 1971(1) wedi eu diwygio fel a ganlyn.
+(2) Yn rheoliad 2 (dehongli)(2)—
+(a)
+yn y diffiniad o “reference”, ar ôl “Local Government and Housing Act 1989”, yn lle’r atalnod llawn rhodder “, or which is made under regulation 3 of the Renting Homes (Rent Determination) (Converted Contracts) (Wales) Regulations 2022(3).”;
+(b)
+yn y [F1lleoedd] priodol, mewnosoder y diffiniadau a ganlyn—
+““dwelling” has the meaning given by section 246 of the Renting Homes (Wales) Act 2016(4);”;
+““relevant contract-holder” means a contract-holder (which has the meaning given by section 7(5) of the Renting Homes (Wales) Act 2016) under a relevant converted contract;”;
+““relevant converted contract” has the meaning given by paragraph 15(3)(5) of Schedule 12 to the Renting Homes (Wales) Act 2016;”;
+F2“...”;
+F3“...”.
+(3) Yn rheoliad 2A (atgyfeiriadau Deddfau 1988 a 1989)(6)—
+(a)
+yn lle’r pennawd, rhodder “References”;
+(b)
+ym mharagraff (1), ar ôl “Housing Act 1988;”, hepgorer “or”;
+(c)
+ym mharagraff (1), ar ôl “Local Government and Housing Act 1989”, yn yr ail le y mae’n digwydd, yn lle’r atalnod llawn rhodder—
+“; or
+regulation 3 of the Renting Homes (Rent Determination) (Converted Contracts) (Wales) Regulations 2022(7).”.
+(4) Yn rheoliad 3(3)(c)(8), ar ôl “tenant”, mewnosoder “ F4... or relevant contract-holder”.
+(5) Yn rheoliad 5(1)(b)(9)—
+[F5(a)
+yn lle “assured tenancies or assured agricultural occupancies”, rhodder “assured tenancies, assured agricultural occupancies or relevant converted contracts”,]
+(b)
+ar ôl “dwelling-houses”, yn y ddau le y mae’n digwydd, mewnosoder “or dwellings”.
+(6) Yn rheoliad 7—
+(a)
+yn y pennawd, ar ôl “dwelling-house”, mewnosoder “or dwelling”, a
+(b)
+ym mharagraff (1), ar ôl “dwelling-house”, mewnosoder “or dwelling”.
+Diwygiadau Testunol
+F1
+Geiriau yn rhl. 8(2)(b) wedi eu hamnewid (30.11.2022) gan Rheoliadau Rhentu Cartrefi (Pennu Rhent) (Contractau wedi eu Trosi) (Cymru) (Diwygio) 2022 (O.S. 2022/1078), rhlau. 1, 3(4)(a)(iii)
+F2
+Geiriau yn rhl. 8(2)(b) wedi eu hepgor (30.11.2022) yn rhinwedd Rheoliadau Rhentu Cartrefi (Pennu Rhent) (Contractau wedi eu Trosi) (Cymru) (Diwygio) 2022 (O.S. 2022/1078), rhlau. 1, 3(4)(a)(i)
+F3
+Geiriau yn rhl. 8(2)(b) wedi eu hepgor (30.11.2022) yn rhinwedd Rheoliadau Rhentu Cartrefi (Pennu Rhent) (Contractau wedi eu Trosi) (Cymru) (Diwygio) 2022 (O.S. 2022/1078), rhlau. 1, 3(4)(a)(ii)
+F4
+Geiriau yn rhl. 8(4) wedi eu hepgor (30.11.2022) yn rhinwedd Rheoliadau Rhentu Cartrefi (Pennu Rhent) (Contractau wedi eu Trosi) (Cymru) (Diwygio) 2022 (O.S. 2022/1078), rhlau. 1, 3(4)(b)
+F5
+Rhl. 8(5)(a) wedi ei amnewid (30.11.2022) gan Rheoliadau Rhentu Cartrefi (Pennu Rhent) (Contractau wedi eu Trosi) (Cymru) (Diwygio) 2022 (O.S. 2022/1078), rhlau. 1, 3(4)(c)
+Gwybodaeth Cychwyn
+I1
+Rhl. 8 mewn grym ar 1.12.2022 , gweler rhl. 1 (fel y'i diwygiwyd gan Gorchymyn Deddf Rhentu Cartrefi (Cymru) 2016 (Cychwyn Rhif 2 a Diwygiadau Canlyniadol) 2022 (O.S. 2022/906), ergl. 13
+(1)
+O.S. 1971/1065.
+(2)
+Diwygiwyd rheoliad 2 gan reoliad 2 o Reoliadau Pwyllgorau Asesu Rhenti (Cymru a Lloegr) (Diwygio) 1998 (O.S. 1988/2200), rheoliad 2(a) o Reoliadau Pwyllgorau Asesu Rhenti (Cymru a Lloegr) (Diwygio) 1993 (O.S. 1993/653), rheoliad 9 o Reoliadau Pwyllgorau Asesu Rhenti (Cymru a Lloegr) (Tribiwnlysoedd Prisio Lesddaliadau) (Diwygio) 1997 (O.S. 1997/1854) a rheoliad 2(1) o Reoliadau Pwyllgorau Asesu Rhenti (Cymru a Lloegr) (Diwygio) 1990 (O.S. 1990/427).
+(3)
+O.S. 2022/781 (Cy. 170).
+(4)
+2016 dccc 1. Diwygiwyd adran 246(1) gan adran 14 o Ddeddf Rhentu Cartrefi (Diwygio) (Cymru) 2021 (dsc 3) a pharagraffau (1) a (7) o Atodlen 5 iddi.
+(5)
+Diwygiwyd paragraff 15(3) o Atodlen 12 i’r Ddeddf gan reoliad 12(b) o Reoliadau Deddf Rhentu Cartrefi (Cymru) 2016 (Diwygio Atodlen 12) 2022 (O.S. 2022/795 (Cy. 173)).
+(6)
+Mewnosodwyd rheoliad 2A gan reoliad 2(3) o Reoliadau Pwyllgorau Asesu Rhenti (Cymru a Lloegr) (Diwygio) 1988 (O.S. 1988/2200) ac fe’i diwygiwyd gan reoliad 2 o Reoliadau Pwyllgorau Asesu Rhenti (Cymru a Lloegr) (Diwygio) 1997 (O.S. 1997/3007).
+(7)
+O.S. 2022/781 (Cy. 170).
+(8)
+Amnewidiwyd rheoliad 3(3) gan reoliad 3 o Reoliadau Pwyllgorau Asesu Rhenti (Cymru a Lloegr) (Diwygio) 1980 (O.S. 1980/1699) ac fe’i diwygiwyd gan reoliad 4 o Reoliadau Pwyllgorau Asesu Rhenti (Cymru a Lloegr) (Diwygio) 1981 (O.S. 1981/1783).
+(9)
+Diwygiwyd rheoliad 5(1)(b) gan reoliad 2(5) o Reoliadau Pwyllgorau Asesu Rhenti (Cymru a Lloegr) (Diwygio) 1988 (O.S. 1988/2200).Julie James
+Y Gweinidog Newid Hinsawdd, un o Weinidogion CymruRheoliad 3
+F1YR ATODLEN
+Diwygiadau Testunol
+F1
+Geiriau yn Atod. wedi eu hamnewid (30.11.2022) gan Rheoliadau Rhentu Cartrefi (Pennu Rhent) (Contractau wedi eu Trosi) (Cymru) (Diwygio) 2022 (O.S. 2022/1078), rhlau. 1, 3(5)
+Gwybodaeth Cychwyn
+I1
+Atod. mewn grym ar 1.12.2022 , gweler rhl. 1 (fel y'i diwygiwyd gan Gorchymyn Deddf Rhentu Cartrefi (Cymru) 2016 (Cychwyn Rhif 2 a Diwygiadau Canlyniadol) 2022 (O.S. 2022/906), ergl. 13NODYN ESBONIADOL
+(Nid yw’r nodyn hwn yn rhan o’r Rheoliadau)
+Mae adrannau 104 a 123 o Ddeddf Rhentu Cartrefi (Cymru) 2016 (dccc 1) (“y Ddeddf”) yn caniatáu i’r landlord o dan gontract diogel a chontract safonol cyfnodol, yn y drefn honno, amrywio’r rhent sy’n daladwy o dan y contract drwy roi hysbysiad i ddeiliad y contract yn nodi rhent newydd sydd i gael effaith ar y dyddiad a bennir yn yr hysbysiad.
+Mae’r Rheoliadau hyn yn gwneud darpariaeth, fel sy’n ofynnol gan baragraff 15(2) o Atodlen 12 i’r Ddeddf, i alluogi deiliad contract o dan gontract wedi ei drosi perthnasol (fel y’i diffinnir gan baragraff 15(3) o Atodlen 12 i’r Ddeddf) i wneud cais i berson rhagnodedig bennu’r rhent ar gyfer yr annedd pan fo wedi cael hysbysiad o dan adran 104 neu 123 o’r Ddeddf ac i’r rhent a bennir fod y rhent o dan y contract.
+Mae rheoliad 3 yn darparu i ddeiliad contract o dan gontract wedi ei drosi perthnasol, sydd wedi cael hysbysiad o dan naill ai adran 104 neu 123 o’r Ddeddf, wneud cais i bwyllgor asesu rhenti, a gyfansoddwyd yn unol ag Atodlen 10 i Ddeddf Rhenti 1977, bennu’r rhent ar gyfer yr annedd. Mae rheoliad 3 hefyd yn rhagnodi ffurf y cais i’r pwyllgor asesu rhenti, a nodir yn yr Atodlen i’r Rheoliadau hyn. Mae cais sydd ar ffurf sydd ag effaith sylweddol debyg yn ddilys.
+Mae rheoliad 4 yn darparu bod rhaid i bwyllgor asesu rhenti benderfynu ar bob cais o’r fath yn unol â’r rhagdybiaethau a nodir yn rheoliad 6.
+Mae rheoliad 5 yn darparu mai’r rhent a bennir gan bwyllgor asesu rhenti fydd y rhent ar gyfer yr annedd oni bai bod y landlord a deiliad y contract yn cytuno fel arall.
+Mae rheoliad 6 yn nodi’r rhagdybiaethau y mae rhaid i’r pwyllgor asesu rhenti eu cymhwyso wrth bennu’r rhent ar gyfer yr annedd.
+Mae rheoliad 7 yn caniatáu ar gyfer dod ag ymwneud pwyllgor asesu rhenti â chais i ben yn dilyn hysbysiad ysgrifenedig gan y landlord a deiliad y contract fel ei gilydd yn cadarnhau nad oes angen penderfyniad arnynt mwyach.
+Mae rheoliad 8 yn gwneud diwygiadau canlyniadol i Reoliadau Pwyllgorau Asesu Rhenti (Cymru a Lloegr) 1971 (O.S. 1971/1065), sy’n pennu’r weithdrefn i’w dilyn gan bwyllgor asesu rhenti wrth ystyried cais a wneir iddo o dan y Rheoliadau hyn.
+Ystyriwyd Cod Ymarfer Gweinidogion Cymru ar gynnal Asesiadau Effaith Rheoleiddiol mewn perthynas â’r Rheoliadau hyn. O ganlyniad, lluniwyd asesiad effaith rheoleiddiol o’r costau a’r manteision sy’n debygol o ddeillio o gydymffurfio â’r Rheoliadau hyn. Gellir cael copi oddi wrth: Yr Adran Dai, Llywodraeth Cymru, Parc Busnes Rhyd-y-car, Merthyr Tudful, CF48 1UZ.

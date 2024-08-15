@@ -1,0 +1,90 @@
+STATUTORY RULES OF NORTHERN IRELAND
+2023 No. 185
+ROAD TRAFFIC AND VEHICLES
+The Taxis (Taximeters, Devices and Maximum Fares) (Amendment No. 2) Regulations (Northern Ireland) 2023
+Made
+9th November 2023
+Coming into operation
+5th December 2023
+The Department for Infrastructure(1), makes the following Regulations in exercise of the powers conferred by sections 16(1), 18(5), and 56(2) of the Taxis Act (Northern Ireland) 2008(2) and now vested in it(3).
+In accordance with section 16(3) of that Act the Department has taken into consideration recommendations made by the General Consumer Council for Northern Ireland.
+(1)
+Formerly the Department for Regional Development; see section 1(6) and (11) of, and Schedule 1 to, the Departments Act (Northern Ireland) 2016 (2016 c. 5 (N.I.)). Pursuant to section 1(9) of that Act, the Department of the Environment is dissolved
+(2)
+2008 c. 4 (N.I.); section 56(2) was amended by paragraph 92 of Schedule 14 to S.I. 2010/976
+(3)
+See Article 8(1)(b) of, and Part 2 of Schedule 5 to, the Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016 No. 76)Citation and commencement
+1.  These Regulations may be cited as the Taxis (Taximeters, Devices and Maximum Fares) (Amendment No. 2) Regulations (Northern Ireland) 2023 and shall come into operation on 5th December 2023.
+Commencement Information
+I1
+Reg. 1 in operation at 5.12.2023, see reg. 1Amendment of the Taxis (Taximeters, Devices and Maximum Fares) Regulations
+2.—(1) The Taxis (Taximeters, Devices and Maximum Fares) Regulations (Northern Ireland) 2015(1) are amended as follows.
+(2) In regulation 4 (application)—
+(a)
+at the beginning of paragraph (2), omit “Subject to paragraph (3),”; and
+(b)
+omit paragraph (3).
+(3) In regulation 11 (condition of taximeter and device)—
+(a)
+in paragraph (3)—
+(i)
+for “24th November 2021 to 31st May 2022” substitute “5th December 2023 to 31st May 2024”; and
+(ii)
+for “regulation (4)” substitute “regulation 4”; and
+(b)
+in paragraph (4)—
+(i)
+at the end of sub-paragraph (a) insert “or”; and
+(ii)
+omit sub-paragraph (b).
+(4) For Part 1 of the Schedule, substitute the Part set out in the Schedule to these Regulations.
+Commencement Information
+I1
+Reg. 2 in operation at 5.12.2023, see reg. 1
+(1)
+S.R. 2015 No. 394; relevant amending Regulations are S.R. 2016 No. 148, S.R. 2017 No. 225, S.R. 2021 No. 305 and S.R. 2023 No. 127Sealed with the Official Seal of the Department for Infrastructure on 9th November 2023
+Chris Hughes
+A senior officer of the Department for InfrastructureRegulation 2(4)
+SCHEDULE
+Commencement Information
+I1
+Sch. in operation at 5.12.2023, see reg. 1
+“Part 1
+Maximum Fares (amended figures to be supplied)
+Column (1)
+Fare Title
+Column (2)
+Day/Time
+Column (3)
+Calculation of Fare
+Column (4)
+Maximum fare
+Rate 1 Monday-Friday 06.00-20.00 except on the specified days listed in Part 2
+For the first 791.9 yards or part thereof or for the first 3 minutes and 13 seconds or part thereof.
+For every subsequent 189 yards or part thereof, or 46 seconds or part thereof.
+£3.20
+£0.20
+Rate 2 Monday-Thursday 20.00-06.00 except on the specified days listed in Part 2
+For the first 800.5 yards or part thereof or for the first 3 minutes and 14 seconds or part thereof.
+For every subsequent 173.3 yards or part thereof, or 42 seconds or part thereof.
+£4.00
+£0.20
+Rate 3 Friday 20.00-Monday 06.00 and all day on the specified days listed in Part 2 (20.00 on the preceding day to 06.00 on the following day)
+For the first 810 yards or part thereof or for the first 3 minutes and 16 seconds or part thereof.
+For every subsequent 173.3 yards or part thereof, or 42 seconds or part thereof.
+£5.00
+£0.20
+Rate 4 Notwithstanding the provisions in Column (2) of Rates 1 to 3, 24th December 14.00-27th December 06.00 and 31st December 20.00-1st January 24.00
+For the first 822.1 yards or part thereof or for the first 2 minutes and 58 seconds or part thereof.
+For every subsequent 97.1 yards or part thereof, or 21 seconds or part thereof.
+£5.80
+£0.20”EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the Taxis (Taximeters, Devices and Maximum Fares) Regulations (Northern Ireland) 2015 (“the Taximeter Regulations”) in order to increase the maximum fare rates.
+The Regulations will permit a taxi to be operated without a sealed taximeter between 5th December 2023 and 31st May 2024 in the following circumstances and on the condition that an application for the inspection, testing and sealing of the taximeter has been made in accordance with the Taximeter Regulations—
+(a)
+the seal has been broken to facilitate the calibration of taximeter fare rates; or
+(b)
+a new taximeter has been fitted and has not yet been inspected, tested and sealed in accordance with the Taximeter Regulations.
+The Regulations also make minor amendments to remove provisions that are no longer required.
+An Explanatory Memorandum has been produced and is available from Safe and Accessible Travel Division, Department for Infrastructure, Clarence Court, 10-18 Adelaide Street, Town Parks, Belfast BT2 8GB or online alongside this Regulation at http://www.legislation.gov.uk/nisr

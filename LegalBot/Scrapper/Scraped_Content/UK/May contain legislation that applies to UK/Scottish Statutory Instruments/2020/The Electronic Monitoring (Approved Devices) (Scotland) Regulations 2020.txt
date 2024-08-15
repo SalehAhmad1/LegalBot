@@ -1,0 +1,53 @@
+SCOTTISH STATUTORY INSTRUMENTS
+2020 No. 308
+CRIMINAL LAW
+The Electronic Monitoring (Approved Devices) (Scotland) Regulations 2020
+Made
+2nd October 2020
+Laid before the Scottish Parliament
+5th October 2020
+Coming into force
+19th November 2020
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 8(1) and 15(1) of the Management of Offenders (Scotland) Act 2019(1) and all other powers enabling them to do so.
+(1)
+2019 asp 14.Citation, commencement and interpretation
+1.—(1) These Regulations may be cited as the Electronic Monitoring (Approved Devices) (Scotland) Regulations 2020.
+(2) These Regulations come into force on 19 November 2020.
+(3) In these Regulations—
+“the 2019 Act” means the Management of Offenders (Scotland) Act 2019,
+“fitting and installation tool” means an electronic device which is intended to be used in order to—
+(a)
+install a home monitoring unit at a specific location,
+(b)
+securely fit a personal identification device to a monitored person, or
+(c)
+undertake diagnostic testing of a home monitoring unit or a personal identification device.
+“GPS” means the Global Positioning System,
+“home monitoring unit” means an electronic device which—
+(a)
+receives information from a personal identification device via a regular short range signal (and does not use GPS location information to track a monitored person),
+(b)
+transmits information to a remote server via a mobile phone network or a telephone line, and
+(c)
+is intended to be installed in a specific location to monitor a monitored person’s presence at, or absence from, that location,
+“monitored person” means a person who is subject to a requirement imposed under section 1(1) or 5(1) of the 2019 Act,
+“personal identification device” means an electronic device which—
+(a)
+transmits information to a home monitoring unit via a regular short-range radio signal (and does not use GPS location information to track a monitored person), and
+(b)
+is intended to be securely fitted to a monitored person,Approved Devices
+2.—(1) The types of electronic devices listed in paragraph (2) are prescribed by the Scottish Ministers as approved devices in relation to a requirement imposed under section 1(1) or 5(1) of the 2019 Act.
+(2) The types of electronic devices are as follows—
+(a)
+a home monitoring unit,
+(b)
+a personal identification device, and
+(c)
+a fitting and installation tool.HUMZA YOUSAF
+A member of the Scottish Government
+St Andrews House
+Edinburgh
+2nd October 2020EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations prescribe the types of electronic devices which are approved devices in relation to a requirement imposed under Part 1 of the Management of Offenders (Scotland) Act 2019 (“the 2019 Act“).
+A requirement imposed by a court under section 1(1) of the 2019 Act, or by the Scottish Ministers under section 5(1) of the 2019 Act, is a requirement that a person must submit to monitoring by means of an approved device. An approved device is a device of a type prescribed by the Scottish Ministers under section 8 of the 2019 Act. The person subject to the requirement is then monitored for the purposes of ascertaining their compliance with (1) the underlying court order or licence conditions to which they are subject and (2) the standard electronic monitoring obligations in section 12 of the 2019 Act.

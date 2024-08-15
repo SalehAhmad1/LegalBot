@@ -1,0 +1,49 @@
+Draft Regulations laid before Parliament under section 19(3)(a) of the Air Traffic Management and Unmanned Aircraft Act 2021, for approval by resolution of each House of Parliament.
+DRAFT STATUTORY INSTRUMENTS
+2022 No. 0000
+CIVIL AVIATION
+The Air Traffic Management and Unmanned Aircraft Act 2021 (Airspace Change Directions) (Determination of Turnover for Penalties) Regulations 2022
+Made
+***
+Coming into force
+***
+The Secretary of State makes the following Regulations in exercise of the powers conferred by paragraph 12 of Schedule 2 to the Air Traffic Management and Unmanned Aircraft Act 2021(1).
+In accordance with section 19(3)(a) of that Act, a draft of this instrument has been laid before, and approved by a resolution of, each House of Parliament.
+(1)
+2021 c. 12.Citation, commencement, extent and interpretation
+1.—(1) These Regulations may be cited as the Air Traffic Management and Unmanned Aircraft Act 2021 (Airspace Change Directions) (Determination of Turnover for Penalties) Regulations 2022.
+(2) These Regulations come into force on the 22nd day after the day on which they are made.
+(3) These Regulations extend to England and Wales, Scotland and Northern Ireland.
+(4) In these Regulations “the Act” means the Air Traffic Management and Unmanned Aircraft Act 2021.Calculation of turnover
+2.—(1) For the purposes of paragraphs 7 and 8(1) of Schedule 2 to the Act (amount of penalty), a person’s turnover is their applicable turnover for the most recent business year ending on or before the last day of the period specified under paragraph 2(2)(c) of Schedule 2 to the Act in relation to the requirement for the contravention of which the penalty is imposed.
+(2) Where the business year referred to in paragraph (1) does not equal 12 months, the person’s turnover is their applicable turnover in that business year divided by the number of months in that business year and multiplied by 12.
+(3) Where there is no preceding business year, the person’s turnover is their applicable turnover for the period of 12 months ending on the last day of the period specified under paragraph 2(2)(c) of Schedule 2 to the Act in relation to the requirement for the contravention of which the penalty is imposed.
+(4) Where in the application of paragraph (3) the period for which the person has applicable turnover is less than 12 months, the person’s turnover is the applicable turnover in that period divided by the number of months in that period and multiplied by 12.
+(5) For the purposes of paragraphs (1) and (3), if the period specified under paragraph 2(2)(c) of Schedule 2 to the Act in relation to the requirement for the contravention of which the penalty is imposed has been modified under paragraph 3 of that Schedule, the reference to the last day of that period is a reference to the last day of that period as modified under paragraph 3 of that Schedule.
+(6) In this regulation—
+“applicable turnover” has the meaning given in regulation 3;
+“business year” means a period of more than six months in respect of which a person publishes accounts or, if no such accounts have been published for the period, prepares accounts, in respect of its business as defined in regulation 3.Applicable turnover
+3.—(1) For the purposes of regulation 2, a person’s applicable turnover means the sum of all amounts received in the course of that person’s business as shown in the accounts published by that person, or, if no such accounts were published, the accounts prepared by that person, in respect of that business, including grants from any public or local authority but excluding—
+(a)
+capital receipts; and
+(b)
+loans made by a third party.
+(2) Amounts are to be calculated in conformity with generally accepted accounting principles and practices in the United Kingdom.
+(3) In this regulation, “business” means—
+(a)
+where a person is an airport operator, the activities carried out by that person at airports in the United Kingdom managed by that person;
+(b)
+where a person is an air navigation service provider, the activities permitted and carried out in accordance with an exemption granted under section 4, or a licence granted under section 6, of the Transport Act 2000(1);
+(c)
+where a person is a person with functions relating to air navigation but is neither an airport operator nor an air navigation service provider, the activities carried out by that person in relation to air navigation in the United Kingdom.
+(1)
+2000 c. 38.Signed by the authority of the Secretary of State for Transport
+Parliamentary Under Secretary of State
+Department for Transport
+DateEXPLANATORY NOTE
+(This note is not part of the Regulations)
+Part 1 of the Air Traffic Management and Unmanned Aircraft Act 2021 (“the Act”) enables directions to be given to persons involved in airspace change (i.e. an air navigation service provider, an airport operator, or another person with functions relating to air navigation) to progress or co-operate with an airspace change proposal where this assists in the delivery of the Civil Aviation Authority’s airspace strategy.
+If a person does not comply with a direction, this may lead to the Civil Aviation Authority giving them an enforcement order. If that enforcement order is contravened this may result in the imposition of a financial penalty consisting of a fixed amount (not exceeding 10% of the person’s turnover) and/or a daily amount (not exceeding 0.1% of the person’s turnover) pursuant to paragraphs 7 and 8 of Schedule 2 to the Act.
+These Regulations set out how a person’s turnover is to be determined for the purposes of calculating the amount of penalty.
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+An Explanatory Memorandum has been published alongside these Regulations on the UK legislation website at www.legislation.gov.uk.

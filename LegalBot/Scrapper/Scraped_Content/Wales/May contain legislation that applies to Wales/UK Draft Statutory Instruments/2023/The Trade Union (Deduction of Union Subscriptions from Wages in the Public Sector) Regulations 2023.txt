@@ -1,0 +1,698 @@
+Draft Regulations laid before Parliament under section 116B(9) of the Trade Union and Labour Relations (Consolidation) Act 1992, for approval by resolution of each House of Parliament.
+DRAFT STATUTORY INSTRUMENTS
+2023 No.
+EMPLOYMENT
+TRADE UNIONS
+The Trade Union (Deduction of Union Subscriptions from Wages in the Public Sector) Regulations 2023
+Coming into force
+9th May 2024
+The Minister for the Cabinet Office makes the following Regulations in exercise of the powers conferred by section 116B(3), (4), (5) and (7)(b) and (c) of the Trade Union and Labour Relations (Consolidation) Act 1992(1) (“the Act”).
+In accordance with section 116B(9) of the Act, a draft of this instrument was laid before and approved by a resolution of each House of Parliament.
+(1)
+1992 c. 52. Section 116B was inserted by section 15 of the Trade Union Act 2016 (c. 15) and amended by section 1(2) of the Trade Union (Wales) Act 2019 (anaw 4).Citation, commencement, extent and interpretation
+1.—(1) These Regulations may be cited as the Trade Union (Deduction of Union Subscriptions from Wages in the Public Sector) Regulations 2023.
+(2) These Regulations come into force on 9th May 2024.
+(3) These Regulations extend to England and Wales and Scotland.
+(4) In these Regulations “the 1992 Act” means the Trade Union and Labour Relations (Consolidation) Act 1992.Persons deemed to be public authorities
+2.  Any body or other person which—
+(a)
+is listed, or of a description listed, in the Schedule, and
+(b)
+is not a public authority,
+is to be treated as a public authority for the purposes of section 116B of the 1992 Act.Crown employees: entity to be treated as an employer
+3.  For the purposes of section 116B of the 1992 Act, a public authority that is an emanation of the Crown is to be treated as the employer of a person who is employed by the Crown under or for the purposes of that authority.Relevant public sector employers
+4.  The following are specified as relevant public sector employers for the purposes of section 116B of the 1992 Act—
+(a)
+any department of the Government of the United Kingdom, other than the Secret Intelligence Service, the Security Service and the Government Communications Headquarters;
+(b)
+the Scottish Ministers;
+(c)
+any public authority specified, or of a description specified, in the Schedule;
+(d)
+any body or other person which is to be treated as a public authority for the purposes of section 116B of the 1992 Act in accordance with regulation 2.Consequential modification of contracts of employment and collective agreements
+5.—(1) A relevant document is to be treated, on and after 9th May 2024, as if it prohibited any deduction from workers’ wages in respect of trade union subscriptions otherwise than in accordance with section 116B(1) of the 1992 Act (restrictions on deductions of union subscriptions from wages in the public sector).
+(2) Nothing in this regulation affects—
+(a)
+any right or obligation arising in connection with anything done, or any omission made, before 9th May 2024, or
+(b)
+the enforcement of any such right or obligation.
+(3) In this regulation “relevant document” means a contract of employment or a collective agreement which, immediately before 9th May 2024, contained a provision permitting or requiring a specified public sector employer to make deductions from its workers’ wages in respect of trade union subscriptions.
+(4) For the purposes of paragraph (3) “specified public sector employer” means any person or other body specified in regulation 4.Minister for the Cabinet Office
+Cabinet OfficeRegulations 2 and 4
+SCHEDULE
+Relevant public sector employers
+PART 1
+Local Government
+1.  A county council or district council in England.
+2.  The Greater London Authority(1).
+3.  A London borough council.
+4.  The Common Council of the City of London.
+5.  The Council of the Isles of Scilly.
+6.  A parish council in England.
+7.  An economic prosperity board established under section 88 of the Local Democracy, Economic Development and Construction Act 2009(2).
+8.  A combined authority established under section 103 of the Local Democracy, Economic Development and Construction Act 2009.
+9.  A council constituted by section 2 of the Local Government etc. (Scotland) Act 1994(3).
+10.  A joint board, within the meaning of section 235(1) of the Local Government (Scotland) Act 1973(4).
+11.  A fire and rescue authority constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004(5), or a scheme to which section 4 of that Act applies, for an area in England.
+12.  A fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004(6).
+13.  A joint fire authority established under Part 4 of the Local Government Act 1985(7).
+14.  A body corporate established by an order under section 67 of the Local Government Act 1985.
+15.  The London Fire Commissioner(8).
+16.  The Scottish Fire and Rescue Service(9).
+17.  An internal drainage board, which is continued in being by virtue of section 1 of the Land Drainage Act 1991(10), for an area in England.
+18.  Transport for London(11).
+19.  The London Transport Users’ Committee(12).
+20.—(1) A Passenger Transport Executive for—
+(a)
+an area in England which is an integrated transport area for the purposes of Part 2 of the Transport Act 1968(13), or
+(b)
+a passenger transport area for the purposes of that Part of that Act.
+(2) In this paragraph “Passenger Transport Executive”, in relation to an integrated transport area in England or a passenger transport area, means the body which is the Executive in relation to that area for the purposes of Part 2 of the Transport Act 1968.
+21.  The Passengers’ Council(14).
+22.  A Transport Partnership created under section 1 of the Transport (Scotland) Act 2005(15).
+23.  A sub-national transport body established under section 102E of the Local Transport Act 2008(16).
+24.  A National Park authority established by an order under section 63 of the Environment Act 1995(17) for an area in England.
+25.  A National Park authority established by virtue of section 7(1)(b) of the National Parks (Scotland) Act 2000(18).
+26.  The Broads Authority(19).
+27.  A conservation board established under section 86 of the Countryside and Rights of Way Act 2000(20) in respect of an area of outstanding natural beauty in England.
+PART 2
+The National Health Service
+28.  NHS England(21).
+29.  An integrated care board established under section 14Z25 of the National Health Service Act 2006(22).
+30.  An NHS trust established under section 25 of the National Health Service Act 2006(23).
+31.  A Special Health Authority established under section 28 of the National Health Service Act 2006.
+32.  An NHS foundation trust within the meaning given by section 30 of the National Health Service Act 2006.
+33.  A Health Board constituted under section 2(1)(a) of the National Health Service (Scotland) Act 1978(24).
+34.  A Special Health Board constituted under section 2(1)(b) of the National Health Service (Scotland) Act 1978.
+35.  The Common Services Agency for the Scottish Health Service(25).
+36.  Healthcare Improvement Scotland(26).
+PART 3
+Maintained Schools and Other Educational Institutions
+37.  The governing body of—
+(a)
+a foundation school in England,
+(b)
+a voluntary aided school in England, or
+(c)
+a foundation special school in England.
+38.  The proprietor (within the meaning given in section 579(1) of the Education Act 1996(27)) of—
+(a)
+an Academy school (within the meaning given in section 1A of the Academies Act 2010(28));
+(b)
+a 16 to 19 Academy (within the meaning given in section 1B of that Act);
+(c)
+an alternative provision Academy (within the meaning given in section 1C of that Act).
+39.—(1) The governing body of an institution within the further education sector in England.
+(2) In this paragraph—
+(a)
+“governing body” is to be interpreted in accordance with subsection (1) of section 90 of the Further and Higher Education Act 1992 but without regard to subsection (2) of that section(29);
+(b)
+the reference to an institution within the further education sector is to be construed in accordance with section 91(3) of that Act.
+40.—(1) The governing body of—
+(a)
+a registered higher education provider of a description prescribed by regulations made by the Secretary of State for the purposes of section 39(1) of the Higher Education and Research Act 2017(30) (a “relevant provider”), or
+(b)
+any college, school, hall or other institution of a relevant provider.
+(2) In this paragraph—
+(a)
+“governing body” is to be interpreted in accordance with subsection (1) of section 90 of the Further and Higher Education Act 1992 but without regard to subsection (2) of that section;
+(b)
+“registered higher education provider” has the meaning given by section 3(10) of the Higher Education and Research Act 2017;
+(c)
+“college” includes any institution in the nature of a college.
+41.—(1) The manager of a central institution.
+(2) In this paragraph “central institution” and “manager” have the meanings given in section 135 of the Education (Scotland) Act 1980(31).
+42.—(1) The governing body of an institution in receipt of funding from the Scottish Further and Higher Education Funding Council(32) or a regional strategic body.
+(2) In this paragraph—
+“governing body” has the meaning given by section 35(2) of the Further and Higher Education (Scotland) Act 2005(33);
+“regional strategic body” has the meaning given by section 7B(1)(a) of that Act(34).
+PART 4
+Police
+43.  A police and crime commissioner(35).
+44.  A chief officer of a police force in England and Wales.
+45.  The British Transport Police Authority(36).
+46.  The Civil Nuclear Police Authority(37).
+47.  The Scottish Police Authority(38).
+PART 5
+Other public bodies and offices
+48.  The Accountant in Bankruptcy(39).
+49.  The Advanced Research and Invention Agency(40).
+50.  The Advisory, Conciliation and Arbitration Service(41).
+51.  The Arts Council of England(42).
+52.  AWE plc(43).
+53.  The Big Lottery Fund(44).
+54.  The Birmingham Children’s Trust Community Interest Company(45).
+55.  The Board of Governors of the Museum of London(46).
+56.  The Board of Trustees of the Armouries(47).
+57.  The Board of Trustees of the National Gallery(48).
+58.  The Board of Trustees for the National Galleries of Scotland(49).
+59.  The Board of Trustees of the National Museums and Galleries on Merseyside(50).
+60.  The Board of Trustees of the National Museums of Scotland(51).
+61.  The Board of Trustees of the National Portrait Gallery(52).
+62.  The Board of Trustees of the Royal Botanic Garden, Edinburgh(53).
+63.  The Board of Trustees of the Royal Botanic Gardens, Kew(54).
+64.  The Board of Trustees of the Science Museum(55).
+65.  The Board of Trustees of the Tate Gallery(56).
+66.  The Board of Trustees of the Victoria and Albert Museum(57).
+67.  The Board of Trustees of the Wallace Collection(58).
+68.  Bradford Children and Families Trust Limited(59).
+69.  Brighter Futures for Children Limited(60).
+70.  The Britain-Russia Centre and the British East-West Centre(61).
+71.  The British Broadcasting Corporation(62).
+72.  The British Council(63).
+73.  The British Library Board(64).
+74.  The British Tourist Authority(65).
+75.  The Children and Family Court Advisory and Support Service (CAFCASS)(66).
+76.  The Care Quality Commission(67).
+77.  The Children’s Commissioner(68).
+78.  Children’s Hearings Scotland(69).
+79.  The Civil Service Commission(70).
+80.  The Coal Authority(71).
+81.  College of Policing Limited(72).
+82.  The Commission for Equality and Human Rights(73).
+83.  The Commission for Local Administration in England(74).
+84.  The Commissioner for Children and Young People in Scotland(75).
+85.  The Commissioner for Ethical Standards in Public Life in Scotland(76).
+86.  The Commissioner for Public Appointments(77).
+87.  The Commissioner for Victims and Witnesses(78).
+88.  The Committee on Climate Change(79).
+89.  The Commonwealth Scholarship Commission in the United Kingdom(80).
+90.  The Competition Service(81).
+91.  Creative Scotland(82).
+92.  The Criminal Cases Review Commission(83).
+93.  The Crofting Commission(84).
+94.  The Disclosure and Barring Service(85).
+95.  East West Railway Company Limited(86).
+96.  Ebbsfleet Development Corporation(87).
+97.  The Engineering Construction Industry Training Board(88).
+98.  The English Sports Council(89).
+99.  The Environment Agency(90).
+100.  Food Standards Scotland(91).
+101.  The Gaelic Media Service(92).
+102.  Gangmasters and Labour Abuse Authority(93).
+103.  The Geffrye Museum Trust(94).
+104.  The Great Britain-China Centre(95).
+105.  The Health and Safety Executive(96).
+106.  Healthcare Improvement Scotland(97).
+107.  The Health Research Authority(98).
+108.  His Majesty’s Chief Inspector of Prisons for England and Wales(99).
+109.  His Majesty’s Chief Inspector of Prisons for Scotland(100).
+110.  His Majesty’s Inspectorate of Probation for England and Wales(101).
+111.  High Speed Two (HS2) Limited(102).
+112.  Highlands and Islands Enterprise(103).
+113.  The Historic Buildings and Monuments Commission for England(104).
+114.  Historic Environment Scotland(105).
+115.  The Homes and Communities Agency(106).
+116.  The Horniman Public Museum and Public Park Trust(107).
+117.  The Human Fertilisation and Embryology Authority(108).
+118.  The Human Tissue Authority(109).
+119.  The Independent Office for Police Conduct(110).
+120.  The Information Commissioner(111).
+121.  The Institute for Apprenticeships and Technical Education(112).
+122.  The Immigration Services Commissioner(113).
+123.  The Joint Nature Conservation Committee(114).
+124.  The Judicial Appointments and Conduct Ombudsman(115).
+125.  The Judicial Appointments Commission(116).
+126.  Located Property Limited(117).
+127.  The Marine Management Organisation(118).
+128.  The Marshall Aid Commemoration Commission(119).
+129.  Mental Welfare Commission for Scotland(120).
+130.  The National Army Museum(121).
+131.  The National Citizen Service Trust(122).
+132.  The National Forest Company(123).
+133.  National Highways Limited(124).
+134.  The National Institute for Health and Care Excellence(125).
+135.  The National Library of Scotland(126).
+136.  The National Museum of the Royal Navy(127).
+137.  The National Non-Food Crops Centre Limited(128).
+138.  National Records of Scotland(129).
+139.  Natural England(130).
+140.  Network Rail Limited(131).
+141.  NHS Blood and Transplant (Gwaed a Thrawsblaniadau’r GIG)(132).
+142.  NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG)(133).
+143.  NHS Shared Business Services Limited(134).
+144.  The National Health Service Litigation Authority (known as “NHS Resolution”)(135).
+145.  Northamptonshire Children’s Trust Limited.(136)
+146.  The Nuclear Decommissioning Authority(137).
+147.  The Office for Budget Responsibility(138).
+148.  The Office for Students(139).
+149.  The Office of the Scottish Charity Regulator(140).
+150.  The Oil and Pipelines Agency(141).
+151.  The Parole Board for England and Wales(142).
+152.  The Parole Board for Scotland(143).
+153.  The Police Investigations and Review Commissioner(144).
+154.  The Registrar of Independent Schools in Scotland(145).
+155.  Registers of Scotland.
+156.  Revenue Scotland(146).
+157.  The Risk Management Authority(147).
+158.  Royal Air Force Museum(148).
+159.  Royal Museums Greenwich Foundation(149).
+160.  Salix Finance Ltd(150).
+161.  Sandwell Children’s Trust(151).
+162.  The Scottish Ambulance Service Board(152).
+163.  The Scottish Children’s Reporter Administration(153).
+164.  The Scottish Commission for Human Rights(154).
+165.  The Scottish Courts and Tribunal Service(155).
+166.  The Scottish Criminal Cases Review Commission(156).
+167.  Scottish Enterprise(157).
+168.  The Scottish Environment Protection Agency(158).
+169.  The Scottish Fiscal Commission(159).
+170.  The Scottish Further and Higher Education Funding Council(160).
+171.  The Scottish Housing Regulator(161).
+172.  The Scottish Information Commissioner(162).
+173.  The Scottish Legal Aid Board(163).
+174.  Scottish Natural Heritage(164).
+175.  The Scottish Public Services Ombudsman(165).
+176.  The Scottish Qualifications Authority(166).
+177.  The Scottish Road Works Commissioner(167).
+178.  The Scottish Social Services Council(168).
+179.  The Scottish Sports Council(169).
+180.  The Sea Fish Industry Authority(170).
+181.  The Security Industry Authority(171).
+182.  The Single Source Regulations Office(172).
+183.  Sir John Soane’s Museum(173).
+184.  Slough Children First Limited(174).
+185.  The Small Business Commissioner(175).
+186.  Social Care and Social Work Improvement Scotland(176).
+187.  The Social Care Institute for Excellence(177).
+188.  Social Work England(178).
+189.  Sports Grounds Safety Authority(179).
+190.  The Standards Commission for Scotland(180).
+191.  Student Loans Company Limited(181).
+192.  The Trade Remedies Authority(182).
+193.  The Trustees of the British Museum(183).
+194.  The Trustees of the Imperial War Museum(184).
+195.  The Trustees of the National Heritage Memorial Fund(185).
+196.  The Trustees of the National Maritime Museum(186).
+197.  The Trustees of the Natural History Museum(187).
+198.  The United Kingdom Atomic Energy Authority(188).
+199.  UK Government Investments Limited(189).
+200.  United Kingdom Research and Innovation(190).
+201.  United Kingdom Anti-Doping Limited(191).
+202.  The United Kingdom Sports Council(192).
+203.  Together for Children Sunderland Limited(193).
+204.  VisitScotland(194).
+205.  The Westminster Foundation for Democracy Limited(195).
+206.  Worcestershire Children First(196).
+207.  The Youth Justice Board for England and Wales(197).
+(1)
+The Greater London Authority was established by section 1 of the Greater London Authority Act 1999 (c. 29).
+(2)
+2009 c. 20.
+(3)
+1994 c. 39.
+(4)
+1973 c. 65.
+(5)
+2004 c. 21.
+(6)
+Section 4A was inserted by paragraph 5 of Schedule 1 to the Policing and Crime Act 2017 (c. 3).
+(7)
+1985 c. 51.
+(8)
+The London Fire Commissioner is a corporation sole created by section 327A of the Greater London Authority Act 1999. Section 327A of that Act was inserted by section 9 of the Policing and Crime Act 2017.
+(9)
+The Scottish Fire and Rescue Service is a body corporate created by section 1A of the Fire (Scotland) Act 2005 (asp 5). Section 1A was inserted by section 101(1) of the Police and Fire Reform (Scotland) Act 2012 (asp 8).
+(10)
+1991 c. 59.
+(11)
+Transport for London is a body corporate established by section 154 of the Greater London Authority Act 1999.
+(12)
+The London Transport Users’ Committee is a body corporate established by section 247 of the Greater London Authority Act 1999.
+(13)
+1968 c. 73. See in particular section 9 of the 1968 Act. Section 9 was amended by paragraph 1 of Schedule 18 to the Local Government (Scotland) Act 1973 (c. 65), by sections 57 and 58 of the Transport Act 1985 (c. 67), by paragraph 80 of Schedule 13 to the Local Government etc. (Scotland) Act 1994 (c. 39) by paragraph 2 of Part 1 of Schedule 4, and Part 4 of Schedule 7, to the Local Transport Act 2008 (c. 26), by paragraph 9 of Schedule 8 to the Deregulation Act 2015 (c. 20) and by S.I. 2011/908, 2014/866, 2016/653 and 2018/1133.
+(14)
+The Passengers’ Council is a body corporate established by section 19 of the Railways Act 2005 (c. 14). It was renamed by S.I. 2010/439.
+(15)
+2005 asp 12.
+(16)
+2008 c. 26. Section 102E was inserted by section 21 of the Cities and Local Government Devolution Act 2016 (c. 1).
+(17)
+1995 c. 25.
+(18)
+2000 asp 10.
+(19)
+The Broads Authority is a body corporate established by section 1 of the Norfolk and Suffolk Broads Act 1988 (c. 4).
+(20)
+2000 c. 37.
+(21)
+NHS England is a body corporate established by section 1H of the National Health Service Act 2006 (c. 41). Section 1H of the 2006 Act was inserted by section 9(1) of the Health and Social Care Act 2012 (c. 7). It was renamed by section 1 of the Health and Care Act 2022 (c. 31).
+(22)
+2006 c. 41. Chapter A3 of Part 2 of the 2006 Act was inserted by section 19(2) of the Health and Care Act 2022 (c. 31).
+(23)
+Section 25 is prospectively repealed by section 179(2) of the Health and Social Care Act 2012.
+(24)
+1978 c. 29.
+(25)
+The Common Services Agency for the Scottish Health Service is a body corporate established by section 10 of the National Health Service (Scotland) Act 1978. Its name was changed by paragraph 2 of Schedule 6 to the Health Services Act 1980 (c. 53). There are other amendments to section 10 not relevant to these Regulations.
+(26)
+Healthcare Improvement Scotland is a body corporate established by section 10A of the National Health Service (Scotland) Act 1978. Section 10A was inserted by section 108 of the Public Services Reform (Scotland) Act 2010 (asp 8).
+(27)
+1996 c. 56. The definition of “proprietor” was amended by paragraph 183 of Schedule 30 to the School Standards and Framework Act 1998 (c. 31), paragraph 17 of Schedule 13 to the Education Act 2011 (c. 21) and by S.I. 20003/2045.
+(28)
+2010 c. 32. Sections 1A to 1D were inserted by section 53(7) of the Education Act 2011 (c. 21). Section 1B was amended by section 164 of the Police, Crime, Sentencing and Courts Act 2022 (c. 32).
+(29)
+1992 c. 13. The definition of “governing body” was amended by paragraph 12 of Schedule 8 to the Apprenticeships, Skills, Children and Learning Act 2009 (c. 22) (“the 2009 Act”). Section 91(3) was amended by paragraph 13 of Schedule 8 to the 2009 Act.
+(30)
+2017 c. 29.
+(31)
+1980 c. 44. There are amendments to section 135 not relevant to these Regulations.
+(32)
+The Scottish Further and Higher Education Funding Council is a body corporate established by section 1 of the Further and Higher Education (Scotland) Act 2005 (asp 6).
+(33)
+Section 35(2) was amended by paragraph 8(23) of the Schedule to the Post-16 Education (Scotland) Act 2013 (asp 12) (“the 2013 Act”).
+(34)
+Section 7B was inserted by section 8 of the 2013 Act.
+(35)
+See the definition of “police and crime commissioner” in Schedule 1 to the Interpretation Act 1978 (c. 30).
+(36)
+The British Transport Police Authority is a body corporate established by section 18 of the Railways and Transport Safety Act 2003 (c. 20).
+(37)
+The Civil Nuclear Police Authority is a body corporate established by section 51 of the Energy Act 2004 (c. 20).
+(38)
+The Scottish Police Authority is a body corporate established by section 1 of the Police and Fire Reform (Scotland) Act 2012 (asp 8).
+(39)
+The Accountant in Bankruptcy is appointed by the Scottish Ministers under section 199 of the Bankruptcy (Scotland) Act 2016 (asp 21).
+(40)
+The Advanced Research and Invention Agency is a body corporate established by section 1 of the Advanced Research and Invention Agency Act 2022 (c. 4).
+(41)
+The Advisory, Conciliation and Arbitration Service is a body corporate continued by section 247 of the Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52).
+(42)
+The Arts Council of England is a registered charity in England and Wales, with the registration number 1036733.
+(43)
+AWE plc is a public limited company incorporated in England and Wales, with the company registration number 02763902.
+(44)
+The Big Lottery Fund is a body corporate established by section 36A of the National Lottery Act 1993 (c. 39). Section 36A was inserted by the National Lottery Act 2006 (c. 23).
+(45)
+The Birmingham Children’s Trust Community Interest Company is a private company limited by guarantee (CIC) incorporated in England and Wales, with the company registration number 10762047.
+(46)
+The Board of Governors of the Museum of London is a body corporate established by section 1 of the Museum of London Act 1965 (c. 17).
+(47)
+The Board of Trustees of the Armouries was established by section 17 of the National Heritage Act 1983 (c. 47).
+(48)
+The Board of Trustees of the National Gallery is a body corporate established by section 1(1)(a) of the Museums and Galleries Act 1992 (c. 44).
+(49)
+The Board of Trustees of the National Galleries of Scotland was established by section 3 of the National Galleries of Scotland Act 1906 (c. 50).
+(50)
+The Board of Trustees of the National Museums and Galleries on Merseyside was established by Article 2 of the Merseyside Museums and Galleries Order 1986 (S.I. 1986/226). The Board are also known as the Board of Trustees of the National Museums Liverpool.
+(51)
+The Board of Trustees of the National Museums of Scotland was established by section 1 the National Heritage (Scotland) Act 1985 (c. 16).
+(52)
+The Board of Trustees of the National Portrait Gallery is a body corporate established by section 1(1)(c) of the Museums and Galleries Act 1992.
+(53)
+The Board of Trustees of the Royal Botanic Garden, Edinburgh was established by section 10 of the National Heritage (Scotland) Act 1985.
+(54)
+The Board of Trustees of the Royal Botanic Gardens, Kew was established by section 23 of the National Heritage Act 1983.
+(55)
+The Board of Trustees of the Science Museum was established by section 9 of the National Heritage Act 1983.
+(56)
+The Board of Trustees of the Tate Gallery is a body corporate established by section 1(1)(b) of the Museums and Galleries Act 1992.
+(57)
+The Board of Trustees of the Victoria and Albert Museum was established by section 1 of the National Heritage Act 1983.
+(58)
+The Board of Trustees of the Wallace Collection is a body corporate established by section 1(1)(d) of the Museums and Galleries Act 1992.
+(59)
+Bradford Children and Families Trust Limited is a company incorporated in England and Wales, with the company registration number 14060995.
+(60)
+Brighter Futures for Children is a company incorporated in England and Wales, with the company registration number 11293709.
+(61)
+The Britain-Russia Centre and the British East-West Centre is a private company limited by guarantee incorporated in England and Wales, with company registration number 00696337.
+(62)
+The British Broadcasting Corporation is a public corporation established by Royal Charter.
+(63)
+The British Council was established by Royal Charter.
+(64)
+The British Library Board is a public authority established by section 1(2) of the British Library Act 1972 (c. 54).
+(65)
+The British Tourist Authority is a body corporate established by section 1(1) of the Development of Tourism Act 1969 (c. 51).
+(66)
+CAFCASS is a body corporate established by section 11(1) of the Criminal Justice and Court Services Act 2000 (c. 43).
+(67)
+The Care Quality Commission is a body corporate established by section 1 of the Health and Social Care Act 2008 (c. 14).
+(68)
+The Children’s Commissioner is an office established by section 1 of the Children Act 2004 (c. 31).
+(69)
+Children’s Hearings Scotland is a body corporate established by section 2 of the Children’s Hearings (Scotland) Act 2011 (asp 1).
+(70)
+The Civil Service Commission is a body corporate established by section 2 of the Constitutional Reform and Governance Act 2010 (c. 25).
+(71)
+The Coal Authority is a body corporate established by section 1 of the Coal Industry Act 1994 (c. 21).
+(72)
+The College of Policing Limited is a company incorporated in England and Wales with the company registration number 08235199.
+(73)
+The Commission for Equality and Human Rights is a body corporate established by section 1 of the Equality Act 2006 (c. 3).
+(74)
+The Commission for Local Administration in England is a body of commissioners established by section 23 of the Local Government Act 1974 (c. 7).
+(75)
+The Commissioner for Children and Young People in Scotland is an office established by section 1 of the Commissioner for Children and Young People (Scotland) Act 2003 (asp 17).
+(76)
+The Commissioner for Ethical Standards in Public Life in Scotland is an office established by section 1 of the Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11). Section 1 was substituted by S.S.I. 2013/197 and amended by section 38 of the Lobbying (Scotland) Act 2016 (asp 16).
+(77)
+The Commissioner for Public Appointments was appointed by the Public Appointments Commissioner Order in Council 2021. Copies of the Order are available at: https://privycouncil.independent.gov.uk/wp-content/uploads/2021/09/2021-09-29-List-of-Business.pdf , or from the Privy Council Office, Room G/04, 1 Horse Guards Road, London SW1A 2HQ.
+(78)
+The Commissioner for Victims and Witnesses is appointed by the Secretary of State for Justice under section 48 of the Domestic Violence, Crime and Victims Act 2004 (c. 28).
+(79)
+The Committee on Climate Change is a body corporate established by section 32 of the Climate Change Act 2008 (c. 27).
+(80)
+The Commonwealth Scholarship Commission in the United Kingdom is a body corporate continued by section 13 of the International Development Act 2002 (c. 1).
+(81)
+The Competition Service is a body corporate established by section 13 of the Enterprise Act 2002 (c. 40).
+(82)
+Creative Scotland is a body corporate established by section 36 of the Public Services Reform (Scotland) Act 2010 (asp 8).
+(83)
+The Criminal Cases Review Commission is a body corporate established by section 8 of the Criminal Appeal Act 1995 (c. 35).
+(84)
+The Crofters Commission was established by section 1 of the Crofters (Scotland) Act 1955 (c. 21), and renamed by section 1 of the Crofting Reform (Scotland) Act 2010 (asp 14).
+(85)
+The Disclosure and Barring Service is a body corporate established by section 87 of the Protection of Freedoms Act 2012 (c. 9).
+(86)
+The East West Railway Company is a company incorporated in England and Wales with the company registration number. 11072935.
+(87)
+The Ebbsfleet Development Corporation is an urban development corporation established by article 3(1) of the Ebbsfleet Development Corporation (Area and Constitution) Order 2015 (S.I. 2015/747).
+(88)
+The Board was established by S.I. 1964/1086 as the Engineering Industry Training Board and renamed by S.I. 1991/1305.
+(89)
+The English Sports Council was incorporated by Royal Charter on 23 July 1996. The Council is also known as “Sport England”.
+(90)
+The Environment Agency is a body corporate established by section 1 of the Environment Act 1995 (c. 25).
+(91)
+Food Standards Scotland is a body corporate established by section 1 of the Food (Scotland) Act 2015 (asp 1).
+(92)
+The Gaelic Media Service (Seirbheis nam Meadhanan Gàidhlig) is the body established for the purposes of section 183 of the Broadcasting Act 1990 (c. 42) and renamed by section 208 of the Communications Act 2003 (c. 21).
+(93)
+The Authority was established by section 1 of the Gangmasters (Licensing) Act 2004 (c. 11), and continued and renamed by section 1 of that Act as amended by paragraph 15 of Schedule 3 to the Immigration Act 2016 (c. 19).
+(94)
+The Geffrye Museum Trust is a registered charity in England and Wales, with the registered charity number 803052.
+(95)
+The Great Britain-China Centre is a company incorporated in England and Wales with the company registration number 01196043.
+(96)
+The Health and Safety Executive is a body corporate established by section 10 of the Health and Safety at Work etc. Act 1974 (c. 37), as amended by S.I. 2008/960.
+(97)
+Healthcare Improvement Scotland is a body corporate established by section 10A of the National Health Service (Scotland) Act 1978 (c. 29). Section 10A was inserted by section 108 of the Public Services (Reform) Scotland Act 2010.
+(98)
+The Health Research Authority is a body corporate established under section 109 of the Care Act 2014 (c. 23).
+(99)
+The Chief Inspector of Prisons for England and Wales is appointed under section 5A of the Prisons Act 1952 (c. 52).
+(100)
+The Chief Inspector of Prisons for Scotland is appointed under section 7 of the Prisons (Scotland) Act 1989 (c. 45).
+(101)
+The Inspectorate was established under section 23 of the Probation Service Act 1993 (c. 47) and continued in being by section 6 of the Criminal Justice and Court Services Act 2000 (c. 43).
+(102)
+High Speed Two (HS2) Limited is a company incorporated in England and Wales, with the company registration number 06791686.
+(103)
+Highlands and Islands Enterprise is a body corporate established under section 1(b) of the Enterprise and New Towns (Scotland) Act 1990 (c. 35).
+(104)
+The Commission is a body corporate established by section 32 of the National Heritage Act 1983.
+(105)
+Historic Environment Scotland is a body corporate established by section 1 of the Historic Environment Scotland Act 2014 (asp 19).
+(106)
+The Agency is a body corporate established by section 1 of the Housing and Regeneration Act 2008 (c. 17).
+(107)
+The Trust is company incorporated in England and Wales, with the company registration number 02456393, and is a registered charity in England and Wales (charity number 802725).
+(108)
+The Authority is a body corporate established by section 5 of the Human Fertilisation and Embryology Act 1990 (c. 37).
+(109)
+The Authority is a body corporate established by section 13 of the Human Tissue Act 2004 (c. 30).
+(110)
+The Independent Office for Police Conduct was established as the Independent Police Complaints Commission by section 9 of the Police Reform Act 2002 (c. 3) and it was continued and renamed by that section as amended by section 33 of the Policing and Crime Act 2017.
+(111)
+The Information Commissioner is a corporation sole. The existence of the Commissioner is continued by section 114 of the Data Protection Act 2018 (c. 12).
+(112)
+The Institute is a body corporate established by section ZA1 of the Apprenticeships, Skills, Children and Learning Act 2009 (c. 22). Section ZA1 was inserted by paragraph 2 of Schedule 4 to the Enterprise Act 2016 (c. 12) and amended by section 1 of the Technical and Further Education Act 2017 (c. 19).
+(113)
+The Commissioner is appointed by the Secretary of State under section 83 of the Immigration and Asylum Act 1999 (c. 33).
+(114)
+The Committee is continued in existence, and re-constituted, in accordance with section 31 of, and Schedule 4 to, the Natural Environment and Rural Communities Act 2006 (c. 16).
+(115)
+The Ombudsman is appointed by His Majesty on the recommendation of the Lord Chancellor, in accordance with section 62 of, and Schedule 13 to, the Constitutional Reform Act 2005 (c. 4).
+(116)
+The Commission is a body corporate established by section 61 of the Constitutional Reform Act 2005.
+(117)
+Located Property Limited is a company incorporated in England and Wales, with company registration number 10385637.
+(118)
+The Organisation is a body corporate established by section 1 of the Marine and Coastal Access Act 2009 (c. 23).
+(119)
+The Commission was established by section 2 of the Marshall Aid Commemoration Act 1953 (c. 39).
+(120)
+The Commission is a body corporate continued in existence by section 4 of the Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13).
+(121)
+The Museum is a registered charity in England and Wales, with the charity number 237902.
+(122)
+The Trust is a Royal Charter company (company number RC000894).
+(123)
+The National Forest Company is a company incorporated in England and Wales, with the company registration number 02991970.
+(124)
+National Highways Limited a company incorporated in England and Wales, with the company registration number 09346363.
+(125)
+The National Institute for Health and Care Excellence is a body corporate established by section 232 of the Health and Social Care Act 2012 (c. 7).
+(126)
+The National Library of Scotland is a body corporate established by section 1(1) of the National Library of Scotland Act 1925 (c. 73) and renamed by section 1 of the National Library of Scotland Act 2012 (asp 3). It is a registered charity in Scotland (charity number SC011086).
+(127)
+The Museum is a company incorporated in England and Wales with the company registration number 06699696, and is a registered charity in England and Wales (charity number 1126283).
+(128)
+The National Non-Food Crops Centre Limited is a company incorporated in England and Wales with the company registration number 04853659.
+(129)
+National Records of Scotland is a Non-Ministerial Department of the Scottish Government.
+(130)
+Natural England is a body corporate established by section 1 of the Natural Environment and Rural Communities Act 2006.
+(131)
+Network Rail Limited is a company incorporated in England and Wales with the company registration number 04402220.
+(132)
+NHS Blood and Transplant is a Special Health Authority established by S.I. 2005/2529.
+(133)
+NHS Business Services Authority is a Special Health Authority established by S.I. 2005/2414.
+(134)
+NHS Shared Business Services Limited is a private limited company incorporated in England and Wales, with company registration number 05280446.
+(135)
+The National Health Service Litigation Authority is a Special Health Authority established by S.I. 1995/2800.
+(136)
+Northamptonshire Children’s Trust is a company incorporated in England and Wales with the company registration number 12430084.
+(137)
+The Authority is a body corporate established by section 1 of the Energy Act 2004 (c. 20).
+(138)
+The Office for Budget Responsibility is a body corporate established by section 2 of the Budget Responsibility and National Audit Act 2011 (c. 4).
+(139)
+The Office for Students is a body corporate established by section 1 of the Higher Education and Research Act 2017 (c. 29).
+(140)
+The Office of the Scottish Charity Regulator is established by section 1 of the Charities and Trustee Investment (Scotland) Act 2005 (asp 10).
+(141)
+The Oil and Pipelines Agency is a body corporate established by section 1(1) of the Oil and Pipelines Act 1985 (c. 62).
+(142)
+The Parole Board is a body corporate originally established under the Criminal Justice Act 1967 (c. 80) and now continued in existence by section 239 of the Criminal Justice Act 2003 (c. 44).
+(143)
+The Parole Board for Scotland is a body corporate continued in existence by section 20 of the Prisoners and Criminal Proceedings (Scotland) Act 1993 (c. 9).
+(144)
+The Police Investigations and Review Commissioner was originally established as the Police Complaints Commissioner for Scotland by section 33 of the Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10) and renamed by section 61 of the Police and Fire Reform (Scotland) Act 2012 (asp 8).
+(145)
+The Registrar is appointed under section 98 of the Education (Scotland) Act 1980 (c. 44).
+(146)
+Revenue Scotland is a body corporate established by section 2 of the Revenue Scotland and Tax Powers Act 2014 (asp 16).
+(147)
+The Risk Management Authority was established by section 3 of the Criminal Justice (Scotland) Act 2003 (asp 7).
+(148)
+The Royal Air Force Museum is a registered charity in England and Wales (charity number 1197541).
+(149)
+The Royal Museums Greenwich Foundation is a company incorporated in England and Wales with the company registration number 08002287 and is a registered charity in England and Wales (charity number 1147279).
+(150)
+Salix Finance Ltd is a company incorporated in England and Wales with the company registration number 05068355.
+(151)
+Sandwell Children’s Trust is a company incorporated in England and Wales with the company registration number 10620524.
+(152)
+The Scottish Ambulance Service Board is a Special Health Board constituted by article 3 of S.I. 1999/686 (S. 47).
+(153)
+The Scottish Children’s Reporter Administration is a body corporate originally established by section 128(1) of the Local Government etc. (Scotland) Act 1994 (c. 39) and is continued in existence by section 15 of the Children’s Hearings (Scotland) Act 2011 (asp 1).
+(154)
+The Scottish Commission for Human Rights is a body corporate established by section 1 of the Scottish Commission for Human Rights Act 2006 (asp 16).
+(155)
+The Scottish Courts and Tribunal Service is a body corporate established by section 60 of the Judiciary and Courts (Scotland) Act 2008 (asp 6). It was renamed by section 130 of the Courts Reform (Scotland) Act 2014 (asp 18).
+(156)
+The Scottish Criminal Cases Review Commission is a body corporate established by section 194A of the Criminal Procedure (Scotland) Act 1995 (c. 46). Section 194A was inserted by section 25(1) of the Crime and Punishment (Scotland) Act 1997.
+(157)
+Scottish Enterprise is a body corporate established by section 1(a) of the Enterprise and New Towns (Scotland) Act 1990 (c. 35).
+(158)
+The Scottish Environment Protection Agency is a body corporate established by section 20 of the Environment Act 1995 (c. 25).
+(159)
+The Scottish Fiscal Commission was established by section 1 of Scottish Fiscal Commission Act 2016 (asp 17).
+(160)
+The Council is a body corporate established by section 1 of the Further and Higher Education (Scotland) Act 2005 (asp 6).
+(161)
+The Regulator is a body corporate established by section 1 of the Housing (Scotland) Act 2010 (asp 17).
+(162)
+The Scottish Information Commissioner is appointed by His Majesty (see section 42 of the Freedom of Information (Scotland) Act 2002 (asp 13)).
+(163)
+The Board is a body corporate established by section 1 of the Legal Aid (Scotland) Act 1986 (c. 47).
+(164)
+Scottish Natural Heritage is a body corporate established by section 1 of the Natural Heritage (Scotland) Act 1991 (c. 28).
+(165)
+The Ombudsman is an officer appointed by His Majesty on the nomination of the Scottish Parliament (see section 1 of the Scottish Public Services Ombudsman Act 2002 (asp 11)).
+(166)
+The Scottish Qualifications Authority is a body corporate established by S.I. 1996/2248 (S. 180).
+(167)
+The Scottish Road Works Commissioner is the person, for the time being, holding the office created by section 16(1) of the Transport (Scotland) Act 2005 (asp 12).
+(168)
+The Council is a body corporate established by section 43 of the Regulation of Care (Scotland) Act 2001 (asp 8).
+(169)
+The Scottish Sports Council was established by Royal Charter in 1972. It is also known as “sportscotland”.
+(170)
+The Authority is a body corporate established by section 1 of the Fisheries Act 1981 (c. 29).
+(171)
+The Authority is a body corporate established by section 1 of the Private Security Industry Act 2001 (asp 12).
+(172)
+The Office is a body corporate established by section 13 of the Defence Reform Act 2014 (c. 20).
+(173)
+Sir John Soane’s Museum is a charity registered in England and Wales, with charity registration number 313609.
+(174)
+Slough Children First Limited is a company incorporated in England and Wales with the company registration number 09487106.
+(175)
+The Commissioner is a corporation sole established by section 1 of the Enterprise Act 2016 (c. 12).
+(176)
+Social Care and Social Work Improvement Scotland is a body corporate established by section 44 of the Public Services Reform (Scotland) Act 2010.
+(177)
+The Social Care Institute for Excellence is a company incorporated in England and Wales with the company registration number 0428970, and registered as a charity in England and Wales (charity number 1092778).
+(178)
+Social Work England is a body corporate established by section 36 of the Children and Social Work Act 2017 (c. 16).
+(179)
+The Authority is a body corporate established by section 8 of, and Schedule 2 to, the Football Spectators Act 1989 and renamed by section 1(1) of the Sports Ground Safety Act 2011 (c. 6).
+(180)
+The Commission was established by section 8 of the Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7).
+(181)
+Student Loans Company Limited is a private limited company incorporated in England and Wales (company number 02401034).
+(182)
+The Authority is a body corporate established by section 6 of the Trade Act 2021 (c. 10).
+(183)
+The Trustees of the British Museum are a body corporate continued in existence by section 1 of the British Museum Act 1963 (c. 24).
+(184)
+The Trustees of the Imperial War Museum are a body corporate established by section 1 of the Imperial War Museum Act 1920 (c. 16).
+(185)
+The Trustees of the National Heritage Memorial Fund are a body corporate established by section 1(2) of the National Heritage Act 1980 (c. 17).
+(186)
+The Trustees of the National Maritime Museum are a body corporate established by section 2 of the National Maritime Museum Act 1934 (c. 43).
+(187)
+The Trustees of the Natural History Museum are a body corporate established by section 8 of the British Museum Act 1963.
+(188)
+The United Kingdom Atomic Energy Authority is a body corporate established by section 1 of the Atomic Energy Authority Act 1954 (c. 32).
+(189)
+UK Government Investments Limited is a company incorporated in England and Wales with the company registration number 09774296.
+(190)
+United Kingdom Research and Innovation is a body corporate established by section 91 of the Higher Education and Research Act 2017 (c. 29).
+(191)
+United Kingdom Anti-Doping Limited is a company incorporated in England and Wales with the company registration number 06990867.
+(192)
+The United Kingdom Sports Council is a Royal Charter company (company number RC000765).
+(193)
+Together for Children Sunderland Limited is a company incorporated in England and Wales with the company registration number 10085290.
+(194)
+VisitScotland is a body corporate established by section 1 of the Development of Tourism Act 1969, as amended by S.I. 2005/3225.
+(195)
+The Westminster Foundation for Democracy Limited is a company incorporated in England and Wales with the company registration number 2993163.
+(196)
+Worcestershire Children First is a company incorporated in England and Wales with the company registration number 11447965.
+(197)
+The Board is a body corporate established by section 41 of the Crime and Disorder Act 1998 (c. 37).EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations are made in connection with section 116B(1) of the Trade Union and Labour Relations (Consolidation) Act 1992 which restricts the circumstances in which deductions of trade union subscriptions from wages in the public sector may be made.
+Regulation 2 specifies that certain bodies and other persons are to be treated as “public authorities” for the purposes of section 116B (“the deemed public authorities”).
+Regulation 3 specifies who is to be treated, for the purposes of section 116B, as the employer of a person who is employed by the Crown.
+Regulation 4 specifies certain public authorities and descriptions of public authorities, and the deemed public authorities, as “relevant public sector employers” for the purposes of section 116B.
+Regulation 5 makes consequential provision in respect of contracts of employment and collective agreements that are in force before these Regulations come into force.
+A full impact assessment of the effect that these Regulations will have on the costs of business, the voluntary sector and the public sector has been prepared. A copy of the Impact Assessment is annexed to the Explanatory Memorandum which is available alongside these Regulations at www.legislation.gov.uk.

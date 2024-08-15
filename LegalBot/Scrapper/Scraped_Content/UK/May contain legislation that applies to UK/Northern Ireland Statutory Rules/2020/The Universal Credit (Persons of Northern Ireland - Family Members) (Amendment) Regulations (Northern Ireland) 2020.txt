@@ -1,0 +1,58 @@
+STATUTORY RULES OF NORTHERN IRELAND
+2020 No. 130
+SOCIAL SECURITY
+The Universal Credit (Persons of Northern Ireland - Family Members) (Amendment) Regulations (Northern Ireland) 2020
+Made
+2nd July 2020
+Laid before Parliament
+3rd July 2020
+Coming into operation
+24th August 2020
+The Secretary of State for Work and Pensions makes the following Regulations in exercise of the powers conferred by Articles 5, 9(5)(a) and 48(1) and (2)(a) of the Welfare Reform (Northern Ireland) Order 2015(1).
+These powers are exercisable by the Secretary of State by virtue of Article 4(1)(a) of the Welfare Reform (Northern Ireland) Order 2015(2).
+(1)
+S.I. 2015/2006 (N.I. 1). Article 5 is cited for the meaning of the word “regulations”.
+(2)
+Article 4 was amended by Article 4 of the Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999 (N.I. 1).Citation and commencement
+1.  These Regulations may be cited as the Universal Credit (Persons of Northern Ireland - Family Members) (Amendment) Regulations (Northern Ireland) 2020 and shall come into operation on 24th August 2020.Amendment of the Universal Credit Regulations (Northern Ireland) 2016
+2.—(1) The Universal Credit Regulations (Northern Ireland) 2016(1) are amended in accordance with paragraph (2).
+(2) In regulation 9 (persons treated as not being in Northern Ireland)(2)—
+(a)
+after paragraph (3) insert—
+“(3A) Paragraph (3)(d)(i) does not apply to a person who—
+(a)
+has a right to reside granted by virtue of being a family member of a relevant person of Northern Ireland; and
+(b)
+would have a right to reside under the EEA Regulations(3) if the relevant person of Northern Ireland were an EEA national, provided that the right to reside does not fall within paragraph (3)(a) or (c)”;
+(b)
+in paragraph (4)(b) omit the words “within the meaning of regulation 7(1)(a), (b) or (c) of the EEA Regulations”;
+(c)
+after paragraph (4)(c) insert—
+“(ca)
+a family member of a relevant person of Northern Ireland, with a right to reside which falls within paragraph (3)(d)(i), provided that the relevant person of Northern Ireland falls within paragraph (4)(a), or would do so but for the fact that they are not an EEA national,”;
+(d)
+after paragraph (4) add—
+“(5) In this regulation—
+“EEA national” has the same meaning given in regulation 2(1) of the EEA Regulations,
+“family member” has the meaning given in regulation 7(1)(a), (b) or (c) of the EEA Regulations, except that regulation 7(4) does not apply for the purposes of paragraphs (3A) and (4)(ca),
+“relevant person of Northern Ireland” has the meaning given in Annex 1 of Appendix EU to the immigration rules made under section 3(2) of the Immigration Act 1971(4).”.
+(1)
+S.R. 2016 No. 216.
+(2)
+Regulation 9 was amended by S.R. 2019 No. 89.
+(3)
+S.I. 2016/1052
+(4)
+1971 c. 77.Signed by authority of the Secretary of State for Work and Pensions
+Justin Tomlinson
+Parliamentary Under Secretary of State
+Department for Work and Pensions
+2nd July 2020EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the Universal Credit Regulations (Northern Ireland) 2016 (S.R 2016 No. 216) (the “Universal Credit Regulations”).
+The Universal Credit Regulations provide that a claimant is ineligible for the benefit where he or she is a “person treated as not being in Northern Ireland”. A person is a person treated as not being in Northern Ireland if he or she is not habitually resident in the United Kingdom, the Channel Islands, the Isle of Man or the Republic of Ireland. No person shall be treated as habitually resident without a relevant right to reside in the place where he or she is habitually resident. However, certain categories of people are exempt from this habitual residence test.
+These Regulations amend the Universal Credit Regulations to reflect that family members of relevant persons of Northern Ireland can now apply for leave to enter, or rem in, the United Kingdom under Appendix EU to the immigration rules made under section 3(2) of the Immigration Act 1971 (c.77) (“EUSS leave”).
+The amendments create an exception so that, where a family member of a relevant person of Northern Ireland has been granted limited EUSS leave, that leave is relevant for the purposes of establishing habitual residence. This is subject to the proviso that if the relevant person of Northern Ireland were an EEA national, the family member would have a right to reside not otherwise excluded by the Universal Credit Regulations.
+The amendments provide that subject to certain conditions, a family member of a relevant person of Northern Ireland who has been granted limited EUSS leave to remain will be treated as meeting the basic condition of being in Northern Ireland, thereby exempting them from the habitual residence test. The relevant conditions are that, at the point the claim is made, the relevant person of Northern Ireland would be considered as exercising a qualifying right to reside under the Immigration (European Economic Area) Regulations 2016 (S.I. 2016/1052) (the “Immigration EEA Regulations”) as either a worker or a self-employed person. Alternatively, where the family member would have a right to reside under the EEA regulations because of their relationship with a relevant person of Northern Ireland, they will have access to Universal Credit as long as that right to reside is not excluded by the relevant regulations. The relevant person of Northern Ireland is treated as if they are an EEA national and would therefore satisfy these conditions whether or not they are an EEA national (as defined in the EEA Regulations).
+The amendments add relevant definitions to the Universal Credit Regulations. They define an “EEA national” by reference to regulation 2 of the Immigration (EEA) Regulations. They define a family member by reference to regulation 7(1)(a), (b) or (c) of the Immigration EEA Regulations. They define a “relevant person of Northern Ireland” by reference to Appendix EU to the immigration rules.
+An impact assessment has not been produced for this instrument as it has no impact on businesses or civil society organisations.

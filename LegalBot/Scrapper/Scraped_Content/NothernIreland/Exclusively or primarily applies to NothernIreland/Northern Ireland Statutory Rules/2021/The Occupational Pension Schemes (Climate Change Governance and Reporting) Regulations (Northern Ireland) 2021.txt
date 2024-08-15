@@ -1,0 +1,728 @@
+STATUTORY RULES OF NORTHERN IRELAND
+2021 No. 244
+PENSIONS
+The Occupational Pension Schemes (Climate Change Governance and Reporting) Regulations (Northern Ireland) 2021
+Made
+7th September 2021
+Coming into operation
+1st October 2021
+Approved by resolution of the Assembly on
+7th March 2022
+The Department for Communities makes the following Regulations in exercise of the powers conferred by Articles 41A, 41B, 41C and 166(1) to (3) of the Pensions (Northern Ireland) Order 1995(1) and now vested in it(2).
+(1)
+S.I. 1995/3213 (N.I. 22); Articles 41A to 41C were inserted by paragraph 12(2) of Schedule 11 to the Pension Schemes Act 2021 (c. 1); see also Article 167(3A) as inserted by paragraph 12(4) of that Schedule
+(2)
+See Article 8(b) of S.R. 1999 No. 481 and section 1(7) of the Departments Act (Northern Ireland) 2016 (c. 5 (N.I.))Citation and commencement
+1.  These Regulations may be cited as the Occupational Pension Schemes (Climate Change Governance and Reporting) Regulations (Northern Ireland) 2021 and shall come into operation on 1st October 2021.
+Commencement Information
+I1
+Reg. 1 in operation at 1.10.2021, see reg. 1Interpretation
+2.  For the purposes of this Part—
+“audited accounts” means the audited accounts which the trustees are required to obtain in accordance with regulation 2 of the Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) Regulations (Northern Ireland) 1997(1) (requirement of trustees or managers to obtain documents);
+“authorised collective money purchase scheme” means a scheme which, or a section of which, is authorised in accordance with section 60 of the Pension Schemes Act 2021(2) (decision on application) and to which Part 2 of that Act (collective money purchase benefits: Northern Ireland) applies;
+“authorised master trust scheme” means a master trust scheme which is authorised in accordance with section 5(4)(a) of the Pension Schemes Act (Northern Ireland) 2021(3) (decision on application);
+“collective money purchase benefit” has the meaning given by section 52 of the Pension Schemes Act 2021;
+“ear-marked scheme” has the meaning given by regulation 1(2)(4) of the Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) Regulations (Northern Ireland) 1997;
+“formerly authorised collective money purchase scheme” means a scheme which, after 1st October 2021, ceases to be an authorised collective money purchase scheme;
+“formerly authorised master trust scheme” means a scheme which, on or after 1st October 2021, ceases to be an authorised master trust scheme;
+“master trust scheme” means a scheme to which Part 1 of the Pension Schemes Act (Northern Ireland) 2021 applies;
+“relevant assets” means—
+(a)
+in the case of a scheme in respect of which the trustees are required to obtain audited accounts, the total of the amount of the net assets of the scheme recorded in the audited accounts for the scheme year less the value of the assets of the scheme represented by any relevant contract of insurance recorded in those accounts, or
+(b)
+in the case of a scheme which is an ear-marked scheme, the value of the assets of the scheme represented by any policies of insurance or annuity contracts that are specifically allocated to the provision of benefits for individual members or any other person who has a right to benefits under the scheme, less the value of the assets of the scheme represented by any relevant contract of insurance;
+“relevant contract of insurance” means a contract of insurance entered into by the trustees of the scheme with an insurance company regulated in the United Kingdom by the Prudential Regulation Authority(5) where—
+(a)
+the contract is an annuity contract which has secured the provision of a pension in payment to or in respect of a scheme member and, at all times before coming into payment, that pension was a benefit falling within section 176B(2)(6) of the Pension Schemes Act (money purchase benefits: supplementary), or
+(b)
+the contract provides for payments to be made by the insurance company which are intended, irrespective of future financial market conditions or scheme member longevity, to meet the cost of benefits specified in the contract—
+(i)
+which are not money purchase benefits under section 176(1)(7) of the Pension Schemes Act (general interpretation), and
+(ii)
+which are, or will become, payable to or in respect of a scheme member;
+“scheme year” means—
+(a)
+a year specified for the purposes of the scheme in any document comprising the scheme or, if none, a period of 12 months commencing on 1st April or on such date as the trustees select, or
+(b)
+such other period exceeding 6 months but not exceeding 18 months as is selected by the trustees in connection with—
+(i)
+the commencement or termination of the scheme, or
+(ii)
+a variation of the date on which the year or period referred to in paragraph (a) is to commence;
+“scheme year commencement date” means the date on which the scheme year commences;
+“scheme year end date” means the date on which the scheme year ends.
+Commencement Information
+I1
+Reg. 2 in operation at 1.10.2021, see reg. 1
+(1)
+S.R. 1997 No. 40; regulation 2 was amended by regulation 2 of S.R. 2000 No. 107, regulation 2(3) of S.R. 2005 No. 421, the Schedule to S.R. 2006 No. 65, paragraph 5(a) of Schedule 9 to S.R. 2014 No. 79 and regulation 2(2) of S.R. 2016 No. 141
+(2)
+2021 c. 1
+(3)
+2021 c. 6 (N.I.)
+(4)
+The definition of “ear-marked scheme” was amended by paragraph 14 of the Schedule to S.R. 1997 No. 160
+(5)
+The Prudential Regulation Authority can be contacted at 20 Moorgate, London EC2R 6DA and at www.bankofengland.co.uk/prudential-regulation
+(6)
+Section 176B was inserted by section 27(2) of the Pensions Act (Northern Ireland) 2012 (c. 3 (N.I.))
+(7)
+The definition of “money purchase benefits” was amended by section 27(1) of the Pensions Act (Northern Ireland) 2012 and paragraph 19 of the Schedule to S.R. 2005 No. 434Climate change governance etc. requirements
+3.—(1) Trustees of a trust scheme which has relevant assets equal to, or exceeding, £5 billion on the first scheme year end date which falls on or after 1st March 2020 must comply with the requirements in Part 1 of the Schedule—
+(a)
+from 1st October 2021 where the scheme is an ear-marked scheme, or
+(b)
+where the scheme is not an ear-marked scheme, from 1st October 2021 or, if later, from the date on which the trustees obtain audited accounts in relation to that scheme year end date.
+(2) Trustees of a trust scheme which does not meet the description specified in paragraph (1) and which has relevant assets equal to, or exceeding, £1 billion on the first scheme year end date which falls on or after 1st March 2021 must comply with the requirements in Part 1 of the Schedule—
+(a)
+from 1st October 2022 where the scheme is an ear-marked scheme, or
+(b)
+where the scheme is not an ear-marked scheme, from 1st October 2022 or, if later, from the date on which the trustees obtain audited accounts in relation to that scheme year end date.
+(3) Trustees of a trust scheme—
+(a)
+which does not meet the description specified in paragraph (1) or (2), and
+(b)
+which on a scheme year end date which falls on or after 1st March 2022 has relevant assets equal to, or exceeding, £1 billion,
+must comply with the requirements in Part 1 of the Schedule from the scheme year commencement date which is one scheme year and one day after that scheme year end date.
+(4) Trustees of a trust scheme—
+(a)
+in respect of which the requirements in Part 1 of the Schedule have ceased to apply in accordance with paragraph (5), and
+(b)
+which on a subsequent scheme year end date has relevant assets equal to, or exceeding, £1 billion,
+must comply with the requirements in Part 1 of the Schedule from the scheme year commencement date which is one scheme year and one day after that subsequent scheme year end date.
+(5) All requirements imposed on trustees in accordance with paragraphs (1) to (4) cease to apply with effect from any subsequent scheme year end date on which the scheme has relevant assets of less than £500 million.
+(6) This regulation does not apply to trustees of a trust scheme—
+(a)
+which is a master trust scheme;
+(b)
+which provides collective money purchase benefits;
+(c)
+which is a formerly authorised master trust scheme, or
+(d)
+which is a formerly authorised collective money purchase scheme.
+Commencement Information
+I1
+Reg. 3 in operation at 1.10.2021, see reg. 1Climate change governance etc. requirements: authorised master trust schemes
+4.—(1) Trustees of authorised master trust schemes must comply with the requirements in Part 1 of the Schedule from 1st October 2021, or, if later, from the date on which the scheme is authorised.
+(2) The requirements imposed on trustees in accordance with paragraph (1) continue to apply where the scheme becomes a formerly authorised master trust scheme, unless—
+(a)
+the relevant assets of the scheme were less than £500 million on the scheme year end date immediately preceding the scheme year in which authorisation ceased, or
+(b)
+on a scheme year end date after authorisation ceased the scheme has relevant assets of less than £500 million.
+(3) Where a scheme meets the description specified in paragraph (2)(a) or (b), the requirements imposed on trustees in accordance with paragraph (1) cease to apply—
+(a)
+with immediate effect where the scheme meets the description specified in paragraph (2)(a), or
+(b)
+from the scheme year end date on which the relevant assets were less than £500 million where the scheme meets the description specified in paragraph (2)(b).
+(4) Trustees of a formerly authorised master trust scheme—
+(a)
+in respect of which the requirements in Part 1 of the Schedule have ceased to apply in accordance with paragraph (3) or (5), and
+(b)
+which on a subsequent scheme year end date has relevant assets equal to, or exceeding, £1 billion,
+must comply with the requirements in Part 1 of the Schedule from the scheme year commencement date which is one scheme year and one day after that subsequent scheme year end date.
+(5) Trustees of a formerly authorised master trust scheme—
+(a)
+in respect of which the requirements in Part 1 of the Schedule apply in accordance with paragraph (4), and
+(b)
+which on a subsequent scheme year end date has relevant assets of less than £500 million,
+cease to be subject to the requirements in Part 1 of the Schedule from that subsequent scheme year end date.
+Commencement Information
+I1
+Reg. 4 in operation at 1.10.2021, see reg. 1Climate change governance etc. requirements: authorised collective money purchase schemes
+5.—(1) Trustees of authorised collective money purchase schemes must comply with the requirements in Part 1 of the Schedule to from the date on which the scheme is authorised.
+(2) The requirements imposed on trustees in accordance with paragraph (1) continue to apply where the scheme becomes a formerly authorised collective money purchase scheme, unless—
+(a)
+the relevant assets of the scheme were less than £500 million on the scheme year end date immediately preceding the scheme year in which authorisation ceased, or
+(b)
+on a scheme year end date after authorisation ceased the scheme has relevant assets of less than £500 million.
+(3) Where a scheme meets the description specified in paragraph (2)(a) or (b), the requirements imposed on trustees in accordance with paragraph (1) cease to apply—
+(a)
+with immediate effect where the scheme meets the description specified in paragraph (2)(a), or
+(b)
+from the scheme year end date on which the relevant assets were less than £500 million where the scheme meets the description specified in paragraph (2)(b).
+(4) Trustees of a formerly authorised collective money purchase scheme—
+(a)
+in respect of which the requirements in Part 1 of the Schedule have ceased to apply in accordance with paragraph (3) or (5), and
+(b)
+which on a subsequent scheme year end date has relevant assets equal to, or exceeding, £1 billion,
+must comply with the requirements in Part 1 of the Schedule from the scheme year commencement date which is one scheme year and one day after that subsequent scheme year end date.
+(5) Trustees of a formerly authorised collective money purchase scheme—
+(a)
+in respect of which the requirements in Part 1 of the Schedule apply in accordance with paragraph (4), and
+(b)
+which on a subsequent scheme year end date has relevant assets of less than £500 million,
+cease to be subject to the requirements in Part 1 of the Schedule from that subsequent scheme year end date.
+Commencement Information
+I1
+Reg. 5 in operation at 1.10.2021, see reg. 1Climate change reporting and publication requirements
+6.—(1) Subject to paragraphs (2) and (3) trustees of a trust scheme must, within 7 months of the scheme year end date of any scheme year in which they were required to comply with the requirements in Part 1 of the Schedule—
+(a)
+produce a report which contains the information specified in Part 2 of the Schedule in respect of—
+(i)
+that scheme year, or
+(ii)
+where the trustees were subject to the requirements in Part 1 of the Schedule for part of the scheme year, that part of the scheme year, and
+(b)
+publish the report on a publicly available website, accessible free of charge.
+(2) Paragraph (1) does not apply—
+(a)
+in respect of any scheme year, or part of a scheme year, where the relevant assets of the scheme on the scheme year end date are zero, unless the scheme is an authorised master trust scheme or an authorised collective money purchase scheme, or
+(b)
+where, in accordance with regulation 4(3)(a) or 5(3)(a), the trustees of a scheme cease to be subject to the requirements in Part 1 of the Schedule.
+(3) The report required by paragraph (1)(a) must be signed on behalf of the trustees by—
+(a)
+the chair, or
+(b)
+where no chair has been appointed, or the chair has ceased to hold office as chair for any reason and a replacement has not yet been appointed, a person appointed by the trustees to act as chair in the interim period for the purpose of signing the report,
+but the trustees are not required to publish the manuscript signature of the person who has signed the report.
+(4) For the purposes of this regulation, “chair” means—
+(a)
+the person appointed as chair of the trustees in accordance with regulation 22 of the Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997(1)(duty to appoint a chair of the trustees or managers);
+(b)
+the person appointed as chair of the trustees in accordance with Article 200B(7) of the Pensions (Northern Ireland) Order 2005(2) (statement of strategy);
+(c)
+the person appointed as chair of the trustees by someone other than the trustees, in accordance with the trust deed or scheme rules, or
+(d)
+in the case of a scheme established under section 67 of the Pensions Act 2008(3) (duty to establish a pension scheme), the person appointed as chair of the trustee corporation established under section 75 of that Act (trustee corporation).
+Commencement Information
+I1
+Reg. 6 in operation at 1.10.2021, see reg. 1
+(1)
+S.R. 1997 No. 94; regulation 22 was added by regulation 16(3) of S.R. 2015 No. 309 and amended by regulation 4 of S.R. 2016 No. 192
+(2)
+S.I. 2005/255 (N.I. 1); Article 200B was inserted by paragraph 2 of Schedule 11 to the Pension Schemes Act 2021
+(3)
+2008 c. 30; section 67 was amended by section 30(2) of the Finance (No. 3) Act 2010 (c. 33)Compliance notices
+7.—(1) The Authority(1) may issue a compliance notice to any person if the Authority are of the opinion that the person is not complying with, or has not complied with any provision under Part 2 or the Schedule.
+(2) A compliance notice is a notice directing the person to whom it is issued to take, or refrain from taking, the steps specified in the notice.
+(3) The steps mentioned in paragraph (2) may be any steps reasonably necessary to ensure that any non-compliance with any provision under Part 2 or the Schedule is remedied and, where appropriate, not repeated.
+(4) A compliance notice may, in particular—
+(a)
+state the period within which any step must be taken or must cease to be taken;
+(b)
+require the person to provide within a specified period information relating to the non-compliance;
+(c)
+require the person to inform the Authority, within a specified period, how the person has complied with, or is complying with the notice;
+(d)
+give the person a choice between different steps that may be taken to ensure that the non-compliance is remedied and, where appropriate, not repeated.
+(5) A direction in a compliance notice may be expressed to be conditional on compliance by a third party with a specified direction contained in a third party compliance notice under regulation 8.
+(6) A compliance notice must state—
+(a)
+which provision of Part 2 or the Schedule was not, or is not, being complied with in the Authority’s opinion;
+(b)
+the evidence on which that opinion is based, and
+(c)
+that if the Authority are of the opinion that the person has failed to comply with the requirements of the notice, the Authority may issue a penalty notice under regulation 9(1)(a)(i).
+Commencement Information
+I1
+Reg. 7 in operation at 1.10.2021, see reg. 1
+(1)
+See the definition of “the Authority” in Article 121(1) of the Pensions (Northern Ireland) Order 1995 as substituted by Article 6(2)(b) of the Pensions (Northern Ireland) Order 2005Third party compliance notices
+8.—(1) Where in any of the circumstances of non-compliance in paragraph (2)—
+(a)
+the Authority are of the opinion that the non-compliance is or was, wholly or partly, a result of an act or omission by another person (“the third party”), and
+(b)
+that act or omission is not in itself a contravention of Part 2 or the Schedule,
+the Authority may issue to the third party a third party compliance notice.
+(2) The circumstances are—
+(a)
+receipt of an indication that a person is unable to confirm whether they are complying with, or will be able to comply with a provision under Part 2 or the Schedule, or
+(b)
+the Authority are of the opinion that a person is not complying with, or has not complied with a provision under Part 2 or the Schedule.
+(3) A third party compliance notice is a notice directing the third party to whom it is issued to take, or refrain from taking, the steps specified in the notice.
+(4) The steps mentioned in paragraph (3) may be any steps reasonably necessary to ensure that any non-compliance with any provision under Part 2 or the Schedule can be remedied and, where appropriate, is not repeated.
+(5) A third party compliance notice may, in particular—
+(a)
+state the period within which any step must be taken or must cease to be taken;
+(b)
+require the third party to provide within a specified period information relating to the non-compliance;
+(c)
+require the third party to inform the Authority, within a specified period, how the third party has complied with, or is complying with the notice;
+(d)
+give the third party a choice between different steps that may be taken to ensure that the non-compliance can be remedied and, where appropriate, is not repeated.
+(6) A third party compliance notice must state—
+(a)
+the particulars of the act or omission by the third party and which of the circumstances in paragraph (2) apply in the Authority’s opinion;
+(b)
+if the Authority are of the opinion that the circumstances in paragraph (2)(a) apply, the evidence on which that opinion is based;
+(c)
+if the Authority are of the opinion that the circumstances in paragraph (2)(b) apply—
+(i)
+which provision of Part 2 or the Schedule was not, or is not, being complied with in the Authority’s opinion;
+(ii)
+the evidence on which that opinion is based, and
+(d)
+that if the Authority are of the opinion that the third party has failed to comply with the requirements of the notice, the Authority may issue a penalty notice under regulation 9(1)(b).
+Commencement Information
+I1
+Reg. 8 in operation at 1.10.2021, see reg. 1Penalty notices
+9.—(1) Subject to paragraph (2) and to regulation 11(1) and (3)(b), the Authority may issue a penalty notice to—
+(a)
+a person where they are of the opinion that the person has—
+(i)
+failed to comply with a compliance notice under regulation 7, or
+(ii)
+contravened a provision under Part 2 or the Schedule;
+(b)
+a third party where they are of the opinion that the third party has failed to comply with a third party compliance notice under regulation 8.
+(2) Where the Authority are of the opinion that a person has failed to comply with the requirement in regulation 6(1)(b) to publish a report on a publicly available website, accessible free of charge, the Authority must issue a penalty notice to that person.
+(3) A penalty notice is a notice requiring the person to whom it is issued to pay a penalty within the period specified in the notice.
+(4) The amount of the penalty is to be determined by the Authority, but—
+(a)
+for the purpose of a penalty notice issued under paragraph (1) or (2), must not exceed—
+(i)
+£5,000 if the person is an individual, or
+(ii)
+£50,000 if the person is a body corporate or any other person;
+(b)
+for the purpose of a penalty notice issued under paragraph (2), must be at least £2,500.
+(5) A penalty notice must—
+(a)
+where it is issued to trustees, be issued to all the trustees of the scheme and specify their joint and several liability for the penalty;
+(b)
+state the amount of the penalty;
+(c)
+state the date by which the penalty must be paid, which must be at least 4 weeks after the date on which the notice is issued;
+(d)
+state the period (if any) to which the penalty relates;
+(e)
+if the notice is issued under paragraph (1)(a)(i) or (b) or (2), specify the failure to which the notice relates;
+(f)
+if the notice is issued under paragraph (1)(a)(ii), specify the provision or provisions which have been contravened, and
+(g)
+notify the person to whom the notice is issued of the review process under regulation 12 and the right of referral to a tribunal under regulation 13.
+Commencement Information
+I1
+Reg. 9 in operation at 1.10.2021, see reg. 1Penalty notices: recovery
+10.—(1) Any penalty payable under a penalty notice is recoverable by the Authority.
+(2) Article 10(8A)(1) of the Pensions (Northern Ireland) Order 1995 (civil penalties) applies to a penalty recoverable under these Regulations as it applies to a penalty recoverable under that Article.
+(3) The Authority must pay into the Consolidated Fund any penalty recovered under this regulation.
+Commencement Information
+I1
+Reg. 10 in operation at 1.10.2021, see reg. 1
+(1)
+Article 10(8A) was inserted by paragraph 9 of Schedule 2 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. 1999/3147 (N.I. 11))Penalty notices: recovery from bodies corporate
+11.—(1) Where—
+(a)
+a penalty under regulation 9 is recoverable from a body corporate by reason of any act or omission of the body, and
+(b)
+the act or omission was done with the consent or connivance of, or is attributable to any neglect on the part of, any persons mentioned in paragraph (2),
+the Authority may issue the penalty notice to each of those persons who consented to or connived in the act or omission or to whose neglect the act or omission was attributable.
+(2) The persons are—
+(a)
+any director, manager, secretary, or other similar officer of the body, or a person purporting to act in any such capacity, and
+(b)
+where the affairs of a body corporate are managed by its members, any member who has management functions.
+(3) Where the Authority require any person mentioned in paragraph (2) to pay a penalty, they—
+(a)
+may not also require the relevant body corporate to pay a penalty in respect of the same act or omission, and
+(b)
+must issue a penalty notice to the person who is required to pay, but may also notify the relevant body corporate.
+Commencement Information
+I1
+Reg. 11 in operation at 1.10.2021, see reg. 1Review of notices
+12.—(1) The Authority may review a notice to which this paragraph applies—
+(a)
+on the written application of the person to whom the notice was issued, or
+(b)
+if the Authority otherwise consider it appropriate.
+(2) Paragraph (1) applies to—
+(a)
+a compliance notice issued under regulation 7;
+(b)
+a third party compliance notice issued under regulation 8;
+(c)
+a penalty notice issued under regulation 9 or 11.
+(3) An application to review a notice under paragraph (1)(a) must be made within 28 days of the date on which the notice is issued to a person.
+(4) The Authority may review a notice under paragraph (1)(b) within 18 months of the date on which the notice is issued to a person.
+(5) On review of a notice, the effect of the notice is suspended for the period beginning on the day the Authority determine to carry out the review and ending on the day the review is completed.
+(6) In carrying out the review, the Authority must consider any representations made by the person to whom the notice was issued.
+(7) On reviewing a notice, the Authority may—
+(a)
+confirm, vary or revoke the notice;
+(b)
+substitute a different notice.
+Commencement Information
+I1
+Reg. 12 in operation at 1.10.2021, see reg. 1References to the First-tier Tribunal or Upper Tribunal
+13.—(1) A person to whom a penalty notice is issued under regulation 9 or 11 may, if one of the conditions in paragraph (2) is satisfied, make a reference to the Tribunal in respect of—
+(a)
+the issue of the notice;
+(b)
+the amount of the penalty under the notice.
+(2) The conditions are—
+(a)
+that the Authority have completed a review of the notice under regulation 12, or
+(b)
+that the person to whom the notice was issued made an application for review of the notice under regulation 12(1)(a) and the Authority have determined not to carry out a review.
+(3) On a reference to the Tribunal in respect of a notice, the effect of the notice is suspended for the period beginning on the day the Tribunal receives notice of the reference and ending—
+(a)
+on the day the reference is withdrawn;
+(b)
+if the reference is made out of time, on the day the Tribunal determines not to allow the reference to proceed, or
+(c)
+on the day the reference is completed.
+(4) For the purposes of paragraph (3)(c), a reference is completed when—
+(a)
+the reference has been determined, and
+(b)
+the Tribunal has remitted the matter to the Authority.
+(5) In this regulation—
+“the Tribunal” means—
+(a)
+the Upper Tribunal, in any case where it is determined by or under Tribunal Procedure Rules that the Upper Tribunal is to hear the reference;
+(b)
+the First-tier Tribunal in any other case, and
+“Tribunal Procedure Rules” means—
+(a)
+the Tribunal Procedure (Upper Tribunal) Rules 2008(1) in relation to the Upper Tribunal, and
+(b)
+the Tribunal Procedure (First-tier Tribunal) (General Regulatory Chamber) Rules 2009(2) in relation to the First-tier Tribunal.
+Commencement Information
+I1
+Reg. 13 in operation at 1.10.2021, see reg. 1
+(1)
+S.I. 2008/2698
+(2)
+S.I. 2009/1976Service of notifications and other documents
+14.—(1) This regulation applies where any provision under this Part authorises or requires—
+(a)
+a notification to be given or sent to a person, or
+(b)
+a document of any other description (including a copy of the document) to be sent to a person.
+(2) The notification or document may be given or sent to the person in question—
+(a)
+by delivering it to the person;
+(b)
+by leaving it at the person’s proper address, or
+(c)
+by sending it by post to the person at that address.
+(3) The notification or document may be given or sent to a body corporate by being given or sent to the secretary or clerk of that body.
+(4) The notification or document may be given or sent to a firm by being given or sent to—
+(a)
+a partner in the firm, or
+(b)
+a person having the control or management of the partnership business.
+(5) The notification or document may be given or sent to an unincorporated body or association by being given or sent to a member of the governing body of the body or association.
+(6) For the purposes of this regulation, the proper address of a person is—
+(a)
+in the case of a body corporate, the address of the registered or principal office of the body;
+(b)
+in the case of a firm, or an unincorporated body or association, the address of the principal office of the firm, body or association, and
+(c)
+in any other case, the last known address of the person in question.
+(7) In the case of—
+(a)
+a company registered outside the United Kingdom;
+(b)
+a firm carrying on business outside the United Kingdom, or
+(c)
+an unincorporated body or association with offices outside the United Kingdom,
+the references in paragraph (6) to its principal office include references to its principal office within the United Kingdom (if any).
+(8) In this regulation, “notification” includes notice and references to sending a document to a person include references to making an application to that person.
+Commencement Information
+I1
+Reg. 14 in operation at 1.10.2021, see reg. 1Service by electronic means
+15.—(1) This regulation applies where a notification or document authorised or required to be given or sent for the purposes of this Part is transmitted to a person (“the recipient”) by means of—
+(a)
+an electronic communications network, or
+(b)
+other electronic means.
+(2) The transmission has effect for the purposes of this Part as a delivery of the notification or other document to the recipient only if the requirements under this regulation are complied with.
+(3) Where the recipient is the Authority—
+(a)
+the Authority must have indicated their willingness to receive the notification or other document by means of an electronic communications network or other electronic means;
+(b)
+the transmission must be made in such manner, and satisfy such conditions, as the Authority may require, and
+(c)
+the notification or other document must take such form as the Authority may require.
+(4) Where the person making the transmission is the Authority, subject to paragraph (5) the Authority may determine—
+(a)
+the manner in which the transmission is made, and
+(b)
+the form in which the notification or other document is transmitted.
+(5) Where the recipient is a person other than the Authority—
+(a)
+the recipient, or
+(b)
+the person on whose behalf the recipient receives the notification or other document,
+must have indicated a willingness to receive notifications or documents transmitted in the form and manner used.
+(6) An indication given to the Authority for the purposes of paragraph (5)—
+(a)
+must be given to the Authority in such manner as they may require;
+(b)
+may be a general indication or one that is limited to notifications or documents of a particular description;
+(c)
+must state the address to be used and must be accompanied by such other information as the Authority require for making the transmission, and
+(d)
+may be modified or withdrawn at any time by a notice given to the Authority in such manner as they may require.
+(7) An indication, requirement or determination given, imposed or made by the Authority for the purposes of this regulation is to be given, imposed or made by being published in such a manner as the Authority consider appropriate for bringing it to the attention of the persons who, in the Authority’s opinion are likely to be affected by it.
+(8) In this regulation—
+“notification” includes notice;
+“electronic communications network” has the same meaning as in the Communications Act 2003(1).
+Commencement Information
+I1
+Reg. 15 in operation at 1.10.2021, see reg. 1
+(1)
+2003 c. 21Sealed with the Official Seal of the Department for Communities on 7th September 2021
+(L.S.)
+Anne McCleary
+A senior officer of the Department for CommunitiesRegulations 3 to 6
+SCHEDULE
+PART 1
+Climate change governance etc. requirements
+Governance
+1.  Trustees must establish and maintain oversight of the climate-related risks and opportunities which are relevant to the scheme.
+Commencement Information
+I1
+Sch. para. 1 in operation at 1.10.2021, see reg. 1
+2.  Trustees must establish and maintain processes for the purpose of satisfying themselves that—
+(a)
+any person who undertakes scheme governance activities otherwise than as a trustee, takes adequate steps to identify, assess and manage any climate-related risks and opportunities which are relevant to the governance activities they are undertaking, and
+(b)
+any person who is not a legal adviser of the trustees and who advises or assists the trustees with respect to scheme governance activities, takes adequate steps to identify and assess any climate-related risks and opportunities which are relevant to the matters in respect of which they are advising or assisting.
+Commencement Information
+I2
+Sch. para. 2 in operation at 1.10.2021, see reg. 1
+Strategy
+3.  Trustees must, on an ongoing basis, identify climate-related risks and opportunities which they consider will have an effect over the short term, medium term and long term on the scheme’s investment strategy and where the scheme has a funding strategy, the funding strategy.
+Commencement Information
+I3
+Sch. para. 3 in operation at 1.10.2021, see reg. 1
+4.  For the purpose of paragraph 3, the time periods which comprise the short term, medium term and long term are such time periods as the trustees determine are appropriate taking into account the scheme’s liabilities and its obligations to pay benefits.
+Commencement Information
+I4
+Sch. para. 4 in operation at 1.10.2021, see reg. 1
+5.  Trustees must, on an ongoing basis, assess the impact of the climate-related risks and opportunities which they have identified on the scheme’s investment strategy and where the scheme has a funding strategy, the funding strategy.
+Commencement Information
+I5
+Sch. para. 5 in operation at 1.10.2021, see reg. 1
+6.  Trustees must, as far as they are able, undertake scenario analysis which considers the matters in paragraph 7 in at least two scenarios where there is an increase in the global average temperature and in one of those scenarios the global average temperature increase selected by the trustees must be within the range of 1.5 degrees Celsius above pre-industrial levels to and including 2 degrees Celsius above pre-industrial levels.
+Commencement Information
+I6
+Sch. para. 6 in operation at 1.10.2021, see reg. 1
+7.  For the purposes of paragraph 6, the matters are—
+(a)
+the potential impact on the scheme’s assets and liabilities of the effects of the global average increase in temperature and of any steps which might be taken (by governments or otherwise) because of the increase in temperature in these scenarios;
+(b)
+the resilience of the scheme’s investment strategy in these scenarios, and
+(c)
+where the scheme has a funding strategy, the resilience of the funding strategy in these scenarios.
+Commencement Information
+I7
+Sch. para. 7 in operation at 1.10.2021, see reg. 1
+8.  The scenario analysis required by paragraph 6 must be undertaken—
+(a)
+in the first scheme year in respect of which the requirements of this Part apply to the trustees, and
+(b)
+thereafter in accordance with paragraph 11.
+Commencement Information
+I8
+Sch. para. 8 in operation at 1.10.2021, see reg. 1
+9.  For the purposes of paragraph 8(a), trustees may rely on scenario analysis undertaken on any day, or days, in the first scheme year in respect of which the requirements of this Part apply, including any day before the requirements apply.
+Commencement Information
+I9
+Sch. para. 9 in operation at 1.10.2021, see reg. 1
+10.  Trustees must, in each scheme year except the first scheme year in respect of which the requirements of this Part apply, review the most recent scenario analysis they have undertaken and determine whether it is appropriate to undertake new scenario analysis to ensure they have an up to date understanding of the matters set out in paragraph 7 in at least two scenarios as set out in paragraph 6.
+Commencement Information
+I10
+Sch. para. 10 in operation at 1.10.2021, see reg. 1
+11.  Where—
+(a)
+the trustees have determined in accordance with paragraph 10 that it is appropriate to undertake new scenario analysis, or
+(b)
+the trustees have not undertaken scenario analysis in the two previous scheme years,
+the trustees must undertake new scenario analysis which meets the requirements specified in paragraphs 6 and 7.
+Commencement Information
+I11
+Sch. para. 11 in operation at 1.10.2021, see reg. 1
+Risk management
+12.  Trustees must establish and maintain processes for the purpose of enabling them to identify and assess climate-related risks which are relevant to the scheme.
+Commencement Information
+I12
+Sch. para. 12 in operation at 1.10.2021, see reg. 1
+13.  Trustees must establish and maintain processes for the purpose of enabling them to manage effectively climate-related risks which are relevant to the scheme.
+Commencement Information
+I13
+Sch. para. 13 in operation at 1.10.2021, see reg. 1
+14.  Trustees must ensure that the processes required by paragraphs 12 and 13 are integrated into their overall risk management of the scheme.
+Commencement Information
+I14
+Sch. para. 14 in operation at 1.10.2021, see reg. 1
+Metrics and targets
+15.  Trustees must in the first scheme year in respect of which the requirements of this Part apply and, where applicable, in a first scheme year of re-application, select a minimum of —
+(a)
+one absolute emissions metric;
+(b)
+one emissions intensity [F1metric;]
+[F2(ba)
+one portfolio alignment metric, and]
+(c)
+one additional climate change metric,
+to calculate in relation to the scheme’s assets.
+Textual Amendments
+F1
+Word in Sch. para. 15(b) substituted (1.10.2022) by The Occupational Pension Schemes (Climate Change Governance and Reporting) (Amendment, Modification and Transitional Provision) Regulations (Northern Ireland) 2022 (S.R. 2022/209), regs. 1(1), 2(2)(a)(i)
+F2
+Sch. para. 15(ba) inserted (1.10.2022) by The Occupational Pension Schemes (Climate Change Governance and Reporting) (Amendment, Modification and Transitional Provision) Regulations (Northern Ireland) 2022 (S.R. 2022/209), regs. 1(1), 2(2)(a)(ii)
+Modifications etc. (not altering text)
+C1
+Sch. para. 15 modifed (1.10.2022) by The Occupational Pension Schemes (Climate Change Governance and Reporting) (Amendment, Modification and Transitional Provision) Regulations (Northern Ireland) 2022 (S.R. 2022/209), regs. 1(1), 3(2)
+Commencement Information
+I15
+Sch. para. 15 in operation at 1.10.2021, see reg. 1
+16.  Trustees must from time to time, as appropriate to the scheme, review metrics which they have selected in accordance with paragraph 15 or 17.
+Commencement Information
+I16
+Sch. para. 16 in operation at 1.10.2021, see reg. 1
+17.  Where, following a review in accordance with paragraph 16, the trustees determine that it is appropriate to replace one of their selected metrics, they must select a replacement metric of the same type to calculate in relation to the scheme’s assets.
+Commencement Information
+I17
+Sch. para. 17 in operation at 1.10.2021, see reg. 1
+18.  Subject to paragraph 19, trustees must in each scheme year, as far as they are able —
+(a)
+obtain the scope 1, scope 2 and scope 3 greenhouse gas emissions attributable to the scheme’s assets;
+(b)
+use the data obtained to calculate their selected absolute emissions metric and selected emissions intensity metric, and
+(c)
+use the metrics they have calculated to identify and assess the climate-related risks and opportunities which are relevant to the scheme.
+Commencement Information
+I18
+Sch. para. 18 in operation at 1.10.2021, see reg. 1
+19.  In the first scheme year in respect of which the requirements of this Part apply, the trustees are not required to obtain the scope 3 greenhouse gas emissions attributable to the scheme’s assets.
+Commencement Information
+I19
+Sch. para. 19 in operation at 1.10.2021, see reg. 1
+[F319A.  Trustees must in each scheme year, as far as they are able—
+(a)
+obtain the data required to calculate their selected portfolio alignment metric;
+(b)
+use the data obtained to calculate that metric in relation to the scheme’s assets, and
+(c)
+use the metric they have calculated to identify and assess the climate-related risks and opportunities which are relevant to the scheme.]
+Textual Amendments
+F3
+Sch. para. 19A inserted (1.10.2022) by The Occupational Pension Schemes (Climate Change Governance and Reporting) (Amendment, Modification and Transitional Provision) Regulations (Northern Ireland) 2022 (S.R. 2022/209), regs. 1(1), 2(2)(b)
+20.  Trustees must in each scheme year, as far as they are able—
+(a)
+obtain the data required to calculate their selected additional climate change metric;
+(b)
+use the data obtained to calculate that metric in relation to the scheme’s assets, and
+(c)
+use the metric they have calculated to identify and assess the climate-related risks and opportunities which are relevant to the scheme.
+Commencement Information
+I20
+Sch. para. 20 in operation at 1.10.2021, see reg. 1
+21.  For the purposes of paragraphs 18 [F4, 19A] and 20 trustees may, in the first scheme year in respect of which the requirements of this Part apply, rely on data obtained, calculations performed and identification and assessment of climate-related risks and opportunities undertaken on any day, or days, in that first scheme year, including any day before the requirements apply.
+Textual Amendments
+F4
+Word in Sch. para. 21 inserted (1.10.2022) by The Occupational Pension Schemes (Climate Change Governance and Reporting) (Amendment, Modification and Transitional Provision) Regulations (Northern Ireland) 2022 (S.R. 2022/209), regs. 1(1), 2(2)(c)
+Modifications etc. (not altering text)
+C2
+Sch. para. 21 modifed (1.10.2022) by The Occupational Pension Schemes (Climate Change Governance and Reporting) (Amendment, Modification and Transitional Provision) Regulations (Northern Ireland) 2022 (S.R. 2022/209), regs. 1(1), 4(2)
+C3
+Sch. para. 21 modifed (1.10.2022) by The Occupational Pension Schemes (Climate Change Governance and Reporting) (Amendment, Modification and Transitional Provision) Regulations (Northern Ireland) 2022 (S.R. 2022/209), regs. 1(1), 3(3)
+Commencement Information
+I21
+Sch. para. 21 in operation at 1.10.2021, see reg. 1
+22.  Trustees must in the first scheme year in respect of which the requirements of this Part apply, and, where applicable, in a first scheme year of re-application, set a target for the scheme in relation to one of the metrics which they have selected to calculate.
+Commencement Information
+I22
+Sch. para. 22 in operation at 1.10.2021, see reg. 1
+23.  Trustees must in each scheme year, including the first scheme year in respect of which the requirements of this Part apply and, where applicable, a first scheme year of re-application —
+(a)
+measure, as far as they are able, the performance of the scheme against the target they have set in accordance with paragraph 22 or 24, and
+(b)
+taking into account that performance, determine whether the target should be retained or replaced.
+Commencement Information
+I23
+Sch. para. 23 in operation at 1.10.2021, see reg. 1
+24.  Where trustees have determined in accordance with paragraph 23(b) that a target should be replaced, they must set a new target for the scheme in relation to one of the metrics which they have selected to calculate.
+Commencement Information
+I24
+Sch. para. 24 in operation at 1.10.2021, see reg. 1
+General and interpretation
+25.  Where this Part provides that trustees must meet a requirement “as far as they are able”, the trustees are required to take all such steps as are reasonable and proportionate in the particular circumstances taking into account—
+(a)
+the costs, or likely costs, which will be incurred by the scheme, and
+(b)
+the time required to be spent by the trustees, or any person to whom the trustees have delegated responsibility,
+in taking such steps.
+Commencement Information
+I25
+Sch. para. 25 in operation at 1.10.2021, see reg. 1
+26.  In this Part—
+“absolute emissions metric” means a metric which gives the total greenhouse gas emissions attributable to the scheme’s assets;
+“additional climate change metric” means a metric relating to climate change which is not an absolute emissions metric or an emissions intensity metric [F5or a portfolio alignment metric];
+“emissions intensity metric” means a metric which gives the total greenhouse gas emissions attributable to the scheme’s assets per unit of currency;
+“emissions”, in relation to a greenhouse gas, has the meaning given by section 97 of the Climate Change Act 2008(1);
+“first scheme year of re-application” means the first scheme year in respect of which the requirements of this Part are re-applied to the trustees in accordance with regulation 3(4), 4(4) or 5(4) and where this occurs more than once, it means the first scheme year in respect of which the requirements are re-applied to the trustees on each of those occasions;
+“greenhouse gas” has the meaning given by [F6section 92(1)(a) to (f)] of the Climate Change Act 2008;
+[F7“portfolio alignment metric” means a metric which gives the alignment of the scheme’s assets with the climate change goal of limiting the increase in the global average temperature to 1.5 degrees Celsius above pre-industrial levels;]
+“scheme year” has the meaning given by regulation 2;
+“scope 1”, in relation to greenhouse gas emissions, means all direct emissions from the activities of an entity or activities under its control;
+“scope 2”, in relation to greenhouse gas emissions, means indirect emissions from electricity purchased and used by an entity which are created during the production of energy which the entity uses;
+“scope 3”, in relation to greenhouse gas emissions, means all indirect emissions from activities of the entity, other than scope 2 emissions, which occur from sources that the entity does not directly control.
+Textual Amendments
+F5
+Words in Sch. para. 26 inserted (1.10.2022) by The Occupational Pension Schemes (Climate Change Governance and Reporting) (Amendment, Modification and Transitional Provision) Regulations (Northern Ireland) 2022 (S.R. 2022/209), regs. 1(1), 2(2)(d)(i)
+F6
+Words in Sch. para. 26 substituted (3.2.2023) by The Climate Change (Targeted Greenhouse Gases) Order 2023 (S.I. 2023/118), arts. 1(2), 4(2)
+F7
+Words in Sch. para. 26 inserted (1.10.2022) by The Occupational Pension Schemes (Climate Change Governance and Reporting) (Amendment, Modification and Transitional Provision) Regulations (Northern Ireland) 2022 (S.R. 2022/209), regs. 1(1), 2(2)(d)(ii)
+Commencement Information
+I26
+Sch. para. 26 in operation at 1.10.2021, see reg. 1
+PART 2
+Information to be included in a report under regulation 6
+27.  A statement describing—
+(a)
+how the trustees maintain oversight of climate-related risks and opportunities which are relevant to the scheme;
+(b)
+the role of any person who otherwise than as a trustee undertakes scheme governance activities, in identifying, assessing and managing any climate-related risks and opportunities which are relevant to those governance activities and the process by which the trustees satisfy themselves that the person is taking adequate steps to identify, assess and manage the climate-related risks and opportunities;
+(c)
+the role of any person who, otherwise than as a legal adviser of the trustees, advises or assists the trustees with respect to scheme governance activities and the process by which the trustees satisfy themselves that the person is taking adequate steps to identify and assess any climate-related risks and opportunities which are relevant to the matters in respect of which they are advising or assisting;
+(d)
+the climate-related risks and opportunities which the trustees have identified in accordance with paragraph 3;
+(e)
+the time periods which the trustees have determined should comprise the short term, medium term and long term in accordance with paragraph 4;
+(f)
+the impact of the climate-related risks and opportunities assessed in accordance with paragraph 5 on the scheme’s investment strategy and, where the scheme has a funding strategy, the impact of those risks and opportunities on the funding strategy;
+(g)
+the most recent scenarios which the trustees have analysed in accordance with paragraphs 6 and 7;
+(h)
+the potential impacts on the scheme’s assets and liabilities which the trustees have identified in the most recent scenarios they have analysed in accordance with paragraphs 6 and 7 and, if the trustees have not been able to obtain data to identify potential impacts for all of the assets of the scheme, why this is the case;
+(i)
+the resilience of the scheme’s investment strategy and where the scheme has a funding strategy, the resilience of the funding strategy, in the most recent scenarios the trustees have analysed in accordance with paragraphs 6 and 7;
+(j)
+in cases where paragraph 10 applies and the trustees have determined not to undertake new scenario analysis, the trustees’ reasons for this determination;
+(k)
+the processes which the trustees have established in accordance with paragraph 12 for identifying and assessing climate-related risks which are relevant to the scheme;
+(l)
+the processes which the trustees have established in accordance with paragraph 13 for managing climate-related risks which are relevant to the scheme;
+(m)
+how the processes required by paragraphs 12 and 13 are integrated into the trustees’ overall risk management of the scheme;
+(n)
+the metrics which the trustees have calculated in accordance with paragraphs 18 [F8, 19A] and 20 and, if the trustees have not been able to obtain data to calculate the metrics for all of the assets of the scheme, why this is the case;
+(o)
+the target which the trustees have set in accordance with paragraph 22 or 24 and the performance of the scheme against that target as measured in accordance with paragraph 23(a).
+Textual Amendments
+F8
+Word in Sch. para. 27(n) inserted (1.10.2022) by The Occupational Pension Schemes (Climate Change Governance and Reporting) (Amendment, Modification and Transitional Provision) Regulations (Northern Ireland) 2022 (S.R. 2022/209), regs. 1(1), 2(3)
+Commencement Information
+I27
+Sch. para. 27 in operation at 1.10.2021, see reg. 1
+(1)
+2008 c. 27EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations impose requirements on trustees of certain occupational pension schemes, including trustees of authorised master trust schemes and trustees of schemes authorised to provide collective money purchase benefits, with a view to ensuring that there is effective governance of those schemes with respect to the effects of climate change. They also impose associated reporting and publication requirements on the trustees.
+Part 1 contains general provisions.
+Part 2 contains provisions about the requirements relating to governance, reporting and publication of the effects of climate change on a scheme and which trustees are subject to the requirements.
+Regulations 3, 4 and 5 specify which trustees are subject to the requirements relating to governance contained in Part 1 of the Schedule.
+Regulation 3 applies to trustees of certain trust schemes which are not master trust schemes or schemes providing collective money purchase benefits, and which were not formerly authorised as such. Regulation 3(1) to (3) provides for the requirements to be introduced on a phased basis from 1st October 2021 according to the value of relevant assets of the scheme at the end of a particular scheme year. Regulation 3(5) specifies the circumstances in which the requirements will cease to apply. Regulation 3(4) specifies the circumstances in which the requirements will subsequently re-apply.
+Regulations 4 and 5 make provision in relation to trustees of authorised master trust schemes and trustees of authorised schemes providing collective money purchase benefits, respectively. They also make provision for trustees of schemes which subsequently cease to be authorised.
+Regulation 6 specifies the reporting and publication requirements and which trustees are subject to those requirements. Part 2 of the Schedule sets out the information to be contained in a report required to be produced and published under regulation 6.
+Part 3 contains provisions relating to compliance with requirements imposed by these Regulations.
+The Pension Schemes Act 2021 (Commencement No. 1) Order (Northern Ireland) 2021 (S.R. 2021 No. 240 (C. 8)) provides for the coming into operation of paragraph 12(2) of Schedule 11 to the Pension Schemes Act 2021, which inserts Articles 41A, 41B and 41C into the Pensions (Northern Ireland) Order 1995, some of the enabling provisions under which these Regulations are made, on 1st September 2021.
+As these Regulations make in relation to Northern Ireland only provision corresponding to provision contained in regulations made by the Secretary of State for Work and Pensions in relation to Great Britain, the requirement to consult under Article 117(1) of the Pensions (Northern Ireland) Order 1995 does not apply by virtue of paragraph (2)(e) of that Article.
+An assessment of the cost to business of these Regulations is detailed in a Regulatory Impact Assessment, a copy of which has been laid in the Business Office and the Library of the Northern Ireland Assembly. Copies of the Assessment are available from the Department for Communities, Social Security Policy, Legislation and Decision Making Services, Level 6, Causeway Exchange, 1-7 Bedford Street, Belfast BT2 7EG or from the website: https://www.communities-ni.gov.uk/articles/pension-information. A copy of the Assessment is also annexed to the Explanatory Memorandum which is available alongside this Statutory Rule on the website: http://www.legislation.gov.uk/nisr.

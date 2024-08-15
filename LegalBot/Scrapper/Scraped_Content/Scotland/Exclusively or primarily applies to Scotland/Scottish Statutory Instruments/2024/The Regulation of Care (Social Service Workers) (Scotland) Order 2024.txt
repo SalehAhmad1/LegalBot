@@ -1,0 +1,231 @@
+SCOTTISH STATUTORY INSTRUMENTS
+2024 No. 56
+SOCIAL CARE
+The Regulation of Care (Social Service Workers) (Scotland) Order 2024
+Made
+20th February 2024
+Laid before the Scottish Parliament
+22nd February 2024
+Coming into force
+3rd June 2024
+The Scottish Ministers make the following Order in exercise of the powers conferred by sections 44(1)(b) and 80(2) of the Regulation of Care (Scotland) Act 2001(1), and all other powers enabling them to do so.
+In accordance with section 44(4) of that Act, they have consulted with the Scottish Social Services Council(2) and such other persons and groups of persons as they consider appropriate.
+(1)
+2001 asp 8 (“the Act”). Section 77(1) of the Act defines “prescribed” as meaning “prescribed by order made by the Scottish Ministers”.
+(2)
+The Scottish Social Services Council was established by section 43 of the Act.Citation, commencement and interpretation
+1.—(1) This Order may be cited as the Regulation of Care (Social Service Workers) (Scotland) Order 2024 and comes into force on 3 June 2024.
+(2) In this Order—
+“the 2010 Act” means the Public Services Reform (Scotland) Act 2010(1),
+“the Act” means the Regulation of Care (Scotland) Act 2001,
+“adult day care service” means a support service which consists of any form of care provided to persons who have attained the age of sixteen years on the premises other than domestic premises, during the day (whether or not it is provided on a regular basis or commences or ends during the hours of daylight),
+“care at home service” means a support service as defined in paragraph 1(d) of schedule 12 of the 2010 Act which provides care and support in a person’s home,
+“care home service” has the meaning given by paragraph 2 of schedule 12 of the 2010 Act,
+“care home service for adults” means a care home service which is provided to persons who have attained the age of sixteen years,
+“child” means—
+(a)
+for the purposes of paragraph (a) of the definition of “residential child care service”, a person under the age of sixteen years,
+(b)
+for the purposes paragraph (b) of the definition of “residential child care service”, a child within the meaning of section 135(1) (interpretation) of the Education (Scotland) Act 1980(2), and
+(c)
+for the purposes of paragraph (c) of the definition of “residential child care service”, a child within the meaning of section 93(2)(b) (interpretation) of the Children (Scotland) Act 1995(3),
+“day care of children” has the meaning given by paragraph 13 of schedule 12 of the 2010 Act,
+“housing support service” has the meaning given by paragraph 19 of schedule 12 of the 2010 Act,
+“residential child care service” means a service which consists in the provision of personal care or personal support—
+(a)
+to any child as part of a care home service,
+(b)
+to any child as part of a school care accommodation service other than the provision of residential accommodation where it is—
+(i)
+provided by or under arrangements made by the managers of an independent school and does not provide personal care or support,
+(ii)
+provided by an education authority with respect to a special school within the meaning of the Education (Scotland) Act 1980, or
+(iii)
+a hostel provided by the local authority for the use of children to enable them to attend school, or
+(c)
+to any child as part of a secure accommodation service,
+“residential school care accommodation service” means a service which is provided to a child as part of a school care accommodation service which consists of the provision of residential accommodation where it is—
+(a)
+provided by or under arrangements made by the managers of an independent school and does not provide personal care or support,
+(b)
+provided by an education authority with respect to a special school within the meaning of the Education (Scotland) Act 1980(4), or
+(c)
+a hostel provided by the local authority for the use of children to enable them to attend a school,
+“school care accommodation service” has the meaning given by paragraph 3 of schedule 12 of the 2010 Act,
+“secure accommodation service” has the meaning given by paragraph 6 of schedule 12 of the 2010 Act,
+“support service” has the meaning given by paragraph 1 of schedule 12 of the 2010 Act,
+(3) In this Order a reference to a numbered paragraph is a reference to the paragraph so numbered in the article in which that reference occurs.
+(1)
+2010 asp 8.
+(2)
+1980 c.44.
+(3)
+1995 c. 36.
+(4)
+The definition of “special school” in section 135(1) refers to section 29(1) of the Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4).Description of social service worker
+2.—(1) For the purposes of section 44(1)(b) of the Act, the description of social service worker prescribed is, subject to article 3, a person who is—
+(a)
+a social care worker,
+(b)
+a children and young people’s worker.
+(2) For the purposes of paragraph (1)(a), “social care worker” means—
+(a)
+a manager of an adult day care service,
+(b)
+a manager of, or a supervisor in, or a practitioner or a support worker in, a care home service for adults,
+(c)
+a manager of, or a supervisor in, or a practitioner or a support worker in, a care at home service, or
+(d)
+a manager of, or a supervisor in, or a practitioner or a support worker in, a housing support service,
+(e)
+an employee of Social Care and Social Work Improvement Scotland(1) who is an authorised person within the meaning of section 56 of the 2010 Act who carries out the functions in relation to a person or persons within the meaning of section 53(3) of the 2010 Act.
+(3) For the purposes of paragraph (2)—
+(a)
+“manager of an adult day care service” means a person who is employed in managing the provision of an adult day care service and is the manager of that adult day care service,
+(b)
+in relation to a care home service for adults—
+(i)
+“manager” means a person who is employed in managing the provision of a care home service for adults and is the manager of that care home service for adults,
+(ii)
+“supervisor” means a person (not being a manager of a care home service for adults) who is employed in the provision of a care home service for adults and whose normal duties include supervising staff employed in such provision and monitoring the implementation of planned programmes of care,
+(iii)
+“practitioner” means a person (not being a manager of, or supervisor or support worker in, a care home service for adults) who is employed in the provision of a care home service for adults and whose normal duties include caring for and supporting adults and responsibility for co-ordinating the implementation of planned programmes of care; and
+(iv)
+“support worker” means a person (not being a manager of, or practitioner or supervisor in, a care home service for adults) who is employed in the provision of a care home service for adults and whose normal duties include caring for and supporting adults,
+(c)
+in relation to a care at home service—
+(i)
+“manager” means a person who is employed and responsible for the overall professional management of the direct provision, supervision and quality assurance of a care at home service,
+(ii)
+“supervisor” means a person (not being a manager of, or practitioner or support worker in, a care at home service) who is employed in providing and supervising the provision of a support service which provides care and support in a person’s home,
+(iii)
+“practitioner” means a person (not being a manager of, or supervisor or support worker in, a care at home service) who is employed in the provision of a care at home service and whose normal duties include caring for and supporting adults and responsibility for co-ordinating the implementation of planned programmes of care; and
+(iv)
+“support worker” means a person (not being a manager of, or practitioner or supervisor in, a care at home service) who is employed in the direct provision of a care at home service,
+(d)
+in relation to a housing support service—
+(i)
+“manager” means a person who is employed and responsible for the overall professional management of the direct provision, supervision and quality assurance of a housing support service,
+(ii)
+“supervisor” means a person (not being a manager of a housing support service) who is employed in providing and supervising the provision of a housing support service,
+(iii)
+“practitioner” means a person (not being a manager of, or supervisor or support worker in, a housing support service for adults) who is employed in the provision of a housing support service for adults and whose normal duties include caring for and supporting adults and responsibility for co-ordinating the implementation of planned programmes of care; and
+(iv)
+“support worker” means a person (not being a manager of, or practitioner or supervisor in, a housing support service) who is employed in the direct provision of a housing support service.
+(4) For the purposes of paragraph (1)(b), “a children and young people’s worker” means—
+(a)
+a manager of, or a supervisor in, or a practitioner in, a residential child care service,
+(b)
+a manager of, or a practitioner or a support worker in, a day care of children service,
+(c)
+a manager of, or a supervisor or a practitioner in, a residential school care accommodation service,
+(d)
+an employee of Social Care and Social Work Improvement Scotland who is an authorised person within the meaning of section 56 of the 2010 Act and carries out the functions in relation to a particular child or children within the meaning of section 53(3) of the 2010 Act.
+(5) For the purposes of paragraph (4)—
+(a)
+in relation to a residential child care service—
+(i)
+“manager” means a person who is employed in managing the provision of a residential child care service and is the manager of that service,
+(ii)
+“supervisor” means a person (not being a manager of a residential child care service) who is employed in supervising the provision of a residential child care service and who has responsibility for supervising other residential child care staff,
+(iii)
+“practitioner” means a person (not being a manager of, or supervisor in, a residential child care service) who is employed in the provision of a residential child care service, and whose normal duties include caring for and supporting children and responsibility for co-ordinating the implementation of planned programmes of care,
+(b)
+in relation to a day care of children service—
+(i)
+“manager” means a person who is employed in managing the provision of a day care of children service and is the manager of that service,
+(ii)
+“practitioner” means a person (not being a manager of, or support worker in, day care of children) who is employed in the provision of day care of children whose normal duties include being responsible for identifying the care, support and learning needs of children and includes caring for, supervising or being in sole charge of children,
+(iii)
+“support worker” means a person (not being a manager of, or practitioner in, day care of children) who is employed in the provision of day care of children whose normal duties include caring for children,
+(c)
+in relation to a residential school care accommodation service—
+(i)
+“manager” means a person who is employed in managing the provision of a residential school care accommodation service and is the manager of that residential school care accommodation service,
+(ii)
+“supervisor” means a person who is employed in supervising the provision of a residential school care accommodation service and who has responsibility for supervising staff and overseeing and monitoring the implementation of care plans,
+(iii)
+“practitioner” means house staff or a worker (not being a manger of, or supervisor in, a residential school care service) in a residential school care accommodation service who has responsibility for assessing children’s emotional and physical needs and providing them with care and support.
+(1)
+Social Care and Social Work Improvement Scotland was established by section 44 of the Public Services Reform (Scotland) Act 2010 (asp 8).Excluded persons
+3.  A person who is registered with or (as the case may be) is a member of one or more of the following bodies is excluded from the description of social service worker in article 2—
+(a)
+the Northern Ireland Social Care Council(1),
+(b)
+Social Care Wales(2),
+(c)
+Social Work England(3),
+(d)
+the General Medical Council(4),
+(e)
+the General Teaching Council for England(5),
+(f)
+the General Teaching Council for Wales(6),
+(g)
+the General Teaching Council for Northern Ireland(7),
+(h)
+the General Teaching Council for Scotland(8),
+(i)
+the Health and Care Professions Council(9),
+(j)
+the Nursing and Midwifery Council(10),
+(k)
+the General Dental Council(11),
+(l)
+the General Pharmaceutical Council(12),
+(m)
+the General Optical Council(13), or
+(n)
+the General Chiropractic Council(14).
+(1)
+The Northern Ireland Social Care Council was established by section 1(1) of the Health and Personal Social Services Act (Northern Ireland) 2001 (c. 3).
+(2)
+The Care Council for Wales was renamed and is now known as Social Care Wales by virtue of section 67 of the Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2).
+(3)
+Social Work England was established by virtue of section 36 of the Children and Social Work Act 2017.
+(4)
+The General Medical Council continues to be established by virtue of section 1(1) of the Medical Act 1983 (c.54).
+(5)
+The General Teaching Council for England was established by section 1(1) of the Teaching and Higher Education Act 1998 (c.30).
+(6)
+The General Teaching Council for Wales was established by article 2 of the General Teaching Council for Wales Order 1998 (S.I. 1998/2911) made under section 8(1) of the Teaching and Higher Education Act 1998 (c.30).
+(7)
+The General Teaching Council for Northern Ireland was established by article 34(1) of the Education (Northern Ireland) Order 1998 (S.I. 1998/1759 (N.I. 13)) made under paragraph 1 of Schedule 1 to the Northern Ireland Act 1974 (c.28).
+(8)
+The General Teaching Council for Scotland continues to be established by article 4(1) of the Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215), made under section 14(1), (3)(a) and (b), and 7(a) and (b) of the 2010 Act
+(9)
+The Health Professions Council was established by article 3(1) of the Health Professions Order 2001 (S.I. 2001/254) made under sections 60 and 62(4) of the Health Act 1999 (c.8) and is to be known as the Health and Care Professions Council by virtue of section 214 of the Health and Social Care Act 2012.
+(10)
+The Nursing and Midwifery Council was established by article 3(1) of the Nursing and Midwifery Order 2001 (S.I. 2002/253) made under sections 60 and 62(4) of the Health Act 1999 (c.8).
+(11)
+The General Dental Council continues to be established by virtue of section 1(1) of the Dentists Act 1984 (c.24).
+(12)
+The General Pharmaceutical Council was established by article 4(1) of the Pharmacy Order 2010 (S.I. 2010/231), made under sections 60 and 62(4) and (4A) of, and schedule 3 of, the Health Act 1999 (c.8).
+(13)
+The General Optical Council continues to be established by virtue of section 1(1) the Opticians Act 1989.
+(14)
+The General Chiropractic Council was established by section 1(1) of the Chiropractors Act 1994.Transitional provision
+4.  Where, immediately before the day upon which this Order comes into force a person was registered under section 44(1)(b) of the Act, by virtue of article 2 of the Regulation of Care (Social Service Workers) (Scotland) Order 2005, that person is to be treated as if registered under the relevant description as provided for in article 2 of this Order.Revocation
+5.  The Orders specified in the schedule of this Order are revoked.NATALIE DON
+Authorised to sign by the Scottish Ministers
+St Andrew’s House,
+Edinburgh
+20th February 2024Article 5
+SCHEDULE
+Orders revoked References
+The Regulation of Care (Social Service Workers) (Scotland) Order 2005 S.S.I. 2005/318
+The Regulation of Care (Social Service Workers) (Scotland) Amendment Order 2005 S.S.I. 2005/611
+The Regulation of Care (Social Service Workers) (Scotland) Amendment Order 2006 S.S.I. 2006/453
+The Regulation of Care (Social Service Workers) (Scotland) Amendment Order 2007 S.S.I. 2007/407
+The Regulation of Care (Social Service Workers) (Scotland) Amendment Order 2009 S.S.I. 2009/350
+The Regulation of Care (Social Service Workers) (Scotland) Amendment Order 2010 S.S.I. 2010/442
+The Regulation of Care (Social Service Workers) (Scotland) Amendment Order 2013 S.S.I. 2013/141
+The Regulation of Care (Social Service Workers) (Scotland) Amendment Order 2014 S.S.I. 2014/129
+The Regulation of Care (Social Service Workers) (Scotland) Amendment Order 2017 S.S.I. 2017/95EXPLANATORY NOTE
+(This note is not part of the Order)
+Section 44(1) of the Regulation of Care (Scotland) Act 2001 (“the Act”) requires the Scottish Social Services Council to maintain a register of social workers, social service workers of any other description prescribed and persons participating in a course or employed in a position probationary to becoming either a social worker or a social service worker of a qualified description.
+The Regulation of Care (Social Service Workers) (Scotland) Order 2005 (“the 2005 Order”) (as amended) prescribed a description of social service worker for the purposes of section 44(1)(b) of the Act.
+This Order revokes the 2005 Order and all amending Orders and prescribes a description of social service worker for the purposes of section 44(1)(b) of the Act. Article 2 provides that the description of social service worker prescribed is a person who is either a social care worker or a children and young people’s worker.
+The Order provides that persons who are registered with, or are a member of one or more of, the bodies set out in article 3 are excluded from the description of social service worker.
+Article 4 of the Order provides for a transitional provision, the effect of which is that people registered under section 44(1)(b) of the Act, by virtue of article 2 of the 2005 Order, immediately before 3rd June 2024 are to be treated as if registered under the relevant description as provided for under article 2 of this Order, namely a social care worker description or a children and young people’s worker description.
+Article 5 of the Order revokes the 2005 Order and all instruments which amended it.

@@ -1,0 +1,1280 @@
+OFFERYNNAU STATUDOL CYMRU
+2018 Rhif 441 (Cy. 77)
+Y GYMRAEG
+Rheoliadau Safonau’r Gymraeg (Rhif 7) 2018
+Gwnaed
+27 Mawrth 2018
+Yn dod i rym
+29 Mehefin 2018
+Mae Gweinidogion Cymru, drwy arfer y pwerau a roddwyd iddynt gan adrannau 26, 27, 39 a 150(5) o Fesur y Gymraeg (Cymru) 2011(1), ac wedi cael cymeradwyaeth Cynulliad Cenedlaethol Cymru yn unol ag adran 150(2) o’r Mesur hwnnw, yn gwneud y Rheoliadau a ganlyn:
+(1)
+2011 mccc 1.Enwi, cychwyn, cymhwyso a dehongli
+1.—(1) Enw’r Rheoliadau hyn yw Rheoliadau Safonau’r Gymraeg (Rhif 7) 2018.
+(2) Daw’r Rheoliadau hyn i rym ar 29 Mehefin 2018.
+(3) Mae’r Rheoliadau hyn yn gymwys o ran Cymru.
+(4) Yn y Rheoliadau hyn—
+ystyr “aelod o staff” (“member of staff”) yw cyflogai i gorff neu berson naturiol sy’n gweithio i gorff ond nid person sydd wedi ei benodi i gorff gan Weinidogion Cymru, un o Weinidogion y Goron, Ysgrifennydd Gwladol, cyngor sir neu gyngor bwrdeistref sirol neu sefydliad gwirfoddol(1) (a rhaid dehongli “staff” (“staff”) yn unol â hynny);
+ystyr “claf mewnol” (“in-patient”) yw unigolyn sy’n cael ei dderbyn i’r ysbyty am o leiaf un noson;
+mae “clinig” (“clinic”) yn feddygfa neu’n ystafell ymgynghori y mae—
+(a)
+ymgynghoriad clinigol; neu
+(b)
+ymgynghoriad clinigol preifat;
+yn cael ei gynnal ynddi;
+ystyr “clinig gwasanaeth iechyd gwladol” (“national health service clinic”) yw clinig sydd wedi ei freinio yng Ngweinidogion Cymru, Bwrdd Iechyd Lleol neu Ymddiriedolaeth Gwasanaeth Iechyd Gwladol;
+ystyr “clinig preifat” (“private clinic”) yw clinig nad yw’n glinig gwasanaeth iechyd gwladol;
+ystyr “corff” (“body”) yw person a restrir yn Atodlen 6;
+ystyr “cynhadledd achos” (“case conference”) yw rhyngweithio a’i brif bwrpas yw trafod darpariaeth unigolyn (“A”) sy’n ymwneud ag iechyd ac sydd rhwng—
+(a)
+A,
+(b)
+un neu ragor o gyrff, a
+(c)
+un neu ragor o bersonau pan fo o leiaf un o’r personau hynny yn gyngor sir neu’n gyngor bwrdeistref sirol yng Nghymru;
+ystyr “darpariaeth iechyd” (“health provision”) yw darparu gwasanaethau iechyd fel rhan o’r gwasanaeth iechyd gwladol i unigolyn ac mae’n cynnwys asesu, diagnosio neu drin yr unigolyn hwnnw;
+ystyr “darpariaeth iechyd breifat” (“private health provision”) yw darparu gwasanaethau iechyd nad ydynt yn rhan o’r gwasanaeth iechyd gwladol i unigolyn ac mae’n cynnwys asesu, diagnosio neu drin yr unigolyn hwnnw;
+ystyr “darpariaeth sy’n ymwneud ag iechyd” (“health related provision”) yw darparu gwasanaethau i unigolyn a all gael effaith ar iechyd yr unigolyn hwnnw ond nad ydynt yn ddarpariaeth iechyd nac yn ddarpariaeth iechyd breifat;
+ystyr “darparwr gofal sylfaenol” (“primary care provider”) yw person sy’n darparu gwasanaeth gofal sylfaenol ar ran Bwrdd Iechyd Lleol;
+mae “derbyniad fel claf mewnol” (“in-patient admission”) yn dechrau ar y diwrnod y mae’r claf mewnol yn cael ei dderbyn i’r ysbyty ac yn dod i ben ar y diwrnod y mae’r claf mewnol yn peidio â bod yn yr ysbyty;
+mae i “gwasanaeth cartref gofal” (“care home service”) yr un ystyr ag yn adran 2(2) o Ddeddf Rheoleiddio ac Arolygu Gofal Cymdeithasol (Cymru) 2016(2), a pharagraff 1 o Atodlen 1 iddi;
+ystyr “gwasanaeth gofal sylfaenol” (“primary care service”) yw gwasanaeth a ddarperir o dan gontract, trefniant neu gytundeb a wneir o dan neu yn rhinwedd unrhyw un neu ragor o’r darpariaethau a ganlyn o Ddeddf y Gwasanaeth Iechyd Gwladol (Cymru) 2006(3)—
+(a)
+adran 41(2)(b) (gwasanaethau meddygol sylfaenol);
+(b)
+adran 42(1) (contractau gwasanaethau meddygol cyffredinol);
+(c)
+adran 50 (trefniadau gan Fyrddau Iechyd Lleol ar gyfer darparu gwasanaethau meddygol sylfaenol);
+(ch)
+adran 57(1) (contractau gwasanaethau deintyddol cyffredinol);
+(d)
+adran 64 (trefniadau gan Fyrddau Iechyd Lleol ar gyfer darparu gwasanaethau deintyddol sylfaenol);
+(dd)
+adran 71 (trefniadau ar gyfer gwasanaethau offthalmig cyffredinol);
+(e)
+adran 80 (trefniadau ar gyfer gwasanaethau fferyllol);
+(f)
+adran 81 (gwasanaethau fferyllol ychwanegol);
+(ff)
+(adran 92 (cynlluniau peilot);
+(g)
+adran 102 (cynlluniau gwasanaethau fferyllol lleol);
+ystyr “gwasanaeth iechyd gwladol” (“national health service”) yw’r gwasanaeth iechyd cynhwysfawr yng Nghymru a barheir o dan adran 1(1) o Ddeddf y Gwasanaeth Iechyd Gwladol (Cymru) 2006;
+ystyr “unigolyn” (“individual”) yw person naturiol sy’n preswylio fel arfer yng Nghymru ac yn gweithredu yn ei enw ei hun; ond nid yw’n cynnwys unigolyn sy’n gweithredu yn rhinwedd ei swydd fel gwirfoddolwr;
+ystyr “ymgynghoriad clinigol” (“clinical consultation”) yw rhyngweithio rhwng un neu ragor o unigolion a chorff ynghylch darpariaeth iechyd;
+ystyr “ymgynghoriad clinigol preifat” (“private clinical consultation”) yw rhyngweithio rhwng un neu ragor o unigolion a pherson ynghylch darpariaeth iechyd breifat;
+ystyr “ysbyty” (“hospital”) yw—
+(a)
+unrhyw sefydliad ar gyfer derbyn a thrin personau sy’n dioddef o salwch,
+(b)
+unrhyw gartref mamolaeth, a
+(c)
+unrhyw sefydliad ar gyfer derbyn a thrin personau sy’n ymadfer neu bersonau y mae angen adsefydlu meddygol arnynt,
+ac mae’n cynnwys clinigau, fferyllfeydd ac adrannau cleifion allanol a gynhelir mewn cysylltiad ag unrhyw gartref neu sefydliad o’r fath;
+ystyr “ysbyty gwasanaeth iechyd gwladol” (“national health service hospital”) yw ysbyty sydd wedi ei freinio yng Ngweinidogion Cymru, Bwrdd Iechyd Lleol neu Ymddiriedolaeth Gwasanaeth Iechyd Gwladol; ac
+ystyr “ysbyty preifat” (“private hospital”) yw ysbyty nad yw’n ysbyty gwasanaeth iechyd gwladol.
+(5) Yn ddarostyngedig i baragraffau (7), (8), (9) a (10) yn y Rheoliadau hyn—
+(a)
+mae cyfeiriadau at unrhyw weithgaredd sy’n cael ei gyflawni gan gorff, neu at unrhyw wasanaeth sy’n cael ei ddarparu gan gorff, i’w darllen fel pe baent yn cynnwys cyfeiriad at y gweithgaredd hwnnw yn cael ei gyflawni ar ran y corff, neu at y gwasanaeth hwnnw yn cael ei ddarparu ar ran y corff, gan drydydd parti o dan drefniadau a wneir rhwng y trydydd parti a’r corff;
+(b)
+yn unol â hynny, oni bai bod hysbysiad cydymffurfio yn darparu i’r gwrthwyneb, bydd corff wedi methu â chydymffurfio â safon mewn cysylltiad â gweithgaredd y mae wedi trefnu iddo gael ei gyflawni, neu wasanaeth y mae wedi trefnu iddo gael ei ddarparu, gan drydydd parti os nad yw’r gweithgaredd hwnnw neu’r gwasanaeth hwnnw wedi ei gyflawni neu ei ddarparu yn unol â’r safon.
+(6) Nid oes dim byd yn y Rheoliadau hyn sy’n ei gwneud yn ofynnol i gorff gydymffurfio â safon mewn perthynas â gweithgaredd a gyflawnir ganddo neu wasanaeth a ddarperir ganddo pan fo’n cyflawni’r gweithgaredd hwnnw neu’n darparu’r gwasanaeth hwnnw ar ran trydydd parti o dan drefniadau a wneir rhyngddo ef a’r trydydd parti, ac eithrio mewn perthynas—
+(a)
+ag ymgynghoriad clinigol,
+(b)
+â chynhadledd achos, neu
+(c)
+â chlaf mewnol (pan na fydd y claf mewnol yn bresennol mewn ymgynghoriad clinigol).
+(7) Nid oes dim byd yn y Rheoliadau hyn sy’n ei gwneud yn ofynnol i gorff gydymffurfio â safon mewn perthynas â gweithgaredd a gyflawnir ar ei ran neu wasanaeth a ddarperir ar ei ran gan drydydd parti o dan drefniadau a wneir rhyngddo ef a’r trydydd parti mewn perthynas—
+(a)
+ag ymgynghoriad clinigol,
+(b)
+â chynhadledd achos, neu
+(c)
+â chlaf mewnol (pan na fydd y claf mewnol yn bresennol mewn ymgynghoriad clinigol).
+(8) Nid oes dim byd yn y Rheoliadau hyn sy’n ei gwneud yn ofynnol i gorff gydymffurfio â safon mewn perthynas â gweithgaredd a gyflawnir ganddo neu wasanaeth a ddarperir ganddo pan fo’r gweithgaredd hwnnw’n cael ei gyflawni neu pan fo’r gwasanaeth hwnnw’n cael ei ddarparu ar ei ran—
+(a)
+mewn ysbyty preifat neu glinig preifat yng Nghymru,
+(b)
+ar ward breifat mewn ysbyty yng Nghymru, neu
+(c)
+mewn ysbyty neu glinig y tu allan i Gymru.
+(9) Nid oes dim byd yn y Rheoliadau hyn sy’n ei gwneud yn ofynnol i gorff gydymffurfio â safon mewn perthynas â gweithgaredd a gyflawnir ganddo neu wasanaeth a ddarperir ganddo pan fo’r gweithgaredd hwnnw’n cael ei gyflawni neu pan fo’r gwasanaeth hwnnw’n cael ei ddarparu ar ei ran gan ddarparwr gofal sylfaenol.
+(10) Nid oes dim byd yn y Rheoliadau hyn sy’n ei gwneud yn ofynnol i gorff gydymffurfio â safon mewn perthynas â gweithgaredd a gyflawnir ganddo neu wasanaeth a ddarperir ganddo pan fo’r gweithgaredd sy’n cael ei gyflawni neu pan fo’r gwasanaeth sy’n cael ei ddarparu ar ei ran yn wasanaeth cartref gofal.
+(1)
+Gweler er enghraifft rheoliad 7 o Reoliadau Cynghorau Iechyd Cymuned (Cyfansoddiad, Aelodaeth a Gweithdrefnau) (Cymru) 2010 (O.S. 2010/288 (Cy. 37)) sy’n ymwneud â sefydliadau gwirfoddol yn penodi aelodau i Gynghorau Iechyd Cymuned.
+(2)
+2016 dccc 2.
+(3)
+2006 p.42.Safonau a bennir
+2.—(1) Yn Atodlen 1—
+(a)
+mae Rhan 1 yn pennu safonau cyflenwi gwasanaethau;
+(b)
+mae Rhan 2 yn darparu bod rhaid i hysbysiad cydymffurfio ei gwneud yn ofynnol i gorff gydymffurfio â safonau penodol a bennir yn Rhan 1 os yw wedi ei gwneud yn ofynnol i’r corff gydymffurfio â safonau penodol eraill;
+(c)
+mae Rhan 3 yn diffinio nifer o eiriau ac ymadroddion.
+(2) Yn Atodlen 2—
+(a)
+mae Rhan 1 yn pennu safonau llunio polisi;
+(b)
+mae Rhan 2 yn darparu bod rhaid i hysbysiad cydymffurfio ei gwneud yn ofynnol i gorff gydymffurfio â safonau penodol a bennir yn Rhan 1 os yw wedi ei gwneud yn ofynnol i’r corff gydymffurfio â safonau penodol eraill;
+(c)
+mae Rhan 3 yn diffinio nifer o eiriau ac ymadroddion.
+(3) Yn Atodlen 3—
+(a)
+mae Rhan 1 yn pennu safonau gweithredu;
+(b)
+mae Rhan 2 yn darparu bod rhaid i hysbysiad cydymffurfio ei gwneud yn ofynnol i gorff gydymffurfio â safonau penodol a bennir yn Rhan 1 os yw wedi ei gwneud yn ofynnol i’r corff gydymffurfio â safonau penodol eraill;
+(c)
+mae Rhan 3 yn diffinio nifer o eiriau ac ymadroddion.
+(4) Yn Atodlen 4—
+(a)
+mae Rhan 1 yn pennu safonau cadw cofnodion;
+(b)
+mae Rhan 2 yn diffinio nifer o eiriau ac ymadroddion.
+(5) Yn Atodlen 5—
+(a)
+mae Rhan 1 yn pennu safonau sy’n ymdrin â materion sy’n atodol i’r materion yr ymdrinnir â hwy yn y safonau a bennir yn Atodlenni 1 i 4;
+(b)
+mae Rhan 2 yn gwneud darpariaeth ynghylch dehongli’r safonau atodol.Safonau sy’n benodol gymwys
+3.—(1) Mae Gweinidogion Cymru yn awdurdodi Comisiynydd y Gymraeg i roi hysbysiad cydymffurfio i’r personau a restrir yn Atodlen 6 sy’n ei gwneud yn ofynnol iddynt gydymffurfio ag unrhyw un neu ragor o’r safonau a bennir o dan reoliad 2 ac Atodlenni 1 i 5.
+(2) Ond nid awdurdodir y Comisiynydd i roi hysbysiad cydymffurfio i—
+(a)
+Ymddiriedolaethau Gwasanaeth Iechyd Gwladol yng Nghymru sy’n ei gwneud yn ofynnol iddynt gydymffurfio â’r safonau a ganlyn—
+(i)
+65 i 68,
+(ii)
+78 i 78A;
+(b)
+Cynghorau Iechyd Cymuned a Bwrdd Cynghorau Iechyd Cymuned Cymru sy’n ei gwneud yn ofynnol iddynt gydymffurfio â’r safonau a ganlyn—
+(i)
+23 i 25,
+(ii)
+64 i 68,
+(iii)
+78 i 78A,
+(iv)
+110 a 110A.Diwygio Rheoliadau Safonau’r Gymraeg (Rhif 4) 2016
+4.—(1) Yn rheoliad 3 o Reoliadau Safonau’r Gymraeg (Rhif 4) 2016 (“Rheoliadau Rhif 4”)(1) yn lle paragraff (2) rhodder—
+“(2) Ond nid awdurdodir y Comisiynydd i roi hysbysiad cydymffurfio i—
+(a)
+Tribiwnlys Tir Amaethyddol Cymru, Tribiwnlys Adolygu Iechyd Meddwl Cymru, Tribiwnlys Eiddo Preswyl Cymru a Thribiwnlys Anghenion Addysgol Arbennig Cymru sy’n ei gwneud yn ofynnol iddynt gydymffurfio a’r safonau a ganlyn—
+(i)
+92 i 139,
+(ii)
+144 i 148,
+(iii)
+161 i 166;
+(b)
+Gofal Cymdeithasol Cymru(2) sy’n ei gwneud yn ofynnol iddo gydymffurfio â safon 60.”
+(2) Yn Atodlen 6 i Reoliadau Rhif 4, yn y lle priodol mewnosoder—
+“Gofal Cymdeithasol Cymru (“Social Care Wales”)”.
+(1)
+O.S. 2016/405 (Cy. 125).
+(2)
+Gweler adran 67 o Ddeddf Rheoleiddio ac Arolygu Gofal Cymdeithasol (Cymru) 2016 (dccc 2) a barhaodd â bodolaeth Cyngor Gofal Cymru, ond a’i hailenwodd yn Ofal Cymdeithasol Cymru.Eluned Morgan
+Gweinidog y Gymraeg a Dysgu Gydol Oes, o dan awdurdod Ysgrifennydd y Cabinet dros Addysg, un o Weinidogion Cymru
+27 Mawrth 2018Rheoliad 2(1)
+ATODLEN 1
+Safonau Cyflenwi Gwasanaethau
+RHAN 1
+Y SAFONAU
+1 Safonau ynghylch gohebiaeth a anfonir gan gorff
+(1) Pan fo corff yn ateb gohebiaeth
+Safon 1: Os byddwch yn cael unrhyw ohebiaeth yn Gymraeg oddi wrth berson, rhaid ichi ateb yn Gymraeg (os oes angen ateb), oni bai bod y person wedi dweud nad oes angen ateb yn Gymraeg.
+(2) Pan fo corff yn gohebu
+(a) Pan fo corff yn gohebu ag unigolyn
+Safon 2:
+Pan fyddwch yn gohebu ag unigolyn (“A”) am y tro cyntaf, rhaid ichi ofyn i A a yw’n dymuno cael gohebiaeth oddi wrthych yn Gymraeg, ac os yw A yn ymateb i ddweud ei fod yn dymuno hynny rhaid ichi—
+(a)
+cadw cofnod o ddymuniad A,
+(b)
+gohebu yn Gymraeg ag A wrth ohebu ag A o hynny ymlaen, ac
+(c)
+anfon unrhyw ffurflenni y mae A i’w cwblhau o hynny ymlaen yn Gymraeg.
+(b) Pan fo corff yn gohebu â mwy nag un aelod o’r un aelwyd
+Safon 3:
+Pan fyddwch yn anfon gohebiaeth a gyfeirir at un neu ragor o unigolion sy’n aelodau o’r un aelwyd (er enghraifft, rhieni plentyn) am y tro cyntaf, rhaid ichi ofyn i’r unigolion hynny a ydynt yn dymuno cael gohebiaeth oddi wrthych yn Gymraeg, ac os—
+(a)
+yw pob unigolyn yn ymateb i ddweud eu bod yn dymuno hynny, rhaid ichi gadw cofnod o’u dymuniad, a gohebu yn Gymraeg o hynny ymlaen pan fyddwch yn anfon gohebiaeth a gyfeirir at bob un o’r unigolion hynny;
+(b)
+yw un o’r unigolion (ond nid pob un ohonynt) yn ymateb i ddweud ei fod yn dymuno hynny, rhaid ichi gadw cofnod o’i ddymuniad, a darparu fersiwn Gymraeg o ohebiaeth o hynny ymlaen pan fyddwch yn anfon gohebiaeth a gyfeirir at bob un o’r unigolion hynny.
+(c) Pan fo corff yn gohebu â sawl person (er enghraifft, pan fydd yn anfon cylchlythyr, neu’n anfon yr un llythyr at nifer o gartrefi)
+Safon 4: Pan fyddwch yn anfon yr un ohebiaeth at nifer o bersonau, rhaid ichi anfon fersiwn Gymraeg o’r ohebiaeth ar yr un pryd ag y byddwch yn anfon unrhyw fersiwn Saesneg ohoni.
+(3) Safonau cyffredinol ynghylch gohebu
+Safon 5: Os nad ydych yn gwybod a yw person yn dymuno cael gohebiaeth oddi wrthych yn Gymraeg rhaid ichi ddarparu fersiwn Gymraeg o’r ohebiaeth pan fyddwch yn gohebu â’r person hwnnw.
+Safon 6: Os byddwch yn llunio fersiwn Gymraeg a fersiwn Saesneg gyfatebol o ohebiaeth, rhaid ichi beidio â thrin y fersiwn Gymraeg yn llai ffafriol na’r fersiwn Saesneg (er enghraifft, os yw’r fersiwn Saesneg wedi ei llofnodi, neu os oes manylion cyswllt wedi eu darparu ar y fersiwn Saesneg, rhaid i’r fersiwn Gymraeg gael ei thrin yn yr un modd).
+Safon 7:
+Rhaid ichi ddatgan—
+(a)
+mewn gohebiaeth, a
+(b)
+mewn cyhoeddiadau a hysbysiadau sy’n gwahodd personau i anfon ymateb neu i anfon gohebiaeth atoch,
+eich bod yn croesawu cael gohebiaeth yn Gymraeg, y byddwch yn ateb gohebiaeth yn Gymraeg, ac na fydd gohebu yn Gymraeg yn arwain at oedi.
+2 Safonau ynghylch galwadau ffôn i gorff ac oddi wrth gorff
+(1) Galwadau ffôn i brif rif ffôn y corff ac i unrhyw linellau cymorth neu ganolfannau galwadau
+Safon 8: Pan fydd person yn cysylltu â chi ar eich prif rif ffôn (neu ar un o’ch prif rifau ffôn), neu ar unrhyw rifau llinell gymorth neu rifau canolfan alwadau, rhaid ichi gyfarch y person yn Gymraeg.
+Safon 9: Pan fydd person yn cysylltu â chi ar eich prif rif ffôn (neu ar un o’ch prif rifau ffôn), neu ar unrhyw rifau llinell gymorth neu rifau canolfan alwadau, rhaid ichi roi gwybod i’r person bod gwasanaeth Cymraeg ar gael.
+Safon 10:
+Pan fo person yn cysylltu â chi ar eich prif rif ffôn (neu ar un o’ch prif rifau ffôn), neu ar unrhyw rifau llinell gymorth neu rifau canolfan alwadau, rhaid ichi ddelio â’r alwad yn Gymraeg os yw’r person yn dymuno hynny—
+(a)
+hyd nes ei bod yn angenrheidiol trosglwyddo’r alwad i aelod o staff nad yw’n siarad Cymraeg sy’n gallu darparu gwasanaeth ar bwnc penodol; a
+(b)
+hyd nes nad oes aelod o staff sy’n siarad Cymraeg ar gael i ddarparu gwasanaeth ar y pwnc penodol hwnnw.
+Safon 11: Pan fyddwch yn hysbysebu rhifau ffôn, llinellau cymorth neu wasanaethau canolfannau galwadau, rhaid ichi beidio â thrin y Gymraeg yn llai ffafriol na’r Saesneg.
+Safon 12: Os byddwch yn cynnig gwasanaeth Cymraeg ar eich prif rif ffôn (neu ar un o’ch prif rifau ffôn), ar unrhyw rifau llinell gymorth neu rifau canolfan alwadau, rhaid i rif ffôn y gwasanaeth Cymraeg fod yr un peth â rhif ffôn y gwasanaeth Saesneg cyfatebol.
+Safon 13: Pan fyddwch yn cyhoeddi eich prif rif ffôn, neu unrhyw rifau sydd gennych ar gyfer llinellau cymorth neu wasanaethau canolfannau galwadau, rhaid ichi nodi (yn Gymraeg) eich bod yn croesawu galwadau yn Gymraeg.
+Safon 14: Os oes gennych ddangosyddion perfformiad ar gyfer delio â galwadau ffôn, rhaid ichi sicrhau nad yw’r dangosyddion perfformiad hynny yn trin galwadau ffôn a wneir yn Gymraeg yn llai ffafriol na galwadau a wneir yn Saesneg.
+Safon 15: Rhaid i’ch prif wasanaeth (neu wasanaethau) ateb galwadau ffôn roi gwybod i bersonau sy’n galw, yn Gymraeg, fod modd gadael neges yn Gymraeg.
+Safon 16: Pan na fo gwasanaeth Cymraeg ar gael ar eich prif rif ffôn (neu ar un o’ch prif rifau ffôn), ar unrhyw rifau llinell gymorth neu rifau canolfan alwadau, rhaid ichi roi gwybod i’r personau sy’n galw, yn Gymraeg (pa un ai drwy gyfrwng neges wedi ei hawtomeiddio neu fel arall) pryd y bydd gwasanaeth Cymraeg ar gael.
+(2) Galwadau ffôn i adrannau, ac i aelodau o staff corff
+Safon 17:
+Os bydd person yn cysylltu ag un o’ch adrannau ar rif ffôn llinell uniongyrchol (gan gynnwys ar rifau llinell uniongyrchol aelodau staff), a bod y person hwnnw’n dymuno cael gwasanaeth Cymraeg, rhaid ichi ddelio â’r alwad yn Gymraeg—
+(a)
+hyd nes ei bod yn angenrheidiol trosglwyddo’r alwad i aelod o staff nad yw’n siarad Cymraeg sy’n gallu darparu gwasanaeth ar bwnc penodol; a
+(b)
+hyd nes nad oes aelod o staff sy’n siarad Cymraeg ar gael i ddarparu gwasanaeth ar y pwnc penodol hwnnw.
+Safon 18: Pan fydd person yn cysylltu â chi ar rif llinell uniongyrchol (pa un ai ar rif llinell uniongyrchol adran neu ar rif llinell uniongyrchol aelod o staff), rhaid ichi sicrhau nad yw’r Gymraeg yn cael ei thrin yn llai ffafriol na’r Saesneg wrth gyfarch y person.
+(3) Galwadau ffôn a wneir gan gorff
+Safon 19: Pan fyddwch yn ffonio unigolyn (“A”) am y tro cyntaf, rhaid ichi ofyn i A a yw’n dymuno cael galwadau ffôn oddi wrthych yn Gymraeg, ac os yw A yn ymateb i ddweud ei fod yn dymuno hynny, rhaid ichi gadw cofnod o’i ddymuniad, a chynnal galwadau ffôn a wneir i A o hynny ymlaen yn Gymraeg.
+(4) Corff yn delio â galwadau ffôn drwy system wedi ei hawtomeiddio
+Safon 20: Rhaid i unrhyw system ffôn wedi ei hawtomeiddio sydd gennych ddarparu’r gwasanaeth cyfan wedi ei awtomeiddio yn Gymraeg.
+3 Safonau ynghylch cyfarfodydd a gynhelir gan gorff nad ydynt yn agored i’r cyhoedd
+(1) Cyfarfodydd rhwng corff ac un person gwahoddedig arall
+Safon 21:
+Os byddwch yn gwahodd un person (“P”) yn unig i gyfarfod—
+(a)
+rhaid ichi ofyn i P a yw’n dymuno defnyddio’r Gymraeg yn y cyfarfod, a hysbysu P y byddwch yn cynnal y cyfarfod yn Gymraeg neu, os oes angen, yn darparu gwasanaeth cyfieithu o’r Gymraeg i’r Saesneg at y diben hwnnw, a
+(b)
+os yw P wedi eich hysbysu ei fod yn dymuno defnyddio’r Gymraeg yn y cyfarfod, rhaid ichi gynnal y cyfarfod yn Gymraeg neu, os oes angen, drefnu bod gwasanaeth cyfieithu ar y pryd neu wasanaeth cyfieithu olynol o’r Gymraeg i’r Saesneg ar gael yn y cyfarfod.
+(2) Cyfarfodydd rhwng corff a mwy nag un person gwahoddedig
+Safon 22: Os byddwch yn gwahodd mwy nag un person i gyfarfod, rhaid ichi ofyn i bob person a yw’n dymuno defnyddio’r Gymraeg yn y cyfarfod.
+Safon 22A: Os byddwch wedi gwahodd mwy nag un person i gyfarfod, a bod o leiaf 10% (ond llai na 100%) o’r gwahoddedigion wedi eich hysbysu eu bod yn dymuno defnyddio’r Gymraeg yn y cyfarfod, rhaid ichi drefnu bod gwasanaeth cyfieithu ar y pryd neu wasanaeth cyfieithu olynol o’r Gymraeg i’r Saesneg ar gael yn y cyfarfod.
+Safon 22B: Os byddwch wedi gwahodd mwy nag un person i gyfarfod, a bod o leiaf 20% (ond llai na 100%) o’r gwahoddedigion wedi eich hysbysu eu bod yn dymuno defnyddio’r Gymraeg yn y cyfarfod, rhaid ichi drefnu bod gwasanaeth cyfieithu ar y pryd neu wasanaeth cyfieithu olynol o’r Gymraeg i’r Saesneg ar gael yn y cyfarfod.
+Safon 22C: Os byddwch wedi gwahodd mwy nag un person i gyfarfod, a bod o leiaf 30% (ond llai na 100%) o’r gwahoddedigion wedi eich hysbysu eu bod yn dymuno defnyddio’r Gymraeg yn y cyfarfod, rhaid ichi drefnu bod gwasanaeth cyfieithu ar y pryd neu wasanaeth cyfieithu olynol o’r Gymraeg i’r Saesneg ar gael yn y cyfarfod.
+Safon 22CH: Os byddwch wedi gwahodd mwy nag un person i gyfarfod, a bod pawb a gafodd wahoddiad wedi eich hysbysu eu bod yn dymuno defnyddio’r Gymraeg yn y cyfarfod, rhaid ichi gynnal y cyfarfod yn Gymraeg neu, os oes angen, drefnu bod gwasanaeth cyfieithu ar y pryd neu wasanaeth cyfieithu olynol o’r Gymraeg i’r Saesneg ar gael yn y cyfarfod.
+4 Safonau ynghylch cleifion mewnol
+Safon 23: Rhaid ichi ofyn i glaf mewnol (“A”) ar ddiwrnod cyntaf ei dderbyniad fel claf mewnol a yw A yn dymuno defnyddio’r Gymraeg i gyfathrebu â chi yn ystod y derbyniad hwnnw fel claf mewnol.
+Safon 23A: Os yw’r claf mewnol (“A”) yn eich hysbysu fod A yn dymuno defnyddio’r Gymraeg i gyfathrebu â chi yn ystod derbyniad fel claf mewnol, rhaid ichi roi gwybod i’ch staff sy’n debygol o gyfathrebu ag A, fod A yn dymuno defnyddio’r Gymraeg i gyfathrebu â chi yn ystod y derbyniad hwnnw fel claf mewnol.
+Safon 24: Rhaid ichi lunio a chyhoeddi polisi ar sut i gadarnhau a yw claf mewnol (“A”) yn dymuno defnyddio’r Gymraeg yn ystod ei dderbyniad fel claf mewnol os na all A eich hysbysu ei fod yn dymuno defnyddio’r Gymraeg i gyfathrebu â chi yn ystod derbyniad fel claf mewnol.
+5 Safonau ynghylch cynadleddau achos
+Safon 25:
+Os byddwch yn gwahodd unigolyn (“A”) i gynhadledd achos a gynhelir 5 neu ragor o ddiwrnodau gwaith ar ôl i’r gwahoddiad gael ei anfon—
+(a)
+rhaid ichi ofyn i A a yw’n dymuno defnyddio’r Gymraeg yn y gynhadledd achos, a’i hysbysu y byddwch yn cynnal y gynhadledd yn Gymraeg, neu os oes angen, yn darparu gwasanaeth cyfieithu o’r Gymraeg i’r Saesneg ac o’r Saesneg i’r Gymraeg at y diben hwnnw, a
+(b)
+os yw A wedi eich hysbysu ei fod yn dymuno defnyddio’r Gymraeg yn y gynhadledd achos, rhaid ichi gynnal y gynhadledd yn Gymraeg neu, os oes angen, ddarparu gwasanaeth cyfieithu ar y pryd neu wasanaeth cyfieithu olynol o’r Gymraeg i’r Saesneg ac o’r Saesneg i’r Gymraeg.
+6 Safonau ynghylch cyfarfodydd a drefnir gan gorff sy’n agored i’r cyhoedd
+Safon 26: Os byddwch yn trefnu cyfarfod sy’n agored i’r cyhoedd ac y caniateir cyfranogiad y cyhoedd ynddo, rhaid ichi ddatgan ar unrhyw ddeunydd sy’n ei hysbysebu, ac ar unrhyw wahoddiad iddo, bod croeso i unrhyw un sy’n bresennol ddefnyddio’r Gymraeg yn y cyfarfod.
+Safon 27: Pan fyddwch yn anfon gwahoddiadau i gyfarfod yr ydych yn ei drefnu sy’n agored i’r cyhoedd ac y caniateir cyfranogiad y cyhoedd ynddo, rhaid ichi eu hanfon yn Gymraeg.
+Safon 28:
+Os byddwch yn gwahodd personau i siarad mewn cyfarfod yr ydych yn ei drefnu sy’n agored i’r cyhoedd ac y caniateir cyfranogiad y cyhoedd ynddo, rhaid ichi—
+(a)
+gofyn i bob person a wahoddir i siarad a yw’n dymuno defnyddio’r Gymraeg, a
+(b)
+os yw’r person hwnnw (neu o leiaf un o’r personau hynny) yn eich hysbysu ei fod yn dymuno defnyddio’r Gymraeg yn y cyfarfod, darparu gwasanaeth cyfieithu ar y pryd neu wasanaeth cyfieithu olynol o’r Gymraeg i’r Saesneg at y diben hwnnw (os nad ydych yn cynnal y cyfarfod yn Gymraeg heb wasanaeth cyfieithu).
+Safon 29:
+Os byddwch yn trefnu cyfarfod sy’n agored i’r cyhoedd ac y caniateir cyfranogiad y cyhoedd ynddo, rhaid ichi sicrhau bod gwasanaeth cyfieithu ar y pryd o’r Gymraeg i’r Saesneg ar gael yn y cyfarfod, a rhaid ichi hysbysu’r rheini sy’n bresennol ar lafar yn Gymraeg—
+(a)
+bod croeso iddynt ddefnyddio’r Gymraeg, a
+(b)
+bod gwasanaeth cyfieithu ar y pryd ar gael.
+Safon 30: Os byddwch yn llunio ac yn arddangos unrhyw ddeunydd ysgrifenedig mewn cyfarfod yr ydych yn ei drefnu sy’n agored i’r cyhoedd, rhaid ichi sicrhau bod y deunydd yn cael ei arddangos yn Gymraeg, a rhaid ichi beidio â thrin unrhyw destun Cymraeg yn llai ffafriol na’r testun Saesneg.
+7 Safonau ynghylch digwyddiadau cyhoeddus a drefnir neu a ariennir gan gorff
+Safon 31: Os byddwch yn trefnu digwyddiad cyhoeddus, neu’n ariannu o leiaf 50% o ddigwyddiad cyhoeddus, rhaid ichi sicrhau nad yw’r Gymraeg yn cael ei thrin yn llai ffafriol na’r Saesneg wrth hybu’r digwyddiad (er enghraifft, o ran y ffordd y mae’r digwyddiad yn cael ei hysbysebu neu y rhoddir cyhoeddusrwydd i’r digwyddiad).
+Safon 32: Os byddwch yn trefnu digwyddiad cyhoeddus, neu’n ariannu o leiaf 50% o ddigwyddiad cyhoeddus, rhaid ichi sicrhau nad yw’r Gymraeg yn cael ei thrin yn llai ffafriol na’r Saesneg yn y digwyddiad (er enghraifft, mewn perthynas â gwasanaethau a gynigir i bersonau sy’n bresennol yn y digwyddiad, mewn perthynas ag arwyddion yr ydych yn eu llunio ac yn eu harddangos yn y digwyddiad, ac mewn perthynas â chyhoeddiadau sain a wneir ynddo).
+8 Safon ynghylch cyhoeddusrwydd a hysbysebu gan gorff
+Safon 33: Rhaid i unrhyw ddeunydd cyhoeddusrwydd neu ddeunydd hysbysebu yr ydych yn ei lunio gael ei lunio yn Gymraeg, ac os byddwch yn llunio’r deunydd yn Gymraeg ac yn Saesneg, rhaid ichi beidio â thrin y fersiwn Gymraeg yn llai ffafriol na’r fersiwn Saesneg.
+9 Safonau ynghylch corff yn arddangos deunydd yn gyhoeddus
+Safon 34: Rhaid i unrhyw ddeunydd yr ydych yn ei lunio ac yn ei arddangos yn gyhoeddus gael ei arddangos yn Gymraeg, a rhaid ichi beidio â thrin unrhyw fersiwn Gymraeg o’r deunydd yn llai ffafriol na’r fersiwn Saesneg.
+Safon 35: Rhaid i unrhyw ddeunydd yr ydych yn ei lunio ac yn ei arddangos mewn arddangosfa gyhoeddus sydd wedi ei threfnu gennych gael ei arddangos yn Gymraeg, a rhaid ichi beidio â thrin unrhyw fersiwn Gymraeg o’r deunydd yn llai ffafriol na fersiwn Saesneg.
+10 Safonau ynghylch corff yn llunio ac yn cyhoeddi dogfennau a ffurflenni
+Safon 36: Os byddwch yn llunio ffurflen sydd i gael ei chwblhau gan unigolyn, rhaid ichi ei llunio yn Gymraeg.
+Safon 37:
+Os byddwch yn llunio dogfen (ond nid ffurflen) sydd ar gael i un neu ragor o unigolion, rhaid ichi ei llunio yn Gymraeg—
+(a)
+os yw pwnc y ddogfen yn awgrymu y dylid ei llunio yn Gymraeg, neu
+(b)
+os yw’r gynulleidfa a ragwelir, a’u disgwyliadau, yn awgrymu y dylid llunio’r ddogfen yn Gymraeg.
+Safon 38:
+Os byddwch yn llunio dogfen neu ffurflen yn Gymraeg ac yn Saesneg, rhaid ichi—
+(a)
+peidio â thrin unrhyw fersiwn Gymraeg yn llai ffafriol na’r fersiwn Saesneg (pa un a ydynt yn fersiynau ar wahân ai peidio);
+(b)
+peidio â gwahaniaethu rhwng y fersiwn Gymraeg a’r fersiwn Saesneg mewn perthynas ag unrhyw ofynion sy’n berthnasol i’r ddogfen neu’r ffurflen (er enghraifft mewn perthynas ag unrhyw ddyddiad cau ar gyfer cyflwyno’r ffurflen, neu mewn perthynas â’r amser a ganiateir ar gyfer ymateb i gynnwys y ddogfen neu’r ffurflen); ac
+(c)
+sicrhau bod y fersiwn Saesneg yn datgan yn glir fod y ddogfen neu’r ffurflen hefyd ar gael yn Gymraeg.
+11 Safonau ynghylch gwefannau a gwasanaethau ar-lein corff
+(1) Gwefannau a gyhoeddir gan gorff
+Safon 39:
+Rhaid ichi sicrhau—
+(a)
+bod testun pob tudalen ar eich gwefan ar gael yn Gymraeg,
+(b)
+bod pob tudalen Gymraeg ar eich gwefan yn gweithredu’n llawn, ac
+(c)
+nad yw’r Gymraeg yn cael ei thrin yn llai ffafriol na’r Saesneg ar eich gwefan.
+Safon 40:
+Rhaid ichi sicrhau—
+(a)
+bod testun hafan eich gwefan ar gael yn Gymraeg,
+(b)
+bod unrhyw destun Cymraeg ar hafan eich gwefan (neu, pan fo’n berthnasol, fod eich hafan Gymraeg) yn gweithredu’n llawn, ac
+(c)
+nad yw’r Gymraeg yn cael ei thrin yn llai ffafriol na’r Saesneg mewn perthynas â hafan eich gwefan.
+Safon 41:
+Pan fyddwch yn cyhoeddi tudalen newydd ar eich gwefan neu’n diwygio tudalen, rhaid ichi sicrhau—
+(a)
+bod testun y dudalen honno ar gael yn Gymraeg,
+(b)
+bod unrhyw fersiwn Gymraeg o’r dudalen yn gweithredu’n llawn, ac
+(c)
+nad yw’r Gymraeg yn cael ei thrin yn llai ffafriol na’r Saesneg o ran testun y dudalen honno.
+Safon 42: Os oes gennych dudalen Gymraeg ar eich gwefan sy’n cyfateb i dudalen Saesneg, rhaid ichi ddatgan yn glir ar y dudalen Saesneg fod y dudalen hefyd ar gael yn Gymraeg, a rhaid ichi ddarparu dolen uniongyrchol i’r dudalen Gymraeg ar y dudalen Saesneg gyfatebol.
+Safon 43: Rhaid ichi ddarparu’r rhyngwyneb a’r dewislenni ar bob tudalen ar eich gwefan yn Gymraeg.
+(2) Apiau a gyhoeddir gan gorff
+Safon 44: Rhaid i bob ap yr ydych yn ei gyhoeddi weithredu’n llawn yn Gymraeg, a rhaid ichi beidio â thrin y Gymraeg yn llai ffafriol na’r Saesneg o ran yr ap hwnnw.
+12 Safonau ynghylch defnydd corff o’r cyfryngau cymdeithasol
+Safon 45: Pan fyddwch yn defnyddio’r cyfryngau cymdeithasol, rhaid ichi beidio â thrin y Gymraeg yn llai ffafriol na’r Saesneg.
+Safon 46: Os bydd person yn cysylltu â chi drwy’r cyfryngau cymdeithasol yn Gymraeg, rhaid ichi ateb yn Gymraeg (os oes angen ateb).
+13 Safonau ynghylch arwyddion a hysbysiadau a arddangosir neu a gyhoeddir gan gorff
+Safon 47:
+Pan fyddwch—
+(a)
+yn gosod arwydd newydd neu’n adnewyddu arwydd (gan gynnwys arwyddion dros dro); neu
+(b)
+yn cyhoeddi neu’n arddangos hysbysiad;
+rhaid i unrhyw destun sy’n cael ei arddangos ar yr arwydd neu’r hysbysiad gael ei arddangos yn Gymraeg (pa un ai ar yr un arwydd neu hysbysiad sy’n arddangos y testun cyfatebol yn Saesneg neu ar arwydd neu hysbysiad ar wahân); ac os yw’r un testun yn cael ei arddangos yn Gymraeg ac yn Saesneg, rhaid ichi beidio â thrin y testun Cymraeg yn llai ffafriol na’r testun Saesneg.
+Safon 48:
+Pan fyddwch—
+(a)
+yn gosod arwydd newydd neu’n adnewyddu arwydd (gan gynnwys arwyddion dros dro); neu
+(b)
+yn cyhoeddi neu’n arddangos hysbysiad;
+sy’n cyfleu’r un wybodaeth yn Gymraeg ac yn Saesneg, rhaid i’r testun Cymraeg gael ei roi mewn safle fel mai hwnnw sy’n debygol o gael ei ddarllen yn gyntaf.
+Safon 49: Rhaid ichi sicrhau bod y testun Cymraeg ar arwyddion a hysbysiadau yn gywir o ran ystyr a mynegiant.
+14 Safonau ynghylch derbyn ymwelwyr i adeiladau’r corff
+Safon 50: Rhaid i unrhyw wasanaeth derbynfa yr ydych yn ei roi ar gael yn Saesneg yn eich derbynfa hefyd fod ar gael yn Gymraeg, a rhaid i unrhyw berson sydd am gael gwasanaeth derbynfa Cymraeg yn eich derbynfa beidio â chael ei drin yn llai ffafriol na pherson sydd am gael gwasanaeth derbynfa Saesneg.
+Safon 51: Os nad oes gwasanaeth derbynfa wyneb yn wyneb Cymraeg ar gael gennych yn eich derbynfa, rhaid ichi sicrhau bod gwasanaeth derbynfa yn Gymraeg ar gael dros ffôn yn eich derbynfa.
+Safon 52: Rhaid ichi arddangos arwydd yn eich derbynfa sy’n datgan (yn Gymraeg) fod croeso i bersonau ddefnyddio’r Gymraeg yn y dderbynfa.
+Safon 53: Rhaid ichi sicrhau bod staff yn y dderbynfa sy’n gallu darparu gwasanaeth derbynfa Cymraeg yn gwisgo bathodyn sy’n cyfleu hynny.
+15 Safonau ynghylch corff yn dyfarnu grantiau
+Safon 54: Rhaid i unrhyw ddogfennau yr ydych yn eu cyhoeddi sy’n ymwneud â cheisiadau am grant gael eu cyhoeddi yn Gymraeg, a rhaid ichi beidio â thrin fersiwn Gymraeg o’r dogfennau hynny yn llai ffafriol na fersiwn Saesneg ohonynt.
+Safon 55:
+Pan fyddwch yn gwahodd ceisiadau am grant, rhaid ichi—
+(a)
+datgan yn y gwahoddiad y caniateir i geisiadau gael eu cyflwyno yn Gymraeg ac na fydd unrhyw gais a gyflwynir yn Gymraeg yn cael ei drin yn llai ffafriol na chais a gyflwynir yn Saesneg; a
+(b)
+peidio â thrin ceisiadau am grant a gyflwynir yn Gymraeg yn llai ffafriol na cheisiadau a gyflwynir yn Saesneg (gan gynnwys, ymysg materion eraill, mewn perthynas â’r dyddiad cau ar gyfer cael ceisiadau, ac mewn perthynas ag amseriad rhoi gwybod i ymgeiswyr am benderfyniadau).
+Safon 56: Pan fyddwch yn rhoi gwybod i ymgeisydd beth yw’ch penderfyniad mewn perthynas â chais am grant, rhaid ichi wneud hynny yn Gymraeg os cyflwynwyd y cais yn Gymraeg.
+16 Safonau ynghylch corff yn dyfarnu contractau
+Safon 57: Rhaid i unrhyw wahoddiadau i dendro am gontract yr ydych yn eu cyhoeddi gael eu cyhoeddi yn Gymraeg os yw pwnc y contract yn awgrymu y dylai gael ei lunio yn Gymraeg, a rhaid ichi beidio â thrin fersiwn Gymraeg o unrhyw wahoddiad yn llai ffafriol na fersiwn Saesneg ohono.
+Safon 58:
+Pan fyddwch yn cyhoeddi gwahoddiadau i dendro am gontract, rhaid ichi—
+(a)
+datgan yn y gwahoddiad y caniateir i dendrau gael eu cyflwyno yn Gymraeg, ac na fydd tendr a gyflwynir yn Gymraeg yn cael ei drin yn llai ffafriol na thendr a gyflwynir yn Saesneg, a
+(b)
+peidio â thrin tendr am gontract a gyflwynir yn Gymraeg yn llai ffafriol na thendr a gyflwynir yn Saesneg (gan gynnwys, ymysg materion eraill, mewn perthynas â’r dyddiad cau ar gyfer cael tendrau, ac mewn perthynas ag amseriad rhoi gwybod i dendrwyr am benderfyniadau).
+Safon 59: Pan fyddwch yn rhoi gwybod i dendrwr beth yw’ch penderfyniad mewn perthynas â thendr, rhaid ichi wneud hynny yn Gymraeg os cyflwynwyd y tendr yn Gymraeg.
+17 Safonau ar gyfer codi ymwybyddiaeth ynghylch gwasanaethau Cymraeg a ddarperir gan gorff
+Safon 60: Rhaid ichi hybu unrhyw wasanaeth Cymraeg a ddarperir gennych, a hysbysebu’r gwasanaeth hwnnw yn Gymraeg.
+Safon 61: Os byddwch yn darparu gwasanaeth yn Gymraeg sy’n cyfateb i wasanaeth yr ydych yn ei ddarparu yn Saesneg, rhaid i unrhyw gyhoeddusrwydd neu ddogfen yr ydych yn ei llunio, neu wefan yr ydych yn ei chyhoeddi, sy’n cyfeirio at y gwasanaeth Saesneg nodi bod gwasanaeth cyfatebol ar gael yn Gymraeg.
+18 Safon ynghylch hunaniaeth gorfforaethol corff
+Safon 62: Pan fyddwch yn llunio, yn diwygio neu’n cyflwyno eich hunaniaeth gorfforaethol, rhaid ichi beidio â thrin y Gymraeg yn llai ffafriol na’r Saesneg.
+19 Safon ynghylch cyrsiau a gynigir gan gorff
+Safon 63:
+Os byddwch yn cynnig cwrs addysg i un neu ragor o unigolion, rhaid ichi—
+(a)
+cynnal asesiad o’r angen i’r cwrs hwnnw gael ei gynnig yn Gymraeg;
+(b)
+cynnig y cwrs hwnnw yn Gymraeg os dangosodd yr asesiad fod angen i’r cwrs gael ei gynnig yn Gymraeg.
+20 Safon ynghylch systemau annerch cyhoeddus a ddefnyddir gan gorff
+Safon 64: Pan fyddwch yn cyhoeddi neges wedi ei recordio dros system annerch gyhoeddus, rhaid ichi wneud y cyhoeddiad hwnnw yn Gymraeg ac, os yw’r cyhoeddiad yn cael ei wneud yn Gymraeg ac yn Saesneg, rhaid i’r cyhoeddiad gael ei wneud yn Gymraeg yn gyntaf.
+21 Safonau ynghylch gofal sylfaenol
+Safon 65: Pan fyddwch yn gwybod bod darparwr gofal sylfaenol yn fodlon darparu gwasanaeth gofal sylfaenol neu ran o’r gwasanaeth gofal sylfaenol drwy gyfrwng y Gymraeg, rhaid ichi ddynodi a chynnal tudalen ar eich gwefan (yn Gymraeg) sy’n cynnwys yr wybodaeth honno.
+Safon 66:
+Rhaid ichi—
+(a)
+darparu gwasanaeth cyfieithu o’r Saesneg i’r Gymraeg i ddarparwr gofal sylfaenol ei ddefnyddio er mwyn ei alluogi i gael cyfieithiadau Cymraeg o arwyddion neu hysbysiadau a arddangosir mewn cysylltiad â’i wasanaeth gofal sylfaenol, a
+(b)
+annog y defnydd o’r gwasanaeth cyfieithu a ddarperir gennych yn unol â’r safon hon.
+Safon 67:
+Rhaid ichi—
+(a)
+rhoi ar gael i ddarparwr gofal sylfaenol fathodyn iddo ei wisgo neu i’w staff ei wisgo i gyfleu eu bod yn gallu siarad Cymraeg, a
+(b)
+hybu i ddarparwr gofal sylfaenol wisgo’r bathodyn.
+Safon 68:
+Rhaid ichi ddarparu cyrsiau hyfforddi, gwybodaeth neu gynnal digwyddiadau fel y gall darparwr gofal sylfaenol ddatblygu—
+(a)
+ymwybyddiaeth o’r Gymraeg (gan gynnwys ymwybyddiaeth o’i hanes a’i rôl yn niwylliant Cymru); a
+(b)
+dealltwriaeth o sut y gellir defnyddio’r Gymraeg yn y gweithle.
+RHAN 2
+SAFONAU SY’N DDIBYNNOL AR SAFONAU ERAILL – AMODAU ARBENNIG
+22 Pan fydd hysbysiad cydymffurfio yn ei gwneud yn ofynnol i gorff gydymffurfio ag un o’r safonau a restrir ar res benodol yng ngholofn 1 o Dabl 1, rhaid i’r hysbysiad cydymffurfio hwnnw hefyd ei gwneud yn ofynnol i’r corff hwnnw gydymffurfio (ym mha fodd bynnag y gwêl Comisiynydd y Gymraeg yn briodol) â’r safon neu’r safonau a restrir ar y rhes honno yng ngholofn 2 (neu ag un neu ragor o’r safonau hynny pan nodir hynny).
+TABL 1
+Colofn 1 Colofn 2
+Rhes Prif safon Safon ddibynnol
+(1) Ateb gohebiaeth
+Safon 1 Safon 7
+(2) Gohebu ag aelodau o’r un aelwyd
+Safon 3 Safon 6
+(3) Gohebu â sawl person
+Safon 4
+Safon 6
+Safon 7
+(4) Safonau cyffredinol ynghylch gohebu
+Safon 5
+Safon 6
+Safon 7
+(5) Codi ymwybyddiaeth ynghylch gohebu yn Gymraeg
+Safon 7 Safon 1
+(6) Cael galwadau ffôn
+Safon 9 Safon 10
+(7) Cael galwadau ffôn
+Safon 10
+Safon 9
+Safon 13
+(8) Codi ymwybyddiaeth ynghylch gwasanaethau ffôn yn Gymraeg
+Safon 13
+Safon 10
+Safon 15
+a
+Safon 16
+(9) Cyfarfodydd â mwy nag un person
+Safon 22
+Un neu ragor o’r canlynol:
+Safon 22A
+Safon 22B
+Safon 22C
+a hefyd;
+Safon 22CH
+(10) Cyfarfodydd â mwy nag un person
+Safon 22A, 22B, 22C neu 22CH Safon 22
+(11) Cleifion mewnol
+Safon 23 Safon 23A
+(12) Cleifion mewnol
+Safon 23A Safon 23
+(13) Cyfarfodydd cyhoeddus
+Safon 26 Safon 29
+(14) Cyfarfodydd cyhoeddus
+Safon 29 Safon 26
+(15) Dogfennau a ffurflenni
+Safon 36 neu 37 Safon 38
+(16) Gwefannau
+Safon 39, 40 neu 41 Safon 42
+(17) Arwyddion a hysbysiadau
+Safon 47 neu 48 Safon 49
+(18) Derbynfa
+Safon 50
+Safon 52
+Safon 53
+(19) Derbynfa
+Safon 51 Safon 52
+(20) Codi ymwybyddiaeth ynghylch gwasanaethau Cymraeg mewn derbynfa
+Safon 52
+Un neu ragor o’r canlynol:
+Safon 50
+Safon 51
+(21) Grantiau
+Safon 55 Safon 56
+(22) Contractau
+Safon 58 Safon 59
+RHAN 3
+DEHONGLI’R SAFONAU
+23 Rhaid dehongli’r safonau a bennir yn Rhan 1 o’r Atodlen hon fel a ganlyn.
+24
+Nid yw’r safonau a bennir ond yn gymwys i’r graddau y mae corff yn—
+(a)
+cyflenwi gwasanaethau i berson, neu
+(b)
+yn delio ag unrhyw berson arall mewn cysylltiad â chyflenwi gwasanaethau—
+(i)
+i’r person arall hwnnw, neu
+(ii)
+i drydydd person.
+25 Nid yw’r safonau yn gymwys i’r graddau y mae’r gweithgaredd a gyflawnir neu’r gwasanaeth a ddarperir yn ymwneud ag ymchwil.
+26 Nid yw’n ofynnol i gorff lunio, arddangos nac anfon deunydd yn Gymraeg i’r graddau y mae deddfiad arall wedi pennu geiriad dogfen, arwydd neu ffurflen a fyddai’n groes i’r gofyniad hwnnw.
+27
+At ddibenion y safonau—
+(a)
+nid yw gofyniad i lunio unrhyw ddeunydd ysgrifenedig i’w anfon, i’w gyhoeddi, i’w arddangos, i’w roi ar gael neu i’w ddyroddi yn Gymraeg yn golygu mai dim ond yn Gymraeg y dylid llunio’r deunydd, ei anfon, ei gyhoeddi, ei arddangos, ei roi ar gael neu ei ddyroddi, nac yn golygu y dylid llunio’r deunydd yn Gymraeg yn gyntaf (oni bai bod hynny’n cael ei nodi’n benodol yn y safon);
+(b)
+nid yw gofyniad bod gwasanaeth i gael ei ddarparu yn Gymraeg yn golygu mai dim ond yn Gymraeg y dylid darparu’r gwasanaeth hwnnw (oni bai bod hynny’n cael ei ddatgan yn benodol yn y safon).
+28
+(1) Nid yw’n ofynnol i gorff gyfieithu i’r Gymraeg unrhyw destun nad yw wedi ei lunio (“testun A”).
+(2) Ni fydd corff yn trin y Gymraeg yn llai ffafriol os nad yw’n cyfieithu testun A i’r Gymraeg ond gweler is-baragraff (3).
+(3) Rhaid i gorff ddefnyddio’r fersiwn Gymraeg o destun A os yw person arall wedi llunio testun A yn Gymraeg yn unol—
+(a)
+â’i Gynllun Iaith Gymraeg;
+(b)
+â dyletswydd i gydymffurfio â safonau;
+(c)
+â Rheolau Sefydlog y Cynulliad;
+(ch)
+ag adran 35(1C) o Ddeddf 2006; neu
+(d)
+â Chynllun Ieithoedd Swyddogol Comisiwn y Cynulliad.
+(4) Yn y paragraff hwn—
+(a)
+ystyr “Cynllun Iaith Gymraeg” yw cynllun iaith Gymraeg a lunnir yn unol â Rhan 2 o Ddeddf yr Iaith Gymraeg 1993(1);
+(b)
+ystyr “dyletswydd i gydymffurfio â safonau” yw dyletswydd i gydymffurfio â safon o dan adran 25 o Fesur y Gymraeg (Cymru) 2011;
+(c)
+ystyr “Deddf 2006” yw Deddf Llywodraeth Cymru 2006(2);
+(ch)
+ystyr “Rheolau Sefydlog y Cynulliad” yw rheolau sefydlog a wnaed o dan adran 31 o Ddeddf 2006;
+(d)
+ystyr “Cynllun Ieithoedd Swyddogol Comisiwn y Cynulliad” yw’r Cynllun a fabwysiadwyd ac a gyhoeddwyd o dan baragraff 8 o Atodlen 2 i Ddeddf 2006.
+29
+(1) Os—
+(a)
+bodlonir yr amodau ym mharagraffau (i) i (iii), neu
+(b)
+bodlonir yr amod yn is-baragraff (2),
+nid yw’n ofynnol i berson neu gorff a restrir yn Atodlen 1 i Ddeddf Argyfyngau Sifil Posibl 2004(3) (“Deddf 2004”) gydymffurfio ag unrhyw un neu ragor o’r safonau mewn cysylltiad â gweithgaredd neu wasanaeth y cyfeirir ato ym mharagraff (ii)—
+(i)
+yr amod cyntaf yw bod argyfwng wedi digwydd, yn digwydd neu ar fin digwydd;
+(ii)
+yr ail amod yw bod y gweithgaredd sy’n cael ei gyflawni neu’r gwasanaeth sy’n cael ei ddarparu gan y person neu’r corff yn angenrheidiol at ddiben atal, rheoli neu leddfu agwedd ar argyfwng neu effaith argyfwng; a
+(iii)
+y trydydd amod yw bod yr angen am y gweithgaredd neu’r gwasanaeth y cyfeirir ato ym mharagraff (ii) yn daer.
+(2) Yr amod yw bod y person neu’r corff yn ymgymryd ag ymarfer argyfwng.
+(3) Yn y paragraff hwn, mae i “argyfwng” yr un ystyr ag a roddir i “emergency” yn adran 1 o Ddeddf 2004 yn ddarostyngedig i is-baragraff (4).
+(4) Os bodlonir yr amod yn is-baragraff (2), yna mae’r cyfeiriad at “argyfwng” yn is-baragraff (1)(ii) i gael ei ddarllen fel “y ffug sefyllfa argyfwng”.
+30
+(1) Pan na fo’r argyfwng yn argyfwng o fewn ystyr paragraff 29, a—
+(a)
+bodlonir yr amodau ym mharagraffau (i) i (iii), neu
+(b)
+bodlonir yr amod yn is-baragraff (2),
+nid yw’n ofynnol i gorff gydymffurfio ag unrhyw un neu ragor o’r safonau mewn cysylltiad â gweithgaredd neu wasanaeth y cyfeirir ato ym mharagraff (ii)—
+(i)
+yr amod cyntaf yw bod argyfwng wedi digwydd, yn digwydd neu ar fin digwydd;
+(ii)
+yr ail amod yw bod y gweithgaredd sy’n cael ei gyflawni neu’r gwasanaeth sy’n cael ei ddarparu gan y corff yn angenrheidiol at ddiben atal, rheoli neu leddfu agwedd ar argyfwng neu effaith argyfwng; a
+(iii)
+y trydydd amod yw bod yr angen am y gweithgaredd neu’r gwasanaeth y cyfeirir ato ym mharagraff (ii) yn daer a’i fod yn digwydd y tu allan i adeilad ysbyty.
+(2) Yr amod yw bod y corff yn ymgymryd ag ymarfer argyfwng.
+(3) Os bodlonir yr amod yn is-baragraff (2), yna mae’r cyfeiriad at “argyfwng” yn is-baragraff (1)(ii) i gael ei ddarllen fel “y ffug sefyllfa argyfwng”.
+31
+(1) Pan fo corff yn ymateb i’r hysbysiad am glefyd, haint, cyfrwng achosol neu halogi a amheuir o fewn ystyr Deddf Iechyd y Cyhoedd (Rheoli Clefydau) 1984(4) (“Deddf 1984”) neu unrhyw reoliadau a wneir o dan Ddeddf 1984, ac—
+(a)
+bodlonir yr amodau ym mharagraffau (i) a (ii), neu
+(b)
+bodlonir yr amod yn is-baragraff (2),
+nid yw’n ofynnol i gorff gydymffurfio ag unrhyw un neu ragor o’r safonau mewn cysylltiad â gweithgaredd neu wasanaeth y cyfeirir ato ym mharagraff (ii)—
+(i)
+yr amod cyntaf yw bod swyddog priodol (o fewn ystyr Deddf 1984) yn penderfynu bod yr achos yn daer; a
+(ii)
+yr ail amod yw bod y gweithgaredd sy’n cael ei gyflawni neu’r gwasanaeth sy’n cael ei ddarparu gan y corff yn angenrheidiol at ddiben atal, rheoli neu leddfu agwedd ar glefyd, haint, halogi neu’r cyfrwng achosol neu effaith un o’r rheini.
+(2) Yr amod yw bod y corff yn ymgymryd ag ymarfer argyfwng.
+(3) Os bodlonir yr amod yn is-baragraff (2), yna mae’r cyfeiriad at “clefyd, haint, halogi neu gyfrwng achosol” yn is-baragraff (1)(ii) i gael ei ddarllen fel “y ffug glefyd, haint, halogi neu gyfrwng achosol”.
+32 At ddibenion safonau 2, 3 a 19, mae corff yn gohebu ag unigolyn neu’n ffonio unigolyn am y tro cyntaf pan fydd yn gohebu neu’n ffonio’r person am y tro cyntaf ar ôl y dyddiad y mae hysbysiad cydymffurfio wedi ei gwneud yn ofynnol i’r corff gydymffurfio â’r safon.
+33 Nid yw safonau 1 i 5 yn gymwys i ohebiaeth sy’n cynnwys adroddiad ymgynghoriad clinigol (gan gynnwys, er enghraifft, ganlyniadau profion).
+34 Nid yw safonau 4 a 5 yn gymwys i ohebiaeth rhwng corff a pherson (nad yw’n unigolyn) ynghylch un neu ragor o unigolion.
+35
+Nid yw safonau 8 i 10 a 13 i 16 yn gymwys i alwadau a wneir i’r rhifau ffôn a ganlyn—
+(a)
+999;
+(b)
+112.
+36 Nid yw safon 19 yn gymwys i’r graddau y mae’r gweithgaredd a gyflawnir neu’r gwasanaeth a ddarperir yn ymwneud â gwasanaeth gofal sylfaenol.
+37 Yn safon 20, ystyr system ffôn “wedi ei hawtomeiddio” yw system sy’n ateb galwadau ffôn ac yn arwain personau drwy drefn benodedig gyda neges wedi ei recordio sy’n gofyn, er enghraifft, i berson bwyso bysellau gwahanol er mwyn dewis opsiynau gwahanol.
+38
+(1) Nid yw’r safonau yn is-baragraff (2) yn gymwys i gyfarfod rhwng y corff ac un neu ragor o bersonau i drafod asesu, diagnosio neu drin un neu ragor o unigolion a enwir ac nad yw’r un o’r unigolion hynny yn bresennol yn y cyfarfod hwnnw.
+(2) Y safonau y cyfeirir atynt yn is-baragraff (1) yw—
+(a)
+safonau 8 i 20 (galwadau ffôn);
+(b)
+safonau 21 i 22CH (cyfarfodydd);
+(c)
+safonau 26 i 30 (cyfarfodydd sy’n agored i’r cyhoedd);
+(ch)
+safon 32 (digwyddiadau cyhoeddus);
+(d)
+safonau 39 i 44 (gwefannau a gwasanaethau ar-lein);
+(dd)
+safonau 45 a 46 (cyfryngau cymdeithasol).
+39
+(1) Nid yw’r safonau yn is-baragraff (2) yn gymwys i ymgynghoriad clinigol na chynhadledd achos (gweler safonau 23 i 24 ar gyfer cleifion mewnol a safon 25 ar gyfer cynadleddau achos).
+(2) Y safonau y cyfeirir atynt yn is-baragraff (1) yw—
+(a)
+safonau 8 i 20 (galwadau ffôn);
+(b)
+safonau 21 i 22CH (cyfarfodydd);
+(c)
+safonau 26 i 30 (cyfarfodydd sy’n agored i’r cyhoedd);
+(ch)
+safon 32 (digwyddiadau cyhoeddus);
+(d)
+safonau 39 i 44 (gwefannau a gwasanaethau ar-lein);
+(dd)
+safonau 45 a 46 (cyfryngau cymdeithasol).
+40
+(3) Yn safon 25—
+(a)
+ystyr “diwrnod gwaith” yw unrhyw ddiwrnod ac eithrio dydd Sadwrn, dydd Sul neu ddiwrnod sy’n ŵyl banc o fewn ystyr adran 1 o Ddeddf Bancio a Thrafodion Ariannol 1971 neu sy’n ŵyl gyhoeddus arall;
+(b)
+nid yw “diwrnod gwaith” yn cynnwys y diwrnod yr anfonwyd y gwahoddiad.
+41
+Nid yw safon 32 yn gymwys i—
+(a)
+perfformiadau o gerddoriaeth;
+(b)
+cynyrchiadau artistig neu ddramatig;
+(c)
+seminarau neu gyflwyniadau llafar sy’n ymwneud â’r perfformiad neu’r cynhyrchiad; nac i
+(ch)
+unrhyw recordiad o’r perfformiad, y cynhyrchiad, y seminar neu’r cyflwyniad llafar.
+42 Nid yw safonau 32 a 64 yn gymwys pan wneir y neges y byddwch yn ei chyhoeddi dros system annerch gyhoeddus yn ystod argyfwng neu ymarfer argyfwng.
+43
+Pan fo safon yn cyfeirio at ddeunydd sydd i’w lunio yn Gymraeg (ac eithrio safonau 39 i 44 (gwefannau ac apiau), 45 a 46 (cyfryngau cymdeithasol) a 57 (gwahoddiadau i dendro)), mae cyfeiriadau at beidio â thrin y Gymraeg yn llai ffafriol na’r Saesneg neu at beidio â thrin fersiwn Gymraeg yn llai ffafriol na fersiwn Saesneg yn cynnwys, ymysg materion eraill, (ac yn ychwanegol at faterion penodol y cyfeirir atynt mewn unrhyw safon unigol), peidio â thrin y Gymraeg yn llai ffafriol o ran—
+(a)
+golwg y deunydd (er enghraifft mewn perthynas â lliw neu ffont unrhyw destun);
+(b)
+maint y deunydd;
+(c)
+lleoliad ac amlygrwydd y deunydd mewn unrhyw fan cyhoeddus;
+(ch)
+pryd a sut y caiff y deunydd ei gyhoeddi, ei ddarparu neu ei arddangos; neu
+(d)
+fformat cyhoeddi y deunydd.
+44 At ddibenion safon 37, nid yw’r cyfeiriadau at ddogfennau neu ddeunyddiau eraill sydd ar gael i un neu ragor o unigolion yn cynnwys dogfennau neu ddeunyddiau nad ydynt ond ar gael i unigolion yn rhinwedd Deddf Rhyddid Gwybodaeth 2000(5).
+45
+(1) Nid yw safonau 36 a 38 yn gymwys i’r ffurflenni a restrir yn is-baragraff (3).
+(2) At ddibenion safon 2, nid yw’n ofynnol i gorff anfon fersiwn Gymraeg o’r ffurflenni a restrir yn is-baragraff (3).
+(3) Y ffurflenni yw—
+(a)
+ffurflenni a ddefnyddir gan gorff i recriwtio cyflogeion (gweler safonau 107A a 108 mewn perthynas â recriwtio);
+(b)
+ffurflenni a ddefnyddir wrth wneud cais am gymorth grant gan gorff (gweler safonau 54 i 56 mewn perthynas â cheisiadau am grantiau); ac
+(c)
+ffurflenni a ddefnyddir pan gyflwynir tendr i gontractio gyda chorff (gweler safonau 57 i 59 mewn perthynas â thendro am gontract).
+46
+Nid yw safonau 36 i 38 yn gymwys—
+(a)
+i ddeddfiad a wneir gan gorff neu i ddeddfiad drafft a lunnir gan gorff;
+(b)
+i unrhyw ddeunydd hysbysebu a gynhwysir mewn dogfen;
+(c)
+i reolau a bennir mewn deddfiad neu mewn deddfiad drafft a lunnir gan gorff; nac i
+(ch)
+pan fydd ffurflen neu ddogfen a lunnir gan y corff yn darparu gwybodaeth mewn perthynas ag unigolyn a enwir.
+47
+Nid yw safonau 39 i 43 (gwefannau) yn gymwys i—
+(a)
+dogfennau y darperir dolen iddynt ar wefan, deunydd hysbysebu ar wefan, na chlipiau fideo a sain ar wefan (gweler safonau 36 i 38 am ddarpariaeth benodol mewn perthynas â dogfennau, a safon 33 mewn perthynas â deunydd hysbysebu a lunnir gan gorff);
+(b)
+gwybodaeth a gyflwynir gan bersonau (ac eithrio’r corff) ar dudalen ryngweithiol a gyhoeddir ar wefan corff (er enghraifft, ar adran ar gyfer sylwadau, neu ar fforwm drafod); nac i
+(c)
+tudalen we sy’n cynnwys adroddiad ymgynghoriad clinigol (gan gynnwys, er enghraifft, ganlyniadau profion).
+48
+(1) At ddiben safon 44, ystyr “ap” yw cymhwysiad meddalwedd sydd wedi ei gynllunio i gyflawni tasg benodol ar ddyfais electronig.
+(2) Nid yw safon 44 yn gymwys i unrhyw ddeunydd hysbysebu ar ap (gweler safon 33 mewn perthynas â deunydd hysbysebu a lunnir gan gorff).
+49
+At ddiben safonau 39 i 41 (gwefannau), 44 (apiau) a 45 (cyfryngau cymdeithasol), mae cyfeiriadau at beidio â thrin y Gymraeg yn llai ffafriol na’r Saesneg yn cynnwys, ymysg materion eraill (ac yn ychwanegol at faterion penodol y cyfeirir atynt mewn unrhyw safon unigol), peidio â thrin y Gymraeg yn llai ffafriol o ran—
+(a)
+golwg y deunydd (er enghraifft, mewn perthynas â lliw, maint, ffont a fformat unrhyw destun), neu
+(b)
+pan gyhoeddir deunydd ar y wefan, yr ap neu’r cyfryngau cymdeithasol;
+ond nid yw’n golygu bod rhaid i ddeunydd Cymraeg ymddangos ar yr un dudalen â deunydd Saesneg, nac ar dudalen y mae person yn debygol o ddod o hyd iddi cyn y dudalen Saesneg wrth chwilio.
+50
+(1) Nid yw safonau 1 i 7 (gohebu) yn gymwys i ohebiaeth a anfonir drwy’r cyfryngau cymdeithasol (gweler safonau 45 a 46 mewn perthynas â’r cyfryngau cymdeithasol).
+(2) Nid yw safonau 39 i 44 (gwefannau ac apiau) yn gymwys i’r cyfryngau cymdeithasol (gweler safonau 45 a 46 mewn perthynas â’r cyfryngau cymdeithasol).
+51
+Nid yw safonau 45 a 46 (cyfryngau cymdeithasol) yn gymwys i—
+(a)
+dogfennau y darperir dolen iddynt drwy’r cyfryngau cymdeithasol, nac i glipiau fideo a sain a ddarperir drwy’r cyfryngau cymdeithasol (gweler safonau 36 i 38 am ddarpariaeth benodol mewn perthynas â dogfennau, a safon 33 mewn perthynas â deunydd hysbysebu a lunnir gan gorff);
+(b)
+gwybodaeth a gyflwynir gan bersonau (ac eithrio’r corff) ar gyfrif cyfryngau cymdeithasol corff (er enghraifft, ar adran ar gyfer sylwadau); nac i
+(c)
+gwybodaeth a anfonir drwy’r cyfryngau cymdeithasol sy’n cynnwys adroddiad ymgynghoriad clinigol (gan gynnwys, er enghraifft, ganlyniadau profion).
+52
+At ddibenion safonau 50 i 53 (derbyn ymwelwyr)—
+(a)
+ystyr “derbynfa” yw ardal yn ysbytai, swyddfeydd a lleoliadau gwasanaeth corff lle croesawu personau yw prif rôl staff; a
+(b)
+ystyr “gwasanaeth derbynfa” yw gwasanaeth croesawu personau i ysbytai, swyddfeydd neu leoliadau gwasanaeth y corff gan staff y mae eu prif rôl at y diben hwnnw.
+53 At ddibenion safonau 7 a 47 i 49, ystyr “hysbysiad” yw unrhyw hysbysiad y mae corff yn ei gyhoeddi, ond nid yw’n cynnwys hysbysiadau a ragnodir gan ddeddfiad.
+54
+At ddibenion safon 57 (gwahoddiad i dendro)—
+(a)
+nid yw’n ofynnol i gorff gyhoeddi gwahoddiad i dendro yn Gymraeg yng Nghyfnodolyn Swyddogol yr Undeb Ewropeaidd.
+(b)
+mae cyfeiriad at beidio â thrin fersiwn Gymraeg yn llai ffafriol na fersiwn Saesneg yn cynnwys, ymysg materion eraill, peidio â thrin y Gymraeg yn llai ffafriol o ran—
+(i)
+golwg y deunydd (er enghraifft mewn perthynas â lliw neu ffont unrhyw destun);
+(ii)
+maint y deunydd;
+(iii)
+lleoliad ac amlygrwydd y deunydd mewn unrhyw fan cyhoeddus;
+(iv)
+pryd a sut y caiff y deunydd ei gyhoeddi, ei ddarparu neu ei arddangos; neu
+(v)
+fformat cyhoeddi unrhyw ddeunydd;
+ond ni fydd corff yn trin y Gymraeg yn llai ffafriol na’r Saesneg drwy beidio â chyhoeddi gwahoddiad i dendro yn Gymraeg yng Nghyfnodolyn Swyddogol yr Undeb Ewropeaidd.
+55
+(1) At ddibenion safon 62, mae’r cyfeiriad at gorff yn llunio neu’n cyflwyno ei “hunaniaeth gorfforaethol” yn cynnwys, ymysg pethau eraill, y ffordd y mae corff yn ei gyflwyno ei hun drwy ddatganiadau gweledol, yr enw neu’r enwau a ddefnyddir gan gorff, a’r brandio a’r sloganau a ddefnyddir gan gorff (er enghraifft, brandio a sloganau a argraffir ar ei bapur ysgrifennu).
+(2) Nid yw safon 62 yn berthnasol i’r graddau y mae deddfiad yn ei gwneud yn ofynnol i gorff ddefnyddio enw cyfreithiol.
+56
+At ddibenion safon 63 (cyrsiau), ystyr “cwrs addysg” yw unrhyw seminar, hyfforddiant, gweithdy neu ddarpariaeth debyg sy’n cael ei ddarparu neu ei darparu ar gyfer addysgu neu wella sgiliau unigolion; ond nid yw’n cynnwys—
+(a)
+cwrs addysg sy’n paratoi cyfranogwr ar gyfer cymhwyster neu arholiad;
+(b)
+cwrs addysg pan fo mwyafrif y cyfranogwyr yn ymgymryd â’r cwrs fel rhan o’u datblygiad proffesiynol;
+(c)
+cwrs addysg pan fydd mwyafrif y cyfranogwyr yn aelodau o staff; na
+(ch)
+cwrs addysg y telir ffi amdano.
+57
+At ddibenion y safonau, ystyr “deddfiad” yw deddfiad (pa bryd bynnag y cafodd ei ddeddfu neu ei wneud) sydd wedi ei gynnwys mewn unrhyw un o’r canlynol, neu mewn offeryn a wneir o dan un o’r canlynol—
+(a)
+Deddf Seneddol; neu
+(b)
+Mesur neu Ddeddf gan Gynulliad Cenedlaethol Cymru.
+(1)
+1993 p. 38.
+(2)
+2006 p. 32.
+(3)
+2004 p. 36.
+(4)
+1984 p. 22.
+(5)
+2000 p. 36.Rheoliad 2(2)
+ATODLEN 2
+Safonau llunio polisi
+RHAN 1
+Y SAFONAU
+1 Safonau ynghylch ystyried effeithiau penderfyniadau polisi a wneir gan gorff ar y Gymraeg
+Safon 69:
+Pan fyddwch yn llunio polisi newydd, neu’n adolygu neu’n addasu polisi sydd eisoes yn bodoli, rhaid ichi ystyried pa effeithiau, os o gwbl (pa un ai yw’r rheini’n bositif neu’n andwyol) y byddai’r penderfyniad polisi yn eu cael ar—
+(a)
+cyfleoedd i bersonau ddefnyddio’r Gymraeg, a
+(b)
+peidio â thrin y Gymraeg yn llai ffafriol na’r Saesneg.
+Safon 70:
+Pan fyddwch yn llunio polisi newydd, neu’n adolygu neu’n addasu polisi sydd eisoes yn bodoli, rhaid ichi ystyried sut y gellid llunio’r polisi (neu sut y gellid newid polisi sydd eisoes yn bodoli) fel y byddai’r penderfyniad polisi’n cael effeithiau positif, neu effeithiau mwy positif, ar—
+(a)
+cyfleoedd i bersonau ddefnyddio’r Gymraeg, a
+(b)
+peidio â thrin y Gymraeg yn llai ffafriol na’r Saesneg.
+Safon 71:
+Pan fyddwch yn llunio polisi newydd, neu’n adolygu neu’n addasu polisi sydd eisoes yn bodoli, rhaid ichi ystyried sut y gellid llunio’r polisi (neu sut y gellid newid polisi sydd eisoes yn bodoli) fel na fyddai’r penderfyniad polisi’n cael effeithiau andwyol, neu fel y byddai’n cael effeithiau llai andwyol, ar—
+(a)
+cyfleoedd i bersonau ddefnyddio’r Gymraeg, a
+(b)
+peidio â thrin y Gymraeg yn llai ffafriol na’r Saesneg.
+Safon 72:
+Pan fyddwch yn cyhoeddi dogfen ymgynghori sy’n ymwneud â phenderfyniad polisi, rhaid i’r ddogfen honno ystyried a cheisio barn ynghylch yr effeithiau (pa un ai yw’r rheini’n bositif neu’n andwyol) y byddai’r penderfyniad polisi o dan ystyriaeth yn eu cael ar—
+(a)
+cyfleoedd i bersonau ddefnyddio’r Gymraeg, a
+(b)
+peidio â thrin y Gymraeg yn llai ffafriol na’r Saesneg.
+Safon 73:
+Pan fyddwch yn cyhoeddi dogfen ymgynghori sy’n ymwneud â phenderfyniad polisi, rhaid i’r ddogfen honno ystyried a cheisio barn ynghylch sut y gellid llunio neu addasu’r polisi o dan ystyriaeth fel y byddai’n cael effeithiau positif, neu effeithiau mwy positif, ar—
+(a)
+cyfleoedd i bersonau ddefnyddio’r Gymraeg, a
+(b)
+peidio â thrin y Gymraeg yn llai ffafriol na’r Saesneg.
+Safon 74:
+Pan fyddwch yn cyhoeddi dogfen ymgynghori sy’n ymwneud â phenderfyniad polisi, rhaid i’r ddogfen honno ystyried a cheisio barn ynghylch sut y gellid llunio neu addasu’r polisi o dan ystyriaeth fel na fyddai’n cael effeithiau andwyol, neu fel y byddai’n cael effeithiau llai andwyol, ar—
+(a)
+cyfleoedd i bersonau ddefnyddio’r Gymraeg, a
+(b)
+peidio â thrin y Gymraeg yn llai ffafriol na’r Saesneg.
+Safon 75:
+Pan fyddwch yn comisiynu neu’n gwneud gwaith ymchwil y bwriedir i’ch cynorthwyo i wneud penderfyniad polisi, rhaid ichi sicrhau bod yr ymchwil yn ystyried pa effeithiau, os o gwbl (a pha un ai ydynt yn rhai positif neu’n rhai andwyol), y byddai’r penderfyniad polisi sydd o dan ystyriaeth yn eu cael ar—
+(a)
+cyfleoedd i bersonau ddefnyddio’r Gymraeg, a
+(b)
+peidio â thrin y Gymraeg yn llai ffafriol na’r Saesneg.
+Safon 76:
+Pan fyddwch yn comisiynu neu’n gwneud gwaith ymchwil y bwriedir i’ch cynorthwyo i wneud penderfyniad polisi, rhaid ichi sicrhau bod yr ymchwil yn ystyried sut y gellid gwneud y penderfyniad polisi sydd o dan ystyriaeth fel y byddai’n cael effeithiau positif, neu effeithiau mwy positif, ar—
+(a)
+cyfleoedd i bersonau ddefnyddio’r Gymraeg, a
+(b)
+peidio â thrin y Gymraeg yn llai ffafriol na’r Saesneg.
+Safon 77:
+Pan fyddwch yn comisiynu neu’n gwneud gwaith ymchwil y bwriedir i’ch cynorthwyo i wneud penderfyniad polisi, rhaid ichi sicrhau bod yr ymchwil yn ystyried sut y gellid gwneud y penderfyniad polisi sydd o dan ystyriaeth fel na fyddai’n cael effeithiau andwyol, neu fel y byddai’n cael effeithiau llai andwyol, ar—
+(a)
+cyfleoedd i bersonau ddefnyddio’r Gymraeg, a
+(b)
+peidio â thrin y Gymraeg yn llai ffafriol na’r Saesneg.
+Safon 78:
+Rhaid ichi gyhoeddi polisi ar ddarparu gwasanaeth gofal sylfaenol sy’n ei gwneud yn ofynnol ichi ystyried y canlynol pan fyddwch yn gwneud penderfyniadau mewn perthynas â darparu gwasanaeth gofal sylfaenol—
+(a)
+pa effeithiau, os o gwbl (a pha un a yw’r rheini’n bositif neu’n andwyol), y byddai’r penderfyniad yn eu cael ar—
+(i)
+cyfleoedd i bersonau i ddefnyddio’r Gymraeg, a
+(ii)
+peidio â thrin y Gymraeg yn llai ffafriol na’r Saesneg;
+(b)
+sut y gellid gwneud neu weithredu’r penderfyniad hwnnw fel y byddai’n cael effeithiau positif, neu effeithiau mwy positif, ar—
+(i)
+cyfleoedd i bersonau i ddefnyddio’r Gymraeg, a
+(ii)
+peidio â thrin y Gymraeg yn llai ffafriol na’r Saesneg; ac
+(c)
+sut y gellid gwneud neu weithredu’r penderfyniad fel na fyddai’n cael effeithiau andwyol, neu fel y byddai’n cael effeithiau llai andwyol ar—
+(i)
+cyfleoedd i bersonau i ddefnyddio’r Gymraeg, a
+(ii)
+peidio â thrin y Gymraeg yn llai ffafriol na’r Saesneg.
+Safon 78A:
+Pan ddaw 5 mlynedd ar ôl cyhoeddi’r polisi i ben yn unol â safon 78 (pa un a yw diwygiadau wedi eu gwneud i’r polisi hwnnw ai peidio) a phan ddaw pob cyfnod dilynol o 5 mlynedd i ben, rhaid ichi—
+(a)
+asesu i ba raddau yr ydych wedi cydymffurfio â’r polisi; a
+(b)
+cyhoeddi’r asesiad hwnnw ar eich gwefan o fewn 6 mis i ddiwedd y cyfnod.
+RHAN 2
+SAFONAU SY’N DDIBYNNOL AR SAFONAU ERAILL – AMODAU ARBENNIG
+2 Pan fydd hysbysiad cydymffurfio yn ei gwneud yn ofynnol i gorff gydymffurfio ag un o’r safonau a restrir ar res benodol yng ngholofn 1 o Dabl 1, rhaid i’r hysbysiad cydymffurfio hwnnw hefyd ei gwneud yn ofynnol i’r corff hwnnw gydymffurfio (ym mha fodd bynnag y gwêl Comisiynydd y Gymraeg yn briodol) â’r safon neu’r safonau a restrir ar y rhes honno yng ngholofn 2.
+TABL 1
+Colofn 1 Colofn 1
+Rhes Prif safon Safon ddibynnol
+(1) Polisi ar wasanaethau gofal sylfaenol
+Safon 78A Safon 78
+RHAN 3
+DEHONGLI’R SAFONAU
+3
+Yn Rhan 1 o’r Atodlen hon, ystyr “penderfyniad polisi” yw unrhyw benderfyniad a wneir gan gorff sy’n ymwneud ag arfer ei swyddogaethau neu gynnal ei fusnes neu ymgymeriad arall, ac mae hynny’n cynnwys, ymysg pethau eraill (ac fel y bo’n briodol i’r corff), penderfyniadau ynghylch—
+(a)
+arfer pwerau statudol;
+(b)
+cynnwys datganiadau polisi;
+(c)
+strategaethau neu gynlluniau strategol;
+(ch)
+strwythurau mewnol a lleoliadau mangreoedd; neu
+(d)
+recriwtio neu ddefnyddio gwirfoddolwyr.
+4 Yn Rhan 1 o’r Atodlen hon, mae cyfeiriad at effeithiau positif neu effeithiau andwyol yn gyfeiriad at yr effeithiau hynny pa un ai ydynt yn uniongyrchol neu’n anuniongyrchol.
+5 Nid yw safonau 75 i 77 yn gymwys i’r graddau y mae’r ymchwil a gomisiynir neu yr ymgymerir â hi yn ymchwil feddygol neu’n ymwneud ag ymchwil feddygol.Rheoliad 2(3)
+ATODLEN 3
+Safonau gweithredu
+RHAN 1
+Y SAFONAU
+1 Safonau ynghylch defnyddio’r Gymraeg o fewn gweinyddiaeth fewnol corff
+Safon 79: Rhaid ichi ddatblygu polisi ar ddefnyddio’r Gymraeg yn fewnol, gyda’r bwriad o hybu a hwyluso defnyddio’r Gymraeg, a rhaid ichi gyhoeddi’r polisi hwnnw ar eich mewnrwyd.
+Safon 80: Pan fyddwch yn cynnig swydd newydd i unigolyn, rhaid ichi ofyn i’r unigolyn hwnnw a yw’n dymuno i’r contract cyflogaeth neu gontract am wasanaethau gael ei ddarparu yn Gymraeg; ac os yw’r unigolyn yn dymuno hynny rhaid ichi ddarparu’r contract yn Gymraeg.
+Safon 81:
+Rhaid ichi ofyn i bob cyflogai (“A”) a yw’n dymuno cael unrhyw un neu ragor o’r canlynol yn Gymraeg, ac os yw A yn dymuno cael un neu ragor yn Gymraeg rhaid ichi ei ddarparu (neu eu darparu) i A yn Gymraeg—
+(a)
+unrhyw ohebiaeth bapur sy’n ymwneud â’i gyflogaeth ac sydd wedi ei chyfeirio ato;
+(b)
+unrhyw ddogfennau sy’n amlinellu ei anghenion neu ofynion hyfforddi;
+(c)
+unrhyw ddogfennau sy’n amlinellu ei amcanion perfformiad;
+(ch)
+unrhyw ddogfennau sy’n amlinellu neu’n cofnodi ei gynllun gyrfa;
+(d)
+unrhyw ffurflenni sy’n cofnodi ac yn awdurdodi gwyliau blynyddol;
+(dd)
+unrhyw ffurflenni sy’n cofnodi ac yn awdurdodi absenoldebau o’r gwaith;
+(e)
+unrhyw ffurflenni sy’n cofnodi ac yn awdurdodi oriau gweithio hyblyg.
+Safon 82:
+Os byddwch yn cyhoeddi unrhyw un neu ragor o’r canlynol, rhaid ichi ei gyhoeddi yn Gymraeg—
+(a)
+polisi ynghylch ymddygiad yn y gweithle;
+(b)
+polisi ynghylch iechyd a lles yn y gwaith;
+(c)
+polisi ynghylch cyflogau neu fuddion yn y gweithle;
+(ch)
+polisi ynghylch rheoli perfformiad;
+(d)
+polisi ynghylch absenoldeb o’r gwaith;
+(dd)
+polisi ynghylch amodau gwaith;
+(e)
+polisi ynghylch patrymau gwaith.
+2 Safonau ynghylch cwynion a wneir gan aelod o staff corff
+Safon 83:
+Rhaid ichi ganiatáu a datgan mewn unrhyw ddogfen sydd gennych sy’n nodi eich gweithdrefnau ar gyfer gwneud cwynion y caiff pob aelod o staff—
+(a)
+gwneud cwyn ichi yn Gymraeg, a
+(b)
+ymateb i gŵyn a wnaed amdano ef yn Gymraeg;
+a rhaid ichi hefyd roi gwybod i bob aelod o staff am yr hawl honno.
+Safon 84:
+Os byddwch yn cael cwyn gan aelod o staff neu’n cael cwyn ynghylch aelod o staff, a bod angen cyfarfod â’r aelod hwnnw o staff, rhaid ichi—
+(a)
+cynnig cynnal y cyfarfod yn Gymraeg neu, os oes angen, ddarparu gwasanaeth cyfieithu o’r Gymraeg i’r Saesneg at y diben hwnnw; a
+(b)
+os yw’r aelod o staff yn dymuno i’r cyfarfod gael ei gynnal yn Gymraeg, cynnal y cyfarfod yn Gymraeg neu, os oes angen, gyda chymorth gwasanaeth cyfieithu ar y pryd neu wasanaeth cyfieithu olynol o’r Gymraeg i’r Saesneg.
+Safon 85:
+Pan fyddwch yn rhoi gwybod i aelod o staff (“A”) beth yw’ch penderfyniad mewn perthynas â chŵyn a wneir ganddo, neu mewn perthynas â chŵyn a wneir amdano, rhaid ichi wneud hynny yn Gymraeg os yw A—
+(a)
+wedi gwneud y gŵyn yn Gymraeg,
+(b)
+wedi ymateb yn Gymraeg i gŵyn amdano ef,
+(c)
+wedi gofyn bod cyfarfod ynglŷn â’r gŵyn yn cael ei gynnal yn Gymraeg, neu
+(ch)
+wedi gofyn am gael defnyddio’r Gymraeg mewn cyfarfod ynglŷn â’r gŵyn.
+3 Safonau ynghylch corff yn disgyblu staff
+Safon 86:
+Rhaid ichi—
+(a)
+caniatáu a datgan mewn unrhyw ddogfen sydd gennych sy’n nodi eich trefniadau ar gyfer disgyblu staff y caiff unrhyw aelod o staff ymateb yn Gymraeg i unrhyw honiadau a wneir yn ei erbyn, a
+(b)
+os byddwch yn dechrau gweithdrefn ddisgyblu mewn perthynas ag aelod o staff, rhoi gwybod i’r aelod hwnnw o staff am yr hawl honno.
+Safon 87:
+Os byddwch yn trefnu cyfarfod ag aelod o staff ynghylch achos disgyblu mewn perthynas â’i ymddygiad, rhaid ichi—
+(a)
+cynnig cynnal y cyfarfod yn Gymraeg neu, os oes angen, ddarparu gwasanaeth cyfieithu o’r Gymraeg i’r Saesneg at y diben hwnnw; a
+(b)
+os yw’r aelod o staff yn dymuno i’r cyfarfod gael ei gynnal yn Gymraeg, cynnal y cyfarfod yn Gymraeg, neu os oes angen, gyda chymorth gwasanaeth cyfieithu ar y pryd neu wasanaeth cyfieithu olynol o’r Gymraeg i’r Saesneg.
+Safon 88:
+Pan fyddwch yn rhoi gwybod i aelod o staff (“A”) beth yw’ch penderfyniad yn dilyn gweithdrefn ddisgyblu, rhaid ichi wneud hynny yn Gymraeg os yw A—
+(a)
+wedi ymateb i honiadau yn ei erbyn yn Gymraeg,
+(b)
+wedi gofyn bod cyfarfod ynglŷn â’r weithdrefn ddisgyblu yn cael ei gynnal yn Gymraeg, neu
+(c)
+wedi gofyn am gael defnyddio’r Gymraeg mewn cyfarfod ynglŷn â’r weithdrefn ddisgyblu.
+4 Safonau ynghylch technoleg gwybodaeth a deunyddiau cymorth a ddarperir gan gorff, ac ynghylch y fewnrwyd
+Safon 89: Rhaid ichi ddarparu meddalwedd gyfrifiadurol ar gyfer gwirio sillafu a gramadeg y Gymraeg i’ch staff, a darparu rhyngwynebau Cymraeg ar gyfer meddalwedd (pan fo rhyngwyneb ar gael).
+Safon 90:
+Rhaid ichi sicrhau—
+(a)
+bod testun pob tudalen ar eich mewnrwyd ar gael yn Gymraeg,
+(b)
+bod pob tudalen Gymraeg ar eich mewnrwyd yn gweithredu’n llawn, ac
+(c)
+nad yw’r Gymraeg yn cael ei thrin yn llai ffafriol na’r Saesneg ar eich mewnrwyd.
+Safon 91:
+Rhaid ichi sicrhau—
+(a)
+bod testun hafan eich mewnrwyd ar gael yn Gymraeg,
+(b)
+bod unrhyw destun Cymraeg ar hafan eich mewnrwyd (neu, pan fo’n berthnasol, fod hafan Gymraeg eich mewnrwyd) yn gweithredu’n llawn, ac
+(c)
+nad yw’r Gymraeg yn cael ei thrin yn llai ffafriol na’r Saesneg mewn perthynas â hafan eich mewnrwyd.
+Safon 92:
+Bob tro y byddwch yn cyhoeddi tudalen newydd neu’n diwygio tudalen ar eich mewnrwyd, rhaid ichi sicrhau—
+(a)
+bod testun y dudalen honno ar gael yn Gymraeg,
+(b)
+bod unrhyw fersiwn Gymraeg o’r dudalen yn gweithredu’n llawn, ac
+(c)
+nad yw’r Gymraeg yn cael ei thrin yn llai ffafriol na’r Saesneg mewn perthynas â thestun y dudalen honno.
+Safon 93: Os oes gennych dudalen Gymraeg ar eich mewnrwyd sy’n cyfateb i dudalen Saesneg, rhaid ichi nodi’n glir ar y dudalen Saesneg bod y dudalen hefyd ar gael yn Gymraeg, a rhaid darparu dolen uniongyrchol i’r dudalen Gymraeg ar y dudalen Saesneg gyfatebol.
+Safon 94: Rhaid ichi neilltuo a chynnal tudalen (neu dudalennau) ar eich mewnrwyd sy’n darparu gwasanaethau a deunydd cymorth i hybu’r Gymraeg ac i gynorthwyo eich staff i ddefnyddio’r Gymraeg.
+Safon 95: Rhaid ichi ddarparu’r rhyngwyneb a’r dewislenni ar eich tudalennau mewnrwyd yn Gymraeg.
+5 Safonau ynghylch corff yn meithrin sgiliau yn y Gymraeg drwy gynllunio a hyfforddi ei weithlu
+Safon 96: Rhaid ichi asesu sgiliau Cymraeg eich cyflogeion.
+Safon 97:
+Rhaid ichi ddarparu cyfleoedd i gael hyfforddiant yn Gymraeg yn y meysydd a ganlyn, os ydych yn darparu hyfforddiant o’r fath yn Saesneg—
+(a)
+recriwtio a chyfweld;
+(b)
+rheoli perfformiad;
+(c)
+gweithdrefnau cwyno a disgyblu;
+(ch)
+ymsefydlu;
+(d)
+delio â’r cyhoedd; ac
+(dd)
+iechyd a diogelwch.
+Safon 98:
+Rhaid ichi ddarparu cyfleoedd i gael hyfforddiant yn Gymraeg ar ddefnyddio’r Gymraeg yn effeithiol mewn—
+(a)
+cyfarfodydd;
+(b)
+cyfweliadau; ac
+(c)
+gweithdrefnau cwyno a disgyblu.
+Safon 99:
+Rhaid ichi ddarparu cyfleoedd yn ystod oriau gwaith—
+(a)
+i’ch cyflogeion gael gwersi Cymraeg sylfaenol, a
+(b)
+i gyflogeion sy’n rheoli pobl eraill gael hyfforddiant ar ddefnyddio’r Gymraeg yn eu rôl fel rheolwyr.
+Safon 100: Rhaid ichi ddarparu cyfleoedd i’ch cyflogeion sydd wedi cwblhau hyfforddiant Cymraeg sylfaenol gael hyfforddiant pellach, yn rhad ac am ddim, er mwyn datblygu eu sgiliau yn yr iaith.
+Safon 101: Rhaid i chi ddarparu cyfleoedd i gyflogeion gael hyfforddiant, yn rhad ac am ddim, i wella eu sgiliau Cymraeg.
+Safon 102:
+Rhaid ichi ddarparu cyrsiau hyfforddi er mwyn i’ch cyflogeion ddatblygu—
+(a)
+ymwybyddiaeth o’r Gymraeg (gan gynnwys ymwybyddiaeth am hanes yr iaith a’i lle yn niwylliant Cymru);
+(b)
+dealltwriaeth o’r ddyletswydd i weithredu yn unol â safonau’r Gymraeg; ac
+(c)
+dealltwriaeth am y modd y gellir defnyddio’r Gymraeg yn y gweithle.
+Safon 103: Pan fyddwch yn darparu gwybodaeth i gyflogeion newydd (er enghraifft, fel rhan o broses ymsefydlu), rhaid ichi ddarparu gwybodaeth er mwyn codi eu hymwybyddiaeth o’r Gymraeg.
+Safon 104:
+Rhaid ichi ddarparu—
+(a)
+geiriad neu logo ar gyfer llofnodion e-bost eich staff sy’n eu galluogi i ddynodi a ydynt yn siarad Cymraeg yn rhugl neu’n dysgu’r iaith, a
+(b)
+geiriad ar gyfer eich cyflogeion a fydd yn eu galluogi i gynnwys fersiwn Gymraeg o’u manylion cyswllt mewn negeseuon e-bost, ac i ddarparu fersiwn Gymraeg o unrhyw neges sy’n hysbysu pobl eraill nad ydynt ar gael i ateb negeseuon e-bost.
+Safon 105:
+Rhaid ichi—
+(a)
+rhoi ar gael i aelodau’r staff sy’n gallu siarad Cymraeg fathodyn iddynt ei wisgo sy’n cyfleu hynny; a
+(b)
+hybu gwisgo’r bathodyn ymhlith aelodau’r staff.
+6 Safonau ynghylch recriwtio ac apwyntio
+Safon 106:
+Pan fyddwch yn asesu’r anghenion ar gyfer swydd newydd neu swydd wag, rhaid ichi asesu’r angen am sgiliau yn y Gymraeg, a’i chategoreiddio fel swydd pan fo un neu ragor o’r canlynol yn gymwys—
+(a)
+bod sgiliau yn y Gymraeg yn hanfodol;
+(b)
+bod angen dysgu sgiliau yn y Gymraeg pan benodir rhywun i’r swydd;
+(c)
+bod sgiliau yn y Gymraeg yn ddymunol; neu
+(ch)
+nad yw sgiliau yn y Gymraeg yn angenrheidiol.
+Safon 106A:
+Os byddwch wedi categoreiddio swydd fel un sy’n gofyn bod sgiliau yn y Gymraeg yn hanfodol, yn ddymunol neu fod angen eu dysgu, rhaid ichi—
+(a)
+pennu hynny wrth hysbysebu’r swydd, a
+(b)
+hysbysebu’r swydd yn Gymraeg.
+Safon 107: Pan fyddwch yn hysbysebu swydd, rhaid ichi ddatgan y caniateir i geisiadau gael eu cyflwyno yn Gymraeg, ac na fydd cais a gyflwynir yn y Gymraeg yn cael ei drin yn llai ffafriol na chais a gyflwynir yn Saesneg.
+Safon 107A:
+Os byddwch yn cyhoeddi—
+(a)
+ffurflenni cais am swyddi;
+(b)
+deunydd esboniadol ynghylch eich proses ar gyfer ymgeisio am swyddi;
+(c)
+gwybodaeth am eich proses gyfweld, neu am unrhyw ddulliau asesu eraill wrth ymgeisio am swyddi; neu
+(ch)
+swydd-ddisgrifiadau;
+rhaid ichi eu cyhoeddi yn Gymraeg a rhaid ichi sicrhau nad ydych yn trin unrhyw fersiynau Cymraeg o’r dogfennau yn llai ffafriol na fersiynau Saesneg ohonynt.
+Safon 107B: Rhaid ichi beidio â thrin cais am swydd a wneir yn Gymraeg yn llai ffafriol na chais a wneir yn Saesneg (gan gynnwys, ymysg materion eraill, o ran y dyddiad cau yr ydych yn ei osod ar gyfer cael ceisiadau, ac o ran amseriad rhoi gwybod i ymgeiswyr ynghylch penderfyniadau).
+Safon 108: Rhaid ichi sicrhau bod eich ffurflenni cais am swyddi yn rhoi lle i ymgeiswyr nodi eu bod yn dymuno cael cyfweliad neu ddull arall o asesiad yn Gymraeg ac, os yw ymgeisydd yn dymuno hynny, rhaid ichi gynnal unrhyw gyfweliad neu ddull arall o asesiad yn Gymraeg, neu, os oes angen, ddarparu gwasanaeth cyfieithu ar y pryd neu wasanaeth cyfieithu olynol o’r Gymraeg i’r Saesneg at y diben hwnnw.
+Safon 109: Pan fyddwch yn rhoi gwybod i ymgeisydd beth yw’ch penderfyniad mewn perthynas â chais am swydd, rhaid ichi wneud hynny yn Gymraeg os gwnaed y cais yn Gymraeg.
+7 Safonau ynghylch cynllun sy’n ymdrin â chynnig cynnal ymgyngoriadau clinigol yn Gymraeg
+Safon 110:
+Rhaid ichi gyhoeddi cynllun ar gyfer pob cyfnod 5 mlynedd gan nodi—
+(a)
+i ba raddau yr ydych yn gallu cynnig cynnal ymgynghoriad clinigol yn Gymraeg;
+(b)
+y camau yr ydych yn bwriadu eu cymryd i gynyddu eich gallu i gynnig cynnal ymgynghoriad clinigol yn Gymraeg;
+(c)
+amserlen ar gyfer y camau yr ydych wedi rhoi manylion amdanynt yn (b).
+Safon 110A:
+Dair blynedd ar ôl cyhoeddi cynllun yn unol â safon 110, ac ar ddiwedd cyfnod 5 mlynedd cynllun, rhaid ichi—
+(a)
+asesu i ba raddau yr ydych wedi cydymffurfio â’r cynllun; a
+(b)
+cyhoeddi’r asesiad hwnnw o fewn 6 mis.
+8 Safonau ynghylch arwyddion a hysbysiadau a arddangosir neu a gyhoeddir yng ngweithle corff
+Safon 111:
+Pan fyddwch—
+(a)
+yn gosod arwydd newydd neu’n adnewyddu arwydd yn eich gweithle (gan gynnwys arwyddion dros dro); neu
+(b)
+yn cyhoeddi neu’n arddangos hysbysiad yn eich gweithle;
+rhaid i unrhyw destun sy’n cael ei arddangos ar yr arwydd neu’r hysbysiad gael ei arddangos yn Gymraeg (pa un ai ar yr un arwydd neu hysbysiad sy’n arddangos y testun Saesneg cyfatebol neu ar arwydd neu hysbysiad ar wahân), ac os yw’r un testun yn cael ei arddangos yn Gymraeg ac yn Saesneg, rhaid ichi beidio â thrin y testun Cymraeg yn llai ffafriol na’r testun Saesneg.
+Safon 112:
+Pan fyddwch—
+(a)
+yn gosod arwydd newydd neu’n adnewyddu arwydd yn eich gweithle (gan gynnwys arwyddion dros dro); neu
+(b)
+yn cyhoeddi neu’n arddangos hysbysiad;
+a bod yr arwydd neu’r hysbysiad hwnnw’n cyfleu yr un wybodaeth yn Gymraeg ac yn Saesneg, rhaid i’r testun Cymraeg gael ei roi mewn safle fel mai hwnnw sy’n debygol o gael ei ddarllen yn gyntaf.
+Safon 113: Rhaid ichi sicrhau bod y testun Cymraeg ar arwyddion a hysbysiadau a arddangosir yn eich gweithle yn gywir o ran ystyr a mynegiant.
+9 Safon ynghylch cyhoeddiadau a negeseuon sain yng ngweithle corff
+Safon 114: Pan fyddwch yn gwneud cyhoeddiad wedi ei recordio dros offer sain yn eich gweithle, rhaid i’r cyhoeddiad hwnnw gael ei wneud yn Gymraeg, ac os gwneir y cyhoeddiad yn Gymraeg ac yn Saesneg, rhaid i’r cyhoeddiad gael ei wneud yn Gymraeg yn gyntaf.
+RHAN 2
+SAFONAU SY’N DDIBYNNOL AR SAFONAU ERAILL – AMODAU ARBENNIG
+10 Pan fydd hysbysiad cydymffurfio yn ei gwneud yn ofynnol i gorff gydymffurfio ag un o’r safonau a restrir ar res benodol yng ngholofn 1 o Dabl 1, rhaid i’r hysbysiad cydymffurfio hwnnw hefyd ei gwneud yn ofynnol i’r corff hwnnw gydymffurfio (ym mha fodd bynnag y gwêl Comisiynydd y Gymraeg yn briodol) â’r safon neu’r safonau a restrir ar y rhes honno yng ngholofn 2.
+TABL 1
+Colofn 1 Colofn 2
+Rhes Prif safon Safon ddibynnol
+(1) Y fewnrwyd
+Safonau 90, 91 neu 92 Safon 93
+(2) Recriwtio ac apwyntio
+Safon 106 Safon 106A
+(3) Recriwtio ac apwyntio
+Safon 107
+Safon 107A
+Safon 107B
+Safon 109
+(4) Cynllun ynghylch ymgyngoriadau clinigol
+Safon 110 Safon 110A
+(5) Cynllun ynghylch ymgyngoriadau clinigol
+Safon 110A Safon 110
+(6) Arwyddion a hysbysiadau mewnol
+Safon 111 Safon 113
+RHAN 3
+DEHONGLI’R SAFONAU
+11 Rhaid dehongli’r safonau a bennir yn Rhan 1 o’r Atodlen hon fel a ganlyn.
+12
+(1) Nid yw’n ofynnol i gorff gyfieithu i’r Gymraeg unrhyw destun nad yw wedi ei lunio (“testun A”).
+(2) Ni fydd corff yn trin y Gymraeg yn llai ffafriol os nad yw’n cyfieithu testun A i’r Gymraeg ond gweler is-baragraff (3).
+(3) Rhaid i gorff ddefnyddio’r fersiwn Gymraeg o destun A os yw person arall wedi llunio testun A yn Gymraeg yn unol—
+(a)
+â’i Gynllun Iaith Gymraeg;
+(b)
+â dyletswydd i gydymffurfio â safonau;
+(c)
+â Rheolau Sefydlog y Cynulliad;
+(ch)
+ag adran 35(1C) o Ddeddf 2006; neu
+(d)
+â Chynllun Ieithoedd Swyddogol Comisiwn y Cynulliad.
+(4) Yn y paragraff hwn—
+(a)
+ystyr “Cynllun Iaith Gymraeg” yw cynllun iaith Gymraeg a lunnir yn unol â Rhan 2 o Ddeddf yr Iaith Gymraeg 1993(1);
+(b)
+ystyr “dyletswydd i gydymffurfio â safonau” yw dyletswydd i gydymffurfio â safon o dan adran 25 o Fesur y Gymraeg (Cymru) 2011;
+(c)
+ystyr “Deddf 2006” yw Deddf Llywodraeth Cymru 2006(2);
+(ch)
+ystyr “Rheolau Sefydlog y Cynulliad” yw rheolau sefydlog a wnaed o dan adran 31 o Ddeddf 2006;
+(d)
+ystyr “Cynllun Ieithoedd Swyddogol Comisiwn y Cynulliad” yw’r Cynllun a fabwysiadwyd ac a gyhoeddwyd o dan baragraff 8 o Atodlen 2 i Ddeddf 2006.
+13
+At ddibenion safonau 90 i 92 (mewnrwyd corff), mae cyfeiriadau at beidio â thrin y Gymraeg yn llai ffafriol na’r Saesneg yn cynnwys, ymysg materion eraill (ac yn ogystal â materion penodol y cyfeirir atynt mewn unrhyw safon unigol), peidio â thrin y Gymraeg yn llai ffafriol o ran—
+(a)
+golwg y deunydd (er enghraifft o ran lliw, maint, ffont, a fformat unrhyw destun); neu
+(b)
+pryd y caiff y deunydd ei gyhoeddi ar y fewnrwyd;
+ond nid yw’n golygu bod yn rhaid i’r deunydd Cymraeg ymddangos ar yr un dudalen â’r deunydd Saesneg, nac ar dudalen a fydd yn debygol o agor cyn y fersiwn Saesneg gyfatebol o’r dudalen.
+14
+At ddibenion safonau 107A (recriwtio) a 111 (arwyddion a hysbysiadau mewnol), mae cyfeiriadau at beidio â thrin y Gymraeg yn llai ffafriol na’r Saesneg yn cynnwys, ymysg materion eraill (ac yn ogystal â materion penodol y cyfeirir atynt mewn unrhyw safon unigol), peidio â thrin y Gymraeg yn llai ffafriol o ran—
+(a)
+golwg y deunydd (er enghraifft o ran lliw neu ffont unrhyw destun);
+(b)
+maint y deunydd;
+(c)
+lleoliad ac amlygrwydd y deunydd mewn unrhyw fan cyhoeddus;
+(ch)
+pryd a sut y caiff y deunydd ei gyhoeddi, ei ddarparu neu ei arddangos; neu
+(d)
+fformat cyhoeddi’r deunydd.
+15 At ddibenion y safonau, nid yw gofyniad i gyhoeddi, darparu neu arddangos unrhyw ddeunydd ysgrifenedig yn Gymraeg yn golygu y dylid cyhoeddi, darparu neu arddangos deunydd yn Gymraeg yn unig, ac nid yw’n golygu ychwaith y dylid llunio’r deunydd yn Gymraeg yn gyntaf (oni nodir hynny yn benodol yn y safon).
+16
+Nid yw safonau 90 i 92 (y fewnrwyd) yn gymwys i—
+(a)
+dogfennau y darperir dolen iddynt ar y fewnrwyd, deunydd hysbysebu ar y fewnrwyd, na chlipiau fideo a sain ar y fewnrwyd (gweler safon 82 am ddarpariaeth benodol mewn perthynas â dogfennau); nac i
+(b)
+gwybodaeth a gyflwynir gan bersonau ar dudalen ryngweithiol a gyhoeddir ar fewnrwyd corff (er enghraifft, ar adran ar gyfer sylwadau neu ar fforwm trafod).
+17
+At ddibenion safonau 106 a 106A yn unig—
+(a)
+mae “swydd” yn cynnwys penodiad cyhoeddus;
+(b)
+ystyr “penodiad cyhoeddus” yw unrhyw benodiad i gorff cyhoeddus neu swydd gyhoeddus.
+18 At ddibenion safonau 107 i 109 yn unig mae “swydd” yn cynnwys swydd wirfoddol.
+19
+Yn safon 110, ystyr y “cyfnod 5 mlynedd” yw—
+(a)
+5 mlynedd sy’n dechrau â’r dyddiad gosod, a
+(b)
+pob cyfnod 5 mlynedd dilynol.
+20 Ym mharagraff 19, ystyr y “dyddiad gosod” yw’r diwrnod y mae’n ofynnol i berson gydymffurfio â safon 110 ohono neu gydymffurfio â hi mewn modd penodol.
+21 Nid yw safon 114 yn gymwys pan wneir y neges y byddwch yn ei chyhoeddi dros system annerch gyhoeddus yn ystod argyfwng neu ymarfer argyfwng.
+(1)
+1993 p. 38.
+(2)
+2006 p. 32.Rheoliad 2(4)
+ATODLEN 4
+Safonau Cadw Cofnodion
+RHAN 1
+Y SAFONAU
+1 Safonau ynghylch cadw cofnodion gan gorff
+Safon 115: Rhaid ichi gadw cofnod, mewn perthynas â phob blwyddyn ariannol, o nifer y cwynion yr ydych yn eu cael sy’n ymwneud â’ch cydymffurfedd â’r safonau.
+Safon 116: Rhaid ichi gadw cofnod (yn dilyn asesiadau o sgiliau iaith Gymraeg eich cyflogeion a wnaed gennych yn unol â safon 96), o nifer y cyflogeion sy’n meddu ar sgiliau yn y Gymraeg ar ddiwedd pob blwyddyn ariannol a, phan fo hynny’n wybyddus ichi, rhaid ichi gadw cofnod o lefel sgiliau’r cyflogeion hynny.
+Safon 117:
+Rhaid ichi gadw cofnod, mewn perthynas â phob blwyddyn ariannol, o nifer y swyddi newydd a’r swyddi gwag a gategoreiddiwyd (yn unol â safon 106) fel swyddi sy’n gofyn—
+(a)
+bod sgiliau yn y Gymraeg yn hanfodol;
+(b)
+bod angen dysgu sgiliau yn y Gymraeg unwaith y penodir rhywun i’r swydd;
+(c)
+bod sgiliau yn y Gymraeg yn ddymunol; neu
+(ch)
+nad oedd sgiliau yn y Gymraeg yn angenrheidiol.
+RHAN 2
+DEHONGLI’R SAFONAU
+2 Rhaid dehongli’r safonau a bennir yn Rhan 1 o’r Atodlen hon fel a ganlyn.
+3 At ddibenion safonau 115, 116 a 117, ystyr “blwyddyn ariannol” yw blwyddyn ariannol y corff ei hun.Rheoliad 2(5)
+ATODLEN 5
+Safonau sy’n ymdrin â Materion Atodol
+RHAN 1
+SAFONAU
+1 Corff yn rhoi cyhoeddusrwydd i safonau
+Safon 118: Rhaid ichi sicrhau bod dogfen sy’n cofnodi’r safonau yr ydych o dan ddyletswydd i gydymffurfio â hwy, a’r graddau yr ydych o dan ddyletswydd i gydymffurfio â’r safonau hynny, ar gael ar eich gwefan.
+2 Corff yn cyhoeddi gweithdrefn gwyno
+Safon 119:
+Rhaid ichi—
+(a)
+sicrhau bod gennych weithdrefn gwyno sy’n delio â sut yr ydych yn bwriadu delio â chwynion ynglŷn â’ch cydymffurfedd â’r safonau yr ydych o dan ddyletswydd i gydymffurfio â hwy, a
+(b)
+cyhoeddi dogfen sy’n cofnodi’r weithdrefn honno ar eich gwefan.
+3 Corff yn llunio adroddiad blynyddol ynglŷn â safonau
+Safon 120:
+(1) Rhaid ichi lunio adroddiad (“adroddiad blynyddol”), yn Gymraeg, mewn perthynas â phob blwyddyn ariannol, sy’n delio â’r modd y bu ichi gydymffurfio â’r safonau yr oeddech o dan ddyletswydd i gydymffurfio â hwy yn ystod y flwyddyn honno.
+(2) Rhaid i’r adroddiad blynyddol gynnwys yr wybodaeth a ganlyn (pan fo’n berthnasol, i’r graddau yr ydych o dan ddyletswydd i gydymffurfio â’r safonau y cyfeirir atynt)—
+(a)
+nifer y cwynion a gawsoch yn y flwyddyn o dan sylw a oedd yn ymwneud â’ch cydymffurfedd â’r safonau yr oeddech o dan ddyletswydd i gydymffurfio â hwy (ar sail y cofnodion a gadwasoch yn unol â safon 115);
+(b)
+nifer y cyflogeion sy’n meddu ar sgiliau yn y Gymraeg ar ddiwedd y flwyddyn o dan sylw (ar sail y cofnodion a gadwasoch yn unol â safon 116);
+(c)
+nifer (ar sail y cofnodion a gadwasoch yn unol â safon 117) y swyddi newydd a’r swyddi gwag a hysbysebwyd gennych yn ystod y flwyddyn a gategoreiddiwyd fel swyddi sy’n gofyn—
+(i)
+bod sgiliau yn y Gymraeg yn hanfodol;
+(ii)
+bod angen dysgu sgiliau yn y Gymraeg pan benodir i’r swydd;
+(iii)
+bod sgiliau yn y Gymraeg yn ddymunol; neu
+(iv)
+nad oedd sgiliau yn y Gymraeg yn angenrheidiol.
+(3) Rhaid ichi gyhoeddi’r adroddiad blynyddol heb fod yn hwyrach na 6 mis yn dilyn diwedd y flwyddyn ariannol y mae’r adroddiad yn ymwneud â hi.
+(4) Rhaid ichi sicrhau bod copi cyfredol o’ch adroddiad blynyddol ar gael ar eich gwefan.
+4 Corff yn darparu gwybodaeth i Gomisiynydd y Gymraeg
+Safon 121: Rhaid ichi ddarparu i Gomisiynydd y Gymraeg (os gofynnir ganddo) unrhyw wybodaeth sy’n ymwneud â’ch cydymffurfedd â’r safonau cyflenwi gwasanaethau, y safonau llunio polisi neu’r safonau gweithredol yr ydych o dan ddyletswydd i gydymffurfio â hwy.
+RHAN 2
+DEHONGLI’R SAFONAU
+5 Rhaid dehongli’r safonau a bennir yn Rhan 1 fel a ganlyn.
+6 At ddiben safon 120, ystyr “blwyddyn ariannol” yw blwyddyn ariannol y corff ei hun.
+7 At ddiben y safonau, nid yw gofyniad i lunio neu gyhoeddi unrhyw ddeunydd ysgrifenedig yn Gymraeg yn golygu y dylid llunio neu gyhoeddi’r deunydd hwnnw yn Gymraeg yn unig, ac nid yw’n golygu ychwaith y dylid llunio’r deunydd yn Gymraeg yn gyntaf (oni nodir hynny yn benodol yn y safon).Rheoliad 3
+ATODLEN 6
+Bwrdd Cynghorau Iechyd Cymuned Cymru (“The Board of Community Health Councils in Wales”)
+Byrddau Iechyd Lleol (“Local Health Boards”)
+Cynghorau Iechyd Cymuned (“Community Health Councils”)
+Ymddiriedolaethau Gwasanaeth Iechyd Gwladol yng Nghymru (“National Health Service Trusts in Wales”)NODYN ESBONIADOL
+(Nid yw’r nodyn hwn yn rhan o’r Rheoliadau)
+Mae Mesur y Gymraeg (Cymru) 2011 (mccc 1) (“Mesur 2011”) yn gwneud darpariaeth ar gyfer pennu safonau ymddygiad mewn perthynas â’r Gymraeg (“safonau”). Mae’r rhain yn disodli’r system o gynlluniau iaith Gymraeg y darperir ar eu cyfer yn Neddf yr Iaith Gymraeg 1993 (p. 38).
+Mae adran 26 o Fesur 2011 yn galluogi Gweinidogion Cymru i bennu safonau, ac mae adran 39 yn eu galluogi i ddarparu bod safon yn benodol gymwys i berson drwy awdurdodi Comisiynydd y Gymraeg (“y Comisiynydd”) i roi hysbysiad i’r person hwnnw sy’n ei gwneud yn ofynnol iddo gydymffurfio â’r safon (“hysbysiad cydymffurfio”).
+Mae’r Rheoliadau hyn yn pennu safonau mewn perthynas ag ymddygiad Byrddau Iechyd Lleol, Ymddiriedolaethau Gwasanaeth Iechyd Gwladol yng Nghymru, Cynghorau Iechyd Cymuned a Bwrdd Cynghorau Iechyd Cymuned Cymru (y cyfeirir atynt yn y Rheoliadau fel “cyrff”).
+Mae’r Rheoliadau hefyd yn awdurdodi’r Comisiynydd (yn ddarostyngedig i eithriadau penodol a nodir yn rheoliad 3(2)) i roi hysbysiad cydymffurfio i’r cyrff hynny, mewn perthynas â safonau a bennir gan y Rheoliadau. Mewn perthynas â Gofal Cymdeithasol Cymru, mae’r Rheoliadau yn awdurdodi’r Comisiynydd i roi hysbysiad cydymffurfio i’r corff hwnnw mewn perthynas â safonau a bennir yn Rheoliadau Safonau’r Gymraeg (Rhif 4) 2016 (O.S. 2016/405 (Cy. 125)).
+Yn unol ag adran 44 o Fesur 2011, caiff y Comisiynydd drwy hysbysiad cydymffurfio ei gwneud yn ofynnol i gorff gydymffurfio ag unrhyw un neu ragor o’r safonau sy’n benodol gymwys iddo. I adlewyrchu hynny, mae’r safonau a bennir yn y Rheoliadau wedi eu geirio ar ffurf naratif ail berson, hynny yw ar ffurf “rhaid ichi” (ac ystyr “chi” yw’r corff perthnasol ym mhob achos).
+Gan ddefnyddio’r hyblygrwydd a ddarperir gan adran 44 o Fesur 2011, caiff y Comisiynydd (os yw hynny’n rhesymol ac yn gymesur a’i fod yn dymuno gwneud hynny) ei gwneud yn ofynnol i gorff gydymffurfio ag un safon o dan rai amgylchiadau, a safon arall o dan amgylchiadau eraill. Er enghraifft, os yw un safon yn benodol gymwys i gorff, caiff y Comisiynydd ei gwneud yn ofynnol i’r corff gydymffurfio â’r safon honno o dan rai amgylchiadau, ond nid o dan amgylchiadau eraill, neu ei gwneud yn ofynnol i’r corff gydymffurfio â’r safon honno mewn rhai ardaloedd yn unig. Yn yr un modd os oes dwy neu ragor o safonau yn ymwneud ag ymddygiad penodol (er enghraifft, safonau 8 i 10 mewn perthynas ag ateb galwadau ffôn), caiff y Comisiynydd drwy gyfrwng hysbysiad cydymffurfio ei gwneud yn ofynnol i gorff gydymffurfio ag un o’r safonau hynny’n unig, neu â safonau gwahanol ar adegau gwahanol, o dan amgylchiadau gwahanol, neu mewn ardaloedd gwahanol, fel sy’n briodol i’r corff. Nid oes rheidrwydd ar y Comisiynydd felly i’w gwneud yn ofynnol i bob corff gydymffurfio â phob safon.
+Yn unol ag adran 46 o Fesur 2011, rhaid i’r hysbysiad cydymffurfio a roddir i gorff ddatgan y diwrnod gosod, neu’r diwrnodau gosod; hynny yw, y diwrnod neu’r diwrnodau y daw’n ofynnol i’r corff gydymffurfio â’r safon (neu gydymffurfio â safon mewn modd penodol). Gan ddefnyddio’r hyblygrwydd a ddarperir gan adran 46, caiff y Comisiynydd osod diwrnod gosod buan i gorff gydymffurfio â safon (cyn belled â bod hynny o leiaf 6 mis ar ôl dyddiad rhoi’r hysbysiad cydymffurfio perthnasol i’r corff), neu osod diwrnod gosod ymhellach i’r dyfodol (er enghraifft mewn perthynas â safonau sy’n fwy heriol).
+Mae’r Rheoliadau yn ei gwneud yn ofynnol i gorff gydymffurfio â’r safonau—
+(a)
+pa un a yw’n cyflawni’r gweithgaredd neu’n darparu’r gwasanaeth; neu
+(b)
+pa un a yw’n cael ei gyflawni neu’n cael ei ddarparu ar ei ran gan drydydd parti o dan drefniadau a wneir rhyngddynt hwy.
+Fodd bynnag, yn achos unigolyn sy’n bresennol mewn ymgynghoriad clinigol neu gynhadledd achos, neu unigolyn sy’n glaf mewnol, safonau sy’n gymwys i’r trydydd parti sy’n cyflawni’r gweithgaredd neu sy’n darparu’r gwasanaeth ar ran y corff sy’n gymwys. Mae hyn yn golygu, er enghraifft, os yw Bwrdd Iechyd Prifysgol Caerdydd a’r Fro yn cyflawni neu’n darparu cynhadledd achos ar ran Bwrdd Iechyd Prifysgol Betsi Cadwaladr, yna safonau Bwrdd Iechyd Prifysgol Caerdydd a’r Fro, ac nid safonau Bwrdd Iechyd Prifysgol Betsi Cadwaladr, a fyddai’n gymwys. Mae hefyd yn golygu mai safonau Bwrdd Iechyd Prifysgol Caerdydd a’r Fro, ac nid safonau Bwrdd Iechyd Prifysgol Betsi Cadwaladr, a fyddai’n gymwys os yw unigolyn yn glaf mewnol yn un o ysbytai Bwrdd Iechyd Prifysgol Caerdydd a’r Fro ar ran Bwrdd Iechyd Prifysgol Betsi Cadwaladr.
+Pan fo’r trydydd parti yn ddarparwr gofal sylfaenol, neu pan fo’r gwasanaeth a ddarperir neu’r weithgaredd a gyflawnir ar ran y corff yn cael ei ddarparu neu ei gyflawni mewn ysbyty preifat neu’n glinig preifat yng Nghymru, ar ward breifat mewn ysbyty yng Nghymru neu mewn ysbyty neu glinig y tu allan i Gymru, yna nid yw unrhyw safonau yn gymwys. Nid yw unrhyw safonau yn gymwys pan fo’r gwasanaeth a ddarperir neu’r gweithgaredd a gyflawnir ar ran y corff yn wasanaeth cartref gofal.
+Pan fo safon a bennir yn y Rheoliadau hyn yn ei gwneud yn ofynnol i ddeunydd ysgrifenedig gael ei arddangos neu ei ddarparu yn Gymraeg, neu i wasanaeth gael ei ddarparu yn Gymraeg, nid yw hyn yn golygu bod rhaid arddangos neu ddarparu’r deunydd yn Gymraeg yn unig, na bod rhaid i’r gwasanaeth gael ei ddarparu yn Gymraeg yn unig (oni bai bod hynny’n cael ei nodi’n benodol).
+Mae Atodlen 1 i’r Rheoliadau yn pennu safonau cyflenwi gwasanaethau. Mae adran 28 o Fesur 2011 yn darparu mai ystyr “safon cyflenwi gwasanaethau” yw safon sy’n ymwneud â gweithgaredd cyflenwi gwasanaethau, ac y bwriedir iddi hybu neu hwyluso defnyddio’r Gymraeg, neu weithio tuag at sicrhau nad yw’r Gymraeg yn cael ei thrin yn llai ffafriol na’r Saesneg, pan gyflawnir y gweithgaredd hwnnw. Ystyr “gweithgaredd cyflenwi gwasanaethau” yw bod person yn cyflenwi gwasanaethau i berson arall, neu yn delio ag unrhyw berson arall mewn cysylltiad â chyflenwi gwasanaethau i’r person hwnnw neu i drydydd person.
+Mae Atodlen 2 i’r Rheoliadau yn pennu safonau llunio polisi. Mae adran 29 o Fesur 2011 yn darparu mai ystyr “safon llunio polisi” yw safon sy’n ymwneud â phenderfyniad polisi ac y bwriedir iddi sicrhau, neu gyfrannu at sicrhau, bod y person sy’n gwneud y penderfyniad polisi yn ystyried un neu ragor o’r canlynol—
+(a)
+pa effeithiau, os o gwbl, (a pha un a yw’r effeithiau’n bositif neu’n andwyol) y byddai’r penderfyniad polisi yn eu cael ar gyfleoedd i bersonau ddefnyddio’r Gymraeg, neu ar beidio â thrin y Gymraeg yn llai ffafriol na’r Saesneg;
+(b)
+sut y gellid gwneud y penderfyniad fel bod y penderfyniad yn cael effeithiau positif, neu effeithiau mwy positif, ar gyfleoedd i bersonau ddefnyddio’r Gymraeg, neu ar beidio â thrin y Gymraeg yn llai ffafriol na’r Saesneg;
+(c)
+sut y gellid gwneud y penderfyniad fel nad yw’r penderfyniad yn cael effeithiau andwyol, neu fel bod y penderfyniad yn cael effeithiau llai andwyol, ar gyfleoedd i bobl ddefnyddio’r Gymraeg, neu ar beidio â thrin y Gymraeg yn llai ffafriol na’r Saesneg.
+Mae Atodlen 3 i’r Rheoliadau yn pennu safonau gweithredu. Mae adran 30 o Fesur 2011 yn darparu mai ystyr “safon gweithredu” yw safon sy’n ymwneud â swyddogaethau, neu fusnes neu ymgymeriad arall (“gweithgareddau perthnasol”) person (“A”), ac y bwriedir iddi hybu neu hwyluso defnyddio’r Gymraeg—
+(a)
+gan A wrth i A wneud ei weithgareddau perthnasol,
+(b)
+gan A a pherson arall wrth iddynt ddelio â’i gilydd mewn cysylltiad â gweithgareddau perthnasol A, neu
+(c)
+gan berson heblaw A wrth iddo wneud gweithgareddau at ddibenion gweithgareddau perthnasol A, neu mewn cysylltiad â hwy.
+Mae Atodlen 4 i’r Rheoliadau yn pennu safonau cadw cofnodion. Mae adran 32 o Fesur 2011 yn darparu mai ystyr “safon cadw cofnodion” yw safon sy’n ymwneud â chadw cofnodion ynghylch safonau penodedig eraill, cofnodion ynghylch cwynion mewn perthynas â chydymffurfedd â safonau penodedig eraill, neu gofnodion ynghylch cwynion eraill sy’n ymwneud â’r Gymraeg.
+Mae Atodlen 5 i’r Rheoliadau yn pennu safonau sy’n ymdrin â materion atodol. Mae’r rhain yn atodol i’r materion hynny yr ymdrinnir â hwy yn Atodlenni 1 i 4.
+Ystyriwyd Cod Ymarfer Gweinidogion Cymru ar gynnal Asesiadau Effaith Rheoleiddiol mewn perthynas â’r Rheoliadau hyn. O ganlyniad, lluniwyd asesiad effaith rheoleiddiol o’r costau a’r manteision sy’n debygol o ddeillio o gydymffurfio â’r Rheoliadau hyn. Gellir cael copi oddi wrth: Uned y Gymraeg, Llywodraeth Cymru, Parc Cathays, Caerdydd, CF10 3NQ.

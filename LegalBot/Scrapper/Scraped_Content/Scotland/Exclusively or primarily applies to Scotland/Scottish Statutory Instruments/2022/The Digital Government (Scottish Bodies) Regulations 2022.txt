@@ -1,0 +1,82 @@
+SCOTTISH STATUTORY INSTRUMENTS
+2022 No. 91
+DISCLOSURE OF INFORMATION
+The Digital Government (Scottish Bodies) Regulations 2022
+Made
+15th March 2022
+Coming into force
+16th March 2022
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 48(5) and 56(6) of the Digital Economy Act 2017(1) and all other powers enabling them to do so.
+They have consulted the Information Commissioner, the Commissioners for Her Majesty’s Revenue and Customs, the Welsh Ministers, the Department of Finance in Northern Ireland, the Minister for the Cabinet Office and such other persons as the Scottish Ministers consider appropriate, as required by sections 48(11) and 56(12) of the Digital Economy Act 2017.
+The Scottish Ministers are satisfied that the persons, and descriptions of persons, added by these Regulations comply with the conditions in section 48(7) and (8) and section 56(8) and (9) of the Digital Economy Act 2017.
+In accordance with sections 48(10) and 56(11) of the Digital Economy Act 2017, the Scottish Ministers have had regard to the systems and procedures for the secure handling of information by the persons referred to in regulations 2 and 3 of these Regulations.
+In accordance with sections 54(5) and 62(5) of the Digital Economy Act 2017, a draft of these Regulations has been laid before, and approved by a resolution of, the Scottish Parliament.
+(1)
+2017 c. 30 (“the 2017 Act”). The Scottish Ministers are the appropriate national authority in respect of the bodies to which these Regulations relate by virtue of sections 55(2) and 63(2) of the 2017 Act.Citation and commencement
+1.  These Regulations may be cited as the Digital Government (Scottish Bodies) Regulations 2022 and come into force on the day after the day on which they are made.Scottish bodies for the disclosure of information in relation to debt owed to the public sector
+2.  In schedule 7 of the Digital Economy Act 2017 (specified persons for the purposes of the debt provisions)(1), after paragraph 24, insert––
+“PART 3
+SCOTTISH BODIES
+25.  The Scottish Ministers.
+26.  A council constituted under section 2 of the Local Government etc. (Scotland) Act 1994(2).
+27.  The Scottish Environment Protection Agency.
+28.  The Accountant in Bankruptcy.
+29.  The Scottish Legal Aid Board.
+30.  The Common Services Agency for the Scottish Health Service.
+31.  The Scottish Courts and Tribunals Service.
+32.  Highlands and Islands Enterprise.
+33.  Scottish Enterprise.
+34.  South of Scotland Enterprise.
+35.  ILF Scotland (company registration number SC500075).
+36.  The Scottish Legal Complaints Commission.
+37.  The Scottish Qualifications Authority.
+38.  Revenue Scotland.
+39.  A person providing services to a specified person who—
+(a)
+falls within this Part of this Schedule; and
+(b)
+is a public authority,
+in respect of the taking of action in connection with debt owed to a public authority or to the Crown.”.
+(1)
+Part 3 is to be inserted after Part 2 (Welsh bodies) which was inserted by the Digital Government (Welsh Bodies) (Wales) Regulations 2018 (S.I. 2018/551 (W. 93)).
+(2)
+1994 c. 39.Scottish bodies for the disclosure of information in relation to fraud against the public sector
+3.  In schedule 8 of the Digital Economy Act 2017 (specified persons for the purposes of the fraud provisions)(1), after paragraph 56, insert—
+“PART 3
+SCOTTISH BODIES
+57.  The Scottish Ministers.
+58.  A council constituted under section 2 of the Local Government etc. (Scotland) Act 1994(2).
+59.  The Scottish Environment Protection Agency.
+60.  The Accountant in Bankruptcy.
+61.  The Scottish Legal Aid Board.
+62.  The Common Services Agency for the Scottish Health Service.
+63.  Highlands and Islands Enterprise.
+64.  Scottish Enterprise.
+65.  South of Scotland Enterprise.
+66.  ILF Scotland (company registration number SC500075).
+67.  The Scottish Legal Complaints Commission.
+68.  The Scottish Qualifications Authority.
+69.  Revenue Scotland.
+70.  Audit Scotland.
+71.  Food Standards Scotland.
+72.  Creative Scotland.
+73.  The Skills Development Scotland Co. Limited (company registration number SC202659).
+74.  A person providing services to a specified person who—
+(a)
+falls within this Part of this Schedule; and
+(b)
+is a public authority,
+in respect of the taking of action in connection with fraud against a public authority.”.
+(1)
+Part 3 is to be inserted after Part 2 (Welsh bodies) which was inserted by the Digital Government (Welsh Bodies) (Wales) Regulations 2018 (S.I. 2018/551 (W. 93)).
+(2)
+1994 c. 39.TOM ARTHUR
+Authorised to sign by the Scottish Ministers
+St Andrew’s House,
+Edinburgh
+15th March 2022EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations relate to the disclosure of information in relation to debt owed to the public sector and fraud against the public sector, pursuant to sections 48 and 56 of the Digital Economy Act 2017 (“the 2017 Act”).
+Regulation 2 amends schedule 7 of the 2017 Act by adding certain Scottish bodies to the list of persons specified in that Act for the purposes of taking action in connection with debt owed to the public sector.
+Regulation 3 amends schedule 8 of the 2017 Act by adding certain Scottish bodies to the list of persons specified in that Act for the purposes of taking action in connection with fraud against the public sector.
+Impact assessments have been prepared and copies can be obtained from http://www.gov.scot/.

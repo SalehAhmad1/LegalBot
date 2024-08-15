@@ -1,0 +1,38 @@
+This Statutory Instrument corrects errors made in S.I. 2020/1647 and is being issued free of charge to all known recipients of that Statutory Instrument.
+STATUTORY INSTRUMENTS
+2022 No. 622
+ENVIRONMENTAL PROTECTION
+The Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) Regulations 2022
+Made
+8th June 2022
+Laid before Parliament
+9th June 2022
+Coming into force
+1st July 2022
+The Secretary of State makes these Regulations in exercise of the powers conferred by regulations 5(1) and 11(2) of the Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (“the Regulations”)(1).
+By virtue of regulation 9 of the Regulations, the Secretary of State has treated the requirements in regulation 5(2) to (5) of the Regulations as satisfied.
+(1)
+S.I. 2020/1647.Citation, commencement and extent
+1.—(1) These Regulations may be cited as the Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) Regulations 2022.
+(2) These Regulations come into force on 1st July 2022.
+(3) These Regulations extend to England and Wales and Scotland.Amendment of the Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment Regulations 2012
+2.—(1) The Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment Regulations 2012(1) are amended as follows.
+(2) In Schedule A2—
+(a)
+in paragraph 1(a), omit from “other” to the end;
+(b)
+in paragraph 1(b), after “EEE” insert “with no expiry date”;
+(c)
+in Table 1, after entry No.96, insert—
+“97 Bis(2-ethylhexyl) phthalate (DEHP) in ion selective electrodes applied in point of care analysis of ionic substances present in human body fluids and/or in dialysate fluids. Annex 4, 45 8 21st July 2028
+98 Bis(2-ethylhexyl) phthalate (DEHP) in plastic components in magnetic resonance imaging (MRI) detector coils. Annex 4, 46 8 1st January 2024
+99 Bis(2-ethylhexyl) phthalate (DEHP), butyl benzyl phthalate (BBP), and diisobutyl phthalate (DIBP) in spare parts recovered from and used for the repair or refurbishment of medical devices, including in vitro diagnostic medical devices, and their accessories, provided that the reuse takes place in auditable closed-loop business-to-business return systems and that each reuse of parts is notified to the customer. Annex 4, 47 8 21st July 2028”
+(1)
+S.I. 2012/3032, amended by S.I. 2020/1647, 2021/422 and 2021/1395. There are other amending instruments which are not relevant to these Regulations.Jo Churchill
+Parliamentary Under Secretary of State
+Department for Environment Food and Rural Affairs
+8th June 2022EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend Schedule A2 to the Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment Regulations 2012 (“the RoHS Regulations”) as they apply in England and Wales and Scotland.
+Regulation 2(2)(a) and (b) make amendments to correct a minor error in how the contents of the tables in Schedule A2 that contain the exemptions are described. Regulation 2(2)(c) introduces three new exemptions from the restriction, in regulation 3(1) of the RoHS Regulations, on placing electrical and electronic equipment that contains certain hazardous substances on the market. The exemptions concern the application of Bis(2-ethylhexyl) phthalate (DEHP), butyl benzyl phthalate (BBP), and diisobutyl phthalate (DIBP) in certain types of medical devices and spare parts recovered from and used for the repair or refurbishment of medical devices. The exemptions are granted for a period ending with the date specified in column 6 of the table included in regulation 2(2)(c) of these Regulations.
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.

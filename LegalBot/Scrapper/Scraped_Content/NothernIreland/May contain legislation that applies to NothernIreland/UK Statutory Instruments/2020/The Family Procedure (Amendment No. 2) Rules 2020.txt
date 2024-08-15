@@ -1,0 +1,193 @@
+STATUTORY INSTRUMENTS
+2020 No. 758 (L. 18)
+FAMILY PROCEEDINGS
+SENIOR COURTS OF ENGLAND AND WALES
+FAMILY COURT, ENGLAND AND WALES
+The Family Procedure (Amendment No. 2) Rules 2020
+Made
+16th July 2020
+Laid before Parliament
+20th July 2020
+Coming into force
+1st October 2020
+The Family Procedure Rule Committee makes the following Rules in exercise of the powers conferred by sections 75 and 76 of the Courts Act 2003(1), having fulfilled the requirements of section 79(1) of that Act,
+(1)
+2003 c.39. Section 75 was amended by paragraphs 308 and 338 of Schedule 4 and Part 2 of Schedule 18 to the Constitutional Reform Act 2005 (c. 4) and by paragraphs 83 and 91 of Schedule 10 to the Crime and Courts Act 2013 (c. 22). Section 76 was amended by section 62(7) of the Children Act 2004 (c. 31), paragraph 29 of Schedule 1 to the Constitutional Reform Act 2005, paragraphs 83 and 92 of Schedule 10 to the Crime and Courts Act 2013 and paragraphs 25 and 34 of the Schedule to the Courts and Tribunals (Judiciary and Functions of Staff Act 2018 (c. 33).Citation, commencement and interpretation
+1.—(1) These Rules may be cited as the Family Procedure (Amendment No. 2) Rules 2020 and come into force on 1st October 2020.
+(2) In these Rules, a reference to a Part or rule by number alone means the Part or rule so numbered in the Family Procedure Rules 2010(1).
+(1)
+S.I. 2010/2955. There are relevant amendments in S.I. 2014/667.Amendments to the Family Procedure Rules 2010
+2.  The Family Procedure Rules 2010 are amended in accordance with rules 3 to 5 of these Rules.Amendment of Part 10
+3.—(1) In rule 10.12, in the words in parentheses at the end of the rule, for the words after “Part 37” substitute “(rule 37.4(2)(c) requires a contempt application to include confirmation that any order allegedly breached or disobeyed contained a penal notice)”.
+(2) In rule 10.13—
+(a)
+omit “Chapter 2 of”;
+(b)
+omit “with the necessary modifications”; and
+(c)
+for the words in parentheses at the end of the rule substitute—
+“(Rule 37.4(2) includes requirements for the information to be contained in a contempt application in relation to breach of an undertaking.)”.Amendment of Part 11
+4.  In rule 11.15—
+(a)
+in paragraph (2)—
+(i)
+omit “Chapter 2 of”; and
+(ii)
+omit “with the necessary modifications”; and
+(b)
+in the words in parentheses at the end of the rule substitute—
+“(Rule 37.4(2) includes requirements for the information to be contained in a contempt application in relation to breach of an order or an undertaking.)”.Amendment of Part 37
+5.  For Part 37 substitute Part 37 as set out in the Schedule to these Rules.Mrs Justice Theis
+His Honour Judge Godwin
+Michael Horton
+Fiona James JP
+Mr Justice Mostyn
+Her Honour Judge Raeside
+Michael Seath
+District Judge Suh
+District Judge Williams
+I allow these Rules
+Signed by authority of the Lord Chancellor
+Alex Chalk
+Parliamentary Under-Secretary of State for Justice
+Ministry of Justice
+16th July 2020Rule 5
+SCHEDULE
+“PART 37
+APPLICATIONS AND PROCEEDINGS IN RELATION TO CONTEMPT OF COURT
+Contents of this Part
+Rule 37.1 Scope
+Rule 37.2 Interpretation
+Rule 37.3 How to make a contempt application
+Rule 37.4 Requirements of a contempt application
+Rule 37.5 Service of a contempt application
+Rule 37.6 Cases where no application is made
+Rule 37.7 Directions for hearing of contempt proceedings
+Rule 37.8 Hearings and judgments in contempt proceedings
+Rule 37.9 Powers of the court in contempt proceedings
+Rule 37.10 Applications to discharge committal orders
+Scope
+37.1.—(1) This Part sets out the procedure to be followed in proceedings for contempt of court (“contempt proceedings”).
+(2) This Part does not alter the scope and extent of the jurisdiction of courts determining contempt proceedings, whether inherent, statutory or at common law.
+(3) This Part has effect subject to and to the extent that it is consistent with the substantive law of contempt of court.
+Interpretation
+37.2.  In this Part—
+“claimant” means a person making a contempt application;
+“contempt application” means an application to the court for an order determining contempt proceedings;
+“defendant” means the person against whom the application is made;
+“order of committal” means the imposition of a sentence of imprisonment (whether immediate or suspended) for contempt of court;
+“penal notice” means a prominent notice on the front of an order warning that if the person against whom the order is made (and, in the case of a corporate body, a director or officer of that body) disobeys the court’s order, the person (or director or officer) may be held in contempt of court and punished by a fine, imprisonment, confiscation of assets or other punishment under the law.
+How to make a contempt application
+37.3.—(1) A contempt application made in existing High Court or family court proceedings is made by an application under Part 18 in those proceedings, whether or not the application is made against a party to those proceedings.
+(2) If the application is made in the High Court, it shall be determined by a High Court judge of the Division in which the case is proceeding. If it is made in the family court, it shall be determined by a judge of the family court.
+(The Family Court (Composition and Distribution of Business) Rules 2014(1) make provision for which level of judge may determine a contempt application.)
+(3) A contempt application in relation to alleged interference with the due administration of justice, otherwise than in existing High Court or family court proceedings, is made by an application to the High Court under Part 19.
+(4) Where an application under Part 19 is made under paragraph (3), the rules in Part 19 apply except as modified by this Part and the defendant is not required to acknowledge service of the application.
+(5) Permission to make a contempt application is required where the application is made in relation to—
+(a)
+interference with the due administration of justice, except in relation to existing High Court or family court proceedings;
+(b)
+an allegation of knowingly making a false statement in any affidavit, affirmation or other document verified by a statement of truth or in a disclosure statement.
+(6) If permission to make the application is needed, the application for permission shall be included in the contempt application, which will proceed to a full hearing only if permission is granted.
+(7) If permission is needed and the application relates to High Court proceedings, the question of permission shall be determined by a single judge of the High Court. If permission is granted the contempt application shall be determined by a single judge or Divisional Court of that Division.
+Requirements of a contempt application
+37.4.—(1) Unless and to the extent that the court directs otherwise, every contempt application must be supported by written evidence given by affidavit or affirmation.
+(2) A contempt application must include statements of all the following, unless (in the case of (b) to (g)) wholly inapplicable—
+(a)
+the nature of the alleged contempt (for example, breach of an order or undertaking or contempt in the face of the court);
+(b)
+the date and terms of any order allegedly breached or disobeyed;
+(c)
+confirmation that any such order was personally served, and the date it was served, unless the court or the parties dispensed with personal service;
+(d)
+if the court dispensed with personal service, the terms and date of the court’s order dispensing with personal service;
+(e)
+confirmation that any order allegedly breached or disobeyed included a penal notice;
+(f)
+the date and terms of any undertaking allegedly breached;
+(g)
+confirmation of the claimant’s belief that the person who gave any undertaking understood its terms and the consequences of failure to comply with it;
+(h)
+a brief summary of the facts alleged to constitute the contempt, set out numerically in chronological order;
+(i)
+that the defendant has the right to be legally represented in the contempt proceedings;
+(j)
+that the defendant is entitled to a reasonable opportunity to obtain legal representation and to apply for legal aid which may be available without any means test;
+(k)
+that the defendant may be entitled to the services of an interpreter;
+(l)
+that the defendant is entitled to a reasonable time to prepare for the hearing;
+(m)
+that the defendant is entitled but not obliged to give written and oral evidence in their defence;
+(n)
+that the defendant has the right to remain silent and to decline to answer any question the answer to which may incriminate the defendant;
+(o)
+that the court may proceed in the defendant’s absence if they do not attend but (whether or not they attend) will only find the defendant in contempt if satisfied beyond reasonable doubt of the facts constituting contempt and that they do constitute contempt;
+(p)
+that if the court is satisfied that the defendant has committed a contempt, the court may punish the defendant by a fine, imprisonment, confiscation of assets or other punishment under the law;
+(q)
+that if the defendant admits the contempt and wishes to apologise to the court, that is likely to reduce the seriousness of any punishment by the court;
+(r)
+that the court’s findings will be provided in writing as soon as practicable after the hearing; and
+(s)
+that the court will sit in public, unless and to the extent that the court orders otherwise, and that its findings will be made public.
+Service of a contempt application
+37.5.—(1) Unless the court directs otherwise in accordance with Part 6 and except as provided in paragraph (2), a contempt application and evidence in support must be served on the defendant personally.
+(2) Where a legal representative for the defendant is on the record in the proceedings in which, or in connection with which, an alleged contempt is committed—
+(a)
+the contempt application and evidence in support may be served on the representative for the defendant unless the representative objects in writing within seven days of receipt of the application and evidence in support;
+(b)
+if the representative does not object in writing, they must at once provide to the defendant a copy of the contempt application and the evidence supporting it and take all reasonable steps to ensure the defendant understands them;
+(c)
+if the representative objects in writing, the issue of service shall be referred to a judge of the court dealing with the contempt application; and the judge shall consider written representations from the parties and determine the issue on the papers, without (unless the judge directs otherwise) an oral hearing.
+Cases where no application is made
+37.6.—(1) If the court considers that a contempt of court (including a contempt in the face of the court) may have been committed, the court on its own initiative shall consider whether to proceed against the defendant in contempt proceedings.
+(2) Where the court does so, any other party in the proceedings may be required by the court to give such assistance to the court as is proportionate and reasonable, having regard to the resources available to that party.
+(3) If the court proceeds of its own initiative, it shall issue a summons to the defendant which includes the matters set out in rule 37.4(2)(a)-(s) (in so far as applicable) and requires the defendant to attend court for directions to be given.
+(4) A summons issued under this rule shall be served on the defendant personally and on any other party, unless the court directs otherwise. If rule 37.5(2) applies, the procedure there set out shall be followed unless the court directs otherwise.
+Directions for hearing of contempt proceedings
+37.7.—(1) The court shall give such directions as it thinks fit for the hearing and determination of contempt proceedings, including directions for the attendance of witnesses and oral evidence, as it considers appropriate.
+(2) The court may issue a bench warrant to secure the attendance of the defendant at a directions hearing or at the substantive hearing.
+(3) The court may not give any direction compelling the defendant to give evidence either orally or in writing.
+Hearings and judgments in contempt proceedings
+37.8.—(1) All hearings of contempt proceedings shall, irrespective of the parties’ consent, be listed and heard in public unless the court otherwise directs, applying the provisions of paragraph (4).
+(2) In deciding whether to hold a hearing in private, the court must consider any duty to protect or have regard to a right to freedom of expression which may be affected.
+(3) The court shall .take reasonable steps to ensure that all hearings are of an open and public character, save when a hearing is held in private.
+(4) A hearing, or any part of it, must be held in private if, and only to the extent that, the court is satisfied of one or more of the matters set out in sub-paragraphs (a) to (g) and that it is necessary to sit in private to secure the proper administration of justice—
+(a)
+publicity would defeat the object of the hearing;
+(b)
+it involves matters relating to national security;
+(c)
+it involves confidential information (including information relating to personal financial matters) and publicity would damage that confidentiality;
+(d)
+a private hearing is necessary to protect the interests of any child or protected party;
+(e)
+it is a hearing of an application made without notice and it would be unjust to any respondent for there to be a public hearing;
+(f)
+it involves uncontentious matters arising in the administration of trusts or in the administration of a deceased person’s estate; or
+(g)
+the court for any other reason considers this to be necessary to secure the proper administration of justice.
+(5) The court must order that the identity of any party or witness shall not be disclosed if, and only if, it considers non-disclosure necessary to secure the proper administration of justice and in order to protect the interests of that party or witness.
+(6) Unless and to the extent that the court otherwise directs, where the court acts under paragraph (4) or (5), a copy of the court’s order shall be published on the website of the Judiciary of England and Wales (which may be found at www.judiciary.uk). Any person who is not a party to the proceedings may apply to attend the hearing and make submissions, or apply to set aside or vary the order.
+(7) Advocates and the judge shall appear robed in all hearings of contempt proceedings, whether or not the court sits in public.
+(8) Before deciding to sit in private for all or part of the hearing, the court shall notify the national print and broadcast media, via the Press Association.
+(9) The court shall consider any submissions from the parties or media organisations before deciding whether and if so to what extent the hearing should be in private.
+(10) If the court decides to sit in private it shall, before doing so, sit in public to give a reasoned public judgment setting out why it is doing so.
+(11) At the conclusion of the hearing, whether or not held in private, the court shall sit in public to give a reasoned public judgment stating its findings and any punishment.
+(12) The court shall inform the defendant of the right to appeal without permission, the time limit for appealing and the court before which any appeal must be brought.
+(13) The court shall be responsible for ensuring that judgments in contempt proceedings are transcribed and published on the website of the judiciary of England and Wales.
+Powers of the court in contempt proceedings
+37.9.—(1) If the court finds the defendant in contempt of court, the court may impose a period of imprisonment (an order of committal), a fine, confiscation of assets or other punishment permitted under the law.
+(2) Execution of an order of committal requires issue of a warrant of committal. An order of committal and a warrant of committal have immediate effect unless and to the extent that the court decides to suspend execution of the order or warrant.
+(3) An order or warrant of committal must be personally served on the defendant unless the court directs otherwise.
+(4) To the extent that the substantive law permits, a court may attach a power of arrest to a committal order.
+(5) An order or warrant of committal may not be enforced more than two years after the date it was made unless the court directs otherwise.
+Applications to discharge committal orders
+37.10.—(1) A defendant against whom a committal order has been made may apply to discharge it.
+(2) Any such application shall be made by an application notice under Part 18 in the contempt proceedings.
+(3) The court hearing such an application shall consider all the circumstances and make such order under the law as it thinks fit.”
+(1)
+S.I. 2014/3297.EXPLANATORY NOTE
+(This note is not part of the Rules)
+These Rules amend the Family Procedure Rules 2010 (SI 2010/2955) by substituting for Part 37 of those Rules (applications and proceedings in relation to contempt of court) a new Part 37 that streamlines and simplifies the process for proceedings for contempt of court. The new Part mirrors Part 81 of the Civil Procedure Rules 1998 (S.I. 1998/3132) which was substituted by the Civil Procedure (Amendment No. 3) Rules 2020 following a consultation by the Civil Procedure Rule Committee (Proposed rule changes relating to contempt of court: redraft of CPR Part 81), which ran from 9 March 2020 to 11 May 2020. These Rules also make amendments in Parts 10 and 11 of the Family Procedure Rules 2010 which are consequential on the streamlining of the new Part 37.

@@ -1,0 +1,708 @@
+OFFERYNNAU STATUDOL CYMRU
+2022 Rhif 744 (Cy. 161)
+ADDYSG, CYMRU
+Rheoliadau Deddf Cwricwlwm ac Asesu (Cymru) 2021 (Diwygiadau Canlyniadol) (Deddfwriaeth Sylfaenol) 2022
+Gwnaed
+29 Mehefin 2022
+Yn dod i rym yn unol â rheoliad 1(2) a (3)
+Mae Gweinidogion Cymru, drwy arfer y pwerau a roddir gan adrannau 74(1) a 75(1)(b) o Ddeddf Cwricwlwm ac Asesu (Cymru) 2021(1), yn gwneud y Rheoliadau a ganlyn.
+Gosodwyd drafft o’r Rheoliadau hyn gerbron Senedd Cymru ac fe’i cymeradwywyd ganddi drwy benderfyniad fel sy’n ofynnol o dan adran 75(2) o’r Ddeddf honno.
+(1)
+2021 dsc 4. Gweler adran 82(1) am y diffiniad o “rheoliadau”.Enwi a chychwyn
+1.—(1) Enw’r Rheoliadau hyn yw Rheoliadau Deddf Cwricwlwm ac Asesu (Cymru) 2021 (Diwygiadau Canlyniadol) (Deddfwriaeth Sylfaenol) 2022.
+(2) Daw rheoliadau 1 i 4 ac Atodlen 1 i rym ar 1 Medi 2022.
+(3) Daw Atodlen 2 i rym fel a ganlyn—
+(a)
+ar 1 Medi 2022—
+(i)
+ar gyfer plentyn neu ddisgybl sy’n cael addysg feithrin,
+(ii)
+ar gyfer disgyblion mewn blwyddyn derbyn,
+(iii)
+ar gyfer plentyn neu ddisgybl ym mlynyddoedd 1 i 6, a
+(iv)
+ar gyfer plentyn neu ddisgybl ym mlwyddyn 7 y darperir cwricwlwm perthnasol iddo o dan Ddeddf 2021,
+(b)
+ar 1 Medi 2023 ar gyfer plentyn neu ddisgybl ym mlynyddoedd 7 ac 8,
+(c)
+ar 1 Medi 2024 ar gyfer plentyn neu ddisgybl ym mlwyddyn 9,
+(d)
+ar 1 Medi 2025 ar gyfer plentyn neu ddisgybl ym mlwyddyn 10, ac
+(e)
+ar 1 Medi 2026 ar gyfer plentyn neu ddisgybl ym mlynyddoedd 11 i 13.Dehongli
+2.  Yn y Rheoliadau hyn—
+ystyr “addysg feithrin” (“nursery education”) yw addysg a ddarperir i blant neu ddisgyblion sy’n iau na’r oedran ysgol gorfodol—
+(a)
+mewn ysgol a gynhelir neu ysgol feithrin a gynhelir, neu
+(b)
+gan ddarparwr addysg feithrin a gyllidir ond nas cynhelir;
+mae i “addysg feithrin a gyllidir ond nas cynhelir” (“funded non-maintained nursery education”) yr ystyr a roddir iddo yn adran 80(1)(a) o Ddeddf 2021;
+ystyr “blwyddyn 1” (“year 1”) yw’r grŵp blwyddyn y mae’r rhan fwyaf o’r disgyblion yn cyrraedd 6 oed ynddo;
+ystyr “blwyddyn 2” (“year 2”) yw’r grŵp blwyddyn y mae’r rhan fwyaf o’r disgyblion yn cyrraedd 7 oed ynddo;
+ystyr “blwyddyn 3” (“year 3”) yw’r grŵp blwyddyn y mae’r rhan fwyaf o’r disgyblion yn cyrraedd 8 oed ynddo;
+ystyr “blwyddyn 4” (“year 4”) yw’r grŵp blwyddyn y mae’r rhan fwyaf o’r disgyblion yn cyrraedd 9 oed ynddo;
+ystyr “blwyddyn 5” (“year 5”) yw’r grŵp blwyddyn y mae’r rhan fwyaf o’r disgyblion yn cyrraedd 10 oed ynddo;
+ystyr “blwyddyn 6” (“year 6”) yw’r grŵp blwyddyn y mae’r rhan fwyaf o’r disgyblion yn cyrraedd 11 oed ynddo;
+ystyr “blwyddyn 7” (“year 7”) yw’r grŵp blwyddyn y mae’r rhan fwyaf o’r disgyblion yn cyrraedd 12 oed ynddo;
+ystyr “blwyddyn 8” (“year 8”) yw’r grŵp blwyddyn y mae’r rhan fwyaf o’r disgyblion yn cyrraedd 13 oed ynddo;
+ystyr “blwyddyn 9” (“year 9”) yw’r grŵp blwyddyn y mae’r rhan fwyaf o’r disgyblion yn cyrraedd 14 oed ynddo;
+ystyr “blwyddyn 10” (“year 10”) yw’r grŵp blwyddyn y mae’r rhan fwyaf o’r disgyblion yn cyrraedd 15 oed ynddo;
+ystyr “blwyddyn 11” (“year 11”) yw’r grŵp blwyddyn y mae’r rhan fwyaf o’r disgyblion yn cyrraedd 16 oed ynddo;
+ystyr “blwyddyn 12” (“year 12”) yw’r grŵp blwyddyn y mae’r rhan fwyaf o’r disgyblion yn cyrraedd 17 oed ynddo;
+ystyr “blwyddyn 13” (“year 13”) yw’r grŵp blwyddyn y mae’r rhan fwyaf o’r disgyblion yn cyrraedd 18 oed ynddo;
+ystyr “blwyddyn derbyn” (“reception year”) yw grŵp blwyddyn y mae’r rhan fwyaf o’r disgyblion yn cyrraedd 5 oed ynddo;
+mae i “cwricwlwm perthnasol” (“relevant curriculum”) yr ystyr a roddir iddo yn adran 56(5) o Ddeddf 2021;
+ystyr “Deddf 1996” (“the 1996 Act”) yw Deddf Addysg 1996(1);
+ystyr “Deddf 2021” (“the 2021 Act”) yw Deddf Cwricwlwm ac Asesu (Cymru) 2021;
+mae i “disgybl” yr ystyr a roddir i “pupil” yn adran 3 o Ddeddf 1996(2);
+ystyr “grŵp blwyddyn” (“year group”) yw grŵp o blant neu ddisgyblion mewn lleoliad y bydd y rhan fwyaf ohonynt, mewn blwyddyn academaidd benodol, yn cyrraedd yr un oedran;
+ystyr “lleoliad” (“setting”) yw—
+(a)
+ysgol a gynhelir,
+(b)
+darparwr addysg feithrin a gyllidir ond nas cynhelir,
+(c)
+uned cyfeirio disgyblion, a
+(d)
+darpariaeth addysgu a dysgu ar gyfer plentyn ac eithrio mewn uned cyfeirio disgyblion yn rhinwedd trefniadau a wneir o dan adran 19A o Ddeddf 1996;
+mae i “plentyn” yr ystyr a roddir i “child” yn adran 579(1) o Ddeddf 1996;
+mae i “uned cyfeirio disgyblion (“pupil referral unit”) yr ystyr a roddir iddo yn adran 81(1) o Ddeddf 2021;
+mae i “ysgol a gynhelir” (“maintained school”) yr ystyr a roddir iddo yn adran 79(1)(a) o Ddeddf 2021;
+mae i “ysgol feithrin a gynhelir” (“maintained nursery school”) yr ystyr a roddir iddo yn adran 79(1)(b) o Ddeddf 2021.
+(1)
+1996 p. 56.
+(2)
+Diwygiwyd is-adran (1) gan adran 57(1) o Ddeddf Addysg 1997 (p. 44) a pharagraff 9 o Atodlen 7 iddi a diwygiwyd is-adrannau (1) ac (1A) ymhellach gan adran 215(1) o Ddeddf Addysg 2002 (p. 32) a pharagraff 34 o Atodlen 21 iddi.Diwygiadau i Ddeddf Cwricwlwm ac Asesu (Cymru) 2021
+3.  Mae Atodlen 1 yn cynnwys diwygiadau i Ddeddf Cwricwlwm ac Asesu (Cymru) 2021.Diwygiadau i ddeddfwriaeth sylfaenol
+4.  Mae Atodlen 2 yn cynnwys diwygiadau i ddeddfwriaeth sylfaenol.Jeremy Miles
+Gweinidog y Gymraeg ac Addysg, un o Weinidogion Cymru
+29 Mehefin 2022Rheoliad 3
+ATODLEN 1
+Diwygiadau i Ddeddf Cwricwlwm ac Asesu (Cymru) 2021
+1.—(1) Mae Deddf Cwricwlwm ac Asesu (Cymru) 2021 wedi ei diwygio fel a ganlyn.
+(2) Yn adran 13 (dyletswydd Gweinidogion Cymru i gyhoeddi cwricwlwm), yn is-adran (2), hepgorer “, ac unrhyw ofyniad a osodir o dan adran 25”.
+(3) Yn adran 14 (adolygu a diwygio cwricwlwm a gyhoeddir gan Weinidogion Cymru), yn is-adran (1), ym mharagraff (b), hepgorer “, ac unrhyw ofyniad a osodir o dan adran 25”.
+(4) Yn adran 15 (mabwysiadu cwricwlwm), yn is-adran (2), hepgorer “, ac unrhyw ofyniad a osodir o dan adran 25”.
+(5) Yn adran 16 (adolygu a diwygio cwricwlwm), yn is-adran (1), ym mharagraff (b), hepgorer “, ac unrhyw ofyniad a osodir o dan adran 25”.Rheoliad 4
+ATODLEN 2
+Diwygiadau i ddeddfwriaeth sylfaenol
+Deddf Plant 1989 (p. 41)
+1.—(1) Mae Deddf Plant 1989 wedi ei diwygio fel a ganlyn.
+(2) Yn adran 47 (dyletswydd awdurdod lleol i ymchwilio), yn is-adran (5ZA), ym mharagraff (a), yn is-baragraff (ii), ar ôl “section 19” mewnosoder “or 19A”.
+(3) Yn Atodlen 2 (cymorth i blant a theuluoedd a ddarperir gan awdurdodau lleol yn Lloegr), ym mharagraff 12D (osgoi amharu ar addysg)—
+(a)
+yn is-baragraff (1), ar ôl “fourth key stage” mewnosoder “or within sub-paragraph (3)”;
+(b)
+yn is-baragraff (2)—
+(i)
+hepgorer “or 7”;
+(ii)
+hepgorer “and 103”;
+(c)
+ar ôl is-baragraff (2) mewnosoder—
+“(3) A child is within this sub-paragraph if the child—
+(a)
+is a pupil at a maintained school maintained by a local authority in Wales,
+(b)
+has completed the school year in which the majority of pupils in the child’s class attained the age of 14, and
+(c)
+is still of compulsory school age.
+(4) In sub-paragraph (3)—
+(a)
+“pupil”, “school year” and “compulsory school age” have the meaning given by the Education Act 1996;
+(b)
+“maintained school” has the meaning given by section 20(7) of the School Standards and Framework Act 1998;
+(c)
+“the child’s class” means—
+(i)
+the teaching group in which the child is regularly taught at school, or
+(ii)
+where there are two or more such groups, the group designated by the head teacher of the child’s school.”
+Deddf Addysg 1996 (p. 56)
+2.—(1) Mae Deddf Addysg 1996 wedi ei diwygio fel a ganlyn.
+(2) Yn adran 18A (darparu addysg ar gyfer personau sy’n cael eu cadw’n gaeth mewn llety ieuenctid)—
+(a)
+yn is-adran (2)—
+(i)
+yn y geiriau o flaen paragraff (a), ar ôl “a local authority” mewnosoder “in England”;
+(ii)
+ym mharagraff (ba), hepgorer “in the case of a local authority in England,”;
+(iii)
+hepgorer paragraff (bb);
+(b)
+yn is-adran (3)—
+(i)
+ym mharagraff (a), hepgorer “in relation to a local authority in England,”;
+(ii)
+hepgorer paragraff (b);
+(c)
+ar ôl is-adran (4) mewnosoder—
+“(4A) In deciding for the purposes of subsection (1) whether education or training is suitable to meet persons’ reasonable needs, a local authority in Wales must (in particular) have regard to—
+(a)
+the persons’ ages, abilities and aptitudes;
+(b)
+any additional learning needs the persons may have;
+(c)
+the desirability of enabling persons to complete programmes of study or training which they have begun;
+(d)
+the desirability that education received by young persons subject to youth detention should be comparable with education which they could be expected to receive if they were attending a school or institution implementing a relevant curriculum;
+(e)
+the desirability that education received by children subject to youth detention should—
+(i)
+enable them to develop in the ways described in the four purposes,
+(ii)
+offer them appropriate progression,
+(iii)
+be broad and balanced, so far as is appropriate for them, and
+(iv)
+provide teaching and learning that encompasses the areas of learning and experience (including the mandatory elements within those areas) and develops the cross-curricular skills.
+(4B) In subsection (4A)(d), “relevant curriculum”, in relation to a local authority in Wales, means any local curriculum formed by the authority for their area under section 33A of the Learning and Skills Act 2000 (formation of local curricula for students aged 16 to 18).
+(4C) In subsection (4A)(e), expressions that are defined in, or are given a meaning by, the Curriculum and Assessment (Wales) Act 2021 have the same meaning as in that Act.”
+(3) Yn adran 19A (darpariaeth eithriadol o addysg mewn unedau cyfeirio disgyblion neu mewn mannau eraill: Cymru), yn is-adran (5), ar ôl “efficient education suitable to” mewnosoder “the child’s or”.
+(4) Yn adran 402 (rhwymedigaeth i gofrestru disgyblion ar gyfer arholiadau cyhoeddus)—
+(a)
+yn is-adran (2), hepgorer y geiriau ar ôl paragraff (b);
+(b)
+ar ôl is-adran (2) mewnosoder—
+“(2A) But subsection (2) does not apply to—
+(a)
+an examination which is part of the assessment arrangements for the fourth key stage and applies in the case of that pupil (if the pupil is registered at a school maintained by a local authority in England), or
+(b)
+an examination which is part of the assessment arrangements for pupils of compulsory school age who have completed the school year in which the majority of the pupils in their class attained the age of 14 and applies in the case of that pupil (if the pupil is registered at a school maintained by a local authority in Wales).”;
+(c)
+yn is-adran (6)—
+(i)
+ym mharagraff (aa)—
+(aa)
+hepgorer yr “and” ar ôl is-baragraff (i);
+(bb)
+hepgorer is-baragraff (ii) a’r “and” ar ei ôl;
+(ii)
+ar ôl paragraff (aa) mewnosoder—
+“(ab)
+“assessment arrangements”, in relation to a school maintained by a local authority in Wales, has the same meaning as in Part 4 of the Curriculum and Assessment (Wales) Act 2021 (assessment and progression);”.
+(5) Yn adran 406 (egwyddori gwleidyddol), yn is-adran (1), ym mharagraff (b)—
+(a)
+daw’r geiriau o “in the teaching” hyd at y diwedd yn is-baragraff (i);
+(b)
+ar ddiwedd yr is-baragraff hwnnw mewnosoder “(in the case of a school in England), or”;
+(c)
+ar ôl yr is-baragraff hwnnw mewnosoder—
+“(ii)
+in the teaching of any aspect of a curriculum provided in the school under the Curriculum and Assessment (Wales) Act 2021 (in the case of a school in Wales)”.
+(6) Yn adran 408 (darparu gwybodaeth)—
+(a)
+yn is-adran (1), ym mharagraff (a), ar ôl “Qualifications Wales Act 2015” mewnosoder “or the provisions of the Curriculum and Assessment (Wales) Act 2021”;
+(b)
+yn is-adran (4)—
+(i)
+ym mharagraff (e), yn lle “396” rhodder “396A”;
+(ii)
+hepgorer paragraff (h) a’r “and” o’i flaen;
+(c)
+yn is-adran (4A), hepgorer paragraff (b) a’r “and” o’i flaen;
+(d)
+yn is-adran (6), yn y geiriau o flaen paragraff (a)—
+(i)
+hepgorer “or 7”;
+(ii)
+ar ôl “Education Act 2002” mewnosoder “or Part 4 of the Curriculum and Assessment (Wales) Act 2021”.
+(7) Yn adran 409 (cwynion a gorfodi: ysgolion a gynhelir yng Nghymru), yn is-adran (3)—
+(a)
+hepgorer paragraff (aa) ond nid yr “and” ar ei ôl;
+(b)
+ym mharagraff (b), ar ôl “this Part” mewnosoder “or the Curriculum and Assessment (Wales) Act 2021”.
+(8) Yn adran 451 (gwahardd ffioedd am ddarparu addysg)—
+(a)
+yn is-adran (3) (fel y mae’n cael effaith hyd nes y daw’r amnewidiad a wneir gan adran 56(1) o Ddeddf Addysg ac Arolygiadau 2006 (p. 40) i rym yn llawn), ym mharagraff (b), yn lle’r geiriau o “section 88” hyd at y diwedd rhodder “or under the Curriculum and Assessment (Wales) Act 2021.”;
+(b)
+yn is-adran (4)—
+(i)
+ym mharagraff (b), hepgorer “or 109”;
+(ii)
+ar ddiwedd paragraff (c) mewnosoder—
+“, or
+(d)
+provided in pursuance of a duty imposed by or under the Curriculum and Assessment (Wales) Act 2021.”
+(9) Yn adran 537B (darparu gwybodaeth am blant sy’n cael addysg a gyllidir y tu allan i’r ysgol), yn is-adran (9), yn y diffiniad o “funded education”, ar ôl “section 19(1) and (4)” mewnosoder “or section 19A(1) and (4)”.
+(10) Yn adran 554 (pŵer i wneud darpariaeth newydd o ran y defnydd o waddolion)—
+(a)
+yn is-adran (3), ym mharagraff (b)—
+(i)
+ar ôl “religious education” mewnosoder “, or teaching and learning in Religion, Values and Ethics,”;
+(ii)
+ar ôl “1998” mewnosoder “, or in accordance with the Curriculum and Assessment (Wales) Act 2021”;
+(b)
+yn is-adran (4)—
+(i)
+ym mharagraff (a)—
+(aa)
+yn is-baragraff (i), ar ôl “religious education” mewnosoder “, or teaching and learning in Religion, Values and Ethics,”;
+(bb)
+yn is-baragraff (ii), ar ôl “religious education” mewnosoder “or teaching and learning in Religion, Values and Ethics”;
+(cc)
+yn y geiriau ar ôl is-baragraff (ii), ar ôl “religious education” mewnosoder “or teaching and learning in Religion, Values and Ethics”;
+(ii)
+ym mharagraff (b)—
+(aa)
+yn y geiriau o flaen is-baragraff (i), ar ôl “religious education” mewnosoder “or teaching and learning in Religion, Values and Ethics”;
+(bb)
+yn y geiriau ar ôl is-baragraff (iii), ar ôl “religious education” mewnosoder “or teaching and learning in Religion, Values and Ethics”;
+(c)
+ar ôl is-adran (6) mewnosoder—
+“(6A) In this section, and sections 556 and 557, “Religion, Values and Ethics” has the same meaning as in the Curriculum and Assessment (Wales) Act 2021.”
+(11) Yn adran 556 (cynnwys gorchmynion o dan adran 554), yn is-adran (3), ar ôl “religious education” mewnosoder “or teaching and learning in Religion, Values and Ethics”.
+(12) Yn adran 557 (mabwysiadu ymddiriedolaethau statudol), yn is-adran (1)(b)—
+(a)
+yn is-baragraff (i), ar ôl “religious education” mewnosoder “or teaching and learning in Religion, Values and Ethics”;
+(b)
+yn is-baragraff (ii), ar ôl “religious education” mewnosoder “or teaching and learning in Religion, Values and Ethics”.
+(13) Yn adran 579 (dehongli cyffredinol), yn is-adran (1), yn y diffiniad o “the National Curriculum”—
+(a)
+ym mharagraff (a), hepgorer “in relation to England”;
+(b)
+hepgorer paragraff (b) a’r “and” o’i flaen.
+Deddf Addysg 1997 (p. 44)
+3.—(1) Mae Deddf Addysg 1997 wedi ei diwygio fel a ganlyn.
+(2) Yn adran 19 (targedau perfformiad ysgol), yn is-adran (1), ym mharagraff (a), yn lle “for the purposes of the National Curriculum” rhodder “required by virtue of regulations made under Part 4 of the Curriculum and Assessment (Wales) Act 2021”.
+(3) Hepgorer adran 28.
+(4) Hepgorer adran 29.
+(5) Hepgorer adran 32.
+(6) Yn adran 40 (hawliau mynediad arolygydd etc)—
+(a)
+yn is-adran (2), ym mharagraff (c), ar ôl “adran 19” mewnosoder “or 19A”;
+(b)
+yn is-adran (3), ym mharagraff (b), ar ôl “section 19” mewnosoder “or 19A”;
+(c)
+yn is-adran (8), ar ôl “section 19”, yn y ddau le y mae’n digwydd, mewnosoder “or 19A”.
+(7) Yn lle adran 43 (darparu addysg gyrfaoedd mewn ysgolion yng Nghymru) rhodder—
+43    Provision of careers education for certain persons: Wales
+(1) A programme of careers education must be provided for—
+(a)
+each pupil who—
+(i)
+is a registered pupil at a school in Wales listed in subsection (2), and
+(ii)
+is of compulsory school age, or over compulsory school age, but under the age of 19;
+(b)
+each person who—
+(i)
+is attending an institution in Wales within the further education sector (whether full or part time), and
+(ii)
+is of compulsory school age, or over compulsory school age but under the age of 19;
+(c)
+each child or young person for whom arrangements are made under section 19A of the Education Act 1996 (exceptional provision of education in pupil referral units or elsewhere: Wales).
+(2) The schools are—
+(a)
+community, foundation and voluntary schools;
+(b)
+community special schools (other than those established in hospitals).
+(3) The following persons must secure that subsection (1) is complied with—
+(a)
+in the case of a pupil falling within subsection (1)(a), the head teacher of the school;
+(b)
+in the case of a person falling within subsection (1)(b), the principal or other head of the institution;
+(c)
+in the case of a child or young person falling within subsection (1)(c)—
+(i)
+the local authority that makes the arrangements, and
+(ii)
+where the arrangements include the provision of education at a pupil referral unit maintained by a local authority in Wales, the teacher in charge of the unit.
+(4) In this section—
+“career” includes the undertaking of any training, employment or occupation or any course of education;
+“careers education” means education designed to prepare persons for taking decisions about their careers and to help them implement such decisions.”
+(8) Yn adran 44 (ysgolion a sefydliadau eraill yng Nghymru i gydweithredu â chynghorwyr gyrfaoedd)—
+(a)
+yn is-adran (8)—
+(i)
+ym mharagraff (a), hepgorer “(a) and (c)”;
+(ii)
+hepgorer yr “and” ar ôl paragraff (a);
+(iii)
+ar ôl paragraff (a) mewnosoder—
+“(aa)
+pupil referral units maintained by local authorities in Wales, and”;
+(b)
+yn is-adran (10), yn lle paragraff (a) rhodder—
+“(a)
+a pupil at a school in Wales, or at a pupil referral unit maintained by a local authority in Wales, is a relevant pupil if the pupil is receiving secondary education and—
+(i)
+in the case of a pupil at a school is under 19, and
+(ii)
+in the case of a pupil at a pupil referral unit, is under 18; and”.
+(9) Yn adran 45 (darparu gwybodaeth am yrfaoedd mewn ysgolion a sefydliadau eraill)—
+(a)
+yn is-adran (2)—
+(i)
+ym mharagraff (a), hepgorer “(a) and (c)”;
+(ii)
+hepgorer yr “and” ar ôl paragraff (a);
+(iii)
+ar ôl paragraff (a) mewnosoder—
+“(aa)
+pupil referral units maintained by local authorities in Wales; and”;
+(b)
+ar ôl is-adran (3) mewnosoder—
+“(3A) In the case of children within subsection (1), it is the duty of the local authority concerned to secure that subsection (1) is complied with.”
+(10) Yn adran 45B (darparu gwybodaeth am y cwricwlwm: Cymru)—
+(a)
+yn is-adran (6)—
+(i)
+hepgorer yr “and” ar ôl paragraff (a);
+(ii)
+ar ôl paragraff (a) mewnosoder—
+“(aa)
+the local authority and the teacher in charge of a pupil referral unit maintained by a local authority in Wales; and”;
+(b)
+yn is-adran (7)—
+(i)
+yn y diffiniad o “curriculum information”—
+(aa)
+ym mharagraff (a), yn lle “during the relevant phase of their education” rhodder “who are receiving secondary education”;
+(bb)
+ar ôl paragraff (a) mewnosoder—
+“(aa)
+in relation to a pupil referral unit, information about the curriculum for registered pupils at the unit who are receiving secondary education; and”;
+(ii)
+hepgorer y diffiniad o “relevant phase”.
+(11) Yn adran 46 (estyn neu addasu darpariaethau adrannau 43 i 45)—
+(a)
+ym mhennawd yr adran, yn lle “ss 43 to 45” rhodder “sections 42A to 45”;
+(b)
+yn is-adran (1)—
+(i)
+yn lle “42A, 42B, 43 or 44” rhodder “42A or 42B, in relation to England”;
+(ii)
+yn lle “42A(6), 42B(9), 43(5) or 44(10)(a)(i)” rhodder “42A(6) or 42B(9)”;
+(c)
+ar ôl is-adran (1) mewnosoder—
+“(1A) The Welsh Ministers may by regulations make provision extending the range of pupils, children and young persons to whom section 43 or 44 applies.
+(1B) The regulations may among other things make provision by reference to a description of school specified in the regulations.”;
+(d)
+yn is-adran (2), hepgorer “43, 44 or”.
+Deddf Safonau a Fframwaith Ysgolion 1998 (p. 31)
+4.—(1) Mae Deddf Safonau a Fframwaith Ysgolion 1998 wedi ei diwygio fel a ganlyn.
+(2) Yn y pennawd italig o flaen adran 58, ar ôl “religious education” mewnosoder “etc”.
+(3) Yn adran 58 (penodi a diswyddo athrawon penodol mewn ysgolion sydd â chymeriad crefyddol)—
+(a)
+yn y pennawd, ar y diwedd mewnosoder “: England”;
+(b)
+yn is-adran (1)—
+(i)
+ym mharagraff (a), ar ôl “voluntary controlled school” mewnosoder “in England;
+(ii)
+ym mharagraff (b), ar ôl “voluntary aided school” mewnosoder “in England”;
+(iii)
+yn y geiriau ar ôl paragraff (b)—
+(aa)
+ar ôl “construed” mewnosoder “in relation to a school in England,”;
+(bb)
+hepgorer “section 68A and”.
+(4) Ar ôl adran 58 mewnosoder—
+58A.    Appointment and dismissal of certain teachers at schools with a religious character: Wales
+(1) In this section—
+(a)
+subsections (3) to (7) apply to a foundation or voluntary controlled school in Wales that has a religious character, and
+(b)
+subsections (8) and (9) apply (subject to subsection (10)) to a voluntary aided school in Wales that has a religious character.
+(2) References in this Chapter to a school which has (or does not have) a religious character are to be construed, in relation to a school in Wales, in accordance with section 68A(1).
+(3) Where the number of teachers at a school to which this subsection applies is more than two, the teachers must include persons (“reserved teachers”) who—
+(a)
+are selected for their fitness and competence to provide teaching and learning within subsection (11), and
+(b)
+are specifically appointed to provide that teaching and learning.
+(4) The number of reserved teachers at a school must not exceed one fifth of the total number of teachers, including the head teacher; and for this purpose where the total number of teachers is not a multiple of five, it is to be treated as if it were the next higher multiple of five.
+(5) Where the appropriate body propose to appoint a person as a reserved teacher in a school, that body—
+(a)
+must consult the foundation governors, and
+(b)
+must not appoint that person unless the foundation governors are satisfied as to the person’s fitness and competence to provide teaching and learning within subsection (11).
+(6) Subsection (7) applies if the foundation governors of a school to which subsection (3) applies consider that a person appointed as a reserved teacher at the school has failed to provide teaching and learning within subsection (11) efficiently and suitably.
+(7) The foundation governors may—
+(a)
+in the case of a teacher who is an employee, require the appropriate body to dismiss the teacher from employment as a teacher appointed under subsection (3);
+(b)
+in the case of a teacher who is engaged otherwise than under a contract of employment, require the governing body to terminate that engagement.
+(8) Subsection (9) applies if a teacher appointed to provide teaching and learning within subsection (11), in a school to which this subsection applies, fails to provide that teaching and learning efficiently and suitably.
+(9) The teacher may be dismissed by the governing body, without the consent of the local authority, on the ground of failure to provide the teaching and learning efficiently and suitably.
+(10) Subsection (9) does not apply where the school has a delegated budget.
+(11) Teaching and learning within this section is teaching and learning in Religion, Values and Ethics that accords with—
+(a)
+any provisions of the school’s trust deed that relate to teaching and learning in Religion, Values and Ethics, or
+(b)
+if there are no such provisions, the tenets of the religion or religious denomination specified in relation to the school under section 68A.
+(12) In this section—
+“the appropriate body” means—
+(a)
+in relation to a foundation school, the governing body, and
+(b)
+in relation to a voluntary controlled school, the local authority;
+“Religion, Values and Ethics” has the same meaning as in the Curriculum and Assessment (Wales) Act 2021.”
+(5) Yn adran 59 (staff mewn ysgol gymunedol, ysgol sefydledig seciwlar neu wirfoddol, neu ysgol arbennig)—
+(a)
+yn is-adran (3), ar ôl “education” mewnosoder “(in the case of a school in England) or to provide teaching and learning in Religion, Values and Ethics (in the case of a school in Wales)”;
+(b)
+yn is-adran (4), ym mharagraff (a), ar ôl “education” mewnosoder “or (as the case may be) provide teaching and learning in Religion, Values and Ethics”.
+(6) Yn adran 60 (staff mewn ysgol sefydledig neu ysgol wirfoddol sydd â chymeriad crefyddol), yn is-adran (5)(a), yn is-baragraff (iii), ar ôl “tenets” mewnosoder “(in the case of a school in England) or to provide teaching and learning in Religion, Values and Ethics in accordance with those tenets (in the case of a school in Wales)”.
+(7) Yn adran 102 (dethol a ganiateir: dawn am bynciau penodol)—
+(a)
+yn y pennawd, ar ôl “selection” mewnosoder “in maintained schools in England”;
+(b)
+yn is-adran (1), ar ôl “maintained school” mewnosoder “in England”.
+(8) Ar ôl adran 102 mewnosoder—
+102A.    Permitted selection in maintained schools in Wales: aptitude for particular areas of learning and experience etc.
+(1) The admission arrangements for a maintained school in Wales may make provision for the selection of pupils for admission to the school by reference to their aptitude for—
+(a)
+one or more prescribed areas of learning and experience, or
+(b)
+one or more prescribed elements within one or more areas of learning and experience.
+(2) But the admission arrangements may make such provision only where—
+(a)
+the admission authority for the school are satisfied that the school has a specialism in the area or areas, or element or elements, in question, and
+(b)
+the proportion of selective admissions in any relevant age group does not exceed 10 per cent.
+(3) Subsection (1) does not apply if the admission arrangements make provision for any test to be carried out in relation to an applicant for admission which is either a test of ability or one designed to elicit the applicant’s aptitude other than for the area or areas, or element or elements, in question.
+(4) Where, however, the admission arrangements for a school make both such provision for selection by aptitude as is mentioned in subsection (1) and such provision for selection by ability as is mentioned in section 101(1), the reference in subsection (3) to a test of ability does not include any such test for which provision may be made under that section.
+(5) In this section, “the proportion of selective admissions”, in relation to a relevant age group, means the proportion of the total number of pupils admitted to the school in that age group (determined in the prescribed manner) which is represented by the number of pupils so admitted by reference to aptitude for the area or areas, or element or elements, in question.
+(6) In this section—
+“area of learning and experience” has the same meaning as in the Curriculum and Assessment (Wales) Act 2021;
+“test” includes assessment and examination.”
+(9) Yn Atodlen 20 (addoli ar y cyd), ym mharagraff 4, yn is-baragraff (1), yn lle “on religious education” rhodder “constituted under section 390 of the Education Act 1996”.
+(10) Yn Atodlen 26 (arolygu addysg feithrin yng Nghymru), ym mharagraff 3 (swyddogaethau cyffredinol y Prif Arolygydd)—
+(a)
+daw’r ddarpariaeth bresennol yn is-baragraff (1);
+(b)
+yn yr is-baragraff hwnnw—
+(i)
+hepgorer yr “and” ar ôl paragraff (ac);
+(ii)
+ar ôl paragraff (ac) mewnosoder—
+“(ad)
+the development of children for whom relevant nursery education is provided, by reference to the four purposes of a curriculum for those children, and”;
+(c)
+ar ôl yr is-baragraff hwnnw mewnosoder—
+“(2) In sub-paragraph (1), the four purposes of a curriculum for the children mentioned in paragraph (ad) are those set out in section 2(1) of the Curriculum and Assessment (Wales) Act 2021.”
+Deddf Dysgu a Sgiliau 2000 (p. 21)
+5.—(1) Mae Deddf Dysgu a Sgiliau 2000 wedi ei diwygio fel a ganlyn.
+(2) Yn adran 33D (penderfynu ysgol berthnasol neu sefydliad perthnasol ar gyfer disgybl)—
+(a)
+yn is-adran (1), yn lle “fourth key stage” rhodder “relevant period”;
+(b)
+ar ôl is-adran (1) mewnosoder—
+“(1A) The relevant period, in relation to a registered pupil of a maintained school, is the period—
+(a)
+beginning at the same time as the school year in which the majority of pupils in the pupil’s class attain the age of 15, and
+(b)
+ending at the same time as the school year in which the majority of pupils in the pupil’s class cease to be of compulsory school age.”
+(3) Yn adran 33N (y cwricwlwm lleol: dehongli), yn is-adran (1), hepgorer y diffiniad o “fourth key stage”.
+Deddf Addysg 2002 (p. 32)
+6.—(1) Mae Deddf Addysg 2002 wedi ei diwygio fel a ganlyn.
+(2) Yn adran 1 (diben Pennod 1 a’i dehongli), yn is-adran (2)—
+(a)
+ym mharagraff (a), ar ôl “school” mewnosoder “in England”;
+(b)
+hepgorer yr “and” ar ôl paragraff (a);
+(c)
+ar ôl paragraff (a) mewnosoder—
+“(aa)
+have regard to the need for the curriculum for pupils of compulsory school age, or below that age, at any maintained school affected by the project that is maintained by a local authority in Wales—
+(i)
+to enable pupils to develop in the ways described in the four purposes set out in section 2(1) of the Curriculum and Assessment (Wales) Act 2021,
+(ii)
+to provide for appropriate progression,
+(iii)
+to be suitable for pupils of differing ages, abilities and aptitudes, and
+(iv)
+to be broad and balanced,
+(ab)
+have regard to the need for—
+(i)
+the curriculum for pupils above compulsory school age at any maintained school affected by the project that is maintained by a local authority in Wales, and
+(ii)
+the curriculum for pupils of any age at any other school in Wales affected by the project, to be a balanced and broadly based curriculum which promotes the spiritual, moral, cultural, mental and physical development of those pupils and of society, and”.
+(3) Yn adran 6 (dehongli Pennod 2), yn is-adran (4), yn y diffiniad o “curriculum provision”, ym mharagraff (b), yn lle “provision of the National Curriculum for Wales” rhodder “requirement imposed under or by virtue of Part 2 of the Curriculum and Assessment (Wales) Act 2021”.
+(4) Yn adran 29 (swyddogaethau ychwanegol y corff llywodraethu), yn is-adran (3)—
+(a)
+daw’r geiriau o “any instruction or training” hyd at y diwedd yn baragraff (a);
+(b)
+ar ddiwedd paragraff (a) mewnosoder “(in the case of a school maintained by a local authority in England),”;
+(c)
+ar ôl paragraff (a) mewnosoder—
+“or
+(b)
+any instruction or training included in a curriculum for those pupils by virtue of the Curriculum and Assessment (Wales) Act 2021 or the Learning and Skills (Wales) Measure 2009 (in the case of a school maintained by a local authority in Wales).”
+(5) Yn adran 210 (gorchmynion a rheoliadau), yn is-adran (6A), hepgorer “or an order”.
+(6) Yn adran 212 (dehongli cyffredinol), yn is-adran (3), ym mharagraff (e), yn lle “Parts 6 and 7” rhodder “Part 6”.
+(7) Yn adran 216 (cychwyn), yn is-adran (3), hepgorer “Part 7,”.
+(8) Yn Atodlen 21 (mân ddiwygiadau a diwygiadau canlyniadol)—
+(a)
+ym mharagraff 45, hepgorer “, and (ii) in relation to a school maintained by a local authority in Wales, have the same meaning as in Part 7 of that Act (the curriculum in Wales); and”;
+(b)
+ym mharagraff 46—
+(i)
+yn is-baragraff (4), hepgorer “, and (b) sections 97 to 117 (the curriculum in Wales)”;
+(ii)
+yn is-baragraff (5), hepgorer “or 7”;
+(c)
+ym mharagraff 48—
+(i)
+yn is-baragraff (2)—
+(aa)
+hepgorer “or 109”;
+(bb)
+hepgorer “or National Curriculum for Wales”;
+(ii)
+yn is-baragraff (3), hepgorer “or 109”;
+(d)
+ym mharagraff 57, yn is-baragraff (b), yn y diffiniad o “the National Curriculum”, hepgorer “, and (b) in relation to Wales, the National Curriculum for Wales”.
+Deddf Cenedligrwydd, Mewnfudo a Lloches 2002 (p. 41)
+7.  Yn adran 36 (addysg: cyffredinol) o Ddeddf Cenedligrwydd, Mewnfudo a Lloches 2002, yn is-adran (5), ym mharagraff (c), ar ôl “section 19” mewnosoder “or 19A”.
+Deddf Addysg 2005 (p. 18)
+8.—(1) Mae Deddf Addysg 2005 wedi ei diwygio fel a ganlyn.
+(2) Yn adran 20 (swyddogaethau’r Prif Arolygydd)—
+(a)
+yn is-adran (1), ar ôl paragraff (d) mewnosoder—
+“(da)
+the development of pupils at maintained schools (except those over compulsory school age) by reference to the four purposes of a curriculum for those pupils,”;
+(b)
+ar ôl is-adran (1) mewnosoder—
+“(1A) In subsection (1)(da)—
+“maintained school” does not include a community special school established in a hospital, and
+“the four purposes of a curriculum” for the pupils mentioned in paragraph (da) are those set out in section 2(1) of the Curriculum and Assessment (Wales) Act 2021.”
+(3) Yn adran 28 (dyletswydd i drefnu bod ysgolion penodol yn cael eu harolygu’n rheolaidd)—
+(a)
+yn is-adran (5), ar ôl paragraff (d) mewnosoder—
+“(da)
+the development of the pupils at the school (except those over compulsory school age) by reference to the four purposes of a curriculum for those pupils,”;
+(b)
+ar ôl is-adran (5) mewnosoder—
+“(5A) The duty to report on the matters mentioned in subsection (5)(da) does not apply in the case of an inspection conducted at a community special school established in a hospital.
+(5B) In subsection (5)(da), “the four purposes of a curriculum” for the pupils mentioned in paragraph (da) are those set out in section 2(1) of the Curriculum and Assessment (Wales) Act 2021.”
+(4) Yn adran 47 (ystyr “denominational education”)—
+(a)
+daw’r ddarpariaeth bresennol yn is-adran (1);
+(b)
+yn yr is-adran honno, ar ôl “in relation to a school” mewnosoder “in England”;
+(c)
+ar ôl yr is-adran honno mewnosoder—
+“(2) In this Part, “denominational education”, in relation to a school in Wales, means teaching and learning in respect of Religion, Values and Ethics, which is provided—
+(a)
+under paragraph 7(3) or paragraph 8(4) of Schedule 1 to the Curriculum and Assessment (Wales) Act 2021, or
+(b)
+under section 61 of that Act, and in accordance with—
+(i)
+any provisions of the school’s trust deed that relate to teaching and learning in respect of the mandatory element of Religion, Values and Ethics, or
+(ii)
+the tenets of the religion or religious denomination specified in relation to the school in an order under section 68A of the School Standards and Framework Act 1998.”
+Deddf Diogelu Grwpiau Hyglwyf 2006 (p. 47)
+9.  Yn Atodlen 4 i Ddeddf Diogelu Grwpiau Hyglwyf 2006 (gweithgaredd rheoleiddiedig)—
+(a)
+ym mharagraff 1(9B)(m), yn lle “religious” rhodder “denominational”;
+(b)
+ym mharagraff 3, yn is-baragraff (1), ym mharagraff (aa), yn lle “19(2) or (2B)” rhodder “19(2B) or 19A(2)”.
+Mesur Teithio gan Ddysgwyr (Cymru) 2008 (mccc 2)
+10.  Yn adran 1 o Fesur Teithio gan Ddysgwyr (Cymru) 2008 (y prif dermau a ddefnyddir yn y Mesur hwn), yn is-adran (4), ym mharagraff (f), yn lle “19(1)” rhodder “19A(1)”.
+Mesur Dysgu a Sgiliau (Cymru) 2009 (mccc 1)
+11.—(1) Mae Mesur Dysgu a Sgiliau (Cymru) 2009 wedi ei ddiwygio fel a ganlyn.
+(2) Yn adran 35 (y cwricwlwm lleol: dehongli), hepgorer y diffiniad o “fourth key stage” yn adran 33N(1) o Ddeddf Dysgu a Sgiliau 2000.
+(3) Yn adran 43 (y ddogfen llwybr dysgu), yn is-adran (2), ym mharagraff (a), hepgorer “adran 116E(1) o Ddeddf Addysg 2002 neu”.
+(4) Yn yr Atodlen (mân ddiwygiadau a diwygiadau canlyniadol)—
+(a)
+hepgorer y pennawd italig o flaen paragraff 21;
+(b)
+hepgorer paragraffau 21 a 22.
+Mesur Addysg (Cymru) 2011 (mccc 7)
+12.—(1) Mae Mesur Addysg (Cymru) 2011 wedi ei ddiwygio fel a ganlyn.
+(2) Yn adran 3 (dyletswydd corff addysg i gydlafurio), yn is-adran (4)—
+(a)
+hepgorer paragraff (b);
+(b)
+ar ôl paragraff (c) mewnosoder—
+“(d)
+adran 65 o Ddeddf Cwricwlwm ac Asesu (Cymru) 2021.”
+(3) Yn adran 5 (pwerau cydlafurio), yn is-adran (1), ym mharagraff (c), yn lle “adran 116J o Ddeddf Addysg 2002, neu” rhodder “adran 65 o Ddeddf Cwricwlwm ac Asesu (Cymru) 2021,”.
+Deddf Diogelu Rhyddidau 2012 (p. 9)
+13.  Yn adran 28 o Ddeddf Diogelu Rhyddidau 2012 (dehongli: Pennod 2), yn is-adran (9), yn lle “19(2)” rhodder “19A(2)”.
+Deddf Safonau a Threfniadaeth Ysgolion (Cymru) 2013 (dccc 1)
+14.—(1) Mae Deddf Safonau a Threfniadaeth Ysgolion (Cymru) 2013 wedi ei diwygio fel a ganlyn.
+(2) Yn Atodlen 2 (newidiadau rheoleiddiedig), ym mharagraff 7—
+(a)
+yn is-baragraff (2)—
+(i)
+yn lle “grŵp oedran (neu grwpiau oedran)” rhodder “grŵp blwyddyn perthnasol (neu grwpiau blwyddyn perthnasol)”;
+(ii)
+yn lle “grŵp oedran hwnnw (neu’r grwpiau oedran hynny)” rhodder “grŵp blwyddyn perthnasol hwnnw (neu’r grwpiau blwyddyn perthnasol hynny)”;
+(b)
+yn is-baragraff (3), yn lle paragraff (a) rhodder—
+“(a)
+ystyr “grŵp blwyddyn perthnasol” yw grŵp blwyddyn nad yw’r rhan fwyaf o’r disgyblion eto wedi cwblhau’r flwyddyn ysgol y maent yn cyrraedd 11 oed ynddi;”.
+(3) Yn Atodlen 5 (mân ddiwygiadau a diwygiadau canlyniadol), ym mharagraff 2, hepgorer is-baragraff (8).
+Deddf Cyfiawnder Troseddol a’r Llysoedd 2015 (p. 2)
+15.  Yn Atodlen 4 i Ddeddf Cyfiawnder Troseddol a’r Llysoedd 2015 (trin yn wael neu esgeulustod bwriadol: gofal iechyd a eithrir)—
+(a)
+ym mharagraff 2, yn is-baragraff (b), ar ôl “section 19” mewnosoder “or 19A”;
+(b)
+ym mharagraff 3, yn is-baragraff (f), yn lle “section 19” rhodder “sections 19 and 19A”.
+Deddf Gwrthderfysgaeth a Diogelwch 2015 (p. 6)
+16.—(1) Mae Deddf Gwrthderfysgaeth a Diogelwch 2015 wedi ei diwygio fel a ganlyn.
+(2) Yn Atodlen 6 (awdurdodau penodedig), yn y cofnod o dan y pennawd “Education, child care etc” sy’n dechrau ag “A person with whom arrangements have been made”, ar ôl “19” mewnosoder “or 19A”.
+(3) Yn Atodlen 7 (partneriaid paneli lleol), yn y cofnod o dan y pennawd “Education, child care etc” sy’n dechrau ag “A person with whom arrangements have been made”, ar ôl “19” mewnosoder “or 19A”.
+Deddf Gwasanaethau Cymdeithasol a Llesiant (Cymru) 2014 (dccc 4)
+17.—(1) Mae Deddf Gwasanaethau Cymdeithasol a Llesiant (Cymru) 2014 wedi ei diwygio fel a ganlyn.
+(2) Yn adran 91 (rheoliadau ynghylch osgoi amharu ar addysg)—
+(a)
+yn is-adran (1)—
+(i)
+ar ôl “plentyn” mewnosoder “perthnasol”;
+(ii)
+hepgorer “os yw yng nghyfnod allweddol pedwar”;
+(b)
+ar ôl is-adran (1) mewnosoder—
+“(1A) Yn is-adran (1), ystyr “plentyn perthnasol” yw plentyn—
+(a)
+sy’n ddisgybl mewn ysgol a gynhelir,
+(b)
+sydd wedi cwblhau’r flwyddyn ysgol y cyrhaeddodd y rhan fwyaf o’r disgyblion yn nosbarth y plentyn 14 oed ynddi, ac
+(c)
+sy’n dal i fod o’r oedran ysgol gorfodol.”;
+(c)
+yn lle is-adran (2) rhodder—
+“(2) Yn is-adran (1A)—
+(a)
+mae i “disgybl”, “blwyddyn ysgol” ac “oedran ysgol gorfodol” yr ystyr a roddir i “pupil”, “school year” a “compulsory school age” yn Neddf Addysg 1996;
+(b)
+mae i “ysgol a gynhelir” yr ystyr a roddir gan adran 79 o Ddeddf Cwricwlwm ac Asesu (Cymru) 2021;
+(c)
+ystyr “dosbarth y plentyn” yw—
+(i)
+y grŵp addysgu yr addysgir y plentyn ynddo yn rheolaidd yn yr ysgol, neu
+(ii)
+pan fo dau neu ragor o grwpiau o’r fath, y grŵp a ddynodir gan bennaeth ysgol y plentyn.”
+Deddf Anghenion Dysgu Ychwanegol a’r Tribiwnlys Addysg (Cymru) 2018 (dccc 2)
+18.—(1) Mae Deddf Anghenion Dysgu Ychwanegol a’r Tribiwnlys Addysg (Cymru) 2018 wedi ei diwygio fel a ganlyn.
+(2) Yn adran 99 (dehongli cyffredinol), yn is-adran (1), yn y diffiniad o “uned cyfeirio disgyblion”, yn lle “19(2)” rhodder “19A(2)”.
+(3) Yn Atodlen 1 (mân ddiwygiadau a diwygiadau canlyniadol a diddymiadau), ym mharagraff 4, hepgorer is-baragraff (6).NODYN ESBONIADOL
+(Nid yw’r nodyn hwn yn rhan o’r Rheoliadau)
+Mae’r Rheoliadau hyn wedi eu gwneud o dan adran 74(1) o Ddeddf Cwricwlwm ac Asesu (Cymru) 2021 (“Deddf 2021”) sy’n galluogi Gweinidogion Cymru i wneud darpariaeth ychwanegol sy’n rhoi effaith lawn i Ddeddf 2021 ac o dan adran 75(1)(b) o Ddeddf 2021 sy’n galluogi Gweinidogion Cymru i wneud darpariaeth wahanol at ddibenion gwahanol. Mae Deddf 2021 yn sefydlu fframwaith newydd ar gyfer cwricwlwm ac yn gwneud darpariaeth ynghylch asesu ar gyfer disgyblion a phlant yng Nghymru. Dyma’r Cwricwlwm i Gymru.
+Mae’r Rheoliadau hyn yn ymdrin â diwygiadau canlyniadol i ddeddfwriaeth sylfaenol sy’n codi wrth weithredu Deddf 2021.
+Mae rheoliad 1 o’r Rheoliadau hyn yn darparu ar gyfer cychwyn y Rheoliadau hyn fesul grŵp blwyddyn. Bydd hyn yn adlewyrchu’r dull arfaethedig o gyflwyno’r Cwricwlwm i Gymru a fydd hefyd yn cael ei gyflwyno’n raddol dros gyfnod o amser fesul grŵp blwyddyn.
+Daw’r Cwricwlwm i Gymru a’r darpariaethau yn y Rheoliadau hyn yn fandadol fel a ganlyn—
+(a)
+ar 1 Medi 2022—
+(i)
+ar gyfer plentyn neu ddisgybl sy’n cael addysg feithrin,
+(ii)
+ar gyfer plentyn neu ddisgybl mewn blwyddyn derbyn mewn ysgol a gynhelir,
+(iii)
+ar gyfer plentyn neu ddisgybl ym mlynyddoedd 1 i 6,
+(b)
+ar 1 Medi 2022 ar gyfer plentyn neu ddisgybl ym mlwyddyn 7 yn yr ysgolion a gynhelir hynny, yr unedau cyfeirio disgyblion hynny ac ar gyfer y plant hynny y darperir addysg ac eithrio yn yr ysgol nad yw mewn UCD iddynt pan fo cwricwlwm wedi ei fabwysiadu neu wedi ei ddarparu fel arall yn unol â Deddf 2021,
+(c)
+ar 1 Medi 2023 ar gyfer plentyn neu ddisgybl ym mlynyddoedd 7 ac 8,
+(d)
+ar 1 Medi 2024 ar gyfer plentyn neu ddisgybl ym mlwyddyn 9,
+(e)
+ar 1 Medi 2025 ar gyfer plentyn neu ddisgybl ym mlwyddyn 10, ac
+(f)
+ar 1 Medi 2026 ar gyfer plentyn neu ddisgybl ym mlynyddoedd 11 i 13.
+Ystyriwyd Cod Ymarfer Gweinidogion Cymru ar gynnal Asesiadau Effaith Rheoleiddiol mewn perthynas â’r Rheoliadau hyn. O ganlyniad, ystyriwyd nad oedd yn angenrheidiol cynnal asesiad effaith rheoleiddiol o’r costau a’r manteision sy’n debygol o ddeillio o gydymffurfio â’r Rheoliadau hyn.

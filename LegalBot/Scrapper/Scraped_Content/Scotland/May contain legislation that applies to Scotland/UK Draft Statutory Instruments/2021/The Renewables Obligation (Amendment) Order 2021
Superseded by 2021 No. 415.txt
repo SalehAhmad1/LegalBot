@@ -1,0 +1,44 @@
+Draft Order laid before Parliament under section 32L(2) of the Electricity Act 1989, for approval by resolution of each House of Parliament.
+DRAFT STATUTORY INSTRUMENTS
+2021 No.
+ELECTRICITY, ENGLAND AND WALES
+The Renewables Obligation (Amendment) Order 2021
+Made
+***
+Coming into force
+31st March 2021
+The Secretary of State, in exercise of the powers conferred by sections 32, 32A, 32G and 32K of the Electricity Act 1989(1), makes the following Order.
+The Secretary of State consulted the Gas and Electricity Markets Authority, the National Association of Citizens Advice Bureaux, the Scottish Association of Citizens Advice Bureaux, the electricity suppliers to whom this Order applies and such generators of electricity from renewable sources and other persons as the Secretary of State considered appropriate in accordance with section 32L(1) of the Electricity Act 1989.
+In accordance with section 32L(2) of the Electricity Act 1989, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.
+(1)
+1989 c. 29. Sections 32 to 32M were substituted by section 37 of the Energy Act 2008 (c. 32). Section 32L(1) has been amended by S.I. 2014/631. There are other amendments to sections 32 to 32M which are not relevant.Citation, commencement and extent
+1.—(1) This Order may be cited as the Renewables Obligation (Amendment) Order 2021 and comes into force on 31st March 2021.
+(2) This Order extends to England and Wales only.Amendment of the Renewables Obligation Order 2015
+2.  The Renewables Obligation Order 2015(1) is amended in accordance with articles 3 and 4.
+(1)
+S.I. 2015/1947, to which there are amendments not relevant to this Order.Amendment to article 72 (determining whether a relevant shortfall has occurred)
+3.—(1) Article 72 is amended as follows.
+(2) For paragraph (3), substitute—
+“(3) A shortfall in relation to a relevant period is a relevant shortfall if it is equal to, or in excess of, the mutualisation threshold for that period.”.
+(3) After paragraph (3), insert—
+“(4) The mutualisation threshold for a relevant period is determined as 1% of A x B, rounded to the nearest £100,000 with £50,000 being rounded upwards, where—
+(i)
+A is the total obligation for the relevant period determined under article 12;
+(ii)
+B is the buy-out price for the relevant period referred to in article 67(4).”.Amendment to article 86 (functions of the Authority)
+4.—(1) Article 86 is amended as follows.
+(2) After paragraph (1)(d), insert—
+“(da)
+calculating and publishing the mutualisation threshold (referred to in article 72(4)) for each obligation period—
+(i)
+in the case of the obligation period beginning on 1st April 2021, as soon as reasonably practicable after the date on which the Renewables Obligation (Amendment) Order 2021 comes into force;
+(ii)
+in the case of any subsequent obligation period, before the start of that obligation period;”.Name
+Minister of State for Business, Energy and Clean Growth
+Department for Business, Energy and Industrial StrategyEXPLANATORY NOTE
+(This note is not part of the Order)
+This Order amends the Renewables Obligation Order 2015 (the “2015 Order”).
+The 2015 Order imposes on all electricity suppliers licensed under the Electricity Act 1989 which supply electricity in England and Wales, an obligation (the “renewables obligation”) to produce a certain number of renewables obligation certificates (“ROCs”) in respect of each megawatt hour of electricity they supply to customers in England and Wales during the periods known as “obligation periods”. Suppliers can also make a cash payment in lieu of each ROC as an alternative. Each obligation period runs from 1st April to 31st March.
+The renewables obligation is administered by the Gas and Electricity Markets Authority which issues ROCs to accredited renewable electricity generators based on their output. These certificates are sold to electricity suppliers with or without the associated renewable electricity.
+The renewables obligation has a mechanism known as mutualisation which seeks to recover a shortfall of payments from suppliers if there is a payment default and the level of default is equal to or in excess of a threshold of £15,400,000. This Order provides for the mutualisation threshold to be updated each year and linked to the annual cost of the scheme to suppliers. This will be set at 1% of the scheme’s total annual cost rounded to the nearest £100,000.
+A full impact assessment has not been produced for this instrument as no significant impact on the private, voluntary or public sector is foreseen. An explanatory memorandum is available alongside this Order on www.legislation.gov.uk.

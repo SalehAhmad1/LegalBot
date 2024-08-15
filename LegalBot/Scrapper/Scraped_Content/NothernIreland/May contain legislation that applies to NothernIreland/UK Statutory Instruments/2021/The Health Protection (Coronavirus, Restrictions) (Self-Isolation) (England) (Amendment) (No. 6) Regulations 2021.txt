@@ -1,0 +1,78 @@
+Regulations made by the Secretary of State, laid before Parliament under section 45R of the Public Health (Control of Disease) Act 1984 (c. 22), for approval by resolution of each House of Parliament within twenty-eight days beginning with the day on which the instrument was made, subject to extension for periods of dissolution, prorogation or adjournment for more than four days.
+STATUTORY INSTRUMENTS
+2021 No. 1415
+PUBLIC HEALTH, ENGLAND
+The Health Protection (Coronavirus, Restrictions) (Self-Isolation) (England) (Amendment) (No. 6) Regulations 2021
+Made
+at 11.55 a.m. on 13th December 2021
+Laid before Parliament
+at 3.00 p.m. on 13th December 2021
+Coming into force
+at 6.00 a.m. on 14th December 2021
+The Secretary of State, in exercise of the powers conferred by sections 45C(1) and (3)(c), 45D, 45F(2), 45P and 45T(6) of the Public Health (Control of Disease) Act 1984(1), makes the following Regulations.
+These Regulations are made in response to the serious and imminent threat to public health which is posed by the incidence and spread of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in England.
+The Secretary of State considers that the restrictions and requirements imposed by the Health Protection (Coronavirus, Restrictions) (Self-Isolation) (England) Regulations 2020(2) as amended by these Regulations are proportionate to what they seek to achieve, which is a public health response to that threat.
+In accordance with section 45R of that Act, the Secretary of State is of the opinion that, by reason of urgency, it is necessary to make this instrument without a draft having been laid before, and approved by a resolution of, each House of Parliament.
+(1)
+1984 c. 22. Part 2A was inserted by section 129 of the Health and Social Care Act 2008 (c. 14).
+(2)
+S.I. 2020/1045, amended by S.I. 2020/1375, 1518, 2021/97, 364, 582, 851, 864, 1073, 1338 and 1382.Citation and commencement
+1.—(1) These Regulations may be cited as the Health Protection (Coronavirus, Restrictions) (Self-Isolation) (England) (Amendment) (No. 6) Regulations 2021.
+(2) These Regulations come into force at 6.00 a.m. on 14th December 2021.Amendments to the Health Protection (Coronavirus, Restrictions) (Self-Isolation) (England) Regulations 2020
+2.—(1) The Health Protection (Coronavirus, Restrictions) (Self-Isolation) (England) Regulations 2020 are amended as follows.
+(2) In regulation 2(2), in sub-paragraph (n), in the opening words, omit “, (ba) or (c)”.
+(3) In regulation 2B—
+(a)
+in paragraph (1), omit paragraphs (ba) and (c);
+(b)
+omit paragraphs (3A) and (3B);
+(c)
+in paragraphs (4) and (5), omit “, or R where P is a child,”;
+(d)
+omit paragraphs (5A), (5B) and (9).
+(4) In regulation 3(4), in the opening words, omit “, (ba) or (c)”.
+(5) In regulation 5(1)—
+(a)
+omit the definition of “Omicron variant”;
+(b)
+in the definition of “P”, for “2B(2), (3A) or (3B)”, substitute “or 2B(2)”.
+(6) In regulation 10(4), omit “or 2B”.
+(7) In regulation 14(4D)(a)—
+(a)
+at the end of paragraph (i), insert “or”;
+(b)
+at the end of paragraph (ii), omit “or”;
+(c)
+omit paragraph (iii).
+(8) In regulation 19—
+(a)
+renumber the existing text as paragraph (1);
+(b)
+in paragraph (1)(b), as so renumbered, for “regulation” substitute “paragraph”;
+(c)
+after paragraph (1), insert—
+“(2) Where—
+(a)
+a person (“Z”)—
+(i)
+satisfies the conditions in regulation 2B(6)(a), (b) or (c), or is a child, or is taking part in coronavirus related research; and
+(ii)
+was, by virtue of regulation 2B as it was in force before this paragraph comes into force, subject to a requirement to self-isolate immediately before 6.00 a.m. on 14th December 2021, and
+(b)
+Z’s period of self-isolation would, apart from this regulation, continue beyond that date,
+the period of self-isolation for Z comes to an end at 6.00 a.m. on 14th December 2021.”.Maggie Throup
+Parliamentary Under-Secretary of State,
+Department of Health and Social Care
+At 11.55 a.m. on 13th December 2021EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the Health Protection (Coronavirus, Restrictions) (Self-Isolation) (England) Regulations 2020 to remove the distinction between close contacts of a known or suspected Omicron case and close contacts of all other positive cases. All close contacts, regardless of the variant, will no longer be required to self-isolate if they are:
+(a)
+a person who has received a complete course of the coronavirus vaccination, provided that the contact takes place more than 14 days after they have completed their course of vaccinations;
+(b)
+a person who is taking part in a vaccine trial,
+(c)
+a person who can provide evidence that for clinical reasons they should not be vaccinated, or
+(d)
+a child.
+The Regulations also provide that, where a person comes within those categories, but was in a period of self-isolation before 6.00 a.m. on 14th December due to their close contact with a known or suspected positive Omicron case, their period of self-isolation ends at 6.00 a.m. on 14th December.
+An impact assessment has not been produced for this instrument. An explanatory memorandum has been published alongside this instrument at www.legislation.gov.uk .

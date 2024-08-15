@@ -1,0 +1,577 @@
+STATUTORY INSTRUMENTS
+2024 No. 685
+FOOD, ENGLAND
+The Food Additives and Novel Foods (Authorisations and Miscellaneous Amendments) and Food Flavourings (Removal of Authorisations) (England) Regulations 2024
+Made
+22nd May 2024
+Laid before Parliament
+23rd May 2024
+Coming into force
+28th June 2024
+The Secretary of State makes the following Regulations in exercise of the powers conferred by Articles 7(4), (5), and 14A(2)(b) of Regulation (EC) No. 1331/2008 of the European Parliament and of the Council establishing a common authorisation procedure for food additives, food enzymes and food flavourings (1) and Articles 12(1) and 32A(3)(b) of Regulation (EU) 2015/2283 of the European Parliament and of the Council on novel foods, etc.(2).
+In relation to Parts 2 and 3, the Secretary of State sought, and had regard to, advice from the Food Standards Agency as required by Article 7(4) and (5) of Regulation 1331/2008.
+As required by Article 9 of Regulation (EC) No. 178/2002 of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety(3), there has been open and transparent public consultation during the preparation and evaluation of these Regulations.
+(1)
+EUR 2008/1331, amended by S.I. 2019/860; there are other amending instruments but none is relevant. The terms “domestic list”, “prescribe” and “appropriate authority” are defined in Article 2.
+(2)
+EUR 2015/2283, amended by S.I. 2019/702; there are other amending instruments but none is relevant. The terms “prescribe”, “appropriate authority”, and “list” are defined in Article 3. Article 12(1) applies in accordance with Articles 9 and 27(1).
+(3)
+EUR 2002/178, amended by S.I. 2019/641; there are other amending instruments but none is relevant.Citation, commencement, extent and application
+1.—(1) These Regulations may be cited as the Food Additives and Novel Foods (Authorisations and Miscellaneous Amendments) and Food Flavourings (Removal of Authorisations) (England) Regulations 2024 and come into force on 28th June 2024.
+(2) These Regulations extend to England and Wales, but apply in relation to England only.Amendment of Regulation (EC) No. 1333/2008
+2.—(1) Annex 2 to Regulation (EC) No. 1333/2008 of the European Parliament and of the Council on food additives(1) is amended as follows.
+(2) In Part B, paragraph 2, in the table headed “Sweeteners” after the entry for “E 960a” (Steviol glycosides from Stevia) insert the following entry—
+“E 960b Steviol glycosides from fermentation”.
+(3) In Part C, paragraph 5—
+(a)
+for “(v) E 960a and E 906c: Steviol glycosides” substitute “(v) E 960a – E 960c: Steviol glycosides”; and
+(b)
+in the table at (v), after the entry for “E 960a” (Steviol glycosides from Stevia) insert the following entry —
+“E 960b Steviol glycosides from fermentation”.
+(4) In Part E, in the table—
+(a)
+in each place in which it occurs, for “E 960a and E 960c” substitute “E 960a – E 960c”;
+(b)
+in category 03 (Edible ices), after the entry for “E 473-474” (Sucrose esters of fatty acids – sucroglycerides) insert the following entry—
+“E 476 Polyglycerol polyricinoleate 4000 except sorbets”.
+(c)
+in category 05.1 (Cocoa and Chocolate products) after table footnote “(*)” (E 170, E 500-504, E 524-528 and E 530: 7 % on dry matter, without fat, expressed as potassium carbonates) insert the following footnote “(1): The additives may be added individually or in combination”;
+(d)
+in category 05.2 (Other confectionery including breath freshening microsweets)—
+(i)
+in the third entry for “Group IV” (Polyols) for “only cocoa or dried fruit-based, milk or fat-based sandwich spreads, energy-reduced or with no added sugar” substitute “sandwich spreads made with a base of cocoa, milk, dried fruit or fat; energy reduced or with no added sugar”;
+(ii)
+in the first entry for “E 960a and E 960c” (Steviol glycosides) for “only cocoa or dried-fruit-based, energy-reduced or with no added sugar” substitute “only cocoa or dried fruit based; energy reduced or with no added sugar”;
+(iii)
+in the second entry for “E 960a and E 960c” (Steviol glycosides) for “only cocoa, milk, dried-fruit-based or fat-based sandwich spreads, energy-reduced or with no added sugar” substitute “sandwich spreads made with a base of cocoa, milk, dried fruit or fat; energy reduced or with no added sugar”;
+(e)
+in category 05.4 (Decorations, coatings and fillings, except fruit-based fillings covered by category 4.2.4), for the second entry for “E 960a and E 960c” (Steviol glycosides) for “only cocoa or dried-fruit-based, energy-reduced or with no added sugar” substitute “only cocoa or dried fruit based; energy reduced or with no added sugar”; and
+(f)
+in category 12.6 (Sauces), for the entry for “E 476” (Polyglycerol polyricinoleate) substitute—
+“E 476 Polyglycerol polyricinoleate 4000 only emulsified sauces with a fat content of less than 20%
+E 476 Polyglycerol polyricinoleate 8000 only emulsified sauces with a fat content of 20% or more”.
+(1)
+EUR 2008/1333; amended by S.I. 2019/860 and 2023/334; there are other amending instruments but none is relevant.Amendment of Commission Regulation (EU) No. 231/2012
+3.—(1) The Annex to Commission Regulation (EU) No. 231/2012 laying down specifications for food additives listed in Annexes II and III to Regulation (EC) No. 1333/2008 of the European Parliament and of the Council(1) is amended as follows.
+(2) In the first paragraph, for “Note: Ethylene oxide may not be used for sterilising purposes in food additives” substitute —
+“Restrictions on ethylene oxide in food additives
+Ethylene oxide may not be used for sterilising purposes in food additives.
+Total residues of ethylene oxide (sum of ethylene oxide and 2-chloroethanol expressed as ethylene oxide (i.e., ethylene oxide + (0.55 x 2-chloroethanol))), irrespective of origin, in food additives listed in Annexes II and III to Regulation (EC) No 1333/2008, or mixtures of those food additives, must not exceed 0.1 mg/kg.”
+(3) In the following tables headed—
+(a)
+“E 431 POLYOXYETHYLENE (40) STEARATE”;
+(b)
+“E 432 POLYOXYETHYLENE SORBITAN MONOLAURATE (POLYSORBATE 20)”;
+(c)
+“E 433 POLYOXYETHYLENE SORBITAN MONOOLEATE (POLYSORBATE 80)”;
+(d)
+“E 434 POLYOXYETHYLENE SORBITAN MONOPALMITATE (POLYSORBATE 40)”;
+(e)
+“E 435 POLYOXYETHYLENE SORBITAN MONOSTEARATE (POLYSORBATE 60)”;
+(f)
+“E 436 POLYOXYETHYLENE SORBITAN TRISTEARATE (POLYSORBATE 65)”;
+(g)
+“E 1209 POLYVINYL ALCOHOL-POLYETHYLENE GLYCOL-GRAFT-COPOLYMER”; and
+(h)
+“E 1521 POLYETHYLENE GLYCOL”;
+omit “Ethylene oxide” and “Not more than 0,2 mg/kg”.
+(4) After the table for “E 960a” (Steviol glycosides from stevia), insert the heading and table in Schedule 1.
+(5) In the heading for the table for “E 960c” (Rebaudioside M produced via enzyme modification of steviol glycosides from stevia) for “E 960c” substitute “E 960c(i)”.
+(6) In alphabetical order, insert the heading and table in Schedule 2.
+(1)
+EUR 2012/231; amended by S.I. 2019/860 and 2023/334; there are other amending instruments but none is relevant.Amendment of Regulation (EC) No. 1334/2008
+4.—(1) Annex 1 to Regulation (EC) No. 1334/2008 of the European Parliament and of the Council on flavourings and certain food ingredients with flavouring properties for use in and on foods etc(1) is amended as follows.
+(2) In Part A, Section 2, Table 1 (the domestic list), the entries for the following are omitted in full—
+(a)
+FL No. “07.030” chemical name “1-(4-Methoxyphenyl)pent-1-en-3-one”;
+(b)
+FL No. “07.046” chemical name “Vanillylidene acetone”;
+(c)
+FL No. “07.049” chemical name “1-(4-Methoxyphenyl)-4-methylpent-1-en-3-one”;
+(d)
+FL No. “07.206” chemical name “4-(2,3,6-Trimethylphenyl)but-3-en-2-one”;
+(e)
+FL No. “07.258” chemical name “6-Methyl-3-hepten-2-one”;
+(f)
+FL No. “10.034” chemical name “5,6-Dihydro-3,6-dimethylbenzofuran-2(4H)-one”;
+(g)
+FL No. “10.036” chemical name “5,6,7,7a-Tetrahydro-3,6-dimethylbenzofuran-2(4H)-one”;
+(h)
+FL No. “10.042” chemical name “3,4-Dimethyl-5-pentylidenefuran-2(5H)-one”;
+(i)
+FL No. “10.043” chemical name “2,7-Dimethylocta-5(trans),7-dieno-1,4-lactone”;
+(j)
+FL No. “10.046” chemical name “Hex-2-eno-1,4-lactone”;
+(k)
+FL No. “10.054” chemical name “Non-2-eno-1,4-lactone”;
+(l)
+FL No. “10.060” chemical name “2-Decen-1,4-lactone”;
+(m)
+FL No. “10.170” chemical name “5-Pentyl-3H-furan-2-one”;
+(n)
+FL No. “13.004” chemical name “Allyl 2-furoate”;
+(o)
+FL No. “13.034” chemical name “3-(2-furyl)acrylaldehyde”;
+(p)
+FL No. “13.043” chemical name “Furfurylidene-2-butanal”;
+(q)
+FL No. “13.044” chemical name “4-(2-Furyl)but-3-en-2-one”;
+(r)
+FL No. “13.046” chemical name “3-(2-Furyl)-2-methylprop-2-enal”;
+(s)
+FL No. “13.066” chemical name “3-Acetyl-2,5-dimethylfuran”;
+(t)
+FL No. “13.103” chemical name “2-Butylfuran”;
+(u)
+FL No. “13.137” chemical name “3-(2-Furyl)-2-phenylprop-2-enal”; and
+(v)
+FL No. “13.150” chemical name “3-(5-Methyl-2-furyl)prop-2-enal”.
+(1)
+EUR 2008/1334; amended by S.I. 2019/860; there are other amending instruments but none is relevant.Transitional provision
+5.—(1) The flavouring substances referred to in regulation 4(2)(a) to (v), and foods containing them may, until their date of minimum durability of a food or ‘use by’ date, be placed on the market and, as the case may be, added to other foods, if —
+(a)
+present in the United Kingdom and were, or could have been, lawfully placed on the market in Great Britain before the end of 27th June 2024; or
+(b)
+in transit to Great Britain before the end of 27th June 2024, and could have lawfully been imported, or moved into Great Britain, and placed on the market as at the date of dispatch.
+(2) Foods containing one or more flavouring substances to which regulation 5(1)(a) or (b) applies may, until their date of minimum durability of a food or ‘use by’ date, be placed on the market and, as the case may be, added to other foods.
+(3) The following expressions have the same meaning as they bear in Regulation (EU) No.1169/2011 of the European Parliament and of the Council on the provision of food information to consumers etc(1) —
+(a)
+“date of minimum durability of a food”; and
+(b)
+“‘use by’ date”.
+(4) Any expression used in both this regulation and Regulation (EC) No. 1334/2008 of the European Parliament and of the Council on flavourings and certain food ingredients with flavouring properties for use in and on foods etc(2) has the meaning it bears in that Regulation.
+(1)
+EUR 2011/1169; to which there are amendments not relevant to these Regulations.
+(2)
+EUR 2008/1334; amended by S.I. 2019/860; there are other amending instruments but none is relevant.Amendment of Commission Implementing Regulation (EU) 2017/2470
+6.—(1) The Annex to Commission Implementing Regulation (EU 2017/2470 establishing the Union list of novel foods in accordance with Regulation (EU) 2015/2283 of the European Parliament and of the Council on novel foods(1) is amended as follows.
+(2) In Table 1 (Authorised novel foods: England)—
+(a)
+after the entry for “Astaxanthin-rich oleoresin from Haematococcus pluvialis algae” insert the entry in Schedule 3.
+(b)
+for the entry for “Bovine milk basic whey protein isolate” substitute the entry in Schedule 4;
+(c)
+after the entry for “Calanus finmarchicus oil” insert the entry in Schedule 5;
+(d)
+after the entry for “2’-Fucosyllactose/Difucosyllactose mixture (‘2’-FL/DFL’) (microbial source)” insert the entry in Schedule 6; and
+(e)
+after the entry for “Lactitol” insert the entry in Schedule 7.
+(3) In Table 2 (Specifications: England)—
+(a)
+after the entry for “Astaxanthin-rich oleoresin from Haematococcus pluvialis algae” insert the entry in Schedule 8;
+(b)
+after the entry for “Calanus finmarchicus oil” insert the entry in Schedule 9;
+(c)
+after the entry for “2’-Fucosyllactose/Difucosyllactose mixture (‘2’-FL/DFL’) (microbial source)” insert the entry in Schedule 10;
+(d)
+after the entry for “Lactitol” insert the entry in Schedule 11; and
+(e)
+in the entry for “Xylo-oligosaccharides”, in the second column (Specifications), after the row for “Moisture (%)” insert the following row—
+“Dry material (%) - - 70-75”.
+(1)
+EUR 2017/2470; amended by S.I. 2019/702; there are other amending instruments but none is relevant.Andrea Leadsom
+Parliamentary Under Secretary of State
+Department of Health and Social Care
+22nd May 2024Regulation 3(4)
+SCHEDULE 1
+Insertion of entry in the Annex to Commission Regulation (EU) 231/2012 for E 960b for Steviol Glycosides from Fermentation (Yarrowia Lipolytica)
+“E 960b STEVIOL GLYCOSIDES FROM FERMENTATION (YARROWIA LIPOLYTICA)
+Synonyms
+Definition
+Steviol glycosides from Yarrowia lipolytica consist of a mixture predominantly composed of rebaudioside M, with some rebaudioside D, and smaller amounts of rebaudioside A and rebaudioside B. The manufacturing process comprises two main phases.
+The first phase involves fermentation of a non-toxigenic non-pathogenic strain of Yarrowia. lipolytica VRM that has been genetically modified with heterologous genes to overexpress steviol glycosides. Removal of biomass by solid-liquid separation and heat treatment is followed by concentration of the steviol glycosides.
+The second phase involves purification by employing ion-exchange chromatography, followed by recrystallisation of the steviol glycosides resulting in a final product containing not less than 95% of rebaudiosides M, D, A, and B.
+Viable cells or the DNA of Yarrowia Lipolytica VRM must not be detected in the food additive.
+Chemical name
+Rebaudioside A: 13-[(2-O-β-D-glucopyranosyl-3-O-β-D-glucopyranosyl-β-D-glucopyranosyl)oxy]kaur-16-en-18-oic acid, β-D-glucopyranosyl ester
+Rebaudioside B: 13-[(2-O-β–D-glucopyranosyl-3-O-β– D-glucopyranosyl-β-D-glucopyranosyl)oxy]kaur-16-en-18-oic acid
+Rebaudioside D: 13-[(2-O-β-D-glucopyranosyl-3-O-β-D-glucopyranosyl-β-D-glucopyranosyl)oxy]kaur-16-en-18-oic acid, 2-O-β-D-glucopyranosyl-β-D-glucopyranosyl ester
+Rebaudioside M: 13-[(2-O-β-D-glucopyranosyl-3-O-β-D-glucopyranosyl-β-D-glucopyranosyl)oxy]kaur-16-en-18-oic acid, 2-O-β-D-glucopyranosyl-3-O-β-D-glucopyranosyl-β-D-glucopyranosyl ester
+Molecular formula Trivial name Formula Conversion factor
+Rebaudioside A C44 H70 O23 0.33
+Rebaudioside B C38 H60 O18 0.40
+Rebaudioside D C50 H80 O28 0.29
+Rebaudioside M C56 H90 O33 0.25
+Molecular weight and CAS No. Trivial name CAS Number Molecular weight (g/mol)
+Rebaudioside A 58543-16-1 967.01
+Rebaudioside B 58543-17-2 804.88
+Rebaudioside D 63279-13-0 1129.15
+Rebaudioside M 1220616-44-3 1291.29
+Assay Not less than 95% of rebaudioside M, rebaudioside D, rebaudioside A, and rebaudioside B on the dried basis.
+Description White to light yellow powder, approximately between 200 and 350 times sweeter than sucrose (at 5% sucrose equivalency).
+Identification
+Solubility Freely soluble to slightly soluble in water.
+pH Between 4.5 and 7.0 (1 in 100 solution)
+Purity
+Total ash Not more than 1%
+Loss on drying Not more than 6 % (105 °C, 2h)
+Residual solvent Not more than 5000 mg/kg ethanol
+Arsenic Not more than 0.1 mg/kg
+Lead Not more than 0.1 mg/kg
+Cadmium Not more than 0.01 mg/kg
+Mercury Not more than 0.05 mg/kg
+Residual protein Not more than 20 mg/kg
+Microbiological criteria
+Total (aerobic) plate count Not more than 1000 CFU/g
+Yeast Not more than 100 CFU/g
+Moulds Not more than 100 CFU/g
+Escherichia coli Negative in 1g
+Salmonella spp. Negative in 25g”Regulation 3(6)
+SCHEDULE 2
+Insertion of entry in the Annex to Commission Regulation (EU) 231/2012 for E 960c(ii) for Rebaudioside M, AM and D Produced via Enzymatic Conversion of Highly Purified Steviol Glycosides from Stevia Leaf Extracts
+“E 960c(ii) REBAUDIOSIDE M, AM AND D PRODUCED VIA ENZYMATIC CONVERSION OF HIGHLY PURIFIED STEVIOL GLYCOSIDES FROM STEVIA LEAF EXTRACTS
+Synonyms
+Definition
+Steviol glycosides produced via enzymatic conversion of highly purified steviol glycosides (rebaudioside A or stevioside) stevia leaf extracts are composed predominantly of rebaudioside M, rebaudioside D, and rebaudioside AM.
+Rebaudiosides D, M and AM are produced via enzymatic conversion of highly purified steviol glycoside (rebaudioside A or stevioside) extracts (95% steviol glycosides) obtained from Stevia rebaudiana Bertoni plant using UDP-glucosyltransferase and sucrose synthase enzymes produced by genetically modified strains of Escherichia coli (pPM294, pFAH170, and pSK041) that facilitate the transfer of glucose from sucrose and UDP-glucose to steviol glycosides via glycosidic bonds. After removal of the enzymes by solid-liquid separation and heat treatment, the purification involves concentration of the steviol glycosides by resin adsorption, followed by recrystallisation of the steviol glycosides resulting in a final product containing not less than 95 % of total steviol glycosides, including one or more of rebaudiosides D, M and AM.
+Viable cells or DNA of Escherichia coli (pPM294, pFAH170, and pSK041) must not be detected in the food additive.
+Chemical name
+Rebaudioside M: 13-[(2-O-β-D-glucopyranosyl-3-O-β-D-glucopyranosyl-β-D-glucopyranosyl)oxy]kaur-16-en-18-oic acid, 2-O-β-D-glucopyranosyl-3-O-β-D-glucopyranosyl-β-D-glucopyranosyl ester
+Rebaudioside D: 13-[(2-O-β-D-glucopyranosyl-3-O-β-D-glucopyranosyl-β-D-glucopyranosyl)oxy]kaur-16-en-18-oic acid, 2-O-β-D-glucopyranosyl-β-D-glucopyranosyl ester
+Rebaudioside AM: 13-[(2-O-β-D-glucopyranosyl-β-D-glucopyranosyl)oxy]kaur-16-en-18-oic acid, 2-O-β-D-glucopyranosyl-3-O-β-D-glucopyranosyl-β-D-glucopyranosyl ester
+Molecular formula Trivial name Formula Conversion factor
+Rebaudioside M C56 H90O33 0.25
+Rebaudioside D C50H80O28 0.29
+Rebaudioside AM C50H80O28 0.29
+Molecular weight and CAS No Trivial name CAS Number Molecular weight (g/mol)
+Rebaudioside M 1220616-44-3 1291.29
+Rebaudioside D 63279-13-0 1129.15
+Rebaudioside AM 2222580-26-7 1129.15
+Assay Not less than 95 % of steviol glycosides on the dried basis, including one or more of rebaudiosides D, M and AM.
+Description White to light yellow powder, approximately between 200 and 350 times sweeter than sucrose (at 5 % sucrose equivalency).
+Identification
+Solubility Freely soluble to slightly soluble in water.
+pH Between 4.5 and 7.0 (1 in 100 solution)
+Purity
+Total ash Not more than 1 %
+Loss on drying Not more than 6 % (105 °C, 2h)
+Residual solvent Not more than 5000 mg/kg ethanol
+Arsenic Not more than 0.015 mg/kg
+Lead Not more than 0.2 mg/kg
+Cadmium Not more than 0.015 mg/kg
+Mercury Not more than 0.07 mg/kg
+Residual protein Not more than 5 mg/kg”Regulation 6(2)(a)
+SCHEDULE 3
+Insertion of entry in Table 1 in the Annex to Commission Implementing Regulation (EU) 2017/2470 for Partially hydrolysed protein from spent barley (Hordeum vulgare) and rice (Oryza sativa)
+“Partially hydrolysed protein from spent barley (Hordeum vulgare) and rice (Oryza sativa)
+Specified food category
+Bread and similar products
+Fine bakery wares
+Breakfast cereals
+Margarines and similar
+Butter and margarine/oil blends
+Pasta and rice (or other cereal)-based dishes
+Fried or extruded cereal, seed, and root-based products
+Fruit/vegetables spreads and similar
+Confectionary including chocolate
+Dairy imitates
+Milk and dairy products
+Dessert sauces/toppings
+Syrups (molasses and other syrups)
+Meat analogues
+Soups (marketed as such or reconstituted as instructed by the manufacturer)
+Stock cubes and granules (bouillon base)
+Gravy ingredients
+Savoury sauces
+Condiments (including table-top formats)
+Hummus
+Nut/seeds paste emulsion/mass
+Energy drinks
+Carbohydrate-rich energy food products for sports people
+Protein and protein components for sports people
+Meal replacement for weight control
+Maximum levels
+15 g/100 g
+15 g/100 g
+30 g/100 g
+10 g/100 g
+10 g/100 g
+30 g/100 g
+30 g/100 g
+30 g/100 g
+15 g/100 g
+50 g/100 ml (beverages)
+50 g/100 g (products other than beverages)
+50 g/100 ml (beverages)
+50 g/100 g (products other than beverages)
+15 g/100 g
+15 g/100 g
+30 g/100 g
+15 g/100 g
+15 g/100 g
+10 g/100 g
+10 g/100 g
+10 g/100 g
+30 g/100 g
+20 g/100 g
+90 g/100 ml
+30 g/100 g
+90 g/100 g
+90 g/100 g
+The designation of the novel food on the labelling of food containing it is “partially hydrolysed protein from spent barley and rice”.
+Included in the list on 28 June 2024.
+This inclusion is based on proprietary scientific evidence and scientific data protected in accordance with Article 26 of Regulation (EU) 2015/2283.
+Applicant: Evergrain LLC, 1 Busch Place, St. Louis, Missouri 63118 USA.
+During the period of data protection, partially hydrolysed protein from spent barley (Hordeum vulgare) and rice (Oryza sativa) is authorised for placing on the market, within England, only by Evergrain LLC unless a subsequent applicant obtains authorisation for the novel food without reference to the proprietary scientific evidence or scientific data protected in accordance with Article 26 of Regulation (EU) 2015/2283 or with the agreement of Evergrain LLC.
+The data protection will expire at the end of 27 June 2029.”Regulation 6(2)(b)
+SCHEDULE 4
+Substitution of entry in Table 1 in the Annex to Commission Implementing Regulation (EU) 2017/2470 for Bovine milk basic whey protein isolate
+“Bovine milk basic whey protein isolate
+Specified food category
+Infant formula as defined in Regulation (EU) No. 609/2013(1)
+Follow-on formula as defined in Regulation (EU) No. 609/2013
+Total diet replacement for weight control as defined in Regulation (EU) No. 609/2013
+Foods for special medical purposes as defined in Regulation (EU) No. 609/2013
+Food supplements as defined in the Food Supplements (England) Regulations 2003
+Maximum levels
+30 mg/ 100g (powder
+3.9 mg/100 ml (reconstituted)
+30 mg/ 100 g (powder)
+4.2 mg/100 ml (reconstituted)
+300 mg/day
+30 mg/100 g (powder formula for infants (persons under the age of 1 year (12 months)) during first months of life until the introduction of appropriate complementary feeding)
+3.9 mg/100 ml (reconstituted formula for infants during the first months of life until the introduction of appropriate complementary feeding)
+30 mg/100 g (powder formula for
+infants when appropriate complementary feeding is introduced)
+4.2 mg/100 ml (reconstituted formula for infants when appropriate complementary feeding is introduced)
+58 mg/day for young children (persons aged between 1 year (12 months) up to the age of 3 years (36 months))
+380 mg/day for children and adolescents (aged 3 years (36 months) to 18 years of age)
+610 mg/day for persons aged 18 years or above
+25 mg/day for infants (persons under the age of 1 year (12 months))
+58 mg/day for young children (persons aged 1 year (12 months) up to the age of 3 years (36 months))
+250 mg/day for children and adolescents (aged 3 years (36 months) to 18 years of age)
+610 mg/day for persons aged 18 years or above
+The designation of the novel food on the labelling of food containing it is “Milk whey protein isolate”.
+The labelling of food supplements must bear a statement, as appropriate, that they should not be consumed by infants (persons under the age of 1 year)/infants or young children (persons under the age of 3 years)/infants, children or adolescents (persons under the age of 18 years).”
+(1)
+EUR 2015/2283, amended by S.I. 2019/702; there are other amending instruments but none is relevant. The terms “prescribe”, “appropriate authority”, and “list” are defined in Article 3. Article 12(1) applies in accordance with Articles 9 and 27(1).Regulation 6(2)(c)
+SCHEDULE 5
+Insertion of entry in Table 1 in the Annex to Commission Implementing Regulation (EU) 2017/2470 for Cetylated fatty acids
+“Cetylated fatty acids
+Specified food category
+Food supplements as defined in the Food Supplements (England) Regulations 2003(1) for persons aged 18 years or above
+Maximum levels
+2.1 g/day
+The designation of the novel food on the labelling of food containing it is “cetylated fatty acids preparation”.
+The labelling of food supplements must bear a statement that they should not be consumed by persons under 18 years of age.
+Included in the list on 28 June 2024.
+This inclusion is based on proprietary scientific evidence and scientific data protected in accordance with Article 26 of Regulation (EU) 2015/2283.
+Applicant: Pharmanutra S.p.A, Via Delle Lenze 216/b, 56122 Pisa, Italy.
+During the period of data protection, cetylated fatty acids is authorised for placing on the market, within England, only by Pharmanutra S.p.A unless a subsequent applicant obtains authorisation for the novel food without reference to the proprietary scientific evidence or scientific data protected in accordance with Article 26 of Regulation (EU) 2015/2283 or with the agreement of Pharmanutra S.p.A.
+The data protection will expire at the end of 27 June 2029.”
+(1)
+EUR 2002/178, amended by S.I. 2019/641; there are other amending instruments but none is relevant.Regulation 6(2)(d)
+SCHEDULE 6
+Insertion of entry in Table 1 in the Annex to Commission Implementing Regulation (EU) 2017/2470 for 3-Fucosyllactose (produced by a derivative strain of Escherichia coli K-12 DH1)
+“3-Fucosyllactose (3-FL) (produced by a derivative strain of Escherichia coli K-12 DH1)
+Specified food category
+Unflavoured pasteurised and unflavoured sterilised (including UHT) milk products
+Unflavoured fermented milk-based products
+Flavoured fermented milk-based products including heat-treated products
+Cereal bars
+Infant formula and follow-on formula as defined in Regulation (EU) No. 609/2013
+Milk-based drinks and similar products intended for young children (persons aged 1 year (12 months) up to the age of 3 years (36 months))
+Foods for special medical purposes as defined in Regulation (EU) No. 609/2013
+Total diet replacement for weight control as defined in Regulation (EU) No. 609/2013
+Flavoured drinks (excluding cola flavour and cola flavoured drinks)
+Food supplements as defined in the Food Supplements (England) Regulations 2003 for infants (persons under the age of 1 year (12 months)) and young children (persons aged 1 year (12 months) up to the age of 3 years (36 months))
+Food supplements as defined in the Food Supplements (England) Regulations 2003 excluding food supplements for infants and young children
+Maximum levels
+2.0 g/l
+2.0 g/l (beverages)
+4.0 g/kg (products other than beverages)
+2.0 g/l (beverages)
+12.0 g/kg (products other than beverages)
+25.0 g/kg
+2.0 g/l in the final product ready for use, marketed as such or reconstituted as instructed by the manufacturer
+2.0 g/l (beverages) in the final product ready for use, marketed as such or reconstituted as instructed by the manufacturer
+12 g/kg (products other than beverages)
+In accordance with the particular nutritional requirements of the persons for whom the products are intended.
+2.0 g/l (beverages)
+25.0 g/kg (products other than beverages)
+1.25 g/l
+2.0 g/day
+4.0 g/day
+The designation of the novel food on the labelling of food containing it is “3-fucosyllactose”.
+The labelling of food supplements for infants and young children must bear a statement that they should not be consumed if breast milk or food with added 3-fucosyllactose is consumed on the same day.
+Included in the list on 28 June 2024.
+This inclusion is based on proprietary scientific evidence and scientific data protected in accordance with Article 26 of Regulation (EU) 2015/2283.
+Applicant: Glycom A/S, Kogle Allé 4, 2970 Hørsholm, Denmark.
+During the period of data protection, 3-fucosyllactose is authorised for placing on the market, within England, only by Glycom A/S unless a subsequent applicant obtains authorisation for the novel food without reference to the proprietary scientific evidence or scientific data protected in accordance with Article 26 of Regulation (EU) 2015/2283 or with the agreement of Glycom A/S.
+The data protection will expire at the end of 27 June 2029.”Regulation 6(2)(e)
+SCHEDULE 7
+Insertion of entry in Table 1 in the Annex to Commission Implementing Regulation (EU) 2017/2470 for Lacto-N-fucopentaose I and 2’-fucosyllactose mixture
+“Lacto-N-fucopentaose I (LNFP-I) and 2’-fucosyllactose (2’-FL) mixture
+Specified food category
+Unflavoured pasteurised and unflavoured sterilised (including UHT) milk products
+Unflavoured fermented milk-based products
+Flavoured fermented milk-based products including heat-treated products
+Cereal bars
+Infant formula and follow-on formula as defined in Regulation (EU) No. 609/2013
+Processed cereal-based food and baby food for infants and young children as defined in Regulation (EU) No. 609/2013
+Milk-based drinks and similar products intended for young children (persons aged 1 year (12 months) up to the age of 3 years (36 months))
+Foods for special medical purposes as defined in Regulation (EU) No. 609/2013
+Total diet replacement for weight control as defined in Regulation (EU) No. 609/2013
+Flavoured drinks (excluding cola flavour and cola flavoured drinks)
+Food supplements as defined in the Food Supplements (England) Regulations 2003 for infants (persons under the age of 1 year (12 months)) and young children (persons aged between 1 year (12 months) up to the age of 3 years (36 months))
+Food supplements as defined in the Food Supplements (England) Regulations 2003 excluding supplements for infants and young children
+Maximum levels of LNFP-I
+1.0 g/l
+1.0 g/l (beverages)
+2.0 g/kg (products other than beverages)
+1.0 g/l (beverages)
+10.0 g/kg (products other than beverages)
+10.0 g/kg
+1.5 g/l (in the final product ready for use, marketed as such or reconstituted by the manufacturer
+1.0 g/l (beverages) in the final product ready for use, marketed as such or reconstituted as instructed by the manufacturer
+8.33 g/kg (products other than beverages)
+1.2 g/l (beverages) in the final product ready for use, marketed as such or reconstituted as instructed by the manufacturer
+10.0 g/kg (products other than beverages)
+In accordance with the particular nutritional requirements of the persons for whom the products are intended.
+2.0 g/l (beverages)
+20.0 g/kg (products other than beverages)
+1.0 g/l
+1.5 g/day
+3.0 g/day
+The designation of the novel food on the labelling of food containing it is “lacto-N-fucopentaose I and 2’-fucosyllactose mixture”.
+The labelling of food supplements intended for infants and young children must bear a statement that they should not be consumed if breast milk or food with added lacto-N-fucopentaose I (LNFP-I) or 2’-fucosyllactose (2’-FL) is consumed on the same day.
+The labelling of food supplements must bear a statement that they should not be consumed if other food with added lacto-N-fucopentaose I (LNFP-I) or 2’-fucosyllactose (2’-FL) is consumed on the same day.
+Included in the list on 28 June 2024.
+This inclusion is based on proprietary scientific evidence and scientific data protected in accordance with Article 26 of Regulation (EU) 2015/2283.
+Applicant: Glycom A/S, Kogle Allé 4, 2970 Hørsholm, Denmark.
+During the period of data protection, lacto-N-fucopentaose I (LNFP-I) and 2’-fucosyllactose (2’-FL) is authorised for placing on the market, within England, only by Glycom A/S unless a subsequent applicant obtains authorisation for the novel food without reference to the proprietary scientific evidence or scientific data protected in accordance with Article 26 of Regulation (EU) 2015/2283 or with the agreement of Glycom A/S.
+The data protection will expire at the end of 27 June 2029.”Regulation 6(3)(a)
+SCHEDULE 8
+Insertion of entry in Table 2 in the Annex to Commission Implementing Regulation (EU) 2017/2470 for Partially hydrolysed protein from spent barley (Hordeum vulgare) and rice (Oryza sativa)
+“Partially hydrolysed protein from spent barley (Hordeum vulgare) and rice (Oryza sativa)
+Description/Definition
+Partially hydrolysed protein from spent barley (Hordeum vulgare) and rice (Oryza sativa) is an off-white powder, produced by concentration of proteins from a mixture of barley and rice from the mash step of beer production using a series of enzymatic hydrolysis and mechanical purification steps.
+Characteristics/Composition
+Protein (dry basis): ≥ 85%
+Moisture: < 8%
+Total Carbohydrates: < 10%
+Fat: < 2%
+Ash: < 8%
+Heavy metals
+Arsenic: < 0.1 mg/kg
+Cadmium: < 0.1 mg/kg
+Lead: < 0.2 mg/kg
+Mercury: < 0.1 mg/kg
+Microbiological criteria
+Aerobic plate count: < 30,000 CFU/g
+Coliforms: < 10 CFU/g
+Yeast and Mould: < 50 CFU/g
+Salmonella spp: Negative in 25 g
+Escherichia coli: < 10 CFU/g
+Staphylococcus aureus: < 10 CFU/g
+Listeria spp.: Negative in 25 g
+CFU: Colony Forming Units”Regulation 6(3)(b)
+SCHEDULE 9
+Insertion of entry in Table 2 in the Annex to Commission Implementing Regulation (EU) 2017/2470 for Cetylated fatty acids
+“Cetylated fatty acids
+Description/Definition
+The novel food is a mixture of 70 – 80% cetylated fatty acids which are produced from the reaction of cetyl alcohol with myristic acid and oleic acid.
+Characteristics/Composition
+Physical status at 25°C: Solid
+Colour (APHA Colour): ≤ 600
+Acid value (mg KOH/g): ≤ 5
+Iodine value (I2g/100 g): 30 – 50
+Saponification value (mg KOH/g): 130 – 150
+Hydroxyl value (mg KOH/g): ≤ 20
+Ester content (%): 70 – 80
+Cetyl oleate (%): 22 – 30
+Cetyl myristate (%): 41 – 56
+Triglycerides(%): 22 - 25
+Microbiological criteria
+Total aerobic microbial count (CFU/g): ≤ 1000
+Yeasts and moulds (CFU/g): ≤ 100
+APHA: American Public Health Association
+KOH: potassium hydroxide
+CFU: Colony Forming Units”Regulation 6(3)(c)
+SCHEDULE 10
+Insertion of entry in Table 2 in the Annex to Commission Implementing Regulation (EU) 2017/2470 for 3-Fucosyllactose (produced by a derivative strain of Escherichia coli K-12 DH1)
+“3-Fucosyllactose (3-FL) (produced by a derivative strain of Escherichia coli K-12 DH1)
+Description/Definition
+3-Fucosyllactose (3-FL) (produced by a derivative strain of Escherichia coli K-12 DH1) is a purified carbohydrate powder or agglomerate containing at least 90% of 3-fucosyllactose on a dry matter basis obtained from microbial fermentation with a genetically modified strain of Escherichia coli K-12 DH1.
+Chemical name: β-D-Galactopyranosyl-(1→4)- [α-L-fucopyranosyl-(1→3)]- D-glucopyranose
+Chemical formula: C18H32O15
+Molecular mass: 488.44 Da
+CAS No: 41312-47-4
+Characteristics/Composition
+Appearance: Powder, agglomerates, powder with agglomerates
+Colour: White to off-white
+Assay (water-free) – Specified saccharides (includes 3-FL, D-lactose, L-fucose and 3-fucosyllactulose): ≥ 92.0 w/w %
+Assay (water-free) – 3-FL: ≥ 90.0 w/w %
+L-Fucose: ≤ 1.0 w/w %
+D-Lactose: ≤ 5.0 w/w %
+3-fucosyllactulose: ≤ 1.5 w/w %
+Sum of other carbohydrates: ≤ 5.0 w/w %
+pH in 5% solution (20°C): 3.2–7.0
+Water: ≤ 6.0 w/w %
+Ash, sulphated: ≤ 0.5 w/w %
+Acetic acid (relevant only for crystallised 3-FL): ≤ 1.0 w/w %
+Residual protein by Bradford assay: ≤ 0.01 w/w %
+Residual endotoxins: ≤ 10 EU/mg
+Heavy metals
+Lead: ≤ 0.1 mg/kg
+Arsenic: ≤ 0.2 mg/kg
+Mycotoxins
+Aflatoxin M1: ≤ 0.025 µg/kg
+Microbiological criteria
+Aerobic mesophilic total plate count: ≤ 1000 CFU/g
+Enterobacteriaceae: absent in 10 g
+Salmonella spp: absent in 25 g
+Bacillus cereus: ≤ 50 CFU/g
+Listeria monocytogenes: absent in 25 g
+Cronobacter spp.: absent in 10 g
+Yeasts: ≤ 100 CFU/g
+Moulds: ≤ 100 CFU/g
+EU: Endotoxin Units
+CFU: Colony Forming Units”Regulation 6(3)(d)
+SCHEDULE 11
+Insertion of entry in Table 2 in the Annex to Commission Implementing Regulation (EU) 2017/2470 for Lacto-N-fucopentaose I and 2’-fucosyllactose mixture
+“Lacto- N-fucopentaose I (LNFP-I) and 2’-fucosyllactose (2’-FL) mixture
+Description/Definition
+Lacto-N-fucopentaose I (LNFP-I) and 2’-fucosyllactose (2’-FL) mixture is a purified carbohydrate powder or agglomerate obtained from microbial fermentation with a genetically modified strain of Escherichia coli K-12 DH1 containing at least 75% of LNFP-I and 2’- FL of dry matter, where ≥ 50% is LNFP-I (dry weight) and ≥ 15% is 2’-FL (dry weight).
+Characteristics/Composition
+Appearance: Powder, agglomerates, powder with agglomerates
+Colour: White to off-white
+Assay (water-free) – Specified saccharides (includes LNFP-I, 2’-FL, lacto-N-tetraose, difucosyl-D-lactose, 3-fucosyllactose, D-lactose, L-fucose and 2’-fucosyl-lactitol, LNFP-I fructose isomer and 2’-fucosyl-D-lactulose): ≥ 90.0 w/w %
+Assay (water-free) – LNFP-I and 2’-FL: ≥ 75.0 w/w %
+Assay (water-free) – LNFP-I: ≥ 50.0 w/w %
+Assay (water-free) – 2’-FL: ≥ 15.0 w/w %
+Lacto-N-tetraose: ≤ 5.0 w/w %
+3-Fucosyllactose: ≤ 1.0 w/w %
+Sum of L-Fucose and 2’-fucosyl-lactitol: ≤ 1.0 w/w %
+D-Lactose: ≤ 10.0 w/w %
+Difucosyl-D-lactose: ≤ 2.0 w/w %
+LNFP-I fructose isomer: ≤ 1.5 w/w %
+2’-Fucosyl-D-lactulose: ≤ 1.0 w/w %
+Sum of other carbohydrates: ≤ 6.0 w/w %
+pH in 5% solution (20°C): 4.0–7.0
+Water: ≤ 8.0 w/w %
+Ash, sulphated: ≤ 0.5 w/w %
+Residual protein by Bradford assay: ≤ 0.01 w/w %
+Heavy metals
+Arsenic: ≤0.2 mg/kg
+Mycotoxins
+Residual endotoxins: ≤ 10 EU/mg
+Aflatoxin M1: ≤ 0.025 µg/kg
+Microbiological criteria
+Aerobic mesophilic total plate count: ≤ 1000 CFU/g
+Enterobacteriaceae: Absent in 10g
+Salmonella spp: Absent in 25 g
+Yeasts: ≤ 100 CFU/g
+Moulds: ≤ 100 CFU/g
+Bacillus cereus: ≤ 50 CFU/g
+Listeria monocytogenes: Absent in 25g
+Cronobacter spp.: Absent in 10g
+EU: Endotoxin Units
+CFU: Colony Forming Units”EXPLANATORY NOTE
+(This note is not part of the Regulations)
+Regulation 2 amends Regulation (EC) No. 1333/2008 of the European Parliament and of the Council on food additives (EUR 2008/1333) to add a new food additive, amend the conditions of use for an existing food additive, and makes consequential amendments and corrections.
+Regulation 3 amends Commission Regulation (EU) No. 231/2012 laying down specifications for food additives listed in Annexes II and III of Regulation (EC) No. 1333/2008 of the European Parliament and of the Council (EUR 2012/231) to set a maximum limit for ethylene oxide in all food additives, add a new production method for an existing additive and makes a consequential change to subcategorise the E numbers for that additive.
+Regulation 4 amends Regulation (EC) No. 1334/2008 of the European Parliament and of the Council on flavourings and certain food ingredients with flavouring properties for use in and on foods etc. (EUR 2008/1334) to remove 22 flavouring substances from the authorised list of flavourings.
+Regulation 5 creates a transitional measure to allow the 22 flavouring substances and foods containing them to remain on the market, and be added to foods, if already present in the United Kingdom or in transit to Great Britain before the authorisation was removed and to allow foods to which they are added to be placed on the market, and used, until they reach their date of minimum durability.
+Regulation 6 amends Commission Implementing Regulation (EU) 2017/2470 establishing the Union list of novel foods in accordance with Regulation (EU) 2015/2283 of the European Parliament and of the Council on novel foods (EUR 2017/2470) to add four new novel foods, amends the conditions of use for one existing novel food and correct the specifications for another existing novel food in the list of authorised novel foods.
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the public, private or voluntary sector is foreseen.

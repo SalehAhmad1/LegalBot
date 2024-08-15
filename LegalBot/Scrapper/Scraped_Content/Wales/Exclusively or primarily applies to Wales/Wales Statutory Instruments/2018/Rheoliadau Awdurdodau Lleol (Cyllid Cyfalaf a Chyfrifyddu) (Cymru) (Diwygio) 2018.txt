@@ -1,0 +1,159 @@
+OFFERYNNAU STATUDOL CYMRU
+2018 Rhif 325 (Cy. 61)
+LLYWODRAETH LEOL, CYMRU
+Rheoliadau Awdurdodau Lleol (Cyllid Cyfalaf a Chyfrifyddu) (Cymru) (Diwygio) 2018
+Gwnaed
+6 Mawrth 2018
+Gosodwyd gerbron Cynulliad Cenedlaethol Cymru
+9 Mawrth 2018
+Yn dod i rym
+31 Mawrth 2018
+Mae Gweinidogion Cymru, drwy arfer y pwerau a roddir gan adrannau 7(2)(b), 8(3), 9(3), 11, 16(2), 21(1) a (2), 24 a 123(1) a (2) o Ddeddf Llywodraeth Leol 2003(1), yn gwneud y Rheoliadau a ganlyn.
+(1)
+2003 p. 26. Diwygiwyd adran 24 gan adran 238(3) o Ddeddf Llywodraeth Leol a Chynnwys y Cyhoedd mewn Iechyd 2007 (p. 28). Mae’r pwerau o dan Ran 1 o Ddeddf Llywodraeth Leol 2003 bellach wedi eu breinio yng Ngweinidogion Cymru i’r graddau y maent yn arferadwy o ran Cymru, yn rhinwedd adran 24 o Ddeddf Llywodraeth Leol 2003 fel y’i diwygiwyd. Roedd y pwerau wedi eu breinio’n flaenorol yng Nghynulliad Cenedlaethol Cymru gan adran 24 o Ddeddf Llywodraeth Leol 2003. Yn rhinwedd paragraff 30 o Atodlen 11 i Ddeddf Llywodraeth Cymru 2006 (p. 32) trosglwyddwyd hwy i Weinidogion Cymru.Enwi, cychwyn, cymhwyso a dehongli
+1.—(1) Enw’r Rheoliadau hyn yw Rheoliadau Awdurdodau Lleol (Cyllid Cyfalaf a Chyfrifyddu) (Cymru) (Diwygio) 2018 a deuant i rym ar 31 Mawrth 2018.
+(2) Mae’r Rheoliadau hyn yn gymwys o ran Cymru.
+(3) Yn y Rheoliadau hyn ystyr “Rheoliadau 2003” (“the 2003 Regulations”) yw Rheoliadau Awdurdodau Lleol (Cyllid Cyfalaf a Chyfrifyddu) (Cymru) 2003(1).
+(1)
+O.S. 2003/3239 (Cy. 319) fel y’i diwygiwyd gan O.S. 2004/1010 (Cy. 107), 2006/944 (Cy. 93), 2006/2914, 2007/1051 (Cy. 108), 2008/588 (Cy. 59), 2009/560 (Cy. 52), 2010/685 (Cy. 67), 2014/481 (Cy. 58) a 2016/102 (Cy. 50).Diwygio Rheoliadau 2003
+2.  Mae Rheoliadau 2003 wedi eu diwygio yn unol â rheoliadau 3 i 11.Dehongli
+3.  Yn rheoliad 1 (dehongli), ym mharagraff (4)—
+(a)
+yn y diffiniad o “associates”, yn lle “section 135” rhodder “section 136”;
+(b)
+hepgorer y diffiniad o “CIPFA”;
+(c)
+yn y diffiniad o “dwelling-house”, yn lle “section 135” rhodder “section 136”;
+(d)
+ar ôl y diffiniad o “long lease”, mewnosoder—
+““money market fund” means a collective investment scheme which—
+(a)
+in accordance with Directive 2009/65/EC(1) of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities, is an undertaking for collective investment in transferable securities subject to that Directive; and
+(b)
+is authorised or recognised under Part XVII of the Financial Services and Markets Act 2000(2);”;
+(e)
+yn y diffiniad o “qualifying disposal”, hepgorer “135 or”;
+(f)
+ar ôl y diffiniad o “secure tenant”—
+(i)
+hepgorer “and”;
+(ii)
+mewnosoder—
+““securitisation transaction” means a disposal for consideration by a local authority of all or part of its interest in specified revenues, where disposal includes both sale and assignment; and”.
+(1)
+OJ Rhif L 302, 17.11.2009, t. 32, a ddiwygiwyd gan 2010/78/EU (OJ Rhif L 331, 15.12.2010, t. 120), 2011/61/EU (OJ Rhif L 174, 1.7.2011, t. 1), 2013/14/EU (OJ Rhif L 145, 31.5.2013, t. 1-3), a 2014/91/EU (OJ Rhif L 257, 28.8.2014, t. 186-213).
+(2)
+2000 p. 8.Trefniadau credyd
+4.—(1) Cyn rheoliad 3 (rhwymedigaethau nad ydynt yn deillio o wariant cyfalaf) a phennawd yr is-ran “Transactions which are not credit arrangements”, mewnosoder—
+“TRANSACTIONS WHICH ARE CREDIT ARRANGEMENTS
+Securitisation transactions
+2A.  A securitisation transaction must be treated as a transaction falling within section 7(2)(a).”
+(2) Yn lle rheoliad 5 (cyfrifo cost trefniadau credyd), rhodder—
+“Calculation of cost of credit arrangements
+5.  For the purposes of section 8(2) (entry into a credit arrangement or variation to be treated as the borrowing of an amount equal to the cost of the arrangement or variation), the cost of a credit arrangement or variation of a credit arrangement is—
+(a)
+in the case of a securitisation transaction, an amount equal to the value of the consideration received by the authority as a result of that transaction; or
+(b)
+in all other cases, the amount of the liability in respect of that arrangement or variation which is shown, in accordance with proper practices, in the authority’s accounts.”Asedau sefydlog
+5.  Yn rheoliad 3(2), yn lle’r geiriau “fixed asset”, rhodder “non-current asset which is not a financial asset”.Bondiau
+6.—(1) Yn lle rheoliad 6 (ad-dalu benthyciad etc. i awdurdod lleol), rhodder—
+“Repayment of loan etc. to a local authority
+6.—(1) For the purpose of Chapter 1 of Part 1 and subject to paragraph (3) of this regulation, the sums to which paragraph (2) refers must be treated as capital receipts.
+(2) Sums received by a local authority as repayment of the principal of an advance, a grant or any other financial assistance given by that local authority for such a purpose that, if the giving of that financial assistance had been expenditure incurred by the local authority at the time of the repayment, it would have constituted capital expenditure.
+(3) For the purpose of Chapter 1 of Part 1 and subject to regulation 6A below, the sums to which paragraphs (4) to (6) refer must not be treated as capital receipts.
+(4) Sums received by a local authority in connection with the repayment of the principal of an advance, a grant or any other financial assistance—
+(a)
+to an officer of the authority pursuant to the terms and conditions of that officer’s employment; or
+(b)
+in connection with the appointment of a person as an officer of the authority, to that person.
+(5) Sums received by a local authority in respect of the redemption on maturity of a bond or the disposal of a bond.
+(6) Sums received by a community council or charter trustees as repayment of the principal of an advance, a grant or any other financial assistance given by that community council or charter trustees.
+(7) In paragraphs (4) and (5), “local authority” includes a community council and charter trustees.”
+(2) Ar ôl rheoliad 6, mewnosoder—
+“Bonds
+6A.—(1) For the purpose of Chapter 1 of Part 1, the sums to which paragraph (2) refers must be treated as capital receipts.
+(2) Sums received by a local authority in respect of the redemption on maturity of a bond or the disposal of a bond where—
+(a)
+the acquisition of the bond was prior to 1 April 2018; and
+(b)
+expenditure on the acquisition was treated as capital expenditure.
+(3) In paragraph (2) “local authority” includes a community council and charter trustees.”Derbyniadau cyfalaf
+7.  Ar ôl rheoliad 8 (taliad a wneir i adbrynu cyfran landlord), mewnosoder—
+“Securitisation transaction receipts
+8A.  For the purposes of Chapter 1 of Part 1, any sum received as consideration by a local authority as the result of a securitisation transaction which, apart from this regulation, would not be a capital receipt, must be treated as a capital receipt.”Defnyddio derbyniadau cyfalaf
+8.  Yn rheoliad 18 (defnyddio derbyniadau cyfalaf)—
+(a)
+ym mharagraff (2), yn lle “paragraphs (3), (6) and (7)” rhodder “paragraphs (3) and (6)”;
+(b)
+ar ôl paragraff (2)(e)—
+(i)
+hepgorer “.”;
+(ii)
+mewnosoder—
+“; or
+(f)
+to meet the costs of or incidental to a disposal of an interest in land other than housing land, provided these do not exceed 4% of the capital receipt arising from the disposal.”;
+(c)
+hepgorer paragraff (7).Gwariant sydd i’w ystyried yn wariant cyfalaf
+9.  Yn rheoliad 20 (gwariant sydd i’w ystyried yn wariant cyfalaf)—
+(a)
+ym mharagraff (1)(d), hepgorer “or loan capital”;
+(b)
+ar ôl paragraff (1)(g)—
+(i)
+hepgorer “.”;
+(ii)
+mewnosoder—
+“; and
+(h)
+expenditure incurred on the acquisition, production or construction of assets for use by, or disposal to, a person other than the local authority which would be capital expenditure if those assets were acquired, produced or constructed for use by the local authority.”;
+(c)
+yn lle paragraff (5), rhodder—
+“(5) The expenditure referred to in paragraph (1)(d) may not be treated as being capital expenditure by virtue of this regulation if it is—
+(a)
+an investment in a money market fund;
+(b)
+an investment in the shares of a company to which Part 12 of the Corporation Tax Act 2010(1) (real estate investment trusts) applies; or
+(c)
+the acquisition of shares in an investment scheme approved by the Treasury under section 11(1) of the Trustee Investments Act 1961(2) (local authority investment schemes).”;
+(d)
+hepgorer paragraff (6);
+(e)
+ym mharagraff (7), yn lle “paragraphs (1)(a), (d), (e) and (f)” rhodder “paragraphs (1)(a), (d), (e), (f) and (2)”.
+(1)
+2010 p. 4.
+(2)
+1961 p. 62.Ôl-daliad yn sgil tâl anghyfartal
+10.  Yn rheoliad 24A (ôl-daliad yn sgil tâl anghyfartal)—
+(a)
+ym mharagraff (5)—
+(i)
+hepgorer “Subject to paragraph (6),”;
+(ii)
+yn lle “1 April 2018” rhodder “1 April 2020”;
+(b)
+hepgorer paragraff (6).Arferion priodol
+11.  Yn rheoliad 25 (arferion priodol)—
+(a)
+yn lle paragraff (1)(a) rhodder—
+“(a)
+in relation to local authorities other than community councils and minor joint committees, the accounting practices contained in the “Code of Practice on Local Authority Accounting in the United Kingdom”(1) as may be amended or reissued from time to time (whether under the same title or not) issued jointly by the Chartered Institute of Public Finance and Accountancy and the Local Authority (Scotland) Accounts Advisory Committee are proper practices; and”;
+(b)
+ym mharagraff (2), yn lle “£1,000,000” rhodder “£2,500,000”.
+(1)
+ISBN 978 1 84508 4578 ar gyfer Rhifyn 2016/2017 o’r Cod Ymarfer.Alun Davies
+Ysgrifennydd y Cabinet dros Lywodraeth Leol a Gwasanaethau Cyhoeddus, un o Weinidogion Cymru
+6 Mawrth 2018NODYN ESBONIADOL
+(Nid yw’r nodyn hwn yn rhan o’r Rheoliadau)
+Mae’r Rheoliadau hyn yn diwygio Rheoliadau Awdurdodau Lleol (Cyllid Cyfalaf a Chyfrifyddu) (Cymru) 2003 (O.S. 2003/3239 (Cy. 319)) (“Rheoliadau 2003”).
+Mae rheoliad 3 yn diwygio rheoliad 1 o Reoliadau 2003 ac yn cyflwyno diffiniadau newydd ar gyfer “securitisation transaction” a “money market fund”.
+Mae rheoliad 4(1) yn darparu bod rhaid i drafodiad gwarannu gael ei drin fel trefniant credyd at ddibenion adran 7 o Ddeddf Llywodraeth Leol 2003 (p. 26).
+Mae rheoliad 4(2) yn amnewid rheoliad 5 o Reoliadau 2003 er mwyn darparu ar gyfer cyfrifo cost trafodiad gwarannu.
+Mae rheoliad 5 yn disodli’r term “fixed asset” gyda’r derminoleg bresennol a ddefnyddir mewn arferion cyfrifyddu llywodraeth leol.
+Mae rheoliad 6 yn diwygio Rheoliadau 2003 er mwyn ei gwneud yn glir na chaniateir trin symiau y mae’r awdurdod lleol yn eu cael o ran adbrynu bond pan fo’n aeddfedu, neu wrth waredu bond, fel derbyniadau cyfalaf, oni bai bod y bond wedi ei gaffael cyn 1 Ebrill 2018 a bod y gwariant ar gaffael wedi ei drin fel gwariant cyfalaf.
+Mae rheoliad 7 yn mewnosod rheoliad 8A newydd sy’n darparu bod rhaid i werth unrhyw gydnabyddiaeth a geir o ganlyniad i drafodiad gwarannu gan awdurdod lleol gael ei drin fel derbyniad cyfalaf.
+Mae rheoliad 8 yn dileu’r gofyniad mai dim ond derbyniadau cyfalaf a geir mewn cysylltiad â gwaredu buddiant mewn tir ac eithrio tir ar gyfer tai y caniateir eu defnyddio i dalu costau’r gwaredu, neu gostau sy’n gysylltiedig â’r gwaredu, ar yr amod nad yw costau o’r fath yn fwy na 4% o’r derbyniad cyfalaf sy’n deillio o’r gwaredu.
+Mae rheoliad 9 yn dileu’r gofyniad i wariant gan awdurdodau lleol ar gaffael cyfalaf benthyg gael ei drin fel gwariant cyfalaf. Mae hefyd yn darparu bod rhaid i wariant yr eir iddo wrth gaffael, wrth gynhyrchu neu wrth adeiladu asedau i’w defnyddio gan berson heblaw’r awdurdod lleol, neu i’w gwaredu iddo, gael ei drin fel gwariant cyfalaf, pe byddai wedi bod yn wariant cyfalaf pe bai’r asedau wedi eu caffael, eu cynhyrchu neu eu hadeiladu i’w defnyddio gan yr awdurdod lleol. Mae rheoliad 20 o Reoliadau 2003 hefyd wedi ei ddiwygio i eithrio gwariant ar gaffael mathau penodol o gyfalaf cyfranddaliadau rhag cael ei drin fel gwariant cyfalaf.
+Mae rheoliad 10 yn ymestyn tan 1 Ebrill 2020 y gallu sydd gan awdurdodau lleol i ohirio codi, ar gyfrif refeniw, rwymedigaethau i ôl-dâl oherwydd ceisiadau am gyflog cyfartal, tan y dyddiad y mae rhaid i’r awdurdod lleol dalu’r ôl-dâl hwnnw. Mae hwn ar yr amod bod yr ôl-dâl hwnnw wedi ei wneud cyn 1 Ebrill 2020.
+Mae rheoliad 11 yn dileu’r cyfeiriad at un o’r dogfennau y nodir eu bod yn ffurfio arferion priodol at ddibenion adran 21 o Ddeddf Llywodraeth Leol 2003.
+Ystyriwyd Cod Ymarfer Gweinidogion Cymru ar gynnal Asesiadau Effaith Rheoleiddiol mewn perthynas â’r Rheoliadau hyn. O ganlyniad, ystyriwyd nad oedd yn angenrheidiol cynnal asesiad effaith rheoleiddiol o’r costau a’r manteision sy’n debygol o ddeillio o gydymffurfio â’r Rheoliadau hyn.

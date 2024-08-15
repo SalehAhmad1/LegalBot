@@ -1,0 +1,176 @@
+STATUTORY INSTRUMENTS
+2021 No. 214
+PENSIONS
+The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2021
+Made
+1st March 2021
+Laid before Parliament
+4th March 2021
+Coming into force
+1st April 2021
+The Secretary of State for Work and Pensions makes the following Regulations in exercise of the powers conferred by sections 175(1) to (3) and 182(2) of the Pension Schemes Act 1993(1).
+The Secretary of State has consulted such persons as the Secretary of State considers appropriate in accordance with section 185(1) of that Act(2).
+(1)
+1993 c. 48. Section 175 was substituted by section 165 of the Pensions Act 1995 (c. 26). Subsection (1) was amended by section 12(1) of the Financial Guidance and Claims Act 2018 (c.10) (“the 2018 Act”) and by S.I. 2010/22 and 2019/383. Subsections (1) and (3) were amended by paragraph 26 of Schedule 1, and Schedule 13, to the Pensions Act 2004 (c. 35). See section 181(1) for the definitions of “prescribed” and “regulations”.
+(2)
+Section 185(1) was amended by paragraph 46 of Schedule 3, paragraph 80(a) of Schedule 5 and Part 1 of Schedule 7 to the Pensions Act 1995.Citation, commencement, extent and application
+1.—(1) These Regulations may be cited as the Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2021 and come into force on 1st April 2021.
+(2) These Regulations extend to England and Wales and Scotland.
+(3) These Regulations apply to England, Wales and Scotland.Amendment of the Occupational and Personal Pension Schemes (General Levy) Regulations 2005
+2.—(1) The Occupational and Personal Pension Schemes (General Levy) Regulations 2005(1) are amended as follows.
+(2) In regulation 6 (amount of the general levy: occupational pension schemes)—
+(a)
+in paragraph (1), for “in column (1) of the table in paragraph (2)” substitute “for that financial year for that scheme in column (1) of the appropriate table in Part 1 of the Schedule”;
+(b)
+omit paragraph (2).
+(3) In regulation 7 (amount of the general levy: personal pension schemes)—
+(a)
+in paragraph (1), for “in column (1) of the table in paragraph (2)” substitute “for that financial year in column (1) of the appropriate table in Part 2 of the Schedule”;
+(b)
+omit paragraph (2).
+(4) At the end insert—
+Regulations 6(1) and 7(1)
+“SCHEDULE
+AMOUNT OF THE GENERAL LEVY
+PART 1
+OCCUPATIONAL PENSION SCHEMES
+1.—(1) In this Part—
+“defined benefits scheme”, “hybrid scheme” and “money purchase scheme” have the meanings given in section 99 of the Pensions Act 2008(2);
+“Master Trust scheme” has the meaning given in section 1 of the Pension Schemes Act 2017(3).
+(2) Where an occupational pension scheme—
+(a)
+is both a Master Trust scheme and a money purchase scheme; or
+(b)
+is both a Master Trust scheme and a hybrid scheme,
+the scheme shall be treated for the purposes of this Part as a Master Trust scheme.
+2.  This table relates to defined benefits schemes and hybrid schemes for the financial year beginning with 1st April 2021—
+Number of members on the reference day Amount of levy calculated by reference to the number of members (M) Minimum amount of levy
+2 to 11 £32
+12 to 99 £3.17 multiplied by M Not applicable
+100 to 999 £2.29 multiplied by M £310
+1,000 to 4,999 £1.78 multiplied by M £2,290
+5,000 to 9,999 £1.35 multiplied by M £8,900
+10,000 to 499,999 £0.95 multiplied by M £13,500
+500,000 or more £0.72 multiplied by M £475,000.
+3.  This table relates to defined benefits schemes and hybrid schemes for the financial year beginning with 1st April 2022—
+Number of members on the reference day Amount of levy calculated by reference to the number of members (M) Minimum amount of levy
+2 to 11 £54
+12 to 99 £5.33 multiplied by M Not applicable
+100 to 999 £3.85 multiplied by M £530
+1,000 to 4,999 £3.00 multiplied by M £3,850
+5,000 to 9,999 £2.28 multiplied by M £15,000
+10,000 to 499,999 £1.59 multiplied by M £22,800.
+500,000 or more £1.20 multiplied by M £795,000.
+4.  This table relates to defined benefits schemes and hybrid schemes for the financial year beginning with 1st April 2023—
+Number of members on the reference day Amount of levy calculated by reference to the number of members (M) Minimum amount of levy
+2 to 11 £64
+12 to 99 £6.34 multiplied by M Not applicable
+100 to 999 £4.58 multiplied by M £630
+1,000 to 4,999 £3.56 multiplied by M £4,580
+5,000 to 9,999 £2.71 multiplied by M £17,800
+10,000 to 499,999 £1.89 multiplied by M £27,100
+500,000 or more £1.43 multiplied by M £945,000.
+5.  This table relates to money purchase schemes for the financial year beginning with 1st April 2021—
+Number of members on the reference day Amount of levy calculated by reference to the number of members (M) Minimum amount of levy
+2 to 11 £32
+12 to 99 £3.17 multiplied by M Not applicable
+100 to 999 £2.29 multiplied by M £310
+1,000 to 4,999 £1.78 multiplied by M £2,290
+5,000 to 9,999 £1.35 multiplied by M £8,900
+10,000 to 499,999 £0.95 multiplied by M £13,500
+500,000 or more £0.72 multiplied by M £475,000.
+6.  This table relates to money purchase schemes for the financial year beginning with 1st April 2022—
+Number of members on the reference day Amount of levy calculated by reference to the number of members (M) Minimum amount of levy
+2 to 11 £38
+12 to 99 £3.74 multiplied by M Not applicable
+100 to 999 £2.70 multiplied by M £370
+1,000 to 4,999 £2.11 multiplied by M £2,700
+5,000 to 9,999 £1.60 multiplied by M £10,550
+10,000 to 499,999 £1.12 multiplied by M £16,000
+500,000 or more £0.85 multiplied by M £560,000.
+7.  This table relates to money purchase schemes for the financial year beginning with 1st April 2023—
+Number of members on the reference day Amount of levy calculated by reference to the number of members (M) Minimum amount of levy
+2 to 11 £44
+12 to 99 £4.32 multiplied by M Not applicable
+100 to 999 £3.12 multiplied by M £430
+1,000 to 4,999 £2.43 multiplied by M £3,120
+5,000 to 9,999 £1.85 multiplied by M £12,150
+10,000 to 499,999 £1.29 multiplied by M £18,500
+500,000 or more £0.98 multiplied by M £645,000.
+8.  This table relates to Master Trust schemes for the financial year beginning with 1st April 2021—
+Number of members on the reference day Amount of levy calculated by reference to the number of members (M) Minimum amount of levy
+2 to 11 £31
+12 to 99 £3.02 multiplied by M Not applicable
+100 to 999 £2.18 multiplied by M £300
+1,000 to 4,999 £1.70 multiplied by M £2,180
+5,000 to 9,999 £1.29 multiplied by M £8,500
+10,000 to 499,999 £0.90 multiplied by M £12,900
+500,000 or more £0.68 multiplied by M £450,000.
+9.  This table relates to Master Trust schemes for the financial year beginning with 1st April 2022—
+Number of members on the reference day Amount of levy calculated by reference to the number of members (M) Minimum amount of levy
+2 to 11 £32
+12 to 99 £3.08 multiplied by M Not applicable
+100 to 999 £2.23 multiplied by M £300
+1,000 to 4,999 £1.73 multiplied by M £2,230
+5,000 to 9,999 £1.32 multiplied by M £8,650
+10,000 to 499,999 £0.92 multiplied by M £13,200
+500,000 or more £0.70 multiplied by M £460,000.
+10.  This table relates to Master Trust schemes for the financial year beginning with 1st April 2023—
+Number of members on the reference day Amount of levy calculated by reference to the number of members (M) Minimum amount of levy
+2 to 11 £32
+12 to 99 £3.14 multiplied by M Not applicable
+100 to 999 £2.27 multiplied by M £310
+1,000 to 4,999 £1.77 multiplied by M £2,270
+5,000 to 9,999 £1.34 multiplied by M £8,850
+10,000 to 499,999 £0.94 multiplied by M £13,400
+500,000 or more £0.71 multiplied by M £470,000.
+PART 2
+PERSONAL PENSION SCHEMES
+11.  This table relates to the financial year beginning with 1st April 2021—
+Number of members on the reference day Amount of levy calculated by reference to number of members (M) Minimum amount of levy
+2 to 11 £13
+12 to 99 £1.21 multiplied by M Not applicable
+100 to 999 £0.85 multiplied by M £120
+1,000 to 4,999 £0.72 multiplied by M £850
+5,000 to 9,999 £0.48 multiplied by M £3,600
+10,000 to 499,999 £0.37 multiplied by M £4,800
+500,000 or more £0.27 multiplied by M £185,000.
+12.  This table relates to the financial year beginning with 1st April 2022—
+Number of members on the reference day Amount of levy calculated by reference to the number of members (M) Minimum amount of levy
+2 to 11 £13
+12 to 99 £1.23 multiplied by M Not applicable
+100 to 999 £0.87 multiplied by M £120
+1,000 to 4,999 £0.74 multiplied by M £870
+5,000 to 9,999 £0.49 multiplied by M £3,700
+10,000 to 499,999 £0.37 multiplied by M £4,900
+500,000 or more £0.28 multiplied by M £185,000.
+13.  This table relates to the financial year beginning with 1st April 2023—
+Number of members on the reference day Amount of levy calculated by reference to the number of members (M) Minimum amount of levy
+2 to 11 £14
+12 to 99 £1.25 multiplied by M Not applicable
+100 to 999 £0.88 multiplied by M £120
+1,000 to 4,999 £0.75 multiplied by M £880
+5,000 to 9,999 £0.50 multiplied by M £3,750
+10,000 to 499,999 £0.38 multiplied by M £5,000
+500,000 or more £0.28 multiplied by M £190,000.”.
+(1)
+S.I. 2005/626. Relevant amending instrument is S.I. 2017/203.
+(2)
+2008 c. 30. Section 99 is amended but none of the amendments are relevant.
+(3)
+2017 c .17.Revocation
+3.  The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2017(1) are revoked.
+(1)
+S.I. 2017/203.Signed by authority of the Secretary of State for Work and Pensions
+Guy Opperman
+Parliamentary Under Secretary of State
+Department for Work and Pensions
+1st March 2021EXPLANATORY NOTE
+(This note is not part of the Regulations)
+Regulation 2 of these Regulations amends the Occupational and Personal Pension Schemes (General Levy) Regulations 2005 (S.I. 2005/626). It amends regulations 6 and 7 and inserts a new Schedule to specify the new figures that are to be used in calculating the rate at which the general levy for occupational pension schemes and that for personal pension schemes is payable. The new rates apply for the financial years beginning with 1st April 2021, 1st April 2022 and 1st April 2023.
+The general levy on occupational and personal pension schemes recovers from schemes the funding provided by the Department for Work and Pensions in respect of the core activities of the Pensions Regulator, the activities of the Pensions Ombudsman and the pensions-related activities of the Money and Pensions Service(1).
+The effect of the changes is to increase the general levy rates for both occupational and personal pension schemes for those financial years and to introduce separate rates for defined benefit and hybrid, money purchase and Master Trust occupational pension schemes.
+Regulation 3 of these Regulations revokes the Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2017 (S.I. 2017/203) which imposed the previous increase.
+An impact assessment has not been published for these Regulations as they amend an existing statutory levy regime and the associated administrative costs are negligible.
+(1)
+The 2018 Act created a new body referred to in that Act as the single financial guidance body which took over the functions of the Pensions Advisory Service. This body was named by regulation 2 of the Financial Guidance and Claims Act 2018 (Naming and Consequential Amendments) Regulations 2019 (S.I. 2019/383) as the Money and Pensions Service.

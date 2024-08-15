@@ -1,0 +1,788 @@
+OFFERYNNAU STATUDOL CYMRU
+2022 Rhif 372 (Cy. 92)
+LLYWODRAETH LEOL, CYMRU
+Rheoliadau Cyd-bwyllgorau Corfforedig (Cyffredinol) (Cymru) 2022
+Gwnaed
+23 Mawrth 2022
+Yn dod i rym
+Rheoliad 3(8)
+6 Mai 2022
+Y gweddill
+25 Mawrth 2022
+Mae Gweinidogion Cymru, drwy arfer y pwerau a roddir iddynt gan adrannau 80(1), 83, 84 a 174 o Ddeddf Llywodraeth Leol ac Etholiadau (Cymru) 2021(1), yn gwneud y Rheoliadau a ganlyn.
+Yn unol ag adrannau 80(2)(c) a 82(2) a (3)(a) a (d) o’r Ddeddf honno, mae Gweinidogion Cymru wedi ymgynghori â’r personau hynny y maent yn ystyried eu bod yn briodol ar ddrafft o’r Rheoliadau, ac wedi rhoi hysbysiad o’u bwriad i wneud y Rheoliadau i’r prif gynghorau yn ardaloedd y cyd-bwyllgorau corfforedig ac i’r cyd-bwyllgorau corfforedig.
+Gosodwyd drafft o’r offeryn hwn gerbron Senedd Cymru ac fe’i cymeradwywyd ganddi drwy benderfyniad yn unol ag adran 174(4) a (5) o’r Ddeddf honno.
+(1)
+2021 dsc 1.Enwi a dod i rym
+1.—(1) Enw’r Rheoliadau hyn yw Rheoliadau Cyd-bwyllgorau Corfforedig (Cyffredinol) (Cymru) 2022.
+(2) Daw’r Rheoliadau hyn, ac eithrio’r rheoliad a grybwyllir ym mharagraff (3), i rym ar 25 Mawrth 2022.
+(3) Daw rheoliad 3(8) (adroddiadau blynyddol gan bwyllgorau safonau) i rym ar 6 Mai 2022.Dehongli
+2.  Yn y Rheoliadau hyn—
+ystyr “cyd-bwyllgor corfforedig” (“corporate joint committee”) yw cyd-bwyllgor corfforedig a sefydlir gan reoliadau o dan Ran 5 o Ddeddf Llywodraeth Leol ac Etholiadau (Cymru) 2021;
+ystyr “Deddf 1972” (“the 1972 Act”) yw Deddf Llywodraeth Leol 1972(1);
+ystyr “Deddf 1980” (“the 1980 Act”) yw Deddf Llywodraeth Leol, Cynllunio a Thir 1980(2);
+ystyr “Deddf 1989” (“the 1989 Act”) yw Deddf Llywodraeth Leol a Thai 1989(3);
+ystyr “Deddf 2000” (“the 2000 Act”) yw Deddf Llywodraeth Leol 2000(4);
+ystyr “Deddf 2003” (“the 2003 Act”) yw Deddf Llywodraeth Leol 2003(5);
+ystyr “y Rheoliadau sefydlu” (“the establishment Regulations”) yw—
+(a)
+Rheoliadau Cyd-bwyllgor Corfforedig y Gogledd (Cymru) 2021(6),
+(b)
+Rheoliadau Cyd-bwyllgor Corfforedig y Canolbarth (Cymru) 2021(7),
+(c)
+Rheoliadau Cyd-bwyllgor Corfforedig De-ddwyrain (Cymru) 2021(8), a
+(d)
+Rheoliadau Cyd-bwyllgor Corfforedig y De-orllewin (Cymru) 2021(9).
+(1)
+1972 p. 70.
+(2)
+1980 p. 65.
+(3)
+1989 p. 42.
+(4)
+2000 p. 22.
+(5)
+2003 p. 26.
+(6)
+O.S. 2021/339 (Cy. 93).
+(7)
+O.S. 2021/342 (Cy. 96).
+(8)
+O.S. 2021/343 (Cy. 97).
+(9)
+O.S. 2021/352 (Cy. 104).Cymhwyso Rhan 3 o Ddeddf 2000 i gyd-bwyllgorau corfforedig
+3.—(1) Mae Deddf 2000 wedi ei diwygio fel a ganlyn.
+(2) Yn adran 49 (egwyddorion ymddygiad sy’n llywodraethu aelodau)—
+(a)
+yn is-adran (6), ar ôl paragraff (b) mewnosoder—
+“(ba)
+a corporate joint committee;”;
+(b)
+ar ôl is-adran (7) mewnosoder—
+“(8) In this Part, “corporate joint committee” means a corporate joint committee established by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021.”
+(3) Yn adran 51 (dyletswydd i fabwysiadu cod ymddygiad)—
+(a)
+ar ôl is-adran (7) mewnosoder—
+“(7A) But subsections (6)(a) and (b) and (7) do not apply in relation to a corporate joint committee.
+(7B) As soon as reasonably practicable after adopting or revising a code of conduct under this section, a corporate joint committee must publish the code or revised code electronically.
+(7C) A corporate joint committee must send a copy of its code to any member of the public who requests a copy, as soon as reasonably practicable after receiving the request.”;
+(b)
+yn is-adran (9)—
+(i)
+ar ôl “1972” mewnosoder “or regulation 13 of the Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021”;
+(ii)
+yn lle “that section applies” rhodder “that section or regulation, applies”.
+(4) Yn adran 52 (dyletswydd i gydymffurfio â chod ymddygiad)—
+(a)
+yn is-adran (1), yn lle “A person” rhodder “Subject to subsection (1A), a person”;
+(b)
+ar ôl is-adran (1) mewnosoder—
+“(1A) This section does not apply in the case of a member or co-opted member of a corporate joint committee (as to which see section 52ZA).”
+(5) Ar ôl adran 52 mewnosoder—
+“52ZA    Duty to comply with code of conduct for corporate joint committees
+(1) A person who is a member or co-opted member of a corporate joint committee must observe a code of conduct adopted by the corporate joint committee under section 51, including a code revised under subsection (3)(b) of that section.
+(2) In relation to a corporate joint committee whose members or co-opted members are subject to mandatory provisions by virtue of section 51(5)(b), the reference in subsection (1) to the code of conduct adopted by the corporate joint committee includes the mandatory provisions which for the time being apply to the members or co-opted members of the corporate joint committee.”
+(6) Yn adran 53 (pwyllgorau safonau)—
+(a)
+ar ôl is-adran (1) mewnosoder—
+“(1ZA) Subsections (1ZB) and (1ZC) apply for the purposes of subsection (1).
+(1ZB) Where a relevant authority is a corporate joint committee—
+(a)
+the reference to establishing a committee is to be read as a reference to establishing a sub-committee;
+(b)
+the reference to establishing a joint committee with one or more other relevant authorities is to be read, where all of the other relevant authorities are corporate joint committees, as a reference to establishing a joint sub-committee.
+(1ZC) The reference to establishing a joint committee is to be read, where one or more of the relevant authorities are corporate joint committees and one or more of the relevant authorities are not corporate joint committees, as a reference to establishing a joint committee which is—
+(a)
+a sub-committee in relation to the corporate joint committee (or committees), and
+(b)
+a committee in relation to the relevant authority which is not (or relevant authorities which are not) a corporate joint committee.”;
+(b)
+yn is-adran (1A), ar ôl “subsection (1)” mewnosoder “(read in accordance with subsections (1ZA) to (1ZC))”;
+(c)
+ar ôl is-adran (1A) mewnosoder—
+“(1B) A relevant authority which is a corporate joint committee must establish its first standards committee within the period of 90 days which begins with the day after the day on which the first regulations under subsection (11) which apply to the corporate joint committee come into force.”;
+(d)
+yn is-adran (12)—
+(i)
+mae’r testun o “applies” hyd at “1972” yn dod yn baragraff (a);
+(ii)
+ar ôl paragraff (a) mewnosoder—
+“(b)
+in relation to a standards committee which is established by a corporate joint committee and which is not a joint standards committee, disapplies or modifies any provision of regulations 16 to 21 of the Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (meetings and proceedings; see also regulation 22 of those Regulations);
+(c)
+in relation to a standards committee which is established by a corporate joint committee and which is a joint standards committee, applies or reproduces (with or without modifications) any provision of regulations 16 to 21 of the Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (but the power in this paragraph does not affect the exercise of the power in paragraph (a) in relation to such joint standards committees).”
+(7) Yn adran 54A (is-bwyllgorau i bwyllgorau safonau), ar ôl is-adran (1) mewnosoder—
+“(1A) Subsection (1) does not apply to a standards committee established by a corporate joint committee.”
+(8) Yn adran 56B(7) (adroddiadau blynyddol gan bwyllgorau safonau), ar ôl “1972” mewnosoder “or, in the case of a relevant authority which is a corporate joint committee, regulation 13 of the Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (arrangements for discharge of functions)”.
+(9) Yn adran 71 (adroddiadau etc.)—
+(a)
+yn is-adran (1)—
+(i)
+hepgorer “and” ar ôl paragraff (c);
+(ii)
+ar ôl paragraff (c) mewnosoder—
+“(ca)
+where the relevant authority concerned is a corporate joint committee, in the case of a member or co-opted member of the corporate joint committee who is also a member or co-opted member of—
+(i)
+a constituent council of the corporate joint committee;
+(ii)
+a National Park authority which is required by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021 to appoint a member of the corporate joint committee,
+the Ombudsman must send a copy of any such report to the monitoring officer of that constituent council or National Park authority (in addition to sending a copy of the report to the monitoring officer of the corporate joint committee in accordance with paragraph (c)),”;
+(iii)
+ar ôl paragraff (d) mewnosoder “, and” ac yna mewnosoder—
+“(da)
+where the relevant authority concerned is a corporate joint committee, in the case of a member or co-opted member of the corporate joint committee who is also a member or co-opted member of—
+(i)
+a constituent council of the corporate joint committee;
+(ii)
+a National Park authority which is required by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021 to appoint a member of the corporate joint committee,
+where the Ombudsman does not produce any such report the Ombudsman must inform the monitoring officer of that constituent council or National Park authority of the outcome of the investigation (in addition to informing the monitoring officer of the corporate joint committee in accordance with paragraph (d)).”;
+(b)
+ar ôl is-adran (2) mewnosoder—
+“(2A) Where the Ombudsman determines in the case of a member or co-opted member of a corporate joint committee who is also a member or co-opted member of—
+(a)
+a constituent council of the corporate joint committee;
+(b)
+a National Park authority which is required by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021 to appoint a member of the corporate joint committee,
+that a finding under section 69(4)(c) is appropriate, in addition to taking the steps set out in subsection (2) the Ombudsman must send a copy of the report to the monitoring officer and standards committee of that constituent council or National Park authority.”;
+(c)
+ar ôl is-adran (3) mewnosoder—
+“(3A) Where the Ombudsman determines in the case of a member or co-opted member of a corporate joint committee who is also a member or co-opted member of—
+(a)
+a constituent council of the corporate joint committee;
+(b)
+a National Park authority which is required by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021 to appoint a member of the corporate joint committee,
+that a finding under section 69(4)(d) is appropriate, in addition to taking the steps set out in subsection (3) the Ombudsman must send a copy of the report to the monitoring officer of that constituent council or National Park authority.”;
+(d)
+ar ôl is-adran (6) mewnosoder—
+“(7) In this Part a reference to a constituent council of a corporate joint committee means a constituent council as set out in the regulations under Part 5 of the Local Government and Elections (Wales) Act 2021 establishing the corporate joint committee.”
+(10) Yn adran 72(5) (adroddiadau interim), ar ôl paragraff (b) (ac o flaen “and”) mewnosoder—
+“(ba)
+where the relevant authority concerned is a corporate joint committee, in the case of a member or co-opted member of the corporate joint committee who is also a member or co-opted member of—
+(i)
+a constituent council of the corporate joint committee;
+(ii)
+a National Park authority which is required by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021 to appoint a member of the corporate joint committee,
+to the monitoring officer of that constituent council or National Park authority (in addition to being given to the monitoring officer of the corporate joint committee in accordance with paragraph (b)),”.
+(11) Yn adran 78(7) (penderfyniadau gan dribiwnlysoedd achos interim)—
+(a)
+hepgorer “and” ar ôl paragraff (a);
+(b)
+ar ôl paragraff (b) mewnosoder “, and” ac yna mewnosoder—
+“(ba)
+where the relevant authority concerned is a corporate joint committee, in the case of a member or co-opted member of the corporate joint committee who is also a member or co-opted member of—
+(i)
+a constituent council of the corporate joint committee;
+(ii)
+a National Park authority which is required by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021 to appoint a member of the corporate joint committee,
+to the monitoring officer of that constituent council or National Park authority (in addition to being given to the monitoring officer of the corporate joint committee in accordance with paragraph (b)).”
+(12) Ar ôl adran 79(12) (penderfyniadau gan dribiwnlysoedd achos) mewnosoder—
+“(12A) In the case of a member or co-opted member of a corporate joint committee who is also a member or co-opted member of—
+(a)
+a constituent council of the corporate joint committee;
+(b)
+a National Park authority which is required by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021 to appoint a member of the corporate joint committee,
+a copy of any notice under this section must be given to the monitoring officer of that constituent council or National Park authority (in addition to the steps required by subsection (12) being taken).”
+(13) Yn adran 80(4) (argymhellion gan dribiwnlysoedd achos)—
+(a)
+ar ôl “1972” mewnosoder “or regulation 13 of the Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (arrangements for discharge of functions)”;
+(b)
+yn lle “that section applies” rhodder “that section or regulation applies”.
+(14) Ar ôl adran 81(7) (datgelu a chofrestru buddiannau aelodau) mewnosoder—
+“(7ZA) But subsections (6) and (7) do not apply to a relevant authority which is a corporate joint committee.
+(7ZB) A relevant authority which is a corporate joint committee must publish electronically the register maintained under subsection (1).”
+(15) Yn adran 83 (dehongli Rhan 3)—
+(a)
+yn is-adran (1), yn y lleoedd priodol mewnosoder—
+““constituent council”, in relation to a corporate joint committee, has the meaning given by section 71(7),”;
+““corporate joint committee” has the meaning given by section 49(8),”;
+(b)
+ar ôl is-adran (10) mewnosoder—
+“(10A) A person who is suspended under this Part from being a member of a relevant authority other than a corporate joint committee shall also be suspended, if they are a member of a corporate joint committee, from being such a member; but this subsection does not apply to a person who is partially suspended under this Part.”Cymhwyso adran 92 o Ddeddf 1972 i gyd-bwyllgorau corfforedig
+4.  Ar ôl adran 92(7) (achos ar gyfer anghymhwyso) o Ddeddf 1972 mewnosoder—
+“(7A) This section applies to a corporate joint committee as it applies to a local authority and, in relation to a corporate joint committee, the reference in subsection (1) to a local government elector for the area concerned is to be construed as a reference to a local government elector for any local government area in the area specified as the corporate joint committee’s area in regulations under Part 5 of the Local Government and Elections (Wales) Act 2021.”Rheoliadau Cyd-bwyllgor Corfforedig y Canolbarth (Cymru) 2021
+5.—(1) Mae Rheoliadau Cyd-bwyllgor Corfforedig y Canolbarth (Cymru) 2021(1) wedi eu diwygio fel a ganlyn.
+(2) Yn rheoliad 7 (aelodau cyngor) yn lle paragraff (2) rhodder—
+“(2) Pan fo person sy’n aelod cyngor o dan baragraff (1) (“P”) wedi ei atal dros dro neu pan nad yw’n gallu gweithredu fel aelod cyngor am unrhyw gyfnod, caiff y cyngor cyfansoddol y mae P yn aelod ohono benodi aelod o’i weithrediaeth i fod yn aelod dirprwyol o CBC y Canolbarth am y cyfnod hwnnw.
+(2A) At ddibenion y Rheoliadau hyn (ac eithrio’r rheoliad hwn), ac unrhyw ddeddfiad arall, mae aelod dirprwyol a benodir o dan baragraff (2) i’w drin fel pe bai’n aelod cyngor o CBC y Canolbarth.
+(2B) Ond nid oes gan yr aelod dirprwyol hawl i bleidleisio, nac i weithredu fel aelod cyngor fel arall, mewn perthynas â chyflawni unrhyw swyddogaeth sydd gan CBC y Canolbarth y gall P bleidleisio neu weithredu mewn perthynas â hi.
+(2C) Ym mharagraff (2) ystyr “wedi ei atal dros dro” yw—
+(a)
+wedi ei atal dros dro neu ei atal dros dro yn rhannol o dan Ran 3 o Ddeddf Llywodraeth Leol 2000 rhag bod yn aelod o CBC y Canolbarth, neu
+(b)
+wedi ei atal dros dro yn rhannol o dan Ran 3 o Ddeddf Llywodraeth Leol 2000 rhag bod yn aelod o’r cyngor cyfansoddol y mae P hefyd yn aelod ohono.”
+(3) Yn rheoliad 8 (aelod Bannau Brycheiniog), yn lle paragraff (3) rhodder—
+“(3) Pan fo person sy’n aelod Bannau Brycheiniog o dan baragraff (1) (“P”) wedi ei atal dros dro neu pan nad yw’n gallu gweithredu fel aelod Bannau Brycheiniog am unrhyw gyfnod, caiff yr Awdurdod benodi un arall o’r deiliaid swyddi a grybwyllir ym mharagraff (2) i fod yn aelod dirprwyol o CBC y Canolbarth am y cyfnod hwnnw.
+(4) At ddibenion y Rheoliadau hyn (ac eithrio’r rheoliad hwn), ac unrhyw ddeddfiad arall, mae aelod dirprwyol a benodir o dan baragraff (3) i’w drin fel pe bai’n aelod Bannau Brycheiniog o CBC y Canolbarth.
+(5) Ond nid oes gan yr aelod dirprwyol hawl i bleidleisio, nac i weithredu fel aelod Bannau Brycheiniog fel arall, mewn perthynas â chyflawni unrhyw swyddogaeth sydd gan CBC y Canolbarth y gall P bleidleisio neu weithredu mewn perthynas â hi.
+(6) Ym mharagraff (3) ystyr “wedi ei atal dros dro” yw—
+(a)
+wedi ei atal dros dro neu ei atal dros dro yn rhannol o dan Ran 3 o Ddeddf Llywodraeth Leol 2000 rhag bod yn aelod o CBC y Canolbarth, neu
+(b)
+wedi ei atal dros dro yn rhannol o dan Ran 3 o Ddeddf Llywodraeth Leol 2000 rhag bod yn aelod o Awdurdod Parc Cenedlaethol Bannau Brycheiniog.”
+(1)
+O.S. 2021/342 (Cy. 96).Rheoliadau Cyd-bwyllgor Corfforedig y Gogledd (Cymru) 2021
+6.—(1) Mae Rheoliadau Cyd-bwyllgor Corfforedig y Gogledd (Cymru) 2021(1) wedi eu diwygio fel a ganlyn.
+(2) Yn rheoliad 7 (aelodau cyngor) yn lle paragraff (2) rhodder—
+“(2) Pan fo person sy’n aelod cyngor o dan baragraff (1) (“P”) wedi ei atal dros dro neu pan nad yw’n gallu gweithredu fel aelod cyngor am unrhyw gyfnod, caiff y cyngor cyfansoddol y mae P yn aelod ohono benodi aelod o’i weithrediaeth i fod yn aelod dirprwyol o CBC y Gogledd am y cyfnod hwnnw.
+(2A) At ddibenion y Rheoliadau hyn (ac eithrio’r rheoliad hwn), ac unrhyw ddeddfiad arall, mae aelod dirprwyol a benodir o dan baragraff (2) i’w drin fel pe bai’n aelod cyngor o CBC y Gogledd.
+(2B) Ond nid oes gan yr aelod dirprwyol hawl i bleidleisio, nac i weithredu fel aelod cyngor fel arall, mewn perthynas â chyflawni unrhyw swyddogaeth sydd gan CBC y Gogledd y gall P bleidleisio neu weithredu mewn perthynas â hi.
+(2C) Ym mharagraff (2) ystyr “wedi ei atal dros dro” yw—
+(a)
+wedi ei atal dros dro neu ei atal dros dro yn rhannol o dan Ran 3 o Ddeddf Llywodraeth Leol 2000 rhag bod yn aelod o CBC y Gogledd, neu
+(b)
+wedi ei atal dros dro yn rhannol o dan Ran 3 o Ddeddf Llywodraeth Leol 2000 rhag bod yn aelod o’r cyngor cyfansoddol y mae P hefyd yn aelod ohono.”
+(3) Yn rheoliad 8 (aelod Eryri), yn lle paragraff (3) rhodder—
+“(3) Pan fo person sy’n aelod Eryri o dan baragraff (1) (“P”) wedi ei atal dros dro neu pan nad yw’n gallu gweithredu fel aelod Eryri am unrhyw gyfnod, caiff yr Awdurdod benodi un arall o’r deiliaid swyddi a grybwyllir ym mharagraff (2) i fod yn aelod dirprwyol o CBC y Gogledd am y cyfnod hwnnw.
+(4) At ddibenion y Rheoliadau hyn (ac eithrio’r rheoliad hwn), ac unrhyw ddeddfiad arall, mae aelod dirprwyol a benodir o dan baragraff (3) i’w drin fel pe bai’n aelod Eryri o CBC y Gogledd.
+(5) Ond nid oes gan yr aelod dirprwyol hawl i bleidleisio, nac i weithredu fel aelod Eryri fel arall, mewn perthynas â chyflawni unrhyw swyddogaeth sydd gan CBC y Gogledd y gall P bleidleisio neu weithredu mewn perthynas â hi.
+(6) Ym mharagraff (3) ystyr “wedi ei atal dros dro” yw—
+(a)
+wedi ei atal dros dro neu ei atal dros dro yn rhannol o dan Ran 3 o Ddeddf Llywodraeth Leol 2000 rhag bod yn aelod o CBC y Gogledd, neu
+(b)
+wedi ei atal dros dro yn rhannol o dan Ran 3 o Ddeddf Llywodraeth Leol 2000 rhag bod yn aelod o Awdurdod Parc Cenedlaethol Eryri.”
+(1)
+O.S. 2021/339 (Cy. 93).Rheoliadau Cyd-bwyllgor Corfforedig De-ddwyrain (Cymru) 2021
+7.—(1) Mae Rheoliadau Cyd-bwyllgor Corfforedig De-ddwyrain (Cymru) 2021(1) wedi eu diwygio fel a ganlyn.
+(2) Yn rheoliad 7 (aelodau cyngor) yn lle paragraff (2) rhodder—
+“(2) Pan fo person sy’n aelod cyngor o dan baragraff (1) (“P”) wedi ei atal dros dro neu pan nad yw’n gallu gweithredu fel aelod cyngor am unrhyw gyfnod, caiff y cyngor cyfansoddol y mae P yn aelod ohono benodi aelod o’i weithrediaeth i fod yn aelod dirprwyol o CBC y De-ddwyrain am y cyfnod hwnnw.
+(2A) At ddibenion y Rheoliadau hyn (ac eithrio’r rheoliad hwn), ac unrhyw ddeddfiad arall, mae aelod dirprwyol a benodir o dan baragraff (2) i’w drin fel pe bai’n aelod cyngor o CBC y De-ddwyrain.
+(2B) Ond nid oes gan yr aelod dirprwyol hawl i bleidleisio, nac i weithredu fel aelod cyngor fel arall, mewn perthynas â chyflawni unrhyw swyddogaeth sydd gan CBC y De-ddwyrain y gall P bleidleisio neu weithredu mewn perthynas â hi.
+(2C) Ym mharagraff (2) ystyr “wedi ei atal dros dro” yw—
+(a)
+wedi ei atal dros dro neu ei atal dros dro yn rhannol o dan Ran 3 o Ddeddf Llywodraeth Leol 2000 rhag bod yn aelod o CBC y De-ddwyrain, neu
+(b)
+wedi ei atal dros dro yn rhannol o dan Ran 3 o Ddeddf Llywodraeth Leol 2000 rhag bod yn aelod o’r cyngor cyfansoddol y mae P hefyd yn aelod ohono.”
+(3) Yn rheoliad 8 (aelod Bannau Brycheiniog), yn lle paragraff (3) rhodder—
+“(3) Pan fo person sy’n aelod Bannau Brycheiniog o dan baragraff (1) (“P”) wedi ei atal dros dro neu pan nad yw’n gallu gweithredu fel aelod Bannau Brycheiniog am unrhyw gyfnod, caiff yr Awdurdod benodi un arall o’r deiliaid swyddi a grybwyllir ym mharagraff (2) i fod yn aelod dirprwyol o CBC y De-ddwyrain am y cyfnod hwnnw.
+(4) At ddibenion y Rheoliadau hyn (ac eithrio’r rheoliad hwn), ac unrhyw ddeddfiad arall, mae aelod dirprwyol a benodir o dan baragraff (3) i’w drin fel pe bai’n aelod Bannau Brycheiniog o CBC y De-ddwyrain.
+(5) Ond nid oes gan yr aelod dirprwyol hawl i bleidleisio, nac i weithredu fel aelod Bannau Brycheiniog fel arall, mewn perthynas â chyflawni unrhyw swyddogaeth sydd gan CBC y De-ddwyrain y gall P bleidleisio neu weithredu mewn perthynas â hi.
+(6) Ym mharagraff (3) ystyr “wedi ei atal dros dro” yw—
+(a)
+wedi ei atal dros dro neu ei atal dros dro yn rhannol o dan Ran 3 o Ddeddf Llywodraeth Leol 2000 rhag bod yn aelod o CBC y De-ddwyrain, neu
+(b)
+wedi ei atal dros dro yn rhannol o dan Ran 3 o Ddeddf Llywodraeth Leol 2000 rhag bod yn aelod o Awdurdod Parc Cenedlaethol Bannau Brycheiniog.”
+(1)
+O.S. 2021/343 (Cy. 97).Rheoliadau Cyd-bwyllgor Corfforedig y De-orllewin (Cymru) 2021
+8.—(1) Mae Rheoliadau Cyd-bwyllgor Corfforedig y De-orllewin (Cymru) 2021(1) wedi eu diwygio fel a ganlyn.
+(2) Yn rheoliad 7 (aelodau cyngor) yn lle paragraff (2) rhodder—
+“(2) Pan fo person sy’n aelod cyngor o dan baragraff (1) (“P”) wedi ei atal dros dro neu pan nad yw’n gallu gweithredu fel aelod cyngor am unrhyw gyfnod, caiff y cyngor cyfansoddol y mae P yn aelod ohono benodi aelod o’i weithrediaeth i fod yn aelod dirprwyol o CBC y De-orllewin am y cyfnod hwnnw.
+(2A) At ddibenion y Rheoliadau hyn (ac eithrio’r rheoliad hwn), ac unrhyw ddeddfiad arall, mae aelod dirprwyol a benodir o dan baragraff (2) i’w drin fel pe bai’n aelod cyngor o CBC y De-orllewin.
+(2B) Ond nid oes gan yr aelod dirprwyol hawl i bleidleisio, nac i weithredu fel aelod cyngor fel arall, mewn perthynas â chyflawni unrhyw swyddogaeth sydd gan CBC y De-orllewin y gall P bleidleisio neu weithredu mewn perthynas â hi.
+(2C) Ym mharagraff (2) ystyr “wedi ei atal dros dro” yw—
+(a)
+wedi ei atal dros dro neu ei atal dros dro yn rhannol o dan Ran 3 o Ddeddf Llywodraeth Leol 2000 rhag bod yn aelod o CBC y De-orllewin, neu
+(b)
+wedi ei atal dros dro yn rhannol o dan Ran 3 o Ddeddf Llywodraeth Leol 2000 rhag bod yn aelod o’r cyngor cyfansoddol y mae P hefyd yn aelod ohono.”
+(3) Yn rheoliad 8 (aelod Bannau Brycheiniog ac aelod Arfordir Penfro), yn lle paragraffau (4) a (5) rhodder—
+“(4) Pan fo person sy’n aelod Bannau Brycheiniog neu’n aelod Arfordir Penfro o dan baragraff (1) neu (2) (“P”) wedi ei atal dros dro neu pan nad yw’n gallu gweithredu fel aelod am unrhyw gyfnod, caiff yr Awdurdod benodi un arall o’r deiliaid swyddi a grybwyllir ym mharagraff (3) i fod yn aelod dirprwyol o CBC y De-orllewin am y cyfnod hwnnw.
+(5) At ddibenion y Rheoliadau hyn (ac eithrio’r rheoliad hwn), ac unrhyw ddeddfiad arall, mae aelod dirprwyol a benodir o dan baragraff (4) i’w drin fel pe bai’n aelod Bannau Brycheiniog neu’n aelod Arfordir Penfro (yn ôl y digwydd) o CBC y De-orllewin.
+(6) Ond nid oes gan yr aelod dirprwyol hawl i bleidleisio, nac i weithredu fel aelod fel arall, mewn perthynas â chyflawni unrhyw swyddogaeth sydd gan CBC y De-orllewin y gall P bleidleisio neu weithredu mewn perthynas â hi.
+(7) Yn y rheoliad hwn—
+ystyr “yr Awdurdod” (“the Authority”) yw Awdurdod Parc Cenedlaethol Bannau Brycheiniog neu Awdurdod Parc Cenedlaethol Arfordir Penfro, yn ôl y digwydd;
+ystyr “wedi ei atal dros dro” (“suspended”) yw—
+(i)
+wedi ei atal dros dro neu ei atal dros dro yn rhannol o dan Ran 3 o Ddeddf Llywodraeth Leol 2000 rhag bod yn aelod o CBC y De-orllewin, neu
+(ii)
+wedi ei atal dros dro yn rhannol o dan Ran 3 o Ddeddf Llywodraeth Leol 2000 rhag bod yn aelod o’r Awdurdod Parc Cenedlaethol y mae P hefyd yn aelod ohono.”
+(1)
+O.S. 2021/352 (Cy. 104).Pŵer i fasnachu drwy gwmni
+9.  Yn adran 95(7) o Ddeddf 2003 (pŵer i fasnachu mewn gweithgareddau sy’n gysylltiedig â swyddogaethau drwy gwmni), yn y diffiniad o “relevant authority”, ar ôl paragraff (aa) mewnosoder—
+“(aaa)
+a corporate joint committee established by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021;”.Gorchmynion sy’n ymwneud â chwmnïau y mae gan gyd-bwyllgor corfforedig fuddiant ynddynt
+10.  Yn adran 67(3) o Ddeddf 1989 (cymhwyso Rhan sy’n ymwneud â chwmnïau y mae gan awdurdodau lleol fuddiant ynddynt), ar ôl paragraff (aa) mewnosoder—
+“(ab)
+a corporate joint committee established by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021;”.Gorchmynion sy’n ymwneud ag endidau a reolir etc. gan gyd-bwyllgor corfforedig
+11.  Yn adran 212(7) o Deddf Llywodraeth Leol a Chynnwys y Cyhoedd mewn Iechyd 2007(1) (endidau a reolir etc. gan awdurdodau lleol), yn y diffiniad o “local authority”, ym mharagraff (a), ar ôl “commissioner” mewnosoder “but including a corporate joint committee established by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021”.
+(1)
+2007 p. 28.Contractio allan
+12.  Mae Deddf Dadreoleiddio a Chontractio Allan 1994(1) wedi ei diwygio fel a ganlyn—
+(a)
+yn adran 70 (swyddogaethau awdurdodau lleol)(2)—
+(i)
+ar ôl is-adran (1ZB) mewnosoder—
+“(1ZC) In its application to a local authority which is a corporate joint committee established by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021, subsection (1) has effect as if for paragraph (b) there were substituted—
+“(b)
+which by virtue of regulation 13 of the Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 may be exercised by an officer of the authority;””;
+(ii)
+ar ôl is-adran (5) mewnosoder—
+“(5A) In its application to a local authority which is a corporate joint committee established by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021, subsection (5) has effect as if the references to arrangements under section 101 of the Local Government Act 1972 were references to arrangements under regulation 13 of the Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021.”;
+(b)
+yn adran 79B (ystyr awdurdod lleol: Cymru)(3), ar ôl paragraff (d) mewnosoder—
+“(da)
+a corporate joint committee established by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021;”.
+(1)
+1994 p. 40.
+(2)
+Diwygiwyd adran 70 gan Ddeddf Awdurdod Llundain Fwyaf 1999 (p. 29), Deddf Llywodraeth Leol a Chynnwys y Cyhoedd mewn Iechyd 2007 (p. 28), Deddf Cyrff Cyhoeddus 2011 (p. 24), Deddf Plismona a Throseddu 2017 (p. 3) ac O.S. 2002/808 (Cy. 89).
+(3)
+Diwygiwyd adran 79B gan Ddeddf Llywodraeth Leol a Chynnwys y Cyhoedd mewn Iechyd 2007 (p. 28) a Deddf Diwygio’r Heddlu a Chyfrifoldeb Cymdeithasol 2011 (p. 13).Contractau ardystiedig
+13.  Yn rheoliad 6 o Reoliadau Awdurdodau Lleol (Contractau) 1997 (materion i ymdrin â hwy yn y modd a ragnodir)(1), ar ôl paragraff (2) mewnosoder—
+“(3) In its application to the Mid Wales Corporate Joint Committee established by the Mid Wales Corporate Joint Committee Regulations 2021(2), paragraph (1) is to be read as if the references to section 111 of the Local Government Act 1972 were references to regulation 14 of those Regulations.
+(4) In its application to the North Wales Corporate Joint Committee established by the North Wales Corporate Joint Committee Regulations 2021(3), paragraph (1) is to be read as if the references to section 111 of the Local Government Act 1972 were references to regulation 14 of those Regulations.
+(5) In its application to the South East Wales Corporate Joint Committee established by the South East Wales Corporate Joint Committee Regulations 2021(4), paragraph (1) is to be read as if the references to section 111 of the Local Government Act 1972 were references to regulation 14 of those Regulations.
+(6) In its application to the South West Wales Corporate Joint Committee established by the South West Wales Corporate Joint Committee Regulations 2021(5), paragraph (1) is to be read as if the references to section 111 of the Local Government Act 1972 were references to regulation 14 of those Regulations.”
+(1)
+O.S. 1997/2862. Diwygiwyd y Rheoliadau hynny gan O.S. 2000/1033 ac O.S. 2001/723.
+(2)
+O.S. 2021/342 (Cy. 96).
+(3)
+O.S. 2021/339 (Cy. 93).
+(4)
+O.S. 2021/343 (Cy. 97).
+(5)
+O.S. 2021/352 (Cy. 104).Cynlluniau buddsoddi
+14.  Yn adran 11(4)(a) o Ddeddf Buddsoddiadau Ymddiriedolwyr 1961(1) (cynlluniau buddsoddi awdurdodau lleol), ar ôl “Fire and Rescue Services Act 2004” mewnosoder “, a corporate joint committee established by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021”.
+(1)
+1961 p. 62.Gofyniad i gynnal cronfa gyffredinol
+15.—(1) Ar ôl rheoliad 17 o Reoliadau Cyd-bwyllgor Corfforedig y Canolbarth (Cymru) 2021 (ariannu gofyniad cyllideb) mewnosoder—
+“Cronfa Gyffredinol
+17A.—(1) Rhaid i CBC y Canolbarth sefydlu a chynnal cronfa o’r enw cronfa gyffredinol CBC y Canolbarth.
+(2) Rhaid i unrhyw symiau a geir gan CBC y Canolbarth (gan gynnwys symiau a geir o dan reoliad 17(1) neu (2)) gael eu talu i mewn i’w gronfa gyffredinol.
+(3) Rhaid i bob taliad a wneir gan CBC y Canolbarth gael ei wneud allan o’i gronfa gyffredinol.
+(4) Rhaid i CBC y Canolbarth gadw cyfrif o dderbyniadau a delir i mewn i’w gronfa gyffredinol, a thaliadau a wneir allan o’r gronfa honno.
+(5) Nid yw paragraffau (2) a (3) yn gymwys i unrhyw symiau sydd i’w talu i mewn i, neu allan o, gronfa allanol o fewn yr ystyr a roddir i “external fund” gan adran 17 o Ddeddf Llywodraeth Leol 2003 (cronfeydd allanol).”
+(2) Ar ôl rheoliad 17 o Reoliadau Cyd-bwyllgor Corfforedig y Gogledd (Cymru) 2021 (ariannu gofyniad cyllideb) mewnosoder—
+“Cronfa Gyffredinol
+17A.—(1) Rhaid i CBC y Gogledd sefydlu a chynnal cronfa o’r enw cronfa gyffredinol CBC y Gogledd.
+(2) Rhaid i unrhyw symiau a geir gan CBC y Gogledd (gan gynnwys symiau a geir o dan reoliad 17(1) neu (2)) gael eu talu i mewn i’w gronfa gyffredinol.
+(3) Rhaid i bob taliad a wneir gan CBC y Gogledd gael ei wneud allan o’i gronfa gyffredinol.
+(4) Rhaid i CBC y Gogledd gadw cyfrif o dderbyniadau a delir i mewn i’w gronfa gyffredinol, a thaliadau a wneir allan o’r gronfa honno.
+(5) Nid yw paragraffau (2) a (3) yn gymwys i unrhyw symiau sydd i’w talu i mewn i, neu allan o, gronfa allanol o fewn yr ystyr a roddir i “external fund” gan adran 17 o Ddeddf Llywodraeth Leol 2003 (cronfeydd allanol).”
+(3) Ar ôl rheoliad 17 o Reoliadau Cyd-bwyllgor Corfforedig De-ddwyrain (Cymru) 2021 (ariannu gofyniad cyllideb) mewnosoder—
+“Cronfa Gyffredinol
+17A.—(1) Rhaid i CBC y De-ddwyrain sefydlu a chynnal cronfa o’r enw cronfa gyffredinol CBC y De-ddwyrain.
+(2) Rhaid i unrhyw symiau a geir gan CBC y De-ddwyrain (gan gynnwys symiau a geir o dan reoliad 17(1) neu (2)) gael eu talu i mewn i’w gronfa gyffredinol.
+(3) Rhaid i bob taliad a wneir gan CBC y De-ddwyrain gael ei wneud allan o’i gronfa gyffredinol.
+(4) Rhaid i CBC y De-ddwyrain gadw cyfrif o dderbyniadau a delir i mewn i’w gronfa gyffredinol, a thaliadau a wneir allan o’r gronfa honno.
+(5) Nid yw paragraffau (2) a (3) yn gymwys i unrhyw symiau sydd i’w talu i mewn i, neu allan o, gronfa allanol o fewn yr ystyr a roddir i “external fund” gan adran 17 o Ddeddf Llywodraeth Leol 2003 (cronfeydd allanol).”
+(4) Ar ôl rheoliad 17 o Reoliadau Cyd-bwyllgor Corfforedig y De-orllewin (Cymru) 2021 (ariannu gofyniad cyllideb) mewnosoder—
+“Cronfa Gyffredinol
+17A.—(1) Rhaid i CBC y De-orllewin sefydlu a chynnal cronfa o’r enw cronfa gyffredinol CBC y De-orllewin.
+(2) Rhaid i unrhyw symiau a geir gan CBC y De-orllewin (gan gynnwys symiau a geir o dan reoliad 17(1) neu (2)) gael eu talu i mewn i’w gronfa gyffredinol.
+(3) Rhaid i bob taliad a wneir gan CBC y De-orllewin gael ei wneud allan o’i gronfa gyffredinol.
+(4) Rhaid i CBC y De-orllewin gadw cyfrif o dderbyniadau a delir i mewn i’w gronfa gyffredinol, a thaliadau a wneir allan o’r gronfa honno.
+(5) Nid yw paragraffau (2) a (3) yn gymwys i unrhyw symiau sydd i’w talu i mewn i, neu allan o, gronfa allanol o fewn yr ystyr a roddir i “external fund” gan adran 17 o Ddeddf Llywodraeth Leol 2003 (cronfeydd allanol).”Contractau cyflenwi cyhoeddus neu gontractau gwaith cyhoeddus
+16.  Yn Atodlen 2 i Ddeddf Llywodraeth Leol 1988(1) (contractau cyflenwi cyhoeddus neu gontractau gwaith cyhoeddus: yr awdurdodau cyhoeddus), ar ddiwedd y rhestr o dan y pennawd “Public authorities” mewnosoder—
+“A corporate joint committee established by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021.”
+(1)
+1988 p. 9.Taliadau gan Weinidogion Cymru tuag at ddyledusrwydd
+17.  Yn adran 39(7) o Ddeddf 2003 (taliadau tuag at ddyledusrwydd awdurdod lleol), yn lle paragraff (b) rhodder—
+“(b)
+in relation to Wales—
+(i)
+a county council,
+(ii)
+a county borough council, or
+(iii)
+a corporate joint committee established by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021.”Yswiriant rhag damweiniau
+18.  Ar ôl adran 140C o Ddeddf 1972 mewnosoder—
+“140D    Application of sections 140, 140A and 140C to corporate joint committees
+Sections 140, 140A and 140C (apart from subsection (4) of that section) apply to a corporate joint committee as they apply to a local authority.”Tanysgrifiadau i gymdeithasau llywodraeth leol
+19.  Yn adran 143(2) o Ddeddf 1972 (amrywiol), ar ôl “Common Council” mewnosoder “and a corporate joint committee”.Pŵer i erlyn neu amddiffyn achos cyfreithiol
+20.  Yn adran 222 o Ddeddf 1972 (pŵer awdurdodau lleol i erlyn neu amddiffyn achos cyfreithiol)—
+(a)
+yn is-adran (2), ar ôl “Common Council” mewnosoder “, a corporate joint committee”;
+(b)
+ar ôl yr is-adran honno mewnosoder—
+“(3) In the application of subsection (1) to a corporate joint committee, the reference to the corporate joint committee’s area is to be read as a reference to the area specified as the corporate joint committee’s area in regulations under Part 5 of the Local Government and Elections (Wales) Act 2021 establishing the corporate joint committee.”Ymddangos mewn achos gerbron llys ynadon
+21.  Yn adran 223(2) o Ddeddf 1972 (ymddangosiad awdurdodau lleol mewn achos cyfreithiol), ar ôl “Common Council” mewnosoder “, a corporate joint committee”.Gwarchodaeth rhag atebolrwydd personol
+22.—(1) Ni chaiff unrhyw beth a wnaed gan gyd-bwyllgor corfforedig ac ni chaiff unrhyw gontract yr ymrwymwyd iddo gan gyd-bwyllgor corfforedig wneud—
+(a)
+y cyd-bwyllgor corfforedig;
+(b)
+person a ddisgrifir ym mharagraff (4),
+yn agored yn bersonol i unrhyw weithred, atebolrwydd, hawliad neu archiad, os gwnaed y peth, neu os ymrwymwyd i’r contract, yn ddidwyll at ddibenion cyflawni unrhyw ddarpariaeth mewn unrhyw ddeddfiad.
+(2) Mewn perthynas â chyd-bwyllgor corfforedig, ni chaiff unrhyw beth a wnaed gan berson a ddisgrifir ym mharagraff (4) wneud—
+(a)
+unrhyw berson arall a ddisgrifir ym mharagraff (4);
+(b)
+y cyd-bwyllgor corfforedig,
+yn agored yn bersonol i unrhyw weithred, atebolrwydd, hawliad neu archiad, os gwnaed y peth yn ddidwyll at ddibenion cyflawni unrhyw ddarpariaeth mewn unrhyw ddeddfiad.
+(3) Mae unrhyw draul yr eir iddi gan berson a grybwyllir ym mharagraff (1) neu (2) sy’n gweithredu fel a grybwyllir yn y paragraff hwnnw i’w hysgwyddo a’i had-dalu o’r gronfa a gymhwysir gan y cyd-bwyllgor corfforedig i gyflawni’r ddarpariaeth o dan sylw.
+(4) Y personau a ddisgrifir yn y paragraff hwn yw—
+(a)
+aelod o’r cyd-bwyllgor corfforedig;
+(b)
+aelod o is-bwyllgor i’r cyd-bwyllgor corfforedig;
+(c)
+aelod o staff y cyd-bwyllgor corfforedig;
+(d)
+person sy’n gweithredu o dan gyfarwyddyd y cyd-bwyllgor corfforedig.Dilysrwydd gweithredoedd a gyflawnir gan bersonau sydd wedi eu hanghymhwyso
+23.  Bydd gweithredoedd unrhyw berson sy’n gweithredu fel aelod o gyd-bwyllgor corfforedig, er gwaethaf y ffaith bod y person hwnnw wedi ei anghymhwyso, yr un mor ddilys ac effeithiol â phe na bai’r person hwnnw wedi ei anghymhwyso.Indemniadau ar gyfer aelodau a staff
+24.  Yn erthygl 2 o Orchymyn Awdurdodau Lleol (Indemniadau ar gyfer Aelodau a Swyddogion) (Cymru) 2006(1) (dehongli), yn y diffiniad o “awdurdod perthnasol”, ar ôl “cyngor cymuned,” mewnosoder “cyd-bwyllgor corfforedig a sefydlir gan reoliadau o dan Ran 5 o Ddeddf Llywodraeth Leol ac Etholiadau (Cymru) 2021,”.
+(1)
+O.S. 2006/249 (Cy. 37).Cofnodion
+25.—(1) Rhaid i gyd-bwyllgor corfforedig—
+(a)
+gwneud trefniadau ar gyfer gofalu’n briodol am gofnodion y cyd-bwyllgor corfforedig, a’u cadw a’u rheoli’n briodol, a
+(b)
+gwneud a chynnal cynllun sy’n nodi’r trefniadau hynny (“cynllun cofnodion”).
+(2) Rhaid i gyd-bwyllgor corfforedig barhau i adolygu ei gynllun cofnodion a chaiff ddiwygio’r cynllun.
+(3) Rhaid i gyd-bwyllgor corfforedig ymgynghori â Gweinidogion Cymru cyn gwneud neu ddiwygio cynllun cofnodion.
+(4) Pan fo cyd-bwyllgor corfforedig yn trefnu o dan reoliad 13 o Reoliadau Cyd-bwyllgorau Corfforedig (Cyffredinol) (Rhif 2) (Cymru) 2021(1) (trefniadau ar gyfer cyflawni swyddogaethau) i unrhyw swyddogaeth sydd ganddo sy’n ymwneud â gofalu’n briodol am ei gofnodion, a’u cadw a’u rheoli’n briodol, gael ei chyflawni gan—
+(a)
+cyd-bwyllgor corfforedig arall, neu
+(b)
+cyngor sir neu gyngor bwrdeistref sirol yng Nghymru,
+rhaid i’r cyd-bwyllgor corfforedig nodi’r trefniadau hynny yn ei gynllun cofnodion.
+(5) Pan fo cofnodion cyd-bwyllgor corfforedig yn ymwneud ag ardal, neu ran o ardal, cyd-bwyllgor corfforedig arall, caiff y cyd-bwyllgor corfforedig arall hwnnw edrych ar y cofnodion hynny, a chymryd copïau ohonynt, yn ddi-dâl.
+(6) At ddibenion y rheoliad hwn, cofnodion cyd-bwyllgor corfforedig yw cofnodion—
+(a)
+ar unrhyw ffurf, ac mewn unrhyw gyfrwng, sy’n gallu cyfleu gwybodaeth, a
+(b)
+sy’n perthyn i’r cyd-bwyllgor corfforedig neu sydd o dan ei ofal.
+(1)
+O.S. 2021/1349 (Cy. 348).Adneuo dogfennau gyda swyddog priodol
+26.  Yn adran 225(3) o Ddeddf 1972 (adneuo dogfen gyda swyddog priodol), ar ôl “joint authority” mewnosoder “, a corporate joint committee”.Edrych ar ddogfennau
+27.  Ar ôl adran 228(9) o Ddeddf 1972 (edrych ar ddogfennau), mewnosoder—
+“(10) Subsections (2) to (7) apply to a corporate joint committee as they apply to a local authority and, in that application, references to a local government elector for the area of the authority are to be read as references to a local government elector for any local government area in the area specified as the corporate joint committee’s area in regulations under Part 5 of the Local Government and Elections (Wales) Act 2021 establishing the corporate joint committee.”Copïau o ddogfennau
+28.  Yn adran 229(8) o Ddeddf 1972 (copïau ffotograffig o ddogfennau), ar ôl “includes” mewnosoder “a corporate joint committee,”.Cyflwyno hysbysiadau i gyd-bwyllgor corfforedig
+29.  Yn adran 231 o Ddeddf 1972 (cyflwyno hysbysiadau i awdurdodau lleol)—
+(a)
+yn is-adran (4), ar ôl “includes” mewnosoder “a corporate joint committee,”;
+(b)
+ar ôl yr is-adran honno mewnosoder—
+“(5) In the application of subsection (1) to a corporate joint committee—
+(a)
+references to the chairman are to be read as references to the chairperson of the corporate joint committee, and
+(b)
+references to the principal office are to be read as references to—
+(i)
+the principal office of the corporate joint committee, or
+(ii)
+a principal office of a local authority for a county or county borough in Wales which is within the area specified as the corporate joint committee’s area in regulations under Part 5 of the Local Government and Elections (Wales) Act 2021 establishing the corporate joint committee.”Hysbysiadau cyhoeddus
+30.  Yn adran 232 o Ddeddf 1972 (hysbysiadau cyhoeddus)—
+(a)
+yn is-adran (1A), ar ôl “includes” mewnosoder “a corporate joint committee,”;
+(b)
+ar ôl yr is-adran honno mewnosoder—
+“(1B) In the application of subsection (1) to a corporate joint committee, the reference to the corporate joint committee’s area is to be read as a reference to the area specified as the corporate joint committee’s area in regulations under Part 5 of the Local Government and Elections (Wales) Act 2021 establishing the corporate joint committee.”Cyflwyno hysbysiadau gan gyd-bwyllgor corfforedig
+31.—(1) Mae paragraff (2) yn gymwys pan fo deddfiad yn ei gwneud yn ofynnol (ym mha dermau bynnag) i gyd-bwyllgor corfforedig—
+(a)
+hysbysu person am rywbeth, neu
+(b)
+rhoi hysbysiad neu ddogfen arall i berson (gan gynnwys copi o ddogfen neu ddogfen ddiwygiedig).
+(2) Caniateir rhoi’r hysbysiad neu’r ddogfen i’r person dan sylw—
+(a)
+drwy ei ddanfon neu ei danfon â llaw i’r person;
+(b)
+drwy ei adael neu ei gadael ym mhriod gyfeiriad y person;
+(c)
+drwy ei anfon neu ei hanfon i briod gyfeiriad y person drwy’r post;
+(d)
+drwy ei anfon neu ei hanfon yn electronig at y person.
+(3) At ddibenion paragraff (2), priod gyfeiriad person yw—
+(a)
+yn achos corff corfforedig, cyfeiriad swyddfa gofrestredig neu brif swyddfa’r corff;
+(b)
+yn achos partneriaeth, cyfeiriad prif swyddfa’r bartneriaeth;
+(c)
+yn unrhyw achos arall, cyfeiriad hysbys olaf y person.
+(4) Os yw person wedi pennu cyfeiriad yn y Deyrnas Unedig heblaw priod gyfeiriad y person o fewn ystyr paragraff (3) fel cyfeiriad y ceir danfon hysbysiadau neu ddogfennau iddo, mae’r cyfeiriad a bennwyd hefyd i’w drin fel priod gyfeiriad y person at ddibenion paragraff (2).
+(5) Mae hysbysiad neu ddogfen i’w drin neu i’w thrin fel pe bai wedi ei ddanfon neu wedi ei danfon â llaw o dan baragraff (2)(a)—
+(a)
+yn achos corff corfforedig, os yw’n cael ei ddanfon neu ei danfon â llaw i ysgrifennydd neu glerc y corff;
+(b)
+yn achos partneriaeth, os yw’n cael ei ddanfon neu ei danfon â llaw i bartner neu berson sydd â rheolaeth dros fusnes y bartneriaeth neu sy’n rheoli busnes y bartneriaeth.
+(6) Os nad yw cyd-bwyllgor corfforedig yn gallu canfod enw neu gyfeiriad unrhyw berchennog, unrhyw lesddeiliad neu unrhyw feddiannydd tir y mae hysbysiad neu ddogfen i’w roi neu ei rhoi iddo yn rhinwedd gofyniad y cyfeirir ato ym mharagraff (1), caniateir rhoi’r hysbysiad neu’r ddogfen—
+(a)
+drwy ei ddanfon neu ei danfon â llaw i berson sydd, neu yr ymddengys ei fod, yn preswylio ar y tir neu’n cael ei gyflogi arno, neu
+(b)
+drwy ei adael neu ei gadael wedi ei osod neu wedi ei gosod yn weladwy ar adeilad neu wrthrych ar y tir.
+(7) Pan fo’r gofyniad y cyfeirir ato ym mharagraff (1) wedi ei gynnwys mewn deddfiad nad yw’n ddeddfiad DDC—
+(a)
+mae hysbysiad neu ddogfen wedi ei anfon neu wedi ei hanfon yn electronig at berson—
+(i)
+os yw cyfathrebiad electronig ar ffurf, neu sy’n cynnwys, yr hysbysiad neu’r ddogfen, neu y mae’r hysbysiad neu’r ddogfen wedi ei atodi neu wedi ei hatodi iddo, wedi ei gyfeirio’n briodol ac wedi ei anfon at y person, a
+(ii)
+os yw wedi ei anfon neu wedi ei hanfon ar ffurf electronig y gellir ei chyrchu a’i chadw gan y person;
+(b)
+bernir bod hysbysiad neu ddogfen a roddir drwy ei anfon neu ei hanfon yn electronig wedi ei roi neu wedi ei rhoi, oni phrofir i’r gwrthwyneb, ar y diwrnod yr anfonir y cyfathrebiad electronig;
+(c)
+gweler adran 7 o Ddeddf Dehongli 1978(1) (cyfeiriadau at gyflwyno drwy’r post), neu adran 26 o Ddeddf Dehongli 1889 (ystyr cyflwyno drwy’r post), am ddarpariaeth ynghylch pryd y bernir bod dogfen a anfonir drwy’r post wedi ei rhoi i berson.
+(8) Pan fo’r gofyniad y cyfeirir ato ym mharagraff (1) wedi ei gynnwys mewn deddfiad DDC, gweler adrannau 13 (cyflwyno dogfennau drwy’r post neu’n electronig) a 14 (y diwrnod pan fernir bod dogfen wedi ei chyflwyno) o Ddeddf Deddfwriaeth (Cymru) 2019(2) am ddarpariaeth ynghylch rhoi dogfennau drwy’r post neu yn electronig.
+(9) Yn y rheoliad hwn—
+(a)
+ystyr “deddfiad DDC” yw—
+(i)
+Deddf gan Senedd Cymru, neu
+(ii)
+is-offeryn Cymreig o fewn yr ystyr a roddir gan adran 3(2) o Ddeddf Deddfwriaeth (Cymru) 2019 (deddfwriaeth y mae’r Rhan hon yn gymwys iddi),
+y mae Rhan 2 o Ddeddf Deddfwriaeth (Cymru) 2019 yn gymwys iddo;
+(b)
+ystyr “deddfiad nad yw’n ddeddfiad DDC” yw deddfiad nad yw Rhan 2 o Ddeddf Deddfwriaeth (Cymru) 2019 yn gymwys iddo.
+(1)
+1978 p. 30.
+(2)
+2019 dccc 4.Dilysu dogfennau
+32.  Yn adran 234(4) o Ddeddf 1972 (dilysu dogfennau), ar ôl “includes” mewnosoder “a corporate joint committee,”.Gwarant a gymerir mewn perthynas â staff
+33.  Ar ôl adran 114(3) o Ddeddf 1972 (gwarant i’w chymryd mewn perthynas â swyddogion) mewnosoder—
+“(4) In this section “local authority” includes a corporate joint committee.”Atebolrwydd staff
+34.  Ar ôl adran 115(2) o Ddeddf 1972 (atebolrwydd swyddogion) mewnosoder—
+“(3) In this section “local authority” includes a corporate joint committee.”Dyletswydd ar staff i ddatgelu buddiant mewn contractau
+35.  Yn adran 117 o Ddeddf 1972 (datgelu buddiannau mewn contractau gan swyddogion)—
+(a)
+yn is-adran (4), ar ôl “include references” mewnosoder “to a corporate joint committee and”;
+(b)
+ar ôl yr is-adran honno mewnosoder—
+“(5) In the application of this section to a corporate joint committee—
+(a)
+the reference in subsection (1) to any committee of an authority is to be read as a reference to any sub-committee of the corporate joint committee, and
+(b)
+section 95 of this Act is to be treated as if it applies to a corporate joint committee as it applies to another authority for the purposes of this section.”Staff i’w penodi ar sail teilyngdod
+36.  Yn adran 7 o Ddeddf 1989 (yr holl staff i’w penodi ar sail teilyngdod)—
+(a)
+yn is-adran (1)—
+(i)
+hepgorer “or” ar ôl paragraff (aa);
+(ii)
+ar ôl y paragraff hwnnw mewnosoder—
+“(ab)
+a corporate joint committee, or”;
+(b)
+yn is-adran (2)—
+(i)
+ar ôl “committee” mewnosoder “or sub-committee”;
+(ii)
+ar ôl “local authority” mewnosoder “, corporate joint committee”.Terfyn ar wyliau â thâl ar gyfer dyletswyddau llywodraeth leol
+37.  Yn adran 10(2) o Ddeddf 1989 (terfyn ar wyliau â thâl ar gyfer dyletswyddau awdurdod lleol)—
+(a)
+hepgorer “and” yn union ar ôl y diffiniad o “financial year”;
+(b)
+ar ôl y diffiniad hwnnw mewnosoder—
+““local authority” includes a corporate joint committee; and”.Gwrthdaro buddiannau mewn negodiadau staff
+38.  Yn adran 12(2) o Ddeddf 1989 (gwrthdaro buddiannau mewn negodiadau staff), o flaen y diffiniad o “member” mewnosoder—
+““local authority” includes a corporate joint committee;”.Aelodau wedi eu hanghymhwyso rhag bod yn aelodau o staff
+39.  Mae aelod o gyd-bwyllgor corfforedig wedi ei anghymhwyso rhag cael ei benodi neu ei ethol gan y cyd-bwyllgor corfforedig hwnnw i unrhyw swydd daledig ac eithrio swydd cadeirydd neu is-gadeirydd.Rheoliadau Cyd-bwyllgor Corfforedig y Canolbarth (Cymru) 2021
+40.—(1) Mae Rheoliadau Cyd-bwyllgor Corfforedig y Canolbarth (Cymru) 2021(1) wedi eu diwygio fel a ganlyn.
+(2) Yn rheoliad 1(3)(d) (cychwyn darpariaethau penodol) hepgorer “11,”.
+(3) Yn rheoliad 2 (dehongli)—
+(a)
+yn y diffiniad o “aelod Bannau Brycheiniog”, yn lle “reoliad 8” rhodder “reoliad 8(1)”;
+(b)
+hepgorer y diffiniad o “Awdurdod Parc Cenedlaethol”;
+(c)
+yn y lleoedd priodol mewnosoder—
+“ystyr “aelod dirprwyol” (“substitute member”) yw person a benodir o dan reoliad 7(2) neu 8(3);”;
+“ystyr “Awdurdod Parc Cenedlaethol Bannau Brycheiniog” (“the Brecon Beacons National Park Authority”) yw’r awdurdod a sefydlwyd ar gyfer y Parc Cenedlaethol hwnnw gan Orchymyn Awdurdodau Parciau Cenedlaethol (Cymru) 1995 (O.S. 1995/2803);”.
+(4) Yn rheoliad 8(2B)(a), ar ôl “cytuno” mewnosoder “yn unfrydol”.
+(5) Yn rheoliad 9(2)(b), ar ôl “eraill” mewnosoder “sydd â hawl i bleidleisio ar y penderfyniad”.
+(6) Ar ôl rheoliad 9 mewnosoder—
+“Anghymhwysiad rhag bod yn aelod cyfetholedig
+9A.—(1) Mae person wedi ei anghymhwyso rhag cael ei gyfethol yn aelod o CBC y Canolbarth os yw’r person—
+(a)
+yn dal swydd daledig neu gyflogaeth y gwneir neu y cadarnheir penodiad neu etholiad iddi, neu y caniateir gwneud neu gadarnhau penodiad neu etholiad iddi, gan—
+(i)
+CBC y Canolbarth;
+(ii)
+is-bwyllgor i CBC y Canolbarth;
+(iii)
+deiliad swydd daledig neu gyflogaeth o’r math a ddisgrifir ym mharagraff (i) neu (ii), neu
+(b)
+wedi ei anghymhwyso o dan adran 80B o Ddeddf Llywodraeth Leol 1972 rhag bod yn aelod o—
+(i)
+cyngor cyfansoddol;
+(ii)
+Awdurdod Parc Cenedlaethol Bannau Brycheiniog.
+(2) Nid yw paragraff (1) yn gymwys i berson sydd wedi ei anghymhwyso rhag bod yn aelod o gyd-bwyllgor corfforedig o dan adran 1 o Ddeddf Llywodraeth Leol a Thai 1989 (anghymhwysiad yn rhinwedd dal swydd o dan gyfyngiadau gwleidyddol).”
+(7) Ym mharagraff 5(a) o’r Atodlen, yn lle paragraff (i) rhodder—
+“(i)
+rheoliad 8(2B);
+(ia)
+rheoliad 17, neu”.
+(8) Ar ôl paragraff 7(3) o’r Atodlen, mewnosoder—
+“(3A) Caiff gweithdrefn a fabwysiedir o dan y paragraff hwn gynnwys darpariaeth i aelod cyngor neu aelod Bannau Brycheiniog o CBC y Canolbarth bleidleisio drwy ddirprwy.”
+(1)
+O.S. 2021/342 (Cy. 96).Rheoliadau Cyd-bwyllgor Corfforedig De-ddwyrain (Cymru) 2021
+41.—(1) Mae Rheoliadau Cyd-bwyllgor Corfforedig De-ddwyrain (Cymru) 2021(1) wedi eu diwygio fel a ganlyn.
+(2) Yn rheoliad 2 (dehongli)—
+(a)
+yn y diffiniad o “aelod Bannau Brycheiniog”, yn lle “reoliad 8” rhodder “reoliad 8(1)”;
+(b)
+hepgorer y diffiniad o “Awdurdod Parc Cenedlaethol”;
+(c)
+yn y lleoedd priodol mewnosoder—
+“ystyr “aelod dirprwyol” (“substitute member”) yw person a benodir o dan reoliad 7(2) neu 8(3);”;
+“ystyr “Awdurdod Parc Cenedlaethol Bannau Brycheiniog” (“the Brecon Beacons National Park Authority”) yw’r awdurdod a sefydlwyd ar gyfer y Parc Cenedlaethol hwnnw gan Orchymyn Awdurdodau Parciau Cenedlaethol (Cymru) 1995 (O.S. 1995/2803);”.
+(3) Yn rheoliad 8(2B)(a), ar ôl “cytuno” mewnosoder “yn unfrydol”.
+(4) Yn rheoliad 9(2)(b), ar ôl “eraill” mewnosoder “sydd â hawl i bleidleisio ar y penderfyniad”.
+(5) Ar ôl rheoliad 9 mewnosoder—
+“Anghymhwysiad rhag bod yn aelod cyfetholedig
+9A.—(1) Mae person wedi ei anghymhwyso rhag cael ei gyfethol yn aelod o CBC y De-ddwyrain os yw’r person—
+(a)
+yn dal swydd daledig neu gyflogaeth y gwneir neu y cadarnheir penodiad neu etholiad iddi, neu y caniateir gwneud neu gadarnhau penodiad neu etholiad iddi, gan—
+(i)
+CBC y De-ddwyrain;
+(ii)
+is-bwyllgor i CBC y De-ddwyrain;
+(iii)
+deiliad swydd daledig neu gyflogaeth o’r math a ddisgrifir ym mharagraff (i) neu (ii), neu
+(b)
+wedi ei anghymhwyso o dan adran 80B o Ddeddf Llywodraeth Leol 1972 rhag bod yn aelod o—
+(i)
+cyngor cyfansoddol;
+(ii)
+Awdurdod Parc Cenedlaethol Bannau Brycheiniog.
+(2) Nid yw paragraff (1) yn gymwys i berson sydd wedi ei anghymhwyso rhag bod yn aelod o gyd-bwyllgor corfforedig o dan adran 1 o Ddeddf Llywodraeth Leol a Thai 1989 (anghymhwysiad yn rhinwedd dal swydd o dan gyfyngiadau gwleidyddol).”
+(6) Ym mharagraff 5(a) o’r Atodlen, yn lle paragraff (i) rhodder—
+“(i)
+rheoliad 8(2B);
+(ia)
+rheoliad 17, neu”.
+(7) Ar ôl paragraff 7(3) o’r Atodlen, mewnosoder—
+“(3A) Caiff gweithdrefn a fabwysiedir o dan y paragraff hwn gynnwys darpariaeth i aelod cyngor neu aelod Bannau Brycheiniog o CBC y De-ddwyrain bleidleisio drwy ddirprwy.”
+(1)
+O.S. 2021/343 (Cy. 97).Rheoliadau Cyd-bwyllgor Corfforedig y Gogledd (Cymru) 2021
+42.—(1) Mae Rheoliadau Cyd-bwyllgor Corfforedig y Gogledd (Cymru) 2021(1) wedi eu diwygio fel a ganlyn.
+(2) Yn rheoliad 1(3)(d) (cychwyn darpariaethau penodol) hepgorer “11”.
+(3) Yn rheoliad 2 (dehongli)—
+(a)
+hepgorer y diffiniad o “Awdurdod Parc Cenedlaethol”;
+(b)
+yn y diffiniad o “aelod Eryri”, yn lle “reoliad 8” rhodder “reoliad 8(1)”;
+(c)
+yn y lleoedd priodol mewnosoder—
+“ystyr “aelod dirprwyol” (“substitute member”) yw person a benodir o dan reoliad 7(2) neu 8(3);”;
+“ystyr “Awdurdod Parc Cenedlaethol Eryri” (“the Snowdonia National Park Authority”) yw’r awdurdod a sefydlwyd ar gyfer y Parc Cenedlaethol hwnnw gan Orchymyn Awdurdodau Parciau Cenedlaethol (Cymru) 1995 (O.S. 1995/2803);”.
+(4) Yn rheoliad 8(2B)(a), ar ôl “cytuno” mewnosoder “yn unfrydol”.
+(5) Yn rheoliad 9(2)(b), ar ôl “eraill” mewnosoder “sydd â hawl i bleidleisio ar y penderfyniad”.
+(6) Ar ôl rheoliad 9 mewnosoder—
+“Anghymhwysiad rhag bod yn aelod cyfetholedig
+9A.—(1) Mae person wedi ei anghymhwyso rhag cael ei gyfethol yn aelod o CBC y Gogledd os yw’r person—
+(a)
+yn dal swydd daledig neu gyflogaeth y gwneir neu y cadarnheir penodiad neu etholiad iddi, neu y caniateir gwneud neu gadarnhau penodiad neu etholiad iddi, gan—
+(i)
+CBC y Gogledd;
+(ii)
+is-bwyllgor i CBC y Gogledd;
+(iii)
+deiliad swydd daledig neu gyflogaeth o’r math a ddisgrifir ym mharagraff (i) neu (ii), neu
+(b)
+wedi ei anghymhwyso o dan adran 80B o Ddeddf Llywodraeth Leol 1972 rhag bod yn aelod o—
+(i)
+cyngor cyfansoddol;
+(ii)
+Awdurdod Parc Cenedlaethol Eryri.
+(2) Nid yw paragraff (1) yn gymwys i berson sydd wedi ei anghymhwyso rhag bod yn aelod o gyd-bwyllgor corfforedig o dan adran 1 o Ddeddf Llywodraeth Leol a Thai 1989 (anghymhwysiad yn rhinwedd dal swydd o dan gyfyngiadau gwleidyddol).”
+(7) Ym mharagraff 5(a) o’r Atodlen, yn lle paragraff (i) rhodder—
+“(i)
+rheoliad 8(2B);
+(ia)
+rheoliad 17, neu”.
+(8) Ar ôl paragraff 7(3) o’r Atodlen, mewnosoder—
+“(3A) Caiff gweithdrefn a fabwysiedir o dan y paragraff hwn gynnwys darpariaeth i aelod cyngor neu aelod Eryri o CBC y Gogledd bleidleisio drwy ddirprwy.”
+(1)
+O.S. 2021/339 (Cy. 93).Rheoliadau Cyd-bwyllgor Corfforedig y De-orllewin (Cymru) 2021
+43.—(1) Mae Rheoliadau Cyd-bwyllgor Corfforedig y De-orllewin (Cymru) 2021(1) wedi eu diwygio fel a ganlyn.
+(2) Yn rheoliad 1(3)(d) (cychwyn darpariaethau penodol) hepgorer “11”.
+(3) Yn rheoliad 2 (dehongli)—
+(a)
+yn y diffiniad o “aelod Bannau Brycheiniog”, yn lle “reoliad 8” rhodder “reoliad 8(1)”;
+(b)
+hepgorer y diffiniad o “Awdurdod Parc Cenedlaethol”;
+(c)
+yn y lleoedd priodol mewnosoder—
+“ystyr “aelod dirprwyol” (“substitute member”) yw person a benodir o dan reoliad 7(2) neu 8(4);”;
+“ystyr “Awdurdod Parc Cenedlaethol Arfordir Penfro” (“the Pembrokeshire Coast National Park Authority”) yw’r awdurdod a sefydlwyd ar gyfer y Parc Cenedlaethol hwnnw gan Orchymyn Awdurdodau Parciau Cenedlaethol (Cymru) 1995 (O.S. 1995/2803);”;
+“ystyr “Awdurdod Parc Cenedlaethol Bannau Brycheiniog” (“the Brecon Beacons National Park Authority”) yw’r awdurdod a sefydlwyd ar gyfer y Parc Cenedlaethol hwnnw gan Orchymyn Awdurdodau Parciau Cenedlaethol (Cymru) 1995 (O.S. 1995/2803);”.
+(4) Yn rheoliad 8(3B)(a), ar ôl “cytuno” mewnosoder “yn unfrydol”.
+(5) Yn rheoliad 9(2)(b), ar ôl “eraill” mewnosoder “sydd â hawl i bleidleisio ar y penderfyniad”.
+(6) Ar ôl rheoliad 9 mewnosoder—
+“Anghymhwysiad rhag bod yn aelod cyfetholedig
+9A.—(1) Mae person wedi ei anghymhwyso rhag cael ei gyfethol yn aelod o CBC y De-orllewin os yw’r person—
+(a)
+yn dal swydd daledig neu gyflogaeth y gwneir neu y cadarnheir penodiad neu etholiad iddi, neu y caniateir gwneud neu gadarnhau penodiad neu etholiad iddi, gan—
+(i)
+CBC y De-orllewin;
+(ii)
+is-bwyllgor i CBC y De-orllewin;
+(iii)
+deiliad swydd daledig neu gyflogaeth o’r math a ddisgrifir ym mharagraff (i) neu (ii), neu
+(b)
+wedi ei anghymhwyso o dan adran 80B o Ddeddf Llywodraeth Leol 1972 rhag bod yn aelod o—
+(i)
+cyngor cyfansoddol;
+(ii)
+Awdurdod Parc Cenedlaethol Bannau Brycheiniog;
+(iii)
+Awdurdod Parc Cenedlaethol Arfordir Penfro.
+(2) Nid yw paragraff (1) yn gymwys i berson sydd wedi ei anghymhwyso rhag bod yn aelod o gyd-bwyllgor corfforedig o dan adran 1 o Ddeddf Llywodraeth Leol a Thai 1989 (anghymhwysiad yn rhinwedd dal swydd o dan gyfyngiadau gwleidyddol).”
+(7) Ym mharagraff 5(a) o’r Atodlen, yn lle paragraff (i) rhodder—
+“(i)
+rheoliad 8(3B);
+(ia)
+rheoliad 17, neu”.
+(8) Ar ôl paragraff 7(3) o’r Atodlen, mewnosoder—
+“(3A) Caiff gweithdrefn a fabwysiedir o dan y paragraff hwn gynnwys darpariaeth i aelod cyngor, aelod Bannau Brycheiniog neu aelod Arfordir Penfro o CBC y De-orllewin bleidleisio drwy ddirprwy.”
+(1)
+O.S. 2021/352 (Cy. 104).Dyletswydd i lunio a chyhoeddi cyfansoddiad etc.
+44.  Ar ôl adran 37(4) o Ddeddf 2000 (cyfansoddiad awdurdod lleol) mewnosoder—
+“(5) This section applies to a corporate joint committee established by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021 as it applies to a local authority which are operating executive arrangements and in that application—
+(a)
+references to a “local authority” or “authority” are to be read as references to a corporate joint committee;
+(b)
+subsection (2) is to be treated as if it were omitted;
+(c)
+the references in subsection (4) to “members and co-opted members” are to be read as references to members of a corporate joint committee.”Ymchwil a chasglu gwybodaeth
+45.  Yn lle adran 141(3) o Ddeddf 1972 (ymchwil a chasglu gwybodaeth) rhodder—
+“(3) This section has effect—
+(a)
+in relation to a principal council in Wales—
+(i)
+as if any reference to a council were a reference to the principal council, and
+(ii)
+as if any reference to a county were a reference to the principal area;
+(b)
+in relation to a corporate joint committee—
+(i)
+as if any reference to a council were a reference to the corporate joint committee,
+(ii)
+as if any reference to a county were a reference to the area specified as the corporate joint committee’s area in regulations under Part 5 of the Local Government and Elections (Wales) Act 2021 establishing the corporate joint committee, and
+(iii)
+as if any reference to any other local authority in the county were a reference to any local authority in the corporate joint committee’s area.”Cyfyngiadau ar ddatgelu gwybodaeth o dan ddeddfwriaeth iechyd a diogelwch
+46.  Yn adran 28(6) o Ddeddf Iechyd a Diogelwch yn y Gwaith etc. 1974(1) (cyfyngiadau ar ddatgelu gwybodaeth), ar ôl “include” mewnosoder “a corporate joint committee established by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021,”.
+(1)
+1974 p. 37.Cyhoeddi gwybodaeth yn unol â chod ymarfer a gyhoeddir o dan adran 2 o Ddeddf 1980
+47.  Yn adran 2(1) o Ddeddf 1980 (dyletswydd awdurdodau i gyhoeddi gwybodaeth), ar ôl paragraff (ha) mewnosoder—
+“(hb)
+a corporate joint committee established by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021;”.Tir a ddelir gan gyd-bwyllgor corfforedig
+48.  Yn Neddf 1980—
+(a)
+yn adran 99(4) (cyfarwyddydau i waredu tir), ar ôl paragraff (aa) mewnosoder—
+“(ab)
+a corporate joint committee established by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021;”;
+(b)
+yn Atodlen 16 (cyrff y mae Rhan 10 yn gymwys iddynt), ar ôl paragraff 1A mewnosoder—
+“1B.  A corporate joint committee established by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021.”Yr hawl i absenoldeb teuluol
+49.  Yn adran 33 o Fesur Llywodraeth Leol (Cymru) 2011(1) (dehongli Rhan 2), yn y lle priodol mewnosoder—
+“mae “awdurdod lleol” (“local authority”) yn cynnwys cyd-bwyllgor corfforedig;”.
+(1)
+2011 mccc 4.Swydd daledig neu gyflogaeth y mae anghymhwysiad rhag bod yn aelod yn gymwys iddi
+50.  Yn adran 80C(1) o Ddeddf 1972 (swydd daledig neu gyflogaeth y mae anghymhwysiad yn gymwys iddi)—
+(a)
+ar ddiwedd paragraff (c) hepgorer “or”;
+(b)
+ar ôl paragraff (c) mewnosoder—
+“(ca)
+a corporate joint committee established in relation to the area of the local authority; or”;
+(c)
+ym mharagraff (d) yn lle “or (c)” rhodder “,(c) or (ca)”.Rebecca Evans
+Y Gweinidog Cyllid a Llywodraeth Leol, un o Weinidogion Cymru
+23 Mawrth 2022NODYN ESBONIADOL
+(Nid yw’r nodyn hwn yn rhan o’r Rheoliadau)
+Mae’r Rheoliadau hyn wedi eu gwneud fel rhan o gyfres o reoliadau sy’n gysylltiedig â sefydlu cyd-bwyllgorau corfforedig yng Nghymru drwy reoliadau o dan Ran 5 o Ddeddf Llywodraeth Leol ac Etholiadau (Cymru) 2021.
+Mae 9 Rhan i’r Rheoliadau hyn.
+Mae Rhan 1 yn gwneud darpariaeth gyffredinol ynghylch cychwyn a dehongli.
+Mae Rhan 2 yn cymhwyso Rhan 3 o Ddeddf Llywodraeth Leol 2000 (“Deddf 2000”) i gyd-bwyllgorau corfforedig drwy ddiwygio adran 49 o’r Ddeddf honno i wneud cyd-bwyllgor corfforedig yn “relevant authority” at ddibenion Rhan 3 o’r Ddeddf honno. Mae’n ofynnol i unrhyw aelod o gyd-bwyllgor corfforedig ac unrhyw berson a benodir i is-bwyllgor i’r cyd-bwyllgor corfforedig ac sydd â hawl i bleidleisio ar faterion sydd i’w penderfynu gan yr is-bwyllgor hwnnw (y cyfeirir ato fel “co-opted member” yn Neddf 2000) gydymffurfio â’r cod ymddygiad a fabwysiadwyd gan y cyd-bwyllgor corfforedig.
+Mae Ombwdsmon Gwasanaethau Cyhoeddus Cymru yn ymchwilio i honiadau o beidio â chydymffurfio â chod ymddygiad, ac mae Panel Dyfarnu Cymru, a gaiff atal dros dro neu anghymhwyso aelod neu aelod cyfetholedig os canfyddir nad yw wedi cydymffurfio, yn penderfynu arnynt. Yn ogystal, mae aelod cyngor neu aelod awdurdod Parc Cenedlaethol o gyd-bwyllgor corfforedig sydd wedi ei atal dros dro o’i awdurdod wedi ei atal dros dro yn awtomatig o’r cyd-bwyllgor corfforedig o ganlyniad.
+Mae Rhan 2 hefyd yn cymhwyso adrannau 92 (taliadau mewn achosion o gamweinyddu etc.) a 101 (indemnio aelodau a swyddogion) o Ddeddf 2000 i gyd-bwyllgorau corfforedig, o ganlyniad i wneud cyd-bwyllgor corfforedig yn “relevant authority” yn Rhan 3 o Ddeddf 2000.
+Mae Rhan 2 hefyd yn cymhwyso adran 92 o Ddeddf Llywodraeth Leol 1972 (“Deddf 1972”), sy’n gwneud darpariaeth ynghylch achos cyfreithiol yn erbyn person yr honnir ei fod wedi gweithredu fel aelod o awdurdod lleol tra oedd wedi ei anghymhwyso.
+Mae Rhan 3 yn rhoi pŵer i gynghorau cyfansoddol ac awdurdodau Parc Cenedlaethol cyfansoddol y pedwar cyd-bwyllgor corfforedig presennol i benodi aelod dirprwyol i gyd-bwyllgor corfforedig mewn achos pan na fo’r aelod cyngor neu’r aelod awdurdod Parc Cenedlaethol ei hun yn gallu gweithredu. Mae’r pŵer hwn yn gymwys pan na fo’r aelod arferol yn gallu gweithredu neu pan fo wedi ei atal dros dro neu ei atal dros dro yn rhannol o’r cyd-bwyllgor corfforedig a hefyd pan fo’r aelod arferol wedi ei atal dros dro yn rhannol o’r cyngor neu’r awdurdod Parc Cenedlaethol, yn ôl y digwydd. Bydd y gyfraith yn gymwys i aelodau dirprwyol yn yr un modd ag y byddai wedi bod yn gymwys i aelodau y maent yn dirprwyo drostynt.
+Mae Rhan 4 yn gwneud darpariaeth ynghylch gweithgareddau masnachol cyd-bwyllgor corfforedig a gallu cyd-bwyllgor corfforedig i ymrwymo i gontractau (gan gynnwys drwy ddiwygio Rheoliadau Awdurdodau Lleol (Contractau) 1997 (O.S. 1997/2862) a wneir o dan Ddeddf Llywodraeth Leol (Contractau) 1997 (p. 65); mae’r Ddeddf honno yn gymwys i gyd-bwyllgorau corfforedig yn rhinwedd y ffaith bod y cyrff hynny yn awdurdodau y mae Pennod 1 o Ran 1 o Ddeddf Llywodraeth Leol 2003 yn gymwys iddynt – gweler paragraff 1 o Atodlen 2 i Reoliadau Cyd-bwyllgorau Corfforedig (Cyffredinol) (Cymru) 2021 (O.S. 2021/327 (Cy. 85))).
+Mae Rhan 5 yn gwneud darpariaeth ynghylch materion ariannol eraill. Mae’r rhain yn cynnwys gofyniad i’r pedwar cyd-bwyllgor corfforedig presennol gynnal cronfa gyffredinol, a swyddogaethau mewn cysylltiad â mathau penodol o gontract ac yswiriant a roddir i gyd-bwyllgorau corfforedig yn gyffredinol.
+Mae Rhan 6 yn gwneud darpariaeth ynghylch statws cyd-bwyllgorau corfforedig yn ogystal ag aelodau ac aelodau o staff cyd-bwyllgorau corfforedig mewn perthynas ag achosion cyfreithiol. Mae’r rhain yn cynnwys cymhwyso adran 222 o Ddeddf 1972 (hawliau i ddwyn ac amddiffyn achos cyfreithiol) i gyd-bwyllgorau corfforedig a chymhwyso gwarchodaeth rhag atebolrwydd personol i aelodau ac aelodau o staff cyd-bwyllgorau corfforedig sy’n cyfateb i’r warchodaeth a roddir i unigolion o’r fath mewn awdurdodau lleol gan adran 39 o Ddeddf Llywodraeth Leol (Darpariaethau Amrywiol) 1976.
+Mae Rhan 7 yn gwneud darpariaeth ynghylch cofnodion a chyflwyno hysbysiadau a dogfennau i gyd-bwyllgor corfforedig a chanddo.
+Mae Rhan 8 yn cymhwyso, mewn perthynas â staff cyd-bwyllgorau corfforedig, ddarpariaeth gyffredinol sy’n gymwys mewn perthynas â staff awdurdodau lleol fel y nodir yn Neddf 1972 a Deddf Llywodraeth Leol a Thai 1989. Mae hyn yn cynnwys gofynion i benodi staff ar sail teilyngdod a hawliau staff i gael gwyliau a lwfansau penodol.
+Mae Rhan 9 yn gwneud darpariaeth amrywiol a chanlyniadol sydd i raddau helaeth yn estyn darpariaeth bresennol mewn cysylltiad ag awdurdodau lleol i gyd-bwyllgorau corfforedig: yn benodol, ddarpariaeth sy’n anghymhwyso deiliaid swyddi taledig penodol rhag cael eu penodi’n aelodau o gyd-bwyllgorau corfforedig a hefyd ddarpariaeth sy’n cymhwyso Rhan 2 o Fesur Llywodraeth Leol (Cymru) 2011 (yr hawl i absenoldeb teuluol) i aelodau o gyd-bwyllgorau corfforedig.
+Mae’r Rheoliadau hyn yn gysylltiedig â’r rheoliadau a oedd yn sefydlu cyd-bwyllgorau corfforedig penodol o dan Ran 5 o Ddeddf Llywodraeth Leol ac Etholiadau (Cymru) 2021 ac a ddaeth i rym ar 1 Ebrill 2021 a 30 Mehefin 2021. Lluniwyd asesiad effaith rheoleiddiol pan wnaed y rheoliadau sefydlu hynny a gellir cael copi oddi wrth: Yr Is-adran Cyllid Strategol Llywodraeth Leol, Llywodraeth Cymru, Parc Cathays, Caerdydd, CF10 3NQ.

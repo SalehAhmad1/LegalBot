@@ -1,0 +1,63 @@
+SCOTTISH STATUTORY INSTRUMENTS
+2022 No. 120
+HIGH COURT OF JUSTICIARY
+SHERIFF APPEAL COURT
+SHERIFF COURT
+JUSTICE OF THE PEACE COURT
+Act of Adjournal (Criminal Procedure Rules 1996 Amendment) (Electronic Monitoring) 2022
+Made
+30th March 2022
+Laid before the Scottish Parliament
+31st March 2022
+Coming into force
+17th May 2022
+The High Court of Justiciary makes this Act of Adjournal under the powers conferred on it by section 305 of the Criminal Procedure (Scotland) Act 1995(1), section 1(6) of the Management of Offenders (Scotland) Act 2019(2) and all other powers enabling it to do so.
+(1)
+1995 c. 46. Section 305 was amended by section 111(1) of the Criminal Justice (Scotland) Act 2016 (asp 1) and by S.S.I. 2015/338, and was extended by section 386(3)(a) of the Proceeds of Crime Act 2002 (c. 29), section 36A(4) of the Serious Crime Act 2007 (c. 27) and section 32(5) of the Psychoactive Substances Act 2016 (c. 2).
+(2)
+2019 asp 14.Citation and commencement, etc.
+1.—(1) This Act of Adjournal may be cited as the Act of Adjournal (Criminal Procedure Rules 1996 Amendment) (Electronic Monitoring) 2022.
+(2) It comes into force on 17th May 2022.
+(3) A certified copy is to be inserted in the Books of Adjournal.Amendment of the Criminal Procedure Rules 1996
+2.—(1) The Criminal Procedure Rules 1996(1) are amended in accordance with this paragraph.
+(2) After Chapter 70 (Challenges to Validity of EU Instruments (EU Exit))(2), insert—
+“CHAPTER 71
+ELECTRONIC MONITORING REQUIREMENT UNDER THE MANAGEMENT OF OFFENDERS (SCOTLAND) ACT 2019
+71.1.  An order making a requirement under section 1(1) of the Management of Offenders (Scotland) Act 2019 is made in Form 71.1.”.
+(3) In the appendix—
+(a)
+in Form 20.12A-A (restriction of liberty order)(3) for the two paragraphs which appear immediately before “(Signed)”, where it first appears, substitute—
+“[ORDERS that the offender comply with the electronic monitoring requirement in respect of (state the aspects of the disposal specified by the court) under the Management of Offenders (Scotland) Act 2019 as set out in the attached Form 71.1.]”;
+(b)
+in Form 20.12B-A (form of drug treatment and testing order made under section 234B of the Criminal Procedure (Scotland) Act 1995)(4) for paragraph (vii), substitute—
+“(vii)
+(to comply with the electronic monitoring requirement in respect of (state the aspects of the disposal specified by the court) under the Management of Offenders (Scotland) Act 2019 as set out in the attached Form 71.1);
+(viii)
+(any additional requirement)”;
+(c)
+in Form 20.22-A (form of community payback order under section 227A [or 227M] of the Criminal Procedure (Scotland) Act 1995)(5) after “or any other educational establishment”, insert—
+“[AND requires the offender to comply with the electronic monitoring requirement in respect of (state the aspects of disposal specified by the court) under the Management of Offenders (Scotland) Act 2019 as set out in the attached Form 71.1]”; and
+(d)
+after Form 70.3-A (form of notice to court under regulation 6 of the Challenges to Validity of EU Instruments (EU Exit) Regulations 2019)(6), insert Form 71.1 as set out in the schedule of this Act of Adjournal.
+(1)
+The Criminal Procedure Rules 1996 are in schedule 2 of the Act of Adjournal (Criminal Procedure Rules) 1996 (S.I. 1996/513), last amended by S.S.I. 2021/316.
+(2)
+Chapter 70 was inserted by S.S.I. 2019/330.
+(3)
+Form 20.12A-A was inserted by S.I. 1998/1842 and last amended by S.S.I. 2004/434.
+(4)
+Form 20.12B-A was inserted by S.S.I. 1999/191 and re-numbered by S.S.I. 2003/468.
+(5)
+Form 20.22-A was inserted by S.S.I. 2010/418 and substituted by S.S.I. 2011/21.
+(6)
+Form 70.3-A was inserted by S.S.I. 2019/330.CJM SUTHERLAND
+Lord Justice General
+I.P.D.
+Edinburgh
+30th March 2022Paragraph 2(3)(d)
+SCHEDULEEXPLANATORY NOTE
+(This note is not part of the Act of Adjournal)
+This Act of Adjournal amends the Criminal Procedure Rules 1996 in consequence of the commencement of the electronic monitoring provisions of the Management of Offenders (Scotland) Act 2019 (asp 14).
+Paragraph 2(2) inserts a new Chapter 71 (Electronic Monitoring Requirement under the Management of Offenders (Scotland) Act 2019) which prescribes the form to be used when the court makes an electronic monitoring order.
+Paragraph 2(3)(a) to (c) makes amendments to certain forms.
+Paragraph 2(3)(d) inserts a new form of electronic monitoring order (Form 71.1).

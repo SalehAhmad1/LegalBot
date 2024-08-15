@@ -1,0 +1,2017 @@
+Draft Regulations laid before Parliament under section 235(2) of the Banking Act 2009 as applied and modified by regulation 24A of, and paragraph 4 of Schedule 2ZA to, the Electronic Money Regulations 2011 and regulation 23A of, and paragraph 4 of Schedule 3A to, the Payment Services Regulations 2017, and paragraph 1(3) of Schedule 7 to the European Union (Withdrawal) Act 2018, for approval by resolution of each House of Parliament.
+DRAFT STATUTORY INSTRUMENTS
+2021 No. 0000
+FINANCIAL SERVICES AND MARKETS
+The Payment and Electronic Money Institution Insolvency Regulations 2021
+Made
+***
+Coming into force
+***
+The Treasury make these Regulations in exercise of the powers conferred by—
+(a)
+sections 233 and 234 of the Banking Act 2009(1) as applied and modified by regulation 24A of, and paragraphs 2 and 3 of Schedule 2ZA to, the Electronic Money Regulations 2011(2) (“EMR 2011”) and regulation 23A of, and paragraphs 2 and 3 of Schedule 3A to, the Payment Services Regulations 2017(3) (“PSR 2017”), and section 259(1) of that Act, and
+(b)
+in respect of regulation 49 (and regulations 1 to 4 so far as they relate to regulation 49), section 8(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018(4).
+The Treasury have consulted in accordance with section 235(3) of the Banking Act 2009 as applied and modified by regulation 24A of, and paragraph 4 of Schedule 2ZA to, the EMR 2011 and regulation 23A of, and paragraph 4 of Schedule 3A to, the PSR 2017.
+A draft of these Regulations has been laid before and approved by a resolution of each House of Parliament in accordance with section 235(2) of the Banking Act 2009 as applied and modified by regulation 24A of, and paragraph 4 of Schedule 2ZA to, the EMR 2011 and regulation 23A of, and paragraph 4 of Schedule 3A to, the PSR 2017, and paragraph 1(3) of Schedule 7 to the European Union (Withdrawal) Act 2018.
+(1)
+2009 c. 1.
+(2)
+S.I. 2011/99. Regulation 24A and Schedule 2ZA were inserted by S.I. 2020/1275.
+(3)
+S.I. 2017/752. Regulation 23A and Schedule 3A were inserted by S.I. 2020/1275.
+(4)
+2018 c. 16.Citation
+1.  These Regulations may be cited as the Payment and Electronic Money Institution Insolvency Regulations 2021.Commencement
+2.  These Regulations come into force on the twenty-first day after the day on which they are made.Extent
+3.—(1) These Regulations extend to England and Wales and Scotland, subject as follows.
+(2) Regulations 48 and 49 extend to England and Wales, Scotland and Northern Ireland.
+(3) A modification made by Schedule 3 has the same extent as the provision modified.
+(4) An amendment made by Schedule 4 has the same extent as the provision amended.Overview
+4.—(1) Regulations 7 to 48 and Schedules 1 to 4 make provision about the insolvency of payment institutions and electronic money institutions (“institutions”).
+(2) Regulations 7 to 47 and Schedules 1 to 4 set out a special alternative procedure for the insolvency of institutions.
+(3) The procedure is to be known as—
+(a)
+payment institution special administration, where the institution is a payment institution, or
+(b)
+electronic money institution special administration, where the institution is an electronic money institution.
+(4) Regulation 48 applies with modifications various provisions of Part 24 of the Financial Services and Markets Act 2000(1) (“FSMA 2000”) to institutions except in respect of special administration.
+(5) Regulation 49 corrects a defect in an instrument relating to the United Kingdom’s withdrawal from the European Union and bank recovery and resolution.
+(1)
+2000 c. 8.Application: Scottish LLPs and partnerships
+5.  Regulations 7 to 47 do not apply to the insolvency of limited liability partnerships or partnerships formed under the law of Scotland.Definitions
+6.  In these Regulations, the words and expressions in the first column of the Table have the meaning indicated in the second column—
+Word or expression Meaning
+BA 2009 Banking Act 2009(1)
+CA 2006 Companies Act 2006(2)
+CDDA 1986 Company Directors Disqualification Act 1986(3)
+FSMA 2000 has the meaning given in regulation 4(4)
+IA 1986 Insolvency Act 1986(4)
+SBEEA 2015 Small Business, Enterprise and Employment Act 2015(5)
+EMR 2011 Electronic Money Regulations 2011(6)
+IBSAR 2011 Investment Bank Special Administration Regulations 2011(7)
+PSR 2017 Payment Services Regulations 2017(8)
+administrator (except in the expression Schedule B1 administrator) person appointed under regulation 7
+agency or distribution services (in the case of electronic money institutions) services provided by an agent or distributor within the meaning of regulation 2(1) of the EMR 2011
+agency services (in the case of a payment institutions) services provided by an agent within the meaning of regulation 2(1) of the PSR 2017
+asset pool (in the case of electronic money institutions)
+(a) in the case of funds received for the execution of payment transactions which are not related to the issuance of electronic money, see regulation 23(18) of the PSR 2017, or
+(b) in any other case, see regulation 24(4) of the EMR 2011
+asset pool (in the case of payment institutions) see regulation 23(18) of the PSR 2017
+authorised payment institution see regulation 2(1) of the PSR 2017
+Authorities the Bank of England, the Treasury and the FCA
+contributory has the same meaning as in the IA 1986 (see section 79 of that Act) as applied and modified by these Regulations
+court
+(a) in England and Wales, the High Court, and
+(b) in Scotland, the Court of Session
+electronic money see regulation 2(1) of the EMR 2011
+electronic money institution see regulation 2(1) of the EMR 2011
+enactment
+includes—
+(a) an enactment contained in, or in an instrument made under, an Act of the Scottish Parliament,
+(b) an enactment contained in, or in an instrument made under, a Measure or Act of Senedd Cymru, and
+(c) any retained direct EU legislation
+fair has the same meaning as in Part 2 of the BA 2009 (see section 93(8) of that Act)
+FCA Financial Conduct Authority
+foreign property has the same meaning as in the BA 2009 (see section 39(2) of that Act)
+holder electronic money holder
+special administration insolvency rules rules made under section 411 of the IA 1986 as applied and modified by these Regulations to give effect to these Regulations
+institution has the meaning given in regulation 4(1)
+institution’s own bank accounts includes any account, other than a relevant funds account, opened by the administrator for the purposes of the special administration
+Objective 1 has the meaning given in regulation in 12(2)
+Objective 2 has the meaning given in regulation in 12(3)
+Objective 3 has the meaning given in regulation in 12(4)
+payment institution authorised payment institution or small payment institution
+payment services see regulation 2(1) of the PSR 2017
+payment system has the same meaning as in the BA 2009 (see section 182 of that Act(9))
+payment system operator has the same meaning as in the BA 2009 (see section 183 of that Act(10))
+payment transaction see regulation 2(1) of the PSR 2017
+PPTA has the meaning given in regulation 24(3)
+PS or EMI contract contract for payment services or electronic money issuance
+relevant funds (in the case of electronic money institutions)
+(a) in the case of funds received for the execution of payment transactions which are not related to the issuance of electronic money, see regulation 23(1) and (2) of the PSR 2017
+(b) in any other case, see regulation 20(1) of the EMR 2011
+relevant funds (in the case of payment institutions) see regulation 23(1) and (2) of the PSR 2017
+relevant funds account account which an institution maintains in order to safeguard relevant funds
+relevant funds claim claim, of a user or holder, for the return of relevant funds
+reverse transfer has the meaning given in regulation 30(1)(a)
+safeguard (in the case of electronic money institutions)
+(a) in the case of relevant funds received for the execution of payment transactions which are not related to the issuance of electronic money, has the same meaning as in the PSR 2017 (see regulation 23 of those Regulations), or
+(b) in any other case, has the same meaning as in the EMR 2011 (see regulations 20 to 22 of those Regulations)
+safeguard (in the case of payment institutions) has the same meaning as in the PSR 2017 (see regulation 23 of those Regulations)
+Schedule B1 Schedule B1 to the IA 1986
+Schedule B1 administration the administration procedure set out in Schedule B1
+Schedule B1 administration order administration order made under Schedule B1 (see paragraph 10 of that Schedule)
+Schedule B1 administrator administrator appointed under Schedule B1
+small electronic money institution see regulation 2(1) of the EMR 2017
+small payment institution see regulation 2(1) of the PSR 2017
+special administration (except in the expression investment bank special administration) payment institution special administration or electronic money institution special administration (see regulation 4(3))
+special administration objectives Objective 1, Objective 2 and Objective 3
+special administration order has the meaning given in regulation 7
+statement of proposals
+statement of proposals drawn up by the administrator in accordance with—
+(a) paragraph 49 of Schedule B1 as applied and modified by these Regulations, or
+(b) where the FCA has given a direction, regulation 39
+TA has the meaning given in regulation 24(2)
+transferee has the meaning given in regulation 24(2)
+user payment service user (see regulation 2(1) of the PSR 2017)
+voluntarily safeguard (in the case of small electronic money institutions) voluntarily safeguard pursuant to regulation 20(6) of the EMR 2011 and regulation 23(16) of the PSR 2017
+voluntarily safeguard (in the case of small payment institutions) voluntarily safeguard pursuant to regulation 23(16) of the PSR 2017
+(1)
+2009 c. 1.
+(2)
+2006 c. 46.
+(3)
+1986 c. 46.
+(4)
+1986 c. 45.
+(5)
+2015 c. 26.
+(6)
+S.I. 2011/99, amended by S.I. 2013/3115, 2015/575, 2017/252, 2017/1173, 2018/1021. There are other amending instruments but none is relevant.
+(7)
+S.I. 2011/245, amended by S.I. 2013/472, 2017/443. There are other amending instruments but none is relevant.
+(8)
+S.I. 2017/752, amended by S.I. 2017/1173, 2018/1021. There are other amending instruments but none is relevant.
+(9)
+Section 182 was amended by the Digital Economy Act 2017 (c. 30).
+(10)
+Section 183(a) was amended by the Digital Economy Act 2017 (c. 30).Special administration order
+7.—(1) A special administration order is an order appointing a person as the administrator of an institution.
+(2) A person is eligible for appointment as administrator under a special administration order if they are qualified to act as an insolvency practitioner in relation to the institution.
+(3) An appointment may be made only if the person has consented to act.
+(4) For the purposes of these Regulations—
+(a)
+an institution is “in special administration” while the appointment of the administrator has effect,
+(b)
+an institution “enters special administration” when the appointment of the administrator takes effect,
+(c)
+an institution ceases to be in special administration when the appointment of the administrator ceases to have effect in accordance with these Regulations, and
+(d)
+an institution does not cease to be in special administration merely because an administrator vacates office (by reason of resignation, death or otherwise) or is removed from office.Application for order
+8.—(1) An application to the court for a special administration order may be made to the court by—
+(a)
+the institution,
+(b)
+the directors of the institution,
+(c)
+one or more creditors of the institution,
+(d)
+the designated officer for a magistrates’ court in the exercise of the power conferred by section 87A of the Magistrates’ Courts Act 1980(1),
+(e)
+a contributory of the institution, subject to paragraph (7),
+(f)
+a combination of persons listed in sub-paragraphs (a) to (e),
+(g)
+the Secretary of State, or
+(h)
+the FCA.
+(2) Where an application is made by a person other than the FCA, the FCA is entitled to be heard at—
+(a)
+the hearing of the application for a special administration order, and
+(b)
+any other hearing of the court in relation to the institution under these Regulations.
+(3) An application must nominate a person to be appointed as the administrator.
+(4) As soon as is reasonably practicable after making the application, the applicant must notify—
+(a)
+a person who gave notice to the FCA in accordance with Condition 1 of regulation 11, and
+(b)
+such other persons as may be described in special administration insolvency rules.
+(5) An application may not be withdrawn without the permission of the court.
+(6) In paragraph (1)(c), “creditor” includes a contingent creditor and a prospective creditor.
+(7) A contributory (“C”) is not entitled to make an application for a special administration order unless either—
+(a)
+the number of members is reduced below 2, or
+(b)
+the shares in respect of which C is a contributory, or some of them, either were originally allotted to C, or have been held by C and registered in C’s name, for at least 6 months during the 18 months before the commencement of the special administration, or have devolved on C through the death of a former holder.
+(1)
+1980 c. 43.Grounds for applying
+9.—(1) In this regulation—
+(a)
+Ground A is that the institution is, or is likely to become, unable to pay its debts,
+(b)
+Ground B is that it is fair to put the institution into special administration, and
+(c)
+Ground C is that it is expedient in the public interest to put the institution into special administration.
+(2) For the meaning of “unable to pay its debts”, in paragraph (1)(a), see section 93(4) of the BA 2009 (as applied and modified by the EMR 2011 and the PSR 2017(1)).
+(3) The FCA or a person listed in regulation 8(1)(a) to (f) may apply for a special administration order only if they consider that Ground A or Ground B is met.
+(4) The Secretary of State may apply for a special administration order only if it appears to the Secretary of State that Grounds B and C are met.
+(5) The sources of information on the basis of which the Secretary of State may reach a decision on Ground C include those listed in section 124A(1) of the IA 1986 (petition for winding up on grounds of public interest).
+(1)
+Regulation 24A of and paragraph 1 of Schedule 2ZA to the EMR 2011 apply and modify section 93(4) of the BA 2009 in respect of electronic money institutions. Regulation 23A of and paragraph 1 of Schedule 3A to the PSR 2017 apply and modify section 93(4) of the BA 2009 in respect of payment institutions.Powers of the court
+10.—(1) On an application for a special administration order the court may—
+(a)
+grant the application in accordance with paragraph (2);
+(b)
+dismiss the application;
+(c)
+adjourn the hearing (generally or to a specified date);
+(d)
+make an interim order;
+(e)
+on the application of the FCA, treat the application as an application by the FCA for Schedule B1 administration in accordance with section 359(1) of the FSMA 2000(1);
+(f)
+make any other order which the court thinks appropriate.
+(2) The court may make a special administration order if it is satisfied that the institution is incorporated in, or formed under the law of, England and Wales, or Scotland—
+(a)
+on the application of persons listed in regulation 8(1)(a) to (e) or the FCA, that Ground A or Ground B in regulation 9 is satisfied, or
+(b)
+on the application of the Secretary of State, if satisfied that Grounds B and C in regulation 9 are satisfied.
+(3) Where the application for a special administration order is made by members of the institution as contributories on the basis that Ground B in regulation 9 is satisfied, the court must make a special administration order if it is of the opinion that—
+(a)
+the applicants are entitled to relief either by a special administration order being made in respect of the institution or by some other means, and
+(b)
+in the absence of any other remedy it would be fair that the special administration order be made in respect of the institution.
+(4) But paragraph (3) does not apply if the court is also of the opinion that an alternative remedy is available to the applicants and that they are acting unreasonably in applying for a special administration order instead of pursuing that other remedy.
+(5) A special administration order takes effect in accordance with its terms.
+(1)
+Section 359(1) was amended by the Financial Services Act 2012 (c. 21).Notice to FCA: other proceedings
+11.—(1) An application for a Schedule B1 administration order in respect of an institution may not be determined unless all of Conditions 1 to 4 are satisfied.
+(2) An application for an order under regulation 5 of the IBSAR 2011 in respect of an institution may not be determined unless all of Conditions 1 to 4 are satisfied.
+(3) A petition for a winding-up order in respect of an institution may not be determined unless all of Conditions 1 to 4 are satisfied.
+(4) A resolution for voluntary winding up of an institution may not be made unless all of Conditions 1 to 4 are satisfied.
+(5) A Schedule B1 administrator of an institution may not be appointed unless all of Conditions 1 to 4 are satisfied.
+(6) Condition 1 is that the FCA has been notified—
+(a)
+by the applicant for a Schedule B1 administration order, that the application has been made,
+(b)
+by the applicant for an order under regulation 5 of the IBSAR 2011, that the application has been made,
+(c)
+by the petitioner for a winding-up order, that the petition has been presented,
+(d)
+by the institution, that a resolution for voluntary winding up may be made, or
+(e)
+by the person proposing to appoint a Schedule B1 administrator, of the proposed appointment.
+(7) Condition 2 is that a copy of the notice complying with Condition 1 has been filed (in Scotland, lodged) with the court and made available for public inspection by the court.
+(8) Condition 3 is that—
+(a)
+the period of 2 weeks, beginning with the day on which the notice is received by the FCA, has ended, or
+(b)
+the FCA has informed the person who gave the notice that it consents to the proceedings to which the notice relates going ahead.
+(9) Condition 4 is that no application for a special administration order is pending.
+(10) Where the FCA receives notice under Condition 1, it must inform the person who gave the notice, within the period in Condition 3—
+(a)
+whether or not it consents to the proceedings to which the notice relates going ahead,
+(b)
+whether or not it intends to apply for those (or alternative) proceedings itself, or
+(c)
+whether it intends to apply for a special administration order.
+(11) Arranging for the giving of the notice in order to satisfy Condition 1 may be treated as a step with a view to minimising the potential loss to the institution’s creditors for the purpose of section 214 of the IA 1986 as applied and modified by these Regulations.Special administration objectives
+12.—(1) The administrator has the following special administration objectives.
+(2) Objective 1 is to ensure the return of relevant funds—
+(a)
+as soon as is reasonably practicable in accordance with regulations 13 to 15 and 17 to 34, or
+(b)
+promptly, in the case of post-administration receipts, in accordance with regulation 16,
+subject to paragraph (10).
+(3) Objective 2 is to ensure timely engagement with payment system operators, the Payment Systems Regulator and the Authorities in accordance with regulation 35.
+(4) Objective 3 is to either—
+(a)
+rescue the institution as a going concern, or
+(b)
+wind it up in the best interests of the creditors.
+(5) The order in which Objectives 1 to 3 are listed in this regulation is not significant.
+(6) The administrator is entitled to deal with and return relevant funds in whatever order the administrator thinks best achieves Objective 1.
+(7) The administrator must commence work on each objective immediately after appointment, prioritising the order of work on each objective as the administrator thinks fit, in order to achieve the best result overall for users or holders and creditors.
+(8) The administrator must set out, in the statement of proposals, the order in which the administrator intends to further pursue the objectives once the statement has been approved.
+(9) The administrator must work to achieve each objective, in accordance with the priority afforded to the objective, as quickly and efficiently as is reasonably practicable.
+(10) Paragraphs (2) and (6) and regulations 13 to 23 do not apply to relevant funds received by—
+(a)
+a small payment institution, or
+(b)
+in the case of funds received for the execution of payment transactions that are not related to the issuance of electronic money, a small electronic money institution,
+where the institution had not chosen to voluntarily safeguard the funds when it entered special administration.Objective 1: initial reconciliation
+13.—(1) The administrator must carry out a reconciliation immediately after appointment, subject as follows.
+(2) The purpose of the reconciliation is—
+(a)
+to identify any shortfall or excess in an asset pool, according to the institution’s own records, which it would have settled, had it not entered special administration, and
+(b)
+to settle this with the institution’s own bank accounts.
+(3) The administrator must carry out the reconciliation using the method adopted by the institution when it last carried out a reconciliation to identify any shortfall or excess in the asset pool and to settle that shortfall or excess (“last reconciliation”).
+(4) Paragraph (1) does not apply where the administrator cannot identify any occasion on which the institution carried out a reconciliation of that kind.
+(5) The reconciliation must be based on the records and accounts of the institution as they stood immediately after the last reconciliation.
+(6) The administrator must take no further account—
+(a)
+of money received by the institution, or
+(b)
+of payments, transfers or transactions made by the institution,
+of which account was taken in the last reconciliation.
+(7) The administrator must take account of—
+(a)
+money received by the institution, and
+(b)
+payments, transfers and transactions made by the institution,
+after the institution’s last reconciliation and before the appointment of the administrator.
+(8) The administrator must, where amount A exceeds amount B, transfer an amount equal to, or as close as possible to, the difference from the institution’s own bank accounts to an appropriate relevant funds account.
+(9) The administrator must, where amount B exceeds amount A, transfer an amount equal to the difference from the asset pool to the institution’s own bank accounts.
+(10) “Amount A” means the total amount of relevant funds which the institution is required to safeguard, according to its own records and accounts.
+(11) “Amount B” means the total amount of relevant funds which are being safeguarded.
+(12) In paragraph (11), the reference to “amount” is—
+(a)
+in the case of liquid assets, a reference to the amount of the cash proceeds of realising those assets without delay, and
+(b)
+in the case of insurance policies or guarantees, to be determined in accordance with the method adopted at the last reconciliation.
+(13) This regulation does not apply to an institution which is also an investment bank within the meaning of the BA 2009 (see section 232 of that Act(1)).
+(14) Nothing in this regulation authorises an administrator to transfer funds from one of the institution’s own bank accounts to a relevant funds account where to do so would interrupt a payment to a payment system operator to settle a payment transaction.
+(15) This regulation does not apply to post-administration receipts (see regulation 16).
+(1)
+Section 232 was amended by the Financial Services Act 2012 (c. 21) and S.I. 2011/239 and 2017/443.Objective 1: constitution of asset pool
+14.—(1) The administrator must take the following steps relating to the constitution of an asset pool—
+(a)
+as soon as reasonably practicable after the reconciliation under regulation 13, or
+(b)
+where regulation 13(4) or 13(13) applies, as soon as reasonably practicable after appointment.
+(2) The administrator must—
+(a)
+take reasonable steps to identify any relevant funds held as funds in the institution’s own accounts, and
+(b)
+transfer those funds into an appropriate relevant funds account.
+(3) The administrator must, where relevant funds are held in the asset pool in the form of liquid assets—
+(a)
+liquidate those assets, and
+(b)
+deposit the cash proceeds in an appropriate relevant funds account.
+(4) But paragraph (3) does not apply where the administrator thinks that Objective 1 would be better achieved by continuing, during any period, to hold the relevant funds in the form of liquid assets.
+(5) The administrator must, where relevant funds are covered by insurance policies or guarantees, take any steps which are necessary to ensure that, subsequently, at the appropriate time—
+(a)
+claims may be made for the cash proceeds of those policies or guarantees without delay, and
+(b)
+those cash proceeds are deposited in an appropriate relevant funds account without delay.
+(6) Nothing in this regulation prevents an administrator from subsequently repeating any of the steps in this regulation, in pursuit of Objective 1.
+(7) This regulation does not apply to post-administration receipts (see regulation 16).Objective 1: monitoring and maintaining asset pool
+15.—(1) The administrator must monitor any funds, liquid assets or insurance policies or guarantees held within an asset pool.
+(2) That duty includes a duty to compare, from time to time, the institution’s internal accounts and records with those of any third party with custody or control over funds or liquid assets held within an asset pool.
+(3) The administrator may decide when and how often to perform that comparison depending on—
+(a)
+the circumstances of the institution,
+(b)
+the scale, frequency and nature of activity after its entry into special administration.
+(4) The administrator must also maintain any funds, liquid assets or insurance policies or guarantees held within an asset pool.
+(5) The administrator must, in carrying out their duty under paragraph (4), have regard to—
+(a)
+whether the asset pool includes funds, liquid assets or insurance policies or guarantees,
+(b)
+the currencies in which funds are held and those in which users or holders have a right to be paid,
+(c)
+whether Objective 1 may be best achieved by changing, at any given time, the currency in which any funds are held,
+(d)
+whether Objective 1 may be best achieved by liquidating, at any given time, liquid assets,
+(e)
+the risk of any third party connected with the asset pool failing,
+(f)
+the general risks of fraud, misuse, negligence or poor administration, and
+(g)
+any other matter which the administrator thinks is relevant.
+(6) This regulation does not apply to post-administration receipts (see regulation 16).Objective 1: post-administration receipts
+16.—(1) This regulation applies to relevant funds received by an institution while it is in special administration.
+(2) The administrator may only hold the funds in a relevant funds account which does not (or will not) contain relevant funds held when the institution entered special administration.
+(3) The account mentioned in paragraph (2) includes an account which existed when the institution entered special administration.
+(4) The administrator must promptly return the relevant funds to the user or holder, less any costs incurred by the administrator in returning them.
+(5) Regulations 17 to 34 do not apply to relevant funds to which this regulation applies.Objective 1: determining claim entitlements
+17.—(1) The administrator must, in respect of an asset pool, as soon as reasonably practicable after appointment, determine—
+(a)
+the identity of every user or holder on behalf of whom the institution was required to safeguard relevant funds, and
+(b)
+for each such person, the amount of relevant funds which it was required to safeguard.
+(2) The determination under paragraph (1) must relate to the precise time at which the institution entered special administration.
+(3) The administrator may, where making that determination, have regard to the particulars of—
+(a)
+any transactions involving the institution,
+(b)
+the institution’s internal records or systems,
+(c)
+any payment systems which the institution participates in (whether directly or indirectly),
+(d)
+any internal or external records involving the institution,
+(e)
+any agency, distribution or outsourcing arrangements the institution has entered into, or
+(f)
+any information obtained through the bar date or hard bar date process set out in regulations 20 and 21 respectively.
+(4) Nothing in this regulation prevents an administrator from subsequently revising any determination under paragraph (1), in pursuit of Objective 1.Objective 1: principles of distribution
+18.—(1) A user’s or holder’s entitlement to a distribution of relevant funds from an asset pool must be determined by reference to the amount of relevant funds which that person is entitled to claim against the institution (see regulation 17).
+(2) Regulation 19 makes provision about entitlements to a distribution of relevant funds where there is a shortfall in an asset pool.
+(3) Relevant funds claims are to be paid from an asset pool in priority to all other claims.
+(4) Paragraph (3) is subject to paragraphs (5) and (6) and regulation 21(4) (which relates to late claims).
+(5) Relevant funds claims do not take priority over the costs of distribution.
+(6) Relevant funds claims do not take priority over any third party’s fees and expenses for operating a relevant funds account in so far as the party has a right of set off or a security right against the funds for the fees or expenses.Objective 1: shortfalls in asset pool
+19.—(1) This regulation applies if the administrator becomes aware —
+(a)
+that the amount of relevant funds available for distribution in an asset pool is less than the total amount liable to be paid under relevant funds claims for that asset pool, and
+(b)
+that shortfall cannot be made good—
+(i)
+by taking any of the steps mentioned in regulation 14 (which relates to the constitution of the asset pool), or
+(ii)
+by the resolution of ongoing disputes.
+(2) The administrator must, in making the distribution, ensure that the shortfall referred to in paragraph (1) be borne pro rata by all users or holders for whom the institution holds relevant funds within the asset pool.
+(3) Paragraph (2) is subject to regulations 20 and 21.
+(4) Nothing in this regulation affects any right of a user or holder to claim the shortfall borne under paragraph (2) in other ways (for example as an unsecured creditor).
+(5) An administrator may not, where an electronic money institution has two asset pools (see regulation 20(6) of the EMR 2011), offset any shortfall in one asset pool against any relevant funds or assets held in the other.Objective 1: bar date
+20.—(1) The administrator may, if they think it necessary in order to expedite the return of relevant funds from an asset pool, set a bar date for the submission of relevant funds claims.
+(2) The bar date must be set out in a notice.
+(3) A reasonable time must be given after the notice has been published for persons to be able to calculate and submit relevant funds claims before the bar date.
+(4) The administrator must, as soon as reasonably practicable after the bar date, make a distribution of relevant funds from the asset pool to persons who are entitled to them under their claims.
+(5) The administrator must, so far as is reasonably practicable, include within that distribution any person who submits a late, pre-distribution claim.
+(6) The administrator must, when determining the amount to be distributed, make allowance for any entitlement to the return of relevant funds (by way of a subsequent distribution) which will not be distributed under paragraph (4).
+(7) No payment or part of any payment made to any person in the distribution under paragraph (4) may be recovered for the purpose of meeting a relevant funds claim which is not taken into account in that distribution.
+(8) The restriction in paragraph (7) does not apply where—
+(a)
+relevant funds were returned to a person by the administrator in bad faith in which that person was complicit, or
+(b)
+a person to whom relevant funds were returned is later found to have made a false relevant funds claim.
+(9) The administrator must include a person who makes a late, pre-distribution claim or a late, post-distribution claim in a subsequent distribution from the asset pool if that person would have been included in the distribution under paragraph (4) had their relevant funds claim been submitted earlier.
+(10) In this regulation—
+“late, pre-distribution claim” means a relevant funds claim made after a bar date but before the corresponding distribution under paragraph (4);
+“late, post-distribution claim” means a relevant funds claim made after a bar date and after the corresponding distribution under paragraph (4).Objective 1: hard bar date
+21.—(1) The administrator may, if they think it necessary in order to further expedite the return of relevant funds from an asset pool after setting a bar date under regulation 20, set a hard bar date for the submission of final relevant funds claims.
+(2) The hard bar date must be set out in a notice.
+(3) The administrator may not set a hard bar date without the approval of the court given on application by the administrator.
+(4) The priority afforded to relevant funds claims under the following provisions does not apply to late claims—
+(a)
+regulation 18(3), and
+(b)
+any provision of the safeguarding provisions;
+and no late claim may be founded on a beneficial interest in property.
+(5) Immediately after the hard bar date, any relevant funds held in the asset pool which have not been claimed may also be distributed, in accordance with Objective 1, to users or holders who are entitled to them under their claims made before the hard bar date.
+(6) The administrator must, as soon as reasonably practicable after the hard bar date, make a final distribution of relevant funds from the asset pool to users or holders who are entitled to them under their claims made before the hard bar date.
+(7) Immediately after that final distribution, the ownership of any relevant funds which remain in the asset pool is vested in the institution and the administrator must, as soon as possible, transfer those funds to the institution’s own bank accounts.
+(8) A notice under this regulation must—
+(a)
+specify the hard bar date, and
+(b)
+refer to paragraphs (4) to (6) and explain that (in accordance with paragraph (7)) following the distribution of relevant funds from the asset pool any remaining funds will be transferred to the institution’s own bank accounts.
+(9) In this regulation—
+“late claim” means a relevant funds claim, in response to the setting of a hard bar date, received after the hard bar date;
+“safeguarding provisions” means—
+(a)
+regulation 23 of the PSR 2017, in the case of the following relevant funds—
+(i)
+those received by a payment institution, or
+(ii)
+those received by an electronic money institution for the execution of payment transactions which are not related to the issuance of electronic money, or
+(b)
+regulations 20 to 24 of the EMR 2011, in the case of relevant funds received by an electronic money institution apart from those in paragraph (a)(ii).Objective 1: hard bar date: powers of the court
+22.—(1) On an application under regulation 21(3) for the approval of the court to set a hard bar date the court may—
+(a)
+make an order approving the setting of a hard bar date,
+(b)
+adjourn the hearing of the application conditionally or unconditionally, or
+(c)
+make any other order that the court thinks appropriate.
+(2) The court may make an order under paragraph (1)(a) only if—
+(a)
+it is satisfied that the administrator has taken all reasonable measures to identify and contact persons who may be entitled to the return of relevant funds, and
+(b)
+it considers that, if a hard bar date is set, there is no reasonable prospect that the administrator will receive claims for the return of relevant funds after that date.Objective 1: interest on relevant funds claims
+23.—(1) This regulation applies where—
+(a)
+a debt arises from a liability of the institution to return relevant funds,
+(b)
+the user or holder has not submitted a relevant funds claim or has submitted a relevant funds claim after a hard bar date, and
+(c)
+the user or holder makes a claim for payment of the debt.
+(2) The user or holder is not entitled to interest on the debt for the period commencing on the date on which the institution entered special administration, except interest on such part of the debt which remains after deduction of the total amount which the user or holder would have received on a relevant funds claim.Objectives 1 and 3: transfer arrangements: overview
+24.—(1) This regulation and regulations 25 to 34 make provision for where there is a transfer arrangement.
+(2) A transfer arrangement (“TA”) is a binding arrangement in pursuit of Objective 1 (whether or not also in pursuit of Objective 3) with another institution which transfers to that institution (“the transferee”)—
+(a)
+all or some of the property, rights and liabilities of the institution in special administration, and
+(b)
+all or some of the relevant funds held by the institution in special administration such that the transferee becomes the payment institution or electronic money institution in respect of those funds.
+(3) A partial property transfer arrangement (“PPTA”) is any TA which does not transfer all of the property, rights and liabilities of, and relevant funds held by, the institution.
+(4) Regulations 25 to 28 make provision about TAs.
+(5) Regulations 29 to 34 make further provision about PPTAs.
+(6) In this regulation and regulations 25 to 34, a reference to the rights and liabilities of an institution or to rights and liabilities under a PS or EMI contract in relation to property held by the institution on trust (however arising) includes—
+(a)
+the legal and beneficial interest of the institution in the property, and
+(b)
+the powers and obligations of the institution acting as a trustee of the property.Objectives 1 and 3: TAs: Conditions 1 to 3
+25.—(1) The administrator may not enter into the TA unless all of Conditions 1 to 3 are met.
+(2) Condition 1 is that the arrangement includes such provision as the administrator thinks necessary to ensure that users or holders whose relevant funds are to be transferred will be able to exercise their rights in relation to those funds as soon as reasonably practicable after the transfer.
+(3) Condition 2 is that the institution has obtained a contractual undertaking from the transferee that the transferee will—
+(a)
+safeguard the relevant funds to be transferred, and
+(b)
+after the transfer, safeguard any further relevant funds of users or holds whose relevant funds, rights or liabilities under PS or EMI contracts were transferred.
+(4) Paragraph (3) applies even if the transferee is a small payment institution or a small electronic money institution.
+(5) Condition 3 is that the institution has obtained a contractual undertaking from the transferee that the transferee will, within a period of 14 days beginning with the day on which the arrangement is entered into, notify the persons in paragraph (6) of the matters in paragraph (7).
+(6) The persons who must be notified are—
+(a)
+the users or holders whose relevant funds are to be transferred,
+(b)
+any agents of the institution, and
+(c)
+in the case of electronic money institutions, any distributors of the institution.
+(7) The notice must—
+(a)
+explain the undertaking given in accordance with paragraph (3), and
+(b)
+in the case of a PPTA, explain the right to a reverse transfer in accordance with regulation 30.
+(8) Regulation 29(1) to (3) contains a further condition (Condition 4) for PPTAs.Objectives 1 and 3: TAs: effect
+26.—(1) The transfer of any of the following under the TA has effect, despite the existence of any matter mentioned in paragraph (2)—
+(a)
+relevant funds;
+(b)
+any rights or liabilities under the corresponding PS or EMI contracts;
+(c)
+any rights and liabilities under other PS or EMI contracts for which no relevant funds are held at the time of transfer.
+(2) The matters are—
+(a)
+a restriction affecting what can or cannot be assigned or transferred by the institution (whether generally or by a particular person or particular description of persons),
+(b)
+a requirement (however referred to) to give notice to, or obtain the consent of, any person who is party to the PS or EMI contract,
+(c)
+in the case of a payment institution, a requirement (however referred to) to give notice to, or obtain the consent of any person who is party to a contract under which a person provides agency services to the institution,
+(d)
+in the case of an electronic money institution, a requirement (however referred to) to give notice to, or obtain the consent of any person who is party to a contract under which a person provides agency or distribution services to the institution, or
+(e)
+any entitlement of any person to the return of the relevant funds otherwise than by transfer under the arrangement.
+(3) Paragraphs (1) and (2) are subject to subject to regulation 29(4) and (5).
+(4) In paragraph (2), it does not matter whether a restriction, requirement or entitlement has effect by virtue of a provision contained in a contract or an enactment, or in any other way, subject to paragraph (5).
+(5) In paragraph (2)(a) the reference to a restriction does not include one imposed by—
+(a)
+regulations 20 to 22 of the EMR 2011, or
+(b)
+regulation 23 of the PSR 2017.
+(6) If the TA purports to be one which is not a PPTA despite a possibility that anything purportedly transferred is foreign property (and might not have been effectively transferred), the administrator may assume it is a TA which is not a PPTA and that regulations 29 to 34 do not apply.Objectives 1 and 3: TAs: novation of contracts
+27.—(1) The TA has effect so that contracts falling within Types 1 to 4 are to be read, immediately after the transfer, as if they had been made by the transferee rather than the institution.
+Type Description
+Type 1 PS or EMI contracts which relate to the relevant funds which are transferred.
+Type 2 Other PS or EMI contracts which confer or impose rights or liabilities which are transferred but for which no relevant funds are held at the time of transfer.
+Type 3
+Contracts—
+(a) where the institution is a payment institution which is a party to the contract,
+(b) under which another person provides agency services to that institution, and
+(c) under which that other person provides those services in respect of those users whose relevant funds or rights or liabilities under contracts for payment services are being transferred.
+Type 4
+Contracts—
+(a) where the institution is an electronic money institution which is party to the contract,
+(b) under which another person provides agency or distribution services to that institution, and
+(c) under which that other person provides those services in respect of those users or holders whose relevant funds or rights or liabilities under PS or EMI contracts are being transferred.
+(2) The TA also has effect so that the transferee may, immediately after the transfer, vary the terms of a PS or EMI contract without obtaining the agreement of any person who is party to the contract to the following extent—
+(a)
+to give effect to the TA, and
+(b)
+to ensure that the powers, rights and obligations of the transferee acting as a trustee are exercisable.Objectives 1 and 3: TAs: disclosure of information
+28.—(1) The administrator may, where necessary for the purposes of a TA, disclose to the transferee all information which is, in the administrator’s view, relevant to the transfer of—
+(a)
+relevant funds,
+(b)
+any rights or liabilities under the corresponding PS or EMI contracts,
+(c)
+any rights and liabilities under other PS or EMI contracts for which no relevant funds are held at the time of transfer.
+(2) Paragraph (1) overrides any contractual or other requirement to keep information in confidence.
+(3) Nothing in this regulation requires or authorises a disclosure of information that would contravene the data protection legislation (but in determining whether a disclosure would do so, take into account the duties and powers imposed or conferred by these Regulations).
+(4) “Data protection legislation” has the same meaning as in the Data Protection Act 2018(1) (see section 3(9) of that Act).
+(1)
+2018 c. 12.Objectives 1 and 3: PPTAs: Condition 4 and restrictions
+29.—(1) The administrator may enter a PPTA only if Condition 4 is met (in addition to all of Conditions 1 to 3 in regulation 25).
+(2) Condition 4 is that the administrator is satisfied that no user or holder (or person acting on their behalf) will, pursuant to Objective 1 or 3, subsequently have returned or transferred to them an amount of retained relevant funds less than if the administrator had not entered the PPTA.
+(3) “Retained relevant funds” means any relevant funds held by the institution which are not transferred under the PPTA.
+(4) Regulation 26(1) does not apply to the requirement described in paragraph (2)(b) of that regulation in the case of a PPTA unless—
+(a)
+the PPTA transfers—
+(i)
+all of the relevant funds held by the institution, and
+(ii)
+all of the rights and liabilities under the corresponding PS or EMI contracts, and
+(b)
+the administrator is satisfied that either—
+(i)
+the total amount of relevant funds to be transferred is at least equal to the total amount that the institution is, at the time of transfer, required to safeguard, or
+(ii)
+the transferee has undertaken to make good any shortfall in that amount.
+(5) Regulation 26(1) does not apply to the requirements described in paragraph (2)(c) and (d) of that regulation in the case of a PPTA unless the PPTA transfers—
+(a)
+all of the relevant funds held by the institution,
+(b)
+all of the rights or liabilities under the corresponding PS or EMI contracts, and
+(c)
+all of the rights and liabilities under other PS or EMI contracts for which no relevant funds are held at the time of transfer.Objectives 1 and 3: PPTAs: reverse transfers
+30.—(1) A PPTA must include such provision as the administrator thinks appropriate—
+(a)
+to ensure that a user or holder whose relevant funds are to be transferred by the arrangement will be entitled to demand a transfer back to the institution of any relevant funds which are transferred (“reverse transfer”),
+(b)
+for the identification of relevant funds for the purposes of a reverse transfer, and
+(c)
+to ensure that the transferee is obliged to give effect to the reverse transfer as soon as reasonably practicable after the demand is made.
+(2) A reverse transfer has effect to transfer back to the institution all rights and liabilities under the corresponding PS or EMI contract so far as they have effect in relation to the reverse-transferred relevant funds.
+(3) The administrator must take all steps necessary to give effect to the reverse transfer.Objectives 1 and 3: PPTAs: set-off and netting
+31.—(1) A PPTA may not provide for the transfer of some (but not all) of the protected rights and liabilities (“PRL”) between the institution and—
+(a)
+a user or holder (“U”), or
+(b)
+another person (“P”).
+(2) PRL are—
+(a)
+rights and liabilities which U or P or the institution is entitled to set off or net under a particular set-off arrangement, netting arrangement or title transfer financial collateral arrangement which U or P has entered into with the institution, and
+(b)
+not excluded rights (“ER”) or excluded liabilities (“EL”).
+(3) ER, in relation to rights between U or P and the institution, means “excluded rights” within the meaning of the Banking Act 2009 (Restriction of Partial Property Transfers) Order 2009(1) (see article 1(3)), subject as follows—
+Provision Modification
+Paragraph (a) To be read as if for “relate to a retail deposit” there were substituted “conferred by a PI or EMI contract”.
+Paragraph (b) To be read as if for “relate to a retail liability owed to a banking institution” there were substituted “are conferred, in relation to relevant funds, by an enactment”.
+Paragraphs (c) and (d) Omitted.
+Paragraph (e) To be read as if after “subordinated debt” there were inserted “issued by U or P or the institution”.
+Paragraph (f) To be read as if after “article 3(1)” there were inserted “issued by U or P or the institution”.
+(4) “EL” is to be read in light of paragraph (3).
+(5) It is immaterial whether or not—
+(a)
+the arrangement which permits U or P or the institution to set off or net rights and liabilities also permits U or P or the institution to set off or net rights and liabilities with another person, or
+(b)
+the right of U or P or the institution to set off or net is exercisable only on the occurrence of a particular event.
+(6) A PPTA made in contravention of this regulation does not affect the exercise of the right to set off or net.
+(7) If a PPTA purports to transfer all of the PRL between U or P and the institution despite a possibility that any of the PRL are foreign property (and might not have been effectively transferred), the administrator may assume it is a PPTA which is not subject to the restriction in paragraph (1).
+(8) In this regulation—
+“netting arrangement” has the same meaning as in the IBSAR 2011 (see regulation 10D(6));
+“set-off arrangement” means an arrangement under which two or more debts, claims or obligations can be set off against each other;
+“title transfer financial collateral arrangement” has the same meaning as in the Financial Collateral Arrangements (No 2) Regulations 2003(2) (see regulation 3(1)).
+(1)
+S.I. 2009/322, amended by S.I. 2009/1826, 2018/1394. There are other amending instruments by none is relevant.
+(2)
+S.I. 2003/3226, to which there are amendments not relevant to these Regulations.Objectives 1 and 3: PPTAs: security interests
+32.—(1) This regulation applies where under any binding arrangement one party owes to the other a liability which is secured against any property or rights.
+(2) But this regulation does not apply if the institution entered into the binding arrangement in contravention of—
+(a)
+regulation 21(4) or 22(2) of the EMR 2011,
+(b)
+any authorisation of the institution as a electronic money institution (or variation of that authorisation) under the EMR 2011 (see regulations 5 to 11 of those regulations),
+(c)
+regulation 23(8) of the PSR 2017,
+(d)
+any authorisation of the institution as a payment institution (or variation of that authorisation) under the PSR 2017 (see regulations 5 to 12 of those regulations).
+(e)
+a rule prohibiting such arrangements made by the FCA under the FSMA 2000, or
+(f)
+otherwise than in accordance with the institution’s Part 4A permission within the meaning given by section 55A(5) of the FSMA 2000.
+(3) In paragraph (1), it is immaterial whether or not—
+(a)
+the liability is secured against all or substantially all of the property or rights of a person,
+(b)
+the liability is secured against specified property or rights, or
+(c)
+the property or rights against which the liability is secured are owned by the person who owes the liability.
+(4) A PPTA may not transfer the property or rights against which the liability is secured unless that liability and the benefit of the security are also transferred.
+(5) A PPTA may not transfer the benefit of the security unless the liability which is secured is also transferred.
+(6) A PPTA may not transfer the liability unless the benefit of the security is also transferred.
+(7) If a PPTA purports to be in compliance with paragraphs (4) to (6) despite a possibility that any property, right or liability is foreign property (and might not have been effectively transferred), the administrator may assume the property, rights and liabilities may be transferred in accordance with paragraphs (4) to (6).Objectives 1 and 3: PPTAs capital markets arrangements
+33.—(1) A PPTA may not provide for the transfer of some (but not all) of the property, rights and liabilities which are or form part of a capital market arrangement to which the institution is a party (“CMPRL”).
+(2) But paragraph (1) does not apply where the only property, rights and liabilities which are or are not transferred relate to deposits.
+(3) If a PPTA purports to transfer all of the CMPRL despite a possibility that any of them are foreign property (and might not have been effectively transferred), the administrator may assume it is a PPTA which is not subject to the restriction in paragraph (1).
+(4) In this regulation—
+“capital market arrangement” has the meaning given by paragraph 1 of Schedule 2A to the IA 1986(1);
+“deposit” has the same meaning as in article 5 of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001(2), disregarding the exclusions in other articles of that Order.
+(1)
+Paragraph 1 was amended by S.I. 2003/2093.
+(2)
+S.I. 2001/544, amended by S.I. 2002/682. There are other amending instruments but none is relevant.Objectives 1 and 3: PPTAs: financial markets
+34.—(1) A PPTA may not transfer property, rights and liabilities to the extent that doing so would have the effect of modifying, modifying the operation of, or rendering unenforceable—
+(a)
+a market contract;
+(b)
+the default rules of the Payment Systems Regulator; or
+(c)
+any rules of the Payment Systems Regulator not dealt with under its default rules.
+(2) A PPTA is void in so far as it is made in contravention of this regulation.
+(3) In this regulation—
+“default rules” has the same meaning as in the Companies Act 1989(1) (see section 188 of that Act);
+“market contract” has the same meaning as in the FSMA 2000 (see section 286(4) of that Act).
+(1)
+1989 c. 40.Objective 2: engagement: payment systems, market disruption and consumer protection
+35.—(1) The administrator must work with payment system operators—
+(a)
+to facilitate the operation of their rules or arrangements,
+(b)
+to resolve issues arising from the operation of those rules or arrangements, and
+(c)
+to facilitate the transfer, settlement or prompt cancellation of non-settled payments,
+in respect of the institution.
+(2) The administrator must also work with the Payment Systems Regulator and the Authorities to facilitate any actions they propose to take—
+(a)
+to minimise the disruption of businesses and the markets, or
+(b)
+to secure an appropriate degree of protection for users or holders,
+as a consequence of a special administration order being made in respect of the institution.
+(3) In this regulation “work with” means—
+(a)
+to comply, as soon as reasonably practicable, with a written request from a payment systems operator, the Payment Systems Regulator or any of the Authorities for the provision of information or the production of documents (in whatever format) relating to the institution, and
+(b)
+to allow any of those persons, on reasonable request, access to the facilities, staff and premises of the institution.
+(4) But nothing in this regulation requires the administrator to take action to the extent that, in their opinion, it would lead to a material reduction in the value of the property of the institution.
+(5) If the administrator receives a request under paragraph (1) from a payment system operator based overseas, no action needs to be taken to the extent that it conflicts with a request from any of the Authorities or the Payment Systems Regulator.
+(6) Where a payment system operator has made a request under paragraph (1) and the administrator, in pursuit of Objective 2, reasonably requires information in connection with this, the operator must provide the administrator with the information.
+(7) Nothing in this regulation requires the administrator, a payment systems operator, the Payment Systems Regulator or any of the Authorities to provide any information—
+(a)
+which they would be entitled to refuse to provide on grounds of legal professional privilege in proceedings in the High Court or on grounds of confidentiality of communications in the Court of Session, or
+(b)
+if such provision by the person holding it would be prohibited by or under any enactment.Continuity of supply
+36.—(1) This regulation applies where, before the special administration order is made, the institution had entered into arrangements with a supplier for the provision of a supply to the institution.
+(2) After the special administration order is made, the supplier—
+(a)
+may not terminate a supply unless—
+(i)
+any charges in respect of the supply, being charges for a supply given after the special administration order is made, remain unpaid for more than 28 days,
+(ii)
+the administrator consents to the termination, or
+(iii)
+the supplier has the permission of the court, which may be given if the supplier can show that the continued provision of the supply would cause the supplier to suffer hardship, and
+(b)
+may not make it a condition of a supply, or do anything which has the effect of making it a condition of the giving of a supply, that any outstanding charges in respect of the supply, being charges for a supply given before the special administration order is made, are paid.
+(3) Where, before the special administration order is made, a contractual right to terminate a supply has arisen but has not been exercised, then, for the purposes of this regulation, the making of the special administration order causes that right to lapse and the supply may only be terminated if a ground in paragraph (2)(a) applies.
+(4) Any provision in a contract between the institution and the supplier that purports to terminate the agreement if any action is taken to put the institution into special administration is void.
+(5) Any expenses incurred by the institution on the provision of a supply after the special administration order is made are to be treated as necessary disbursements in the course of the special administration.
+(6) In this regulation—
+“accredited network provider” means a person accredited with a relevant system who operates a secure data network through which the institution communicates with the relevant system;
+“relevant system” has the meaning set out in regulation 2(1) of the Uncertificated Securities Regulations 2001(1),
+“sponsoring system participant” has the meaning set out in regulation 3 of the Uncertificated Securities Regulations 2001 (in the definition of “system participant”),
+“supplier” means the person controlling the provision of a supply to the institution under a licence, sub-licence or other arrangement, and includes a company that is a group undertaking (within the meaning of section 1161(5) of the CA 2006) in respect of the institution, but does not include payment system operators;
+“supply” means a supply of—
+(a)
+services relating to the safeguarding of relevant funds;
+(b)
+computer hardware or software or other hardware used by the institution,
+(c)
+financial data,
+(d)
+infrastructure permitting electronic communication services,
+(e)
+data processing,
+(f)
+secure data networks provided by an accredited network provider, or
+(g)
+access to a relevant system by a sponsoring system participant,
+but does not include any services provided for in the contract between the institution and the supplier beyond the provision of the supply.
+(1)
+S.I. 2001/3755, to which there are amendments not relevant to these Regulations.Application of the IA 1986
+37.—(1) The provisions of the IA 1986 mentioned in the first column of the Table apply to special administration as they apply to any other insolvency proceedings, with any modifications shown in the third column.
+(2) This regulation is subject to—
+(a)
+Schedule 1 (which makes provision about how special administration applies to limited liability partnerships), and
+(b)
+Schedule 2 (which makes provision about how special administration applies to partnerships).
+Provision Subject Modifications
+Sections
+Generally (for the provisions of this part of the table mentioned below)
+To be read as if—
+(a) references to a provision of the IA 1986 which is applied and modified by these Regulations were to the provision as applied and modified by these Regulations,
+(b) references to the liquidator were to the administrator,
+(c) references to winding up were to special administration,
+(d) references to winding up by the court were to the imposition of special administration by order of the court,
+(e) references to being wound up under Part 4 or 5 of the IA 1986 were to being in special administration,
+(f) references to the commencement of winding up were to the commencement of special administration,
+(g) references to going into liquidation were to entering special administration,
+(h) references to liquidation or to insolvent liquidation were to special administration,
+(i) references to a winding-up order were to a special administration order, and
+(j) references to a company were to an institution.
+Those general modifications are subject to any specific modifications below.
+Sections 74 and 76–83 Contributories
+Section 167 (and Schedule 4) Powers of the liquidator
+To be read as if—
+(a) in subsection (2) the references to a liquidation committee were to a creditors’ committee;
+(b) a user or holder may also apply to the court under subsection (3);
+(c) in Schedule 4, paragraphs 4 to 10 and 12 were omitted and in paragraph 13, the reference to winding up the company’s affairs and distributing its assets were to pursuing the special administration objectives.
+Section 168(4) Discretion in managing and distributing assets
+Section 176 Preferential charges on goods distrained
+Section 176ZB Application of proceeds of office-holder claims
+Section 176A Unsecured creditors
+Section 178 Disclaimer of onerous property
+Section 179 Disclaimer of leaseholds
+Section 180 Land subject to rent charge
+Section 181 Disclaimer: powers of court
+Section 182 Powers of court (leaseholds)
+Section 183 Effect of execution or attachment (England and Wales) To be read as if subsection (2)(a) were omitted.
+Section 184 Duties of officers To be read as if, in subsection (1), there were no reference to a resolution having been passed for voluntary winding up.
+Section 185 Effect of diligence (Scotland) To be read as if, in the application of subsections (3) to (10) of section 23A of the Bankruptcy (Scotland) Act 2016 (asp 21), the reference to an order of the court awarding winding up were to the making of the special administration order.
+Section 186 Rescission of contracts by the court
+Section 187 Power to make over assets to employees
+Section 193 Unclaimed dividends (Scotland)
+Section 194 Resolutions passed at adjourned meetings To be read as it applied immediately before its repeal by paragraph 46 of Schedule 9 to the SBEEA 2015.
+Section 196 Judicial notice of court documents
+Section 197 Commission for receiving evidence
+Section 198 Court order for examination of persons in Scotland
+Section 199 Costs of application for leave to proceed (Scottish companies)
+Section 206 Fraud in anticipation of winding up To be read as if, in subsection (1), there were no reference to passing a resolution for voluntary winding up.
+Section 207 Transactions in fraud of creditors To be read as if, in subsection (1), there were no reference to passing a resolution for voluntary winding up.
+Section 208 Misconduct in course of winding up
+To be read as if—
+(a) in subsection (1), “whether by the court or voluntarily” were omitted;
+(b) there were no amendment made by paragraph 52 of Schedule 9 to the SBEEA 2015.
+Section 209 Falsification of company’s books
+Section 210 Material omissions from statement
+To be read as if—
+(a) in subsection (1), “whether by the court or voluntarily” were omitted;
+(b) in subsection (2), “or has passed a resolution for voluntary winding up” were omitted.
+Section 211 False representation to creditors
+To be read as if in subsection (1)—
+(a) “whether by the court or voluntarily” were omitted;
+(b) the reference to the company’s creditors included users or holders.
+Section 212 Summary remedy
+Section 213 Fraudulent trading
+Section 214 Wrongful trading To be read as if subsection (6) were omitted.
+Section 215 Proceedings under section 213 or 214
+Section 216 Restriction on re-use of company names
+To be read as if—
+(a) the reference to a liquidating company were to a company in special administration;
+(b) subsections (7) and (8) were omitted.
+Section 217 Personal liability for debts following contravention of section 216 To be read as if subsection (6) were omitted.
+Section 218 Prosecution of delinquent officers and members of company
+To be read as if —
+(a) in subsection (3), the first reference to the official receiver were omitted and the second reference were to the Secretary of State;
+(b) in subsection (5) the reference to subsection (4) were to subsection (3);
+(c) subsections (4) and (6) were omitted.
+Section 219 Obligations arising under section 218 To be read as if, in subsection (1), the reference to section 218(4) were to section 218(3).
+Section 233 Utilities
+Section 233A Further protection of utilities
+Section 234 Getting in the company’s property
+To be read as if —
+(a) for subsection (1) there were substituted—
+“(1) This section applies where a company enters special administration.”;
+(b) the references to the office-holder were references to the administrator.
+Section 235 Co-operation with the administrator
+To be read as if —
+(a) subsections (1) and (4)(b) to (d) were omitted;
+(b) the references to the office-holder were references to the administrator.
+Section 236 Inquiry into company’s dealings
+To be read as if —
+(a) for subsection (1) there were substituted—
+“(1) This section applies where a company enters special administration.”;
+(b) the references to the office-holder were references to the administrator.
+Section 237 Enforcement by the court
+Section 238 Transactions at an undervalue (England and Wales)
+Section 239 Preferences (England and Wales)
+Section 240 Sections 238 and 239: relevant time
+To be read as if —
+(a) in subsection (2)(a), the reference to being unable to pay debts were to be read in accordance with section 93(4) of the BA 2009 (as applied and modified by the EMR 2011 and the PSR 2017);
+(b) sub-paragraphs (1)(d) and (3)(a) to (d) were omitted.
+Section 241 Orders under sections 238 and 239 To be read as if subsections (3A) and (3B) were omitted.
+Section 242 Gratuitous alienations (Scotland)
+Section 243 Unfair preferences (Scotland)
+Section 244 Extortionate credit transactions
+Section 245 Avoidance of floating charges
+To be read as if —
+(a) in subsection (3)(c), the references to administration application and administration order were references to an application for special administration and special administration order respectively;
+(b) in subsection (4)(a) and (b), the reference to being unable to pay debts were to be read in accordance with section 93(4) of the BA 2009 (as applied and modified by the EMR 2011 and the PSR 2017);
+(c) subsections (3)(d) and (5)(a) to (c) were omitted.
+Section 246 Unenforceability of liens
+To be read as if —
+(a) for subsection (1) there were substituted—
+“(1) This section applies where a company enters special administration.”;
+(b) the references to the office-holder were references to the administrator.
+Section 246ZD Power to assign certain causes of action
+To be read as if—
+(a) for subsection (1) there were substituted—
+“(1) This section applies where a company enters special administration.”;
+(b) the references to the office holder were references to the administrator.
+Section 246A Remote attendance at meetings
+To be read as if —
+(a) there were no amendments made by paragraph 54 of Schedule 9 to the SBEEA 2015;
+(b) references to creditors included users or holders.
+Section 246B Use of websites
+Section 386 (and Schedule 6 as read with Schedule 4 to the Pensions Schemes Act 1993) Preferential debts
+Section 387, subsections (1) and (3A) “The relevant date” To be read as if the reference to “administration” were to special administration.
+Section 389 Offence of acting without being qualified
+To be read as if—
+(a) the reference to acting as an insolvency practitioner were to acting as the administrator;
+(b) subsection (2) were omitted.
+Sections 390 to 391T Authorisation and regulation of insolvency practitioners
+To be read as if—
+(a) in section 390, references to acting as an insolvency practitioner were to acting as the administrator;
+(b) in subsection (2) of that section, after “authorised” there were inserted “to act as an insolvency practitioner”;
+(c) an order under section 391 had effect in relation to any provision applied for the purposes of special administration;
+(d) in sections 390A, 390B(1) and (3), 391O(1)(b) and 391R(3)(b), references to authorisation or permission to act as an insolvency practitioner in relation to (or only in relation to) companies, the reference to companies had effect as a reference to companies without modification by this Table.
+(e) in sections 391Q(2)(b) and 391S(3)(e) the references to a company had effect a references to a company without modification by this Table.
+Section 411 Insolvency rules To be read as if, in subsections (1A), (2C) and (3), the reference to Part 2 of the BA 2009 were to a reference to these Regulations.
+Section 414 Fees orders
+To be read as if —
+(a) in subsection (1), the reference to Parts I to VII of this Act were to these Regulations;
+(b) there were no reference to the official receiver.
+Section 423 Transactions defrauding creditors To be read as if subsection (4) were omitted.
+Sections 424 and 425 Transactions defrauding creditors
+Section 426 Co-operation between courts To be read as if references to insolvency law included provisions made by or under these Regulations.
+Sections 430 and 431 (and Schedule 10) Offences
+Section 432 Offences by bodies corporate To be read as if, in subsection (4), there were no provisions of the IA 1986 listed there except for sections 206 to 211.
+Section 433 Statements: admissibility
+Sections 434B–434D Supplementary provisions To be read as if there were no amendments of section 434B made by paragraph 57 of Schedule 9 to the SBEEA 2015.
+Schedule B1
+Generally (for the provisions of this part of the table mentioned below)
+To be read as if—
+(a) references to a provision of the IA 1986 which is applied and modified by these Regulations were to the provision as applied and modified by these Regulations,
+(b) references to the administrator were to the administrator appointed under regulation 7,
+(c) references to administration were to special administration,
+(d) references to an administration order were to a special administration order,
+(e) references to a company were to an institution, and
+(f) references to the purpose of administration were to the special administration objectives.
+Those general modifications are subject to any specific modifications below.
+Paragraph 40(1)(a) Dismissal of pending winding up petition
+Paragraph 42 Moratorium on insolvency proceedings To be read as if sub-paragraphs (4)(a) and (4)(aa) were omitted.
+Paragraph 43 Moratorium on other legal processes
+Paragraph 44(1), (5) and (7) Interim moratorium
+To be read as if—
+(a) sub-paragraph (7) also included a reference to paragraph 44 not preventing or requiring the permission of the court for an application by the FCA for a special administration order;
+(b) sub-paragraph (7)(b) to (d) were omitted.
+Paragraph 45 Publicity
+Paragraph 46 Announcement of administrator’s appointment
+To be read as if —
+(a) in sub-paragraph (3)(a), in addition to obtaining the list of creditors, the administrator were also required to obtain as complete a list as possible of the users or holders of the institution;
+(b) in sub-paragraph (3)(b), the administrator were also required to send a notice of their appointment to each user or holder of whose claim and address the administrator is aware;
+(c) where the special administration application has not been made by the FCA, notice of the administrator’s appointment were also required to be sent under sub-paragraph (5) to the FCA;
+(d) sub-paragraphs (6)(b) and (c) were omitted.
+Paragraph 47 Statement of company’s affairs To be read as if, in sub-paragraph (2), there were also a reference to including particulars of the relevant funds held by the institution.
+Paragraph 48 Statement of company’s affairs
+Paragraph 49 Administrator’s proposals
+To be read as if —
+(a) sub-paragraph (2)(b) were omitted;
+(b) there were no amendment made by paragraph 10(2) of Schedule 9 to the SBEEA 2015;
+(c) in sub-paragraph (4), the administrator were also required to send a copy of the statement of proposals to every user or holder of whose claim the administrator is aware and who the administrator has a means of contacting, and to the FCA;
+(d) the administrator were also required to give notice that the statement of proposals is to be provided free of charge to a payment system operator who applies in writing to a specified address.
+The application of paragraph 49(1) to (3) is subject to regulation 38(6).
+Paragraph 50 Creditors’ meeting
+To be read as if —
+(a) there were no repeal by paragraph 10(3) of Schedule 9 to the SBEEA 2015;
+(b) in sub-paragraph (1), the administrator were also required to summon the users or holders referred to in paragraph 49(4) to the meeting of creditors and to give such users or holders notice under sub-paragraph (1)(b);
+(c) the FCA were empowered to appoint a person to attend a meeting of creditors and make representations as to any matter for decision.
+Paragraph 51 Requirement for initial creditors’ meeting
+To be read as if —
+(a) there were no amendments made by paragraph 10(4) and (5) of Schedule 9 to the SBEEA 2015;
+(b) there were a requirement that each copy of an administrator’s proposals sent to a user or holder or the FCA under paragraph 49 be accompanied by an invitation to the initial creditors’ meeting.
+The application of paragraph 51 is subject to regulation 38(6).
+Paragraph 53 Business and result of initial creditors’ meeting
+To be read as if —
+(a) there were no amendments made by paragraph 10(8) to (10) of Schedule 9 to the SBEEA 2015;
+(b) there were a requirement that special administration insolvency rules prescribe how users or holders are to vote at meetings of creditors;
+(c) in sub-paragraph (2), if the FCA has not appointed a person to attend the meeting, the administrator were also required to report any decision taken to the FCA.
+The application of paragraph 53 is subject to regulation 38(6).
+Paragraph 54 Revision of administrator’s proposals
+To be read as if —
+(a) there were no amendments made by paragraph 10(11) to (16) of Schedule 9 to the SBEEA 2015;
+(b) if the revision proposed by the administrator affects both creditors and users or holders, every reference to creditors included users or holders;
+(c) if the administrator thinks that the revision proposed only affects either creditors or users or holders, it only applied to the affected party and required the party not affected to be informed of the revision;
+(d) the FCA were required to be invited to the creditors’ meeting mentioned in sub-paragraph (2)(a);
+(e) the statement of the proposed revision mentioned in sub-paragraph (2)(b) were also required to be sent to the FCA.
+The application of paragraph 54 is subject to regulation 38(6).
+Paragraph 55 Failure to obtain approval of administrator’s proposals
+To be read as if —
+(a) there were no amendment made by paragraph 10(17) of Schedule 9 to the SBEEA 2015;
+(b) in making an order under sub-paragraph (2) the court were required to have regard to the special administration objectives;
+(c) sub-paragraph (2)(d) were omitted.
+The application of paragraph 55 is subject to regulation 38(6).
+Paragraph 56 Further creditors’ meetings
+To be read as if —
+(a) there were no amendments made by paragraph 10(18) to (20) of Schedule 9 to the SBEEA 2015;
+(b) the administrator were required to invite the FCA to any meeting summoned.
+Paragraph 57 Creditors’ committee
+To be read as if —
+(a) there were no amendment made by paragraph 10(21) of Schedule 9 to the SBEEA 2015;
+(b) a creditors’ committee were only able to be established by a creditors’ meeting to which creditors and users or holders have both been given notice;
+(c) the FCA were empowered to appoint a person to attend a meeting of the creditors’ committee and make representations as to any matter for decision;
+(d) there were a requirement that special administration insolvency rules prescribe that, where a meeting of creditors resolves to establish a creditors’ committee, the makeup of the creditors’ committee is a reflection of all parties with an interest in the achievement of the special administration objectives.
+Paragraph 58 Correspondence instead of creditors’ meeting To be read as it applied immediately before its repeal by paragraph 10(22) of Schedule 9 to the SBEEA 2015.
+Paragraph 59 Functions of an administrator
+To be read as if—
+(a) in sub-paragraph (1) the administrator’s power were to do anything necessary or expedient in pursuit of Objectives 1 to 3;
+(b) in sub-paragraph (2) the reference to a provision of the Schedule expressly permitting the administrator to do a specified thing included a provision of these Regulations expressly permitting the administrator to do a specified thing;
+(c) at the end there were inserted—
+“(4) The administrator is an officer of the court.”
+Paragraph 60 (and Schedule 1 to the IA 1986) General powers
+Paragraph 61 Directors
+Paragraph 62 Power to call meetings
+To be read as if —
+(a) there were no amendment made by paragraph 10(23) of Schedule 9 to the SBEEA 2015;
+(b) the administrator were also empowered to call a meeting of users or holders or contributories.
+Paragraph 63 Application to court for directions
+Paragraph 64 Management powers
+Paragraph 65 Distribution to creditors To be read as if sub-paragraph (3) were omitted in respect of England and Wales.
+Paragraph 66 Payments
+Paragraph 67 Property
+Paragraph 68 Management
+To be read as if references to proposals approved under paragraphs 53 or 54 included, without need for approval—
+(a) proposals agreed with the FCA under 39 or 40; or
+(b) proposals in respect of which the court has made an order dispensing with the need for agreement in accordance with those regulations.
+Paragraph 69 Agency
+Paragraph 70 Floating charge
+Paragraph 71 Non-floating charge
+Paragraph 72 Hire purchase property
+Paragraph 73 Protection for secured or preferential creditors To be read as if sub-paragraph (2)(d) were omitted.
+Paragraph 74 Challenge to administrator’s conduct
+To be read as if —
+(a) there were no amendment made by paragraph 10(24) of Schedule 9 to the SBEEA 2015;
+(b) the FCA were also empowered to make an application to the court, on the grounds that—
+(i) the administrator is acting or has acted so as unfairly to harm the interests of some or all of the members, creditors or users or holders;
+(ii) the administrator is proposing to act in a way which would unfairly harm the interests of some or all of the members, creditors or users or holders;
+(iii) the administrator has failed to carry out a reconciliation in accordance with regulation 13;
+(c) a user or holder were also empowered to make an application to the court under sub-paragraph (1) or (2);
+(d) any of the following persons were also empowered to make an application on the grounds that the administrator is not taking any action in response to a request from that person under regulation 35(3) and that the person is of the opinion that the action requested would not lead to a material reduction in the value of the property of the institution—
+(i) the Bank of England;
+(ii) the Treasury;
+(iii) the FCA;
+(iv) the Payment Systems Regulator;
+(e) the following persons were also empowered to make an application on the grounds that the administrator has made, or proposes to make, a PPTA in contravention of 32 or 34—
+(i) the Bank of England;
+(ii) the FCA;
+(f) any person, other than the institution, who is party to an arrangement of a kind referred to in regulation 31(1) were also empowered to make an application on the grounds that the administrator has made, or proposes to make, a relevant transfer in contravention of that regulation;
+(g) where an application is made on the grounds that the administrator has made a relevant transfer in contravention of regulation 34—
+(i) sub-paragraphs (3)(a), (d) and (e) and (4) were omitted;
+(ii) the court were also empowered to make an order declaring that the transfer was made in contravention of the regulation concerned;
+(h) where an application is made on the grounds that the administrator has made a relevant transfer in contravention of regulation 32 or 33, the court were also empowered to make such order as it thinks fit for restoring the position to what it would have been if the transfer had not been made in contravention of the regulation concerned;
+(i) where the FCA has given a direction under regulation 38 which has not been withdrawn, the court did not have power to make an order if it would impede or prevent compliance with the direction.
+Paragraph 75 Misfeasance To be read as if a user or holder and the FCA were included in the list of persons who may make an application under sub-paragraph (2).
+Paragraph 79 Court ending administration on application of administrator To be read as if sub-paragraph (2) were omitted.
+Paragraph 81 Court ending administration on application of a creditor To be read as if it did not apply where the administrator was appointed by the court on the application of the FCA or the Secretary of State.
+Paragraph 84 Termination: no more relevant funds for distribution
+To be read as if—
+(a) the administrator were only empowered to send a notice under sub-paragraph (1) if the institution no longer holds relevant funds;
+(b) there were no amendment made by paragraph 10(33) of Schedule 9 to the SBEEA 2015;
+(c) in sub-paragraph (5)(b), a copy of the notice were also required to be sent be sent to every user or holder of the institution of whom the administrator is aware and the FCA.
+Paragraph 85 Discharge of administration order
+Paragraph 86 Notice to Companies Registrar at the end of administration
+Paragraph 87 Resignation
+To be read as if —
+(a) where the administrator was appointed by the court on the application of the FCA or the Secretary of State, the notice of the resignation given in accordance with sub-paragraph (2)(a) were also required to be given to the applicant;
+(b) sub-paragraphs (2)(b) to (d) were omitted.
+Paragraph 88 Removal
+Paragraph 89 Disqualification
+To be read as if —
+(a) where the administrator was appointed by the court on the application of the FCA or the Secretary of State, the notice given in accordance with sub-paragraph (2)(a) were also required to be given to the applicant;
+(b) sub-paragraphs (2)(b) to (d) were omitted.
+Paragraph 90 Replacement To be read as if reference to paragraphs 91 to 95 were to paragraph 91 only.
+Paragraph 91 Replacement To be read as if the FCA were included in the list of persons who may make an application to appoint an administrator in sub-paragraph (1) but to whom the restrictions in sub-paragraph (2) apply.
+Paragraph 98 Discharge
+To be read as if —
+(a) there were no amendment made by paragraph 10(38) of Schedule 9 to the SBEEA 2015;
+(b) sub-paragraphs (2)(b) and (ba) and (3) were omitted.
+Paragraph 99 Vacation of office: charges and liabilities
+To be read as if —
+(a) in sub-paragraph (3), the former administrator’s remuneration and expenses incurred in respect of the pursuit of Objective 1 are to be charged on and payable out of relevant funds;
+(b) in sub-paragraph (4)(b), the reference to any charge arising under sub-paragraph (3) did not include a charge on relevant funds.
+Paragraph 100 Joint and concurrent administrators
+Paragraph 101 Joint and concurrent administrators To be read as if in sub-paragraph (3), the reference to paragraphs 87 to 99 were to paragraphs 87 to 91 and 98 to 99.
+Paragraph 102 Joint and concurrent administrators
+Paragraph 103 Joint and concurrent administrators
+To be read as if —
+(a) in sub-paragraph (2), the reference to paragraph 12(1)(a) to (e) were to regulation 8(1);
+(b) sub-paragraphs (3) to (5) were omitted.
+Paragraph 104 Presumption of validity
+Paragraph 105 Majority decision of directors
+Paragraph 106 (and section 430 of and Schedule 10 to the IA 1986) Fines
+To be read as if —
+(a) there were no amendments made by paragraph 11 of Schedule 9 to the SBEEA 2015;
+(b) sub-paragraph (2)(a), (b) and (l) to (n) was omitted.
+Paragraph 107 Extension of time limit To be read as if, in considering an application under paragraph 107, the court were required to have regard to the special administration objectives.
+Paragraph 108 Extension of time limit
+To be read as if —
+(a) there were no amendments made by paragraph 10(39), (40), (42) and (43) of Schedule 9 to the SBEEA 2015;
+(b) the administrator were also required to obtain consent of those users or holders whose claims amount to more than 50% of the total amount of claims for relevant funds, disregarding the claims of those users or holders who were sent a copy of the statement of proposals but who did not respond to an invitation to give or withhold consent;
+(c) sub-paragraph (3) were omitted.
+Paragraph 109 Extension of time limit
+Paragraph 111 Interpretation
+To be read as if —
+(a) there were no amendment made by paragraph 10(44) of Schedule 9 to the SBEEA 2015;
+(b) the definition of “administrator” and sub-paragraph (1A)(b) and (c) and sub-paragraph (1B) were omitted.
+Paras 112–116 ScotlandFCA direction
+38.—(1) The FCA may direct the administrator to prioritise one or more special administration objectives, subject as follows.
+(2) A direction may only be given if the FCA is satisfied that the giving of the direction is necessary, having regard to the public interest in—
+(a)
+the stability of the financial systems of the United Kingdom,
+(b)
+the maintenance of public confidence in the stability of the financial markets, payment systems and payment services and electronic money sectors of the United Kingdom, or
+(c)
+securing an appropriate degree of protection for users or holders.
+(3) A direction must be given in writing and should set out reasons for giving the direction.
+(4) Before giving a direction the FCA must consult the Treasury and the Bank of England.
+(5) If the FCA thinks that the circumstances that gave rise to the need for it to give a direction have passed, it must withdraw its direction.
+(6) Paragraphs 49(1) to (3), 51, 53, 54 and 55 of Schedule B1 do not apply where the FCA has given a direction under this regulation and the direction has not been withdrawn.Administrator’s proposals in the event of FCA direction
+39.—(1) Where the FCA has given a direction under regulation 38, the administrator must make a statement setting out proposals for achieving the special administration objectives in accordance with the direction.
+(2) The statement must deal with any matters set out in special administration insolvency rules and may include—
+(a)
+a proposal for a voluntary arrangement under Part 1 of the IA 1986, or
+(b)
+a proposal for a compromise or arrangement to be sanctioned under Part 26 or Part 26A of the CA 2006 (arrangements and reconstructions).
+(3) The statement must be agreed with the FCA.
+(4) If the administrator is unable to agree the statement with the FCA, the administrator may apply to the court for directions under paragraph 63 of Schedule B1 as applied and modified by these Regulations.
+(5) Following an application under sub-paragraph (4), the court may—
+(a)
+make an order dispensing with the need for agreement,
+(b)
+adjourn the hearing conditionally or unconditionally, or
+(c)
+make any other order that the court thinks appropriate.
+(6) But the court may make an order under sub-paragraph (5)(a) only if it considers that the proposals set out in the statement are reasonably likely to ensure that the administrator acts in accordance with the direction.
+(7) Where the court makes an order, the administrator must as soon as possible send a copy of the order to the registrar of companies.
+(8) After—
+(a)
+the statement has been agreed with the FCA; or
+(b)
+the court has made an order dispensing with the need for agreement,
+paragraph 49(4) to (8) of Schedule B1 as applied and modified by these Regulations applies to the statement (though the administrator need not send the FCA a copy of the statement of proposals).
+(9) Where, before the FCA gives its direction under regulation 38, a meeting of creditors has approved the statement of proposals in accordance with paragraph 53 of Schedule B1 as applied and modified by these Regulations, that statement of proposals must be ignored for the purposes of regulation 38, this regulation and paragraph 68 of that Schedule.Revision of proposals in the event of FCA direction
+40.—(1) This regulation applies where—
+(a)
+the administrator’s statement of proposals under regulation 39 has been agreed with FCA (or the court has made an order dispensing with the need for agreement),
+(b)
+the administrator proposes a revision to the proposals,
+(c)
+the administrator thinks the revision is substantial, and
+(d)
+the FCA has not withdrawn its direction given under regulation 38.
+(2) The administrator must agree the revised statement with the FCA.
+(3) Regulation 39(4) to (7) applies where the administrator is unable to agree the revised statement with the FCA.
+(4) After the revised statement has been agreed with the FCA (or the court has made an order dispensing with the need for agreement) the administrator must send the revised statement to—
+(a)
+every creditor of the institution of whose claim and address the administrator is aware,
+(b)
+every user or holder of whose claim the administrator is aware and who the administrator has a means of contacting, and
+(c)
+every member of the institution of whose address the administrator is aware.
+(5) The administrator is to be taken to have complied with paragraph (4)(c) if the administrator publishes a notice undertaking to provide a copy of the revised statement free of charge to any member of the institution who applies in writing to a specified address.
+(6) A notice under paragraph (5) must be published.
+(7) The administrator must send a copy of the revised statement to—
+(a)
+the court, and
+(b)
+the registrar of companies.FCA direction withdrawn
+41.—(1) This regulation applies if, after the administrator’s statement of proposals has been agreed with FCA or the court has made an order dispensing with the need for agreement under regulation 39, the direction is then withdrawn.
+(2) If the administrator proposes a revision to the statement of proposals and the administrator thinks that the proposed revision is substantial, then paragraphs 54 and 55 of Schedule B1 apply (as modified by these Regulations).Safeguarding failures: costs of the administration
+42.—(1) Where the administrator considers that failure-related costs have been incurred in consequence of a failure by the institution to safeguard relevant funds (“a default”), the administrator—
+(a)
+must seek the agreement of the creditors’ committee established under paragraph 57 of Schedule B1 as applied and modified by these Regulations to the amount incurred in consequence of the default, or
+(b)
+if there is no creditors’ committee or the administrator is unable to agree that amount with the creditors’ committee, must apply to the court for an order fixing the amount.
+(2) In paragraph (1) “failure” includes where—
+(a)
+a small payment institution, or
+(b)
+in the case of funds received for the execution of payment transactions that are not related to the issuance of electronic money, a small electronic money institution,
+held itself out to be one which voluntarily safeguarded relevant funds but failed to do so.
+(3) On an application under paragraph (1)(b), the court may fix the amount incurred in consequence of the default or dismiss the application on the ground that there was no default or that no failure-related costs have been incurred in consequence of the default.
+(4) Paragraph (5) applies where the creditors’ committee agree an amount incurred in consequence of the default or the court fixes an amount by order.
+(5) Responsibility for the failure-related costs amount is assigned to the institution and the amount is to be paid out of the institution’s assets.
+(6) Where the institution’s assets are insufficient to enable the failure-related costs amount to be met out of those assets, paragraph (5) has effect only in relation to that part of the amount which can be met out of those assets.
+(7) In this regulation—
+“failure-related costs” means costs incurred by the administrator in applying the procedure set out in Schedule B1 as applied and modified by these Regulations for ascertaining particulars of the relevant funds held by the institution, and in taking custody and control of and distributing those funds;
+“failure-related costs amount” means the amount of failure-related costs incurred in consequence of the default as agreed by the creditors’ committee or fixed by the court.Successful rescue
+43.—(1) This regulation applies if the administrator has—
+(a)
+in pursuit of Objective 3, pursued the rescue of the institution as a going concern, and
+(b)
+thinks that this has been sufficiently achieved.
+(2) The administrator must make an application in accordance with paragraph 79 of Schedule B1 as applied and modified by these Regulations.
+(3) An administrator who makes an application referred to in paragraph (2) must send a copy to the FCA.Dissolution or voluntary arrangement
+44.—(1) This section applies if the administrator—
+(a)
+believes that Objectives 1 and 2 have been sufficiently achieved, and
+(b)
+in pursuit of Objective 3, pursues the winding up of the institution in the best interests of the creditors.
+(2) The administrator may—
+(a)
+give a notice in accordance with paragraph 84 of Schedule B1 as applied and modified by these Regulations; or
+(b)
+make a proposal in accordance with Part 1 of the IA 1986 (company voluntary arrangement).
+(3) Part 1 of the IA 1986 applies to a proposal made by an administrator with the modifications in paragraphs (4) to (8).
+(4) Section 3 (consideration of proposals) is to be read as if subsection (2) (and not (1)) applies.
+(5) Section 5(3) (effect of approval) is to be read as if the action that may be taken by a court includes suspension of the special administration order.
+(6) Sections 2 to 6 and 7 have effect without the amendments of those provisions made by paragraphs 2 to 8 of Schedule 9 to the SBEEA 2015 (company voluntary arrangements).
+(7) On the termination of a company voluntary arrangement the administrator may apply to the court to lift the suspension of the special administration order.
+(8) For the purposes of this regulation, references in Part 1 of the IA 1986 to administration include special administration.Special administration order as an alternative order
+45.—(1) On the following the court may instead make a special administration order—
+(a)
+a petition for a winding-up order,
+(b)
+an application for a Schedule B1 administration order, or
+(c)
+an application for an order under regulation 5 of IBSAR 2011.
+(2) But a special administration order may be made under paragraph (1) only on the application of the FCA.Disqualification of directors
+46.—(1) The CDDA 1986 applies to special administration as it applies to any other insolvency proceedings, with the following modifications.
+(2) The CDDA 1986 is to be read as if—
+(a)
+references to a provision of the IA 1986 which is applied and modified by these Regulations were to the provision as applied and modified by these Regulations,
+(b)
+references to liquidation include special administration;
+(c)
+references to the winding up of a company include an institution being subject to a special administration order,
+(d)
+references to becoming insolvent include becoming subject to a special administration order, and
+(e)
+references to a liquidator include an administrator.
+(3) Section 6 is to be read as if paragraph (2) were omitted.
+(4) Section 7A is to be read as if—
+(a)
+the reference to the office-holder were to the administrator,
+(b)
+the reference to insolvency date were to the date on which the special administration order is made, and
+(c)
+subsections (9) to (11) were omitted.
+(5) This regulation is subject to paragraph 7 of Schedule 2.Further provision on special administration: schedules
+47.—(1) Schedule 1 makes further provision about how special administration applies to limited liability partnerships formed under the law of England and Wales.
+(2) Schedule 2 makes further provision about how special administration applies to partnerships formed under the law of England and Wales.
+(3) Schedule 3 makes further provision about how certain other legislation applies to companies in special administration.
+(4) Schedule 4 contains consequential amendments.FSMA 2000, Pt 24: application to payment and electronic money institution insolvency except special administration
+48.—(1) In the PSR 2017, in Schedule 6, for paragraph 9 substitute—
+“9.  The sections of the 2000 Act mentioned in the first column of the Table apply with any modifications shown in the third column.
+Section Subject Modifications
+Generally (for the sections mentioned below)
+To be read as if—
+(a) references to an authorised person or recognised investment exchange were to an authorised payment institution or a small payment institution;
+(b) references to the appropriate regulator, or to the regulator or a regulator, were to the FCA;
+(c) references to creditors included users.
+Section 356 Powers of FCA to participate in proceedings: company voluntary arrangements To be read as if subsections (4) and (5) were omitted.
+Section 357 Powers of FCA to participate in proceedings: individual voluntary arrangements To be read as if subsections (7) and (8) were omitted.
+Section 358 Powers of FCA to participate in proceedings: trust deeds for creditors in Scotland To be read as if subsection (6A) were omitted.
+Section 359 Administration order
+To be read as if—
+(a) subsection (1)(b) were omitted;
+(b) subsection (1)(c) were substituted with—
+“(c) is providing or has provided payment services in contravention of regulation 138(1) of the Payment Services Regulations 2017.”;
+(c) subsection (1A) were omitted;
+(d) in subsection (3)(a), the reference to an agreement were to a contract for payment services;
+(e) subsection (3)(b) and (c) were omitted;
+(f) in subsection (4), the definitions of “agreement, “authorised deposit taker”, “authorised reclaim fund” and “relevant deposit” were omitted;
+(g) subsection (5) were omitted.
+Section 361 Administrators’ duty to report to FCA
+To be read as if—
+(a) in subsection (2)(a) the reference to the general prohibition were to regulation 138(1) of the Payment Services Regulations 2017;
+(b) subsection (2)(b) were omitted;
+(c) subsection (2A) were omitted;
+(d) in subsection (3)(b) the reference to the general prohibition were to regulation 138(1) of the Payment Services Regulations 2017.
+Section 362 Powers of FCA to participate in proceedings
+To be read as if—
+(a) subsection (1)(b) were omitted;
+(b) subsection (1)(c) were substituted with—
+“(c) is providing or has provided payment services in contravention of regulation 138(1) of the Payment Services Regulations 2017.”;
+(c) subsections (7) and (8) were omitted.
+Section 362A Administrator appointed by company or directors To be read as if subsection (2B) were omitted.
+Section 363 Receivership: powers of FCA to participate in proceedings
+To be read as if—
+(a) subsection (1)(b) were omitted;
+(b) subsection (1)(c) were substituted with—
+“(c) is providing or has provided payment services in contravention of regulation 138(1) of the Payment Services Regulations 2017.”;
+(c) subsection (6) were omitted.
+Section 364 Receiver’s duty to report to FCA
+To be read as if—
+(a) in subsection (b), for the words from “carrying” to the end there were substituted “providing or has provided payment services in contravention of regulation 138(1) of the Payment Services Regulations 2017,”;
+(b) in the words after subsection (b), the words from “and,” to the end were omitted.
+Section 365 Voluntary winding up: powers of FCA to participate in proceedings To be read as if subsection (8) were omitted.
+Section 367 Winding-up petitions
+To be read as if—
+(a) subsection (1)(b) were omitted;
+(b) subsection (1)(c) were substituted with—
+“(c) is providing or has provided payment services in contravention of regulation 138(1) of the Payment Services Regulations 2017.”;
+(c) subsection (1A) were omitted;
+(d) in subsection (4) for “an agreement” there were substituted “a contract for payment services”;
+(e) subsection (5) were omitted.
+Section 370 Liquidator’s duty to report to FCA
+To be read as if —
+(a) in subsection (1)(b)(ii), for the words from “carrying” to the end there were substituted “providing or has provided payment services in contravention of regulation 138(1) of the Payment Services Regulations 2017,”;
+(b) in the words after subsection (1)(b), the words from “and,” to the end were omitted;
+(c) in subsection (2)(b), the reference to the general prohibition were to regulation 138(1) of the Payment Services Regulations 2017.
+Section 371 Winding up: powers of FCA to participate in proceedings
+To be read as if —
+(a) subsection (1)(b) were omitted;
+(b) subsection (1)(c) were substituted with—
+“(c) is providing or has provided payment services in contravention of regulation 138(1) of the Payment Services Regulations 2017.”;
+(c) subsections (6) and (7) were omitted.
+Section 372 Bankruptcy: Petitions
+To be read as if —
+(a) subsection (1A) were omitted;
+(b) in subsections (3) and (4), the reference to an agreement, in both places it occurs, were to a contract for payment services;
+(c) in subsections (2) and (6) the reference to subsection (1A), in each place it occurs, were omitted;
+(d) in subsection (7)(b), for the words from “carrying” to the end there were substituted “providing or has provided payment services in contravention of regulation 138(1) of the Payment Services Regulations 2017.”;
+(e) subsection (8) were omitted.
+Section 373 Bankruptcy: insolvency practitioner’s duty to report to FCA
+To be read as if —
+(a) in subsection (1)(b), for the words from “carrying” to the end there were substituted “providing or has provided payment services in contravention of regulation 138(1) of the Payment Services Regulations 2017,”;
+(b) in the words after subsection (1)(b)(ii), the words from “and,” to the end were omitted;
+(c) in subsection (1A)(b), the reference to the general prohibition were to regulation 138(1) of the Payment Services Regulations 2017.
+Section 374 Bankruptcy: powers of FCA to participate in proceedings
+To be read as if —
+(a) in subsection (5)(b), for the words from “carrying” to the end there were substituted “providing or has provided payment services in contravention of regulation 138(1) of the Payment Services Regulations 2017.”;
+(b) in subsection (6)(b), for the words from “carrying” to the end there were substituted “providing or has provided payment services in contravention of regulation 138(1) of the Payment Services Regulations 2017.”;
+(c) subsections (7) and (8) were omitted.
+Section 375 Provisions against debt avoidance: right of FCA to apply for an order
+To be read as if—
+(a) in subsection (1)(a), for the words from “carrying” to the end there were substituted “providing payment services (whether or not in contravention of regulation 138 (1) of the Payment Services Regulations 2017);”;
+(b) in subsection (1)(b) the reference to a regulated activity carried on were to payment services being provided;
+(c) subsection (1A) were omitted;
+(d) in subsection (2) “or subsection (1A)(b) (as the case may be)” were omitted.”.
+(2) In the Electronic Money Regulations 2011, in Schedule 3, for paragraph 7 substitute—
+“7.  The sections of the 2000 Act mentioned in the first column of the Table apply with any modifications shown in the third column.
+Section Subject Modifications
+Generally (for the sections mentioned below)
+To be read as if—
+(a) references to an authorised person or recognised investment exchange were to an electronic money institution;
+(b) references to the appropriate regulator, or to the regulator or a regulator, were to the FCA;
+(c) references to creditors included users or holders.
+Section 356 Powers of FCA to participate in proceedings: company voluntary arrangements To be read as if subsections (4) and (5) were omitted.
+Section 357 Powers of FCA to participate in proceedings: individual voluntary arrangements To be read as if subsections (7) and (8) were omitted.
+Section 358 Powers of FCA to participate in proceedings: trust deeds for creditors in Scotland
+To be read as if subsection (6A) were omitted.
+Section 359 Administration order
+To be read as if—
+(a) subsection (1)(b) were omitted;
+(b) subsection (1)(c) were substituted with—
+“(c) is issuing or has issued electronic money in contravention of regulation 63(1) of the Electronic Money Regulations 2011.”;
+(c) subsection (1A) were omitted;
+(d) in subsection (3)(a), the reference to an agreement were to a contract for electronic money issuance or payment services;
+(e) subsection (3)(b) and (c) were omitted;
+(f) in subsection (4) the definitions of “agreement, “authorised deposit taker”, “authorised reclaim fund” and “relevant deposit” were omitted;
+(g) subsection (5) were omitted.
+Section 361 Administrators duty to report to FCA
+To be read as if—
+(a) in subsection (2)(a) the reference to the general prohibition were to regulation 63(1) of the Electronic Money Regulations 2011;
+(b) subsection (2)(b) were omitted;
+(c) subsection (2A) were omitted;
+(d) in subsection (3)(b) the reference to the general prohibition were to regulation 63(1) of the Electronic Money Regulations 2011.
+Section 362 Powers of FCA to participate in proceedings
+To be read as if—
+(a) subsection (1)(b) were omitted;
+(b) subsection (1)(c) were substituted with—
+“(c) is issuing or has issued electronic money in contravention of regulation 63(1) of the Electronic Money Regulations 2011.”;
+(c) subsections (7) and (8) were omitted.
+Section 362A Administrator appointed by company or directors To be read as if subsection (2B) were omitted.
+Section 363 Receivership: powers of FCA to participate in proceedings
+To be read as if—
+(a) subsection (1)(b) were omitted;
+(b) subsection (1)(c) were substituted with—
+“(c) is issuing or has issued electronic money in contravention of regulation 63(1) of the Electronic Money Regulations 2011.”;
+(c) subsection (6) were omitted.
+Section 364 Receiver’s duty to report to FCA
+To be read as if—
+(a) in subsection (b), for the words from “carrying” to the end there were substituted “issuing or has issued electronic money in contravention of regulation 63(1) of the Electronic Money Regulations 2011,”;
+(b) in the words after subsection (b), the words from “and,” to the end were omitted.
+Section 365 Voluntary winding up: powers of FCA to participate in proceedings
+To be read as if subsection (8) were omitted.
+Section 367 Winding-up petitions
+To be read as if—
+(a) subsection (1)(b) were omitted;
+(b) subsection (1)(c) were substituted with—
+“(c) is issuing or has issued electronic money in contravention of regulation 63(1) of the Electronic Money Regulations 2011.”;
+(c) subsection (1A) were omitted;
+(d) in subsection (4) for “an agreement” there were substituted “a contract for electronic money issuance or payment services”;
+(e) subsection (5) were omitted.
+Section 370 Liquidator’s duty to report to FCA
+To be read as if —
+(a) in subsection (1)(b), for the words from “carrying” to the end there were substituted “issuing or has issued electronic money in contravention of regulation 63(1) of the Electronic Money Regulations 2011,”;
+(b) in the words after subsection (1)(b), the words from “and,” to the end were omitted;
+(c) in subsection (2)(b), the reference to the general prohibition were to regulation 63(1) of the Electronic Money Regulations 2011.
+Section 371 Winding up: powers of FCA to participate in proceedings
+To be read as if —
+(a) subsection (1)(b) were omitted;
+(b) subsection (1)(c) were substituted with—
+“(c) is issuing or has issued electronic money in contravention of regulation 63(1) of the Electronic Money Regulations 2011.”;
+(c) subsections (6) and (7) were omitted.
+Section 372 Bankruptcy: Petitions
+To be read as if —
+(a) subsection (1A) were omitted;
+(b) in subsections (3) and (4), the reference to agreement, in both places it occurs, were to a contract for electronic money issuance or payment services;
+(c) in subsections (2) and (6) the reference to subsection (1A), in each place it occurs, were omitted;
+(d) in subsection (7)(b), for the words from “carrying” to the end there were substituted “issuing or has issued electronic money in contravention of regulation 63(1) of the Electronic Money Regulations 2011.”;
+(e) subsection (8) were omitted.
+Section 373 Bankruptcy: insolvency practitioner’s duty to report to FCA
+To be read as if —
+(a) in subsection (1)(b), for the words from “carrying” to the end there were substituted “issuing or has issued electronic money in contravention of regulation 63(1) of the Electronic Money Regulations 2011,”;
+(b) in the words after subsection (1)(b), the words from “and,” to the end were omitted;
+(c) in subsection (1A)(b), the reference to the general prohibition were to regulation 63(1) of the Electronic Money Regulations 2011.
+Section 374 Bankruptcy: powers of FCA to participate in proceedings
+To be read as if —
+(a) in subsection (5)(b), for the words from “carrying” to the end there were substituted “issuing or has issued electronic money in contravention of regulation 63(1) of the Electronic Money Regulations 2011.”;
+(b) in subsection (6)(b), for the words from “carrying” to the end there were substituted “issuing or has issued electronic money in contravention of regulation 63(1) of the Electronic Money Regulations 2011.”;
+(c) subsections (7) and (8) were omitted.
+Section 375 Provisions against debt avoidance: right of FCA to apply for an order
+To be read as if—
+(a) in subsection (1)(a), for the words from “carrying” to the end there were substituted “issuing electronic money (whether or not in contravention of regulation 63(1) of the Electronic Money Regulations 2011);”;
+(b) in subsection (1)(b), the reference to a regulated activity carried on were to electronic money issuance services being provided;
+(c) subsection (1A) were omitted;
+(d) in subsection (2), “or subsection (1A)(b) (as the case may be)” were omitted.”.Correction of defect in instrument relating to the UK’s withdrawal from the EU and bank recovery and resolution
+49.—(1) In the Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018(1), in Schedule 1, in paragraph 42, omit sub-paragraph (4).
+(2) In consequence of the amendment made by paragraph (1), in the Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020(2), in regulation 76, omit paragraph (4).
+(1)
+S.I. 2018/1394, amended by S.I. 2019/710 and S.I. 2020/1350.
+(2)
+S.I. 2020/1350.Name
+Name
+Two of the Lords Commissioners of Her Majesty’s Treasury
+DateRegulation 47
+SCHEDULE 1
+How special administration applies to English/Welsh LLPs
+1.  This Schedule makes provision about how special administration applies to institutions which are formed as limited liability partnerships under the law of England and Wales.
+2.  In this Schedule, the “LLPR 2001” means the Limited Liability Partnerships Regulations 2001(1).
+3.  The provisions of the IA 1986 mentioned in the first column of the Table apply to institutions which are formed as limited liability partnerships with the further modifications (in addition to any set out in the table in regulation 37) set out in the third column.
+Provision Subject Modifications
+Those mentioned in regulation 5(2) of the LLPR 2001 Those set out in regulation 5(2) of the LLPR 2001 (except regulation 5(2)(f) of those Regulations).
+Section 74 Liability as contributories of present and past members
+To be read as if it were substituted with—
+“74.—(1) When a limited liability partnership goes into special administration, every present and past member of the limited liability partnership is liable to contribute to its assets as follows.
+(2) Where a member has agreed with the other members or with the limited liability partnership, that that member be liable to contribute to the assets of the limited liability partnership in the event that that body goes into liquidation or special administration, that member is liable, to the extent that they have so agreed, to contribute—
+(a)
+to its assets to any amount sufficient for payment of its debts and liabilities;
+(b)
+to the expenses of the special administration;
+(c)
+for the adjustment of the rights of the contributories among themselves.
+(3) A past member shall only be liable under this section if the obligation arising from such agreement in subsection (2) survived them ceasing to be a member of the limited liability partnership.”
+Sections 76–78 Contributories Omitted.
+Section 79 Meaning of “contributory”
+To be read as if—
+(a) in subsection (1) for “every person” there were substituted—
+“every past and present member of the limited liability partnership”;
+(b) at the end of subsection (2), there were inserted—
+“or section 214A (adjustment of withdrawals)”.
+(c) subsection (3) were omitted.
+Section 83 Companies registered under the Companies Act Part XXII, Chapter II Omitted.
+Section 183 Effect of execution or attachment
+Section 187 Power to make over assets to employees Omitted.
+Section 194 Resolutions passed at meetings To be read as if after “contributories” there were inserted “or of the members of a limited liability partnership”.
+Section 214 Wrongful trading To be read as if after subsection (2), “but the court shall not” to the end of the subsection were omitted.
+After section 214 Adjustment of withdrawals The IA 1986 is to be read as if after section 214 there were inserted—
+“214A.—(1) This section has effect in relation to a person (“P”) who is or has been a member of a limited liability partnership where, in the course of the special administration of that limited liability partnership, it appears that subsection (2) of this section applies in relation to P.
+(2) This subsection applies in relation to P if—
+(a)
+within the period of two years ending with the commencement of the special administration, P was a member of the limited liability partnership who withdrew property of the limited liability partnership, whether in the form of a share of profits, salary, repayment of or payment of interest on a loan to the limited liability partnership or any other withdrawal of property, and
+(b)
+it is proved by the administrator to the satisfaction of the court that at the time of the withdrawal P knew or had reasonable ground for believing that the limited liability partnership—
+(i)
+was at the time of the withdrawal unable to pay its debts, or
+(ii)
+would become so unable to pay its debts after the assets of the limited liability partnership had been depleted by that withdrawal taken together with all other withdrawals (if any) made by any members contemporaneously with that withdrawal or in contemplation when that withdrawal was made.
+(3) Where this section has effect in relation to P, the court, on the application of the administrator, may declare that P is to be liable to make such contribution (if any) to the limited liability partnership’s assets as the court thinks proper.
+(4) The court may not make a declaration in relation to P the amount of which exceeds the aggregate of the amounts or values of all the withdrawals referred to in subsection (2) made by P within the period of two years referred to in that subsection.
+(5) The court may not make a declaration under this section with respect to P unless P knew or ought to have concluded that after each withdrawal referred to in subsection (2) there was no reasonable prospect that the limited liability partnership would avoid going into an insolvency procedure under the IA 1986 or special administration.
+(6) For the purposes of subsection (5) the facts which P ought to know or ascertain and the conclusions which P ought to reach are those which would be known, ascertained, or reached by a reasonably diligent person having both—
+(a)
+the general knowledge, skill and experience that may reasonably be expected of a person carrying out the same functions as are carried out by P in relation to the limited liability partnership, and
+(b)
+the general knowledge, skill and experience that P has.
+(7) In this section “member” includes a shadow member.
+(8) In this section a reference to being unable to pay debts is to be read in accordance with section 93(4) of the BA 2009 (as applied and modified by the EMR 2011 and the PSR 2017).
+(9) This section does not limit the effect of section 214.”
+Section 215 Proceedings under section 213 or 214
+To be read as if—
+(a) in subsection (1) for “section 213 or 214” there were substituted “section 213, 214 or 214A”;
+(b) in subsection (2) for “either section” there were substituted “any of those sections”;
+(c) in subsection (4) for “either section” there were substituted “any of those sections”;
+(d) in subsection (5) for “sections 213 and 214” there were substituted “sections 213, 214 or 214A”.
+Section 218 Prosecution of delinquent officers and members of company
+To be read as if—
+(a) in subsection (1), for “officer, or any member, of the company” there were substituted “member of the limited liability partnership”;
+(b) in subsection (3) for “officer of the company, or any member of it,” there were substituted “member of the limited liability partnership”.
+Section 386 of and Schedule 6 (and Schedule 4 to the Pension Schemes Act 1993) Preferential debts
+To be read as if—
+(a) in subsection (1) “or an individual” were omitted;
+(b) in subsection (2) “or the individual” were omitted.
+Section 387 “The relevant date” To be read as if subsections (5) and (6) were omitted.
+Section 432 Offences by bodies corporate To be read as if in subsection (2) “, secretary” were omitted.
+Schedule B1, paragraph 42 Moratorium on insolvency proceedings
+To be read as if for sub-paragraph (2) there were substituted—
+“(2) No determination to wind up the limited liability partnership voluntarily may be made.”
+Schedule B1, paragraph 61 Directors
+To be read as if for paragraph 61 there were substituted—
+“61. The administrator may prevent any person from taking part in the management of the business of the limited liability partnership and may appoint any person to be a manager of that business.”.
+Schedule B1, paragraph 62 Power to call meetings
+To be read as if—
+(a) the existing provision were renumbered as sub-paragraph (1);
+(b) after that sub-paragraph there were inserted—
+“(2) The meeting shall be held in a manner provided by the Payment and Electronic Money Institution Insolvency Regulations 2021, special administration insolvency rules or the limited liability partnership agreement.
+(3) The quorum required for a meeting of the members of the limited liability partnership shall be any quorum required by the limited liability partnership agreement for meetings of the members of the limited liability partnership and if no requirement for a quorum has been agreed upon, the quorum shall be 2 members.”
+Schedule B1, paragraph 91 Replacement To be read as if sub-paragraph (1)(c) were omitted.
+Schedule B1, paragraph 105 Majority decision of directors Omitted.
+4.  The CDDA 1986 as applied and modified by these Regulations applies to institutions which are formed as limited liability partnerships with the further modifications set out in regulation 4(2) of and Part 2 of Schedule 2 to the LLPR 2001.
+5.  The following legislation applies to institutions which are formed as limited liability partnerships with such modifications as the context requires—
+(a)
+to give effect to the IA 1986 as applied and modified by these Regulations—
+(i)
+the Insolvency Practitioners Regulations 2005(2);
+(ii)
+the Insolvency Practitioners (Recognised Professional Bodies) Order 1986(3);
+(iii)
+the Insolvency Proceedings Fees Order 2004(4);
+(iv)
+the Insolvency Practitioners Tribunal (Conduct of Investigations) Rules 1986(5), and
+(b)
+to give effect to the CDDA 1986 as applied and modified by these Regulations and the CA 2006—
+(i)
+the Insolvent Companies (Disqualification of Unfit Directors) Proceedings Rules 1987(6);
+(ii)
+the Uncertificated Securities Regulations 2001;
+(iii)
+the Insolvent Companies (Reports on Conduct of Directors) Rules 1996(7);
+(iv)
+the Insolvent Companies (Reports on Conduct of Directors) (Scotland) Rules 1996(8).
+(1)
+S.I. 2001/190, amended by S.I. 2009/1941. There are other amending instruments by none is relevant.
+(2)
+S.I. 2005/524.
+(3)
+S.I. 1986/1764.
+(4)
+S.I. 2004/593.
+(5)
+S.I. 1986/592.
+(6)
+S.I. 1987/2023.
+(7)
+S.I. 1996/1909.
+(8)
+S.I. 1996/1910.Regulation 47(2)
+SCHEDULE 2
+How special administration applies to English/Welsh partnerships
+1.  This Schedule makes provision about how special administration applies to institutions which are formed as partnerships under the law of England and Wales.
+2.  In this Schedule, the “IPO 1994” means the Insolvent Partnerships Order 1994(1).
+3.  Where an institution is formed as a partnership, then—
+(a)
+in these Regulations, and
+(b)
+in the CDDA 1986 as applied and modified by these Regulations,
+references to the things in the first column of Table 1 are to be read in accordance with the corresponding modification in the second column.
+Table 1
+Reference Modification
+References to companies To be read as if they were to partnerships.
+References to the registrar of companies Omitted.
+References to shares of a company
+To be read as it they were—
+(a) in relation to a partnership with capital, to rights to share in that capital, and
+(b) in relation to a partnership without capital, to interests—
+(i) conferring any right to share in the profits or liability to contribute to the losses of the partnership, or
+(ii) giving rise to an obligation to contribute to the debts or expenses of the partnership in the event of special administration.
+Other references appropriate to companies To be read as if they were to the corresponding persons, officers, documents or organs (as the case may be) appropriate to a partnership.
+4.  Table 2 sets out—
+(a)
+in the first column, versions of provisions of the IA 1986 set out in the IPO 1994 (“IPO 1994 versions”),
+(b)
+in the second column, the subject of each of those versions, and
+(c)
+in the third column, modifications to those versions.
+5.  Each IPO 1994 version in the first column of Table 2 applies to an institution which is formed as a partnership with any corresponding modification in the third column.
+6.  Where there is an entry for an IPO 1994 version in Table 2, that version of the provision of the IA 1986 applies, as modified by Table 2, to an institution which is formed as a partnership, and the entry relating to that provision of the IA 1986 in the table in regulation 37 is to be disregarded.
+Table 2
+Provision (IPO 1994 version) Subject Modifications
+Sections and other provisions except Schedule B1
+Generally (for those sections or other provisions mentioned below except Schedule B1)
+To be read as if references to—
+(a) references to the IA 1986 were to these Regulations,
+(b) references to a provision of the IA 1986 which is applied and modified by these Regulations were to the provision as applied and modified by these Regulations,
+(c) being wound up were to being in special administration;
+(d) office-holder were to the administrator;
+(e) an insolvency order were to a special administration order.
+Schedule 1 (version in Schedule 2, paragraph 43) Powers of administrator To be read as if paragraph 19 were omitted.
+Section 234 (version in Schedule 3, paragraph 9) Getting in the partnership’s property To be read as if the reference in subsection (1) to article 7 of the IPO 1994 were to regulation 10.
+Schedule 4 (version in Schedule 3, paragraph 10) Powers of liquidator in a winding up
+To be read as if—
+(a) paragraphs 4 to 10, and paragraph 12, were omitted;
+(b) in paragraph 13, the reference to winding up the partnership’s affairs and distributing its property were to pursuing the special administration objectives.
+Section 211 (version in Schedule 4, paragraph 25) False representations to creditors
+To be read as if for subsection (1) there were substituted—
+“(1) This section applies where a special administration order is made in respect of an insolvent partnership.”
+Schedule B1
+Generally (for those paragraphs mentioned below)
+To be read as if—
+(a) references to a provision of the IA 1986 which is applied and modified by these Regulations were to the provision as applied and modified by these Regulations;
+(b) references to action included inaction;
+(c) references to the administrator were to the administrator appointed under regulation 7;
+(d) references to the court were to the court as defined in regulation 6;
+(e) references to the creditors’ meeting were to have the meaning given by paragraph 50 of Schedule B1 as applied and modified by these Regulations;
+(f) references to entering administration were to entering special administration;
+(g) references to a hire purchase agreement included a conditional sale agreement, a chattel leasing agreement and a retention of title agreement;
+(h) references to an insolvency order were to a special administration order;
+(i) references to an insolvency petition were to an application for a special administration order;
+(j) references to insolvency proceedings were to special administration;
+(k) references to market value were to the amount which would be realised on a sale of property in the open market by a willing vendor;
+(l) references to the purpose of administration were to the pursuit of the special administration objectives;
+(m) references to partnership were to an institution;
+(n) references to the partnership being in administration were to the institution being in special administration;
+(o) references to a responsible insolvency practitioner were to the administrator;
+(p) references to a thing in writing included a thing in electronic form;
+(q) references to being unable to pay debts were to be read in accordance with section 93(4) of the BA 2009 (as applied and modified by the EMR 2011 and the PSR 2017).
+Paragraph 42 (version in Schedule 2, paragraph 17) Moratorium on insolvency proceedings To be read as if sub-paragraph (5)(a) were omitted.
+Paragraph 43 (version in Schedule 2, paragraph 18) Moratorium on other legal processes To be read as if sub-paragraph (6) were omitted.
+Paragraph 47 (version in Schedule 2, paragraph 19) Statement of company’s affairs To be read as if in sub-paragraph (2), the statement were also required to include particulars of the relevant funds held by the institution.
+Paragraph 49 (version in Schedule 2, paragraph 20) Administrator’s proposals
+To be read as if —
+(a) sub-paragraph (2)(b) were omitted;
+(b) there were no amendment made by paragraph 6(2) of Schedule 2 to the Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017(2);
+(c) in sub-paragraph (4), the administrator were also required to send a copy of the statement of proposals to every user or holder of whose claim the administrator is aware and who the administrator has a means of contacting, and to the FCA;
+(d) the administrator were also required to give notice that the statement of proposals is to be provided free of charge to a payment system operator who applies in writing to a specified address.
+The application of paragraph 49(1) to (3) is subject to regulation 38(6).
+Paragraph 61 (version in Schedule 2, paragraph 22) Directors
+Paragraph 65 (version in Schedule 2, paragraph 23) Distribution to creditors To be read as if sub-paragraph (3) were omitted.
+Paragraph 69 (version in Schedule 2, paragraph 24) Agency
+Paragraph 73 (version in Schedule 2, paragraph 25) Protection for secured or preferential creditors
+Paragraph 74 (version in Schedule 2, paragraph 26) Challenge to administrator’s conduct
+To be read as if —
+(a) there were no amendment made by paragraph 6(4) of Schedule 2 to the Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017;
+(b) the FCA were also empowered to make an application to the court, on the grounds that—
+(i) the administrator is acting or has acted so as unfairly to harm the interests of some or all of the members, creditors or users or holders;
+(ii) the administrator is proposing to act in a way which would unfairly harm the interests of some or all of the members, creditors or users or holders;
+(iii) the administrator has failed to carry out a reconciliation in accordance with regulation 13;
+(c) a user or holder were also empowered to make an application to the court under sub-paragraph (1) or (2);
+(d) any of the following persons were also empowered to make an application on the grounds that the administrator is not taking any action in response to a request from that person under regulation 35(3) and that the person is of the opinion that the action requested would not lead to a material reduction in the value of the property of the institution—
+(i) the Bank of England;
+(ii) the Treasury;
+(iii) the FCA;
+(iv) the Payment Systems Regulator;
+(e) the following persons were also empowered to make an application on the grounds that the administrator has made, or proposes to make, a PPTA in contravention of regulation 32 or 34—
+(i) the Bank of England;
+(ii) the FCA;
+(f) any person, other than the institution, who is party to an arrangement of a kind referred to in regulation 31(1) were also empowered to make an application on the grounds that the administrator has made, or proposes to make, a relevant transfer in contravention of that regulation;
+(g) where an application is made on the grounds that the administrator has made a relevant transfer in contravention of regulation 34—
+(i) sub-paragraphs (3)(a), (d) and (e) and (4) were omitted;
+(ii) the court were also empowered to make an order declaring that the transfer was made in contravention of the regulation concerned;
+(h) where an application is made on the grounds that the administrator has made a relevant transfer in contravention of regulation 32 or 33, the court were also empowered to make such order as it thinks fit for restoring the position to what it would have been if the transfer had not been made in contravention of the regulation concerned;
+(i) where the FCA has given a direction under regulation 38 which has not been withdrawn, the court did not have power to make an order if it would impede or prevent compliance with the direction.
+Paragraph 84 (version in Schedule 2, paragraph 28) Termination: no more relevant funds for distribution
+To be read as if—
+(a) the administrator were only empowered to file a notice under sub-paragraph (1) if the institution no longer holds relevant funds;
+(b) in sub-paragraph (5), a copy of the notice were to be sent to every client of the institution of whom the administrator is aware and the FCA.
+Paragraph 87 (version in Schedule 2, paragraph 29) Resignation
+To be read as if—
+(a) where the administrator was appointed by the court on the application of the FCA or the Secretary of State, the notice given in accordance with sub-paragraph (2)(a) must also be given to the applicant;
+(b) sub-paragraphs (2)(b) and (c) were omitted.
+Paragraph 89 (version in Schedule 2, paragraph 30) Disqualification
+To be read as if—
+(a) where the administrator was appointed by the court on the application of the FCA or the Secretary of State, the notice given in accordance with sub-paragraph (2)(a) were also to be given to the applicant;
+(b) sub-paragraphs (2)(b) and (c) were omitted.
+Paragraph 90 (version in Schedule 2, paragraph 31) Replacement To be read as if the reference to paragraphs 91 to 93 and 95 were to paragraph 91.
+Paragraph 91 (version in Schedule 2, paragraph 32) Replacement To be read as if the FCA were added to the list of persons who may make an application to appoint an administrator but to whom the restrictions in sub-paragraph (2) apply.
+Paragraph 103 (version in Schedule 2, paragraph 38) Joint administrators
+To be read as if—
+(a) in sub-paragraph (2)(a), the reference to paragraph 12(1)(a) to (c) were to regulation 8(1);
+(b) sub-paragraphs (3) and (4) were omitted.
+Paragraph 105 (version in Schedule 2, paragraph 39) Majority decision of directors
+Paragraph 106 (version in Schedule 2, paragraph 40) Fines
+To be read as if—
+(a) sub-paragraph (2)(a), (b), (j) and (k) was omitted.
+Paragraphs 112 to 116 (version in Schedule 2, paragraph 42) Scotland
+7.  Article 16 of the IPO 1994 applies to an institution which is formed as a partnership—
+(a)
+reading article 16 as if the reference to being wound up under the IA 1986 were to entering special administration;
+(b)
+reading the reference to the provisions of the CDDA 1986 as if it were to—
+(i)
+sections 1, 1A, 8A to 10, 15C, 19(c) and 20 of that Act as applied and modified by regulation 46, and
+(ii)
+the versions of sections 5A, 6 to 8ZE, 12C, 13 to 15B and 17 of and Schedule 1 to that Act set out in Schedule 8 to the IPO 1994, reading those versions as if they were modified by regulation 46,
+subject to the further general modifications of the provisions mentioned in paragraphs (i) and (ii) in paragraph 8.
+8.  The general modifications are—
+(i)
+references to a provision of the IA 1986 which is applied and modified by these Regulations are to be read as is they were to the provision as applied and modified by these Regulations;
+(ii)
+references to being wound up are to be read as if they were to the partnership being in special administration;
+(iii)
+references to office-holder are to be read as if they were to the administrator;
+(iv)
+references to an insolvency order are to be read as if they were to a special administration order.
+9.  Article 18 of and Schedule 10 to the IPO 1994 apply to institutions which are formed as partnerships—
+(a)
+reading article 18 as if—
+(i)
+in paragraph (1) from “giving effect” to “this Order” were substituted with “giving effect to the provisions of the IA 1986 and the CDDA 1986 as applied and modified by these Regulations”;
+(ii)
+in paragraph (2) the reference to the IPO 1994 were to these Regulations;
+(b)
+reading Schedule 10 as if the list of legislation included any special administration insolvency rules and the following legislation were omitted—
+The Insolvency Proceedings (Monetary Limits) Order 1986
+The Administration of Insolvent Estates of Deceased Persons Order 1986
+The Insolvency (Amendment of Subordinate Legislation) Order 1986
+The Companies (Disqualification Orders) Regulations 2001
+The Co-operation of Insolvency Courts (Designation of Relevant Countries and Territories) Order 1986
+The Insolvency Practitioners and Insolvency Services Accounts (Fees) Order 2003
+The Insolvency Proceedings (Fees) Order 2004.
+(1)
+S.I. 1994/2421, amended by S.I. 2005/1516, 2013/472, 2014/3486, 2017/540, 2017/1119, 2018/1244. There are other amending instruments but none is relevant.
+(2)
+S.I. 2017/540.Regulation 47(3)
+SCHEDULE 3
+Further provision about how other legislation applies to companies in special administration
+Introduction
+1.  This Schedule makes further provision about how certain other legislation applies to companies entering or being in special administration.
+General modifications
+2.  The following legislation applies with the modifications in paragraph 3.
+Primary Legislation
+Taxes Management Act 1970(1)
+Prescription and Limitation (Scotland) Act 1973(2)
+Companies Act 1985(3)
+Finance Act 1986(4)
+Debtors (Scotland) Act 1987(5)
+Companies Act 1989(6)
+Taxation of Chargeable Gains Act 1992(7)
+Pension Schemes Act 1993(8)
+Pensions Act 1995(9)
+Proceeds of Crime (Scotland) Act 1995(10)
+Employment Rights Act 1996(11)
+Terrorism Act 2000(12)
+Finance Act 2000(13)
+International Criminal Court Act 2001(14)
+International Criminal Court (Scotland) Act 2001(15)
+Proceeds of Crime Act 2002(16)
+Debt Arrangement and Attachment (Scotland) Act 2002(17)
+Finance Act 2003(18)
+Pensions Act 2004(19)
+Companies Act 2006 (except section 1078 does not apply)(20)
+Bankruptcy and Diligence (Scotland) Act 2007(21)
+Finance Act 2008(22)
+Dormant Bank and Building Society Accounts Act 2008(23)
+Corporation Tax Act 2009(24)
+Corporation Tax Act 2010(25)
+Taxation (International and other Provisions) Act 2010(26)
+Secondary Legislation
+Statutory Maternity Pay (General) Regulations 1986(27)
+Insolvent Companies (Disqualification of Unfit Directors) Proceedings Rules 1987(28)
+Financial Markets and Insolvency Regulations 1991(29)
+Insolvency Regulations 1994(30)
+Non-Domestic Rating (Unoccupied Property) (Scotland) Regulations 1994(31)
+Insolvent Companies (Reports on Conduct of Directors) Rules 1996(32)
+Financial Markets and Insolvency Regulations 1996(33)
+Individual Savings Account Regulations 1998(34)
+Corporation Tax (Simplified Arrangements for Group Relief) Regulations 1999(35)
+Financial Markets and Insolvency (Settlement Finality) Regulations 1999(36)
+Statutory Paternity Pay and Statutory Adoption Pay (General) Regulations 2002(37)
+Financial Collateral Arrangements (No 2) Regulations 2003(38)
+Insolvency Practitioners Regulations 2005(39)
+Pension Protection Fund (Entry Rules) Regulations 2005(40)
+Gender Recognition (Disclosure of Information) (England, Wales and Northern Ireland) (No 2) Order 2005(41)
+Gender Recognition (Disclosure of Information) (Scotland) Order 2005(42)
+Financial Assistance Scheme Regulations 2005(43)
+Land Registration (Scotland) Rules 2006(44)
+Companies (Cross-Border Mergers) Regulations 2007(45)
+Regulated Covered Bonds Regulations 2008(46)
+Company, Limited Liability Partnership and Business (Names and Trading Disclosures) Regulations 2015(47)
+Land Registration (Network Access) Rules 2008(48)
+Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008(49)
+Registrar of Companies (Fees) (Companies, Overseas Companies and Limited Liability Partnerships) Regulations 2009(50)
+Companies (Disclosure of Address) Regulations 2009(51)
+Additional Statutory Paternity Pay (General) Regulations 2010(52)
+Statutory Parental Bereavement Pay (General) Regulations 2020(53)
+3.  References to—
+(a)
+a Schedule B1 administrator are to be read as if they were to an administrator appointed under regulation 7;
+(b)
+Schedule B1 administration or insolvent administration are to be read as if they were to special administration;
+(c)
+a Schedule B1 administration order are to be read as if they were to a special administration order;
+(d)
+insolvency legislation, the general law of insolvency, the enactments relating to insolvency and similar expressions are to be read as if they were to special administration and the provisions of the IA 1986 as applied and modified by these Regulations;
+(e)
+becoming insolvent and an insolvency event occurring are to be read as if they were to being put into special administration;
+(f)
+insolvency proceedings or an insolvency procedure are to be read as if they were to special administration;
+(g)
+winding up, being wound up, wound up by the court, going into liquidation and compulsory liquidation are to be read as if they were to being put into special administration;
+(h)
+a winding-up order are to be read as including a special administration order (and, in this context, references to a liquidator are to be read as if they were to an administrator);
+(i)
+a person acting as an insolvency practitioner within the meaning of section 388 of the IA 1986 are to be read as if they were to a person acting as an administrator under these Regulations;
+(j)
+the provisions of the IA 1986 are to be read as if they were to those provisions as applied and modified by these Regulations; and
+(k)
+the provisions of—
+(i)
+the Insolvency (England and Wales) Rules 2016(54),
+(ii)
+the Insolvency (Scotland) (Company Voluntary Arrangements and Administration) Rules 2018(55), and
+(iii)
+the Insolvency (Scotland) (Receivership and Winding up) Rules 2018(56),
+are to be read as if they were to the provisions of special administration insolvency rules;
+(l)
+insolvency or liquidation within the meaning of section 247 of the IA 1986 are to be read as if they were to special administration;
+(m)
+the purposes of the IA 1986 are to be read as if they were to the purposes of these Regulations.
+Pensions Act 2004
+4.  In the Pensions Act 2004(57), in section 121(3)(d), the reference to entering administration within the meaning of paragraph 1(2)(b) of Schedule B1 to the IA 1986 is to be read as if it were to entering special administration.
+CA 2006
+5.  In the CA 2006—
+(a)
+in section 461—
+(i)
+subsection (4)(c) is to be read as if it included these Regulations in the list of enactments in that subsection;
+(ii)
+subsection (4)(g) is to be read as if it included these Regulations in the list of enactments in that subsection;
+(b)
+in Part 35, references to the IA 1986 are to be read as if they included that Act as applied and modified by these Regulations;
+(c)
+sections 1139 and 1140 are, where an application is made to the court for—
+(i)
+a special administration order, or
+(ii)
+the appointment of a person under section 135 of the IA 1986,
+to be read as if they were subject to the provisions for service set out in special administration insolvency rules;
+(d)
+in Schedule 2, in Part 2, under heading A—
+(i)
+paragraph 13 is to be read as if it included these Regulations in the list of enactments in that paragraph, and
+(ii)
+paragraph 37 is to be read as if it included these Regulations in the list of enactments in that paragraph;
+(e)
+in Schedule 11A, in Part 2—
+(i)
+paragraph 30 is to be read as if it included these Regulations in the list of enactments in that paragraph, and
+(ii)
+paragraph 52 is to be read so as to include these Regulations in the list of enactments in that paragraph.
+Land Registration Rules 2003
+6.  In the Land Registration Rules 2003(58), rule 184(1) is to be read as if the reference to administration were to special administration.
+(1)
+1970 c. 9.
+(2)
+1973 c. 52.
+(3)
+1985 c. 6.
+(4)
+1986 c. 41.
+(5)
+1987 c. 18.
+(6)
+1989 c. 40.
+(7)
+1992 c. 12.
+(8)
+1993 c. 48.
+(9)
+1995 c. 26.
+(10)
+1995 c. 43.
+(11)
+1996 c. 18.
+(12)
+2000 c. 11.
+(13)
+2000 c. 17.
+(14)
+2001 c. 17.
+(15)
+2001 asp 13.
+(16)
+2002 c. 29.
+(17)
+2002 asp 17.
+(18)
+2003 c. 14.
+(19)
+2004 c. 35.
+(20)
+2006 c. 46.
+(21)
+2007 asp 3.
+(22)
+2008 c. 9.
+(23)
+2008 c. 31.
+(24)
+2009 c. 4.
+(25)
+2010 c. 4.
+(26)
+2010 c. 8.
+(27)
+S.I. 1986/1960.
+(28)
+S.I. 1987/2023.
+(29)
+S.I. 1991/880.
+(30)
+S.I. 1994/2507.
+(31)
+S.I. 1994/3200.
+(32)
+S.I. 1996/1909.
+(33)
+S.I. 1996/1469.
+(34)
+S.I. 1998/1870.
+(35)
+S.I. 1999/2975.
+(36)
+S.I. 1999/2979.
+(37)
+S.I. 2002/2822.
+(38)
+S.I. 2003/3226.
+(39)
+S.I. 2005/524.
+(40)
+S.I. 2005/590.
+(41)
+S.I. 2005/916.
+(42)
+S.S.I. 2005/125.
+(43)
+S.I. 2005/1986.
+(44)
+S.S.I. 2006/485.
+(45)
+S.I. 2007/2974.
+(46)
+S.I. 2008/346.
+(47)
+S.I. 2015/17.
+(48)
+S.I. 2008/1748.
+(49)
+S.I. 2008/1911.
+(50)
+S.I. 2009/2101.
+(51)
+S.I. 2009/214.
+(52)
+S.I. 2010/1056.
+(53)
+S.I. 2020/233.
+(54)
+S.I. 2016/1024.
+(55)
+S.S.I. 2018/1082.
+(56)
+S.S.I. 2018/347.
+(57)
+2004 c. 35.
+(58)
+S.I. 2003/1417.Regulation 47(4)
+SCHEDULE 4
+Consequential amendments
+PART 1
+Primary legislation
+The Companies Act 1985
+1.  In the Companies Act 1985(1), in Schedule 15D, after paragraph 9(g) insert—
+“(h)
+the Payment and Electronic Money Institution Insolvency Regulations 2021.”(2).
+The Finance Act 1986
+2.—(1) The Finance Act 1986(3) is amended as follows.
+(2) In section 80D, in subsection (9), omit the “or” at the end of paragraph (ha) and after that paragraph insert—
+“(hb)
+if a special administration order takes effect under the Payment and Electronic Money Institution Insolvency Regulations 2021, or”.
+(3) In section 89AB, in subsection (9), omit the “or” at the end of paragraph (ha) and after that paragraph insert—
+“(hb)
+if a special administration order takes effect under the Payment and Electronic Money Institution Insolvency Regulations 2021, or”.
+The Third Parties (Rights against Insurers) Act 2010
+3.  In the Third Parties (Rights against Insurers) Act 2010(4), in Schedule A1, in the List of Enactments, under the heading “Financial Services”, at the appropriate place insert—
+“Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/[ ])”.
+PART 2
+Secondary legislation
+The EMR 2011
+4.—(1) The EMR 2011 are amended as follows.
+(2) In regulation 22, in paragraph (3)—
+(a)
+at the appropriate places insert —
+““electronic money institution special administration” has the same meaning as in the Payment and Electronic Money Institution Insolvency Regulations 2021 (see regulation 4(3));”;
+““investment bank special administration” has the same meaning as in the Investment Bank Special Administration Regulations 2011 (see regulation 3(1) of those Regulations).”;
+(b)
+in the definition of “insolvency event”, omit the “or” at the end of paragraph (k) and after paragraph (l) insert—
+“;
+(m)
+the entry of the institution into payment institution special administration; or
+(n)
+the entry of the institution into investment bank special administration.”.
+(3) In regulation 24—
+(a)
+in the heading, at the end insert “(except electronic money institution special administration)”;
+(b)
+in paragraph (1) after “insolvency event” insert “(except electronic money institution special administration)”.
+The IBSAR 2011
+5.—(1) The IBSAR 2011 are amended as follows.
+(2) In regulation 8—
+(a)
+after paragraph (1) insert—
+“(1A) An application for an order under regulation 8 of the Payment and Electronic Money Institution Insolvency Regulations 2021 in respect of an investment bank may not be made unless the conditions in paragraph (5) are satisfied.”;
+(b)
+in paragraph (8), in the definition of “preliminary steps taken in respect of an insolvency procedure”, after paragraph (a) insert—
+“(aa)
+an application for an order under regulation 8 of the Payment and Electronic Money Institution Insolvency Regulations 2021 has been made;”.
+(3) In regulation 22(1)—
+(a)
+for “or” substitute a comma;
+(b)
+after “administration order” insert “or an order under regulation 8 of the Payment and Electronic Money Institution Insolvency Regulations 2021”.
+The PSR 2017
+6.—(1) Regulation 23 of the PSR 2017 is amended as follows.
+(2) In paragraph (14) after “insolvency event” insert “(except payment institution special administration)”.
+(3) In paragraph (18)—
+(a)
+in the definition of “insolvency event” omit the “or” at the end of paragraph (i) and after paragraph (j) insert—
+“;
+(k)
+the entry of the institution into payment institution special administration; or;
+(l)
+the entry of the institution into investment bank special administration.”;
+(b)
+at the appropriate places insert—
+““investment bank special administration” has the same meaning as in the Investment Bank Special Administration Regulations 2011 (see regulation 3(1) of those Regulations);”;
+““payment institution special administration” has the same meaning as in the Payment and Electronic Money Institution Insolvency Regulations 2021 (see regulation 4(3));”.
+(1)
+1985 c. 6.
+(2)
+S.I. 2021/[ ].
+(3)
+1986 c. 41. In section 80D(9), paragraph (ha) was inserted by S.I. 2011/245. In section 89AB(9), paragraph (ha) was inserted by S.I. 2011/245.
+(4)
+2010 c. 10. Schedule A1 was inserted by S.I. 2016/570.EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations establish a new insolvency procedure to be known as payment institution special administration or electronic money institution special administration (as the case may be) to operate as an alternative to the liquidation or administration of those institutions under the Insolvency Act 1986 (c. 45) (see regulations 7 to 47 and Schedules 1 to 4).
+The main features of special administration are that—
+(a)
+an administrator is appointed, and the institution enters special administration, by court order (see regulations 7 to 10),
+(b)
+special administration objectives and procedures apply (see regulations 12 to 35),
+(c)
+specific provision is made about how those procedures apply to small institutions (see regulation 12(10)),
+(d)
+the administrator is to pursue the special administration objectives in accordance with the statement of proposals (see paragraph 49 of Schedule B1 of the Insolvency Act 1986 as applied and modified by regulation 37), and
+(e)
+in other respects the procedure is the same as for administration under Schedule B1 to the Insolvency Act 1986, subject to modifications and the inclusion of certain liquidation provisions of that Act (see regulation 37 and Schedules 1 and 2).
+These Regulations also apply with modifications Part 24 of Financial Services and Markets Act 2000 (c. 8) (which makes provision about insolvency) to payment institutions and electronic money institutions except in respect of special administration (see regulation 48).
+These Regulations also correct a defect relating to the United Kingdom’s withdrawal from the European Union and bank recovery and resolution in the Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350) (see regulation 49).
+A de minimis impact assessment of the effect these Regulations will have on business and the voluntary sector is available from HM Treasury, 1 Horse Guards Road, London SW1A 2HQ or on www.gov.uk and is published alongside these Regulations on www.legislation.gov.uk.

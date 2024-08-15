@@ -1,0 +1,190 @@
+STATUTORY INSTRUMENTS
+2024 No. 104 (C. 7)
+BUILDING AND BUILDINGS
+The Building Safety Act 2022 (Commencement No. 7 and Transitional Provisions) Regulations 2024
+Made
+28th January 2024
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 170(4)(c) and (6) of the Building Safety Act 2022(1).
+(1)
+2022 c. 30.Citation and interpretation
+1.—(1) These Regulations may be cited as the Building Safety Act 2022 (Commencement No. 7 and Transitional Provisions) Regulations 2024.
+(2) In these Regulations—
+“the 1984 Act” means the Building Act 1984(1);
+“the 2022 Act” means the Building Safety Act 2022;
+“building” and “building work” has the same meaning as in the Building Regulations 2010(2);
+“initial notice” has the meaning given in section 47 of the 1984 Act;
+“pre-1st October 2023 work” means building work to which regulation 20(1) of the Building (Approved Inspectors etc. and Review of Decisions) (England) Regulations 2023(3) applied immediately before 6th April 2024 provided the work had started before 6th April 2024.
+(1)
+1984 c. 55.
+(2)
+S.I. 2010/2214 as amended by S.I.s 2012/3119, 2013/1959, 2014/110, 2015/767, 2016/285, 2016/1274, 2018/1230, 2021/1391, 2021/1392, 2022/603, 2022/984, 2023/520 and 2023/911.
+(3)
+S.I. 2023/906, which is revoked on 6th April 2024 by the Building (Registered Building Control Approvers etc.) (England) Regulations 2024.Provisions coming into force on 6th April 2024
+2.  The following provisions of the 2022 Act come into force on 6th April 2024—
+(a)
+section 42 (regulation of building control profession), for all remaining purposes;
+(b)
+section 43 (transfer of approved inspectors’ function to registered building control approvers) and Schedule 4;
+(c)
+section 44 (functions exercisable only through, or with the advice of, registered building inspectors), for all remaining purposes;
+(d)
+section 45 (default powers of appropriate national authority);
+(e)
+section 49 (plans certificates), for all remaining purposes;
+(f)
+section 50 (cancellation of initial notice), for all remaining purposes;
+(g)
+section 51 (new initial notice), for all remaining purposes;
+(h)
+section 52 (information gathering), for all remaining purposes;
+(i)
+section 53(2), (3)(a)(ii) and (iii) and (3)(b) (information);
+(j)
+section 55 and Schedule 5 so far as they relate to the following paragraphs of that Schedule—
+(i)
+paragraph 1, so far as it relates to paragraphs 44 and 52;
+(ii)
+paragraph 44, for all remaining purposes;
+(iii)
+paragraph 52;
+(k)
+section 58 (levy on applications for building control approval etc).Transitional provisions: approved inspectors who became approvers
+3.—(1) Subject to paragraph (5), this regulation applies where an approved inspector who gave an initial notice before 6th April 2024 has become a suitably qualified approver in relation to the work described in that notice before that date.
+(2) Where this regulation applies then with effect from 6th April 2024 any initial notice given by the approved inspector before 6th April 2024 is to be treated as if it were given instead by that person in their capacity as an approver and the 1984 Act applies in relation to that person in undertaking functions in relation to the work described in the initial notice.
+(3) Subject to paragraph (4), for the purposes of this regulation, an approver is suitably qualified in relation to the work described in the initial notice if the building work is of a type within the scope of the registration of the registered building control approver.
+(4) Where an approver is suitably qualified in relation to some of the work described in an initial notice then paragraph (2) has effect in relation only to the part of the building work within the scope of the registration and they continue to be treated as an approved inspector, and regulation 4 applies, in relation to the other part of the work described in the initial notice.
+(5) This regulation does not apply to higher-risk building work(1).
+(1)
+See the definition of “higher-risk building work” in section 91ZA of the 1984 Act, which was inserted by section 32 of the 2022 Act.Transitional provisions: approved inspectors who did not become approvers
+4.—(1) Subject to paragraph (5), this regulation applies where an approved inspector who gave an initial notice before 6th April 2024 did not become a suitably qualified approver before that date.
+(2) Where this regulation applies then, notwithstanding the repeal of section 49 of the 1984 Act by paragraph 5 of Schedule 4 to the 2022 Act, with effect from 6th April 2024—
+(a)
+in relation to any building work for which the approved inspector is not a suitably qualified approver, they continue to be treated as an approved inspector until 1st October 2024 (unless their approval ends before that date);
+(b)
+no approved inspector continuing to undertake their functions by virtue of this regulation may issue an initial notice on or after 6th April 2024;
+(c)
+Part 2 of the 1984 Act has effect as if—
+(i)
+section 49 of that Act had not been repealed;
+(ii)
+any reference to a registered building control approver were a reference to an approved inspector.
+(3) Subject to paragraph (4), for the purposes of this regulation, a person is not a suitably qualified approver—
+(a)
+if they are not a registered building control approver in relation to any work; or
+(b)
+in relation to the initial notice referred to in paragraph (1), if all of the building work described in the notice is of a type that is not within the scope of the registration of the registered building control approver.
+(4) Where an approved inspector has become a registered building control approver before 6th April 2024 but, in relation to the initial notice referred to in paragraph (1), some of the building work described in the notice is of a type that is not within the scope of their registration then paragraph (2) has effect in relation only to the part of the building work not within the scope of the registration.
+(5) This regulation does not apply to higher-risk building work.Transitional provisions: higher-risk building work regarded as sufficiently progressed
+5.—(1) This regulation applies in relation to any initial notice given before 1st October 2023 in respect of higher-risk building work where—
+(a)
+a notice under paragraph 1(4) (notice that work had sufficiently progressed) of Schedule 3 to the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023(1) in relation to work to that building was received by a local authority before 6th April 2024, and
+(b)
+the approved inspector who gave the initial notice became an approver before 6th April 2024.
+(2) Where this regulation applies then with effect from 6th April 2024 for so long as the initial notice continues in force on or after that date—
+(a)
+the initial notice given by the approved inspector is to be treated as if it were given instead by that person in their capacity as an approver, and
+(b)
+the 1984 Act applies in relation to the approver in respect of the work described in that initial notice as if the amendments in section 51 (new initial notices) of the 2022 Act were omitted.
+(1)
+S.I. 2023/909.Transitional provisions: cases where building work supervised by approved inspector is not completed before October 2024
+6.—(1) Subject to paragraph (3), this regulation applies where any initial notice given by an approved inspector was given before 6th April 2024 and the building work, or part of the building work, described in the initial notice has not been given a final certificate before 1st October 2024.
+(2) Where this regulation applies then for the purposes of section 47(4)(b)(ii) of the 1984 Act the initial notice ceases to be in force with effect from 1st October 2024.
+(3) This regulation does not apply to—
+(a)
+higher-risk building work;
+(b)
+any initial notice or part of an initial notice which is to be treated as given by an approver by virtue of regulation 3 (transitional provisions: approved inspectors who became approvers).Signed by authority of the Secretary of State for Levelling Up, Housing and Communities
+Lee Rowley
+Minister of State
+Department for Levelling Up, Housing and Communities
+28th January 2024EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations are the seventh commencement Regulations made under the Building Safety Act 2022 (c. 30) (“the 2022 Act”).
+Regulation 2 brings into force on 6th April 2024 a number of provisions of the 2022 Act, amending the Building Act 1984 (c. 55) (“the 1984 Act”), which in particular provide for the transfer of approved inspectors to become registered building control approvers. This is achieved, in England, by commencing sections 43 of, and Schedule 4 to, the 2022 Act. The amendments to the 1984 Act made by the 2022 Act also provide for plans certificates, cancellation of initial notices and new initial notices. Welsh Ministers have separate powers to commence most of the provisions in Part 3 of the 2022 Act in relation to Wales.
+Regulations 3 to 6 set out transitional provisions, in particular to ensure that existing approved inspectors can continue to operate. S.I. 2023/906 and S.I. 2023/909 made transitional provisions in relation to initial notices and approved inspectors which would continue to apply.
+There are three impact assessments for implementing the changes to the building safety regime, they were published alongside the explanatory memorandum for S.I.s 2023/906, 2023/907 and 2023/911 at www.legislation.gov.uk.NOTE AS TO EARLIER COMMENCEMENT REGULATIONS
+(This note is not part of the Regulations)
+The following provisions of the Building Safety Act 2022 have been brought into force by commencement regulations made before the date on which these Regulations are made.
+Provision Date of Commencement S.I. No.
+Section 2(2) 28th June 2022 S.I. 2022/561
+Section 3 28th June 2022 S.I. 2022/561
+Section 4 (partially) 1st December 2022 S.I. 2022/1210
+Section 4 (remaining purposes) 1st October 2023 S.I. 2023/993
+Section 5 1st April 2023 S.I. 2023/362
+Section 6 1st April 2023 S.I. 2023/362
+Section 8 1st April 2023 S.I. 2023/362
+Section 9 (partially) 1st December 2022 S.I. 2022/1210
+Section 9 (remaining purposes) 1st April 2023 S.I. 2023/362
+Section 10 1st October 2023 S.I. 2023/993
+Section 11 1st December 2022 S.I. 2022/1210
+Sections 12 to 16 6th April 2023 S.I. 2023/362
+Section 17 28th June 2022 S.I. 2022/561
+Section 18 28th June 2022 S.I. 2022/561
+Section 19 1st October 2023 S.I. 2023/993
+Section 20 6th April 2023 S.I. 2023/362
+Section 21 1st October 2023 S.I. 2023/993
+Sections 22 to 25 6th April 2023 S.I. 2023/362
+Section 26 1st October 2023 S.I. 2023/993
+Section 27 6th April 2023 S.I. 2023/362
+Section 29 6th April 2023 S.I. 2023/362
+Section 31 28th June 2022 S.I. 2022/561
+Section 32 (partially) 6th April 2023 S.I. 2023/362
+Section 32 (remaining purposes) 1st October 2023 S.I. 2023/993
+Sections 33 to 35 6th April 2023 S.I. 2023/362
+Section 36 (partially) 6th April 2023 S.I. 2023/362
+Section 36 (remaining purposes) 1st October 2023 S.I. 2023/993
+Section 37 6th April 2023 S.I. 2023/362
+Section 38 (partially) 6th April 2023 S.I. 2023/362
+Section 38 (remaining purposes) 1st October 2023 S.I. 2023/993
+Section 39 (partially) 6th April 2023 S.I. 2023/362
+Section 39 (remaining purposes) 1st October 2023 S.I. 2023/993
+Section 41 28th June 2022 S.I. 2022/561
+Section 42 (partially) 6th April 2023 S.I. 2023/362
+Section 42 (partially) 1st October 2023 S.I. 2023/993
+Section 44 (partially) 6th April 2023 S.I. 2023/362
+Section 46 (partially) 6th April 2023 S.I. 2023/362
+Section 46 (remaining purposes) 1st October 2023 S.I. 2023/993
+Section 47 1st April 2023 S.I. 2023/362
+Section 48 28th July 2022 S.I. 2022/561
+Sections 49 to 53 (partially) 6th April 2023 S.I. 2023/362
+Section 54 1st October 2023 S.I. 2023/993
+Section 55 (partially) 28th June 2022 S.I. 2022/561
+Section 55 (partially) 1st April 2023 S.I. 2023/362
+Section 55 (partially) 6th April 2023 S.I. 2023/362
+Section 55 (partially) 1st October 2023 S.I. 2023/993
+Section 56 (partially) 6th April 2023 S.I. 2023/362
+Section 56 (remaining purposes) 1st October 2023 S.I. 2023/993
+Section 57 28th June 2022 S.I. 2022/561
+Sections 71 to 75 6th April 2023 S.I. 2023/362
+Sections 76 and 77 1st October 2023 S.I. 2023/993
+Section 78 (partially) 6th April 2023 S.I. 2023/362
+Section 78 (remaining purposes) 1st October 2023 S.I. 2023/993
+Sections 79 to 88 16th January 2024 S.I. 2024/40
+Section 89 6th April 2023 S.I. 2023/362
+Sections 90 to 98 16th January 2024 S.I. 2024/40
+Sections 99 and 100 1st October 2023 S.I. 2023/993
+Sections 101 to 102 16th January 2024 S.I. 2024/40
+Sections 103 to 106 1st October 2023 S.I. 2023/993
+Sections 107 to 110 6th April 2023 S.I. 2023/362
+Section 111 16th January 2024 S.I. 2024/40
+Section 112 (partially) 6th April 2023 S.I. 2023/362
+Section 114 6th April 2023 S.I. 2023/362
+Sections 126 to 129 1st September 2022 S.I. 2022/927
+Sections 130 and 131 28th June 2022 S.I. 2022/561
+Section 132 (partially) 28th May 2022 S.I. 2022/561
+Section 132 (remaining purposes) 28th June 2022 S.I. 2022/561
+Section 133 (partially) 1st April 2023 S.I. 2023/362
+Sections 144 and 145 6th April 2023 S.I. 2023/362
+Section 156 1st October 2023 S.I. 2023/362
+Section 160 1st October 2022 S.I. 2022/561
+Section 161 1st October 2023 S.I. 2023/993
+Schedule 1 28th June 2022 S.I. 2022/561
+Schedule 2 6th April 2023 S.I. 2023/362
+Schedule 3 6th April 2023 S.I. 2023/362
+Schedule 5, paragraphs 1 (partially), 2, 3, 4 (partially), 5 (partially), 6, 9, 10, 11 to 15 (partially), 16, 22 (partially), 46 (partially), 50, 51, 53, 55 (partially), 57 (partially), 67, 71, 74 (partially), 75, 76 (partially), 77 (partially), 78, 81 (partially), 82, 83 (partially) and 84 (partially). 28th June 2022 S.I. 2022/561
+Schedule 5, paragraphs 17, 77 (remaining purposes), 85, 87 and 88 1st April 2023 S.I. 2023/362
+Schedule 5, paragraphs 40(3), 42(3), 80 (partially) and 83(8) 6th April 2023 S.I. 2023/362
+Schedule 5, paragraphs 4 (remaining purposes), 5 (remaining purposes), 7, 8, 11 to 15 (remaining purposes), 18 to 21, 22 (remaining purposes), 23 to 37, 39, 40 (remaining purposes), 41, 42 (remaining purposes), 43, 44(2), 45, 46 (remaining purposes), 47 to 49, 54, 55 (remaining purposes), 57 (remaining purposes), 58 to 66, 68 to 70, 72, 73, 74 (remaining purposes), 76 (remaining purposes), 79, 80 and 81 (remaining purposes), 83 and 84 (remaining purposes), 86 and 90. 1st October 2023 S.I. 2023/993
+Schedule 6, paragraph 30 (partially) 6th April 2023 S.I. 2023/362
+Schedule 6 (remaining purposes) 1st October 2023 S.I. 2023/993
+Schedule 7 16th January 2024 S.I. 2024/40

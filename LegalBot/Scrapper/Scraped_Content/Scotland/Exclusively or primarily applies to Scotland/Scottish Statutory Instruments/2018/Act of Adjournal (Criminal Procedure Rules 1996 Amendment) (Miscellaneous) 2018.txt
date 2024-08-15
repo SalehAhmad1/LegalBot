@@ -1,0 +1,102 @@
+SCOTTISH STATUTORY INSTRUMENTS
+2018 No. 12
+HIGH COURT OF JUSTICIARY
+SHERIFF COURT
+Act of Adjournal (Criminal Procedure Rules 1996 Amendment) (Miscellaneous) 2018
+Made
+15th January 2018
+Laid before the Scottish Parliament
+16th January 2018
+Coming into force in accordance with paragraph 1
+The High Court of Justiciary makes this Act of Adjournal under the powers conferred by section 305 of the Criminal Procedure (Scotland) Act 1995(1) and section 36(3) of the Criminal Justice (Scotland) Act 2016(2) and all other powers enabling it to do so.
+(1)
+1995 c.46. Section 305 was amended by section 111(1) of the Criminal Justice (Scotland) Act 2016 (asp 1) and S.S.I. 2015/338, and was extended by section 36A(4) of the Serious Crime Act 2007 (c.27), and section 32(5) of the Psychoactive Substances Act 2016 (c.2).
+(2)
+2016 asp 1.Citation and commencement, etc.
+1.—(1) This Act of Adjournal may be cited as the Act of Adjournal (Criminal Procedure Rules 1996 Amendment) (Miscellaneous) 2018.
+(2) With the exception of those provisions mentioned in subparagraph (3), this Act of Adjournal comes into force on 25th January 2018.
+(3) Paragraphs 2(2) and (3) come into force on 31st January 2018.
+(4) A certified copy is to be inserted in the Books of Adjournal.Amendment of the Criminal Procedure Rules 1996
+2.—(1) The Criminal Procedure Rules 1996(1) are amended in accordance with this paragraph.
+(2) In Chapter 37AA (Proceedings under the Proceeds of Crime Act 2002)(2)—
+(a)
+at the end of rule 37AA.2 (confiscation orders)(3) insert—
+“(4) An application by the prosecutor under subsection (6)(a) of section 131ZA of the Act of 2002 (seized money) may be made orally at the bar or by minute.”; and
+(b)
+in paragraph (1)(b) of rule 37AA.10 (application, discharge and variation) after “investigation” insert “or a money laundering investigation”.
+(3) In Chapter 43 (Terrorism Act 2000 and Anti-Terrorism, Crime and Security Act 2001)(4) after rule 43.2(1)(b) (applications under the Act of 2000 or 2001) insert—
+“(ba)
+paragraph 19(1) (disclosure orders) of Schedule 5A to the Act of 2000(5);
+(bb)
+paragraph 24(3) (variation or discharge of a disclosure order) of Schedule 5A to the Act of 2000;”.
+(4) After Chapter 65 (Psychoactive Substances Act 2016)(6) insert—
+“CHAPTER 66
+REVIEW OF LIBERATION CONDITIONS AND AUTHORISATION FOR QUESTIONING
+Interpretation of this Chapter
+66.1.  In this Chapter—
+“the 2016 Act” means the Criminal Justice (Scotland) Act 2016(7);
+“intimate” includes intimation by electronic means (and “intimation” is construed accordingly).
+Review of investigative liberation conditions
+66.2.—(1) An application under section 19(1) of the 2016 Act (review of conditions) is to be made in Form 66.2–A.
+(2) On receipt of an application under paragraph (1) the court must—
+(a)
+appoint a hearing on the application to take place in private within 7 days of the date of receipt of the application;
+(b)
+intimate the application and the date of the hearing to the procurator fiscal; and
+(c)
+intimate the date of the hearing to the applicant.
+(3) The applicant must be personally present at the hearing.
+(4) An order to remove a condition or to impose an alternative condition is to be made in Form 66.2–B.
+Review of undertaking conditions
+66.3.—(1) An application under section 30(1) of the 2016 Act (review of undertaking) is to be made in Form 66.3–A.
+(2) On receipt of an application under paragraph (1) the court must—
+(a)
+appoint a hearing on the application to take place in private within 7 days of the date of receipt of the application;
+(b)
+intimate the application and the date of the hearing to the procurator fiscal; and
+(c)
+intimate the date of the hearing to the applicant.
+(3) The applicant must be personally present at the hearing.
+(4) An order to remove a condition or to impose an alternative condition is to be made in Form 66.3–B.
+Authorisation for questioning
+66.4.—(1) When made in writing, an application under section 36(1) of the 2016 Act (authorisation: further provision) is to be made in Form 66.4–A.
+(2) Before granting an application under section 36(1) of the 2016 Act (whether made in writing or not) the court must appoint a hearing to take place in private.
+(3) Where section 35(5) of the 2016 Act (authorisation for questioning) applies the court must—
+(a)
+order intimation of the application to the person to be questioned; and
+(b)
+give the person to be questioned an opportunity to make representations at the hearing fixed under Rule 66.4(2).
+(4) Where the court grants an application for authorisation for questioning under section 35 of the 2016 Act (whether made orally or in writing) the authorisation is to be in Form 66.4–B.”.
+(5) In the Appendix, after Form 65.6 (form of representations about proposed forfeiture order)(8) insert the forms set out in the schedule of this Act of Adjournal.
+(1)
+The Criminal Procedure Rules 1996 are in schedule 2 of the Act of Adjournal (Criminal Procedure Rules) 1996 (S.I. 1996/513, last amended by S.S.I. 2017/429).
+(2)
+Chapter 37AA was inserted by S.S.I. 2003/120 and last amended by S.S.I. 2017/429.
+(3)
+Rule 37AA.2 was amended by S.S.I. 2009/244.
+(4)
+Chapter 43 was inserted by S.S.I. 2001/486 and last amended by S.S.I. 2017/429.
+(5)
+Schedule 5A was inserted by paragraphs 3 and 4 of schedule 2 of the Criminal Finances Act 2017 (c.22).
+(6)
+Chapter 65 was inserted by S.S.I. 2017/251.
+(7)
+2016 asp 1.
+(8)
+Form 65.6 was inserted by S.S.I. 2017/251.CJM SUTHERLAND
+Lord Justice General
+I.P.D.
+Edinburgh
+15th January 2018Paragraph 2(5)
+SCHEDULEEXPLANATORY NOTE
+(This note is not part of the Act of Adjournal)
+This Act of Adjournal amends Chapter 37AA (Proceedings under the Proceeds of Crime Act 2002) and Chapter 43 (Terrorism Act 2000 and Anti-terrorism, Crime and Security Act 2001) of the Criminal Procedure Rules 1996 in consequence of amendments made to the Proceeds of Crime Act 2002 and the Terrorism Act 2000 (“the 2000 Act”) by the Criminal Finances Act 2017.
+It also inserts a new Chapter 66 (Review of liberation conditions and authorisation for questioning) in consequence of the commencement of Part 1 of the Criminal Justice (Scotland) Act 2016.
+Paragraph 2(2)(a) provides that applications for seized money to be paid to the court may be made orally or by minute.
+Paragraph 2(2)(b) extends the application of rule 37AA.10(1), which provides that certain specified applications are made by petition, to money laundering investigations.
+Paragraph 2(3) provides that applications for, or for variation or discharge of, a disclosure order under schedule 5A of the Act of 2000 are to be made by petition.
+Paragraph 2(4) inserts the new Chapter 66.
+New rule 66.2 prescribes the form in which an application for review of investigative liberation conditions is to be made and the form of the order. When an application is lodged, the court must order the application to be intimated to the procurator fiscal and appoint a hearing in private within 7 days at which the applicant must be personally present.
+New rule 66.3 makes similar provision for an application to vary undertaking conditions.
+New rule 66.4 prescribes the form in which an application for authorisation for questioning is to be made and the form of the order. When an application is lodged, the court must appoint a hearing to take place in private and, if the person in respect of whom the authorisation is sought has already appeared in court or is the subject of a warrant to arrest, the court must intimate the application to that person and give the person an opportunity to make representations at the hearing.
+With the exception of paragraph 2(2) and (3), the Act of Adjournal comes into force on 25th January 2018. Paragraph 2(2) and (3) come into force on 31st January 2018.

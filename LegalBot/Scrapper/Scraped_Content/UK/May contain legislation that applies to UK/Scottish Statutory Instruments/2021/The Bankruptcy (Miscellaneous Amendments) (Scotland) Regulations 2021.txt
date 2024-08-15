@@ -1,0 +1,122 @@
+SCOTTISH STATUTORY INSTRUMENTS
+2021 No. 148
+INSOLVENCY
+BANKRUPTCY
+DEBT
+The Bankruptcy (Miscellaneous Amendments) (Scotland) Regulations 2021
+Made
+16th March 2021
+Coming into force
+29th March 2021
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 2(2)(b)(ii), 2(5), 9(4), 16(1)(i), 19(1), 46(2)(a), 87(8), 94(7)(a), 113(5), 116(2), 119(6)(a), 137(2), 140(2), 141(2)(a) and (c), 142(2) and (5), 205(1), 224, 225(2) and 227 of the Bankruptcy (Scotland) Act 2016(1), section 10 of the Coronavirus (Scotland) (No. 2) Act 2020(2), and all other powers enabling them to do so.
+In accordance with section 225(4)(a) of the Bankruptcy (Scotland) Act 2016, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament(3).
+(1)
+2016 asp 21. Section 228(1) of the Bankruptcy (Scotland) Act 2016 contains a definition of “prescribed” relevant to the exercise of the powers under which these Regulations are made.
+(2)
+2020 asp 10.
+(3)
+The powers to make these Regulations are exercised together by virtue of section 33(2) of the Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10). These Regulations are subject to the affirmative procedure by virtue of section 33(3) of that Act.Citation and commencement
+1.  These Regulations may be cited as the Bankruptcy (Miscellaneous Amendments) (Scotland) Regulations 2021 and come into force on 29 March 2021.Interpretation
+2.  In these Regulations—
+“the 2016 Act” means the Bankruptcy (Scotland) Act 2016,
+“the 2020 Act” means the Coronavirus (Scotland) (No. 2) Act 2020,
+“the 2016 Regulations” means the Bankruptcy (Scotland) Regulations 2016(1),
+“the 2018 Regulations” means the Bankruptcy Fees (Scotland) Regulations 2018(2).
+(1)
+S.S.I. 2016/397.
+(2)
+S.S.I. 2018/127.Expiry of measures in the 2020 Act
+3.  The following provisions of schedule 1 of the 2020 Act expire on 29 March 2021—
+(a)
+paragraph 9 (financial criteria for minimal asset process),
+(b)
+paragraph 11 (deadline for sending proposals for debtor’s contribution),
+(c)
+paragraph 13 (electronic signature of forms),
+(d)
+paragraph 14 (fees for debtor applications).Financial criteria for minimal asset process
+4.—(1) Section 2 of the 2016 Act (sequestration of estate of living debtor) is amended in accordance with paragraphs (2) and (3).
+(2) In subsection (2)(b)(ii), for “£17,000” substitute “£25,000”.
+(3) After subsection (2) insert—
+“(2A) For the purposes of subsection (2)(b), the amount of a loan made to the debtor is not to be regarded as a debt where the loan was made by virtue of regulations to which section 73B (regulations relating to student loans) of the Education (Scotland) Act 1980(1) applies.”.
+(4) Paragraphs (2) and (3) apply in relation to a sequestration of a debtor’s estate only where the debtor application (within the meaning of the 2016 Act) was made on or after 29 March 2021.
+(1)
+1980 c.44; section 73B was added by section 29(2) of the Teaching and Higher Education Act 1998 (c.30) and amended by section 3(3) of the Education (Graduate Endowment and Student Support) (Scotland) Act 2001 (asp 6), paragraph 149 of schedule 6(2) of the Income Tax (Earnings and Pensions) Act 2003 (c.1), section 34(1) of the Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), and paragraph 8 of schedule 8 of the Bankruptcy (Scotland) Act 2016 (asp 21).Deadline for sending proposals for debtor’s contribution
+5.—(1) In section 90(2) of the 2016 Act (debtor contribution order: general), for “6” substitute “12”.
+(2) Paragraph (1) applies in relation to a sequestration of a debtor’s estate only where the date of award of sequestration is on or after 29 March 2021.Electronic signature of forms
+6.—(1) Regulation 3 of the 2016 Regulations (forms) is amended as follows.
+(2) In paragraph (2), omit “either” and “or”,
+(3) After sub-paragraph (2)(b), insert—
+“; or
+(c)
+in any case, an electronic signature.”,
+(4) After paragraph (2), insert—
+“(3) In paragraph (2), “electronic signature” (except where it relates to Form 9) is to be construed in accordance with section 7(2) of the Electronic Communications Act 2000(1) (electronic signatures and related certificates), but includes a version of an electronic signature which is reproduced on a paper document.”.
+(1)
+2000 c.7; section 7(2) was amended by S.I. 2016/696.Forms
+7.—(1) Form 1(1) (Debtor Application) in schedule 1 of the 2016 Regulations is amended as follows.
+(2) In section 3.1a, for “£17,000” substitute “£25,000”,
+(3) In undertaking 13 of the Statement of Undertakings, for “a further £110” substitute “the total Full Administration bankruptcy application fee”.
+(1)
+Form 1 was relevantly amended by S.S.I. 2017/136.Forms
+8.  In Form 8 (Form of Refusal of Award of Sequestration) in schedule 1 of the 2016 Regulations, for “17,000” substitute “25,000”.Fees for debtor applications
+9.—(1) The 2018 Regulations are amended as follows.
+(2) After regulation 7 (other fees), insert—
+“Exemption from bankruptcy application fees for debtors in receipt of certain benefits
+7A.  Despite item 22 in Part 2 of the table of fees, no fee is payable to AiB under that item for the determination of a debtor application—
+(a)
+in relation to a debtor who, at the date of making the application, is in receipt of one or more of the following payments—
+(i)
+universal credit under Part 1 of the Welfare Reform Act 2012(1),
+(ii)
+another income-related benefit within the meaning given by section 191 of the Social Security Administration Act 1992(2),
+(iii)
+jobseeker’s allowance under the Jobseekers Act 1995(3),
+(iv)
+state pension credit under the State Pension Credit Act 2002(4),
+(v)
+child tax credit under the Tax Credits Act 2002(5), or
+(vi)
+employment and support allowance under Part 1 of the Welfare Reform Act 2007(6),
+(b)
+in relation to a debtor who, at the date of making the application, is in receipt of working tax credit, provided that—
+(i)
+child tax credit is being paid to the debtor, or otherwise following a claim for child tax credit made jointly by members of a couple (as defined in section 3(5A) of the Tax Credits Act 2002(7)) which includes the debtor, or
+(ii)
+there is a disability element or severe disability element (or both) to the tax credit received by the debtor,
+and that the gross annual income taken into account for the calculation of the working tax credit is £18,000 or less, or
+(c)
+in relation to a debtor who, within the period of 3 months prior to the date of making the application, received financial or other assistance under the Welfare Funds (Scotland) Act 2015(8).”.
+(3) In Part 2 of the schedule (fees for other functions of the Accountant in Bankruptcy), column 2 of item 22 is amended as follows—
+(a)
+in paragraph (a), for “£90.00” substitute “£50.00”,
+(b)
+in paragraph (b), for “£200.00” substitute “£150.00”.
+(1)
+2012 c.5.
+(2)
+1992 c.5; section 191 was relevantly amended by schedule 9 para 25(c) of the Local Government Finance Act 1992 (c.14) and schedule 6 paragraph 1 of the Tax Credits Act 2002 (c.21).
+(3)
+1995 c.18.
+(4)
+2002 c.16.
+(5)
+2002 c.21.
+(6)
+2007 c.5.
+(7)
+2002 c.21. Part 1 of the Tax Credits Act 2002 (“2002 Act”) was repealed by schedule 14, paragraph 1 of the Welfare Reform Act 2012 (c.5). The 2002 Act is subject to saving provisions in S.I. 2019/167. Section 3(5A) of the 2002 Act was substituted by S.I. 2019/1458.
+(8)
+2015 asp 5.JAMIE HEPBURN
+Authorised to sign by the Scottish Ministers
+St Andrew’s House,
+Edinburgh
+16th March 2021EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the Bankruptcy (Scotland) Act 2016 (“the 2016 Act”), the Bankruptcy (Scotland) Regulations 2016 (“the 2016 Regulations”) and the Bankruptcy Fees (Scotland) Regulations 2018 (“the 2018 Regulations”), to replace certain temporary measures in Part 5 of schedule 1 of the Coronavirus (Scotland) (No. 2) Act 2020 (“the 2020 Act”) with equivalent permanent provision. They also bring forward the expiry of the measures in the 2020 Act that are being replaced.
+Regulations 4 and 5 amend the 2016 Act. Regulation 4 amends the total amount of a living debtor’s debts to be taken into account for sequestration of estate to be carried out by debtor application (known as the “minimal asset process”), from £17,000 to £25,000.
+The regulation also provides that a debtor’s student loan, as defined under the Education (Scotland) Act 1980, is not to be regarded as debt when calculating total debt amount.
+Regulation 5 amends the time limit for a trustee to submit proposals for a debtor contribution order to the Accountant in Bankruptcy, where an award of sequestration is made following a petition, from 6 weeks to 12 weeks.
+Regulations 6 to 8 amend the 2016 Regulations. Regulation 6 makes amendments to the 2016 Regulations to allow electronic signatures to be used to sign prescribed forms required as part of the sequestration process. Regulations 7 and 8 amend two prescribed forms to take account of the amendments provided for by regulation 4.
+Regulation 9(2) inserts a new regulation 7A into the 2018 Regulations which provides an exemption from fees for debtors in receipt of certain benefits or payments. Regulation 9(3) replaces the fees specified in item 22 of the table of fees set out in the schedule to the 2018 Regulations. The fee payable in respect of an application for the minimal asset process is £50 (replacing the prior fee of £90) and the fee payable in respect of an application for full administration bankruptcy is £150 (replacing the prior fee of £200).
+A Business and Regulatory Impact Assessment has been prepared and is available online at www.legislation.gov.uk.

@@ -1,0 +1,79 @@
+SCOTTISH STATUTORY INSTRUMENTS
+2019 No. 44
+RATING AND VALUATION
+The Non-Domestic Rates (Transitional Relief) (Scotland) Amendment Regulations 2019
+Made
+14th February 2019
+Laid before the Scottish Parliament
+18th February 2019
+Coming into force
+1st April 2019
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 153 of the Local Government etc. (Scotland) Act 1994(1) and all other powers enabling them to do so.
+(1)
+1994 c.39. Section 153 was amended by section 67 of the Climate Change (Scotland) Act 2009 (asp 12). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998 (c.46).Citation and commencement
+1.  These Regulations may be cited as the Non-Domestic Rates (Transitional Relief) (Scotland) Amendment Regulations 2019 and come into force on 1 April 2019.Amendment of the Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2017
+2.—(1) The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2017(1) are amended in accordance with paragraphs (2) to (8).
+(2) In regulation 2 (interpretation - general)—
+(a)
+for the definition of “the 2018 Regulations” substitute—
+““the 2019 Regulations” means the Non-Domestic Rates (Levying) (Scotland) Regulations 2019(2),”, and
+(b)
+in the definition of “the relevant year”, for “2018” substitute “2019”.
+(3) In regulation 8 (notional liability)—
+(a)
+in the formula, for “365” substitute “366”,
+(b)
+for “0.506” substitute “0.516”, and
+(c)
+for “0.48” substitute “0.49”.
+(4) In regulation 9 (transitional limit)—
+(a)
+in each formula in paragraph (1)—
+(i)
+for “1.329” substitute “1.527”,
+(ii)
+for “365” substitute “366”,
+(b)
+in paragraph (2)—
+(i)
+for “0.506” substitute “0.516”,
+(ii)
+for “0.48” substitute “0.49”, and
+(c)
+for paragraph (3) substitute—
+“(3) Where regulation 10 of the Non-Domestic Rates (Relief for New and Improved Properties) (Scotland) Regulations 2019(3) grants relief, the transitional limit is calculated in accordance with paragraph (5) of that regulation.”.
+(5) In regulation 10 (base liability), in the formula in paragraph (1)(a), for “365” substitute “366”.
+(6) In regulation 11 (changes in rateable value)—
+(a)
+in the heading, paragraph (1) and paragraph (2), for “2018” substitute “2019”, and
+(b)
+in paragraph (1)—
+(i)
+in the formula, for “365” substitute “366”,
+(ii)
+for “0.506” substitute “0.516”, and
+(iii)
+for “0.48” substitute “0.49”.
+(7) In regulation 12 (charitable and other reductions)—
+(a)
+in paragraph (1)(a)(v), for “2018” substitute “2019”, and
+(b)
+for paragraph (1)(a)(vi) substitute—
+“(vi)
+regulation 4(1), 6(1) or 11(1) of the Non-Domestic Rates (Relief for New and Improved Properties) (Scotland) Regulations 2019,”.
+(8) In regulation 17 (applications for relief), at the end of each of sub-paragraphs (i) to (iii) of paragraph (1)(a) insert “or any other person authorised by it”.
+(1)
+S.S.I. 2017/85, which was amended by S.S.I. 2018/76.
+(2)
+S.S.I. 2019/39.
+(3)
+S.S.I. 2019/40.DEREK MACKAY
+A member of the Scottish Government
+St Andrew’s House,
+Edinburgh
+14th February 2019EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2017 (“the principal Regulations”).
+Regulation 2(2) updates a reference to other Regulations and to the “relevant year” for the purposes of the principal Regulations, which becomes the 2019-20 financial year.
+Other paragraphs of regulation 2 uprate various figures used in the principal Regulations to calculate entitlement to transitional relief and its maximum amount. These are based on an inflation figure of 2.1% which is the percentage increase in the poundage in 2019-20 compared with 2018-19. Adjustments are also made to reflect that the 2019-20 financial year is a leap year, so all daily-based calculations that relate to that year take account of its extra day.
+Paragraphs (4)(c) and (7)(b) of regulation 2 update references to another set of Regulations that are relevant to the operation of the principal Regulations. Paragraph (8) adds provision for persons authorised by partnerships, trusts and bodies corporate to sign applications for relief under the principal Regulations, in addition to partners, trustees and directors of those bodies.

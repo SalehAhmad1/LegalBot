@@ -1,0 +1,61 @@
+STATUTORY INSTRUMENTS
+2022 No. 405
+RATING AND VALUATION, ENGLAND
+The Valuation for Rating (Plant and Machinery) (England) (Amendment) Regulations 2022
+Made
+29th March 2022
+Laid before Parliament
+30th March 2022
+Coming into force
+1st April 2022
+The Secretary of State, in exercise of the powers conferred by section 143(2) of, and paragraph 2(8) of Schedule 6 to, the Local Government Finance Act 1988(1), makes the following Regulations.
+(1)
+1988 c. 41. Paragraph 2(8) of Schedule 6 was amended by paragraph 38 of Schedule 6 to the Local Government and Housing Act 1989 (c. 42).Citation, commencement and extent
+1.—(1) These Regulations may be cited as the Valuation for Rating (Plant and Machinery) (England) (Amendment) Regulations 2022 and come into force on 1st April 2022.
+(2) These Regulations extend to England and Wales.Amendment of the Valuation for Rating (Plant and Machinery) (England) Regulations 2000
+2.  In Class 1 of the Schedule to the Valuation for Rating (Plant and Machinery) (England) Regulations 2000(1) (classes of plant and machinery to be assumed to be part of the hereditament)—
+(a)
+in the opening words, after “other than excepted plant and machinery” insert “or, in relation to any day before 1st April 2035, excepted renewables plant and machinery or excepted EVCP plant and machinery”;
+(b)
+after paragraph (d) insert—
+“(e)
+“excepted renewables plant and machinery” means plant and machinery used or intended to be used for the generation, storage, transformation or transmission of power where the sources of energy or technologies relied upon are mainly or exclusively—
+(i)
+biomass;
+(ii)
+biofuels;
+(iii)
+biogas;
+(iv)
+fuel cells;
+(v)
+photovoltaics;
+(vi)
+water (including waves and tides);
+(vii)
+wind;
+(viii)
+solar power;
+(ix)
+geothermal;
+(x)
+heat from air, water or the ground;
+(f)
+“excepted EVCP plant and machinery” means plant and machinery which is —
+(i)
+used or intended to be used mainly or exclusively for storage, transformation or transmission of power for an electric vehicle charging point (within the meaning of section 45EA(5) of the Capital Allowances Act 2001(2)); and
+(ii)
+within head (d) or (e) of Table 1 below”.
+(1)
+S.I. 2000/540. Paragraph D of Class 1 in the Schedule was substituted by S.I. 2001/846. There are other amendments to S.I. 2000/540 which are not relevant to this instrument.
+(2)
+2001 c. 2; Section 45EA was inserted by section 38 of the Finance (No. 2) Act 2017 (c. 32).Signed by authority of the Secretary of State for Levelling Up, Housing and Communities
+Kemi Badenoch
+Minister of State
+Department for Levelling Up, Housing and Communities
+29th March 2022EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the Valuation for Rating (Plant and Machinery) (England) Regulations 2000 (“the 2000 Regulations”).
+The 2000 Regulations specify assumptions which are to be made when applying the provisions of sub-paragraphs (1) to (7) of paragraph 2 of Schedule 6 to the Local Government Finance Act 1988 in respect of plant and machinery. The Schedule to the 2000 Regulations prescribes four “classes” of plant and machinery which are to be assumed to be part of a hereditament for rating valuation purposes, with exceptions for certain specified cases.
+Regulation 2 amends Class 1 in the Schedule to insert two further exceptions to the assumption that specified plant and machinery is part of a hereditament. These exceptions have effect in relation to days before 1st April 2035.
+A regulatory impact assessment has not been prepared as this instrument amends an existing local tax regime.

@@ -1,0 +1,70 @@
+STATUTORY RULES OF NORTHERN IRELAND
+2023 No. 162
+FIREARMS
+The Violent Crime Reduction Act 2006 (Specification for Imitation Firearms) Regulations (Northern Ireland) 2023
+Made
+2nd October 2023
+Coming into operation
+31st October 2023
+The Department of Justice makes the following Regulations in exercise of the powers conferred by paragraph 7(A1)(a) and (6B) of Schedule 2 to the Violent Crime Reduction Act 2006(1).
+(1)
+2006 c. 38. Paragraph 7 was commenced by S.I. 2007/1280 (C.83). Paragraph 7 was amended by S.I. 2010/976.Citation and commencement
+1.  These Regulations may be cited as the Violent Crime Reduction Act 2006 (Specification for Imitation Firearms) Regulations (Northern Ireland) 2023 and come into operation on 31st October 2023.
+Commencement Information
+I1
+Reg. 1 in operation at 31.10.2023, see reg. 1Interpretation
+2.  In these Regulations—
+“blank-firing imitation firearm” means an imitation firearm capable of firing a blank cartridge;
+“inclusion” means part of an imitation firearm incorporated into the firearm during manufacture for the purpose of preventing an imitation firearm being modified for use as a firearm;
+“revolver” means a firearm that has a cylinder (containing multiple chambers) that revolves to align each chamber in turn with the firing mechanism and the barrel.
+Commencement Information
+I1
+Reg. 2 in operation at 31.10.2023, see reg. 1Specifications for imitation firearms
+3.—(1) Blank-firing imitation firearms, other than those described in paragraph (2), must conform to the following specifications—
+(a)
+an imitation firearm must incorporate an inclusion;
+(b)
+the inclusion must be wholly made of a material which is at least as resistant to being cut, drilled, bored, ground (or any similar process) as sintered tungsten carbide in the range 1550-2000 HV 30(1);
+(c)
+the inclusion must wholly block the barrel and should be permanent and incapable of being knocked out without destroying the chamber or barrel;
+(d)
+part of the inclusion must be incorporated into the rear of the dummy barrel; and
+(e)
+the inclusion must be intended to prevent—
+(i)
+the creation of a hole through the dummy barrel along its axis; and
+(ii)
+the removal of a dummy barrel, unless the frame and chamber area of the firearm is rendered useless as a result or its integrity so compromised that it cannot be used to form the basis of a firearm without significant repair or addition.
+(2) The blank-firing imitation firearms described in this paragraph are—
+(a)
+imitation revolvers; and
+(b)
+imitation firearms where the blank cartridges are loaded vertically at 90 degrees to the dummy barrel and which fire, and vent the gases produced on discharge, in the same direction.
+(3) Blank-firing imitation revolvers must conform to the following specifications—
+(a)
+an imitation revolver must incorporate an inclusion cast into the dummy barrel and a separate inclusion cast into the cylinder which extends to fully obstruct all the dummy chambers;
+(b)
+the inclusions must be wholly made of a material which is at least as resistant to being cut, drilled, bored, ground (or any similar process) as sintered tungsten carbide in the range 1550-2000 HV 30;
+(c)
+the inclusions should be permanent and incapable of being knocked out without destroying the chamber or barrel;
+(d)
+the barrel inclusion must wholly block the dummy barrel and part of it must be incorporated into the rear of the dummy barrel;
+(e)
+the barrel inclusion must be intended to prevent removal of the dummy barrel, unless the frame of the firearm is rendered useless as a result or its integrity so compromised that it cannot be used to form the basis of a firearm without significant repair or addition;
+(f)
+the inclusions must be intended to prevent the creation of a hole through the dummy barrel or chamber along their axis; and
+(g)
+the revolver must vent the gases produced on discharge at not less than 80 degrees from the axis of the dummy barrel.
+Commencement Information
+I1
+Reg. 3 in operation at 31.10.2023, see reg. 1
+(1)
+This refers to the “Vickers hardness test” which is a method to measure the hardness of materials. The test can be used for all metals. The unit of hardness given by the test is known as the Vickers Pyramid Number (HV).Sealed with the Official Seal of the Department of Justice on 2nd October 2023
+Richard Pengelly
+A senior officer of the Department of JusticeEXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations prescribe the specifications that imitation firearms must conform to, pursuant to paragraph 7(A1) of Schedule 2 to the Violent Crime Reduction Act 2006 (“the 2006 Act”). The underlying purpose is to prevent imitation firearms from being converted into functioning firearms.
+Under paragraph 7(2)(a) to (c) of Schedule 2 to the 2006 Act, a person is guilty of an offence if they: manufacture an imitation firearm which does not conform to the prescribed specifications; modify an imitation firearm so that it ceases to conform; or modify a firearm to create an imitation firearm that does not conform.
+Regulation 3(1) sets out the specifications for blank-firing imitation firearms.
+Regulation 3(3) sets out the specifications for blank-firing imitation revolvers.
+An Impact Assessment has not been produced for these Regulations as it has no or minimal impact on business, charities or voluntary bodies. A copy of the Explanatory Memorandum is published alongside the Regulations on www.legislation.gov.uk.

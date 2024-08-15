@@ -1,0 +1,1540 @@
+STATUTORY INSTRUMENTS
+2022 No. 1134
+CHILDCARE, ENGLAND
+LOCAL AUTHORITIES, ENGLAND
+The Childcare (Free of Charge for Working Parents) (England) Regulations 2022
+Made
+8th November 2022
+Laid before Parliament
+10th November 2022
+Coming into force
+1st December 2022
+The Secretary of State for Education makes these Regulations in exercise of the powers conferred by sections 1(2), (3), (4) and (7), 2(1), (2), (4) and (5) and 4(2) of the Childcare Act 2016(1).
+In accordance with section 2(3) of the Childcare Act 2016, these Regulations are made with the consent of the Treasury.
+(1)
+2016 c. 5.Citation and commencement
+1.  These Regulations—
+(a)
+may be cited as the Childcare (Free of Charge for Working Parents) (England) Regulations 2022, and
+(b)
+come into force on 1st December 2022.
+Commencement Information
+I1
+Reg. 1 in force at 1.12.2022, see reg. 1(b)Extent and application
+2.  These Regulations—
+(a)
+extend to England and Wales, and
+(b)
+apply in relation to England.
+Commencement Information
+I1
+Reg. 2 in force at 1.12.2022, see reg. 1(b)Consequential amendments and revocations
+3.  The Schedule makes consequential amendments and revocations.
+Commencement Information
+I1
+Reg. 3 in force at 1.12.2022, see reg. 1(b)Definitions
+4.—(1) In these Regulations—
+“the Act” means the Childcare Act 2016;
+“adjusted net income” has the meaning given in section 58 of the Income Tax Act 2007(1);
+“care plan” has the meaning given in regulation 5;
+“childcare provider” has the meaning given in regulation 6;
+[F1“childminder” means an early years childminder within the meaning given in section 96(4) of the Childcare Act 2006 but as if the definition in that subsection was not subject to subsection (5) of that section;]
+“the Commissioners” means the Commissioners for His Majesty’s Revenue and Customs;
+“declaration” means a declaration under section 1(2)(e) of the Act;
+“early years childminder agency” has the meaning given in section 98(1) of the Childcare Act 2006(2);
+“employee” has the meaning given in regulation 7;
+“the First-tier Tribunal” means the tribunal established under section 3(1) of the Tribunal, Courts and Enforcement Act 2007(3);
+“foster parent” has the meaning given in regulation 8;
+“inspection report” means—
+(a)
+in relation to an early years childminder agency, a report under section 51E of the Childcare Act 2006(4);
+(b)
+in relation to a childcare provider, a report under any of the following—
+(i)
+section 5 of the Education Act 2005(5);
+(ii)
+section 50 of the Childcare Act 2006(6);
+(iii)
+section 109 of the Education and Skills Act 2008(7);
+[F2“limited capability for work” means limited capability for work under—
+(a)
+regulation 39 of the Universal Credit Regulations 2013, or
+(b)
+regulation 40 of the Universal Credit Regulations (Northern Ireland) 2016;]
+[F2“limited capability for work and work-related activity” means limited capability for work and work-related activity under—
+(a)
+regulation 40 of the Universal Credit Regulations 2013, or
+(b)
+regulation 41 of the Universal Credit Regulations (Northern Ireland) 2016;]
+“looked after by a local authority” has the meaning given in regulation 9;
+“partner” has the meaning given in regulation 10;
+“relevant tax year” means, in relation to a declaration, the tax year in which the declaration is made;
+[F3“responsible local authority” means—
+(a)
+in relation to a child who meets the description in regulation 9(1)(a), the local authority who looks after the child, or
+(b)
+in relation to a child who meets the description in regulation 9(1)(b), (c) or (d), the English local authority for the area in which the child may be a qualifying child of working parents;]
+“review” means a review under regulation 36;
+F4...
+[F5“specified benefit” has the meaning given in regulation 11A;]
+“tax year” has the meaning given in section 4(2) of the Income Tax Act 2007.
+(2) The following table—
+(a)
+sets out the expressions of the Act used in these Regulations, and
+(b)
+shows where in that Act each of those expressions is defined.
+Expression used in these Regulations Location of definition in the Act
+“childcare” sections 1(9) and 2(8)
+“English local authority” section 2(8)
+“parent” section 1(9)
+“qualifying child of working parents” section 1(2)
+“young child” section 1(9)
+Textual Amendments
+F1
+Words in reg. 4(1) substituted (30.3.2023) by The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276), regs. 1(2), 11(a)
+F2
+Words in reg. 4(1) inserted (30.3.2023) by The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276), regs. 1(2), 11(b)
+F3
+Words in reg. 4(1) substituted (1.1.2024) by The Childcare (Free of Charge for Working Parents) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1330), regs. 1(2), 2(2)
+F4
+Words in reg. 4(1) omitted (30.3.2023) by virtue of The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276), regs. 1(2), 11(c)
+F5
+Words in reg. 4(1) inserted (30.3.2023) by The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276), regs. 1(2), 11(d)
+Commencement Information
+I1
+Reg. 4 in force at 1.12.2022, see reg. 1(b)
+(1)
+2007 c. 3. Section 58 was amended by paragraph 9 of Schedule 3 to the Finance Act 2011 (c. 11) and S.I. 2018/459.
+(2)
+The definition of “early years childminder agency” was inserted by paragraph 62(2)(b) of Schedule 4 to the Children and Families Act 2014 (c. 6).
+(3)
+2007 c. 15.
+(4)
+Section 51E was inserted by paragraph 13 of Schedule 4 to the Children and Families Act 2014 (c. 6).
+(5)
+2005 c. 18. Section 5 was amended by paragraph 23 of Schedule 7 to the Education and Inspections Act 2006 (c. 40), paragraph 17 of Schedule 2 to the Academies Act 2010 (c. 32) and sections 40(2) and 41(1) of, and paragraph 15(2) of Schedule 13 to, the Education Act 2011 (c. 21).
+(6)
+Section 50(4) was repealed by paragraph 111 of Schedule 14, and Part 5 of Schedule 18, to the Education and Inspections Act 2006 (c. 40).
+(7)
+2008 c. 25.Meaning of “care plan”
+5.  A “care plan” is any of the following—
+(a)
+a care plan within the meaning given in regulation 2(1) of the Care Planning, Placement and Case Review (England) Regulations 2010(1);
+(b)
+arrangements recorded in writing under regulation 3(5) of the Arrangements for Placement of Children (General) Regulations (Northern Ireland) 1996(2);
+(c)
+a child’s plan prepared under regulation 5 of the Looked After Children (Scotland) Regulations 2009(3);
+(d)
+a care and support plan maintained under section 83 of the Social Services and Well-being (Wales) Act 2014(4).
+Commencement Information
+I1
+Reg. 5 in force at 1.12.2022, see reg. 1(b)
+(1)
+S.I. 2010/959, amended by S.I. 2011/581, 2012/1479, 2013/235, 706, 984, 3239, 2014/852, 1556, 1917, 2103, 2015/495, 2017/52, 2018/48, 152, 2019/1094, 2020/909 and 2021/161.
+(2)
+S.R. 1996 No. 453.
+(3)
+S.S.I. 2009/210, amended by S.S.I. 2009/290, 2011/211, 2013/14, 147, 2014/112, 310 and 2021/103.
+(4)
+2014 anaw 4. Section 83 was amended by section 16 of the Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2).Meaning of “childcare provider”
+6.—(1) A “childcare provider” is an early years provider—
+(a)
+who is not an excluded provider, and
+(b)
+to whom section 40 of the Childcare Act 2006 (duty to implement Early Years Foundation Stage) applies.
+(2) An excluded provider is any of the following—
+(a)
+an independent school, other than an Academy school, that does not meet the standards prescribed under section 157(1)(b) of the Education Act 2002(1) (which relate to the spiritual, moral, social and cultural development of pupils at independent schools);
+(b)
+an early years provider any English local authority has reasonable grounds to believe—
+(i)
+does not actively promote the fundamental British values of democracy, the rule of law, individual liberty and mutual respect and tolerance of those with different faiths and beliefs, or
+(ii)
+promotes as evidence-based views or theories those contrary to established scientific or historical evidence and explanations.
+(3) In this regulation—
+“Academy school” has the meaning given in section 1A of the Academies Act 2010(2);
+“early years provider” has the meaning given in section 96(3) of the Childcare Act 2006.
+Commencement Information
+I1
+Reg. 6 in force at 1.12.2022, see reg. 1(b)
+(1)
+2002 c. 32.
+(2)
+2010 c. 32. Section 1A was inserted by section 53(7) of the Education Act 2011 (c. 21).Meaning of “employee”
+7.—(1) An “employee” is any of the following—
+(a)
+a person in employment under a contract of service F1...;
+(b)
+a person who is the holder of an office (including an elected office);
+(c)
+a person in an engagement to which a relevant Chapter applies;
+(d)
+a person who expects, in relation to a declaration, to be a person mentioned in any of paragraphs (a) to (c) within [F2the applicable period.]
+(2) In this regulation—
+[F3“applicable period” means, in relation to a person (“P”) who expects to become a person mentioned in any of paragraph (1)(a) to (c) on a date in the period specified in the first column of the table, the period specified in the corresponding second column of the table.
+P expects to become a person mentioned in any of paragraph (1)(a) to (c) in the period— Applicable period—
+(i)
+beginning with 1st February and ending with the next 30th April
+begins with 1st January immediately preceding the start of the period specified in the first column and ends with the next 30th April
+(ii)
+beginning with 1st May and ending with the next 30th September
+begins with 1st April immediately preceding the start of the period specified in the first column and ends with the next 30th September
+(iii)
+beginning with 1st October and ending with the next 31st January
+begins with 1st September immediately preceding the start of period specified in the first column and ends with the next 31st January;]
+“office” has the meaning given in section 5(3) of the Income Tax (Earnings and Pensions) Act 2003(1);
+“relevant Chapter” means any of Chapters 7 to 10 of Part 2 of the Income Tax (Earnings and Pensions) Act 2003(2) (which relate to agency workers and workers’ services provided through intermediaries or managed service companies).
+Textual Amendments
+F1
+Words in reg. 7(1)(a) omitted (12.5.2024) by virtue of The Childcare (Free of Charge for Working Parents) (England) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/527), regs. 1(b), 2(2)(a)(i)
+F2
+Words in reg. 7(1)(d) substituted (12.5.2024) by The Childcare (Free of Charge for Working Parents) (England) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/527), regs. 1(b), 2(2)(a)(ii)
+F3
+Words in reg. 7(2) inserted (12.5.2024) by The Childcare (Free of Charge for Working Parents) (England) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/527), regs. 1(b), 2(2)(b)(i)
+Commencement Information
+I1
+Reg. 7 in force at 1.12.2022, see reg. 1(b)
+(1)
+2003 c. 1.
+(2)
+Chapter 7 of Part 2 was amended by section 16 of the Finance Act 2014 (c. 26); Chapter 8 of Part 2 was amended by section 136 of, and Part 3(1) of Schedule 43 to, the Finance Act 2003 (c. 14), paragraph 17 of Schedule 12, paragraph 56 of Schedule 35, and Part 3 of Schedule 42, to the Finance Act 2004 (c. 12), paragraph 586 of Schedule 1 to the Income Tax (Trading and Other Income) Act 2005 (c. 5), paragraphs 102(1), 103(1)(a) and 105 of Schedule 4 to the Commissioners for Revenue and Customs Act 2005 (c. 11), paragraph 429 of Schedule 1 to the Income Tax Act 2007 (c. 3), paragraph 3 of Schedule 3 to the Finance Act 2007 (c. 11), paragraph 549 of Schedule 1 to the Corporation Tax Act 2009 (c. 4), paragraphs 380 to 383 of Schedule 1 to the Corporation Tax Act 2010 (c. 4), section 22(1) of, and paragraph 30 of Schedule 46 to, the Finance Act 2013 (c. 29), paragraph 5 of Schedule 17 to the Finance Act 2014, paragraph 61(2) of Schedule 1 to the Finance Act 2016 (c. 24), paragraphs 2 to 5 and 11 of Schedule 1 to the Finance Act 2017 (c. 10), Part 1 of Schedule 1 to the Finance Act 2020 (c. 14), S.I. 2005/3229 and S.I. 2019/1458; Chapter 9 of Part 2 was inserted by paragraph 4 of Schedule 3 to the Finance Act 2007 and amended by paragraph 31 of Schedule 46 to the Finance Act 2013, paragraph 61(2) of Schedule 1 to the Finance Act 2016, paragraphs 6 and 8 of Schedule 1 to the Finance Act 2017, paragraph 18 of Schedule 1 to the Finance Act 2020 and S.I. 2019/1458; Chapter 10 of Part 2 was inserted by paragraph 9 of Schedule 1 to the Finance Act 2017 and amended by Part 2 of Schedule 1 to the Finance Act 2020 and section 21 of the Finance Act 2021 (c. 26).Meaning of “foster parent”
+8.—(1) A “foster parent” is any of the following—
+(a)
+a person who—
+(i)
+is approved as a local authority foster parent in accordance with regulations made by virtue of paragraph 12F of Schedule 2 to the Children Act 1989(1), and
+(ii)
+has a child placed with the person under section 22C(5) of that Act(2);
+(b)
+a person who—
+(i)
+is an authority foster parent within the meaning given in article 27(3) of the Children (Northern Ireland) Order 1995(3), and
+(ii)
+has a child placed with the person under article 27(2)(a) of that Order;
+(c)
+a person who—
+(i)
+is a foster carer within the meaning given in regulation 2 of the Looked After Children (Scotland) Regulations 2009, and
+(ii)
+has a child placed with the person pursuant to a permanence order under section 80 of the Adoption and Children (Scotland) Act 2007(4);
+(d)
+a person who—
+(i)
+is a local authority foster parent within the meaning given in section 197(1) of the Social Services and Well-being (Wales) Act 2014(5), and
+(ii)
+has a child placed with the person under section 81(5) of that Act.
+Commencement Information
+I1
+Reg. 8 in force at 1.12.2022, see reg. 1(b)
+(1)
+1989 c. 41. Paragraph 12F of Schedule 2 was inserted by paragraph 4 of Schedule 1 to the Children and Young Persons Act 2008 (c. 23).
+(2)
+Section 22C(5) was inserted by section 8(1) of the Children and Young Persons Act 2008 (c. 23).
+(3)
+S.I. 1995/755 (N.I. 2), amended by section 7 of the Children (Leaving Care) Act (Northern Ireland) 2002 (c. 11 (N.I.)); other amending instruments are not relevant.
+(4)
+2007 asp 4.
+(5)
+The definition of “local authority foster parent” was substituted by regulation 319(a) of S.I. 2016/213 (W. 131).Meaning of “looked after by a local authority”
+9.—(1) A young child is “looked after by a local authority” if the child is any the following—
+(a)
+a child who is looked after by a local authority within the meaning given in section 22(1) of the Children Act 1989(1);
+(b)
+a child who is looked after by an authority within the meaning given in article 25(1) of the Children (Northern Ireland) Order 1995;
+(c)
+a child who is looked after by a local authority within the meaning given in section 17(6) of the Children (Scotland) Act 1995(2);
+(d)
+a child who is looked after by a local authority within the meaning given in section 74(1) of the Social Services and Well-being (Wales) Act 2014.
+(2) Despite paragraph (1), a young child is not looked after by a local authority during any period the child is—
+(a)
+being looked after by an English local authority for the purposes of providing a brief respite for the person with whom the child normally lives,
+(b)
+placed with a foster parent (see regulation 8), or
+(c)
+placed with any other person pursuant to arrangements made under—
+(i)
+section 22C(2) of the Children Act 1989,
+(ii)
+article 27(2)(a) of the Children (Northern Ireland) Order 1995,
+(iii)
+regulation 8(1) or 11 of the Looked After Children (Scotland) Regulations 2009, or
+(iv)
+section 81(2) of the Social Services and Well-being (Wales) Act 2014.
+Commencement Information
+I1
+Reg. 9 in force at 1.12.2022, see reg. 1(b)
+(1)
+Section 22(1) was amended by paragraph 19 of Schedule 5 to the Local Government Act 2000 (c. 22), section 2(2) of the Children (Leaving Care) Act 2000 (c. 35) and section 116(2) of the Adoption and Children Act 2002 (c. 38).
+(2)
+1995 c. 36. Section 17(6) was amended by paragraph 9(4)(b) of Schedule 5 to the Adoption and Children (Scotland) Act 2007 (asp 4), paragraph 2(4) of Schedule 5 to the Children’s Hearings (Scotland) Act 2011 (asp 1) and S.S.I. 2013/195.Meaning of “partner”
+10.—(1) A person is a “partner” of another person if—
+(a)
+the person is—
+(i)
+married to, or the civil partner of, the other person, and
+(ii)
+a member of the same household as the other person, or
+(b)
+the person is living together with the other person as if they were a married couple or civil partners.
+(2) Despite paragraph (1), a person is not a partner of another person if either person is—
+(a)
+under 16 years of age,
+(b)
+serving a sentence of imprisonment, or
+(c)
+remaining with a third person in a pre-existing relationship of a kind mentioned in paragraph (1).
+[F1(3) A person is not a member of the same household as, or living together with, another person if—
+(a)
+the person is absent, and
+(b)
+the absence exceeds, or is expected to exceed, 6 months.]
+Textual Amendments
+F1
+Reg. 10(3) inserted (30.3.2023) by The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276), regs. 1(2), 12
+Commencement Information
+I1
+Reg. 10 in force at 1.12.2022, see reg. 1(b)Meaning of “person in the United Kingdom”
+11.—(1) A “person in the United Kingdom” is any of the following—
+(a)
+a person who is—
+(i)
+ordinarily resident in the United Kingdom, F1...
+(ii)
+not a person taxed as if they were not so resident by virtue of double taxation arrangements [F2, and]
+[F3(iii)
+not a person subject to immigration control;]
+(b)
+a person who is—
+(i)
+a resident of an EEA State or Switzerland,
+(ii)
+in paid work in the United Kingdom, and
+(iii)
+not a person subject to immigration control;
+(c)
+a person who has been granted—
+(i)
+refugee permission to stay or temporary refugee permission to stay under rule 339QA of the Immigration Rules, or
+(ii)
+temporary humanitarian permission to stay under rule 339QB of the Immigration Rules;
+(d)
+a person who has been granted, or deemed to have been granted, outside the Immigration Rules—
+(i)
+discretionary leave to remain(1), or
+(ii)
+leave to remain under the destitution domestic violence concession(2);
+(e)
+a person who—
+(i)
+has been deported, expelled or otherwise removed by compulsion of law from another country to the United Kingdom, and
+(ii)
+is not a person subject to immigration control.
+(2) In this regulation—
+“a person subject to immigration control” has the meaning given in section 115(9) of the Immigration and Asylum Act 1999(3);
+“double taxation arrangements” means arrangements that have effect under section 2(1) of the Taxation (International and Other Provisions) Act 2010(4);
+“the Immigration Rules” means the rules laid before Parliament under section 3(2) of the Immigration Act 1971(5);
+“paid work” means work done for payment or in expectation of payment and does not include being engaged by a charitable or voluntary organisation, or as a volunteer, in circumstances in which the payment received by or due to be paid to the person is in respect of expenses.
+Textual Amendments
+F1
+Word in reg. 11(1)(a)(i) omitted (1.1.2024) by virtue of The Childcare (Free of Charge for Working Parents) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1330), regs. 1(2), 2(3)(a)
+F2
+Word in reg. 11(1)(a)(ii) substituted (1.1.2024) by The Childcare (Free of Charge for Working Parents) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1330), regs. 1(2), 2(3)(b)
+F3
+Reg. 11(1)(a)(iii) inserted (1.1.2024) by The Childcare (Free of Charge for Working Parents) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1330), regs. 1(2), 2(3)(c)
+Commencement Information
+I1
+Reg. 11 in force at 1.12.2022, see reg. 1(b)
+(1)
+The discretionary leave (DL) policy is administered by the Home Office. Guidance is available online at www.gov.uk/government/publications/granting-discretionary-leave.
+(2)
+The destitute domestic violence (DDV) concession is administered by the Home Office. Guidance is available online at www.gov.uk/government/publications/victims-of-domestic-violence.
+(3)
+1999 c. 33. Section 115(9) was amended by S.I. 2020/1309.
+(4)
+2010 c. 8. Section 2 was amended by section 32(1) of the Finance Act 2018 (c. 3).
+(5)
+1971 c. 77. The Immigration Rules are published online at www.gov.uk/guidance/immigration-rules.[F1Meaning of “specified benefit”
+11A.—(1) A “specified benefit” is any of the following—
+(a)
+carer’s allowance under—
+(i)
+section 70 of the Social Security Contributions and Benefits Act 1992(1), or
+(ii)
+section 70 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992(2);
+(b)
+carer’s assistance given in accordance with regulations made under section 28 of the Social Security (Scotland) Act 2018(3) except a young carer grant given under the Carer’s Assistance (Young Carer Grants) (Scotland) Regulations 2019(4);
+(c)
+the carer element(5) under—
+(i)
+regulation 29 of the Universal Credit Regulations 2013(6), or
+(ii)
+regulation 30 of the Universal Credit Regulations (Northern Ireland) 2016(7);
+(d)
+credits for incapacity for work or limited capability for work under—
+(i)
+regulation 8B of the Social Security (Credits) Regulations 1975(8), or
+(ii)
+regulation 8B of the Social Security (Credits) Regulations (Northern Ireland) 1975(9);
+(e)
+employment and support allowance under—
+(i)
+section 1 of the Welfare Reform Act 2007(10), or
+(ii)
+section 1 of the Welfare Reform Act (Northern Ireland) 2007(11);
+(f)
+long-term incapacity benefit under—
+(i)
+regulation 11(4) or 17(1) of the Social Security (Incapacity Benefit) (Transitional) Regulations 1995(12), or
+(ii)
+regulation 11(4) or 17(1) of the Social Security (Incapacity Benefit) (Transitional) Regulations (Northern Ireland) 1995(13);
+(g)
+long-term or short-term incapacity benefit under—
+(i)
+section 30A, 40 or 41 of the Social Security Contributions and Benefits Act 1992(14), or
+(ii)
+section 30A, 40 or 41 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992(15);
+(h)
+severe disablement allowance under—
+(i)
+section 68 of the Social Security Contributions and Benefits Act 1992(16), or
+(ii)
+section 68 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992.]
+Textual Amendments
+F1
+Reg. 11A inserted (30.3.2023) by The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276), regs. 1(2), 13
+(1)
+2002 c. 32.
+(2)
+2010 c. 32. Section 1A was inserted by section 53(7) of the Education Act 2011 (c. 21).
+(3)
+2003 c. 1.
+(4)
+Chapter 7 of Part 2 was amended by section 16 of the Finance Act 2014 (c. 26); Chapter 8 of Part 2 was amended by section 136 of, and Part 3(1) of Schedule 43 to, the Finance Act 2003 (c. 14), paragraph 17 of Schedule 12, paragraph 56 of Schedule 35, and Part 3 of Schedule 42, to the Finance Act 2004 (c. 12), paragraph 586 of Schedule 1 to the Income Tax (Trading and Other Income) Act 2005 (c. 5), paragraphs 102(1), 103(1)(a) and 105 of Schedule 4 to the Commissioners for Revenue and Customs Act 2005 (c. 11), paragraph 429 of Schedule 1 to the Income Tax Act 2007 (c. 3), paragraph 3 of Schedule 3 to the Finance Act 2007 (c. 11), paragraph 549 of Schedule 1 to the Corporation Tax Act 2009 (c. 4), paragraphs 380 to 383 of Schedule 1 to the Corporation Tax Act 2010 (c. 4), section 22(1) of, and paragraph 30 of Schedule 46 to, the Finance Act 2013 (c. 29), paragraph 5 of Schedule 17 to the Finance Act 2014, paragraph 61(2) of Schedule 1 to the Finance Act 2016 (c. 24), paragraphs 2 to 5 and 11 of Schedule 1 to the Finance Act 2017 (c. 10), Part 1 of Schedule 1 to the Finance Act 2020 (c. 14), S.I. 2005/3229 and S.I. 2019/1458; Chapter 9 of Part 2 was inserted by paragraph 4 of Schedule 3 to the Finance Act 2007 and amended by paragraph 31 of Schedule 46 to the Finance Act 2013, paragraph 61(2) of Schedule 1 to the Finance Act 2016, paragraphs 6 and 8 of Schedule 1 to the Finance Act 2017, paragraph 18 of Schedule 1 to the Finance Act 2020 and S.I. 2019/1458; Chapter 10 of Part 2 was inserted by paragraph 9 of Schedule 1 to the Finance Act 2017 and amended by Part 2 of Schedule 1 to the Finance Act 2020 and section 21 of the Finance Act 2021 (c. 26).
+(5)
+1989 c. 41. Paragraph 12F of Schedule 2 was inserted by paragraph 4 of Schedule 1 to the Children and Young Persons Act 2008 (c. 23).
+(6)
+Section 22C(5) was inserted by section 8(1) of the Children and Young Persons Act 2008 (c. 23).
+(7)
+S.I. 1995/755 (N.I. 2), amended by section 7 of the Children (Leaving Care) Act (Northern Ireland) 2002 (c. 11 (N.I.)); other amending instruments are not relevant.
+(8)
+2007 asp 4.
+(9)
+The definition of “local authority foster parent” was substituted by regulation 319(a) of S.I. 2016/213 (W. 131).
+(10)
+Section 22(1) was amended by paragraph 19 of Schedule 5 to the Local Government Act 2000 (c. 22), section 2(2) of the Children (Leaving Care) Act 2000 (c. 35) and section 116(2) of the Adoption and Children Act 2002 (c. 38).
+(11)
+1995 c. 36. Section 17(6) was amended by paragraph 9(4)(b) of Schedule 5 to the Adoption and Children (Scotland) Act 2007 (asp 4), paragraph 2(4) of Schedule 5 to the Children’s Hearings (Scotland) Act 2011 (asp 1) and S.S.I. 2013/195.
+(12)
+The discretionary leave (DL) policy is administered by the Home Office. Guidance is available online at www.gov.uk/government/publications/granting-discretionary-leave.
+(13)
+The destitute domestic violence (DDV) concession is administered by the Home Office. Guidance is available online at www.gov.uk/government/publications/victims-of-domestic-violence.
+(14)
+1999 c. 33. Section 115(9) was amended by S.I. 2020/1309.
+(15)
+2010 c. 8. Section 2 was amended by section 32(1) of the Finance Act 2018 (c. 3).
+(16)
+1971 c. 77. The Immigration Rules are published online at www.gov.uk/guidance/immigration-rules.When periods begin and end
+12.  A period of time described in these Regulations in a manner set out in the table is calculated in accordance with the corresponding rule.
+If the period is described as— then the period—
+beginning [F1or ending] with a specified day includes that specified day.
+being within a specified number of days of a specified day does not include that specified day.
+ending before a specified day does not include that specified day.
+Textual Amendments
+F1
+Words in reg. 12 Table inserted (1.1.2024) by The Childcare (Free of Charge for Working Parents) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1330), regs. 1(2), 2(4)
+Commencement Information
+I1
+Reg. 12 in force at 1.12.2022, see reg. 1(b)Description of young child
+13.—(1) This regulation relates to section 1(2)(c) of the Act(1).
+(2) A young child must be a child who—
+(a)
+has attained the age of [F1two], and
+(b)
+is not looked after by a local authority (see regulation 9).
+Textual Amendments
+F1
+Word in reg. 13(2)(a) substituted (temp.) (1.4.2024) by virtue of The Childcare (Free of Charge for Working Parents) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1330), regs. 1(2), 2(5) (a)
+Commencement Information
+I1
+Reg. 13 in force at 1.12.2022, see reg. 1(b)
+(1)
+Section 1(2)(c) of the Childcare Act 2016 defines a qualifying child of working parents as a young child who is of a description specified in regulations made by the Secretary of State. The young child must also be under compulsory school age and in England (see section 1(2)(a) and (b) of that Act).Conditions relating to parent
+14.—(1) This regulation relates to section 1(2)(d) of the Act(1).
+(2) A parent of a young child must be a parent mentioned in paragraph (3) or (4).
+(3) A parent who—
+(a)
+meets the qualifying paid work requirement in regulation 16 or 17,
+(b)
+seeks the childcare, which is available free of charge by virtue of the Act, to enable the parent, or the parent’s partner (if any), to work,
+(c)
+does not for the relevant tax year—
+(i)
+expect their adjusted net income to exceed £100,000,
+(ii)
+make a claim under section 809B of the Income Tax Act 2007 (which relates to certain residents not domiciled in the United Kingdom), or
+(iii)
+expect section 809E of Income Tax Act 2007 to apply (which relates to certain residents not domiciled in the United Kingdom), and
+(d)
+if a foster parent of the young child, has confirmation from the responsible local authority that it is satisfied that engaging in paid work other than as a foster parent is consistent with the child’s care plan (see regulation 5).
+(4) A parent who—
+(a)
+has a partner [F1mentioned in regulation 15(3),] and
+(b)
+is any of the following—
+(i)
+a person with limited capability for work;
+(ii)
+a person with limited capability for work and work-related activity;
+(iii)
+a person entitled to a specified benefit;
+(iv)
+a resident of an EEA State or Switzerland who is, under the law of the EEA State or Switzerland, entitled to a benefit of a kind that is substantially similar to a specified benefit.
+F2(5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Textual Amendments
+F1
+Words in reg. 14(4)(a) substituted (30.3.2023) by The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276), regs. 1(2), 14(a)
+F2
+Reg. 14(5) omitted (30.3.2023) by virtue of The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276), regs. 1(2), 14(b)
+Commencement Information
+I1
+Reg. 14 in force at 1.12.2022, see reg. 1(b)
+(1)
+Section 1(2)(d) of the Childcare Act 2016 defines a qualifying child of working parents as a young child in respect of whom any conditions relating to a parent of the child, which are specified in regulations made by the Secretary of State, are met.Conditions relating to partner of parent
+15.—(1) This regulation relates to section 1(2)(d) of the Act(1).
+[F1(2) If a parent of a young child has a partner, the partner must be a person mentioned in paragraph (3) or (4).]
+[F2(3) A person who—
+(a)
+meets the qualifying paid work requirement in regulation 16 or 17,
+(b)
+does not for the relevant tax year—
+(i)
+expect their adjusted net income to exceed £100,000,
+(ii)
+make a claim under section 809B of the Income Tax Act 2007 (claim for remittance basis to apply), or
+(iii)
+expect section 809E of Income Tax Act 2007 to apply (application of remittance basis without claim: other cases), and
+(c)
+if a foster parent of the young child, has confirmation from the responsible local authority that it is satisfied that engaging in any paid work other than as a foster parent is consistent with the child’s care plan.
+(4) A person who is the partner of a parent mentioned in regulation 14(3) and who—
+(a)
+has limited capability for work;
+(b)
+has limited capability for work and work-related activity;
+(c)
+is entitled to a specified benefit; or
+(d)
+is a resident of an EEA State or Switzerland who is, under the law of the EEA State or Switzerland, entitled to a benefit of a kind that is substantially similar to a specified benefit.]
+Textual Amendments
+F1
+Reg. 15(2) substituted (30.3.2023) by The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276), regs. 1(2), 15(1)(a)
+F2
+Reg. 15(3)(4) inserted (30.3.2023) by The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276), regs. 1(2), 15(1)(b)
+Commencement Information
+I1
+Reg. 15 in force at 1.12.2022, see reg. 1(b)
+(1)
+Section 1(2)(d) of the Childcare Act 2016 defines a qualifying child of working parents as a young child in respect of whom any conditions relating to a partner of a parent of the child, which are specified in regulations made by the Secretary of State, are met.Qualifying paid work requirement: employee
+16.—(1) A person who is an employee is in qualifying paid work if the person—
+(a)
+holds a national insurance number (unless paragraph (2) applies), and
+(b)
+meets the minimum income requirement in regulation 18 (unless paragraph (3) applies).
+(2) Despite paragraph (1)(a), a person is not required to hold a national insurance number if the person is—
+(a)
+a resident of an EEA State or Switzerland, and
+(b)
+not an employee in the United Kingdom.
+(3) Despite paragraph (1)(b), a person is not required to meet the minimum income requirement during any of the following—
+[F1(a)
+any period the person is—
+(i)
+a foster parent, F2...][F3or]
+[F4(ii)
+on specified leave other than leave of the kind mentioned in sub-paragraph (b);]
+[F5(b)
+[F6in the case of a person on specified leave that—
+(i)
+is not specified leave of the kind mentioned in sub-paragraph (a)(vi), (a)(vii), (b)(iv) or (b)(vii) of the definition in paragraph (4), and
+(ii)
+was started because of the birth or adoption of a child in respect of whom a declaration is being made,
+[F7the applicable period].]
+F8(c)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[F9(3A) In the case of a person in an EEA State or Switzerland, the references in paragraph (3)(a) and (b) to a person on specified leave of a particular kind mean any period the person is, under the law of that EEA State or Switzerland, on leave of a kind substantially similar to that kind of specified leave.]
+(4) In this regulation—
+F10...
+[F11“applicable period” means, in relation to a person (“P”) who returns to work from specified leave on a date in the period specified in the first column of the table, the period beginning with the date specified in the corresponding second column of the table and ending with the day before the day on which P returns to work.
+P returns to work from specified leave on a date in the period— Applicable period begins with—
+(i)
+beginning with 1st February and ending with the next 30th April
+1st January immediately preceding the start of the period specified in the first column
+(ii)
+beginning with 1st May and ending with the next 30th September
+1st April immediately preceding the start of the period specified in the first column
+(iii)
+beginning with 1st October and ending with the next 31st January
+1st September immediately preceding the start of the period specified in the first column;]
+“employment rights enactment” means any of the following—
+(a)
+the Employment Rights Act 1996(1);
+(b)
+the Employment Rights (Northern Ireland) Order 1996(2);
+“national insurance number” means a national insurance number allocated under any of the following—
+(a)
+the National Insurance Act 1965(3);
+(b)
+the National Insurance Act (Northern Ireland) 1966(4);
+(c)
+the Social Security Act 1975(5);
+(d)
+the Social Security (Northern Ireland) Act 1975(6);
+[F12“the Social Security Contributions and Benefits Act” means either of the following—
+(a)
+the Social Security Contributions and Benefits Act 1992;
+(b)
+the Social Security Contributions and Benefits (Northern Ireland) Act 1992]
+“specified leave” means, in relation to a person, any of the following—
+(a)
+a period the person is, under an employment rights enactment, absent from work during any of the following—
+(i)
+[F13ordinary or additional maternity leave;
+(ii)
+ordinary or additional adoption leave;
+(iii)
+shared parental leave;
+(iv)
+parental leave;
+(v)
+paternity leave;
+(vi)
+parental bereavement leave;]
+(vii)
+[F14carer’s leave;]
+(b)
+a period the person is, under [F15the Social Security Contributions and Benefits Act], receiving any of the following—
+(i)
+state maternity allowance;
+(ii)
+statutory adoption pay;
+(iii)
+statutory maternity pay;
+(iv)
+statutory parental bereavement pay;
+(v)
+statutory paternity pay;
+(vi)
+statutory shared parental pay;
+(vii)
+statutory sick pay.]
+Textual Amendments
+F1
+Reg. 16(3)(a) substituted (30.3.2023) by The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276), regs. 1(2), 16(a)
+F2
+Word in reg. 16(3)(a)(i) omitted (1.1.2024) by virtue of The Childcare (Free of Charge for Working Parents) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1330), regs. 1(2), 2(6)(a)(i)(aa)
+F3
+Word in reg. 16(3)(a)(i) inserted (6.4.2024) by The Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/369), regs. 1(b), 2(2)(a)
+F4
+Reg. 16(3)(a)(ii) substituted for reg. 16(3)(a)(ii)-(iv) (6.4.2024) by The Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/369), regs. 1(b), 2(2)(b)
+F5
+Reg. 16(3)(b) substituted (1.1.2024) by The Childcare (Free of Charge for Working Parents) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1330), regs. 1(2), 2(6)(a)(ii)
+F6
+Reg. 16(3)(b) substituted (6.4.2024) by The Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/369), regs. 1(b), 2(2)(c)
+F7
+Words in reg. 16(3)(b) substituted (12.5.2024) by The Childcare (Free of Charge for Working Parents) (England) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/527), regs. 1(b), 2(3)(a)
+F8
+Reg. 16(3)(c) omitted (6.4.2024) by virtue of The Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/369), regs. 1(b), 2(2)(d)
+F9
+Reg. 16(3A) inserted (6.4.2024) by The Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/369), regs. 1(b), 2(3)
+F10
+Words in reg. 16(4) omitted (1.1.2024) by virtue of The Childcare (Free of Charge for Working Parents) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1330), regs. 1(2), 2(6)(b)
+F11
+Words in reg. 16(4) inserted (12.5.2024) by The Childcare (Free of Charge for Working Parents) (England) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/527), regs. 1(b), 2(3)(b)(i)
+F12
+Words in reg. 16(4) inserted (30.3.2023) by The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276), regs. 1(2), 16(b)(ii)
+F13
+Words in reg. 16(4) substituted (30.3.2023) by The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276), regs. 1(2), 16(b)(iii)
+F14
+Words in reg. 16(4) inserted (6.4.2024) by The Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/369), regs. 1(b), 2(4)
+F15
+Words in reg. 16(4) substituted (30.3.2023) by The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276), regs. 1(2), 16(b)(iv)
+Commencement Information
+I1
+Reg. 16 in force at 1.12.2022, see reg. 1(b)
+(1)
+1996 c. 18.
+(2)
+S.I. 1996/1919 (N.I. 16).
+(3)
+1965 c. 51.
+(4)
+1966 c. 6 (N.I.).
+(5)
+1975 c. 14.
+(6)
+1975 c. 15.Qualifying paid work requirement: self-employed person
+17.—(1) A person who is a self-employed person is in qualifying paid work if the person—
+(a)
+holds a national insurance number (unless paragraph (2) applies), and
+(b)
+meets the minimum income requirement in regulation 18 (unless paragraph (3) applies).
+(2) Despite paragraph (1)(a), a person is not required to hold a national insurance number if the person is—
+(a)
+a resident of an EEA State or Switzerland, and
+(b)
+not in self-employment in the United Kingdom.
+(3) Despite paragraph (1)(b), a person is not required to meet the minimum income requirement during any of the following—
+(a)
+any period the person would, if the person were an employee, not be required to meet the minimum income requirement (see regulation 16(3));
+(b)
+if the person is in a start-up period, the period of 12 months beginning with the day on which the declaration relating to the person is made.
+(4) In this regulation, “start-up period” means the period of 12 months—
+(a)
+beginning with the day on which the person commences self-employment, but
+(b)
+only if the person did not commence self-employment in any trade, profession or vocation in the period of five years ending before that day.
+Commencement Information
+I1
+Reg. 17 in force at 1.12.2022, see reg. 1(b)Minimum income requirement
+18.—(1) A person meets the minimum income requirement if the amount of income the person expects to earn from qualifying paid work in the relevant period is an amount of income equal to or greater than the product of—
+(a)
+the minimum weekly income, and
+(b)
+the number of weeks in the relevant period.
+(2) The person may include the amount of income the person expects to earn as—
+(a)
+an employee,
+(b)
+a self-employed person, or
+(c)
+an employee and a self-employed person.
+(3) In this regulation—
+“income” means—
+(a)
+in relation to an employee—
+(i)
+any earnings within the meaning given in section 62 of the Income Tax (Earnings and Pensions) Act 2003, and
+(ii)
+any amount treated as earnings under Chapters 7 to 10 of Part 2 of the Income Tax (Earnings and Pensions) Act 2003 (which relate to agency workers and workers’ services provided through intermediaries or managed service companies);
+(b)
+in relation to a self-employed person—
+(i)
+the amount of non-capital receipts the person expects to derive from a trade, profession or vocation less the amount of non-capital expenses the person expects to incur wholly and exclusively for the purposes of the trade, profession or vocation, or
+(ii)
+if the person carries on a trade, profession or vocation in a business partnership, the share expected to be allocated to the person of the partnership’s non-capital receipts less the share expected to be allocated to that person of the partnership’s non-capital expenses incurred wholly and exclusively for the purposes of the trade, profession or vocation;
+“minimum weekly income” means, in relation to a person, the product of—
+(a)
+16, and
+(b)
+the hourly rate of the national minimum wage to which the person is entitled to be paid under the National Minimum Wage Act 1998(1);
+“non-capital” means not of a capital nature;
+“relevant period” means one of the following—
+(a)
+in the case of income as an employee, the period of three months [F1beginning with—
+(i)
+the day on which the declaration relating to the employee is made, or
+(ii)
+if regulation 7(1)(d) applies, the day on which the person expects to be a person mentioned in any of regulation 7(1)(a) to (c);]
+(b)
+in the case of income as a self-employed person, any of the following—
+(i)
+the period [F2of three months beginning with the day on which the declaration relating to the employee is made];
+(ii)
+the relevant tax year;
+(c)
+in the case of income as an employee and a self-employed person, the period mentioned in paragraph (a).
+Textual Amendments
+F1
+Words in reg. 18(3) substituted (30.3.2023) by The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276), regs. 1(2), 17(a)
+F2
+Words in reg. 18(3) substituted (30.3.2023) by The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276), regs. 1(2), 17(b)
+Commencement Information
+I1
+Reg. 18 in force at 1.12.2022, see reg. 1(b)
+(1)
+1998 c. 39.How to make a declaration
+19.—(1) This regulation relates to section 1(2)(e) of the Act(1).
+(2) A person who makes a declaration in respect of a young child must be—
+(a)
+the parent, or the partner of the parent, with whom the child normally lives, and
+(b)
+a person in the United Kingdom.
+(3) The declaration must be made—
+(a)
+to the relevant authority,
+(b)
+in either of the periods mentioned in regulation 20, and
+(c)
+in the form and manner specified under regulation 21 (if any).
+(4) In this regulation—
+“person in the United Kingdom” has the meaning given in regulation 11;
+“relevant authority” means—
+(a)
+in the case of a declaration in respect of a child who is placed with a foster parent, the responsible local authority, or
+(b)
+in the case of any other declaration, the Commissioners.
+Commencement Information
+I1
+Reg. 19 in force at 1.12.2022, see reg. 1(b)
+(1)
+Section 1(2)(e) of the Childcare Act 2016 defines a qualifying child of working parents as a young child in respect of whom a declaration has been made, in accordance with regulations made by the Secretary of State, to the effect that the requirements of section 1(2)(a) to (d) of that Act are satisfied.When a declaration may be made
+20.  A declaration in respect of a young child may be made—
+[F1(a)
+in the period of 16 weeks ending with the day before the day on which the child will meet the description in regulation 13 (if known), or]
+(b)
+in the period—
+(i)
+beginning with the day on which the child meets the description in regulation 13, and
+(ii)
+ending [F2with the day] before the day on which the child ceases to satisfy the requirements of section 1(2)(a) or (b) of the Act(1).
+Textual Amendments
+F1
+Reg. 20(a) substituted (6.4.2024) by The Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/369), regs. 1(b), 2(5)(a)
+F2
+Words in reg. 20(b)(ii) inserted (6.4.2024) by The Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/369), regs. 1(b), 2(5)(b)
+Commencement Information
+I1
+Reg. 20 in force at 1.12.2022, see reg. 1(b)
+(1)
+Section 1(2)(a) and (b) of the Childcare Act 2016 define a qualifying child of working parents as a young child who is under compulsory school age and in England, respectively.Form and manner of declaration
+21.—(1) The Commissioners or the responsible local authority (as the case may be) may specify the form of a declaration and the manner in which it is to be made.
+(2) The specification may (amongst other things)—
+(a)
+require a declaration to include information to—
+(i)
+identify the person making the declaration (and any partner of that person),
+(ii)
+identify the young child in respect of whom the declaration is being made, and
+(iii)
+determine whether the young child is a qualifying child of working parents;
+(b)
+require a declaration to be made by electronic communications;
+(c)
+if a declaration relates to a self-employed person, require a declaration to be accompanied by confirmation, orally or in writing, that the self-employed person has complied with any notice given under section 8(1) of the Taxes Management Act 1970 (which relates to personal returns).
+Commencement Information
+I1
+Reg. 21 in force at 1.12.2022, see reg. 1(b)Determination of qualifying child of working parents: Commissioners
+22.—(1) This regulation applies if—
+(a)
+a person makes a declaration to the Commissioners in respect of a young child, and
+(b)
+the Commissioners have not declined to make a determination in respect of the declaration (see regulation 23).
+(2) The Commissioners must—
+(a)
+make a determination as to whether the child is a qualifying child of working parents,
+(b)
+notify the person of the determination, and
+(c)
+include in that notification a statement to the effect that the person has—
+(i)
+a right to apply to the Commissioners for a review of the determination (see regulation 36), and
+(ii)
+a right to appeal to the First-tier Tribunal against the determination, but only after the Commissioners have considered an application for a review (see regulation 40).
+Commencement Information
+I1
+Reg. 22 in force at 1.12.2022, see reg. 1(b)Power to decline to make a determination
+23.—(1) This regulation applies if—
+(a)
+two or more persons each make a declaration to the Commissioners in respect of the same young child, and
+(b)
+it appears to the Commissioners that two or more of those persons may meet the requirements in regulation 19(2) (which provides for who can make a declaration).
+(2) The Commissioners may, in respect of one or more of the declarations, decline to make a determination as to whether the child is a qualifying child of working parents.
+(3) If the Commissioners decline to make a determination, they must—
+(a)
+notify the person who made the declaration, and
+(b)
+include in the notification a statement to the effect that the person has—
+(i)
+a right to apply to the Commissioners for a review of the decision (see regulation 36), and
+(ii)
+a right to appeal to the First-tier Tribunal against the decision, but only after the Commissioners have considered an application for a review (see regulation 40).
+Commencement Information
+I1
+Reg. 23 in force at 1.12.2022, see reg. 1(b)Determination of qualifying child of working parents: responsible local authority
+24.—(1) This regulation applies if a person makes a declaration to the responsible local authority in respect of a young child placed with a foster parent.
+(2) The responsible local authority (on behalf of the Commissioners) must—
+(a)
+make a determination as to whether the child is a qualifying child of working parents, and
+(b)
+notify the person of the determination.
+Commencement Information
+I1
+Reg. 24 in force at 1.12.2022, see reg. 1(b)Period for which declaration has effect
+25.—(1) A declaration in respect of a young child has effect for three months beginning with—
+(a)
+the day on which the young child is determined to be a qualifying child of working parents, or
+(b)
+if the declaration was made in accordance with regulation 20(a) (which provides for anticipatory declarations), the day on which the young child meets the description in regulation 13.
+(2) Despite paragraph (1), the Commissioners may, if they consider it appropriate, vary the period for which a declaration has effect—
+(a)
+by no more than two months to align the period with—
+(i)
+any entitlement period relating to the child in respect of whom the declaration was made,
+(ii)
+the period for which any declaration relating to another child has effect, or
+(iii)
+any entitlement period relating to another child, or
+(b)
+by no more than one month for any other reason.
+(3) This regulation is subject to regulation 26 (when parallel declaration ceases to have effect).
+(4) In this regulation—
+“another child” means—
+(a)
+another child of the parent of the young child in respect of whom the declaration was made, or
+(b)
+a child of the partner of that parent;
+“entitlement period” means a period determined in accordance with section 5 of the Childcare Payments Act 2014(1) (which relates to the receipt of money towards childcare costs).
+Commencement Information
+I1
+Reg. 25 in force at 1.12.2022, see reg. 1(b)
+(1)
+2014 c. 28.When a parallel declaration ceases to have effect
+26.—(1) This regulation applies if—
+(a)
+a person has made a declaration in respect of a young child (“Declaration A”),
+(b)
+Declaration A has effect (see regulation 25),
+(c)
+another person makes a declaration in respect of the same child (“Declaration B”), and
+(d)
+the child is, in relation to Declaration B, determined to be a qualifying child of working parents.
+(2) Declaration A ceases to have effect beginning with the day on which Declaration B has effect.
+Commencement Information
+I1
+Reg. 26 in force at 1.12.2022, see reg. 1(b)Period of eligibility for childcare
+27.—(1) A child is eligible for childcare under section 1 of the Act for the period—
+(a)
+beginning with whichever of 1st January, 1st April or 1st September is the first date F1... after the day on which a declaration in respect of the child has effect, and
+(b)
+ending [F2with the day] before the day on which the child ceases to be a qualifying child of working parents(1).
+(2) A year begins with the date calculated in accordance with paragraph (1) for the purposes of determining in relation to the child whether the duty in section 1(1) of the Act has been discharged(2).
+Textual Amendments
+F1
+Words in reg. 27(1)(a) omitted (12.5.2024) by virtue of The Childcare (Free of Charge for Working Parents) (England) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/527), regs. 1(b), 2(4)(a)
+F2
+Words in reg. 27(1)(b) inserted (12.5.2024) by The Childcare (Free of Charge for Working Parents) (England) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/527), regs. 1(b), 2(4)(b)
+Commencement Information
+I1
+Reg. 27 in force at 1.12.2022, see reg. 1(b)
+(1)
+A young child ceases to be qualifying child of working parents if the child is looked after by a local authority (see regulation 13), no declaration in respect of the child has effect (see regulation 25) or the child ceases to satisfy the requirements of section 1(2)(a) or (b) of the Childcare Act 2016 (which define a qualifying child of working parents as a young child who is under compulsory school age and in England, respectively).
+(2)
+Section 1(7) of the Childcare Act 2016 requires the Secretary of State to set out in regulations when a year begins for the purposes of determining in relation to a child whether the duty in section 1(1) of that Act has been discharged.Information relating to immigration and social security
+28.—(1) The Secretary of State may disclose to the Commissioners any information held by the Secretary of State for the purposes of their functions relating to any of the following—
+(a)
+immigration control;
+(b)
+social security.
+(2) The Commissioners may use the information only in connection with the making of a determination as to whether a child is a qualifying child of working parents.
+Commencement Information
+I1
+Reg. 28 in force at 1.12.2022, see reg. 1(b)Information relating to qualifying child of working parents
+29.  The Secretary of State, the Commissioners and an English local authority may disclose information to each other for the purpose of checking any of the following—
+(a)
+whether a declaration in respect of a child has been made;
+(b)
+if a declaration in respect of a child has been made, whether the child was determined to be a qualifying child of working parents (see regulations 22 and 24);
+(c)
+if a child was determined to be a qualifying child of working parents, whether the declaration in respect of the child has effect (see regulations 25 and 26).
+Commencement Information
+I1
+Reg. 29 in force at 1.12.2022, see reg. 1(b)Offence relating to onward disclosure of personal information
+30.—(1) A person commits an offence if—
+(a)
+the person discloses information in contravention of regulation 28 or 29,
+(b)
+the disclosure relates to any person whose identity—
+(i)
+is specified in the disclosure, or
+(ii)
+can be deduced from it, and
+(c)
+the disclosure is made other than in accordance with—
+(i)
+an enactment,
+(ii)
+an order of a court, or
+(iii)
+the written consent of the person to whom the information relates.
+(2) It is a defence for a person charged with an offence under this regulation to prove that the person reasonably believed—
+(a)
+that the disclosure was lawful, or
+(b)
+that the information had already and lawfully been made available to the public.
+(3) A person guilty of an offence under this regulation is liable—
+(a)
+on conviction on indictment, to imprisonment for a term not exceeding two years, to a fine or to both, or
+(b)
+on summary conviction—
+(i)
+in England and Wales, to imprisonment for a term not exceeding 12 months, to a fine or to both;
+(ii)
+in Northern Ireland, to imprisonment for a term not exceeding 6 months, to a fine not exceeding the statutory maximum or to both;
+(iii)
+in Scotland, to imprisonment for a term not exceeding 12 months, to a fine not exceeding the statutory maximum or to both.
+Commencement Information
+I1
+Reg. 30 in force at 1.12.2022, see reg. 1(b)Penalty for dishonest conduct
+31.—(1) A person is liable to a penalty under this regulation if the person engages in dishonest conduct in connection with the process of making a determination of a child’s eligibility for childcare under section 1 of the Act.
+(2) The amount of the penalty must not exceed £3,000.
+Commencement Information
+I1
+Reg. 31 in force at 1.12.2022, see reg. 1(b)Penalty for false or misleading information
+32.—(1) A person is liable to a penalty under this regulation if the person, by reason of a failure to take reasonable care, provides false or misleading information, or makes or provides a false or misleading statement, in connection with a determination of a child’s eligibility for childcare under section 1 of the Act.
+(2) Despite paragraph (1), the person is not liable to the penalty if the person—
+(a)
+becomes aware of the false or misleading information or statement, and
+(b)
+takes reasonable steps to inform the Commissioners or the responsible local authority (as the case may be).
+(3) The amount of the penalty must not exceed £500.
+Commencement Information
+I1
+Reg. 32 in force at 1.12.2022, see reg. 1(b)Penalty for material inaccuracy in declaration
+33.—(1) A person is liable to a penalty under this regulation if, by reason of a failure to take reasonable care, the person includes a material inaccuracy in a declaration.
+(2) The amount of the penalty must not exceed £300.
+Commencement Information
+I1
+Reg. 33 in force at 1.12.2022, see reg. 1(b)Assessment of penalty
+34.—(1) If a person becomes liable to a penalty under any of regulations 31, 32 or 33—
+(a)
+the Commissioners may, subject to paragraph (3), assess the penalty, and
+(b)
+if they do so, they must notify the person.
+(2) The notification must include a statement to the effect that the person has—
+(a)
+a right to apply to the Commissioners for a review of the penalty or its amount (see regulation 36), and
+(b)
+a right to appeal to the First-tier Tribunal against the determination, but only after the Commissioners have considered an application for a review (see regulation 40).
+(3) The Commissioners must not assess a penalty in relation to a person after the end of whichever of the following ends first—
+(a)
+the period of one year beginning with the day on which the Commissioners first believed, or had reasonable grounds for believing, the person was liable to the penalty;
+(b)
+in the case of a penalty under regulation 31, the period of 20 years beginning with the day on which the person became liable to the penalty;
+(c)
+in the case of a penalty under regulation 32, the period of four years beginning with the day on which the person became liable to the penalty.
+Commencement Information
+I1
+Reg. 34 in force at 1.12.2022, see reg. 1(b)Enforcement of penalty
+35.—(1) This regulation applies if the Commissioners notify a person of a penalty (see regulation 34).
+(2) The person must pay the penalty—
+(a)
+if the person does not apply for a review (see regulation 36)—
+(i)
+within 30 days of the day on which the notification is made, or
+(ii)
+if the person is granted an extension to their right to apply for a review, on or before the date notified under regulation 37(5)(a)(ii);
+(b)
+if the person applies for a review, unless the penalty is set aside, within 30 days of the day on which the person is notified of the outcome of the review (see regulation 38(5));
+(c)
+if the person gives notice of appeal (see regulation 39), unless the penalty is set aside, on or before the day after the day on which—
+(i)
+the First-tier Tribunal gives a decision (see regulation 42), or
+(ii)
+if the person gives notice of the withdrawal of their case, the First-tier Tribunal consents to that withdrawal.
+(3) A penalty may be enforced as if it were income tax charged in an assessment and due and payable.
+Commencement Information
+I1
+Reg. 35 in force at 1.12.2022, see reg. 1(b)Right to apply for review
+36.—(1) This regulation applies if the Commissioners notify a person of any of the following—
+(a)
+a decision to decline to make a determination as to whether a child is a qualifying child of working parents (see regulation 23);
+(b)
+a determination as to whether a child is a qualifying child of working parents (see regulation 22);
+(c)
+the assessment of a penalty (see regulation 34).
+(2) The person may apply to the Commissioners for a review of (as the case may be)—
+(a)
+the decision,
+(b)
+the determination, or
+(c)
+the penalty or its amount.
+(3) The application must—
+(a)
+be made—
+(i)
+within 30 days of the day on which the notification is made, or
+(ii)
+if the person is granted an extension of their right to apply for a review, on or before the date notified under regulation 37(5)(a)(ii),
+(b)
+be in the form and manner specified under paragraph (4) (if any), and
+(c)
+include the person’s reasons for the application.
+(4) The Commissioners may specify—
+(a)
+the form of an application, and
+(b)
+the manner in which it is to be made (which may require electronic communications).
+Commencement Information
+I1
+Reg. 36 in force at 1.12.2022, see reg. 1(b)Extension of right to apply for review
+37.—(1) This regulation applies if the Commissioners notify a person of a matter mentioned in regulation 36(1).
+(2) The person may apply to the Commissioners for an extension of their right to apply for a review.
+(3) The application must—
+(a)
+be made within seven months of the day on which the notification is made,
+(b)
+be in the form and manner specified under paragraph (6) (if any), and
+(c)
+include the applicant’s reasons why it is, or was, not practicable for the person to apply for the review within 30 days of the day on which the notification is made.
+(4) The Commissioners may—
+(a)
+grant the application if they are satisfied—
+(i)
+it is (or was) not practicable due to special circumstances for the person to apply for the review within 30 days of the day on which the notification is made, and
+(ii)
+the granting of the application is reasonable in all the circumstances of the case, or
+(b)
+decline the application.
+(5) If the Commissioners—
+(a)
+grant the application, they must—
+(i)
+specify a date on or before which the applicant must apply for the review, and
+(ii)
+notify the applicant of that date;
+(b)
+decline the application—
+(i)
+they must notify the applicant, and
+(ii)
+the applicant must not make any further application in respect of the matter.
+(6) The Commissioners may specify—
+(a)
+the form of the application, and
+(b)
+the manner in which the application is made.
+Commencement Information
+I1
+Reg. 37 in force at 1.12.2022, see reg. 1(b)Review procedure
+38.—(1) This regulation applies if a person (“the applicant”) makes an application for a review.
+(2) The Commissioners must—
+(a)
+review (as the case may be)—
+(i)
+the decision to decline to make a determination as to whether a child is a qualifying child of working parents,
+(ii)
+the determination as to whether a child is a qualifying child of working parents, or
+(iii)
+the imposition of the penalty or its amount, and
+(b)
+complete the review—
+(i)
+if no request under paragraph (3) is made, within 30 days of the day on which the application is made,
+(ii)
+if a request under paragraph (3) is made, within 44 days of the day on which the application is made, or
+(iii)
+within any other period agreed between the Commissioners and the applicant.
+(3) The Commissioners may ask the applicant to provide further information or evidence in support of their application.
+(4) If the Commissioners ask for further information or evidence, the Commissioners—
+(a)
+must consider any information or evidence the applicant provides to the Commissioners within 14 days of the day on which the request is made, and
+(b)
+may disregard any information or evidence provided after that period.
+(5) Following the review, the Commissioners must—
+(a)
+confirm, revise or set aside (as the case may be)—
+(i)
+the decision,
+(ii)
+the determination, or
+(iii)
+the penalty or its amount, and
+(b)
+notify the applicant of the result of the review.
+(6) If the Commissioners revise a determination to determine that a child is a qualifying child of working parents, the date of the determination is the date on which the determination is revised.
+Commencement Information
+I1
+Reg. 38 in force at 1.12.2022, see reg. 1(b)Right to appeal following review
+39.—(1) This regulation applies if a person makes an application to the Commissioners for a review of—
+(a)
+a decision to decline to make a determination as to whether a child is a qualifying child of working parents,
+(b)
+a determination as to whether a child is a qualifying child of working parents, or
+(c)
+a penalty or its amount.
+(2) Following the review, the person may appeal to the First-tier Tribunal(1) against (as the case may be)—
+(a)
+the decision (see regulation 40),
+(b)
+the determination (see regulation 41), or
+(c)
+the penalty or its amount (see regulation 42).
+Commencement Information
+I1
+Reg. 39 in force at 1.12.2022, see reg. 1(b)
+(1)
+An appellant must start proceedings by sending or delivering a notice of appeal to the First-tier Tribunal (see rule 22 of the Tribunal Procedure (First-tier Tribunal) (Social Entitlement Chamber) Rules 2008).Appeal against decision to decline to make a determination
+40.—(1) This regulation applies if a person appeals to the First-tier Tribunal against a decision to decline to make a determination as to whether a child is a qualifying child of working parents.
+(2) The Tribunal may—
+(a)
+confirm the decision, or
+(b)
+set aside the decision.
+(3) If the Tribunal sets aside the decision, the Commissioners must comply with regulation 22(2) in respect of the declaration (which requires a determination as to whether a child is a qualifying child of working parents).
+Commencement Information
+I1
+Reg. 40 in force at 1.12.2022, see reg. 1(b)Appeal against determination as to qualifying child of working parents
+41.—(1) This regulation applies if a person appeals to the First-tier Tribunal against a determination as to whether a child is a qualifying child of working parents.
+(2) The Tribunal may—
+(a)
+confirm the determination, or
+(b)
+withdraw any part of the determination the Tribunal finds was—
+(i)
+based on an error in fact, or
+(ii)
+wrong in law.
+(3) If the Tribunal withdraws a part of the determination—
+(a)
+it must for that part substitute its own determination, and
+(b)
+the substituted determination is to be treated as if it were a determination made by the Commissioners or the responsible local authority (as the case may be) on the date of the notice that states the Tribunal’s decision(1).
+Commencement Information
+I1
+Reg. 41 in force at 1.12.2022, see reg. 1(b)
+(1)
+The First-tier Tribunal will send to the parties to the appeal a decision notice as soon as reasonably practicable after making its decision (see rule 33(2)(a) of the Tribunal Procedure (First-tier Tribunal) (Social Entitlement Chamber) Rules 2008).Appeal against imposition of penalty or amount
+42.—(1) This regulation applies if a person appeals to the First-tier Tribunal against the imposition of a penalty or its amount.
+(2) The Tribunal may—
+(a)
+uphold the imposition of the penalty,
+(b)
+set aside the penalty, or
+(c)
+substitute the amount of the penalty with an amount the Tribunal determines.
+Commencement Information
+I1
+Reg. 42 in force at 1.12.2022, see reg. 1(b)Power to settle appeals by agreement
+43.—(1) This regulation applies if—
+(a)
+a person has a right of appeal to the First-tier Tribunal (see regulation 39),
+(b)
+the person starts proceedings in the Tribunal (by sending or delivering a notice of appeal to it), and
+(c)
+the Tribunal has not finally disposed of all issues in the proceedings.
+(2) The Commissioners may agree with the appellant, in writing or otherwise, that the Commissioners’ decision, determination or penalty or its amount (as the case may be) is to be treated as—
+(a)
+upheld without variation,
+(b)
+as varied in a particular manner, or
+(c)
+as discharged or cancelled.
+(3) If the agreement is not in writing, the Commissioners must notify the appellant in writing of—
+(a)
+the fact that an agreement was made,
+(b)
+the terms agreed,
+(c)
+the date of the agreement, and
+(d)
+the appellant’s right under paragraph (4) to repudiate or resile from the agreement.
+(4) The appellant may, within 30 days of the day on which the agreement is made, give notice to the Commissioners that the appellant desires to repudiate or resile from the agreement.
+(5) If the notice mentioned in paragraph (4) is not given—
+(a)
+the Commissioners must send notice of the agreement to the First-tier Tribunal, and
+(b)
+the Tribunal must treat the notice as if it were a request for a consent order.
+(6) In this regulation—
+“appellant” means the person mentioned in paragraph (1);
+“consent order” means a consent order made by the First-tier Tribunal under rule 32 of the Tribunal Procedure (First-tier Tribunal) (Social Entitlement Chamber) Rules 2008(1);
+Commencement Information
+I1
+Reg. 43 in force at 1.12.2022, see reg. 1(b)
+(1)
+S.I. 2008/2685, amended by S.I. 2009/274, 1975, 2010/43, 2653, 2011/651, 2012/500, 2007, 2785, 2013/477, 2067, 2014/514, 2128, 2015/1510, 2018/1053 and 2020/651.Duty to secure childcare available free of charge
+44.—(1) An English local authority must secure that childcare is made available free of charge for every child in its area who is a qualifying child of working parents.
+(2) The childcare must be—
+(a)
+provided by a childcare provider, and
+(b)
+made available for 570 hours during no fewer than 38 weeks in each year.
+[F1(3) In determining, for the purposes of paragraph (1), the amount of childcare that is available to a child, account is to be taken of any childcare available under the duty imposed by section 7(1) of the Childcare Act 2006 (duty of English local authorities to secure early years provision free of charge in accordance with regulations)—
+(a)
+during the period beginning with 1st April 2024 and ending with 31st August 2025, in respect of a young child who meets the condition in regulation 3(2), but who does not also meet the condition in regulation 3(3), of the Local Authority (Duty to Secure Early Years Provision Free of Charge) Regulations 2014 (prescribed description of a young child), and
+(b)
+from 1st September 2025, in respect of a young child who meets the condition in regulation 3(2) or (3) of the Local Authority (Duty to Secure Early Years Provision Free of Charge) Regulations 2014.]
+Textual Amendments
+F1
+Reg. 44(3) inserted (1.1.2024) by The Childcare (Free of Charge for Working Parents) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1330), regs. 1(2), 2(8)(b)
+Commencement Information
+I1
+Reg. 44 in force at 1.12.2022, see reg. 1(b)Duty to make arrangements with childcare provider chosen by parent
+45.—(1) The parent of a child in the area of an English local authority may choose a childcare provider to provide the childcare the local authority must secure for the child (see regulation 44).
+(2) The local authority must make arrangements for the childcare if the provider is willing—
+(a)
+to provide the childcare to the child, and
+(b)
+to accept as part of the arrangements—
+(i)
+the local authority’s terms as to payment for the childcare,
+(ii)
+the mandatory termination provision (see regulation 46), and
+(iii)
+any requirements the local authority seeks to impose (see regulation 47).
+(3) Paragraph (2) does not apply if the provider is any of the following—
+(a)
+a childcare provider the local authority has grounds to believe would not be able to satisfy a requirement the authority would impose if arrangements were made;
+(b)
+a childminder registered with an early years childminder agency that—
+(i)
+fails in its most recent inspection report (if any) to achieve a grade of “effective” or better, or
+(ii)
+notifies the local authority that, in the agency’s reasonable opinion, the childminder has ceased to provide childcare of satisfactory quality;
+(c)
+a childcare provider (other than a childminder registered with [F1an early years childminder agency]) that fails in its most recent inspection report (if any) to achieve Grade 3 (“requires improvement”) or better for the overall effectiveness of its childcare.
+(4) Paragraph (2)(b) does not apply if the provider is the governing body of a maintained school(1).
+Textual Amendments
+F1
+Words in reg. 45(3)(c) substituted (30.3.2023) by The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276), regs. 1(2), 18
+Commencement Information
+I1
+Reg. 45 in force at 1.12.2022, see reg. 1(b)
+(1)
+Arrangements between an English local authority and the governing body of a maintained school are regulated by statute, in particular the School Standards and Framework Act 1998 (c. 31).Arrangements to provide for termination
+46.  An English local authority must, as part of arrangements with a childcare provider under regulation 45(2), include provision authorising the local authority to terminate the arrangements if the provider—
+(a)
+ceases to be a childcare provider (see regulation 6), or
+(b)
+becomes a childcare provider mentioned in regulation 45(3)(b) or (c) (which relates to minimum standard of childcare).
+Commencement Information
+I1
+Reg. 46 in force at 1.12.2022, see reg. 1(b)Requirements permissible in arrangements
+47.—(1) As part of any arrangements with a childcare provider under regulation 45(2), an English local authority may impose on the provider one or more of only the following requirements—
+(a)
+a requirement to enable the local authority to—
+(i)
+comply with its duty to make arrangements with a childcare provider chosen by the parent of a child (see regulation 45), and
+(ii)
+terminate the arrangements (see regulation 46);
+(b)
+a requirement for the purpose of satisfying one or more of the following objectives—
+(i)
+that the childcare is provided free of charge;
+(ii)
+that the childcare is provided in a pattern to suit the needs of the parents of the children for whom the childcare is provided;
+(iii)
+that any financial assistance provided by a local authority under the arrangements is used properly and in accordance with the arrangements;
+(c)
+a requirement for the purpose of meeting the needs of a child—
+(i)
+to whom the local authority owes a duty under regulation 45, and
+(ii)
+who has a disability or special educational needs;
+(d)
+a requirement that the provider actively promotes the fundamental British values of —
+(i)
+democracy,
+(ii)
+individual liberty,
+(iii)
+mutual respect and tolerance of those with different faiths and beliefs, and
+(iv)
+the rule of law;
+(e)
+a requirement that views or theories contrary to established scientific or historical evidence and explanations are not promoted as evidence-based views or theories;
+(f)
+a requirement that, if the childcare provider (being other than a childminder registered with [F1an early years childminder agency]) achieves in its most recent inspection report (if any) the minimum grade mentioned in regulation 45(3)(c) or worse, the provider takes the measures specified in the report—
+(i)
+to improve the overall effectiveness of its childcare, and
+(ii)
+which may include the participation in any training or other quality improvement programme specified in the report;
+(g)
+a requirement necessary for the effective administration of the arrangements.
+(2) In this regulation—
+“disability” has the meaning given in section 6 of the Equality Act 2010(1);
+“special educational needs” has the meaning given in section 20 of the Children and Families Act 2014(2).
+Textual Amendments
+F1
+Words in reg. 47(1)(f) substituted (30.3.2023) by The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276), regs. 1(2), 19
+Commencement Information
+I1
+Reg. 47 in force at 1.12.2022, see reg. 1(b)
+(1)
+2010 c. 15.
+(2)
+2014 c. 6.Requirements prohibited in arrangements
+48.  An English local authority must not, as part of arrangements with a childcare provider under regulation 45(2), impose on the provider any of the following—
+(a)
+a requirement that the provider attend a training or other quality improvement programme other than that specified in an inspection report;
+(b)
+a requirement subjecting the provider to a quality assessment process conducted by the local authority relating to—
+(i)
+in the case of a childminder registered with an early years childminder agency, the quality of the agency’s services, or
+(ii)
+in the case of any other childcare provider, the quality of the provider’s childcare.
+Commencement Information
+I1
+Reg. 48 in force at 1.12.2022, see reg. 1(b)Duty of English local authority to have regard to guidance
+49.  An English local authority must, when discharging its duties under these Regulations, have regard to any guidance given from time to time by the Secretary of State.
+Commencement Information
+I1
+Reg. 49 in force at 1.12.2022, see reg. 1(b)Signed by authority of the Secretary of State for Education
+Claire Coutinho
+Parliamentary Under Secretary of State
+Department for Education
+8th November 2022
+We consent.
+Nigel Huddleston
+Amanda Solloway
+Two of the Commissioners of His Majesty’s Treasury
+7th November 2022Regulation 3
+SCHEDULE
+Consequential amendments and revocations
+Consequential amendments
+Amendment of the Childcare Act 2006 (Provision of Information to Parents) (England) Regulations 2007
+1.—(1) The Childcare Act 2006 (Provision of Information to Parents) (England) Regulations 2007(1) are amended in accordance with paragraph (2).
+(2) In regulation 1(2)—
+(a)
+in the definition of “the extended entitlement”, for “regulation 33 of the Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016” substitute “regulation 44 of the Childcare (Free of Charge for Working Parents) (England) Regulations 2022(2)”;
+(b)
+in the definition of “free early years provision”, in paragraph (b), for “regulation 33 of the Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016” substitute “regulation 44 of the Childcare (Free of Charge for Working Parents) (England) Regulations 2022”.
+Commencement Information
+I1
+Sch. para. 1 in force at 1.12.2022, see reg. 1(b)
+Amendment of the First-tier Tribunal and Upper Tribunal (Chambers) Order 2010
+2.—(1) The First-tier Tribunal and Upper Tribunal (Chambers) Order 2010(3) is amended in accordance with sub-paragraph (2).
+(2) In Article 6(eb), for “the Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016” substitute “the Childcare (Free of Charge for Working Parents) (England) Regulations 2022”.
+Commencement Information
+I2
+Sch. para. 2 in force at 1.12.2022, see reg. 1(b)
+Amendment of the Childcare Payments Regulations 2015
+3.—(1) The Childcare Payments Regulations 2015(4) are amended on accordance with sub-paragraph (2).
+(2) In regulation 5(1)(d), for “regulation 15 of the Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016” substitute “regulation 25 of the Childcare (Free of Charge for Working Parents) (England) Regulations 2022”.
+Commencement Information
+I3
+Sch. para. 3 in force at 1.12.2022, see reg. 1(b)
+Amendment of the Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016
+4.—(1) The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016(9) are amended in accordance with sub-paragraphs (2) to (5)
+(2) In the title to the instrument, for “Childcare (Early Years Provision Free of Charge) (Extended Entitlement)” substitute “Childcare Act 2016 (Consequential Amendments)”.
+(3) In regulation 1(1), for “Childcare (Early Years Provision Free of Charge) (Extended Entitlement)” substitute “Childcare Act 2016 (Consequential Amendments)”.
+(4) In regulation 1(2), for “1, 2, 3” substitute “1”;
+(5) Omit—
+(a)
+regulation 1(3) (which relates to the commencement of Part 4);
+(b)
+regulation 2 (interpretation);
+(c)
+Part 2 (a qualifying child of working parents);
+(d)
+Part 3 (information, reviews, appeals and penalties);
+(e)
+Part 4 (local authorities’ duty to secure early years provision).
+Commencement Information
+I4
+Sch. para. 4 in force at 1.12.2022, see reg. 1(b)
+Amendment of the Childcare (Disqualification) and Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2018
+5.—(1) The Childcare (Disqualification) and Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2018(5) are amended in accordance with sub-paragraph (2).
+(2) Omit Part 3 (amendment of the Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016).
+Commencement Information
+I5
+Sch. para. 5 in force at 1.12.2022, see reg. 1(b)
+Amendment of the Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020
+6.—(1) The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020(6) are amended in accordance with sub-paragraph (2).
+(2) Omit regulation 40 (Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016).
+Commencement Information
+I6
+Sch. para. 6 in force at 1.12.2022, see reg. 1(b)
+Amendment of the Tax Credits, Childcare Payments and Childcare (Extended Entitlement) (Coronavirus and Miscellaneous Amendments) Regulations 2020
+7.—(1) The Tax Credits, Childcare Payments and Childcare (Extended Entitlement) (Coronavirus and Miscellaneous Amendments) Regulations 2020(7) are amended in accordance with sub-paragraph (2).
+(2) Omit regulation 5 (Amendment of the Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016).
+Commencement Information
+I7
+Sch. para. 7 in force at 1.12.2022, see reg. 1(b)
+Amendment of the Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022
+8.—(1) The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022(8) are amended in accordance with sub-paragraph (2).
+(2) In the Schedule, in Part 2, in the table, in Column 1, omit the words “Regulation 19(5) of the Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016 (S.I. 2016/1257)”.
+Commencement Information
+I8
+Sch. para. 8 in force at 1.12.2022, see reg. 1(b)
+Revocations
+Revocations
+9.  The enactments cited in the table are revoked.
+Title Number
+The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2017 S.I. 2017/1160
+The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Coronavirus) (Amendment) Regulations 2020 S.I. 2020/712
+The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2021 S.I. 2021/674
+The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) (No. 2) Regulations 2021 S.I. 2021/1168
+Commencement Information
+I9
+Sch. para. 9 in force at 1.12.2022, see reg. 1(b)
+(1)
+S.I. 2007/3490, amended by S.I. 2017/333; other amending instruments are not relevant.
+(2)
+S.I. 2022/1134.
+(3)
+S.I. 2010/2655, amended by S.I. 2020/137; other amending instruments are not relevant.
+(4)
+S.I. 2015/522, amended by S.I. 2017/1096; other amending instruments are not relevant.
+(5)
+S.I. 2018/794, amended by paragraph 439 of Schedule 24 to the Sentencing Act 2020 and S.I. 2019/237.
+(6)
+S.I. 2020/354.
+(7)
+S.I. 2020/1515.
+(8)
+S.I. 2022/500 (c. 18).
+(9)
+S.I. 2016/1257, amended by paragraph 446(1) of Schedule 24 to the Sentencing Act 2020 (c. 17) and S.I. 2017/1160, 2018/794, 2020/354, 712, 1515, 2021/674, 1168 and 2022/500.EXPLANATORY NOTE
+(This note is not part of these Regulations)
+These Regulations secure that childcare is available free of charge for qualifying children of working parents.
+These Regulations replace the Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016 (S.I. 2016/1257).
+Part 3 provides for determinations as to whether a child is eligible for childcare under section 1 of the Childcare Act 2016 (c. 5) (“the Act”). In summary:
+regulations 13 to 18 specify matters for the purposes of section 1(2)(c) and (d) of the Act (which relate to the definition of “qualifying child of working parents”);
+regulations 19 to 21 provide for the making of declarations under section 1(2)(e) of the Act (to the effect that a child is a qualifying child of working parents);
+regulations 22 to 24 provide for the making of determinations as to whether a child is a qualifying child of working parents;
+regulations 25 and 26 set out the period for which a declaration in respect of a child determined to be a qualifying child of working parents has effect;
+regulation 27 sets out the period for which a child (in respect of whom a declaration has effect) is eligible for childcare under section 1 of the Act.
+regulations 28 and 29 provide for the disclosure of information.
+Part 4 sets out offences and penalties. In summary:
+regulation 30 makes it an offence to share unlawfully any personal information disclosed under regulation 28 or 29;
+regulations 31 to 33 establish penalties for certain conduct connected with determinations as to whether a child is eligible for childcare under section 1 of the Act;
+regulations 34 and 35 provide for the assessment and enforcement of penalties.
+Part 5 provides for reviews and appeals. In summary:
+regulations 36 to 38 provide for the review of, and the procedure to review, certain decisions made by the Commissioners for His Majesty’s Revenue and Customs;
+regulation 39 provides for appeals to the First-tier Tribunal against decisions reviewed under regulations 36 to 38;
+regulations 40 to 42 sets out the decisions the First-tier Tribunal may make in appeals.
+regulation 43 provides that the Commissioners for His Majesty’s Revenue and Customs and an appellant may settle an appeal by agreement before it is finally disposed.
+Part 6 sets out the duties of English local authorities. In summary:
+regulation 44 requires an English local authority to secure that childcare is made available free of charge for qualifying children of working parents in their area;
+regulations 45 to 48 require, and provide for, an English local authority to make arrangements with a childcare provider the parent of a child chooses to provide any childcare the local authority must secure for their child;
+regulation 49 requires an English local authority, when discharging its duties under these Regulations, to have regard to any guidance given by the Secretary of State.
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary, or public sector is foreseen.
+An Explanatory Memorandum is published alongside this instrument at www.legislation.gov.uk.
+Table of corresponding provisions
+The following table sets out where the regulatory provisions of the Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016 (“the 2016 Regulations”) may be found in these Regulations.
+Origin in the 2016 Regulations Destination in these Regulations
+Regulation 3(1) Regulations 13 and 20(a)
+Regulation 3(2) and (3) Regulation 9
+Regulations 4 and 4A Regulations 14 and 15
+Regulation 5(1) and (1A) Regulations 16 and 17(1) and (2)
+Regulation 5(2) Regulation 7(1)(c)
+Regulations 5(3) to (6) and 6 Regulation 18
+Regulation 7 Regulation 17(3)(b) and (4)
+Regulations 8 and 9 Regulations 16(3) and 17(3)(a)
+Regulation 10 Regulation 10
+Regulation 11 Regulation 19(2)
+Regulation 12 Regulation 11
+Regulations 13 and 14 Regulation 21
+Regulations 15 and 16 Regulations 25 to 27
+Regulation 17 Regulation 22
+Regulation 17A Regulation 24
+Regulation 18(1) to (3) Regulation 28
+Regulation 18(4) to (6) Regulation 29
+Regulation 19 Regulation 30
+Regulation 20 Regulation 22(2)(c)
+Regulations 21 and 29 Regulations 36 and 38
+Regulations 22 and 30 Regulation 37
+Regulations 23 and 31 Regulation 39
+Regulation 24 Regulation 41
+Regulation 25 Regulation 33
+Regulation 26 Regulation 32
+Regulation 27 Regulation 31
+Regulation 28 Regulation 34
+Regulation 32 Regulation 42
+Regulations 33 and 35 Regulation 44
+Regulation 34 Regulation 6(1)(a)
+Regulation 36 Regulation 45
+Regulation 37 Regulation 46
+Regulation 38(1) Regulation 47
+Regulation 38(2) Regulation 48
+Regulation 39 Regulation 49

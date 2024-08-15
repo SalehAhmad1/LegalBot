@@ -1,0 +1,1450 @@
+STATUTORY INSTRUMENTS
+2022 No. 1335
+EDUCATION
+The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022
+Made
+13th December 2022
+Laid before Parliament
+15th December 2022
+Laid before Senedd Cymru
+15th December 2022
+Coming into force in accordance with regulation 2
+The Secretary of State for Education makes these Regulations in exercise of the powers conferred by—
+(a)
+sections 73(f) and 73B(1) and (3) of the Education (Scotland) Act 1980(1),
+(b)
+sections 22(1), (2)(g), (3), (4)(b) and (5) and 42(6) of the Teaching and Higher Education Act 1998(2), and
+(c)
+sections 5(2), (3) and (4) and 6(1) and (2) of the Sale of Student Loans Act 2008(3).
+The Welsh Ministers make these Regulations in exercise of the powers conferred by—
+(a)
+sections 22(1), (2)(g), (3)(a) to (d) and (4)(b) and 42(6) of the Teaching and Higher Education Act 1998, now exercisable by them(4), and
+(b)
+sections 5(4) and 6(1) and (2)(a) of the Sale of Student Loans Act 2008.
+(1)
+1980 c. 44. Section 73(f) was amended by section 29(1) of the Teaching and Higher Education Act 1998 (c. 30) and section 3(2) of the Education (Graduate Endowment and Student Support) (Scotland) Act 2001 (asp 6). Section 73B was inserted by section 29(2) of the Teaching and Higher Education Act 1998 (c. 30).
+(2)
+1998 c. 30. Section 22(1) was amended by section 146(2)(a) of the Learning and Skills Act 2000 (c. 21). Section 22(3) was amended by section 42(1) of the Higher Education Act 2004 (c. 8), section 257(2) of the Apprenticeships, Skills, Children and Learning Act 2009 (c. 22) and section 88(5) of the Higher Education and Research Act 2017 (c. 29). Section 22(5) was amended by paragraph 236(a) of Schedule 6 to the Income Tax (Earnings and Pensions) Act 2003 (c. 1).
+(3)
+2008 c. 10.
+(4)
+The functions of the Secretary of State under section 22(1), (2)(g), (3)(a) to (d) and (4)(b) in relation to Wales were transferred to the National Assembly for Wales by section 44(1) of the Higher Education Act 2004 (c. 8). The functions of the Secretary of State under section 42(6) in relation to Wales were transferred to the National Assembly for Wales by S.I. 1999/672. The aforementioned functions of the National Assembly for Wales were transferred to the Welsh Ministers by paragraph 30 of Schedule 11 to the Government of Wales Act 2006 (c. 32). The National Assembly for Wales was renamed Senedd Cymru or the Welsh Parliament by section 2 of the Senedd and Elections (Wales) Act 2020 (anaw 1).Citation
+1.  These Regulations may be cited as the Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022.
+Commencement Information
+I1
+Reg. 1 in force at 16.1.2023, see reg. 2(1)(a)Commencement
+2.—(1) The following provisions come into force on 16th January 2023—
+(a)
+this Part;
+[F1(aa)
+regulation 4;]
+(b)
+regulation 22;
+(c)
+regulation 25(13) and (15);
+(d)
+regulation 27(4) and (5);
+(e)
+regulation 66.
+(2) The remainder of these Regulations come into force on 6th April 2023.
+Textual Amendments
+F1
+Reg. 2(1)(aa) inserted (15.1.2023) by The Education (Student Loans) (Repayment) (Amendment) (No. 5) Regulations 2022 (S.I. 2022/1392), regs. 1(b), 3
+Commencement Information
+I1
+Reg. 2 in force at 16.1.2023, see reg. 2(1)(a)Extent
+3.  These Regulations extend to England and Wales subject to the following—
+(a)
+[F1this Part and regulations 4,] 6F2... and 65 also extend to Northern Ireland and Scotland;
+[F3(aa)
+regulation 11, insofar as it relates to regulations 8B and 8C of the Education (Student Loans) (Repayment) Regulations 2009, also extends to Northern Ireland and Scotland;]
+(b)
+an amendment or revocation made by these Regulations has the same extent as the provision amended or revoked.
+Textual Amendments
+F1
+Words in reg. 3(a) substituted (15.1.2023) by The Education (Student Loans) (Repayment) (Amendment) (No. 5) Regulations 2022 (S.I. 2022/1392), regs. 1(b), 4
+F2
+Words in reg. 3(a) omitted (1.6.2023) by virtue of The Education (Student Finance) (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/521), regs. 1(1), 3(2)
+F3
+Reg. 3(aa) inserted (1.6.2023) by The Education (Student Finance) (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/521), regs. 1(1), 3(3)
+Commencement Information
+I1
+Reg. 3 in force at 16.1.2023, see reg. 2(1)(a)Amendment of the Education (Student Loans) (Repayment) Regulations 2009
+4.  The Education (Student Loans) (Repayment) Regulations 2009(1) are amended in accordance with regulations 5 to 65.
+Commencement Information
+I1
+Reg. 4 in force at 16.1.2023, see reg. 2(1)(aa) (as inserted by S.I. 2022/1392, regs. 1(b), 3)
+(1)
+S.I. 2009/470, amended by S.I. 2010/661, 1010, 2011/784, 2012/836, 1309, 2013/388, 591, 607, 1881, 2014/651, 2017/831, 2018/284, 599, 810, 2019/189, 2021/191, 677, 1005, 1378, 2022/301, 889 and 1151.Amendments to regulation 3 (interpretation)
+5.—(1) In regulation 3(1)—
+(a)
+after the definition of “the 2008 Act” (which is omitted by sub-paragraph (q)) insert—
+““the 2000 (Scotland) Regulations” means the Repayment of Student Loans (Scotland) Regulations 2000(1);”;
+(b)
+for the definition of “the Authority” substitute—
+““the Authority” means—
+(a)
+in relation to a plan 1, 2 or 3 loan and subject to regulation 7—
+(i)
+the Welsh Ministers in the case of a loan made or deemed made by them, or
+(ii)
+the Secretary of State in any other case;
+(b)
+in relation to a plan 4 loan—
+(i)
+the Scottish Ministers, or
+(ii)
+a person exercising functions in accordance with arrangements made under section 73A(3) of the Education (Scotland) Act 1980;
+(c)
+in relation to a plan 5 loan and subject to regulation 7, the Secretary of State;”;
+(c)
+for the definition of “borrower” substitute—
+““borrower” means a person—
+(a)
+in respect of whom a student loan has been paid, and
+(b)
+who has not received a notice from the Authority or the loan purchaser (as the case may be) that the loan has been repaid in full or cancelled;”;
+(d)
+after the definition of “borrower” insert—
+““country” includes territory;
+“country-specific multiplier” means the country-specific multiplier calculated in accordance with regulation 8A;”;
+(e)
+after the definition of “eligible borrower” (which is omitted by sub-paragraph (q)) insert—
+““eligible course” means any of the following—
+(a)
+a course for the Certificate of Higher Education;
+(b)
+a course for the Diploma of Higher Education;
+(c)
+a course for the Higher National Certificate or Higher National Diploma of—
+(i)
+the Business and Technician Education Council, or
+(ii)
+the Scottish Qualifications Authority;
+(d)
+a foundation degree course;
+(e)
+an ordinary degree course;”;
+(f)
+in the definition of “loan purchaser”, for “one or more student loans or postgraduate degree loans made pursuant to Regulations made under section 22 of the 1998 Act” substitute “a plan 1 loan”;
+(g)
+after the definition of “part-time” (which is omitted by sub-paragraph (q)) insert—
+““plan 1 loan” has the meaning given in regulation 3A;
+“plan 2 loan” has the meaning given in regulation 3B;
+“plan 3 loan” has the meaning given in regulation 3C;
+“plan 4 loan” has the meaning given in regulation 3D;
+“plan 5 loan” has the meaning given in regulation 3E;”;
+(h)
+after the definition of “postgraduate degree loan borrower” (which is omitted by sub-paragraph (q)) insert—
+““principal” has the meaning given in regulation 4(3);”;
+(i)
+for the definition of “repayment” substitute—
+““repayment” has the meaning given in regulation 4(2);”;
+(j)
+for the definition of “repayment threshold” substitute—
+““repayment threshold” means the repayment threshold set out in, or calculated in accordance with, Schedule 1A;”;
+(k)
+after the definition of “repayment threshold” insert—
+““repayment threshold variable” means the repayment threshold variable calculated in accordance with regulation 8B;”;
+(l)
+after the definition of “repayment threshold year” insert—
+““residence” has the same meaning as in the Taxes Acts (whether in relation to the United Kingdom or any other country);
+“retail price index” means the RPI All Items Index published by the Office for National Statistics(2);”;
+(m)
+after the definition of “Secretary of State” insert—
+““standard interest rate” means, in relation to a loan, the greater of—
+(a)
+zero, or
+(b)
+the percentage increase in the retail price index between the two Marches immediately before the commencement of the academic year in which the loan bears interest(3);”;
+(n)
+for the definition of “student loan” substitute—
+““student loan” means any of the following—
+(a)
+a plan 1 loan;
+(b)
+a plan 2 loan;
+(c)
+a plan 3 loan;
+(d)
+a plan 4 loan;
+(e)
+a plan 5 loan;”;
+(o)
+after the definition of “Teachers’ Regulations” (which is omitted by sub-paragraph (q)) insert—
+““transfer arrangements” means—
+(a)
+transfer arrangements made under section 1(1) or 9(1) of the Sale of Student Loans Act 2008, and
+(b)
+further transfer arrangements made under section 3(1) of that Act (if any);”;
+(p)
+for the definition of “transferred loan” substitute—
+““transferred loan” means a plan 1 loan in respect of which transfer arrangements are made;”;
+(q)
+omit the definitions of the following expressions—
+“the 1988 Act”;
+“the 2005 Act”;
+“the 2007 Act”
+“the 2008 Act”;
+“the 2011 Welsh Regulations”;
+“the 2016 Master’s Degree Regulations”;
+“the 2017 Master’s Degree Wales Regulations”;
+“the 2018 Doctoral Degree Regulations”;
+“the 2018 Doctoral Degree Wales Regulations”;
+“Access to HE Diploma”;
+“designated course”;
+“eligible borrower”;
+“eligible employment”;
+“eligible teacher”;
+“overseas provisions”;
+“part-time”;
+“post-2012 student loan”;
+“postgraduate degree loan”;
+“postgraduate degree loan borrower”;
+“relevant percentage difference in average earnings”;
+“Scottish student loan”;
+“student loan borrower”;
+“tax year 2009–10”;
+“Teachers’ Regulations”.
+(2) Omit regulation 3(2).
+Commencement Information
+I1
+Reg. 5 in force at 6.4.2023, see reg. 2(2)
+(1)
+S.S.I. 2000/110, amended by S.I. 2008/1879 and S.S.I. 2000/200, 2001/227, 2005/314, 2006/326, 2007/159, 2009/102, 2012/22, 2013/65, 80, 142, 2016/82, 2018/307, 2019/70, 2021/8, 73 and 2022/31.
+(2)
+The RPI All Items Index is published at https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/chaw/.
+(3)
+The percentage increase is published at https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/czbh/.Insertion of regulations 3A to 3E (interpretation provisions)
+6.  After regulation 3 (interpretation) insert—
+“Meaning of “plan 1 loan”
+3A.—(1) A “plan 1 loan” is a loan—
+(a)
+taken out by a person in respect of—
+(i)
+a course the person begins on or before 31st August 2012,
+(ii)
+a full-time course in relation to which the person has a transfer of status from another full-time course the person began on or before 31st August 2012, or
+(iii)
+a full-time honours degree course the person begins, disregarding any intervening vacation, immediately after ceasing to attend a full-time eligible course the person began on or before 31st August 2012 and for which the person achieved a qualification, and
+(b)
+paid under an enactment cited in any of tables 1 to 3.
+Table 1
+Enactments applying in relation to England and Wales
+Title Number
+The Education (Student Support) Regulations 1998 (revoked) S.I. 1998/2003
+The Education (Student Support) Regulations 1999 (revoked) S.I. 1999/496
+The Education (Student Support) Regulations 2000 (revoked) S.I. 2000/1121
+The Education (Student Support) Regulations 2001 (revoked) S.I. 2001/951
+The Education (Student Support) Regulations 2002 (revoked) S.I. 2002/195
+The Education (Student Support) (No. 2) Regulations 2002 (revoked) S.I. 2002/3200
+The Education (Student Support) Regulations 2005 (revoked) S.I. 2005/52
+Table 2
+Enactments applying in relation to England
+Title Number
+The Education (Student Support) Regulations 2006 (revoked) S.I. 2006/119
+The Education (Student Support) Regulations 2007 (revoked) S.I. 2007/176
+The Education (Student Support) Regulations 2008 (revoked) S.I. 2008/529
+The Education (Student Support) (No.2) Regulations 2008 (revoked) S.I. 2008/1582
+The Education (Student Support) Regulations 2009 (revoked) S.I. 2009/1555
+The Education (Student Support) Regulations 2011 S.I. 2011/1986
+Table 3
+Enactments applying in relation to Wales
+Title Number
+The Assembly Learning Grants and Loans (Higher Education) (Wales) Regulations 2006 (revoked) S.I. 2006/126 (W. 19)
+The Assembly Learning Grants and Loans (Higher Education) (Wales) Regulations 2007 (revoked) S.I. 2007/1045 (W. 104)
+The Assembly Learning Grants and Loans (Higher Education) (Wales) Regulations 2008 (revoked) S.I. 2008/1273 (W. 130)
+The Assembly Learning Grants and Loans (Higher Education) (Wales) (No.2) Regulations 2008 (revoked) S.I. 2008/3170 (W. 283)
+The Assembly Learning Grants and Loans (Higher Education) (Wales) Regulations 2009 (revoked) S.I. 2009/2737 (W. 235)
+The Assembly Learning Grants and Loans (Higher Education) (Wales) Regulations 2011 (revoked) S.I. 2011/148 (W. 32)
+The Assembly Learning Grants and Loans (Higher Education) (Wales) (No. 2) Regulations 2011 (revoked) S.I. 2011/886 (W.130)
+The Education (Student Support) (Wales) Regulations 2012 (revoked) S.I. 2012/3097 (W. 313)
+The Education (Student Support) (Wales) Regulations 2013 (revoked) S.I. 2013/3177 (W. 316)
+The Education (Student Support) (Wales) Regulations 2015 (revoked) S.I. 2015/54 (W. 5)
+The Education (Student Support) (Wales) Regulations 2017 S.I. 2017/47 (W. 21)
+(2) In this regulation, “transfer of status” means a transfer of status under—
+(a)
+regulation 7 of the 2011 Support Regulations(1), or
+(b)
+regulation 8 of any of the following—
+(i)
+the Education (Student Support) (Wales) Regulations 2012(2);
+(ii)
+the Education (Student Support) (Wales) Regulations 2013(3);
+(iii)
+the Education (Student Support) (Wales) Regulations 2015(4);
+(iv)
+the Education (Student Support) (Wales) Regulations 2017(5).
+Meaning of “plan 2 loan”
+3B.—(1) A “plan 2 loan” is a loan mentioned in any of paragraphs (2) to (4).
+(2) A loan—
+(a)
+taken out by the person in respect of—
+(i)
+a course the person begins during the period beginning on 1st September 2012 and ending at the close of 31st July 2023,
+(ii)
+a course in relation to which the person has a variation of status from another course the person began during the period mentioned in paragraph (i), or
+(iii)
+an honours degree course the person begins, disregarding any intervening vacation, immediately after ceasing to attend or undertake an eligible course the person began during the period mentioned in paragraph (i) and for which the person achieved a qualification, and
+(b)
+paid under any of the following enactments—
+(i)
+the 2011 Support Regulations;
+(ii)
+the Further Education Loans Regulations 2012(6).
+(3) A loan—
+(a)
+taken out by the person in respect of a course the person begins during the period beginning on 1st September 2022 and ending at the close of 31st July 2025, and
+(b)
+paid under the Higher Education Short Course Loans Regulations 2022(7) (which apply in relation to England).
+(4) A loan—
+(a)
+taken out by the person in respect of a course the person begins on or after 1st September 2012, and
+(b)
+paid to the person under an enactment cited in the table (which apply in relation to Wales).
+Title Number
+The Assembly Learning Grants and Loans (Higher Education) (Wales) (No. 2) Regulations 2011 (revoked) S.I. 2011/886 (W.130)
+The Education (Student Support) (Wales) Regulations 2012 (revoked) S.I. 2012/3097 (W. 313)
+The Education (Student Support) (Wales) Regulations 2013 (revoked) S.I. 2013/3177 (W. 316)
+The Education (Student Support) (Wales) Regulations 2015 (revoked) S.I. 2015/54 (W. 5)
+The Education (Student Support) (Wales) Regulations 2017 S.I. 2017/47 (W. 21)
+The Education (Student Support) (Wales) Regulations 2018 S.I. 2018/191 (W. 42)
+(5) Despite paragraphs (1), (2) and (4), a loan taken out by the person for a course mentioned in regulation 3A(1)(a)(ii) or (iii) is a plan 1 loan.
+(6) In this regulation, “variation of status” means any of the following—
+(a)
+a conversion of status under regulation 139B or 139C of the 2011 Support Regulations;
+(b)
+a transfer of status under—
+(i)
+regulation 7 or 139A of the 2011 Support Regulations;
+(ii)
+regulation 8 of the Further Education Loans Regulations 2012.
+Meaning of “plan 3 loan”
+3C.  A “plan 3 loan” is a loan paid under an enactment cited in any of tables 1 to 4.
+Table 1
+Enactments applying in relation to England (postgraduate master’s degree)
+Title Number
+The Education (Postgraduate Master’s Degree Loans) Regulations 2016 S.I. 2016/606
+Table 2
+Enactments applying in relation to Wales (postgraduate master’s degree)
+Title Number
+The Education (Postgraduate Master’s Degree Loans) (Wales) Regulations 2017 S.I. 2017/523 (W. 109)
+The Education (Student Support) (Postgraduate Master’s Degrees) (Wales) Regulations 2019 S.I. 2019/895 (W. 161)
+Table 3
+Enactments applying in relation to England (postgraduate doctoral degree)
+Title Number
+The Education (Postgraduate Doctoral Degree Loans and the Education (Student Loans) (Repayment) (Amendment) (No. 2) etc.) Regulations 2018 S.I. 2018/599
+Table 4
+Enactments applying in relation to Wales (postgraduate doctoral degree)
+Title Number
+The Education (Postgraduate Doctoral Degree Loans) (Wales) Regulations 2018 S.I. 2018/656 (W. 124)
+Meaning of “plan 4 loan”
+3D.  A “plan 4 loan” is a loan—
+(a)
+paid under an enactment cited in the table, and
+(b)
+in respect of which the Scottish Ministers have determined that repayments are to be collected by HMRC under Parts 3 and 4(8).
+Title Number
+The Education (Student Loans) (Scotland) Regulations 1998 (revoked) S.I. 1998/2026 (S. 107)
+The Education (Student Loans) (Scotland) Regulations 1999 (revoked) S.I. 1999/1001 (S. 71)
+The Education (Student Loans) (Scotland) Regulations 2000 (revoked) S.S.I. 2000/200
+The Graduate Endowment (Scotland) Regulations 2001 (revoked) S.S.I. 2001/280
+The Education (Student Loans for Tuition Fees) (Scotland) Regulations 2006 (revoked) S.S.I. 2006/333
+The Education (Student Loans) (Scotland) Regulations 2007 (revoked) S.S.I. 2007/154
+The Graduate Endowment (Scotland) Regulations 2007 (revoked) S.S.I. 2007/155
+The Graduate Endowment (Scotland) Regulations 2008 S.S.I. 2008/235
+The Student Support (Scotland) Regulations 2022 S.S.I. 2022/157
+Meaning of “plan 5 loan”
+3E.—(1) A “plan 5 loan” is a loan—
+(a)
+taken out by a person in respect of a course the person begins on or after 1st August 2023, and
+(b)
+paid under any of the following—
+(i)
+the 2011 Support Regulations;
+(ii)
+the Further Education Loans Regulations 2012.
+(2) Despite paragraph (1), a loan taken out by a person for a course mentioned in regulation 3B(2)(a)(ii) or (iii) is a plan 2 loan.”.
+Commencement Information
+I1
+Reg. 6 in force at 6.4.2023, see reg. 2(2)
+(1)
+Regulation 3(1) of the Education (Student Loans) (Repayment) Regulations 2009 defines “the 2011 Support Regulations” as the Education (Student Support) Regulations 2011 (S.I. 2011/1986).
+(2)
+S.I. 2012/3097 (W. 313); the amending instruments are not relevant.
+(3)
+S.I. 2013/3177 (W. 316); the amending instruments are not relevant.
+(4)
+S.I. 2015/54 (W. 5); the amending instruments are not relevant.
+(5)
+S.I. 2017/47 (W. 21); the amending instruments are not relevant.
+(6)
+S.I. 2012/1818, amended by S.I. 2014/290, 1766, 2015/181, 2016/238, 584, 2017/336, 2018/182, 2019/142, 983, 2020/48, 1181, 1203, 2021/127, 929, 1348, 2022/57, 354, and 534.
+(7)
+S.I. 2022/349, amended by S.I. 2022/534.
+(8)
+If the Scottish Ministers so determine, the Authority must notify His Majesty’s Revenue and Customs and the borrower (see regulation 15(3)).Amendments to regulation 4 (application: general)
+7.—(1) The existing text of regulation 4 is renumbered as paragraph (1).
+(2) In regulation 4(1), omit “and postgraduate degree loans made under the 1998 Act”.
+(3) After regulation 4(1) insert—
+“(2) The repayment of a student loan is the payment of the following to the extent they have not been repaid or paid—
+(a)
+in relation to a plan 1, 2, 3 or 5 loan—
+(i)
+interest payable under Part 2,
+(ii)
+penalties, costs, expenses or charges payable under Part 2 or 5, and
+(iii)
+the principal;
+(b)
+in relation to a plan 4 loan—
+(i)
+interest payable under an enactment cited in regulation 3D,
+(ii)
+penalties, costs, expenses or charges payable under the 2000 (Scotland) Regulations, and
+(iii)
+the principal.
+(3) The principal of a student loan includes any interest, penalties, costs, expenses or charges added to the principal in accordance with any of the following—
+(a)
+in relation to a plan 1 loan—
+(i)
+an enactment cited in regulation 3A;
+(ii)
+the Education (Student Loans) (Repayment) Regulations 2000(1);
+(iii)
+these Regulations;
+(b)
+in relation to a plan 4 loan—
+(i)
+an enactment cited in regulation 3D;
+(ii)
+the 2000 (Scotland) Regulations;
+(c)
+in relation to any other student loan, these Regulations.
+(4) In relation to a transferred loan, paragraphs (2) and (3) are subject to any provision included in its transfer arrangements.”.
+Commencement Information
+I1
+Reg. 7 in force at 6.4.2023, see reg. 2(2)
+(1)
+S.I. 2000/944, amended by S.I. 2001/971, 2002/2087, 2004/1175, 2752, 2005/2690, 2006/745, 2009, 2007/1983, 3509 (W. 308), 2008/1879, 2715, 2009/56; revoked on 6th April 2009 by S.I. 2009/470.Amendments to regulation 5 (Wales)
+8.—(1) Omit regulation 5(1).
+(2) In regulation 5(2)—
+(a)
+for “any student loan or postgraduate degree loan” substitute “a loan”;
+(b)
+after “apply” insert “in relation to the loan”.
+Commencement Information
+I1
+Reg. 8 in force at 6.4.2023, see reg. 2(2)Omission of regulation 6 (Scotland)
+9.  Omit regulation 6.
+Commencement Information
+I1
+Reg. 9 in force at 6.4.2023, see reg. 2(2)Amendments to regulation 7 (application to transferred loans in England and Wales)
+10.  In regulation 7(1), omit the definitions of—
+(a)
+“postgraduate degree loan”;
+(b)
+“student loan”.
+Commencement Information
+I1
+Reg. 10 in force at 6.4.2023, see reg. 2(2)Insertion of regulations 8A to 8C (preliminary provisions)
+11.  After regulation 8 (service by post or electronic communication) insert—
+“How to calculate country-specific multiplier
+8A.—(1) The country-specific multiplier for a country is the multiplier specified in the table in relation to its band.
+(2) The band for a country is the band specified in the table in relation to its price level index value.
+Price level index value (x) Band Multiplier
+x<0.3 A 0.2
+0.3≤ x<0.5 B 0.4
+0.5≤ x<0.7 C 0.6
+0.7≤ x<0.9 D 0.8
+0.9≤ x<1.1 E 1.0
+1.1≤ x<1.3 F 1.2
+x≥1.3 G 1.4
+(3) The price level index value for a country is the quotient of—
+(a)
+the price level value for the country in the most recent year available, and
+(b)
+the price level value for the United Kingdom in the same year.
+Example
+0.736687 is the country’s price level value and 1.058064 is the United Kingdom’s price level value.
+0.736687 divided by 1.058064 is 0.696259…‬ (unrounded).
+The price level index value for the country is 0.696259…, which is Band C.
+The country-specific multiplier for a country in Band C is 0.6.
+(4) If the price level value for a country is not published, the Authority may determine the price level value for that country by reference to a comparable country.
+(5) In this regulation, “price level value” means the value published by the World Bank in its “Price level ratio of PPP conversion factor (GDP) to market exchange rate” world development indicator(1).
+How to calculate repayment threshold variable
+8B.  The repayment threshold variable is, in relation to a repayment threshold year, the sum of—
+(a)
+one, and
+(b)
+the percentage increase, expressed as a decimal, in the retail price index between the two Marches immediately before the commencement of the previous repayment threshold year(2).
+Example
+2.4% is the percentage increase in the retail price index.
+2.4% expressed as a decimal is 0.024.
+The sum of 1 and 0.024 is 1.024.
+The repayment threshold variable is 1.024.
+Status of examples
+8C.—(1) An example used in these Regulations—
+(a)
+is only illustrative of the provision to which it relates, and
+(b)
+does not limit the provision.
+(2) If an example and the provision to which it relates are inconsistent, the provision prevails.”.
+Commencement Information
+I1
+Reg. 11 in force at 6.4.2023, see reg. 2(2)
+(1)
+The world development indicator is published at https://data.worldbank.org/indicator/PA.NUS.PPPC.RF.
+(2)
+The percentage increase is published at https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/czbh/.Substitution of heading to Part 2
+12.  For the heading to Part 2 substitute “Repayments: general”.
+Commencement Information
+I1
+Reg. 12 in force at 6.4.2023, see reg. 2(2)Amendments to regulation 9 (interpretation)
+13.—(1) In the heading to regulation 9, after “Interpretation” insert “of Part 2”.
+(2) In regulation 9(1)—
+(a)
+after the definition of “disability-related benefit” insert—
+““direct payment” means—
+(a)
+in relation to a plan 1, 2, 3 or 5 loan, a payment under regulation 15(1);
+(b)
+in relation to a plan 4 loan, a payment under regulation 7(1) of the 2000 (Scotland) Regulations;
+“domestic borrower” means a borrower to whom Part 3 or 4 applies;”;
+(b)
+in the definition of “end-on course”, for “Student Support Regulations” substitute “an enactment cited in regulation 3A”;
+(c)
+after the definition of “end-on course” insert—
+““total charge for credit rules” means rules made under article 60M of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001(1) for the purposes of Chapter 14A of Part 2 of that Order(2).”;
+(d)
+omit the definition of “Student Support Regulations”.
+Commencement Information
+I1
+Reg. 13 in force at 6.4.2023, see reg. 2(2)
+(1)
+S.I. 2001/544, amended by S.I. 2013/1881; other amending instruments are not relevant.
+(2)
+The total charge for credit rules are published as part of the FCA Handbook, which is published at https://www.handbook.fca.org.uk/handbook.Amendments to regulation 14 (interest and penalties)
+14.—(1) In the heading to regulation 14, for “Interest and penalties” substitute “Application of repayments”.
+(2) Before regulation 14(1) insert—
+“(A1) This regulation applies in relation to plan 1, 2, 3 and 5 loans(1).”.
+Commencement Information
+I1
+Reg. 14 in force at 6.4.2023, see reg. 2(2)
+(1)
+The application of repayments in relation to a plan 4 loan is determined in accordance with regulation 6 of the 2000 (Scotland) Regulations.Amendments to regulation 15 (timing of repayments: general)
+15.—(1) For the heading to regulation 15 substitute “Timing and notification of repayments”.
+(2) Before regulation 15(1) insert—
+“(A1) In this regulation—
+(a)
+paragraphs (1) to (2D) relate to the timing of repayments for a plan 1, 2, 3 or 5 loan(1);
+(b)
+paragraphs (3) to (10) relate to the notification of repayments for a student loan.”.
+(3) In regulation 15(1), for “student loan or a postgraduate degree loan” substitute “plan 1, 2, 3 or 5 loan”.
+(4) In regulation 15(2)—
+(a)
+for “a student loan borrower” in each place it occurs substitute “the borrower”;
+(b)
+for “the student loan” substitute “a plan 1, 2 or 5 loan”;
+(c)
+for “Regulations made pursuant to section 22 of the 1998 Act in respect of a student loan” substitute “an enactment cited in regulation 3A, 3B or 3E”.
+(5) In regulation 15(2ZA)—
+(a)
+in the words before sub-paragraph (a), for “Subject to paragraph (2C) a postgraduate degree loan” substitute “The”;
+(b)
+in sub-paragraph (a), for “loan under Part 1 of the 2016 Master’s Degree Regulations or Part 4 of the 2017 Master’s Degree Wales Regulations” substitute “postgraduate master’s degree loan”;
+(c)
+in sub-paragraph (b)(i), for “loan under Part 1 of the 2018 Doctoral Degree Regulations or Part 4 of the 2018 Doctoral Degree Wales Regulations” substitute “postgraduate doctoral degree loan”.
+(6) After regulation 15(2ZA) insert—
+“(2ZB) In paragraph (2ZA)—
+“postgraduate doctoral degree loan” means a plan 3 loan paid under an enactment cited in table 3 or 4 of regulation 3C;
+“postgraduate master’s degree loan” means a plan 3 loan paid under an enactment cited in table 1 or 2 of regulation 3C.”
+(7) In regulation 15(2A)—
+(a)
+in the words before sub-paragraph (a), for “post-2012 student loan”—
+(i)
+in the first place it occurs, substitute “plan 2 or 5 loan”;
+(ii)
+in the second place it occurs, substitute “loan”;
+(b)
+in sub-paragraph (a), for “Regulations made pursuant to section 22 of the 1998 Act” substitute “an enactment cited in regulation 3B or 3E,”.
+(8) In regulation 15(2B), for “post-2012 student loan” substitute “plan 2 or 5 loan”.
+(9) After regulation 15(2B) substitute—
+“(2BA) Despite paragraphs (2), (2A) and (2B), a borrower is not required to repay any part of a plan 5 loan on or before 5th April 2026.
+(2BB) Omit paragraph (2BA) and this paragraph on 6th April 2026.”.
+(10) Omit regulation 15(2C).
+(11) In regulation 15(2D)—
+(a)
+in sub-paragraph (a), for “a course” substitute “an eligible course”;
+(b)
+for sub-paragraph (b)(i) and (ii) substitute—
+“(i)
+a full-time honours degree course the student begins, disregarding any intervening vacation, immediately after ceasing to attend a full-time original course for which the person achieved a qualification, or
+(ii)
+a part-time honours degree course the student begins, disregarding any intervening vacation, immediately after ceasing to attend a part-time original course for which the person achieved a qualification.”.
+(12) In regulation 15(3), for “(7), (8) and regulation 16” substitute “(7) and (8)”.
+(13) Omit regulation 15(4)(d) and (5)(e).
+(14) In regulation 15(7), omit “or postgraduate degree loan”.
+Commencement Information
+I1
+Reg. 15 in force at 6.4.2023, see reg. 2(2)
+(1)
+The timing of repayments in relation to a plan 4 loan is determined in accordance with regulation 7 of the 2000 (Scotland) Regulations.Amendments to regulation 16 (timing of repayment: teachers and eligible teachers)
+16.—(1) For the heading to regulation 16 substitute—
+“Deferral of repayment: initial training of teachers”.
+(2) Omit regulation 16(1) and (2).
+(3) In regulation 16(3)—
+(a)
+in sub-paragraph (a), for “student loan” substitute “plan 1, 2 or 5 loan”;
+(b)
+in sub-paragraph (b), for “student loan” substitute “loan”;
+(c)
+in the words following sub-paragraph (b), for “student loan” substitute “plan 1, 2 or 5 loan”.
+(4) After regulation 16(3) insert—
+“(3A) If the loan the borrower is not required to repay by virtue of paragraph (3) is a plan 2 loan, for the period the borrower is not required to repay that loan, the rate at which the loan bears interest is the lower of—
+(a)
+the standard interest rate, or
+(b)
+the prevailing market rate (if any) set out in regulation 20B.
+(3B) Paragraph (3A) applies despite regulation 21A (interest rate on plan 2 loans).”.
+(5) Omit regulation 16(4), (5) and (6).
+Commencement Information
+I1
+Reg. 16 in force at 6.4.2023, see reg. 2(2)Amendment to regulation 18 (direct debit repayment)
+17.  In regulation 18(1)(a), omit “or a postgraduate degree loan”.
+Commencement Information
+I1
+Reg. 17 in force at 6.4.2023, see reg. 2(2)Amendments to regulation 18A (division of repayment)
+18.—(1) In the heading to regulation 18A, after “repayment” insert “: more than one loan”.
+(2) For regulation 18A(1) and (1A) substitute—
+“(1) This regulation applies if—
+(a)
+a borrower has a combination of plan 1, 2, 4 or 5 loans(1),
+(b)
+the borrower is required to repay two or more of the loans,
+(c)
+the loans have different repayment thresholds, and
+(d)
+the Authority receives a repayment other than a direct payment.
+(1A) The Authority must reduce the outstanding balance of the loans by—
+(a)
+in the case of the loan with the highest repayment threshold, the total amount due in respect of that loan, and
+(b)
+in the case of every other loan, the amount due in respect of each loan less the amount due in respect of the loan (or loans) with a higher repayment threshold.”.
+(3) Omit regulation 18(1B) and (1C).
+(4) In regulation 18A(2)—
+(a)
+for “to (1C)” substitute “and (1A)”;
+(b)
+omit “in regulation 29(7), 29(8) and 29(8B)”.
+Commencement Information
+I1
+Reg. 18 in force at 6.4.2023, see reg. 2(2)
+(1)
+The repayment of a plan 3 loan is additional to, and concurrent with, the repayment of a plan 1, 2, 4 or 5 loan (see regulation 29(3A), 44(2A) or 75(4A)).Amendments to regulation 19 (cancellation)
+19.—(1) Before regulation 19(1) insert—
+“(A1) This regulation applies in relation to plan 1, 2, 3 and 5 loans(1).”.
+(2) In regulation 19(1)—
+(a)
+for sub-paragraph (b) substitute—
+“(b)
+a plan 1, 2, 3 or 5 loan.”;
+(b)
+omit sub-paragraph (c).
+(3) In regulation 19(2)—
+(a)
+in the words before sub-paragraph (a)—
+(i)
+for “any student loan” substitute “a plan 1 loan”;
+(ii)
+for “the 2006 Support Regulations or the 2006 Welsh Regulations or any subsequent Regulations made by the Secretary of State or the Welsh Ministers (as the case may be) under section 22, other than a post-2012 student loan or a postgraduate degree loan, of the 1998 Act” substitute “an enactment cited in table 2 or 3 of regulation 3A”;
+(b)
+in sub-paragraph (a), for “student loan” substitute “plan 1 loan”;
+(c)
+in sub-paragraph (b)—
+(i)
+in the words before paragraph (i), for “student loan” substitute “plan 1 loan”;
+(ii)
+in paragraph (iii), for “Regulations made under section 22 of the 1998 Act” substitute “an enactment cited in table 2 or 3 of regulation 3A”.
+(4) In regulation 19(3)—
+(a)
+in the words before sub-paragraph (a), for “student loan or the postgraduate degree loan” substitute “loan”;
+(b)
+in sub-paragraph (c)—
+(i)
+for “post-2006-student loans” substitute “a post-2006 student loan”;
+(ii)
+for “the student loan” substitute “the loan”;
+(c)
+in sub-paragraph (d), for “student loans which are not post-2006 student loans and not post-2012 loans” substitute “a plan 1 loan other than a post-2006 student loan”;
+(d)
+in sub-paragraph (e)—
+(i)
+for “post-2012 student loans” substitute “a plan 2 loan, unless sub-paragraph (f) applies”;
+(ii)
+for “the student loan” substitute “the loan”;
+(e)
+for sub-paragraph (f) substitute—
+“(f)
+in the case of a plan 2 or 5 loan for an Access to HE Diploma, if the borrower—
+(i)
+achieves at least one Access to HE Diploma, and
+(ii)
+as an eligible student completes a designated course;”;
+(f)
+in sub-paragraph (g)—
+(i)
+for “a postgraduate degree loan” substitute “a plan 3 loan”;
+(ii)
+for “the postgraduate degree loan.” substitute “the loan;”;
+(g)
+after sub-paragraph (g), insert—
+“(h)
+in the case of a plan 5 loan, unless sub-paragraph (f) applies, the 40th anniversary of the date on which the borrower became liable to repay the loan.”.
+(5) In regulation 19(5)—
+(a)
+in the words before sub-paragraph (a), for “student loan or the postgraduate degree loan” substitute “loan”;
+(b)
+in sub-paragraph (b), for “student loan” substitute “loan”.
+(6) In regulation 19(6), for “student loan or the postgraduate degree loan” substitute “loan”.
+(7) After regulation 19(6) insert—
+“(7) In this regulation—
+“Access to HE Diploma” has the meaning given in regulation 2 of the Further Education Loans Regulations 2012;
+“designated course” means a course designated by or under regulation 5 or 139 of the 2011 Support Regulations;
+“eligible student” has the meaning given in regulation 4 or 137 of the 2011 Support Regulations.”.
+Commencement Information
+I1
+Reg. 19 in force at 6.4.2023, see reg. 2(2)
+(1)
+The cancellation of a plan 4 loan is determined in accordance with regulation 8 of the 2000 (Scotland) Regulations.Amendments to regulation 20 (refunds)
+20.—(1) Before regulation 20(1) insert—
+“(A1) This regulation applies in relation to plan 1, 2, 3 and 5 loans(1).”.
+(2) In regulation 20(1)(a) and (b), for “student loan or the postgraduate degree loan” substitute “loan”.
+(3) For regulation 20(1A) and (1B) substitute—
+“(1A) The excess payment accrues interest—
+(a)
+on and after the day on which the Authority receives the excess payment until the earlier of—
+(i)
+the end of the 60th day after the day on which the Authority gives notice under paragraph (1B), or
+(ii)
+the end of the day on which the Authority refunds the excess payment to the borrower, and
+(b)
+at the rate set out in paragraph (1C).
+(1B) The Authority must give notice informing the borrower of the following—
+(a)
+that the Authority—
+(i)
+has received an excess payment;
+(ii)
+must pay interest on an excess payment;
+(b)
+the period for which an excess payment accrues interest.”.
+(4) After regulation 20(1B) insert—
+“(1C) The rate at which an excess payment accrues interest is—
+(a)
+if the excess payment relates to a plan 1, 3 or 5 loan, the rate at which the loan would have borne interest if it had not been repaid in full;
+(b)
+if the excess payment relates to a plan 2 loan, the lower of—
+(i)
+the rate at which the loan would have borne interest if it had not been repaid in full, or
+(ii)
+the standard interest rate.”.
+(5) In regulation 20(2)—
+(a)
+in sub-paragraphs (a) and (b), for “student loan or the postgraduate degree loan” substitute “loan”;
+(b)
+in the words after sub-paragraph (b), for “overpayment” substitute “excess payment”.
+(6) In regulation 20(4), omit “paragraphs”.
+(7) Omit regulation 20(5).
+Commencement Information
+I1
+Reg. 20 in force at 6.4.2023, see reg. 2(2)
+(1)
+A refund in relation to a plan 4 loan is determined in accordance with regulation 9 of the 2000 (Scotland) Regulations.Amendments to regulation 20A (excess payments: more than one loan)
+21.—(1) In regulation 20A(1)—
+(a)
+for sub-paragraph (a) substitute—
+“(a)
+a borrower has a dual-plan loan, and”;
+(b)
+in sub-paragraph (b)—
+(i)
+for “repayment either directly” substitute “direct payment”;
+(ii)
+for “under regulation 15(1) or” substitute “or a repayment”.
+(2) In regulation 20A(2)(a) and (3), omit “under regulation 15(1)”.
+(3) In regulation 20A(6)—
+(a)
+omit the sub-paragraph numbers;
+(b)
+before the definition of “fully repaid loan” insert—
+““dual-plan loan” means any two of the following—
+(a)
+a plan 1 loan;
+(b)
+a plan 2 loan;
+(c)
+a plan 3 loan;
+(d)
+a plan 4 loan;
+(e)
+a plan 5 loan;”.
+Commencement Information
+I1
+Reg. 21 in force at 6.4.2023, see reg. 2(2)Insertion of regulation 20B (interest rate not to exceed prevailing market rate)
+22.  After regulation 20A (excess payments: more than one loan) insert—
+“Interest rate not to exceed prevailing market rate
+20B.—(1) This regulation applies if the interest rate at which a post-2012 student loan or a postgraduate degree loan(1) bears interest exceeds the prevailing market rate (if any).
+(2) The Authority must substitute the prevailing market rate for the interest rate.
+(3) In this regulation—
+“interest rate” means the interest rate calculated in accordance with regulation 21A or 21B (as the case may be);
+“prevailing market rate” means, for the period specified in the left-hand column of the table, the rate specified in the right-hand column of the table in relation to that period.
+Period (inclusive of dates) Prevailing market rate
+1st July 2021 to 31st August 2021 5.3%
+1st September 2021 to 30th September 2021 4.2%
+1st October 2021 to 31st December 2021 4.1%
+1st January 2022 to 28th February 2022 4.4%
+1st March 2022 to 31st August 2022 (no rate specified)
+1st September 2022 to 30th November 2022 6.3%
+1st December 2022 to 28th February 2023 6.5%
+Any other period (no rate specified)”.
+Commencement Information
+I1
+Reg. 22 in force at 16.1.2023, see reg. 2(1)(b)
+(1)
+The rate at which a student loan (other than a post-2012 student loan) bears interest is limited by regulation 21(2). The rate at which a Scottish student loan bears interest is determined in accordance with regulations made under the Education (Scotland) Act 1980.Amendments to regulation 20B (interest rate not to exceed prevailing market rate)
+23.—(1) In regulation 20B(1) (which is inserted by regulation 22), for “post-2012 student loan or a postgraduate degree loan” (including the footnote) substitute “plan 2, 3 or 5 loan(1)”.
+(2) In regulation 20B(3), in the definition of “interest rate”, for “21A or 21B” substitute “21A, 21B or 21C”.
+Commencement Information
+I1
+Reg. 23 in force at 6.4.2023, see reg. 2(2)
+(1)
+The rate at which a plan 1 loan bears interest is limited by regulation 21(2). The rate at which a plan 4 loan bears interest is determined in accordance with regulations made under the Education (Scotland) Act 1980.Amendments to regulation 21 (interest rate on the loans)
+24.—(1) In the heading to regulation 21, for “the loans” substitute “plan 1 loans”.
+(2) In regulation 21(A1), for “student loans which are not post-2012 student loans” substitute “plan 1 loans”.
+(3) In regulation 21(1)—
+(a)
+for “student loans” substitute “plan 1 loans”;
+(b)
+for “rules made by the Financial Conduct Authority under article 60M of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 for the purposes of Chapter 14A of Part 2 of that Order” substitute “total charge for credit rules”;
+(c)
+for “percentage increase between the retail prices all items index published by the Office for National Statistics for the two Marches immediately before the commencement of the academic year” substitute “standard interest rate”.
+(4) In regulation 21(2), for “student loans” substitute “plan 1 loans”.
+(5) In regulation 21(4)—
+(a)
+for “student loans” substitute “plan 1 loans”;
+(b)
+for “retail prices all items index mentioned in paragraph (1)” substitute “retail price index”.
+(6) In regulation 21(6) and (7), for “student loans” substitute “plan 1 loans”.
+Commencement Information
+I1
+Reg. 24 in force at 6.4.2023, see reg. 2(2)Amendments to regulation 21A (interest rate on post-2012 student loans)
+25.—(1) In the heading to regulation 21A, for “post-2012 student loans” substitute “plan 2 loans”.
+(2) In regulation 21A(1), for “post-2012 student loans” substitute “plan 2 loans”.
+(3) In regulation 21A(2)—
+(a)
+in the words before sub-paragraph (a)—
+(i)
+omit “(3),”;
+(ii)
+for “post-2012 student loans” substitute “plan 2 loans”;
+(b)
+in sub-paragraph (b), for “borrower to whom Part 3 or 4 applies” substitute “domestic borrower”;
+(c)
+in sub-paragraphs (c) and (d), for “a borrower for whom Part 5 applies” substitute “an overseas borrower”.
+(4) Omit regulation 21A(2ZA).
+(5) In regulation 21A(2A)—
+(a)
+in the words before sub-paragraph (a)—
+(i)
+for “student loan” substitute “loan”;
+(ii)
+“post-2012 student loans bear” substitute “the loan bears”.
+(b)
+in sub-paragraph (a), for “borrower to whom Part 3 or 4 applies and also applied” substitute “domestic borrower who was a domestic borrower”;
+(c)
+in sub-paragraphs (b) and (c), for “a borrower for whom Part 5 applies” substitute “an overseas borrower”.
+(6) In regulation 21A(2B)(b), for “student loan” substitute “loan”.
+(7) In regulation 21A(2C)—
+(a)
+for “student loan” substitute “loan”;
+(b)
+for “post-2012 student loans bear” substitute “the loan bears”.
+(8) In regulation 21A(2D), omit “post-2012 student”.
+(9) In regulation 21A(2E) and (2F), omit “post-2012 student”.
+(10) Omit regulation 21A(3).
+(11) In regulation 21A(4), for “post-2012 student loans bear” substitute “their loan bears”.
+(12) In regulation 21A(8), for “post-2012 student loans” substitute “plan 2 loans”.
+(13) Omit regulation 21A(8A) and (8B).
+(14) Omit regulation 21A(9).
+(15) After regulation 21A(11) insert—
+“(11A) This regulation is subject to regulation 20B (interest rate not to exceed prevailing market rate).”.
+(16) For regulation 21A(11A) substitute—
+“(11A) This regulation is subject to the following—
+(a)
+regulation 16 (deferral of repayment: initial training of teachers);
+(b)
+regulation 20B (interest rate not to exceed prevailing market rate).”.
+(17) After regulation 21A(11A) insert—
+“(11B) In this regulation—
+“higher interest threshold” means the higher interest threshold set out in, or calculated in accordance with, regulation 21AA;
+“lower interest threshold” means the lower interest threshold set out in, or calculated in accordance with, regulation 21AB.”.
+(18) Omit regulation 21A(12), (12A), (13), (13A), (14) and (15).
+Commencement Information
+I1
+Reg. 25(1)-(12), (14), (16)-(18) in force at 6.4.2023, see reg. 2(2)
+I2
+Reg. 25(13)(15) in force at 16.1.2023, see reg. 2(1)(c)Insertion of regulations 21AA and 21AB (interest thresholds for plan 2 loans)
+26.  After regulation 21A (interest rate on plan 2 loans) insert—
+“Higher interest threshold for plan 2 loans
+21AA.—(1) For a domestic borrower, the higher interest threshold is—
+(a)
+£49,130 for the repayment threshold years ending on 5th April 2024 and 5th April 2025, and
+(b)
+for each repayment threshold year ending on or after 5th April 2026, the amount rounded up to the nearest £5 (if necessary) being the product of—
+(i)
+the amount of the higher interest threshold for the previous repayment threshold year, and
+(ii)
+the repayment threshold variable.
+(2) For an overseas borrower, the higher interest threshold is the amount rounded up to the nearest £5 (if necessary) being the product of—
+(a)
+the higher interest threshold for a domestic borrower, and
+(b)
+the country-specific multiplier for the overseas borrower’s country of residence.
+Lower interest threshold for plan 2 loans
+21AB.—(1) For a domestic borrower, the lower interest threshold is the repayment threshold for a plan 2 loan.
+(2) For an overseas borrower, the lower interest threshold is the amount rounded up to the nearest £5 (if necessary) being the product of—
+(a)
+the lower interest threshold for a domestic borrower, and
+(b)
+the country-specific multiplier for the overseas borrower’s country of residence.”.
+Commencement Information
+I1
+Reg. 26 in force at 6.4.2023, see reg. 2(2)Amendments to regulation 21B (interest rate on postgraduate degree loans)
+27.—(1) In the heading to regulation 21B, for “postgraduate degree loans” substitute “plan 3 loans”.
+(2) In regulation 21B(1)—
+(a)
+for “postgraduate degree loan” substitute “plan 3 loan”;
+(b)
+for “RPI” substitute “the standard interest rate”.
+(3) For regulation 21B(2) substitute—
+“(2) Interest accrues beginning with the day on which any part of the loan is paid.”.
+(4) After regulation 21B(4) insert—
+“(4ZA) This regulation is subject to regulation 20B (interest rate not to exceed prevailing market rate).”.
+(5) Omit regulation 21B(4A) and (4B).
+(6) Omit regulation 21B(5).
+Commencement Information
+I1
+Reg. 27(1)-(3), (6) in force at 6.4.2023, see reg. 2(2)
+I2
+Reg. 27(4)(5) in force at 16.1.2023, see reg. 2(1)(d)Insertion of regulation 21C (interest on plan 5 loans)
+28.  After regulation 21B insert—
+“Interest rate on plan 5 loans
+21C.—(1) A plan 5 loan bears interest at the standard interest rate.
+(2) Interest accrues beginning with the day on which any part of the loan is paid.
+(3) Interest is—
+(a)
+calculated on the outstanding principal of the loan daily, and
+(b)
+added to the outstanding principal of the loan monthly.
+(4) This regulation is subject to regulation 20B (interest rate not to exceed prevailing market rate).”.
+Commencement Information
+I1
+Reg. 28 in force at 6.4.2023, see reg. 2(2)Amendment to regulation 24 (penalties and penalty notices)
+29.  In regulation 24(7), for “and” substitute “and, if in relation to a plan 1, 2, 3 or 5 loan,”.
+Commencement Information
+I1
+Reg. 29 in force at 6.4.2023, see reg. 2(2)Amendments to regulation 25 (costs and expenses)
+30.  In regulation 25(3)—
+(a)
+for “and” substitute “and, if in relation to a plan 1, 2, 3 or 5 loan,”;
+(b)
+for “student loan or the postgraduate degree loan” substitute “loan”.
+Commencement Information
+I1
+Reg. 30 in force at 6.4.2023, see reg. 2(2)Amendment to regulation 27 (foreclosure)
+31.  In regulation 27, omit “or the postgraduate degree loan”.
+Commencement Information
+I1
+Reg. 31 in force at 6.4.2023, see reg. 2(2)Amendment to regulation 28 (repayments of student loans and postgraduate degree loans by persons required to submit a tax return)
+32.  In the heading to regulation 28, omit “and postgraduate degree loans”.
+Commencement Information
+I1
+Reg. 32 in force at 6.4.2023, see reg. 2(2)Amendments to regulation 29 (time for and amount of repayments)
+33.—(1) In regulation 29(1), omit “or a postgraduate degree loan”.
+(2) In regulation 29(3)—
+(a)
+in sub-paragraph (a), for “student loan” substitute “plan 1, 2, 4 or 5 loan”;
+(b)
+in sub-paragraph (b), for postgraduate degree loan” substitute “plan 3 loan”.
+(3) In regulation 29(3A)—
+(a)
+for “(3)” substitute “(3)(b)”;
+(b)
+for “due by—” to the end substitute “under paragraph (3)(a)”.
+(4) Omit regulation 29(4)(b) and (f).
+(5) In regulation 29(5), for “the 2005 Act” substitute “the Income Tax (Trading and Other Income) Act 2005(1)”.
+(6) After regulation 29(5) insert—
+“(5A) If a borrower is required to repay a combination of plan 1, 2, 4 or 5 loans, the repayment threshold for the loan with the lowest repayment threshold applies.
+(5B) In this regulation—
+“the 2007 Act” means the Income Tax Act 2007(2);
+“jobseeker’s allowance” has the meaning given in section 1(1) of the Jobseekers Act 1995(3).”.
+(7) Omit regulation 29(6) to (10).
+Commencement Information
+I1
+Reg. 33 in force at 6.4.2023, see reg. 2(2)
+(1)
+2005 c. 5.
+(2)
+2007 c. 3.
+(3)
+1995 c. 18.Amendment to regulation 36 (late payment penalties)
+34.  Omit regulation 36(a) (including the “and” that follows it).
+Commencement Information
+I1
+Reg. 34 in force at 6.4.2023, see reg. 2(2)Amendments to regulation 40 (penalties)
+35.—(1) In regulation 40(1)(a), omit “for the tax year 2010–11 or any subsequent tax year”.
+(2) Omit regulation 40(3).
+(3) In regulation 40(4), omit “For tax years commencing on or after 6 April 2008, where the date on which the return is due to be filed is on or after 6 April 2009,”.
+Commencement Information
+I1
+Reg. 35 in force at 6.4.2023, see reg. 2(2)Amendments to regulation 41 (interpretation)
+36.—(1) In the heading to regulation 41, after “Interpretation” insert “of Part 4”.
+(2) In regulation 41—
+(a)
+in the definition of “combined amount”, omit “or postgraduate degree loan”;
+(b)
+omit the definition of “Form P46”;
+(c)
+in the definition of “non-Real Time Information employer”, for “one within regulation 41A” substitute “a Real Time Information employer”;
+(d)
+in the definition of “Real Time Information employer”, for “regulation 41A” substitute “regulation 2A of the PAYE Regulations”.
+Commencement Information
+I1
+Reg. 36 in force at 6.4.2023, see reg. 2(2)Omission of regulation 41A (real time information employers)
+37.  Omit regulation 41A.
+Commencement Information
+I1
+Reg. 37 in force at 6.4.2023, see reg. 2(2)Amendment to regulation 42 (repayment of student loans or postgraduate degree loans by employees)
+38.  In the heading to regulation 42, omit “or postgraduate degree loans”.
+Commencement Information
+I1
+Reg. 38 in force at 6.4.2023, see reg. 2(2)Substitution of regulation 43 (new employee to declare repayments liability)
+39.  For regulation 43 (commencement of employment with a non-Real Time Information employer) substitute—
+“New employee to inform employer of repayments liability
+43.  A person who commences employment with an employer must inform the employer—
+(a)
+whether the person has any liability to repay a student loan, and
+(b)
+if so, which of the following the liability relates to—
+(i)
+a plan 1 loan;
+(ii)
+a plan 2 loan;
+(iii)
+a plan 3 loan;
+(iv)
+a plan 4 loan;
+(v)
+a plan 5 loan.”.
+Commencement Information
+I1
+Reg. 39 in force at 6.4.2023, see reg. 2(2)Omission of regulation 43A (commencement of employment with a Real Time Information employer)
+40.  Omit regulation 43A.
+Commencement Information
+I1
+Reg. 40 in force at 6.4.2023, see reg. 2(2)Amendments to regulation 44 (amount of repayments)
+41.—(1) In regulation 44(1)—
+(a)
+in sub-paragraph (a), for “student loan” substitute “plan 1, 2, 4, or 5 loan”;
+(b)
+in sub-paragraph (b), for “postgraduate degree loan” substitute “plan 3 loan”.
+(2) In regulation 44(2A)—
+(a)
+for “(1)” substitute “(1)(b)”;
+(b)
+for “due—” to the end substitute “under paragraph (1)(a)”.
+(3) For regulation 44(6) substitute—
+“(6)  The default threshold applies—
+(a)
+if, in relation to a plan 1, 2, 4 or 5 loan, the borrower fails to comply with regulation 43 (which relates to repayments liability), and
+(b)
+until the date specified by HMRC in a notice given to the borrower’s employer under regulation 49(1).”.
+(4) For regulation 44(7) substitute—
+“(7) The default threshold is whichever repayment threshold for a plan 1, 2, 4 or 5 loan is the lowest repayment threshold.”
+Commencement Information
+I1
+Reg. 41 in force at 6.4.2023, see reg. 2(2)Amendments to regulation 50 (deductions of repayments)
+42.—(1) In regulation 50(1)—
+(a)
+in the words before sub-paragraph (a), after “received” insert “any of the following”;
+(b)
+omit sub-paragraph (c) (including the “or” that follows it);
+(c)
+in sub-paragraph (d)—
+(i)
+for “regulation 43A” substitute “regulation 43”;
+(ii)
+omit “or postgraduate degree loan”.
+(2) In regulation 50(2)—
+(a)
+omit sub-paragraph (c) (including the “or” that follows it);
+(b)
+in sub-paragraph (d)—
+(i)
+for “regulation 43A” substitute “regulation 43”;
+(ii)
+omit “or postgraduate degree loan”.
+(3) In regulation 50(8), omit “or postgraduate degree loan”.
+(4) Omit regulation 50(9).
+Commencement Information
+I1
+Reg. 42 in force at 6.4.2023, see reg. 2(2)Amendments to regulation 55 (notice and certificate when repayments deducted not paid)
+43.  In regulation 55(1), (2), (4), (5) and (6), omit “student loan or postgraduate degree loan”.
+Commencement Information
+I1
+Reg. 43 in force at 6.4.2023, see reg. 2(2)Amendments to regulation 56 (notice of specified amount and certificate when repayments not deducted)
+44.—(1) In regulation 56(1), omit “student loan or postgraduate degree loan”.
+(2) In regulation 56(2), for “student loan repayments, postgraduate degree loan repayments” substitute “repayments”.
+(3) In regulation 56(4) and (5) omit “student loan or postgraduate degree loan”.
+(4) In regulation 56(6)(a) and (11), for “student loan repayments or postgraduate degree loan repayments” substitute “repayments”.
+Commencement Information
+I1
+Reg. 44 in force at 6.4.2023, see reg. 2(2)Amendment to regulation 57 (recovery of payments deducted through the income tax system)
+45.  In regulation 57(2), for “student loan repayments, postgraduate degree loan repayments” substitute “repayments”.
+Commencement Information
+I1
+Reg. 45 in force at 6.4.2023, see reg. 2(2)Amendments to regulation 59 (returns by employers)
+46.—(1) In regulation 59(7), for “section 566(1) of the 1988 Act” substitute “section 70(1)(a) or 71 of the Finance Act 2004(1)”.
+(2) In regulation 59(9), omit “student loan or postgraduate degree loan”.
+Commencement Information
+I1
+Reg. 46 in force at 6.4.2023, see reg. 2(2)
+(1)
+2004 c. 12. Section 71 was amended by Part 1 of Schedule 3 to the Corporation Tax Act 2009 (c. 4).Amendments to regulation 59B (real time returns of information about payments of earnings)
+47.—(1) In regulation 59B(1), omit “but this is subject to paragraph (1A)”.
+(2) Omit regulation 59B(1A) to (1E).
+Commencement Information
+I1
+Reg. 47 in force at 6.4.2023, see reg. 2(2)Amendments to regulation 59E (exceptions to regulation 59B)
+48.—(1) Omit regulation 59E(2A).
+(2) In regulation 59E(3), for “On and after 6 April 2014, the” substitute “The”.
+Commencement Information
+I1
+Reg. 48 in force at 6.4.2023, see reg. 2(2)Amendment to regulation 59G (failure to make a return under regulation 59B or 59E)
+49.  Omit regulation 59G(5).
+Commencement Information
+I1
+Reg. 49 in force at 6.4.2023, see reg. 2(2)Amendment to regulation 60 (inspection of employers’ records)
+50.  In regulation 60(4)(a), omit “student loan or postgraduate degree loan”.
+Commencement Information
+I1
+Reg. 50 in force at 6.4.2023, see reg. 2(2)Amendment to regulation 61 (powers to obtain information)
+51.  In regulation 61(2)(b), omit “student loan or postgraduate degree loan”.
+Commencement Information
+I1
+Reg. 51 in force at 6.4.2023, see reg. 2(2)Amendments to section 67 (cessation of employment)
+52.  In regulation 67—
+(a)
+omit paragraph (b);
+(b)
+in paragraph (ba)—
+(i)
+for “regulation 43A” substitute “regulation 43”;
+(ii)
+omit “or any postgraduate degree loan”;
+(c)
+in paragraph (c), for “(where any of paragraph (a), (b), or (ba) apply)” substitute “if paragraph (a) or (ba) apply,”.
+Commencement Information
+I1
+Reg. 52 in force at 6.4.2023, see reg. 2(2)Amendment to regulation 68 (penalties)
+53.  In regulation 68(3), omit “student loan or postgraduate degree loan”.
+Commencement Information
+I1
+Reg. 53 in force at 6.4.2023, see reg. 2(2)Amendment to the heading to Part 5
+54.  In the heading to Part 5, after “Repayment” insert “of plan 1, 2, 3 and 5 loans”.
+Commencement Information
+I1
+Reg. 54 in force at 6.4.2023, see reg. 2(2)Amendments to regulation 71 (interpretation)
+55.—(1) In the heading to regulation 71, after “Interpretation” insert “of Part 5”.
+(2) In regulation 71—
+(a)
+before the definition of “gross income” insert—
+““borrower” means a borrower who has a plan 1, 2, 3 or 5 loan;”;
+(b)
+omit the definition of “residence”.
+Commencement Information
+I1
+Reg. 55 in force at 6.4.2023, see reg. 2(2)Amendments to regulation 73 (notice of liability to make repayments)
+56.—(1) In regulation 73(1), for “any student loan or any postgraduate degree loan” substitute “a plan 1, 2, 3 or 5 loan”.
+(2) In regulation 73(2), for “a student loan or any postgraduate degree loan” substitute “the loan”.
+Commencement Information
+I1
+Reg. 56 in force at 6.4.2023, see reg. 2(2)Amendments to regulation 74 (repayment by fixed instalments)
+57.—(1) The existing text of regulation 74 is renumbered as paragraph (1).
+(2) In regulation 74(1), omit “calculated in accordance with regulation 76”.
+(3) After regulation 74(1) insert—
+“(2) The amount of the fixed instalment is the product of—
+(a)
+the fixed instalment rate for the borrower’s loan, and
+(b)
+the country-specific multiplier for the borrower’s country of residence.
+(3) The fixed instalment rate for—
+(a)
+a plan 1 loan is £246;
+(b)
+a plan 2, 3 or 5 loan is calculated in accordance with regulation 74A.”.
+Commencement Information
+I1
+Reg. 57 in force at 6.4.2023, see reg. 2(2)Insertion of regulation 74A (how to calculate fixed instalment rate)
+58.  After regulation 74 (repayment by fixed instalments) insert—
+“How to calculate fixed instalment rate
+74A.—(1) The fixed instalment rate for a plan 2, 3 or 5 loan is the result of the formula—
+(a)
+calculated on the 6th of April of each year, and
+(b)
+rounded down to the nearest £1 (if necessary).
+(2) The formula is—
+(3) In the formula—
+“x” means the median salary for graduates (to the nearest £500) in the most-recent year published by the Department for Education(1);
+“y” means the repayment threshold for the loan.
+Example
+On 6th April, £36,000 is the median salary and £27,295 is the repayment threshold.
+£36,000 multiplied by two is £72,000.
+£27,295 subtracted from £72,000 is £44,705.
+£44,705 multiplied by 0.09 is £4,023.45.
+£4,023.45 divided by 12 is £335.29.
+The fixed instalment rate is £335 (rounded down to the nearest £1).”.
+Commencement Information
+I1
+Reg. 58 in force at 6.4.2023, see reg. 2(2)
+(1)
+The median salary for graduates is published at https://explore-education-statistics.service.gov.uk/find-statistics/graduate-labour-markets. Data published in a given calendar year is used to calculate the fixed instalment rate for the financial year beginning in the following calendar year.Amendments to regulation 75 (repayment by income-related instalments)
+59.—(1) In regulation 75(4)—
+(a)
+in sub-paragraph (a), for “student loan” substitute “plan 1, 2 or 5 loan”;
+(b)
+in sub-paragraph (b), for “postgraduate degree loan” substitute “plan 3 loan”;
+(2) In regulation 75(4A)(a), for “regulation 76” substitute “regulation 75A”.
+(3) In regulation 75(4B)—
+(a)
+for “(4)” substitute “(4)(b)”;
+(b)
+for “due by—” to the end substitute “under paragraph (4)(a)”.
+Commencement Information
+I1
+Reg. 59 in force at 6.4.2023, see reg. 2(2)Insertion of regulation 75A (how to calculate applicable threshold)
+60.  After regulation 75 (repayment by income-related instalments) insert—
+“How to calculate applicable threshold
+75A.  The applicable threshold is, in relation to a borrower’s loan, the amount—
+(a)
+rounded up to the nearest £5 (if necessary), and
+(b)
+being the product of—
+(i)
+the repayment threshold for the loan, and
+(ii)
+the country-specific multiplier for the borrower’s country of residence.”.
+Commencement Information
+I1
+Reg. 60 in force at 6.4.2023, see reg. 2(2)Omission of regulation 76 (calculation of fixed instalment and applicable threshold)
+61.  Omit regulation 76.
+Commencement Information
+I1
+Reg. 61 in force at 6.4.2023, see reg. 2(2)Amendments to regulation 77 (application to cease repayment by instalments)
+62.  In regulation 77(1)—
+(a)
+in sub-paragraph (a), after “repayments” insert “of a loan”;
+(b)
+in sub-paragraph (b), for “a student loan or a postgraduate degree loan” substitute “the loan”.
+Commencement Information
+I1
+Reg. 62 in force at 6.4.2023, see reg. 2(2)Amendment to heading to Part 6
+63.  In the heading to Part 6, after “Insolvency” insert “in relation to plan 1, 2, 3 and 5 loans”.
+Commencement Information
+I1
+Reg. 63 in force at 6.4.2023, see reg. 2(2)Amendments to regulation 80 (effect of borrower insolvency on student loans and postgraduate degree loans)
+64.—(1) In the heading to regulation 80, omit “on student loans and postgraduate degree loans”.
+(2) In regulation 80(2)—
+(a)
+in sub-paragraph (a), for “student loan or postgraduate degree loan” substitute “plan 1, 2, 3, or 5 loan”;
+(b)
+in sub-paragraph (b)—
+(i)
+for “student loan or postgraduate degree loan” substitute “plan 1, 2, 3, or 5 loan”;
+(ii)
+omit “when the person” to the end;
+(c)
+in sub-paragraph (c), for “student loan or postgraduate degree loan” substitute “a plan 1, 2, 3, or 5 loan”;
+(d)
+in sub-paragraph (d)—
+(i)
+for “student loan or postgraduate degree loan” substitute “a plan 1, 2, 3, or 5 loan”;
+(ii)
+omit “when that person” to the end.
+(3) In regulation 80(3)—
+(a)
+in sub-paragraph (a), for “student loan or postgraduate degree loan” substitute “plan 1, 2, 3, or 5 loan”;
+(b)
+in sub-paragraph (b)—
+(i)
+for “student loan or postgraduate degree loan” substitute “plan 1, 2, 3, or 5 loan”;
+(ii)
+omit “when the person” to the end;
+(c)
+in sub-paragraph (c), for “student loan or postgraduate degree loan” substitute “plan 1, 2, 3, or 5 loan”;
+(d)
+in sub-paragraph (d)—
+(i)
+for “student loan or postgraduate degree loan” substitute “plan 1, 2, 3, or 5 loan”;
+(ii)
+omit “when that person” to the end.
+Commencement Information
+I1
+Reg. 64 in force at 6.4.2023, see reg. 2(2)Insertion of Schedule 1A (repayment thresholds)
+65.  After Schedule 1 (revocations) insert—
+Regulation 3
+“SCHEDULE 1A
+Repayment thresholds
+Plan 1 loan
+1.—(1) The repayment threshold for a plan 1 loan is—
+(a)
+£22,015 for the repayment threshold year ending on 5th April 2024, and
+(b)
+for each repayment threshold year ending on or after 5th April 2025, the amount rounded up to the nearest £5 (if necessary) being the product of—
+(i)
+the amount of the repayment threshold for the previous repayment threshold year, and
+(ii)
+the repayment threshold variable.
+(2) This paragraph is subject to regulation 44(6) (which applies a default threshold in certain circumstances).
+Plan 2 loan
+2.—(1) The repayment threshold for a plan 2 loan is—
+(a)
+£27,295 for the repayment threshold year ending on 5th April 2024 or 5th April 2025, and
+(b)
+for each repayment threshold year ending on or after 5th April 2026, the amount rounded up to the nearest £5 (if necessary) being the product of—
+(i)
+the amount of the repayment threshold for the previous repayment threshold year, and
+(ii)
+the repayment threshold variable.
+(2) This paragraph is subject to regulation 44(6) (which applies a default threshold in certain circumstances).
+Plan 3 loan
+3.  The repayment threshold for a plan 3 loan is £21,000.
+Plan 4 loan
+4.—(1) The repayment threshold for a plan 4 loan is determined in accordance with the definition of “repayment threshold” in regulation 2 of the 2000 (Scotland) Regulations.
+(2) This paragraph is subject to regulation 44(6) (which applies a default threshold in certain circumstances).
+Plan 5 loan
+5.—(1) The repayment threshold for a plan 5 loan is—
+(a)
+£25,000 for the repayment threshold year ending on 5th April 2027(1), and
+(b)
+for each repayment threshold year ending on or after 5th April 2028, the amount rounded up to the nearest £5 (if necessary) being the product of—
+(i)
+the amount of the repayment threshold for the previous repayment threshold year, and
+(ii)
+the repayment threshold variable.
+(2) This paragraph is subject to regulation 44(6) (which applies a default threshold in certain circumstances).”.
+Commencement Information
+I1
+Reg. 65 in force at 6.4.2023, see reg. 2(2)
+(1)
+A borrower is not required to repay any part of a plan 5 loan on or before 5th April 2026 (see regulation 15(2BA)).Revocations on 16th January 2023
+66.  The enactments cited in the table are revoked.
+Title Number
+The Education (Student Loans) (Repayment) (Amendment) (No. 2) Regulations 2021 S.I. 2021/677
+The Education (Student Loans) (Repayment) (Amendment) (No. 3) Regulations 2021 S.I. 2021/1005
+The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2021 S.I. 2021/1378
+The Education (Student Loans) (Repayment) (Amendment) (No. 2) Regulations 2022 S.I. 2022/889
+The Education (Student Loans) (Repayment) (Amendment) (No. 3) Regulations 2022 S.I. 2022/1151
+Commencement Information
+I1
+Reg. 66 in force at 16.1.2023, see reg. 2(1)(e)Revocations on 6th April 2023
+67.  The enactments cited in the table are revoked.
+Title Number
+The Education (Teacher Student Loans) (Repayment etc.) Regulations 2003 S.I. 2003/1917
+The Education (Teacher Student Loans) (Repayment etc.) (Amendment) Regulations 2005 S.I. 2005/3309
+The Education (Teacher Student Loans) (Repayment etc.) (Amendment) Regulations 2012 S.I. 2012/555
+The Education (Student Loans) (Repayment) (Amendment) Regulations 2022 S.I. 2022/301
+Commencement Information
+I1
+Reg. 67 in force at 6.4.2023, see reg. 2(2)Signed by authority of the Secretary of State for Education
+Barran
+Parliamentary Under Secretary of State
+Department for Education
+Jeremy Miles
+Minister for Education and Welsh Language, one of the Welsh MinistersEXPLANATORY NOTE
+(This note is not part of these Regulations)
+These Regulations amend the Education (Student Loan) (Repayment) Regulations 2009 (S.I. 2009/470) (“the 2009 Regulations”) and revoke spent enactments.
+The amendment of the 2009 Regulations:
+reorganises student loans within the scope of the 2009 Regulations into five plans, including a new plan 5 loan for certain courses beginning on or after 1st August 2023;
+for borrowers who have a plan 2 loan (formerly a “post-2012 student loan”):
+maintains the income-based repayment threshold (above which a borrower who has reached the statutory repayment due date in regulation 15 is required to make repayments) at £27,295 until the end of 5th April 2025, and
+changes the annual uprating of the repayment threshold thereafter from a calculation based on differences in average earnings to one based on the retail price index;
+introduces fixed instalment rates, which:
+are used to calculate repayments by overseas borrowers who have not provided required information about their income,
+replace the fixed instalments set out in regulation 76 (which is omitted), and
+for repayments of a plan 2 loan, a plan 3 loan (formerly a “postgraduate degree loan”) or a plan 5 loan, are recalculated annually based on the median salary for graduates;
+consolidates the provisions reducing interest rates on plan 2 and 3 loans applied by S.I. 2021/677, 1005, 1378, 2022/889 and 1151 (which are revoked);
+omits spent provisions;
+makes incidental, supplemental or technical amendments.
+The student loans within the scope of the 2009 Regulations are:
+loans under section 22 of the Teaching and Higher Education Act 1998 (c. 30),
+loans under section 73(f) of the Education (Scotland) Act 1980 (c. 44) in respect of which the Scottish Ministers have determined that repayments are to be collected by His Majesty’s Revenue and Customs, and
+loans subject to transfer arrangements under the Sale of Student Loans Act 2008 (c. 10).
+Part 1 of the 2009 Regulations (general) is amended as follows:
+regulation 3 (interpretation) is amended to revise the definitions of expressions used in the 2009 Regulations;
+new regulations 3A to 3E set out the five student loan plans within the scope of the 2009 Regulations;
+regulation 4 (application: general) is amended to set out what is required to be repaid in relation to a student loan;
+regulation 5 (Wales) is amended in consequence of new regulations 3A to 3C;
+regulation 6 (Scotland) is omitted in consequence of new regulation 3D;
+regulation 7 (application to transferred loans in England and Wales) is amended in consequence of new regulations 3A to 3C;
+new regulation 8A sets out how to calculate the country-specific multiplier, which is used to determine the amounts of repayments payable by overseas borrowers;
+new regulation 8B sets out how to calculate the repayment threshold variable, which is used to determine:
+the rate at which a plan 2 loan bears interest;
+whether repayments are required in relation to a plan 1, 2 or 5 loan;
+new regulation 8C provides that the examples in the 2009 Regulations (found in new regulations 8A, 8B and 74A) are only illustrative.
+Part 2 of the 2009 Regulations (provisions applicable to all repayments) is amended as follows:
+regulation 9 (interpretation) is amended to revise the definitions of expressions used in the Part 2;
+regulation 14 (interest and penalties) is amended to provide that it applies only in relation to plan 1, 2, 3 and 5 loans (plan 4 loans are subject to the Repayment of Student Loans (Scotland) Regulations 2000 (S.S.I. 2000/110));
+regulation 15 (timing of repayments: general) is amended in consequence of:
+new regulations 3A to 3C;
+the amendment of regulation 16;
+regulation 16 (timing of repayment: teachers and eligible teachers) is amended in consequence of the conclusion of the repayment and reduction provision for eligible teachers under the Education (Teacher Student Loans) (Repayment etc.) Regulations 2003 (S.I. 2003/1917);
+regulations 18 to 20A are amended in consequence of new regulations 3A to 3E;
+new regulation 20B (which comes into force on 16th January 2023):
+limits prospectively the rate at which certain student loans bear interest;
+consolidates the provisions reducing interest rates on plan 2 and 3 loans applied by S.I. 2021/677, 1005, 1378, 2022/889 and 1151;
+is amended on 6th April 2023 in consequence of new regulations 3B, 3C and 3E;
+regulation 21 (interest rate on the loans) is amended in consequence of new regulation 3A;
+regulation 21A (interest rate on post-2012 student loans) is amended:
+on 16th January 2023 in consequence of new regulation 20B;
+on 6th April 2023 in consequence of new regulation 3B;
+new regulations 21AA and 21AB, which replace regulation 21A(12) to (14), set out the income thresholds in relation to which a plan 2 loan bears interest;
+regulation 21B (interest rate on postgraduate degree loans) is amended:
+on 16th January 2023 in consequence of new regulation 20B;
+on 6th April 2023 in consequence of new regulation 3C;
+new regulation 21C provides for a plan 5 loan to bear interest at the standard interest rate;
+regulations 24, 25 and 27 are amended in consequence of new regulations 3A to 3E.
+Part 3 of the 2009 Regulations (repayments by assessment to income tax) is amended as follows:
+regulations 28 and 29 are amended in consequence of new regulations 3A to 3E, 8A, 8B and 8C and new Schedule 1A;
+regulations 36 and 40 are amended to omit spent provisions.
+Part 4 of the 2009 Regulations (deduction of repayments by employers) is amended as follows:
+regulations 41, 42, 44, 50, 55, 56, 57, 60, 61, 67 and 68 are amended in consequence of new regulations 3A to 3E and the following amendments to Part 4;
+regulation 41A (real time information employers) is omitted in consequence of regulation 14 of the Income Tax (Pay As You Earn) (Amendment) Regulations 2013 (S.I. 2013/521) (which exempts certain employers from the requirement to be Real Time Information employers on and after 6th October 2013);
+regulation 43 (new employee to declare repayments liability) is amended, and regulation 43A (commencement of employment with a Real Time Information employer) is omitted, in consequence of the replacement of Form P46 with the starter checklist (see https://www.gov.uk/new-employee/employee-information);
+regulation 59 (return by employers) is amended in consequence of new regulations 3A to 3E and paragraph 8(2) of Schedule 12 to the Finance Act 2004 (c. 12);
+regulation 59B (real time returns of information about payments of earnings) is amended to omit spent provisions relating to the 2014-15 and 2015-16 tax years;
+regulations 59E and 59G are amended to omit spent provisions.
+Part 5 of the 2009 Regulations (repayment by overseas borrowers) is amended as follows:
+regulations 71, 73 and 77 are amended in consequence of new regulations 3A to 3E;
+regulation 74 (repayment by fixed instalments) is amended in consequence of new regulation 74A;
+new regulation 74A sets out how to calculate the fixed instalment rate payable by overseas borrowers who have plan 2, 3 or 5 loans;
+regulation 75 is amended in consequence of new regulation 75A;
+new regulation 75A sets out how to calculate the applicable threshold, which is used to determine whether an overseas borrower is required to make repayments in relation to a plan 1, 2, 3 or 5 loan;
+regulation 76 is omitted in consequence of new regulations 74A and 75A.
+Part 6 of the 2009 Regulations (insolvency) is amended:
+in consequence of new regulations 3A to 3E;
+to omit spent provisions.
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to the exercise of the Welsh Ministers’ functions under these Regulations. As a result, a regulatory impact assessment has been prepared as to the likely costs and benefits of complying with these Regulations. A copy can be obtained from the Higher Education Division, Welsh Government, Cathays Park, Cardiff CF10 3NQ.
+An Explanatory Memorandum is published alongside this instrument at www.legislation.gov.uk.

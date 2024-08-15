@@ -1,0 +1,96 @@
+Draft Regulations laid before Parliament under section 429(2A) of the Financial Services and Markets Act 2000 (c. 8), for approval by resolution of each House of Parliament.
+DRAFT STATUTORY INSTRUMENTS
+2024 No. ****
+FINANCIAL SERVICES AND MARKETS
+The Financial Services and Markets Act 2000 (Ombudsman Scheme) (Fees) Regulations 2024
+Made
+Coming into force in accordance with regulation 1
+The Treasury make these Regulations in exercise of the power conferred by paragraph 15(3) of Schedule 17 to the Financial Services and Markets Act 2000(1) (“the Act”).
+In accordance with paragraph 15(6) of Schedule 17 to the Act, the Treasury have consulted the scheme operator(2).
+In accordance with section 429(2A) of the Act(3), a draft of these Regulations was laid before Parliament and approved by a resolution of each House of Parliament.
+(1)
+2000 c. 8; paragraph 15 of Schedule 17 was amended by the Financial Services and Markets Act 2023 (c. 29), subsections (3) to (5) of section 63.
+(2)
+The “scheme operator” for the purposes of the Act is the Financial Ombudsman Service Limited, which is the body corporate established by the Financial Services Authority (now the Financial Conduct Authority) under paragraph 2(1) of Schedule 17 to the Act (as originally enacted).
+(3)
+Subsections (2A) and (2B) of section 429 were inserted by subsection (4) of section 136 of the Financial Services (Banking Reform) Act 2013 (c. 33). Subsection (2B)(d), so far as it relates to paragraph 15(3) of Schedule 17 to the Financial Services and Markets Act 2000 (c. 8), was inserted by subsections (1) and (2) of section 63 of the Financial Services and Markets Act 2023 (c. 29). There are other amendments that are not relevant.Citation, commencement and extent
+1.—(1) These Regulations may be cited as the Financial Services and Markets Act 2000 (Ombudsman Scheme) (Fees) Regulations 2024.
+(2) These Regulations come into force on the day after the day on which these Regulations are made.
+(3) These Regulations extend to England and Wales and Scotland.Interpretation
+2.  In these Regulations—
+“the Act” means the Financial Services and Markets Act 2000(1);
+“legal professional” means—
+(a)
+a person who, or licensable body which, is authorised by the Law Society of England and Wales or the General Council of the Bar to carry on a reserved legal activity;
+(b)
+a European lawyer registered with the Law Society of England and Wales under the European Communities (Lawyer's Practice) Regulations 2000(2), as they have effect by virtue of regulation 6 (transitional provision: the 2000 Regulations and Swiss lawyers) of the Services of Lawyers and Lawyer's Practice (Revocation etc.) (EU Exit) Regulations 2020(3);
+(c)
+a foreign lawyer registered with the Law Society of England and Wales under section 89 (foreign lawyers: recognised bodies and partnerships with solicitors) of the Courts and Legal Services Act 1990(4);
+(d)
+a person authorised by the Chartered Institute of Legal Executives to carry on a reserved legal activity;
+(e)
+any other member of a legal profession, of a jurisdiction other than England and Wales, that is recognised by the Law Society of England and Wales or the General Council of the Bar as a regulated legal profession;
+“licensable body” has the meaning given in section 72 (“licensable body”) of the Legal Services Act 2007(5);
+“reserved legal activity” has the meaning given in section 12 (meaning of “reserved legal activity” and “legal activity”) of the Legal Services Act 2007;
+“Scottish legal professional” means—
+(a)
+a person qualified to practice as a solicitor in accordance with section 4 (qualifications for practising as a solicitor) of the Solicitors (Scotland) Act 1980(6);
+(b)
+an advocate who is a member of the Faculty of Advocates;
+(c)
+a European lawyer registered with the Law Society of Scotland in accordance with regulation 17 (registration by professional body) of the European Communities (Lawyer’s Practice) (Scotland) Regulations 2000(7) as those Regulations have effect by virtue of regulation 6 (transitional provision: the European Communities (Lawyer’s Practice) (Scotland) Regulations 2000) or regulation 7 (transitional provision: the European Communities (Lawyer's Practice) (Scotland) Regulations 2000 and Swiss lawyers) of the Services of Lawyers and Lawyer’s Practice (EU Exit) (Scotland) (Amendment etc.) Regulations 2019(8);
+(d)
+foreign lawyers registered with the Law Society of Scotland under section 60A (registered foreign lawyers) of the Solicitors (Scotland) Act 1980(9);
+(e)
+an incorporated practice within the meaning given by section 34(1A)(c) (rules as to professional practice, conduct and discipline) of the Solicitors (Scotland) Act 1980(10);
+(f)
+a licensed legal services provider within the meaning of Part 2 of the Legal Services (Scotland) Act 2010(11) (see section 47 (licensed providers) of that Act) that provides, or offers to provide, legal services under a licence issued by the Law Society of Scotland;
+(g)
+any other member of a legal profession, of a jurisdiction other than Scotland, that is recognised by the Law Society of Scotland or the Faculty of Advocates as a regulated legal profession.
+(1)
+2000 c. 8.
+(2)
+S.I. 2000/1119.
+(3)
+S.I. 2020/1342.
+(4)
+1990 c. 41; section 89 was amended by paragraph 125 of Schedule 16 to the Legal Services Act 2007 (c. 29). There are other amendments that are not relevant.
+(5)
+2007 c. 29.
+(6)
+1980 c. 46.
+(7)
+S.S.I. 2000/121.
+(8)
+S.S.I. 2019/127; regulations 6 and 7 were amended by regulation 15 of the Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441).
+(9)
+Section 60A was inserted by section 32 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (c. 40). It was amended by the Legal Services (Scotland) Act 2010 (Ancillary Provision) Regulations 2012 (S.S.I. 2012/212) and the Solicitors (Scotland) Act 1980 (Foreign Lawyers and Multi-national Practices) Regulations 2004 (S.S.I. 2004/383). There are other amendments that are not relevant.
+(10)
+Subsection (1A) was inserted by paragraph 12(b) of Schedule 1 to the Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73).
+(11)
+2010 asp 16.Persons specified for the purposes of paragraph 15 (fees) of Schedule 17 to the Act
+3.  The following persons are specified for the purposes of paragraph 15 (fees) of Schedule 17 to the Act—
+(a)
+an authorised person carrying on an activity specified in Part 3B (claims management activities in Great Britain) of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001(1);
+(b)
+a legal professional or a Scottish legal professional carrying on an activity—
+(i)
+specified in Part 3B (claims management activities in Great Britain) of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001; and
+(ii)
+disregarding the exclusions in article 89N (claims management activity conducted by legal professionals) of that Order.
+(1)
+S.I. 2001/544; Part 3B was inserted by Article 7 of the Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253).Review
+4.—(1) The Treasury must from time to time—
+(a)
+carry out a review of these Regulations; and
+(b)
+publish a report setting out the conclusions of the review.
+(2) The first report must be published before the end of the period of five years beginning with the day on which these Regulations come into force.
+(3) Subsequent reports must be published at intervals not exceeding five years beginning with the day on which the previous report was published.Name
+Name
+Two of the Lords Commissioners of His Majesty's TreasuryEXPLANATORY NOTE
+(This note is not part of the Regulations)
+Paragraph 15 of Schedule 17 to the Financial Services and Markets Act 2000 (c. 8) was amended by section 63 (the Ombudsman scheme) of the Financial Services and Markets Act 2023 (c. 29). The amendment allows the Treasury to make Regulations to specify persons to whom the Financial Ombudsman Service can charge fees.
+Regulation 3 specifies that authorised claims management companies, legal professionals and Scottish legal professionals (as defined in regulation 2) carrying out claims management activities in respect of any complaint made to the Financial Ombudsman Service may be charged fees.
+Regulation 4 makes provision for review by the Treasury.
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen from the making of this statutory instrument alone. The Financial Ombudsman Service has published an initial consultation on the use of its ability to charge fees, as modified by these Regulations, in its Plans and Budget Consultation 2024-25, which is available on the Financial Ombudsman Service website at https://www.financial-ombudsman.org.uk/files/324385/Financial-Ombudsman-Service-Plans-and-Budget-Consultation-2024-25.pdf. A hard copy of the Plans and Budget Consultation 2024-25 may be requested by email on: accessibility@financial-ombudsman.org.uk or by phone on: 0800 023 4567.

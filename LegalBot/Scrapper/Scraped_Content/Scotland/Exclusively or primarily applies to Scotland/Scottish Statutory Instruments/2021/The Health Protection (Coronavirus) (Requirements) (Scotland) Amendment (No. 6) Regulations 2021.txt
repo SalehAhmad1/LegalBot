@@ -1,0 +1,182 @@
+SCOTTISH STATUTORY INSTRUMENTS
+2021 No. 496
+PUBLIC HEALTH
+The Health Protection (Coronavirus) (Requirements) (Scotland) Amendment (No. 6) Regulations 2021
+Approved by the Scottish Parliament
+Made
+at 11.48 a.m. on 23rd December 2021
+Laid before the Scottish Parliament
+at 2.30 p.m. on 23rd December 2021
+Coming into force in accordance with regulation 1
+The Scottish Ministers make the following Regulations in exercise of the power conferred by paragraph 1(1) of schedule 19 of the Coronavirus Act 2020(1) (“the Act”) and all other powers enabling them to do so.
+These Regulations are made in response to the serious and imminent threat to public health which is posed by the incidence and spread of coronavirus in Scotland.
+The Scottish Ministers consider that the requirements imposed by the Regulations are proportionate to what they seek to achieve, which is a public health response to that threat.
+In accordance with paragraph 6(2) and (3) of schedule 19 of the Act, the Scottish Ministers are of the opinion that, by reason of urgency, it is necessary to make these Regulations without a draft having been laid before, and approved by, a resolution of the Scottish Parliament.
+(1)
+2020 c. 7.Citation and commencement
+1.—(1) These Regulations may be cited as the Health Protection (Coronavirus) (Requirements) (Scotland) Amendment (No. 6) Regulations 2021.
+(2) Subject to paragraph (3) these Regulations come into force at 5.00 a.m. on 26 December 2021.
+(3) Regulation 4 comes into force at 5.00 a.m. on 27 December 2021.Amendment of the Health Protection (Coronavirus) (Requirements) (Scotland) Regulations 2021
+2.  The Health Protection (Coronavirus) (Requirements) (Scotland) Regulations 2021(1) are amended in accordance with regulations 3 to 6.
+(1)
+S.S.I. 2021/277, amended by S.S.I. 2021/299, S.S.I. 2021/349, S.S.I. 2021/384, S.S.I. 2021/453, and S.S.I. 2021/475.Amendment of regulation 2
+3.  In regulation 2 (interpretation)—
+(a)
+before the definition of “child” insert—
+““alcohol” has the same meaning as in section 2 of the Licensing (Scotland) Act 2005(1),”,
+(b)
+after the definition of “indoors” insert—
+““live event” means an event or activity which brings individuals together for the purpose of community, culture, sport, recreation, entertainment, art or business but does not include—
+(a)
+an event or activity which is or relates to a funeral, marriage ceremony or civil partnership registration,
+(b)
+a mass participation event such as a marathon or triathlon,
+(d)
+a showing in a cinema,
+(e)
+a drive-in event,
+(f)
+an organised picket,
+(g)
+a public or street market, or
+(h)
+an illuminated trail,”.
+(1)
+2005 asp 16. Section 2 was amended by section 54 of the Air Weapons and Licensing (Scotland) Act 2015 (asp 10).Insertion of regulations 4A and 4B
+4.  After regulation 4 (guidance on minimising exposure to and requirement to take measures to minimise incidence and spread of coronavirus) insert—
+“Requirements to take measures to ensure the required distance is maintained
+4A.—(1) A person who is responsible for a relevant leisure premises must take measures to ensure, so far as reasonably practicable, that—
+(a)
+a distance of at least one metre is maintained between any persons on its premises (except between persons mentioned in paragraph (2)),
+(b)
+persons are admitted to its premises in sufficiently small numbers to make it possible to maintain that distance,
+(c)
+a distance of at least one metre is maintained between any persons waiting to enter its premises (except between persons mentioned in paragraph (2)).
+(2) The persons mentioned in paragraph (1)(a) and (c) are—
+(a)
+two or more members of the same household or of a group formed of more than one household attending the premises together,
+(b)
+a carer and a person assisted by the carer,
+(c)
+a child under 12 years of age and any other person,
+(d)
+persons in attendance at an event or activity which relates to a funeral, marriage ceremony or civil partnership registration,
+(e)
+the person responsible for the premises, an employee of that person, or a person providing services (voluntary or otherwise) at the premises, and any other person.
+(3) In this regulation—
+“carer” includes a person who provides care for the person assisted whether that care is provided—
+(a)
+by a carer within the meaning of section 1 of the Carers (Scotland) Act 2016(1),
+(b)
+on a paid basis, or
+(c)
+on a voluntary basis,
+“relevant leisure premises” means—
+(a)
+amusement arcades, snooker or pool halls,
+(b)
+bars, including a bar in a hotel or members club,
+(c)
+betting shops,
+(d)
+bingo halls,
+(e)
+bowling alleys,
+(f)
+cafés and canteens,
+(g)
+casinos,
+(h)
+cinemas,
+(i)
+comedy clubs,
+(j)
+concert halls,
+(k)
+conference or exhibition centres and any other place at which an exhibition takes place,
+(l)
+discotheques, nightclubs and dance halls,
+(m)
+function halls and event venues,
+(n)
+hotels, hostels, boarding houses, members clubs and bed and breakfast accommodation providers,
+(o)
+indoor fitness studios, sports halls, gyms, swimming pools, and other indoor sport, activity or exercise facilities,
+(p)
+indoor funfairs,
+(q)
+indoor snow sports centres,
+(r)
+indoor skating rinks,
+(s)
+indoor visitor attractions,
+(t)
+museums and galleries,
+(u)
+public houses,
+(v)
+restaurants, including a restaurant or dining room in a hotel or members club,
+(w)
+sexual entertainment venues,
+(x)
+soft play centres,
+(y)
+sports stadiums, and
+(z)
+theatres.
+Requirement for seated food and drink consumption
+4B.—(1) A person who is responsible for carrying on a relevant business may sell food or drink (including non-alcoholic drink) for consumption on the premises only if—
+(a)
+where reasonably practicable, the food or drink is ordered by, and served to, a customer who is seated on the premises, and
+(b)
+the customer remains seated whilst consuming the food and drink on the premises.
+(2) For the purposes of paragraph (1), an area adjacent to the premises of the relevant business, where seating is made available for customers of the business (whether or not by the business), or which its customers habitually use for consumption of food or drink served by the business, is to be treated as part of the premises of that business.
+(3) If a relevant business (“business A”) forms part of a larger business (“business B”) the person responsible for carrying on business B complies with the requirements in sub-paragraph (1) that if that person complies with the requirements in relation to business A.
+(4) In this regulation, a “relevant business” means any business operating in premises where, at the relevant time, alcohol is sold and consumed, or consumed, on the premises.
+(5) This regulation does not apply when food or drink is ordered by and served to customers who are attending an event or activity which relates to a funeral, marriage ceremony or civil partnership registration.”.
+(1)
+2016 asp 9.Insertion of Part 2A
+5.  After regulation 7E (interpretation of regulations 7A to 7D) insert—
+“PART 2A
+Live events
+Capacity limits on live events
+7F.—(1) A person must not organise a live event which takes place wholly or mainly—
+(a)
+outdoors at which more than 500 persons are in attendance at any point in time during the event, or
+(b)
+indoors at which more than 200 persons (if seated) or 100 persons (if standing) are in attendance at any point in time during the event.
+(2) For the purpose of paragraph (1) the following types of persons are not to be included when counting the number of persons in attendance at a live event—
+(a)
+persons who are working or providing voluntary or charitable services at the event, and
+(b)
+children under 5 years of age.”.Amendment of regulation 15
+6.  In regulation 15 (enforcement of requirements) for paragraph (9) substitute—
+“(9) A local authority may only designate a person for the purpose of this regulation in relation to the requirements in—
+(a)
+regulation 3,
+(b)
+regulation 4(1)(b),
+(c)
+regulation 4A,
+(d)
+regulation 4B, and
+(e)
+regulations 7A to 7F.”.JOHN SWINNEY
+A member of the Scottish Government
+St Andrew’s House,
+Edinburgh
+At 11.48 a.m. on 23rd December 2021EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the Health Protection (Coronavirus) (Requirements) (Scotland) Regulations 2021 (“the principal Regulations”).
+Regulation 2 makes provision about the date when the Regulations come into force. All provisions other than regulation 4 come into force at 5.00 a.m. on 26 December 2021. Regulation 4 comes into force at 5.00 a.m. on 27 December 2021.
+Regulation 3 amends the interpretation provision contained in regulation 2 of the principal Regulations.
+Regulation 4 inserts regulations 4A and 4B into the principal Regulations. Regulation 4A(1) provides that those who are responsible for premises must take steps to ensure that a distance of one metre is maintained between people either on, or waiting to enter, the premises and that only enough people are admitted to the premises to allow the one metre distance to be maintained, subject to the following exceptions.
+The new regulation 4A(2) sets out exceptions from the requirement in regulation 4A(1) in relation to certain people as follows—
+two or more members of the same household, or where persons from different households are attending the premises together as a group, members of that group,
+a carer and anyone assisted by the carer,
+a child under 12 and another person,
+any persons in attendance at an event or activity which relates to a funeral, marriage ceremony or civil partnership registration,
+the person responsible for the premises, an employee of that person, or a person providing services (voluntary or otherwise) at the premises, and any other person.
+New regulation 4B makes provision to require that, in premises where alcohol is sold for consumption on the premises or otherwise may be consumed on the premises, food and drink may only be ordered and served to a customer who is seated, and that the customer must remain seated whilst consuming food and drink on the premises. This does not apply to an event or activity which relates to a funeral, marriage ceremony or civil partnership registration.
+Regulation 5 inserts Part 2A into the principal Regulations. In that Part, new regulation 7F sets out a restriction on the numbers who may attend live events (as newly defined in regulation 2 of the principal Regulations). No more than 500 persons may attend an outdoors live event. No more than 200 seated or 100 unseated persons may attend an indoors live event. Persons who are working or providing services at the event, and children under 5 years of age, are not included in these limits.
+Regulation 6 amends regulation 15 of the principal Regulations, to enable a local authority to designate enforcement officers for the purpose of the new requirements added by regulations 4 and 5.

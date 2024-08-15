@@ -1,0 +1,38 @@
+SCOTTISH STATUTORY INSTRUMENTS
+2024 No. 48
+INSOLVENCY
+BANKRUPTCY
+DEBT
+The Bankruptcy (Scotland) Amendment Regulations 2024
+Made
+14th February 2024
+Laid before the Scottish Parliament
+15th February 2024
+Coming into force
+6th April 2024
+The Scottish Ministers make the following regulations in exercise of the powers conferred by section 129(10)(a) of the Bankruptcy (Scotland) Act 2016(1) and all other powers enabling them to do so.
+(1)
+2016 asp 21 (“the 2016 Act”). Section 228(1) of the 2016 Act contains a definition of “prescribed” relevant to the powers under which these Regulations are made.Citation and commencement
+1.  These Regulations may be cited as the Bankruptcy (Scotland) Amendment Regulations 2024, and come into force on 6 April 2024.Amendment of the Bankruptcy (Scotland) Regulations 2016
+2.—(1) Regulation 26 of the Bankruptcy (Scotland) Regulations 2016(1) (interest on claims in sequestration) is amended as follows.
+(2) The existing text becomes paragraph (1).
+(3) In paragraph (1) (so formed), for “8 per centum per annum”, substitute “an annual rate of 2 percentage points above the Bank of England base rate that applies on the date of sequestration”(2).
+(4) After paragraph (1), insert—
+“(2) In paragraph (1), “Bank of England base rate” means—
+(a)
+except where sub-paragraph (b) applies, the percentage rate announced from time to time by the Monetary Policy Committee of the Bank of England as the official dealing rate, being the rate at which the Bank is willing to enter into transactions for providing short-term liquidity in the money markets, or
+(b)
+where an order under section 19 of the Bank of England Act 1998(3) (reserve powers) is in force, any equivalent percentage rate determined by the Treasury under that section.”.
+(1)
+S.S.I. 2016/397.
+(2)
+The date of sequestration is defined in section 22(7) of the 2016 Act.
+(3)
+1998 c. 11.TOM ARTHUR
+Authorised to sign by the Scottish Ministers
+St Andrew’s House,
+Edinburgh
+14th February 2024EXPLANATORY NOTE
+This note is not part of the Regulations
+These Regulations amend the prescribed rate of interest that applies to a claim in sequestration for the purposes of section 129(10) of the Bankruptcy (Scotland) Act 2016. The Regulations amend regulation 26 of the Bankruptcy (Scotland) Regulations 2016, which is where the existing rate of interest is specified. The new rate of interest is the Bank of England base rate which applies on the date of sequestration, plus an additional 2%.
+Section 129(10) of the Bankruptcy (Scotland) Act 2016 provides that the rate of interest payable on a claim in a sequestration under section 129(1)(h) is the greater of the prescribed rate at the date of sequestration, or the rate applicable to that debt apart from the sequestration. The rate prescribed in these Regulations will accordingly be applicable only in cases where the date of sequestration falls on or after the date these Regulations come into force.

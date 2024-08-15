@@ -1,0 +1,45 @@
+STATUTORY INSTRUMENTS
+2024 No. 604 (C. 38)
+SOCIAL SECURITY
+The Welfare Reform Act 2012 (Commencement No. 31 and Savings and Transitional Provisions) (Amendment) Order 2024
+Made
+7th May 2024
+The Secretary of State makes this Order in exercise of the powers conferred by section 150(3) and (4)(c) of the Welfare Reform Act 2012(1).
+(1)
+2012 c. 5.Citation, extent and effect
+1.—(1) This Order may be cited as the Welfare Reform Act 2012 (Commencement No. 31 and Savings and Transitional Provisions) (Amendment) Order 2024.
+(2) This Order extends to England and Wales and Scotland.
+(3) The amendment in article 2 has effect from 8th June 2024.Preservation of saving for mixed-age couples migrated to universal credit
+2.—(1) The Welfare Reform Act 2012 (Commencement No. 31 and Savings and Transitional Provisions and Commencement No. 21 and 23 and Transitional and Transitory Provisions (Amendment)) Order 2019(1) is amended as follows.
+(2) In article 4 (savings) after paragraph (2) insert—
+“(3) Nothing in regulation 6A (restriction on claims for housing benefit, income support or a tax credit) of the Transitional Regulations prevents a claim for housing benefit by a member of a mixed-age couple referred to in paragraph (1) where—
+(a)
+they have been issued with a migration notice;
+(b)
+they make the claim for housing benefit within three months beginning with—
+(i)
+in the case of a person who became entitled to universal credit by claiming before the final deadline, the day after their award of universal credit terminates; or
+(ii)
+in the case of a person who did not claim universal credit, or claimed before the final deadline but was not entitled, the day after their award of housing benefit terminates; and
+(c)
+they meet the conditions for entitlement to housing benefit on that day.
+(4) Where a person mentioned in sub-paragraph (b)(i) of paragraph (3) claims—
+(a)
+housing benefit; or
+(b)
+state pension credit (whether or not they also claim housing benefit),
+within three months beginning with the day mentioned in that sub-paragraph, any days on which they were entitled to universal credit are to be disregarded for the purposes of paragraph (2).
+(5) In this article “Transitional Regulations” means the Universal Credit (Transitional Provisions) Regulations 2014(2) and “final deadline” and “migration notice” have the same meaning as in those Regulations.”.
+(1)
+S.I. 2019/37 (C. 1).
+(2)
+S.I. 2014/1230. Regulation 6A was inserted by S.I. 2022/752 and amended by S.I. 2024/341.Signed by authority of the Secretary of State for Work and Pensions
+Jo Churchill
+Minister of State
+Department for Work and Pensions
+7th May 2024EXPLANATORY NOTE
+(This note is not part of the Order)
+This Order, which extends to Great Britain only, preserves the existing protection for certain mixed-age couples (that is couples where one member has reached the qualifying age for state pension credit) when they are issued with a migration notice requiring them to move to universal credit.
+Article 2 amends article 4 of the Welfare Reform Act 2012 (Commencement No. 31 and Savings and Transitional Provisions and Commencement No. 21 and 23 and Transitional and Transitory Provisions (Amendment)) Order 2019 (S.I. 2019/37 (C. 1)) (“the No. 31 Order”).
+Article 3 of the No. 31 Order commenced the provision that excluded entitlement to state pension credit where the claimant’s partner was under the qualifying age for that benefit. Article 4 of that Order contained a saving provision that protected mixed-age couples who were entitled to housing benefit or state pension credit at the time that exclusion came into effect.
+Article 4 of this Order allows that saving, which would otherwise cease when a migration notice is issued, to be reinstated when universal credit ends. It also allows the saving to continue where the couple are issued with a migration notice but do not make a claim for universal credit or make a claim but are not entitled.

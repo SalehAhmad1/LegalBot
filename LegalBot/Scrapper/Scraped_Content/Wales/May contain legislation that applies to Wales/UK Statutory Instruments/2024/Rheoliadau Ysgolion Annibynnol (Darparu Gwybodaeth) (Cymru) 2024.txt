@@ -1,0 +1,363 @@
+OFFERYNNAU STATUDOL CYMRU
+2024 Rhif 26 (Cy. 9)
+ADDYSG, CYMRU
+Rheoliadau Ysgolion Annibynnol (Darparu Gwybodaeth) (Cymru) 2024
+Gwnaed
+11 Ionawr 2024
+Gosodwyd gerbron Senedd Cymru
+15 Ionawr 2024
+Yn dod i rym
+14 Chwefror 2024
+Mae Gweinidogion Cymru, drwy arfer y pwerau a roddwyd i Gynulliad Cenedlaethol Cymru gan adrannau 157(1), 160(1), 168 a 210(7)(c) o Ddeddf Addysg 2002(1), ac sydd bellach yn arferadwy ganddynt hwy(2), yn gwneud y Rheoliadau a ganlyn.
+(1)
+2002 p. 32. Amnewidiwyd adran 168(2)(a) gan reoliad 18 o Reoliadau Deddf Rheoleiddio ac Arolygu Gofal Cymdeithasol (Cymru) 2016 (Diwygiadau Canlyniadol) 2018 (O.S. 2018/195) (Cy. 44). Diwygiwyd adran 210(7)(c) gan adran 21(1) a 3(c)(ii) o Fesur Teithio gan Ddysgwyr (Cymru) 2008 (mccc 2). Gweler adran 212(1) am y diffiniad o “regulations” a “prescribed”.
+(2)
+Trosglwyddwyd swyddogaethau Cynulliad Cenedlaethol Cymru i Weinidogion Cymru yn rhinwedd adran 162 o Ddeddf Llywodraeth Cymru 2006 a pharagraff 30 o Atodlen 11 iddi.Enwi, dod i rym a chymhwyso
+1.—(1) Enw’r Rheoliadau hyn yw Rheoliadau Ysgolion Annibynnol (Darparu Gwybodaeth) (Cymru) 2024, a deuant i rym ar 14 Chwefror 2024.
+(2) Mae’r Rheoliadau hyn yn gymwys o ran Cymru.Dehongli
+2.—(1) Yn y Rheoliadau hyn—
+mae i “anghenion addysgol arbennig” yr ystyr a roddir i “special educational needs” yn adran 312 o Ddeddf 1996;
+mae i “anghenion dysgu ychwanegol” (“additional learning needs”) yr ystyr a roddir yn adran 2 o Ddeddf 2018;
+mae i “awdurdod lleol” yr ystyr a roddir i “local authority” yn adran 579(1) o Ddeddf 1996(1);
+mae i “blwyddyn ysgol” yr ystyr a roddir i “school year” yn adran 579(1) o Ddeddf 1996(2);
+ystyr “cais” (“application”) yw cais i’r awdurdod cofrestru i gofrestru ysgol annibynnol, a wneir gan y perchennog yn unol ag adran 160(1)(b) o Ddeddf 2002;
+mae i “cynllun datblygu unigol” (“individual development plan”) yr ystyr a roddir yn adran 10 o Ddeddf 2018;
+mae i “darpariaeth addysgol arbennig” yr ystyr a roddir i “special educational provision” yn adran 312 o Ddeddf 1996.
+mae i “darpariaeth ddysgu ychwanegol” (“additional learning provision”) yr ystyr a roddir yn adran 3 o Ddeddf 2018;
+ystyr “Deddf 1996” (“the 1996 Act”) yw Deddf Addysg 1996(3);
+ystyr “Deddf 1997” (“the 1997 Act”) yw Deddf yr Heddlu 1997(4);
+ystyr “Deddf 2002” (“the 2002 Act”) yw Deddf Addysg 2002;
+ystyr “Deddf 2006” (“the 2006 Act”) yw Deddf Diogelu Grwpiau Hyglwyf 2006(5);
+ystyr “Deddf 2018” (“the 2018 Act”) yw Deddf Anghenion Dysgu Ychwanegol a’r Tribiwnlys Addysg (Cymru) 2018(6);
+mae i “disgybl” yr ystyr a roddir i “pupil” yn adran 3(1) o Ddeddf 1996(7);
+ystyr “y gofrestr” (“the register”) yw’r gofrestr o ysgolion annibynnol a gedwir gan yr awdurdod cofrestru o dan adran 158(3)(8) o Ddeddf 2002;
+ystyr “gwasanaeth diweddaru’r GDG” (“DBS up-date service”) yw’r gwasanaeth a weithredir gan y Gwasanaeth Datgelu a Gwahardd sy’n darparu gwybodaeth ddiweddaru berthnasol o fewn yr ystyr a roddir i “up-date information” yn adran 116A(8)(b)(i)(9) neu 116A(8)(c)(i) o Ddeddf 1997;
+mae i “perchennog” yr ystyr a roddir i “proprietor” yn adran 579(1)(10) o Ddeddf 1996;
+ystyr “Rheoliadau 2003” (“the 2003 Regulations”) yw Rheoliadau Ysgolion Annibynnol (Darparu Gwybodaeth) (Cymru) 2003(11);
+mae i “sy’n derbyn gofal gan awdurdod lleol” (“looked after by a local authority”) yr ystyr a roddir yn adran 74(1) o Ddeddf Gwasanaethau Cymdeithasol a Llesiant (Cymru) 2014(12) neu, yn ôl y digwydd, yn adran 22(1) o Ddeddf Plant 1989(13);
+ystyr “tystysgrif GDG” (“DBS certificate”) yw tystysgrif cofnod troseddol manwl a ddyroddir o dan adran 113B(1)(14) o Ddeddf 1997, sy’n cynnwys, mewn unrhyw achosion a ragnodir o bryd i’w gilydd o dan adran 113BA(1) o’r Ddeddf honno, wybodaeth addasrwydd sy’n ymwneud â phlant;
+mae i “ysgol annibynnol” yr ystyr a roddir i “independent school” yn adran 463 o Ddeddf 1996(15);
+ystyr “ysgol annibynnol gofrestredig” (“registered independent school”) yw ysgol annibynnol y mae ei henw wedi ei gofnodi yn y gofrestr.
+(2) Mae unrhyw gyfeiriad yn y Rheoliadau hyn at berson a gyflogir mewn ysgol annibynnol yn gyfeiriad at berson—
+(a)
+sy’n darparu addysg mewn ysgol annibynnol;
+(b)
+sy’n cymryd rhan yn y gwaith o reoli ysgol annibynnol, neu
+(c)
+sy’n cynnal gwaith—
+(i)
+sy’n dod â’r person hwnnw i gysylltiad yn rheolaidd â phlant sy’n ddisgyblion yn yr ysgol annibynnol, a
+(ii)
+sy’n cael ei gyflawni ar gais neu gyda chydsyniad perchennog ysgol annibynnol (pa un ai o dan gontract ai peidio).
+(3) At ddibenion paragraff 23(d) o’r Atodlen, nid yw tystysgrif GDG neu wiriad gwasanaeth diweddaru’r GDG ond yn berthnasol pan fo unigolyn yn cymryd rhan, neu pan fydd yn cymryd rhan, mewn—
+(a)
+gweithgaredd rheoleiddiedig o fewn yr ystyr a roddir i “regulated activity” yn Rhan 1 o Atodlen 4 i Ddeddf 2006, neu
+(b)
+gweithgaredd rheoleiddiedig sy’n ymwneud â phlant o fewn yr ystyr a roddir i “regulated activity” yn Rhan 1 o Atodlen 4 i Ddeddf 2006 fel yr oedd yn cael effaith yn union cyn i adran 64 o Ddeddf Diogelu Rhyddidau 2012 ddod i rym.
+(1)
+Amnewidiwyd y diffiniad o “local authority” gan erthygl 3(1) a (2)(b) o O.S. 2010/1158.
+(2)
+Mewnosodwyd y diffiniad o “school year” gan adran 57(1) o Ddeddf Addysg 1997 (p. 44) a pharagraff 43 o Atodlen 7 iddi.
+(3)
+1996 p. 56.
+(4)
+1997 p. 50.
+(5)
+2006 p. 47.
+(6)
+2018 dccc 2.
+(7)
+Diwygiwyd adran 3(1) gan adran 57(1) o Ddeddf Addysg 1997 (p. 44) a pharagraff 9 o Atodlen 7 iddi.
+(8)
+Diwygiwyd adran 158(3) gan adran 169(1) o Ddeddf Addysg a Sgiliau 2008 (p. 25) a pharagraffau 13 a 17(b) o Atodlen 1 iddi.
+(9)
+Mewnosodwyd adran 116A gan adran 83 o Ddeddf Diogelu Rhyddidau 2012 (p. 9) ac fe’i diwygiwyd gan erthyglau 36 a 37(g) o Orchymyn Deddf Diogelu Rhyddidau 2012 (Trosglwyddo Swyddogaethau i’r Gwasanaeth Datgelu a Gwahardd) 2012 (O.S. 2012/3006).
+(10)
+Diwygiwyd y diffiniad o “proprietor” gan adran 140(1) o Ddeddf Safonau a Fframwaith Ysgolion 1998 (p. 31) a pharagraff 183(a)(iii) o Atodlen 30 iddi. Mae offerynnau diwygio eraill nad ydynt yn berthnasol i’r Rheoliadau hyn.
+(11)
+O.S. 2003/3230 (Cy. 310).
+(12)
+2014 dccc 4.
+(13)
+1989 p. 41. Diwygiwyd adran 22(1) gan reoliadau 55 a 69(a) o Reoliadau Deddf Gwasanaethau Cymdeithasol a Llesiant (Cymru) 2014 (Diwygiadau Canlyniadol) 2016 (O.S. 2016/413) (Cy. 131).
+(14)
+Mewnosodwyd adran 113B yn Neddf yr Heddlu 1997 (p. 50) gan adran 163(2) o Ddeddf Troseddu Cyfundrefnol Difrifol a’r Heddlu 2005 (p. 15). Diwygiwyd adran 113B(1) gan erthyglau 36 a 37(c) o Orchymyn Deddf Diogelu Rhyddidau 2012 (Trosglwyddo Swyddogaethau i’r Gwasanaeth Datgelu a Gwahardd) 2012 (O.S. 2012/3006), gan adrannau 97(2) a 112(2) o Ddeddf Plismona a Throsedd 2009 (p. 26) a Rhan 8 o Atodlen 8 iddi, a chan adran 80(1) o Ddeddf Diogelu Rhyddidau 2012 (p. 9).
+(15)
+Amnewidiwyd adran 463 gan adran 172 o Ddeddf Addysg 2002 (p. 32). Diwygiwyd is-adran (1) gan adran 26 o Ddeddf Anghenion Dysgu Ychwanegol a’r Tribiwnlys Addysg (Cymru) 2018 (dccc 2) a pharagraff 4 o Atodlen 1 iddi, a chan O.S. 2010/1158 ac O.S. 2016/463 (Cy. 131). Mae offerynnau diwygio eraill ond nid yw’r un ohonynt yn berthnasol i’r Rheoliadau hyn.Cais i gofrestru ysgol annibynnol
+3.  Rhaid i bob cais—
+(a)
+bod ar ffurf cais ar-lein a gyrchir ar dudalennau’r wefan a gynhelir gan Lywodraeth Cymru ac sydd wedi eu sefydlu at ddiben hysbysu ceiswyr ynghylch y weithdrefn ar gyfer cofrestru o dan adran 158(1) a (3) o Ddeddf 2002,
+(b)
+datgan y dyddiad cyntaf y mae’r perchennog yn bwriadu i’r ysgol annibynnol dderbyn disgyblion arno,
+(c)
+cynnwys yr wybodaeth a bennir yn Rhan 2 o’r Atodlen, a
+(d)
+cynnwys tystysgrif wedi ei llofnodi gan y perchennog neu gan berson sydd wedi ei awdurdodi gan y perchennog i roi’r dystysgrif ar ran y perchennog, bod y datganiadau a wneir yn y cais yn gywir hyd eithaf ei wybodaeth a’i gred.Datganiad cychwynnol
+4.—(1) Os gofynnir iddo wneud hynny gan yr awdurdod cofrestru, rhaid i berchennog ysgol annibynnol gofrestredig ddarparu i’r awdurdod cofrestru ddatganiad cychwynnol ar gyfer yr ysgol annibynnol.
+(2) Rhaid i bob datganiad cychwynnol—
+(a)
+bod ar ffurf cais ar-lein a gyrchir ar dudalennau’r wefan a gynhelir gan Lywodraeth Cymru ac sydd wedi eu sefydlu at y diben hwn,
+(b)
+bod wedi ei lenwi hyd at y dyddiad a bennir gan yr awdurdod cofrestru,
+(c)
+cynnwys yr wybodaeth a bennir yn Rhan 3 o’r Atodlen, a
+(d)
+cynnwys tystysgrif wedi ei llofnodi gan y perchennog neu gan berson sydd wedi ei awdurdodi gan y perchennog i roi’r dystysgrif ar ran y perchennog, bod y datganiadau a wneir yn y datganiad cychwynnol yn gywir hyd eithaf ei wybodaeth a’i gred.
+(3) Rhaid darparu datganiad cychwynnol o fewn y cyfnod o 90 o ddiwrnodau sy’n dechrau—
+(a)
+â’r dyddiad derbyn, neu
+(b)
+pan fo cais yr awdurdod cofrestru am y datganiad cychwynnol yn cael ei wneud ar ôl y dyddiad derbyn, â dyddiad y cais.
+(4) Y “dyddiad derbyn” yw’r dyddiad cyntaf—
+(a)
+y caiff pump neu ragor o ddisgyblion eu derbyn i’r ysgol arno, os yw’r ysgol yn ysgol annibynnol yn rhinwedd adran 463(1)(a) o Ddeddf 1996, neu
+(b)
+y caiff un disgybl ei dderbyn i’r ysgol arno, os yw’r ysgol yn ysgol annibynnol yn rhinwedd adran 463(1)(b) o’r Ddeddf honno.Datganiad blynyddol
+5.—(1) Ym mhob blwyddyn ysgol rhaid i berchennog ysgol annibynnol gofrestredig gyflwyno i’r awdurdod cofrestru ddatganiad blynyddol ar gyfer yr ysgol annibynnol honno o fewn 30 o ddiwrnodau i’r awdurdod cofrestru ofyn iddo wneud hynny.
+(2) Rhaid i bob datganiad blynyddol—
+(a)
+bod ar ffurf cais ar-lein a gyrchir ar dudalennau’r wefan a gynhelir gan Lywodraeth Cymru ac sydd wedi eu sefydlu at y diben hwn,
+(b)
+bod wedi ei lenwi hyd at y dyddiad a bennir gan yr awdurdod cofrestru,
+(c)
+cynnwys yr wybodaeth a bennir yn Rhan 4 o’r Atodlen, a
+(d)
+cynnwys tystysgrif wedi ei llofnodi gan y perchennog neu gan berson sydd wedi ei awdurdodi gan y perchennog i roi’r dystysgrif ar ran y perchennog, bod y datganiadau a wneir yn y datganiad blynyddol yn gywir hyd eithaf ei wybodaeth a’i gred.Dileu ysgol annibynnol o’r gofrestr
+6.  Os yw’r awdurdod cofrestru wedi ei fodloni bod perchennog ysgol annibynnol wedi methu â chydymffurfio ag unrhyw ofyniad a bennir yn rheoliad 4 neu 5, caiff ddileu’r ysgol annibynnol o’r gofrestr.Trosedd
+7.  Os yw perchennog ysgol annibynnol yn methu â chydymffurfio ag unrhyw ofyniad a bennir yn rheoliad 4 neu 5, mae’n euog o drosedd ac yn agored ar euogfarn ddiannod i ddirwy nad yw’n uwch na lefel 5 ar y raddfa safonol.Dirymiadau
+8.  Mae Rheoliadau Ysgolion Annibynnol (Darparu Gwybodaeth) (Cymru) 2003 wedi eu dirymu.Dirymiadau
+9.  Mae Rheoliadau Ysgolion Annibynnol (Diwygiadau Amrywiol) (Cymru) 2007(1) wedi eu dirymu.
+(1)
+O.S. 2007/947 (Cy. 81).Dirymiadau
+10.  Mae Rheoliadau Ysgolion Annibynnol (Darparu Gwybodaeth) (Cymru) (Diwygio) 2021(1) wedi eu dirymu.
+(1)
+O.S. 2021/217 (Cy. 54).Diwygiadau Canlyniadol
+11.  Mae Rheoliadau Addysg (Diwygiadau Amrywiol ynghylch Diogelu Plant) (Cymru) 2009(1) wedi eu diwygio fel a ganlyn—
+(a)
+hepgorer rheoliad 4;
+(b)
+hepgorer rheoliad 5.
+(1)
+O.S. 2009/2544 (Cy. 206).Darpariaeth Drosiannol
+12.  Pan, cyn i’r Rheoliadau hyn ddod i rym—
+(a)
+bo’n ofynnol i berchennog gyflwyno ffurflen o dan reoliad 4 o Reoliadau 2003, neu
+(b)
+bo’r awdurdod cofrestru yn gofyn am ffurflen flynyddol o dan reoliad 5 o Reoliadau 2003,
+mae Rheoliadau 2003 yn parhau i gael effaith mewn perthynas â’r ffurflen honno, unrhyw benderfyniad gan yr awdurdod cofrestru i ddileu’r ysgol annibynnol y gwnaed y ffurflen mewn perthynas â hi o’r gofrestr, ac unrhyw apêl yn erbyn y penderfyniad hwnnw.Jeremy Miles
+Gweinidog y Gymraeg ac Addysg, un o Weinidogion Cymru
+11 Ionawr 2024Rheoliadau 3, 4 a 5
+YR ATODLEN
+RHAN 1
+CYFLWYNIAD
+1.  Yn yr Atodlen hon—
+mae i “elusen” yr ystyr a roddir i “charity” yn adran 1(1) o Ddeddf Elusennau 2011(1);
+ystyr “grŵp blwyddyn” (“year group”) yw—
+(a)
+mewn perthynas â datganiad cychwynnol, grŵp o ddisgyblion sy’n mynychu ysgol annibynnol ac sy’n cyrraedd yr un oedran mewn blynyddoedd yn ystod y cyfnod o 12 mis sy’n dechrau â 1 Medi yn y flwyddyn ysgol y gwneir y datganiad mewn perthynas â hi, a
+(b)
+mewn perthynas â datganiad blynyddol, grŵp o ddisgyblion sy’n mynychu ysgol annibynnol ac sy’n cyrraedd yr un oedran mewn blynyddoedd yn ystod y cyfnod o 12 mis sy’n dechrau â 1 Medi yn union cyn y dyddiad y llenwir y datganiad blynyddol hyd ato;
+ystyr “llety byrddio” (“boarding accommodation”) yw llety dros nos a drefnir neu a ddarperir gan ysgol annibynnol ym mangre’r ysgol neu yn rhywle arall, ac eithrio llety ar gyfer disgyblion sy’n cael eu lletya i ffwrdd o fangre’r ysgol yn ystod trip ysgol;
+mae i “mangre” yr ystyr a roddir i “premises” yn adran 579(1) o Ddeddf 1996;
+mae “sefydliad” (“organisation”) yn cynnwys partneriaeth, corff corfforedig a chorff anghorfforedig.
+RHAN 2
+YR WYBODAETH SY’N OFYNNOL MEWN CAIS
+2.  Pan fo’r perchennog yn unigolyn—
+(a)
+enw llawn yr unigolyn ac unrhyw enwau blaenorol y mae wedi cael ei adnabod wrthynt;
+(b)
+cyfeiriad preswyl arferol yr unigolyn, ei rif ffôn, ei gyfeiriad e-bost, ei ddyddiad geni a’i rif Yswiriant Gwladol;
+(c)
+manylion hanes cyflogaeth yr unigolyn, gan gynnwys—
+(i)
+hanes cyflogaeth llawn, ynghyd ag esboniad ysgrifenedig boddhaol o unrhyw fylchau mewn cyflogaeth;
+(ii)
+pan fo unrhyw gyflogaeth neu unrhyw swydd flaenorol wedi cynnwys gweithio gyda phlant, cadarnhad, i’r graddau y bo’n rhesymol ymarferol, o’r rheswm pam y daeth y gyflogaeth neu’r swydd i ben;
+(iii)
+enw a chyfeiriad unrhyw gyflogwr presennol a, phan fo’n berthnasol, unrhyw gyflogwyr blaenorol;
+(d)
+manylion unrhyw fusnes y mae’r unigolyn yn ei gynnal neu wedi ei gynnal;
+(e)
+enw a chyfeiriad dau ganolwr y mae’r canlynol yn wir amdanynt—
+(i)
+nid ydynt yn berthnasau i’r unigolyn,
+(ii)
+gall y ddau ohonynt ddarparu geirda ynghylch cymhwysedd yr unigolyn i weithredu fel perchennog ysgol annibynnol, a
+(iii)
+pan fo’n bosibl, un ohonynt yw cyflogwr diweddaraf yr unigolyn.
+3.  Pan fo’r perchennog yn gorff corfforedig—
+(a)
+ei enw;
+(b)
+cyfeiriad ei swyddfa gofrestredig;
+(c)
+os yw’n wahanol i gyfeiriad y swyddfa gofrestredig neu os nad oes swyddfa gofrestredig, cyfeiriad ei brif swyddfa;
+(d)
+ei gyfeiriad e-bost a’i rif ffôn;
+(e)
+os yw’n gwmni, rhif y cwmni;
+(f)
+os yw’n elusen, rhif yr elusen;
+(g)
+pan fo’n gwmni ac yn is-gwmni i gwmni daliannol—
+(i)
+enw a chyfeiriad swyddfa gofrestredig y cwmni daliannol;
+(ii)
+cyfeiriad e-bost a rhif ffôn y cwmni daliannol;
+(iii)
+rhif cwmni’r cwmni daliannol;
+(iv)
+os yw’r cwmni daliannol yn elusen, rhif elusen y cwmni daliannol;
+(v)
+enw a chyfeiriad unrhyw is-gwmni arall i’r cwmni daliannol;
+(vi)
+cyfeiriad e-bost a rhif ffôn unrhyw is-gwmni arall i’r cwmni daliannol;
+(vii)
+rhif cwmni unrhyw is-gwmni arall i’r cwmni daliannol;
+(viii)
+os yw’r is-gwmni yn elusen, rhif elusen unrhyw is-gwmni i’r cwmni daliannol.
+4.  Pan fo’r perchennog yn bartneriaeth—
+(a)
+enw’r bartneriaeth;
+(b)
+cyfeiriad prif swyddfa’r bartneriaeth;
+(c)
+cyfeiriad e-bost a rhif ffôn y bartneriaeth.
+5.  Pan fo’r perchennog yn gorff anghorfforedig—
+(a)
+ei enw;
+(b)
+cyfeiriad ei brif swyddfa;
+(c)
+ei gyfeiriad e-bost a’i rif ffôn.
+6.  Ym mhob achos pan fo’r perchennog yn sefydliad—
+(a)
+manylion ynghylch ei drefniadau llywodraethu, gan gynnwys manylion unrhyw gyfrifoldebau’r sefydliad sydd wedi eu dirprwyo;
+(b)
+ar gyfer pob aelod o’r sefydliad, gan gynnwys y cadeirydd, y manylion sy’n ofynnol o dan baragraff 2 ac eithrio pan fo’r perchennog yn gwmni cyfyngedig drwy gyfranddaliadau (o fewn ystyr Deddf Cwmnïau 2006(2)), nid yw person i’w drin fel pe bai’n aelod o’r sefydliad oni bai ei fod yn dal o leiaf 5% o gyfalaf cyfranddaliadau’r cwmni.
+7.  Enw a chyfeiriad yr ysgol annibynnol, ei chyfeiriad e-bost a’i rhif ffôn.
+8.  Pan fo gan yr ysgol annibynnol gorff llywodraethu, enw llawn, cyfeiriad preswyl arferol, rhif ffôn a chyfeiriad e-bost Cadeirydd y corff hwnnw.
+9.—(1) Ystod oedran arfaethedig y disgyblion.
+(2) Uchafswm nifer arfaethedig y disgyblion.
+(3) Pa un a fydd yr ysgol annibynnol ar gyfer disgyblion sy’n fechgyn, disgyblion sy’n ferched neu ar gyfer y ddau.
+(4) Pa un a fydd yr ysgol annibynnol yn darparu llety byrddio ar gyfer disgyblion.
+(5) Y math neu’r mathau o—
+(a)
+darpariaeth ddysgu ychwanegol a wneir gan yr ysgol annibynnol ar gyfer disgyblion ag anghenion dysgu ychwanegol (os oes rhai), a
+(b)
+darpariaeth addysgol arbennig a wneir gan yr ysgol annibynnol ar gyfer disgyblion ag anghenion addysgol arbennig (os oes rhai).
+10.  Pa un a fydd yr ysgol annibynnol yn darparu gofal dydd o fewn ystyr erthygl 14 o Orchymyn Eithriadau Gwarchod Plant a Gofal Dydd (Cymru) 2010(3) ar gyfer unrhyw blentyn sy’n derbyn gofal yn yr ysgol.
+11.  Plan sy’n dangos cynllun y fangre a’r llety byrddio.
+12.  Cynlluniau cwricwlwm manwl, cynlluniau gwaith manwl a gweithdrefnau asesu disgyblion manwl.
+13.  Copïau o’r polisïau ysgrifenedig sy’n ofynnol gan baragraffau 2(1)(a), 6(b), 7(b), 8(a), 11(a), 12, 13 a 15 o’r Atodlen i Reoliadau Safonau Ysgolion Annibynnol (Cymru) 2024(4).
+14.  Copi o’r weithdrefn gwyno sy’n ofynnol gan baragraff 29 o’r Atodlen i Reoliadau Safonau Ysgolion Annibynnol (Cymru) 2024.
+15.  Pa un a yw’r perchennog yn bwriadu darparu i unrhyw blentyn lety byrddio yn yr ysgol annibynnol (neu yn rhywle arall yn unol â threfniadau a wneir ganddo) am fwy na 295 o ddiwrnodau mewn unrhyw flwyddyn.
+16.  Ethos crefyddol yr ysgol annibynnol, os oes un.
+17.  Pa un a yw mangre’r ysgol annibynnol, gan gynnwys llety byrddio, mewn dau neu ragor o leoliadau ar wahân ac, os felly, cyfeiriad pob un o’r lleoliadau hynny.
+18.  Copi o asesiad risg yr ysgol annibynnol o dan reoliad 3 o Reoliadau Rheoli Iechyd a Diogelwch yn y Gwaith 1999(5) i’r graddau y mae’n ymwneud â rhwymedigaethau o dan Ran 2 o Orchymyn Diwygio Rheoleiddio (Diogelwch Tân) 2005(6).
+RHAN 3
+YR WYBODAETH SY’N OFYNNOL MEWN DATGANIAD CYCHWYNNOL
+19.—(1) Nifer y disgyblion ym mhob grŵp blwyddyn.
+(2) Yn achos ysgol annibynnol a chanddi lety byrddio—
+(a)
+nifer y disgyblion byrddio, a
+(b)
+oedran (ar 31 Awst yn union cyn y dyddiad y cyfeirir ato yn rheoliad 4(2)(b)) y disgybl byrddio hynaf a’r disgybl byrddio ieuengaf.
+(3) Yn achos ysgol annibynnol sydd hefyd yn darparu addysg ran-amser, rhaid datgan y niferoedd sy’n ofynnol gan is-baragraff (1) ar wahân mewn cysylltiad â disgyblion sy’n cael addysg ran-amser a’r rhai sy’n cael addysg lawnamser.
+(4) Yn achos ysgol annibynnol gydaddysgol, rhaid datgan yr holl niferoedd sy’n ofynnol gan y paragraff hwn ar wahân ar gyfer disgyblion sy’n fechgyn ac ar gyfer disgyblion sy’n ferched.
+20.—(1) Nifer y disgyblion yn yr ysgol annibynnol—
+(a)
+y mae awdurdod lleol yn cynnal cynllun datblygu unigol mewn cysylltiad â hwy;
+(b)
+y mae awdurdod lleol yn cynnal datganiad anghenion addysgol arbennig mewn cysylltiad â hwy o dan adran 324 o Ddeddf 1996.
+(2) Nifer y disgyblion yn yr ysgol annibynnol nad ydynt yn dod o fewn is-baragraff (1), ond y nodwyd bod ganddynt anghenion dysgu ychwanegol neu anghenion addysgol arbennig.
+21.  Nifer y disgyblion yn yr ysgol annibynnol sy’n derbyn gofal gan awdurdod lleol.
+22.  Yr wybodaeth a ganlyn ynghylch athrawon a gyflogir yn yr ysgol annibynnol (gyda’r niferoedd yn cael eu rhoi ar wahân ar gyfer athrawon sy’n ddynion ac ar gyfer athrawon sy’n fenywod)—
+(a)
+nifer yr athrawon llawnamser,
+(b)
+nifer yr athrawon rhan-amser, ac
+(c)
+nifer cyfanredol yr oriau yr wythnos y mae athrawon rhan-amser yn eu gweithio fel arfer yn ystod y tymor.
+23.  Yr wybodaeth a ganlyn ynghylch pob person a gyflogir yn yr ysgol annibynnol—
+(a)
+ei enw ac unrhyw enwau blaenorol y mae wedi cael ei adnabod wrthynt,
+(b)
+ei ryw, ei ddyddiad geni, ei rif Yswiriant Gwladol ac ym mha swyddogaeth y caiff ei gyflogi,
+(c)
+yn achos pob athro neu athrawes, ei gymwysterau neu ei chymwysterau a datganiad ynghylch a yw’n bennaeth, yn athro llawnamser neu’n athrawes lawnamser, neu’n athro rhan-amser neu’n athrawes ran-amser, a
+(d)
+pan fo’n berthnasol i unrhyw unigolyn—
+(i)
+a oes tystysgrif GDG wedi ei chael mewn cysylltiad â’r unigolyn hwnnw cyn penodi’r unigolyn hwnnw neu cyn gynted ag y bo’n ymarferol ar ôl penodi’r unigolyn hwnnw, neu
+(ii)
+pan fo’r unigolyn hwnnw wedi ei gofrestru â gwasanaeth diweddaru’r GDG, a oes gwiriad wedi ei wneud o ran statws tystysgrif GDG yr unigolyn,
+a bod copi o’r dystysgrif GDG honno neu ganlyniad y gwiriad gwasanaeth diweddaru’r GDG hwnnw ar gael i’r perchennog.
+24.—(1) Swm y ffioedd dysgu blynyddol a ffioedd eraill (ac eithrio ffioedd ar gyfer llety byrddio) sy’n daladwy mewn cysylltiad â disgybl yn yr ysgol annibynnol fel amod i’r disgybl gael mynychu’r ysgol.
+(2) Yn achos ysgol annibynnol sy’n darparu llety byrddio ar gyfer disgyblion, swm y ffioedd byrddio blynyddol sy’n daladwy mewn cysylltiad â’r disgybl byrddio.
+RHAN 4
+YR WYBODAETH SY’N OFYNNOL MEWN DATGANIAD BLYNYDDOL
+25.  Yr holl wybodaeth a bennir gan Rannau 2 a 3 o’r Atodlen hon ac eithrio’r wybodaeth a bennir ym mharagraffau 9(5), 10, 11, 12 ,13, 16 a 23.
+26.  Ar gyfer pob person sydd wedi dechrau cael ei gyflogi yn yr ysgol annibynnol neu y mae ei gyflogaeth wedi dod i ben ers dyddiad y datganiad diwethaf i’r awdurdod cofrestru—
+(a)
+ei enw llawn ac unrhyw enwau blaenorol y mae wedi cael ei adnabod wrthynt,
+(b)
+ei ryw, ei ddyddiad geni, ei rif Yswiriant Gwladol ac ym mha swyddogaeth y caiff ei gyflogi,
+(c)
+yn achos pob athro neu athrawes, ei gymwysterau neu ei chymwysterau a datganiad ynghylch a yw’n bennaeth, yn athro llawnamser neu’n athrawes lawnamser, neu’n athro rhan-amser neu’n athrawes ran-amser (ac eithrio nad yw gwybodaeth ynghylch cymwysterau yn ofynnol yn achos athro neu athrawes y mae ei gyflogaeth neu ei chyflogaeth wedi dod i ben), a
+(d)
+yn achos person sydd wedi dechrau cael ei gyflogi, cadarnhad y cydymffurfiwyd â pharagraff 20(2)(e) o’r Atodlen i Reoliadau Safonau Ysgolion Annibynnol (Cymru) 2024(7).
+27.  Cadarnhad y cydymffurfiwyd â pharagraff 23(8) o’r Atodlen i Reoliadau Safonau Ysgolion Annibynnol (Cymru) 2024.
+28.  Yn y ddwy flynedd cyn dyddiad y datganiad, ac eithrio yn achos datganiad blynyddol cyntaf, nifer y disgyblion sy’n mynychu’r ysgol annibynnol ac y darparwyd llety byrddio ar eu cyfer yno (neu yn rhywle arall yn unol â threfniadau a wnaed gan y perchennog) am fwy na 295 o ddiwrnodau yn y flwyddyn honno.
+29.—(1) Nifer y disgyblion ym mhob grŵp blwyddyn o ddisgyblion 15, 16, 17 a 18 oed sy’n dilyn cyrsiau ar gyfer arholiadau neu asesiadau sy’n arwain at gymhwyster.
+(2) Nifer y disgyblion ym mhob grŵp blwyddyn o ddisgyblion 15, 16, 17 a 18 oed sydd wedi cwblhau cyrsiau ar gyfer arholiad Tystysgrif Addysg Gyffredinol (Safon Uwch neu Safon Uwch Gyfrannol), neu Dystysgrif Addysg Alwedigaethol Uwch (TAAU), ond sy’n aros yn yr ysgol annibynnol at ddiben heblaw dilyn unrhyw gwrs pellach o’r math hwnnw.
+(3) Nifer y disgyblion ym mhob grŵp blwyddyn o ddisgyblion 15, 16, 17 a 18 oed (ac eithrio’r rhai sy’n dod o fewn y categori o ddisgyblion y cyfeirir ato yn is-baragraff (2)) sy’n mynychu’r ysgol annibynnol at ddiben heblaw dilyn cyrsiau ar gyfer arholiad neu asesiadau perthnasol sy’n arwain at gymhwyster.
+(4) Rhaid i’r nifer a bennir yn y datganiad blynyddol o dan is-baragraff (1) a (2) gael ei ddatgan ar wahân ar gyfer—
+(a)
+cyrsiau mewn pynciau mathemategol neu wyddonol yn unig,
+(b)
+cyrsiau mewn pynciau eraill yn unig,
+(c)
+cyrsiau mewn pynciau mathemategol neu wyddonol yn rhannol ac mewn pynciau eraill yn rhannol, a
+(d)
+disgyblion sy’n fechgyn a disgyblion sy’n ferched.
+30.  Pan fo newid wedi digwydd i fangre’r ysgol neu i lety byrddio yn yr ysgol annibynnol ers y dyddiad y llanwyd y datganiad blynyddol yn union o’i flaen hyd ato (neu, yn achos y datganiad blynyddol cyntaf, ers y dyddiad y llanwyd yr wybodaeth a gynhwyswyd yn y cais i gofrestru’r ysgol annibynnol hyd ato), manylion y newid hwnnw.
+31.  Pan fo newid wedi digwydd i aelodaeth unrhyw sefydliad a enwir fel y perchennog yn y gofrestr, neu mewn cais i gynnwys yr ysgol annibynnol yn y gofrestr, ar gyfer unrhyw aelod newydd, yr wybodaeth sy’n ofynnol gan baragraffau 3 i 6 o’r Atodlen hon.
+32.—(1) Nifer y disgyblion yn yr ysgol annibynnol sy’n Fyfyrwyr neu’n Fyfyrwyr sy’n blant.
+(2) At ddibenion y paragraff hwn—
+(a)
+ystyr “Myfyriwr sy’n blentyn” yw person a chanddo, neu yr oedd ganddo, ganiatâd o dan Atodiad Myfyriwr sy’n blentyn (Appendix CS: Child Student) o dan y Rheolau Mewnfudo a oedd mewn grym cyn 1 Rhagfyr 2020, neu fel Myfyriwr Haen 4 (Plentyn) o dan y Rheolau Mewnfudo a oedd mewn grym cyn 5 Hydref 2020;
+(b)
+ystyr “Rheolau Mewnfudo” yw rheolau o dan adran 3(2) o Ddeddf Mewnfudo 1971(9);
+(c)
+ystyr “Myfyriwr” yw person a chanddo, neu yr oedd ganddo, ganiatâd o dan Atodiad Myfyriwr (Appendix ST: Student) o’r Rheolau Mewnfudo a oedd mewn grym yn union cyn 1 Rhagfyr 2020, neu fel Myfyriwr Haen 4 (Cyffredinol) o dan y Rheolau Mewnfudo a oedd mewn grym cyn 5 Hydref 2020.
+(1)
+2011 p. 25.
+(2)
+2006 p. 46.
+(3)
+O.S. 2010/2839 (Cy. 233).
+(4)
+O.S. 2024/27 (Cy. 10).
+(5)
+O.S. 1999/3242.
+(6)
+O.S. 2005/1541.
+(7)
+Mae paragraff 20(2)(e) yn ei gwneud yn ofynnol cael tystysgrif GDG neu i wiriad gael ei wneud gyda gwasanaeth diweddaru’r GDG.
+(8)
+Mae paragraff 23 yn ei gwneud yn ofynnol i dystysgrifau GDG neu wiriadau gwasanaeth diweddaru’r GDG gael eu diweddaru ar gyfer pob person perthnasol o leiaf bob tair blynedd.
+(9)
+1971 p. 77.NODYN ESBONIADOL
+(Nid yw’r nodyn hwn yn rhan o’r Rheoliadau)
+Mae’r Rheoliadau hyn yn dirymu ac yn disodli Rheoliadau Ysgolion Annibynnol (Darparu Gwybodaeth) (Cymru) 2003 (“Rheoliadau 2003”). Mae’r Rheoliadau hyn yn gymwys o ran Cymru.
+Mae’r Rheoliadau hyn yn ymwneud â cheisiadau i gofrestru ysgolion annibynnol o dan adran 160(1) o Ddeddf Addysg 2002 ac â gwybodaeth sydd i’w darparu yn gyfnodol gan berchnogion ysgolion annibynnol o dan adran 168 o’r Ddeddf honno.
+Mae rheoliad 2 a Rhan 1 o’r Atodlen yn cynnwys darpariaethau dehongli.
+Mae rheoliad 3 a Rhan 2 o’r Atodlen yn gwneud darpariaeth ar gyfer ffurf a chynnwys cais i gofrestru ysgol annibynnol o dan adran 160(1) o Ddeddf Addysg 2002.
+Mae rheoliad 4 yn gwneud darpariaeth ar gyfer cyflwyno gan berchennog ysgol annibynnol ddatganiad cychwynnol o fewn 90 o ddiwrnodau i’r dyddiad derbyn neu, os yw’n ddiweddarach, i gais gan yr awdurdod cofrestru. Mae Rhan 3 o’r Atodlen yn rhagnodi’r wybodaeth sydd i’w chynnwys yn y datganiad cychwynnol.
+Mae rheoliad 5 yn gwneud darpariaeth ar gyfer cyflwyno gan berchennog ysgol annibynnol ddatganiadau blynyddol i’r awdurdod cofrestru. Mae Rhan 4 o’r Atodlen yn rhagnodi’r wybodaeth sydd i’w chynnwys yn y datganiad blynyddol.
+Mae rheoliad 6 yn darparu y caiff yr awdurdod cofrestru, os yw wedi ei fodloni bod perchennog ysgol annibynnol wedi methu â chydymffurfio ag unrhyw ofyniad yn rheoliad 4 neu 5, ddileu’r ysgol o’r gofrestr. Mae rheoliad 7 yn darparu ei bod yn drosedd i berchennog ysgol annibynnol fethu â chydymffurfio ag unrhyw ofyniad yn rheoliad 4 neu 5.
+Mae rheoliad 8 yn dirymu Rheoliadau 2003. Mae rheoliadau 9, 10 ac 11 yn dirymu offerynnau a darpariaethau eraill sy’n diwygio naill ai Rheoliadau 2003 neu Reoliadau Safonau Ysgol Annibynnol (Cymru) 2003.
+Mae rheoliad 12 yn gwneud darpariaeth drosiannol ar gyfer Rheoliadau 2003 mewn achosion pan fo datganiad cychwynnol yn ofynnol cyn i’r Rheoliadau hyn ddod i rym neu pan ofynnir am ddatganiad blynyddol cyn i’r Rheoliadau hyn ddod i rym.
+Mae’r Rheolau Mewnfudo, y cyfeirir atynt ym mharagraff 32 o’r Atodlen i’r Rheoliadau hyn, i’w gweld yn https://www.gov.uk/guidance/immigration-rules/immigration-rules-index.
+Ystyriwyd Cod Ymarfer Gweinidogion Cymru ar gynnal Asesiadau Effaith Rheoleiddiol mewn perthynas â’r Rheoliadau hyn. O ganlyniad, lluniwyd asesiad effaith rheoleiddiol o’r costau a’r manteision sy’n debygol o ddeillio o gydymffurfio â’r Rheoliadau hyn. Gellir cael copi oddi wrth: Llywodraeth Cymru, Parc Cathays, Caerdydd, CF10 3NQ ac fe’i cyhoeddir ar www.llyw.cymru.

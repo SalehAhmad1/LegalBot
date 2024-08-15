@@ -1,0 +1,85 @@
+WELSH STATUTORY INSTRUMENTS
+2022 No. 1307 (W. 263)
+RATING AND VALUATION, WALES
+The Non-Domestic Rating (Persons Required to Supply Information and Service of Notices) (Wales) Regulations 2022
+Made
+7 December 2022
+Coming into force
+1 April 2023
+The Welsh Ministers make the following Regulations in exercise of the powers conferred on them by paragraph 5(1D)(c) of Schedule 9 to the Local Government Finance Act 1988(1), and conferred on the National Assembly for Wales by paragraphs 5F(1) and 5F(2)(b)(2) of that Schedule and now vested in them(3).
+A draft of this instrument has been laid before and approved by resolution of Senedd Cymru in accordance with section 143(9AZA) of that Act(4).
+(1)
+1988 c. 41; paragraphs 5(1B) to 5(1D) of Schedule 9 were inserted by the Local Government and Elections (Wales) Act 2021 (asc 1) (“the 2021 Act”), section 151(2)(b).
+(2)
+Paragraph 5F was inserted by the Local Government Act 2003 (c. 26), section 72(4).
+(3)
+The powers of the National Assembly for Wales in paragraph 5F were transferred to the Welsh Ministers by virtue of section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act 2006 (c. 32).
+(4)
+Section 143(9AZA) was inserted by the 2021 Act, section 151(10). See also section 40 of the Legislation (Wales) Act 2019 (anaw 4) for provision about the procedure that applies to this instrument.Title and commencement
+1.—(1) The title of these Regulations is the Non-Domestic Rating (Persons Required to Supply Information and Service of Notices) (Wales) Regulations 2022.
+(2) These Regulations come into force on 1 April 2023.Interpretation
+2.  In these Regulations—
+“the Act” (“y Ddeddf”) means the Local Government Finance Act 1988;
+“billing authority” (“awdurdod bilio”) means a county council or county borough council in Wales;
+“electronic communication” (“cyfathrebiad electronig”) has the meaning given in section 15(1) of the Electronic Communications Act 2000(1);
+“hereditament” (“hereditament”) has the meaning given in section 64 of the Act.
+(1)
+2000 c. 7; section 15(1) was amended by the Communications Act 2003 (c. 21), Schedule 17, paragraph 158.Description of Persons Required to Supply Information
+3.  For the purpose of paragraph 5(1D)(c) of Schedule 9 to the Act, a billing authority may serve a notice on a person who is carrying on a business as—
+(a)
+a person providing services relating to non-domestic rating to a person within paragraph 5(1D)(a) and (b) of Schedule 9 to the Act;
+(b)
+a water undertaker or sewerage undertaker within the meaning of the Water Industry Act 1991(1);
+(c)
+a gas transporter within the meaning given by section 7 (licensing of public gas transporters) of the Gas Act 1986(2);
+(d)
+a gas supplier within the meaning given by section 7A (licencing of gas suppliers and gas shippers) of the Gas Act 1986(3);
+(e)
+an electricity distributor within the meaning given by section 6 (licences authorising supply, etc.) of the Electricity Act 1989(4);
+(f)
+an electricity supplier within the meaning of section 6 of the Electricity Act 1989(5);
+(g)
+a public communications provider within the meaning given by section 151(1) (interpretation of Chapter 1) of the Communications Act 2003(6).
+(1)
+1991 c. 56.
+(2)
+1986 c. 44; section 7 was substituted by the Gas Act 1995 (c. 45), section 5. Section 7(1) was subsequently amended by the Utilities Act 2000 (c. 27), section 76(2). Other amendments made to section 7 are not relevant to these Regulations.
+(3)
+Section 7A was inserted by the Gas Act 1995 (c. 45), section 6(1). Subsection (2) was subsequently amended by the Utilities Act 2000 (c. 27), Schedule 6, paragraph 2. Subsection (3) was amended by the Energy Act 2004 (c. 20), section 149(7). Other amendments made to section 7A are not relevant to these Regulations.
+(4)
+1989 c. 29; section 6 was substituted by the Utilities Act 2000 (c. 27), section 30. Section 6(1)(c) was subsequently amended by the Energy Act 2004 (c. 20), Schedule 23(1), Part 1. Other amendments made to section 6 are not relevant to these Regulations.
+(5)
+Section 6(1)(d) was amended by S.I. 2012/2400. Other amendments made to section 6 are not relevant to these Regulations.
+(6)
+2003 c. 21.Service of notices
+4.—(1) Without prejudice to section 233 of the Local Government Act 1972(1) (service of notice by local authorities) and subject to paragraph (4), a billing authority may serve a notice on any person to whom paragraph 5(1D) of Schedule 9 to the Act applies—
+(a)
+by hand delivering it to the person;
+(b)
+by leaving it at the person’s proper address;
+(c)
+by sending it to the person’s proper address by post;
+(d)
+by sending it to the person by electronic communication.
+(2) For the purposes of paragraph (1), a person’s proper address is—
+(a)
+in the case of a body corporate, the address of the registered or principal office of the body;
+(b)
+in the case of a partnership, the address of the principal office of the partnership;
+(c)
+in any other case, the person’s last known address.
+(3) The notice is to be treated as having been hand delivered under paragraph (1)(a)—
+(a)
+in the case of a body corporate, if it is hand delivered to the secretary or clerk of the body;
+(b)
+in the case of a partnership, if it is hand delivered to a partner or a person having control or management of the partnership business.
+(4) Where any notice is to be served on a person specified in paragraph 5(1D)(a) or (b) of Schedule 9 to the Act, such notice may be addressed by the description of “owner” or “occupier” of the hereditament, without further name or description.
+(1)
+1972 c. 70.Rebecca Evans
+Minister for Finance and Local Government, one of the Welsh Ministers
+7 December 2022EXPLANATORY NOTE
+(This note is not part of the Regulations)
+Paragraph 5(1B) of Schedule 9 to the Local Government Finance Act 1988 (“the Act”) provides that a county council or county borough council in Wales (a “billing authority”) may serve a notice on certain persons requiring them to supply information in relation to a hereditament in that billing authority’s area. Those persons include a person who is carrying on a business in relation to that hereditament, of a description specified in regulations made by the Welsh Ministers.
+These Regulations specify descriptions of the types of business being carried on by a person in relation to a hereditament.
+They also make provision as to how a billing authority may effect service of a notice on a person to whom paragraph 5(1D) of Schedule 9 to the Act applies.
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, a regulatory impact assessment has been prepared as to the likely costs and benefits of complying with these Regulations. A copy can be obtained from the Welsh Government, Cathays Park, Cardiff, CF10 3NQ.

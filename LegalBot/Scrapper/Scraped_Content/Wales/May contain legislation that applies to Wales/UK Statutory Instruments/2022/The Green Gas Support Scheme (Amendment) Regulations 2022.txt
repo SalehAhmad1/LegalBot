@@ -1,0 +1,68 @@
+This Statutory Instrument has been made partly in consequence of defects in S.I. 2021/1335 and is being issued free of charge to all known recipients of that Statutory Instrument.
+STATUTORY INSTRUMENTS
+2022 No. 592
+ENERGY
+The Green Gas Support Scheme (Amendment) Regulations 2022
+Made
+26th May 2022
+Laid before Parliament
+27th May 2022
+Coming into force
+1st July 2022
+The Secretary of State, in exercise of the powers conferred by sections 100 and 104(2) of the Energy Act 2008(1), makes the following Regulations.
+In accordance with section 100(7)(a) of that Act, the Secretary of State has obtained the consent of the Scottish Ministers to the making of these Regulations.
+In accordance with section 148A(1)(b) of the Government of Wales Act 2006(2), the Secretary of State has consulted the Welsh Ministers.
+(1)
+2008 c. 32. Section 100 was amended by section 51 of the Infrastructure Act 2015 (c. 7) and by S.I. 2011/2195. Section 51 also amended section 105 of the Energy Act 2008 (parliamentary control of subordinate legislation) and inserted subsections (3A) to (3I) concerning provisions which require the affirmative resolution procedure. By virtue of section 105(3A) to (3I), these Regulations do not attract the affirmative procedure.
+(2)
+2006 c. 32. Section 148A was inserted by the Wales Act 2017 (c. 4), section 55(1).Citation, commencement and extent
+1.—(1) These Regulations may be cited as the Green Gas Support Scheme (Amendment) Regulations 2022 and come into force on 1st July 2022.
+(2) These Regulations extend to England and Wales, and Scotland.Amendment of the Green Gas Support Scheme Regulations 2021
+2.—(1) Regulation 4 (application for tariff guarantee and budget allocation) of the Green Gas Support Scheme Regulations 2021(1) is amended as follows.
+(2) In paragraph (9), for “by” to “(5)(d)” substitute “, where appropriate, in accordance with paragraph (9A)”.
+(3) After paragraph (9), insert—
+“(9A) Subject to paragraph (9B), if the date referred to in paragraph 5(d) (“the guarantee date”) and the tariff start date are in different financial years, the initial tariff calculated in accordance with paragraph (9) must be adjusted by the percentage increase or decrease in the consumer prices index in the period beginning with 1st January immediately preceding the financial year in which the guarantee date falls and ending with 31st December immediately preceding the financial year in which the tariff start date falls.
+(9B) For the purposes of the adjustment under paragraph (9A), any increase or decrease in the consumer prices index in the calendar year ending on 31st December 2021 is to be disregarded.”
+(4) In paragraph (17)—
+(a)
+in the definition of “estimated annual payment”—
+(i)
+in the definition of “first financial year”, for the words “the injection”, in the first place it appears, to the end substitute “periodic support payments for that additional biomethane are expected to become payable, having regard to regulation 8(5)(a),”;
+(ii)
+for the definition of “D” substitute—
+“D is
+(i)
+in the case of an application for a tariff guarantee, the number of days in the financial year beginning with the date on which the injection of original biomethane commenced or the applicant expects the injection of original biomethane to commence (as the case may be), and
+(ii)
+in the case of an application for registration in respect of additional biomethane, the number of days in the financial year beginning with the date on which periodic support payments for that additional biomethane are expected to become payable, having regard to regulation 8(5)(a),”;
+(iii)
+for the definition of “P”—
+(aa)
+after “beginning” insert “in the case of the first financial year”;
+(bb)
+omit “, the injection of additional biomethane commenced”;
+(cc)
+for “the participant expects the injection of additional biomethane to commence” substitute “periodic support payments for additional biomethane are expected to become payable, having regard to regulation 8(5)(a)”;
+(b)
+in the definition of “relevant financial year”—
+(i)
+omit “and”;
+(ii)
+after “2025/2026” insert “, 2026/2027 and 2027/2028”.
+(1)
+S.I. 2021/1335.Transitional Provisions
+3.—(1) These Regulations affect the calculation of periodic support payments in respect of the quarter beginning with the date on which they come into force and subsequent quarters both for—
+(a)
+a person who has made an application for a tariff guarantee before 1st July 2022 and has not yet been registered as a participant (regardless of whether that person has been given a provisional tariff guarantee notice or granted a tariff guarantee), and
+(b)
+a person who has been registered as a participant before 1st July 2022, notwithstanding that that person may have already received periodic support payments.
+(2) In this regulation, “guaranteed tariff”, “participant”, “periodic support payments”, “quarter”, “provisional tariff guarantee notice” and “tariff guarantee” have the meaning given to them in the Green Gas Support Scheme Regulations 2021.Callanan
+Parliamentary Under Secretary of State
+Department for Business Energy and Industrial Strategy
+26th May 2022EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations, which apply in Great Britain, amend the Green Gas Support Scheme Regulations 2021 (“the 2021 Regulations”), which established the Green Gas Support Scheme (“the GGSS”).
+The GGSS is a renewable heat incentive scheme to facilitate and encourage the production of biomethane by anaerobic digestion, for injection into the gas grid. These Regulations correct drafting defects in two provisions in the 2021 Regulations which result in aspects of the GGSS not functioning as intended.
+First, these Regulations amend the methodology for adjusting a person’s guaranteed tariff to account for inflation. Adjustments in respect of inflation will now be made to guaranteed tariffs at the start of a financial year by the percentage increase or decrease in the consumer prices index over the previous calendar year.
+Second, these Regulations amend the methodology for calculating the estimated total budget commitment so that it more accurately reflects expected future payments for additional biomethane capacity. The estimated total budget commitment is checked against the budget allocation published by the Secretary of State to determine whether there is sufficient budget available to accept new applications to the GGSS.
+A full impact assessment has not been produced for this instrument as no significant impact on the private, voluntary or public sectors is foreseen.

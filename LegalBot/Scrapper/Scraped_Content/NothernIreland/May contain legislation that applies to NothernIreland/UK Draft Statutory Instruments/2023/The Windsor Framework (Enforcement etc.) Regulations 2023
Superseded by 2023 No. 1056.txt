@@ -1,0 +1,428 @@
+Draft Regulations laid before Parliament under paragraph 8F(1) of Schedule 7 to the European Union (Withdrawal) Act 2018, for approval by resolution of each House of Parliament.
+DRAFT STATUTORY INSTRUMENTS
+2023 No.000
+EXITING THE EUROPEAN UNION
+The Windsor Framework (Enforcement etc.) Regulations 2023
+Made
+***
+Coming into force
+***
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 8C(1) and (2) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018(1).
+In accordance with paragraph 8F(1) of Schedule 7(2) to the European Union (Withdrawal) Act 2018, a draft of this instrument has been laid before and approved by a resolution of each House of Parliament.
+In making these Regulations, the Secretary of State has had special regard to the matters listed in section 46 of the United Kingdom Internal Market Act 2020(3).
+(1)
+2018 c. 16. Section 8C was inserted by section 21 of the European Union (Withdrawal Agreement) Act 2020 (c. 1) (“the 2020 Act”) and amended by section 55(3) of the United Kingdom Internal Market Act 2020 (c. 27). Paragraph 21 of Schedule 7 was amended by paragraph 53(2) of Schedule 5 to the 2020 Act. Further to the Joint Declaration No. 1/2023 of the EU and the United Kingdom in the Joint Committee established by the Withdrawal Agreement of 24 March 2023, the Protocol (as amended by Joint Committee Decision No. 1/2023) is now known as the “Windsor Framework”.
+(2)
+Paragraph 8F of Schedule 7 was inserted by section 41(4) of, and paragraph 51 of Schedule 5 to, the European Union (Withdrawal Agreement) Act 2020 (c. 1).
+(3)
+2020 c. 27.Citation, commencement and extent
+1.—(1) These Regulations may be cited as the Windsor Framework (Enforcement etc.) Regulations 2023.
+(2) These Regulations come into force on 1st October 2023.
+(3) Part 1 extends to England and Wales, Scotland and Northern Ireland.
+(4) An amendment made by Part 2 has the same extent as the provision amended.
+(5) Part 3 and the Schedule extend to Northern Ireland.Interpretation
+2.—(1) In these Regulations, “the SPS Regulation” means the Regulation of the European Parliament and of the Council on specific rules relating to the entry into Northern Ireland from other parts of the United Kingdom of certain consignments of retail goods, plants for planting, seed potatoes, machinery and certain vehicles operated for agricultural or forestry purposes, as well as non-commercial movements of certain pet animals into Northern Ireland(1).
+(2) Reference to the legislation listed in the Schedule is a reference to that legislation as amended from time to time.
+(1)
+OJ No L 165,29.6.23. p. 103.The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019
+3.—(1) The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019(1) are amended as follows.
+(2) In regulation 2 (Interpretation: general), after the definition of “ISPM 15” insert—
+““Northern Ireland plant health label” has the meaning given in regulation 2 of the Windsor Framework (Plant Health) Regulations 2023(2);”.
+(3) In regulation 28 (Powers of entry), in paragraph (1)—
+(a)
+in sub-paragraph (a)—
+(i)
+omit “or” at the end of paragraph (iii);
+(ii)
+insert “or” at the end of paragraph (iv);
+(iii)
+after paragraph (iv) insert—
+“(v)
+an authorised operator, professional operator or registered operator is complying with the Windsor Framework (Plant Health) Regulations 2023;”;
+(b)
+in sub-paragraph (b), after “Plant Health Regulation”, insert “, the Windsor Framework (Plant Health) Regulations 2023”;
+(c)
+in sub-paragraph (c), after “Plant Health Regulation”, insert “, the Windsor Framework (Plant Health) Regulations 2023”.
+(4) In regulation 30 (Information notices), in paragraph (3), after “plant passport,”, insert “Northern Ireland plant health label,”.
+(5) In regulation 35 (Disclosure of information to other competent authorities), in paragraph (1)—
+(a)
+in sub-paragraph (a), after “Plant Health Regulation,”, insert “the Windsor Framework (Plant Health) Regulations 2023,”;
+(b)
+in sub-paragraph (b), after “Plant Health Regulation”, insert “, the Windsor Framework (Plant Health) Regulations 2023”.
+(6) In regulation 38 (General), in paragraph (1), after sub-paragraph (f) insert—
+“(fa)
+a provision of the Windsor Framework (Plant Health) Regulations 2023 specified in Schedule 3A;”.
+(7) In regulation 41 (Provision of false or misleading information), after “plant passport” insert “, a Northern Ireland plant health label”.
+(8) In regulation 42 (Improper use of plant passports or certificates)—
+(a)
+in the heading, after “plant passports” insert “, Northern Ireland plant health labels”;
+(b)
+in paragraph (1), after each place “plant passport” occurs, insert “, a Northern Ireland plant health label”.
+(9) After Schedule 3 insert—
+Regulation 38
+“SCHEDULE 3A
+Offences: relevant offences in the Windsor Framework (Plant Health) Regulations 2023
+Provision of the Windsor Framework (Plant Health) Regulations 2023 Subject matter
+Regulation 9(3) Imposes requirements on authorised operators for the issuance of a Northern Ireland plant health label.
+Regulation 11(1) and (2) Requires authorised operators
+(a) to identify and monitor the points in their production process and the points concerning the movement of the relevant goods which are critical as regards compliance with regulation 12 and regulation 13 of the Windsor Framework (Plant Health) Regulations 2023, where they intend to issue a Northern Ireland plant health label; and
+(b) to keep records concerning the identification and monitoring of those points for at least three years.
+Regulation 11(3) Requires authorised operators to ensure that appropriate training is provided to its personnel involved in examinations.
+Regulation 12 Prohibits issuance of a Northern Ireland plant health label unless specified conditions are fulfilled, but breach of regulation 12 is only an offence where that label is issued by an authorised operator.
+Regulation 14(1) Imposes requirements on authorised operators in relation to attaching a Northern Ireland plant health label.
+Regulation 14(2) Imposes requirements on professional operators in relation to attaching a Northern Ireland plant health label.
+Regulation 18(1) to 18(4) Imposes requirements on authorised operators and professional operators in relation to record keeping.
+Regulation 18(5) Imposes requirements on professional operators to communicate information to the competent authority, on request.
+Regulation 19(4) Imposes conditions in relation to issuance of a replacement Northern Ireland plant health label, but breach of regulation 19(4) is only an offence where that label is issued by an authorised operator.
+Regulation 19(6) and (7) Imposes requirements on authorised operators in relation to retention of a replaced Northern Ireland plant health label or its content.
+Regulation 20(2), (3), (5) and (7) Imposes requirements on professional operators in relation to invalidation and removal of a Northern Ireland plant health label.
+Regulation 21 Prohibits the despatch of consignments with a Northern Ireland plant health label to Northern Ireland by persons other than authorised operators and registered operators, and by authorised operators and registered operators unless specified conditions are fulfilled.”.
+(1)
+S.I. 2019/1517, amended by S.I. 2020/1482, 2021/79; there are other amending instruments but none are relevant.
+(2)
+S.I. 2023/XXXThe Plant Health (Official Controls and Miscellaneous Provisions) (Scotland) Regulations 2019
+4.—(1) The Plant Health (Official Controls and Miscellaneous Provisions) (Scotland) Regulations 2019(1) are amended as follows.
+(2) In regulation 2 (Interpretation: general), after the definition of “ISPM 15” insert—
+““Northern Ireland plant health label” has the meaning given in regulation 2 of the Windsor Framework (Plant Health) Regulations 2023;”.
+(3) In regulation 6, (Disclosure of information), in paragraph (1), after “Plant Health Regulation”, insert “, the Windsor Framework (Plant Health) Regulations 2023”.
+(4) In regulation 29 (Powers of entry), in paragraph (1)—
+(a)
+in sub-paragraph (a)—
+(i)
+omit “or” at the end of paragraph (iii);
+(ii)
+insert “or” at the end of paragraph (iv);
+(iii)
+after paragraph (iv) insert—
+“(v)
+an authorised operator, professional operator or registered operator is complying with the Windsor Framework (Plant Health) Regulations 2023,”;
+(b)
+in sub-paragraph (b), after “Plant Health Regulation”, insert “, the Windsor Framework (Plant Health) Regulations 2023”;
+(c)
+in sub-paragraph (c), after “Plant Health Regulation”, insert “, the Windsor Framework (Plant Health) Regulations 2023”.
+(5) In regulation 31 (Information notices), in paragraph (3), after “plant passport,”, insert “Northern Ireland plant health label,”.
+(6) In regulation 37 (General), in paragraph (1), after sub-paragraph (g) insert—
+“(ga)
+a provision of the Windsor Framework (Plant Health) Regulations 2023 specified in Schedule 3A”.
+(7) In regulation 40 (Provision of false or misleading information), in paragraph (1) after “plant passport” insert “, a Northern Ireland plant health label”.
+(8) In regulation 41 (Improper use of plant passports or certificates)—
+(a)
+in the heading, after “plant passports” insert “, Northern Ireland plant health labels”;
+(b)
+in paragraph (1), after each place “plant passport” occurs, insert “, a Northern Ireland plant health label”.
+(9) After Schedule 3 insert—
+Regulation 37
+“SCHEDULE 3A
+Offences: relevant offences in the Windsor Framework (Plant Health) Regulations 2023
+Provision of the Windsor Framework (Plant Health) Regulations 2023 Subject matter
+Regulation 9(3) Imposes requirements on authorised operators for the issuance of a Northern Ireland plant health label
+Regulation 11(1) and (2) Requires authorised operators:
+a) to identify and monitor the points in their production process and the points concerning the movement of the relevant goods which are critical as regards compliance with regulation 12 and regulation 13 of the Windsor Framework (Plant Health) Regulations 2023, where they intend to issue a Northern Ireland plant health label; and
+(b) to keep records concerning the identification and monitoring of those points for at least three years
+Regulation 11(3) Requires authorised operators to ensure that appropriate training is provided to its personnel involved in examinations.
+Regulation 12 Prohibits issuance of a Northern Ireland plant health label unless specified conditions are fulfilled, but breach of regulation 12 is only an offence where that label is issued by an authorised operator.
+Regulation 14(1) Imposes requirements on authorised operators in relation to attaching a Northern Ireland plant health label.
+Regulation 14(2) Imposes requirements on professional operators in relation to attaching a Northern Ireland plant health label.
+Regulation 18(1) to 18(4) Imposes requirements on authorised operators and professional operators in relation to record keeping.
+Regulation 18(5) Imposes requirements on professional operators to communicate information to the competent authority, on request.
+Regulation 19(4) Imposes conditions in relation to issuance of a replacement Northern Ireland plant health label, but breach of regulation 19(4) is only an offence where that label is issued by an authorised operator.
+Regulation 19(6) and (7) Imposes requirements on authorised operators in relation to retention of a replaced Northern Ireland plant health label or its content.
+Regulation 20(2), (3), (5) and (7) Imposes requirements on professional operators in relation to invalidation and removal of a Northern Ireland plant health label.
+Regulation 21 Prohibits the despatch of consignments with a Northern Ireland plant health label to Northern Ireland by persons other than authorised operators and registered operators, and by authorised operators and registered operators unless specified conditions are fulfilled.”.
+(1)
+S.S.I. 2019/421, amended by S.S.I. 2020/176, 2020/466, 2021/159; there are other amending instruments but none are relevant.The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (English language text)
+5.—(1) The English language text of the Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020(1) is amended as follows.
+(2) In regulation 2 (Interpretation: general), after the definition of “ISPM 15” insert—
+““Northern Ireland plant health label” has the meaning given in regulation 2 of the Windsor Framework (Plant Health) Regulations 2023”.
+(3) In regulation 28 (Powers of entry), in paragraph (1)—
+(a)
+in sub-paragraph (a)—
+(i)
+omit “or” at the end of paragraph (iii);
+(ii)
+insert “or” at the end of paragraph (iv);
+(iii)
+after paragraph (iv) insert—
+“(v)
+an authorised operator, professional operator or registered operator is complying with the Windsor Framework (Plant Health) Regulations 2023”;
+(b)
+in sub-paragraph (b), after “Plant Health Regulation”, insert “, the Windsor Framework (Plant Health) Regulations 2023”;
+(c)
+in sub-paragraph (c), after “Plant Health Regulation”, insert “, the Windsor Framework (Plant Health) Regulations 2023”.
+(4) In regulation 30 (Information notices), in paragraph (3), after “plant passport,”, insert “Northern Ireland plant health label,”.
+(5) In regulation 35 (Disclosure of information to other competent authorities), in paragraph (1), after “Plant Health Regulation”, insert “, the Windsor Framework (Plant Health) Regulations 2023”.
+(6) In regulation 38 (General), in paragraph (1), after sub-paragraph (f) insert—
+“(fa)
+a provision of the Windsor Framework (Plant Health) Regulations 2023 specified in Schedule 3A”.
+(7) In regulation 41 (Provision of false or misleading information), after “plant passport” insert “, a Northern Ireland plant health label”.
+(8) In regulation 42 (Improper use of plant passports or certificates)—
+(a)
+in the heading, after “plant passports” insert “, Northern Ireland plant health labels”;
+(b)
+in paragraph (1), after each place “plant passport” occurs, insert “, a Northern Ireland plant health label”.
+(9) After Schedule 3 insert—
+Regulation 38
+“SCHEDULE 3A
+Offences: relevant offences in the Windsor Framework (Plant Health) Regulations 2023
+Provision of the Windsor Framework (Plant Health) Regulations 2023 Subject matter
+Regulation 9(3) Imposes requirements on authorised operators for the issuance of a Northern Ireland plant health label.
+Regulation 11(1) and (2) Requires authorised operators:
+(a) to identify and monitor the points in their production process and the points concerning the movement of the relevant goods which are critical as regards compliance with regulation 12 and regulation 13 of the Windsor Framework (Plant Health) Regulations 2023, where they intend to issue a Northern Ireland plant health label; and
+(b) to keep records concerning the identification and monitoring of those points for at least three years.
+Regulation 11(3) Requires authorised operators to ensure that appropriate training is provided to its personnel involved in examinations.
+Regulation 12 Prohibits issuance of a Northern Ireland plant health label unless specified conditions are fulfilled, but breach of regulation 12 is only an offence where that label is issued by an authorised operator.
+Regulation 14(1) Imposes requirements on authorised operators in relation to attaching a Northern Ireland plant health label.
+Regulation 14(2) Imposes requirements on professional operators in relation to attaching a Northern Ireland plant health label.
+Regulation 18(1) to 18(4) Imposes requirements on authorised operators and professional operators in relation to record keeping.
+Regulation 18(5) Imposes requirements on professional operators to communicate information to the competent authority, on request.
+Regulation 19(4) Imposes conditions in relation to issuance of a replacement Northern Ireland plant health label, but breach of regulation 19(4) is only an offence where that label is issued by an authorised operator.
+Regulation 19(6) and (7) Imposes requirements on authorised operators in relation to retention of a replaced Northern Ireland plant health label or its content.
+Regulation 20(2), (3), (5) and (7) Imposes requirements on professional operators in relation to invalidation and removal of a Northern Ireland plant health label.
+Regulation 21 Prohibits the despatch of consignments with a Northern Ireland plant health label to Northern Ireland by persons other than authorised operators and registered operators, and by authorised operators and registered operators unless specified conditions are fulfilled.”.
+(1)
+S.I. 2020/206 (W. 48), amended by S.I. 2020/1628 (W. 342), 2021/239 (W. 62); there are other amending instruments but none are relevant.The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (Welsh language text)
+6.—(1) The Welsh language text of the Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (Rheoliadau Rheolaethau Swyddogol (Iechyd Planhigion ac Organeddau a Addaswyd yn Enetig) (Cymru) 2020(1) is amended as follows.
+(2) In regulation 2 (Dehongli: cyffredinol) (Interpretation: general), after the definition of “Gorchymyn 2018” (“the 2018 Order”) insert—
+“mae i “label iechyd planhigion Gogledd Iwerddon” yr ystyr a roddir i “Northern Ireland plant health label” yn rheoliad 2 o Reoliadau Fframwaith Windsor (Iechyd Planhigion) 2023”.
+(3) In regulation 28 (Pwerau mynediad) (Powers of entry), in paragraph (1)—
+(a)
+in sub-paragraph (a)—
+(i)
+omit “neu” at the end of paragraph (iii);
+(ii)
+insert “neu” at the end of paragraph (iv);
+(iii)
+after paragraph (iv) insert—
+“(v)
+bod gweithredwr awdurdodedig, gweithredwr proffesiynol neu weithredwr cofrestredig yn cydymffurfio â Rheoliadau Fframwaith Windsor (Iechyd Planhigion) 2023”;
+(b)
+in sub-paragraph (b), after “y Rheoliad Iechyd Planhigion”, insert “, Rheoliadau Fframwaith Windsor (Iechyd Planhigion) 2023”;
+(c)
+in sub-paragraph (c), after “y Rheoliad Iechyd Planhigion”, insert “, Rheoliadau Fframwaith Windsor (Iechyd Planhigion) 2023”.
+(4) In regulation 30 (Hysbysiadau gwybodaeth) (Information notices), in paragraph (3), after “pasbort planhigion,”, insert “label iechyd planhigion Gogledd Iwerddon,”.
+(5) In regulation 35 (Datgelu gwybodaeth i awdurdodau cymwys eraill) (Disclosure of information to other competent authorities), in paragraph (1), after “y Rheoliad Iechyd Planhigion”, insert “, Rheoliadau Fframwaith Windsor (Iechyd Planhigion) 2023”.
+(6) In regulation 38 (Cyffredinol) (General), in paragraph (1), after sub-paragraph (f) insert—
+“(fa)
+darpariaeth yn Rheoliadau Fframwaith Windsor (Iechyd Planhigion) 2023 a bennir yn Atodlen 3A”.
+(7) In regulation 41 (Darparu gwybodaeth ffug neu gamarweiniol) (Provision of false or misleading information), after “pasbort planhigion” insert “, label iechyd planhigion Gogledd Iwerddon”.
+(8) In regulation 42 (Defnyddio pasbortau planhigion neu dystysgrifau yn amhriodol) (Improper use of plant passports or certificates)—
+(a)
+in the heading, after “pasbortau planhigion” insert “, labeli iechyd planhigion Gogledd Iwerddon”;
+(b)
+in paragraph (1), after each place “pasbort planhigion” occurs, insert “, label iechyd planhigion Gogledd Iwerddon”.
+(9) After Schedule 3 insert—
+Rheoliad 38
+“ATODLEN 3A
+Troseddau: troseddau perthnasol yn Rheoliadau Fframwaith Windsor (Iechyd Planhigion) 2023
+Y ddarpariaeth yn Rheoliadau Fframwaith Windsor (Iechyd Planhigion) 2023 Y pwnc
+Rheoliad 9(3) Yn gosod gofynion ar weithredwyr awdurdodedig ynglŷn a dyroddi label iechyd planhigion Gogledd Iwerddon.
+Rheoliad 11(1) a (2) Yn ei gwneud yn ofynnol i weithredwyr awdurdodedig:
+(a) nodi a monitro’r pwyntiau yn eu proses gynhyrchu a’r pwyntiau sy’n ymwneud â symud y nwyddau perthnasol sy’n allweddol o ran cydymffurfio â rheoliad 12 a rheoliad 13 yn y rheoliadau hynny, pan fônt yn bwriadu dyroddi label iechyd planhigion Gogledd Iwerddon; a
+(b) cadw cofnodion ynghylch nodi a monitro’r pwyntiau hynny am o leiaf dair blynedd.
+Rheoliad 11(3) Yn ei gwneud yn ofynnol i weithredwyr awdurdodedig sicrhau bod hyfforddiant priodol yn cael ei ddarparu i’w personél sy’n ymwneud ag archwiliadau.
+Rheoliad 12 Yn gwahardd dyroddi label iechyd planhigion Gogledd Iwerddon oni bai bod amodau penodol wedi eu cyflawni, ond dim ond pan ddyroddir y label gan weithredwr awdurdodedig y mae torri rheoliad 12 yn drosedd.
+Rheoliad 14(1) Yn gosod gofynion ar weithredwyr awdurdodedig mewn perthynas â gosod label iechyd planhigion Gogledd Iwerddon.
+Rheoliad 14(2) Yn gosod gofynion ar weithredwyr proffesiynol mewn perthynas â gosod label iechyd planhigion Gogledd Iwerddon.
+Rheoliad 18(1) i 18(4) Yn gosod gofynion ar weithredwyr awdurdodedig a gweithredwyr proffesiynol mewn perthynas â chadw cofnodion.
+Rheoliad 18(5) Yn gosod gofynion ar weithredwyr proffesiynol i gyfleu gwybodaeth i’r awdurdod cymwys, ar gais.
+Rheoliad 19(4) Yn gosod amodau mewn perthynas â dyroddi label iechyd planhigion Gogledd Iwerddon amnewid, ond dim ond pan ddyroddir y label gan weithredwr awdurdodedig y mae torri rheoliad 19(4) yn drosedd.
+Rheoliad 19(6) a (7) Yn gosod gofynion ar weithredwyr awdurdodedig mewn perthynas â chadw label iechyd planhigion Gogledd Iwerddon a amnewidiwyd neu ei gynnwys.
+Rheoliad 20(2), (3), (5) a (7) Yn gosod gofynion ar weithredwyr proffesiynol mewn perthynas ag annilysu a thynnu label iechyd planhigion Gogledd Iwerddon.
+Rheoliad 21 Yn gwahardd anfon llwythi â label iechyd planhigion Gogledd Iwerddon i Ogledd Iwerddon gan bersonau heblaw gweithredwyr awdurdodedig a gweithredwyr cofrestredig, a chan gweithredwyr awdurdodedig a gweithredwyr cofrestredig oni bai bod amodau penodol wedi eu cyflawni.”.
+(1)
+S.I. 2020/206 (W. 48), amended by S.I. 2020/1628 (W. 342), 2021/239 (W. 62); there are other amending instruments but none are relevant.The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2020
+7.—(1) The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2020(1) are amended as follows.
+(2) In regulation 44 (Improper use of plant passports or certificates)—
+(a)
+in the heading, after “plant passports”, insert “, Northern Ireland plant health labels”;
+(b)
+in paragraph (1)—
+(i)
+in sub-paragraph (a), after “plant passport”, insert “, Northern Ireland plant health label”;
+(ii)
+in sub-paragraph (b), after “plant passport”, insert “, Northern Ireland plant health label”;
+(iii)
+in sub-paragraph (c), after “plant passport”, insert “, Northern Ireland plant health label”;
+(c)
+after paragraph (2), insert—
+“(3) In paragraph (1) “Northern Ireland plant health label” has the meaning given in regulation 2 of the Windsor Framework (Plant Health) Regulations 2023.”.
+(1)
+S.R. 2020 No. 293.Interpretation
+8.—(1) In this Part—
+“the Standards Regulations” means the Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023(1);
+“consignment” and “retail goods” have the meaning given in the Standards Regulations;
+the “Retail Movement Scheme” means the scheme established by the Windsor Framework (Retail Movement Scheme) Regulations 2023(2).
+(2) In this Part—
+(a)
+a “listed instrument” means an EU instrument listed in Column 1 of the table in Schedule 1, Schedule 2 or Schedule 3 to the Standards Regulations;
+(b)
+a “corresponding GB instrument”, in relation to a listed instrument, means an instrument or part of an instrument listed in column 2 of the entry in that table for the listed instrument, with—
+(i)
+any modifications specified in column 3 of that entry; and
+(ii)
+any further necessary modifications which apply to the corresponding GB instrument by virtue of regulation 4, 5 or 6 of the Standards Regulations;
+(c)
+a “relevant Northern Ireland enforcement instrument” means an instrument listed in the Schedule to these Regulations.
+(1)
+S.I. 2023/XXX
+(2)
+S.I. 2023/896.Enforcement of public health, marketing and organic product standards in Northern Ireland
+9.—(1) Paragraph (2) applies in relation to a consignment of retail goods entering into Northern Ireland from another part of the United Kingdom in accordance with the Retail Movement Scheme where—
+(a)
+the Standards Regulations apply in relation to the consignment;
+(b)
+a listed instrument would, but for Article 1(2) and Annex I to the SPS Regulation, apply in relation to the consignment; and
+(c)
+if that listed instrument applied, a provision of a relevant Northern Ireland enforcement instrument would apply in relation to the enforcement of a standard, requirement or prohibition in the listed instrument.
+(2) Where this paragraph applies, the relevant Northern Ireland enforcement instrument applies in relation to the enforcement of any standard, requirement or prohibition in a corresponding GB instrument which, by virtue of the Standards Regulations, is treated as applying in relation to the consignment.
+(3) Where a relevant Northern Ireland enforcement instrument applies by virtue of paragraph (2), it applies with any necessary modifications.Name
+Minister of State
+Department for Environment, Food and Rural Affairs
+DateRegulation 7
+SCHEDULE
+Relevant Northern Ireland Enforcement Legislation
+The Materials and Articles in Contact with Food Regulations (Northern Ireland) 2012(1)
+The Quick-Frozen Foodstuffs (No.2) Regulations (Northern Ireland) 2007(2)
+The Preserved Sardines (Marketing Standards) Regulations (Northern Ireland) 1990(3)
+The Preserved Tuna and Bonito (Marketing Standards) Regulations (Northern Ireland) 1994(4)
+The Contaminants in Food Regulations (Northern Ireland) 2013(5)
+The Animals and Animal Products (Examination for Residues and Maximum Residue Limits) Regulations (Northern Ireland) 2016(6)
+The Sea Fish (Marketing Standards) (England and Wales and Northern Ireland) Regulations 2018(7)
+The Food Information Regulations (Northern Ireland) 2014(8)
+The Food Irradiation Regulations (Northern Ireland) 2009(9)
+The Coffee Extracts and Chicory Extracts Regulations (Northern Ireland) 2001(10)
+The Cocoa and Chocolate Products Regulations (Northern Ireland) 2003(11)
+The Honey Regulations (Northern Ireland) 2015(12)
+The Specified Sugar Products Regulations (Northern Ireland) 2003(13)
+The Fruit Juices and Fruit Nectars Regulations (Northern Ireland) 2013(14)
+The Jam and Similar Products Regulations (Northern Ireland) 2018(15)
+The Condensed Milk and Dried Milk Regulations (Northern Ireland) 2018(16)
+The Sea Fishing (Illegal, Unreported and Unregulated Fishing) Order (Northern Ireland) 2018(17)
+The Animal Feed (Composition, Marketing and Use) Regulations (Northern Ireland) 2016(18)
+The Food Supplements Regulations (Northern Ireland) 2003(19)
+The General Food Regulations (Northern Ireland) 2004(20)
+The Genetically Modified Food Regulations (Northern Ireland) 2004(21)
+The Genetically Modified Organisms (Traceability and Labelling) Regulations (Northern Ireland) 2005(22)
+The Food Additives, Flavourings, Enzymes and Extraction Solvents Regulations (Northern Ireland) 2013(23)
+The Food Hygiene Regulations (Northern Ireland) 2006(24)
+The Animal Feed (Hygiene, Sampling etc. and Enforcement) Regulations (Northern Ireland) 2016(25)
+The Pesticides (Maximum Residue Levels) Regulations (Northern Ireland) 2008(26)
+The Nutrition and Health Claims Regulations (Northern Ireland) 2007(27)
+The Addition of Vitamins, Minerals and Other Substances Regulations (Northern Ireland) 2007(28)
+The Natural Mineral Water, Spring Water and Bottled Drinking Water Regulations (Northern Ireland) 2015(29)
+The Fish Labelling Regulations (Northern Ireland) 2013(30)
+The Registration of Fish Buyers and Sellers and Designation of Fish Auction Sites Regulations (Northern Ireland) 2005(31)
+The Marketing of Fresh Horticulture Produce Regulations (Northern Ireland) 2010(32)
+The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2013(33)
+The Food Safety (Information and Compositional Requirements) Regulations (Northern Ireland) 2016(34)
+The Hops Certification Regulations 1979(35)
+The Eggs and Chicks Regulations (Northern Ireland) 2010(36)
+The Olive Oil (Marketing Standards) Regulations (Northern Ireland) 2008(37)
+The Poultrymeat Regulations (Northern Ireland) 2011(38)
+The Spreadable Fats (Marketing Standards) and the Milk and Milk Products (Protection of Designations) Regulations (Northern Ireland) 2008(39)
+The Beef and Veal Labelling Regulations (Northern Ireland) 2010(40)
+The Marketing of Bananas Regulations (Northern Ireland) 2019(41)
+The Wine Regulations 2011(42)
+The Caseins and Caseinates Regulations (Northern Ireland) 2016(43)
+The Novel Foods Regulations (Northern Ireland) 2017(44)
+The Organic Products Regulations (Northern Ireland) 2020(45)
+The Spirit Drinks Regulations 2008(46)
+(1)
+S.R. 2012 No. 384.
+(2)
+S.R. 2007 No. 110.
+(3)
+S.R. 1990 No. 194.
+(4)
+S.R. 1994 No. 425.
+(5)
+S.R. 2013 No. 229.
+(6)
+S.R. 2016 No. 54.
+(7)
+S.I. 2018/437.
+(8)
+S.R. 2014 No. 223.
+(9)
+S.R. 2009 No. 258.
+(10)
+S.R. 2001 No. 45.
+(11)
+S.R. 2003 No. 313.
+(12)
+S.R. 2015 No. 261.
+(13)
+S.R. 2003 No. 301.
+(14)
+S.R. 2013 No. 253.
+(15)
+S.R. 2018 No. 78.
+(16)
+S.R. 2018 No. 77.
+(17)
+S.R. 2018 No. 106.
+(18)
+S.R. 2016 No. 4.
+(19)
+S.R. 2003 No. 273.
+(20)
+S.R. 2004 No. 505.
+(21)
+S.R. 2004 No. 385.
+(22)
+S.R. 2005 No. 271.
+(23)
+S.R. 2013 No. 220.
+(24)
+S.R. 2006 No. 3.
+(25)
+S.R. 2016 No. 5.
+(26)
+S.R. 2008 No. 433.
+(27)
+S.R. 2007 No. 349.
+(28)
+S.R. 2007 No. 301.
+(29)
+S.R. 2015 No. 365.
+(30)
+S.R. 2013 No. 219.
+(31)
+S.R. 2005 No. 419.
+(32)
+S.R. 2010 No. 198.
+(33)
+S.R. 2013 No. 206.
+(34)
+S.R. 2016 No. 251.
+(35)
+S.I. 1979/1095.
+(36)
+S.R. 2010 No. 125.
+(37)
+S.R. 2008 No. 189.
+(38)
+S.R. 2011 No. 315.
+(39)
+S.R. 2008 No. 239.
+(40)
+S.R. 2010 No. 155.
+(41)
+S.R. 2019 No. 66.
+(42)
+S.I. 2011/2936.
+(43)
+S.R. 2016 No. 415.
+(44)
+S.R. 2017 No. 233.
+(45)
+S.R. 2020 No. 272.
+(46)
+S.I. 2008/3206.EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations implement the Windsor Framework(1) in respect of enforcement.
+Part 2 implements enforcement provisions in respect of the movement of plants under the Windsor Framework.
+Part 3 applies Northern Ireland enforcement provisions in respect of public health, marketing and organic products standards. These provisions are relevant where standards applicable in Great Britain are applied to consignments of retail agri-food goods moving under the Retail Movement Scheme to the extent that EU public health, marketing and organic products standards listed in Annex 1 to the SPS Regulation are disapplied by virtue of Article 1(2) and Chapter 2 of that Regulation. The SPS Regulation allows retail agri-food goods, plants, seed potatoes and other items to move from Great Britain to Northern Ireland without undergoing checks in relation to EU standards which would otherwise apply.
+A full impact assessment has not been published for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+(1)
+https://eur-lex.europa.eu/legal-content/EN/TXT/?toc=OJ%3AL%3A2023%3A102%3ATOC&uri=uriserv%3AOJ.L_.2023.102.01.0087.01.ENG

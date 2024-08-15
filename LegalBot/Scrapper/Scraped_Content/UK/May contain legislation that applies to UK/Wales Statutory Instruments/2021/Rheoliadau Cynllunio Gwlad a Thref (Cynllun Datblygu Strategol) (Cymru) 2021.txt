@@ -1,0 +1,725 @@
+OFFERYNNAU STATUDOL CYMRU
+2021 Rhif 360 (Cy. 109)
+CYNLLUNIO GWLAD A THREF, CYMRU
+Rheoliadau Cynllunio Gwlad a Thref (Cynllun Datblygu Strategol) (Cymru) 2021
+Gwnaed
+18 Mawrth 2021
+Gosodwyd gerbron Senedd Cymru
+22 Mawrth 2021
+Yn dod i rym
+28 Chwefror 2022
+Mae Gweinidogion Cymru, drwy arfer y pwerau a roddir iddynt gan adrannau 60M(5) a (6)(f), 66A(6)(b), (8) a (9), 69(1)(b) a (3), 76(2) a (3) a 122(3) o Ddeddf Cynllunio a Phrynu Gorfodol 2004(1) a thrwy arfer y pwerau a roddwyd i Gynulliad Cenedlaethol Cymru gan adrannau 63(3)(a) a (7), 64(3) a 77(1) o’r Ddeddf honno, ac sy’n arferadwy bellach ganddynt hwy (fel y’u cymhwysir yn achos adrannau 63(3)(a) a (7), 64(3), 66A(6)(b), (8) a (9), 69(1)(b) a (3), 76(2) a (3), 77(1) a 122(3) gan adran 60N o’r Ddeddf honno), yn gwneud y Rheoliadau a ganlyn.
+(1)
+2004 p. 5. O ran y pŵer i ragnodi drwy reoliadau, gweler adran 122(1) a (2). Rhoddwyd “Welsh Ministers” yn lle “National Assembly for Wales” yn adran 122(1)(b) gan adran 55(2) o Ddeddf Cynllunio (Cymru) 2015 (dccc 4) (“Deddf 2015”), a pharagraff 1(2) o Atodlen 7 iddi. Trosglwyddwyd swyddogaethau Cynulliad Cenedlaethol Cymru yn adrannau 63, 64, 69, 76, 77 a 122 o Ddeddf 2004 i Weinidogion Cymru gan adran 162 o Ddeddf Llywodraeth Cymru 2006 (p. 32), a pharagraff 30 o Atodlen 11 iddi, ac yr oedd y swyddogaethau hynny yn swyddogaethau perthnasol y Cynulliad fel y’u diffinnir ym mharagraff 30(2). Mewnosodwyd adrannau 60M a 60N gan adran 88 o Ddeddf 2021, a pharagraff 4 o Atodlen 9 iddi. Mewnosodwyd adran 66A gan adran 13 o Ddeddf 2015. Mewnosodwyd adran 68A gan adran 8(1) o Ddeddf 2015. Diwygiwyd adran 69(1) gan adran 8(2) o Ddeddf 2015.Enwi, cychwyn a chymhwyso
+1.—(1) Enw’r Rheoliadau hyn yw Rheoliadau Cynllunio Gwlad a Thref (Cynllun Datblygu Strategol) (Cymru) 2021 a deuant i rym ar 28 Chwefror 2022.
+(2) Mae’r Rheoliadau hyn yn gymwys o ran Cymru.
+(3) Mae’r Rheoliadau hyn yn gymwys mewn perthynas â diwygio CDS o dan adran 70(1) o Ddeddf 2004 yn yr un modd ag y maent yn gymwys mewn perthynas â llunio CDS o dan adran 60M(1) o’r Ddeddf honno.Dehongli
+2.—(1) Yn y Rheoliadau hyn—
+ystyr “ACLl” (“LPA”) yw awdurdod cynllunio lleol fel y’i dehonglir yn unol â Rhan 1 o Ddeddf 1990;
+mae “adeilad” (“building”) yn cynnwys unrhyw strwythur neu adeiladwaith (gan gynnwys unrhyw estyniad, addasiad neu ailadeiladwaith), ac unrhyw ran o adeilad, fel y’i diffinnir yn y modd hwnnw, ond nid yw’n cynnwys cyfarpar neu beiriannau a gynhwysir mewn adeilad;
+ystyr “adroddiad adolygu” (“review report”) yw’r adroddiad sy’n ofynnol gan adran 69(2) o Ddeddf 2004 yn dilyn cynnal adolygiad o dan adran 69(1) o’r Ddeddf honno;
+ystyr “adroddiad arfarnu cynaliadwyedd” (“sustainability appraisal report”) yw’r adroddiad y cyfeirir ato yn adran 60M(7)(b) o Ddeddf 2004, ynghyd ag unrhyw adroddiad amgylcheddol sy’n ofynnol o dan ddarpariaethau Rheoliadau Asesiadau Amgylcheddol o Gynlluniau a Rhaglenni (Cymru) 2004(1);
+ystyr “adroddiad monitro blynyddol” (“annual monitoring report”) yw’r adroddiad blynyddol sy’n ofynnol gan adran 76(1) o Ddeddf 2004;
+mae i “adroddiad ymgynghori cychwynnol” (“initial consultation report”) yr ystyr a roddir gan reoliad 20(a);
+ystyr “amserlen” (“timetable”) yw’r amserlen y cyfeirir ati yn adran 63(1)(b) o Ddeddf 2004;
+ystyr “arolygu” (“inspection”) yw arolygu gan y cyhoedd;
+ystyr “CBC” (“CJC”) yw’r cyd-bwyllgor corfforedig, o fewn ystyr adran 74 o Ddeddf 2021, ac y mae Rhan 6 o Ddeddf 2004 yn gymwys iddo yn rhinwedd rheoliadau a wnaed o dan Ran 5 o Ddeddf 2021, sy’n llunio CDS;
+ystyr “CDS” (“SDP”) yw cynllun datblygu strategol fel y darperir ar ei gyfer yn adran 60M o Ddeddf 2004;
+mae i “cofrestr y lleoliadau a’r safleoedd strategol ymgeisiol” (“candidate strategic locations and sites register”) yr ystyr a roddir yn rheoliad 16(1)(d);
+mae i “cyfathrebiad electronig” yr ystyr a roddir i “electronic communication” gan adran 15(1) o Ddeddf Cyfathrebiadau Electronig 2000(2);
+ystyr “cyfeiriad” (“address”), o ran cyfathrebiadau electronig, yw unrhyw rif neu gyfeiriad a ddefnyddir at ddibenion cyfathrebiadau o’r fath;
+mae i “cynllun cynnwys cymunedau” yr ystyr a roddir i “community involvement scheme” yn adran 63(2) o Ddeddf 2004;
+mae i “cyrff ymgynghori cyffredinol” (“general consultation bodies”) yr ystyr a roddir yn rheoliad 5;
+mae i “cyrff ymgynghori penodol” (“specific consultation bodies”) yr ystyr a roddir yn rheoliad 6;
+ystyr “cytundeb cyflawni” (“delivery agreement”) yw’r cytundeb sy’n cynnwys yr eitemau hynny a ddisgrifir yn rheoliad 11(1);
+mae i “datblygu” yr ystyr a roddir i “development” yn adran 55(1) o Ddeddf 1990(3);
+mae i “datganiad o faterion adneuo” (“statement of deposit matters”) yr ystyr a roddir gan reoliad 20(c);
+mae i “datganiad o faterion cyn-adneuo” (“statement of pre-deposit matters”) yr ystyr a roddir gan reoliad 18(1);
+ystyr “Deddf 1990” (“1990 Act”) yw Deddf Cynllunio Gwlad a Thref 1990(4);
+ystyr “Deddf 2004” (“2004 Act”) yw Deddf Cynllunio a Phrynu Gorfodol 2004;
+ystyr “Deddf 2021” (“2021 Act”) yw Deddf Llywodraeth Leol ac Etholiadau (Cymru) 2021(5);
+mae i “dogfennau cynigion yr CDS” (“SDP proposals documents”) yr ystyr ar roddir gan reoliad 20(b);
+mae i “dogfennau cynigion cyn-adneuo” (“pre-deposit proposals documents”) yr ystyr a roddir gan reoliad 17;
+ystyr “gweithdrefn yr CDS” (“SDP procedure”) yw’r weithdrefn y darperir ar ei chyfer yn Rhan 6 o Ddeddf 2004 ac yn y Rheoliadau hyn;
+ystyr “person a benodwyd” (“appointed person”) yw person a benodwyd gan Weinidogion Cymru o dan adran 64(4) o Ddeddf 2004;
+ystyr “tir” (“land”) yw unrhyw hereditament corfforol ac mae’n cynnwys adeilad.
+(2) Yn y Rheoliadau hyn, mae cyfeiriad at—
+(a)
+unrhyw ddarpariaeth yn Neddf 2004, ac eithrio at unrhyw ddarpariaeth yn adran 60M o’r Ddeddf honno, yn gyfeiriad at y ddarpariaeth o dan sylw fel y mae’n gymwys yn rhinwedd adran 60N o’r Ddeddf honno;
+(b)
+ardal yr CBC yn gyfeiriad at yr ardal y mae’r CBC yn arfer swyddogaethau mewn perthynas â hi yn rhinwedd rheoliadau a wnaed o dan adran 74 o Ddeddf 2021.
+(1)
+O.S. 2004/1656 (Cy. 170), a ddiwygiwyd gan O.S. 2011/1043, O.S. 2013/755 (Cy. 90), O.S. 2018/1216 (Cy. 249) ac O.S. 2019/245 (Cy. 60).
+(2)
+2000 p. 7; diwygiwyd adran 15(1) gan adran 406(1) o Ddeddf Cyfathrebiadau 2003 (p. 21), a pharagraff 158 o Atodlen 17 iddi.
+(3)
+Diwygiwyd adran 55 gan adrannau 13(1) a (2) a 14 o Ddeddf Cynllunio a Digolledu 1991 (p. 34), a pharagraff 9 o Atodlen 6, a Rhannau 1 a 2 o Atodlen 19 i’r Ddeddf honno; a chan adrannau 118(1) a 120 o Ddeddf 2004, a pharagraffau 1 a 2 o Atodlen 6, ac Atodlen 9 i’r Ddeddf honno. Mae diwygiadau eraill i adran 55 nad ydynt yn berthnasol i’r offeryn hwn.
+(4)
+1990 p. 8.
+(5)
+2021 dsc 1.Cyfathrebiadau electronig
+3.—(1) Mae paragraff (2) yn gymwys—
+(a)
+pan fo’n ofynnol i berson —
+(i)
+anfon dogfen, copi o ddogfen neu unrhyw hysbysiad at berson arall, neu
+(ii)
+rhoi gwybod i berson arall am unrhyw fater, a
+(b)
+pan fo’r person arall hwnnw wedi darparu cyfeiriad at ddibenion cyfathrebiadau electronig.
+(2) Pan fo’r paragraff hwn yn gymwys, caniateir anfon y ddogfen, y copi neu’r hysbysiad neu roi’r wybodaeth ar ffurf cyfathrebiad electronig.
+(3) Pan gaiff person roi ymateb neu gyflwyno sylwadau ar unrhyw fater neu ddogfen, caniateir rhoi’r ymatebion hynny neu gyflwyno’r sylwadau hynny ar ffurf cyfathrebiad electronig.
+(4) Pan fo—
+(a)
+cyfathrebiad electronig yn cael ei ddefnyddio o dan baragraff (2) neu (3), a
+(b)
+y derbynnydd yn cael y cyfathrebiad y tu allan i oriau swyddfa arferol y person hwnnw,
+cymerir bod y derbynnydd wedi ei gael ar y diwrnod gwaith nesaf.Y dogfennau sydd i’w darparu i Weinidogion Cymru
+4.  Rhaid i’r CBC ddarparu i Weinidogion Cymru gopi o bob hysbysiad a phob datganiad a gyhoeddwyd gan yr CBC yn unol â’r Rheoliadau hyn cyn gynted ag y bo’n ymarferol ar ôl i’r hysbysiad neu’r datganiad o dan sylw gael ei gyhoeddi gyntaf, ynghyd â chopi o bob dogfen a roddwyd ar gael i’w harolygu yn unol â’r Rheoliadau hyn.Cyrff ymgynghori cyffredinol
+5.  Yn y Rheoliadau hyn, ystyr “cyrff ymgynghori cyffredinol” yw—
+(a)
+cyrff gwirfoddol, y mae rhai o’u gweithgareddau neu’r cyfan ohonynt yn fuddiol i unrhyw ran o ardal yr CBC,
+(b)
+cyrff sy’n cynrychioli buddiannau gwahanol grwpiau hiliol, ethnig neu genedlaethol mewn unrhyw ran o ardal yr CBC,
+(c)
+cyrff sy’n cynrychioli buddiannau gwahanol grwpiau crefyddol mewn unrhyw ran o ardal yr CBC,
+(d)
+cyrff sy’n cynrychioli buddiannau pobl anabl, o fewn ystyr adran 6 o Ddeddf Cydraddoldeb 2010(1), mewn unrhyw ran o ardal yr CBC,
+(e)
+cyrff sy’n cynrychioli buddiannau personau sy’n rhedeg busnesau mewn unrhyw ran o ardal yr CBC, ac
+(f)
+cyrff sy’n cynrychioli buddiannau’r diwylliant Cymreig mewn unrhyw ran o ardal yr CBC.
+(1)
+2010 p. 15.Cyrff ymgynghori penodol
+6.  Yn y Rheoliadau hyn, ystyr “cyrff ymgynghori penodol” yw—
+(a)
+Cyfoeth Naturiol Cymru;
+(b)
+Gweinidogion Cymru;
+(c)
+unrhyw ACLl yng Nghymru y mae ei ardal, neu unrhyw ran o’i ardal, yn ardal yr CBC neu’n cydffinio â hi;
+(d)
+unrhyw gyngor cymuned yng Nghymru y mae ei ardal, neu unrhyw ran o’i ardal, yn ardal yr CBC neu’n cydffinio â hi;
+(e)
+unrhyw gyd-bwyllgor corfforedig arall o fewn ystyr adran 68 o Ddeddf 2021 sydd, yn rhinwedd rheoliadau a wnaed o dan adran 72 neu 74 o Ddeddf 2021, yn arfer swyddogaethau mewn perthynas ag ardal sy’n cydffinio ag ardal yr CBC;
+(f)
+unrhyw berson—
+(i)
+y mae’r cod cyfathrebiadau electronig, fel y diffinnir “the electronic communications code” yn adran 106(1) o Ddeddf Cyfathrebiadau 2003(1) yn gymwys iddo yn rhinwedd cyfarwyddyd a roddir o dan adran 106(3)(a) o’r Ddeddf honno, a
+(ii)
+sy’n meddu ar gyfarpar cyfathrebu electronig, o fewn ystyr “electronic communications apparatus” ym mharagraff 5 o’r cod cyfathrebiadau electronig, sydd wedi ei leoli mewn unrhyw ran o ardal yr CBC, neu’n rheoli cyfarpar o’r fath (pan fo’n wybyddus);
+(g)
+os yw’n arfer swyddogaethau mewn unrhyw ran o ardal yr CBC—
+(i)
+bwrdd iechyd lleol a sefydlwyd o dan adran 11(1) o Ddeddf y Gwasanaeth Iechyd Gwladol (Cymru) 2006(2), neu y mae ei sefydlu yn cael effaith fel pe bai wedi ei sefydlu o dan yr adran honno;
+(ii)
+person y mae trwydded wedi ei rhoi iddo o dan adran 6(1)(b) neu (c) o Ddeddf Trydan 1989(3);
+(iii)
+person y mae trwydded wedi ei rhoi iddo o dan adran 7(2) o Ddeddf Nwy 1986(4);
+(iv)
+ymgymerwr carthffosiaeth a benodwyd o dan adran 6(1) o Ddeddf y Diwydiant Dŵr 1991(5);
+(v)
+ymgymerwr dŵr a benodwyd o dan yr adran honno.
+(1)
+2003 p. 21. Diwygiwyd adran 106(1) gan adran 4(3) a (4) o Ddeddf yr Economi Ddigidol 2017 (p. 30).
+(2)
+2006 p. 42. Gweler paragraff 1 yn Rhan 1 o Atodlen 2 i Ddeddf y Gwasanaeth Iechyd Gwladol (Darpariaethau Canlyniadol) 2006 (p. 43) ar gyfer y ddarpariaeth drosiannol a’r ddarpariaeth arbed berthnasol. Gweler hefyd O.S. 2003/148 (Cy. 18), O.S. 2009/778 (Cy. 66), O.S. 2013/2918 (Cy. 286) ac O.S. 2019/349 (Cy. 83).
+(3)
+1989 p. 29. Amnewidiwyd adran 6 fel y’i deddfwyd yn wreiddiol gan adran 30 o Ddeddf Cyfleustodau 2000 (p. 27), amnewidiwyd is-adran (1)(b) gan adran 136(1) o Ddeddf Ynni 2004 (p. 20) a diwygiwyd is-adran (1)(c) gan adran 197(9) o’r Ddeddf honno a Rhan 1 o Atodlen 23 iddi.
+(4)
+1986 p. 44. Mae diwygiadau i adran 7(2) nad ydynt yn berthnasol i’r offeryn hwn.
+(5)
+1991 p. 56, y mae iddi ddiwygiadau nad ydynt yn berthnasol i’r offeryn hwn.Llunio cynllun cynnwys cymunedau
+7.  Y personau y mae rhaid i’r CBC ymgysylltu â hwy wrth lunio cynllun cynnwys cymunedau yw’r cyrff ymgynghori cyffredinol hynny y mae’n ymddangos i’r CBC fod ganddynt fuddiant mewn materion sy’n ymwneud â datblygu yn ardal yr CBC.Cynnwys cynllun cynnwys cymunedau
+8.  Rhaid i gynllun cynnwys cymunedau gynnwys y canlynol—
+(a)
+rhestr o’r holl gyrff ymgynghori cyffredinol a’r holl gyrff ymgynghori penodol hynny sydd i’w cynnwys wrth i swyddogaethau’r CBC gael eu harfer o dan Ran 6 o Ddeddf 2004;
+(b)
+egwyddorion y polisi sydd i’w fabwysiadu gan yr CBC at ddiben ceisio cynnwys cyrff ymgynghori cyffredinol, cyrff ymgynghori penodol ac unrhyw berson o fewn adran 63(3)(b) o Ddeddf 2004 wrth arfer swyddogaethau’r CBC o dan Ran 6 o’r Ddeddf honno;
+(c)
+manylion yr amseriad a’r dull a ddefnyddir—
+(i)
+er mwyn ceisio cynnwys cymunedau ac ym mha gam arfaethedig o weithdrefn yr CDS y gwneir hynny, a
+(ii)
+gan yr CBC er mwyn ymateb i’r materion a godir;
+(d)
+manylion ynghylch sut y bydd yr CBC yn defnyddio’r ymatebion a’r sylwadau y mae’n eu cael, ac ym mha gam arfaethedig, wrth ddatblygu cynnwys ei CDS.Llunio’r amserlen
+9.  Y personau y mae rhaid i’r CBC ymgynghori â hwy wrth lunio’r amserlen yw’r cyrff ymgynghori penodol.Cynnwys yr amserlen
+10.  Rhaid i’r amserlen gynnwys pob dyddiad allweddol, gan gynnwys—
+(a)
+dyddiad pendant ar gyfer pob cam arfaethedig o weithdrefn yr CDS hyd at a chan gynnwys y cam sy’n ei gwneud yn ofynnol cyflwyno’r CDS i Weinidogion Cymru ar gyfer archwiliad annibynnol o dan adran 64(1) o Ddeddf 2004,
+(b)
+dyddiadau dangosol ar gyfer pob cam arfaethedig o weithdrefn yr CDS, ac eithrio’r rhai sy’n dod o fewn paragraff (a), hyd at a chan gynnwys y cam o fabwysiadu’r CDS o dan adran 67(3) o’r Ddeddf honno, ac
+(c)
+y rhai mewn cysylltiad â llunio a chyhoeddi—
+(i)
+yr adroddiad arfarnu cynaliadwyedd, a
+(ii)
+yr adroddiad monitro blynyddol.Cytundeb cyflawni
+11.—(1) Mae cytundeb cyflawni yn cynnwys y cynllun cynnwys cymunedau a luniwyd yn unol â rheoliad 8 a’r amserlen a luniwyd yn unol â rheoliad 10.
+(2) Rhaid i’r cytundeb cyflawni gael ei gymeradwyo drwy benderfyniad yr CBC ac yna cael ei gyflwyno i Weinidogion Cymru iddynt gytuno arno.
+(3) Rhaid i Weinidogion Cymru ymateb o fewn y cyfnod o bedair wythnos sy’n dechrau â’r diwrnod y maent yn cael y cytundeb cyflawni.
+(4) Os yw Gweinidogion Cymru yn methu ag ymateb o fewn y cyfnod hwnnw, bernir bod y cytundeb cyflawni wedi ei gytuno ar ddiwedd y cyfnod hwnnw, ond mae hyn yn ddarostyngedig i baragraffau (5) a (6).
+(5) Caiff Gweinidogion Cymru hysbysu’r CBC yn ysgrifenedig bod arnynt angen hyd at 12 wythnos bellach, yn ychwanegol at yr amser ym mharagraff (3), i ystyried y cytundeb.
+(6) Os yw Gweinidogion Cymru yn methu ag ymateb o fewn y cyfnod yr hysbysir yn ei gylch o dan baragraff (5), bernir bod y cytundeb cyflawni wedi ei gytuno ar ddiwedd y cyfnod hwnnw.
+(7) Ni chaiff yr CBC gymryd unrhyw gamau o dan Bennod 4 hyd nes y bydd Gweinidogion Cymru wedi cytuno ar y cytundeb cyflawni, neu hyd nes y bernir bod y cytundeb cyflawni wedi ei gytuno.
+(8) Rhaid i’r CBC adolygu’r cytundeb cyflawni yn rheolaidd a rhaid i unrhyw ddiwygiad gael ei gymeradwyo drwy benderfyniad yr CBC a’i gyflwyno i Weinidogion Cymru iddynt gytuno arno.
+(9) Mae paragraffau (3) i (8) yn gymwys i unrhyw ddiwygiad i’r cytundeb cyflawni yn yr un modd ag y maent yn gymwys i lunio’r cytundeb.
+(10) Rhaid i’r CBC, cyn gynted ag y bo’n rhesymol ymarferol ar ôl i’r cytundeb cyflawni neu ddiwygiad i’r cytundeb cyflawni gael ei gytuno, neu y bernir ei fod wedi ei gytuno, hysbysu—
+(a)
+y cyrff ymgynghori penodol, a
+(b)
+y cyrff ymgynghori cyffredinol hynny y mae’r CBC yn ystyried eu bod yn briodol.
+(11) Nid oes angen i’r CBC gydymffurfio â gofyniad penodol yn ei gynllun cynnwys cymunedau os oes ganddo sail resymol dros gredu nad yw peidio â chydymffurfio yn debygol o ragfarnu cyfle unrhyw berson i fod yn rhan o arfer swyddogaethau’r CBC o dan Ran 6 o Ddeddf 2004.Argaeledd cytundeb cyflawni
+12.—(1) Pan fo cytundeb cyflawni yn cael ei gytuno neu pan fernir ei fod wedi ei gytuno yn unol â rheoliad 11, rhaid i’r CBC—
+(a)
+rhoi copi o’r cytundeb ar gael i’w arolygu yn ei brif swyddfa yn ystod oriau swyddfa arferol, a
+(b)
+cyhoeddi’r cytundeb ar ei wefan.
+(2) Pan fo diwygiad i gytundeb cyflawni yn cael ei gytuno neu pan fernir ei fod wedi ei gytuno yn unol â rheoliad 11, rhaid i’r CBC gydymffurfio â’r gofynion ym mharagraff (1) o fewn y cyfnod o ddwy wythnos sy’n dechrau â’r dyddiad pan fo diwygiad i’r cytundeb cyflawni’n cael ei gytuno neu pan fernir ei fod wedi ei gytuno.Ffurf a chynnwys
+13.—(1) Rhaid i CDS gynnwys—
+(a)
+teitl sydd—
+(i)
+yn rhoi enw’r ardal y mae’r CDS yn cael ei lunio ar ei chyfer, a
+(ii)
+yn pennu mai CDS ydyw;
+(b)
+is-deitl sy’n pennu—
+(i)
+y dyddiad y’i mabwysiadwyd neu y’i cymeradwywyd a’r dyddiad y mae’r cyfnod y mae’n cael effaith mewn perthynas ag ef yn dod i ben, neu
+(ii)
+pan fo’n CDS sydd wrthi’n ymddangos—
+(aa)
+y cyfnod y bwriedir iddo gael effaith mewn perthynas ag ef,
+(bb)
+y cam y mae wedi ei gyrraedd, ac
+(cc)
+dyddiad ei gyhoeddi;
+(c)
+cyfiawnhad rhesymedig o’r polisïau sydd wedi eu cynnwys ynddo.
+(2) Rhaid bod modd gwahaniaethu’n rhwydd rhwng y rhannau hynny o’r CDS sy’n cynnwys ei bolisïau fel sy’n ofynnol gan adran 60M(2)(b) o Ddeddf 2004 a’r rhannau hynny sy’n cynnwys y cyfiawnhad rhesymedig sy’n ofynnol gan baragraff (1)(c).
+(3) Yn y rheoliad hwn, ystyr “CDS sydd wrthi’n ymddangos” yw dogfen a gynigir fel naill ai CDS neu ddiwygiad i CDS—
+(a)
+a roddir ar gael i’w harolygu ac sy’n cael ei chyhoeddi yn unol â rheoliad 18, 21 neu 23, a
+(b)
+nad yw wedi cael ei mabwysiadu gan yr CBC o dan adran 67(3) o Ddeddf 2004 nac wedi ei chymeradwyo gan Weinidogion Cymru o dan adran 65(9)(a) neu 71(4)(b) o’r Ddeddf honno.Map cynigion
+14.—(1) Rhaid i’r CDS gynnwys map o’r enw “map cynigion” o ardal yr CBC—
+(a)
+sydd—
+(i)
+yn cael ei atgynhyrchu o fap a luniwyd gan yr Arolwg Ordnans, neu’n seiliedig ar fap o’r fath, neu
+(ii)
+yn fap ar sail debyg gyda graddfa gofrestredig, a
+(b)
+sy’n dangos—
+(i)
+polisïau sydd â goblygiadau gofodol ar gyfer datblygu tir yn yr ardal honno, a
+(ii)
+llinellau a rhifau cyfeirnod y Grid Cenedlaethol.
+(2) Caniateir i bolisïau ar gyfer unrhyw ran o ardal yr CBC gael eu darlunio ar fap ar wahân ar raddfa sy’n fwy nag ar gyfer map cynigion (“map mewnosod”).
+(3) Pan fo map mewnosod wedi ei gynnwys mewn CDS, rhaid i’r ardal y mae’r map mewnosod yn ei chwmpasu gael ei dynodi ar y map cynigion a rhaid i’r polisïau ar gyfer yr ardal honno gael eu darlunio ar y map mewnosod hwnnw yn unig.
+(4) Rhaid i deitl (ac unrhyw is-deitl) CDS gael ei nodi ar y map cynigion ac ar unrhyw fap mewnosod.
+(5) Rhaid i’r map cynigion ac unrhyw fap mewnosod ddangos ar ba raddfa y mae wedi ei lunio a chynnwys esboniad o unrhyw symbol neu nodiant a ddefnyddir ar y map.Materion ychwanegol y mae rhaid i’r CBC roi sylw iddynt
+15.—(1) Mae’r materion a ganlyn wedi eu rhagnodi at ddibenion adran 60M(6)(f) o Ddeddf 2004—
+(a)
+unrhyw bolisïau a ddatblygwyd o dan is-adran (1) neu (2A) o adran 108 o Ddeddf Trafnidiaeth 2000(1) (boed hynny o dan yr is-adrannau hynny fel y’u haddaswyd gan reoliadau a wnaed o dan Ran 5 o Ddeddf 2021 neu fel arall) sy’n effeithio ar unrhyw ran o ardal yr CBC;
+(b)
+amcanion atal damweiniau mawr a chyfyngu ar ganlyniadau damweiniau o’r fath ar gyfer iechyd pobl a’r amgylchedd;
+(c)
+yr angen, yn y tymor hir—
+(i)
+i gadw pellteroedd diogelwch priodol rhwng sefydliadau ac ardaloedd preswyl, adeiladau ac ardaloedd a ddefnyddir gan y cyhoedd, ardaloedd hamdden a, chyn belled ag y bo’n bosibl, llwybrau trafnidiaeth pwysig;
+(ii)
+i warchod ardaloedd o sensitifrwydd neu ddiddordeb naturiol arbennig yng nghyffiniau sefydliadau, pan fo hynny’n briodol, drwy bellteroedd diogelwch priodol neu fesurau perthnasol eraill;
+(iii)
+yn achos sefydliadau sy’n bodoli eisoes, i hwyluso ac i annog gweithredwyr i gymryd yr holl gamau angenrheidiol i atal damweiniau mawr ac i gyfyngu ar eu canlyniadau ar gyfer iechyd pobl a’r amgylchedd;
+(d)
+y cynllun rheoli gwastraff cenedlaethol o fewn yr ystyr a roddir i “national waste management plan” yn rheoliad 3(1) o Reoliadau Gwastraff (Cymru a Lloegr) 2011(2) ac a luniwyd gan Weinidogion Cymru;
+(e)
+unrhyw gynllun morol a fabwysiadwyd ac a gyhoeddwyd gan Weinidogion Cymru at ddibenion adran 51(1) o Ddeddf y Môr a Mynediad i’r Arfordir 2009(3) sy’n effeithio ar unrhyw ran o ardal yr CBC.
+(2) Mae i’r ymadroddion sydd ym mharagraff (1) ac yng Nghyfarwyddeb 2012/18/EU(4) yr un ystyr ag sydd i’r ymadroddion Saesneg cyfatebol yn y Gyfarwyddeb honno.
+(1)
+2000 p. 38. Diwygiwyd adran 108(1) gan adran 8(1) a (2) o Ddeddf Trafnidiaeth Leol 2008 (p. 26). Mewnosodwyd adran 108(2A) gan adran 3 o Ddeddf Trafnidiaeth (Cymru) 2006 (p. 5), a pharagraff 2 o’r Atodlen iddi.
+(2)
+O.S. 2011/988. Mae diwygiadau i reoliad 3(1) nad ydynt yn berthnasol i’r offeryn hwn.
+(3)
+2009 p. 23.
+(4)
+Cyfarwyddeb 2012/18/EU Senedd Ewrop a’r Cyngor dyddiedig 4 Gorffennaf 2012 ar reoli peryglon damweiniau mawr sy’n ymwneud â sylweddau peryglus (OJ Rhif L 197, 24.7.2012, t. 1).Cyfranogi cyn adneuo
+16.—(1) Cyn bod yr CBC yn cydymffurfio â rheoliad 18, rhaid iddo—
+(a)
+ymgysylltu â’r cyrff a ganlyn er mwyn llunio strategaethau ac opsiynau eraill—
+(i)
+pob un o’r cyrff ymgynghori penodol i’r graddau y mae’n ystyried bod pwnc yr CDS yn effeithio ar y cyrff hynny, a
+(ii)
+y cyrff ymgynghori cyffredinol hynny y mae’n ystyried eu bod yn briodol;
+(b)
+gofyn am enwebiadau ar gyfer lleoliadau a safleoedd strategol y cynigir eu cynnwys yn yr CDS, gan ddatgan erbyn pa ddyddiad y mae rhaid i’r enwebiadau ddod i law’r CBC;
+(c)
+cyhoeddi’r cais am enwebiadau ar ei wefan a thrwy unrhyw ddulliau eraill y mae’n ystyried eu bod yn briodol;
+(d)
+llunio rhestr o’r holl leoliadau a’r holl safleoedd a enwebwyd (“cofrestr y lleoliadau a’r safleoedd strategol ymgeisiol”).
+(2) Rhaid i’r CBC ystyried unrhyw leoliadau a safleoedd a enwebwyd yn y modd hwnnw cyn penderfynu ar gynnwys yr CDS sydd i’w adneuo o dan reoliad 21.Dogfennau cynigion cyn-adneuo
+17.  Rhaid i’r CBC lunio dogfennau o’r enw “dogfennau cynigion cyn-adneuo” sy’n cynnwys—
+(a)
+y strategaeth a ffefrir ganddo, yr opsiynau strategol a’r cynigion ar gyfer ei CDS,
+(b)
+disgrifiad o’u goblygiadau, gan gynnwys disgrifiad penodol o unrhyw ddulliau eraill a ystyriwyd a’u goblygiadau;
+(c)
+cofrestr y lleoliadau a’r safleoedd strategol ymgeisiol,
+(d)
+unrhyw adroddiad adolygu perthnasol, ac
+(e)
+unrhyw ddogfennau y mae’n ystyried eu bod yn berthnasol er mwyn ategu’r rhai y cyfeirir atynt ym mharagraffau (a) i (c).Ymgynghori â’r cyhoedd cyn adneuo
+18.—(1) Rhaid i’r CBC lunio datganiad o’r enw “datganiad o faterion cyn-adneuo” sy’n cynnwys—
+(a)
+teitl yr CDS;
+(b)
+y cyfnod y caniateir i sylwadau ar y cynigion gael eu cyflwyno ynddo yn unol â rheoliad 19(1);
+(c)
+y cyfeiriad y mae rhaid anfon sylwadau iddo a, phan fo’n briodol, y person y mae rhaid eu hanfon ato;
+(d)
+datganiad y caniateir anfon, gydag unrhyw sylwadau, gais bod y person sy’n cyflwyno’r sylwadau yn cael ei hysbysu mewn cyfeiriad penodedig os digwydd unrhyw un neu ragor o’r digwyddiadau a ganlyn—
+(i)
+bod yr CDS wedi ei gyflwyno i Weinidogion Cymru ar gyfer archwiliad annibynnol o dan adran 64(1) o Ddeddf 2004;
+(ii)
+bod yr CDS wedi ei fabwysiadu o dan adran 67(3) o Ddeddf 2004;
+(iii)
+bod yr CDS wedi ei gymeradwyo o dan adran 65(9)(a) neu 71(4)(b) o Ddeddf 2004.
+(2) Cyn i CBC adneuo ei CDS yn unol â rheoliad 21, rhaid iddo—
+(a)
+rhoi copïau o’r dogfennau cynigion cyn-adneuo a’r datganiad o faterion cyn-adneuo ar gael i’w harolygu yn ystod oriau swyddfa arferol—
+(i)
+yn ei brif swyddfa,
+(ii)
+ym mhrif swyddfa unrhyw ACLl yn ardal yr CBC, a
+(iii)
+mewn unrhyw fannau eraill o fewn ei ardal y mae’r CBC yn ystyried eu bod yn briodol;
+(b)
+cyhoeddi ar ei wefan—
+(i)
+y dogfennau cynigion cyn-adneuo,
+(ii)
+y datganiad o faterion cyn-adneuo, a
+(iii)
+datganiad bod y dogfennau cynigion cyn-adneuo a’r datganiad o faterion cyn-adneuo ar gael i’w harolygu ac o’r mannau lle gellir eu harolygu ac o’r amserau y gellir eu harolygu;
+(c)
+anfon at y cyrff hynny y cyfeirir atynt yn rheoliad 16(1)(a)—
+(i)
+y dogfennau cynigion cyn-adneuo,
+(ii)
+y dogfennau ategol hynny sy’n berthnasol i’r corff y mae’r dogfennau yn cael eu hanfon ato,
+(iii)
+y datganiad o faterion cyn-adneuo, a
+(iv)
+y datganiad y cyfeirir ato yn is-baragraff (b)(iii).Sylwadau ymgynghori â’r cyhoedd cyn adneuo
+19.—(1) Caiff unrhyw berson gyflwyno sylwadau i’r CBC ynghylch ei ddogfennau cynigion cyn-adneuo o fewn y cyfnod o chwe wythnos sy’n dechrau â’r diwrnod y mae’r CBC yn cydymffurfio â rheoliad 18(2).
+(2) Pan fo’r CBC yn cydymffurfio â’r gofynion yn rheoliad 18(2) ar ddiwrnodau gwahanol, cymerir bod y cyfnod y cyfeirir ato ym mharagraff (1) yn dechrau gyda’r diweddaraf o’r diwrnodau hynny.
+(3) Rhaid i unrhyw sylwadau—
+(a)
+cael eu gwneud yn ysgrifenedig, a
+(b)
+cael eu hanfon i’r cyfeiriad ac at y person (os o gwbl) a bennir yn unol â rheoliad 18(1)(c).
+(4) Rhaid i’r CBC ystyried unrhyw sylwadau a gyflwynir yn unol â’r rheoliad hwn cyn penderfynu ar gynnwys yr CDS sydd i’w adneuo o dan reoliad 21.Adroddiad ymgynghori cychwynnol, dogfennau cynigion yr CDS a datganiad o faterion adneuo
+20.  Rhaid i’r CBC, cyn cymryd unrhyw gam arall y darperir ar ei gyfer yn y darpariaethau sy’n weddill o’r Rhan hon, lunio—
+(a)
+adroddiad o’r enw “adroddiad ymgynghori cychwynnol” sy’n nodi—
+(i)
+y personau neu’r cyrff y mae’r CBC wedi ymgysylltu neu ymgynghori â hwy yn unol â rheoliadau 16 a 18,
+(ii)
+crynodeb o’r prif faterion a godwyd, yr ymatebion a roddwyd a’r sylwadau a gyflwynwyd o ganlyniad i’r ymgysylltu neu’r ymgynghori hwnnw,
+(iii)
+eglurhad o sut yr ymdriniwyd â’r materion, yr ymatebion a’r sylwadau hynny yn yr CDS ac i ba raddau yr ymdriniwyd â hwy,
+(iv)
+cyfanswm y sylwadau a gyflwynwyd yn unol â rheoliad 18,
+(v)
+disgrifiad o unrhyw wyro oddi wrth y cynllun cynnwys cymunedau,
+(b)
+dogfennau o’r enw “dogfennau cynigion yr CDS” sy’n cynnwys—
+(i)
+yr CDS,
+(ii)
+yr adroddiad arfarnu cynaliadwyedd,
+(iii)
+yr adroddiad ymgynghori cychwynnol,
+(iv)
+unrhyw adroddiad adolygu perthnasol,
+(v)
+unrhyw gofrestr y lleoliadau a’r safleoedd strategol ymgeisiol,
+(vi)
+unrhyw ddogfennau ategol y mae’r CBC yn ystyried eu bod yn berthnasol i’r gwaith o lunio’r CDS, ac
+(c)
+datganiad (“datganiad o faterion adneuo”) sy’n cynnwys—
+(i)
+teitl yr CDS,
+(ii)
+y cyfnod y mae rhaid cyflwyno sylwadau ynghylch yr CDS ynddo yn unol â rheoliad 22,
+(iii)
+y cyfeiriad y mae rhaid cyflwyno’r sylwadau hynny iddo a, phan fo’n briodol, y person y mae rhaid eu cyflwyno iddo o dan reoliad 22(3)(b), a
+(iv)
+datganiad y caniateir anfon, gydag unrhyw sylwadau o’r fath, gais bod y person sy’n cyflwyno’r sylwadau yn cael ei hysbysu mewn cyfeiriad penodedig os digwydd unrhyw un neu ragor o’r digwyddiadau a ganlyn—
+(aa)
+cyhoeddi argymhellion y person a benodwyd;
+(bb)
+mabwysiadu’r CDS o dan adran 67(3) o Ddeddf 2004;
+(cc)
+ei gymeradwyo o dan adran 65(9)(a) neu 71(4)(b) o’r Ddeddf honno.Adneuo cynigion
+21.  Cyn cyflwyno’r CDS i Weinidogion Cymru ar gyfer archwiliad annibynnol o dan adran 64(1) o Ddeddf 2004, rhaid i’r CBC—
+(a)
+adneuo copïau o ddogfennau cynigion yr CDS a’r datganiad o faterion adneuo i’w harolygu yn ystod oriau swyddfa arferol yn y mannau lle rhoddwyd y dogfennau cynigion cyn-adneuo a’r datganiad o faterion cyn-adneuo ar gael i’w harolygu o dan reoliad 18(2)(a);
+(b)
+cyhoeddi ar ei wefan—
+(i)
+dogfennau cynigion yr CDS,
+(ii)
+y datganiad o faterion adneuo, a
+(iii)
+datganiad bod dogfennau cynigion yr CDS a’r datganiad o faterion adneuo ar gael i’w harolygu ac o’r mannau lle gellir eu harolygu ac o’r amserau y gellir eu harolygu;
+(c)
+anfon copïau o’r canlynol at bob un o’r cyrff y cyfeirir atynt yn rheoliad 16(1)(a)—
+(i)
+yr CDS,
+(ii)
+yr adroddiad arfarnu cynaliadwyedd,
+(iii)
+yr adroddiad ymgynghori cychwynnol,
+(iv)
+rhestr o unrhyw ddogfennau ategol y mae’r CBC yn ystyried eu bod yn berthnasol i’r gwaith o lunio’r CDS,
+(v)
+y datganiad o faterion adneuo, a
+(vi)
+y datganiad y cyfeirir ato ym mharagraff (b)(iii).Sylwadau ar gynigion adneuo
+22.—(1) Caiff unrhyw berson gyflwyno sylwadau ynghylch yr CDS o fewn y cyfnod o chwe wythnos sy’n dechrau â’r diwrnod y mae’r CBC yn cydymffurfio â rheoliad 21.
+(2) Pan fo’r CBC yn cydymffurfio â’r gofynion yn rheoliad 21 ar ddiwrnodau gwahanol, cymerir bod y cyfnod y cyfeirir ato ym mharagraff (1) yn dechrau gyda’r diweddaraf o’r diwrnodau hynny.
+(3) Rhaid i unrhyw sylwadau—
+(a)
+cael eu gwneud yn ysgrifenedig, a
+(b)
+cael eu hanfon i’r cyfeiriad ac at y person (os o gwbl) a bennir yn y datganiad o faterion adneuo.
+(4) Rhaid i’r CBC—
+(a)
+ystyried unrhyw sylwadau y mae’n eu cael yn unol â’r rheoliad hwn;
+(b)
+cyn gynted ag y bo’n rhesymol ymarferol—
+(i)
+rhoi copi o’r sylwadau ar gael yn y mannau lle rhoddwyd, ac yn ystod yr amseroedd pan roddwyd, y dogfennau cynigion cyn-adneuo a’r datganiad o faterion cyn-adneuo ar gael i’w harolygu o dan reoliad 18(2)(a), a
+(ii)
+pan fo hynny’n ymarferol, cyhoeddi ar ei wefan fanylion y sylwadau ac ym mha fannau ac yn ystod pa amseroedd y gellir eu harolygu.
+(5) Nid oes angen i’r CBC gydymffurfio â pharagraff (4)(b) mewn perthynas ag unrhyw sylw sy’n dod i law ar ôl i’r cyfnod y cyfeirir ato ym mharagraff (1) ddod i ben.Cyflwyno CDS i Weinidogion Cymru
+23.—(1) Y dogfennau a ragnodir at ddibenion adran 64(3) o Ddeddf 2004 yw—
+(a)
+yr adroddiad arfarnu cynaliadwyedd,
+(b)
+y cynllun cynnwys cymunedau,
+(c)
+adroddiad ymgynghori sy’n nodi—
+(i)
+pa bersonau neu ba gyrff y mae’r CBC wedi ymgysylltu neu ymgynghori â hwy yn unol â rheoliadau 16, 18 ac 21,
+(ii)
+crynodeb o’r prif faterion a godwyd, yr ymatebion a roddwyd a’r sylwadau a gyflwynwyd o ganlyniad i’r ymgysylltu, yr ymgynghori neu’r hysbysu hwnnw,
+(iii)
+eglurhad o sut yr ymdriniwyd â’r prif faterion a godwyd, yr ymatebion a roddwyd a’r sylwadau a gyflwynwyd o ganlyniad i ymgysylltu neu ymgynghori o dan reoliad 16 neu 18 yn yr CDS, ac i ba raddau yr ymdriniwyd â hwy,
+(iv)
+argymhellion yr CBC ynghylch y modd y mae’n ystyried y dylid ymdrin, yn yr CDS, â’r prif faterion a godwyd yn y sylwadau a gyflwynwyd yn unol â rheoliad 22,
+(v)
+cyfanswm y sylwadau a gyflwynwyd yn unol â rheoliadau 19 a 22, a
+(vi)
+disgrifiad o unrhyw wyro oddi wrth y cynllun cynnwys cymunedau,
+(d)
+unrhyw adroddiad adolygu perthnasol,
+(e)
+unrhyw gofrestr y lleoliadau a’r safleoedd strategol ymgeisiol,
+(f)
+copi o’r sylwadau a ddaeth i law yn unol â rheoliad 22, ac
+(g)
+unrhyw ddogfennau ategol y mae’r CBC yn ystyried eu bod yn berthnasol i’r gwaith o lunio’r CDS.
+(2) Mae paragraff (3) yn gymwys at ddibenion paragraff (1)(a) i (c), (e) ac (g).
+(3) Pam fo’r paragraff hwn yn gymwys—
+(a)
+rhaid anfon dau gopi o bob un o’r dogfennau o dan sylw at Weinidogion Cymru ar bapur, a
+(b)
+rhaid anfon un copi o bob un ohonynt at Weinidogion Cymru ar ffurf electronig ar yr amod, yn achos y dogfennau y cyfeirir atynt ym mharagraff (1)(g), ei bod yn ymarferol gwneud hynny.
+(4) At ddibenion paragraff (1)(f), rhaid anfon copi o bob sylw at Weinidogion Cymru ar bapur.
+(5) Rhaid i’r CBC—
+(a)
+cyhoeddi datganiad ar ei wefan ei fod wedi cyflwyno’r CDS i’w archwilio o dan adran 64(1) o Ddeddf 2004;
+(b)
+rhoi’r dogfennau y cyfeirir atynt ym mharagraff (1)(c) ac (1)(g) ar gael i’w harolygu yn ystod oriau swyddfa arferol yn y mannau lle rhoddwyd y dogfennau cynigion cyn-adneuo a’r datganiad o faterion cyn-adneuo ar gael i’w harolygu o dan reoliad 18(2)(a);
+(c)
+cyhoeddi ar ei wefan yr adroddiad ymgynghori ac, os yw’n rhesymol ymarferol, y dogfennau y cyfeirir atynt ym mharagraff (1)(g);
+(d)
+rhoi hysbysiad i unrhyw berson a ofynnodd am gael ei hysbysu pan fyddai’r CDS wedi ei gyflwyno i Weinidogion Cymru ar gyfer archwiliad annibynnol, i’r perwyl ei fod wedi ei gyflwyno yn y modd hwnnw.Archwiliad annibynnol
+24.—(1) O leiaf chwe wythnos cyn dechrau cynnal y cyntaf o blith unrhyw wrandawiadau a gynhelir mewn perthynas â’r CDS o dan adran 64(6) o Ddeddf 2004, rhaid i’r CBC—
+(a)
+cyhoeddi’r materion y cyfeirir atynt ym mharagraff (2) ar ei wefan;
+(b)
+hysbysu unrhyw berson sydd wedi cyflwyno sylw (ac nad yw wedi ei dynnu’n ôl) yn unol â rheoliad 22 am y materion hynny.
+(2) Y materion y mae rhaid eu cyhoeddi yw—
+(a)
+yr amser a’r man y mae’r gwrandawiad i’w gynnal, a
+(b)
+enw’r person a benodwyd.
+(3) Rhaid i’r person a benodwyd ystyried unrhyw sylwadau a gyflwynwyd yn unol â rheoliad 22 cyn gwneud argymhellion yn unol ag adran 64(7) o Ddeddf 2004.Cyhoeddi argymhellion y person a benodwyd
+25.—(1) Rhaid i’r CBC gydymffurfio ag adran 64(8) o Ddeddf 2004—
+(a)
+pan fo Gweinidogion Cymru yn rhoi cyfarwyddyd o dan adran 65(1) o Ddeddf 2004 ar ôl i’r person a benodwyd gydymffurfio ag adran 64(7) o’r Ddeddf honno, cyn gynted ag y bo’n rhesymol ymarferol ar ôl cael y cyfarwyddyd;
+(b)
+fel arall, ar y diwrnod y mabwysiedir yr CDS o dan adran 67(3) o Ddeddf 2004 neu cyn hynny.
+(2) Wrth gyhoeddi argymhellion y person a benodwyd a’r rhesymau yn unol ag adran 64(8) o Ddeddf 2004, rhaid i’r CBC—
+(a)
+rhoi’r argymhellion a’r rhesymau dros yr argymhellion ar gael i’w harolygu yn ystod oriau swyddfa arferol yn y mannau lle rhoddwyd y dogfennau cynigion cyn-adneuo a’r datganiad o faterion cyn-adneuo ar gael i’w harolygu o dan reoliad 18(2)(a),
+(b)
+cyhoeddi’r argymhellion a’r rhesymau ar ei wefan, ac
+(c)
+rhoi hysbysiad i unrhyw berson a ofynnodd am gael ei hysbysu pan fyddai argymhellion y person a benodwyd wedi eu cyhoeddi, i’r perwyl eu bod wedi eu cyhoeddi yn y modd hwnnw.Cyfarwyddyd sy’n atal mabwysiadu
+26.  Pan fo Gweinidogion Cymru yn rhoi cyfarwyddyd o dan adran 67(4) o Ddeddf 2004 sy’n cyfarwyddo’r CBC i beidio â mabwysiadu’r CDS, rhaid i’r CBC—
+(a)
+rhoi’r cyfarwyddyd ar gael i’w arolygu yn ystod oriau swyddfa arferol yn y mannau lle mae rhaid rhoi’r dogfennau cynigion cyn-adneuo a’r datganiad o faterion cyn-adneuo ar gael i’w harolygu o dan reoliad 18(2)(a), a
+(b)
+cyhoeddi’r cyfarwyddyd ar ei wefan.Cyfarwyddyd i addasu CDS
+27.  Pan fo Gweinidogion Cymru yn rhoi cyfarwyddyd o dan adran 65(1)(a) o Ddeddf 2004 sy’n cyfarwyddo’r CBC i addasu’r CDS, rhaid i’r CBC—
+(a)
+rhoi’r cyfarwyddyd ar gael i’w arolygu yn ystod oriau swyddfa arferol yn y mannau lle mae rhaid rhoi’r dogfennau cynigion cyn-adneuo a’r datganiad o faterion cyn-adneuo ar gael i’w harolygu o dan reoliad 18(2)(a), a
+(b)
+cyhoeddi’r cyfarwyddyd ar ei wefan.Cyfarwyddydau adran 65(4) (galw i mewn): cymhwyso rheoliadau 29 i 32
+28.  Mae rheoliadau 29 i 32 yn gymwys pan fo Gweinidogion Cymru yn rhoi cyfarwyddyd o dan adran 65(4) o Ddeddf 2004.Cyfarwyddydau adran 65(4) (galw i mewn): cyfarwyddyd a roddir cyn i’r CBC gyflwyno ei CDS o dan adran 64(1) o Ddeddf 2004
+29.—(1) Pan fo Gweinidogion Cymru yn rhoi cyfarwyddyd o dan adran 65(4) o Ddeddf 2004 sy’n cyfarwyddo bod yr CDS yn cael ei gyflwyno i’w gymeradwyo ganddynt cyn i’r CBC gyflwyno’r CDS o dan adran 64(1) o Ddeddf 2004—
+(a)
+rhaid i’r CBC—
+(i)
+cydymffurfio ag adran 60M(7) o’r Ddeddf honno, os nad yw eisoes wedi gwneud hynny;
+(ii)
+rhoi’r cyfarwyddyd ar gael i’w arolygu yn ystod oriau swyddfa arferol yn y mannau lle mae’n ofynnol rhoi’r dogfennau cynigion cyn-adneuo a’r datganiad o faterion cyn-adneuo ar gael i’w harolygu o dan reoliad 18(2)(a);
+(iii)
+cyhoeddi’r cyfarwyddyd ar ei wefan, a
+(b)
+mae rheoliadau 16 i 22 yn parhau i gael effaith fel pe na bai’r cyfarwyddyd wedi ei roi.
+(2) Nid oes dim ym mharagraff (1)(b) yn ei gwneud yn ofynnol i’r CBC ailadrodd unrhyw gam a gymerwyd ganddo cyn iddo gael y cyfarwyddyd.Cyhoeddi argymhellion y person a benodwyd (galw i mewn)
+30.  Rhaid i’r CBC, cyn gynted ag y bo’n ymarferol ar ôl i Weinidogion Cymru gyhoeddi argymhellion a gyflwynwyd iddo yn unol ag adran 65(6) o Ddeddf 2004—
+(a)
+rhoi’r argymhellion a roddwyd gan y person a benodwyd, a’r rhesymau a roddwyd dros ei argymhellion, ar gael i’w harolygu yn ystod oriau swyddfa arferol yn y mannau lle rhoddwyd y dogfennau cynigion cyn-adneuo a’r datganiad o faterion cyn-adneuo ar gael i’w harolygu o dan reoliad 18(2)(a), a
+(b)
+cyhoeddi’r argymhellion a’r rhesymau hynny ar ei wefan.Gwyro oddi wrth argymhellion y person a benodwyd a sylwadau ynghylch hynny (galw i mewn)
+31.—(1) Pan fo Gweinidogion Cymru yn bwriadu gwyro oddi wrth unrhyw argymhelliad a roddwyd gan y person a benodwyd, rhaid iddynt gyhoeddi cynigion gwyro.
+(2) Rhaid i’r CBC, cyn gynted ag y bo’n rhesymol ymarferol ar ôl i Weinidogion Cymru gydymffurfio â pharagraff (1)—
+(a)
+rhoi copïau o’r cynigion gwyro a’r datganiad perthnasol ar gael i’w harolygu yn ystod oriau swyddfa arferol yn y mannau lle rhoddwyd y dogfennau cynigion cyn-adneuo a’r datganiad o faterion cyn-adneuo ar gael i’w harolygu o dan reoliad 18(2)(a);
+(b)
+cyhoeddi ar ei wefan—
+(i)
+y cynigion gwyro,
+(ii)
+y datganiad perthnasol, a
+(iii)
+datganiad bod y cynigion gwyro ar gael i’w harolygu ac o’r mannau lle gellir eu harolygu ac o’r amserau y gellir eu harolygu;
+(c)
+anfon at y cyrff y cyfeirir atynt ym mharagraff (4)—
+(i)
+copïau o’r cynigion gwyro, a
+(ii)
+hysbysiad am y datganiad perthnasol.
+(3) Yn y rheoliad hwn—
+(a)
+ystyr “cynigion gwyro” yw dogfennau sy’n pennu—
+(i)
+ym mha fodd y mae Gweinidogion Cymru yn bwriadu gwyro oddi wrth unrhyw argymhellion a roddwyd gan y person a benodwyd, a
+(ii)
+y rhesymau dros y cynigion hynny;
+(b)
+ystyr y “datganiad perthnasol” yw datganiad sy’n pennu—
+(i)
+y cyfnod y mae rhaid cyflwyno sylwadau ar y cynigion gwyro ynddo,
+(ii)
+cyfeiriad Gweinidogion Cymru y mae rhaid anfon sylwadau iddo, a phan fo’n briodol, y person y mae rhaid eu hanfon ato (boed ar ffurf cyfathrebiad electronig neu fel arall), a
+(iii)
+y caniateir anfon, gydag unrhyw sylwadau a gyflwynir yn y modd hwnnw, gais bod y person sy’n cyflwyno’r sylwadau yn cael ei hysbysu mewn cyfeiriad penodedig am benderfyniad Gweinidogion Cymru o dan adran 65(9)(a) o Ddeddf 2004.
+(4) Y cyrff y cyfeirir atynt ym mharagraff (2)(c)(i) yw—
+(a)
+pob un o’r cyrff ymgynghori penodol, i’r graddau y mae’r cynigion gwyro yn effeithio ar y cyrff hynny neu y gallent effeithio arnynt, a
+(b)
+y cyrff ymgynghori cyffredinol hynny y mae Gweinidogion Cymru yn ystyried eu bod yn briodol.
+(5) Caiff unrhyw berson gyflwyno sylwadau ar y cynigion gwyro drwy eu hanfon i’r cyfeiriad ac at y person (os o gwbl) a bennir yn unol â pharagraff (3)(b)(ii) o fewn y cyfnod o chwe wythnos sy’n dechrau â’r diwrnod y mae Gweinidogion Cymru yn cyhoeddi’r cynigion gwyro.
+(6) Rhaid i Weinidogion Cymru ystyried unrhyw sylwadau o’r fath cyn gwneud penderfyniad o dan adran 65(9)(a) o Ddeddf 2004.Penderfyniad Gweinidogion Cymru ar ôl cyfarwyddyd adran 65(4) (galw i mewn)
+32.—(1) Pan fo Gweinidogion Cymru yn gwrthod yr CDS, yn ei gymeradwyo neu’n ei gymeradwyo yn ddarostyngedig i addasiadau o dan adran 65(9)(a) o Ddeddf 2004 (yn ôl y digwydd), rhaid i’r CBC, cyn gynted ag y bo’n rhesymol ymarferol—
+(a)
+rhoi’r canlynol ar gael i’w harolygu yn ystod oriau swyddfa arferol yn y mannau lle rhoddwyd y dogfennau cynigion cyn-adneuo a’r datganiad o faterion cyn-adneuo ar gael i’w harolygu o dan reoliad 18(2)(a)—
+(i)
+yr CDS;
+(ii)
+y rhesymau a roddwyd gan Weinidogion Cymru o dan adran 65(9)(b) o’r Ddeddf honno;
+(iii)
+y datganiad penderfynu;
+(b)
+cyhoeddi’r datganiad penderfynu ar ei wefan;
+(c)
+anfon y datganiad penderfynu at unrhyw berson a wnaeth gais am gael ei hysbysu am y penderfyniad o dan adran 65(9)(a) o Ddeddf 2004.
+(2) Yn y rheoliad hwn, ystyr “datganiad penderfynu” yw datganiad sy’n cynnwys—
+(a)
+penderfyniad Gweinidogion Cymru o dan adran 65(9)(a) o Ddeddf 2004, a
+(b)
+pan fo Gweinidogion Cymru yn cymeradwyo’r CDS, neu’n ei gymeradwyo yn ddarostyngedig i addasiadau, datganiad—
+(i)
+o’r dyddiad y cymeradwywyd yr CDS yn y modd hwnnw;
+(ii)
+y caiff person a dramgwyddir gan yr CDS a gymeradwywyd wneud cais i’r Uchel Lys o dan adran 113(3) o Ddeddf 2004;
+(iii)
+o’r seiliau y caniateir eu defnyddio i wneud y cais hwnnw, ac o fewn pa amser y caniateir iddo gael ei wneud.Tynnu yn ôl
+33.  Pan dynnir CDS yn ôl o dan adran 66(1) neu 66A(2) o Ddeddf 2004(1) rhaid i’r CBC, cyn gynted ag y bo’n rhesymol ymarferol—
+(a)
+cyhoeddi datganiad o’r ffaith honno ar ei wefan;
+(b)
+hysbysu unrhyw gorff y gwnaeth ymgysylltu ag ef o dan reoliad 16(1)(a) am y ffaith honno;
+(c)
+symud ymaith unrhyw gopïau, dogfennau, materion a datganiadau a roddwyd ar gael i’w harolygu neu a gyhoeddwyd o dan reoliad 18(2)(a), 18(2)(b), 21(a), 21(b) neu 22(4)(b) o’r mannau lle roeddent ar gael i’w harolygu neu y’u cyhoeddwyd;
+(d)
+hysbysu unrhyw berson a gyflwynodd sylw (ac nad yw wedi ei dynnu’n ôl) yn unol â rheoliad 22(1), am y tynnu yn ôl.
+(1)
+Amnewidiwyd adrannau 66 a 66A gan adran 13 o Ddeddf 2015.Tynnu yn ôl pan na cheir cyfarwyddyd
+34.—(1) Y camau sy’n ofynnol gan baragraff (1)(a), (b) ac (c) o reoliad 18 yw’r camau a bennir at ddibenion adran 66A(6)(b) o Ddeddf 2004.
+(2) Pan fo’r CBC yn rhoi hysbysiad o dan adran 66A(5)(a) o Ddeddf 2004, rhaid iddo wneud hynny o fewn y cyfnod o saith niwrnod sy’n dechrau â’r diwrnod y mae’n cymeradwyo, drwy benderfyniad, tynnu’r CDS yn ôl.
+(3) Rhaid i hysbysiad o’r fath gynnwys—
+(a)
+y rhesymau dros y tynnu yn ôl,
+(b)
+copi o’r adroddiad i’r CBC sy’n argymell y tynnu yn ôl arfaethedig, ac
+(c)
+copi o benderfyniad yr CBC i dynnu yn ôl.
+(4) Rhaid i’r CBC—
+(a)
+cyhoeddi’r hysbysiad ar ei wefan, a
+(b)
+rhoi copïau ar gael i’w harolygu yn y mannau lle rhoddwyd y dogfennau cynigion cyn-adneuo a’r datganiad o faterion cyn-adneuo ar gael i’w harolygu o dan reoliad 18(2)(a).
+(5) Pan fônt yn rhoi cyfarwyddyd o dan adran 66A(7) o Ddeddf 2004, rhaid i Weinidogion Cymru—
+(a)
+pennu yn y cyfarwyddyd—
+(i)
+pa wybodaeth bellach sy’n ofynnol o dan adran 66A(7)(a) o’r Ddeddf honno (os o gwbl),
+(ii)
+yr estyniad i’r cyfnod hysbysu y cyfeirir ato yn adran 66A(5)(b) o’r Ddeddf honno (os o gwbl), a
+(b)
+cyhoeddi’r cyfarwyddyd ar eu gwefan a thrwy unrhyw ddulliau eraill y maent yn ystyried eu bod yn briodol.
+(6) At ddibenion adran 66A(9) o Ddeddf 2004, y cyfnod hysbysu yw chwe wythnos.Mabwysiadu
+35.—(1) Yn ddarostyngedig i ddarpariaethau Rhan 6 o Ddeddf 2004, rhaid i’r CBC gynnal pleidlais ar y penderfyniad y cyfeirir ato yn adran 67(3) o’r Ddeddf honno o fewn y cyfnod o wyth wythnos sy’n dechrau â’r diwrnod y mae argymhellion y person a benodwyd a wnaed o dan adran 64(7)(a) o’r Ddeddf honno yn dod i law’r CBC.
+(2) Cyn gynted ag y bo’n rhesymol ymarferol ar ôl i’r CBC fabwysiadu CDS, rhaid iddo—
+(a)
+rhoi’r canlynol ar gael i’w harolygu yn ystod oriau swyddfa arferol yn y mannau lle rhoddwyd y dogfennau cynigion cyn-adneuo a’r datganiad o faterion cyn-adneuo ar gael i’w harolygu o dan reoliad 18(2)(a)—
+(i)
+yr CDS,
+(ii)
+datganiad mabwysiadu, a
+(iii)
+yr adroddiad arfarnu cynaliadwyedd,
+(b)
+cyhoeddi’r canlynol ar ei wefan—
+(i)
+yr CDS,
+(ii)
+y datganiad mabwysiadu, a
+(iii)
+yr adroddiad arfarnu cynaliadwyedd,
+(c)
+anfon y datganiad mabwysiadu at unrhyw berson sydd wedi gofyn am gael ei hysbysu ynghylch mabwysiadu’r CDS, a
+(d)
+anfon copi o’r CDS a’r datganiad mabwysiadu at Weinidogion Cymru.
+(3) At ddibenion y rheoliad hwn, ystyr “datganiad mabwysiadu” yw datganiad sy’n cynnwys—
+(a)
+y dyddiad y mabwysiadwyd yr CDS;
+(b)
+y caiff person a dramgwyddir gan yr CDS wneud cais i’r Uchel Lys o dan adran 113(3) o Ddeddf 2004;
+(c)
+y seiliau y caniateir eu defnyddio i wneud y cais hwnnw, ac o fewn pa amser y caniateir iddo gael ei wneud.Cymeradwyo
+36.—(1) Pan fo Gweinidogion Cymru yn cymeradwyo’r CDS o dan adran 65(9)(a) neu 71(4)(b) o Ddeddf 2004 rhaid i’r CBC, cyn gynted ag y bo’n rhesymol ymarferol—
+(a)
+rhoi’r canlynol ar gael i’w harolygu yn ystod oriau swyddfa arferol yn y mannau lle rhoddwyd y dogfennau cynigion cyn-adneuo a’r datganiad o faterion cyn-adneuo ar gael i’w harolygu o dan reoliad 18(2)(a)—
+(i)
+yr CDS,
+(ii)
+datganiad cymeradwyaeth, a
+(iii)
+yr adroddiad arfarnu cynaliadwyedd;
+(b)
+cyhoeddi’r canlynol ar ei wefan—
+(i)
+yr CDS,
+(ii)
+y datganiad cymeradwyaeth, a
+(iii)
+yr adroddiad arfarnu cynaliadwyedd;
+(c)
+anfon y datganiad cymeradwyaeth at unrhyw berson sydd wedi gofyn am gael ei hysbysu ynghylch cymeradwyo’r CDS.
+(2) At ddibenion y rheoliad hwn, ystyr “datganiad cymeradwyaeth” yw datganiad sy’n cynnwys—
+(a)
+y dyddiad y cymeradwywyd yr CDS;
+(b)
+y caiff person a dramgwyddir gan yr CDS wneud cais i’r Uchel Lys o dan adran 113(3) o Ddeddf 2004;
+(c)
+y seiliau y caniateir eu defnyddio i wneud y cais hwnnw, ac o fewn pa amser y caniateir iddo gael ei wneud.Effaith mabwysiadu a chymeradwyo
+37.  Pan fo CDS yn cael ei fabwysiadu gan yr CBC o dan adran 67(3) o Ddeddf 2004 neu’n cael ei gymeradwyo gan Weinidogion Cymru o dan adran 65(9)(a) neu 71(4)(b) o’r Ddeddf honno, mae unrhyw CDS presennol yn cael ei ddisodli ac yn peidio â chael effaith.Dirymu
+38.  Pan fo Gweinidogion Cymru yn dirymu CDS rhaid i’r CBC, o fewn y cyfnod o ddwy wythnos sy’n dechrau â’r diwrnod y’i dirymir—
+(a)
+cyhoeddi datganiad o’r ffaith honno ar ei wefan,
+(b)
+symud yr CDS ymaith o’r mannau lle—
+(i)
+y’i rhoddwyd ar gael i’w arolygu o dan reoliad 32(1)(a) neu 36(1)(a);
+(ii)
+y’i cyhoeddwyd o dan reoliad 35(2)(b) neu 36(1)(b), ac
+(c)
+cymryd unrhyw gamau eraill y mae’n ystyried eu bod yn angenrheidiol er mwyn tynnu sylw personau sy’n byw neu’n gweithio yn ei ardal at y ffaith bod yr CDS wedi ei ddirymu.Adolygu
+39.—(1) At ddibenion cynnal adolygiad o CDS yn unol ag adran 69(1)(b) o Ddeddf 2004(1), rhaid i’r CBC gychwyn adolygiad yn ddim hwyrach na’r cyfnod o bob chwe mlynedd sy’n dechrau â’r diweddaraf o’r canlynol—
+(a)
+y dyddiad y mabwysiadwyd yr CDS gyntaf o dan adran 67(3) o Ddeddf 2004 neu y cymeradwywyd yr CDS gyntaf o dan adran 65(9)(a) neu 71(4)(b) o’r Ddeddf honno, neu
+(b)
+y dyddiad y mabwysiadwyd neu y cymeradwywyd CDS ddiwethaf o dan yr adrannau hynny (yn ôl y digwydd) yn dilyn adolygiad o dan adran 69(1) o Ddeddf 2004.
+(2) Rhaid i CBC—
+(a)
+cymeradwyo’r adroddiad adolygu drwy benderfyniad cyn ei gyflwyno i Weinidogion Cymru yn unol ag adran 69(2) o Ddeddf 2004, a
+(b)
+cyflwyno’r adroddiad o fewn y cyfnod o chwe mis sy’n dechrau â’r diwrnod y mae’n ofynnol i’r CBC gychwyn ei adolygiad o’r CDS o dan baragraff (1).
+(3) Cyn gynted ag y bo’n rhesymol ymarferol ar ôl i adroddiad adolygu gael ei gymeradwyo, rhaid i’r CBC—
+(a)
+cyhoeddi’r adroddiad ar ei wefan, a
+(b)
+rhoi copïau ar gael i’w harolygu yn ei brif swyddfa.
+(1)
+Diwygiwyd adran 69(1) gan adran 8(2) o Ddeddf 2015.Adroddiad monitro blynyddol
+40.—(1) Rhaid i CBC gyhoeddi ei adroddiad monitro blynyddol ar ei wefan a’i gyflwyno i Weinidogion Cymru—
+(a)
+ar 31 Hydref neu cyn hynny ym mhob blwyddyn, neu
+(b)
+pan fo cyfnod o lai na 12 mis wedi mynd heibio ers i’r CDS gael ei fabwysiadu gan yr CBC o dan adran 67(3) o Ddeddf 2004 neu ei gymeradwyo gan Weinidogion Cymru o dan adran 65(9)(a) neu 71(4)(b) o’r Ddeddf honno, ar 31 Hydref yn y flwyddyn ar ôl iddo gael ei fabwysiadu neu ei gymeradwyo.
+(2) Pan na fo polisi a bennwyd mewn CDS yn cael ei weithredu, rhaid i’r adroddiad monitro blynyddol—
+(a)
+nodi’r polisi hwnnw;
+(b)
+cynnwys datganiad—
+(i)
+o’r rhesymau pam nad yw’r polisi yn cael ei weithredu,
+(ii)
+o’r camau y mae’r CBC yn bwriadu eu cymryd i sicrhau y caiff y polisi ei weithredu (os o gwbl), a
+(iii)
+ynghylch a yw’r CBC yn bwriadu llunio diwygiad o’r CDS at ddiben diwygio neu ddisodli’r polisi.Cyfnod para’r gofyniad i sicrhau bod dogfennau ar gael i’w harolygu
+41.—(1) Nid yw’r rheoliad hwn yn gymwys i CDS a roddwyd ar gael i’w arolygu o dan reoliad 35(2)(a)(i) neu 36(1)(a).
+(2) Caniateir i gopïau, dogfennau, sylwadau, cyfarwyddydau, materion, hysbysiadau neu ddatganiadau gael eu symud ymaith o’r mannau lle y’u rhoddir ar gael i’w harolygu neu y’u cyhoeddir ar wefan yr CBC o ddiwedd y cyfnod o chwe wythnos sy’n dechrau â’r diwrnod ar ôl i’r CDS gael ei fabwysiadu gan yr CBC o dan adran 67(3) o Ddeddf 2004 neu ei gymeradwyo gan Weinidogion Cymru o dan adran 65(9)(a) neu 71(4)(b) o’r Ddeddf honno.Julie James
+Y Gweinidog Tai a Llywodraeth Leol, un o Weinidogion Cymru
+18 Mawrth 2021NODYN ESBONIADOL
+(Nid yw’r nodyn hwn yn rhan o’r Rheoliadau)
+Mae adran 60M(1) o Ddeddf Cynllunio a Phrynu Gorfodol 2004 yn ei gwneud yn ofynnol i gyd-bwyllgor corfforedig, y mae Rhan 6 o’r Ddeddf honno yn gymwys iddo yn rhinwedd rheoliadau a wnaed o dan Ran 5 o Ddeddf Llywodraeth Leol ac Etholiadau (Cymru) 2021, lunio cynllun datblygu strategol (“CDS”) ar gyfer ei ardal.
+Mae’r Rheoliadau hyn yn gwneud darpariaeth ar gyfer llunio a diwygio CDS ac ar gyfer materion cysylltiedig.
+Mae Rhan 1 yn ymdrin â materion cyffredinol, gan gynnwys cymhwyso’r Rheoliadau hyn, dehongli ymadroddion amrywiol a defnyddio cyfathrebiadau electronig.
+Mae Rhan 2 yn ymdrin â llunio a diwygio CDS, ac yn gwneud darpariaeth mewn cysylltiad â materion gan gynnwys—
+darparu dogfennaeth a dynodi’r cyrff ymgynghori (Pennod 1),
+y cytundeb cyflawni (Pennod 2),
+ffurf a chynnwys CDS a materion cysylltiedig (Pennod 3),
+y weithdrefn cyn adneuo, sy’n ymwneud â llunio cynigion mewn cysylltiad ag CDS ac ymgynghori ac ymgysylltu mewn cysylltiad â’r cynigion hynny (Pennod 4),
+y weithdrefn adneuo, y mae rhaid i’r cyd-bwyllgor corfforedig adneuo ei gynigion ar gyfer CDS yn unol â hi at ddiben ymgynghori pellach (Pennod 5),
+yr archwiliad annibynnol o’r CDS gan berson a benodwyd gan Weinidogion Cymru (Pennod 6),
+pwerau Gweinidogion Cymru i ymyrryd (Pennod 7),
+tynnu CDS yn ôl (Pennod 8), a
+mabwysiadu CDS gan y cyd-bwyllgor corfforedig a’i gymeradwyo gan Weinidogion Cymru (Pennod 9).
+Mae Rhan 3 yn ymdrin â’r camau y mae rhaid eu cymryd ar ôl i CDS gael ei ddirymu.
+Mae Rhan 4 yn gwneud darpariaeth ar gyfer adolygu CDS bob chwe mlynedd.
+Mae Rhan 5 yn ymdrin â chynnwys adroddiad monitro blynyddol a’i gyhoeddi.
+Mae Rhan 6 yn darparu ar gyfer gofynion o ran argaeledd dogfennau.
+Ystyriwyd Cod Ymarfer Gweinidogion Cymru ar gynnal Asesiadau Effaith Rheoleiddiol mewn perthynas â’r Rheoliadau hyn. O ganlyniad, ni luniwyd asesiad effaith rheoleiddiol o’r costau a’r manteision sy’n debygol o ddeillio o gydymffurfio â’r Rheoliadau hyn.

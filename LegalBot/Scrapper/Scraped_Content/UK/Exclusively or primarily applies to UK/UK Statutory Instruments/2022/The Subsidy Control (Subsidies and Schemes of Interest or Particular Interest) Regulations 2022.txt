@@ -1,0 +1,145 @@
+STATUTORY INSTRUMENTS
+2022 No. 1246
+SUBSIDY CONTROL
+The Subsidy Control (Subsidies and Schemes of Interest or Particular Interest) Regulations 2022
+Made
+28th November 2022
+Coming into force
+4th January 2023
+The Secretary of State, in exercise of the powers conferred by sections 11(1), (2) and (3), and 87(2) of the Subsidy Control Act 2022(1), makes the following Regulations.
+In accordance with section 87(3) of the Subsidy Control Act 2022, a draft of these Regulations has been laid before, and approved by a resolution of, each House of Parliament.
+(1)
+2022 c. 23.Citation, commencement and extent
+1.—(1) These Regulations may be cited as the Subsidy Control (Subsidies and Schemes of Interest or Particular Interest) Regulations 2022.
+(2) These Regulations come into force on 4th January 2023.
+(3) These Regulations extend to England and Wales, Scotland and Northern Ireland.Interpretation
+2.—(1) In these Regulations—
+“the Act” means the Subsidy Control Act 2022;
+“applicable period” is to be interpreted in accordance with regulation 5(5) and (6);
+“input activity” means an economic activity that entails the provision of goods or services for the purpose of a specified economic activity;
+“related subsidy” is to be interpreted in accordance with regulation 5(2), (3) and (4);
+“SIC code” means a code included in the UK Standard Industrial Classification of Economic Activities 2007 (SIC 2007) published by the Office for National Statistics in December 2009 with ISBN number 978-0-230-21012-7(1);
+“specified economic activity” means an economic activity that—
+(a)
+is of a description which falls within a SIC code listed in the table in the Schedule to these Regulations, and
+(b)
+entails offering goods or services on a market.
+(2) For the purposes of regulation 3(3)(c), the question of whether a subsidy concerns a sensitive sector is to be determined in accordance with regulation 6.
+(3) For the purposes of regulations 3(2) to (4) and 4(2), the amount of any subsidy is to be determined in accordance with regulation 7.
+(1)
+For information on how to obtain a hard copy, contact the Office for National Statistics, Classifications and Harmonisation Unit, Government Buildings, Cardiff Road, Newport, South Wales NP10 8XG (tel: +44 (0)1329 444970; email: Classifications.helpdesk@ons.gsi.gov.uk. For an electronic copy, see: https://www.ons.gov.uk/methodology/classificationsandstandards/ukstandardindustrialclassificationofeconomicactivities/uksic2007.Subsidy, or subsidy scheme, of particular interest
+3.—(1) A subsidy(1) is a subsidy of particular interest if paragraph (2), (3), (4) or (5) applies to the subsidy.
+(2) This paragraph applies to a subsidy if—
+(a)
+the amount of the subsidy exceeds £1 million,
+(b)
+the total amount of the subsidy and any other related subsidy given to the same enterprise(2) within the applicable period exceeds £10 million, and
+(c)
+none of the provisions mentioned in regulation 4(4) applies to the giving of the subsidy.
+(3) This paragraph applies to a subsidy if—
+(a)
+the amount of the subsidy exceeds £1 million,
+(b)
+the total amount of the subsidy and any other related subsidy given to the same enterprise within the applicable period exceeds £5 million (but does not exceed the amount specified in paragraph (2)(b)),
+(c)
+the subsidy concerns a sensitive sector, and
+(d)
+none of the provisions mentioned in regulation 4(4) applies to the giving of the subsidy.
+(4) This paragraph applies to a subsidy if—
+(a)
+the amount of the subsidy exceeds £1 million,
+(b)
+the giving of the subsidy would be subject to section 18 (Relocation of activities) of the Act, and
+(c)
+none of the provisions mentioned in regulation 4(4) applies to the giving of the subsidy.
+(5) This paragraph applies to a subsidy if the giving of the subsidy would be subject to either of the following provisions of the Act—
+(a)
+section 20 (Restructuring);
+(b)
+section 21 (Restructuring deposit takers or insurance companies).
+(6) A subsidy scheme is a subsidy scheme of particular interest if it allows for one or more subsidies of particular interest to be given under it.
+(1)
+“subsidy” has the meaning given by section 2(1) of the Subsidy Control Act 2022.
+(2)
+“enterprise” has the meaning given by section 7 of the Subsidy Control Act 2022.Subsidy, or subsidy scheme, of interest
+4.—(1) A subsidy is a subsidy of interest if—
+(a)
+it is not a subsidy of particular interest within the meaning of regulation 3(1) to (5), and
+(b)
+paragraph (2), (3), (4) or (5) of this regulation applies to the subsidy.
+(2) This paragraph applies to a subsidy if the total amount of the subsidy and any other related subsidy given to the same enterprise within the applicable period exceeds £5 million.
+(3) This paragraph applies to a subsidy if the giving of the subsidy would be subject to section 18 (Relocation of activities) of the Act.
+(4) This paragraph applies to a subsidy if the giving of the subsidy would be subject to any of the following provisions of the Act—
+(a)
+section 19 (Rescuing);
+(b)
+section 22 (Liquidating deposit takers or insurance companies);
+(c)
+section 23 (Liquidity provision for deposit takers or insurance companies).
+(5) This paragraph applies to a subsidy if it is given under a subsidy scheme made in the form of a tax measure.
+(6) A subsidy scheme is a subsidy scheme of interest if—
+(a)
+it is not a subsidy scheme of particular interest within the meaning of regulation 3(6), and
+(b)
+it allows for one or more subsidies of interest to be given under it.Related subsidies
+5.—(1) This regulation applies for the purposes of regulations 3(2)(b) and (3)(b) and 4(2).
+(2) A “related subsidy”, in relation to a subsidy given other than under a subsidy scheme made in the form of a tax measure, is a subsidy which—
+(a)
+is given by any public authority(1) in respect of the same (or substantially the same) project, costs or activities, and
+(b)
+pursues the same (or substantially the same) specific policy objective as referred to in Schedule 1 to the Act.
+(3) A “related subsidy”, in relation to a subsidy given under a subsidy scheme made in the form of a tax measure, is a subsidy which is given as part of the same tax measure.
+(4) But a subsidy is not a “related subsidy” if it falls within any of the exemptions in section 64(1) or (2) of the Act.
+(5) The “applicable period” is the period comprising—
+(a)
+the elapsed part of the current financial year, and
+(b)
+the two financial years immediately preceding the current financial year.
+(6) In paragraph (5)—
+(a)
+“financial year” means a period of 12 months ending with 31 March,
+(b)
+the “current financial year” is the financial year in which the subsidy is given, and
+(c)
+the “elapsed part” of that year is so much of it as has passed at the time it is given.
+(1)
+“public authority” has the meaning given by section 6(1) of the Subsidy Control Act 2022.Sensitive sectors
+6.—(1) This regulation applies for the purposes of regulation 3(3)(c).
+(2) A subsidy concerns a sensitive sector if—
+(a)
+it is given to an enterprise which is engaged in a specified economic activity or an input activity, and
+(b)
+it confers, directly or indirectly, an economic advantage on an enterprise which is engaged in a specified economic activity in relation to that activity.
+(3) But a subsidy does not concern a sensitive sector if—
+(a)
+the subsidy is given under a subsidy scheme, and
+(b)
+the criteria or conditions which determine whether an enterprise is eligible to receive a subsidy under that scheme are based on objective factors which do not favour enterprises engaged in specified economic activities or input activities over others.
+(4) The objective factors referred to in paragraph (3)(b) may (among other things) include—
+(a)
+size of enterprise;
+(b)
+number of employees;
+(c)
+geographical location.Amount of subsidy
+7.—(1) If a subsidy is provided in cash, the gross cash amount(1) given is to be used in determining the amount of the subsidy.
+(2) If a subsidy is provided otherwise than in cash, the amount of the subsidy given is to be determined by reference to the gross cash equivalent of the subsidy.
+(1)
+Section 82(1) of the Subsidy Control Act 2022 provides that the Secretary of State may by regulations make provision about how the gross cash amount, and the gross cash equivalent amount, is to be determined for the purposes of these Regulations.Kevin Hollinrake
+Parliamentary Under Secretary of State
+Department for Business, Energy and Industrial Strategy
+28th November 2022Regulation 2(1)
+SCHEDULE
+Table
+SIC Code Description
+24.10 Manufacture of basic iron and steel and of ferro-alloys
+24.42 Aluminium production
+24.44 Copper production
+29.10 Manufacture of motor vehicles
+30.11 Building of ships and floating structures
+30.91 Manufacture of motorcycles
+30.30 Manufacture of air and spacecraft and related machinery
+35.11 Production of electricityEXPLANATORY NOTE
+(This note is not part of these Regulations)
+These Regulations make provision as to the meaning of “subsidy, or subsidy scheme, of interest” and “subsidy, or subsidy scheme, of particular interest” for the purposes of the Subsidy Control Act 2022 (“the Act”). Section 52 of the Act provides that a public authority must request a report from the Competition and Markets Authority (“the CMA”) before giving a subsidy, or making a subsidy scheme, of particular interest. Section 56 of the Act provides that a public authority may request a report from the CMA before giving a subsidy, or making a subsidy scheme, of interest.
+A full impact assessment has not been produced for this instrument as the effect of this instrument on the costs of business, the voluntary sector and the public sector is covered by the impact assessment produced in relation to the provisions of the Act, a copy of which is available at https://www.gov.uk/government/publications/subsidy-control-bill-2021-bill-documents. An Explanatory Memorandum is published alongside this instrument on https://www.legislation.gov.uk.

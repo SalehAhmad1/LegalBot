@@ -1,0 +1,947 @@
+This Statutory Instrument has been made in consequence of a defect in S.I. 2022/1066 (W. 224) and is being issued free of charge to all known recipients of that Statutory Instrument
+WELSH STATUTORY INSTRUMENTS
+2022 No. 1188 (W. 244)
+SOCIAL CARE, WALES
+The Child Minding and Day Care (Disqualification) (No. 2) (Wales) Regulations 2022
+Made
+14 November 2022
+Laid before Senedd Cymru
+15 November 2022
+Coming into force in accordance with regulation 1(2)
+The Welsh Ministers, in exercise of the powers conferred by sections 30(1), (3) and (4), 37(2)(a), 38(2), (3), (4) and (5) and 74(2) of the Children and Families (Wales) Measure 2010(1), make the following Regulations:
+(1)
+2010 nawm 1. See section 71 for the definitions of “prescribed” and “regulations”.Title and commencement
+1.—(1) The title of these Regulations is the Child Minding and Day Care (Disqualification) (No. 2) (Wales) Regulations 2022.
+(2) These Regulations come into force on 6 December 2022 immediately after the Child Minding and Day Care (Disqualification) (Wales) Regulations 2022(1).
+Commencement Information
+I1
+Reg. 1 in force at 6.12.2022 in accordance with reg. 1(2)
+(1)
+S.I. 2022/1066 (W. 224).Interpretation
+2.—(1) In these Regulations—
+“the 1989 Act” (“Deddf 1989”) means the Children Act 1989(1);
+“the 2000 Act” (“Deddf 2000”) means the Criminal Justice and Court Services Act 2000(2);
+“direction” (“cyfarwyddyd”) means a direction made, or which has effect as if made, under section 142 of the Education Act 2002(3) on the grounds set out in subsection (4)(a), (b) or (d) of that section(4);
+“disqualified” (“wedi ei anghymhwyso”) means disqualified from registration as a child minder or provider of day care under Part 2 of the Measure;
+“domestic premises” (“mangre ddomestig”) has the meaning given by section 19(6) of the Measure;
+“the Measure” (“y Mesur”) means the Children and Families (Wales) Measure 2010;
+“relevant order” (“gorchymyn perthnasol”) means—
+(a)
+an order made by the Crown Court, the Court of Appeal, the Court Martial or the Court Martial Appeal Court that the individual in question be admitted to hospital, or
+(b)
+a guardianship order(5).
+(2) In these Regulations, a person (“P”) has been “found to have committed” an offence if P has been—
+(a)
+convicted of an offence;
+(b)
+found not guilty of an offence by reason of insanity;
+(c)
+found to be under a disability and to have done the act charged against them in respect of such an offence;
+(d)
+on or after 6 April 2007, given a caution in respect of an offence by a police officer;
+(e)
+on or after 8 April 2013, given a youth caution by a police officer, in respect of an offence which P has admitted(6).
+(3) In these Regulations, P has been found to have committed an offence that is “related to” an offence if P has been found to have committed an offence of—
+(a)
+attempting, conspiring or incitement to commit that offence, or
+(b)
+aiding, abetting, counselling or procuring the commission of that offence.
+Commencement Information
+I1
+Reg. 2 in force at 6.12.2022 in accordance with reg. 1(2)
+(1)
+1989 c. 41.
+(2)
+2000 c. 43.
+(3)
+2002 c. 32.
+(4)
+Section 142 was repealed by section 63(2) of, and Schedule 10 to, the Safeguarding Vulnerable Groups Act 2006 (c. 47), subject to savings and transitional provisions specified in articles 4(2) and (3), and 7 of S.I. 2009/2611.
+(5)
+As defined in section 30(1) of the Criminal Justice and Court Services Act 2000 Act (c. 43) (“the 2000 Act”). Section 30 was repealed by section 63(2) of, and Schedule 10 to, the Safeguarding Vulnerable Groups Act 2006, subject to savings specified in article 5 of S.I. 2012/2231.
+(6)
+Section 66ZA of the Crime and Disorder Act 1998 (c. 37) in relation to youth cautions was inserted by section 135 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10) and came into force on 8 April 2013.Care of children and offences against children or adults
+3.—(1) Subject to paragraphs (9), (10) and (11) and regulation 9, a person (“P”) is disqualified if any of paragraphs (2) to (8) apply.
+(2) Any of the orders or other determinations specified in Schedule 1 has been made—
+(a)
+with respect to P,
+(b)
+which prevents P from being registered in relation to any facility in which children are looked after or from being involved in the management of or otherwise concerned with the provision of any such facility, or
+(c)
+with respect to a child who has been in P’s care.
+(3) An order has been made with respect to P under section 104 of the Sexual Offences Act 2003(1) despite the offence having been repealed in England and Wales.
+(4) P has been found to have committed an offence against a child within the meaning of section 26(1) of the 2000 Act(2) despite the offence having been repealed.
+(5) P—
+(a)
+has been found to have committed any offence specified in paragraph 1 of Schedule 2 or an offence that is related to such an offence, or
+(b)
+falls within paragraph 2 of that Schedule,
+despite the fact that the statutory offences in that Schedule have been repealed.
+(6) P has been found to have committed any offence other than an offence referred to in paragraph (4) or (5) involving bodily injury to, or death of, a child.
+(7) P has been found to have committed any offence specified in Schedule 3 or an offence that is related to such an offence.
+(8) P has been—
+(a)
+found to have committed any offence, committed against a person aged 18 or over, mentioned in paragraph 2 of Schedule 4 to the 2000 Act(3) or an offence that is related to such an offence, or
+(b)
+charged with any offence, committed against a person aged 18 or over, mentioned in paragraph 2 of Schedule 4 to the 2000 Act or an offence that is related to such an offence in respect of which a relevant order has been imposed by a senior court,
+despite the fact that the statutory offences in that Schedule have been repealed.
+(9) P is not disqualified under paragraphs (1) to (8) in respect of any order, determination or offence if—
+(a)
+P has successfully appealed against the order, determination or conviction,
+(b)
+a caution in respect of that offence has been withdrawn or set aside,
+(c)
+a direction based wholly or in part on the offence has been revoked, or
+(d)
+an order has been made under section 12 of the Powers of Criminal Courts (Sentencing) Act 2000(4) or section 79 or 80 of the Sentencing Code(5) discharging P absolutely or conditionally in respect of that offence.
+(10) P is not disqualified by virtue of paragraph (2)—
+(a)
+if an order is made under the 1989 Act under which P was placed in the care or under the supervision of a designated local authority or similar body, unless an order has also been made as a result of P’s care of their own child, or
+(b)
+where P is a foster carer or adoptive parent of a child, and that child is or was made the subject of a care or supervision order under the 1989 Act, unless the order is made as a result of P’s care of that child.
+(11) P is not disqualified from registration by virtue of paragraph (2) in respect of any refusal or cancellation of registration under the provisions set out in paragraph 23(c) of Schedule 1 if—
+(a)
+the refusal or cancellation is in respect of registration with a child-minder agency, or
+(b)
+the sole reason for the refusal or cancellation of registration was the failure to pay any fee prescribed under Part 3 of the Children and Young Persons Act (Northern Ireland) 1968(6).
+Commencement Information
+I1
+Reg. 3 in force at 6.12.2022 in accordance with reg. 1(2)
+(1)
+2003 c. 42. Section 104 was repealed in relation to England and Wales by section 113(1) of, and paragraphs 1 and 3 of Schedule 5 to, the Anti-social Behaviour, Crime and Policing Act 2014 (c. 12) (“the 2014 Act”). Section 104 remains in force in Northern Ireland and Scotland but is subject to repeal in Scotland by section 39(1)(a) of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22) (“the 2016 Act”). For transitional provisions and savings see section 114(1), (2), and (4) to (6) of the 2014 Act and section 40 of the 2016 Act.
+(2)
+Section 26 was repealed by section 63(2) of, and Schedule 10 to, the Safeguarding Vulnerable Groups Act 2006, subject to savings specified in article 5 of S.I. 2012/2231.
+(3)
+Schedule 4 was repealed by section 63(2) of, and Schedule 10 to, the Safeguarding Vulnerable Groups Act 2006.
+(4)
+2000 c. 6. Section 12 was repealed by paragraph 1 of Schedule 28 to the Sentencing Act 2020 (c. 17), subject to savings and transitional provisions specified in sections 412 and 416(7) and paragraphs 1, 2, 4 and 5 of Schedule 27.
+(5)
+Section 1(1) of the Sentencing Act 2020 provides that Parts 2 to 13 of that Act together make up a code called the “Sentencing Code”.
+(6)
+1968 c. 34 (N.I). Section 127 was repealed by article 185(2) of, and Schedule 10 to, S.I. 1995/755 (N.I. 2).Overseas offences
+4.—(1) Subject to regulation 9, a person (“P”) is disqualified if P has been found to have done an act which—
+(a)
+constituted an offence under the law in force in a country outside the United Kingdom, and
+(b)
+would constitute an offence requiring disqualification from registration under these Regulations if it had been done in any part of the United Kingdom.
+(2) In paragraph (1), P has been “found to have done an act which constituted an offence” if, under the law in force in a country outside the United Kingdom—
+(a)
+P has been convicted of an offence (whether or not P has been punished for it),
+(b)
+P has been cautioned in respect of an offence,
+(c)
+a court exercising jurisdiction under that law has made in respect of an offence a finding equivalent to a finding that P is not guilty by reason of insanity, or
+(d)
+such a court has made in respect of an offence a finding equivalent to a finding that P is under a disability and did the act charged against P.
+(3) P is not disqualified under paragraph (1) in respect of any finding if, under the law in force in the country concerned, such finding has been reversed.
+(4) An act punishable under the law in force in a country outside the United Kingdom constitutes an offence under that law for the purposes of this regulation however it is described in that law.
+Commencement Information
+I1
+Reg. 4 in force at 6.12.2022 in accordance with reg. 1(2)Protection of Children Act list
+5.  A person who is included in the list kept under section 1 of the Protection of Children Act 1999(1) (list of those considered by the Secretary of State unsuitable to work with children) is disqualified.
+Commencement Information
+I1
+Reg. 5 in force at 6.12.2022 in accordance with reg. 1(2)
+(1)
+1999 c. 14. Section 1 of this Act was repealed by section 63(2) of and Schedule 10 to the Safeguarding Vulnerable Groups Act 2006, subject to savings and transitional provisions specified in article 5 of S.I. 2009/2611.Direction in relation to the employment of teachers etc.
+6.—(1) Subject to regulation 9, a person (“P”) is disqualified if any of the following provisions of this regulation apply to P.
+(2) P is subject to a direction.
+(3) P’s name is on any list kept for the purposes of regulations made under article 70(2)(e) or 88A(1) and (2)(b) of the Education and Libraries (Northern Ireland) Order 1986(1).
+Commencement Information
+I1
+Reg. 6 in force at 6.12.2022 in accordance with reg. 1(2)
+(1)
+S.I. 1986/594 (N.I. 3). Articles 70(2)(e) and 88A(2)(b) were amended by S.I. 2007/1351 (N.I. 11).Persons barred from regulated activity relating to children
+7.  A person who is barred from regulated activity relating to children within the meaning of section 3(2) of the Safeguarding Vulnerable Groups Act 2006 is disqualified.
+Commencement Information
+I1
+Reg. 7 in force at 6.12.2022 in accordance with reg. 1(2)Persons living or working on premises where a disqualified person lives
+8.  Subject to regulation 9, a person (“P”) is disqualified if P—
+(a)
+(i)
+lives in the same household as another person who is disqualified from registration, or
+(ii)
+lives in a household in which any such person is employed, and
+(b)
+acts or intends to act as a childminder on domestic premises used by the household of which P is a member.
+Commencement Information
+I1
+Reg. 8 in force at 6.12.2022 in accordance with reg. 1(2)Waivers
+9.—(1) Subject to paragraph (2), where a person (“P”) would be disqualified by virtue of regulation 3, 4, 6(1) and (3), or 8 but has disclosed to the Welsh Ministers the facts which would otherwise cause P to be disqualified, and the Welsh Ministers have given written consent and have not withdrawn that consent, then the person is not, by reason of the facts so disclosed, to be regarded as disqualified for the purpose of these Regulations.
+(2) In relation to a person who would be disqualified by virtue of regulation 3(4), this regulation does not apply where a court has made an order under section 28(4), 29(4) or 29A(2) of the 2000 Act(1).
+(3) A person is not disqualified if, prior to 1 April 2002, the person—
+(a)
+disclosed the facts which would disqualify the person under these Regulations to an appropriate local authority under paragraph 2 of Schedule 9 to the 1989 Act(2), and
+(b)
+obtained the written consent of that local authority.
+Commencement Information
+I1
+Reg. 9 in force at 6.12.2022 in accordance with reg. 1(2)
+(1)
+Sections 28(4), 29(4) and 29A(2) were repealed by section 63(2) of, and Schedule 10 to, the Safeguarding Vulnerable Groups Act 2006, subject to savings specified in article 5 of S.I. 2012/2231.
+(2)
+Schedule 9 was repealed in relation to England and Wales by section 79(5) of the Care Standards Act 2000 (c. 14) and in relation to Scotland by section 80 of, and Schedule 4 to, the Regulation of Care (Scotland) Act 2001 (asp 8).Appeals
+10.  Any determination made by the Welsh Ministers as to whether to give consent to waive disqualification under regulation 9(1) is a prescribed determination for the purposes of section 37(2)(a) of the Measure (appeals).
+Commencement Information
+I1
+Reg. 10 in force at 6.12.2022 in accordance with reg. 1(2)Duty of disclosure
+11.—(1) A person who is registered under Part 2 of the Measure (“registered person”) must provide the following information to the Welsh Ministers—
+(a)
+details of any order, determination, conviction or other ground for disqualification from registration made or applying in relation to a person listed in paragraph (2) which results in that person being disqualified from registration under these Regulations;
+(b)
+the date when the order, determination or conviction was made or when any other ground for disqualification from registration arose;
+(c)
+the body or court by which the order, determination or conviction was made and the sentence, if any, imposed;
+(d)
+in relation to an order or conviction, a copy of the relevant order or court order certified by the issuing body or court.
+(2) The persons in respect of whom the information referred to in paragraph (1) must be provided are—
+(a)
+the registered person, and
+(b)
+any person who lives in the same household as the registered person or who is employed in that household.
+(3) The information referred to in paragraph (1) must be provided to the Welsh Ministers as soon as reasonably practicable, but in any event within 14 days of the time when the registered person became aware of that information or ought reasonably to have become aware of it if the registered person had made reasonable enquiries.
+(4) The requirement in paragraph (2)(b) only applies in respect of household members or those employed in the household of a registered childminder.
+(5) Any allegation that a registered person has failed to meet the requirements of this regulation may be taken into account by the Welsh Ministers in the exercise of their functions under Part 2 of the Measure (including cancellation of registration in accordance with section 31(1) of the Measure).
+(6) A person who without reasonable excuse fails to comply with the requirements of this regulation is guilty of an offence.
+(7) A person found guilty of an offence under this regulation is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+Commencement Information
+I1
+Reg. 11 in force at 6.12.2022 in accordance with reg. 1(2)Revocation and consequential amendment
+12.—(1) The Child Minding and Day Care (Disqualification) (Wales) Regulations 2022 are revoked(1).
+(2) In the Child Minding and Day Care (Wales) Regulations 2010(2), in regulation 2(1), in the definition of “disqualified”, in paragraph (a) after
+(3) “(Disqualification)” insert “(No. 2)”.
+Commencement Information
+I1
+Reg. 12 in force at 6.12.2022 in accordance with reg. 1(2)
+(1)
+S.I. 2022/1066 (W. 224). Those Regulations revoked the Child Minding and Day Care (Disqualification) (Wales) Regulations 2010 (S.I. 2010/1703 (W. 163)).
+(2)
+S.I. 2010/2574 (W. 214).Julie Morgan
+Deputy Minister for Health and Social Services under authority of the Minister for Health and Social Services, one of the Welsh Ministers
+14 Tachwedd 2022Regulations 3(2) and 3(11)
+SCHEDULE 1
+ORDERS ETC. RELATING TO THE CARE OF CHILDREN
+Care, supervision and permanence orders
+1.  An order under section 31(1)(a) of the 1989 Act (care order).
+Commencement Information
+I1
+Sch. 1 para. 1 in force at 6.12.2022 in accordance with reg. 1(2)
+2.  An order under section 31(1)(b) of the 1989 Act (supervision order).
+Commencement Information
+I2
+Sch. 1 para. 2 in force at 6.12.2022 in accordance with reg. 1(2)
+3.  An order under article 50(1)(a) of the Children (Northern Ireland) Order 1995(1) (care order).
+Commencement Information
+I3
+Sch. 1 para. 3 in force at 6.12.2022 in accordance with reg. 1(2)
+4.  An order under article 50(1)(b) of the Children (Northern Ireland) Order 1995 (supervision order).
+Commencement Information
+I4
+Sch. 1 para. 4 in force at 6.12.2022 in accordance with reg. 1(2)
+5.  An order under section 3(3) of the Children and Young Persons (Guernsey) Law 1967(2) (fit person order or special care order).
+Commencement Information
+I5
+Sch. 1 para. 5 in force at 6.12.2022 in accordance with reg. 1(2)
+6.  An order made further to an application as permitted under section 48(3) of the Children (Guernsey and Alderney) Law 2008(3) (community parenting order).
+Commencement Information
+I6
+Sch. 1 para. 6 in force at 6.12.2022 in accordance with reg. 1(2)
+7.  An order under section 31(1)(a) of the Children and Young Persons Act 2001(4) (an Act of Tynwald) (care order).
+Commencement Information
+I7
+Sch. 1 para. 7 in force at 6.12.2022 in accordance with reg. 1(2)
+8.  An order under section 31(1)(b) of the Children and Young Persons Act 2001 (an Act of Tynwald) (supervision order).
+Commencement Information
+I8
+Sch. 1 para. 8 in force at 6.12.2022 in accordance with reg. 1(2)
+9.  An order or determination specified in Schedule 4 to the Children (Jersey) Law 2002(5).
+Commencement Information
+I9
+Sch. 1 para. 9 in force at 6.12.2022 in accordance with reg. 1(2)
+10.  Any order that would have been deemed to be a care order by virtue of paragraph 15 of Schedule 14 to the 1989 Act (transitional provisions for children in compulsory care) had it been in force immediately before the day on which Part 4 of the 1989 Act came into force.
+Commencement Information
+I10
+Sch. 1 para. 10 in force at 6.12.2022 in accordance with reg. 1(2)
+11.  A parental responsibility order made under article 7 of the Children (Northern Ireland) Order 1995.
+Commencement Information
+I11
+Sch. 1 para. 11 in force at 6.12.2022 in accordance with reg. 1(2)
+12.  A child protection order under section 57 of the Children (Scotland) Act 1995(6) or under section 37 of the Children’s Hearings (Scotland) Act 2011(7).
+Commencement Information
+I12
+Sch. 1 para. 12 in force at 6.12.2022 in accordance with reg. 1(2)
+13.  A permanence order made, or treated as being made, under section 80 of the Adoption and Children (Scotland) Act 2007(8).
+Commencement Information
+I13
+Sch. 1 para. 13 in force at 6.12.2022 in accordance with reg. 1(2)
+Orders imposing a residence or exclusion requirement
+14.  A supervision order which imposes a residence requirement under paragraph 5 of Schedule 6 to the Powers of Criminal Courts (Sentencing) Act 2000(9), section 12AA of the Children and Young Persons Act 1969(10) (requirement to live in local authority accommodation), paragraph 17 of Schedule 1 to the Criminal Justice and Immigration Act 2008(11) or paragraph 25 of Schedule 6 to the Sentencing Code.
+Commencement Information
+I14
+Sch. 1 para. 14 in force at 6.12.2022 in accordance with reg. 1(2)
+15.  A fit person order under section 91, 92, 95 or 97 of the Children and Young Persons Act (Northern Ireland) 1968(12), a parental rights order under section 104 or a training school order under section 78, sections 83 to 90, section 95 or section 97 of that Act.
+Commencement Information
+I15
+Sch. 1 para. 15 in force at 6.12.2022 in accordance with reg. 1(2)
+16.  An exclusion order under section 76 of the Children (Scotland) Act 1995.
+Commencement Information
+I16
+Sch. 1 para. 16 in force at 6.12.2022 in accordance with reg. 1(2)
+17.  A supervision order which imposes a residence requirement under paragraph 5 of Schedule 9 to the Children and Young Persons Act 2001 (an Act of Tynwald) (requirement to live in accommodation provided by the Department of Health and Social Security)(13).
+Commencement Information
+I17
+Sch. 1 para. 17 in force at 6.12.2022 in accordance with reg. 1(2)
+18.  An order made at any time imposing a supervision requirement with respect to a child so as to remove that child from P’s care, under—
+(a)
+section 44 of the Social Work (Scotland) Act 1968(14), or
+(b)
+section 70 of the Children (Scotland) Act 1995(15).
+Commencement Information
+I18
+Sch. 1 para. 18 in force at 6.12.2022 in accordance with reg. 1(2)
+19.  An order made at any time vesting P’s rights and powers with respect to a child in a local authority in Scotland—
+(a)
+under section 16 of the Social Work (Scotland) Act 1968(16), or
+(b)
+pursuant to a parental responsibilities order under section 86 of the Children (Scotland) Act 1995(17).
+Commencement Information
+I19
+Sch. 1 para. 19 in force at 6.12.2022 in accordance with reg. 1(2)
+20.  A compulsory supervision order, within the meaning of section 83 of the Children’s Hearings (Scotland) Act 2011, or an interim compulsory supervision order, within the meaning of section 86 of that Act, made at any time with respect to a child so as to remove that child from P’s care.
+Commencement Information
+I20
+Sch. 1 para. 20 in force at 6.12.2022 in accordance with reg. 1(2)
+Determinations in relation to P’s suitability to provide care
+21.  In relation to registration of a children’s home—
+(a)
+a refusal of P’s application for registration under section 13 of the Care Standards Act 2000,
+(b)
+cancellation of P’s registration under section 14, 20(1) or 20(A) of the Care Standards Act 2000,
+(c)
+cancellation of the registration of any person under section 14, 20(1) or 20(A) of the Care Standards Act 2000 in relation to a children’s home which P has been concerned in the management of, or has any financial interest in, or
+(d)
+refusal of P’s application for registration or cancellation of P’s registration under the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003(18).
+Commencement Information
+I21
+Sch. 1 para. 21 in force at 6.12.2022 in accordance with reg. 1(2)
+22.  In relation to the registration of a care home service which is provided wholly or mainly to persons under the age of 18, or a secure accommodation service (each has the meaning given in Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016(19) (“the 2016 Act”))—
+(a)
+a refusal of P’s application for registration under section 7 of the 2016 Act,
+(b)
+a refusal under section 12 of the 2016 Act of P’s application to vary P’s registration (made in accordance with section 11(1)(a)(i) or (ii) of that Act),
+(c)
+a cancellation of P’s registration under section 15(1)(b) to (f) or 23(1) of the 2016 Act,
+(d)
+a cancellation of the registration of any person under section 15(1)(b) to (f) or 23(1) of the 2016 Act in relation to a care home service provided wholly or mainly to persons under the age of 18, or a secure accommodation service, in which P has been concerned in the management, or in which P had any financial interest, or
+(e)
+a refusal of P’s application for registration or cancellation of P’s registration under the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003.
+Commencement Information
+I22
+Sch. 1 para. 22 in force at 6.12.2022 in accordance with reg. 1(2)
+23.  Refusal at any time of P’s application for registration in relation to a voluntary home or a children’s home, or cancellation of the registration of a voluntary home or children’s home which was carried on by P or which P was otherwise concerned with the management of, or had any financial interest in, under, as the case may be—
+(a)
+paragraph 1 of Schedule 5 to the 1989 Act(20),
+(b)
+paragraph 1 or 4 of Schedule 6 to the 1989 Act(21),
+(c)
+section 127 of the Children and Young Persons Act (Northern Ireland) 1968(22),
+(d)
+article 80, 82, 96 or 98 of the Children (Northern Ireland) Order 1995(23),
+(e)
+Part 1 of the Regulation of Care (Scotland) Act 2001(24) (care home services),
+(f)
+paragraph 2 or 4 of Schedule 6 to the Children and Young Persons Act 2001 (an Act of Tynwald)(25), or
+(g)
+Part 5 of the Public Services Reform (Scotland) Act 2010(26).
+Commencement Information
+I23
+Sch. 1 para. 23 in force at 6.12.2022 in accordance with reg. 1(2)
+24.  A prohibition imposed at any time under—
+(a)
+section 69 of the 1989 Act, section 10 of the Foster Children Act 1980(27) or section 4 of the Children Act 1958 (power to prohibit private fostering)(28),
+(b)
+article 110 of the Children (Northern Ireland) Order 1995 (power to prohibit private fostering),
+(c)
+section 10 of the Foster Children (Scotland) Act 1984 (power to prohibit the keeping of foster children)(29), or
+(d)
+section 59 of the Children and Young Persons Act 2001 (an Act of Tynwald) (power to prohibit or impose restrictions under private fostering).
+Commencement Information
+I24
+Sch. 1 para. 24 in force at 6.12.2022 in accordance with reg. 1(2)
+25.  A notice in writing given by a Health and Social Services Board under section 1(3) of the Children and Young Persons Act (Northern Ireland) 1968(30) (withholding consent to the care and maintenance of the child being undertaken by a person).
+Commencement Information
+I25
+Sch. 1 para. 25 in force at 6.12.2022 in accordance with reg. 1(2)
+26.  Refusal at any time of registration in respect of the provision of nurseries, day care, child minding or other provision of childcare, disqualification from such registration or cancellation of any such registration under—
+(a)
+section 1 or 5 of the Nurseries and Child-Minders Regulation Act 1948(31),
+(b)
+Part 10 or 10A of the 1989 Act(32),
+(c)
+Chapter 2, 3 or 4 of Part 3 of the Childcare Act 2006(33),
+(d)
+Part 11 of the Children (Northern Ireland) Order 1995,
+(e)
+section 11(5) or 15 of the Children and Young Persons Act (Northern Ireland) 1968(34),
+(f)
+Part 1 of the Regulation of Care (Scotland) Act 2001(35),
+(g)
+section 1 of the Nurseries and Child Minders Regulation Act 1974(36) (an Act of Tynwald),
+(h)
+section 65 or 66(37) of, or Schedule 7(38) to, the Children and Young Persons Act 2001 (an Act of Tynwald),
+(i)
+Part III of the Child Protection (Guernsey) Law 1972, or
+(j)
+Part 2 of the Measure.
+Commencement Information
+I26
+Sch. 1 para. 26 in force at 6.12.2022 in accordance with reg. 1(2)
+27.  Disqualification from working with children at any time under the Protection of Children (Scotland) Act 2003(39).
+Commencement Information
+I27
+Sch. 1 para. 27 in force at 6.12.2022 in accordance with reg. 1(2)
+28.  Refusal at any time of P’s application for registration or cancellation of P’s registration under section 62 of the Social Work (Scotland) Act 1968(40) (registration of residential and other establishments).
+Commencement Information
+I28
+Sch. 1 para. 28 in force at 6.12.2022 in accordance with reg. 1(2)
+29.  Refusal at any time of P’s application for registration as a provider of a child care agency under section 7 of the Regulation of Care (Scotland) Act 2001 or cancellation of any such registration under section 12 or 18 of that Act(41).
+Commencement Information
+I29
+Sch. 1 para. 29 in force at 6.12.2022 in accordance with reg. 1(2)
+30.  Refusal at any time of P’s application for registration as a provider of a child care agency under section 59 of the Public Services Reform (Scotland) Act 2010 or cancellation of any such registration under section 64 or 65 of that Act.
+Commencement Information
+I30
+Sch. 1 para. 30 in force at 6.12.2022 in accordance with reg. 1(2)
+31.  Refusal at any time of P’s application for registration or cancellation of P’s registration under section 60 of the Public Services Reform (Scotland) Act 2010.
+Commencement Information
+I31
+Sch. 1 para. 31 in force at 6.12.2022 in accordance with reg. 1(2)
+32.  Inclusion of P’s name at any time on a list of persons unsuitable to work with children under article 3 of the Protection of Children and Vulnerable Adults (Northern Ireland) Order 2003 or disqualification from working with children under Chapter 2 of Part 2 of that Order(42).
+Commencement Information
+I32
+Sch. 1 para. 32 in force at 6.12.2022 in accordance with reg. 1(2)
+(1)
+S.I. 1995/755 (N.I. 2).
+(2)
+Orders in Council Vol. XXI, p. 34. Section 3(3) was repealed by section 3 of, and paragraph 15(1) of Schedule 1 to, the Children (Consequential Amendments etc.) (Guernsey and Alderney) Ordinance, 2009 (No. VII of 2010), subject to savings and transitional provisions in section 4 of, and Schedule 2 to, that Ordinance.
+(3)
+No. XIV of 2009.
+(4)
+2001 c. 20 (an Act of Tynwald). An Act of Tynwald means an Act passed by the Isle of Man Parliament.
+(5)
+Jersey Law 50/2002.
+(6)
+1995 c. 36. Section 57 was repealed by section 203(2) of, and Schedule 6 to, the Children’s Hearings (Scotland) Act 2011 (asp 1).
+(7)
+2011 asp 1.
+(8)
+2007 asp 4.
+(9)
+2000 c. 6. Repealed by section 149 of and Schedule 28 to the Criminal Justice and Immigration Act 2008 (c. 4), subject to savings and transitional provisions specified in paragraph 1(1) of Schedule 27 to that Act.
+(10)
+1969 c. 54. Repealed by section 165 of and Part 1 of Schedule 12 to the Powers of Criminal Courts (Sentencing) Act 2000 (c. 6).
+(11)
+2008 c. 4. Repealed by section 413 of and Schedule 28 to the Sentencing Act 2020 (c. 17), subject to savings and transitional provisions specified in sections 412 and 416 of, and paragraphs 1, 2, 4 and 5 of Schedule 27 to, that Act.
+(12)
+The provisions relating to these orders were repealed by S.I. 1995/755 (N.I. 2) and S.I. 1998/1504 (N.I. 9).
+(13)
+The Department of Health and Social Security on the Isle of Man is, since 2021, known as the Department of Health and Social Care.
+(14)
+1968 c. 49. Section 44 was repealed by section 105(5) of, and Schedule 5 to, the Children (Scotland) Act 1995.
+(15)
+Section 70 was repealed by section 203(2) of, and Schedule 6 to, the Children’s Hearings (Scotland) Act 2011.
+(16)
+Section 16 was repealed by section 105(5) of, and Schedule 5 to, the Children (Scotland) Act 1995.
+(17)
+Section 86 was repealed by section 120(2) of, and Schedule 3 to, the Adoption and Children (Scotland) Act 2007 (asp 4).
+(18)
+S.I. 2003/431 (N.I. 9).
+(19)
+2016 anaw 2.
+(20)
+Repealed in relation to England and Wales by section 117(2) of, and Schedule 6 to, the Care Standards Act 2000.
+(21)
+Repealed in relation to England and Wales by section 117(2) of, and Schedule 6 to, the Care Standards Act 2000.
+(22)
+Section 127 was repealed by article 185(2) of, and Schedule 10 to, S.I. 1995/755 (N.I. 2).
+(23)
+Articles 80, 82, 96 and 98 were repealed by article 50(2) of, and paragraph 1 of Schedule 5 to, S.I. 2003/431 (N.I. 9).
+(24)
+2001 asp 8. Part 1 was repealed by section 106 of, and Schedule 14 to, the Public Services Reform (Scotland) Act 2010 (asp 8), with savings specified in article 2 of S.S.I. 2011/169.
+(25)
+Schedule 6 was repealed by section 199 of the Regulation of Care Act 2013 (an Act of Tynwald) (c. 10).
+(26)
+2010 asp 8.
+(27)
+1980 c. 6. Section 10 was repealed by section 108 of, and Schedule 15 to, the 1989 Act.
+(28)
+1958 c. 65. The Children Act 1958 was repealed with savings by section 23 of, and Schedule 3 to, the Foster Children Act 1980 and section 22 of, and Schedule 3 to, the Foster Children (Scotland) Act 1984 (c. 56). The Foster Children (Scotland) Act 1984 has effect subject to transitional provisions set out in that Act.
+(29)
+1984 c. 56.
+(30)
+Section 1 was repealed by article 185(2) of, and Schedule 10 to, S.I. 1995/755 (N.I. 2).
+(31)
+1948 c. 53. This Act was repealed with savings by section 108 of, and paragraphs 33 and 34 of Schedule 14 and paragraph 1 of Schedule 15 to, the 1989 Act.
+(32)
+Part 10 was repealed in relation to England and Wales by section 79 of the Care Standards Act 2000 and in relation to Scotland by section 80 of, and Schedule 4 to, the Regulation of Care (Scotland) Act 2001 (asp 8). Part 10A was repealed in relation to Wales by section 73 of, and Schedule 2 to, the Measure.
+(33)
+2006 c. 21.
+(34)
+Sections 11(5) and 15 were repealed by article 185(2) of, and Schedule 10 to, S.I. 1995/755 (N.I. 2).
+(35)
+Part 1 was repealed by section 106 of, and Schedule 14 to, the Public Services Reform (Scotland) Act 2010, with savings specified in article 2 of S.S.I. 2011/169.
+(36)
+1974 c. 12 (an Act of Tynwald). This Act was repealed by section 105 of, and Schedule 13 to, the Children and Young Persons Act 2001 (an Act of Tynwald).
+(37)
+2001 c. 20. Sections 65 and 66 were repealed by section 196 of the Regulation of Care Act 2013 (an Act of Tynwald) (c. 10).
+(38)
+Schedule 7 was repealed by section 199 of the Regulation of Care Act 2013 (an Act of Tynwald).
+(39)
+2003 asp 5. This Act was repealed by section 88 of, and Schedule 4 to, the Protection of Vulnerable Groups (Scotland) Act 2007 (asp 14) subject to transitional provisions set out in articles 3 to 12 of S.S.I. 2010/180.
+(40)
+1968 c. 49. Section 62 was repealed by section 80(1) of, and Schedule 4 to, the Regulation of Care (Scotland) Act 2001, subject to savings specified in articles 11 and 13 of S.S.I. 2002/162.
+(41)
+Sections 7, 12 and 18 were repealed in Scotland by section 106 to, and Schedule 14 to, the Public Services Reform (Scotland) Act 2010, subject to savings specified in article 21 of S.S.I. 2011/121.
+(42)
+S.I. 2003/417 (N.I. 4). Article 3 and Chapter 2 of Part 2 of that Order were revoked by article 60(2) of, and Schedule 8 to, S.I. 2007/1351 (N.I. 11).Regulation 3(5)
+SCHEDULE 2
+REPEALED STATUTORY OFFENCES
+1.—(1) An offence under any of the following sections of the Sexual Offences Act 1956(1)—
+(a)
+section 1 (rape);
+(b)
+section 2 or 3 (procurement of woman by threats or false pretences);
+(c)
+section 4 (administering drugs to obtain or facilitate intercourse);
+(d)
+section 5 (intercourse with a girl under 13);
+(e)
+section 6 (intercourse with a girl between 13 and 16);
+(f)
+section 14 or 15 (indecent assault);
+(g)
+section 16 (assault with intent to commit buggery);
+(h)
+section 17 (abduction of woman by force or for the sake of her property);
+(i)
+section 19 or 20 (abduction of girl under 18 or 16);
+(j)
+section 24 (detention of woman in brothel or other premises);
+(k)
+section 25 or 26 (permitting girl under 13, or between 13 and 16, to use premises for intercourse);
+(l)
+section 28 (causing or encouraging prostitution of, intercourse with or indecent assault on, girl under 16).
+(2) An offence under section 1 of the Indecency with Children Act 1960 (indecent conduct towards young child)(2).
+(3) An offence under section 54 of the Criminal Law Act 1977 (inciting girl under 16 to incest)(3).
+(4) An offence under section 3 of the Sexual Offences (Amendment) Act 2000 (abuse of trust)(4).
+(5) An offence under section 16 of the Foster Children Act 1980(5) or section 14 of the Children Act 1958(6) (offences relating to private fostering).
+(6) An offence under section 63(10) of, paragraph 1(5) of Schedule 5 to, or paragraph 2(3) of Schedule 6 to, the 1989 Act (offences relating voluntary homes and children’s homes)(7).
+(7) An offence under or by virtue of any of the following sections of the Regulation of Care (Scotland) Act 2001(8)—
+(a)
+section 21 (offences in relation to registration),
+(b)
+section 22 (false statements in applications), or
+(c)
+section 29(10) (offences under regulations).
+(8) An offence under section 71 of the Coroners and Justice Act 2009(9) (slavery, servitude and forced or compulsory labour).
+Commencement Information
+I1
+Sch. 2 para. 1 in force at 6.12.2022 in accordance with reg. 1(2)
+2.  P falls within this paragraph if P has been found to have committed an offence under any of the following provisions committed against or involving a child—
+(a)
+section 7 of the Sexual Offences Act 1956(10) (intercourse with defective),
+(b)
+section 9 of that Act (procurement of defective),
+(c)
+section 10 of that Act (incest by a man),
+(d)
+section 11 of that Act (incest by a woman),
+(e)
+section 12 of that Act (buggery) except if the other party to the act of gross indecency was aged 16 or over and consented to the act,
+(f)
+section 21 of that Act (abduction of defective from parent or guardian),
+(g)
+section 22 of that Act (causing prostitution of women),
+(h)
+section 23 of that Act (procuration of girl under 21),
+(i)
+section 27 of that Act (permitting defective to use premises for intercourse),
+(j)
+section 30 of that Act (man living on earnings of prostitution),
+(k)
+section 31 of that Act (woman exercising control over prostitute),
+(l)
+section 128 of the Mental Health Act 1959 (sexual intercourse with patients)(11),
+(m)
+section 4 of the Sexual Offences Act 1967(12) (procuring others to commit homosexual acts),
+(n)
+section 5 of that Act (living on earning of male prostitution),
+(o)
+section 9(1)(a) of the Theft Act 1968(13) (burglary), or
+(p)
+an offence that is related to an offence specified in sub-paragraphs (a) to (o).
+Commencement Information
+I2
+Sch. 2 para. 2 in force at 6.12.2022 in accordance with reg. 1(2)
+(1)
+1956 c. 69. All the sections referred to in paragraphs (a) to (l) of this sub-paragraph were repealed by section 140 of, and Schedule 7 to, the Sexual Offences Act 2003 (“the 2003 Act”).
+(2)
+1960 c. 33. Section 1 was repealed by section 140 of, and Schedule 7 to, the 2003 Act.
+(3)
+1977 c. 45. Section 54 was repealed by section 140 of, and Schedule 7 to, the 2003 Act.
+(4)
+2000 c. 44. Section 3 was repealed in England and Wales by section 140 of, and Schedule 7 to, the 2003 Act. Repealed in Scotland by section 61(2) of, and Schedule 6 to, the Sexual Offences (Scotland) Act 2009 (asp 9).
+(5)
+1980 c. 6. This Act was repealed by section 108(7) of, and Schedule 15 to, the 1989 Act.
+(6)
+1958 c. 65. Section 14 was repealed by section 23(3) of, and Schedule 3 to, the Foster Children Act 1980.
+(7)
+Each of these provisions was repealed by section 117(2) of, and Schedule 6 to, the Care Standards Act 2000.
+(8)
+Each of the provisions in paragraphs (a) to (c) were repealed by paragraph 37 of Schedule 14 to the Public Services Reform (Scotland) Act 2010.
+(9)
+2009 c. 25. Section 71 was repealed in England and Wales by section 57(1) of, and paragraph 8 of Schedule 5 to, the Modern Slavery Act 2015.
+(10)
+Each of the provisions in sub-paragraphs (a) to (k) were repealed by section 140 of, and Schedule 7 to, the 2003 Act.
+(11)
+1959 c. 72. Section 128 was repealed by section 140 of, and Schedule 7 to, the 2003 Act.
+(12)
+1967 c. 60. The provisions in sub-paragraphs (m) and (n) were repealed by section 140 of, and Schedule 7 to, the 2003 Act.
+(13)
+1968 c. 60. Section 9(2) provides detail about the nature of an offence under section 9(1)(a) and was amended by section 140 of, and Schedule 7 to, the 2003 Act.Regulation 3(7)
+SCHEDULE 3
+SPECIFIED OFFENCES
+Offences in England and Wales
+1.—(1) An offence under section 1 (offence of sending letters etc. with intent to cause distress or anxiety) of the Malicious Communications Act 1988(1).
+(2) An offence under section 49 or 50(9) of the 1989 Act (offences relating to the abduction of a child in care).
+(3) An offence under any of the following sections of the Protection from Harassment Act 1997(2)—
+(a)
+section 4 (putting people in fear of violence), or
+(b)
+section 4A (stalking involving fear of violence or serious alarm or distress)(3).
+(4) An offence under any of the following sections of the Terrorism Act 2000(4)—
+(a)
+section 11 (membership),
+(b)
+section 12 (support),
+(c)
+section 13 (uniform),
+(d)
+section 15 (fund-raising),
+(e)
+section 54 (weapons training)(5),
+(f)
+section 56 (directing terrorist organisation),
+(g)
+section 58A (eliciting, publishing or communicating information about members of armed forces etc)(6),
+(h)
+section 59 (England and Wales), or
+(i)
+section 63 (terrorist finance: jurisdiction).
+(5) An offence in relation to a children’s home under or by virtue of any of the following provisions of the Care Standards Act 2000—
+(a)
+section 11(1) (failure to register),
+(b)
+section 24 (failure to comply with conditions),
+(c)
+section 25 (contravention of regulations),
+(d)
+section 26 (false descriptions of establishments and agencies), or
+(e)
+section 27 (false statements in applications).
+(6) An offence under section 127 (improper use of public electronic communications network) of the Communications Act 2003(7).
+(7) An offence under any of the following provisions of the Sexual Offences Act 2003—
+(a)
+section 15A (sexual communication with a child)(8),
+(b)
+section 62 or 63 (committing an offence or trespassing with intent to commit a sexual offence),
+(c)
+section 64 or 65 (sex with an adult relative),
+(d)
+section 67A (voyeurism: additional offences),
+(e)
+section 69 (intercourse with an animal)(9),or
+(f)
+section 70 (sexual penetration of a corpse).
+(8) An offence under any of the following provisions of the Terrorism Act 2006(10)—
+(a)
+section 1 (encouragement of terrorism),
+(b)
+section 2 (dissemination of terrorist publications),
+(c)
+section 5 (preparation of terrorist acts),
+(d)
+section 6 (training for terrorism)(11),
+(e)
+section 8 (attendance at a place used for terrorist training),
+(f)
+section 9 (making and possession of devices or materials), or
+(g)
+section 11 (terrorist threats relating to devices, materials or facilities).
+(9) An offence under section 62 (possession of prohibited images of children) of the Coroners and Justice Act 2009(12).
+(10) An offence under any of the following provisions of the Criminal Justice and Courts Act 2015(13)—
+(a)
+section 20 (ill treatment or wilful neglect: care worker offence),
+(b)
+section 21 (ill treatment or wilful neglect: care provider offence), or
+(c)
+section 33 (disclosing private sexual photographs and film with intent to cause distress).
+(11) An offence under any of the following provisions of the Serious Crime Act 2015(14)—
+(a)
+section 69 (possession of paedophile manual)(15), or
+(b)
+section 76 (controlling or coercive behaviour in an intimate or family relationship).
+(12) An offence under any of the following provisions of the Modern Slavery Act 2015(16)—
+(a)
+section 1 (slavery, servitude and forced or compulsory labour),
+(b)
+section 2 (human trafficking),
+(c)
+section 4 (committing offence with intent to commit offence under section 2), or
+(d)
+section 30 (offences)(17).
+(13) An offence under section 5 (supplying, or offering to supply, a psychoactive substance) of the Psychoactive Substances Act 2016(18).
+(14) An offence in relation to a care home service, which is provided wholly or mainly to persons under the age of 18, or a secure accommodation service (each has the meaning given in Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016 (“the 2016 Act”)) under or by virtue of any of the following provisions of the 2016 Act—
+(a)
+section 5 (requirement to register),
+(b)
+section 43 (failure to comply with a condition),
+(c)
+section 44 (false descriptions),
+(d)
+section 45 (failure by service provider to comply with requirements in regulations), or
+(e)
+section 47 (false statements).
+(15) An offence under section 70 of the 1989 Act (offences relating to private fostering).
+(16) An offence under section 121 of the Anti-social Behaviour, Crime and Policing Act 2014(19) (offence of forced marriage: England and Wales).
+(17) An offence under any of the following provisions of the Female Genital Mutilation Act 2003(20)—
+(a)
+section 1 (offence of female genital mutilation),
+(b)
+section 2 (assisting a girl to mutilate her own genitalia),
+(c)
+section 3 (assisting a non-UK person to mutilate overseas a girl’s genitalia), or
+(d)
+section 3A(21) (failing to protect a girl from risk of genital mutilation).
+Commencement Information
+I1
+Sch. 3 para. 1 in force at 6.12.2022 in accordance with reg. 1(2)
+Offences in Scotland
+2.—(1) An offence of rape under section 1 of the Sexual Offences (Scotland) Act 2009(22).
+(2) An offence specified in Schedule 1 to the Criminal Procedure (Scotland) Act 1995(23).
+(3) The common law offence of plagium (theft of a child below the age of puberty).
+(4) An offence under section 52 or 52A of the Civic Government (Scotland) Act 1982(24) (offences relating to indecent photographs of children).
+(5) An offence under section 3 of the Sexual Offences (Amendment) Act 2000(25) (abuse of trust).
+(6) An offence under any of the following—
+(a)
+section 81, 83 or 89 of the Children (Scotland) Act 1995(26), section 59(1) or 171(2) of the Children’s Hearings (Scotland) Act 2011 or section 17(8) or 71 of the Social Work (Scotland) Act 1968(27) (harbouring offences);
+(b)
+section 6 of the Child Abduction Act 1984(28) (taking or sending child out of the United Kingdom);
+(c)
+section 15 of the Foster Children (Scotland) Act 1984 (offences relating to private fostering).
+(7) An offence under or by virtue of section 60(3), 61(3) or 62(6) of the Social Work (Scotland) Act 1968(29) (offences relating to residential and other establishments).
+(8) An offence in relation to a care home service, child minding or day care of children, under or by virtue of any of the following sections of the Public Services Reform (Scotland) Act 2010—
+(a)
+section 78 (regulations: care services),
+(b)
+section 80 (offences in relation to registration under Chapter 3), or
+(c)
+section 81 (false statements in application under Chapter 3).
+(9) An offence under section 122 of the Anti-social Behaviour, Crime and Policing Act 2014 (offence of forced marriage: Scotland).
+Commencement Information
+I2
+Sch. 3 para. 2 in force at 6.12.2022 in accordance with reg. 1(2)
+Offences in Northern Ireland
+3.—(1) An offence of rape under article 5 of the Sexual Offences (Northern Ireland) Order 2008(30).
+(2) An offence under section 66, 69 or 70 of the Sexual Offences Act 2003(31).
+(3) An offence under article 70, 73 or 74 of the Sexual Offences (Northern Ireland) Order 2008.
+(4) An offence specified in Schedule 1 to the Children and Young Persons Act (Northern Ireland) Order 1968(32) save for any offences specified under the Criminal Law (Amendment) Act 1995 in that Schedule.
+(5) An offence under article 3 of the Protection of Children (Northern Ireland) Order 1978(33) (indecent photographs).
+(6) An offence contrary to article 9 of the Criminal Justice (Northern Ireland) Order 1980(34) (inciting girl under 16 to have incestuous sexual intercourse).
+(7) An offence contrary to article 15 of the Criminal Justice (Evidence etc.) (Northern Ireland) Order 1988(35) (possession of indecent photographs of children).
+(8) An offence under sections 16 to 19 of the Sexual Offences Act 2003(36) (abuse of position of trust).
+(9) An offence under Part 3 of the Sexual Offences (Northern Ireland) Order 2008 (sexual offences against children).
+(10) An offence under any of the following—
+(a)
+article 68 or 69(9) of the Children (Northern Ireland) Order 1995 (offences relating to the abduction of a child in care),
+(b)
+article 132 of the Children (Northern Ireland) Order 1995, or section 14 of the Children and Young Persons Act(37) (Northern Ireland) 1968 (offences relating to child minding and day care),
+(c)
+article 117 of the Children (Northern Ireland) Order 1995, or section 9(1) of the Children and Young Persons Act (Northern Ireland) 1968(38) (offences relating to private fostering), or
+(d)
+article 79(3), 81(4), 95(3) or 97(4) of the Children (Northern Ireland) Order 1995(39), or section 127(5) or 129(3) of the Children and Young Persons Act (Northern Ireland) 1968(40) (offences relating to voluntary homes and children’s homes).
+(11) An offence contrary to section 2 of the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015(41) (human trafficking).
+(12) An offence contrary to section 51 of the Justice Act (Northern Ireland) 2016(42) (disclosing private sexual photographs and films with intent to cause distress).
+Commencement Information
+I3
+Sch. 3 para. 3 in force at 6.12.2022 in accordance with reg. 1(2)
+Offences in Jersey
+4.  An offence contrary to—
+(a)
+Part 7 of the Children (Jersey) Law 1969(43),
+(b)
+Schedule 4 to the Children (Jersey) Law 2002(44), or
+(c)
+the Day Care of Children (Jersey) Law 2002(45).
+Commencement Information
+I4
+Sch. 3 para. 4 in force at 6.12.2022 in accordance with reg. 1(2)
+Offences in Guernsey
+5.  An offence contrary to—
+(a)
+the ‘Loi pour la Punition d’Inceste’ (Law for the Punishment of Incest) 1909(46);
+(b)
+the ‘Loi relative à la protection des Femmes et des Filles Mineures’ (Law for the Protection of Women and Young Girls) 1914(47);
+(c)
+the ‘Loi relative à la Sodomie’ (Law relating to Sodomy) 1929(48);
+(d)
+article 7, 9, 10, 11 or 12, paragraph 1 of article 41 or paragraph 1, 2, 3 or 4 of article 51 of the ‘Loi ayant rapport à la Protection des Enfants et des Jeunes Personnes’ (Law relating to the Protection of Children and Young Persons) 1917(49);
+(e)
+the Children and Young Persons (Guernsey) Law 1967;
+(f)
+the Protection of Children (Bailiwick of Guernsey) Law 1985(50).
+Commencement Information
+I5
+Sch. 3 para. 5 in force at 6.12.2022 in accordance with reg. 1(2)
+Offences in the Isle of Man
+6.  An offence specified in Schedule 8 to the Children and Young Persons Act 2001 (an Act of Tynwald).
+Commencement Information
+I6
+Sch. 3 para. 6 in force at 6.12.2022 in accordance with reg. 1(2)
+Other Offences
+7.—(1) An offence contrary to section 170 of the Customs and Excise Management Act 1979(51) in relation to goods prohibited to be imported under section 42 of the Customs Consolidation Act 1876(52) (prohibitions and restrictions) where the prohibited goods included indecent photographs of a child.
+(2) An offence by virtue of—
+(a)
+section 72 of the Sexual Offences Act 2003 (offences outside the United Kingdom)(53), or
+(b)
+section 16B of the Criminal Law (Consolidation) (Scotland) Act 1995(54) (commission of certain sexual offences outside the United Kingdom).
+(3) An offence contrary to section 32(3) of the Children and Young Persons Act 1969 (detention of absentees).
+(4) An offence contrary to article 10(2) (offence relating to absconding) or article 11(1) (offence of intentional obstruction) of the Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013(55).
+Commencement Information
+I7
+Sch. 3 para. 7 in force at 6.12.2022 in accordance with reg. 1(2)
+(1)
+1988 c. 27.
+(2)
+1997 c. 40.
+(3)
+Section 4A was inserted by section 111(2) of the Protection of Freedoms Act 2012 (c. 9).
+(4)
+2000 c. 11.
+(5)
+Section 54 was amended by section 120 of the Anti-terrorism, Crime and Security Act 2001 (c. 24), section 1 of the Criminal Justice and Courts Act 2015 (c. 2) (with transitional provisions included in S.I. 2015/778) and section 99 of, and Schedule 9 to, the Counter-Terrorism Act 2008 (c. 28).
+(6)
+Section 58A was inserted by section 76(1) of the Counter-Terrorism Act 2008 (c. 28). Part of section 58A(3) was substituted by section 7(4) of the Counter-Terrorism and Border Security Act 2019 (c. 3) (“the 2019 Act”), subject to transitional provisions set out in section of 25(2) of the 2019 Act.
+(7)
+2003 c. 21. Section 127 was amended by section 51(1) of the Criminal Justice and Courts Act 2015 (c. 2).
+(8)
+Section 15A was inserted by section 67 of the Serious Crime Act 2015 (c. 9).
+(9)
+Section 69 was repealed in relation to Northern Ireland by article 83 of and Schedule 3 to S.I. 2008/1769 (N.I. 2), subject to savings specified in that Order.
+(10)
+2006 c. 11.
+(11)
+Section 6 was amended by section 1(3) of the Criminal Justice and Courts Act 2015 (c. 2) (“the 2015 Act”) (subject to transitional provisions set out in section 1(4) and (5) of the 2015 Act) and paragraph 443 of Schedule 24 to the Sentencing Act 2020 (“the 2020 Act”) (subject to savings and transitional provisions in section 410 of, and Schedule 24 to, the 2020 Act).
+(12)
+2009 c. 25.
+(13)
+2015 c. 2.
+(14)
+2015 c. 9.
+(15)
+Section 69 was amended by regulations 23 and 24 of S.I. 2016/244.
+(16)
+2015 c. 30.
+(17)
+Section 30 was amended by article 3 of, and paragraph 3(2)(a) and (b) of the Schedule to, S.I. 2016/1031.
+(18)
+2016 c. 2.
+(19)
+2014 c. 12.
+(20)
+2003 c. 31.
+(21)
+Inserted by section 72 of the Serious Crimes Act 2015 (c. 9).
+(22)
+2009 asp 9.
+(23)
+1995 c. 46.
+(24)
+1982 c. 45. Section 52 was amended by section 5 of, and Schedule 4 to, the Criminal Procedure (Consequential Provisions) (Scotland) Act 1995 (c. 40) and section 16 of the Protection of Children and Prevention of Sexual Offences (Scotland) Act 2005 (asp 9). Section 52A was inserted by section 161 of the Criminal Justice Act 1988 (c. 33). Sections 52 and 52A were amended by section 84 of the Criminal Justice and Public Order Act 1994 (c. 33), section 19 of the Criminal Justice (Scotland) Act 2003 (asp 7), and section 41 of, and paragraph 13 of Schedule 7 to, the Criminal Justice and Licensing (Scotland) Act 2010 (asp 13).
+(25)
+2000 c. 44. Section 3 was repealed in relation to England, Wales and Northern Ireland by paragraph 45 of Schedule 6 to the Sexual Offences Act 2003. It was repealed in relation to Scotland by Schedule 6 to the Sexual Offences (Scotland) Act 2009.
+(26)
+Sections 81 and 83 were repealed by section 203(2) of, and Schedule 6 to, the Children’s Hearings (Scotland) Act 2011 asp 1. Section 89 was repealed by section 120(2) of, and Schedule 3 to, the Adoption and Children (Scotland) Act 2007.
+(27)
+Repealed by section 105(5) of, and Schedule 5 to, the Children (Scotland) Act 1995.
+(28)
+1984 c. 37. Section 6 was amended in relation to Scotland by section 105(4) of, and Schedule 4 to, the Children (Scotland) Act 1995.
+(29)
+Sections 60, 61 and 62 were repealed by section 80(1) of and Schedule 4 to, the Regulation of Care (Scotland) Act 2001, subject to savings specified in articles 11 and 13 of S.S.I. 2002/162.
+(30)
+S.I. 2008/1769 (N.I. 2) (“the 2008 Order”).
+(31)
+Sections 66, 69 and 70 were repealed in relation to Northern Ireland by article 83 of, and Schedule 3 to, the 2008 Order, subject to savings specified in that Order.
+(32)
+1968 c. 34.
+(33)
+S.I. 1978/1047 (N.I. 17). Article 3 was amended by section 84(10) of the Criminal Justice and Public Order Act 1994 (c. 33) (“the 1994 Act”), section 41(2) of the 2000 Act and paragraph 8 of Schedule 1 to S.I. 2003/1247 (N.I. 13).
+(34)
+S.I. 1980/704 (N.I. 6). Article 9 has been revoked and replaced by article 33 of the 2008 Order.
+(35)
+S.I. 1988/1847 (N.I. 17). Article 15 was amended by sections 84(11) and 86(2) of the 1994 Act and section 41(4) of the 2000 Act.
+(36)
+Sections 16 to 19 were repealed in Northern Ireland by article 83 of and Schedule 3 to the 2008 Order subject to transitional provisions in paragraph 1 of Schedule 2 to that Order.
+(37)
+Section 14 was repealed by S.I. 1995/755 (N.I. 2).
+(38)
+Section 9(1) was repealed by S.I. 1995/755 (N.I. 2).
+(39)
+Articles 79(3), 81(4), 95(3) and 97(4) were revoked by article 50(2) of and Schedule 5 to S.I. 2003/431 (N.I. 9).
+(40)
+Sections 127 and 129 were repealed by S.I. 1995/755 (N.I. 2).
+(41)
+2015 c. 2 (N.I.).
+(42)
+2016 c. 21 (N.I.).
+(43)
+Jersey Law 16/1969.
+(44)
+Jersey Law 50/2002.
+(45)
+Jersey Law 51/2002.
+(46)
+Orders in Court Volume IV, p. 288.
+(47)
+Orders in Council Volume V, p. 74.
+(48)
+Orders in Council Volume VIII, p. 273.
+(49)
+Orders in Council Volume V, p. 243, as amended by Loi Supplémentaire à la Loi ayant rapport à la Protection des Enfants et des Jeunes Personnes 1937, Orders in Council Volume XI, p. 116, and the Protection of Children and Young Persons (Amendment) Law 1955, Orders in Council Volume XVI, p. 277.
+(50)
+Orders in Council Volume XXIX, p. 103, as amended by the Administration of Justice (Bailiwick of Guernsey) Law 1991, Orders in Council Volume XXXIII, p. 49, the Criminal Evidence and Miscellaneous Provisions (Bailiwick of Guernsey) Law 2002, Order in Council No. I of 2003 and the Criminal Justice (Miscellaneous Provisions) (Bailiwick of Guernsey) Law, 2006, Order in Council No. XIII of 2006.
+(51)
+1979 c. 2. Section 170 was amended by section 114 of the Police and Criminal Evidence Act 1984 (c. 60), S.I. 1996/2686, section 75 of, and paragraph 8 of Schedule 17 to, the Criminal Justice and Immigration Act 2008 (c. 4), section 111 of the Anti-social Behaviour, Crime and Policing Act 2014 (c. 12), S.I. 2015/664, section 12 of the Finance Act 1988 (c. 39), S.I. 2004/702 (N.I. 3), S.I. 2005/1966 (N.I. 16) and section 3 of, and paragraph 7 of Schedule 2 to, the Finance (No. 2) Act 1992 (c. 48).
+(52)
+1876 c. 36. Section 42 was amended by the Statute Law (Repeals) Act 1993 (c. 50) and the Statute Law (Repeals) Act 2008 (c. 12).
+(53)
+Section 72 was repealed in relation to Northern Ireland by paragraph 1 of Schedule 3 to the 2008 Order, subject to savings specified in that Order.
+(54)
+1995 c. 39. Section 16B was repealed by section 61 of and Schedule 6 to the Sexual Offences (Scotland) Act 2009 (asp 9).
+(55)
+S.I. 2013/1465.EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations replace the Child Minding and Day Care (Disqualification) (Wales) Regulations 2022 (S.I. 2022/1066) (W. 224) (“the 2022 Regulations”). These Regulations set out the categories of persons who are disqualified from registration in Wales as child minders or providers of day care under Part 2 of the Children and Families (Wales) Measure 2010 (nawm 1) (“the Measure”).
+Persons disqualified under these Regulations must not act as child minders in Wales, provide day care or be concerned in the management of any provision of day care. Nor must they be employed in connection with the provision of child minding or day care.
+Regulation 3 together with Schedule 1 to these Regulations sets out orders and determinations for the care and supervision of children in connection with which a person is disqualified from registration. Regulation 3, together with Schedules 2 and 3, also sets out categories of offences against or involving children or adults in respect of which a person is disqualified from registration. Regulation 3(10) clarifies that disqualification does not apply to persons who have been the subject of care or supervision orders themselves or to foster carers or adoptive parents, with whom a child who is or was subject of a care or supervision order, lives, unless the order was made as a result of that applicant’s care of the child.
+Regulation 4 sets out the offences committed overseas which are comparable to the offences set out in these Regulations.
+Regulation 5 provides that persons included on the list kept under section 1 of the Protection of Children Act 1999 (c. 14) are disqualified from registration.
+Regulation 6(1) and (2) provides that persons in respect of whom a direction has been made under section 142 of the Education Act 2002 (c. 32) (known as List 99) are disqualified from registration.
+Regulation 7 sets out that persons barred from regulated activity relating to children under section 3(2) of the Safeguarding Vulnerable Groups Act 2006 (c. 47) are disqualified from registration.
+Regulation 8 provides that a person is disqualified from registration as a childminder if that person lives with another person who is disqualified under these Regulations, or lives in a household in which such a person is employed and acts or intends to act as a childminder on domestic premises which is also their home.
+Regulation 9 provides for a waiver of the disqualification in certain circumstances. Where the consent of the Welsh Ministers, or a local authority prior to 1 April 2002, has been given a person is not to be regarded as disqualified.
+Regulation 9(2) sets out circumstances where the waiver process does not apply. This is where an individual has committed an offence against a child, where the offence itself has since been repealed and where the sentencing court ordered that the individual is disqualified from working with children.
+Regulation 10 sets out a right of appeal to the First-tier Tribunal in relation to any determination made by the Welsh Ministers as to whether to give consent to waive disqualification under regulation 9.
+Regulation 11 provides that a person registered under Part 2 of the Measure has a duty to disclose information to the Welsh Ministers about the details of any order, determination, conviction or other ground for disqualification from registration under these Regulations. That obligation applies to information relating to the registered person (and to any person living in the same household as the registered person or employed in that household where the registered person is a child minder). Failure to comply with this duty is a criminal offence.
+Regulation 12 revokes the 2022 Regulations and provides for a consequential amendment.
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, a regulatory impact assessment has been prepared as to the likely costs and benefits of complying with these Regulations. A copy can be obtained from Welsh Government, Cathays Park, Cardiff, CF10 3NQ and is published on www.gov.wales.

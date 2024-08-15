@@ -1,0 +1,808 @@
+STATUTORY INSTRUMENTS
+2021 No. 817 (C. 45)
+SPACE INDUSTRY
+The Space Industry Act 2018 (Commencement No. 2, Transitional and Savings Provisions) Regulations 2021
+Made
+at 9.35 a.m. on 8th July 2021
+The Secretary of State, in exercise of the powers conferred by section 70 of the Space Industry Act 2018 M1, makes the following Regulations.
+Marginal Citations
+M1
+2018 c. 5.Citation, extent and interpretation
+1.—(1) These Regulations may be cited as the Space Industry Act 2018 (Commencement No. 2, Transitional and Savings Provisions) Regulations 2021.
+(2) These Regulations extend to England and Wales, Scotland and Northern Ireland, subject as follows.
+(3) In the Schedule, paragraphs 73, 82 to 85 and 113 do not extend to Northern Ireland.
+(4) In the Schedule, paragraphs 86 to 87 and 116 extend to Northern Ireland only.
+(5) In the Schedule, paragraph 117 has, for the purposes of the commencement of each amendment of an enactment made by Schedule 12 to the Act, the same extent as the enactment amended.
+(6) In these Regulations—
+“the Act” means the Space Industry Act 2018 and a reference to a section without more is a reference to a section of the Act;
+“cabin crew” means individuals who take part in spaceflight activities M1 on board a launch vehicle to perform duties assigned by the spaceflight operator or the pilot in command of the launch vehicle, but who are not members of the flight crew;
+“carrier aircraft” means an aircraft which is carrying a launch vehicle which is to separate from that aircraft before the aircraft lands;
+“crew” means—
+(a)
+members of the cabin crew, and
+(b)
+members of the flight crew;
+“experimental transport” means a vehicle that is not operating for the purposes of transporting people or goods for commercial gain, such as a spacecraft M2 or aircraft specifically designed or modified for research, experimental or scientific purposes;
+“flight crew” means individuals who take part in spaceflight activities on board a launch vehicle as a pilot or flight engineer of the launch vehicle;
+“human occupant” means a member of the crew or a spaceflight participant;
+“hypersonic” means a type of sub-orbital craft capable of operating above the stratosphere and capable of operating at the speed of at least Mach 5;
+“launch operator licence” means an operator licence M3 which authorises a person to carry out spaceflight activities that include launching a launch vehicle or launching a carrier aircraft and a launch vehicle;
+“launch vehicle” means—
+(a)
+a craft to which section 1(5) applies and the component parts of that craft, or
+(b)
+a space object M4 which is a vehicle and the component parts of that vehicle,
+that is used for the purpose of the proposed spaceflight activities or the operator's spaceflight activities, as applicable, but does not include a payload carried by the launch vehicle;
+“operator's spaceflight activities” means spaceflight activities which are authorised by an operator licence and which are any of—
+(a)
+launching a launch vehicle;
+(b)
+launching a carrier aircraft;
+(c)
+operating the launch vehicle or a carrier aircraft whose launch is authorised by the operator licence, in so far as necessary for one or more of the following assignments—
+(i)
+to carry a spaceflight participant,
+(ii)
+to carry a payload until its release or separation from the launch vehicle,
+(iii)
+to carry out sub-orbital activities, or
+(iv)
+to return to earth and complete its flight,
+including orbital activities only in so far as they are necessary to complete such an assignment;
+(d)
+operating a launch vehicle whose launch is not authorised by the operator licence, in order to cause that vehicle to land in the United Kingdom;
+“orbital activities” means spaceflight activities using a launch vehicle which has reached a stable orbit;
+“pilot in command” means the pilot who—
+(a)
+takes part in the operator's spaceflight activities on board the launch vehicle, and
+(b)
+is designated by the spaceflight operator as being in command and charged with the safe conduct of its flight, without being under the direction of any other pilot;
+“point to point transport” means a vehicle which takes off from a launch site (point A) and travels, wholly or in part using rocket-powered propulsion, to another site on earth or in orbit (point B) for the purposes of transporting people or goods for commercial gain but does not include experimental transport;
+“proposed spaceflight activities” means any of the spaceflight activities mentioned in paragraphs (a) to (d) of the definition of “operator's spaceflight activities” which would be authorised by the operator licence that the applicant is applying for, if granted;
+“return operator licence” means an operator licence which is not a launch operator licence and which authorises a person to operate a launch vehicle, launched elsewhere than the United Kingdom, in order to cause that vehicle to land in the United Kingdom;
+“spaceflight operator” means the holder of a launch operator licence or a return operator licence;
+“spaceflight participant” means an individual, other than a member of the crew, who is to be carried on board a launch vehicle with the spaceflight operator's permission;
+“stable orbit” means an orbit where a launch vehicle—
+(a)
+has started to travel in an orbit of a minimum perigee of 130 kilometres taking account of any natural influences such as the forces of drag acting on that vehicle, and
+(b)
+is capable of continuing to travel in that orbit for at least one orbit of the earth.
+Commencement Information
+I1
+Reg. 1 in force at 8.7.2021 at 9.35 a.m.
+Marginal Citations
+M1
+“spaceflight activities” is defined in section 1(6) of the Space Industry Act 2018.
+M2
+See section 2(6) of the Space Industry Act 2018 for the definition of “spacecraft”.
+M3
+See section 3(2) of the Space Industry Act 2018 for the definition of “operator licence”.
+M4
+Space object is defined in section 69(1) of the Space Industry Act 2018, by reference to the Outer Space Act 1986 (c. 38). The definition is given in section 13(1) of that Act. It “includes the component parts of a space object, its launch vehicle and the component parts of that”.Provisions of the Space Industry Act 2018 coming into force on 29th July 2021
+2.  29th July 2021 is the day appointed for the coming into force of the provisions of the Space Industry Act 2018 listed in the Schedule.
+Commencement Information
+I1
+Reg. 2 in force at 8.7.2021 at 9.35 a.m.Transitional and savings provisions relating to the grant of a licence
+3.—(1) Paragraphs (1) and (2) of this regulation apply where—
+(a)
+an application for a licence has been made under the Outer Space Act 1986 M1 before the coming into force of the provisions in or made under the Act which enables licences to be granted,
+(b)
+the application has not yet been determined, and
+(c)
+the application falls to be determined under the Act.
+(2) The application shall continue to be processed and determined under the Outer Space Act 1986.
+(3) A licence which has been determined in accordance with paragraph (2) after the date of the coming into force of the provisions in or made under the Act which enables licences to be granted shall be treated as if granted under the Act.
+Commencement Information
+I1
+Reg. 3 in force at 8.7.2021 at 9.35 a.m.
+Marginal Citations
+M1
+1986 c. 38. The Outer Space Act 1986 has been amended by sections 1(2) and 2(3) of the British Overseas Territories Act 2002 (c. 8), Part 4 of Schedule 1 to the Statute Law (Repeals) Act 2004 (c. 14), section 12(1) to (3) of the Deregulation Act 2015 (c. 20), and sections 1(3), 67(1) of, and paragraphs 8(1) to (5), 9, 10, 11(1) to (4), 12, 13 and 14(1) to (3) of Schedule 12 to, the Space Industry Act 2018.Signed by authority of the Secretary of State for Transport
+Rachel Maclean
+Parliamentary Under Secretary of State
+Department for TransportRegulation 2
+SCHEDULE
+1.  Section 1(1) (scope of the Act).
+Commencement Information
+I1
+Sch. para. 1 in force at 8.7.2021 at 9.35 a.m.
+2.  Section 1(2) (definition of when a person carries out “space activity” or “sub-orbital activity”).
+Commencement Information
+I2
+Sch. para. 2 in force at 8.7.2021 at 9.35 a.m.
+3.  Section 1(3) (amendment of the Outer Space Act 1986), except in so far as it relates to an activity of procuring the launch of a space object where—
+(a)
+the activity is carried out in the United Kingdom by persons to whom the Outer Space Act 1986 applies by virtue of section 2 of that Act, and
+(b)
+the launch of the space object is to be carried out outside the United Kingdom F1....
+Textual Amendments
+F1
+Words in Sch. para. 3(b) omitted (28.7.2021) by virtue of The Space Industry Act 2018 (Commencement No. 2, Transitional and Savings Provisions) (Amendment) Regulations 2021 (S.I. 2021/874), regs. 1(2), 2(2)
+Commencement Information
+I3
+Sch. para. 3 in force at 8.7.2021 at 9.35 a.m.
+4.  Section 1(4) (meaning of “space activity”), except in so far as this definition relates to an activity of procuring the launch of a space object where—
+(a)
+the activity is carried out in the United Kingdom by persons to whom the Outer Space Act 1986 applies by virtue of section 2 of that Act, and
+(b)
+the launch of the space object is to be carried out outside the United Kingdom F2....
+Textual Amendments
+F2
+Words in Sch. para. 4(b) omitted (28.7.2021) by virtue of The Space Industry Act 2018 (Commencement No. 2, Transitional and Savings Provisions) (Amendment) Regulations 2021 (S.I. 2021/874), regs. 1(2), 2(2)
+Commencement Information
+I4
+Sch. para. 4 in force at 8.7.2021 at 9.35 a.m.
+5.  Section 1(6) (definition of “spaceflight activities”).
+Commencement Information
+I5
+Sch. para. 5 in force at 8.7.2021 at 9.35 a.m.
+6.  Section 2(1) to (3) (duties and supplementary powers of the regulator).
+Commencement Information
+I6
+Sch. para. 6 in force at 8.7.2021 at 9.35 a.m.
+7.  Section 3(1) (prohibition of unlicensed spaceflight etc), except in so far as it relates to an activity of procuring the launch of a space object where—
+(a)
+the activity is carried out in the United Kingdom by persons to whom the Outer Space Act 1986 applies by virtue of section 2 of that Act, and
+(b)
+the launch of the space object is to be carried out outside the United Kingdom F3....
+Textual Amendments
+F3
+Words in Sch. para. 7(b) omitted (28.7.2021) by virtue of The Space Industry Act 2018 (Commencement No. 2, Transitional and Savings Provisions) (Amendment) Regulations 2021 (S.I. 2021/874), regs. 1(2), 2(2)
+Commencement Information
+I7
+Sch. para. 7 in force at 8.7.2021 at 9.35 a.m.
+8.  Section 3(4) (exemption from requirement to have an operator licence).
+Commencement Information
+I8
+Sch. para. 8 in force at 8.7.2021 at 9.35 a.m.
+9.  Section 3(6) and (7) (offences: prohibition of unlicensed spaceflight).
+Commencement Information
+I9
+Sch. para. 9 in force at 8.7.2021 at 9.35 a.m.
+10.  Section 4(1) (exemption from licence requirement).
+Commencement Information
+I10
+Sch. para. 10 in force at 8.7.2021 at 9.35 a.m.
+11.  Section 5(3) (range: directions making power).
+Commencement Information
+I11
+Sch. para. 11 in force at 8.7.2021 at 9.35 a.m.
+12.  Section 7(1) (persons who may provide range control services).
+Commencement Information
+I12
+Sch. para. 12 in force at 8.7.2021 at 9.35 a.m.
+13.  Section 7(3) (exemption from requirement to have a range control licence).
+Commencement Information
+I13
+Sch. para. 13 in force at 8.7.2021 at 9.35 a.m.
+14.  Section 7(8) and (9) (offences: provision of range control services).
+Commencement Information
+I14
+Sch. para. 14 in force at 8.7.2021 at 9.35 a.m.
+15.  Section 8(1) to (3) (grant of licences: general provisions), except in so far as it relates to the licensing of spaceflight activities involving—
+(a)
+an orbital launch vehicle with human occupants;
+(b)
+hypersonic or other point to point transport.
+Commencement Information
+I15
+Sch. para. 15 in force at 8.7.2021 at 9.35 a.m.
+16.  Section 8(4) (Secretary of State's consent: grant of a licence).
+Commencement Information
+I16
+Sch. para. 16 in force at 8.7.2021 at 9.35 a.m.
+17.  Section 9(1) (requirements for the grant of operator licences: safety).
+Commencement Information
+I17
+Sch. para. 17 in force at 8.7.2021 at 9.35 a.m.
+18.  Section 9(2) and (3) (prescribed roles, capacities and requirements: risk assessment), so far as not already in force.
+Commencement Information
+I18
+Sch. para. 18 in force at 8.7.2021 at 9.35 a.m.
+19.  Section 9(4) (health and safety etc: acceptable risks).
+Commencement Information
+I19
+Sch. para. 19 in force at 8.7.2021 at 9.35 a.m.
+20.  Section 9(8) (regulator's requirement to have regard to guidance).
+Commencement Information
+I20
+Sch. para. 20 in force at 8.7.2021 at 9.35 a.m.
+21.  Section 10 (prescribed requirements etc: grant of a spaceport licence), so far as not already in force.
+Commencement Information
+I21
+Sch. para. 21 in force at 8.7.2021 at 9.35 a.m.
+22.  Section 11(1), (2) and (5) (grant of licences: assessments of environmental effects).
+Commencement Information
+I22
+Sch. para. 22 in force at 8.7.2021 at 9.35 a.m.
+23.  Section 12 (terms of licences).
+Commencement Information
+I23
+Sch. para. 23 in force at 8.7.2021 at 9.35 a.m.
+24.  Section 13(1) (conditions of licences).
+Commencement Information
+I24
+Sch. para. 24 in force at 8.7.2021 at 9.35 a.m.
+25.  Section 13(2) (meaning of “specified”).
+Commencement Information
+I25
+Sch. para. 25 in force at 8.7.2021 at 9.35 a.m.
+26.  Section 13(4) (recognition of licences from other jurisdictions and meaning of “designated”).
+Commencement Information
+I26
+Sch. para. 26 in force at 8.7.2021 at 9.35 a.m.
+27.  Section 13(5) (duty of Secretary of State to publicise designated countries under section 13(4)(a) of the Act).
+Commencement Information
+I27
+Sch. para. 27 in force at 8.7.2021 at 9.35 a.m.
+28.  Section 13(6) (duty of the regulator to consult specified bodies).
+Commencement Information
+I28
+Sch. para. 28 in force at 8.7.2021 at 9.35 a.m.
+29.  Section 13(8) (offences: conditions of licences).
+Commencement Information
+I29
+Sch. para. 29 in force at 8.7.2021 at 9.35 a.m.
+30.  Section 14(1) and (2) (grant of licences for specified periods).
+Commencement Information
+I30
+Sch. para. 30 in force at 8.7.2021 at 9.35 a.m.
+31.  Section 14(3) (regulator's duty to consult before renewing a licence).
+Commencement Information
+I31
+Sch. para. 31 in force at 8.7.2021 at 9.35 a.m.
+32.  Section 15 (transfer, variation, suspension or termination of a licence).
+Commencement Information
+I32
+Sch. para. 32 in force at 8.7.2021 at 9.35 a.m.
+33.  Section 16(4) (application of sections 2 and 15 of the Act to an appointed person).
+Commencement Information
+I33
+Sch. para. 33 in force at 8.7.2021 at 9.35 a.m.
+34.  Section 17(1) (prescribed role, capacity or criteria: informed consent), so far as not already in force.
+Commencement Information
+I34
+Sch. para. 34 in force at 8.7.2021 at 9.35 a.m.
+35.  Section 17(2) (consent), so far as not already in force.
+Commencement Information
+I35
+Sch. para. 35 in force at 8.7.2021 at 9.35 a.m.
+36.  Section 17(4) (offences: informed consent).
+Commencement Information
+I36
+Sch. para. 36 in force at 8.7.2021 at 9.35 a.m.
+37.  Section 18(4) (duties of a holder of a licence under the Act and meaning of unqualified), so far as not already in force.
+Commencement Information
+I37
+Sch. para. 37 in force at 8.7.2021 at 9.35 a.m.
+38.  Section 18(6) to (8) (offences: training, qualifications and medical fitness).
+Commencement Information
+I38
+Sch. para. 38 in force at 8.7.2021 at 9.35 a.m.
+39.  Section 21(1), (3) to (5) (assistance etc with performance of regulator's safety functions).
+Commencement Information
+I39
+Sch. para. 39 in force at 8.7.2021 at 9.35 a.m.
+40.  Section 21(2) (prescribed body or person: qualifying health and safety authority), so far as not already in force.
+Commencement Information
+I40
+Sch. para. 40 in force at 8.7.2021 at 9.35 a.m.
+41.  Section 22 (offences against the safety of spacecraft etc).
+Commencement Information
+I41
+Sch. para. 41 in force at 8.7.2021 at 9.35 a.m.
+42.  Section 23(4) to (7) (order making powers of the Secretary of State relating to security).
+Commencement Information
+I42
+Sch. para. 42 in force at 8.7.2021 at 9.35 a.m.
+43.  Section 24 (spaceport byelaws).
+Commencement Information
+I43
+Sch. para. 43 in force at 8.7.2021 at 9.35 a.m.
+44.  Section 25 (provision of advice and assistance on security matters).
+Commencement Information
+I44
+Sch. para. 44 in force at 8.7.2021 at 9.35 a.m.
+45.  Section 26(1), (2) and (4) (monitoring and enforcement by the regulator).
+Commencement Information
+I45
+Sch. para. 45 in force at 8.7.2021 at 9.35 a.m.
+46.  Section 27 (power to give directions: breach of licence condition etc).
+Commencement Information
+I46
+Sch. para. 46 in force at 8.7.2021 at 9.35 a.m.
+47.  Section 28(1) to (4) (power to give directions: safety, security etc).
+Commencement Information
+I47
+Sch. para. 47 in force at 8.7.2021 at 9.35 a.m.
+48.  Section 28(5) (duty of Secretary of State to consult before giving directions under specified provisions of the Act).
+Commencement Information
+I48
+Sch. para. 48 in force at 8.7.2021 at 9.35 a.m.
+49.  Section 28(6) to (8) (meaning of “spaceflight security”, “act of violence”, “relevant offence” and “regulated person”).
+Commencement Information
+I49
+Sch. para. 49 in force at 8.7.2021 at 9.35 a.m.
+50.  Section 29 (power to give directions: international obligations of the UK).
+Commencement Information
+I50
+Sch. para. 50 in force at 8.7.2021 at 9.35 a.m.
+51.  Section 30 (consultation about directions).
+Commencement Information
+I51
+Sch. para. 51 in force at 8.7.2021 at 9.35 a.m.
+52.  Section 31(1), (2) and (5) (further provision about directions).
+Commencement Information
+I52
+Sch. para. 52 in force at 8.7.2021 at 9.35 a.m.
+53.  Section 31(3) (offences: further provision about directions).
+Commencement Information
+I53
+Sch. para. 53 in force at 8.7.2021 at 9.35 a.m.
+54.  Section 31(4) (enforcement of directions).
+Commencement Information
+I54
+Sch. para. 54 in force at 8.7.2021 at 9.35 a.m.
+55.  Section 32(1) to (8) (warrants authorising entry or direct action).
+Commencement Information
+I55
+Sch. para. 55 in force at 8.7.2021 at 9.35 a.m.
+56.  Section 32(9) (offences: warrants authorising entry or direct action).
+Commencement Information
+I56
+Sch. para. 56 in force at 8.7.2021 at 9.35 a.m.
+57.  Section 32(10) (application of section 32 of the Act to Scotland).
+Commencement Information
+I57
+Sch. para. 57 in force at 8.7.2021 at 9.35 a.m.
+58.  Section 32(11) (application of section 32 of the Act to Northern Ireland).
+Commencement Information
+I58
+Sch. para. 58 in force at 8.7.2021 at 9.35 a.m.
+59.  Section 33(1) to (7) (power to authorise entry etc in emergencies).
+Commencement Information
+I59
+Sch. para. 59 in force at 8.7.2021 at 9.35 a.m.
+60.  Section 33(8) (offences: power to authorise entry etc in emergencies).
+Commencement Information
+I60
+Sch. para. 60 in force at 8.7.2021 at 9.35 a.m.
+61.  Section 34(1), (2) and (4) (liability of operator for injury or damage etc).
+Commencement Information
+I61
+Sch. para. 61 in force at 8.7.2021 at 9.35 a.m.
+62.  Section 34(3) (prescribed injury or damage not covered by section 34(2)), so far as not already in force.
+Commencement Information
+I62
+Sch. para. 62 in force at 8.7.2021 at 9.35 a.m.
+63.  Section 35 (power or duty of Secretary of State to indemnify), so far as not already in force.
+Commencement Information
+I63
+Sch. para. 63 in force at 8.7.2021 at 9.35 a.m.
+64.  Section 36(1), (2) and (4) (obligation to indemnify government etc against claims).
+Commencement Information
+I64
+Sch. para. 64 in force at 8.7.2021 at 9.35 a.m.
+65.  Section 36(3) (prescribed cases or circumstances: obligation to indemnify government etc against claims), so far as not already in force.
+Commencement Information
+I65
+Sch. para. 65 in force at 8.7.2021 at 9.35 a.m.
+66.  Section 37(1), (2) and (4) (regulator etc not liable in respect of spaceflight-related actions).
+Commencement Information
+I66
+Sch. para. 66 in force at 8.7.2021 at 9.35 a.m.
+67.  Section 37(3) and (5) (meaning of “relevant actions” and “gross negligence”).
+Commencement Information
+I67
+Sch. para. 67 in force at 8.7.2021 at 9.35 a.m.
+68.  Section 38(3), (5) to (7) (power to make arrangements relating to insurance and meaning of “report period”).
+Commencement Information
+I68
+Sch. para. 68 in force at 8.7.2021 at 9.35 a.m.
+69.  Section 38(4) (arrangements for insurance or reinsurance), so far as not already in force.
+Commencement Information
+I69
+Sch. para. 69 in force at 8.7.2021 at 9.35 a.m.
+70.  Section 38(9) and (10) (payment arrangements in connection with insurance).
+Commencement Information
+I70
+Sch. para. 70 in force at 8.7.2021 at 9.35 a.m.
+71.  Section 39(1), (2), (4) to (9) and (11) (powers in relation to rights over land).
+Commencement Information
+I71
+Sch. para. 71 in force at 8.7.2021 at 9.35 a.m.
+72.  Section 39(3) and (10) (meaning of “qualifying person”, “carrying out works on land” and “maintaining works”).
+Commencement Information
+I72
+Sch. para. 72 in force at 8.7.2021 at 9.35 a.m.
+73.  Section 39(12) (parliamentary procedure relating to an order made under section 39 and meaning of “relevant day”).
+Commencement Information
+I73
+Sch. para. 73 in force at 8.7.2021 at 9.35 a.m.
+74.  Section 40 (offences relating to an order made under section 39).
+Commencement Information
+I74
+Sch. para. 74 in force at 8.7.2021 at 9.35 a.m.
+75.  Section 41(1) to (4) (order making power to restrict the use of land temporarily).
+Commencement Information
+I75
+Sch. para. 75 in force at 8.7.2021 at 9.35 a.m.
+76.  Section 41(5) to (8) (offences relating to restricted use of land).
+Commencement Information
+I76
+Sch. para. 76 in force at 8.7.2021 at 9.35 a.m.
+77.  Section 41(9) (meaning of “launch or landing” and “specified”).
+Commencement Information
+I77
+Sch. para. 77 in force at 8.7.2021 at 9.35 a.m.
+78.  Section 42 (power of entry for the purpose of survey).
+Commencement Information
+I78
+Sch. para. 78 in force at 8.7.2021 at 9.35 a.m.
+79.  Section 43 (challenges to and commencement of orders).
+Commencement Information
+I79
+Sch. para. 79 in force at 8.7.2021 at 9.35 a.m.
+80.  Section 44 (powers in relation to land: compensation).
+Commencement Information
+I80
+Sch. para. 80 in force at 8.7.2021 at 9.35 a.m.
+81.  Section 45 (registration of orders).
+Commencement Information
+I81
+Sch. para. 81 in force at 8.7.2021 at 9.35 a.m.
+82.  Section 46 (special provisions relating to statutory undertakers).
+Commencement Information
+I82
+Sch. para. 82 in force at 8.7.2021 at 9.35 a.m.
+83.  Section 47(1), and (4) to (8) (compensation in respect of planning decisions relating to spaceport safety etc: England and Wales and Scotland).
+Commencement Information
+I83
+Sch. para. 83 in force at 8.7.2021 at 9.35 a.m.
+84.  Section 47(2) and (3) (meaning of “relevant person” and provisions mentioned in section 47(1)).
+Commencement Information
+I84
+Sch. para. 84 in force at 8.7.2021 at 9.35 a.m.
+85.  Section 47(9) (meaning of “local planning authority”, “planning decision” and “range control apparatus”).
+Commencement Information
+I85
+Sch. para. 85 in force at 8.7.2021 at 9.35 a.m.
+86.  Section 48(1) (compensation in respect of planning decisions relating to spaceport safety etc: Northern Ireland).
+Commencement Information
+I86
+Sch. para. 86 in force at 8.7.2021 at 9.35 a.m.
+87.  Section 48(2) and (3) (meaning of “the relevant person”, “planning decision” and “range control apparatus”).
+Commencement Information
+I87
+Sch. para. 87 in force at 8.7.2021 at 9.35 a.m.
+88.  Section 49(1) to (3), (5) and (6) (amendment and revocation of orders).
+Commencement Information
+I88
+Sch. para. 88 in force at 8.7.2021 at 9.35 a.m.
+89.  Section 49(4) (meaning of “the relevant persons”).
+Commencement Information
+I89
+Sch. para. 89 in force at 8.7.2021 at 9.35 a.m.
+90.  Section 50 (powers in relation to land: notices).
+Commencement Information
+I90
+Sch. para. 90 in force at 8.7.2021 at 9.35 a.m.
+91.  Section 51 (application of criminal law to spacecraft etc).
+Commencement Information
+I91
+Sch. para. 91 in force at 8.7.2021 at 9.35 a.m.
+92.  Section 53 (penalties for offences under the Act).
+Commencement Information
+I92
+Sch. para. 92 in force at 8.7.2021 at 9.35 a.m.
+93.  Section 55(1) to (3) (offences under regulations: extended time limit in case of accident investigation etc).
+Commencement Information
+I93
+Sch. para. 93 in force at 8.7.2021 at 9.35 a.m.
+94.  Section 55(4) (meaning of “accident”).
+Commencement Information
+I94
+Sch. para. 94 in force at 8.7.2021 at 9.35 a.m.
+95.  Section 56(1) to (3) (defences).
+Commencement Information
+I95
+Sch. para. 95 in force at 8.7.2021 at 9.35 a.m.
+96.  Section 57(1) and (2) (offences by bodies corporate).
+Commencement Information
+I96
+Sch. para. 96 in force at 8.7.2021 at 9.35 a.m.
+97.  Section 57(3) (meaning of “officer” in relation to a body corporate).
+Commencement Information
+I97
+Sch. para. 97 in force at 8.7.2021 at 9.35 a.m.
+98.  Section 58(1) to (5) (offences by partnerships).
+Commencement Information
+I98
+Sch. para. 98 in force at 8.7.2021 at 9.35 a.m.
+99.  Section 58(6) (meaning of “offence” and “partner”).
+Commencement Information
+I99
+Sch. para. 99 in force at 8.7.2021 at 9.35 a.m.
+100.  Section 60 (appeals), so far as not already in force.
+Commencement Information
+I100
+Sch. para. 100 in force at 8.7.2021 at 9.35 a.m.
+101.  Section 61 (register of launches).
+Commencement Information
+I101
+Sch. para. 101 in force at 8.7.2021 at 9.35 a.m.
+102.  Section 62 (charging schemes), so far as not already in force.
+Commencement Information
+I102
+Sch. para. 102 in force at 8.7.2021 at 9.35 a.m.
+103.  Section 63 (provision of advice and assistance by or to an appointed person).
+Commencement Information
+I103
+Sch. para. 103 in force at 8.7.2021 at 9.35 a.m.
+104.  Section 64 (co-operation between Secretary of State and other public authorities).
+Commencement Information
+I104
+Sch. para. 104 in force at 8.7.2021 at 9.35 a.m.
+105.  Section 66(2) and (5) (use of records and documentary evidence).
+Commencement Information
+I105
+Sch. para. 105 in force at 8.7.2021 at 9.35 a.m.
+106.  Section 66(1), (3) and (4) (prescribed person: use of records and documentary evidence), so far as not already in force.
+Commencement Information
+I106
+Sch. para. 106 in force at 8.7.2021 at 9.35 a.m.
+107.  Section 67(1) F4... (minor and consequential amendments).
+Textual Amendments
+F4
+Words in Sch. para. 107 omitted (28.7.2021) by virtue of The Space Industry Act 2018 (Commencement No. 2, Transitional and Savings Provisions) (Amendment) Regulations 2021 (S.I. 2021/874), regs. 1(2), 2(3)
+Commencement Information
+I107
+Sch. para. 107 in force at 8.7.2021 at 9.35 a.m.
+108.  Schedule 1 (particular conditions that may be included in licences).
+Commencement Information
+I108
+Sch. para. 108 in force at 8.7.2021 at 9.35 a.m.
+109.  Schedule 4 (offences against the safety of spacecraft etc).
+Commencement Information
+I109
+Sch. para. 109 in force at 8.7.2021 at 9.35 a.m.
+110.  Schedule 6 (orders under sections 39 and 41).
+Commencement Information
+I110
+Sch. para. 110 in force at 8.7.2021 at 9.35 a.m.
+111.  Schedule 7 (powers in relation to land: quashing of orders).
+Commencement Information
+I111
+Sch. para. 111 in force at 8.7.2021 at 9.35 a.m.
+112.  Schedule 8 (powers in relation to land: compensation).
+Commencement Information
+I112
+Sch. para. 112 in force at 8.7.2021 at 9.35 a.m.
+113.  Schedule 9 (powers in relation to land: special provisions relating to statutory undertakers).
+Commencement Information
+I113
+Sch. para. 113 in force at 8.7.2021 at 9.35 a.m.
+114.  Schedule 10 (appeals), so far as not already in force.
+Commencement Information
+I114
+Sch. para. 114 in force at 8.7.2021 at 9.35 a.m.
+115.  Schedule 11 (charging schemes), so far as not already in force.
+Commencement Information
+I115
+Sch. para. 115 in force at 8.7.2021 at 9.35 a.m.
+116.  Schedule 12, paragraphs 1, 15, 17, 26 and 30 (minor and consequential amendments: Northern Ireland).
+Commencement Information
+I116
+Sch. para. 116 in force at 8.7.2021 at 9.35 a.m.
+117.  Schedule 12, paragraphs 2 to 7, F5... and 11 to 33 (minor and consequential amendments).
+Textual Amendments
+F5
+Word in Sch. para. 117 omitted (28.7.2021) by virtue of The Space Industry Act 2018 (Commencement No. 2, Transitional and Savings Provisions) (Amendment) Regulations 2021 (S.I. 2021/874), regs. 1(2), 2(4)
+Commencement Information
+I117
+Sch. para. 117 in force at 8.7.2021 at 9.35 a.m.EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations are the second Commencement Regulations made under the Space Industry Act 2018 (c. 5) (“the Act”) and they bring certain provisions of the Act into force on 29th July 2021. The first set of Commencement Regulations were brought into force by the Space Industry Act 2018 (Commencement No. 1) Regulations 2018 (S.I. 2018/1224). The provisions brought into force are mentioned in the Schedule to these Regulations.
+The provisions mentioned in the Schedule to these Regulations extend to England and Wales, Scotland and Northern Ireland except for those referred to in:
+(a)
+paragraphs 73, 82 to 85 and 113 which do not extend to Northern Ireland,
+(b)
+paragraphs 86 to 87 and 116 which apply to Northern Ireland only, and
+(c)
+paragraph 117 which has the same extent as the amendments to which Schedule 12 to the Act relates.
+Regulation 3(1) and (2) makes transitional provisions which enable applications for licences made under the Outer Space Act 1986 (“the 1986 Act”) at the coming into force of the licensing provisions contained in the Act, and which fall to be determined under that Act, to continue to be considered and determined under the 1986 Act.
+Regulation 3(3) saves licences granted by virtue of regulation 3(1) and (2) after the coming into force of the licensing provisions made under the Act by treating such licences as granted under the Act.
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen. Impact Assessments carried out in relation to the Act are available from the Department for Transport, Commercial Spaceflight Team, International Aviation, Safety and Environment, 4th Floor, Great Minster House, 33 Horseferry Road, London SW1P 4DR and at http://www.legislation.gov.uk/ukpga/2018/5/pdfs/ukpgaod_20180005_en_001.pdf.NOTE AS TO EARLIER COMMENCEMENT ORDERS
+(This note is not part of the Regulations)
+The following provisions of the Space Industry Act 2018 have been brought into force by Commencement Regulations made before the date of these Regulations.
+Provision Date of Commencement S.I. No.
+Section 1(5)
+Section 2(4) to (7)
+Section 3(2), (3) and (5)
+Section 4(2) to (4)
+Section 5(1) and (2)
+Section 6(1) and (2)
+Section 7(2), (4) to (7)
+Section 8(5) to (7)
+Section 9(2) and (3) (partially)
+Section 9(5) to (7) and (9)
+Section 10 (partially)
+Section 11(3), (4) and (6)
+Section 13(3) and (7)
+Section 14(4)
+Section 16(1) to (3) and (5) to (8)
+Section 17(1) and (2) (partially)
+Section 17(3)
+Section 18(1) to (3)
+Section 18(4) (partially)
+Section 18(5)
+Section 19
+Section 20
+Section 21(2) (partially)
+Section 21(6)
+Section 23(1) to (3)
+Section 26(3)
+Section 34(3) (partially)
+Section 34(5) and (6)
+Section 35(1)(b) (partially)
+Section 35(5)
+Section 36(3) (partially)
+Section 38(1) and (2)
+Section 38(4) (partially)
+Section 38(8)
+Section 52
+Section 54
+Section 56(4)
+Section 59
+Section 60 (partially)
+Section 62 (partially)
+Section 65
+Section 66(1), (3) and (4) (partially)
+Section 67(2) to (4)
+Schedule 2
+Schedule 3
+Schedule 5
+Schedule 10—
+paragraph 1
+paragraph 4 (partially)
+paragraph 5(3) (partially)
+paragraph 10
+paragraph 11 (partially)
+paragraph 12(2) and (3) (partially)
+paragraph 13(2) (partially), and
+paragraph 15
+paragraph 16(1) and (3)
+Schedule 11—
+paragraph 1
+paragraph 2(1),
+paragraph 3(1) and (3) and
+paragraph (5)(1) to (3)
+Schedule 12—
+paragraph 8, and
+paragraph 10
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+26th November 2018
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224
+2018/1224

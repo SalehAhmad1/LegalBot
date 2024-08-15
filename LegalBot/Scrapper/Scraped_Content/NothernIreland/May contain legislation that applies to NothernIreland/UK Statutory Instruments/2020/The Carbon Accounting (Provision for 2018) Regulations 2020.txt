@@ -1,0 +1,78 @@
+STATUTORY INSTRUMENTS
+2020 No. 115
+CLIMATE CHANGE
+The Carbon Accounting (Provision for 2018) Regulations 2020
+Made
+4th February 2020
+Laid before Parliament
+6th February 2020
+Coming into force
+28th February 2020
+The Secretary of State, before making these Regulations, has consulted with the Scottish Ministers, the Welsh Ministers and the Department for the Economy and the Department of Agriculture, Environment and Rural Affairs in Northern Ireland, in accordance with section 28(4)(b) of the Climate Change Act 2008 (“the Act”)(1).
+The Secretary of State, in exercise of the powers conferred by sections 26(1) and (2) and 27(3) and (4) of the Act, makes the following Regulations:
+(1)
+2008 c. 27.Citation and commencement
+1.  These Regulations may be cited as the Carbon Accounting (Provision for 2018) Regulations 2020 and come into force on 28th February 2020.Interpretation
+2.  In these Regulations—
+“the 2009 Regulations” means the Carbon Accounting Regulations 2009(1);
+“aerodrome” has the same meaning as in article 4 of the Climate Change Act 2008 (2020 Target, Credit Limit and Definitions) Order 2009(2);
+“the domestic aviation cap” means the figure produced as a result of carrying out the calculation set out in the Schedule to these Regulations;
+“domestic aviation emissions” means the emissions of carbon dioxide arising from any aircraft during taking off, flying and landing when the aerodrome from which the aircraft takes off and the aerodrome at which the aircraft next lands are both located in the United Kingdom.
+(1)
+S.I. 2009/1257, amended by S.I. 2009/3146, 2015/775.
+(2)
+S.I. 2009/1258.Crediting and debiting of carbon units as a result of the operation of the EU Emissions Trading Scheme in respect of installations during 2018
+3.  If, in accordance with the Greenhouse Gas Emissions Trading Scheme Regulations 2012(1), the amount of carbon units surrendered by operators of installations in the United Kingdom in respect of 2018 was—
+(a)
+greater than 152,311,507, an amount of carbon units equal to the difference is to be credited to the net UK carbon account in respect of 2018;
+(b)
+less than 152,311,507, an amount of carbon units equal to the difference is to be debited from the net UK carbon account in respect of 2018.
+(1)
+S.I. 2012/3038, to which there are amendments not relevant to these Regulations.Crediting and debiting of carbon units to take into account domestic aviation emissions during 2018
+4.—(1) If domestic aviation emissions in 2018 were—
+(a)
+greater than the domestic aviation cap, an amount of carbon units equal to the difference is to be credited to the net UK carbon account in respect of 2018;
+(b)
+less than the domestic aviation cap, an amount of carbon units equal to the difference is to be debited from the net UK carbon account in respect of 2018.
+(2) In calculating domestic aviation emissions and the domestic aviation cap, the Secretary of State must use such data about aviation emissions as appear to the Secretary of State to be the best available data.Duty to cancel carbon units credited to the net UK carbon account in respect of 2018
+5.—(1) It is the duty of the Secretary of State, during a period beginning on 1st January 2023 and ending on 15th May 2024, to ensure that each carbon unit credited to the net UK carbon account in respect of 2018 under regulation 5 of the 2009 Regulations is cancelled.
+(2) A carbon unit is cancelled for the purpose of this regulation if an operation is performed in relation to it equivalent to the operation of cancellation or deletion under Commission Regulation (EU) No 389/2013 of 2 May 2013 establishing a Union Registry pursuant to Directive 2003/87/EC of the European Parliament and of the Council, Decisions No 280/2004/EC and No 406/2009/EC of the European Parliament and of the Council and repealing Commission Regulations (EU) No 920/2010 and No 1193/2011(1).
+(1)
+OJ No. L 122, 3.5.2013, p. 1 as last amended by Commission Delegated Regulation (EU) 2019/1122 of 12 March 2019 (OJ No. L 177, 2.7.2019, p. 3).Amendments to the Carbon Accounting Regulations 2009
+6.—(1) The 2009 Regulations are amended as follows.
+(2) In regulation 2(1), for the definition of European Union allowance substitute—
+““European Union allowance” means an allowance as defined in Article 3(a) of the Emissions Trading Directive;”.
+(3) In regulation 9—
+(a)
+at the end of paragraph (1), add “and the Carbon Accounting (Provision for 2018) Regulations 2020”;
+(b)
+in paragraph (3), after “Regulations 2015,” insert “or regulation 3 or 4 of the Carbon Accounting (Provision for 2018) Regulations 2020,”;
+(c)
+in paragraph (6)—
+(i)
+after “Regulations 2015,” insert “or regulation 5 of the Carbon Accounting (Provision for 2018) Regulations 2020,”;
+(ii)
+for “on which the calculation was performed” substitute “of cancellation”.Kwasi Kwarteng
+Minister of State for Energy and Clean Growth
+Department for Business, Energy and Industrial Strategy
+4th February 2020Regulation 2
+SCHEDULE
+The Domestic Aviation Cap
+1.  For the purpose of this Schedule—
+“EEA aviation emissions” means the emissions of carbon dioxide arising from any aircraft during taking off, flying and landing when the aerodrome from which the aircraft takes off and the aerodrome at which the aircraft next lands are both located in the same EEA State; and
+“EEA State” means a state which was an EEA state on 31st December 2018 (whether or not that state was an EEA state in the years referred to in sub-paragraphs (a) and (c) of paragraph 2).
+2.  The domestic aviation cap (“DAC”), expressed in tonnes of carbon dioxide equivalent, is calculated as follows—
+where—
+(a)
+E is the arithmetic mean of the EEA aviation emissions for each of the years 2004, 2005 and 2006;
+(b)
+F is domestic aviation emissions for 2010; and
+(c)
+G is EEA aviation emissions for 2010.EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations make provision for carbon accounting in respect of 2018 for the purposes of Part 1 of the Climate Change Act 2008 (“the Act”). They form part of the rules for determining the net UK carbon account – defined in section 27(1) of the Act. The amount of the net UK carbon account for different periods determines whether the targets in the Act for emissions reductions have been met. These Regulations are relevant to the third carbon budget set under the Act, covering 2018-2022.
+Regulation 3 sets out the circumstances in which carbon units are to be credited to and debited from the net UK carbon account in respect of 2018 as a result of the operation of the European Union Emissions Trading Scheme in that year other than in relation to aviation.
+Regulation 4 sets out the circumstances in which carbon units are to be credited to and debited from the net UK carbon account to take into account domestic aviation emissions during 2018. It relies on the calculation of a domestic aviation cap in accordance with the Schedule.
+Regulation 5 of these Regulations places a duty on the Secretary of State to cancel all the carbon units (if any) credited to the net UK carbon account in respect of 2018 following their acquisition by the Secretary of State.
+Regulation 6 amends the Carbon Accounting Regulations 2009 in two respects. First, it updates the definition of European Union allowance. Second, it amends the duty in regulation 9 of the 2009 Regulations on the Secretary of State to keep a register of carbon units credited to and debited from the net UK carbon account so that it takes account of these Regulations.
+An impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.

@@ -1,0 +1,315 @@
+OFFERYNNAU STATUDOL CYMRU
+2019 Rhif 1132 (Cy. 197)
+TRAFNIDIAETH A GWEITHFEYDD, CYMRU
+Gorchymyn Rheilffyrdd Caerdydd a’r Cymoedd (Trosglwyddo) 2019
+Gwnaed
+15 Gorffennaf 2019
+Yn dod i rym
+2 Awst 2019
+Gwnaed cais i Weinidogion Cymru yn unol â Rheolau Trafnidiaeth a Gweithfeydd (Gweithdrefn Ceisiadau a Gwrthwynebiadau) (Cymru a Lloegr) 2006(1) am Orchymyn o dan adrannau 1 a 5 o Ddeddf Trafnidiaeth a Gweithfeydd 1992(2) (“y Ddeddf”).
+Mae Gweinidogion Cymru wedi penderfynu gwneud Gorchymyn i roi effaith i’r cynigion sydd yn y cais gydag addasiadau nad ydynt, yn eu barn hwy, yn gwneud unrhyw newid sylweddol i’r cynigion.
+Cyhoeddwyd hysbysiad o benderfyniad Gweinidogion Cymru yn y London Gazette ar 11 Gorffennaf 2019.
+Mae Gweinidogion Cymru, drwy arfer y pwerau a roddir i’r Ysgrifennydd Gwladol gan adrannau 1 a 5 o’r Ddeddf, a pharagraffau 1, 5, 6, 7, 8, 11, 15, 16 a 17 o Atodlen 1 iddi, sydd bellach yn arferadwy ganddynt hwy(3), yn gwneud y Gorchymyn a ganlyn:
+(1)
+O.S. 2006/1466, a ddiwygiwyd gan O.S. 2010/439, O.S. 2011/556, O.S. 2011/2085, O.S. 2012/147, O.S. 2012/1658, O.S. 2012/2590 ac O.S. 2013/755.
+(2)
+1992 p. 42.
+(3)
+Mae pwerau o dan adrannau 1 a 5 o’r Ddeddf, a pharagraffau 1, 5, 6, 7, 8, 11, 15, 16 a 17 o Atodlen 1 iddi, wedi eu breinio bellach yng Ngweinidogion Cymru I’r graddau y maent yn arferadwy o ran Cymru. Fe’u breiniwyd yn flaenorol yng Nghynulliad Cenedlaethol Cymru yn rhinwedd erthygl 2 o Orchymyn Cynulliad Cenedlaethol Cymru (Trosglwyddo Swyddogaethau) 1999 (O.S. 1999/672) ac Atodlen 1 iddo. Yn rhinwedd paragraffau 30 a 32 o Atodlen 11 i Ddeddf Llywodraeth Cymru 2006 (p. 32), fe’u trosglwyddwyd i Weinidogion Cymru.Enwi a chychwyn
+1.  Enw’r Gorchymyn hwn yw Gorchymyn Rheilffyrdd Caerdydd a’r Cymoedd (Trosglwyddo) 2019 a daw i rym ar 2 Awst 2019.Dehongli
+2.  Yn y Gorchymyn hwn—
+ystyr “y cwmnïau” (“the companies”) yw—
+(a)
+Keolis Amey Wales Cymru Limited (Rhif cofrestru’r cwmni 11391059) y mae ei swyddfa gofrestredig yn Nepo Maendy Amey Rail, oddi ar Caerleon Road, Casnewydd NP19 9DZ, a
+(b)
+Amey Keolis Infrastructure/Seilwaith Amey Keolis Limited (Rhif cofrestru’r cwmni 11389544) y mae ei gyfeiriad cofrestredig yn The Sherard Building, Edmund Halley Road, Oxford OX4 4DQ;
+ystyr “cynllun trosglwyddo” (“transfer scheme”) yw cynllun a wneir o dan erthygl 3(1) (cytundebau â Network Rail ar gyfer cynlluniau trosglwyddo);
+ystyr “darpariaeth statudol” (“statutory provision”) yw darpariaeth, pa un a yw’n un gyffredinol neu o natur arbennig, a geir mewn unrhyw Ddeddf, neu mewn unrhyw ddogfen a wneir neu a ddyroddir o dan unrhyw Ddeddf, pa un a yw’n un gyffredinol neu o natur arbennig;
+ystyr “y dyddiad perthnasol” (“the relevant date”) yw’r dyddiad y daw’r Gorchymyn hwn i rym;
+ystyr “llinellau craidd y Cymoedd” (“the core Valley lines”) yw’r rheilffyrdd a awdurdodir gan y deddfiadau a restrir yn Atodlen 1 (y deddfiadau rheilffyrdd ar gyfer llinellau craidd y Cymoedd) ynghyd â phob darn o dir a gwaith sy’n ymwneud â’r rheilffyrdd hynny;
+ystyr “Network Rail” (“Network Rail”) yw Network Rail Infrastructure Limited (Rhif cofrestru’r cwmni 02904587) y mae ei swyddfa gofrestredig yn 1 Eversholt Street, London, NW1 2DN ac unrhyw un o gwmnïau cysylltiedig Network Rail Infrastructure Limited sy’n dal eiddo at ddibenion rheilffordd, ac at ddibenion y diffiniad hwn ystyr “cwmni cysylltiedig” (“associated company”) yw unrhyw gwmni sydd (o fewn ystyr adran 1159 o Ddeddf Cwmnïau 2006(1)) yn gwmni daliannol Network Rail Infrastructure Limited neu sy’n un o is-gwmnïau eraill cwmni daliannol Network Rail Infrastructure Limited;
+ystyr “y rheilffyrdd a drosglwyddir” (“the transferred railways”) yw cynifer o linellau craidd y Cymoedd ag y gellir eu trosglwyddo i’r ymgymerwr drwy gynllun trosglwyddo;
+ystyr “ymgymeriad llinellau craidd y Cymoedd” (“the core Valley lines undertaking”) yw’r rhan o ymgymeriad Network Rail sy’n cynnwys llinellau craidd y Cymoedd, ac unrhyw dir, gwaith, eiddo arall, hawliau, atebolrwyddau neu rwymedigaethau, statudol neu fel arall, sy’n ymwneud â llinellau craidd y Cymoedd;
+ystyr “yr ymgymerwr” (“the undertaker”) yw Trafnidiaeth Cymru (Rhif y Cwmni 09476013) a ymgorfforwyd o dan Ddeddf Cwmnïau 2006, sy’n gwmni cyfyngedig drwy warant, y mae ei swyddfa gofrestredig yng Nghanolfan QED, Prif Rodfa, Stad Ddiwydiannol Trefforest, Pontypridd, Rhondda Cynon Taf CF37 5YR.
+(1)
+2006 p. 46.Cytundebau â Network Rail ar gyfer cynlluniau trosglwyddo
+3.—(1) Caiff yr ymgymerwr a Network Rail, yn amodol ar gydymffurfio â thelerau ei drwydded rhwydwaith yn achos Network Rail, gytuno ar, ymrwymo i, a gweithredu cynllun neu gynlluniau ar gyfer trosglwyddo i’r ymgymerwr y cyfan neu unrhyw ran o—
+(a)
+llinellau craidd y Cymoedd, a
+(b)
+ymgymeriadau llinellau craidd y Cymoedd.
+(2) Caniateir gwneud cynllun trosglwyddo o dan baragraff (1) yn unol â chytundeb a wneir cyn i’r Gorchymyn hwn ddod i rym y gellid bod wedi ei wneud o dan baragraff (1) pe bai wedi cael ei wneud ar y dyddiad hwnnw neu ar ôl hynny.
+(3) Pan wneir cynllun trosglwyddo o dan baragraff (1) mae’r ymgymerwr, i’r graddau a nodir yn y cynllun trosglwyddo—
+(a)
+yn meddu ar yr hawl i gael budd o’r holl hawliau, pwerau a breintiau sy’n ymwneud â llinellau craidd y Cymoedd neu unrhyw ran ohonynt y cyfeirir atynt yn y cynllun trosglwyddo ac arfer yr hawliau, y pwerau a’r breintiau hynny,
+(b)
+yn ddarostyngedig i’r holl rwymedigaethau, statudol neu fel arall, sy’n ymwneud â llinellau craidd y Cymoedd neu unrhyw ran ohonynt (i’r graddau y mae’r darpariaethau hynny yn parhau mewn grym ac yn gallu cael effaith), gyda Network Rail yn cael ei ryddhau rhag pob cyfryw rwymedigaeth yn y telerau y darperir ar eu cyfer yn y cynllun trosglwyddo, ac
+(c)
+yn gallu addasu ar, yn, dros neu o dan y tir, y gweithfeydd a’r eiddo hynny, unrhyw reilffordd i’w ddefnyddio, ei gynnal a’i gadw, ei ddefnyddio a’i weithredu.
+(4) Nid oes unrhyw beth ym mharagraff (3) yn lleihau effaith unrhyw ddarpariaeth statudol benodol ar gyfer—
+(a)
+amddiffyn perchennog, lesddeiliad neu feddiannydd unrhyw eiddo a nodir yn benodol gan y ddarpariaeth, neu
+(b)
+diogelu, neu fod er budd, unrhyw ymddiriedolwyr cyhoeddus neu gomisiynwyr, corfforaeth neu berson arall, a enwir yn benodol yn y ddarpariaeth.
+(5) Mae Atodlen 2 yn gwneud darpariaeth bellach ynghylch cynlluniau trosglwyddo.Achosion pellach o drosglwyddo rheilffyrdd gan yr ymgymerwr
+4.—(1) Yn yr erthygl hon—
+mae “prydles” (“lease”) yn cynnwys isbrydles a rhaid dehongli’r ferf “prydlesu” (“lease”) yn unol â hynny;
+ystyr “y trosglwyddai” (“the transferee”) yw unrhyw berson y prydlesir neu y gwerthir y rheilffyrdd, neu unrhyw ran ohonynt, iddo o dan y pwerau a roddir gan yr erthygl hon;
+ystyr “yr ymgymeriad a drosglwyddir” (“the transferred undertaking”) yw cymaint o’r rheilffyrdd ag a brydlesir neu a werthir o dan y pwerau a roddir gan yr erthygl hon.
+(2) Yn ddarostyngedig i baragraff (3), unrhyw bryd ar ôl y dyddiad perthnasol, caiff yr ymgymerwr, gyda chydsyniad Gweinidogion Cymru, werthu neu brydlesu’r rheilffyrdd a drosglwyddir neu unrhyw ran ohonynt i unrhyw berson ar y cyfryw delerau ac amodau ag y gellir cytuno arnynt rhwng yr ymgymerwr a’r person hwnnw.
+(3) Nid oes angen cydsyniad Gweinidogion Cymru o dan baragraff (2) os bwriedir prydlesu’r rheilffyrdd a drosglwyddir neu unrhyw ran ohonynt i un o’r cwmnïau neu i’r ddau ohonynt.
+(4) Ac eithrio fel y darperir fel arall yn y Gorchymyn hwn—
+(a)
+mae’r ymgymeriad a drosglwyddir yn parhau i fod yn ddarostyngedig i’r holl ddarpariaethau statudol a’r holl ddarpariaethau eraill sy’n gymwys iddo ar ddyddiad y brydles neu’r gwerthiant (i’r graddau y mae’r darpariaethau hynny yn parhau mewn grym ac yn gallu cael effaith),
+(b)
+mae gan y trosglwyddai, ac eithrio’r ymgymerwr, yr hawl i gael budd o’r holl hawliau, pwerau a breintiau sy’n ymwneud â’r ymgymeriad a drosglwyddir ac arfer yr hawliau, y pwerau a’r breintiau hynny, ac
+(c)
+wrth arfer pwerau unrhyw ddeddfiad, mae’r trosglwyddai yn ddarostyngedig i’r un rhwymedigaethau, statudol neu fel arall, ag a fyddai’n gymwys pe câi’r pwerau hynny eu harfer gan yr ymgymerwr.
+(5) Mae paragraff (4) yn cael effaith yn ystod cyfnod unrhyw brydles a roddir, ac o ddyddiad gweithredol unrhyw werthiant, o dan y pwerau a roddir gan yr erthygl hon.Y pŵer i weithredu a defnyddio rheilffordd
+5.—(1) Caiff yr ymgymerwr ac unrhyw drosglwyddai o dan erthygl 4 weithredu a defnyddio’r rheilffyrdd a drosglwyddir fel system drafnidiaeth, neu ran o system drafnidiaeth, ar gyfer cludo teithwyr a nwyddau.
+(2) Nid oes unrhyw beth yn y Gorchymyn hwn, nac mewn unrhyw ddeddfiad a ymgorfforir â’r Gorchymyn hwn neu a gymhwysir ganddo, yn lleihau effaith nac yn effeithio ar weithrediad Rhan 1 o Ddeddf Rheilffyrdd 1993(1).
+(1)
+1993 p. 43.Julie James
+Y Gweinidog Tai a Llywodraeth Leol, un o Weinidogion Cymru
+15 Gorffennaf 2019Erthygl 2
+ATODLEN 1
+Y deddfiadau rheilffyrdd ar gyfer llinellau craidd y Cymoedd
+Deddf Rheilffordd Cwm Taf 1836 (1836 p. lxxxii.)
+Deddf Rheilffordd Aberdâr 1845 (1845 p. clix.)
+Deddf Rheilffordd De Cymru 1845 (1845 p. cxc.)
+Deddf Rheilffordd Cwm Nedd 1846 (1846 p. cccxli.)
+Deddf Rheilffordd Cwm Taf 1846 (1846 p. cccxciii.)
+Deddf Diwygio Cwm Nedd 1847 (1847 p. lxxiv.)
+Deddf Diwygio Rheilffordd De Cymru 1847 (1847 p. cix.)
+Deddf Rheilffordd Casnewydd, y Fenni a Henffordd (Estyniad i Reilffordd Cwm Taf) 1847 (1847 p. clxxvii.)
+Deddf Gwaith Newydd Rheilffordd De Cymru 1851 (1851 p. lii.)
+Deddf Rheilffordd Cwm Nedd 1852 (1852 p. xvi.)
+Deddf Rheilffordd Rhymni 1854 (1854 p. cxciii.)
+Deddf Diwygio Rheilffordd Rhymni 1855 (1855 p. cx.)
+Deddf Rheilffordd Cwm Aberdâr 1855 (1855 p. cxx.)
+Deddf Harbwr Llanw a Rheilffordd Elái 1856 (1856 p. cxxii.)
+Deddf Rheilffordd Casnewydd, y Fenni a Henffordd 1857 (1857 p. cxix.)
+Deddf Rheilffordd Rhymni 1857 (1857 p. cxl.)
+Deddf Rheilffordd Cwm Taf 1857 (1857 p. cliii.)
+Deddf Rheilffordd Rhymni (Caerdydd a Chaerffili) 1864 (1864 p. cclxiv.)
+Deddf Rheilffordd Rhymni (Llinellau’r Gogledd) 1864 (1864 p. cclxxv.)
+Deddf Rheilffordd Great Western (Pwerau Pellach) 1866 (1866 p. cccvii.)
+Deddf Rheilffordd Great Western (Pwerau Amrywiol) 1867 (1867 p. cl.)
+Deddf Rheilffordd Rhymni 1867 (1867 p. clxxi.)
+Deddf Rheilffordd Aberhonddu a Merthyr Tudful (Trefniant) 1868 (1868 p. cxlii.)
+Deddf Rheilffordd Great Western 1872 (1872 p. cxxix.)
+Deddf Rheilffordd Cwm Taf 1873 (1873 p. clviii.)
+Deddf Rheilffordd Great Western 1880 (1880 p. cxli.)
+Deddf Rheilffordd Cwm Taf 1884 (1884 p. ccii.)
+Deddf Rheilffordd Great Western 1890 (1890 p. clix.)
+Deddf Rheilffordd Caerdydd 1897 (1897 p. ccvii.)Erthygl 3
+ATODLEN 2
+Darpariaethau sy’n ymwneud â chynlluniau trosglwyddo
+Darpariaethau cyffredinol ynghylch cynlluniau trosglwyddo
+1.—(1) Caiff cynllun trosglwyddo—
+(a)
+diffinio’r eiddo, yr hawliau a’r atebolrwyddau sydd i’w trosglwyddo i’r ymgymerwr (yn amodol ar unrhyw eithriad, cymal cadw neu delerau eraill y gellir ei bennu neu eu pennu yn y cynllun trosglwyddo)—
+(i)
+drwy bennu neu ddisgrifio’r eiddo, yr hawliau a’r atebolrwyddau dan sylw,
+(ii)
+drwy gyfeirio at yr holl eiddo, hawliau ac atebolrwyddau a geir mewn rhan benodedig o ymgymeriad llinellau craidd y Cymoedd (neu’r holl eiddo, hawliau ac atebolrwyddau ond cymaint ag y gellir ei eithrio neu ei gadw’n ôl), neu
+(iii)
+yn rhannol yn y naill ffordd ac yn rhannol yn y llall;
+(b)
+darparu y bydd unrhyw hawliau neu atebolrwyddau a bennir neu a ddisgrifir yn y cynllun yn orfodadwy naill ai gan neu yn erbyn yr ymgymerwr neu Network Rail (neu’r ddau ohonynt);
+(c)
+heb effeithio ar baragraff 6, gosod rhwymedigaeth ar yr ymgymerwr neu Network Rail i ymrwymo i’r cyfryw gytundebau ysgrifenedig â Network Rail neu’r ymgymerwr neu’r cyfryw berson arall ag y gellir ei bennu yn y cynllun, neu weithredu’r cyfryw offerynnau eraill o blaid Network Rail neu’r ymgymerwr neu’r person arall hwnnw;
+(d)
+gwneud y cyfryw ddarpariaeth atodol, gysylltiedig, ganlyniadol neu drosiannol ag sy’n briodol ym marn yr ymgymerwr a Network Rail.
+(2) Caniateir i rwymedigaeth a osodir gan ddarpariaeth a gynhwyswyd mewn cynllun trosglwyddo yn rhinwedd is-baragraff (1)(c) gael ei gorfodi gan yr ymgymerwr neu Network Rail neu berson arall a grybwyllir yn yr is-baragraff hwnnw—
+(a)
+mewn achos sifil i gael gwaharddeb,
+(b)
+mewn achos sifil i gael unrhyw ryddhad neu rwymedi priodol arall, neu
+(c)
+mewn unrhyw ffordd arall a awdurdodir gan y cynllun trosglwyddo.
+(3) Mae trafodyn o unrhyw ddisgrifiad a gyflawnir yn unol â rhwymedigaeth a osodir gan ddarpariaeth a gynhwyswyd mewn cynllun trosglwyddo yn rhinwedd is-baragraff (1)(c)—
+(a)
+yn cael effaith yn ddarostyngedig i ddarpariaethau unrhyw ddeddfiad sy’n darparu ar gyfer cofrestru trafodion o’r disgrifiad hwnnw mewn unrhyw gofrestr statudol, ond
+(b)
+yn ddarostyngedig i hynny, yn gyfrwymol ar bob person arall, er y byddai wedi bod angen iddo gael, ar wahân i’r paragraff hwn, gydsyniad neu gymeradwyaeth unrhyw berson arall.
+(4) Nid oes unrhyw hawl refersiwn, hawl rhagbryniant, hawl fforffedu, hawl ailfynediad, opsiwn na hawl debyg sy’n effeithio ar dir yn weithredol nac yn dod yn adferadwy o ganlyniad i drosglwyddo unrhyw dir—
+(a)
+yn rhinwedd cynllun trosglwyddo;
+(b)
+yn unol â rhwymedigaeth a osodir gan ddarpariaeth a gynhwyswyd mewn cynllun trosglwyddo yn rhinwedd is-baragraff (1)(c);
+ac, mae unrhyw gyfryw hawl neu opsiwn yn cael effaith, felly, yn achos unrhyw gyfryw drosglwyddiad fel pe bai’r ymgymerwr mewn perthynas â’r trosglwyddiad hwnnw a Network Rail yr un person o dan y gyfraith ac fel pe na bai’r tir wedi ei drosglwyddo.
+(5) Mae is-baragraff (4) yn cael effaith mewn perthynas â—
+(a)
+rhoi neu greu ystad neu fuddiant mewn tir neu hawl dros dir, neu
+(b)
+gwneud unrhyw beth arall mewn perthynas â thir,
+fel y mae’n cael effaith mewn perthynas â throsglwyddo tir; a rhaid dehongli unrhyw gyfeiriad yn yr is-baragraff hwnnw neu yn narpariaethau canlynol yr Atodlen hon i Network Rail neu’r ymgymerwr yn unol â hynny.
+(6) Mewn unrhyw achos lle—
+(a)
+y byddai unrhyw gyfryw hawl neu opsiwn ag a grybwyllir yn is-baragraff (4), ar wahân i’r is-baragraff hwnnw, wedi gweithredu o blaid person neu’n dod yn arferadwy ganddo, ond
+(b)
+mae’r amgylchiadau yn golygu, o ganlyniad i weithredu’r is-baragraff hwnnw, na all yr hawl na’r opsiwn weithredu wedyn o blaid y person hwnnw neu, yn ôl y digwydd, ddod yn arferadwy gan y person hwnnw,
+mae’n rhaid i’r ymgymerwr dalu’r cyfryw ddigollediad ag a all fod yn gyfiawn i’r person hwnnw mewn cysylltiad â diddymu’r hawl neu’r opsiwn.
+(7) Rhaid cyfeirio unrhyw anghydfod ynghylch pa un a oes unrhyw ddigollediad yn daladwy o dan is-baragraff (6) ac (os oes) faint, neu ynghylch y person y telir y digollediad iddo, at gymrodeddwr, a benodir gan Lywydd (am y tro) Sefydliad Brenhinol y Syrfewyr Siartredig, a fydd yn penderfynu arno.
+(8) Os ymddengys i’r ymgymerwr fod gan berson (A) hawl, neu y gall fod ganddo hawl, i gael digollediad o dan is-baragraff (6), rhaid i’r ymgymerwr—
+(a)
+hysbysu A fod gan A hawl, neu y gall fod ganddo hawl, i’w gael, a
+(b)
+gwahodd A i gyflwyno’r cyfryw sylwadau ag y mae A yn dymuno eu cyflwyno i’r ymgymerwr yn ddim hwyrach na 14 diwrnod ar ôl dyddiad dyroddi’r ddogfen sy’n cynnwys yr hysbysiad sy’n ofynnol o dan is-baragraff (8)(a),
+neu, os nad yw’r ymgymerwr yn ymwybodol o enw a chyfeiriad y person dan sylw, mae’n rhaid iddo gyhoeddi, yn y fath fodd ag sy’n briodol ym marn yr ymgymerwr, hysbysiad sy’n cynnwys gwybodaeth am y buddiant yr effeithir arno ac sy’n gwahodd unrhyw berson sy’n credu bod ganddo hawl, neu y gall fod ganddo hawl, i gael digollediad, i gyflwyno’r cyfryw sylwadau i’r ymgymerwr o fewn y cyfryw gyfnod o amser (na fydd yn llai nag 28 diwrnod o ddyddiad cyhoeddi’r cyfryw hysbysiad) fel y’i pennir yn yr hysbysiad.
+Eiddo, hawliau ac atebolrwyddau y caniateir eu trosglwyddo
+2.  Mae’r eiddo, yr hawliau a’r atebolrwyddau y caiff cynllun trosglwyddo ddarparu ar gyfer eu trosglwyddo yn cynnwys (yn benodol)—
+(a)
+hawliau ac atebolrwyddau sy’n ymwneud â chontractau cyflogaeth:
+(b)
+eiddo, hawliau ac atebolrwyddau na allent, fel arall, gael eu trosglwyddo na’u haseinio gan Network Rail;
+(c)
+eiddo a gaffaelir ar ôl gwneud y cynllun a hawliau ac atebolrwyddau sy’n codi ar ôl gwneud y cynllun;
+(d)
+heb effeithio ar baragraff 3, hawliau ac atebolrwyddau o dan ddarpariaeth statudol.
+Swyddogaethau o dan ddeddfwriaeth leol neu breifat
+3.—(1) Caiff cynllun trosglwyddo ddarparu y bydd unrhyw swyddogaethau a gyflawnir gan Network Rail o dan ddarpariaeth statudol—
+(a)
+yn cael eu trosglwyddo i’r ymgymerwr, neu
+(b)
+yn arferadwy gan Network Rail a’r ymgymerwr ar yr un pryd.
+(2) Mae is-baragraff (1) yn gymwys mewn perthynas ag unrhyw swyddogaeth o dan ddarpariaeth statudol os ac i’r graddau y bydd y ddarpariaeth statudol—
+(a)
+yn ymwneud ag unrhyw ran o ymgymeriad llinellau craidd y Cymoedd, neu unrhyw eiddo, sydd i’w throsglwyddo neu ei drosglwyddo gan y cynllun, neu
+(b)
+yn awdurdodi gwneud gwaith y bwriedir iddo gael ei ddefnyddio mewn cysylltiad ag unrhyw ran o ymgymeriad llinellau craidd y Cymoedd neu gaffael tir at ddibenion gwneud unrhyw gyfryw waith.
+(3) Caiff cynllun trosglwyddo ddiffinio unrhyw swyddogaethau a gyflawnir gan Network Rail y bydd y cynllun yn eu trosglwyddo neu’n eu gwneud yn arferadwy ar yr un pryd yn unol ag is-baragraff (1)—
+(a)
+drwy bennu’r darpariaethau statudol dan sylw,
+(b)
+drwy gyfeirio at yr holl ddarpariaethau statudol sy’n—
+(i)
+ymwneud ag unrhyw ran o ymgymeriad llinellau craidd y Cymoedd, neu unrhyw eiddo, sydd i’w throsglwyddo neu ei drosglwyddo gan y cynllun, neu
+(ii)
+awdurdodi gwneud gwaith y bwriedir iddo gael ei ddefnyddio mewn cysylltiad ag unrhyw ran o ymgymeriad llinellau craidd y Cymoedd neu gaffael tir at ddibenion gwneud unrhyw gyfryw waith, neu
+drwy gyfeirio at yr holl ddarpariaethau statudol yn is-baragraff (3)(b) ond gan bennu darpariaethau penodol sydd wedi eu heithrio.
+Prawf teitl ar ffurf tystysgrif
+4.—(1) Yn achos unrhyw drosglwyddiad y mae’r Atodlen hon yn gymwys iddo, mae cyd-dystysgrif gan neu ar ran Network Rail a’r ymgymerwr sy’n nodi bod—
+(a)
+unrhyw eiddo a bennir yn y dystysgrif, neu
+(b)
+unrhyw gyfryw fuddiant mewn unrhyw gyfryw eiddo ag y gellir ei bennu felly, neu unrhyw gyfryw hawl drosto, neu
+(c)
+unrhyw hawl neu atebolrwydd a bennir felly,
+yn eiddo, neu (yn ôl y digwydd) yn fuddiant, yn hawl neu’n atebolrwydd y bwriadwyd iddo neu iddi gael ei freinio neu ei breinio, ac a freiniwyd, yn rhinwedd y cynllun trosglwyddo yn y cyfryw un ohonynt ag y gellir ei bennu neu ei phennu felly (ac, os mai’r ymgymerwr a bennir felly, nad yw’r eiddo, y buddiant, yr hawl na’r atebolrwydd wedi ei drosglwyddo nac ei throsglwyddo yn ôl i Network Rail yn rhinwedd cytundeb o dan baragraff 9) yn dystiolaeth bendant at bob diben o’r ffaith honno.
+(2) Ar ddiwedd un mis yn dilyn cais gan naill ai Network Rail neu’r ymgymerwr i baratoi’r cyfryw gyd-dystysgrif mewn cysylltiad ag unrhyw eiddo, buddiant, hawl neu atebolrwydd, os na fyddant wedi cytuno ar delerau’r dystysgrif, bydd yn rhaid iddynt gyfeirio’r mater at Weinidogion Cymru a dyroddi’r dystysgrif yn y cyfryw dermau ag y gall Gweinidogion Cymru gyfarwyddo iddynt eu defnyddio.
+Caiff cynllun trosglwyddo ddarparu ar gyfer trin tramgwyddau ac ati fel pe na baent wedi digwydd
+5.—(1) Caiff cynllun trosglwyddo gynnwys darpariaeth i drosglwyddiad gael effaith fel pe na bai unrhyw dramgwydd nac atebolrwydd, nac ymyrraeth ag unrhyw fuddiant na hawl, a fyddai’n bodoli fel arall o dan ddarpariaeth sy’n dod o dan is-baragraff (2).
+(2) Daw darpariaeth o dan yr is-baragraff hwn os yw’n cael effaith (pa un ai o dan ddeddfiad neu gytundeb neu fel arall) mewn perthynas â’r telerau y mae gan Network Rail hawl i’r eiddo neu’r hawl, neu y mae’n ddarostyngedig i’r atebolrwydd, y mae’r cynllun trosglwyddo yn darparu ar gyfer ei drosglwyddo neu ei throsglwyddo.
+(3) Caiff cynllun trosglwyddo gynnwys darpariaeth i—
+(a)
+creu buddiant mewn eiddo (gan gynnwys prydles),
+(b)
+trosglwyddo cyfranddaliadau yn un o is-gwmnïau Network Rail, neu
+(c)
+creu hawl mewn perthynas ag eiddo,
+a fydd yn cael effaith fel pe na bai unrhyw dramgwydd nac atebolrwydd, nac ymyrraeth ag unrhyw fuddiant na hawl, a fyddai’n bodoli fel arall o dan ddarpariaeth sy’n dod o dan is-baragraff (4) neu (5).
+(4) Daw darpariaeth o dan yr is-baragraff hwn os yw’n cael effaith (pa un ai o dan ddeddfiad neu gytundeb neu fel arall) mewn perthynas â’r telerau y mae gan Network Rail hawl i’r eiddo.
+(5) Daw darpariaeth o dan yr is-baragraff hwn os yw’n cael effaith (pa un ai o dan ddeddfiad neu gytundeb neu fel arall) mewn perthynas â’r telerau y mae gan un o is-gwmnïau Network Rail hawl i unrhyw beth, neu y mae’n ddarostyngedig i unrhyw beth, yn union cyn i greu’r buddiant neu hawl gymryd effaith.
+Caiff cynllun trosglwyddo osod rhwymedigaethau i ymrwymo i gytundebau neu weithredu offerynnau
+6.—(1) Caiff cynllun trosglwyddo gynnwys darpariaeth ar gyfer gosod, ar Network Rail neu’r ymgymerwr, rwymedigaethau i wneud y canlynol—
+(a)
+ymrwymo i gytundebau â phersonau a bennir yn y cynllun,
+(b)
+gweithredu offerynnau o blaid personau a bennir yn y cynllun, neu
+(c)
+gweithredu’r cyfryw offerynnau eraill ag sy’n angenrheidiol neu’n fuddiol i nodi neu ddiffinio’r eiddo, yr hawliau a’r atebolrwyddau a drosglwyddir i’r ymgymerwr neu a gedwir gan Network Rail.
+(2) Y personau y caniateir eu pennu felly yw—
+(a)
+yr ymgymerwr;
+(b)
+Network Rail;
+(c)
+unrhyw berson arall.
+(3) Rhaid i’r cynllun trosglwyddo bennu neu ddisgrifio’r cytundeb neu’r offeryn y mae’r rhwymedigaeth yn ymwneud ag ef.
+(4) Caiff unrhyw gyfryw gytundeb ddarparu, i’r graddau y mae’n fuddiol, ar gyfer—
+(a)
+rhoi prydlesau a chreu atebolrwyddau a hawliau eraill dros dir pa un a ydynt yn gyfystyr o dan y gyfraith â buddiannau mewn tir ai peidio, a pha un a ydynt yn golygu ildio unrhyw fuddiant presennol neu greu buddiant newydd ai peidio,
+(b)
+rhoi indemniadau mewn cysylltiad â thorri prydlesau a materion eraill, ac
+(c)
+cyfrifoldeb am gofrestru unrhyw fater mewn unrhyw gofrestr statudol.
+Darpariaethau atodol cynlluniau trosglwyddo
+7.—(1) Caiff cynllun trosglwyddo wneud y cyfryw ddarpariaeth gysylltiedig, atodol, ganlyniadol a throsiannol ag sy’n briodol, ym marn Network Rail a’r ymgymerwr.
+(2) Mae’r ddarpariaeth o dan is-baragraff (1) y caiff cynllun trosglwyddo ei wneud, yn cynnwys (yn benodol) ddarpariaeth—
+(a)
+sy’n arbed effaith pethau a wneir gan Network Rail neu mewn perthynas ag ef,
+(b)
+ar gyfer trin yr ymgymerwr a Network Rail fel pe baent yr un person o dan y gyfraith,
+(c)
+ar gyfer trin pethau a wneir gan Network Rail neu mewn perthynas ag ef fel pe baent wedi eu gwneud gan yr ymgymerwr neu mewn perthynas ag ef,
+(d)
+i bethau (gan gynnwys achosion cyfreithiol) a wneir gan Network Rail neu mewn perthynas ag ef gael eu parhau gan yr ymgymerwr neu mewn perthynas ag ef, ac
+(e)
+i gyfeiriadau mewn dogfen at Network Rail, neu at un o gyflogeion neu swyddogion Network Rail, gael effaith gydag addasiadau a bennir yn y cynllun trosglwyddo.
+(3) Mae’r ddarpariaeth y caniateir ei gwneud o dan is-baragraff (2)(e) yn cynnwys darpariaeth ar gyfer trin cyfeiriadau at Network Rail mewn unrhyw ddarpariaeth statudol, neu unrhyw ddarpariaeth mewn cytundeb nad yw Network Rail yn barti ynddo, fel cyfeiriadau at yr ymgymerwr, os ac i’r graddau y bydd y ddarpariaeth yn ymwneud ag ymgymeriad llinellau craidd y Cymoedd.
+(4) Mae’r cyfeiriadau yn y paragraff hwn at gytundebau y mae Network Rail yn barti ynddynt a darpariaethau statudol yn cynnwys, yn benodol, gyfeiriadau at gytundebau y daeth Network Rail yn barti ynddynt, yn rhinwedd Deddf Trafnidiaeth 1962(1) a Deddf Rheilffyrdd 1993(2) a darpariaethau statudol sy’n gymwys i Network Rail yn rhinwedd y Deddfau hynny.
+Effaith cynllun trosglwyddo
+8.—(1) Ar yr adeg a bennwyd at y diben gan gynllun trosglwyddo, caiff—
+(a)
+eiddo, hawliau ac atebolrwyddau y mae cynllun yn darparu ar gyfer eu trosglwyddo, a
+(b)
+buddiannau, hawliau ac atebolrwyddau y mae’r cynllun yn darparu ar gyfer eu creu,
+yn rhinwedd yr is-baragraff hwn, eu trosglwyddo neu (yn ôl y digwydd) eu creu yn unol â’r cynllun.
+(2) Caiff cynllun bennu gwahanol adegau ar gyfer trosglwyddo neu greu pethau gwahanol.
+Amrywio cynlluniau trosglwyddo
+9.—(1) Ar unrhyw adeg cyn diwedd y cyfnod o ddeuddeng mis sy’n dechrau â’r dyddiad y mae’r cynllun trosglwyddo yn cael effaith, caiff yr ymgymerwr a Network Rail, gyda chymeradwyaeth Gweinidogion Cymru, gytuno’n ysgrifenedig—
+(a)
+o’r cyfryw ddyddiad ag y gellir ei bennu neu ei benderfynu o dan y cytundeb, a
+(b)
+o dan y cyfryw amgylchiadau (os oes rhai) ag y gellir eu pennu felly,
+y caiff unrhyw eiddo, hawliau ac atebolrwyddau a bennir yn y cytundeb eu trosglwyddo oddi wrth yr ymgymerwr i Network Rail ac y byddant wedi eu breinio ynddo; ond ni fydd unrhyw gyfryw gytundeb yn cael effaith mewn perthynas â hawliau ac atebolrwyddau o dan gontract cyflogaeth oni fydd y cyflogai dan sylw yn barti yn y cytundeb.
+(2) Yn ddarostyngedig i is-baragraffau (3) a (4), yn achos cytundeb o dan is-baragraff (1), caiff yr eiddo, yr hawliau a’r atebolrwyddau dan sylw eu trosglwyddo a’u breinio yn unol â’r cytundeb.
+(3) Bydd unrhyw drosglwyddiad a gyflawnir yn unol â chytundeb o dan is-baragraff (1) yn cael effaith yn ddarostyngedig i ddarpariaethau unrhyw ddeddfiad sy’n darparu ar gyfer cofrestru’r cyfryw drafodion mewn unrhyw gofrestr statudol.
+(4) Mae darpariaethau’r Atodlen hon yn cael effaith mewn perthynas â throsglwyddiad a gyflawnir yn unol â chytundeb o dan is-baragraff (1) fel pe bai—
+(a)
+unrhyw gyfeiriad at drosglwyddiad y mae’r Atodlen hon yn gymwys iddo yn cynnwys cyfeiriad at drosglwyddiad a gyflawnir yn unol â’r cyfryw gytundeb,
+(b)
+unrhyw gyfeiriad at drafodyn a gyflawnir yn unol â chynllun trosglwyddo yn cynnwys cyfeiriad at y cyfryw gytundeb,
+(c)
+unrhyw gyfeiriad at freinio yn rhinwedd cynllun trosglwyddo yn cynnwys cyfeiriad at freinio yn rhinwedd y cyfryw gytundeb, a
+(d)
+ac eithrio yn achos paragraff 1(6) i (8), unrhyw gyfeiriad at Network Rail yn gyfeiriad at yr ymgymerwr, ac fel arall.
+Trosglwyddo cyflogeion a pharhad cyflogaeth
+10.—(1) Pan fydd person a gyflogir gan Network Rail yn dod yn gyflogai i’r ymgymerwr, yn rhinwedd cynllun trosglwyddo—
+(a)
+nid ystyrir, at ddibenion Rhan 11 o Ddeddf Hawliau Cyflogaeth 1996(3), fod y person wedi ei ddiswyddo yn rhinwedd y trosglwyddiad,
+(b)
+mae cyfnod cyflogaeth y person gyda Network Rail yn cyfrif, at ddibenion y Ddeddf honno, fel cyfnod o gyflogaeth gyda’r ymgymerwr, ac
+(c)
+nid yw newid cyflogaeth yn torri parhad y cyfnod o gyflogaeth at ddibenion y Ddeddf honno.
+(2) Mae’r is-baragraff hwn yn gymwys pan fo—
+(a)
+cynllun trosglwyddo yn darparu ar gyfer trosglwyddo hawliau, pwerau, dyletswyddau ac atebolrwyddau sy’n ymwneud â chontract cyflogaeth person, ond
+(b)
+cyn i’r trosglwyddiad gymryd effaith, bod y person yn hysbysu Network Rail neu’r ymgymerwr ei fod yn gwrthwynebu’r trosglwyddiad.
+(3) Pan fo is-baragraff (2) yn gymwys—
+(a)
+ni throsglwyddir yr hawliau, y pwerau, y dyletswyddau na’r atebolrwyddau hynny i’r ymgymerwr;
+(b)
+terfynir contract cyflogaeth y person yn union cyn y diwrnod y byddai’r trosglwyddiad wedi digwydd;
+(c)
+nid ystyrir bod y person, at unrhyw ddiben, wedi ei ddiswyddo.
+(4) Nid oes unrhyw beth yn is-baragraff (2) na (3) yn effeithio ar hawl y person i derfynu’r contract cyflogaeth os gwneir newid sylweddol, ar wahân i newid cyflogwr, gan niweidio’r person o ran ei amodau gwaith.
+(5) Os bydd cynllun trosglwyddo yn darparu ar gyfer trosglwyddo hawliau, pwerau, dyletswyddau ac atebolrwyddau sy’n ymwneud â chontract cyflogaeth y person, caiff gynnwys darpariaeth mewn cysylltiad â chymhwystra’r person i fod yn aelod o gynllun pensiwn yn rhinwedd ei gyflogaeth gyda’r ymgymerwr.
+(6) Caiff y cynllun trosglwyddo gynnwys darpariaeth mewn cysylltiad â hawliau’r person, neu hawliau neu atebolrwyddau mewn cysylltiad ag ef, o dan—
+(a)
+cynllun pensiwn y gall y person ymaelodi ag ef yn rhinwedd ei gyflogaeth gyda’r ymgymerwr, neu
+(b)
+cynllun pensiwn y mae’r person yn aelod ohono yn rhinwedd ei gyflogaeth yn union cyn y trosglwyddiad.
+(1)
+1962 p. 46.
+(2)
+1993 p. 43.
+(3)
+1996 p. 18.NODYN ESBONIADOL
+(Nid yw’r nodyn hwn yn rhan o’r Gorchymyn)
+Mae’r Gorchymyn hwn yn darparu i Drafnidiaeth Cymru a Network Rail Infrastructure Limited ymrwymo i gynlluniau ar gyfer trosglwyddo o Network Rail Infrastructure Limited i Drafnidiaeth Cymru ddarpariaethau statudol penodol a hawliau ac atebolrwyddau eraill sy’n ymwneud â’r rheilffyrdd sy’n bodoli eisoes a ddisgrifir yn Atodlen 1.
+Yr Ymgeisydd yw Keolis Amey Wales Cymru Limited.
+Nid yw’r Gorchymyn yn awdurdodi adeiladu gweithfeydd.

@@ -1,0 +1,424 @@
+SCOTTISH STATUTORY INSTRUMENTS
+2022 No. 211
+SHERIFF COURT
+Act of Sederunt (Simple Procedure Amendment) (Miscellaneous) 2022
+Made
+15th June 2022
+Laid before the Scottish Parliament
+16th June 2022
+Coming into force
+28th November 2022
+In accordance with section 4 of the Scottish Civil Justice Council and Criminal Legal Assistance Act 2013(1), the Court of Session has approved draft rules submitted to it by the Scottish Civil Justice Council with such modifications as it thinks appropriate.
+The Court of Session therefore makes this Act of Sederunt under the powers conferred by section 104(1) of the Courts Reform (Scotland) Act 2014(2) and all other powers enabling it to do so.
+(1)
+2013 asp 3. Section 4 was amended by the Courts Reform (Scotland) Act 2014 (asp 18), schedule 5, paragraph 31(3) and by the Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2), schedule 1, paragraph 1(4).
+(2)
+2014 asp 18.Citation and commencement, etc.
+1.—(1) This Act of Sederunt may be cited as the Act of Sederunt (Simple Procedure Amendment) (Miscellaneous) 2022.
+(2) It comes into force on [F131st May 2023].
+(3) A certified copy is to be inserted in the Books of Sederunt.
+Textual Amendments
+F1
+Words in para. 1(2) substituted (11.11.2022) by Act of Sederunt (Simple Procedure Amendment) (Miscellaneous) (No. 2) 2022 (S.S.I. 2022/295), paras. 1(2), 2(2)
+Commencement Information
+I1
+Para. 1 in force at 31.5.2023, see para. 1(2) (as amended by S.S.I. 2022/295, paras. 1(2), 2(2))Amendment of the Act of Sederunt (Simple Procedure) 2016
+2.—(1) The Act of Sederunt (Simple Procedure) 2016(1) is amended in accordance with this paragraph.
+(2) In Schedule 1 (Simple Procedure Rules)(2)—
+(a)
+after rule 1.8(11)(3), insert—
+“(11A) If a response, or part of a response, obviously has no real prospect of success, the sheriff may decide the case, or that part of it, at any time.”;
+(b)
+omit rule 3.3(2) and (3);
+(c)
+omit rule 3.4;
+(d)
+omit rule 3.5;
+(e)
+for rule 3.7(2)(4), substitute—
+“(2) If the Claim Form has been completed on paper and indicates that the claimant would like the sheriff clerk to formally serve the Claim Form then two copies must be sent to the court.”;
+(f)
+in rule 3.13(2) and (3), for “a Change of Timetable Application” substitute “an Additional Orders Application (see Part 9)”;
+(g)
+omit rule 4.4(3) and (4);
+(h)
+in rule 5.6(5)—
+(i)
+in paragraph (2), for “must” substitute “may”;
+(ii)
+in paragraph (3), for “At a time to pay hearing, the sheriff” substitute “The sheriff”;
+(i)
+in rule 6.11—
+(i)
+in paragraph (2), after “Claim Form” insert “by a next-day postal service which records delivery”;
+(ii)
+omit paragraph (3)(b);
+(j)
+in rule 7.2(2)(6)—
+(i)
+omit “do one of three things”;
+(ii)
+in sub-paragraph (c), after “order the claimant” insert “or the parties”;
+(k)
+after rule 7.5(4)(7), insert—
+“(5) If the sheriff makes an order under paragraph (4), the sheriff will issue written orders within two weeks of the final date on which the additional respondent is required to lodge a response.
+(6) The sheriff clerk may formally serve the Claim Form and Response Form by a next-day postal service which records delivery if—
+(a)
+the respondent is not a company, limited liability partnership or partnership, and
+(b)
+the respondent is not legally represented.”;
+(l)
+in rule 7.6(1)—
+(i)
+omit “do any of 5 things”;
+(ii)
+in sub-paragraph (d), after “doing so,” insert “and give the parties an opportunity to object to a decision being made without a hearing”;
+(iii)
+in sub-paragraph (e), for “rule 1.8(11), (12) and (13)” substitute “rule 1.8(11), (11A), (12) or (13)”;
+(m)
+in rule 8.3(2), omit “do one of three things”;
+(n)
+after rule 8.4(2), insert—
+“(3) An order made under paragraph (1) must be formally served by the sheriff clerk on the party given the order unless the sheriff directs otherwise.”;
+(o)
+for Part 9 (applications)(8), substitute—
+“PART 9: Additional Orders Applications
+9.1 What is this Part about?
+(1) This Part is about applications which the parties may make to the court to ask for things to be done in a case (additional orders to those mentioned in Part 8).
+9.2 How do you ask for orders to be made?
+(1) A party may apply for an order by:
+(a) asking the sheriff to make an order in person at a case management discussion or hearing, or
+(b) completing an Additional Orders Application and sending it to the court (see rule 9.3).
+9.3 How do you complete an Additional Orders Application?
+(1) A party may apply for an order by sending the other party an Additional Orders Application unless it is not possible to send it to the other party.
+(2) That party must, at the same time, send the court a copy of the Additional Orders Application with evidence that it was sent to the other party (for example, a postal receipt or copy of an email) or, if it is not possible to send it to the other party, with an explanation of why it is not possible to send it to the other party.
+(3) The Additional Orders Application must set out:
+(a) the order the party wants the sheriff to make, and
+(b) why the party thinks the sheriff should make the orders.
+9.4 How do you object to an Additional Orders Application?
+(1) If the party who has been sent the Additional Orders Application objects to the order requested, that party must do two things:
+(a) set out the objection in the Additional Orders Application, and
+(b) send the Additional Orders Application to the court and the other party within 10 days of the Additional Orders Application being sent.
+9.5 What will the court do with an Additional Orders Application?
+(1) The sheriff will consider the Additional Orders Application and any objection to it.
+(2) The sheriff may:
+(a) grant the Additional Orders Application, or part of it, and give written orders to the parties,
+(b) refuse the Additional Orders Application, and make no orders, or
+(c) order the parties to appear at a discussion in court, where the sheriff will consider whether to make any orders.
+Pausing cases
+9.6 What happens if a case is paused?
+(1) If a case is paused, then any discussions or hearings in the case are cancelled and the case will not progress until it is restarted.
+9.7 What can the court do with a paused case?
+(1) The sheriff clerk must present to the sheriff a case which has been paused for 6 months or more.
+(2) The sheriff may then formally serve on the parties written orders which provide that unless a party does something or takes a step, then the sheriff may dismiss the claim.
+(3) An order made under paragraph (2) must be formally served by the sheriff clerk on the party given the order unless the sheriff directs otherwise.
+(4) If that party does not do the thing or take the step ordered, the sheriff may make a decision in the case, including—
+(a) dismissing the claim or part of the claim,
+(b) awarding the claimant some or all of what was asked for in the claim form.
+Miscellaneous applications
+9.8 How can a person become an additional respondent in a case?
+(1) A person who is not a respondent may apply to become a respondent in a case by sending an Additional Orders Application to the court and all parties (see rule 9.3).
+(2) The Additional Orders Application must set out why that person has an interest in becoming a respondent.
+(3) The Additional Orders Application must have attached to it a draft Response Form.
+(4) The sheriff may grant the application without a discussion in court, but must order a discussion if considering refusing the application.
+(5) If ordering a discussion in court, the sheriff must also order the person wishing to become a respondent to formally serve a copy of the notice of the discussion on all of the parties.
+(6) If granting the application, the sheriff must give orders allowing the additional respondent to participate in the case as a respondent.
+(7) The sheriff clerk may formally serve the copy of the notice of the discussion if the person wishing to become a respondent is:
+(a) not a company, limited liability partnership or partnership, and
+(b) is not legally represented.
+9.9 What can happen if a party dies or becomes legally incapacitated?
+(1) If a party dies or becomes legally incapacitated before a sheriff decides a case, then a person who asserts a right to represent that party or that party’s estate may apply to represent that party by sending an Additional Orders Application to the court (see rule 9.3).
+(2) The Additional Orders Application must set out why that person should be allowed to represent that party or that party’s estate.”;
+(p)
+for rule 10.2(3), substitute—
+“(3) The parties must at the same time as sending each other and the court a List of Evidence Form—
+(a)
+lodge the documents and other evidence with the court, and
+(b)
+send copies of the documents and, if possible, other evidence to the other parties.”;
+(q)
+in rule 10.6—
+(i)
+in paragraph (2)—
+(aa)
+for “a Recovery of Documents Application” substitute “an Additional Orders Application”;
+(bb)
+after “the other party” insert “(see Part 9)”;
+(ii)
+for paragraph (3), substitute—
+“(3) That Additional Orders Application must set out—
+(a)
+the documents the party would like to recover,
+(b)
+who has the documents, and
+(c)
+why the court should make the order to recover the documents.”;
+(iii)
+in paragraph (4)—
+(aa)
+for “Recovery of Documents Application” substitute “Additional Orders Application”;
+(bb)
+omit “do one of 4 things”;
+(r)
+in rule 10.8—
+(i)
+for “Application to Open Confidential Document”, where it occurs, substitute “Additional Orders Application (see Part 9)”;
+(ii)
+in paragraph (5), omit “do one of three things,”;
+(s)
+in rule 10.9(9)—
+(i)
+in paragraph (1)—
+(aa)
+for “a Special Recovery of Documents Application” substitute “an Additional Orders Application”; and
+(bb)
+at the end add “(see Part 9)”;
+(ii)
+omit paragraphs (2) and (3);
+(t)
+in rule 10.11—
+(i)
+for “Application to Open Confidential Document”, where it occurs, substitute “Additional Orders Application (see Part 9)”;
+(ii)
+in paragraph (5), omit “do one of three things”;
+(u)
+in rule 11.7(3), omit “do one of 5 things”;
+(v)
+in rule 13.3(4), omit “before it is sent to a party”;
+(w)
+after rule 13.3(4), insert—
+“(5) The party in possession of a Decision Form which is to be corrected must return that original Decision Form to the court before the corrected Decision Form is sent to that party.
+(6) The Decision Form must be sent to all parties to the action.”;
+(x)
+for rule 13.5(1)(10), substitute—
+“(1) A party may apply to have a decision of the sheriff recalled where the sheriff either dismissed a claim in that party’s absence or made a decision in that party’s absence.”;
+(y)
+in rule 14.4(4), for “may” substitute “must”;
+(z)
+in rule 15.5(11)—
+(i)
+in paragraph (4), omit “do one of three things”;
+(ii)
+after paragraph (4), insert—
+“(5) A copy of the alternative Decision Form is to be sent to all parties.”;
+(aa)
+after rule 16.4(4), insert—
+“(4A) The President of the Sheriff Appeal Court may vary the period mentioned in paragraph (4).”;
+(bb)
+in rules 17.9(3), 17.10(4) and 17.12(3), omit “do one of three things”;
+(cc)
+in rule 18.2(12)—
+(i)
+for paragraph (1), substitute—
+“(1) When these Rules require a document to be formally served, the first attempt must be by—
+(a)
+a next-day postal service which records delivery, or
+(b)
+email, if the person to be formally served with a document has indicated a willingness to accept service by email.”;
+(ii)
+after paragraph (1), insert—
+“(1A) Willingness to accept email service of a document may be expressed specifically to the claimant or generally (for example on a website).”;
+(iii)
+in paragraph (2)(c), before “the sheriff clerk” insert “in respect of next-day postal service which records delivery only,”;
+(iv)
+in paragraph (3)—
+(aa)
+for “The” substitute “An”;
+(bb)
+after “RETURNED” insert “IMMEDIATELY”;
+(v)
+for paragraph (4), substitute—
+“(4) After formally serving a document, a Confirmation of Formal Service must be completed and any evidence of sending or, in the case of email, proof of receipt attached to it (for example, a postal receipt or a copy of an email acknowledgement).
+(4A) Where service is by email, the period of notice runs from the beginning of the day after the date of email service.”;
+(dd)
+in rules 19.3(7), 19.4(11), 19.5(11) and 19.7(9), after “RETURNED” insert “IMMEDIATELY”;
+(ee)
+in rule 20.3(3), omit “do one of 3 things”;
+(ff)
+in rule 20.6, for “Incidental Orders Application”, where it occurs, substitute “Additional Orders Application (see Part 9)”.
+(3) In Schedule 2 (forms)—
+(a)
+for Form 3A(13), substitute the Form 3A in schedule 1 of this Act of Sederunt;
+(b)
+omit Form 3B(14);
+(c)
+omit Form 3C(15);
+(d)
+omit Form 3E;
+(e)
+for Form 4A(16), substitute the Form 4A in schedule 2 of this Act of Sederunt;
+(f)
+for Form 5B(17), substitute the Form 5B in schedule 3 of the Act of Sederunt;
+(g)
+for Form 7A(18), substitute the Form 7A in schedule 4 of this Act of Sederunt;
+(h)
+for Form 9A(19), substitute the Form 9A (Additional Orders Application) in schedule 5 of this Act of Sederunt;
+(i)
+omit Forms 9B to 9G;
+(j)
+for Form 10A, substitute the Form 10A in schedule 6 of this Act of Sederunt;
+(k)
+omit Forms10B to 10D(20);
+(l)
+for Form 11A, substitute the Form 11A in schedule 7 of this Act of Sederunt;
+(m)
+for Form 11B(21), substitute the Form 11B in schedule 8 of this Act of Sederunt;
+(n)
+for Form 13A(22), substitute the Form 13A in schedule 9 of this Act of Sederunt;
+(4) In Schedule 3 (standard orders)(23)—
+(a)
+in standard order SO1—
+(i)
+for “the parties must contact the court immediately” substitute “the claimant must send an Additional Orders Application to the court immediately telling the court what should happen next in the case (for example, to cancel the case management discussion and dismiss the case)”;
+(ii)
+omit “before ordering a formal court hearing”;
+(iii)
+for “the sheriff will give” substitute “the sheriff may give”;
+(b)
+in standard order SO2, for “the parties must contact the court immediately” substitute “the claimant must send an Additional Orders Application to the court immediately telling the court what should happen next in the case (for example, to cancel the hearing and dismiss the case)”;
+(c)
+for standard order SO3, substitute the standard order SO3 in schedule 10 of this Act of Sederunt;
+(d)
+omit standard order SO4;
+(e)
+in standard order SO6—
+(i)
+after “Possibility of dismissal” insert “[Possibility of orders sought being granted]”;
+(ii)
+after “warning.” insert “[The respondent is warned that unless these steps are taken the sheriff will grant some or all of the orders sought.]”;
+(iii)
+omit “If the step[s] listed above are not taken then the sheriff dismisses the claim against the respondent.”;
+(f)
+in standard order SO7—
+(i)
+for “Part 8” substitute “Parts 8 and 9”;
+(ii)
+for “Application to Pause”, in both places it occurs, substitute “Additional Orders Application to pause the case”;
+(iii)
+for “Application to Restart Form to the court and to the other party” substitute “Additional Orders Application to the court and the other party asking for the case to be restarted”;
+(iv)
+after “all upcoming hearings”, in both places it occurs, insert “or discussions”;
+(g)
+in standard order SO8—
+(i)
+after “Part 8” insert “and Part 9”;
+(ii)
+for “Application to Restart”, in both places it occurs, substitute “Additional Orders Application to restart a paused case”;
+(h)
+in standard order SO9, for “Part 8” substitute “Parts 8 and 9”;
+(i)
+in standard order SO10—
+(i)
+for “Part 8” substitute “Parts 8 and 9”;
+(ii)
+for “a Recovery of Documents Application” substitute “an Additional Orders Application to recover documents”;
+(iii)
+for “Refusal of Recovery of Documents Application” substitute “Refusal of Additional Orders Application to recover documents”;
+(j)
+after standard order SO13, insert standard order SO14 in schedule 11 of this Act of Sederunt.
+Commencement Information
+I1
+Para. 2 in force at 31.5.2023, see para. 1(2) (as amended by S.S.I. 2022/295, paras. 1(2), 2(2))
+(1)
+S.S.I. 2016/200, last amended by S.S.I. 2022/81.
+(2)
+Schedule 1 was last amended by S.S.I. 2022/81.
+(3)
+Rule 1.8 was amended by S.S.I. 2016/315.
+(4)
+Rule 3.7 as amended by S.S.I. 2022/81.
+(5)
+Rule 5.6 was amended by S.S.I. 2016/315.
+(6)
+Rule 7.2 was amended by S.S.I. 2018/191.
+(7)
+Rule 7.5 was amended by S.S.I. 2016/315.
+(8)
+Part 9 was amended by S.S.I. 2016/315.
+(9)
+Rules 10.9 and 10.11 were amended by S.S.I. 2016/315.
+(10)
+Rule 13.5(1) was substituted by S.S.I. 2018/191.
+(11)
+Rule 15.5 was amended by S.S.I. 2016/315.
+(12)
+Rule 18.2 was amended by S.S.I. 2016/315.
+(13)
+Form 3A was last amended by S.S.I. 2018/191.
+(14)
+Form 3B was amended by S.S.I. 2017/154.
+(15)
+Form 3C was amended by S.S.I. 2016/315.
+(16)
+Form 4A was last amended by S.S.I. 2019/122.
+(17)
+Form 5B was last amended by S.S.I. 2018/191.
+(18)
+Form 7A was last amended by S.S.I. 2018/191.
+(19)
+Forms 9A to 9E and 9G were amended by S.S.I. 2016/315.
+(20)
+Forms 10B to 10D were amended by S.S.I. 2016/315.
+(21)
+Form 11B was substituted by S.S.I. 2017/154.
+(22)
+Form 13A was substituted by S.S.I. 2018/191.
+(23)
+Schedule 3 was substituted by S.S.I. 2016/315 and last amended by S.S.I. 2018/191.Saving
+3.  The amendments made by paragraph 2 are of no effect in relation to proceedings commenced before the date on which this Act of Sederunt comes into force.
+Commencement Information
+I1
+Para. 3 in force at 31.5.2023, see para. 1(2) (as amended by S.S.I. 2022/295, paras. 1(2), 2(2))CJM SUTHERLAND
+Lord President
+I.P.D.
+EdinburghParagraph 2(3)(a)
+SCHEDULE 1
+Commencement Information
+I1
+Sch. 1 in force at 31.5.2023, see para. 1(2) (as amended by S.S.I. 2022/295, paras. 1(2), 2(2))Paragraph 2(3)(e)
+SCHEDULE 2
+Commencement Information
+I1
+Sch. 2 in force at 31.5.2023, see para. 1(2) (as amended by S.S.I. 2022/295, paras. 1(2), 2(2))Paragraph 2(3)(f)
+SCHEDULE 3
+Commencement Information
+I1
+Sch. 3 in force at 31.5.2023, see para. 1(2) (as amended by S.S.I. 2022/295, paras. 1(2), 2(2))Paragraph 2(3)(g)
+SCHEDULE 4
+Commencement Information
+I1
+Sch. 4 in force at 31.5.2023, see para. 1(2) (as amended by S.S.I. 2022/295, paras. 1(2), 2(2))Paragraph 2(3)(h)
+SCHEDULE 5
+Commencement Information
+I1
+Sch. 5 in force at 31.5.2023, see para. 1(2) (as amended by S.S.I. 2022/295, paras. 1(2), 2(2))Paragraph 2(3)(j)
+SCHEDULE 6
+Commencement Information
+I1
+Sch. 6 in force at 31.5.2023, see para. 1(2) (as amended by S.S.I. 2022/295, paras. 1(2), 2(2))Paragraph 2(3)(l)
+SCHEDULE 7
+Commencement Information
+I1
+Sch. 7 in force at 31.5.2023, see para. 1(2) (as amended by S.S.I. 2022/295, paras. 1(2), 2(2))Paragraph 2(3)(m)
+SCHEDULE 8
+Commencement Information
+I1
+Sch. 8 in force at 31.5.2023, see para. 1(2) (as amended by S.S.I. 2022/295, paras. 1(2), 2(2))Paragraph 2(3)(n)
+SCHEDULE 9
+Commencement Information
+I1
+Sch. 9 in force at 31.5.2023, see para. 1(2) (as amended by S.S.I. 2022/295, paras. 1(2), 2(2))Paragraph 2(4)(c)
+SCHEDULE 10
+Commencement Information
+I1
+Sch. 10 in force at 31.5.2023, see para. 1(2) (as amended by S.S.I. 2022/295, paras. 1(2), 2(2))Paragraph 2(4)(j)
+SCHEDULE 11
+Commencement Information
+I1
+Sch. 11 in force at 31.5.2023, see para. 1(2) (as amended by S.S.I. 2022/295, paras. 1(2), 2(2))EXPLANATORY NOTE
+(This note is not part of the Act of Sederunt)
+This Act of Sederunt amends the Act of Sederunt (Simple Procedure) 2016 (“the 2016 Rules”).
+Paragraph 2(2) makes various changes to Schedule 1 (Simple Procedure Rules) of the 2016 Rules in order to streamline the rules.
+Paragraph 2(3) omits or substitutes various forms in Schedule 2 (Forms) of the 2016 Rules.
+Paragraph 2(4) omits or substitutes various forms in Schedule 3 (Standard Orders) of the 2016 Rules. It also adds a new form SO14 to Schedule 3.
+Paragraph 3 is a saving provision, the effect of which is that certain amendments do not apply to a simple procedure case commenced before 28th November 2022.

@@ -1,0 +1,67 @@
+STATUTORY INSTRUMENTS
+2023 No. 1250
+RATING AND VALUATION, ENGLAND
+The Non-Domestic Rating (Small Business Rate Relief) (England) Regulations 2023
+Made
+21st November 2023
+Laid before Parliament
+23rd November 2023
+Coming into force
+1st April 2024
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 143(1) and (2) of, and paragraphs 4(2)(a) and 10(6) of Schedule 4ZA to, the Local Government Finance Act 1988(1).
+(1)
+1988 c. 41. Schedule 4ZA was inserted by section 1 of the Non-Domestic Rating Act 2023 (c. 53). See paragraph 11 of Schedule 4ZA for the definition of “the appropriate national authority”. See section 146(6) for the definition of “prescribed”.Citation, extent, application, commencement and interpretation
+1.—(1) These Regulations may be cited as the Non-Domestic Rating (Small Business Rate Relief) (England) Regulations 2023.
+(2) These Regulations extend to England and Wales and apply in relation to England only.
+(3) These Regulations come into force on 1st April 2024.
+(4) In these Regulations—
+“A” has the meaning given in paragraph 10(2) of Schedule 4ZA to the Act;
+“the Act” means the Local Government Finance Act 1988.Conditions for relief
+2.—(1) For the purposes of paragraph 4(2)(a) of Schedule 4ZA to the Act (occupied hereditaments: chargeable amount), the conditions to be satisfied are that on the chargeable day concerned—
+(a)
+A, in relation to the hereditament, is not more than £15,000, and
+(b)
+the ratepayer occupies only one hereditament in England.
+(2) In determining whether the ratepayer occupies only one hereditament in England (“hereditament A”), the ratepayer’s occupation of any other hereditament in England (“hereditament B”) is disregarded where the conditions in either paragraph (3) or (4) are satisfied.
+(3) The conditions are that—
+(a)
+the ratepayer’s occupation of hereditament B started on a date after that ratepayer started to occupy hereditament A, and
+(b)
+on the chargeable day concerned—
+(i)
+the ratepayer has occupied hereditament B for a period not exceeding 12 months, and
+(ii)
+the chargeable amount as regards hereditament B is not calculated in accordance with paragraph 4(1)(a) of Schedule 4ZA to the Act(1).
+(4) The conditions are that on the chargeable day concerned—
+(a)
+A, in relation to hereditament B, is not more than £2,899,
+(b)
+the aggregate value of all the hereditaments the ratepayer occupies in England (but excluding any hereditament B that falls within paragraph (3)) is not more than—
+(i)
+where hereditament A is situated in Greater London, £27,999;
+(ii)
+where hereditament A is situated outside Greater London, £19,999, and
+(c)
+the chargeable amount as regards hereditament B is not calculated in accordance with paragraph 4(1)(a) of Schedule 4ZA to the Act.
+(1)
+Paragraph 4(1)(a) of Schedule 4ZA to the Local Government Finance Act 1988 (c. 41) provides for the calculation of the chargeable amount as regards a hereditament which is entitled to small business rate relief.Amount of E
+3.—(1) For the purposes of paragraph 10(6) of Schedule 4ZA to the Act, the amount of E is found in accordance with paragraphs (2) to (3).
+(2) Where A, in relation to the hereditament, is not more than £12,000, E is 5,000,000.
+(3) Where A, in relation to the hereditament, is more than £12,000 but not more than £15,000, E is the amount calculated in accordance with the formula—
+(4) Amounts calculated in accordance with paragraph (3) must be calculated to three decimal places only.Amendment of the Non-Domestic Rating (Reliefs, Thresholds and Amendment) (England) Order 2017
+4.—(1) The Non-Domestic Rating (Reliefs, Thresholds and Amendment) (England) Order 2017(1) is amended as follows.
+(2) In article 1, omit paragraphs (2) and (3).
+(3) Omit articles 2 and 3.
+(1)
+S.I. 2017/102.Signed by authority of the Secretary of State for Levelling Up, Housing and Communities
+Simon Hoare
+Parliamentary Under Secretary of State
+Department for Levelling Up, Housing and Communities
+21st November 2023EXPLANATORY NOTE
+(This note is not part of the Regulations)
+Schedule 4ZA to the Local Government Finance Act 1988 provides that small business rate relief is available to ratepayers when conditions prescribed by the Secretary of State in regulations are satisfied.
+Regulation 2 provides that small business rate relief is available where two conditions are met. First, the hereditament concerned must have a rateable value of not more than £15,000. Any improvement relief available in accordance with paragraph 3 of Schedule 4ZA will be taken into account when determining the hereditament’s rateable value. Second, the ratepayer must occupy only one hereditament in England (subject to the provision on hereditaments to be disregarded for these purposes in regulation 2(2)).
+The amount of relief is determined in accordance with the formula in paragraph 4(1)(a) of Schedule 4ZA. Item E in that formula is also prescribed in regulations by the Secretary of State.
+Regulation 3 prescribes the amount of E for hereditaments with a rateable value of not more than £12,000 and prescribes how to calculate E for hereditaments with a rateable value of more than £12,000 but not more than £15,000.
+The provisions relating to small business rate relief in the Non-Domestic Rating (Reliefs, Thresholds and Amendment) (England) Order 2017 (S.I. 2017/102) are revoked by regulation 4 of these Regulations but will continue to have effect in relation to chargeable days falling prior to 1st April 2024 (when these Regulations come into force).
+An impact assessment has not been produced for this instrument because it amends an existing local tax regime. Publication of a full impact assessment is not necessary for such legislation.

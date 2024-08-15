@@ -1,0 +1,803 @@
+Draft Regulations laid before Parliament under paragraph 5(1) of Schedule 5 to the Retained EU Law (Revocation and Reform) Act 2023, for approval by resolution of each House of Parliament.
+DRAFT STATUTORY INSTRUMENTS
+2023 No. XXX
+RETAINED EU LAW REFORM
+PUBLIC PASSENGER TRANSPORT
+The Public Service Obligations in Transport Regulations 2023
+Made
+***
+Coming into force
+25th December 2023
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 14(2) and (3) and 20(1) of the Retained EU Law (Revocation and Reform) Act 2023 (“the 2023 Act”)(1).
+The Secretary of State is a relevant national authority for the purposes of sections 14(2) and (3) and 20(1) of the 2023 Act(2).
+In accordance with paragraph 5(1) of Schedule 5 to the 2023 Act, a draft of this instrument has been laid before, and approved by a resolution of, each House of Parliament.
+(1)
+2023 c. 28.
+(2)
+See section 21(1) of the Retained EU Law (Revocation and Reform) Act 2023 for the definition of “relevant national authority”.Citation, commencement and extent
+1.—(1) These Regulations may be cited as the Public Service Obligations in Transport Regulations 2023 and come into force on 25th December 2023.
+(2) These Regulations extend to England and Wales and Scotland.Interpretation
+2.—(1) In these Regulations—
+“bus” means a motor vehicle, other than a tram, which is adapted to carry more than sixteen passengers;
+“carriageway” has the same meaning as in the Highways Act 1980(1), or in Scotland the Roads (Scotland) Act 1984(2);
+“competent authority” means any public authority or group of public authorities which has a power or duty to secure the provision of public passenger transport services in a particular geographical area or any other body authorised to exercise such a power or duty;
+“competent local authority” means any competent authority whose geographical area of competence is not national, and includes a “local transport authority” as defined in section 108(4) of the Transport Act 2000 (for England and Wales)(3), a “London transport authority” as defined in section 162(1) of that Act, Transport for London(4), and a “local transport authority” as defined in section 82 of the Transport (Scotland) Act 2001 (for Scotland)(5);
+“direct award” means the award of a public service contract to a public service operator without any prior competitive tendering procedure;
+“exclusive right” means a right entitling a public service operator to operate public passenger transport services on a particular route or network or in a particular area to the exclusion of any other such operator;
+“general rule” means a general rule for the operation of public transport which applies to all operators of public passenger transport services of the same type in a geographical area for which a competent authority is responsible;
+“interested party” means—
+(a)
+a person whose interests may be affected by the competent authority’s decision to enter into a public service contract or make a general rule, or
+(b)
+the Secretary of State;
+“internal operator” means a person—
+(a)
+over whom a competent local authority, or in the case of a group of authorities at least one competent local authority, exercises control similar to that exercised over its own departments, and
+(b)
+who is legally distinct from the authority or authorities exercising control;
+“operating risk” means a risk that the public service operator will not be able to recover its costs in connection with the supply and operation of the works or the public passenger transport services, where the factors giving rise to that risk are—
+(a)
+reasonably foreseeable at the time of the award, and
+(b)
+arise from matters outside the control of the competent authority and the public service operator;
+“publication date” in relation to a public service contract or general rule means the date on which information about the contract or rule is published as required by regulation 23;
+“public authority” means a person that is—
+(a)
+wholly or mainly funded out of public funds, or
+(b)
+subject to public authority oversight,
+and does not operate on a commercial basis;
+“public passenger transport services” means passenger transport services in the general interest provided to the public;
+“public service compensation” means any benefit, particularly financial, granted directly or indirectly by a competent authority from public funds in consideration of implementation of a public service obligation;
+“public service contract” means—
+(a)
+one or more legally binding acts confirming the agreement between a competent authority and a public service operator to entrust to that public service operator the management and operation of public passenger transport services subject to public service obligations, or
+(b)
+where the competent authority provides the services or entrusts the provision of such services to an internal operator, a decision adopted by the competent authority containing conditions under which those services must be performed;
+“public service obligation” means a requirement determined by a competent authority in accordance with regulation 6 in order to secure the provision of public passenger transport services that an operator, if it were considering its own commercial interests, would not assume or would not assume to the same extent or under the same conditions without reward;
+“public service operator” means any public or private supplier, including an internal operator, or group of such suppliers which operates public passenger transport services or any public body which provides public passenger transport services;
+“procurement” means the award, entry into and management of a public service contract;
+“rail” means a system of transport employing parallel rails which—
+(a)
+provide support and guidance for vehicles on flanged wheels, and
+(b)
+form a track which is either of a gauge of at least 350 millimetres or crosses a carriageway, whether or not on the same level,
+but does not include a tramway or any other form of track-based mode;
+“road”—
+(a)
+in relation to England and Wales, means any length of highway and of any other road to which the public has access, and includes bridges over which a road passes, and
+(b)
+in relation to Scotland, means any road within the meaning of the Roads (Scotland) Act 1984(6);
+“small or medium-sized enterprise” means a supplier that has—
+(a)
+fewer than 250 staff, and
+(b)
+a turnover of an amount less than or equal to £44 million, or a balance sheet total of an amount less than or equal to £38 million;
+“track-based mode” means a mode of transport in which the vehicle derives support or guidance from a track or other structure not being a road;
+“tram” means a vehicle that operates on a tramway;
+“tramway” has the same meaning as in section 67(1) of the Transport and Works Act 1992(7);
+“value” means the total remuneration, before VAT, of a public service operator, including compensation of whatever kind paid by a competent authority and revenue from the sale of tickets which is not repaid to that competent authority.
+(2) For the purpose of the definition of “public authority” in paragraph (1)—
+(a)
+examples of factors to be taken into account in determining whether a person operates on a commercial basis are—
+(i)
+whether the person operates on the basis that its losses would be borne, or its continued operation secured, by a public authority (whether directly or indirectly);
+(ii)
+whether the person contracts on terms more favourable than those that might reasonably have been available to it had it not been associated with a public authority;
+(iii)
+whether the person operates on a market that is subject to fair and effective competition;
+(b)
+a person is subject to public authority oversight if the person is subject to the management or control of—
+(i)
+one or more public authorities, or
+(ii)
+a board more than half of the members of which are appointed by one or more public authorities.
+(1)
+1980 c. 66. See section 329(1) for definition of “carriageway”.
+(2)
+1984 c. 54. See section 151(1) and (2) for definition of “carriageway”.
+(3)
+2000 c. 38.
+(4)
+Transport for London is a body corporate established by section 154 of the Greater London Authority Act 1999 (c. 29).
+(5)
+2001 asp. 2.
+(6)
+1984 c. 54. See section 151(1) for the definition of “road”.
+(7)
+1992 c. 42.Scope
+3.—(1) Subject to paragraphs (2) and (4), these Regulations apply to national and international public passenger transport services by rail, other track-based modes and road.
+(2) These Regulations do not apply to—
+(a)
+heritage passenger transport services, or
+(b)
+works concession contracts.
+(3) For the purposes of this regulation—
+“heritage passenger transport services” means transport services which are operated primarily for their historical interest or for the purposes of tourism;
+“works concession contract” means a contract in writing for the supply, for pecuniary interest, of works to a competent authority where—
+(a)
+at least part of the consideration for that supply is a right for the supplier to exploit the works, and
+(b)
+under the contract the public service operator is exposed to a real operating risk.
+(4) This regulation does not apply for the purposes of regulation 28 and Schedule 3.Objectives
+4.—(1) When exercising functions under these Regulations, a competent authority in England or Wales must—
+(a)
+have regard to the importance of—
+(i)
+delivering value for money,
+(ii)
+maximising public benefit,
+(iii)
+sharing information for the purpose of allowing suppliers and others to understand the authority’s procurement policies and decisions, and
+(iv)
+acting, and being seen to act, with integrity;
+(b)
+treat suppliers the same unless a difference between the suppliers justifies different treatment, and
+(c)
+if it considers that different treatment is justified in a particular case, take all reasonable steps to ensure it does not put a supplier at an unfair advantage or disadvantage.
+(2) In carrying out a procurement under these Regulations, a competent authority must—
+(a)
+have regard to the fact that small or medium-sized enterprises may face particular barriers to participation, and
+(b)
+consider whether such barriers can be removed or reduced.
+(3) In carrying out a competitive tendering procedure under these Regulations, a competent authority in Scotland must—
+(a)
+act in a transparent and proportionate manner,
+(b)
+treat suppliers equally and without discrimination unless a difference between the suppliers justifies different treatment, and
+(c)
+where it considers that different treatment is justified in a particular case, take all reasonable steps to ensure it does not put a supplier at an unfair advantage or disadvantage.
+(4) A competent authority in Scotland must not design a procurement with the intention of excluding it from the application of these Regulations or of artificially narrowing competition.
+(5) Competition is deemed to be artificially narrowed for the purposes of paragraph (4) where the design of the procurement is made with the intention of unduly favouring or disadvantaging any particular supplier.Interpretation of Part 2
+5.  For the purposes of this Part—
+(a)
+subject to paragraph (b), “net financial effect” equals—
+(i)
+costs incurred in relation to a public service obligation or a bundle of public service obligations imposed by the competent authority (whether contained in a public service contract, a general rule, or both), minus
+(ii)
+any positive financial effects generated within the network operated under the public service obligation or obligations in question, minus
+(iii)
+any receipts from fare or any other revenue generated while fulfilling the public service obligation or obligations in question, plus
+(iv)
+a reasonable profit;
+(b)
+where, in the competent authority’s opinion, compliance with the public service obligation has a quantifiable financial effect on a public service operator’s other transport activities, such an effect must be taken into account when calculating the net financial effect under paragraph (a);
+(c)
+“reasonable profit” means, taking account of the amount of any capital or other resources (or both) invested by the public service operator and the risk, or absence of risk incurred by the public service operator by virtue of public authority intervention, having regard to the size and nature of the services, including by transfer of financial risk around any capital investment, revenue or operating expenditure—
+(i)
+a level of profit that is within a normal range for the sector, or
+(ii)
+where a level of profit that is within a normal range for the sector cannot be determined, the level of profit that would be required by a typical, well-run undertaking adequately equipped with the means to provide the service, and active in the same sector considering whether or not to provide the service in question.Public service obligations
+6.—(1) A competent authority must determine the specifications for public service obligations and the scope of their application taking into account—
+(a)
+the possibility of grouping cost-covering services with non-cost-covering services, and
+(b)
+the appropriateness of the specifications to the services concerned.
+(2) The specifications determined in accordance with paragraph (1) must be consistent with any objectives set out in relevant public transport policies, and both the specifications and the related compensation of the net financial effect on the operator of the public service obligations must be designed to—
+(a)
+achieve those objectives in a cost-effective manner, and
+(b)
+financially sustain the provision of public passenger transport services in the long term, in accordance with the requirements laid down in the relevant public transport policies.
+(3) Subject to agreement of the competent authorities in whose geographical area the services are provided, public service obligations may concern cross-border public transport services, including those relating to local and regional transport needs.Public service contracts and general rules
+7.—(1) Subject to paragraph (2), where a competent authority grants an operator an exclusive right or compensation in return for the discharge of a public service obligation, it must do so by means of a public service contract.
+(2) A public service obligation which aims to establish maximum fares for—
+(a)
+all passengers, or
+(b)
+certain categories of passenger,
+may be effected by a general rule.
+(3) In accordance with the principles set out in this regulation and in regulation 10 (public service compensation for directly awarded contracts), the competent authority must compensate the public service operator for no more than the net financial effect on the operator of complying with fare obligations effected by a general rule.
+(4) A public service contract and a general rule must—
+(a)
+clearly set out the public service obligations with which the public service operator is to comply, and the geographical areas concerned,
+(b)
+establish in advance, in an objective and transparent manner—
+(i)
+the parameters on the basis of which the compensation payment, if any, is to be calculated, and
+(ii)
+the nature and extent of any exclusive rights granted, in a way that prevents overcompensation,
+(c)
+in the case of a public service contract awarded other than under regulation 14 (awards of contracts under competitive procedure), determine the parameters in sub-paragraph (b) in accordance with regulation 10, so that no compensation paid to the public service operator exceeds the amount that is the net financial effect on that operator of discharging the public service obligation, and
+(d)
+determine the arrangements for the allocation of costs connected with the provision of services.
+(5) The costs referred to in paragraph (4)(d) may in particular include—
+(a)
+costs of staff,
+(b)
+costs of energy,
+(c)
+infrastructure charges,
+(d)
+costs of maintenance and repair of public transport vehicles,
+(e)
+costs of rolling stock and installations necessary for operating the passenger transport services,
+(f)
+fixed costs, and
+(g)
+costs of relevant finance.
+(6) A public service contract or general rule must set out arrangements for determining how revenue from the sale of tickets should be allocated and the proportion of such revenue which may be—
+(a)
+kept by the public service operator,
+(b)
+repaid to the competent authority, or
+(c)
+shared between the public service operator and the competent authority.
+(7) A public service contract must require the public service operator to provide the competent authority with the information essential for the subsequent award of the public service contract, while ensuring the protection of commercially sensitive information.Subcontracting
+8.—(1) A competent authority’s tender documents and public service contracts must clearly indicate—
+(a)
+whether subcontracting is permitted, and
+(b)
+the extent, if any, to which the public service operator is permitted to subcontract.
+(2) Where a public service contract provides that subcontracting is permitted, that contract must set out the conditions applicable to subcontracting.
+(3) Except where paragraph (4) applies, a public service contract must require the public service operator to perform a major part of the public passenger transport services itself.
+(4) Where a public service contract entrusts an operator with the design, construction and operation of public passenger transport services, that contract may permit the operator to subcontract the whole of the operation of those services.Duration of public service contracts
+9.—(1) Unless paragraph (2) or (3) applies, the duration of a public service contract must not exceed—
+(a)
+10 years if the contract is awarded under regulation 17 (direct awards: rail), regulation 19 (direct award: rail due to structural and geographical characteristics) or regulation 20 (direct award: rail where operator manages the railway infrastructure);
+(b)
+2 years if the contract is awarded, extended or imposed under regulation 16 (emergency measures);
+(c)
+5 years, if the contract is awarded under regulation 18 (temporary direct award: rail);
+(d)
+for any other contract—
+(i)
+if transport by either rail or other track-based modes, or any combination of rail and other track-based modes, represents more than 50% of the value of the public passenger transport services, 15 years;
+(ii)
+otherwise, 10 years.
+(2) Subject to paragraphs (3) and (4), a public service contract may have a duration of up to 50% longer than the applicable period prescribed under paragraph (1) if the public service operator provides assets—
+(a)
+which have an exceptionally long depreciation period justifying, in the opinion of the competent authority, such longer duration,
+(b)
+which are significant in relation to the overall assets needed to carry out the passenger transport services covered by the public service contract, and
+(c)
+which are linked predominantly to the passenger transport services covered by the contract.
+(3) A public service contract may have a longer duration than is prescribed under paragraphs (1) and (2) if—
+(a)
+in the opinion of the competent authority a longer duration is justified by the amortisation of capital in relation to exceptional levels of investment in infrastructure, rolling stock or vehicles, and
+(b)
+the public service contract is awarded in a fair competitive tendering procedure.
+(4) Paragraphs (2) and (3) do not apply to a contract made under regulation 16 (emergency measures) or regulation 18 (temporary direct awards).Public service compensation for directly awarded contracts
+10.—(1) With the exception of a public service contract awarded under regulation 14 (award of contracts under competitive procedure), every public service contract awarded and general rule effected under these Regulations must, in order to demonstrate that overcompensation has been avoided, comply with this regulation.
+(2) The compensation paid to a public service operator must not exceed the amount that is the net financial effect on that operator of compliance with the public service obligation.
+(3) The net financial effect must be assessed by comparing the situation where the public service obligation is met with the situation which would have existed if the obligation had not been met.
+(4) In order to increase transparency and avoid cross-subsidies, where a public service operator engages in other activities as well as the compensated services subject to public transport service obligations, the accounts of the public services must be separate from those of the other activities and, where applicable, the accounts of each compensated service separated so as to meet at least the following conditions—
+(a)
+the operating accounts corresponding to each of these activities must be separate and the proportion of the corresponding assets and the fixed costs must be allocated in accordance with generally accepted accounting practice and tax rules in force,
+(b)
+no variable costs, contribution to fixed costs or profit connected with any other activity of the public service operator may be charged to the public service in question, and
+(c)
+the costs of the public service must be balanced by operating revenue and payments from public authorities, without any transfer of revenue to another sector of the public service operator’s activity.
+(5) The method of compensation must promote the maintenance or development of—
+(a)
+effective management by the public service operator, and
+(b)
+the provision of passenger transport services of an appropriately high standard of service quality.Rail rolling stock
+11.—(1) Ahead of launching a competitive tendering procedure for a public service contract that requires the use of rolling stock, a competent authority must—
+(a)
+assess whether measures such as those listed in paragraph (3) ought to be taken to ensure effective and non-discriminatory access to suitable rolling stock, and
+(b)
+publish its findings on its website.
+(2) The assessment carried out under paragraph (1) must take into account the presence of rolling-stock leasing companies and any other sources of suitable rolling stock of which the competent authority is aware.
+(3) Appropriate measures to ensure effective and non-discriminatory access to suitable rolling stock under paragraph (1)(a) may include—
+(a)
+the acquisition by the competent authority of the rolling stock used for the execution of the public service contract with a view to making it available to the selected public service operator at market price or as part of the public service contract;
+(b)
+the provision by the competent authority of a guarantee for the financing of the rolling stock used for the execution of the public service contract at market price or as part of the public service contract, including a guarantee covering the residual value risk;
+(c)
+a commitment by the competent authority in the public service contract to take over the rolling stock on predefined financial conditions at the end of the contract at market price;
+(d)
+cooperation with other competent authorities in order to create a larger pool of rolling stock.
+(4) If the rolling stock is to be made available to a new public service operator, the competent authority must include in the tender documents any available information about the cost of maintenance of the rolling stock and its physical condition.Application and exclusions
+12.—(1) Unless paragraph (2) applies, a public service contract must be awarded in accordance with whichever of regulations 13 to 20 is applicable.
+(2) This Part does not apply to the award of a public service contract for public passenger transport services by bus or tram except where such a contract takes the form of a services concession contract.
+(3) Where a public service contract could be awarded under more than one of regulations 15 to 20, the competent authority may award the contract in accordance with whichever of those regulations it considers appropriate.
+(4) For the purpose of this regulation—
+“services concession contract” means a contract in writing for the supply, for pecuniary interest, of public passenger transport services to a competent authority where—
+(a)
+at least part of the consideration for that supply is a right for the supplier to exploit the services, and
+(b)
+under the contract the public service operator is exposed to a real operating risk.Provision of passenger transport services by a competent local authority
+13.—(1) A competent local authority or a group of authorities providing integrated public passenger transport services may—
+(a)
+provide public passenger transport services itself, or
+(b)
+award a public service contract directly to an internal operator.
+(2) For the purpose of determining whether an authority exercises control over a legally distinct person which is similar to that exercised over its own departments, the following factors must be taken into account—
+(a)
+the degree of the authority’s representation on administrative, management or supervisory bodies;
+(b)
+specifications relating to the authority in the articles of association;
+(c)
+whether any person other than the authority exerts a decisive influence, directly or indirectly, on the activities of the person;
+(d)
+effective influence and control over strategic decisions and individual management decisions of the legally distinct person.
+(3) An internal operator that has been awarded a public service contract under paragraph (1)(b) and any person over which that operator exerts any influence—
+(a)
+must perform their public passenger transport services within the geographical area of the competent local authority, notwithstanding any ancillary elements of that activity which enter the geographical area of neighbouring competent local authorities, and
+(b)
+must not not take part in competitive tenders concerning the provision of public passenger transport services organised outside the geographical area of the competent local authority or authorities that control it.
+(4) Notwithstanding paragraph (3), an internal operator may participate in fair, competitive tenders, provided that—
+(a)
+there are 2 years or less of its directly awarded public service contract remaining,
+(b)
+the competent authority has taken a final decision to submit the public passenger transport services covered by the internal operator’s contract to fair competitive tender, and
+(c)
+the internal operator has not entered into any other directly awarded public service contract.
+(5) In the absence of a competent local authority, a competent authority with national competence may award a public service contract directly to an internal operator of that authority as if it were a competent local authority for the benefit of a geographical area which is not national, provided that the internal operator does not take part in competitive tenders concerning the provision of public passenger transport services outside the geographical area for which the public service contract has been granted.
+(6) Where an internal operator is providing the public passenger transport services, that operator must perform the major part of the public passenger transport services itself.
+(7) In this regulation, “integrated public passenger transport services” means interconnected public passenger transport services within a particular geographical area with a single information service, ticketing scheme and timetable.Award of contracts under competitive procedure
+14.—(1) A competent authority must award a public service contract on the basis of a competitive tendering procedure unless—
+(a)
+an alternative procedure is available under these Regulations, or
+(b)
+it is relying on the internal operator exemption referred to in regulation 13(1) (internal operator exemption).
+(2) The procedure adopted for competitive tendering must be open to all suppliers, fair and transparent and accord with the applicable principles set out in regulation 4 (objectives).
+(3) In order to increase competition between railway suppliers, a competent authority may decide that contracts for public passenger transport services by rail relating to parts of the same network or package of routes are to be awarded to different railway suppliers and, if it does, it may decide to limit the number of contracts to be awarded to each railway supplier.
+(4) A competent authority must, while ensuring the protection of commercially sensitive information, make relevant information available to all interested parties to enable them to prepare an offer under a competitive tendering procedure and to draft a well-informed business plan.
+(5) Relevant information under paragraph (4) includes—
+(a)
+information on passenger demand, fares, costs and revenues related to the public passenger transport services covered by the competitive tendering procedure, and
+(b)
+details of the infrastructure specifications relevant for the operation of the required vehicles or rolling stock.Direct award of passenger services contracts under the de minimis exception
+15.—(1) A competent authority may award a public service contract directly—
+(a)
+where its average annual value is estimated at less than £875,000 or, in the case of a public service contract including public passenger transport services by rail, less than £6,500,000, or
+(b)
+where it concerns the annual provision of less than 300,000 kilometres of public passenger transport services or, in the case of a public service contract including public passenger transport services by rail, less than 500,000 kilometres.
+(2) In the case of a public service contract not including public passenger transport services by rail, tramway or other track-based mode directly awarded to a small or medium-sized enterprise operating not more than 23 road vehicles, those thresholds may be increased to either an average annual value estimated at less than £1,750,000 or to an annual provision of less than 600,000 kilometres of public passenger transport services.Emergency measures
+16.—(1) In the event of a disruption of services, or the immediate risk of such a situation, a competent authority may take emergency measures.
+(2) The emergency measures must take the form of a direct award or a formal agreement to extend a public service contract or a requirement to provide certain public service obligations.
+(3) The publication requirement in regulation 22 does not apply where a contract is awarded under this regulation.General direct award provision for rail
+17.—(1) A competent authority may make a direct award of a public service contract concerning transport by rail.
+(2) Where a competent authority makes a direct award of a public service contract under this regulation, the competent authority must, within one year of granting the award, and while ensuring the protection of commercially sensitive information and commercial interests, publish a notice on its website which—
+(a)
+sets out the information specified in paragraph (3), or
+(b)
+where any of the information in paragraph (3) has already been published (whether under regulation 23 or otherwise), provides details of where that information can be accessed.
+(3) The information referred to in paragraph (2) is—
+(a)
+name of the contracting entity, its ownership and, if relevant, the name of the party or parties exercising legal control,
+(b)
+duration of the public service contract,
+(c)
+description of the passenger transport services to be performed,
+(d)
+description of the parameters of the financial compensation,
+(e)
+quality targets, such as punctuality and reliability and any applicable rewards and penalties, and
+(f)
+where there is an extended contract duration under regulation 9(2), a description of the assets to be provided by the operator which justify the award of a contract of a longer duration under that regulation.Direct award of rail contracts in exceptional circumstances
+18.—(1) Where it considers that it is justified by exceptional circumstances, a competent authority may, on a temporary basis, directly award a new public service contract for public passenger transport services by rail where the previous contract was awarded on the basis of a competitive tendering procedure.
+(2) For the purposes of paragraph (1), exceptional circumstances include situations in which—
+(a)
+a number of competitive tendering procedures are already being run by the competent authority or other competent authorities which could affect the number and quality of bids likely to be received if the contract were to be the subject of a competitive tendering procedure, or
+(b)
+changes to the scope of one or more public service contracts are required in order to optimise the provision of public services.
+(3) The competent authority must publish any contract awarded pursuant to this regulation on its website, taking into consideration the protection of commercially sensitive information and commercial interests.
+(4) While not exceeding the period specified in regulation 9(1)(c), the duration of a contract awarded pursuant to this regulation must also be proportionate to the exceptional circumstances concerned.
+(5) A subsequent contract that concerns the same public service obligations must not be awarded on the basis of this provision.Direct award of rail contracts due to structural and geographical characteristics
+19.—(1) A competent authority may award a public service contract for public passenger transport services by rail directly—
+(a)
+where it considers that the direct award is justified by the relevant structural and geographical characteristics of the market and network concerned, in particular relating to—
+(i)
+size,
+(ii)
+demand characteristics,
+(iii)
+network complexity,
+(iv)
+technical and geographical isolation,
+(v)
+the services to be covered by the contract, and
+(b)
+where such a contract would result in an improvement in quality of services or cost-efficiency, or both, compared to the previously awarded public service contract.
+(2) Where the competent authority awards a public service contract under paragraph (1), it must include measurable, transparent and verifiable performance requirements in the contract.
+(3) The performance requirements must, in particular, cover—
+(a)
+punctuality of services,
+(b)
+frequency of services,
+(c)
+quality of rolling stock, and
+(d)
+transport capacity for passengers.
+(4) A contract awarded under this regulation must include—
+(a)
+specific performance indicators enabling the competent authority to carry out periodic assessments, and
+(b)
+effective and deterrent measures to be imposed in case the public service operator fails to meet the performance requirements.
+(5) A competent authority that has awarded a contract under this regulation must—
+(a)
+periodically assess whether the public service operator has achieved its targets for meeting the performance requirements as set out in the contract, and
+(b)
+publish its findings on its website.
+(6) The first periodic assessment undertaken under paragraph (5)(a) must take place no more than five years after the date on which the contract was entered into, with subsequent assessments taking place at intervals not exceeding five years following the first periodic assessment.
+(7) The competent authority must take appropriate and timely measures to enforce a contract awarded under this regulation which may include the imposition of effective and deterrent contractual penalties, if any required improvements in quality of services or cost-efficiency, or both, are not achieved.
+(8) The competent authority must publish on its website a contract awarded under this regulation, taking into consideration the protection of commercially sensitive information and commercial interests.Direct award of rail contracts when the operator manages the entire or major part of the railway infrastructure
+20.—(1) Where railway infrastructure comprises a network of the kind referred to in regulation 4(7)(a) or (b) of the Railways (Access, Management and Licensing of Railway Undertakings) Regulations 2016(1), a competent authority may award a public service contract for public passenger transport services by rail directly where it concerns only the operation of passenger rail services by an operator which manages the entire or the major part of the railway infrastructure on which the services are provided.
+(2) The competent authority must publish on its website a contract awarded pursuant to this regulation, taking into consideration the protection of commercially sensitive information and commercial interests.
+(1)
+S.I. 2016/645, to which there have been amendments not relevant to these Regulations.Modifying a public service contract
+21.—(1) A competent authority may modify a public service contract if the modification—
+(a)
+is a permitted modification under Schedule 1,
+(b)
+is not a substantial modification, or
+(c)
+is a below-threshold modification.
+(2) A “substantial modification” is a modification which would—
+(a)
+materially change the scope of the public service contract, or
+(b)
+materially change the economic balance of the public service contract in favour of the operator.
+(3) A modification is a “below-threshold modification” if—
+(a)
+the modification would not, either itself or when aggregated with any previous below-threshold modification or modifications, increase or decrease the estimated value of the public service contract by more than 10%, and
+(b)
+the modification would not materially change the scope of the public service contract.
+(4) In this regulation, a reference to a modification changing the scope of a public service contract is a reference to a modification providing for the provision of services of a kind not already provided for in the contract.
+(5) Paragraph (6) applies if, on modifying a public service contract under this regulation, the competent authority considers that—
+(a)
+the modification could reasonably have been made together with another modification made to the public service contract under this regulation, and
+(b)
+that single modification would not have been permitted under paragraph (1) of this regulation.
+(6) The modification is to be treated as not within paragraph (1) of this regulation.
+(7) Except as provided for in paragraph 8 of Schedule 1 (transfer on corporate restructuring), a competent authority may not modify a public service contract so as to change the operator.
+(8) Regulations 12(1) (means of award of public service contracts), 22 (pre-award publication) and 23 (post-award publication) do not apply in relation to the award of a contract to modify a public service contract where the modification is made in accordance with this regulation.Pre-award publication
+22.—(1) Each competent authority must, for each public service contract, unless either of the circumstances in paragraph (3) apply, and subject to paragraph (6), take the necessary measures to ensure that at least one year before the relevant day, the following information is published on its website—
+(a)
+the name and address of the competent authority,
+(b)
+the type of award proposed,
+(c)
+the services and geographical area proposed to be covered by the award, and
+(d)
+the proposed start date and duration of the public service contract.
+(2) In this regulation, “the relevant day” means—
+(a)
+in the case of a direct award, the day on which the public service contract is entered into;
+(b)
+in the case of a competitive tendering procedure, the earlier of—
+(i)
+the day on which a final version of the invitation to tender is published on the competent authority’s website, or
+(ii)
+the day on which a final version of the invitation to tender is issued to one or more suppliers.
+(3) The competent authority may decide not to publish this information where—
+(a)
+a public service contract concerns an annual provision of less than 50,000 kilometres of public passenger transport services, or
+(b)
+a contract is awarded under regulation 16 (emergency measures).
+(4) If the competent authority becomes aware that any of the information it published under paragraph (1) is, or has become, erroneous or inaccurate, it must publish a rectification on its website as soon as possible.
+(5) Publication of a rectification under paragraph (4) does not affect a competent authority’s compliance with the publication requirement in paragraph (1).
+(6) A competent authority’s duty to comply with paragraph (1) (requirement to publish a year before the relevant day) is not enforceable under Part 5 of these Regulations (enforcement), where the information is published before the relevant day, and—
+(a)
+where the publication concerns a direct award, the timing of that publication is sufficient to achieve the purpose stated in paragraph (7)(a);
+(b)
+where the publication concerns a competitive tendering procedure—
+(i)
+that failure does not cause an interested supplier a significant disadvantage compared to an incumbent, and
+(ii)
+the timing of that publication is sufficient to achieve the purpose stated in paragraph (7)(b).
+(7) The purpose of the pre-award publication is—
+(a)
+in the case of a direct award, to enable an interested party to raise objections to the principle of making a direct award as intended by the competent authority before the award is made, but the purpose does not include providing all of the information that is necessary to enable the submission of an offer nor does it include enabling any comparative assessment of offers;
+(b)
+in the case of a competitive tendering procedure, to give a supplier a period of time to prepare for the invitation to tender that is sufficient to enable it to take part effectively in that procedure.
+(8) In this regulation, “an incumbent” means the public service operator (if any) performing an existing public service contract in respect of the services and areas referred to in paragraph (1)(c).Post-award publication and right to request reasons for direct award
+23.—(1) A competent authority must, while ensuring the protection of commercially sensitive information and commercial interests, publish on its website such of the information about any public service contract or general rule set out in Schedule 2 as is relevant to that public service contract or general rule.
+(2) The information referred to in paragraph (1) must be published before the end of the period of two months beginning with the day on which the authority enters into the contract or makes the rule.
+(3) When requested by an interested party within one month beginning with the day on which the competent authority publishes information about the public service contract as required by paragraph (1), the competent authority must forward to it the reasons for its decision for directly awarding a public service contract.Actions in respect of a failure to comply with these Regulations
+24.—(1) An action in respect of a failure by a competent authority to comply with these Regulations in deciding to enter into a public service contract or make a general rule may not be brought after the end of the period of one month beginning with whichever is the latest of—
+(a)
+if the interested party has made a request for information under regulation 23(3) (right to request reasons for direct award), the date on which the authority forwards the reasons for its decision in accordance with that provision,
+(b)
+if the interested party has made a request for information under regulation 26 (pre-action information requests), the date on which the notice under paragraph (3) of this regulation is given, or
+(c)
+in any other case, the publication date for the contract or rule.
+(2) A court may extend the time limit provided for in paragraph (1) where it considers it appropriate to do so in the circumstances.
+(3) For the purpose of paragraph (1)(b), a competent authority must give notice to the interested party that the authority has provided information in response to a request for information under regulation 26 (pre-action information requests).
+(4) If the action is an application for judicial review, section 31 of the Senior Courts Act 1981(1) (applications for judicial review) applies to the application as if, in subsection (3) of that section, for “has a sufficient interest in the matter to which the application relates”, there were substituted “is an interested party within the meaning of regulation 2 of the Public Service Obligations in Transport Regulations 2023”.
+(5) If the action is an application to the supervisory jurisdiction of the Court of Session, section 27B of the Court of Session Act 1988(2) (requirement for permission) applies to the application as if, in subsection (2)(a) of that section, for “can demonstrate a sufficient interest in the subject matter of the application”, there were substituted “is an interested party within the meaning of regulation 2 of the Public Service Obligations in Transport Regulations 2023”.
+(6) In this regulation “action” includes any proceeding in a court of law.
+(1)
+1981 c. 54.
+(2)
+1988 asp.36.Recovery orders
+25.—(1) A court may make a recovery order if—
+(a)
+in exercise of its powers, it grants relief in respect of a decision to enter into a public service contract, or make a general rule, under which a subsidy is given to a public service operator, and
+(b)
+in granting that relief the court finds that the decision did not comply with these Regulations.
+(2) A recovery order is an order that—
+(a)
+confers a right on a competent authority that has given the subsidy to recover the amount of that subsidy from the beneficiary, and
+(b)
+requires the authority to exercise that right in accordance with the order.
+(3) A recovery order may—
+(a)
+provide for how the right to recover a subsidy under the order is to be exercised;
+(b)
+require that the right is exercised by such time as the order may specify;
+(c)
+relate to the whole of a subsidy or to such part as the order may provide;
+(d)
+require the payment of interest in accordance with the order.
+(4) In this regulation, “subsidy” has the same meaning as in the Subsidy Control Act 2022(1).
+(1)
+2022 c. 23. See section 2(1) for the definition of “subsidy”.Pre-action information requests
+26.—(1) An interested party may make a request to a competent authority for information about its decision to enter into a public service contract or make a general rule.
+(2) A request under paragraph (1)—
+(a)
+must be made in writing before the end of the period of one month beginning with the publication date for the contract or rule to which the request relates, and
+(b)
+must state that it is being made only for the purpose of deciding whether to bring proceedings before a court on the ground that the decision to enter into the contract or make the rule did not comply with these Regulations.
+(3) Where a competent authority receives a request under paragraph (1), the authority must provide such information as would enable, or assist in, the making of a determination as to whether the decision complied with these Regulations.
+(4) The information must be provided by the competent authority—
+(a)
+in writing, and
+(b)
+within 28 days of receiving the request for information.
+(5) In providing information, a competent authority may impose such restrictions as it considers proportionate in order to protect—
+(a)
+commercially sensitive information;
+(b)
+confidential information;
+(c)
+information subject to legal privilege;
+(d)
+information the disclosure of which would be contrary to the public interest.
+(6) Information provided in response to a request made under this section may be used only—
+(a)
+for the purpose for which it was requested, and
+(b)
+in accordance with any restrictions imposed by the competent authority under paragraph (5).Certain pre-existing contracts
+27.  The application of regulation 9 (duration of public service contracts) to certain pre-existing contracts is limited as follows—
+(a)
+a public service contract awarded before 26th July 2000 on the basis of a fair competitive tendering procedure may continue until it expires;
+(b)
+a public service contract awarded before 26th July 2000 on the basis of a procedure other than a fair competitive tendering procedure may continue until it expires, but not beyond 2nd December 2039;
+(c)
+a public service contract awarded on or after 26th July 2000 and before 3rd December 2009 on the basis of a fair competitive tendering procedure may continue until it expires, but not beyond 2nd December 2039;
+(d)
+a public service contract awarded on or after 26th July 2000 and before 24th December 2017 on the basis of a procedure other than a fair competitive tendering procedure may continue until it expires, provided it is of limited duration comparable to the durations specified in regulation 9;
+(e)
+a public service contract for public passenger transport services by rail directly awarded on the basis of a procedure other than a fair competitive procedure on or after 24th December 2017 and before 3rd December 2019 may continue until it expires, but may not have a duration longer than 10 years except where regulation 9(2) or (3) applies, and
+(f)
+notwithstanding paragraphs (a) to (e), any public service contract referred to in this regulation may continue until it expires where its earlier termination would entail undue legal or economic consequences.Consequential amendments, revocations, savings and supplementary provision
+28.—(1) Schedule 3 (consequential amendments and revocations) has effect.
+(2) Notwithstanding paragraph (1) and the amendments and revocations provided for by Schedule 3, in relation to any procedure for the award of a public service contract that has commenced before 25th December 2023, the enactments amended and revoked by that Schedule are to continue to apply as they were in force immediately before 25th December 2023, except that in Regulation (EC) No 1370/2007, in Article 8 (transition), in the first subparagraph of paragraph 2, point (iii) is not to apply.
+(3) For the purposes of paragraph (2), a procedure for the award of a public service contract has commenced before 25th December 2023 if, before that date—
+(a)
+an information notice has been published on a competent authority’s website under Article 7(2) of Regulation (EC) No 1370/2007,
+(b)
+the competent authority has published any form of advertisement seeking offers or expressions of interest in respect of a proposed public service contract, or
+(c)
+the competent authority has contacted any supplier in order to—
+(i)
+seek expressions of interest or offers in respect of a proposed public service contract, or
+(ii)
+discuss taking emergency measures under regulation 16.Signed by authority of the Secretary of State for Transport
+Name
+Parliamentary Under Secretary of State
+Department for Transport
+DateRegulation 21
+SCHEDULE 1
+Permitted modifications
+Provided for in the public service contract
+1.  A modification is a permitted modification if—
+(a)
+the possibility of the modification is unambiguously provided for in—
+(i)
+the public service contract as awarded, and
+(ii)
+a notice for the award of that contract published under regulation 22 or 23, and
+(b)
+the modification would not change the overall nature of the public service contract.
+Emergency
+2.  A modification is a permitted modification if its purpose could otherwise be achieved by the direct award of a public service contract under regulation 16.
+Unforeseeable consequences
+3.  A modification is a permitted modification if—
+(a)
+the circumstances giving rise to the modification could not reasonably have been foreseen by the competent authority before the award of the public service contract,
+(b)
+the modification would not change the overall nature of the public service contract, and
+(c)
+the modification would not increase the estimated value of the public service contract by more than 50%.
+Materialisation of a known risk
+4.  A modification is a permitted modification if—
+(a)
+the competent authority considers that—
+(i)
+a known risk has materialised otherwise than as a result of any act or omission of the competent authority or the operator,
+(ii)
+because of that fact, the public service contract cannot be performed to the satisfaction of the competent authority,
+(iii)
+the modification goes no further than necessary to remedy that fact, and
+(iv)
+awarding a further public service contract under these Regulations, instead of modifying the contract, would not be in the public interest in the circumstances, and
+(b)
+the modification would not increase the estimated value of the public service contract by more than 50% ignoring, for the purpose of estimating the value of the public service contract, the fact that the risk has materialised.
+5.  In paragraph 4, a “known risk” means a risk that—
+(a)
+the competent authority considered—
+(i)
+could jeopardise the satisfactory performance of the public service contract, but
+(ii)
+because of its nature, could not be addressed in the public service contract as awarded, and
+(b)
+was identified in a notice for the award of the public service contract published under regulation 22, including by reference to—
+(i)
+its meeting the description in sub-paragraph (a), and
+(ii)
+the possibility of modification under paragraph 4.
+6.  In considering whether awarding a new public service contract would be in the public interest for the purposes of paragraph 4, a competent authority—
+(a)
+must consider whether a new public service contract could provide more value for money, and
+(b)
+may consider technical and operational matters.
+Additional services
+7.  A modification is a permitted modification if—
+(a)
+the modification provides for the provision of services in addition to the services already provided for in the public service contract,
+(b)
+using a different operator would result in the provision of services that are different from, or incompatible with, those already provided for in the public service contract,
+(c)
+the competent authority considers that the difference or incompatibility would result in—
+(i)
+disproportionate technical difficulties in operation or maintenance or other significant inconvenience, and
+(ii)
+the substantial duplication of costs for the authority, and
+(d)
+the modification would not increase the estimated value of the public service contract by more than 50%.
+Transfer on corporate restructuring
+8.  A novation or assignment (or in Scotland, assignation) of a public service contract to an operator is a permitted modification if it is required following a corporate restructuring or similar circumstance.Regulation 23
+SCHEDULE 2
+Information to be published about a public service contract or general rule
+The information is—
+(a)
+the name and address of the competent authority,
+(b)
+the type of award,
+(c)
+the services, described in such detail that a reader of the notice can compare the services to those described in the notice published in respect of the public service contract under regulation 22, and the geographical areas covered by the award,
+(d)
+the start date and duration of the public service contract or general rule,
+(e)
+the date on which the public service contract was entered into,
+(f)
+a description of the parameters of the financial compensation,
+(g)
+where the award is made on the basis of a competitive tendering procedure—
+(i)
+the award criteria,
+(ii)
+the number of tenders received, including the number received from small or medium-sized enterprises,
+(h)
+where the award is made under regulation 18 or 19, the reasons for the decision to make the award, including the reasons for making the award under that regulation,
+(i)
+the name and address of the public service operator and whether or not—
+(i)
+the public service operator is a small or medium-sized enterprise,
+(ii)
+the public service contract was awarded to a group of economic operators (whether acting as a joint venture, consortium or other form of joint enterprise),
+(j)
+where appropriate, a statement as to whether the public service contract has been, or may be, subcontracted,
+(k)
+a statement of the right to take enforcement action under Part 5 of these Regulations,
+(l)
+the date and reference of any previous publication on the competent authority’s website relevant to the public service contract or general rule,
+(m)
+where the public service contract or general rule involves the grant of a subsidy—
+(i)
+the legal basis and policy objective or purpose of the subsidy,
+(ii)
+the name of the recipient of the subsidy,
+(iii)
+the date of the grant of the subsidy, the duration of the subsidy and any other time limits attached to the subsidy,
+(iv)
+the amount of the subsidy or the amount budgeted for the subsidy,
+(n)
+the date of publication of the information on the website in accordance with regulation 23(2).Regulation 28
+SCHEDULE 3
+Consequential amendments and revocations
+PART 1
+Consequential amendments
+CHAPTER 1
+Primary legislation
+Amendment of the Railways Act 1993
+1.—(1) The Railways Act 1993(1) is amended as follows.
+(2) In section 136 (grants and subsidies), in subsection (11), for the definition of “the public service obligations regulations” substitute—
+““the public service obligations regulations” means the Public Service Obligations in Transport Regulations 2023;”.
+Amendment of the Government of Wales Act 2006
+2.—(1) The Government of Wales Act 2006(2) is amended as follows.
+(2) In Schedule 7A (reserved matters), in paragraph (c) of the exception relating to Section E2 (rail transport), for “Regulation (EC) No. 1370/2007 of the European Parliament and of the Council on public passenger transport services by rail and by road” substitute “the Public Service Obligations in Transport Regulations 2023”.
+Amendment of the Subsidy Control Act 2022
+3.—(1) The Subsidy Control Act 2022(3) is amended as follows.
+(2) In section 48 (legacy and withdrawal agreement subsidies), for subsection (1)(b) substitute—
+“(b)
+a subsidy given in accordance with—
+(i)
+Regulation (EC) No 1370/2007 of the European Parliament and of the Council on public passenger transport services by rail and by road,
+(ii)
+that Regulation as it has effect by virtue of regulation 28(2) of the Public Service Obligations in Transport Regulations 2023, or
+(iii)
+the Public Service Obligations in Transport Regulations 2023,
+(and any such subsidy is to be treated for the purposes of this Act as if it were given in accordance with a subsidy scheme).”.
+CHAPTER 2
+Secondary legislation
+Amendment of the Cleaner Road Transport Vehicles (Scotland) Regulations 2010
+4.—(1) The Cleaner Road Transport Vehicles (Scotland) Regulations 2010(4) are amended as follows.
+(2) In regulation 2, in the definition of “operator” for “Article 2 of Regulation (EC) No 1370/2007 of the European Parliament and of the Council on public passenger transport services by rail and by road, as amended from time to time” substitute “regulation 2 of the Public Service Obligations in Transport Regulations 2023”.
+Amendment of the Cleaner Road Transport Vehicles Regulations 2011
+5.—(1) The Cleaner Road Transport Vehicles Regulations 2011(5) are amended as follows.
+(2) In regulation 2, in the definition of ““public service contract” and “public service obligation”” for “Regulation (EC) No 1370” to the end of the definition substitute “the Public Service Obligations in Transport Regulations 2023”.
+Amendment of the Concession Contracts (Scotland) Regulations 2016
+6.—(1) The Concession Contracts (Scotland) Regulations 2016(6) are amended as follows.
+(2) In regulation 12(1)(l) (exclusions: specific service contracts) for “Regulation (EC) No 1370/2007 of the European Parliament and of the Council on public passenger transport services by rail and by road” substitute “the Public Service Obligations in Transport Regulations 2023, except where such services are provided by means of a motor vehicle, other than a tram, which is adapted to carry not more than sixteen passengers”.
+Amendment of the Railways (Access, Management and Licensing of Railways Undertakings) Regulations 2016
+7.—(1) The Railways (Access, Management and Licensing of Railway Undertakings) Regulations 2016(7) are amended as follows.
+(2) In regulation 3 (interpretation)—
+(a)
+in the definition of “applicant” for “Regulation (EC) No 1370/2007” substitute “the Public Service Obligations in Transport Regulations 2023”;
+(b)
+in the definition of “competent authority” for “Article 2 of Regulation (EC) No 1370/2007” substitute “regulation 2 of the Public Service Obligations in Transport Regulations 2023”;
+(c)
+in the definition of ““public passenger transport”, “public service contract” and “public service operator””, for “public passenger transport” substitute “public passenger transport services” and for “Article 2 of Regulation (EC) No 1370/2007” substitute “regulation 2 of the Public Service Obligations in Transport Regulations 2023”;
+(d)
+omit the definition of “Regulation (EC) No 1370/2007”;
+(e)
+in the definition of “relevant public service contract” after “transport” insert “services”;
+(f)
+in the definition of “relevant public service operator” after “transport” insert “services”.
+(3) In regulation 9 (separation of accounts), in paragraph (2)(b) omit “in accordance with article 7 of Regulation (EC) No 1370/2007”.
+CHAPTER 3
+Retained EU law
+Amendment of Commission Implementing Regulation (EU) 2018/1795
+8.—(1) Commission Implementing Regulation (EU) 2018/1795 of 20 November 2018 laying down procedure and criteria for the application of the economic equilibrium test pursuant to Article 11 of Directive 2012/34/EU of the European Parliament and of the Council(8) is amended as follows.
+(2) In Article 3 (definitions)—
+(a)
+in the definition of “public service contract” for “point (i) of Article 2 of Regulation (EC) No 1370/2007” substitute “regulation 2 of the Public Service Obligations in Transport Regulations 2023”;
+(b)
+in the definition of “competent authority” for “point (b) of Article 2 of Regulation (EC) No 1370/2007” substitute “regulation 2 of the Public Service Obligations in Transport Regulations 2023”;
+(c)
+in the definition of “exclusive right” for “point (f) of Article 2 of Regulation (EC) No 1370/2007” substitute “regulation 2 of the Public Service Obligations in Transport Regulations 2023”.
+(3) In Article 6 (public service contracts with exclusive rights), for “Article 3 of Regulation (EC) No 1370/2007” substitute “regulation 7 of the Public Service Obligations in Transport Regulations 2023”.
+(4) In Article 7 (information requirements for economic equilibrium test), in paragraph 2 at point (a)(2), for “Article 6(1) of Regulation (EC) No 1370/2007 and the Annex to that Regulation” substitute “regulation 5 of the Public Service Obligations in Transport Regulations 2023”.
+(5) In Article 10 (contents of the economic equilibrium test and assessment criteria), in paragraph 4, for “the Annex to Regulation (EC) No 1370/2007” substitute “regulations 6(2), 7(3) and (4) and 10(1) to (3) and (5) of the Public Service Obligations in Transport Regulations 2023”.
+PART 2
+Revocations
+Revocations
+9.  The following are revoked—
+(a)
+Regulation (EC) No 1370/2007 of the European Parliament and of the Council of 23 October 2007 on public passenger transport services by rail and by road(9),
+(b)
+paragraph 2 of Schedule 1 (amendments to retained EU Law) to the State Aid (Revocations and Amendments) (EU Exit) Regulations 2020(10), and
+(c)
+the Regulation (EC) No 1370/2007 (Public Service Obligations in Transport) (Amendment) (EU Exit) Regulations 2020(11).
+(1)
+1993 c. 43. Section 136 was amended by the Transport Act 2000 (c. 38), Schedule 16, paragraph 51 and the Railways Act 2005 (c. 14), Schedule 11, paragraph 14 and Schedule 13, Part 1, and by S.I. 2010/402. There have been other amendments to section 136, but none is relevant.
+(2)
+2006 c. 32. Schedule 7A to the Government of Wales Act 2006 was inserted by Schedule 1 to the Wales Act 2017 (c. 4).
+(3)
+2022 c. 23.
+(4)
+S.S.I. 2010/390.
+(5)
+S.I. 2011/1631.
+(6)
+S.S.I. 2016/65.
+(7)
+S.I. 2016/645.
+(8)
+EUR 2018/1795, as amended by S.I. 2019/518.
+(9)
+EUR 1370/2007, as amended by S.I. 2020/504 and S.I. 2020/1470.
+(10)
+S.I. 2020/1470.
+(11)
+S.I. 2020/504.EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations are made in exercise of the powers conferred by the Retained EU Law (Revocation and Reform) Act 2023 (c. 28) (“the Act”) to revoke and replace Regulation (EC) No 1370/2007 of the European Parliament and of the Council of 23 October 2007 on public passenger transport services by rail and by road and to make consequential amendments to update cross-references in primary and secondary legislation and retained EU law.
+The purpose of these Regulations is to set out how competent authorities may act in the field of public passenger transport to guarantee the provision of services in the general interest. To this end, these Regulations set out the conditions under which competent authorities, when imposing or contracting for public service obligations, compensate public service operators for costs incurred or grant exclusive rights in return for the discharge of public service obligations.
+A full impact assessment has not been produced for these Regulations as no, or no significant, impact on the private, voluntary sector or community bodies is foreseen.
+An Explanatory Memorandum is published alongside the instrument on www.legislation.gov.uk.

@@ -1,0 +1,47 @@
+STATUTORY INSTRUMENTS
+2021 No. 1086
+INFRASTRUCTURE PLANNING
+The East Anglia ONE Offshore Wind Farm (Amendment) Order 2021
+Made
+24th September 2021
+Coming into force
+25th September 2021
+An application has been made, under paragraph 2 of Schedule 6 to the Planning Act 2008(1) (“the 2008 Act”), to the Secretary of State in accordance with the Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) Regulations 2011(2) (“the 2011 Regulations”), for a non-material change to the East Anglia ONE Offshore Wind Farm Order 2014(3) (“the 2014 Order”).
+The Secretary of State, having considered the application, the responses to the publicity and consultation required by regulations 6 and 7 of the 2011 Regulations, has decided to make this Order amending the 2014 Order.
+Accordingly, the Secretary of State, in exercise of the powers in paragraph 2(1) and (9) of Schedule 6 to the Planning Act 2008, makes the following Order:
+(1)
+2008 c. 29. Paragraph 2 was amended by paragraph 4 of Schedule 8 to the Marine and Coastal Access Act 2009 (c. 23), by paragraphs 1 and 72 of Schedule 13 to the Localism Act 2011 (c. 20), and by section 28 of the Infrastructure Act 2015 (c. 7). There are other amendments to the Act that are not relevant to this Order.
+(2)
+S.I. 2011/2055, as amended by S.I. 2012/635, S.I. 2013/522, S.I. 2015/760 and S.I. 2020/1534. There are other amendments to the Order that are not relevant to this Order.
+(3)
+S.I. 2014/1599 as amended by S.I. 2016/447.Citation and commencement
+1.  This Order may be cited as the East Anglia ONE Offshore Wind Farm (Amendment) Order 2021 and comes into force on 25th September 2021.Amendment to The East Anglia ONE Offshore Wind Farm Order 2014
+2.  The East Anglia ONE Offshore Wind Farm Order 2014 is amended in accordance with this Order.Amendment to Article 2
+3.  In Article 2(1), in the definition of “HVAC offshore wind farm” for “150” substitute “102”.Amendment to Part 1 (Authorised development) of Schedule 1 (Authorised project)
+4.  In paragraph 1 of Part 1 (Authorised development) of Schedule 1 (Authorised project), in subparagraph (a) of the description of Work No. 1, for “150” substitute “102”.Amendments to Part 3 (Requirements) of Schedule 1 (Authorised project)
+5.  In Part 3 (Requirements) of Schedule 1 (Authorised project) —
+(a)
+in paragraph 3(1)(a), for “200 metres” substitute “188 metres”;
+(b)
+in paragraph 3(1)(b), for “120 metres” substitute “111 metres”;
+(c)
+in paragraph 3(1)(c), for “170 metres” substitute “154 metres”;
+(d)
+in paragraph 3(1)(e), for “22 metres” substitute “28 metres”;
+(e)
+in paragraph 7(5), after “not exceed 240” insert “for the HVDC option and 102 for the HVAC option”; and
+(f)
+after paragraph 7, insert
+“As built offshore parameters
+7A.—(1) After 25 December 2021—
+(a)
+no works under Works No.1, 2 or 3A may be carried out in reliance on this Order, other than works which do not give rise to any materially new or materially different environmental effects to those which would arise from the development in accordance with the parameters set out in Works No. 1, 2 and 3A and Requirements 3 to 7; and
+(b)
+the parameters set out in Works No. 1, 2 and 3A and Requirements 3 to 7 will be treated as the maximum defined parameters for the purposes of any application under Schedule 6 to the Planning Act 2008.
+(2) This requirement shall take precedence over any other provision in this Order.
+(3) For the purpose of this requirement “maximum defined parameters” means the defined parameters set for the purposes of considering the worst case impacts of the development in preparing the environmental statement and carrying out the Secretary of State’s Habitats Regulations Assessment (the Rochdale Envelope).”Gareth Leigh
+Head of Energy Infrastructure Planning
+Department for Business, Energy & Industrial Strategy
+24th September 2021EXPLANATORY NOTE
+(This note is not part of the Order)
+This Order amends The East Anglia ONE Offshore Wind Farm Order 2014, a development consent order under the Planning Act 2008, following an application made in accordance with the Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) Regulations 2011 for a non-material change under paragraph 2 of Schedule 6 to the Planning Act 2008. The Order makes changes to the number and permitted parameters of the wind turbine generators and ensures that these are the final maximum parameters of the development.

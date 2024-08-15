@@ -1,0 +1,308 @@
+SCOTTISH STATUTORY INSTRUMENTS
+2019 No. 176
+ELECTRICITY
+The Electricity (Applications for Consent and Variation of Consent) (Fees) (Scotland) Regulations 2019
+Made
+16th May 2019
+Laid before the Scottish Parliament
+20th May 2019
+Coming into force
+30th June 2019
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 36(8), 36C(2) and 60(3) and paragraph 1(3) of schedule 8 of the Electricity Act 1989(1) and all other powers enabling them to do so.
+(1)
+1989 c.29. The functions of the Secretary of State under section 60(3) and paragraph 1(3) of schedule 8 were transferred to the Scottish Ministers by virtue of S.I. 1999/1750, article 2 and Schedule 1. The functions of the Secretary of State under sections 36(8) were transferred to the Scottish Ministers by virtue of S.I. 2006/1040, article 3.Citation, commencement and extent
+1.—(1) These Regulations may be cited as the Electricity (Applications for Consent and Variation of Consent) (Fees) (Scotland) Regulations 2019 and come into force on 30 June 2019.
+(2) These Regulations extend to Scotland only.
+Commencement Information
+I1
+Reg. 1 in force at 30.6.2019, see reg. 1(1)Interpretation
+2.  In these Regulations—
+“EIA development” has the same meaning as in regulation 2(1) of the Electricity Works (Environmental Impact Assessment) (Scotland) Regulations 2017(1),
+“the Electricity Act” means the Electricity Act 1989,
+“the 1990 Regulations” means the Electricity (Applications for Consent) Regulations 1990(2),
+“variation application” means an application made to the Scottish Ministers under section 36C(1) of the Electricity Act (variation of section 36 consents) to vary a consent under section 36 of that Act.
+Commencement Information
+I1
+Reg. 2 in force at 30.6.2019, see reg. 1(1)
+(1)
+S.S.I. 2017/101 as relevantly amended by S.S.I. 2017/451.
+(2)
+S.I. 1990/455 as relevantly amended by S.S.I. 2013/58 and S.S.I. 2005/295.Application
+3.  These Regulations apply in relation to—
+(a)
+an application for a consent under section 36 of the Electricity Act to construct, extend or operate a generating station,
+(b)
+an application for a consent under section 37 of the Electricity Act to install or keep installed an electric line above ground, and
+(c)
+a variation application,
+which is made to the Scottish Ministers on or after 30 June 2019.
+Commencement Information
+I1
+Reg. 3 in force at 30.6.2019, see reg. 1(1)Fees payable on applications for consent
+4.—(1) Where an application to which these regulations apply is made, a fee is payable to the Scottish Ministers.
+(2) The fee payable in respect of the application is as specified in the schedule.
+Commencement Information
+I1
+Reg. 4 in force at 30.6.2019, see reg. 1(1)Revocation
+5.—(1) Subject to paragraph (2), regulation 11 of the 1990 Regulations is revoked.
+(2) Regulation 11 of the 1990 Regulations continues to apply to applications for consent under sections 36 and 37 of the Electricity Act made to the Scottish Ministers before the 30 June 2019.
+Commencement Information
+I1
+Reg. 5 in force at 30.6.2019, see reg. 1(1)PAUL WHEELHOUSE
+Authorised to sign by the Scottish Ministers
+St Andrew’s House,
+Edinburgh
+16th May 2019Regulation 4(2)
+SCHEDULE
+FEES
+Fees for applications made under section 36 of the Electricity Act to construct, extend or operate a generating station
+1.—(1) Subject to sub-paragraph (2), where an application is made under section 36 of the Electricity Act to construct, extend or operate a generating station, the fee payable in respect of the application is as specified in Table 1.
+(2) Where the subject matter of the application is two or more of the matters specified in Table 1, the fee to be paid is the higher or the highest of the relevant fees.
+[F1Table 1
+Subject matter of application Fee payable
+1. Construction, or construction and operation, of a generating station which is not EIA development and has a capacity—
+(a)
+not exceeding 10 megawatts
+£7,800
+(b)
+exceeding 10 megawatts but not exceeding 50 megawatts
+£30,000
+(c)
+exceeding 50 megawatts but not exceeding 100 megawatts
+£84,000
+(d)
+exceeding 100 megawatts but not exceeding 300 megawatts
+£120,000
+(e)
+exceeding 300 megawatts but not exceeding 500 megawatts
+£180,000
+(f)
+exceeding 500 megawatts but not exceeding 750 megawatts
+£216,000
+(g)
+exceeding 750 megawatts but not exceeding 1 gigawatt
+£264,000
+(h)
+exceeding 1 gigawatt
+£264,000 + £15,000 for each additional 500 megawatts above 1 gigawatt
+2. Extension, or extension and operation, of a generating station which is not EIA development, resulting in increase in capacity—
+(a)
+not exceeding 10 megawatts
+£7,800
+(b)
+exceeding 10 megawatts but not exceeding 50 megawatts
+£30,000
+(c)
+exceeding 50 megawatts but not exceeding 100 megawatts
+£84,000
+(d)
+exceeding 100 megawatts but not exceeding 300 megawatts
+£120,000
+(e)
+exceeding 300 megawatts but not exceeding 500 megawatts
+£180,000
+(f)
+exceeding 500 megawatts but not exceeding 750 megawatts
+£216,000
+(g)
+exceeding 750 megawatts but not exceeding 1 gigawatt
+£264,000
+(h)
+exceeding 1 gigawatt
+£264,000 + £15,000 for each additional 500 megawatts above 1 gigawatt
+3. Construction, or construction and operation, of a generating station which is EIA development and has a capacity—
+(a)
+not exceeding 10 megawatts
+£8,400
+(b)
+exceeding 10 megawatts but not exceeding 50 megawatts
+£42,000
+(c)
+exceeding 50 megawatts but not exceeding 100 megawatts
+£150,000
+(d)
+exceeding 100 megawatts but not exceeding 300 megawatts
+£216,000
+(e)
+exceeding 300 megawatts but not exceeding 500 megawatts
+£336,000
+(f)
+exceeding 500 megawatts but not exceeding 750 megawatts
+£437,000
+(g)
+exceeding 750 megawatts but not exceeding 1 gigawatt
+£548,000
+(h)
+exceeding 1 gigawatt
+£548,000 + £30,000 for each additional 500 megawatts above 1 gigawatt
+4. Extension, or extension and operation, of a generating station which is EIA development, resulting in an increase in capacity—
+(a)
+not exceeding 10 megawatts
+£8,400
+(b)
+exceeding 10 megawatts but not exceeding 50 megawatts
+£42,000
+(c)
+exceeding 50 megawatts but not exceeding 100 megawatts
+£150,000
+(d)
+exceeding 100 megawatts but not exceeding 300 megawatts
+£216,000
+(e)
+exceeding 300 megawatts but not exceeding 500 megawatts
+£336,000
+(f)
+exceeding 500 megawatts but not exceeding 750 megawatts
+£437,000
+(g)
+exceeding 750 megawatts but not exceeding 1 gigawatt
+£548,000
+(h)
+exceeding 1 gigawatt
+£548,000 + £30,000 for each additional 500 megawatts above 1 gigawatt
+5. Any other extension of a generating station which does not result in an increase in capacity, where the capacity of the generating station does—
+(a)
+not exceed 10 megawatts
+£7,800
+(b)
+exceed 10 megawatts
+£30,000
+6. Operation only or change to manner of operation of a generating station, which does not result in an increase in capacity, where the capacity of the generating station does—
+(a)
+not exceed 10 megawatts
+£7,800
+(b)
+exceed 10 megawatts
+£30,000]
+Textual Amendments
+F1
+Sch. Table 1 substituted (13.12.2022) by The Electricity (Applications for Consent and Variation of Consent) (Fees) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/310), regs. 1(1), 2(2) (with reg. 3)
+Commencement Information
+I1
+Sch. para. 1 in force at 30.6.2019, see reg. 1(1)
+Fees for applications made under section 37 of the Electricity Act to install or keep installed an electric line above ground
+2.—(1) Subject to sub-paragraph (2), where an application is made under section 37 of the Electricity Act to install or keep installed an electric line above ground, the fee payable in respect of the application is calculated in accordance with Table 2.
+(2) Where the subject matter of the application relates to matters specified under entry 1(b) or (c), or 2(b) of Table 2, lengths over 500 metres will be rounded to the nearest whole kilometre.
+[F2Table 2
+Subject matter of application Fee payable
+1. Overhead line which is not EIA development with a total distance—
+(a)
+not exceeding 500 metres
+£430
+(b)
+exceeding 500 metres but not exceeding 15 kilometres
+£720 per kilometre, up to a maximum of £4,800
+(c)
+exceeding 15 kilometres
+£10,800 + £720 per kilometre, up to a maximum of £180,000
+2. Overhead line which is EIA development with a total distance—
+(a)
+not exceeding 1 kilometre
+£1,800
+(b)
+exceeding 1 kilometre
+£1,800 per kilometre, up to a maximum of £360,000]
+Textual Amendments
+F2
+Sch. Table 2 substituted (13.12.2022) by The Electricity (Applications for Consent and Variation of Consent) (Fees) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/310), regs. 1(1), 2(3) (with reg. 3)
+Commencement Information
+I2
+Sch. para. 2 in force at 30.6.2019, see reg. 1(1)
+Fees for variation applications
+3.—(1) Subject to sub-paragraph (2), where a variation application is made, the fee payable in respect of the variation application is as specified in Table 3.
+(2) Where the subject matter of the variation application is two or more of the matters specified in Table 3, the fee to be paid is the higher or the highest of the relevant fees.
+[F3Table 3
+Variation application Fee payable
+1. A variation application which is not for EIA development and which, if granted, would increase the capacity of the generating station such that the increased capacity would—
+(a)
+not exceed 10 megawatts
+£5,850
+(b)
+exceed 10 megawatts but not exceed 50 megawatts
+£22,500
+(c)
+exceed 50 megawatts but not exceed 100 megawatts
+£63,000
+(d)
+exceed 100 megawatts but not exceed 300 megawatts
+£90,000
+(e)
+exceed 300 megawatts but not exceed 500 megawatts
+£135,000
+(f)
+exceed 500 megawatts but not exceed 750 megawatts
+£164,400
+(g)
+exceed 750 megawatts but not exceed 1 gigawatt
+£200,500
+(h)
+exceed 1 gigawatt
+£200,500 + £15,000 for each additional 500 megawatts above 1 gigawatt
+2. A variation application which is for EIA development and which, if granted, would increase the capacity of the generating station such that the increased capacity would—
+(a)
+not exceed 10 megawatts
+£6,300
+(b)
+exceed 10 megawatts but not exceed 50 megawatts
+£31,500
+(c)
+exceed 50 megawatts but not exceed 100 megawatts
+£112,500
+(d)
+exceed 100 megawatts but not exceed 300 megawatts
+£162,000
+(e)
+exceed 300 megawatts but not exceed 500 megawatts
+£252,000
+(f)
+exceed 500 megawatts but not exceed 750 megawatts
+£310,000
+(g)
+exceed 750 megawatts but not exceed 1 gigawatt
+£367,000
+(h)
+exceed 1 gigawatt
+£367,000 + £30,000 for each additional 500 megawatts above 1 gigawatt
+3. A variation application which is not for EIA development and which, if granted, would not increase the capacity of the generating station, where the generating station has a capacity—
+(a)
+not exceeding 10 megawatts
+£5,740
+(b)
+exceeding 10 megawatts
+£22,500
+4. A variation application which is for EIA development and which, if granted, would not increase the capacity of the generating station, where the generating station has a capacity—
+(a)
+not exceeding 10 megawatts
+£6,300
+(b)
+exceeding 10 megawatts but not exceeding 50 megawatts
+£31,500
+(c)
+exceeding 50 megawatts but not exceeding 100 megawatts
+£112,500
+(d)
+exceeding 100 megawatts but not exceeding 300 megawatts
+£162,000
+(e)
+exceeding 300 megawatts but not exceeding 500 megawatts
+£252,000
+(f)
+exceeding 500 megawatts but not exceeding 750 megawatts
+£310,000
+(g)
+exceeding 750 megawatts but not exceeding 1 gigawatt
+£367,000
+(h)
+exceeding 1 gigawatt
+£367,000 + £30,000 for each additional 500 megawatts above 1 gigawatt]
+Textual Amendments
+F3
+Sch. Table 3 substituted (13.12.2022) by The Electricity (Applications for Consent and Variation of Consent) (Fees) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/310), regs. 1(1), 2(4) (with reg. 3)
+Commencement Information
+I3
+Sch. para. 3 in force at 30.6.2019, see reg. 1(1)EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations are made in exercise of the powers in sections 36(8), 36C(2) and 60(3) and paragraph 1(3) of schedule 8 of the Electricity Act 1989 in order to introduce revised levels of fees in respect of applications for consents and variations to consents under the Electricity Act 1989.
+Regulation 3 specifies the categories of applications for consent to which these Regulations apply. Regulation 4 and the schedule specify the level of fee payable to the Scottish Ministers in respect of the application.
+Regulation 5 revokes regulation 11 of the Electricity (Applications for Consent) Regulations 1990 insofar as it applies to Scotland. These Regulations introduce revised levels of fees, replacing those set out in regulation 11 of the 1990 Regulations. Regulation 5(2) ensures that any application made before these Regulations come into force will be subject to regulation 11 of the 1990 Regulations.
+A Business and Regulatory Impact Assessment has been prepared and placed in the Scottish Parliament Information Centre. Copies can be obtained from Energy Consents Unit, Atlantic Quay, 150 Broomielaw, Glasgow G2 8LU.

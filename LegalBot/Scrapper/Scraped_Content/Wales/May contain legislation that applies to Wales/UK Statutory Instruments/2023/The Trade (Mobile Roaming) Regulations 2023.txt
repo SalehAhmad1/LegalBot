@@ -1,0 +1,142 @@
+STATUTORY INSTRUMENTS
+2023 No. 214
+ELECTRONIC COMMUNICATIONS
+TRADE
+The Trade (Mobile Roaming) Regulations 2023
+Made
+24th February 2023
+Coming into force
+6th April 2023
+The Secretary of State for Culture, Media and Sport makes the following Regulations in exercise of the powers conferred by sections 2(1) and (9) and 4(1) of the Trade Act 2021(1).
+A draft of these Regulations has been laid before, and approved by a resolution of, each House of Parliament in accordance with paragraph 4(1) of Schedule 2 to the Trade Act 2021.
+(1)
+2021 c. 10. The Secretary of State for Culture, Media and Sport is, as a Minister of the Crown, an “appropriate authority” within the meaning given in section 5(1).Citation and commencement
+1.  These Regulations—
+(a)
+may be cited as the Trade (Mobile Roaming) Regulations 2023, and
+(b)
+come into force on 6th April 2023.Extent
+2.  These Regulations extend to England and Wales, Northern Ireland and Scotland.Definitions
+3.  In these Regulations—
+“the 2003 Act” means the Communications Act 2003(1);
+“access-related condition” means a condition set as an access-related condition under section 45 of the 2003 Act;
+“British provider” means a provider of a mobile phone service in the United Kingdom;
+“customer” means, in relation to an overseas provider, a person who normally uses a mobile phone service of the provider in the country or territory of the provider;
+“maximum rate” means the maximum rate specified in the Schedule;
+“mobile phone service” has the meaning given in section 124S(10) of the 2003 Act(2);
+“Ofcom” means the body corporate established under section 1(1) of the Office of Communications Act 2002(3);
+“overseas provider” means a provider of a mobile phone service in a country or territory other than the United Kingdom;
+“roaming agreement” means an agreement between a British provider and an overseas provider that enables a customer of the overseas provider to use a mobile phone service of the British provider while that customer is in the United Kingdom.
+(1)
+2003 c. 21.
+(2)
+Section 124S was inserted by section 102 of the Digital Economy Act 2017 (c. 30).
+(3)
+2002 c. 11.Limitation of Part 2
+4.  Nothing in this Part—
+(a)
+provides a right to the customers of an overseas provider to use a mobile phone service in the United Kingdom, or
+(b)
+restricts a British provider from imposing conditions on the use of its mobile phone service to prevent abusive or anomalous usage by the customers of an overseas provider.Iceland
+5.—(1) This regulation applies to a British provider who has a roaming agreement with an overseas provider in Iceland.
+(2) The British provider must not charge the overseas provider more than the maximum rate for the use of a mobile phone service in the United Kingdom by its customers.Norway
+6.—(1) This regulation applies to a British provider who has a roaming agreement with an overseas provider in Norway.
+(2) The British provider must not charge the overseas provider more than the maximum rate for the use of a mobile phone service in the United Kingdom by its customers.Power of Ofcom to enforce maximum rates
+7.—(1) Ofcom may enforce a requirement under Part 2.
+(2) Sections 96A to 97 and 104 of the 2003 Act(1) apply for the enforcement of a requirement under Part 2 as they apply for the enforcement of an access-related condition.
+(1)
+Sections 96A to 96C were inserted by S.I. 2011/1210. Section 96A was amended by paragraph 18 of Schedule 14 to the Enterprise and Regulatory Reform Act 2013 (c. 24) and S.I. 2020/1419. Section 96C was amended by S.I. 2020/1419. Sections 97 and 104 were amended by S.I. 2011/1210 and 2020/1419.Power of Ofcom to require information for enforcement purposes
+8.—(1) Ofcom may require information for the purpose of ascertaining whether a contravention of a requirement under Part 2 has occurred or is occurring.
+(2) Section 135 of the 2003 Act(1) applies for the purpose mentioned in paragraph (1) as it applies for the purpose of ascertaining whether a contravention of an access-related condition has occurred or is occurring.
+(3) Sections 138, 139(1) to (5) and 139A of the 2003 Act(2) apply for the enforcement of a requirement under section 135 of the 2003 Act as applied by paragraph (2) as they apply for the enforcement of any other requirement under section 135 of that Act.
+(1)
+Section 135 was amended by section 1(2) and 16(2) of the Digital Economy Act 2010 (c. 24), sections 1(8), 82(4) and 85 of the Digital Economy Act 2017 (c. 30), section 18(3) of the Telecommunications (Security) Act 2021 (c. 31) and S.I. 2011/1210 and 2020/1419.
+(2)
+Section 138 was amended by section 86(3) of the Digital Economy Act 2017 (c. 30) and S.I. 2011/1210. Section 139 was amended by S.I. 2011/1210 and 1773. Section 139A was inserted by S.I. 2011/1210.Power of Ofcom to resolve disputes
+9.—(1) Ofcom may resolve a dispute relating to a requirement under Part 2.
+(2) Sections 185 to 191(4) of the 2003 Act(1) apply in the case of a dispute relating to a requirement under Part 2 as they apply in the case of a dispute falling within section 185(1) of that Act.
+(3) Sections 138, 139(1) to (5) and 139A of the 2003 Act apply for the enforcement of a requirement under section 191(1) of the 2003 Act as applied by paragraph (2) as they apply for the enforcement of a requirement under section 135 of that Act.
+(1)
+Section 185 was amended by S.I. 2011/1210. Section 185A was inserted by S.I. 2011/1210. Section 186 was amended by S.I. 2011/1210 and 2020/1419. Section 189 was omitted by S.I. 2019/246. Section 190 was amended by paragraph 27 of Schedule 7 to the Wireless Telegraphy Act 2006 (c. 36) and S.I. 2011/1210. Section 191(1) was amended by S.I. 2019/246.Right of appeal to the Competition Appeal Tribunal
+10.—(1) A person affected by a decision by Ofcom under the 2003 Act as applied by these Regulations may appeal against it to the Competition Appeal Tribunal.
+(2) Sections 192, 194A and 196 of the 2003 Act(1) apply in relation to a decision mentioned in paragraph (1) as they apply in relation to a decision mentioned in section 192(1)(a) of that Act.
+(3) In this regulation, “Competition Appeal Tribunal” means the tribunal established under section 12(1) of the Enterprise Act 2002(2);
+(1)
+Section 192 was amended by paragraph 28 of Schedule 7 to the Wireless Telegraphy Act 2006 (c. 36) and paragraph 43 of Schedule 15 to the Enterprise and Regulatory Reform Act 2013 (c. 24). Section 194A was inserted by section 87(4) of the Digital Economy Act 2017 (c. 30).
+(2)
+2002 c. 40.Service of notification and other documents
+11.  Sections 394(3) to (10) of the 2003 Act apply in relation to any provision of that Act as applied by these Regulations that authorises or requires—
+(a)
+a notification to be given to any person, or
+(b)
+a document of any other description (including a copy of a document) to be sent to any person.Consolidated Fund
+12.  An amount paid to Ofcom in respect of a penalty imposed by it under the 2003 Act as applied by these Regulations must be paid into the Consolidated Fund.Periodic review of regulatory provision
+13.—(1) The Secretary of State must from time to time—
+(a)
+carry out a review of the regulatory provision contained in these Regulations, and
+(b)
+publish a report setting out the conclusions of that review.
+(2) Section 30(3) of the 2015 Act(1) requires that, in relation to each international obligation of the United Kingdom implemented in these Regulations, the review must, so far as is reasonable, have regard to how the obligation is implemented in other countries that are subject to the obligation.
+(3) Section 30(4) of the 2015 Act requires that the report must, in particular—
+(a)
+set out the objectives intended to be achieved by the regulatory provision,
+(b)
+assess the extent to which those objectives are achieved,
+(c)
+assess whether those objectives remain appropriate, and
+(d)
+if those objectives remain appropriate, assess the extent to which they could be achieved in another way that involves less onerous regulatory provision.
+(4) Section 30(5) of the 2015 Act requires that the first report must be published before the fifth anniversary of the date on which these Regulations come into force (see regulation 1(b)).
+(5) Section 30(6) of the 2015 Act requires that subsequent reports must be published at intervals not exceeding five years.
+(6) In this regulation—
+“the 2015 Act” means the Small Business, Enterprise and Employment Act 2015(2);
+“regulatory provision” has the meaning given in section 32 of the 2015 Act.
+(1)
+Section 30(3) was amended by section 19 of the Enterprise Act 2016 (c. 12) and paragraph 36 of Schedule 8 to the European Union (Withdrawal) Act 2018 (c. 16).
+(2)
+2015 c. 26.Revocations
+14.  The enactments cited in the table are revoked(1).
+Title Number
+Regulation (EU) No 531/2012 of the European Parliament and of the Council of 13 June 2012 on roaming on public mobile communications networks within the Union EUR 2012/531
+Commission Implementing Regulation (EU) 2019/2116 of 28 November 2019 setting the weighted average of maximum mobile termination rates across the Union and repealing Implementing Regulation (EU) 2018/1979 EUR 2019/2116
+The Mobile Roaming (European Communities) Regulations 2007 S.I. 2007/1933
+The Mobile Roaming (European Communities) (Amendment) Regulations 2009 S.I. 2009/1591
+The Mobile Roaming (European Communities) (Amendment) Regulations 2013 S.I. 2013/822
+The Mobile Roaming (European Communities) (Amendment) Regulations 2014 S.I. 2014/2715
+The Mobile Roaming (EU Exit) Regulations 2019 S.I. 2019/587
+(1)
+Regulation (EU) No 531/2012 of the European Parliament and of the Council of 13 June 2012 on roaming on public mobile communications networks within the Union expired on 30th June 2022 (see Article 22 of that Regulation). All other enactments cited in the table are spent following its expiry.Signed by authority of the Secretary of State for Culture, Media and Sport
+Julia Lopez
+Minister of State
+Department for Culture, Media and Sport
+24th February 2023Regulation 3
+SCHEDULE
+Maximum rates
+Use of mobile phone service (by type) Maximum rate (in euro)
+(1)
+An “SMS message” is a Short Message Service text message.
+The making of a telephone call €0.032 per minute
+The receiving of an SMS message(1) Nil
+The sending of an SMS message €0.01 per SMS message
+The transmission of data (Internet access) €2.50 per gigabyteEXPLANATORY NOTE
+(This note is not part of these Regulations)
+These Regulations limit the wholesale roaming rates chargeable to mobile phone service providers in certain countries or territories with which the United Kingdom has an international agreement.
+These Regulations give effect to Articles 3.69 of, and Annex XX to, the Free Trade Agreement between Iceland, the Principality of Liechtenstein, and the Kingdom of Norway and the United Kingdom of Great Britain and Northern Ireland (Miscellaneous Series No. 3 (2021)).
+The following expressions, used below, are defined or otherwise explained in regulation 3: “British provider”, “mobile phone service”, “Ofcom” and “overseas provider”.
+Part 2 sets out the maximum rates chargeable to overseas providers in certain countries. In summary:
+regulation 4 provides that a requirement under Part 2 does not prevent a British provider from limiting the use of its mobile phone service by the customers of an overseas provider;
+regulations 5 and 6 limit the wholesale roaming rates that a British provider may charge for the use of a mobile phone service by customers of overseas providers in Iceland or Norway.
+Part 3 provides for Ofcom to use a limited range of its powers under the Communications Act 2003 (c. 21). In summary:
+regulation 7 provides for Ofcom to enforce the maximum rates chargeable;
+regulation 8 authorises Ofcom to require information from certain persons for enforcement purposes.
+Part 4 provides for dispute resolution and appeals. In summary:
+regulation 9 provides for Ofcom to use a limited range of its powers under the Communications Act 2003 to resolve disputes relating to the maximum rates chargeable;
+regulation 10 provides a right of appeal against a decision made by Ofcom under the Communications Act 2003 as applied by these Regulations.
+Part 5 contains miscellaneous provisions. In summary:
+regulation 11 provides for the service of notification and other documents made under the Communications Act 2003 as applied by these Regulations;
+regulation 12 requires that any amounts paid to Ofcom by virtue of these Regulations is paid into the Consolidated Fund;
+regulation 13, which provides for a quinquennial review of the regulatory provision in these Regulations, implements the duty imposed by section 28 of the Small Business, Enterprise and Employment Act 2015 (c. 26);
+regulation 14 revokes spent enactments.
+The text of international agreements may be found online via www.gov.uk/guidance/uk-treaties.
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary, or public sector is foreseen.
+An Explanatory Memorandum is published alongside this instrument at www.legislation.gov.uk.

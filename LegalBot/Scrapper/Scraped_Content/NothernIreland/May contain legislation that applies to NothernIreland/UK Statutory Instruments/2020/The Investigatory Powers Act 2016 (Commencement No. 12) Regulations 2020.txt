@@ -1,0 +1,388 @@
+STATUTORY INSTRUMENTS
+2020 No. 766 (C. 26)
+INVESTIGATORY POWERS
+The Investigatory Powers Act 2016 (Commencement No. 12) Regulations 2020
+Made
+20th July 2020
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 272(1) of the Investigatory Powers Act 2016(1).
+(1)
+2016 c. 25.Citation
+1.  These Regulations may be cited as the Investigatory Powers Act 2016 (Commencement No. 12) Regulations 2020.Provisions coming into force on 22nd July 2020
+2.  The following provisions of the Investigatory Powers Act 2016 come into force on 22nd July 2020—
+(a)
+section 12 (abolition or restriction of certain powers to obtain communications data);
+(b)
+in section 243 (functions of the Investigatory Powers Tribunal in relation to the Investigatory Powers Act 2016), subsection (1), so far as not already in force;
+(c)
+section 271 (schedule 10: minor and consequential provision), subsection (1), so far as relating to the provisions coming into force by virtue of this regulation;
+(d)
+Schedule 2 (abolition of disclosure powers);
+(e)
+in Schedule 10 (minor and consequential provision)—
+(i)
+in paragraph 6, sub-paragraphs (4) and (5), except in so far as these definitions relate to protected information (as defined by the Regulation of Investigatory Powers Act 2000(1)) which has come into the possession of a person in the circumstances specified in section 49(1)(b) of that Act by means of the exercise of any power conferred by an authorisation under Chapter 1 of Part 1 of that Act;
+(ii)
+paragraph 54;
+(iii)
+paragraphs 56 to 60;
+(iv)
+in Part 8 (repeals and revocations consequential on other repeals or amendments in the Act), the repeal or revocation of the following provisions—
+(aa)
+sections 83 and 86(12) of, and paragraph 18 of Schedule 4 to, the Serious Crime Act 2015(2);
+(bb)
+paragraphs 7 and 8 of Schedule 12 to the Serious Crime Act 2007(3);
+(cc)
+paragraph 4(5) in the Schedule to the Police, Public Order and Criminal Justice (Scotland) Act 2006 (Consequential Provisions and Modifications) Order 2007(4);
+(dd)
+section 7 of, and paragraphs 13 and 14 of Schedule 7 to, the Policing and Crime Act 2009(5);
+(ee)
+section 37 of, and paragraphs 7 and 8 and paragraph 16(b)(i), (and the word “and” at the end of sub-paragraph (i)) of Schedule 9 to, the Protection of Freedoms Act 2012(6);
+(ff)
+paragraph 81 of Schedule 8 to the Crime and Courts Act 2013(7);
+(gg)
+paragraph 33(5) to (8) of Schedule 2 to the Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013(8).
+(1)
+2000 c. 23.
+(2)
+2015 c. 9.
+(3)
+2007 c. 27.
+(4)
+S.I. 2007/1098.
+(5)
+2009 c. 26.
+(6)
+2012 c. 9.
+(7)
+2013 c. 22.
+(8)
+S.I. 2013/602.James Brokenshire
+Minister of State
+Home Office
+20th July 2020EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations bring into force almost all of the remaining provisions in the Investigatory Powers Act 2016 (“the 2016 Act”). In particular, these Regulations bring into force section 12 and Schedule 2 which remove from various public authorities their powers to obtain communications data outside of the 2016 Act without the consent of the telecommunications operator or the postal operator holding the communications data. These Regulations also bring into force paragraph 54 of Schedule 10 which repeals Chapter 2 of Part 1 of the Regulation of Investigatory Powers Act 2000 (“the 2000 Act”). These Regulations bring into force various other provisions in Schedule 10 to the 2016 Act which make changes consequential to the removal of these powers to obtain communications data.
+These Regulations also bring into force amendments in section 243(1)(a) of the 2016 Act to section 65 of the 2000 Act which relate to the scope of the powers of the Investigatory Powers Tribunal (“the IPT”) to investigate complaints relating to the conduct that may be permitted or required under Part 3 of the 2016 Act. Section 243(1)(h) is also brought into force with the effect that section 65 of the 2000 Act is amended to bring complaints about the giving, or purported giving, of a notice under section 49 of the 2000 Act (notices requiring disclosure) within the scope of the IPT.NOTE AS TO EARLIER COMMENCEMENT REGULATIONS
+(This note is not part of the Regulations)
+The following provisions of the Investigatory Powers Act 2016 (c. 25) have been brought into force by commencement regulations made before the date of these Regulations.
+Provision Date of Commencement S.I. No.
+Section 1 13.02.17 2017/137(1)
+Section 2 (partially) 30.12.16 2016/1233
+Section 2 (partially) 12.03.18 2018/341
+Section 2 (partially) 31.05.18 2018/652
+Section 2 (partially) 27.06.18 2018/652
+Section 2 (partially) 25.07.18 2018/873
+Section 2 (partially) 22.08.18 2018/873
+Section 2 (remainder) 05.02.19 2019/174
+Section 3 27.06.18 2018/652
+Sections 4 to 6 31.05.18 2018/652
+Section 7 27.06.18 2018/652
+Section 8 27.06.18 2018/652
+Section 9 (partially) 27.06.18 2018/652
+Section 9 (remainder) 26.09.18 2018/940
+Section 10(1) and (2) (partially) 27.06.18 2018/652
+Section 10(3) (partially) 31.05.18 2018/652
+Section 10(3) (remainder) 27.06.18 2018/652
+Section 10 (remainder) 26.09.18 2018/940
+Section 11 05.02.19 2019/174
+Section 13 08.08.18 2018/652
+Section 14 16.01.19 2018/1246
+Section 15(6) (partially) 01.09.17 2017/859
+Section 15 (remainder) 31.05.18 2018/652
+Section 16(4) to (6) (partially) 01.09.17 2017/859
+Section 16 (remainder) 31.05.18 2018/652
+Section 17 31.05.18 2018/652
+Section 18 (partially) 31.05.18 2018/652
+Section 18 (remainder) 30.08.18 2018/940
+Section 19 (partially) 31.05.18 2018/652
+Section 19 (remainder) 27.06.18 2018/652
+Section 20 31.05.18 2018/652
+Section 21 (partially) 31.05.18 2018/652
+Section 21 (remainder) 30.08.18 2018/940
+Section 22 31.05.18 2018/652
+Section 23 31.05.18 2018/652
+Section 24 27.06.18 2018/652
+Section 25 27.06.18 2018/652
+Sections 26 to 31 31.05.18 2018/652
+Sections 32 to 34 27.06.18 2018/652
+Section 35 (partially) 27.06.18 2018/652
+Section 35 (remainder) 26.09.18 2018/940
+Sections 36 to 39 27.06.18 2018/652
+Section 40 (partially) 31.05.18 2018/652
+Section 40 (remainder) 27.06.18 2018/652
+Sections 41 to 52 27.06.18 2018/652
+Section 53 31.05.18 2018/652
+Section 54 31.05.18 2018/652
+Sections 55 to 57 27.06.18 2018/652
+Section 58 (partially) 27.06.18 2018/652
+Section 58 (remainder) 26.09.18 2018/940
+Section 59 27.06.18 2018/652
+Section 60(1) (partially) 13.02.17 2017/137
+Section 60 (remainder) 31.05.18 2018/652
+Section 61(7) (partially) 30.12.16 2016/1233
+Section 61 (remainder) 05.02.19 2019/174
+Section 62 to 86 05.02.19 2019/174
+Section 87, except subsection (1)(b) 30.12.16 2016/1233
+Section 87 (remainder) 01.11.18 2018/873
+Section 88 30.12.16 2016/1233
+Section 89 01.11.18 2018/873
+Section 90(13) 30.12.16 2016/1233
+Section 90 (remainder) 01.11.18 2018/873
+Section 91 01.11.18 2018/873
+Section 92 30.12.16 2016/1233
+Section 93 30.12.16 2016/1233
+Section 94 (partially) 30.12.16 2016/1233
+Section 94 (remainder) 01.11.18 2018/873
+Section 95 30.12.16 2016/1233
+Section 96 01.11.18 2018/873
+Section 97 30.12.16 2016/1233
+Section 98 30.12.16 2016/1233
+Sections 99 to 101 31.05.18 2018/652
+Section 102(1) to (3) (partially) 31.05.18 2018/652
+Section 102(1) to (3) (remainder) 27.06.18 2018/652
+Section 102(4) (partially) 31.05.18 2018/652
+Section 102(4) (partially) 27.06.18 2018/652
+Section 102(5) to (9) 31.05.18 2018/652
+Section 103 (partially) 31.05.18 2018/652
+Section 103 (remainder) 27.06.18 2018/652
+Section 104 (partially) 31.05.18 2018/652
+Section 104 (remainder) 27.06.18 2018/652
+Section 105 31.05.18 2018/652
+Section 106 (partially) 28.11.18 2018/1246
+Section 106 (remainder) 05.12.18 2018/1246
+Section 107 28.11.18 2018/1246
+Section 108 (partially) 31.05.18 2018/652
+Section 108 (remainder) 28.11.18 2018/1246
+Section 109 27.06.18 2018/652
+Section 110 27.06.18 2018/652
+Section 111 (partially) 31.05.18 2018/652
+Section 111 (remainder) 28.11.18 2018/1246
+Sections 112 to 114 31.05.18 2018/652
+Section 115 (partially) 31.05.18 2018/652
+Section 115 (remainder) 28.11.18 2018/1246
+Section 116 27.06.18 2018/652
+Section 117 (partially) 27.06.18 2018/652
+Section 107 (remainder) 05.12.18 2018/1246
+Sections 118 to 122 27.06.18 2018/652
+Sections 123 and 124 05.12.18 2018/1246
+Section 125 (partially) 27.06.18 2018/652
+Section 125 (remainder) 05.12.18 2018/1246
+Section 126 27.06.18 2018/652
+Section 127 27.06.18 2018/652
+Section 128 (partially) 27.06.18 2018/652
+Section 128 (remainder) 05.12.18 2018/1246
+Section 129 (partially) 31.05.18 2018/652
+Section 129 (remainder) 28.11.18 2018/1246
+Section 130 31.05.18 2018/652
+Sections 131 to 134 27.06.18 2018/652
+Sections 135 to 137 31.05.18 2018/652
+Section 138 (partially) 31.05.18 2018/652
+Section 138 (remainder) 27.06.18 2018/652
+Sections 139 to 142 31.05.18 2018/652
+Sections 143 to 149 27.06.18 2018/652
+Section 150 31.05.18 2018/652
+Section 151 31.05.18 2018/652
+Sections 152 to 156 27.06.18 2018/652
+Section 157 31.05.18 2018/652
+Section 158 (partially) 25.07.18 2018/873
+Section 158 (remainder) 22.08.18 2018/873
+Sections 159 to 161 25.07.18 2018/873
+Sections 162 to 170 22.08.18 2018/873
+Sections 171 and 172 25.07.18 2018/873
+Sections 173 and 174 22.08.18 2018/873
+Section 175 25.07.18 2018/873
+Section 176 31.05.18 2018/652
+Section 177 31.05.18 2018/652
+Section 178 (partially) 31.05.18 2018/652
+Section 178 (remainder) 27.06.18 2018/652
+Section 179 31.05.18 2018/652
+Section 180 27.06.18 2018/652
+Section 181 27.06.18 2018/652
+Section 182 31.05.18 2018/652
+Section 183 31.05.18 2018/652
+Sections 184 to 190 27.06.18 2018/652
+Section 191 31.05.18 2018/652
+Section 192 31.05.18 2018/652
+Sections 193 to 197 27.06.18 2018/652
+Section 198 31.05.18 2018/652
+Section 199 (partially) 01.09.17 2017/859
+Section 199 (remainder) 25.07.18 2018/873
+Section 200(3) 25.07.18 2018/873
+Section 200 (remainder) 22.08.18 2018/873
+Section 201 22.08.18 2018/873
+Section 202 25.07.18 2018/873
+Section 203 25.07.18 2018/873
+Section 204 (partially) 25.07.18 2018/873
+Section 204 (remainder) 22.08.18 2018/873
+Section 205 (partially) 25.07.18 2018/873
+Section 205 (remainder) 22.08.18 2018/873
+Sections 206 to 208 25.07.18 2018/873
+Sections 209 and 210 22.08.18 2018/873
+Sections 211 and 212 25.07.18 2018/873
+Sections 213 to 220 22.08.18 2018/873
+Section 221 25.07.18 2018/873
+Sections 222 to 224 22.08.18 2018/873
+Section 225 (partially) 25.07.18 2018/873
+Section 225 (remainder) 22.08.18 2018/873
+Section 226 25.07.18 2018/873
+Section 229 (partially) 13.02.17 2017/137
+Section 229 (partially) 01.09.17 2017/859
+Section 229 (partially) 12.03.18 2018/341
+Section 229 (partially) 27.06.18 2018/652
+Section 229 (partially) 22.08.18 2018/873
+Section 229 (partially) 01.11.18 2018/873
+Section 229 (remainder) 05.02.19 2019/174
+Section 230 13.02.17 2017/137
+Section 231(1) to (8) 27.06.18 2018/652
+Section 231(9) (partially) 27.06.18 2018/652
+Section 231(9) (partially) 22.08.18 2018/873
+Section 231(9) (partially) 26.09.18 2018/940
+Section 231(9) (partially) 01.11.18 2018/873
+Section 231(9) (partially) 05.12.18 2018/1246
+Section 231 (partially) 05.02.19 2019/174
+Section 232 13.02.17 2017/137
+Section 233(1) (partially) 13.02.17 2017/137
+Section 233 (remainder) 01.09.17 2017/859
+Section 234 (partially) 13.02.17 2017/137
+Section 234 (partially) 01.09.17 2017/859
+Section 234 (partially) 27.06.18 2018/652
+Section 234 (remainder) 22.08.18 2018/873
+Section 235(1) to (4) 13.02.17 2017/137
+Section 235(5) 01.09.17 2017/859
+Section 235(7) 13.02.17 2017/137
+Section 235 (remainder) 27.06.18 2018/652
+Section 236 01.09.17 2017/859
+Section 237 13.02.17 2017/137
+Section 238, except subsection (6)(b) and (c) 13.02.17 2017/137
+Section 238 (remainder) 25.07.18 2018/873
+Section 239 13.02.17 2017/137
+Section 240 01.09.17 2017/859
+Section 241 13.02.17 2017/137
+Section 242 31.12.18 2018/1379
+Section 243 (partially) 12.03.18 2018/341
+Section 243 (partially) 27.06.18 2018/652
+Section 243 (partially) 22.08.18 2018/873
+Section 243 (partially) 30.08.18 2018/940
+Section 243 (partially) 01.11.18 2018/873
+Section 243 (partially) 05.12.18 2018/1246
+Section 243 (partially) 05.02.19 2019/174
+Section 244 30.12.16 2016/1233
+Section 245 12.03.18 2018/341
+Section 246 13.02.17 2017/137
+Section 247 13.02.17 2017/137
+Section 248 (partially) 31.05.18 2018/652
+Section 248 (partially) 27.06.18 2018/652
+Section 248 (partially) 30.08.18 2018/940
+Section 248 (partially) 26.09.18 2018/940
+Section 248 (partially) 28.11.18 2018/1246
+Section 248 (remainder) 05.12.18 2018/1246
+Section 249 (partially) 30.12.16 2016/1233
+Section 249 (partially) 12.03.18 2018/341
+Section 249 (remainder) 27.06.18 2018/652
+Section 250 13.02.17 2017/137
+Section 251 13.02.17 2017/137
+Section 252 12.03.18 2018/341
+Section 253(3) to (6) 13.02.17 2017/137
+Section 253 (remainder) 12.03.18 2018/341
+Sections 254 to 258 12.03.18 2018/341
+Section 259 27.06.18 2018/652
+Section 270 (partially) 30.12.16 2016/1233
+Section 270 (partially) 25.07.18 2018/873
+Section 270 (partially) 30.08.18 2018/940
+Section 270 (remainder) 05.02.19 2019/174
+Section 271 (partially) 30.12.16 2016/1233
+Section 271 (partially) 12.03.18 2018/341
+Section 271 (partially) 27.06.18 2018/652
+Section 271 (partially) 08.08.18 2018/652
+Section 271 (partially) 22.08.18 2018/873
+Section 271 (partially) 30.08.18 2018/940
+Section 271 (partially) 26.09.18 2018/940
+Section 271 (partially) 01.11.18 2018/873
+Section 271 (partially) 07.11.18 2018/940
+Section 271 (partially) 05.12.18 2018/1246
+Section 271 (partially) 05.02.19 2019/174
+Schedule 1 27.06.18 2018/652
+Schedule 3 27.06.18 2018/652
+Schedule 4 05.02.19 2019/174
+Schedule 5 05.02.19 2019/174
+Schedule 6 28.11.18 2018/1246
+Schedule 7 13.02.17 2017/137
+Schedule 8, paragraphs 1 and 2 (partially) 31.05.18 2018/652
+Schedule 8, paragraphs 1 and 2 (remainder) 06.07.18 2018/817
+Schedule 8, paragraph 3 (partially) 30.08.18 2018/940
+Schedule 8, paragraph 3 (remainder) 26.09.18 2018/940
+Schedule 8, paragraph 4 (partially) 31.05.18 2018/652
+Schedule 8, paragraph 4 (remainder) 06.07.18 2018/817
+Schedule 8, paragraphs 5 to 7 (partially) 30.08.18 2018/940
+Schedule 8, paragraphs 5 to 7 (remainder) 26.09.18 2018/940
+Schedule 8, paragraphs 8 to 10 (partially) 31.05.18 2018/652
+Schedule 8, paragraphs 8 to 10 (remainder) 06.07.18 2018/817
+Schedule 8, paragraphs 11 and 12 (partially) 28.11.18 2018/1246
+Schedule 8, paragraphs 11 and 12 (remainder) 05.12.18 2018/1246
+Schedule 8, paragraphs 13 and 14 (partially) 31.05.18 2018/652
+Schedule 8, paragraphs 13 and 14 (remainder) 06.07.18 2018/817
+Schedule 8, paragraph 15 31.05.18 2018/652
+Schedule 8, paragraph 16 (partially) 31.05.18 2018/652
+Schedule 8, paragraph 16 (remainder) 27.06.18 2018/652
+Schedule 8, paragraphs 17 to 19 31.05.18 2018/652
+Schedule 8, paragraphs 20 to 23 (partially) 31.05.18 2018/652
+Schedule 8, paragraphs 20 to 23 (remainder) 27.06.18 2018/652
+Schedule 8, paragraph 24 26.09.18 2018/940
+Schedule 8, paragraph 25 27.06.18 2018/652
+Schedule 8, paragraph 26 26.09.18 2018/940
+Schedule 8, paragraphs 27 to 32 27.06.18 2018/652
+Schedule 8, paragraph 33 31.05.18 2018/652
+Schedule 9, paragraph 1 27.06.18 2018/652
+Schedule 9, paragraph 2 05.02.19 2019/174
+Schedule 9, paragraphs 3 to 5 30.12.16 2016/1233
+Schedule 9, paragraph 6 25.07.18 2018/873
+Schedule 9, paragraph 7 30.08.18 2018/940
+Schedule 9, paragraphs 8 and 9 30.12.16 2016/1233
+Schedule 9, paragraph 10 27.06.18 2018/652
+Schedule 10, paragraphs 1 to 4 27.06.18 2018/652
+Schedule 10, paragraph 5 27.12.18 2018/940
+Schedule 10, paragraph 6 (partially) 27.06.18 2018/652
+Schedule 10, paragraph 6 (partially) 27.12.18 2018/940
+Schedule 10, paragraph 6 (partially) 05.02.19 2019/174
+Schedule 10, paragraphs 7 to 35 27.06.18 2018/652
+Schedule 10, paragraph 36 27.12.18 2018/940
+Schedule 10, paragraph 37 27.06.18 2018/652
+Schedule 10, paragraph 38 27.12.18 2018/940
+Schedule 10, paragraph 39 27.06.18 2018/652
+Schedule 10, paragraph 40 27.12.18 2018/940
+Schedule 10, paragraphs 41 to 44 27.06.18 2018/652
+Schedule 10, paragraph 45 (partially) 12.03.18 2018/341
+Schedule 10, paragraph 45 (partially) 27.06.18 2018/652
+Schedule 10, paragraph 45 (partially) 08.08.18 2018/652
+Schedule 10, paragraph 45 (partially) 26.09.18 2018/940
+Schedule 10, paragraph 45 (partially) 07.11.18 2018/940
+Schedule 10, paragraph 45 (remainder) 27.12.18 2018/940
+Schedule 10, paragraph 46 30.08.18 2018/940
+Schedule 10, paragraph 47 27.12.18 2018/940
+Schedule 10, paragraph 48 12.03.18 2018/341
+Schedule 10, paragraph 49 27.12.18 2018/940
+Schedule 10, paragraphs 50 to 52 27.06.18 2018/652
+Schedule 10, paragraph 53 05.02.19 2019/174
+Schedule 10, paragraph 55 (partially) 05.02.19 2019/174
+Schedule 10, paragraph 61 05.02.19 2019/174
+Schedule 10, paragraph 62 01.11.18 2018/873
+Schedule 10, paragraph 63 30.12.16 2016/1233
+Schedule 10, paragraphs 64 and 65 27.06.18 2018/652
+Schedule 10, paragraph 66 05.12.18 2018/1246
+Schedule 10, paragraph 67 01.09.17 2017/859
+Schedule 10, paragraph 68 05.12.18 2018/1246
+Schedule 10, paragraph 69 01.09.17 2017/859
+Schedule 10, paragraph 70 05.12.18 2018/1246
+Schedule 10, paragraphs 71 to 98 01.09.17 2017/859
+Schedule 10, paragraph 99 (partially) 12.03.18 2018/341
+Schedule 10, paragraph 99 (remainder) 22.08.18 2018/873
+Schedule 10, paragraph 100 12.03.18 2018/341
+Schedule 10, paragraphs 101 (partially) 27.06.18 2018/652
+Schedule 10, paragraph 101 (remainder) 05.02.19 2019/174
+Schedule 10, Part 8 (partially) 30.12.16 2016/1233
+Schedule 10, Part 8 (partially) 22.08.18 2018/873
+Schedule 10, Part 8 (partially) 30.08.18 2018/940
+Schedule 10, Part 8 (partially) 07.11.18 2018/940
+Schedule 10, Part 8 (partially) 27.12.18 2018/940
+(1)
+Amended by S.I. 2017/143.

@@ -1,0 +1,122 @@
+Draft Regulations laid before Parliament under section 162 of the Health and Social Care Act 2008, for approval by resolution of each House of Parliament.
+DRAFT STATUTORY INSTRUMENTS
+2021 No.
+NATIONAL HEALTH SERVICE, ENGLAND
+SOCIAL CARE, ENGLAND
+PUBLIC HEALTH, ENGLAND
+The Health and Social Care Act 2008 (Regulated Activities) (Amendment) (Coronavirus) Regulations 2021
+Made
+***
+Coming into force
+***
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 20(1) to (3) and (5) and 161(3) and (4) of the Health and Social Care Act 2008(1).
+A draft of these Regulations was laid before Parliament in accordance with section 162(3) of the Health and Social Care Act 2008 and approved by a resolution of each House of Parliament.
+In accordance with section 20(8) of that Act, the Secretary of State has consulted such persons as the Secretary of State considers appropriate.
+(1)
+2008 c. 14. Section 20(1) and the opening words of section 20(2) were substituted by section 1 of the Health and Social Care (Quality and Safety) Act 2015 (c. 28). Section 161(3) was amended by section 294(4) of the Health and Social Care Act 2012 (c. 7).Citation and commencement
+1.  These Regulations may be cited as the Health and Social Care Act 2008 (Regulated Activities) (Amendment) (Coronavirus) Regulations 2021 and come into force 16 weeks after the day on which they are made.Extent and application
+2.—(1) These Regulations extend to England and Wales.
+(2) These Regulations apply to England only.Amendment of the Health and Social Care Act 2008 (Regulated Activities) Regulations 2014
+3.  The Health and Social Care Act 2008 (Regulated Activities) Regulations 2014(1) are amended as follows.
+(1)
+S.I. 2014/2936, to which there are amendments not relevant to these Regulations.Amendment of regulation 2 (interpretation)
+4.  In regulation 2—
+(a)
+at the end of the definition of “premises”, after the words “care or treatment”, insert “and in regulation 12(3), does not include any surrounding grounds”; and
+(b)
+after the definition of “premises” insert—
+““processing” in regulation 12(5) and 17(2)(d)(iii) has the meaning given in section 3 (terms relating to the processing of personal data) of the Data Protection Act 2018(1) and “process” in regulation 12(4) is to be construed accordingly;”.
+(1)
+2018 c. 12. Section 3 was amended by S.I. 2019/419.Amendment of regulation 12 (safe care and treatment)
+5.  In regulation 12, after paragraph (2), insert—
+“(3) For the purposes of paragraph (2)(h), a registered person (“A”) in respect of a regulated activity specified in paragraph 2 of Schedule 1 (accommodation for persons who require nursing or personal care) in a care home must secure that a person (“B”) does not enter the premises used by A unless—
+(a)
+B is a service user residing in the premises used by A;
+(b)
+B has provided A with evidence that satisfies A that either—
+(i)
+B has been vaccinated with the complete course of doses of an authorised vaccine; or
+(ii)
+that for clinical reasons B should not be vaccinated with any authorised vaccine;
+(c)
+it is reasonably necessary for B to provide emergency assistance in the premises used by A;
+(d)
+it is reasonably necessary for B to provide urgent maintenance assistance with respect to the premises used by A;
+(e)
+B is attending the premises used by A in the execution of B’s duties as a member of the emergency services;
+(f)
+B is a friend or relative of a service user and that service user is or has been residing in the premises used by A;
+(g)
+B is visiting a service user who is dying;
+(h)
+it is reasonably necessary for B to provide comfort or support to a service user in relation to a service user’s bereavement following the death of a friend or relative; or
+(i)
+B is under the age of 18.
+(4) A registered person provided with information as evidence in accordance with paragraph (3) may process that information.
+(5) Nothing in this regulation authorises the processing of personal data in a manner inconsistent with any provision of data protection legislation.
+(6) In this regulation—
+“authorised vaccine” means a medicinal product—
+(a)
+authorised for supply in the United Kingdom in accordance with a marketing authorisation; or
+(b)
+authorised by the licensing authority on a temporary basis under regulation 174 (supply in response to spread of pathogenic agents etc) of the Human Medicines Regulations 2012(1)
+for vaccination against coronavirus;
+“care home” has the meaning given in section 3 (care homes in England) of the Care Standards Act 2000(2);
+“complete course of doses” means the complete course of doses specified—
+(a)
+in the summary of product characteristics approved as part of the marketing authorisation for the authorised vaccine; or
+(b)
+in the instructions for usage approved as part of the authorisation by the licensing authority on a temporary basis under regulation 174 of the Human Medicines Regulations 2012 for the authorised vaccine;
+“coronavirus” means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2);
+“data protection legislation” and “personal data” have the meaning given in section 3 (terms relating to the processing of personal data) of the Data Protection Act 2018;
+“marketing authorisation” has the meaning given in regulation 8(1) (general interpretation) of the Human Medicines Regulations 2012;
+“medicinal product” has the meaning given in regulation 2 (medicinal products) of the Human Medicines Regulations 2012; and
+“the licensing authority” has the meaning given in regulation 6(2) (the licensing authority and the Ministers) of the Human Medicines Regulations 2012.”.
+(1)
+S.I. 2012/1916, to which there are amendments not relevant to these Regulations.
+(2)
+2000 c. 14. Section 3 was amended by paragraph 4 of Schedule 5 to the Health and Social Care Act 2008 (c. 14). There are other amendments to section 3 which are not relevant to these Regulations.Amendment of regulation 17 (good governance)
+6.  In regulation 17—
+(a)
+at the end of paragraph (2)(d)(i) replace “activity, and” with “activity,”;
+(b)
+at the end of paragraph (2)(d)(ii) replace “activity;” with “activity, and”; and
+(c)
+after paragraph (2)(d)(ii) insert—
+“(iii)
+processing evidence provided to a registered person under regulation 12(3);”.Review
+7.—(1) Before the end of each review period, the Secretary of State must—
+(a)
+carry out a review of these Regulations,
+(b)
+set out the conclusions of the review in a report, and
+(c)
+publish the report.
+(2) The report in particular must—
+(a)
+set out the objectives intended to be achieved by these Regulations,
+(b)
+assess the extent to which those objectives are achieved, taking into account clinical advice, and availability and accessibility of authorised vaccines; and
+(c)
+assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+(3) In this regulation, “review period” means—
+(a)
+the period of one year beginning with the date that these Regulations come into force, and
+(b)
+subject to paragraph (4), each successive period of one year.
+(4) If a report under this regulation is published before the last day of the review period to which it relates, the following review period is to begin with the day on which that report is published.Signed by authority of the Secretary of State for Health and Social Care
+Name
+Parliamentary Under Secretary of State
+Department of Health and Social Care
+Address
+DateEXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations, which apply to England only, amend the Health and Social Care Act 2008 (Regulated Activities) Regulations 2014 (“the 2014 Regulations”) for the purposes of preventing, detecting and controlling the spread of infections, specifically in response to the effects of the coronavirus pandemic.
+Regulation 1 provides that these Regulations will come into force 16 weeks after these Regulations have been made.
+Regulation 2 states that these Regulations extend to England and Wales and apply to England only.
+Regulation 4 amends regulation 2 (interpretation) of the 2014 Regulations. Regulation 4 specifies that for the purposes of the amendments made to regulation 12 (safe care and treatment) by these Regulations, the term “premises” does not include “any surrounding grounds”. Regulation 4 also specifies that the new provisions in the 2014 Regulations relating to the processing of information are to be interpreted in accordance with the Data Protection Act 2018.
+Regulation 5 amends regulation 12 of the 2014 Regulations. The amendment provides that for the purposes of preventing, detecting and controlling the spread of infection, registered persons (“A”) in respect of the regulated activity of providing residential accommodation together with nursing or personal care in a care home, must secure that a person (“B”) does not enter the premises used by A unless B meets specific requirements.
+Those requirements are that: (a) B is a service user of the regulated activity residing in the premises used by A; (b) B has provided A with evidence that satisfies A that they have been vaccinated with the complete course of an authorised vaccine or that B has provided A with evidence that satisfies A that for clinical reasons B should not be vaccinated with an authorised vaccine; (c) that it is reasonably necessary for B to provide emergency assistance in the premises; (d) that it is reasonably necessary for B to provide urgent maintenance assistance with respect to the premises; (e) B is attending the premises used by A in the execution of B’s duties as a member of the emergency services; (f) B is a friend or relative of the service user that is or has been residing in the premises; (g) B is visiting a service user who believes is dying; (h) it is reasonably necessary for B to provide comfort or support to a service user in relation to a service user’s bereavement following the death of a friend or relative; or (i) B is under the age of 18. The amendment also provides that relevant persons may process information obtained under the requirements in accordance with the Data Protection Act 2018.
+Regulation 6 amends regulation 17 (good governance) of the 2014 Regulations. Regulation 17 provides that systems or processes must be established and operated effectively to ensure compliance with the requirements in that part of the 2014 Regulations. This includes the amendments made to regulation 12 by these Regulations. Regulation 6 amends regulation 17 to state that the provision of systems or processes includes securely maintaining such records as are necessary to be kept in relation to the new requirements inserted by these Regulations in regulation 12.
+Regulation 7 requires the Secretary of State to review the operation and effect of these Regulations and to publish the report within one year after the date on which these Regulations come into force and within every year after that.
+A full impact assessment of the costs and benefits of this instrument is available from the Department of Health and Social Care, 39 Victoria Street, London, SW1H 0EU and is published alongside this instrument and its Explanatory Memorandum at legislation.gov.uk.

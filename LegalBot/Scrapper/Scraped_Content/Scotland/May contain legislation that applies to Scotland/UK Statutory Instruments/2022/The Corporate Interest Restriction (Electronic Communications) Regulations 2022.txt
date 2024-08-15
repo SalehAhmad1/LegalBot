@@ -1,0 +1,46 @@
+STATUTORY INSTRUMENTS
+2022 No. 770
+CORPORATION TAX
+The Corporate Interest Restriction (Electronic Communications) Regulations 2022
+Made
+6th July 2022
+Laid before the House of Commons
+7th July 2022
+Coming into force
+1st September 2022
+The Commissioners for Her Majesty’s Revenue and Customs make the following Regulations in exercise of the powers conferred by sections 135(1), (2)(a) and (e), (3)(a), (4)(a) and 136 of the Finance Act 2002(1) and now exercisable by them(2), and paragraph 3 of Schedule 7A to the Taxation (International and Other Provisions) Act 2010(3).
+(1)
+2002 c. 23; section 135 was amended by paragraphs 94 and 95 of Schedule 4 to the Commissioners for Revenue and Customs Act 2005 (c. 11), section 93 of the Finance Act 2007 (c. 11), and S.I. 2011/1043..
+(2)
+The functions of the Commissioners of Inland Revenue under section 136 of the Finance Act 2002 were transferred to the Commissioners for Her Majesty’s Revenue and Customs by section 5(1) of the Commissioners for Revenue and Customs Act 2005. Section 50(1) of that Act provides that, in so far as is appropriate in consequence of section 5, a reference, howsoever expressed, to the Commissioners of Inland Revenue is to be taken as a reference to the Commissioners for Her Majesty’s Revenue and Customs.
+(3)
+2010 c. 8; Schedule 7A was inserted by paragraph 2 of Schedule 5 to the Finance (No.2) Act 2017 (c. 32).Citation and commencement
+1.  These Regulations may be cited as the Corporate Interest Restriction (Electronic Communications) Regulations 2022 and come into force on 1st September 2022.Requirement to submit information using electronic communications
+2.—(1) The following information must be submitted to an officer of Revenue and Customs by an approved means of electronic communication—
+(a)
+a notice appointing a reporting company under paragraph 1 of Schedule 7A to the Taxation (International and Other Provisions) Act 2010(1);
+(b)
+a notice revoking the appointment of a reporting company under paragraph 2 of that Schedule;
+(c)
+an interest restriction return under paragraph 7 of that Schedule(2);
+(d)
+a revised interest restriction return under paragraph 8 of that Schedule.
+(2) In these Regulations “approved means of electronic communication” means any form or manner of electronic communication that is approved for the purposes of these Regulations by means of a specific or general direction given by the Commissioners.
+(3) A notice appointing a reporting company, or revoking such an appointment, that does not meet the requirements of paragraph (1) is of no effect.
+(4) An interest restriction return, or a revised interest return, that does not meet the requirements of paragraph (1) is taken not to have been delivered.
+(1)
+Paragraphs 1 and 2 of Schedule 7A were amended by paragraph 15 of Schedule 11 to the Finance Act 2019 (c. 1).
+(2)
+Paragraph 7 of Schedule 7A was amended by paragraphs 16 and 17 of Schedule 11 to the Finance Act 2019.Proof of delivery of information
+3.—(1) A notice or return that is submitted using an approved means of electronic communication is presumed to have been delivered if an acknowledgement is issued by an official computer system.
+(2) A notice or return that is submitted using an approved means of electronic communication is presumed not to have been delivered if no acknowledgment is issued by an official computer system.
+(3) In this regulation “official computer system” means a computer system maintained by or on behalf of the Commissioners—
+(a)
+to send or receive information; or
+(b)
+to process or store information.Justin Holliday
+Myrtle Lloyd
+Two of the Commissioners for Her Majesty’s Revenue and CustomsEXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations require certain information relating to corporate interest restriction returns under Schedule 7A to the Taxation (International and Other Provisions) Act 2010 to be supplied to HMRC via electronic communications. The approved means of electronic communication will be specified in Commissioners’ directions under regulation 2(2). Information that is not supplied in the correct format will be taken not to have been provided.
+A Tax Information and Impact Note covering this instrument will be published on the website at https://www.gov.uk/government/collections/tax-information-and-impact-notes-tiins.

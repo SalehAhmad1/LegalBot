@@ -1,0 +1,495 @@
+Draft Regulations laid before the Scottish Parliament under section 64(3) of the Energy Act 2011 for approval by resolution of the Scottish Parliament
+DRAFT SCOTTISH STATUTORY INSTRUMENTS
+2020 No.
+ENERGY CONSERVATION
+The Energy Efficiency (Domestic Private Rented Property) (Scotland) Regulations 2020
+Made
+2020
+Coming into force
+1st April 2020
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 55 of the Energy Act 2011(1) and all other powers enabling them to do so.
+In accordance with section 64(3) of that Act, a draft of this instrument has been laid before, and approved by resolution of the Scottish Parliament.
+(1)
+2011 c.16.Citation and commencement
+1.  These Regulations may be cited as the Energy Efficiency (Domestic Private Rented Property) (Scotland) Regulations 2020 and come into force on 1 April 2020.General interpretation
+2.—(1) In these Regulations—
+“the Act” means the Energy Act 2011,
+“building” means a roofed construction having walls, for which energy is used to condition the indoor climate,
+“building unit” means a section, floor or apartment within a building which is designed or altered to be used separately,
+“compliance notice” has the meaning given in regulation 17,
+“domestic PR property” has the meaning given in regulation 3,
+“energy efficiency improvement”, in relation to a property, means a measure specified as an energy efficiency improvement in schedule 1,
+“energy performance indicator” has the meaning given in regulation 2(1) of the EPB Regulations,
+“enforcement authority” has the meaning given in regulation 15(1),
+“the EPB Regulations” means the Energy Performance of Buildings (Scotland) Regulations 2008(1),
+“EPC assessor” means, in respect of a domestic PR property, a person who is a qualified member of an organisation approved by the Scottish Ministers under regulation 8 of the EPB Regulations as an organisation whose members may issue an energy performance certificate for that domestic PR property,
+“former landlord” has the meaning given in regulation 4,
+“green deal report” means a report produced pursuant to a qualifying assessment,
+“independent”, in relation to a person, means—
+(a)
+where a landlord or a superior landlord is an individual, a person who is not a spouse or civil partner of that landlord or that superior landlord (as the case may be), or
+(b)
+where a landlord or a superior landlord is not an individual, a person who is not, and has not been in the last 12 months—
+(i)
+a director, partner, shareholder or employee of, or other person exercising management control over, that landlord or that superior landlord, or
+(ii)
+a spouse or civil partner of a person falling within subparagraph (i),
+“L”, for the purposes of Parts 4 to 6, means a person who is a landlord, or a former landlord,
+“landlord” has the meaning given in regulation 4,
+“listed building” means a listed building within the meaning of section 1(4) of the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997(2),
+“local authority” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994(3),
+“minimum level of energy efficiency” has the meaning given in regulation 5(b),
+“penalty notice” has the meaning given in regulation 18,
+“property” means a building or a building unit,
+“PRS Exemptions Register” means a register established and maintained in accordance with regulation 14(1),
+“qualifying assessment” has the meaning given in section 3(9) of the Act,
+“recommendation report” has the meaning given in regulation 6A of the EPB Regulations,
+“relevant energy efficiency improvements” has the meaning given in section 55(4) of the Act read with regulation 7,
+“relevant person” means an independent architect, an independent chartered engineer, an independent chartered building surveyor or an independent chartered architectural technologist,
+“sub-standard” has the meaning given in regulation 5(a),
+“superior landlord” has the meaning given in regulation 4,
+“tenant” has the meaning given in regulation 4,
+“third party consent” means consent, permission, licence or approval which is required (other than from a tenant) before an energy efficiency improvement can be made, including in particular—
+(a)
+where the property is one of two or more properties comprised in a building, the consent of an owner, a tenant or other occupier of any other property in the building,
+(b)
+the consent of any person who holds a standard security over the landlord’s, or a superior landlord’s, interest in the property,
+(c)
+the consent of the owner of the domestic PR property or of any superior landlord,
+(d)
+planning permission required under the Town and Country Planning (Scotland) Act 1997(4) or any approval or consent required by virtue of such planning permission, and
+(e)
+consent required as a result of the property being a listed building,
+“valid”, in relation to an energy performance certificate(5), has the meaning given in regulation 5(c).
+(2) Where two or more persons together are the tenant, the landlord, former landlord or the superior landlord, then any reference to the tenant, the landlord, the former landlord or the superior landlord (as the case may be), except in the definition of “independent” in paragraph (1), is a reference to all the persons who are the tenant, the landlord, the former landlord or the superior landlord (as the case may be).
+(3) References to the submission of information (including evidence or copies of documents) for registration in the PRS Exemptions Register in relation to a domestic PR property are references to the submission of information (including evidence or copies of documents) to the local authority for the area in which that property is situated for registration in the PRS Exemptions Register for that area.
+(4) Nothing in these Regulations affects any duty to carry out works to a property (including works to repair or to improve) imposed on a tenant, a landlord, or a superior landlord, by the terms of a tenancy agreement or by any other enactment.
+(1)
+S.S.I. 2008/309, as relevantly amended by S.S.I. 2012/190, S.S.I. 2012/208, S.S.I. 2012/315 and S.S.I. 2013/12.
+(2)
+1997 c.9. Section 1(4) was amended by section 22(2)(a) and schedule 3 of the Historic Environment Scotland Act 2014 (asp 19).
+(3)
+1994 c.39.
+(4)
+1997 c.8.
+(5)
+“energy performance certificate” is defined for the purposes of these Regulations by section 55(4) of the Energy Act 2011 and has the same meaning as given in the Energy Performance of Buildings (Scotland) Regulations 2008 (S.S.I. 2008/309).Domestic PR property
+3.  For the purposes of these Regulations, “domestic PR property” means a property which is a Scottish domestic PR property other than a property which is a temporary building with a planned time of use of two years or less.Landlord and tenant
+4.  For the purposes of these Regulations—
+“former landlord”, in relation to a domestic PR property, means a person who used to let the property on a tenancy which falls within section 54(1)(a) of the Act but no longer does so,
+“tenant” means a person to whom a domestic PR property is let on a tenancy which falls within section 54(1)(a) of the Act,
+“landlord” means a person who lets, or proposes to let a domestic PR property on a tenancy which falls within section 54(1)(a) of the Act,
+“superior landlord” means any person who lets a domestic PR property other than the landlord.Sub-standard property
+5.  For the purposes of these Regulations—
+(a)
+a domestic PR property is “sub-standard” where the energy performance indicator of the property included in the valid energy performance certificate for the property indicates that the energy efficiency or performance of the property is rated as being below the minimum level of energy efficiency,
+(b)
+“minimum level of energy efficiency”, means—
+(i)
+in respect of the period from the date of commencement of these Regulations until 31 March 2022, an energy performance indicator of E(1),
+(ii)
+in respect of the period from and after 1 April 2022, an energy performance indicator of D,
+(c)
+an energy performance certificate for a property is “valid” where—
+(i)
+it was entered on the register required to be maintained by regulation 10 of the EPB Regulations no more than 10 years before the date on which it is relied on for the purposes of these Regulations, and
+(ii)
+no other energy performance certificate for the property has since been entered on that register.
+(1)
+In terms of regulation 2(1) of the Energy Performance of Buildings (Scotland) Regulations 2008 as amended by S.S.I. 2012/208 the energy performance indicator is an indication of the energy efficiency or performance rating of a property and is expressed on a scale of A to G with G representing the lowest rating.Prohibition on letting of sub-standard property
+6.—(1) A landlord of a sub-standard domestic PR property must not let the property, or part of the property on or after 1 October 2020, unless—
+(a)
+there are no relevant energy efficiency improvements that can be made to the property,
+(b)
+all the relevant energy efficiency improvements for the property have been made, or
+(c)
+one or more of the exemptions in Part 3, applies.
+(2) Paragraph (1) does not—
+(a)
+during the period beginning on 1 October 2020 and ending on 31 March 2022, prohibit a landlord from continuing to let a sub-standard domestic PR property under an existing tenancy to a person who is an existing tenant,
+(b)
+during the period beginning on 1 April 2022 and ending on 31 March 2025, prohibit a landlord from continuing to let a domestic PR property to a person who is an existing tenant if the energy performance indicator of the property indicates that the energy efficiency or performance of the property is rated as being E or above.
+(3) For the purposes of this regulation—
+(a)
+“let the property” (cognate terms being construed accordingly) means—
+(i)
+to grant a new tenancy which falls within section 54(1)(a) of the Act,
+(ii)
+to let the property on a tenancy which falls within section 54(1)(a) of the Act as a result of an extension or renewal of an existing tenancy, or
+(iii)
+to continue to let the property on a tenancy which falls within section 54(1)(a) of the Act,
+(b)
+“existing tenancy” means, in respect of a domestic PR property—
+(i)
+in relation the period beginning on 1 October 2020 and ending on 31 March 2022, a tenancy under which the tenant has a right to occupy that property on 30 September 2020, and
+(ii)
+in relation the period beginning on 1 April 2022 and ending on 31 March 2025, a tenancy under which the tenant has a right to occupy that property on 31 March 2022,
+(c)
+“existing tenant ”means—
+(i)
+for the purposes of paragraph (2)(a) is a person who is a tenant of the property on 30 September 2020 or a person who is the tenant of the property after that date by virtue of an assignation, or partial assignation, of rights in respect of the existing tenancy,
+(ii)
+the purposes of paragraph (2)(b) is a person who is a tenant of the property on 31 March 2022 or a person who is the tenant of the property after that date by virtue of an assignation, or partial assignation, of rights in respect of the existing tenancy.Relevant energy efficiency improvements
+7.—(1) For the purposes of paragraph (a) in the definition of “relevant energy efficiency improvements” in section 55(4) of the Act, a measure is an improvement in relation to a domestic PR property if it is both—
+(a)
+an energy efficiency improvement, and
+(b)
+identified as a recommended improvement for that property in—
+(i)
+a green deal report, or
+(ii)
+a valid energy performance certificate and its related recommendation report.
+(2) For the purposes of paragraph (b)(iv) in the definition of “relevant energy efficiency improvements” in section 55(4) of the Act, an energy efficiency improvement is a relevant energy efficiency improvement where the cost of purchasing or installing it can be financed, wholly or partially, by means of funding provided by a grant or loan from the Scottish Ministers.Relevant energy efficiency improvements undertaken
+8.—(1) Where the landlord of a sub-standard domestic PR property has made all the relevant energy efficiency improvements for the property, the landlord must submit for registration on the PRS Exemptions Register the information specified in paragraph (2).
+(2) The information referred to in paragraph (1) is—
+(a)
+the landlord registration number of the landlord(1),
+(b)
+the address and post code of the property,
+(c)
+a copy of the valid energy performance certificate for the property,
+(d)
+details of any energy efficiency improvement identified as a recommended improvement for the property in—
+(i)
+a green deal report, or
+(ii)
+an energy performance certificate and the related recommendation report,
+(e)
+details of any relevant energy efficiency improvements undertaken and the date on which they were completed, and
+(f)
+a copy of evidence on which the landlord relies to demonstrate that such relevant energy efficiency improvement have been completed.
+(3) Where the landlord has not made an energy efficiency improvement to a domestic PR property on the grounds that the improvement is not a relevant energy efficiency improvement, the landlord must submit for registration on the PRS Exemptions Register—
+(a)
+the information specified in paragraphs (2)(a) to (c), and
+(b)
+a copy of any evidence on which the landlord relies to demonstrate that the energy efficiency improvement is not a relevant energy efficiency improvement for the property.
+(1)
+“landlord registration number” is defined by section 84(5A) of the Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8) introduced by section 3(1) of the Private Rented Housing (Scotland) Act 2011 (asp 14).Sub-standard property let in breach of these Regulations
+9.  In any case where a landlord lets, or continues to let, a domestic PR property in breach of regulation 6, that breach does not affect the validity or enforceability of any provision of the tenancy.Consent exemption
+10.—(1) Subject to paragraph (2), regulation 6 does not apply if the landlord has been unable to make relevant energy efficiency improvements to the property to increase the energy performance indicator for the property so that the property meets or exceeds the minimum level of energy efficiency as a result of—
+(a)
+the current tenant refusing consent to any relevant energy efficiency improvement being made, or the landlord having been unable to obtain that consent despite reasonable efforts having been made by the landlord to obtain that consent,
+(b)
+within the preceding five years, third party consent having been—
+(i)
+refused, or
+(ii)
+granted subject to a condition with which the landlord cannot reasonably comply, or
+(c)
+a failure to obtain third party consent despite reasonable efforts having been made by the landlord to obtain that consent within the preceding five years.
+(2) The exemption in paragraph (1) only applies, and the landlord may only rely on the exemption, if the relevant information relating to the exemption has been submitted for registration in accordance with regulation 14(4) and schedule 2.Negative impact on fabric or structure of the domestic PR property
+11.—(1) Subject to paragraph (2), regulation 6 does not apply if, in respect of the only outstanding relevant energy efficiency improvement or improvements, the landlord has obtained a written opinion from a relevant person advising that due to the potential negative impact of the improvement or improvements on the fabric or structure of the domestic PR property, or the building of which it forms part, it is not appropriate to make such improvement or improvements.
+(2) The exemption in paragraph (1) only applies, and the landlord may only rely on the exemption, if the relevant information relating to the exemption has been submitted for registration in accordance with regulation 14(4) and schedule 2.Cost cap exemption
+12.—(1) Subject to paragraph (5), regulation 6 does not apply in respect of a domestic PR property—
+(a)
+during the period beginning on 1 October 2020 and ending on 31 March 2022 in the circumstances set out in paragraph (2),
+(b)
+during any period after 31 March 2022 in the circumstances set out in paragraph (3).
+(2) The circumstances referred to in paragraph (1)(a) are—
+(a)
+the actual costs exceed £5,000,
+(b)
+no outstanding relevant energy efficiency improvement can be made to property without the sum of the actual costs and the cost to the landlord of making an outstanding relevant energy efficiency improvement exceeding £5,000, or
+(c)
+no outstanding relevant energy efficiency improvement can be made to property without the cost to the landlord of making an outstanding relevant energy efficiency improvement exceeding £5,000.
+(3) The circumstances referred to in paragraph (1)(b) are—
+(a)
+the actual costs exceed £10,000,
+(b)
+no outstanding relevant energy efficiency improvement can be made to property without the sum of the actual costs and the cost to the landlord of making an outstanding relevant energy efficiency improvement exceeding £10,000, or
+(c)
+no outstanding relevant energy efficiency improvement can be made to property without the cost to the landlord of making an outstanding relevant energy efficiency improvement exceeding £10,000.
+(4) In this regulation and in paragraph 3 of schedule 2—
+(a)
+“actual costs” means the cost of installation of qualifying energy efficiency improvements to the domestic PR property incurred by a landlord, including expenditure financed by relevant financial assistance but not including expenditure financed by a grant from the Scottish Ministers for that purpose,
+(b)
+“qualifying energy efficiency improvement” in relation to a domestic PR property means—
+(i)
+in respect of the period beginning on 1 October 2020 and ending on 31 March 2022, any energy efficiency improvement made to the property on or after 1 April 2020 and before 1 April 2022, and
+(ii)
+in respect of any period after 31 March 2022, any energy efficiency improvement made to the property on or after 1 April 2020,
+(c)
+“relevant financial assistance” means financial assistance for the purpose of making energy efficiency improvements provided by means of a loan from the Scottish Ministers or as mentioned in subparagraphs (b)(i) to (iii) of the definition of “relevant energy efficiency improvements” in section 55(4) of the Act,
+(d)
+where the cost of making an outstanding relevant energy efficiency improvement to a property would be shared between the landlord and other persons, the cost to the landlord is the share of that cost which the landlord would be liable to pay in respect of the property.
+(5) The exemption in paragraph (1) only applies, and the landlord may only rely on the exemption, if the relevant information relating to the exemption has been submitted for registration in accordance with regulation 14(4) and schedule 2.Temporary exemption in certain circumstances
+13.—(1) Subject to paragraph (4), regulation 6 does not apply to a landlord during a relevant period.
+(2) For the purpose of this regulation “a relevant period” in relation to a domestic PR property is the period of six months beginning with the date on which the landlord becomes, or continues to be, the landlord of that property by virtue of—
+(a)
+the grant of a lease pursuant to a contractual obligation entered into before the date on which these Regulations came into force,
+(b)
+the deemed creation of a new lease by operation of law,
+(c)
+the grant of a lease by order of the court, or
+(d)
+the circumstances referred to in paragraph (3).
+(3) The circumstances referred to in paragraph (3) are—
+(a)
+the landlord became the landlord of the domestic PR property on purchasing, or otherwise acquiring, an interest in that property, and
+(b)
+on the date of acquisition of that interest, the property was let on an existing tenancy.
+(4) The exemption in paragraph (1) only applies, and the landlord may only rely on the exemption, if the relevant information relating to the exemption has been submitted for registration in accordance with regulation 14(4) and schedule 2.PRS Exemptions Register
+14.—(1) A local authority, in respect of domestic PR properties in its area, must establish and maintain a register (a “PRS Exemptions Register”)—
+(a)
+of information submitted in accordance with paragraph (4) or regulations 8(1) or (3) or 17(2),
+(b)
+from which the Scottish Ministers and enforcement authorities may, free of charge, access information registered on it, and held on it, as necessary to enable them to carry out their functions under these Regulations.
+(2) The local authority must make the information specified in paragraph (3) available for inspection free of charge.
+(3) The information is the following information relating to any domestic PR property, which has been registered in accordance with paragraph (4)—
+(a)
+the address and post code of the property,
+(b)
+the exemption relied on,
+(c)
+a copy of the valid energy performance certificate for the property,
+(d)
+the date on which information was submitted for registration in accordance with paragraph (4).
+(4) In any case where a landlord of a sub-standard domestic PR property wishes to rely on one or more of the exemptions provided for in regulations 10(1), 11(1), 12(1) and 13(1) in respect of the letting, or continued letting, of that property, the landlord must submit the relevant information for registration on the PRS Exemptions Register.
+(5) In this Part , “relevant information” is—
+(a)
+in all cases—
+(i)
+the landlord registration number of the landlord(1),
+(ii)
+the address and postcode of the domestic PR property, and
+(iii)
+a copy of the valid energy performance certificate for the property,
+(b)
+in respect of the regulation on which the landlord wishes to rely, the information relating to that regulation set out in schedule 2.
+(1)
+“landlord registration number” is defined by section 84(5A) of the Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8) introduced by section 3(1) of the Private Rented Housing (Scotland) Act 2011 (asp 14).Enforcement authorities
+15.—(1) In these Regulations “enforcement authority” in relation to a domestic PR property means the local authority for the area in which the domestic PR property is situated.
+(2) An enforcement authority must enforce compliance with the requirements of this Part in relation to properties in its area.Authorised officers
+16.  Except for the purposes of this regulation, where an enforcement authority appoints an authorised officer to exercise its powers under this Part, any reference to an “enforcement authority” is to be read as including a reference to that authorised officer.Compliance notices
+17.—(1) An enforcement authority may serve a notice (a “compliance notice”) on L where L appears to it to be, or to have been at any time within the 12 months preceding the date of service of the compliance notice, in breach of regulation 6, requesting such information as it considers necessary to enable it to monitor compliance with these Regulations.
+(2) A compliance notice may in particular request L to produce for inspection originals, or copies, of the following—
+(a)
+the energy performance certificate for the property which was valid at the time the property was let,
+(b)
+any other energy performance certificate for the property in L’s possession,
+(c)
+any current tenancy agreement under which the property is let,
+(d)
+any qualifying assessment in relation to the property,
+(e)
+any other document which the enforcement authority considers necessary to enable it to carry out its functions under this Part,
+and may request L to submit copies of any of them for registration on the PRS Exemptions Register.
+(3) A compliance notice must specify—
+(a)
+the name and address of the person to whom the documents or other information required must be provided, and
+(b)
+the date by which they must be provided, which must be no less than one month from the date of service of the compliance notice.
+(4) L must—
+(a)
+comply with the compliance notice, and
+(b)
+allow the enforcement authority to take copies of any original document produced.
+(5) A compliance notice may be varied or revoked in writing at any time by the enforcement authority that issued it.
+(6) An enforcement authority may take into account any information held by it, whether or not provided to it in accordance with this regulation, in determining whether L has complied with these Regulations.Penalty notices
+18.—(1) An enforcement authority may serve a notice on L (a “penalty notice”) imposing a financial penalty in accordance with this Part in any case where it is satisfied that L is, or has been at any time in the 18 months preceding the date of service of the penalty notice, in breach of one or more of the following—
+(a)
+regulation 6,
+(b)
+regulation 17(4)(a).
+(2) A penalty notice must—
+(a)
+specify the provision of these Regulations which the enforcement authority believes L has breached,
+(b)
+give such particulars as the enforcement authority considers necessary to identify the matters constituting the breach,
+(c)
+specify—
+(i)
+any action the enforcement authority requires L to take to remedy the breach, and
+(ii)
+the period within which such action must be taken,
+(d)
+specify the amount of any financial penalty imposed,
+(e)
+require L to pay any financial penalty within a period specified in the notice,
+(f)
+specify the name and address of the person to whom any financial penalty must be paid and the method by which payment may be made,
+(g)
+state the effect of regulations 21 to 24, and
+(h)
+specify—
+(i)
+the name and address of the person to whom a notice requesting a review in accordance with regulation 21 may be sent (and to whom any representations relating to the review must be addressed), and
+(ii)
+the period within which such a notice may be sent.
+(3) Each of the periods specified under paragraph (2)(c) and (e) must not be less than 28 days, beginning on the day on which the penalty notice is served.
+(4) Where L fails to take the action required by a penalty notice within the period specified in that penalty notice in accordance with paragraph (2)(c)(ii), the enforcement authority may issue a further penalty notice.Breaches in relation to domestic PR property
+19.—(1) The penalties set out in this regulation apply where L is, or was, the landlord of a domestic PR property.
+(2) Where L has breached regulation 6 and, at the time the penalty notice is served has, or had, been in breach for less than six months, the financial penalty imposed is £500.
+(3) Where L has breached regulation 6 and, at the time the penalty notice is served has, or had, been in breach for six months or more, the financial penalty imposed is £2,500.
+(4) Where L has submitted false or misleading information for registration under regulation 17(2), the financial penalty imposed is £500.
+(5) Where L has failed to comply with a compliance notice in breach of regulation 17(4)(a), the financial penalty imposed is a sum not exceeding £500.
+(6) Where an enforcement authority imposes financial penalties on L in relation to a breach of regulation 6 in respect of a domestic PR property—
+(a)
+under paragraph (2) or (3), and
+(b)
+under one or both of paragraphs (4) and (5),
+the total sum of the financial penalties imposed on L must not exceed £5,000.Defence – availability of financial assistance
+20.  L is not liable to a penalty charge served under regulation 18(1)(a) in respect of the letting of sub-standard domestic PR property without having made relevant energy efficiency improvements to that property if—
+(a)
+the relevant energy efficiency improvements are identified in an energy performance certificate and its related recommendations report, and
+(b)
+L has made an application to the Scottish Ministers for a grant or loan for the purpose of making such relevant energy efficiency improvements to the property and—
+(i)
+the application has been refused,
+(ii)
+the application has yet to be determined,
+(iii)
+the application has been granted but the financial assistance to be provided by virtue of the grant or loan, as the case may be, has not yet been made available to L.Reviews, waiving and modification of penalties
+21.—(1) L may, within the period specified by virtue of regulation 18(2)(h)(ii), serve notice on the enforcement authority requesting a review of its decision to serve a penalty notice.
+(2) Where L gives notice in accordance with paragraph (1), the enforcement authority must—
+(a)
+consider any representations made by L and all other circumstances of the case,
+(b)
+confirm or withdraw the penalty notice, and
+(c)
+serve notice of its decision to L.
+(3) If, following a review under paragraph (2), the enforcement authority—
+(a)
+ceases to be satisfied that L committed the breach specified in the penalty notice,
+(b)
+is satisfied that L took all reasonable steps and exercised all due diligence to avoid committing the breach specified in the penalty notice, or
+(c)
+decides that in the circumstances of the case it was not appropriate for a penalty notice to be served on L,
+the enforcement authority must serve a further notice on L withdrawing the penalty notice.
+(4) A notice confirming the penalty notice must state the effect of regulations 22 to 24.
+(5) Following a review under paragraph (2), the enforcement authority may—
+(a)
+waive a penalty,
+(b)
+allow L additional time to pay any financial penalty.Appeals
+22.—(1) If after a review the penalty notice is confirmed by the enforcement authority, the recipient may appeal against the penalty notice to the sheriff court of the sheriffdom in which the domestic PR property is situated.
+(2) An appeal against a penalty notice must be made within the period of 28 days beginning with the day after that on which the notice under regulation 21(2)(c) is served.
+(3) The sheriff may extend the period for appealing against the notice on cause shown.
+(4) An appeal must be on one (or more) of the following grounds—
+(a)
+the issue of the penalty notice was based on an error of fact,
+(b)
+the issue of the penalty notice was based on an error of law,
+(c)
+the penalty notice does not comply with a requirement imposed by these Regulations, or
+(d)
+in the circumstances of the case it was inappropriate for the penalty notice to be served on L.
+(5) An appeal against a penalty notice must be by summary application.Effect and determination of appeal
+23.—(1) The bringing of an appeal suspends the penalty notice being appealed taking effect, pending determination or withdrawal of the appeal.
+(2) The sheriff may—
+(a)
+quash the penalty notice, or
+(b)
+affirm the penalty notice, whether in its original form or with such modification as the sheriff sees fit.
+(3) If the penalty notice is quashed, the enforcement authority must repay any amount paid as a financial penalty in pursuance of the notice.
+(4) A decision of a sheriff may be appealed against as if it were a decision constituting final judgment in civil proceedings within the meaning of the Courts Reform (Scotland) Act 2014(1).
+(1)
+2014 asp 18.Recovery of financial penalty
+24.—(1) The amount of an unpaid financial penalty is recoverable from L as a debt owed to the enforcement authority unless the notice has been withdrawn or quashed.
+(2) Proceedings for the recovery of the financial penalty may not be commenced—
+(a)
+before the expiry of the period for requesting a review specified in the penalty notice by virtue of regulation 18(2)(h)(ii),
+(b)
+where a review has been requested under regulation 21(1), before the enforcement authority has served notice of its decision under regulation 21(2)(c), and
+(c)
+where the enforcement authority has served notice of its decision under regulation 21(2)(c) confirming the penalty notice, before the expiry of the period within which L may appeal under regulation 22.
+(3) In proceedings for the recovery of a financial penalty, a certificate which—
+(a)
+purports to be signed by or on behalf of the person having responsibility for the financial affairs of the enforcement authority, and
+(b)
+states that payment of the financial penalty was or was not received by a date specified in the certificate,
+is evidence of the facts stated.Service of documents
+25.—(1) Any notice served under these Regulations must be in writing and may be sent by post.
+(2) Any such notice may be given—
+(a)
+in the case of a body corporate, to the secretary or clerk of that body corporate,
+(b)
+in the case of a Scottish partnership, to any partner or to a person having control or management of the partnership.Name
+Authorised to sign by the Scottish Ministers
+St Andrew’s House,
+Edinburgh
+DateRegulation 2(1)
+SCHEDULE 1
+ENERGY EFFICIENCY IMPROVEMENTS
+The improvements specified as energy efficiency improvements are the installation of—
+(1) loft insulation, including top-up loft insulation,
+(2) flat roof insulation,
+(3) room in the roof insulation,
+(4) rafter insulation,
+(5) cavity wall insulation,
+(6) solid wall insulation,
+(7) floor insulation, including insulation beneath suspended timber floor and insulation on top of solid floors,
+(8) party wall insulation,
+(9) dynamic insulation,
+(10) double glazing,
+(11) secondary glazing,
+(12) triple glazing,
+(13) solar blinds, shutters and shading devices,
+(14) insulated external doors,
+(15) hot water cylinder insulation jackets,
+(16) draught proofing of windows, doors and loft hatch,
+(17) baffles or dampers to block open chimneys when not in use,
+(18) solar air positive input ventilation,
+(19) a condensing boiler as a replacement for an existing gas, oil or liquid petroleum gas central heating boiler,
+(20) a new gas central heating system (where none before),
+(21) a new oil or liquid petroleum gas central heating system (where none before),
+(22) a biomass central heating system,
+(23) fan-assisted electric storage heaters,
+(24) high heat retention electric storage heaters,
+(25) an electric thermal store wet central heating system,
+(26) air source heat pumps (both air-to-water and air-to-air systems),
+(27) ground source heat pumps,
+(28) replacing the secondary heating with a more efficient / appropriate appliance,
+(29) micro combined heat and power,
+(30) fitting central heating controls including room thermostats, programmers, and thermostatic radiator valves,
+(31) fitting a cylinder thermostat on the hot water cylinder,
+(32) solar thermal hot water,
+(33) photovoltaic panels,
+(34) solar assisted heat pumps,
+(35) low energy lighting.Regulation 14(5)
+SCHEDULE 2
+Information to be submitted for registration on the PRS Exemptions Register
+1.  The information referred to in regulation 14(5)(b) to be submitted for registration where a landlord wishes to rely on regulation 10(1) is—
+(a)
+which subparagraph of regulation 10(1) applies,
+(b)
+a copy of any correspondence and documents evidencing that—
+(i)
+consent was required and sought, and
+(ii)
+consent was refused or granted subject to a condition with which the landlord could not reasonably comply.
+2.  The information referred to in regulation 14(5)(b) to be submitted for registration where a landlord wishes to rely on regulation 11(1) is a copy of any written opinion described in regulation 11(1).
+3.  The information referred to in regulation 14(5)(b) to be submitted for registration where a landlord wishes to rely on regulation 12(1) is—
+(a)
+for each qualifying energy efficiency improvement made to the property which is relied on in calculating the actual costs, details of—
+(i)
+the energy efficiency improvement,
+(ii)
+the date on which the energy efficiency improvement was made, and
+(iii)
+evidence of the cost incurred by the landlord in making that energy efficiency improvement,
+(b)
+for the purposes of regulation 12(2)(b) or (c) either—
+(i)
+copies of two quotations for the cost of purchasing and installing the outstanding relevant energy efficiency improvement or improvements relied on for such purposes, which demonstrate the cost to the landlord of making such improvement, or improvements, would alone, or together with the actual costs, exceed £5,000,
+(ii)
+confirmation from a relevant person or an EPC assessor that demonstrates that the cost to the landlord of making such improvement, or improvements, would alone, or together with the actual costs, exceed £5,000, or
+(iii)
+confirmation from a relevant person or an EPC assessor that no outstanding relevant energy efficiency improvement can be made to the domestic PR property without the cost to the landlord of doing so exceeding £5,000,
+(c)
+for the purposes of regulation 12(3)(b) or (c) either—
+(i)
+copies of two quotations for the cost of purchasing and installing the outstanding relevant energy efficiency improvement or improvements relied on for such purposes, which demonstrate the cost to the landlord of making such improvement, or improvements, would alone, or together with the actual costs, exceed £10,000,
+(ii)
+confirmation from a relevant person or an EPC assessor that demonstrates that the cost to the landlord of making such improvement, or improvements, would alone, or together with the actual costs, exceed £10,000, or
+(iii)
+confirmation from a relevant person or an EPC assessor that no outstanding relevant energy efficiency improvement can be made to the domestic PR property without the cost to the landlord of doing so exceeding £10,000.
+4.  The information referred to in regulation 14(5)(b) to be submitted for registration where a landlord wishes to rely on regulation 13(1) is—
+(a)
+a statement setting out which paragraph of regulation 13(2) is relied upon by the landlord,
+(b)
+the date on which the landlord became, or continued to be, the landlord by virtue of a circumstance referred to in regulation 13(2).EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations introduce measures to improve the energy efficiency of certain private rented property in Scotland.
+The Regulations apply to domestic private rented property. They prescribe a minimum level of energy efficiency by means of the energy performance indicator included on the energy performance certificate for the property. This minimum level is set for the period from 1 October 2020 to 31 March 2022 as an energy efficiency or performance rating of E, and for the period from and after 1 April 2022 as an energy efficiency or performance rating of D. The Regulations provide that, subject to prescribed exceptions, a landlord of a domestic private rented property must not grant a new tenancy of the property after 1 October 2020, and must not continue to let the property after that date, where the energy efficiency or performance rating of the property is below the minimum level.
+The Regulations make provision for the enforcement of the requirements of the Regulations by local authorities in relation to domestic private rented properties (“enforcement authority”). Landlords seeking to rely on a prescribed exemption when letting a private rented property which falls below the minimum level of energy efficiency must register that exemption on a register maintained by the local authority for their area. Where an enforcement authority considers that a landlord may be in breach of a requirement of the Regulations, it may serve a compliance notice requiring the landlord to provide evidence to the enforcement authority. Where an enforcement authority is satisfied that a landlord is in breach, it may issue a penalty notice imposing a financial penalty. The landlord may request a review of the penalty notice by the enforcement authority and, where a penalty notice is confirmed on review, may appeal against the imposition of the penalty notice to Sheriff court.

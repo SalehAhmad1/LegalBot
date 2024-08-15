@@ -1,0 +1,1589 @@
+STATUTORY INSTRUMENTS
+2022 No. 349
+EDUCATION, ENGLAND
+The Higher Education Short Course Loans Regulations 2022
+Made
+21st March 2022
+Laid before Parliament
+23rd March 2022
+Coming into force
+13th April 2022
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 22 and 42(6) of the Teaching and Higher Education Act 1998(1).
+(1)
+1998 c. 30. Section 22 was amended by section 146(2) of, and paragraph 1 of Schedule 11 to, the Learning and Skills Act 2000 (c. 21), paragraph 236 of Schedule 6 to the Income Tax (Earnings and Pensions) Act 2003 (c. 1), section 147(3) of the Finance Act 2003 (c. 14), sections 42(1) and 43(2) and (3) of, and Schedule 7 to, the Higher Education Act 2004 (c. 8), section 257(2) of the Apprenticeships, Skills, Children and Learning Act 2009 (c. 22), section 76(1) and (2)(a) of the Education Act 2011 (c. 21), section 88(2) to (5) of the Higher Education and Research Act 2017 (c. 29) (“the 2017 Act”) and S.I. 2013/1881. Section 22 is also amended by section 86(2) to (7) of the 2017 Act but those amendments are not yet in force. See section 43(1) for the definitions of “prescribed” and “regulations”.Citation, commencement, extent and application
+1.—(1) These Regulations may be cited as the Higher Education Short Course Loans Regulations 2022.
+(2) These Regulations come into force on 13th April 2022.
+(3) These Regulations extend to England and Wales, but apply only in relation to England(1).
+(4) These Regulations apply to the provision of fee loans to students in connection with an HE short course which begins on or after 1st September 2022 whether anything done under these Regulations is done before, on or after that date.
+Commencement Information
+I1
+Reg. 1 in force at 13.4.2022, see reg. 1(2)
+(1)
+In relation to Wales, the functions of the Secretary of State under section 22 of the 1998 Act were transferred to the Welsh Ministers under section 44 of the Higher Education Act 2004, except in so far as they relate to the making of any provision authorised by subsection (2)(a), (c), (j) or (k), (3)(e) or (f) or (5) of section 22.Interpretation
+2.—(1) In these Regulations—
+“the 1998 Act” means the Teaching and Higher Education Act 1998;
+“the 2002 Act” means the Nationality, Immigration and Asylum Act 2002(1);
+“applicant” means a person applying for an HESC loan;
+“current course” means the HE short course in respect of which an applicant applies for an HESC loan;
+“electronic signature” is so much of anything in electronic form as—
+(a)
+is incorporated into or logically associated with any electronic communication or electronic data, and
+(b)
+purports to be so incorporated or associated for the purposes of being used in establishing the authenticity of the communication or data, the integrity of the date, or both;
+“eligible prisoner” means a prisoner—
+(a)
+who is serving a sentence of imprisonment in the United Kingdom,
+(b)
+[F1who] has been authorised by the prison Governor or Director or other appropriate authority to study the current course, and
+(c)
+whose earliest release date is within 6 years of the first day of the current course;
+“eligible student” has the meaning given in regulation 3;
+“European Economic Area” means the areas comprised by the EEA states;
+“fee loan” means a loan for fees made to an eligible student pursuant to regulations made by the Secretary of State under section 22 of the 1998 Act;
+“fees” has the meaning given for the purposes of Part 1 of the Higher Education and Research Act 2017 (see section 85(2) of that Act)(2);
+“HE short course” means a course designated by the Secretary of State under regulation 4;
+“HESC loan” means a fee loan made pursuant to these Regulations;
+“higher education course” means a course providing education (whether or not in preparation for an examination) the standard of which—
+(a)
+is higher than the standard of a course in preparation for examination for the General Certificate of Secondary Education, but
+(b)
+is not higher than the standard of a first degree course;
+“information” includes documents;
+“institution” means an organisation delivering higher education courses;
+“the Islands” means Channel Islands and the Isle of Man;
+“loan”, except where otherwise indicated, means a loan made pursuant to regulations made by the Secretary of State under section 22 of the 1998 Act, and includes the interest accrued on the loan and any penalties or charges incurred in connection with it;
+“overseas territories” means Anguilla; Aruba; Bermuda; British Antarctic Territory; British Indian Ocean Territory; British Virgin Islands; Cayman Islands; Falkland Islands; Faroe Islands; French Polynesia; French Southern and Antarctic Territories; Gibraltar; Mayotte; Greenland; Montserrat; Netherlands Antilles (Bonaire, Curaçao, Saba, Sint Eustatius, Sint Maarten); Pitcairn, Henderson, Ducie and Oeno Islands; South Georgia and the South Sandwich Islands; St Barthélemy; [F2St Helena, Ascension and Tristan da Cunha]; St Pierre et Miquelon; the Territory of New Caledonia and Dependencies; Turks and Caicos Islands; and Wallis and Futuna;
+“period of eligibility”, in relation to an eligible student, has the meaning given in regulation 5;
+“specified British overseas territories” means Anguilla; Bermuda; British Antarctic Territory; British Indian Ocean Territory; British Virgin Islands; Cayman Islands; Falkland Islands; Gibraltar; Montserrat; Pitcairn, Henderson, Ducie and Oeno Islands; South Georgia and the South Sandwich Islands; [F3St Helena, Ascension and Tristan da Cunha]; and Turks and Caicos Islands.
+(2) In these Regulations, the following terms have the meanings given in paragraph 1(1) of Schedule 1—
+F4(aa)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(a)
+“person granted Calais leave”;
+(b)
+“person granted humanitarian protection”;
+(c)
+“person granted indefinite leave to remain as a bereaved partner”;
+(d)
+“person granted indefinite [F5leave to enter or remain] as a victim of domestic violence or domestic abuse”;
+(e)
+“person granted leave under one of the Afghan Schemes”;
+[F6(ea)
+“person granted leave under one of the Ukraine Schemes”]
+(f)
+“person granted section 67 leave”;
+(g)
+“person granted stateless leave”;
+(h)
+“person with protected rights”;
+(i)
+“refugee”;
+(j)
+“residence scheme immigration rules”;
+(k)
+“Turkish worker”.
+(3) For the purposes of these Regulations, a reference to the United Kingdom and Islands is a reference to the United Kingdom and the Islands taken together.
+(4) For the purposes of these Regulations, a person is not to be treated as ordinarily resident in a place unless that person lawfully resides in that place [F7(but see regulation 7(3) and (4))].
+(5) For the purposes of these Regulations, a person who is ordinarily resident in England, Wales, Scotland, Northern Ireland or the Islands, as a result of having moved from another of those areas for the purposes of undertaking—
+(a)
+the current course, or
+(b)
+a course which, disregarding any intervening vacation, the person undertook immediately before the current course,
+is to be considered to be ordinarily resident in the place from which that person moved.
+(6) For the purposes of these Regulations, a person (“A”) is to be treated as ordinarily resident in an area if A would have been so resident but for the fact that—
+(a)
+A,
+(b)
+A’s spouse or civil partner,
+(c)
+A’s parent, or
+(d)
+in the case of a dependent direct relative in the ascending line, A’s child or child’s spouse or civil partner,
+is or was temporarily employed outside the area in question.
+(7) For the purposes of paragraph (6), temporary employment outside the area in question includes—
+(a)
+in the case of members of the regular naval, military or air forces of the Crown, any period which they serve outside the United Kingdom as members of such forces;
+(b)
+in the case of members of the regular armed forces of a specified British overseas territory, any period which they serve outside the territory comprising the United Kingdom and the specified British overseas territories as members of such forces;
+(c)
+in the case of members of the regular armed forces of the Republic of Ireland, any period which they serve outside the territory comprising the United Kingdom, the Islands and the Republic of Ireland as members of such forces;
+(d)
+in the case of members of the regular armed forces of an EEA State or Switzerland, any period which they serve outside the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland as members of such forces;
+(e)
+in the case of members of the regular armed forces of Turkey, any period which they serve outside the territory comprising the United Kingdom, Gibraltar, the European Economic Area, Switzerland and Turkey as members of such forces;
+(f)
+in the case of members of the regular armed forces of an EU overseas territory, any period which they serve outside the territory comprising the United Kingdom, the European Economic Area, Switzerland and the overseas territories.
+(8) For the purposes of these Regulations, an area, other than the United Kingdom or Gibraltar, which—
+(a)
+was previously not part of the EU or the European Economic Area, but
+(b)
+at any time before or after these Regulations come into force has become part of one or other or both of those areas,
+is to be considered to have always been a part of the European Economic Area.
+(9) For the purposes of these Regulations, an eligible prisoner is to be considered ordinarily resident in the part of the United Kingdom where the prisoner resided prior to sentencing.
+Textual Amendments
+F1
+Word in reg. 2(1) inserted (16.2.2023) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74), regs. 1, 137(a)
+F2
+Words in reg. 2(1) substituted (16.2.2023) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74), regs. 1, 125(a)
+F3
+Words in reg. 2(1) substituted (16.2.2023) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74), regs. 1, 125(b)
+F4
+Reg. 2(2)(aa) omitted (16.2.2023) by virtue of The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74), regs. 1, 137(b)
+F5
+Words in reg. 2(2)(d) substituted (with application in accordance with reg. 2(4)(a) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 55(1)
+F6
+Reg. 2(2)(ea) inserted (with application in accordance with reg. 1(4)(h) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/534), regs. 1(1), 25(1)
+F7
+Words in reg. 2(4) inserted (with application in accordance with reg. 2(4)(5)(a) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74), reg. 127
+Commencement Information
+I1
+Reg. 2 in force at 13.4.2022, see reg. 1(2)
+(1)
+2002 c. 41.
+(2)
+2017 c. 29.Eligible students
+3.—(1) An eligible student qualifies for an HESC loan in connection with their undertaking an HE short course in accordance with this regulation.
+(2) A person (“P”) is an eligible student in connection with an HE short course if—
+(a)
+in assessing P’s application for an HESC loan, the Secretary of State determines that either—
+(i)
+P falls within one of the categories set out in Part 2 of Schedule 1, and has ratified any agreement for a loan (other than an excluded agreement) made with P when P was under the age of 18, or
+(ii)
+P is a returning student,
+(b)
+P is not in breach of any obligation to repay any loan, and
+(c)
+P has not, in the opinion of the Secretary of State, shown by P’s conduct that P is unfitted to receive support.
+(3) For the purposes of paragraph (2)(a)(i)—
+“borrower” means an eligible student to whom a fee loan has been made;
+“excluded agreement” means an agreement for a loan which is subject to the law of Scotland and was made—
+(a)
+on or after 25th September 1991, or
+(b)
+before that date, without the concurrence of the borrower’s curator or at a time when the borrower had no curator;
+“loan” means a loan under any provision of—
+(a)
+the Education (Scotland) Act 1980(1);
+(b)
+the Education (Student Loans) Act 1990(2);
+(c)
+regulations made under either of those Acts or the 1998 Act;
+(d)
+the Education (Student Loans) (Northern Ireland) Order 1990(3);
+(e)
+the Education (Student Support) (Northern Ireland) Order 1998(4);
+(f)
+regulations made under either of those Orders.
+(4) For the purposes of paragraph (2)(a)(ii), P is a returning student if—
+(a)
+P took out an HESC loan in connection with a course which began before the current course (referred to in this regulation as a “previous course”),
+(b)
+P begins the current course within the period of 12 months beginning with the first day of the previous course, and
+(c)
+there has been no relevant change in P’s circumstances since P was determined to be an eligible student in connection with the previous course.
+(5) For the purposes of paragraph (4)(c), there is a relevant change in P’s circumstances if—
+(a)
+where the Secretary of State determined that P was an eligible student in connection with the reference course by virtue of P being ordinarily resident in England, or the United Kingdom, P has ceased to be ordinarily resident in England or, as the case may be, the United Kingdom;
+(b)
+where the Secretary of State determined that P was an eligible student in connection with the reference course by virtue of P undertaking the course in England, P has ceased to undertake the course in England;
+(c)
+where the Secretary of State determined that P was an eligible student in connection with the reference course by virtue of P being a refugee, or the spouse, civil partner, child or step-child of a refugee (“R”)—
+(i)
+the refugee status of P or, as the case may be, R has expired, F1...
+(ii)
+no further leave to remain has been granted and no appeal is pending (within the meaning of section 104 of the 2002 Act(5)) [F2, and
+(iii)
+the person (P or R) whose refugee status has expired has not become a British or Irish citizen;]
+(d)
+where the Secretary of State determined that P was an eligible student in connection with the reference course by virtue of P being a person with humanitarian protection, or the spouse, civil partner, child or step-child of a person with humanitarian protection (“H”)—
+(i)
+the period for which P or, as the case may be, H is allowed to stay in the United Kingdom has expired, F3...
+(ii)
+no further leave to remain is granted and no appeal is pending (within the meaning of section 104 of the 2002 Act) [F4, and
+(iii)
+the person (P or H) whose period for which they are allowed to stay in the United Kingdom has expired has not become a British or Irish citizen;]
+(e)
+where the Secretary of State determined that P was an eligible student in connection with the reference course by virtue of P being a person granted Calais leave, a person granted section 67 leave or a person granted stateless leave, or the spouse, civil partner, child or step-child of any such person (“S”)—
+(i)
+the period for which P or, as the case may be, S is allowed to stay in the United Kingdom, or the United Kingdom and Islands, has expired, F5...
+(ii)
+no further leave to remain has been granted [F6, and
+(iii)
+the person (P or S) whose period for which they are allowed to stay in the United Kingdom has expired has not become a British or Irish citizen;]
+(f)
+where the Secretary of State determined that P was an eligible student in connection with the reference course by virtue of P being a person with protected rights with limited leave to enter or remain in the United Kingdom granted by virtue of residence scheme immigration rules—
+(i)
+P no longer has extant limited leave to enter or remain granted by virtue of those rules, F7...
+(ii)
+no further leave to enter or remain has been granted under those rules [F8, and
+(iii)
+P has not become a British or Irish citizen;]
+(g)
+where the Secretary of State determined that P was an eligible student in connection with the reference course by virtue of P being a person falling within paragraph (a)(iii) or (iv) of the definition of “person with protected rights” or meeting the conditions in paragraph 5(1)(a)(iii) of Part 2 of Schedule 1, P has ceased to be a person with protected rights [F9and has not become a British or Irish citizen];
+[F10(h)
+where the Secretary of State determined that P was an eligible student in connection with the reference course by virtue of being—
+(i)
+a person granted leave under one of the Afghan Schemes, or
+(ii)
+the spouse, civil partner, child or step-child of a person (“A”) granted leave under one of the Afghan Schemes,
+the period for which P, or, as the case may be, A, is allowed to stay in the United Kingdom has expired [F11and the person (P or A) whose period for which they are allowed to stay in the United Kingdom has expired has not become a British or Irish citizen];]
+[F12(i)
+where the Secretary of State determined that P was an eligible student in connection with the reference course by virtue of being—
+(i)
+a person granted leave under one of the Ukraine Schemes, or
+(ii)
+the spouse, civil partner, child or step-child of a person (“U”) granted leave under one of the Ukraine Schemes,
+the period for which P, or, as the case may be, U, is allowed to stay in the United Kingdom has expired [F13and the person (P or U) whose period for which they are allowed to stay in the United Kingdom has expired has not become a British or Irish citizen].]
+[F14(j)
+where the Secretary of State determined that P was an eligible student in connection with the reference course by virtue of paragraph 25 of Schedule 1 (long residence), the period for which P is allowed to stay in the United Kingdom has expired and P has not become a British or Irish citizen.]
+(6) For the purposes of paragraph (5), the reference course is—
+(a)
+the previous course in connection with P’s application for an HESC loan for the current course, or
+(b)
+where P was determined to be a returning student in connection with the previous course mentioned in sub-paragraph (a) (“course A”)—
+(i)
+the HE short course which was the previous course in connection with P’s application for an HESC loan for course A, or
+(ii)
+where P was determined to be a returning student in connection with the previous course mentioned in paragraph (i) (“course B”), the HE short course which was the previous course in connection with P’s application for an HESC loan for course B.
+(7) If P is an eligible prisoner, P may qualify for an HESC loan under this regulation in respect of an HE short course which is taking place at the time when they enter prison, are in prison or are released from prison.
+Textual Amendments
+F1
+Word in reg. 3(5)(c)(i) omitted (with application in accordance with reg. 2(4)(d) of the amending S.I.) by virtue of The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 56(1)(a)(i)
+F2
+Reg. 3(5)(c)(iii) substituted (with application in accordance with reg. 2(4)(d) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 56(1)(a)(ii)
+F3
+Word in reg. 3(5)(d)(i) omitted (with application in accordance with reg. 2(4)(d) of the amending S.I.) by virtue of The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 56(1)(b)(i)
+F4
+Reg. 3(5)(d)(iii) and word substituted (with application in accordance with reg. 2(4)(d) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 56(1)(b)(ii)
+F5
+Word in reg. 3(5)(e)(i) omitted (with application in accordance with reg. 2(4)(d) of the amending S.I.) by virtue of The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 56(1)(c)(i)
+F6
+Reg. 3(5)(e)(iii) and word substituted (with application in accordance with reg. 2(4)(d) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 56(1)(c)(ii)
+F7
+Word in reg. 3(5)(f)(i) omitted (with application in accordance with reg. 2(4)(d) of the amending S.I.) by virtue of The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 56(1)(d)(i)
+F8
+Reg. 3(5)(f)(iii) and word substituted (with application in accordance with reg. 2(4)(d) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 56(1)(d)(ii)
+F9
+Words in reg. 3(5)(g) inserted (with application in accordance with reg. 2(4)(d) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 56(1)(e)
+F10
+Reg. 3(5)(h) substituted (with application in accordance with reg. 2(6)(7)(9) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74), reg. 129(a) (with reg. 141(2)(3))
+F11
+Words in reg. 3(5)(h) inserted (with application in accordance with reg. 2(4)(d) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 56(1)(f)
+F12
+Reg. 3(5)(i) substituted (with application in accordance with reg. 2(4)(5)(b) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74), reg. 129(b)
+F13
+Words in reg. 3(5)(i) inserted (with application in accordance with reg. 2(4)(d) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 56(1)(g)
+F14
+Reg. 3(5)(j) inserted (with application in accordance with reg. 2(5)(b) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 56(1)(h)
+Commencement Information
+I1
+Reg. 3 in force at 13.4.2022, see reg. 1(2)
+(1)
+1980 c. 44.
+(2)
+1990 c. 6. This Act was repealed by the 1998 Act.
+(3)
+S.I. 1990/1506 (N.I. 11).
+(4)
+S.I. 1998/1760 (N.I. 14).
+(5)
+Section 104 was amended by paragraph 20 of Schedule 2, and Schedule 4, to the Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19), section 9 of the Immigration, Asylum and Nationality Act 2006 (c. 13), paragraph 47 of Schedule 9 to the Immigration Act 2014 (c. 22) and S.I. 2010/21.Designated courses
+4.—(1) A higher education course may be designated by the Secretary of State for the purposes of section 22(1) of the 1998 Act where the course—
+(a)
+begins—
+(i)
+on or after 1st September 2022, and
+(ii)
+on or before 31st July 2025,
+(b)
+ends before 1st September 2025,
+(c)
+is of no more than 12 months duration,
+(d)
+has a size, in credits, of 30 or 40,
+(e)
+is being provided by an institution which is situated in England, and
+(f)
+is substantially provided in England.
+(2) The Secretary of State must publish, in such manner as the Secretary of State considers appropriate, a list of courses designated under paragraph (1).
+(3) The Secretary of State may revoke or suspend the designation of a course which is designated under paragraph (1).
+(4) If the Secretary of State revokes or suspends the designation of a course under paragraph (3), the Secretary of State must update the list of courses accordingly.
+Commencement Information
+I1
+Reg. 4 in force at 13.4.2022, see reg. 1(2)Period of eligibility
+5.—(1) A student’s status as an eligible student is retained in connection with an HE short course until the status terminates in accordance with this regulation or regulation 6.
+(2) The period for which an eligible student retains that status is the “period of eligibility”.
+(3) Subject to paragraphs (4) to (6), the period of eligibility terminates at the end of the ordinary duration of the HE short course.
+(4) The Secretary of State may terminate an eligible student’s period of eligibility where the student has shown by their conduct that they are unfitted to receive an HESC loan.
+(5) If the Secretary of State is satisfied that an eligible student has failed to comply with any requirement to provide information under these Regulations or has provided information which is inaccurate in a material particular, the Secretary of State may take such of the following actions as the Secretary of State considers appropriate in the circumstances—
+(a)
+terminate the period of eligibility;
+(b)
+determine that the student no longer qualifies for any HESC loan or a particular amount of HESC loan;
+(c)
+treat any HESC loan paid to the student as an overpayment which may be recovered under regulation 18.
+(6) Where the period of eligibility terminates before the end of the ordinary duration of the HE short course, the Secretary of State may, at any time, renew the period of eligibility for such period as the Secretary of State determines.
+(7) For the purposes of this regulation, the ordinary duration of an HE short course is the period which a standard student would take to complete the course.
+(8) For the purposes of paragraph (7) “standard student” means a student who is taken—
+(a)
+to have begun the HE short course on the same date as the eligible student in question,
+(b)
+not to be excused any part of the course,
+(c)
+not to repeat any part of the course, and
+(d)
+not to be absent from the course other than during vacations (if any).
+Commencement Information
+I1
+Reg. 5 in force at 13.4.2022, see reg. 1(2)Students who cease to be eligible students before the start of an HE short course
+6.—(1) A person’s status as an eligible student in connection with an HE short course terminates immediately before the first day of that course if any of paragraphs (2) to (9) apply in relation that person.
+(2) This paragraph applies in relation to a person (“P”) if—
+(a)
+the Secretary of State has determined that, by virtue of being a refugee or the spouse, civil partner, child or step-child of a refugee, P is an eligible student in connection with an application for an HESC loan for the relevant course, and
+(b)
+as at the day before the current course begins, the refugee status of P, or of P’s spouse, civil partner, parent or step-parent, as the case may be, [F1has expired and—
+(i)
+no further leave to remain has been granted,
+(ii)
+no appeal is pending (within the meaning of section 104 of the Nationality, Immigration and Asylum Act 2002), and
+(iii)
+the person (P or P’s spouse, civil partner, parent or step-parent) whose refugee status has expired has not become a British or Irish citizen.]
+(3) This paragraph applies in relation to a person (“P”) if—
+(a)
+the Secretary of State has determined that, by virtue of being a person granted stateless leave or the spouse, civil partner, child or step-child of a person granted stateless leave, P is an eligible student in connection with an application for an HESC loan for the relevant course, and
+(b)
+as at the day before the current course begins, the period for which the person granted stateless leave is allowed to stay in the United Kingdom has expired and no further leave to remain has been granted [F2and the person (P or P’s spouse, civil partner, parent or step-parent) whose period for which they are allowed to stay in the United Kingdom has expired has not become a British or Irish citizen].
+(4) This paragraph applies in relation to a person (“P”) if—
+(a)
+the Secretary of State has determined that, by virtue of being a person granted section 67 leave, P is an eligible student in connection with an application for an HESC loan for the relevant course, and
+(b)
+as at the day before the current course begins, the period for which P is allowed to stay in the United Kingdom and Islands has expired and no further leave to remain has been granted [F3and P has not become a British or Irish citizen].
+(5) This paragraph applies in relation to a person (“P”) if—
+(a)
+the Secretary of State has determined that, by virtue of being a person granted Calais leave, P is an eligible student in connection with an application for an HESC loan for the relevant course, and
+(b)
+as at the day before the current course begins, the period for which P is allowed to stay in the United Kingdom has expired and no further leave to remain has been granted [F4and P has not become a British or Irish citizen].
+(6) This paragraph applies in relation to a person (“P”) if—
+(a)
+the Secretary of State has determined that, by virtue of being a person granted humanitarian protection or the spouse, civil partner, child or step-child of a person granted humanitarian protection, P is an eligible student in connection with an application for an HESC loan for the relevant course, and
+(b)
+as at the day before the current course begins, the period for which the person granted humanitarian protection is allowed to stay in the United Kingdom [F5has expired and—
+(i)
+no further leave to remain has been granted,
+(ii)
+no appeal is pending (within the meaning of section 104 of the Nationality, Immigration and Asylum Act 2002), and
+(iii)
+the person (P or P’s spouse, civil partner, parent or step-parent) whose period for which they are allowed to stay in the United Kingdom has expired has not become a British or Irish citizen.]
+(7) This paragraph applies in relation to a person (“P”) if—
+(a)
+the Secretary of State has determined that, by virtue of being a person with protected rights with limited leave to enter or remain in the United Kingdom granted by virtue of residence scheme immigration rules, P is an eligible student in connection with an application for an HESC loan for the relevant course, and
+(b)
+as at the day before the current course begins, P no longer has extant limited leave to enter or remain granted by virtue of residence scheme immigration rules and no further leave to enter or remain has been granted under those rules [F6and P has not become a British or Irish citizen].
+(8) This paragraph applies in relation to a person (“P”) if—
+(a)
+the Secretary of State has determined that, by virtue of falling within paragraph (a)(iii) or (iv) of the definition of “person with protected rights” or meeting the conditions in paragraph 5(1)(a)(iii) in Part 2 of Schedule 1, P is an eligible student in connection with an application for an HESC loan for the relevant course, and
+(b)
+as at the day before the current course begins, P is not a person with protected rights [F7and P has not become a British or Irish citizen].
+(9) This paragraph applies in relation to a person (“P”) if—
+(a)
+the Secretary of State has determined that, by virtue of being a person granted leave under one of the Afghan Schemes [F8or the spouse, civil partner, child or step-child of a person granted leave under one of the Afghan Schemes], P is an eligible student in connection with an application for an HESC loan for the relevant course, and
+(b)
+as at the day before the current course begins, the period [F9the person granted leave under one of the Afghan schemes is allowed to stay in the United Kingdom has expired and that person has not become a British or Irish citizen.]
+[F10(9A) This paragraph applies in relation to a person (“P”) if—
+(a)
+the Secretary of State has determined that, by virtue of being a person granted leave under one of the Ukraine Schemes [F11or the spouse, civil partner, child or step-child of a person granted leave under one of the Ukraine Schemes], P is an eligible student in connection with an application for an HESC loan for the relevant course, and
+(b)
+as at the day before the current course begins, the period [F12the person granted leave under one of the Ukraine schemes is allowed to stay in the United Kingdom has expired and that person has not become a British or Irish citizen.]]
+[F13(9B) This paragraph applies in relation to a person (“P”) if—
+(a)
+the Secretary of State has determined that, by virtue of being a person granted leave under paragraph 25 of Schedule 1 (long residence), P is an eligible student in connection with an application for an HESC loan for the relevant course, and
+(b)
+as at the day before the current course begins, the period P is allowed to stay in the United Kingdom has expired and—
+(i)
+no appeal is pending (within the meaning of section 104 of the Nationality, Immigration and Asylum Act 2002); and
+(ii)
+P has not become a British or Irish citizen.]
+(10) In this regulation “the relevant course”, in relation to P, means—
+(a)
+the current course, or
+(b)
+where P is determined to be a returning student in connection with P’s application for an HESC loan for the current course, the course which is the reference course for the purposes of regulation 3(5).
+Textual Amendments
+F1
+Reg. 6(2)(b)(i)-(iii) and words substituted (with application in accordance with reg. 2(4)(d) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 56(2)(a)
+F2
+Words in reg. 6(3)(b) inserted (with application in accordance with reg. 2(4)(d) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 56(2)(b)
+F3
+Words in reg. 6(4)(b) inserted (with application in accordance with reg. 2(4)(d) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 56(2)(c)
+F4
+Words in reg. 6(5)(b) inserted (with application in accordance with reg. 2(4)(d) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 56(2)(c)
+F5
+Reg. 6(6)(b)(i)-(iii) and words substituted (with application in accordance with reg. 2(4)(d) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 56(2)(d)
+F6
+Words in reg. 6(7)(b) inserted (with application in accordance with reg. 2(4)(d) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 56(2)(e)
+F7
+Words in reg. 6(8)(b) inserted (with application in accordance with reg. 2(4)(d) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 56(2)(f)
+F8
+Words in reg. 6(9)(a) inserted (with application in accordance with reg. 2(6)(7)(9) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74), reg. 130(a) (with reg. 141(2)(3))
+F9
+Words in reg. 6(9)(b) substituted (with application in accordance with reg. 2(4)(d) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 56(2)(g)
+F10
+Reg. 6(9A) inserted (with application in accordance with reg. 1(4)(h) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/534), regs. 1(1), 25(3)
+F11
+Words in reg. 6(9A)(a) inserted (with application in accordance with reg. 2(4)(5)(b) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74), reg. 130(b)
+F12
+Words in reg. 6(9A)(b) substituted (with application in accordance with reg. 2(4)(d) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 56(2)(h)
+F13
+Reg. 6(9B) inserted (with application in accordance with reg. 2(5)(b) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 56(2)(i)
+Commencement Information
+I1
+Reg. 6 in force at 13.4.2022, see reg. 1(2)Students who become eligible students after the start of an HE short course
+7.—(1) Where one of the events specified in paragraph (2) occurs after the first day of an HE short [F1course which results in a student becoming an eligible student, the student] may qualify for an HESC loan in accordance with this Part in respect of that course.
+(2) The events mentioned in paragraph (1) are—
+(a)
+the student, or the student’s spouse, civil partner, parent or step-parent, is recognised as a refugee;
+(b)
+the student, or the student’s spouse, civil partner, parent or step-parent, becomes a person granted stateless leave or a person granted humanitarian protection;
+(c)
+the student becomes a person granted section 67 leave;
+(d)
+the student becomes a person granted Calais leave;
+(e)
+the student [F2or the student’s parent] becomes a person granted indefinite [F3leave to enter or remain] as a victim or domestic violence or domestic abuse;
+(f)
+the student [F4or the student’s parent] becomes a person granted indefinite leave to remain as a bereaved partner;
+(g)
+the student [F5, or the student’s spouse, civil partner, parent or step-parent,] becomes a person granted leave under one of the Afghan Schemes;
+[F6(ga)
+the student becomes a person described in paragraph 3 of Part 2 of Schedule 1;
+(gb)
+the student becomes a person described in paragraph 4 of Part 2 of Schedule 1;]
+(h)
+the student becomes a person described in paragraph 5(1)(a) of Part 2 of Schedule 1;
+(i)
+the student becomes a person described in paragraph 13(1)(a) of Part 2 of Schedule 1;
+[F7(ia)
+the student becomes a person described in paragraph 19 of Part 2 of Schedule 1;]
+(j)
+the student becomes a person described in paragraph 23(a) of Part 2 of Schedule 1;
+(k)
+the student becomes a family member described in paragraph 16(1)(a), 17(1)(a), 20(1)(a) or 21(1)(a) of Part 2 of Schedule 1.
+[F8(l)
+the student [F9, or the student’s spouse, civil partner, parent or step-parent,] becomes a person granted leave under one of the Ukraine Schemes.]
+[F10(3) Where an event specified in paragraph (2)(a), (b), (c), (d), (e), (f), (g) or (l) occurs in relation to a student, paragraph (4) applies for the purposes of determining whether that event results in the student becoming an eligible student.
+(4) The student is, for the purposes of determining whether the student satisfies any requirement in Schedule 1 to be ordinarily resident in England on the first day of the HE short course, to be treated as if the student was, on the course start date, lawfully residing in the place where the student was residing on that date.]
+Textual Amendments
+F1
+Words in reg. 7(1) substituted (with application in accordance with reg. 2(4)(5)(a) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74), reg. 128(2)
+F2
+Words in reg. 7(2)(e) inserted (with application in accordance with reg. 2(4)(b) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 57(1)
+F3
+Words in reg. 7(2)(e) substituted (with application in accordance with reg. 2(4)(a) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 55(1)
+F4
+Words in reg. 7(2)(f) inserted (with application in accordance with reg. 2(4)(b) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 57(1)
+F5
+Words in reg. 7(2)(g) inserted (with application in accordance with reg. 2(6)(7)(9) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74), reg. 131(a) (with reg. 141(2)(3))
+F6
+Reg. 7(2)(ga)(gb) inserted (with application in accordance with reg. 2(4)(c) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 58(1)(a)
+F7
+Reg. 7(2)(ia) inserted (with application in accordance with reg. 2(4)(c) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 58(1)(b)
+F8
+Reg. 7(2)(l) inserted (with application in accordance with reg. 1(4)(h) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/534), regs. 1(1), 25(4)
+F9
+Words in reg. 7(2)(l) inserted (with application in accordance with reg. 2(4)(5)(b) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74), reg. 131(b)
+F10
+Reg. 7(3)(4) inserted (with application in accordance with reg. 2(4)(5)(a) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74), reg. 128(3)
+Commencement Information
+I1
+Reg. 7 in force at 13.4.2022, see reg. 1(2)Applications for an HESC loan
+8.—(1) An applicant must apply for an HESC loan in connection with an HE short course by completing and submitting to the Secretary of State an application in such form and accompanied by such documentation as the Secretary of State may require.
+(2) The Secretary of State may take such steps, and make such enquiries, as the Secretary of State considers necessary to determine—
+(a)
+whether the applicant is an eligible student;
+(b)
+whether the applicant qualifies for an HESC loan;
+(c)
+the amount of HESC loan payable, if any.
+(3) The Secretary of State must notify the applicant of whether the applicant qualifies for an HESC loan, and if so, the amount of HESC loan payable in respect of the HE short course.
+Commencement Information
+I1
+Reg. 8 in force at 13.4.2022, see reg. 1(2)Time limits
+9.—(1) An application for an HESC loan must reach the Secretary of State—
+(a)
+within the period of eligibility, and
+(b)
+before the applicant completes the HE short course for which support is required.
+(2) But paragraph (1) does not apply where the Secretary of State, having regard to the circumstances of the particular case, considers that the time limit should be relaxed, in which case the application must reach the Secretary of State not later than such date as the Secretary of State specifies.
+Commencement Information
+I1
+Reg. 9 in force at 13.4.2022, see reg. 1(2)Information
+10.  Schedule 2 contains provision about information.
+Commencement Information
+I1
+Reg. 10 in force at 13.4.2022, see reg. 1(2)Requirement to enter contract for HESC loan
+11.—(1) To receive an HESC loan, a student must enter into a contract with the Secretary of State.
+(2) Where the Secretary of State requires a contract to be signed by a student, an electronic signature in such form as the Secretary of State may specify satisfies such a requirement.
+Commencement Information
+I1
+Reg. 11 in force at 13.4.2022, see reg. 1(2)Standard entitlement
+12.—(1) When assessing an application for an HESC loan in respect of an HE short course, the Secretary of State must determine the standard entitlement.
+(2) The standard entitlement of an eligible student for all HE short courses is a maximum of four HESC loans.
+(3) A student undertaking more than one HE short course at any time may qualify for a loan for each course.
+Commencement Information
+I1
+Reg. 12 in force at 13.4.2022, see reg. 1(2)Amount of loan
+13.—(1) The amount of an HESC loan in respect of an HE short course must not exceed the lesser of—
+(a)
+the maximum loan amount available in connection with that HE short course, and
+(b)
+the amount which the institution is charging the eligible student for the HE short course.
+(2) For the purposes of this regulation, the maximum loan amount available in connection with an HE short course is—
+(a)
+in the case of a course with a size, in credits, of 30, £2,310;
+(b)
+in the case of a course with a size, in credits, of 40, £3,080.
+Commencement Information
+I1
+Reg. 13 in force at 13.4.2022, see reg. 1(2)Provision of United Kingdom national insurance number
+14.—(1) The Secretary of State may make it a condition of entitlement to payment of an HESC loan that the eligible student must provide the Secretary of State with the student’s United Kingdom national insurance number.
+(2) Where the Secretary of State has imposed a condition under paragraph (1), the Secretary of State must not make any payment of the HESC loan to the eligible student before the Secretary of State is satisfied that the student has complied with that condition.
+(3) Despite paragraph (2), the Secretary of State may pay an HESC loan to an eligible student if the Secretary of State is satisfied that owing to exceptional circumstances it would be appropriate to make such a payment without the eligible student having complied with the condition imposed under paragraph (1).
+Commencement Information
+I1
+Reg. 14 in force at 13.4.2022, see reg. 1(2)Information requirements
+15.—(1) The Secretary of State may, at any time, request from an applicant or an eligible student information that the Secretary of State considers is required to recover an HESC loan.
+(2) The Secretary of State may, at any time, request from an applicant or an eligible student sight of their national identity card, passport issued by the state of which they are a national or their birth certificate.
+(3) Where the Secretary of State has requested information under this regulation, the Secretary of State may withhold payment of an HESC loan until the person provides—
+(a)
+what has been requested, or
+(b)
+a satisfactory explanation for not complying with that request.
+Commencement Information
+I1
+Reg. 15 in force at 13.4.2022, see reg. 1(2)Payment of HESC loans
+16.—(1) The Secretary of State must pay the HESC loan for which an eligible student qualifies to the institution to which the student is liable to make payment.
+(2) The Secretary of State must not pay the HESC loan until the Secretary of State has received from the institution—
+(a)
+a request for payment, and
+(b)
+confirmation (in such form as may be required by the Secretary of State) that the student is enrolled for the HE short course in connection with which the student is applying for support and is undertaking that course.
+(3) The Secretary of State may refuse to pay an HESC loan to a student in connection with an HE short course if that student is in receipt of public funds for part or all of the fees for that course.
+(4) For the purposes of paragraph (4) “public funds” means moneys provided by Parliament or by a government authority outside the United Kingdom.
+Commencement Information
+I1
+Reg. 16 in force at 13.4.2022, see reg. 1(2)Method of repayment
+17.—(1) The Secretary of State may at any time require an applicant or an eligible student to enter into an agreement to repay an HESC loan by a particular method.
+(2) Where the Secretary of State has required an agreement as to the method of repayment under paragraph (1), the Secretary of State may withhold any payment of the HESC loan until the person provides what has been required.
+Commencement Information
+I1
+Reg. 17 in force at 13.4.2022, see reg. 1(2)Overpayments of HESC loans
+18.—(1) Any overpayment of an HESC loan is recoverable by the Secretary of State from—
+(a)
+the institution, or
+(b)
+the student in respect of whom the payment of HESC loan is made.
+(2) An institution must, if so required by the Secretary of State, repay any amount of an HESC loan paid in respect of a student which for whatever reason exceeds the amount of an HESC loan to which the student is entitled.
+(3) A student must, if so required by the Secretary of State, repay any amount of an HESC loan paid in respect of the student which for whatever reason exceeds the amount of an HESC loan to which the student is entitled.
+(4) An overpayment of HESC loan may be recovered from a student under paragraph (1)(b) in whichever one or more of the following ways the Secretary of State considers appropriate in all the circumstances—
+(a)
+by subtracting the overpayment from any kind of grant or loan payable to the student from time to time pursuant to regulations made by the Secretary of State under section 22 of the 1998 Act;
+(b)
+by requiring the student to repay the HESC loan in accordance with regulations made under section 22 of the 1998 Act;
+(c)
+by taking such other action for recovery of an overpayment as is available to the Secretary of State.
+Commencement Information
+I1
+Reg. 18 in force at 13.4.2022, see reg. 1(2)Expiry and savings provisions
+19.—(1) These Regulations expire on 1st September 2025.
+(2) Despite paragraph (1), these Regulations continue to have effect, on and after 1st September 2025 (“the expiry date”), for the purposes of, and in connection with—
+(a)
+any application for an HESC loan made before the expiry date but not determined immediately before that date (a “relevant application”);
+(b)
+the payment of an HESC loan where the eligible student to whom it is payable is determined to qualify for the loan—
+(i)
+before the expiry date, or
+(ii)
+where the student makes a relevant application, on or after that date;
+(c)
+the recovery of any HESC loan, regardless of whether the loan is paid before, on or after the expiry date;
+(d)
+the recovery of any overpayment of an HESC loan, regardless of whether the overpayment is made before, on or after the expiry date.
+Commencement Information
+I1
+Reg. 19 in force at 13.4.2022, see reg. 1(2)Michelle Donelan
+Minister of State
+Department for EducationRegulation 3
+SCHEDULE 1
+Eligible students
+PART 1
+Interpretation
+Interpretation: categories
+1.—(1) In these Regulations—
+“the Citizens’ Rights Regulations” means the Citizens’ Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020(1);
+“EEA EFTA separation agreement” has the meaning given by the European Union (Withdrawal Agreement) Act 2020(2) (see section 39 of that Act);
+“immigration rules” has the meaning given in section 33(1) of the Immigration Act 1971(3);
+“person granted Calais leave” means a person who—
+(a)
+has extant leave to remain in the United Kingdom under paragraph 352J, 352K, 352L or 352T (Calais leave and “leave in line” granted by virtue of being a dependent child of a person granted Calais leave) of the immigration rules, and
+(b)
+has been ordinarily resident in the United Kingdom and Islands since the person was granted such leave to remain;
+“person granted humanitarian protection” means a person—
+(a)
+who, on the grounds of humanitarian protection, has been granted leave to remain under the immigration rules,
+(b)
+whose leave to remain is extant, or in respect of whose leave to remain an appeal is pending (within the meaning of section 104 of the 2002 Act(4)), and
+(c)
+who has been ordinarily resident in the United Kingdom and Islands throughout the period since the person was granted such leave to remain;
+“person granted indefinite leave to remain as a bereaved partner” means a person—
+(a)
+granted indefinite leave to remain in the United Kingdom under any of the following provisions of the immigration rules—
+(i)
+paragraph 288, as a person in relation to whom the requirements in paragraph 287(b) of those rules are met (bereaved partners),
+(ii)
+paragraph 295N, as a person in relation to whom the requirements in paragraph 295M of those rules are met (bereaved partners),
+(iii)
+paragraph D-BPILR.1.1 of Appendix FM (bereaved partners), or
+(iv)
+paragraph 36 of Appendix Armed Forces (bereaved partner of a member of HM Forces), and
+(b)
+who has been ordinarily resident in the United Kingdom and Islands since the person was granted such leave;
+“person granted indefinite [F1leave to enter or remain] as a victim of domestic violence or domestic abuse” means a person—
+(a)
+granted indefinite [F1leave to enter or remain] in the United Kingdom under any of the following provisions of the immigration rules—
+(i)
+[F2paragraph VDA 9.1 of the Appendix Victim of Domestic Abuse, or
+(ii)
+where such leave was granted before the coming into force of the Appendix Victim of Domestic Abuse, paragraph 289B (victims of domestic violence), paragraph D-DVILR.1.1. of Appendix FM (victims of domestic abuse) or paragraph 40 of Appendix Armed Forces (victims of domestic violence: partners of members of the armed forces),]
+(b)
+who has been ordinarily resident in the United Kingdom and Islands since the person was granted such leave;
+“person granted leave under one of the Afghan Schemes” means—
+(a)
+a person granted leave under the Afghan Citizens Resettlement Scheme, or
+(b)
+a person granted leave under the Afghan Relocations and Assistance Policy Scheme;
+[F3“person granted leave under one of the Ukraine Schemes” means a person granted leave under the Homes for Ukraine Sponsorship Scheme, a person granted leave under the Ukraine Extension Scheme or a person granted leave under the Ukraine Family Scheme;]
+“person granted leave under the Afghan Citizens Resettlement Scheme” means a person who—
+(a)
+has—
+(i)
+indefinite leave to enter or remain in the United Kingdom, outside the immigration rules, on the basis of the Afghan Citizens Resettlement Scheme, [F4and]
+(ii)
+F5...
+(b)
+has been ordinarily resident in the United Kingdom and Islands throughout the period since the person was granted such leave;
+“person granted leave under the Afghan Relocations and Assistance Policy Scheme” means a person who—
+(a)
+has—
+(i)
+indefinite leave to enter the United Kingdom under paragraph 276BA2, or indefinite leave to remain under paragraph 276BS2, of the immigration rules, having been relocated to the United Kingdom pursuant to paragraph 276BB1(iii)(a) of the immigration rules,
+(ia)
+[F6indefinite leave to enter or indefinite leave to remain in the United Kingdom under paragraph ARAP 6.1 of Appendix Afghan Relocation and Assistance Policy of the immigration rules,]
+(ii)
+leave to enter the United Kingdom on the basis of the Afghan Relocations and Assistance Policy Scheme, [F7or]
+(iii)
+indefinite leave to enter or remain in the United Kingdom, outside the immigration rules, on the basis of the Afghan Relocations and Assistance Policy Scheme, [F8and]
+(iv)
+F9...
+(b)
+has been ordinarily resident in the United Kingdom and Islands throughout the period since the person was granted such leave;
+[F10“person granted leave under the Homes for Ukraine Sponsorship Scheme” means a person—
+(a)
+who has leave to enter or remain in the United Kingdom—
+(i)
+under paragraph UKR 19.1 of Appendix Ukraine Scheme of the Immigration Rules as defined in section 33(1) of the Immigration Act 1971; or
+(ii)
+outside the Immigration Rules as defined in section 33(1) of the Immigration Act 1971 where the person—
+(aa)
+was residing in Ukraine immediately before 1st January 2022; and
+(bb)
+left Ukraine in connection with the Russian invasion which took place on 24th February 2022; and
+(b)
+who has been ordinarily resident in the United Kingdom and Islands throughout the period since the person was granted such leave;
+“person granted leave under the Ukraine Extension Scheme” means a person—
+(a)
+who has leave to remain in the United Kingdom under paragraph UKR 27.1 of Appendix Ukraine Scheme of the Immigration Rules as defined in section 33(1) of the Immigration Act 1971; and
+(b)
+who has been ordinarily resident in the United Kingdom and Islands throughout the period since the person was granted such leave;
+“person granted leave under the Ukraine Family Scheme” means a person—
+(a)
+who has leave to enter or remain in the United Kingdom—
+(i)
+under paragraph UKR 9.1 of Appendix Ukraine Scheme of the Immigration Rules as defined in section 33(1) of the Immigration Act 1971; or
+(ii)
+outside the Immigration Rules as defined in section 33(1) of the Immigration Act 1971 where the person—
+(aa)
+was residing in Ukraine immediately before 1st January 2022; and
+(bb)
+left Ukraine in connection with the Russian invasion which took place on 24th February 2022; and
+(b)
+who has been ordinarily resident in the United Kingdom and Islands throughout the period since the person was granted such leave;]
+“person granted section 67 leave” means a person—
+(a)
+who—
+(i)
+has extant leave to remain as a person granted leave under paragraph 352ZG of the immigration rules, having been relocated to the United Kingdom pursuant to arrangements made by the Secretary of State under section 67 of the Immigration Act 2016(5), or
+(ii)
+is a dependent child of such a person who has been granted “leave in line” under paragraph 352ZO of the immigration rules, and
+(b)
+who has been ordinarily resident in the United Kingdom and Islands throughout the period since the person was granted such leave;
+“person granted stateless leave” means a person who—
+(a)
+has extant leave to remain as a stateless person under the immigration rules, and
+(b)
+has been ordinarily resident in the United Kingdom and Islands throughout the period since the person was granted such leave;
+“person with protected rights” has the meaning given in sub-paragraph (2);
+“refugee” means a person who is recognised by Her Majesty’s government as a refugee within the meaning of the United Nations Convention relating to the Status of Refugees done at Geneva on 28th July 1951 as extended by the Protocol thereto which entered into force on 4th October 1967;
+“the relevant period” has the meaning given by regulation 4 of the Citizens’ Rights Regulations;
+“relevant person of Northern Ireland” has the meaning given by residence scheme immigration rules;
+“residence scheme immigration rules” has the meaning given by section 17(1) of the European Union (Withdrawal Agreement) Act 2020;
+“Turkish worker” means a Turkish national who—
+(a)
+is ordinarily resident in the United Kingdom and Islands, and
+(b)
+is, or has been, lawfully employed in the United Kingdom.
+(2) “Person with protected rights” means—
+(a)
+a person within the personal scope of the citizens’ rights provisions who—
+(i)
+has leave to enter or remain in the United Kingdom granted by virtue of residence scheme immigration rules,
+(ii)
+is an Irish citizen who, pursuant to section 3ZA of the Immigration Act 1971(6), does not require leave to enter or remain in the United Kingdom,
+(iii)
+is an applicant for the purposes of regulation 4 of the Citizens’ Rights Regulations, where the relevant period has not expired, or
+(iv)
+otherwise has rights deemed to apply by virtue of any of the citizens’ rights deeming provisions, or
+(b)
+a family member of a relevant person of Northern Ireland for the purposes of residence scheme immigration rules, where that family member has leave to enter or remain in the United Kingdom granted by virtue of residence scheme immigration rules.
+(3) For the purposes of sub-paragraph (2) “citizens’ rights deeming provisions” means—
+(a)
+Article 18(2) and (3) of the EU withdrawal agreement (issuance of residence documents),
+(b)
+Article 17(2) and (3) of the EEA EFTA separation agreement (issuance of residence documents), or
+(c)
+Article 16(2) and (3) of the Swiss citizens’ rights agreement (issuance of residence documents).
+(4) For the purposes of these Regulations, a person (“P”) is within the personal scope of the citizens’ rights provisions if P falls within—
+(a)
+Article 10 of the EU withdrawal agreement (personal scope),
+(b)
+Article 9 of the EEA EFTA separation agreement (personal scope), or
+(c)
+Article 10 of the Swiss citizens’ rights agreement (personal scope).
+Textual Amendments
+F1
+Words in Sch. 1 para. 1(1) substituted (with application in accordance with reg. 2(4)(a) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 55(2)(a)
+F2
+Words in Sch. 1 para. 1(1) substituted (with application in accordance with reg. 2(4)(a) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 55(2)(b)
+F3
+Words in Sch. 1 para. 1(1) inserted (with application in accordance with reg. 1(4)(h) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/534), regs. 1(1), 25(5)(a)(i)
+F4
+Word in Sch. 1 para. 1(1) substituted (with application in accordance with reg. 2(6)(7)(9) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74), reg. 132(2)(a)(i) (with reg. 141(2)(3))
+F5
+Words in Sch. 1 para. 1(1) omitted (with application in accordance with reg. 2(6)(7)(9) of the amending S.I.) by virtue of The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74), reg. 132(2)(a)(ii) (with reg. 141(2)(3))
+F6
+Words in Sch. 1 para. 1(1) substituted (15.2.2024) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 59
+F7
+Word in Sch. 1 para. 1(1) inserted (with application in accordance with reg. 2(6)(7)(9) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74), reg. 132(2)(b)(i) (with reg. 141(2)(3))
+F8
+Word in Sch. 1 para. 1(1) substituted (with application in accordance with reg. 2(6)(7)(9) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74), reg. 132(2)(b)(ii) (with reg. 141(2)(3))
+F9
+Words in Sch. 1 para. 1(1) omitted (with application in accordance with reg. 2(6)(7)(9) of the amending S.I.) by virtue of The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74), reg. 132(2)(b)(iii) (with reg. 141(2)(3))
+F10
+Words in Sch. 1 para. 1(1) inserted (with application in accordance with reg. 1(4)(h) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/534), regs. 1(1), 25(5)(a)(ii)
+Commencement Information
+I1
+Sch. 1 para. 1 in force at 13.4.2022, see reg. 1(2)
+Interpretation of Schedule 1
+2.—(1) In this Schedule—
+“Directive 2004/38” means Directive 2004/38 of the European Parliament and of the Council of 29th April 2004 on the rights of citizens of the Union and their family members to move and reside freely in the territory of the Member States;
+“EEA frontier self-employed person” means an EEA national who—
+(a)
+is a self-employed person in England, and
+(b)
+resides in Switzerland or the territory of an EEA state and returns to the national’s residence in Switzerland or that EEA state, as the case may be, daily or at least once a week;
+“EEA frontier worker” means an EEA national who—
+(a)
+is a worker in England, and
+(b)
+resides in Switzerland or the territory of an EEA state and returns to the national’s residence in Switzerland or that EEA state, as the case may be, daily or at least once a week;
+“EEA migrant worker” means an EEA national who is a worker, other than an EEA frontier worker, in the United Kingdom;
+“EEA national” means a national of an EEA state;
+“EEA self-employed person” means an EEA national who is a self-employed person, other than an EEA frontier self-employed person, in the United Kingdom;
+“employed person” means an employed person within the meaning of Annex 1 to the Swiss Agreement;
+“EU national” means a national of a member State;
+[F11“evacuated or assisted British national from Afghanistan” means a person—
+(a)
+who is a British citizen, a British overseas territories citizen, a British National (Overseas), a British Overseas citizen, a British subject under the British Nationality Act 1981 or a British protected person within the meaning of that Act;
+(b)
+who was either—
+(i)
+evacuated from Afghanistan by or on behalf of the United Kingdom, a North Atlantic Treaty Organisation member state, Pakistan, Uzbekistan, Tajikistan, Iran or Qatar during the period of the operation known as Operation Pitting, which began on 14th August 2021 and ended on 28th August 2021; or
+(ii)
+assisted by or on behalf of the United Kingdom, after 28th August 2021 and before 6th January 2022, to leave Afghanistan; and
+(c)
+who has been ordinarily resident in the United Kingdom and Islands since they were evacuated from or otherwise left Afghanistan;]
+“family member”, unless otherwise indicated—
+(a)
+in relation to an EEA frontier worker, an EEA migrant worker, an EEA frontier self-employed person, an EEA self-employed person or a relevant person of Northern Ireland who is treated as an EEA migrant worker or an EEA self-employed person by virtue of paragraph 13(3), means—
+(i)
+that person’s spouse or civil partner,
+(ii)
+direct descendants of the person or of the person’s spouse or civil partner who are—
+(aa)
+under the age of 21, or
+(bb)
+dependants of the person or the person’s spouse or civil partner, or
+(iii)
+dependent direct relatives in the ascending line of that person or that person’s spouse or civil partner;
+(b)
+in relation to a Swiss employed person, a Swiss frontier employed person, a Swiss frontier self-employed person or a Swiss self-employed person, means—
+(i)
+that person’s spouse or civil partner, or
+(ii)
+that person’s child or the child of that person’s spouse or civil partner;
+(c)
+in relation to an EU national who falls within Article 7(1)(c) of Directive 2004/38, or, for the purposes of paragraph 16, or a relevant person of Northern Ireland who would fall within Article 7(1)(c) of Directive 2004/38 if that person were an EU national or solely an EU national, means—
+(i)
+that person’s spouse or civil partner, or
+(ii)
+direct descendants of the person or of the person’s spouse or civil partner who are—
+(aa)
+under the age of 21, or
+(bb)
+dependants of the person or the person’s spouse or civil partner;
+(d)
+in relation to an EU national who falls within Article 7(1)(b) of Directive 2004/38, or, for the purposes of paragraph 16, in relation to a relevant person of Northern Ireland who would fall within Article 7(1)(b) of Directive 2004/38 if that person were an EU national or solely an EU national, means—
+(i)
+that person’s spouse or civil partner,
+(ii)
+direct descendants of the person or of the person’s spouse or civil partner who are—
+(aa)
+under the age of 21, or
+(bb)
+dependants of the person or the person’s spouse or civil partner, or
+(iii)
+dependent direct relatives in the ascending line of that person or that person’s spouse or civil partner;
+(e)
+in relation to a United Kingdom national, for the purposes of paragraph 17 or 21 or for the purposes of paragraph 20 in relation to a person settled in the United Kingdom, means—
+(i)
+that person’s spouse or civil partner, or
+(ii)
+direct descendants of the person or of the person’s spouse or civil partner who are dependants of that person or that person’s spouse or civil partner;
+“parent” means a parent, guardian or other person having parental responsibility, and child is to be construed accordingly;
+“self-employed person” means—
+(a)
+in relation to an EEA national, a person who is self-employed within the meaning of Article 7 of Directive 2004/38 or the EEA Agreement, as the case may be;
+(b)
+in relation to a Swiss national, a person who is self-employed within the meaning of Annex 1 to the Swiss Agreement;
+“settled” has the meaning given in section 33(2A) of the Immigration Act 1971(7);
+“Swiss Agreement” means the Agreement between the EU and its member States, of the one part, and the Swiss Confederation, of the other, on the Free Movement of Persons signed at Luxembourg on 21st June 1999(8) and which came into force on 1st June 2002;
+“Swiss citizens’ rights agreement” has the meaning given by the European Union (Withdrawal Agreement) Act 2020 (see section 39 of that Act);
+“Swiss employed person” means a Swiss national who is an employed person, other than a Swiss frontier employed person, in the United Kingdom;
+“Swiss frontier employed person” means a Swiss national who—
+(a)
+is an employed person in England, and
+(b)
+resides in Switzerland or the territory of an EEA state and returns to the national’s residence in Switzerland or that EEA state, as the case may be, daily or at least once a week;
+“Swiss frontier self-employed person” means a Swiss national who—
+(a)
+is a self-employed person in England, and
+(b)
+resides in Switzerland or the territory of an EEA state and returns to the national’s residence in Switzerland or that EEA state, as the case may be, daily or at least once a week;
+“Swiss self-employed person” means a Swiss national who is a self-employed person, other than a Swiss frontier self-employed person, in the United Kingdom;
+“United Kingdom national” has the meaning given by Article 2(d) of the EU withdrawal agreement;
+“worker” means a worker within the meaning of Article 7 of Directive 2004/38 or the EEA Agreement, as the case may be.
+(2) For the purposes of this Schedule, a reference to a “Member State” or “State” in Article 7 of Directive 2004/38 is to be read as including the United Kingdom.
+Textual Amendments
+F11
+Words in Sch. 1 para. 2(1) inserted (with application in accordance with reg. 1(3)(h) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/534), regs. 1(1), 24(2)(a)
+Commencement Information
+I2
+Sch. 1 para. 2 in force at 13.4.2022, see reg. 1(2)
+PART 2
+Categories
+Persons who are settled in the United Kingdom
+3.—(1) A person—
+(a)
+who F12...—
+(i)
+is settled in the United Kingdom and does not fall within paragraph 5, and
+(ii)
+is ordinarily resident in England [F13on the first day of the HE short course],
+(b)
+who has been ordinarily resident in the United Kingdom and Islands throughout the three-year period preceding the first day of the HE short course, and
+(c)
+subject to sub-paragraph (2), whose residence in the United Kingdom and Islands has not during any part of the period referred to in paragraph (b) been wholly or mainly for the purpose of receiving full-time education.
+(2) Paragraph (c) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the United Kingdom and Islands in accordance with regulation 2(6).
+Textual Amendments
+F12
+Words in Sch. 1 para. 3(1)(a) omitted (with application in accordance with reg. 2(4)(c) of the amending S.I.) by virtue of The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 58(2)(a)
+F13
+Words in Sch. 1 para. 3(1)(a)(ii) inserted (with application in accordance with reg. 2(4)(c) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 58(2)(b)
+Commencement Information
+I3
+Sch. 1 para. 3 in force at 13.4.2022, see reg. 1(2)
+4.—(1) A person—
+(a)
+who F14... is settled in the United Kingdom and does not fall within paragraph 5,
+(b)
+who is undertaking the HE short course in England,
+(c)
+who has been ordinarily resident in the territory comprising the United Kingdom, the Islands and the Republic of Ireland throughout the three-year period preceding the first day of the HE short course, and has been ordinarily resident in the Republic of Ireland for at least part of that period,
+(d)
+subject to sub-paragraph (2), whose ordinary residence in the territory comprising the United Kingdom, the Islands and the Republic of Ireland has not during any part of the period referred to in paragraph (c) been wholly or mainly for the purpose of receiving full-time education, and
+(e)
+who did not move to England from the Islands for the purpose of undertaking the current course, or a course which, disregarding any intervening vacation, the person undertook immediately before the current course.
+(2) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the United Kingdom, the Islands and the Republic of Ireland in accordance with regulation 2(6).
+Textual Amendments
+F14
+Words in Sch. 1 para. 4(1)(a) omitted (with application in accordance with reg. 2(4)(c) of the amending S.I.) by virtue of The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 58(2)(a)
+Commencement Information
+I4
+Sch. 1 para. 4 in force at 13.4.2022, see reg. 1(2)
+5.—(1) A person who—
+(a)
+meets one of the following conditions—
+(i)
+the person is within the personal scope of the citizens’ rights provisions and is settled in the United Kingdom by virtue of the grant of indefinite leave to enter or remain under residence scheme immigration rules;
+(ii)
+the person—
+(aa)
+is within the personal scope of the citizens’ rights provisions,
+(bb)
+is an Irish citizen settled in the United Kingdom who, pursuant to section 3ZA of the Immigration Act 1971, does not require leave to enter or remain in the United Kingdom, and
+(cc)
+would meet the eligibility requirements for indefinite leave to enter or remain in the United Kingdom granted by virtue of residence scheme immigration rules if that person were to make an application for such leave;
+(iii)
+the person—
+(aa)
+is within the personal scope of the citizens’ rights provisions,
+(bb)
+is an applicant for the purpose of regulation 4 of the Citizens’ Rights Regulations, or otherwise has rights deemed to apply by virtue of any of the provisions specified in sub-paragraph (3), and
+(cc)
+has, or is treated as having a right of permanent residence for the purposes of the Immigration (European Economic Area) Regulations 2016(9), as those Regulations continue to have effect by virtue of the Citizens’ Rights Regulations in relation to that person during the relevant period or otherwise has a deemed right of permanent residence by virtue of any of the provisions specified in sub-paragraph (3);
+(iv)
+the person is a family member of a relevant person of Northern Ireland for the purposes of residence scheme immigration rules, where that family member is settled in the United Kingdom by virtue of the grant of indefinite leave to enter or remain under residence scheme immigration rules,
+(b)
+is ordinarily resident in England on the first day of the HE short course,
+(c)
+has been ordinarily resident in the United Kingdom and Islands throughout the three-year period preceding the first day of the HE short course, and
+(d)
+in a case where the person’s ordinary residence referred to in paragraph (c) was wholly or mainly for the purposes of receiving full-time education, was ordinarily resident in the territory comprising the United Kingdom, the European Economic Area, Switzerland and the overseas territories immediately before the period of ordinary residence referred to in paragraph (c).
+(2) For the purposes of sub-paragraph (1)(a)(ii)(cc) “the eligibility requirements for indefinite leave to enter or remain in the United Kingdom granted by virtue of residence scheme immigration rules” means the eligibility requirements for indefinite leave to enter or remain in the United Kingdom in accordance with paragraph EU11 of Appendix EU to the immigration rules.
+(3) The provisions mentioned in sub-paragraph (1)(a)(iii)(bb) and (cc) are—
+(a)
+Article 18(3) of the EU withdrawal agreement (issuance of residence documents);
+(b)
+Article 17(3) of the EEA EFTA separation agreement (issuance of residence documents);
+(c)
+Article 16(3) of the Swiss citizens’ rights agreement (issuance of residence documents).
+Commencement Information
+I5
+Sch. 1 para. 5 in force at 13.4.2022, see reg. 1(2)
+Refugees and their family members
+6.—(1) A person who—
+(a)
+is a refugee,
+(b)
+is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since they were recognised as a refugee, and
+(c)
+is ordinarily resident in England on the first day of the HE short course.
+(2) A person who—
+(a)
+is the spouse or civil partner of a refugee,
+(b)
+on the asylum application date, was the spouse or civil partner of the refugee,
+(c)
+is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being given leave to enter or remain in the United Kingdom, and
+(d)
+is ordinarily resident in England on the first day of the HE short course.
+(3) A person who—
+(a)
+is the child of a refugee or the child of the spouse or civil partner of a refugee,
+(b)
+on the asylum application date—
+(i)
+was under the age of 18, and
+(ii)
+was the child of the refugee or the child of a person who was the spouse or civil partner of the refugee on that date,
+(c)
+is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being given leave to enter or remain in the United Kingdom, and
+(d)
+is ordinarily resident in England on the first day of the HE short course.
+(4) In this paragraph “the asylum application date” means the date on which the refugee made the application for asylum.
+Commencement Information
+I6
+Sch. 1 para. 6 in force at 13.4.2022, see reg. 1(2)
+Persons granted stateless leave and their family members
+7.—(1) A person granted stateless leave, who is ordinarily resident in England on the first day of the HE short course.
+(2) A person who—
+(a)
+is the spouse or civil partner of a person granted stateless leave,
+(b)
+on the leave application date, was the spouse or civil partner of a person granted stateless leave,
+(c)
+is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being given leave to enter or remain in the United Kingdom, and
+(d)
+is ordinarily resident in England on the first day of the HE short course.
+(3) A person who—
+(a)
+is the child of a person granted stateless leave or the child of the spouse or civil partner of a person granted stateless leave,
+(b)
+on the leave application date, was—
+(i)
+the child of a person granted stateless leave or the child of a person who, on that date, was the spouse or civil partner of a person granted stateless leave, and
+(ii)
+under the age of 18,
+(c)
+is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being given leave to enter or remain in the United Kingdom, and
+(d)
+is ordinarily resident in England on the first day of the HE short course.
+(4) In this paragraph “leave application date” means the date on which the person granted stateless leave made an application to remain in the United Kingdom as a stateless person under the immigration rules.
+Commencement Information
+I7
+Sch. 1 para. 7 in force at 13.4.2022, see reg. 1(2)
+Persons granted section 67 leave
+8.  A person granted section 67 leave, who is ordinarily resident in England on the first day of the HE short course.
+Commencement Information
+I8
+Sch. 1 para. 8 in force at 13.4.2022, see reg. 1(2)
+Persons granted indefinite [F15leave to enter or remain] as a victim of domestic violence or domestic abuse [F16and their children]
+9.—[F17(1)] A person granted indefinite [F18leave to enter or remain] as a victim of domestic violence or domestic abuse, who is ordinarily resident in England on the first day of the HE short course.
+[F19(2) A person—
+(a)
+granted indefinite leave to enter or remain;
+(b)
+who—
+(i)
+is the child of a person granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse; and
+(ii)
+on the leave application date, was the child of the person granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse;
+(c)
+who was under 18 on the leave application date;
+(d)
+who has been ordinarily resident in the United Kingdom and Islands since the person was granted such leave; and
+(e)
+who is ordinarily resident in England on the first day of the HE short course.
+(3) In this paragraph, “leave application date” means the date on which a person granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse made an application to enter or remain in the United Kingdom on those grounds under the immigration rules.]
+Textual Amendments
+F15
+Words in Sch. 1 para. 9 heading substituted (with application in accordance with reg. 2(4)(a) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 55(1)
+F16
+Words in Sch. 1 para. 9 heading inserted (with application in accordance with reg. 2(4)(b) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 57(2)(a)
+F17
+Sch. 1 para. 9 renumbered as Sch. 1 para. 9(1) (with application in accordance with reg. 2(4)(b) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 57(2)(b)
+F18
+Words in Sch. 1 para. 9 substituted (with application in accordance with reg. 2(4)(a) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 55(1)
+F19
+Sch. 1 para. 9(2)(3) inserted (with application in accordance with reg. 2(4)(b) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 57(2)(c)
+Commencement Information
+I9
+Sch. 1 para. 9 in force at 13.4.2022, see reg. 1(2)
+Persons granted Calais leave
+10.  A person granted Calais leave, who is ordinarily resident in England on the first day of the HE short course.
+Commencement Information
+I10
+Sch. 1 para. 10 in force at 13.4.2022, see reg. 1(2)
+Persons granted indefinite leave to remain as a bereaved partner [F20and their children]
+11.—[F21(1)] A person granted indefinite leave to remain as a bereaved partner, who is ordinarily resident in England on the first day of the HE short course.
+[F22(2) A person—
+(a)
+granted indefinite leave to remain;
+(b)
+who—
+(i)
+is the child of a person granted indefinite leave to remain as a bereaved partner; and
+(ii)
+on the leave application date, was the child of the person granted indefinite leave to remain as a bereaved partner;
+(c)
+who was under 18 on the leave application date;
+(d)
+who has been ordinarily resident in the United Kingdom and Islands since the person was granted such leave; and
+(e)
+who is ordinarily resident in England on the first day of the HE short course.
+(3) In this paragraph, “leave application date” means the date on which a person granted indefinite leave to remain as a bereaved partner made an application to remain in the United Kingdom on those grounds under the immigration rules.]
+Textual Amendments
+F20
+Words in Sch. 1 para. 11 heading inserted (with application in accordance with reg. 2(4)(b) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 57(2)(d)
+F21
+Sch. 1 para. 11 renumbered as Sch. 1 para. 11(1) (with application in accordance with reg. 2(4)(b) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 57(2)(e)
+F22
+Sch. 1 para. 11(2)(3) inserted (with application in accordance with reg. 2(4)(b) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 57(2)(f)
+Commencement Information
+I11
+Sch. 1 para. 11 in force at 13.4.2022, see reg. 1(2)
+Persons granted humanitarian protection and their family members
+12.—(1) A person granted humanitarian protection, who is ordinarily resident in England on the first day of the HE short course.
+(2) A person who—
+(a)
+is the spouse or civil partner of a person granted humanitarian protection,
+(b)
+on the asylum application date, was the spouse or civil partner of the person granted humanitarian protection,
+(c)
+is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being given leave to enter or remain in the United Kingdom, and
+(d)
+is ordinarily resident in England on the first day of the HE short course.
+(3) A person who—
+(a)
+is the child of a person granted humanitarian protection or the child of the spouse or civil partner of a person granted humanitarian protection,
+(b)
+on the asylum application date, was—
+(i)
+the child of a person granted humanitarian protection or the child of a person who was the spouse or civil partner of a person granted humanitarian protection on that date, and
+(ii)
+under the age of 18,
+(c)
+is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being given leave to enter or remain in the United Kingdom, and
+(d)
+is ordinarily resident in England on the first day of the HE short course.
+(4) In this paragraph “asylum application date” means the date on which the person granted humanitarian protection made the application for asylum.
+Commencement Information
+I12
+Sch. 1 para. 12 in force at 13.4.2022, see reg. 1(2)
+Workers, employed persons, self-employed persons and their family members
+13.—(1) A person with protected rights, or a frontier worker within the meaning of regulation 3 of the Citizens’ Rights (Frontier Workers) (EU Exit) Regulations 2020(10), who—
+(a)
+is—
+(i)
+an EEA migrant worker or an EEA self-employed person,
+(ii)
+a Swiss employed person or a Swiss self-employed person,
+(iii)
+a family member of a person mentioned in sub-paragraph (i) or (ii),
+(iv)
+an EEA frontier worker or an EEA frontier self-employed person,
+(v)
+a Swiss frontier employed person or a Swiss frontier self-employed person, or
+(vi)
+a family member of a person mentioned in sub-paragraph (iv) or (v),
+(b)
+subject to sub-paragraph (2), is ordinarily resident in England on the first day of the HE short course, and
+(c)
+has been ordinarily resident throughout the three-year period preceding the first day of the HE short course either—
+(i)
+in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland, or
+(ii)
+in the territory comprising the United Kingdom, the European Economic Area, Switzerland and the overseas territories, where at least part of that ordinary residence was in the overseas territories.
+(2) Paragraph (b) of sub-paragraph (1) does not apply where the person applying for support falls within paragraph (a)(iv), (v) or (vi) of that sub-paragraph.
+(3) In this paragraph, a description of a person in sub-paragraph (1)(a)(i) is to be read as if it includes a relevant person of Northern Ireland who would, if that person were an EEA national or solely an EEA national, be an EEA migrant worker or an EEA self-employed person.
+Commencement Information
+I13
+Sch. 1 para. 13 in force at 13.4.2022, see reg. 1(2)
+14.—(1) A person with protected rights who—
+(a)
+is ordinarily resident in England on the first day of the HE short course,
+(b)
+has been ordinarily resident throughout the three-year period preceding the first day of the HE short course either—
+(i)
+in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland, or
+(ii)
+in the territory comprising the United Kingdom, the European Economic Area, Switzerland and the overseas territories where at least part of that ordinary residence was in the overseas territories, and
+(c)
+is entitled to support by virtue of Article 10 of Regulation (EU) No 492/2011 of the European Parliament and of the Council of 5 April 2011 on freedom of movement for workers within the Union (“the Workers Regulation”), as it had effect immediately before IP completion day, as extended by the EEA Agreement, as it had effect immediately before IP completion day.
+(2) For the purposes of sub-paragraph (1)(c), in Article 10 of the Workers Regulation—
+(a)
+the reference to a “national of a Member State” is to be read as including a relevant person of Northern Ireland;
+(b)
+the reference to “another Member State” is to be read as including the United Kingdom, and the references to “that State” are to be construed accordingly.
+Commencement Information
+I14
+Sch. 1 para. 14 in force at 13.4.2022, see reg. 1(2)
+Persons who are settled in the United Kingdom and have exercised a right of residence elsewhere
+15.—(1) A person who—
+(a)
+is settled in the United Kingdom,
+(b)
+was ordinarily resident in England and settled in the United Kingdom immediately before leaving the United Kingdom and who has exercised a right of residence before IP completion day,
+(c)
+was ordinarily resident immediately before IP completion day—
+(i)
+in the territory comprising Gibraltar, the European Economic Area and Switzerland (“the relevant territory”), or
+(ii)
+in the United Kingdom, where that ordinary residence began after 31st December 2017 immediately following a period of ordinary residence in the relevant territory,
+and has remained ordinarily resident in the territory comprising the United Kingdom and the relevant territory throughout the period beginning on IP completion day and ending immediately before the first day of the HE short course,
+(d)
+is ordinarily resident in the United Kingdom on the first day on the HE short course,
+(e)
+has been ordinarily resident in the territory comprising the United Kingdom and the relevant territory throughout the three-year period preceding the first day of the HE short course, and
+(f)
+in a case where the person’s ordinary residence referred to in paragraph (e) was wholly or mainly for the purposes of receiving full-time education, was ordinarily resident in the territory comprising the United Kingdom and the relevant territory immediately before the period of ordinary residence referred to in paragraph (e).
+(2) For the purposes of this paragraph, a person has exercised a right of residence if that person who—
+(a)
+is—
+(i)
+a United Kingdom national,
+(ii)
+a family member of a United Kingdom national for the purposes of Article 7 of Directive 2004/38 (or corresponding purposes under the EEA Agreement or Swiss Agreement), or
+(iii)
+a person who had the right of permanent residence, and
+(b)
+either—
+(i)
+has exercised a right under Article 7 of Directive 2004/38 or any equivalent right under the EEA Agreement or Swiss Agreement in a state other than the United Kingdom, or
+(ii)
+in the case of a person who is settled in the United Kingdom and had the right of permanent residence, has gone to the state within the territory comprising the European Economic Area and Switzerland of which the person is a national or of which the person in relation to whom the person is a family member is a national.
+(3) For the purposes of sub-paragraph (2), a person had the right of permanent residence if they had a right which arose under Directive 2004/38 to reside permanently in the United Kingdom without restriction.
+Commencement Information
+I15
+Sch. 1 para. 15 in force at 13.4.2022, see reg. 1(2)
+EU nationals etc
+16.—(1) A person with protected rights—
+(a)
+who is—
+(i)
+an EU national on the first day of the HE short course,
+(ii)
+a family member of a person mentioned in sub-paragraph (i), or
+(iii)
+a family member of a relevant person of Northern Ireland,
+(b)
+who is undertaking an HE short course in England,
+(c)
+who has been ordinarily resident in the territory comprising the United Kingdom, the European Economic Area, Switzerland and the overseas territories throughout the three-year period preceding the first day of the HE short course, and
+(d)
+subject to paragraph (2), whose ordinary residence in the territory comprising the United Kingdom, the European Economic Area, Switzerland and the overseas territories has not during any part of the period referred to in paragraph (c) been wholly or mainly for the purposes of receiving full-time education.
+(2) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the territory comprising the United Kingdom, the European Economic Area, Switzerland and the overseas territories in accordance with regulation 2(6).
+Commencement Information
+I16
+Sch. 1 para. 16 in force at 13.4.2022, see reg. 1(2)
+United Kingdom nationals
+17.—(1) A person—
+(a)
+who is—
+(i)
+a United Kingdom national on the first day of the HE short course, or
+(ii)
+a family member of a person mentioned in sub-paragraph (i),
+(b)
+who was ordinarily resident immediately before IP completion day—
+(i)
+in the territory comprising the European Economic Area and Switzerland, or
+(ii)
+in the United Kingdom, where that ordinary residence began after 31st December 2017 immediately following a period of ordinary residence in the territory comprising the European Economic Area and Switzerland,
+and has remained ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland throughout the period beginning on IP completion day and ending immediately before the first day of the HE short course,
+(c)
+who is undertaking an HE short course in England,
+(d)
+who has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland throughout the three-year period preceding the first day HE short course, and
+(e)
+subject to sub-paragraph (2), whose ordinary residence in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland has not during any part of the period referred to in paragraph (d) been wholly or mainly for the purpose of receiving full-time education.
+(2) Paragraph (e) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland in accordance with regulation 2(6).
+(3) Where a person (“P”) falls within sub-paragraph (1)(a)(ii), the person in relation to whom P is a family member must also meet the requirements of paragraphs (b) and (d) of sub-paragraph (1).
+Commencement Information
+I17
+Sch. 1 para. 17 in force at 13.4.2022, see reg. 1(2)
+18.—(1) A person—
+(a)
+who is an Irish citizen on the first day of the HE short course,
+(b)
+who was ordinarily resident immediately before IP completion day—
+(i)
+in the territory comprising the European Economic Area and Switzerland, or
+(ii)
+in the United Kingdom, where that ordinary residence began after 31st December 2017 immediately following a period of ordinary residence in the territory comprising the European Economic Area and Switzerland,
+and has remained ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland throughout the period beginning on IP completion day and ending immediately before the first day of the HE short course,
+(c)
+who is undertaking an HE short course in England,
+(d)
+who has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland throughout the three-year period preceding the first day HE short course, and
+(e)
+subject to sub-paragraph (2), whose ordinary residence in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland has not during any part of the period referred to in paragraph (d) been wholly or mainly for the purpose of receiving full-time education.
+(2) Paragraph (e) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland in accordance with regulation 2(6).
+Commencement Information
+I18
+Sch. 1 para. 18 in force at 13.4.2022, see reg. 1(2)
+19.—(1) [F23Subject to paragraphs (3) and (4),] A person—
+(a)
+who is
+[F24(i)]
+settled in the United Kingdom F25..., [F26or
+(ii)
+a person who is a British citizen and who—
+(aa)
+was born in the British Indian Ocean Territory or, prior to 8th November 1965, in those islands designated as the British Indian Ocean Territory on that date; or
+(bb)
+is a direct descendant of a person who was born in the British Indian Ocean Territory or, prior to 8th November 1965, in those islands designated as the British Indian Ocean Territory on that date;]
+(b)
+who is undertaking an HE short course in England,
+(c)
+who has been ordinarily resident in the specified British overseas territories for at least part of the three-year period preceding the first day of the HE short course,
+(d)
+who has been ordinarily resident in the territory comprising the United Kingdom, the Islands and the specified British overseas territories throughout the three-year period preceding the first day of the HE short course,
+(e)
+who did not move to England from the Islands for the purpose of undertaking the current course or a course which, disregarding any intervening vacation, the person undertook immediately before undertaking the current course, and
+(f)
+subject to sub-paragraph (2), whose ordinary residence in the territory comprising the United Kingdom, the Islands and the specified British overseas territories has not during any part of the period referred to in paragraph (d) been wholly or mainly for the purpose of receiving full-time education.
+(2) Paragraph (f) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the territory comprising the United Kingdom, the Islands and the specified British overseas territories in accordance with regulation 2(6).
+[F27(3) For the purposes of paragraphs (c) and (d) of sub-paragraph (1), a person mentioned in paragraph (a)(ii) of sub-paragraph (1) is treated as being ordinarily resident in the specified British overseas territories in any period before the first day of the HE short course in which they are not ordinarily resident in the United Kingdom or the Islands.
+(4) Paragraphs (e) and (f) of sub-paragraph (1) do not apply to a person mentioned in paragraph (a)(ii) of that sub-paragraph.]
+Textual Amendments
+F23
+Words in Sch. 1 para. 19(1) inserted (with application in accordance with reg. 2(6) of the amending S.I.) by virtue of The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 60(a)(i)
+F24
+Words in Sch. 1 para. 19(1)(a) renumbered as Sch. 1 para. 19(1)(a)(i) (with application in accordance with reg. 2(6) of the amending S.I.) by virtue of The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 60(a)(ii)
+F25
+Words in Sch. 1 para. 19(1)(a)(ii) omitted (with application in accordance with reg. 2(4)(c) of the amending S.I.) by virtue of The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 58(2)(a)
+F26
+Sch. 1 para. 19(1)(a)(ii) and word inserted (with application in accordance with reg. 2(6) of the amending S.I.) by virtue of The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 60(a)(iii)
+F27
+Sch. 1 para. 19(3)(4) inserted (with application in accordance with reg. 2(6) of the amending S.I.) by virtue of The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85), regs. 1, 60(b)
+Commencement Information
+I19
+Sch. 1 para. 19 in force at 13.4.2022, see reg. 1(2)
+20.—(1) A person—
+(a)
+who is a family member of a person who is settled in the United Kingdom on the first day of the HE short course,
+(b)
+who is undertaking an HE short course in England,
+(c)
+who has been ordinarily resident in the United Kingdom and Islands throughout the three-year period preceding the first day of the HE short course,
+(d)
+who did not move to England from the Islands for the purpose of undertaking the current course or a course which, disregarding any intervening vacation, the person undertook immediately before undertaking the current course, and
+(e)
+subject to sub-paragraph (2), whose ordinary residence in the United Kingdom and Islands has not during any part of the period referred to in paragraph (c) been wholly or mainly for the purpose of receiving full-time education.
+(2) Paragraph (e) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the territory comprising the United Kingdom, the Islands and the specified British overseas territories in accordance with regulation 2(6).
+Commencement Information
+I20
+Sch. 1 para. 20 in force at 13.4.2022, see reg. 1(2)
+Persons resident in Gibraltar
+21.—(1) A person—
+(a)
+who is—
+(i)
+a United Kingdom national who has resident status in Gibraltar granted by the Government of Gibraltar; or
+(ii)
+a family member of a United Kingdom national where that family member has resident status in Gibraltar granted by the Government of Gibraltar,
+(b)
+who is undertaking an HE short course in England,
+(c)
+who has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland throughout the three-year period preceding the first day of the HE short course, and
+(d)
+subject to sub-paragraph (2), whose ordinary residence in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland has not during any part of the period referred to in paragraph (c) been wholly or mainly for the purpose of receiving full-time education.
+(2) Paragraph (d) of sub-paragraph (1) does not apply to a person treated as being ordinarily resident in the territory referred to in paragraph (c) of that sub-paragraph in accordance with regulation 2(6).
+(3) A person—
+(a)
+who is—
+(i)
+an EU national who has a right of residence in Gibraltar arising under the EU withdrawal agreement, or
+(ii)
+a family member of an EU national, where that family member has a right of residence in Gibraltar arising under the EU withdrawal agreement,
+(b)
+who is undertaking an HE short course in England,
+(c)
+who has been ordinarily resident in the territory comprising the United Kingdom, the European Economic Area, Switzerland and the overseas territories throughout the three-year period preceding the first day of the HE short course, and
+(d)
+subject to sub-paragraph (4), whose ordinary residence in the territory comprising the United Kingdom, the European Economic Area, Switzerland and the overseas territories has not during any part of the period referred to in paragraph (c) been wholly or mainly for the purpose of receiving full-time education.
+(4) Paragraph (d) of sub-paragraph (3) does not apply to a person treated as being ordinarily resident in the territory referred to in paragraph (c) of that sub-paragraph in accordance with regulation 2(6).
+Commencement Information
+I21
+Sch. 1 para. 21 in force at 13.4.2022, see reg. 1(2)
+EU nationals ordinarily resident in the United Kingdom and Islands
+22.—(1) A person who—
+(a)
+is an EU national on the first day of the HE short course,
+(b)
+is ordinarily resident in England on the first day of the HE short course,
+(c)
+has been ordinarily resident in the United Kingdom and Islands throughout the three-year period immediately preceding the first day of the HE short course, and
+(d)
+in a case where the person’s ordinary residence referred to in paragraph (c) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident immediately before the period of ordinary residence referred to in that paragraph in the territory comprising—
+(i)
+the United Kingdom, Gibraltar, the European Economic Area and Switzerland, or
+(ii)
+the overseas territories.
+Commencement Information
+I22
+Sch. 1 para. 22 in force at 13.4.2022, see reg. 1(2)
+Children of Swiss nationals
+23.  A person with protected rights who—
+(a)
+is the child of a Swiss national who is entitled to support in the United Kingdom by virtue of Article 18(2) of the Swiss citizens’ rights agreement,
+(b)
+is ordinarily resident in England on the first day of the HE short course,
+(c)
+has been ordinarily resident throughout the three-year period preceding the first day of the course in either—
+(i)
+the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland, or
+(ii)
+the territory comprising the United Kingdom, the European Economic Area, Switzerland and the overseas territories, where at least part of that ordinary residence was in the overseas territories, and
+(d)
+in a case where the person’s ordinary residence referred to in paragraph (c) was wholly or mainly for the purpose of receiving full-time education, was ordinarily immediately before the period of ordinary residence referred to in that paragraph in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland.
+Commencement Information
+I23
+Sch. 1 para. 23 in force at 13.4.2022, see reg. 1(2)
+Children of Turkish workers
+24.  A person who—
+(a)
+is the child of a Turkish worker (“T”), where T was ordinarily resident in the United Kingdom immediately before IP completion day,
+(b)
+immediately before IP completion day, was the child of T and ordinarily resident in the United Kingdom,
+(c)
+is ordinarily resident in England on the first day of the HE short course, and
+(d)
+has been ordinarily resident throughout the three-year period preceding the first day of the HE short course in either—
+(i)
+the territory comprising the United Kingdom, Gibraltar, the European Economic Area, Switzerland and Turkey, or
+(ii)
+the territory comprising the United Kingdom, the European Economic Area, Switzerland, Turkey and the overseas territories where at least part of that ordinary residence was in the overseas territories.
+Commencement Information
+I24
+Sch. 1 para. 24 in force at 13.4.2022, see reg. 1(2)
+Long residence
+25.—(1) A person—
+(a)
+who on the first day of the HE short course either—
+(i)
+is under the age of 18 and has lived in the United Kingdom throughout the seven-year period preceding the first day of the HE short course, or
+(ii)
+is aged 18 or above and, preceding the first day of the HE short course, has lived in the United Kingdom throughout either—
+(aa)
+half their life, or
+(bb)
+a period of 20 years,
+(b)
+who is ordinarily resident in England,
+(c)
+who has been ordinarily resident in the United Kingdom and Islands throughout the three-year period immediately preceding the first day of the HE short course, and
+(d)
+subject to sub-paragraph (2), whose residence in the United Kingdom and Islands has not during any part of the period referred to in paragraph (c) been wholly or mainly for the purpose or receiving full-time education.
+(2) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as ordinarily resident in the United Kingdom and Islands in accordance with regulation 2(6).
+Commencement Information
+I25
+Sch. 1 para. 25 in force at 13.4.2022, see reg. 1(2)
+[F28Persons granted leave under one of the Afghan Schemes and their family members
+26.—(1) A person granted leave under one of the Afghan Schemes who is ordinarily resident in England on the first day of the HE short course.
+(2) A person who—
+(a)
+is the spouse or civil partner of a person granted leave under one of the Afghan Schemes,
+(b)
+on the leave application date, was the spouse or civil partner of that person,
+(c)
+is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being granted leave to enter or remain in the United Kingdom, and
+(d)
+is ordinarily resident in England on the first day of the HE short course.
+(3) A person who—
+(a)
+is—
+(i)
+the child of a person granted leave under one of the Afghan Schemes, or
+(ii)
+the child of the spouse or civil partner of a person granted leave under one of the Afghan Schemes,
+(b)
+on the leave application date, was—
+(i)
+the child of the person granted leave under one of the Afghan Schemes, or
+(ii)
+the child of a person who was the spouse or civil partner of a person granted leave under one of the Afghan Schemes on that date,
+(c)
+was under 18 on the leave application date,
+(d)
+is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being given leave to enter or remain in the United Kingdom, and
+(e)
+is ordinarily resident in England on the first day of the HE short course.
+(4) In this paragraph “leave application date” means the date on which the person granted leave under one of the Afghan Schemes made an application for leave to enter or remain in the United Kingdom.]
+Textual Amendments
+F28
+Sch. 1 para. 26 substituted (with application in accordance with reg. 2(6)(7)(9) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74), reg. 132(3)(a) (with reg. 141(2)(3))
+Commencement Information
+I26
+Sch. 1 para. 26 in force at 13.4.2022, see reg. 1(2)
+[F29Evacuated or assisted British nationals from Afghanistan
+27.  An evacuated or assisted British national from Afghanistan who is ordinarily resident in England on the first day of the HE short course.]
+Textual Amendments
+F29
+Sch. 1 para. 27 inserted (with application in accordance with reg. 1(3)(h) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/534), regs. 1(1), 24(2)(b)
+[F30Persons granted leave under one of the Ukraine Schemes and their family members
+28.—(1) A person granted leave under one of the Ukraine Schemes who is ordinarily resident in England on the first day of the HE short course.
+(2) A person who—
+(a)
+is the spouse or civil partner of a person granted leave under one of the Ukraine Schemes,
+(b)
+on the leave application date, was the spouse or civil partner of that person,
+(c)
+is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being granted leave to enter or remain in the United Kingdom, and
+(d)
+is ordinarily resident in England on the first day of the HE short course.
+(3) A person who—
+(a)
+is—
+(i)
+the child of a person granted leave under one of the Ukraine Schemes, or
+(ii)
+the child of the spouse or civil partner of a person granted leave under one of the Ukraine Schemes,
+(b)
+on the leave application date, was—
+(i)
+the child of the person granted leave under one of the Ukraine Schemes, or
+(ii)
+the child of a person who was the spouse or civil partner of a person granted leave under one of the Ukraine Schemes on that date,
+(c)
+was under 18 on the leave application date,
+(d)
+is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being given leave to enter or remain in the United Kingdom, and
+(e)
+is ordinarily resident in England on the first day of the HE short course.
+(4) In this paragraph “leave application date” means the date on which the person granted leave under one of the Ukraine Schemes made an application for leave to enter or remain in the United Kingdom.]
+Textual Amendments
+F30
+Sch. 1 para. 28 substituted (with application in accordance with reg. 2(4)(5)(b) of the amending S.I.) by The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74), reg. 132(3)(b)
+(1)
+S.I. 2020/1209.
+(2)
+2020 c. 1.
+(3)
+1971 c. 77. There are amendments to section 33 not relevant to these Regulations.
+(4)
+Section 104 was amended by paragraph 20 of Schedule 2, and Schedule 4, to the Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19), section 9 of the Immigration, Asylum and Nationality Act 2006 (c. 13), paragraph 47 of Schedule 9 to the Immigration Act 2014 (c. 22) and S.I. 2010/21.
+(5)
+2016 c. 19.
+(6)
+Section 3ZA was inserted by section 2 of the Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (c. 20).
+(7)
+Section 33(2A) was inserted by paragraph 7 of Schedule 4 to the British Nationality Act 1981 (c. 61).
+(8)
+Cm. 4904.
+(9)
+S.I. 2016/1052.
+(10)
+S.I. 2020/1213.Regulation 10
+SCHEDULE 2
+Information
+1.  Every applicant and eligible student must, as soon as reasonably practicable after being requested to do so, provide the Secretary of State with such information as the Secretary of State requires for the purposes of these Regulations.
+Commencement Information
+I1
+Sch. 2 para. 1 in force at 13.4.2022, see reg. 1(2)
+2.  An applicant or eligible student must inform the Secretary of State and provide the Secretary of State with particulars if any of the following occurs—
+(a)
+they are expelled from their HE short course;
+(b)
+the start date or the completion date of their HE short course changes;
+(c)
+their home or term-time address or telephone number changes;
+(d)
+their name changes.
+Commencement Information
+I2
+Sch. 2 para. 2 in force at 13.4.2022, see reg. 1(2)
+3.  An institution must, as soon as reasonably practicable, inform the Secretary of State and provide the Secretary of State with particulars if—
+(a)
+an applicant or an eligible student is expelled from their HE short course;
+(b)
+the start date or the completion date of an applicant’s or eligible student’s HE short course changes.
+Commencement Information
+I3
+Sch. 2 para. 3 in force at 13.4.2022, see reg. 1(2)
+4.  Information provided to the Secretary of State pursuant to these Regulations must be in the format that the Secretary of State requires.
+Commencement Information
+I4
+Sch. 2 para. 4 in force at 13.4.2022, see reg. 1(2)
+5.  If the Secretary of State requires any information provided pursuant to these Regulations to be signed by the person providing it, an electronic signature in such form as the Secretary of State may specify satisfies such a requirement.
+Commencement Information
+I5
+Sch. 2 para. 5 in force at 13.4.2022, see reg. 1(2)EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations provide, for a trial period, for fee loans for students taking designated higher education short courses which begin on or after 1st September 2022 and on or before 31st July 2025. These Regulations expire on 1st September 2025.
+Regulation 3 makes provision about which students are eligible for a fee loan.
+Regulation 4 makes provision about the higher education courses which may be designated for the purposes of the fee loan system. Loans are available for higher education courses of 12 months or less with a credit value of 30 or 40 credits and which will end before 1st September 2025. Regulations 5 to 7 make provision about the period for which a student is eligible for a fee loan for a course.
+Part 3 makes provisions about applications for fee loans. A student cannot apply for a loan retrospectively.
+Part 4 sets out how many loans a student may be entitled to. A student is entitled to a maximum of four loans and may take out more than one loan at a time.
+Part 5 makes provision for the payment of a fee loan following confirmation from the course provider that the student is undertaking the course.
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sectors is foreseen.

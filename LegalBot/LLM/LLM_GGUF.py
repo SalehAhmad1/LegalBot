@@ -26,7 +26,7 @@ class LLM_GGUF(LLM):
         '''
         self.device = 'cuda' if torch.cuda.is_available() else 'cpu'
         self.llm = Llama(model_path="../Models/Saul-Instruct-v1.Q8_0.gguf", #model file path
-                        n_ctx=1000, #possible (can be increased) context length
+                        n_ctx=3000, #possible (can be increased) context length
                         n_gpu_layers=-1 if self.device == 'cuda' else 0,
                         verbose=False)
 

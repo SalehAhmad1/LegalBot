@@ -1,0 +1,216 @@
+These draft Regulations supersede the draft of the same title which was laid before the Scottish Parliament on 15th June 2018 and published on 18th June 2018 (ISBN 978-0-11-103940-3). They are being issued free of charge to all known recipients of those draft Regulations.
+Draft Regulations laid before the Scottish Parliament under section 225(4)(a) of the Bankruptcy (Scotland) Act 2016, section 62(4) of the Debt Arrangement and Attachment (Scotland) Act 2002, and section 72(2) and (3)(a)(iib),(iic) and (b) of the Bankruptcy (Scotland) Act 1985 for approval by resolution of the Scottish Parliament.
+DRAFT SCOTTISH STATUTORY INSTRUMENTS
+2018 No.
+BANKRUPTCY
+DEBT
+The Common Financial Tool (Scotland) Regulations 2018
+Made
+2018
+Coming into force
+1st April 2019
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 4(2)(b), 89, 170(1)(d)(ii), 194(1) and (3), 224(1) and 225(2) of the Bankruptcy (Scotland) Act 2016(1) (“the 2016 Act”), sections 2(3)(d), 7(2)(bd) and 62(2)(a) of the Debt Arrangement and Attachment (Scotland) Act 2002(2) (“the 2002 Act”), sections 5C(2)(b), 5D, 71C, 72(1A) and paragraph 5 of schedule 5 of the Bankruptcy (Scotland) Act 1985(3) (“the 1985 Act”), and all other powers enabling them to do so.
+In accordance with section 225(4)(a) of the 2016 Act, section 62(4) of the 2002 Act(4) and section 72(2) and (3)(a)(iib), (iic) and (b) of the 1985 Act(5), a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
+(1)
+2016 asp 21 (“the 2016 Act”). Section 228(1) of the 2016 Act contains a definition of “prescribed” relevant to the powers under which these Regulations are made.
+(2)
+2002 asp 17 (“the 2002 Act”), as amended by the Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3) (“the 2007 Act”), sections 173, 209(1), 211 and 212 and schedule 4, paragraph 10, schedule 5, paragraph 30 and schedule 6, Part 1. Section 7(2)(bd) was inserted by the Bankruptcy and Debt Advice (Scotland) Act 2014 (asp 11) (“the 2014 Act”), section 3(2). Section 9 of the 2002 Act contains a definition of “prescribed” relevant to the powers under which these Regulations are made.
+(3)
+1985 c.66 (“the 1985 Act”). The 1985 Act is repealed by the 2016 Act, schedule 9, Part 1; by virtue of section 234(3)(a) and (b) of the 2016 Act the powers to make amendments under which these Regulations are made are not affected by that repeal in so far as they relate to the operation of the 1985 Act in relation to sequestrations initiated or trust deeds executed before 30th November 2016. Sections 5C, 5D, 71C and 72(1A) were inserted by sections 1(2), 3(1), 36 and paragraph 34 of schedule 3 of the 2014 Act. Paragraph 5 of Schedule 5 was amended by section 20 of the 2007 Act. Section 73(1) of the 1985 Act contains a definition of “prescribed” relevant to the exercise of the statutory powers under which these Regulations are made. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998 (c.46).
+(4)
+Section 62(4) was amended by the 2014 Act, schedule 3, paragraph 38(b) and has been modified by paragraph 5(2) of schedule 3 of the Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10).
+(5)
+Sections 72(2) and (3) were inserted by section 35(c) of the 2007 Act and amended by paragraph 34 of schedule 3 of the 2014 Act and have been modified by paragraph 5(2) of schedule 3 of the Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10) (“the 2010 Act”). The powers to make these Regulations are exercised together by virtue of sections 33(2) and (3) of the 2010 Act.Citation and commencement
+1.  These Regulations may be cited as the Common Financial Tool (Scotland) Regulations 2018 and come into force on 1st April 2019.Interpretation
+2.  In these Regulations –
+“the 1985 Act” means the Bankruptcy (Scotland) Act 1985;
+“the 2016 Act” means the Bankruptcy (Scotland) Act 2016;
+“the 2011 DAS Regulations” means the Debt Arrangement Scheme (Scotland) Regulations 2011(1); and
+“AiB” means the Accountant in Bankruptcy (within the meaning given by section 199 of the 2016 Act).
+(1)
+S.S.I. 2011/141, relevantly amended by S.S.I. 2013/225 and S.S.I 2014/294.Amendment of the Bankruptcy (Scotland) Regulations 2016
+3.—(1) The Bankruptcy (Scotland) Regulations 2016(1) are amended as follows.
+(2) In regulation 2(1) (interpretation)—
+(a)
+omit the definition of “Common Financial Statement”;
+(b)
+after the definition of “debtor’s contribution” omit “and”; and
+(c)
+after the definition of “the Keeper” insert—
+““single financial guidance body” means the body established under section 1 (the single financial guidance body) of the Financial Guidance and Claims Act 2018(2) (irrespective of any changes to the name of that body); and
+“Standard Financial Statement” means the style and format for income and expenditure categories under that title (and, where relevant, related spreadsheets, budget sheets, trigger figures, guidance materials and notes) published by the Money Advice Service(3) or by the single financial guidance body.”.
+(3) In regulation 5(1)(g) (persons who may not be approved money advisers) for “from the Money Advice Trust to use the Common Financial Statement” substitute “authorising their use of the Standard Financial Statement, where such a licence is required”.
+(4) In regulation 15 (common financial tool)—
+(a)
+in paragraph (1) for “Common Financial Statement” substitute “Standard Financial Statement”;
+(b)
+in paragraph (2) for “Common Financial Statement” each time it occurs substitute “Standard Financial Statement”;
+(c)
+in paragraph (3)(b) for “in accordance with regulation 16 towards contingencies which may arise” substitute “as savings in accordance with and up to the maximum permitted by the Standard Financial Statement”; and
+(d)
+in paragraph (5) for “Common Financial Statement” substitute “Standard Financial Statement”.
+(5) In regulation 16 (common financial tool: contingency allowance)—
+(a)
+paragraph (1) is revoked; and
+(b)
+in paragraph (2), for “under paragraph (1)” substitute “as savings as mentioned in regulation 15(3)(b)”.
+(6) In regulation 17(1)(a) (common financial tool: supporting statements and evidence) for “Common Financial Statement” substitute “Standard Financial Statement”.
+(7) In regulation 18 (Money Advice Trust licence requirements: report)—
+(a)
+for “Common Financial Statement” substitute “Standard Financial Statement”;
+(b)
+for “Money Advice Trust” substitute “Money Advice Service or single financial guidance body”; and
+(c)
+for “the Trust” substitute “the body that imposed the licence requirement”.
+(8) In the title to regulation 18, for “Money Advice Trust” substitute “Standard Financial Statement”.
+(9) In schedule 1 (forms)—
+(a)
+in Form 1 (debtor application), for section 7 (income) and section 8 (expenditure) substitute sections 7 and 8 set out in schedule 1 of these Regulations; and
+(b)
+in Form 23 (debtor’s account of current state of affairs) for section Q6 (income and expenditure) substitute section Q6 set out in schedule 2 of these Regulations.
+(1)
+S.S.I. 2016/397.
+(2)
+2018 c.10.
+(3)
+“The Money Advice Service” is a limited company registered in England and Wales with registered number is 07172704. Its registered office is at 120 Holborn, London, England EC1N 2TD. The Money Advice Service is the consumer financial education body originally established by the Financial Services Authority under section 6A of the Financial Services and Markets Act 2000 (c.8) (“the 2000 Act”). Section 6A was inserted by section 2(5) of the Financial Services Act 2010 (c.28) and repealed by the Financial Services Act 2012 (c.21), which substituted for Part 1 of the 2000 Act a new Part 1A, section 3S of which makes provision relating to the functions of the consumer financial guidance body.Amendment of the Protected Trust Deeds (Forms) (Scotland) Regulations 2016
+4.  In the schedule of the Protected Trust Deeds (Forms) (Scotland) Regulations 2016(1), for Form 2A (income and expenditure) substitute Form 2A set out in schedule 3 of these Regulations.
+(1)
+S.S.I. 2016/398.Amendment of the Debt Arrangement Scheme (Scotland) Regulations 2011
+5.—(1) The 2011 DAS Regulations are amended as follows.
+(2) In regulation 2(1) (interpretation: general)—
+(a)
+omit the definition of “Common Financial Statement”; and
+(b)
+after the definition of “sheriff”, insert—
+““the single financial guidance body” means the body established under section 1 (the single financial guidance body) of the Financial Guidance and Claims Act 2018 (irrespective of any changes to the name of that body);
+“Standard Financial Statement” means the style and format for income and expenditure categories under that title (and, where relevant, related spreadsheets, budget sheets, trigger figures, guidance materials and notes) published by the Money Advice Service or by the single financial guidance body;”.
+(3) In regulation 20(2B)(a) (application for approval) for “Common Financial Statement” substitute “Standard Financial Statement”.
+(4) In schedule 1 (forms), in Form 1 (application for approval of a debt payment programme: individuals), in section 5 (financial statement of the debtor) for the material from the heading “5. Financial statement of the debtor(s) (the Common Financial Tool)” to the end of the material before section 5b substitute section 5a set out in schedule 4 of these Regulations.Sequestrations and trust deeds before 1st April 2019
+6.—(1) Except as mentioned in paragraphs (2) to (4) and (7), these Regulations have no effect in relation to—
+(a)
+sequestrations for which the petition was presented or the debtor application was made before, or
+(b)
+trust deeds executed before,
+1st April 2019.
+(2) These Regulations have effect where—
+(a)
+an application is made on or after 1st April 2019 under section 95 of the 2016 Act to vary or quash a debtor contribution order; or
+(b)
+a trustee is considering on or after that date under that section whether to vary or quash a debtor contribution order.
+(3) These Regulations have effect where—
+(a)
+an application is made on or after 1st April 2019 under section 32F of the 1985 Act(1) to vary or quash a debtor contribution order; or
+(b)
+a trustee is considering on or after that date under that section whether to vary or quash a debtor contribution order.
+(4) These Regulations have effect where—
+(a)
+an application is made on or after 1st April 2019 under section 32(4) of the 1985 Act(2) for variation of an income payment order,
+(b)
+an application is made on or after that date under section 32(4G)(b) of the 1985 Act(3) for variation of an income payment agreement, or
+(c)
+a trustee is considering entering into a written agreement to vary an income payment agreement under section 32(4G)(a) of the 1985 Act on a change in the debtor’s circumstances.
+(5) For the avoidance of doubt paragraphs (2) to (4) do not prevent a trustee, AiB or a sheriff having regard to other factors, including the amount initially determined by the order or provided for in an income payment agreement (or any extant variation of either).
+(6) The adoption of the Standard Financial Statement as the common financial tool is not itself a change in the debtor’s circumstances for the purposes of section 95 of the 2016 Act or sections 32(4) or 32F of the 1985 Act.
+(7) Schedule 5 (which modifies saved regulations for sequestration and trust deeds before 30th November 2016) has effect subject to paragraphs (1) to (6).
+(1)
+Section 32F was inserted by section 4 of the 2014 Act and subsequently repealed by schedule 9 of the 2016 Act, subject to saving provision in section 234(3) of that Act, under which it continues to apply in relation to sequestrations petitioned or applied for or trust deeds executed before 30th November 2016.
+(2)
+Section 32(4), relevantly amended by paragraph 1 of Part 1 of schedule 6 of the 2007 Act, was repealed by paragraph 1 of schedule 4 of the 2014 Act, subject to transitional provisions and savings specified in articles 4(1), (2) and 12 of S.S.I. 2014/261 which provide that the 1985 Act as in force immediately before 1st April 2015 continues to apply and have effect in relation to sequestrations petitioned or applied for and trust deeds executed before 1st April 2015.
+(3)
+Section 32(4G) was inserted by section 18(4) of the 2007 Act and subsequently repealed on the same basis as section 32(4) (described above).Debt payment programmes before 1st April 2019
+7.—(1) Except as mentioned in paragraphs (2) and (3), these Regulations have no effect in relation to debt payment programmes in respect of which an application for approval was made under the 2011 DAS Regulations before 1st April 2019.
+(2) Where an application is made on or after 1st April 2019 for variation of a debt payment programme on a material change in the circumstances of a debtor, the DAS Administrator must have regard to the Standard Financial Statement.
+(3) In so applying the Standard Financial Statement, for the avoidance of doubt—
+(a)
+this regulation does not prevent the DAS Administrator having regard to other factors, including the payments previously made under the debt payment programme; and
+(b)
+the Standard Financial Statement is not itself a material change in the circumstances of the debtor for the purposes of regulation 37(1) of the 2011 DAS Regulations.
+(4) In this regulation, “the DAS Administrator” has the following meaning given in the 2011 DAS Regulations—
+(a)
+the Scottish Ministers; or
+(b)
+any person or body who may exercise the functions of the Scottish Ministers by virtue of an order made under section 8 (functions of the Scottish Ministers) of the Debt Arrangement and Attachment (Scotland) Act 2002(1).
+(1)
+2017 asp 17. See S.S.I. 2004/448, by virtue of which the Accountant in Bankruptcy may act as DAS Administrator.Name
+Authorised to sign by the Scottish Ministers
+St Andrew’s House,
+Edinburgh
+DateRegulation 3(9)(a)
+SCHEDULE 1
+Bankruptcy (Scotland) Regulations 2016 – Form 1(Debtor Application)Regulation 3(9)(b)
+SCHEDULE 2
+Bankruptcy (Scotland) Regulations 2016 – Form 23(Debtor’s Account of Current State of Affairs)Regulation 4
+SCHEDULE 3
+Protected Trust Deeds (Forms) (Scotland) Regulations 2016 - Form 2A(Income and Expenditure)Regulation 5(4)
+SCHEDULE 4
+Debt Arrangement Scheme (Scotland) Regulations 2011 - Form 1(Application for approval of a debt payment programme: individuals)Regulation 6(7)
+SCHEDULE 5
+Sequestrations and trust deeds before 30th November 2016
+Modification of saved regulations
+1.  The Common Financial Tool etc. (Scotland) Regulations 2014(1) and the Bankruptcy (Money Advice and Deduction from Income etc.) (Scotland) Regulations 2014(2) continue to apply to—
+(a)
+sequestrations as regards which the petitions was presented or the debtor application was made before; or
+(b)
+trust deeds executed before,
+30th November 2016 as if paragraphs 2 and 3 below applied.
+The Common Financial Tool etc. (Scotland) Regulations 2014
+2.—(1) In regulation 2 (interpretation)—
+(a)
+omit the definition of “Common Financial Statement”;
+(b)
+after the definition of “common financial tool” omit “and”; and
+(c)
+after the definition of “debtor’s contribution” insert—
+““single financial guidance body” means the body established under section 1 (the single financial guidance body) of the Financial Guidance and Claims Act 2018(3) (irrespective of any changes to the name of that body); and
+“Standard Financial Statement” means the style and format for income and expenditure categories under that title (and, where relevant, related spreadsheets, budget sheets, trigger figures, guidance materials and notes) published by the Money Advice Service(4) or by the single financial guidance body.”.
+(2) In regulation 3 (common financial tool)—
+(a)
+in paragraph (1), for “Common Financial Statement” substitute “Standard Financial Statement”;
+(b)
+in paragraph (2), for “Common Financial Statement” each time it occurs substitute “Standard Financial Statement”;
+(c)
+in paragraph (3)(b), for “in accordance with regulation 3A towards contingencies which may arise” substitute “as savings in accordance with and up to the maximum permitted by the Standard Financial Statement”; and
+(d)
+in paragraph (5), for “Common Financial Statement” substitute “Standard Financial Statement”.
+(3) In regulation 3A (common financial tool: contingency allowance)—
+(a)
+paragraph (1) is revoked; and
+(b)
+in paragraph (2) for “under paragraph (1)” substitute “as savings as mentioned in regulation 3(3)(b)”.
+(4) In regulation 4(1)(a) (common financial tool: supporting statements and evidence) for “Common Financial Statement” substitute “Standard Financial Statement”.
+(5) In regulation 5 (Money Advice Trust licence requirements: report)—
+(a)
+for “Common Financial Statement” substitute “Standard Financial Statement”;
+(b)
+for “Money Advice Trust” substitute “Money Advice Service or single financial guidance body”; and
+(c)
+for “the Trust” substitute “the body that imposed the licence requirement”.
+(6) In the title to regulation 5, for “Money Advice Trust” substitute “Standard Financial Statement”.
+The Bankruptcy (Money Advice and Deduction from Income etc.) (Scotland) Regulations 2014
+3.—(1) In regulation 2 (interpretation) after the definition of “common financial tool” insert—
+““single financial guidance body” means the body established under section 1 (the single financial guidance body) of the Financial Guidance and Claims Act 2018 (irrespective of any changes to the name of that body); and
+“Standard Financial Statement” means the style and format for income and expenditure categories under that title (and, where relevant, related spreadsheets, budget sheets, trigger figures, guidance materials and notes) published by the Money Advice Service or by the single financial guidance body.”.
+(2) In regulation 4(1) (persons who may not be approved money advisers), for sub-paragraph (g) substitute—
+“(g)
+persons without a licence authorising their use of the Standard Financial Statement, where such a licence is required;”.
+(1)
+S.S.I. 2014/290 as amended by S.S.I. 2015/149 was revoked by S.S.I. 2016/397, subject to savings in regulation 33 of that instrument under which it continues to apply in relation to sequestrations petitioned or applied for or trust deeds executed before 30th November 2016.
+(2)
+S.S.I. 2014/296 was revoked by S.S.I. 2016/397, subject to savings in regulation 33 of that instrument under which it continues to apply in relation to sequestrations petitioned or applied for or trust deeds executed before 30th November 2016.
+(3)
+2018 c.10.
+(4)
+“The Money Advice Service” is a limited company registered in England and Wales with registered number is 07172704. Its registered office is at 120 Holborn, London, England EC1N 2TD. The Money Advice Service is the consumer financial education body originally established by the Financial Services Authority under section 6A of the Financial Services and Markets Act 2000 (c.8) (“the 2000 Act”). Section 6A was inserted by section 2(5) of the Financial Services Act 2010 (c.28) and repealed by the Financial Services Act 2012 (c.21), which substituted for Part 1 of the 2000 Act a new Part 1A, section 3S of which makes provision relating to the functions of the consumer financial guidance body.EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the method for determining an appropriate amount of a living debtor’s income to be paid to a trustee after sequestration of the debtor’s estate, known as the “common financial tool” in the Bankruptcy (Scotland) Act 2016 (“the 2016 Act”) and make similar changes for protected trust deeds and the debt arrangement scheme (“DAS”).
+These Regulations change the method to be used as the common financial tool, from the Common Financial Statement (“the CFS”) published by the Money Advice Trust, to the Standard Financial Statement (“the SFS”), currently published by the Money Advice Service. They also contain provision in anticipation of the replacement of the Money Advice Service with the single financial guidance body by the Financial Guidance and Claims Act 2018.
+Regulation 3 amends the Bankruptcy (Scotland) Regulations 2016 (“the 2016 Regulations”) to replace references to the CFS and the Money Advice Trust with references to the SFS and the Money Advice Service or single financial guidance body.
+The requirement that money advisers hold a licence from the Money Advice Trust to use the CFS is replaced with a requirement to hold a licence authorising them to use the SFS (where such a licence is required); provision that the CFS is the common financial tool is replaced with the SFS, with debtor contributions determined in accordance with expenditure categories and trigger figures provided by the SFS; provision allowing a debtor to retain additional income towards contingencies is removed as savings are allowed as part of the SFS. Sections 7 and 8 of bankruptcy Form 1 (debtor application) and section Q6 of Form 23 (debtor’s account of current state of affairs) are replaced with new versions to reflect the new income and expenditure categories in the SFS.
+Regulation 4 amends the Protected Trust Deeds (Forms) (Scotland) Regulations 2016 to replace Form 2A (the statement of the debtor’s income and expenditure to be provided to creditors) with a new version which reflects the income and expenditure categories of the SFS.
+Regulation 5 amends the Debt Arrangement Scheme (Scotland) Regulations 2011 to replace a requirement that debtor applications for debt payment programmes include a statement of income and expenditure in the style and format of the CFS, with that of the SFS. Section 5a (the financial statement of the debtor) of Form 1 (application for approval of a debt payment programme: individuals) is replaced with a new version which reflects the income and expenditure categories of the SFS.
+These Regulations come into force on 1st April 2019.
+Regulation 6 provides that changes to the common financial tool made by these Regulations have no effect in relation to sequestrations where the petition was presented or debtor application made, or trust deeds executed, before 1st April 2019. This is subject to an exception where after that date there is an application, or a trustee is otherwise considering, to vary or quash a debtor contribution order (or income payment order or agreement). Regulation 6 clarifies that the application of the Regulations in those circumstances does not prevent the relevant decision maker from having regard to other factors, and that the adoption of the SFS does not itself constitute a change in the debtor’s circumstances.
+Schedule 5 modifies the Common Financial Tool etc. (Scotland) Regulations 2014 and the Bankruptcy (Money Advice and Deduction from Income etc.) (Scotland) Regulations 2014 to make provision for sequestrations initiated, or trust deeds executed, before 30th November 2016.
+Regulation 7 makes provision regarding the effect of the changes to the common financial tool for debt payment programmes in DAS where an application for approval was made before 1st April 2019, the effect of which is similar to the provision in regulation 6.
+A Business and Regulatory Impact Assessment has been prepared for these Regulations. Copies can be obtained from the Accountant in Bankruptcy’s website: http://www.aib.gov.uk.

@@ -1,0 +1,1495 @@
+Regulations made by the Secretary of State, laid before Parliament under section 55(3) of the Sanctions and Anti-Money Laundering Act 2018, for approval by resolution of each House of Parliament within twenty-eight days beginning with the day on which the instrument is made, subject to extension for periods of dissolution or prorogation or during which both Houses are adjourned for more than four days.
+STATUTORY INSTRUMENTS
+2023 No. 1364
+SANCTIONS
+The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023
+Made
+12th December 2023
+Laid before Parliament
+14th December 2023
+Coming into force in accordance with regulation 1(2) and (3)
+The Secretary of State(1), considering that the condition in section 45(2) of the Sanctions and Anti-Money Laundering Act 2018(2) is met, makes the following Regulations in exercise of the powers conferred by sections 1, 3(1)(b), (c) and (d), 5, 15, 16(1)(a)(i), 17, 17A, 21(1), 45(1)(b) and (2) and 54(1) and (2)(a) of, and paragraphs 2(b), 3(a) and (b), 4(b) and (c), 5(a)(ii) and (b), 6(a)(ii) and (b), 7(b), 11(a), 13(a), (b), (c), (g), (h), (i), (k), (l) (m), (n), (q) and (w), 14(a) and (f), 17(d) and 20(d) of Schedule 1 to, that Act.
+(1)
+The power to make regulations under Part 1 of the Sanctions and Anti-Money Laundering Act 2018 (c. 13) is conferred on an appropriate Minister. Section 1(9)(a) of the Act defines an “appropriate Minister” as including the Secretary of State.
+(2)
+2018 c. 13. Sections 1(5) and 15 are amended by the Economic Crime and Corporate Transparency Act 2023 (c. 56) (“the 2023 Act”), section 35(2) and (5). Section 17(5)(b)(i) (enforcement) is amended by the Sentencing Act 2020 (c. 17), Schedule 24, paragraph 443(1). Section 17(9)(a) is amended by the 2023 Act, section 214(3). Section 17A is inserted by the 2023 Act, section 214(4). Sections 1 and 45 are amended by the Economic Crime (Transparency and Enforcement) Act 2022 (c. 10), sections 57 and 62.Citation and commencement
+1.—(1) These Regulations may be cited as the Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023.
+(2) Regulations 17, 18, 20 and 21 come into force on 26th December 2023.
+(3) The remainder of these Regulations come into force on 15th December 2023.Amendment of the Russia (Sanctions) (EU Exit) Regulations 2019
+2.  The Russia (Sanctions) (EU Exit) Regulations 2019(1) are amended as set out in regulations 3 to 23.
+(1)
+S.I. 2019/855 as amended by S.I. 2020/590 and 951; S.I. 2022/123; 194; 195; 203; 205; 241; 395; 452; 477; 500, 792; 801; 814; 850; 1110; 1122 and 1331, and S.I. 2023/149, 440, 665 and 713 and by the Sentencing Act 2020 (c. 17).Amendment of regulation 17A
+3.—(1) Regulation 17A is amended as follows.
+(2) In the heading, for “etc.” substitute “and processing payments”.
+(3) In paragraph (2), omit “sterling” in both places it occurs.
+(4) For paragraph (5) substitute—
+“(5) For the purposes of this regulation, a reference to “processing” a payment—
+(a)
+includes the clearing and settlement of a payment; but
+(b)
+does not include the act of crediting a payment, for the first time, to C where that payment is credited to an account which is—
+(i)
+in the name of C; and
+(ii)
+not held on behalf of, or for the benefit of, a customer of C.”.Amendment of regulation 21(1) (trade: interpretation)
+4.—(1) Regulation 21(1) is amended as follows.
+(2) In the definition of “goods relating to chemical and biological weapons”—
+(a)
+at the end of paragraph (b), for “;” substitute “,”;
+(b)
+after paragraph (b) insert—
+“other than any thing for the time being specified in Schedule 2 to the Export Control Order 2008 or in Annex 1 of the Dual-Use Regulation;”.
+(3) In the definition of “technology relating to chemical and biological weapons”, after “Schedule 3C” insert “(except any thing for the time being specified in Schedule 2 to the Export Control Order 2008 or in Annex 1 of the Dual-Use Regulation)”.
+(4) In the provisions of the definitions specified in paragraph (5), omit “or 3”.
+(5) Those provisions are—
+(a)
+paragraph (a)(ii)(aa) of the definition of “critical-industry goods”;
+(b)
+paragraph (a) of the definition of “critical-industry technology”;
+(c)
+paragraph (a) of the definition of “G7 dependency and further goods”;
+(d)
+paragraph (a)(ii)(aa) of the definition of “quantum computing and advanced materials goods”;
+(e)
+paragraph (a) of the definition of “quantum computing and advanced materials technology”; and
+(f)
+paragraph (a) of the definition of “Russia’s vulnerable goods”.
+(6) In paragraph (a) of the definition of “luxury goods”, for “Schedules 2 or 3” substitute “Schedule 2”.
+(7) In paragraph (a) of the definition of “maritime goods” and “maritime technology”, for “Schedules 2 and 3” substitute “Schedule 2”.
+(8) In both—
+(a)
+paragraph (a)(ii)(aa) of the definition of “oil refining goods”; and
+(b)
+paragraph (a) of the definition of “oil refining technology”,
+for “3” substitute “2”.Insertion of regulations 46BA, 46BB and 46BC (luxury goods)
+5.  In Chapter 4B, after regulation 46B insert—
+“Technical assistance relating to luxury goods
+46BA.—(1) A person must not directly or indirectly provide technical assistance relating to luxury goods—
+(a)
+to a person connected with Russia, or
+(b)
+for use in Russia.
+(2) Paragraph (1) is subject to Part 7 (Exceptions and licences).
+(3) A person who contravenes a prohibition in paragraph (1) commits an offence, but—
+(a)
+it is a defence for a person charged with an offence of contravening paragraph (1)(a) (“P”) to show that P did not know and had no reasonable cause to suspect that the person was connected with Russia;
+(b)
+it is a defence for a person charged with an offence of contravening paragraph (1)(b) to show that the person did not know and had no reasonable cause to suspect that the luxury goods were for use in Russia.
+Financial services and funds relating to luxury goods
+46BB.—(1) A person must not directly or indirectly provide financial services or funds in pursuance of or in connection with an arrangement whose object or effect is—
+(a)
+the export of luxury goods to, or for use in, Russia;
+(b)
+the direct or indirect supply or delivery of luxury goods to a place in Russia;
+(c)
+directly or indirectly making luxury goods available—
+(i)
+to a person connected with Russia, or
+(ii)
+for use in Russia; or
+(d)
+the direct or indirect provision of technical assistance relating to luxury goods—
+(i)
+to a person connected with Russia, or
+(ii)
+for use in Russia.
+(2) Paragraph (1) is subject to Part 7 (Exceptions and licences).
+(3) A person who contravenes a prohibition in paragraph (1) commits an offence, but it is a defence for a person charged with the offence of contravening that paragraph to show that the person did not know and had no reasonable cause to suspect that the financial services or funds (as the case may be) were provided in pursuance of or in connection with an arrangement mentioned in that paragraph.
+Brokering services relating to luxury goods
+46BC.—(1) A person must not directly or indirectly provide brokering services relating to luxury goods—
+(a)
+to a person connected with Russia; or
+(b)
+for use in Russia.
+(2) A person must not directly or indirectly provide brokering services in pursuance of or in connection with an arrangement whose object or effect is—
+(a)
+the export of luxury goods to, or for use in, Russia;
+(b)
+the direct or indirect supply or delivery of luxury goods to a place in Russia;
+(c)
+directly or indirectly making luxury goods available—
+(i)
+to a person connected with Russia, or
+(ii)
+for use in Russia; or
+(d)
+the direct or indirect provision of technical assistance relating to luxury goods—
+(i)
+to a person connected with Russia, or
+(ii)
+for use in Russia.
+(3) Paragraphs (1) and (2) are subject to Part 7 (Exceptions and licences).
+(4) A person who contravenes a prohibition in any of paragraph (1) or (2) commits an offence, but—
+(a)
+it is a defence for a person charged with an offence of contravening paragraph (1)(a) (“P”) to show that P did not know and had no reasonable cause to suspect that the brokering services were provided to person who was connected with Russia;
+(b)
+it is a defence for a person charged with an offence of contravening paragraph (1)(b) (“P”) to show that P did not know and had no reasonable cause to suspect that the brokering services were provided in relation to goods which were for use in Russia;
+(c)
+it is a defence for a person charged with the offence of contravening paragraph (2) to show that the person did not know and had no reasonable cause to suspect that the brokering services were provided in pursuance of or in connection with an arrangement mentioned in that paragraph.”.Amendments of Chapter 4CA (iron and steel products processed in a third country)
+6.—(1) Chapter 4CA is amended as follows.
+(2) In the heading to that Chapter, omit “and associated provision”.
+(3) In regulation 46IA, in the definition of “iron or steel product”, after “specified in” insert “Part 1, 2 or 3 of”.Insertion of Chapter 4CB
+7.  After regulation 46IE insert—
+“CHAPTER 4CB
+Metals
+Interpretation
+46IF.  In this Chapter—
+“metals” means any thing specified in Schedule 3BA;
+“third country” means a country that is not the United Kingdom, the Isle of Man or Russia.
+Import of metals
+46IG.—(1) The import of metals which are consigned from Russia is prohibited.
+(2)  The import of metals which originate in Russia is prohibited.
+(3) Paragraphs (1) and (2) are subject to Part 7 (Exceptions and licences).
+Acquisition of metals
+46IH.—(1) A person must not directly or indirectly acquire metals which—
+(a)
+originate in Russia; or
+(b)
+are located in Russia.
+(2) Paragraph (1) is subject to Part 7 (Exceptions and licences).
+(3) A person who contravenes a prohibition in paragraph (1) commits an offence, but—
+(a)
+it is a defence for a person charged with the offence of contravening paragraph (1)(a) to show that the person did not know and had no reasonable cause to suspect that the metals originated in Russia;
+(b)
+it is a defence for a person charged with the offence of contravening paragraph (1)(b) to show that the person did not know and had no reasonable cause to suspect that the metals were located in Russia.
+Supply and delivery of metals
+46II.—(1) A person must not directly or indirectly supply or deliver metals from a place in Russia to a third country.
+(2) Paragraph (1) is subject to Part 7 (Exceptions and licences).
+(3) A person who contravenes a prohibition in paragraph (1) commits an offence, but it is a defence for a person charged with the offence of contravening paragraph (1) to show that the person did not know and had no reasonable cause to suspect that the supply or delivery was from a place in Russia, whether directly or indirectly.”.Amendment of regulation 59A
+8.—(1) Regulation 59A is amended as follows.
+(2) For the heading substitute “Exceptions relating to processing payments”.
+(3) Renumber regulation 59A as regulation 59A(1).
+(4) In the renumbered paragraph (1), omit “sterling” in both places.
+(5) After the renumbered paragraph (1) insert—
+“(2) The prohibition in regulation 17A(2) is not contravened by a transfer (or, if necessary, more than one transfer) of funds by C from account A to account B where—
+(a)
+neither account A nor account B are held in the name of a customer of C; and
+(b)
+both account A and account B are held within the United Kingdom; and
+(c)
+the transfer (or transfers) from account A to account B is (or are) carried out for the purpose of compliance with regulation 17A(2).”.Amendment of regulation 60A (trade: exceptions in relation to personal effects etc.)
+9.—(1) Regulation 60A is amended as follows.
+(2) In paragraph (1AA)—
+(a)
+in sub-paragraph (a), for “gold jewellery” substitute “jewellery coming within commodity codes 7113 00 00 and 7114 00 00”;
+(b)
+in sub-paragraph (d), omit “gold”.
+(3) After paragraph (1AA) insert—
+“(1AAA) Paragraph 1 of Schedule 3 applies for the purpose of interpreting the commodity codes specified in paragraph (1AA)(a).”.Amendment of regulation 60B (trade: exceptions in relation to consumer communication devices and software updates)
+10.—(1) Regulation 60B is amended as follows.
+(2) In paragraph (1)—
+(a)
+for “and regulation 46B (luxury goods)” substitute “, Chapter 4B (export of luxury goods etc.) and Chapter 4H (export of G7 dependency and further goods etc.)”;
+(b)
+for “or luxury goods” substitute “, luxury goods or G7 dependency and further goods”.
+(3) In paragraph (2)(a) insert in the appropriate place—
+“G7 dependency and further goods has the meaning given in regulation 21 (interpretation of Part 5);”.Amendment of regulation 60G (trade: exception in relation to certain goods consigned from Russia)
+11.—(1) Regulation 60G is amended as follows.
+(2) After paragraph (1D) insert—
+“(1E) The prohibitions specified in paragraphs (1F) and (1G) do not apply to, or in relation to, any products mentioned in any of those paragraphs which are—
+(a)
+consigned from Russia before 15th December 2023; and
+(b)
+imported into the United Kingdom before 14th January 2024.
+(1F) The prohibitions specified in this paragraph are those set out in—
+(a)
+regulation 46D (import of iron and steel products);
+(b)
+regulation 46G(1)(a) (technical assistance relating to iron and steel products);
+(c)
+regulation 46H(1)(a) (financial services and funds relating to iron and steel products);
+(d)
+regulation 46I(1) (brokering services relating to iron and steel products) to the extent that prohibition applies to an arrangement described in regulation 46H(1)(a),
+as they apply in relation to products specified in Part 4 of Schedule 3B (iron and steel products).
+(1G) The prohibitions specified in this paragraph are those set out in regulation 46IG (import of metals) except in so far as those prohibitions relate to products coming within commodity codes 7606, 7801, 8207, 8212, 8302 and 8309.
+(1H) Paragraph 1 of Schedule 3 applies for the purposes of interpreting the commodity codes specified in paragraph (1G).”.
+(3) In paragraph (2), for “paragraph (1A)(a)” substitute “paragraphs (1A)(a) and (1E)(a)”.Amendment of regulation 60GA (trade: exception in respect of the acquisition of iron and steel products)
+12.—(1) Regulation 60GA is amended as follows.
+(2) At the end of the heading insert “and metals”.
+(3) For paragraph (1) substitute—
+“(1) Without prejudice to regulation 60GAA, the prohibitions specified in paragraphs (2) and (2A) do not apply in relation to relevant products located in the United Kingdom or the Isle of Man having been lawfully imported there.”.
+(4) In paragraph (2)—
+(a)
+in sub-paragraph (b), for “46G(1)(b)” substitute “46G(1)(b)(i)”;
+(b)
+in sub-paragraph (c), for “46H(1)(b)” substitute “46H(1)(b)(i);
+(c)
+at the end of sub-paragraph (d) insert “in relation to any arrangements described in regulation 46H(1)(b)(i)”.
+(5) After paragraph (2) insert—
+“(2A) The prohibition specified in this paragraph is that in regulation 46IH(1)(a) (acquisition of metals).”.
+(6) For paragraph (3) substitute—
+“(3) In this regulation “relevant products” means the products to which the respective prohibitions specified in paragraphs (2) and (2A) apply.”.Insertion of regulations 60GAA and 60GAB (trade: exceptions in respect of iron and steel products, relevant processed iron or steel products and metals)
+13.  After regulation 60GA insert—
+“Trade: exception in respect of iron and steel products, relevant processed iron or steel products and metals exported from Russia before the relevant day
+60GAA.—(1) The prohibitions specified in paragraphs (2), (3) and (4) do not apply in relation to anything done in relation to relevant products originating in or consigned from Russia where those goods—
+(a)
+were exported from Russia before the relevant day; and
+(b)
+are not to be released for free circulation in the United Kingdom or the Isle of Man.
+(2) The prohibitions specified in this paragraph are those in—
+(a)
+regulation 46D (import of iron and steel products);
+(b)
+regulation 46G(1)(a) (technical assistance relating to iron and steel products);
+(c)
+regulation 46H(1)(a) (financial services and funds relating to iron and steel products);
+(d)
+regulation 46I in relation to any arrangements described in regulation 46H(1)(a) (brokering services relating to iron and steel products).
+(3) The prohibitions specified in this paragraph are those in—
+(a)
+regulation 46IB(1) (import of relevant processed iron or steel products);
+(b)
+regulation 46IC(1) (technical assistance relating to relevant processed iron or steel products);
+(c)
+regulation 46ID(1) (financial services and funds relating to relevant processed iron or steel products);
+(d)
+regulation 46IE(1) (brokering services relating to relevant processed iron or steel products).
+(4) The prohibitions specified in this paragraph are those in regulation 46IG (import of metals).
+(5) For the purposes of paragraph (1)—
+(a)
+“relevant day” means, in relation to the application of that paragraph to a prohibition specified in paragraph (2), (3) or (4), the date on which that prohibition came into force;
+(b)
+“relevant products” means the products to which the prohibitions specified in paragraph (2), (3) or (4) apply.
+(6) For the purposes of paragraph (1)(a) and regulation 60GAB(1), a thing has been exported from Russia when—
+(a)
+it has completed the applicable export formalities; and
+(b)
+where it was transported by—
+(i)
+land, it has left Russian territory;
+(ii)
+sea, the ship on which it was transported has departed a port in Russia for a destination outside of Russia;
+(iii)
+air, the aircraft on which it was transported has departed an airport in Russia for a destination outside of Russia.
+(7) Section 3 of the Taxation (Cross-border Trade) Act 2018(1) (obligation to declare goods for a Customs procedure on import) applies for determining whether paragraph (1)(b) applies.
+Trade: exception relating to ancillary services relating to acquisition when iron and steel products are in third countries
+60GAB.—(1) The prohibitions specified in paragraph (2) do not apply in relation to anything done in relation to iron and steel products originating in Russia where those products were exported from Russia before the relevant day.
+(2) The prohibitions specified in this paragraph are those relating to—
+(a)
+regulation 46G(1)(b)(i) (technical assistance relating to iron and steel products);
+(b)
+regulation 46H(1)(b)(i) (financial services and funds relating to iron and steel products);
+(c)
+regulation 46I (brokering services relating to iron and steel products) in relation to any arrangements described in regulation 46H(1)(b)(i).
+(3) For the purposes of paragraph (1)—
+(a)
+“iron and steel products” has the meaning given in regulation 46C;
+(b)
+“relevant day” means, in relation to the application of that paragraph to a prohibition specified in paragraph (2), the date on which that prohibition came into force.”.
+(1)
+2018 c. 22.Amendment of regulation 61 (trade: exceptions for emergencies in certain cases)
+14.  In regulation 61(1A)(d), for “regulation 46Y” substitute “Chapter 4H”.Amendment of regulation 64 (Treasury licences)
+15.—(1) Regulation 64(2) is amended as follows.
+(2) After sub-paragraph (a) insert—
+“(aza)
+in the case of acts which would otherwise be prohibited by regulations 11 to 15, 16, 17, 17A, 18A and 18C, where the Treasury consider that it is appropriate to issue the licence for a purpose set out in Part 1ZA of Schedule 5;”.
+(3) In sub-paragraph (ac), omit “sterling”.Amendment of regulation 70 (finance: reporting obligations)
+16.—(1) Regulation 70 is amended as follows.
+(2) After paragraph (1) insert—
+“(1ZA) A relevant firm must also inform the Treasury as soon as practicable if—
+(a)
+it knows, or has reasonable cause to suspect, that it holds funds or economic resources for a prohibited person; and
+(b)
+the information or other matter on which the knowledge or cause for suspicion is based came to it in the course of carrying on its business.
+(1ZB) Where the relevant firm knows, or has reasonable cause to suspect, that it holds funds or economic resources for a prohibited person, it must by no later than 31st October in each calendar year, provide a report to the Treasury as to the nature and amount or quantity of those funds or economic resources held by that firm as of 30th September in that calendar year.”.
+(3) In paragraph (3)(a), after “designated person” insert “or under paragraph (1ZA) that it knows, or has reasonable cause to suspect, that a person for whom it holds funds or economic resources is a prohibited person”.
+(4) In paragraph (6), after “(1),” insert “(1ZA), (1ZB),”.
+(5) In paragraph (7), insert in the appropriate place—
+““prohibited person” means a person to whom financial services must not be provided by virtue of regulation 18A(1);”.Insertion of regulation 70A (designated persons: reporting obligations)
+17.  After regulation 70 insert—
+“Designated persons: reporting obligations
+70A.—(1)  A designated person who is a United Kingdom person must, by the end of the period specified in paragraph (3) or (4) (as the case may be) inform the Treasury of —
+(a)
+the nature and value of any funds or economic resources which that person owns, holds or controls in any jurisdiction; and
+(b)
+the location of those funds or economic resources.
+(2) A designated person who is not a United Kingdom person must, by the end of the period specified in paragraph (3) or (4) (as the case may be) inform the Treasury of—
+(a)
+the nature and value of any funds or economic resources which that person owns, holds or controls in the United Kingdom; and
+(b)
+the location of those funds or economic resources.
+(3) Where a person is a designated person immediately before the day on which this regulation comes into force (“the relevant day”), the designated person must give the information in paragraph (1) or (2) (as the case may be) to the Treasury by the end of the period of 10 weeks starting on the relevant day.
+(4) Where a person is not a designated person immediately before the relevant day but becomes a designated person on or after that day, the designated person must give the information in paragraph (1) or (2) (as the case may be) to the Treasury by the end of the period of 10 weeks starting on the day on which the person becomes a designated person.
+(5) Where a designated person has provided information to the Treasury under paragraph (1) or (2), that person must inform the Treasury as soon as practicable of any change to the nature, value or location of the funds or economic resources.
+(6) A person who—
+(a)
+without reasonable excuse, refuses or fails to comply with the requirement in paragraph (1), (2) or (5) (as the case may be); or
+(b)
+knowingly or recklessly, gives information under paragraph (1), (2) or (5) (as the case may be) which is false in a material particular,
+commits an offence.
+(7) In this regulation, “designated person” has the same meaning as it has in Chapter 1 of Part 3 (Finance).”.Amendment of regulation 80 (penalties for offences)
+18.  In regulation 80(4), after “70(6)” insert “, 70A(6)”.Amendment of regulation 85 (trade enforcement: application of CEMA)
+19.—(1) Regulation 85 is amended as follows.
+(2) In paragraph (3B)—
+(a)
+after “the following provisions—” insert—
+“(za)
+regulation 24(3) insofar as it relates to the prohibition at regulation 24(1)(c);
+(zb)
+regulation 29A(3);”;
+(b)
+omit sub-paragraphs (a) and (b);
+(c)
+after sub-paragraph (d) insert—
+“(da)
+regulation 46A(4);”;
+(d)
+after sub-paragraph (e) insert—
+“(ea)
+regulation 46BA(3) (technical assistance relating to luxury goods) insofar as the technical assistance provided relates to the supply or delivery of luxury goods from a third country to a place in Russia;
+(eb)
+regulation 46BB(3) (financial services and funds relating to luxury goods) insofar as it relates to the prohibition at—
+(i)
+regulation 46BB(1)(b) and insofar as the financial services or funds provided relate to the supply or delivery of luxury goods from a third country to a place in Russia;
+(ii)
+regulation 46BB(1)(c) and insofar as the financial services or funds provided relate to the supply or delivery of luxury goods from a third country to a place in Russia;
+(iii)
+regulation 46BB(1)(d) and insofar as the financial services or funds provided relate to the provision of technical assistance for the supply or delivery of luxury goods from a third country to a place in Russia;
+(ec)
+regulation 46BC(4) (brokering services relating to luxury goods) insofar as it relates to the prohibition at—
+(i)
+regulation 46BC(2)(b) and insofar as the brokering services provided relate to the supply or delivery of luxury goods from a third country to a place in Russia;
+(ii)
+regulation 46BC(2)(c) and insofar as the brokering services provided relate to the supply or delivery of luxury goods from a third country to a place in Russia;
+(iii)
+regulation 46BC(2)(d) and insofar as the brokering services provided relate to the provision of technical assistance for the supply or delivery of luxury goods from a third country to a place in Russia;”;
+(e)
+after sub-paragraph (h) insert—
+“(ha)
+regulation 46II(3);”;
+(f)
+after sub-paragraph (j) insert—
+“(ja)
+regulation 46XD(3);
+(jb)
+regulation 46XE(3) insofar as it relates to the prohibition at 46XE(1)(c);
+(jc)
+regulation 46XF(3) insofar as it relates to the prohibition at 46XF(1)(c);”.
+(3) After paragraph (3B) insert—
+“(3BA) In paragraph (3B)(ea) to (ec), “third country” means a country that is not the United Kingdom, the Isle of Man or Russia.
+(3BB) Paragraph (3A) also applies to the suspected commission of a relevant offence under regulation 55(2), insofar as the activity to which the suspected offence relates is the circumvention of, or enabling or facilitation of a contravention of, a prohibition in relation to an offence specified in paragraph (3B).”.
+(4) In paragraph (3C)—
+(a)
+for “Regulations 85(3A)” substitute “Paragraph (3A)”;
+(b)
+after “68(1),” insert “68(2),”.Amendment of regulation 88 (monetary penalties)
+20.  In regulation 88, for “is” substitute “and regulation 70A (designated persons: reporting obligations) are”.Amendment of regulation 88C (Treasury: power to impose penalties)
+21.—(1) Regulation 88C is amended as follows.
+(2) After paragraph (1) insert—
+“(1A) The Treasury may impose a monetary penalty on a person if they are satisfied, on the balance of probabilities, that the person has committed an offence under regulation 70A (designated persons: reporting obligations).”.
+(3) After paragraph (2) insert—
+“(2A) For the purposes of paragraph (1A), any requirement for the person to have acted without reasonable excuse, or with knowledge or recklessness, is to be ignored.”.
+(4) In paragraph (5), after “(1)” insert “, (1A)”.
+(5) After paragraph (6) insert—
+“(6A) Where it is possible to estimate the value of the funds or economic resources which the Treasury have not been informed of under regulation 70A(1), (2) or (5) (as the case may be), the permitted maximum is the greater of—
+(a)
+£1,000,000, and
+(b)
+50% of the value of the funds or economic resources which the Treasury have not been informed of.”.
+(6) In paragraph (10)(b)—
+(a)
+for “is satisfied” substitute “are satisfied”;
+(b)
+after “(1)” insert “, (1A)”.Amendment and insertion of Schedules
+22.—(1) Schedule 2A (critical-industry goods and critical-industry technology) is amended in accordance with paragraphs (2) to (8).
+(2) In Part 1A, at the end of the table insert—
+“Tungsten, tungsten carbide and alloys, not controlled by 1C117 or 1C226 of Annex 1 of the Dual-Use Regulation, containing more than 90 % tungsten by weight.
+Note 1: For the purpose of this control, wire is excluded.
+Note 2: For the purpose of this control, surgical or medical instruments are excluded.”
+(3) Part 2 is amended in accordance with paragraphs (4) to (8).
+(4) At the end of entry 3A991, insert—
+“p. Ceramic frequency filters;
+q. Cermet trimmers.”.
+(5) After entry 3B992 insert—
+“3B993 Equipment for the manufacture of Printed Circuit Boards (PCBs) and specially designed components and accessories therefor, as follows:
+a. Film processing equipment;
+b. Solder mask coating equipment;
+c. Photo plotter equipment;
+d. Plating or electroplating deposition equipment;
+e. Vacuum chambers and presses;
+f. Roll laminators;
+g. Alignment equipment;
+h. Etching equipment.
+3B994 Automated optical inspection equipment for testing Printed Circuit Boards (PCBs), based on optical or electrical sensors, and capable to detect any of the following quality defects:
+a. Spacing, area, volume or height;
+b. Bill boarding;
+c. Components (presence, absence, flipped, offset, polarity, or skew);
+d. Solder (bridging, insufficient solder joints);
+e. Leads (insufficient paste, lifting);
+f. Tombstoning; or
+g. Electrical (shorts, opens, resistance, capacitance, power, grid performance).”.
+(6) After entry 3C992 insert—
+“3C993 Chemicals and materials of the type used in the production of Printed Circuit Boards (PCBs), as follows:
+a. PCB composite substrates made of glass fibre or cotton (e.g. FR-4, FR-2, FR-6, CEM-1,G-10, etc.);
+b. Multilayer PCB substrates, containing at least one layer of any of the following materials:
+b.1. Aluminium;
+b.2. Polytetrafluoroethylene (PTFE); or
+b.3. Ceramic materials (e.g. alumina, titanium oxide, etc.);
+c. Etchant chemicals;
+c.1. Ferric chloride (7705-08-0);
+c.2. Cupric chloride (7447-39-4);
+c.3. Ammonium persulphate (7727-54-0);
+c.4. Sodium persulphate (7775-27-1);
+c.5. Chemical preparations specially designed for etching and containing any of the chemicals included in c.1 to c.4.
+Note: 3C993.c. does not control “chemical mixtures” containing one or more of the chemicals specified in entry c. in which no individually specified chemical constitutes more than 10 % by the weight of the mixture.
+d. Copper foil with a minimum purity 95 % and of a thickness less than 100 μm;
+e. Polymeric substances and films thereof of less than 0.5 mm of thickness, as follows:
+e.1. Aromatic polyimides;
+e.2. Parylenes;
+e.3. Benzocyclobutenes (BCBs);
+e.4. Polybenzoxazoles.”
+(7) After entry 3D991 insert—
+“3D992 “Software” specially designed for the test, “development” or “production” of Printed Circuit Boards (PCBs).”.
+(8) After entry 3E991 insert—
+“3E992 “Technology” for the “development”, “production” or “use” of Printed Circuit Boards (PCBs).”.
+(9) In Schedule 3A (luxury goods)—
+(a)
+in paragraph 17, insert in the appropriate place in the table—
+“8527 12 00 Pocket-size radio cassette”;
+(b)
+in paragraph 18, insert in the appropriate places in the table—
+“8703 21 Motor cars and other motor vehicles principally designed for the transport of <10 persons, including station wagons and racing cars, with only spark-ignition internal combustion reciprocating piston engine of a cylinder capacity <=1,000 cm³
+8703 22 Motor cars and other motor vehicles principally designed for the transport of <10 persons, including station wagons and racing cars, with only spark-ignition internal combustion reciprocating piston engine of a cylinder capacity >1,000 cm³ but <=1,500 cm³
+8703 31 Motor cars and other motor vehicles principally designed for the transport of <10 persons, including station wagons and racing cars, with only diesel engine of a cylinder capacity <=1,500 cm³”.
+(10) In Schedule 3B (iron and steel products)—
+(a)
+in the heading to Part 2, for “Part 3” substitute “Part 2”;
+(b)
+after Part 3, insert the Part 4 which is set out in Schedule 1 to these Regulations.
+(11) After Schedule 3B insert the Schedule 3BA which is set out in Schedule 2 to these Regulations.
+(12) Schedule 3C (defence and security goods and defence and security technology) is amended in accordance with paragraphs (13) to (16).
+(13) In Part 3, after paragraph 3 insert—
+“Other related goods
+3A.—(1) Any goods within commodity codes 9303 and 9304 not covered by paragraphs 1 to 3 above.
+(2) Paragraph 1 of Schedule 3 applies for the purposes of interpreting sub-paragraph (1).”.
+(14) Part 4 is amended in accordance with paragraphs (15) and (16).
+(15) In entry 1C991—
+(a)
+in c.1—
+(i)
+for “1C351.d.3” substitute “1C351.d.1”;
+(ii)
+for “1C351.d.6” substitute “1C351.d.3”;
+(b)
+in c.2—
+(i)
+for “1C351.d.3” substitute “1C351.d.1”;
+(ii)
+for “1C351.d.6” substitute “1C351.d.3”;
+(c)
+in d.1, for “1C351.d.3” substitute “1C351.d.1”;
+(d)
+in d.2, for “1C351.d.6” substitute “1C351.d.3”;
+(e)
+in d.3—
+(i)
+for “1C351.d.3” substitute “1C351.d.1”;
+(ii)
+for “1C351.d.6” substitute “1C351.d.3”.
+(16) In entry 1C995—
+(a)
+in a.1, for “10” substitute “30”;
+(b)
+in a.2, for “less than 30 per cent.” substitute “30 per cent. or less”;
+(c)
+in the table in a.2.b, after “Ammonium hydrogen fluoride” insert “or ammonium bifluoride”;
+(d)
+in b.1, for “the following concentrations of CWC Schedule 2” substitute “30 per cent. or less, by weight, of any single CWC Schedule 2”;
+(e)
+omit b.1.a and b.1.b;
+(f)
+in b.2, for “less than 30 per cent.” substitute “30 per cent. or less”;
+(g)
+in c., for “precursor chemicals controlled by the following” substitute “the following precursor chemicals”;
+(h)
+in the table in c.—
+(i)
+after “Ammonium hydrogen fluoride” insert “or ammonium bifluoride”;
+(ii)
+insert in the appropriate places the precursor chemicals specified in Schedule 3 to these Regulations.
+(17) Schedule 3E (G7 dependency and further goods) is amended in accordance with paragraphs (18) to (20).
+(18) In Part 2—
+(a)
+in paragraph 2, for “Any” substitute “Subject to paragraph 2A, any”;
+(b)
+after paragraph 2 but before the table insert—
+“2A.  Goods coming within commodity codes 8703 23, 8703 24, 8703 32 and 8703 33 do not include ambulances.”;
+(c)
+in the table, insert in the appropriate places the commodity codes and goods which are set out in Schedule 4 to these Regulations.
+(19) In Part 3, insert in the appropriate places the commodity codes and goods which are set out in Schedule 5 to these Regulations.
+(20) After Part 3, insert the Part 4 which is set out in Schedule 6 to these Regulations.
+(21) Schedule 5 (Treasury licences: purposes) is amended in accordance with paragraphs (22) and (23).
+(22) After Part 1 insert—
+“PART 1ZA
+Divestment etc.
+Interpretation of Part 1ZA
+9DA.  In this Part—
+“designated person”, “frozen account” and “relevant institution” have the respective meanings given in regulation 58(7);
+“Government of Russia” has the same meaning as in regulation 6;
+“non-UK country” means a country that is not the United Kingdom;
+“non-UK credit or financial institution” has the same meaning as in regulation 17A;
+“person concerned” means the Government of Russia or, as the case may be, a designated person;
+“UK entity” means a person, other than an individual, incorporated or constituted under the law of any part of the United Kingdom.
+Divestment
+9DB.—(1) To enable anything to be done by a UK entity to enable that entity to undertake a relevant transfer.
+(2) In sub-paragraph (1), a “relevant transfer” means a transfer of funds or economic resources located in Russia and owned, held or controlled by the UK entity, to a person concerned in order to enable that entity to divest itself, either wholly or partially, of those funds or economic resources.
+(3) Where sub-paragraph (4) applies, to enable anything to be done by a UK entity in order to allow that entity to acquire from a person concerned an interest in that entity held by that person.
+(4) This sub-paragraph applies where—
+(a)
+the sole consideration for that acquisition is a transfer of funds from the UK entity to the person concerned;
+(b)
+such funds are credited to—
+(i)
+a frozen account held by a relevant institution; or
+(ii)
+an account held by a non-UK credit or financial institution in a non-UK country; and
+(c)
+where paragraph (b)(ii) applies, the law of that non-UK country—
+(i)
+contains relevant and appropriate—
+(aa)
+prohibitions corresponding to those in Part 3 of these Regulations; and
+(bb)
+exceptions corresponding to those in Part 7 of these Regulations; and
+(ii)
+where relevant or appropriate, allows for licences to be granted on grounds corresponding to those in this Schedule.
+Enabling others to divest themselves of funds or economic resources
+9DC.—(1) To enable anything to be done by a UK entity in order to enable another person (“B”) to undertake a relevant transfer.
+(2) In sub-paragraph (1), a “relevant transfer” means a transfer of funds or economic resources located in Russia and owned, held or controlled by B, to a person concerned, in order to enable B to divest itself, either wholly or partially, of those funds or economic resources.
+(3) Where sub-paragraph (4) applies, to enable anything to be done by a UK entity in order to enable B to acquire from a person concerned an interest in B held by the person concerned.
+(4) This sub-paragraph applies where—
+(a)
+the sole consideration for that acquisition is a transfer of funds from B to the person concerned;
+(b)
+such funds are credited to—
+(i)
+a frozen account held by a relevant institution; or
+(ii)
+an account held by a non-UK credit or financial institution in a non-UK country; and
+(c)
+where paragraph (b)(ii) applies, the law of that non-UK country—
+(i)
+contains relevant and appropriate—
+(aa)
+prohibitions corresponding to those in Part 3 of these Regulations; and
+(bb)
+exceptions corresponding to those in Part 7 of these Regulations; and
+(ii)
+where relevant or appropriate, allows for licences to be granted on grounds corresponding to those in this Schedule.”.
+(23) In Part 1C—
+(a)
+for the heading substitute “Processing payments”;
+(b)
+after paragraph 9T insert—
+“Other licensing purposes
+9TA.  To enable anything to be done in connection with a licence which the Treasury has decided to issue for another purpose specified in this Schedule.”.
+(24) Schedule 7 omits commodity codes and the descriptions of items associated with those codes.Minor consequential amendments
+23.—(1) In the provisions specified in paragraph (2), for “(correspondent banking relationships etc.)”, substitute “(corresponding banking relationships and processing payments)”.
+(2) Those provisions are—
+(a)
+regulation 5(1)(aa) and (1A)(b);
+(b)
+regulation 19A(3);
+(c)
+regulation 62A(1);
+(d)
+regulation 64(1); and
+(e)
+regulation 72(5)(c).
+(3) In the heading to Part 1B of Schedule 5, for “etc.” substitute “and processing payments”.Anne-Marie Trevelyan
+Minister of State
+Foreign, Commonwealth and Development Office
+12th December 2023Regulation 22(10)
+SCHEDULE 1
+New Part 4 of Schedule 3B
+“PART 4
+Specified products for the purposes of Part 4
+4.  Any thing falling within a commodity code mentioned in column 1 of the following table—
+Commodity code Description
+7201 Pig iron and spiegeleisen in pigs, blocks or other primary forms
+7202 Ferro-alloys
+7203 Ferrous products obtained by direct reduction of iron ore and other spongy ferrous products, in lumps, pellets or similar forms; iron having a minimum purity by weight of 99.94%, in lumps, pellets or similar forms
+7204 Ferrous waste and scrap; remelting scrap ingots of iron and steel
+7205 Granules and powders, of pig iron, spiegeleisen, iron or steel”Regulation 22(11)
+SCHEDULE 2
+New Schedule 3BA
+Regulation 46IF(1)
+“SCHEDULE 3BA
+Metals
+PART 1
+Interpretation
+1.  Paragraph 1 of Schedule 3 applies for the purposes of interpreting Part 2.
+PART 2
+Specified products for the purposes of this Schedule
+2.  Any thing falling within a commodity code mentioned in column 1 of the following table.
+Commodity code (1) Description (2)
+74 Copper and articles thereof
+75 Nickel and articles thereof
+76 Aluminium and articles thereof
+78 Lead and articles thereof
+79 Zinc and articles thereof
+80 Tin and articles thereof
+8101 Tungsten (wolfram) and articles thereof, including waste and scrap
+8102 Molybdenum and articles thereof, including waste and scrap
+8103 Tantalum and articles thereof, including waste and scrap
+8104 Magnesium and articles thereof, including waste and scrap
+8105 Cobalt mattes and other intermediate products of cobalt metallurgy, cobalt and articles thereof, including waste and scrap
+8106 Bismuth and articles thereof, including waste and scrap
+8109 Zirconium and articles thereof, including waste and scrap
+8110 Antimony and articles thereof, including waste and scrap
+8111 Manganese and articles thereof, including waste and scrap
+8112 Beryllium, chromium. hafnium, rhenium, thallium, cadmium, germanium, vanadium, gallium, indium and niobium (columbium) and articles of these metals, including waste and scrap
+8113 Cermets and articles thereof, including waste and scrap
+82 Tools, implements, cutlery, spoons and forks of base metal; parts thereof of base metal
+83 Miscellaneous articles of base metal”Regulation 22(16)(h)
+SCHEDULE 3
+New entries in table in 1C995 c. in Part 4 of Schedule 3C
+“Chemical name CAS Number Regulation 53A applies?
+Arsenic trichloride 7784-34-1
+Benzilic Acid 76-93-7
+Diethyl ethylphosphonate; 78-38-6
+Diethyl methylphosphonate; 683-08-9
+Diethyl methylphosphonite 15715-41-0
+Diethyl-N,N-dimethylphosphoroamidate; 2404-03-7
+N,N-Diisopropylaminoethanethiol hydrochloride; 41480-75-5
+N,N-Diisopropyl-beta-aminoethane thiol; 5842-07-9
+N,N-Diisopropyl-beta-aminoethanol; 96-80-0
+N,N-Diisopropyl-beta-aminoethyl chloride; 96-79-7
+N,N-Diisopropyl-beta-aminoethyl chloride hydrochloride; 4261-68-1
+Dimethyl ethylphosphonate; 6163-75-3
+Dimethyl methylphosphonate; 756-79-6
+N,N-dimethylamino-phosphoryl dichloride; 677-43-0
+Ethyl phosphonous dichloride [Ethyl phosphinyl dichloride]; 1498-40-4
+Ethyl phosphonus difluoride [Ethyl phosphinyl difluoride]; 430-78-4
+Ethyl phosphonyl dichloride; 1066-50-8
+Methylphosphonic acid; 993-13-5
+Methylphosphonothioic dichloride. 676-98-2
+Pinacolyl alcohol; 464-07-3
+3-Quinuclidinol; 1619-34-7
+Thiodiglycol. 111-48-8
+Diethyl phosphite; 762-04-9
+Dimethyl phosphite (dimethyl hydrogen phosphite); 868-85-9
+Ethyldiethanolamine; 139-87-7
+Phosphorus oxychloride; 10025-87-3
+Phosphorus pentachloride; 10026-13-8
+Phosphorus trichloride; 7719-12-2
+Sulfur dichloride; 10545-99-0
+Sulfur monochloride; 10025-67-9
+Thionyl chloride; 7719-09-7
+Triethanolamine; 102-71-6
+Triethyl phosphite; 122-52-1
+Trimethyl phosphite. 121-45-9”Regulation 22(18)(c)
+SCHEDULE 4
+Insertion of commodity codes and goods into Part 2 of Schedule 3E
+“Commodity code Item
+2508 10 Bentonite
+2508 30 Fireclay (excluding kaolin and other kaolinic clays and expanded clay)
+2508 50 Andalusite, kyanite and sillimanite
+2508 60 Mullite
+2515 11 Marble and travertine, crude or roughly trimmed
+2522 20 Slaked lime
+2525 10 Crude mica and mica rifted into sheets or splittings
+2525 30 Mica waste
+2526 10 Natural steatite, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a square or rectangular shape, and talc, uncrushed or unpowdered
+2708 10 Pitch obtained from coal tar or from other mineral tars
+2712 20 Paraffin wax containing < 0.75% by weight of oil
+2804 50 Boron; tellurium
+2804 69 Silicon containing < 99.99% by weight of silicon
+2804 70 Phosphorus
+2804 90 Selenium
+2819 10 Chromium trioxide
+2820 90 Manganese oxides (excluding manganese dioxide)
+2839 11 Metasilicates of sodium, including commercial metasilicates
+2839 19 Silicates of sodium, including commercial silicates (excluding sodium metasilicates)
+2843 90 Inorganic or organic compounds of precious metals, whether or not chemically defined (excluding silver and gold); amalgams of precious metals
+2901 10 Saturated acyclic hydrocarbons
+2901 21 Ethylene
+2901 22 Propene “propylene”
+2902 19 Cyclanes, cyclenes and cycloterpenes (excluding cyclohexane)
+2902 20 Benzene
+2902 42 M-xylene
+2902 60 Ethylbenzene
+2902 70 Cumene
+2902 90 Cyclic hydrocarbons (excluding cyclanes, cyclenes, benzene, toluene, xylenes, styrene, ethylbenzene and cumene)
+2903 Halogenated derivatives of hydrocarbons
+2904 Sulphonated, nitrated or nitrosated derivatives of hydrocarbons, whether or not halogenated
+2906 11 Menthol
+2906 12 Cyclohexanol, methylcyclohexanols and dimethylcyclohexanols
+2906 21 Benzyl alcohol
+2906 29 Aromatic cyclic alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives (excluding benzyl alcohol)
+2907 12 Cresols and their salts
+2907 15 Naphthols and their salts
+2907 21 Resorcinol and its salts
+2907 23 4,4’-isopropylidenediphenol “bisphenol a, diphenylolpropane” and its salts
+2907 29 Polyphenols and phenol-alcohols (excluding resorcinol and hydroquinone “quinol” and their salts, and 4,4’-isopropylidenediphenol “bisphenol a, diphenylolpropane” and its salts)
+2909 11 Diethyl ether
+2909 19 Acyclic ethers and their halogenated, sulphonated, nitrated or nitrosated derivatives (excluding diethyl ether)
+2909 30 Aromatic ethers and their halogenated, sulphonated, nitrated or nitrosated derivatives
+2909 44 Monoalkylethers of ethylene glycol or of diethylene glycol (excluding monobutyl ethers)
+2909 50 Ether-phenols, ether-alcohol-phenols and their halogenated, sulphonated, nitrated or nitrosated derivatives
+2909 60 Alcohol peroxides, ether peroxides, ketone peroxides and their halogenated, sulphonated, nitrated or nitrosated derivatives
+2910 30 1-chloro-2,3-epoxypropane “epichlorohydrin”
+2910 40 Dieldrin (iso) (inn)
+2910 50 Endrin (iso)
+2910 90 Epoxides, epoxyalcohols, epoxyphenols and epoxyethers, with a three-membered ring, and their halogenated, sulphonated, nitrated or nitrosated derivatives (excluding oxirane “ethylene oxide”, methyloxirane “propylene oxide”, 1-chloro-2,3-epoxypropane “epichlorohydrin”, dieldrin (iso, inn) and endrin (iso))
+2912 11 Methanal “formaldehyde”
+2912 19 Acyclic aldehydes, without other oxygen function (excluding methanal (formaldehyde) and ethanal (acetaldehyde))
+2912 21 Benzaldehyde
+2912 29 Cyclic aldehydes, without other oxygen function (excluding benzaldehyde)
+2912 41 Vanillin “4-hydroxy-3-methoxybenzaldehyde”
+2912 42 Ethylvanillin “3-ethoxy-4-hydroxybenzaldehyde”
+2912 50 Cyclic polymers of aldehydes
+2916 11 Acrylic acid and its salts
+2916 16 Binapacryl (iso)
+2916 19 Unsaturated acyclic monocarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and halogenated, sulphonated, nitrated or nitrosated derivatives (excluding acrylic acid and its salts and esters, methacrylic acid and its salts and esters, and oleic, linoleic or linolenic acids, their salts and esters, and binapacryl (iso))
+2916 20 Cyclanic, cyclenic or cycloterpenic monocarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and their halogenated, sulphonated, nitrated or nitrosated derivatives (excluding inorganic or organic compounds of mercury)
+2916 31 Benzoic acid, its salts and esters (excluding inorganic or organic compounds of mercury)
+2916 32 Benzoyl peroxide and benzoyl chloride
+2916 34 Phenylacetic acid and its salts
+2916 39 Aromatic monocarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and their halogenated, sulphonated, nitrated or nitrosated derivatives (excluding benzoic acid, its salts and esters, benzoyl peroxide, benzoyl chloride, phenylacetic acid and its salts, and inorganic or organic compounds of mercury whether or not chemically defined)
+3201 10 Quebracho extract
+3201 20 Wattle extract
+3702 10 Photographic film in rolls, unexposed, for x-ray (excluding that of paper, paperboard or textiles)
+3702 31 Photographic film “including instant print film”, in rolls, sensitised, unexposed, without perforations, width <= 105 mm, for colour photography “polychrome” (excluding that of paper, paperboard or textiles)
+3702 41 Photographic film “including instant print film”, sensitised, in rolls, unexposed, without perforations, width > 610 mm, length > 200 m, for colour photography “polychrome” (excluding that of paper, paperboard or textiles)
+3702 42 Photographic film “including instant print film”, sensitised, in rolls, unexposed, without perforations, width > 610 mm, length > 200 m, for monochrome photography (excluding that of paper, paperboard or textiles)
+3702 52 Photographic film, sensitised, in rolls, unexposed, with perforations, for colour photography “polychrome”, width <= 16 mm (excluding of paper, paperboard or textiles)
+3702 53 Photographic film, sensitised, in rolls, unexposed, with perforations, for colour photography “polychrome”, width > 16 mm to 35 mm, length <= 30 m, for slides
+3702 54 Photographic film, sensitised, in rolls, unexposed, with perforations, for colour photography “polychrome”, width > 16 mm but <= 35 mm, length <= 30 m (excluding of paper, paperboard and textiles; for slides)
+3702 96 Photographic film, sensitised, in rolls, unexposed, with perforations, for monochrome photography, width <= 35 mm, length <= 30 m (excluding of paper, paperboard and textiles; x-ray film)
+3703 10 Photographic paper, paperboard and textiles, sensitised, unexposed, in rolls > 610 mm wide
+3706 90 Cinematographic film, exposed and developed, whether or not incorporating soundtrack or consisting only of soundtrack, width < 35 mm
+3810 90 Fluxes and other auxiliary preparations for soldering, brazing or welding; preparations of a kind used as cores or coatings for welding electrodes or rods (excluding soldering, brazing or welding powders and pastes consisting of metal and other materials, and welding electrodes or rods of base metals or metal carbides coated with fluxes)
+3811 Anti-knock preparations, oxidation inhibitors, gum inhibitors, viscosity improvers, anti-corrosive preparations and other prepared additives, for mineral oils (including gasoline) or for other liquids used for the same purposes as mineral oils
+3905 30 Poly “vinyl alcohol”, in primary forms, whether or not containing unhydrolyzed acetate groups
+3905 99 Polymers of vinyl esters and other vinyl polymers, in primary forms (excluding those of vinyl chloride or other halogenated olefins, poly “vinyl acetate”, vinyl acetate copolymers and poly “vinyl alcohol”, whether or not containing unhydrolised acetate groups)
+4002 19 Styrene-butadiene rubber “sbr”; carboxylated styrene-butadiene rubber “xsbr”, in primary forms or in plates, sheets or strip (excluding latex)
+4002 49 Chloroprene “chlorobutadiene rubber, cr”, in primary forms or in plates, sheets or strip (excluding latex)
+4002 59 Acrylonitrile-butadiene rubber “nbr”, in primary forms or in plates, sheets or strip (excluding latex)
+4002 60 Isoprene rubber “ir”, in primary forms or in plates, sheets or strip
+4002 70 Ethylene-propylene diene rubber “epdm”, non-conjugated, in primary forms or in plates, sheets or strip
+4006 90 Rods, bars, tubes, profiles and other forms of unvulcanised rubber, including mixed rubber, and articles of unvulcanised rubber, including mixed rubber (excluding plates, sheets and strip which, apart from basic surface-working, have not been cut, or have merely been cut into square or rectangular shapes, and “camel-back” strips)
+4010 11 Conveyor belts or belting, of vulcanised rubber, reinforced only with metal
+4010 12 Conveyor belts or belting, of vulcanised rubber, reinforced only with textile materials
+4010 19 Conveyor belts or belting, of vulcanised rubber (excluding reinforced only with metal or only with textile materials)
+4010 32 Endless transmission belts of trapezoidal cross-section “v-belts”, of vulcanised rubber, of an outside circumference > 60 cm but <= 180 cm (excluding v-ribbed)
+4010 34 Endless transmission belts of trapezoidal cross-section “v-belts”, of vulcanised rubber, of an outside circumference > 180 cm but <= 240 cm (excluding v-ribbed)
+4011 20 New pneumatic tyres, of rubber, of a kind used on aircraft
+4011 30 New pneumatic tyres, of rubber, of a kind used for buses and lorries (excluding tyres with lug, corner or similar treads
+4012 12 Retreaded pneumatic tyres, of rubber, of a kind used on buses or lorries
+4012 90 Solid or cushion tyres, interchangeable tyre treads and tyre flaps, of rubber
+4407 Wood sawn or chipped lengthwise, sliced or peeled, whether or not planed, sanded or end-jointed, of a thickness exceeding 6 mm
+4412 Plywood, veneered panels and similar laminated wood
+4503 90 Articles of natural cork (excluding cork in square or rectangular blocks, plates, sheets or strips; corks, stoppers and cork blanks; footwear and parts thereof; insoles, whether or not removable; headgear and parts thereof; plugs and dividers for shotgun cartridges; toys, games and sports equipment and parts thereof)
+4504 90 Agglomerated cork, with or without a binding substance, and articles of agglomerated cork (excluding footwear and parts thereof; insoles, whether or not removable; headgear and parts thereof; plugs and dividers for shotgun cartridges; toys, games and sports equipment and parts thereof; blocks, plates, sheets or strips; tiles of any shape; solid cylinders, including discs)
+4703 11 Unbleached coniferous chemical wood pulp, soda or sulphate (excluding dissolving grades)
+4704 19 Unbleached non-coniferous chemical wood pulp, sulphite (excluding dissolving grades)
+4706 20 Pulps of fibres derived from recovered “waste and scrap” paper or paperboard
+4706 91 Mechanical pulp of fibrous cellulosic material (excluding that of bamboo, wood, cotton linters and fibres derived from recovered (waste and scrap) paper or paperboard))
+4706 93 Semi-chemical pulp of fibrous cellulosic material (excluding that of bamboo, wood, cotton linters and fibres derived from recovered (waste and scrap) paper or paperboard))
+4707 20 Recovered “waste and scrap” paper or paperboard made mainly of bleached chemical pulp, not coloured in the mass
+4707 90 Recovered “waste and scrap” paper or paperboard, including unsorted waste and scrap (excluding waste and scrap of unbleached kraft paper or kraft paperboard, or of corrugated paper or corrugated paperboard, that of paper or paperboard made mainly of bleached chemical pulp not coloured in the mass, that of paper or paperboard made mainly of mechanical pulp, and paper wool)
+4804 51 Unbleached kraft paper and paperboard, uncoated, in rolls of a width > 36 cm or in square or rectangular sheets with one side > 36 cm and the other side > 15 cm in the unfolded state, weighing >= 225 g/m² (excluding kraftliner, sack kraft paper and goods of heading 4802, 4803 or 4808)
+4805 11 Semi-chemical fluting paper, uncoated, in rolls of a width > 36 cm
+4805 12 Straw fluting paper, in rolls of a width > 36 cm, weighing >= 130 g/m²
+4805 19 Fluting paper, uncoated, in rolls of a width > 36 cm or in square or rectangular sheets with one side > 36 cm and the other side > 15 cm in the unfolded state (excluding semi-chemical fluting paper and straw fluting paper)
+4805 30 Sulphite wrapping paper, uncoated, in rolls of a width > 36 cm or in square or rectangular sheets with one side > 36 cm and the other side > 15 cm in the unfolded state
+4805 50 Felt paper and paperboard, in rolls of a width > 36 cm or in square or rectangular sheets with one side > 36 cm and the other side > 15 cm in the unfolded state
+4805 93 Paper and paperboard, uncoated, in rolls of a width > 36 cm or in square or rectangular sheets with one side > 36 cm and the other side > 15 cm in the unfolded state, weighing >= 225 g/m², n.e.s.
+4808 10 Corrugated paper and paperboard “with or without glued flat surface sheets”, whether or not perforated, in rolls of a width > 36 cm or in square or rectangular sheets with one side > 36 cm and the other side > 15 cm in the unfolded state
+4808 40 Kraft paper, creped or crinkled, whether or not embossed or perforated, in rolls of a width > 36 cm or in square or rectangular sheets with one side > 36 cm and the other side > 15 cm in the unfolded state
+4809 90 Transfer papers, including coated or impregnated paper for duplicator stencils or offset plates, whether or not printed, in rolls of a width > 36 cm or in square or rectangular sheets with one side > 36 cm and the other side > 15 cm in the unfolded state (excluding self-copy paper)
+4810 14 Paper and paperboard used for writing, printing or other graphic purposes, not containing fibres obtained by a mechanical or chemi-mechanical process or of which <= 10% by weight of the total fibre content consists of such fibres, coated on one or both sides with kaolin or other inorganic substances, in square or rectangular sheets with one side <= 435 mm and the other side <= 297 mm in the unfolded state
+4810 29 Paper and paperboard used for writing, printing or other graphic purposes, of which > 10% by weight of the total fibre content consists of fibres obtained by a mechanical or chemi-mechanical process, coated on one or both sides with kaolin or other inorganic substances, in rolls or in square or rectangular sheets, of any size (excluding lightweight paper)
+4810 32 Kraft paper and paperboard, bleached uniformly throughout the mass and containing > 95% chemically processed wood fibres by weight in relation to the total fibre content, coated on one or both sides with kaolin or other inorganic substances, in rolls or in square or rectangular sheets, of any size, weighing > 150 g/m² (excluding that for writing, printing or other graphic purposes)
+4822 90 Bobbins, spools, cops and similar supports of paper pulp, paper or paperboard, whether or not perforated or hardened (excluding those for winding textile yarn)
+4823 61 Trays, dishes, plates, cups and the like, of bamboo paper or bamboo paperboard
+4823 69 Trays, dishes, plates, cups and the like, of paper or paperboard (excluding of bamboo paper or bamboo paperboard)
+4823 90 Paper, paperboard, cellulose wadding and webs of cellulose fibres, in strips or rolls of a width <= 36 cm, in rectangular or square sheets, of which no side > 36 cm in the unfolded state, or cut to shape other than rectangular or square, and articles of paper pulp, paper, cellulose wadding or webs of cellulose fibres, n.e.s.
+5105 10 Wool, carded
+5105 21 Wool, combed, in fragments “open tops”
+5105 29 Wool, combed (excluding that in fragments “open tops”)
+5105 31 Hair of kashmir “cashmere” goats, carded or combed
+5107 10 Yarn of combed wool containing >= 85% wool by weight (excluding that put up for retail sale)
+5112 20 Woven fabrics containing predominantly, but < 85% combed wool or combed fine animal hair by weight, mixed principally or solely with synthetic or artificial filaments (excluding fabrics for technical uses of heading 5911)
+5112 30 Woven fabrics containing predominantly, but < 85% combed wool or combed fine animal hair by weight, mixed principally or solely with synthetic or artificial staple fibres (excluding fabrics for technical uses of heading 5911)
+5112 90 Woven fabrics containing predominantly, but < 85% combed wool or combed fine animal hair by weight (excluding those mixed principally or solely with synthetic or artificial filaments or staple fibres and fabrics for technical uses of heading 5911)
+5205 11 Single cotton yarn, of uncombed fibres, containing >= 85% cotton by weight and with a linear density of >= 714.29 decitex “<= mn 14” (excluding sewing thread and yarn put up for retail sale)
+5205 12 Single cotton yarn, of uncombed fibres, containing >= 85% cotton by weight and with a linear density of 232.56 decitex to < 714.29 decitex “> mn 14 to mn 43” (excluding sewing thread and yarn put up for retail sale)
+5205 13 Single cotton yarn, of uncombed fibres, containing >= 85% cotton by weight and with a linear density of 192.31 decitex to < 232.56 decitex “> mn 43 to mn 52” (excluding sewing thread and yarn put up for retail sale)
+5205 14 Single cotton yarn, of uncombed fibres, containing >= 85% cotton by weight and with a linear density of 125 decitex to < 192.31 decitex “> mn 52 to mn 80” (excluding sewing thread and yarn put up for retail sale)
+5205 15 Single cotton yarn, of uncombed fibres, containing >= 85% cotton by weight and with a linear density of < 125 decitex “> mn 80” (excluding sewing thread and yarn put up for retail sale)
+5205 22 Single cotton yarn, of combed fibres, containing >= 85% cotton by weight and with a linear density of 232.56 decitex to < 714.29 decitex “> mn 14 to mn 43” (excluding sewing thread and yarn put up for retail sale)
+5205 23 Single cotton yarn, of combed fibres, containing >= 85% cotton by weight and with a linear density of 192.31 decitex to < 232.56 decitex “> mn 43 to mn 52” (excluding sewing thread and yarn put up for retail sale)
+5205 24 Single cotton yarn, of combed fibres, containing >= 85% cotton by weight and with a linear density of 125 decitex to < 192.31 decitex “> mn 52 to mn 80” (excluding sewing thread and yarn put up for retail sale)
+5205 26 Single cotton yarn, of combed fibres, containing >= 85% cotton by weight and with a linear density of 106.38 decitex to < 125 decitex “> mn 80 to mn 94” (excluding sewing thread and yarn put up for retail sale)
+5205 27 Single cotton yarn, of combed fibres, containing >= 85% cotton by weight and with a linear density of 83.33 decitex to < 106.38 decitex “> mn 94 to mn 120” (excluding sewing thread and yarn put up for retail sale)
+5205 31 Multiple “folded” or cabled cotton yarn, of uncombed fibres, containing >= 85% cotton by weight and with a linear density of >= 714.29 decitex “<= mn 14” per single yarn (excluding sewing thread and yarn put up for retail sale)
+5205 32 Multiple “folded” or cabled cotton yarn, of uncombed fibres, containing >= 85% cotton by weight and with a linear density of 232.56 decitex to < 714.29 decitex “> mn 14 to mn 43” per single yarn (excluding sewing thread and yarn put up for retail sale)
+5205 33 Multiple “folded” or cabled cotton yarn, of uncombed fibres, containing >= 85% cotton by weight and with a linear density of 192.31 decitex to < 232.56 decitex “> mn 43 to mn 52” per single yarn (excluding sewing thread and yarn put up for retail sale)
+5205 34 Multiple “folded” or cabled cotton yarn, of uncombed fibres, containing >= 85% cotton by weight and with a linear density of 125 decitex to < 192.31 decitex “> mn 52 to mn 80” per single yarn (excluding sewing thread and yarn put up for retail sale)
+5205 35 Multiple “folded” or cabled cotton yarn, of uncombed fibres, containing >= 85% cotton by weight and with a linear density of < 125 decitex “> mn 80” per single yarn (excluding sewing thread and yarn put up for retail sale)
+5205 42 Multiple “folded” or cabled cotton yarn, of combed fibres, containing >= 85% cotton by weight and with a linear density of 232.56 decitex to < 714.29 decitex “> mn 14 to mn 43” per single yarn (excluding sewing thread and yarn put up for retail sale)
+5205 43 Multiple “folded” or cabled cotton yarn, of combed fibres, containing >= 85% cotton by weight and with a linear density of 192.31 decitex to < 232.56 decitex “> mn 43 to mn 52” per single yarn (excluding sewing thread and yarn put up for retail sale)
+5205 44 Multiple “folded” or cabled cotton yarn, of combed fibres, containing >= 85% cotton by weight and with a linear density of 125 decitex to < 192.31 decitex “> mn 52 to mn 80” per single yarn (excluding sewing thread and yarn put up for retail sale)
+5205 46 Multiple “folded” or cabled cotton yarn, of combed fibres, containing >= 85% cotton by weight and with a linear density of 106.38 decitex to < 125 decitex “> mn 80 to mn 94” per single yarn (excluding sewing thread and yarn put up for retail sale)
+5205 47 Multiple “folded” or cabled cotton yarn, of combed fibres, containing >= 85% cotton by weight and with a linear density of 83.33 decitex to < 106.38 decitex “> mn 94 to mn 120” per single yarn (excluding sewing thread and yarn put up for retail sale)
+5205 48 Multiple “folded” or cabled cotton yarn, of combed fibres, containing >= 85% cotton by weight and with a linear density of < 83.33 decitex “> mn 120” per single yarn (excluding sewing thread and yarn put up for retail sale)
+5211 11 Plain woven fabrics of cotton, containing predominantly, but < 85% cotton by weight, mixed principally or solely with man-made fibres and weighing > 200 g/m², unbleached
+5211 12 Woven fabrics of cotton, containing predominantly, but < 85% cotton by weight, mixed principally or solely with man-made fibres and weighing > 200 g/m², in three-thread or four-thread twill, including cross twill, unbleached
+5211 20 Woven fabrics of cotton, containing predominantly, but < 85% cotton by weight, mixed principally or solely with man-made fibres and weighing > 200 g/m², bleached
+5211 31 Plain woven fabrics of cotton, containing predominantly, but < 85% cotton by weight, mixed principally or solely with man-made fibres and weighing > 200 g/m², dyed
+5211 32 Woven fabrics of cotton, containing predominantly, but < 85% cotton by weight, mixed principally or solely with man-made fibres and weighing > 200 g/m², in three-thread or four-thread twill, including cross twill, dyed
+5211 39 Woven fabrics of cotton, containing predominantly, but < 85% cotton by weight, mixed principally or solely with man-made fibres and weighing > 200 g/m², dyed (excluding those in three-thread or four-thread twill, including cross twill, and plain woven fabrics)
+5211 41 Plain woven fabrics of cotton, containing predominantly, but < 85% cotton by weight, mixed principally or solely with man-made fibres and weighing > 200 g/m², made of yarn of different colours
+5211 42 Denim, containing predominantly, but < 85% cotton by weight, mixed principally or solely with man-made fibres and weighing > 200 g/m², made of yarn of different colours
+5211 43 Woven fabrics of cotton, containing predominantly, but < 85% cotton by weight, mixed principally or solely with man-made fibres and weighing > 200 g/m², in three-thread or four-thread twill, including cross twill, made of yarn of different colours
+5211 49 Woven fabrics of cotton, containing predominantly, but < 85% cotton by weight, mixed principally or solely with man-made fibres and weighing > 200 g/m², made of yarn of different colours (excluding those in three-thread or four-thread twill, including cross twill, and plain woven fabrics)
+5211 52 Woven fabrics of cotton, containing predominantly, but < 85% cotton by weight, mixed principally or solely with man-made fibres and weighing > 200 g/m², in three-thread or four-thread twill, including cross twill, printed
+5308 10 Coconut “coir” yarn
+5308 90 Yarn of vegetable textile fibres (excluding flax yarn, yarn of jute or of other textile bast fibres of heading 5303, coconut “coir” yarn, hemp yarn and cotton yarn)
+5403 10 High-tenacity yarn of viscose rayon filament (excluding sewing thread and yarn put up for retail sale)
+5403 31 Yarn of viscose rayon filament, including monofilament of < 67 decitex, single, untwisted or with a twist of <= 120 turns per metre (excluding sewing thread, high-tenacity yarn and yarn put up for retail sale)
+5403 32 Yarn of viscose rayon filament, including monofilament of < 67 decitex, single, with a twist of > 120 turns per metre (excluding sewing thread, high-tenacity yarn and yarn put up for retail sale)
+5403 39 Artificial filament yarn, including artificial monofilament of < 67 decitex, single (excluding sewing thread, filament yarn of viscose or cellulose acetate and yarn put up for retail sale)
+5403 41 Multiple “folded” or cabled filament yarn of viscose rayon, including monofilament of < 67 decitex (excluding sewing thread, high-tenacity yarn and yarn put up for retail sale)
+5403 49 Multiple “folded” or cabled artificial filament yarn, including artificial monofilament of < 67 decitex (excluding sewing thread, filament yarn of viscose or cellulose acetate and yarn put up for retail sale)
+5404 11 Elastomeric monofilament of >= 67 decitex and with a cross sectional dimension of <= 1 mm
+5501 11 Filament tow as specified in note 1 to chapter 55, of aramids
+5501 19 Filament tow as specified in note 1 to chapter 55, of nylon or other polyamides (excluding of aramids)
+5501 20 Filament tow as specified in note 1 to chapter 55, of polyesters
+5501 30 Filament tow as specified in note 1 to chapter 55, acrylic or modacrylic
+5501 40 Synthetic filament tow as specified in note 1 to chapter 55, of polypropylene
+5502 90 Artificial filament tow, as specified in note 1 to chapter 55 (excluding of acetate)
+5503 11 Staple fibres of aramids, not carded, combed or otherwise processed for spinning
+5503 20 Staple fibres of polyesters, not carded, combed or otherwise processed for spinning
+5503 30 Acrylic or modacrylic staple fibres, not carded, combed or otherwise processed for spinning
+5503 90 Synthetic staple fibres, not carded, combed or otherwise processed for spinning (excluding those of polypropylene, acrylic, modacrylic, polyesters, nylon or other polyamides)
+5506 10 Staple fibres of nylon or other polyamides, carded, combed or otherwise processed for spinning
+5506 20 Staple fibres of polyesters, carded, combed or otherwise processed for spinning
+5506 30 Acrylic or modacrylic staple fibres, carded, combed or otherwise processed for spinning
+5506 90 Synthetic staple fibres carded, combed or otherwise processed for spinning (excluding acrylic, modacrylic, polyester, polypropylene, nylon or other polyamides)
+5516 Woven fabrics of artificial staple fibres
+5604 10 Textile-covered rubber thread and cord
+5901 90 Tracing cloth; prepared painting canvas; buckram and similar stiffened textile fabrics of a kind used for hat foundations (excluding plastic-coated textile fabrics)
+6003 10 Knitted or crocheted fabrics of wool or fine animal hair, of a width of <= 30 cm (excluding those containing by weight >= 5% of elastomeric yarn or rubber thread, and pile fabrics, including “long pile”, looped pile fabrics, labels, badges and similar articles, and knitted or crocheted fabrics, impregnated, coated, covered or laminated)
+6003 20 Knitted or crocheted fabrics of cotton, of a width of <= 30 cm (excluding those containing by weight >= 5% of elastomeric yarn or rubber thread, and pile fabrics, including “long pile”, looped pile fabrics, labels, badges and similar articles, and knitted or crocheted fabrics, impregnated, coated, covered or laminated)
+6003 30 Knitted or crocheted fabrics of synthetic fibres, of a width of <= 30 cm (excluding those containing by weight >= 5% of elastomeric yarn or rubber thread, and pile fabrics, including “long pile”, looped pile fabrics, labels, badges and similar articles, knitted or crocheted fabrics, impregnated, coated, covered or laminated, and sterile surgical or dental adhesion barriers of subheading 3006.10.30)
+6003 90 Knitted or crocheted fabrics of a width of <= 30 cm (excluding of cotton, man-made fibres, wool or fine animal hair, those containing by weight >= 5% of elastomeric yarn or rubber thread, and pile fabrics, including “long pile”, looped pile fabrics, labels, badges and similar articles, knitted or crocheted fabrics, impregnated, coated, covered or laminated, and sterile surgical or dental adhesion barriers of subheading 3006.10.30))
+6806 20 Exfoliated vermiculite, expanded clays, foamed slag and similar expanded mineral materials, including intermixtures thereof
+6811 40 Articles of asbestos-cement, cellulose fibre-cement or the like, containing asbestos
+7002 10 Glass in balls, unworked (excluding glass microspheres <= 1 mm in diameter, glass balls of the nature of a toy)
+7003 12 Cast glass and rolled glass, in non-wired sheets, coloured throughout the mass “body tinted”, opacified, flashed or having an absorbent, reflecting or non-reflecting layer, but not otherwise worked
+7003 19 Cast glass and rolled glass, in non-wired sheets, not otherwise worked (excluding glass coloured throughout the mass “body tinted”, opacified, flashed or having an absorbent, reflecting or non-reflecting layer)
+7003 20 Cast glass and rolled glass, in wired sheets, whether or not with absorbent, reflecting or non-reflecting layer, but not otherwise worked
+7004 90 Sheets of glass, drawn or blown, but not otherwise worked (excluding glass coloured throughout the mass “body tinted” opacified, flashed or having an absorbent, reflecting or non-reflecting layer)
+7005 21 Float glass and surface ground glass, in sheets, coloured throughout the mass “body tinted”, opacified, flashed or merely surface ground, but not otherwise worked (excluding wired glass or glass having an absorbent, reflecting or non-reflecting layer)
+7005 29 Float glass and surface ground and polished glass, in sheets, but not otherwise worked (excluding wired glass or glass coloured throughout the mass “body tinted”, opacified, flashed or merely surface ground, or glass having an absorbent, reflecting or non-reflecting layer)
+7207 11 Semi-finished products of iron or non-alloy steel containing, by weight, < 0.25% of carbon, of square or rectangular cross-section, the width measuring < twice the thickness
+7207 19 Semi-finished products of iron or non-alloy steel containing, by weight, < 0.25% of carbon, of circular cross-section, or of a cross-section other than square or rectangular
+7207 20 Semi-finished products of iron or non-alloy steel containing, by weight, >= 0.25% of carbon
+7213 10 Bars and rods, hot-rolled, in irregularly wound coils of iron or non-alloy steel, with indentations, ribs, grooves or other deformations produced during the rolling process
+7213 91 Bars and rods, hot-rolled, in irregularly wound coils, of iron or non-alloy steel, of circular cross-section measuring < 14 mm in diameter (excluding bars and rods of free-cutting steel, and bars and rods with indentations, ribs, grooves or other deformations produced during the rolling process)
+7216 21 l sections of iron or non-alloy steel, not further worked than hot-rolled, hot-drawn or extruded, of a height of < 80 mm
+7216 31 u sections of iron or non-alloy steel, not further worked than hot-rolled, hot-drawn or hot-extruded, of a height >= 80 mm
+7216 32 i sections of iron or non-alloy steel, not further worked than hot-rolled, hot-drawn or hot-extruded, of a height >= 80 mm
+7216 40 l sections of iron or non-alloy steel, not further worked than hot-rolled, hot-drawn or hot-extruded, of a height >= 80 mm
+7216 50 Sections of iron or non-alloy steel, not further worked than hot-rolled, hot-drawn or hot-extruded (excluding u, i, h, l or t sections)
+7216 61 Angles, shapes and sections, of iron or non-alloy steel, from flat-rolled products simply cold-formed or cold-finished (excluding profiled sheet)
+7216 91 Angles, shapes and sections, of iron or non-alloy steel, cold-formed or cold-finished from flat-rolled products and further worked
+7216 99 Angles, shapes and sections, of iron or non-alloy steel, cold-formed or cold-finished and further worked, or hot-forged, or hot-formed by other means and further worked, n.e.s. (excluding from flat-rolled products)
+7218 10 Steel, stainless, in ingots and other primary forms (excluding waste and scrap in ingot form, and products obtained by continuous casting)
+7218 99 Semi-finished products of stainless steel (excluding of rectangular (other than square) cross-section))
+7224 90 Semi-finished products of alloy steel other than stainless
+7228 10 Bars and rods of high-speed steel (excluding semi-finished products, flat-rolled products and hot-rolled bars and rods in irregularly wound coils)
+7228 20 Bars and rods of silico-manganese steel (excluding semi-finished products, flat-rolled products and hot-rolled bars and rods in irregularly wound coils)
+7228 40 Bars and rods of alloy steel other than stainless, not further worked than forged (excluding products of high-speed steel or silico-manganese steel, semi-finished products, flat-rolled products and hot-rolled bars and rods in irregularly wound coils)
+7228 50 Bars and rods of alloy steel other than stainless, not further worked than cold-formed or cold-finished (excluding products of high-speed steel or silico-manganese steel, semi-finished products, flat-rolled products and hot-rolled bars and rods in irregularly wound coils)
+7407 21 Bars, rods and profiles, of copper-zinc base alloys “brass”, n.e.s.
+7407 29 Bars, rods and profiles of copper alloys, n.e.s. (excluding such articles of copper-zinc base alloys “brass”)
+7408 21 Wire of copper-zinc base alloys “brass”
+7408 22 Wire of copper-nickel alloys “cupro-nickel” or copper-nickel-zinc alloys “nickel silver”
+7408 29 Wire of copper alloys (other than copper-zinc alloys (brass) copper-nickel alloys (cupro-nickel) or copper-nickel-zinc alloys (nickel silver))
+7409 21 Plates, sheets and strip, of copper-zinc base alloy “brass”, of a thickness of > 0.15 mm, in coils (excluding expanded sheet and strip and electrically insulated strip)
+7409 29 Plates, sheets and strip, of copper-zinc base alloys “brass”, of a thickness of > 0.15 mm, not in coils (excluding expanded sheet and strip and electrically insulated strip)
+7409 31 Plates, sheets and strip, of copper-tin base alloys “bronze”, of a thickness of > 0.15 mm, in coils (excluding expanded sheet and strip and electrically insulated strip)
+7409 39 Plates, sheets and strip, of copper-tin base alloys “bronze”, of a thickness of > 0.15 mm, not in coils (excluding expanded sheet and strip and electrically insulated strip)
+7409 90 Plates, sheets and strip, of copper alloys, of a thickness of > 0.15 mm (excluding copper-zinc base alloys “brass”, copper-zinc base alloys “bronze”, copper-nickel base alloys “cupro-nickel”, copper-nickel-zinc base alloys “nickel silver”, and expanded sheet and strip and electrically insulated strip)
+7505 12 Bars, rods, profiles and wire, of nickel alloys, n.e.s. (excluding electrically insulated products)
+7505 22 Wire of nickel alloys (excluding electrically insulated products)
+7506 20 Plates, sheets, strip and foil, of nickel alloys (excluding expanded plates, sheets or strip)
+7507 12 Tubes and pipes of nickel alloys
+7507 20 Tube or pipe fittings, of nickel
+7605 11 Wire of non-alloy aluminium, with a maximum cross-sectional dimension of > 7 mm (excluding stranded wire, cables, plaited bands and the like and other articles of heading 7614, and electrically insulated wires)
+7605 21 Wire of aluminium alloys, with a maximum cross-sectional dimension of > 7 mm (excluding stranded wire, cables, plaited bands and the like and other articles of heading 7614, and electrically insulated wires)
+7804 20 Lead powders and flakes (excluding grains of lead, and spangles of heading 8308)
+8001 10 Unwrought tin, not alloyed
+8102 10 Molybdenum powders
+8102 94 Unwrought molybdenum, including bars and rods obtained simply by sintering
+8102 95 Molybdenum bars and rods (other than those obtained simply by sintering), profiles, plates, sheets, strip and foil, n.e.s.
+8102 96 Molybdenum wire
+8102 99 Articles of molybdenum, n.e.s.
+8109 21 Unwrought zirconium and zirconium powders, containing < 1 part hafnium to 500 parts zirconium by weight
+8109 29 Unwrought zirconium and zirconium powders, containing => 1 part hafnium to 500 parts zirconium by weight
+8309 10 Crown corks of base metal
+8459 69 Milling machines for metals, not numerically controlled (excluding way-type unit head machines, boring-milling machines, knee-type milling machines and gear cutting machines)
+8466 30 Dividing heads and other special attachments for machine tools, n.e.s.
+8466 93 Parts and accessories suitable for use solely or principally with the machines of headings 8456 to 8465, including work or tool holders, self-opening dieheads, dividing heads and other special attachments for the machines; tool holders for any type of tool for working in the hand; For machines of headings 8456 to 8461
+8482 40 Needle roller bearings
+8505 19 Permanent magnets and articles intended to become permanent magnets after magnetization, of materials other than metal
+8511 Electrical ignition or starting equipment of a kind used for spark-ignition or compression-ignition internal combustion engines e.g. ignition magnetos, ignition coils, sparking plugs, glow plugs and starter motors; generators e.g. dynamos and alternators and cut-outs of a kind used in conjunction with such engines; parts thereof
+8514 40 Equipment for the heat treatment of materials by induction or dielectric loss (excluding ovens and furnaces)
+8525 60 Transmission apparatus for radio-broadcasting or television, incorporating reception apparatus
+8703 23 Motor cars and other motor vehicles principally designed for the transport of <10 persons, including station wagons and racing cars, with only spark-ignition internal combustion reciprocating piston engine of a cylinder capacity >1,500 cm³ but <= 3,000 cm³
+8703 24 Motor cars and other motor vehicles principally designed for the transport of <10 persons, including station wagons and racing cars, with only spark-ignition internal combustion reciprocating piston engine of a cylinder capacity > 3,000 cm³
+8703 32 Motor cars and other motor vehicles principally designed for the transport of <10 persons, including station wagons and racing cars, with only diesel engine of a cylinder capacity > 1,500 cm³ but <= 2,500 cm³
+8703 33 Motor cars and other motor vehicles principally designed for the transport of <10 persons, including station wagons and racing cars, with only diesel engine of a cylinder capacity > 2,500 cm³
+8703 40 Motor cars and other motor vehicles principally designed for the transport of <10 persons, including station wagons and racing cars, with both spark-ignition internal combustion reciprocating piston engine and electric motor as motors for propulsion (excluding plug-in hybrids)
+8703 50 Motor cars and other motor vehicles principally designed for the transport of <10 persons, including station wagons and racing cars, with both diesel engine and electric motor as motors for propulsion (excluding plug-in hybrids)
+8703 60 Motor cars and other motor vehicles principally designed for the transport of <10 persons, including station wagons and racing cars, with both spark-ignition internal combustion reciprocating piston engine and electric motor as motors for propulsion, capable of being charged by plugging to external source of electric power
+8703 70 Motor cars and other motor vehicles principally designed for the transport of <10 persons, including station wagons and racing cars, with both diesel engine and electric motor as motors for propulsion, capable of being charged by plugging to external source of electric power
+8703 80 Motor cars and other motor vehicles principally designed for the transport of <10 persons, including station wagons and racing cars, with only electric motor for propulsion
+8703 90 Motor cars and other vehicles principally designed for the transport of <10 persons, including station wagons and racing cars, with engines other than internal combustion piston engine or electric motor
+8704 Motor vehicles for the transport of goods, including chassis with engine and cab, excluding vehicles of CN codes 87042191 and 87042199 with engines of a cylinder capacity not exceeding 1 900 cm³
+8903 Yachts and other vessels for pleasure or sports; rowing boats and canoes
+9007 20 Cinematographic projectors
+9007 91 Parts and accessories for cinematographic cameras, n.e.s.
+9007 92 Parts and accessories for cinematographic projectors, n.e.s.
+9015 30 Levels
+9406 20 Modular building units, of steel
+9606 10 Press-fasteners, snap-fasteners and press studs and parts therefor
+9606 21 Buttons of plastics, not covered with textile material (excluding press-fasteners, snap-fasteners, press studs and cuff links)
+9606 22 Buttons of base metal, not covered with textile material (excluding press-fasteners, snap-fasteners, press studs and cuff links)
+9606 29 Buttons (excluding of plastics or base metal, not covered with textile material, press-fasteners, snap-fasteners, press studs and cuff links)
+3818 00 Chemical elements doped for use in electronics, in the form of discs, wafers or similar forms; chemical compounds doped for use in electronics
+9027 50 Other instruments and apparatus using optical radiation (UV, visible, IR)
+9027 81 Mass spectrometers
+8529 90 Other parts suitable for use solely or principally with the apparatus of headings 8524 to 8528
+8471 50 Processing units other than those of subheading 8471 41 or 8471 49, whether or not containing in the same housing one or two of the following types of unit: storage units, input units, output units
+8471 80 Units for automatic data-processing machines (excluding processing units, input or output units and storage units)
+8526 91 Radio navigational aid apparatus”Regulation 22(19)
+SCHEDULE 5
+Insertion of commodity codes and goods into Part 3 of Schedule 3E
+“Commodity code Item
+2828 10 Calcium hypochlorites, including commercial calcium hypochlorite
+7508 10 Cloth, grill, netting and fencing, of nickel wire
+8307 90 Flexible tubing of base metal other than iron or steel, with or without fittings
+8477 10 Injection-moulding machines for working rubber or plastics
+8477 20 Extruders for working rubber or plastics
+8477 59 Machinery for moulding or otherwise forming products from rubber or plastics (excluding injection-moulding machines, extruders, blow-moulding machines, vacuum-moulding and other thermoforming machines; machinery for moulding or retreading pneumatic tyres or for moulding or otherwise forming inner tubes)
+8477 80 Machinery for working rubber or plastics or for the manufacture of products from these materials, not specified or included elsewhere in this chapter
+8477 90 Parts of machinery for working rubber or plastics or for the manufacture of products from these materials, n.e.s.
+9031 10 Machines for balancing mechanical parts
+9031 41 Optical instruments and appliances for inspecting semiconductor wafers or devices or for inspecting photomasks or reticles used in manufacturing semiconductor devices
+9031 49 Optical instruments, appliances and machines for measuring or checking, not elsewhere specified or included in chapter 90
+9031 80 Instruments, appliances and machines for measuring or checking, not elsewhere specified in chapter 90 (excluding optical)”Regulation 22(20)
+SCHEDULE 6
+Insertion of Part 4 into Schedule 3E
+“PART 4
+Further goods with potential military and industrial uses
+4.  Any thing (other than a thing falling within commodity code 2933 which is pre-packaged for medical use) falling within a commodity code mentioned in column 1 of the following table.
+Commodity code (1) Description (2)
+2517 10 20 Broken or crushed dolomite and limestone flux, for concrete aggregates, for road metalling or for railway or other ballast
+2517 20 Macadam of slag, dross or similar industrial waste, whether or not incorporating pebbles, gravel, shingle and flint for concrete aggregates, for road metalling or for railway or other ballast
+2705 Coal gas, water gas, producer gas, lean gas and similar gases (excluding petroleum gases and other gaseous hydrocarbons)
+2707 91 Creosote oils (excluding chemically defined)
+2711 12 11 Propane of a purity of >= 99%, for use as a power or heating fuel, liquefied
+2711 12 19 Propane of a purity of >= 99%, liquefied (excluding for use as a power or heating fuel)
+2801 20 Iodine
+2811 22 Silicon Dioxide
+2821 10 Iron oxides and hydroxides
+2853 90 30 Liquid air, whether or not rare gases have been removed; compressed air
+2921 19 50 Diethylamine and its salts
+2933 Heterocyclic compounds
+3603 10 Safety fuses
+3603 30 Percussion caps (excluding cartridge cases with percussion caps)
+3604 90 Signalling flares, rain rockets, fog signals and other pyrotechnic articles (excluding fireworks and cartridge blanks)
+3802 90 Activated kieselguhr and other activated natural mineral products; animal black, whether or not spent (excluding activated carbon, calcinated diatomite without the addition of sintering agents and activated chemical products)
+3812 39 10 Anti-oxidising preparations for rubber or plastics (excluding mixtures of oligomers of 2,2,4-trimethyl-1,2-dihydroquinoline “TMQ”)
+3816 Refractory cements, mortars, concretes and similar compositions, including dolomite ramming mix, other than products of heading 3801
+3822 90 Certified Reference Materials
+3902 Polymers of propylene or of other olefins, in primary forms
+3903 11 Expansible polystyrene, in primary forms
+3910 Silicones in primary forms
+3912 20 Cellulose nitrates (including collodions)
+3920 71 Plates, sheets, film, foil and strip, of non-cellular regenerated cellulose, not reinforced, laminated, supported or similarly combined with other materials, without backing, unworked or merely surface-worked or merely cut into squares or rectangles (excluding self-adhesive products, and floor, wall and ceiling coverings of heading 3918)
+3921 13 10 Plates, sheets, film, foil and strip, of flexible cellular polyurethane, unworked or not further worked than surface-worked or merely cut into squares or rectangles (excluding such self-adhesive products, and floor, wall and ceiling coverings of heading 3918 and sterile surgical or dental adhesion barriers of subheading 3006.10.30)
+3923 30 10 Carboys, bottles, flasks and similar articles for the conveyance or packaging of goods, of plastics, with a capacity of <= 2 l
+3926 30 Fittings for furniture, coachwork or the like (of plastics and other materials of headings 3901 to 3914)
+3926 40 Statuettes and other ornamental articles (of plastics and other materials of headings 3901 to 3914)
+3926 90 Other articles of plastics and articles of other materials of headings 3901 to 3914
+4011 10 New pneumatic tyres, of rubber, of a kind used for motor cars, including station wagons and racing cars
+4011 90 New pneumatic tyres, of rubber, (excluding of a kind used on agricultural, forestry, construction, mining or industrial handling vehicles and machines, for motor cars, station wagons, racing cars, buses, lorries, aircraft, motorcycles and bicycles)
+4013 10 Inner tubes, of rubber, of a kind used on motor cars, including station wagons and racing cars, buses and lorries
+4013 90 Inner tubes, of rubber (excluding those of a kind used on motor cars, including station wagons and racing cars, buses, lorries and bicycles)
+5911 90 91 Self-adhesive circular polishing pads of a kind used for the manufacture of semiconductor wafers
+6306 12 Tarpaulins, awnings and sunblinds of synthetic fibres (excluding flat covers of light fabrics made up as tarpaulins)
+6306 19 Tarpaulins, awnings and sunblinds of textile materials (excluding of synthetic fibres and flat covers of light fabrics made up as tarpaulins)
+6506 10 80 Safety headgear, whether or not lined or trimmed (other than of plastics)
+7222 19 10 Bars and rods of stainless steel, not further worked than hot-rolled, hot-drawn or extruded, containing by weight >= 2.5% nickel (excluding such products of circular cross-section)
+7223 00 11 Wire of stainless steel, in coils, containing by weight 28% to 31% nickel and 20% to 22% chromium (excluding bars and rods)
+7229 20 Wire of silico-manganese steel, in coils (excluding bars and rods)
+7302 Railway or tramway track construction material of iron or steel, the following: rails, check-rails and rack rails, switch blades, crossing frogs, point rods and other crossing pieces, sleepers (cross-ties), fish-plates, chairs, chair wedges, sole plates (base plates), rail clips, bedplates, ties and other material specialised for jointing or fixing rails
+7419 80 10 Cloth “including endless bands”, grill and netting, of copper wire of which the largest cross-sectional dimension <= 6 mm, and expanded metal, of copper (excluding cloth of metal fibres for clothing, lining and similar uses, flux-coated copper fabric for brazing, cloth, grill and netting made into hand sieves or machine parts)
+7616 99 10 Articles of aluminium, cast, n.e.s.
+8108 30 Titanium waste and scrap (excluding ash and residues containing titanium)
+8201 10 Spades and shovels, with working parts of base metal
+8201 30 Mattocks, picks, hoes and rakes, with working parts of base metal (excluding ice axes)
+8201 40 Axes, billhooks and similar hewing tools, with working parts of base metal (excluding ice axes)
+8202 10 Handsaws, with working parts of base metal (excluding power-operated saws)
+8202 40 Chainsaw blades of base metal
+8211 10 Sets of assorted articles of knives of heading 8211; sets in which there is a higher number of knives of heading 8211 than of any other article
+8211 93 Knives having other than fixed blades, including pruning knives, of base metal (excluding razors)
+8211 94 Blades of base metal for table knives, pocket knives and other knives of heading 8211
+8211 95 Handles of base metal for table knives, pocket knives and other knives of heading 8211
+8403 Central heating boilers other than those of heading 8402
+8407 Spark-ignition reciprocating or rotary internal combustion piston engines
+8409 Parts suitable for use solely or principally with the engines of heading 8407 or 8408
+8411 Turbojets, turbopropellers and other gas turbines
+8413 20 Hand pumps for liquids (excluding those of subheading 8413 11 and 8413 19)
+8413 40 Concrete pumps
+8413 70 Other centrifugal pumps
+8413 91 Parts of pumps for liquids, n.e.s.
+8414 30 Compressors of a kind used in refrigerating equipment
+8414 40 Air compressors mounted on a wheeled chassis for towing
+8414 59 Fans (excluding table, floor, wall, window, ceiling or roof fans, with a self-contained electric motor of an output <= 125 W)
+8414 60 Hoods incorporating a fan, whether or not fitted with filters, having a maximum horizontal side <= 120 cm
+8414 70 Gas-tight biological safety cabinets
+8414 80 Other Air pumps, air or other gas compressors and fans; ventilating or recycling hoods incorporating a fan, whether or not fitted with filters (excluding vacuum pumps, hand- or foot-operated air pumps, compressors of a kind used in refrigerating equipment, air compressors mounted on a wheeled chassis for towing, fans, hoods having a maximum horizontal side note exceeding 120cm and gas-tight biological safety cabinets)
+8417 Industrial or laboratory furnaces and ovens, including incinerators, non-electric
+8418 10 Combined refrigerator-freezers, fitted with separate external doors or drawers, or combinations thereof
+8418 21 10 Household refrigerators, compression-type, of a capacity > 340 l
+8418 21 51 Household refrigerators, compression-type, table model
+8418 21 59 Household refrigerators, compression-type, building-in type
+8418 21 99 Household refrigerators, compression-type, of a capacity > 250 l but <= 340 l (excluding table models and building-in types)
+8418 29 Household refrigerators, absorption-type
+8419 20 Medical, surgical or laboratory sterilizers
+8419 60 Machinery for liquefying air or other gases
+8421 21 Machinery and apparatus for filtering or purifying water
+842132 Catalytic converters or particulate filters, whether or not combined, for purifying or filtering exhaust gases from internal combustion engines
+8430 31 Self-propelled coal or rock cutters and tunnelling machinery (excluding hydraulically operated self-advancing supports for mines)
+8430 41 Self-propelled boring or sinking machinery for boring earth or extracting minerals or ores (excluding those mounted on railway or tramway wagons, motor vehicle chassis or lorries and tunnelling machinery)
+8431 Parts suitable for use solely or principally with the machinery of headings 8425 to 8430
+8443 31 Machines which perform two or more of the functions of printing, copying or facsimile transmission, capable of connecting to an automatic data-processing machine or to a network
+8443 32 Other printers, copying machines and facsimile machines, whether or not combined capable of connecting to an automatic data-processing machine or network (excluding printing machines used for printing by means of plates, cylinders and other printing components of heading 8442 and; machines which perform two or more of the functions of printing, copying or facsimile transmission, capable of connecting to an automatic data-processing machine or to a network)
+8443 39 Printers, copying machines and facsimile machines, whether or not combined (excluding those capable of connecting to an automatic data processing machine or to a network and printing machinery used for printing by means of plates, cylinders and other printing components of heading 8442)
+8452 Sewing machines, other than book-sewing machines of heading 8440; furniture, bases and covers specially designed for sewing machines; sewing machine needles
+8456 Machine tools for working any material by removal of material, by laser or other light or photon beam, ultrasonic, electrodischarge, electrochemical, electron beam, ionic-beam or plasma arc processes; water-jet cutting machines
+8465 Machine tools (including machines for nailing, stapling, glueing or otherwise assembling) for working wood, cork, bone, hard rubber, hard plastics or similar hard materials
+8467 Tools for working in the hand, pneumatic, hydraulic or with self-contained electric or non-electric motor
+8470 Calculating machines and pocket-size data-recording, reproducing and displaying machines with calculating functions; accounting machines, postage-franking machines, ticket-issuing machines and similar machines, incorporating a calculating device; cash registers
+8471 30 Data-processing machines, automatic, portable, weighing <= 10 kg, consisting of at least a central processing unit, a keyboard and a display (excluding peripheral units)
+8471 41 Data-processing machines, automatic, comprising in the same housing at least a central processing unit, and one input unit and one output unit, whether or not combined (excluding portable weighing <= 10 kg and excluding those presented in the form of systems and peripheral units)
+8471 49 Data-processing machines, automatic, presented in the form of systems “comprising at least a central processing unit, one input unit and one output unit” (excluding portable weighing <= 10 kg and excluding peripheral units)
+8471 60 Input or output units, whether or not containing storage units in the same housing
+8471 70 Storage units
+8471 90 Magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, n.e.s.
+8472 Other office machines (for example, hectograph or stencil duplicating machines, addressing machines, automatic banknote dispensers, coin-sorting machines, coin-counting or -wrapping machines, pencil-sharpening machines, perforating or stapling machines)
+8473 Parts and accessories (other than covers, carrying cases and the like) suitable for use solely or principally with machines of headings 8470 to 8472
+847960 Evaporative air coolers, n.e.s.
+8479 83 Cold isostatic presses
+8481 80 40 Valves for pneumatic tyres and inner-tubes
+8481 80 59 Process control valves (excluding temperature regulators, pressure-reducing valves, valves for the control of oleohydraulic or pneumatic power transmission, check valves and safety or relief valves, taps, cocks and valves for sinks, washbasins, bidets, water cisterns, baths and similar fixtures and central heating radiator valves)
+8481 80 61 Gate valves of cast iron for pipes, boiler shells, tanks, vats or the like (excluding taps, cocks and valves for sinks, washbasins, bidets, water cisterns, baths and similar fixtures and central heating radiator valves)
+8481 80 63 Gate valves of steel for pipes, boiler shells, tanks, vats or the like (excluding taps, cocks and valves for sinks, washbasins, bidets, water cisterns, baths and similar fixtures and central heating radiator valves)
+8481 80 69 Gate valves for pipes, boiler shells, tanks, vats or the like (excluding of cast iron or steel, and taps, cocks and valves for sinks, washbasins, bidets, water cisterns, baths and similar fixtures and central heating radiator valves)
+8481 80 71 Globe valves of cast iron (excluding temperature regulators, pressure-reducing valves, valves for the control of oleohydraulic or pneumatic power transmission, check valves and safety or relief valves, process control valves, taps, cocks and valves for sinks, washbasins, bidets, water cisterns, baths and similar fixtures, and central heating radiator valves)
+8481 80 73 Globe valves of steel (excluding temperature regulators, pressure-reducing valves, valves for the control of oleohydraulic or pneumatic power transmission, check valves and safety or relief valves, process control valves, taps, cocks and valves for sinks, washbasins, bidets, water cisterns, baths and similar fixtures, and central heating radiator valves)
+8481 80 79 Globe valves (excluding valves of cast iron or steel, temperature regulators, pressure-reducing valves, valves for the control of oleohydraulic or pneumatic power transmission, check valves and safety or relief valves, process control valves, taps, cocks and valves for sinks, washbasins, bidets, water cisterns, baths and similar fixtures, and central heating radiator valves)
+8481 80 81 Ball and plug valves for pipes, boiler shells, tanks, vats or the like (excluding taps, cocks and valves for sinks, washbasins, bidets, water cisterns, baths and similar fixtures, and central heating radiator valves)
+8481 80 85 Butterfly valves for pipes, boiler shells, tanks, vats or the like (excluding check valves)
+8481 80 87 Diaphragm valves for pipes, boiler shells, tanks, vats or the like
+8481 80 99 Appliances for pipes, boiler shells, tanks, vats or the like (excluding pressure-reducing valves, valves for the control of pneumatic power transmission, check “non-return” valves, safety or relief valves, taps, cocks and valves for sinks, baths and similar fixtures, central heating radiator valves, valves for pneumatic tyres and inner-tubes, process control valves, globe valves, gate valves, ball and plug valves, butterfly valves and diaphragm valves)
+8481 90 Parts of valves and similar articles for pipes, boiler shells, tanks, vats or the like, n.e.s.
+8485 10 Machines for additive manufacturing by metal deposit
+8485 80 Machines for additive manufacturing (excluding by metal, plastics, rubber, plaster, cement, ceramics or glass deposit)
+8501 Electric motors and generators (excluding generating sets)
+8506 Primary cells and primary batteries
+8509 90 Parts of electromechanical domestic appliances, with self-contained electric motor, n.e.s. (excluding of vacuum cleaners, dry and wet vacuum cleaners)
+8513 Portable electric lamps designed to function by their own source of energy (for example, dry batteries, accumulators, magnetos), other than lighting equipment of heading 8512
+8515 Electric (including electrically heated gas), laser or other light or photon beam, ultrasonic, electron beam, magnetic pulse or plasma arc soldering, brazing or welding machines and apparatus, whether or not capable of cutting; electric machines and apparatus for hot spraying of metals or cermets
+8517 Telephone sets, including smartphones and other telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data, including apparatus for communication in a wired or wireless network (such as a local or wide area network), other than transmission or reception apparatus of heading 8443, 8525, 8527 or 8528
+8518 Microphones and stands therefor; loudspeakers, whether or not mounted in their enclosures; headphones and earphones, whether or not combined with a microphone, and sets consisting of a microphone and one or more loudspeakers; audio-frequency electric amplifiers; electric sound amplifier sets
+8519 20 91 Sound recording or sound reproducing apparatus, operated by coins, banknotes, bank cards, tokens or by other means of payment, with laser reading system (excluding coin-operated or disc-operated record-players)
+8519 81 Sound recording or sound reproducing apparatus, using magnetic, optical or semiconductor media (excluding those operated by coins, banknotes, bank cards, tokens or by other means of payment, and turntables)
+8519 89 Sound recording or sound reproducing apparatus (excluding using magnetic, optical or semiconductor media, those operated by coins, banknotes, bank cards, tokens or by other means of payment, and turntables)
+8521 Video recording or reproducing apparatus, whether or not incorporating a video tuner
+8522 90 Parts and accessories suitable for use solely or principally with sound reproducing and recording apparatus and with video equipment for recording and reproducing pictures and sound (excluding pick-up devices for grooved recording media)
+8523 21 Cards incorporating a magnetic stripe for the recording of sound or of other phenomena
+8523 29 Other magnetic media (excluding cards incorporating a magnetic stripe)
+8523 41 Unrecorded optical media
+8523 49 Other optical media (excluding undercorded optical media)
+8523 52 Cards incorporating one or more electronic integrated circuits “smart cards”
+8523 59 Semiconductor media (excluding solid-state non-volatile data storage devices and smart cards)
+8523 80 Other discs, tapes, solid-state non-volatile storage devices, “smart cards” and other media for the recording of sound and other phenomena, whether or not recorded, including matrices and masters for the production of discs but excluding products of Chapter 37 (excluding magnetic media, optical media and semi-conductor media)
+8524 Flat panel display modules, whether or not incorporating touch-sensitive screens
+8527 13 Radio-broadcast receivers capable of operating without an external source of power, combined with sound recording or reproducing apparatus (excluding pocket-size radiocassette players)
+8527 19 Radio-broadcast receivers capable of operating without an external source of power, not combined with sound-reproducing apparatus
+8527 29 Radio-broadcast receivers not capable of operating without an external source of power, of a kind used in motor vehicles, not combined with sound recording or reproducing apparatus
+8527 91 Radio-broadcast receivers, for mains operation only, combined with sound recording or reproducing apparatus (excluding those of a kind used in motor vehicles)
+8527 92 Radio-broadcast receivers, for mains operation only, not combined with sound recording or reproducing apparatus but combined with a clock (excluding those of a kind used in motor vehicles)
+8527 99 Radio-broadcast receivers, for mains operation only, not combined with sound recording or reproducing apparatus and not combined with a clock (excluding those of a kind used in motor vehicles)
+8528 Monitors and projectors, not incorporating television reception apparatus; reception apparatus for television, whether or not incorporating radio-broadcast receivers or sound or video recording or reproducing apparatus
+8531 Electric sound or visual signalling apparatus (for example, bells, sirens, indicator panels, burglar or fire alarms), other than those of heading 8512 or 8530
+8536 Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits (for example, switches, relays, fuses, surge suppressors, plugs, sockets, lamp holders and other connectors, junction boxes), for a voltage not exceeding 1 000 V; connectors for optical fibres, optical fibre bundles or cables
+8537 20 91 Boards, cabinets and similar combinations of apparatus for electric control or the distribution of electricity, for a voltage > 1.000 V but <= 72.5 kV
+8537 20 99 Boards, cabinets and similar combinations of apparatus for electric control or the distribution of electricity, for a voltage > 72.5 kV
+8543 10 Electrical particle accelerators for electrons, protons, etc. (excluding ion implanters for doping semiconductor materials)
+8543 70 10 Electrical machines with translation or dictionary functions
+8543 70 30 Aerial amplifiers
+8543 70 90 Electrical machines and apparatus, having individual functions, n.e.s. in chapter 85
+8543 90 Parts of electrical machines and apparatus, having individual functions, n.e.s. in chapter 85
+8544 Insulated (including enamelled or anodised) wire, cable (including coaxial cable) and other insulated electric conductors, whether or not fitted with connectors; optical fibre cables, made up of individually sheathed fibres, whether or not assembled with electric conductors or fitted with connectors
+8603 Self-propelled railway or tramway coaches, vans and trucks, other than those of heading 8604
+8605 Railway or tramway passenger coaches, luggage vans, post office coaches and other special purpose railway or tramway coaches (excluding self-propelled railway or tramway coaches, vans and trucks, railway or tramway maintenance or service vehicles and goods vans and wagons)
+8607 Parts of railway or tramway locomotives or rolling stock
+8701 Tractors (other than tractors of heading 8709)
+8702 Motor vehicles for the transport of ten or more persons, including the driver
+8706 Chassis fitted with engines, for the motor vehicles of headings 8701 to 8705
+8707 Bodies (including cabs), for the motor vehicles of headings 8701 to 8705
+8708 10 Bumpers and parts thereof
+8708 21 Safety seat belts
+8708 30 Brakes and servo-brakes; parts thereof
+8708 40 Gear boxes and parts thereof
+8708 50 Drive-axles with differential, whether or not provided with other transmission components, and non-driving axles; parts thereof
+8708 70 Road wheels and parts and accessories thereof
+8708 80 Suspension systems and parts thereof (including shock-absorbers)
+8708 91 Radiators and parts thereof
+8708 93 Clutches and parts thereof
+8708 94 Steering wheels, steering columns and steering columns; parts thereof
+8708 99 93 Parts and accessories of closed-die forged steel, for tractors, motor vehicles for the transport of ten or more persons, motor cars and other motor vehicles principally designed for the transport of persons, motor vehicles for the transport of goods and special purpose motor vehicles, n.e.s.
+8708 99 97 Parts and accessories for tractors, motor vehicles for the transport of ten or more persons, motor cars and other motor vehicles principally designed for the transport of persons, motor vehicles for the transport of goods and special purpose motor vehicles, n.e.s. (excluding of closed-die forged steel)
+8711 Motorcycles (including mopeds) and cycles fitted with an auxiliary motor, with or without side-cars; side-cars
+8714 10 10 Brakes and parts thereof, of motorcycles “including mopeds”
+8714 10 20 Gear boxes and parts thereof, of motorcycles “including mopeds”
+8714 10 30 Road wheels and parts and accessories thereof, of motorcycles “including mopeds”
+8714 10 50 Clutches and parts thereof, of motorcycles “including mopeds”
+8714 10 90 Parts and accessories of motorcycles, including mopeds, n.e.s. (excluding brakes, gear boxes, road wheels, silencers, exhaust pipes, clutches, and their parts)
+8716 31 Tanker trailers and tanker semi-trailers, not designed for running on rails
+8716 40 Trailers and semi-trailers, not designed for running on rails (excluding trailers and semi-trailers for the transport of goods and those of the caravan type for housing or camping)
+8901 10 Cruise ships, excursion boats and similar vessels principally designed for the transport of persons; ferry-boats of all kinds
+8901 90 Other vessels for the transport of goods and other vessels for the transport of both persons and goods (excluding refrigerated vessels, tankers, ferry-boats and vessels principally designed for the transport of person)
+8902 Fishing vessels; factory ships and other vessels for processing or preserving fishery products
+9001 40 20 Spectacle lenses of glass, not for the correction of vision
+9001 50 20 Spectacle lenses of materials other than glass, not for the correction of vision
+9001 90 00 Lenses, prisms, mirrors and other optical elements, of any material, unmounted (excluding such elements of glass not optically worked, contact lenses and spectacle lenses)
+9002 Lenses, prisms, mirrors and other optical elements, of any material, mounted, being parts of or fittings for instruments or apparatus, other than such elements of glass not optically worked
+9006 53 80 Cameras for roll film of a width of 35 mm (excluding instant print cameras, specially designed cameras of subheading 9006.30 and disposable cameras)
+9006 59 Cameras for roll film of a width other than 35 mm or for film in the flat (excluding instant print cameras and cameras specially designed for underwater use, for aerial survey or for medical or surgical examination of internal organs, and comparison cameras for forensic or criminological purposes)
+9006 61 Electronic discharge lamp flashlight apparatus for photographic purposes
+9006 69 Photographic flashlights and flashlight apparatus (excluding with electronic discharge lamps)
+9006 91 Parts and accessories for photographic cameras, n.e.s.
+9006 99 Parts and accessories for photographic flashlights and flashlight apparatus, n.e.s.
+9011 Compound optical microscopes, including those for photomicrography, cinephotomicrography or microprojection
+9012 Microscopes other than optical microscopes; diffraction apparatus
+9013 Lasers, other than laser diodes; other optical appliances and instruments, not specified or included elsewhere in this chapter
+9018 12 Ultrasonic scanning apparatus
+9020 Other breathing appliances and gas masks, excluding protective masks having neither mechanical parts nor replaceable filters
+9022 12 Computer tomography apparatus
+9022 19 Apparatus based on the use of X-rays (other than for medical, surgical, dental or veterinary uses)
+9022 29 Apparatus based on the use of alpha, beta, gamma or other ionising radiation (other than for medical, surgical, dental or veterinary uses)
+9022 30 X-ray tubes
+9022 90 Other; including parts and accessories
+9027 30 Spectrometers, spectrophotometers and spectrographs using optical radiations, such as UV, visible, IR
+9027 90 Microtomes; parts and accessories of instruments and apparatus for physical or chemical analysis, instruments and apparatus for measuring or checking viscosity, porosity, expansion, surface tension or the like, instruments and apparatus for measuring or checking quantities of heat, sound or light, and of microtomes, n.e.s.
+9030 Oscilloscopes, spectrum analysers and other instruments and apparatus for measuring or checking electrical quantities, excluding meters of heading 9028; instruments and apparatus for measuring or detecting alpha, beta, gamma, X-ray, cosmic or other ionising radiation
+9032 Automatic regulating or controlling instruments and apparatus
+9106 Time of day recording apparatus and apparatus for measuring, recording or otherwise indicating intervals of time, with clock or watch movement or with synchronous motor (for example, time-registers, time-recorders)
+9107 Time switches with clock or watch movement or with synchronous motor
+9401 91 10 Parts of seats used for aircraft, of wood, n.e.s.
+9401 99 10 Parts of seats used for aircraft, n.e.s.
+9506 11 10 Cross-country skis
+9506 11 21 Monoskis and snowboards
+9506 11 80 Snow-skis (excluding cross-country and downhill skis)
+9506 12 Ski bindings
+9506 19 Ski equipment for winter sports (other than skis and ski-fastenings (ski-bindings))
+9603 50 Brushes constituting parts of machines, appliances or vehicles”Regulation 22(24)
+SCHEDULE 7
+Omission of commodity codes and associated descriptions
+1.  In Schedule 3A (luxury goods), omit the following commodity codes and the associated descriptions—
+(a)
+in paragraph 16—
+8471 00 00;
+8517 11 00;
+8517 13 00;
+8517 18 00;
+8517 61 00
+8517 62 00;
+8517 69 00;
+8529 10 65;
+8529 10 69;
+8543 70 10
+8543 70 30;
+8543 70 90;
+(b)
+in paragraph 17—
+8521 00 00;
+8527 00 00;
+8528 71 00;
+8528 72 00;
+9007 00 00;
+(c)
+in paragraph 18—
+4011 20 00;
+4011 30 00;
+8407 00 00;
+8411 00 00;
+8511 00 00;
+8544 30 00;
+8603 00 00;
+8605 00 00;
+8607 00 00;
+8702 00 00;
+8703 00 00;
+8706 00 00;
+8707 00 00;
+8711 00 00;
+8901 10 00;
+8901 90 00;
+8903 00 00.
+2.  In Schedule 3DA (Schedule 3DA revenue generating goods), omit the following commodity codes and the associated descriptions—
+(a)
+in Part 2—
+7606;
+7801;
+(b)
+in Part 3—
+8207;
+8212;
+8302;
+8309.
+3.  In Schedule 3E (G7 dependency and further goods), omit the following commodity codes and the associated descriptions—
+(a)
+in Part 2—
+2903 23;
+2903 29;
+2903 76;
+2903 81;
+2903 91;
+2904 10;
+2904 31;
+3816 00 10;
+3902 20;
+3902 30;
+3902 90;
+4407 19;
+4407 92;
+4407 94;
+4407 97;
+4407 99;
+4412 31;
+4412 33;
+4412 51, 4412 52, 4412 59;
+4412 51;
+4412 52;
+4412 59;
+5516 44;
+5516 94;
+8407 21;
+8407 29;
+8409 99;
+8411 11;
+8411 12;
+8411 21;
+8411 22;
+8411 91;
+8417 20;
+8456 40;
+8465 96;
+8472 10;
+8472 30;
+8473 21;
+8501 33;
+8501 62;
+8501 63;
+8501 64;
+8506 90;
+8506 60 00;
+8528 49;
+8544 30;
+8544 70;
+8701 21;
+8701 22;
+8701 23;
+8701 24;
+8704 23;
+8704 10;
+8704 22;
+8704 32;
+9002 11;
+9002 19;
+9030 32;
+9030 39;
+9030 40;
+9030 82;
+9030 89;
+(b)
+in Part 3—
+2903 11;
+2904 20;
+8465 20;
+8465 93;
+8465 94;
+8701 30;
+9032 81;
+4.  In Schedule 3I (Russia’s vulnerable goods), omit the following commodity codes and the associated descriptions—
+8466 93 40;
+8473 30 80;
+8473 50 20;
+8407 10;
+8409 10;
+8417 80 50;
+8417 90 00;
+8431 10 00;
+8431 20 00;
+8431 31 00;
+8431 41 00;
+8431 42 00;
+8452 21 00;
+8452 29 00;
+8452 30 00;
+8452 90 00;
+8456 20 00;
+8456 30 11;
+8456 30 19;
+8456 30 90;
+8456 50 00;
+8467 11 10;
+8467 11 90;
+8467 19 00;
+8467 21 10;
+8467 21 91;
+8467 21 99;
+8467 22 10;
+8467 22 30;
+8467 22 90;
+8467 29 20;
+8467 29 51;
+8467 29 53;
+8467 29 59;
+8467 29 70;
+8467 29 80;
+8467 29 85;
+8467 81 00;
+8467 91 00;
+8467 92 00;
+8467 99 00;
+8470 50 00;
+8470 90 00;
+8472 90 10;
+8473 29 10;
+8473 29 90;
+8473 30 80;
+8473 40 10;
+8473 40 80;
+8473 50 20;
+8501 10 10;
+8501 10 91;
+8501 10 93;
+8501 10 99;
+8501 20 00;
+8501 31 00;
+8501 32 00;
+8501 34 00;
+8501 40 20;
+8501 40 80;
+8501 51 00;
+8501 52 20;
+8501 52 30;
+8501 52 90;
+8501 53 50;
+8501 53 81;
+8501 53 94;
+8501 53 99;
+8501 61 20;
+8501 61 80;
+8506 10 18;
+8506 10 91;
+8506 10 98;
+8506 30 00;
+8506 40 00;
+8506 50 10;
+8506 50 30;
+8506 50 90;
+8506 80 05;
+8515 11 00;
+8515 19 10;
+8515 19 90;
+8515 21 00;
+8515 29 00;
+8515 90 20;
+8515 90 80;
+8517 71 00;
+8517 79 00;
+8524 11 00;
+8524 91 00;
+8531 20 20;
+8531 20 40;
+8531 20 95;
+8531 80 40;
+8531 80 70;
+8531 90 00;
+8536 20 90;
+8536 41 10;
+8536 41 90;
+8536 49 00;
+8536 50 03;
+8536 50 05;
+8536 50 07;
+8536 50 11;
+8536 50 15;
+8536 50 19;
+8536 50 80;
+8536 61 10;
+8536 61 90;
+8536 69 10;
+8536 69 30;
+8536 69 90;
+8536 70 00;
+8536 90 01;
+8536 90 10;
+8536 90 40;
+8536 90 95;
+8544 11 10;
+8544 11 90;
+8544 42 10;
+8544 42 90;
+8544 49 20;
+8544 49 91;
+8544 49 93;
+8544 49 95;
+8544 49 99;
+8544 60 10;
+8544 60 90;
+9013 10 10;
+9013 80 00;
+9013 90 05;
+9013 90 80;
+9030 20 00;
+9030 33 20;
+9032 10 80;
+9032 20 00;
+9032 90 00.EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations are made under the Sanctions and Anti-Money Laundering Act 2018 (c. 13) to amend the Russia (Sanctions) (EU Exit) Regulations 2019 (S.I. 2019/855) (“the 2019 Regulations”).
+Regulation 3 amends the prohibitions relating to processing payments to provide that these apply to processing a payment in any currency which is received by a UK credit or financial institution but do not apply to the initial crediting of a payment to an account which is in the name of the credit or financial institution but not in the name of a customer of that credit or financial institution.
+Regulation 4 amends existing definitions of certain products, both to add exclusions in relation to certain products where they fall within Schedule 2 to the Export Control Order 2008 (“the 2008 Order”) (S.I. 2008/3231) or Annex 1 of the Dual-Use Regulation(1) and to remove exclusions relating to certain products where they fall within Schedule 3 to the 2008 Order.
+Regulation 5 extends the prohibitions relating to trade in luxury goods and regulation 9 amends the exceptions to those prohibitions consequentially.
+Regulation 6 makes minor amendments to the prohibitions relating to relevant processed iron and steel products. Certain iron and steel products to which the prohibitions in Chapter 4C of Part 5 to the 2019 Regulations are to apply are added by regulation 22(10) and Schedule 1.
+New prohibitions relating to trade in certain metals are created by regulations 7 and 22(11) and Schedule 2.
+Regulation 8 amends the exceptions relating to the prohibition on processing payments in regulation 17A(2) of the 2019 Regulations.
+Regulation 10 creates new exceptions to the prohibitions on G7 dependency and further goods and expands those for luxury goods where these relate to consumer communication devices and software updates.
+Regulations 11 to 13 create exceptions for iron and steel products, relevant processed iron and steel products and metals where they were exported from Russia before the prohibition come into force or where they are already in free circulation in the United Kingdom.
+Regulation 14 expands the exceptions from the prohibitions on G7 dependency and further goods in the case of emergencies.
+Regulations 15 and 22(22) allow the Treasury to grant licences for certain activities carried out by a UK entity in order to divest itself of assets where those assets are subject to a sanction under the 2019 Regulations.
+Regulation 16 creates new reporting obligations to be imposed on relevant firms in relation to funds and economic resources held by them for prohibited persons (as defined by the amendment contained in that regulation).
+Regulation 17 creates new reporting obligations on designated persons themselves, regulation 18 prescribes the criminal penalty for breach of those obligations, regulation 20 provides that those obligations are to be regarded as not being financial sanctions legislation for the purposes of Part 8 of the Policing and Crime Act 2017 (c. 3) and regulation 21 allows the Treasury to impose civil monetary penalties for breaches of those obligations.
+Regulation 19 prescribes offences created by these Regulations, the suspected commission of which may be referred to His Majesty’s Revenue and Customs for investigation.
+Regulation 22—
+makes changes to the products covered by the prohibitions on trade in critical-industry goods and critical industry technology (paragraphs (2) to (8)), luxury goods (paragraph (9)), defence and security goods and defence and security technology (paragraphs (12) to (16) and Schedule 3) and G7 dependency and further goods (paragraphs (17) to (20)) and Schedules 4, 5 and 6);
+creates an additional ground on which the Treasury may licence the processing of payments which would otherwise be prohibited by regulation 17A(2) of the 2019 Regulations (paragraph (23));
+omits certain commodity codes and the associated descriptions (paragraph (24) and Schedule 7).
+Minor consequential amendments on that made in regulation 3(2) are made by regulation 23.
+A full impact assessment of the effect that this instrument will have on the costs of business, the voluntary sector and the public sector has been published alongside these Regulations and is available from legislation.gov.uk or from the Foreign, Commonwealth and Development Office, King Charles Street, London SW1A 2AH.
+(1)
+Council Regulation (EC) No 428/2009 of 5 May 2009 setting up a Community regime for the control of exports, transfer, brokering and transit of dual-use items;

@@ -1,0 +1,582 @@
+STATUTORY INSTRUMENTS
+2020 No. 1546
+EXITING THE EUROPEAN UNION
+VALUE ADDED TAX
+The Value Added Tax (Northern Ireland) (EU Exit) Regulations 2020
+Made
+18th December 2020
+Laid before the House of Commons
+21st December 2020
+Coming into force in accordance with regulation 1
+The Treasury make these Regulations in exercise of the powers conferred by sections 51(1)(a) and (3) and 52(2) of the Taxation (Cross-border Trade) Act 2018 M1.
+In accordance with section 51(1) of that Act, the Treasury consider it appropriate in consequence of, or otherwise in connection with, the withdrawal of the United Kingdom from the EU to make the following provision in relation to value added tax, including to make such provision as might be made by Act of Parliament. In accordance with section 52(2) of that Act, the Treasury consider it appropriate in consequence of, or otherwise in connection with, the withdrawal of the United Kingdom from the EU for these Regulations to come into force on such day or days as the Treasury may by regulations under section 52 of that Act appoint.
+Marginal Citations
+M1
+2018 c. 22 (“TCTA”); section 51(1)(a) permits “the appropriate Minister” to make provision relating to value added tax and under section 51(4)(b) “the appropriate Minister” means the Treasury.Citation and commencement
+1.  These Regulations may be cited as the Value Added Tax (Northern Ireland) (EU Exit) Regulations 2020 and come into force on such day or days as the Treasury may by regulations made under section 52 of the Taxation (Cross-border Trade) Act 2018 appoint.
+Commencement Information
+I1
+Reg. 1 not in force at made date, see reg. 1
+I2
+Reg. 1 in force at 31.12.2020 by S.I. 2020/1641, reg. 2, Sch.Interpretation
+2.—(1) Terms used in both these Regulations and the Value Added Tax Act 1994 M1 have the same meaning in these Regulations as they have in that Act.
+(2) That Act is referred to in these Regulations as “VATA”.
+Commencement Information
+I1
+Reg. 2 not in force at made date, see reg. 1
+I2
+Reg. 2 in force at 31.12.2020 by S.I. 2020/1641, reg. 2, Sch.
+Marginal Citations
+M1
+1994 c. 23 (“VATA”).Removals of gold: customer to account
+3.—(1) Paragraph (2) applies where—
+(a)
+a taxable person M1 makes a taxable supply of gold within the meaning of section 55(5) M2 of VATA (customers to account for tax on supplies of gold etc) to a person (P) who—
+(i)
+is a taxable person at the time the supply is made; and
+(ii)
+is supplied in connection with the carrying on by P of a business; and
+(b)
+the supply involves the removal of the gold from Great Britain to Northern Ireland; or vice versa.
+(2) Where this paragraph applies, P (and only P) is treated as having imported the gold for the purpose of paragraph 4 of Schedule 9ZB M3 to VATA (liability for VAT on movements between Great Britain and Northern Ireland) instead of the supplier M4.
+(3) This regulation is subject to [F1regulations 6 and 6A] (special customs procedures).
+Textual Amendments
+F1
+Words in reg. 3(3) substituted (1.8.2021) by The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715), regs. 1, 60
+Commencement Information
+I1
+Reg. 3 not in force at made date, see reg. 1
+I2
+Reg. 3 in force at 31.12.2020 by S.I. 2020/1641, reg. 2, Sch.
+Marginal Citations
+M1
+Defined by section 3 VATA.
+M2
+Section 55 was relevantly amended by sections 29 and 32 of the Finance Act 1996 (c. 8).
+M3
+Schedule 9ZB was inserted into VATA by paragraph 2 of Schedule 2 to the Taxation (Post-transition Period) Act 2020 (c. 26) (“TPTPA”) and amended by paragraph 27 of Schedule 3 to the TPTPA.
+M4
+See paragraph 4(3) of Schedule 9ZB.Removals of investment gold: person to account is the person who would have accounted for VAT on the supply
+4.—(1) Paragraph (2) applies where—
+(a)
+a taxable person makes a supply of gold of a description which but for Note 4(b) to Group 15 of Schedule 9 M1 to VATA (investment gold) would have fallen within that Group; and
+(b)
+the supply involves the removal of the gold from Great Britain to Northern Ireland, or vice versa.
+(2) Where this paragraph applies, the person who is treated as having imported the gold for the purpose of paragraph 4 of Schedule 9ZB to VATA is the person (and only that person) who would be required to account for VAT on the supply of the gold if the supply were a taxable but not a zero-rated supply.
+(3) This regulation is subject to [F1regulations 6 and 6A] (special customs procedures).
+Textual Amendments
+F1
+Words in reg. 4(3) substituted (1.8.2021) by The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715), regs. 1, 60
+Commencement Information
+I1
+Reg. 4 not in force at made date, see reg. 1
+I2
+Reg. 4 in force at 31.12.2020 by S.I. 2020/1641, reg. 2, Sch.
+Marginal Citations
+M1
+Group 15 was inserted into VATA by S.I. 1999/3116. Articles 5-7 of S.I. 1973/173 prescribe who is obliged to account for VAT on such a supply.Section 55A supplies: customer to account
+5.—(1) Paragraph (2) applies where—
+(a)
+a taxable person receives a taxable supply of goods which are of a description specified in an order made under section 55A(9) M1 of VATA (customers to account for tax on supplies of goods or services of a kind used in missing trader fraud) and which are not excepted supplies for the purposes of that section; and
+(b)
+the supply involves the removal of the goods from Great Britain to Northern Ireland, or vice versa.
+(2) Where this paragraph applies, the taxable person who receives the supply (and only that person) is treated as having imported the goods for the purpose of paragraph 4 of Schedule 9ZB to VATA instead of the supplier.
+(3) This regulation is subject to [F1regulations 6 and 6A] (special customs procedures).
+Textual Amendments
+F1
+Words in reg. 5(3) substituted (1.8.2021) by The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715), regs. 1, 60
+Commencement Information
+I1
+Reg. 5 not in force at made date, see reg. 1
+I2
+Reg. 5 in force at 31.12.2020 by S.I. 2020/1641, reg. 2, Sch.
+Marginal Citations
+M1
+Section 55A was inserted by section 19 of the Finance Act 2006 (c.25) and amended by section 50 of the Finance Act 2010 (c. 13), section 203 of, and paragraph 6 of Schedule 28 to, the Finance Act 2012 (c. 14), section 43 of, and paragraph 55 of Schedule 8 to, TCTA and section 51 of the Finance Act 2019 (c. 1). The amendment made by TCTA is not yet in force.Removals where goods declared to special customs procedure
+6.—(1) Paragraph (2) applies where goods are—
+(a)
+removed from Great Britain to Northern Ireland or vice versa; and
+(b)
+declared to a special customs procedure on their entry into that other territory.
+(2) Where this paragraph applies, the person who is treated as having imported the goods for the purpose of paragraph 4 of Schedule 9ZB to VATA is [F1—
+(a)
+in any case where a person causes goods to be placed into free circulation, that person (and not the person described in paragraph 4(3), (3A) or (4) of that Schedule); and
+(b)
+in any other case, the person described in paragraph 4(4) of that Schedule.]
+(3) A person (P) who (but for this regulation) would be treated as having imported the goods for the purpose of paragraph 4 of Schedule 9ZB to VATA is so treated if, on or before the date on which P would have to pay the VAT charged on the removal of those goods, P does not hold evidence of a description specified in a public notice made by the Commissioners of the goods having been placed into a special customs procedure.
+(4) In this regulation—
+(a)
+“special customs procedure” means—
+(i)
+a procedure listed in Article 210 of Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code M1, as it has effect in Northern Ireland as a result of section 7A of the European Union (Withdrawal) Act 2018 M2; or
+(ii)
+a procedure listed in section 3(4) of the Taxation (Cross-border Trade) Act 2018;
+(b)
+the reference to causing goods to be placed into free circulation is a reference to placing goods on the market, or putting them to private use or consumption, in Northern Ireland or Great Britain, as the case may be.
+Textual Amendments
+F1
+Words in reg. 6(2) substituted (1.12.2021) by The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164), regs. 1, 28
+Commencement Information
+I1
+Reg. 6 not in force at made date, see reg. 1
+I2
+Reg. 6 in force at 31.12.2020 by S.I. 2020/1641, reg. 2, Sch.
+Marginal Citations
+M1
+OJ L 269 10.10.2013, p 1.
+M2
+2018; c. 16. Section 7A was inserted by section 5 of the European Union (Withdrawal Agreement) Act 2020 (c. 1).[F16A.—(1) Paragraph (2) applies where goods are removed from Great Britain to Northern Ireland and in the course of that removal the goods are declared to a special customs procedure in a member State.
+(2) Where this paragraph applies, the person who is treated as having imported the goods for the purposes of paragraph 4 of Schedule 9ZB to VATA is [F2—
+(a)
+in any case where a person causes goods to be placed into free circulation, that person (and not the person described in paragraph 4(3) or (4)(b) of that Schedule); and
+(b)
+in any other case, the person described in paragraph 4(4)(b) of that Schedule.]
+(3) A person (P) who (but for this regulation) would be treated as having imported the goods for the purposes of paragraph 4 of Schedule 9ZB to VATA is so treated if, on or before the date on which P would have to pay the VAT charged on the removal of those goods, P does not hold evidence of a description specified in a public notice made by the Commissioners of the goods having been placed into a special customs procedure.
+(4) In this regulation—
+(a)
+“special customs procedure” means a procedure listed in Article 210 of Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code;
+(b)
+the reference to causing goods to be placed into free circulation is a reference to placing goods on the market, or putting them to private use or consumption, in Northern Ireland.]
+Textual Amendments
+F1
+Reg. 6A inserted (1.8.2021) by The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715), regs. 1, 62
+F2
+Words in reg. 6A(2) substituted (1.12.2021) by The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164), regs. 1, 29Movement of own goods and on behalf of third party: remover to account
+7.—(1) Paragraph (2) applies where a taxable person (T) makes a relevant removal of goods from Great Britain to Northern Ireland in the course of T's business but otherwise than in the course of a taxable supply and as a result of which ownership in the goods does not pass.
+(2) Where this paragraph applies, T (and only T) is treated as having imported the goods for the purpose of paragraph 4 of Schedule 9ZB to VATA.
+(3) In this regulation a “relevant removal of goods” is a removal by T or under T's direction of goods of which T has possession and in relation to which T exercises control, whether or not T is the owner of the goods, but does not include a removal which consists only of the physical delivery of the goods by a person to whom the goods are consigned for that purpose.
+(4) This regulation is subject to [F1regulations 6 and 6A] (special customs procedures).
+Textual Amendments
+F1
+Words in reg. 7(4) substituted (1.8.2021) by The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715), regs. 1, 60
+Commencement Information
+I1
+Reg. 7 not in force at made date, see reg. 1
+I2
+Reg. 7 in force at 31.12.2020 by S.I. 2020/1641, reg. 2, Sch.Removals from Northern Ireland to Great Britain – zero-rating of supplies for export
+8.—(1) Paragraph (2) applies where—
+(a)
+a taxable person (P) treats a supply of goods as zero-rated as a result of the Commissioners being satisfied that the conditions in regulation 133B of the Value Added Tax Regulations 1995 M1 (supplies to persons outside the relevant states) are met; and
+(b)
+paragraph (2) of that regulation is satisfied by the goods being removed from Northern Ireland to Great Britain.
+(2) Where this paragraph applies, P (and only P) is treated as having imported the goods for the purpose of paragraph 4 of Schedule 9ZB to VATA.
+Commencement Information
+I1
+Reg. 8 not in force at made date, see reg. 1
+I2
+Reg. 8 in force at 31.12.2020 by S.I. 2020/1641, reg. 2, Sch.
+Marginal Citations
+M1
+S.I. 1995/2518; relevantly amended by S.I. 2020/1545.9.—(1) Paragraph (2) applies where—
+(a)
+a taxable person (P) treats a supply of goods as zero-rated as a result of the Commissioners being satisfied that the conditions in regulation 133C of the Value Added Tax Regulations 1995 (VAT retail export scheme) are met; and
+(b)
+sub-paragraph (1)(c) of that regulation is satisfied by the goods being removed from Northern Ireland to Great Britain.
+(2) Where this paragraph applies, P (and only P) is treated as having imported the goods for the purpose of paragraph 4 of Schedule 9ZB to VATA.
+Commencement Information
+I1
+Reg. 9 not in force at made date, see reg. 1
+I2
+Reg. 9 in force at 31.12.2020 by S.I. 2020/1641, reg. 2, Sch.10.—(1) Paragraph (2) applies where—
+(a)
+a taxable person (P) treats a supply of goods as zero-rated as a result of the Commissioners being satisfied that the conditions in regulation 133D of the Value Added Tax Regulations 1995 (supplies to persons departing the relevant states) are met; and
+(b)
+the requirement in paragraph (1) of that regulation that the goods be for export is satisfied by the goods being removed from Northern Ireland to Great Britain.
+(2) Where this paragraph applies, P (and only P) is treated as having imported the goods for the purpose of paragraph 4 of Schedule 9ZB to VATA.
+Commencement Information
+I1
+Reg. 10 not in force at made date, see reg. 1
+I2
+Reg. 10 in force at 31.12.2020 by S.I. 2020/1641, reg. 2, Sch.11.—(1) Paragraph (2) applies where—
+(a)
+a taxable person (P) treats a supply of goods as zero-rated as a result of the Commissioners being satisfied that the conditions in regulation 133E of the Value Added Tax Regulations 1995 (supplies to persons departing the relevant states), are met; and
+(b)
+the requirement in paragraph (1) of that regulation that the goods be for export was satisfied by the goods being removed from Northern Ireland to Great Britain.
+(2) Where this regulation applies, P (and only P) is treated as having imported the goods for the purpose of paragraph 4 of Schedule 9ZB to VATA.
+Commencement Information
+I1
+Reg. 11 not in force at made date, see reg. 1
+I2
+Reg. 11 in force at 31.12.2020 by S.I. 2020/1641, reg. 2, Sch.Gifts from Great Britain to Northern Ireland: sender to account
+12.—(1) Paragraph (3) applies where goods are removed from Great Britain to Northern Ireland in a consignment of a non-commercial character.
+(2) In this regulation, a consignment is of a non-commercial character only if the following requirements are met—
+(a)
+it is sent by one private individual to another;
+(b)
+it is not sent in return for any consideration in money or money's worth; and
+(c)
+it is intended solely for the personal use of the consignee or that of the consignee's family and not for any commercial purpose.
+(3) Where this paragraph applies, the sender of the goods (and only the sender) is treated as having imported the goods for the purpose of paragraph 4 of Schedule 9ZB to VATA.
+Commencement Information
+I1
+Reg. 12 not in force at made date, see reg. 1
+I2
+Reg. 12 in force at 31.12.2020 by S.I. 2020/1641, reg. 2, Sch.Other removals by non-taxable persons
+13.—(1) Paragraph (2) applies where goods are removed from Great Britain to Northern Ireland, otherwise than for the purposes of, or in the course or furtherance of, any business carried on by a registered person (but otherwise than as described in regulation 12 (gifts)).
+(2) Where this paragraph applies, the person removing the goods (and only that person) is treated as having imported the goods for the purposes of paragraph 4 of Schedule 9ZB to VATA.
+Commencement Information
+I1
+Reg. 13 not in force at made date, see reg. 1
+I2
+Reg. 13 in force at 31.12.2020 by S.I. 2020/1641, reg. 2, Sch.Removals from the Isle of Man to Northern Ireland
+14.  This Part applies to goods removed to Northern Ireland from the Isle of Man as it applies to goods removed from Great Britain to Northern Ireland and, in applying this Part for that purpose, references to provisions in VATA, other than references to Schedule 9ZB, are to be read as the corresponding provisions of an Act of Tynwald.
+Commencement Information
+I1
+Reg. 14 not in force at made date, see reg. 1
+I2
+Reg. 14 in force at 31.12.2020 by S.I. 2020/1641, reg. 2, Sch.VAT on removals to be payable by a taxable person as if it were VAT on a supply
+15.  This Part applies to a taxable person who is treated as having imported goods for the purpose of paragraph 4 of Schedule 9ZB, or paragraph 4A(2) of Schedule 9ZC M1, to VATA.
+Commencement Information
+I1
+Reg. 15 not in force at made date, see reg. 1
+I2
+Reg. 15 in force at 31.12.2020 by S.I. 2020/1641, reg. 2, Sch.
+Marginal Citations
+M1
+Schedule 9ZC was inserted into VATA by paragraph 28 of Schedule 3 to TPTPA and amended by paragraph 29 of Schedule 3 to TPTPA.16.—(1) A person to whom this Part applies (P) must account for and pay the VAT charged under paragraph 3(2) or, as the case may be, paragraph 3(4) of Schedule 9ZB to VATA as if that VAT were VAT on a supply made by P.
+(2) Accordingly—
+(a)
+P must in the prescribed accounting period M1 in which the goods are treated as imported account for and pay that VAT together with the VAT chargeable on the supply of goods or services due from P in that period;
+(b)
+the relevant enforcement provisions apply for the purposes of this regulation, in relation to P's obligation under paragraph (1) to account for and pay any VAT, as if that VAT were VAT on a supply made by P; and
+(c)
+the effect of section 16 M2 of VATA (application of customs enactments) as applied by paragraph 3(3) or 3(5), as the case may be, of Schedule 9ZB to VATA is disapplied to the extent that it would make alternative provision for the accounting and payment of that VAT.
+(3) In this regulation “the relevant enforcement provisions” means so much of—
+(a)
+VATA and any other enactment, and
+(b)
+any subordinate legislation,
+as has effect for the purposes of, or in connection with, the enforcement of any obligation to account for and pay VAT, and includes, without prejudice to the generality of the foregoing, Part 5 of the Value Added Tax Regulations 1995 M3.
+Commencement Information
+I1
+Reg. 16 not in force at made date, see reg. 1
+I2
+Reg. 16 in force at 31.12.2020 by S.I. 2020/1641, reg. 2, Sch.
+Marginal Citations
+M1
+Defined by section 25(1) VATA.
+M2
+Section 16 was substituted by paragraph 13 of Schedule 8 to TCTA. That substitution is not yet in force.
+M3
+S.I. 1995/2518; relevantly amended by S.I. 1996/1198, 1996/1250, 1997/1086, 1999/3114, 2000/258, 2000/794, 2003/1114, 2003/1485, 2003/2096, 2003/3220, 2004/1675, 2005/2231, 2007/1418, 2008/1482, 2009/586, 2009/2978, 2010/559, 2010/2240, 2012/33, 2012/1899, 2014/548, 2014/1497, 2018/261, 2019/59, 2019/60, 2019/1048, 2020/1545. The amendments made by S.I. 2019/59, 2019/60 and 2020/1545 are not yet in force.Requirement to produce import document
+17.—(1) A taxable person who—
+(a)
+makes a supply of goods which is zero-rated by virtue of paragraph 3(1) of Schedule 9ZB to VATA or a corresponding provision of an Act of Tynwald; and
+(b)
+is treated as having imported the goods for the purposes of paragraph 4 of Schedule 9ZB to VATA,
+must provide the person to whom the goods are supplied with an invoice, to be known as an import document, containing the information specified in paragraph (4).
+[F1(1A) A taxable person who is treated as having imported goods for the purposes of paragraph 4(3A) of Schedule 9ZB to VATA must provide the person to whom the goods are supplied with an invoice, to be known as an import document, containing the information specified in paragraph (4).]
+(2) A taxable person (T) who is treated by virtue of regulation 7 (movement of own goods and on behalf of third party) as having imported goods for the purposes of paragraph 4 of Schedule 9ZB to VATA must provide the owner of the goods (where that is not T) with an invoice, to be known as an import document, containing the information specified in paragraph (4).
+(3) The import document must be provided—
+(a)
+within a period of 30 days beginning with the day on which the supply is treated as taking place for the purposes of VATA, in the case of the circumstance described in paragraph (1);
+(b)
+within a period of 30 days beginning with the day on which the goods are treated as having been imported for the purposes of VATA, in the case of the circumstance described in paragraph (2); or
+(c)
+within such longer period as the Commissioners may allow either generally or in a particular case.
+(4) The information required to be included is—
+(a)
+a sequential number based on one or more series which uniquely identifies the document;
+(b)
+the time of the supply (where relevant), and removal;
+(c)
+the date of the issue of the document;
+(d)
+the name and address of the person to whom the goods are consigned;
+(e)
+a description sufficient to identify the goods supplied or removed;
+(f)
+for each description, the quantity of the goods and the amount payable excluding VAT;
+(g)
+the total amount of VAT chargeable on the [F2removal unless a margin scheme is applied under section 50A of VATAF3;]
+[F4(h)
+the name, address and registration number of the supplier;
+(i)
+where a margin scheme is applied under section 50A of VATA, the reference “margin scheme: works of art”, “margin scheme: antiques or collectors’ items”, or “margin scheme: second hand goods” as appropriate.]
+(5) The following provisions of the VAT Regulations 1995 M1 apply in relation to the import document required to be provided under paragraph (1) and (2) as they apply to a VAT invoice required to be provided under regulation 13(1) of those Regulations—
+(a)
+paragraphs (7) and (8) of regulation 13 (preservation of invoices);
+(b)
+regulation 13A (electronic invoicing);
+(c)
+regulation 13B (language).
+Textual Amendments
+F1
+Reg. 17(1A) inserted (1.8.2021) by The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715), regs. 1, 63(a)
+F2
+Words in reg. 17(4)(g) substituted (1.8.2021) by The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715), regs. 1, 63(b)(i)
+F3
+Section 50A was inserted by section 24(1) of the Finance Act 1995 (c. 4); provisions in S.I. 1992/3122 and 1995/1268 that were made under section 50A were amended by S.I 2020/1545 to make provision in respect of second-hand goods moving from Northern Ireland to Great Britain.
+F4
+Reg. 17(4)(h)(i) inserted (1.8.2021) by The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715), regs. 1, 63(b)(ii)
+Commencement Information
+I1
+Reg. 17 not in force at made date, see reg. 1
+I2
+Reg. 17 in force at 31.12.2020 by S.I. 2020/1641, reg. 2, Sch.
+Marginal Citations
+M1
+Relevantly amended by S.I. 1996/1250, 2003/3220, 2007/2085, 2012/2951, 2019/59, 2020/1545 and Schedule 3 to TPTA. The amendments made by TPTPA and the last two named instruments are not yet in force.Penalties
+18.  The obligation imposed by regulation 17 is to be treated for the purposes of section 69(1) M1 of VATA (breaches of regulatory provisions) as if it was imposed pursuant to regulations made under VATA, and section 76 M2 of VATA (assessment of amounts due by way of penalty, interest or surcharge) and section 83(1) M3 (appeals) are to be interpreted accordingly.
+Commencement Information
+I1
+Reg. 18 not in force at made date, see reg. 1
+I2
+Reg. 18 in force at 31.12.2020 by S.I. 2020/1641, reg. 2, Sch.
+Marginal Citations
+M1
+Amended by paragraph 9 of Schedule 3 to the Finance Act 1996, section 136(3) of the Finance Act 2000 (c. 17), section 19 of the Finance Act 2006, section 203 of, and paragraph 7 of Schedule 28 to, the Finance Act 2012, section 38 of the Finance Act 2018 (c. 3), section 43 of, and paragraph 61 of Schedule 8 to, TCTA, section 80 of the Finance Act 2020 (c. 14) and S.I. 2009/571. The amendment made by TCTA is not yet in force.
+M2
+Amended by section 35(7) of, and paragraph 11 of Schedule 3 to, the Finance Act 1996, section 45(6) of the Finance Act 1997 (c. 16), section 137 of the Finance Act 2000, section 21 of the Finance Act 2006, sections 93 and 114 of, and paragraph 1 of Schedule 27 to, the Finance Act 2007 (c. 11), section 103 of, and paragraph 13 of Schedule 22 to, the Finance Act 2014 (c. 26), section 68 of the Finance (No 2) Act 2017 (c. 32) and section 43 of, and paragraph 67 of Schedule 8 to, TCTA and S.I. 2016/1034. The amendment made by TCTA is not yet in force.
+M3
+Amended by section 31 of, and paragraph 12 of Schedule 3 to, the Finance Act 1996, sections 45, 46 and 47 of the Finance Act 1997, section 16 of, and paragraph 3 of Schedule 2 to, the Finance Act 1999 (c. 16), section 137 of the Finance Act 2000, sections 23 and 24 of the Finance Act 2002 (c. 23), sections 17 and 18 of the Finance Act 2003 (c.14), sections 19 and 22 of, and paragraph 4 of Schedule 2 to, the Finance Act 2004 (c.12), section 4 of the Finance (No 2) Act 2005 (c.22), section 21 of the Finance Act 2006, section 93 of the Finance Act 2007, section 77 of the Finance Act 2009 (c. 10), section 200 of the Finance Act 2012, section 124 of the Finance Act 2016 (c. 24), sections 62 and 68 of the Finance (No 2) Act 2017, section 43 of, and paragraph 72 of Schedule 8 to, TCTA and S.I. 1997/2542, 2001/3641, 2003/3075, 2007/2157, 2008/1146, 2009/56. The amendment made by TCTA is not yet in force.Credit for VAT on goods removed from Great Britain to Northern Ireland
+19.—(1) Paragraph (2) applies where—
+(a)
+goods are removed from Great Britain or the Isle of Man to Northern Ireland and a person (“P”) is liable for the VAT payable as a result of their entry into Northern Ireland, and
+(b)
+the goods are not removed for the purposes of, or in the course or furtherance of, any business carried on by a registered person.
+(2) Where this paragraph applies and subject to paragraph (5)—
+(a)
+P is granted a credit in accordance with paragraph (3), and
+(b)
+P is deemed to have made a payment equal to that credit in respect of the VAT payable as a result of the entry.
+(3) The credit referred to in sub-paragraph (2)(a) is—
+(a)
+the total of the VAT incurred on the purchase or importation of the goods in Great Britain [F1or the Isle of Man] by P or, where the goods were given to P, the VAT which was incurred in Great Britain [F1or the Isle of Man] on those goods by the person who gave the goods to P; or
+(b)
+if the goods have been manufactured by P, the total of the VAT incurred on the purchase or importation of the materials used in the manufacture of the goods,
+but in either case the credit may not be greater than the VAT payable as a result of the entry.
+(4) The total of the VAT referred to in sub-paragraphs (3)(a) and (b) is to be calculated in accordance with the directions of the Commissioners specified in a public notice.
+(5) If the amount of the VAT due on the entry of the goods exceeds the amount of the credit allowed under sub-paragraph (2)(a) P must account for and pay the balance in such form and manner, and at such time, as may be specified by the Commissioners in a public notice, or as they may direct in a particular case.
+(6) This regulation is to be treated, for the purposes of VATA, as if it had been made under that Act.
+Textual Amendments
+F1
+Words in reg. 19(3)(a) inserted (1.12.2021) by The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164), regs. 1, 30
+Commencement Information
+I1
+Reg. 19 not in force at made date, see reg. 1
+I2
+Reg. 19 in force at 31.12.2020 by S.I. 2020/1641, reg. 2, Sch.[F1Credit for VAT on goods imported into Great Britain for removal to Northern Ireland
+19A.—(1) Paragraph (2) applies where—
+(a)
+goods are imported into the United Kingdom as a result of their entry into Great Britain or are imported into the Isle of Man and a person (“P”) is liable for the VAT payable as a result of that importation (“the importation”);
+(b)
+the goods are imported in order to be delivered to an address in Northern Ireland;
+(c)
+following the importation the goods are removed to Northern Ireland and VAT is payable as a result of their entry into Northern Ireland (“the NI entry”); and
+(d)
+the goods are not altered, modified or supplied for consideration after the importation and prior to the NI entry.
+(2) Where this paragraph applies and subject to paragraph (4)—
+(a)
+P (and only P) is to be treated as having imported the goods into Northern Ireland for the purposes of paragraph 4 of Schedule 9ZB to VATA;
+(b)
+P is granted a credit (“the credit”) in accordance with paragraph (3); and
+(c)
+P is deemed to have made a payment equal to the credit in respect of the VAT payable as a result of the NI entry.
+(3) The credit is the VAT payable as a result of the importation but only to the extent it does not exceed the VAT payable as a result of the NI entry.
+(4) If the amount of the VAT due on the NI entry exceeds the amount of credit, P must account for and pay the balance in such form and manner, and at such time, as may be specified by the Commissioners in a public notice, or as they may direct in a particular case.
+(5) This regulation is to be treated, for the purposes of VATA, as if it had been made under that Act.]
+Textual Amendments
+F1
+Reg. 19A inserted (1.4.2022) by The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226), regs. 1, 3520.—(1) This regulation applies where a taxable person (T)—
+(a)
+receives a supply of goods which is zero-rated pursuant to paragraph 3(1) of Schedule 9ZB to VATA, or a corresponding provision of an Act of Tynwald;
+(b)
+is not treated as having imported the goods for the purposes of paragraph 4 of Schedule 9ZB; and
+(c)
+has been provided with an import document in accordance with regulation 17.
+(2) This regulation also applies where a taxable person (T)—
+(a)
+is the owner of goods removed in the circumstances described in regulation 7 (movement of own goods and on behalf of third party);
+(b)
+is not treated as having imported the goods for the purposes of paragraph 4 of Schedule 9ZB to VATA; and
+(c)
+has been provided with an import document in accordance with regulation 17.
+(3) Where this regulation applies, T may claim deduction of the total amount of the VAT (“the chargeable VAT”) shown on the import document as being chargeable on the entry of the goods as if it were input tax as defined in section 24(1) VATA but only if and to the extent that T would have been entitled to deduct it if it had been VAT chargeable on a supply of those goods.
+(4) Accordingly, any provision made by or under any enactment that is relevant to the accounting for, or deduction of input VAT, applies in relation to the chargeable VAT that is deductible under paragraph (3) as it does to input VAT as if it were input tax except that references to the date on which input tax becomes chargeable are to be read as referring to the date of the import document provided in accordance with regulation 17.
+Commencement Information
+I1
+Reg. 20 not in force at made date, see reg. 1
+I2
+Reg. 20 in force at 31.12.2020 by S.I. 2020/1641, reg. 2, Sch.21.  [F1A] taxable person (P) who is treated as having imported goods pursuant to [F2paragraph 4(3)] of Schedule 9ZB to VATA may not treat the VAT payable as a result of that importation as P's input VAT allowable under section 25 VATA (where P would otherwise, apart from this regulation, be permitted to do so).
+Textual Amendments
+F1
+Word in reg. 21 substituted (1.8.2021) by The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715), regs. 1, 64(a)
+F2
+Words in reg. 21 substituted (1.8.2021) by The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715), regs. 1, 64(b)
+Commencement Information
+I1
+Reg. 21 not in force at made date, see reg. 1
+I2
+Reg. 21 in force at 31.12.2020 by S.I. 2020/1641, reg. 2, Sch.Interpretation
+22.—(1) In this Part “relevant Northern Ireland trader” means a person of the description referred to in paragraph 7(3) of Schedule 9ZA M1 to VATA who on any day has in the period of 180 days ending on that day undertaken a relevant transaction.
+(2) A person undertakes a relevant transaction if the person—
+(a)
+makes any supply of goods which are in Northern Ireland at the time of the supply and the supply does not involve the removal of the goods from or to Northern Ireland;
+(b)
+makes any taxable acquisition of goods in Northern Ireland that falls within paragraph 2(3) of Schedule 9ZA to VATA;
+(c)
+makes a supply of goods which involves their removal from Northern Ireland to a member State, where the supply is to a person who is identified for the purposes of VAT in a member State;
+(d)
+makes a supply of goods which are treated as supplied in the United Kingdom by virtue of paragraph 29 of Schedule 9ZB to VATA; F1...
+(e)
+makes a supply of goods within paragraph 30 of Schedule 9ZB to VATA [F2or]
+[F3(f)
+makes a scheme supply within the meaning of Schedule 9ZD to VATA.]
+Textual Amendments
+F1
+Word in reg. 22(2)(d) omitted (1.12.2021) by virtue of The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164), regs. 1, 31(a)
+F2
+Word in reg. 22(2)(e) inserted (1.12.2021) by The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164), regs. 1, 31(b)
+F3
+Reg. 22(2)(f) inserted (1.12.2021) by The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164), regs. 1, 31(c)
+Commencement Information
+I1
+Reg. 22 not in force at made date, see reg. 1
+I2
+Reg. 22 in force at 31.12.2020 by S.I. 2020/1641, reg. 2, Sch.
+Marginal Citations
+M1
+Schedule 9ZA was inserted into VATA by paragraph 2 of Schedule 2 to TPTPA.The Commissioners to make arrangements for identification
+23.—(1) The Commissioners must make arrangements to ensure that—
+(a)
+a person who they are satisfied is a relevant Northern Ireland trader is identified for the purposes of VAT in Northern Ireland, and
+(b)
+a person who may be, or may become, a relevant Northern Ireland trader is identified for the purposes of VAT in Northern Ireland where the Commissioners consider that such identification is appropriate.
+(2) The arrangements referred to in paragraph (1) must include—
+(a)
+identifying such a person on the electronic system required to be maintained by the United Kingdom pursuant to Article 17 of Council Regulation (EU) No 904/2010 on administrative co-operation and combatting fraud in the field of value added tax M1 as it has effect in Northern Ireland as a result of section 7A of the European Union (Withdrawal) Act 2018; and
+(b)
+notifying that person that such identification has been made.
+(3) The Commissioners may identify a person with effect from a past date and in respect of a period of time during which the Commissioners are satisfied that the person may have been a relevant Northern Ireland trader, whether or not the person remains a relevant Northern Ireland trader at the time when the Commissioners identify the person.
+Commencement Information
+I1
+Reg. 23 not in force at made date, see reg. 1
+I2
+Reg. 23 in force at 31.12.2020 by S.I. 2020/1641, reg. 2, Sch.
+Marginal Citations
+M1
+OJ No. L 268 12.10.2010, p1-18.Request to be identified and obligation to request to be identified
+24.—(1) A person who has not been notified in accordance with regulation 23 (T) must within 30 days of undertaking a relevant transaction—
+(a)
+request the Commissioners to identify T for the purposes of VAT in Northern Ireland; and
+(b)
+notify the Commissioners of such details of the relevant transactions T has undertaken as the Commissioners may specify in a notice.
+(2) The Commissioners must specify in a notice the form and manner in which the request referred to in paragraph (1)(a) and the notification referred to in paragraph (1)(b) must be given.
+(3) In such a case the Commissioners must where they are satisfied that T is a relevant Northern Ireland trader identify T for the purposes of VAT in Northern Ireland with effect from the date on which T first undertook a relevant transaction.
+Commencement Information
+I1
+Reg. 24 not in force at made date, see reg. 1
+I2
+Reg. 24 in force at 31.12.2020 by S.I. 2020/1641, reg. 2, Sch.25.  Where T—
+(a)
+is not a relevant Northern Ireland trader;
+(b)
+requests that the Commissioners identify T for the purposes of VAT in Northern Ireland; and
+(c)
+satisfies the Commissioners that T intends to undertake a relevant transaction in the period of 30 days beginning on the date of the request,
+the Commissioners must identify T for the purposes of VAT in Northern Ireland with effect from the date of T's request.
+Commencement Information
+I1
+Reg. 25 not in force at made date, see reg. 1
+I2
+Reg. 25 in force at 31.12.2020 by S.I. 2020/1641, reg. 2, Sch.Communication of the fact of a person's identification for the purposes of VAT in Northern Ireland
+26.  The use of the prefix “XI” to the number assigned to a person for the purposes of VAT in the United Kingdom is the means by which that person communicates that the person is identified for the purpose of VAT in Northern Ireland.
+Commencement Information
+I1
+Reg. 26 not in force at made date, see reg. 1
+I2
+Reg. 26 in force at 31.12.2020 by S.I. 2020/1641, reg. 2, Sch.Ceasing to be identified
+27.  Where the Commissioners are satisfied that a person has ceased to be a relevant Northern Ireland trader they may cancel that person's identification for the purposes of VAT in Northern Ireland with effect from the day on which the person so ceased or from such later date as may be agreed between them and the person.
+Commencement Information
+I1
+Reg. 27 not in force at made date, see reg. 1
+I2
+Reg. 27 in force at 31.12.2020 by S.I. 2020/1641, reg. 2, Sch.28.  Where the Commissioners are satisfied that on the date on which a person was identified for the purposes of VAT in Northern Ireland the person was not a relevant Northern Ireland trader, they may cancel the person's identification with effect from that date.
+Commencement Information
+I1
+Reg. 28 not in force at made date, see reg. 1
+I2
+Reg. 28 in force at 31.12.2020 by S.I. 2020/1641, reg. 2, Sch.29.  Where a person satisfies the Commissioners that the person has ceased to be a relevant Northern Ireland trader and the person requests that the person's identification be cancelled, the Commissioners must cancel the person's identification with effect from the day on which the person so ceased or from such later date as may be agreed between them and the person.
+Commencement Information
+I1
+Reg. 29 not in force at made date, see reg. 1
+I2
+Reg. 29 in force at 31.12.2020 by S.I. 2020/1641, reg. 2, Sch.30.  Where a person satisfies the Commissioners that the person was not a relevant Northern Ireland trader on the date on which the person was identified for the purposes of VAT in Northern Ireland and the person requests that the person's identification be cancelled, the Commissioners must cancel the person's identification with effect from the date on which the person was identified for the purposes of VAT in Northern Ireland.
+Commencement Information
+I1
+Reg. 30 not in force at made date, see reg. 1
+I2
+Reg. 30 in force at 31.12.2020 by S.I. 2020/1641, reg. 2, Sch.Application of section 9A VATA: treating a person as if identified
+31.  The reference in subsection (1A) of section 9A M1 of VATA to a person identified for the purposes of VAT in Northern Ireland includes a registered person who is not so identified but who undertakes a business activity from a place in Northern Ireland.
+Commencement Information
+I1
+Reg. 31 not in force at made date, see reg. 1
+I2
+Reg. 31 in force at 31.12.2020 by S.I. 2020/1641, reg. 2, Sch.
+Marginal Citations
+M1
+Section 9A was inserted by section 21 of the Finance Act 2004 and amended by section 20 of the Finance (No 3) Act 2010 (c. 33), section 43 of, and paragraph 10 of Schedule 8 to, TCTA and by paragraph 5 of Schedule 2 to TPTPA.This Part to be treated as made under VATA
+32.  The provisions contained in this Part are to be treated for the purposes of VATA as if they had been made under paragraph 7 of Schedule 9ZA to VATA.
+Commencement Information
+I1
+Reg. 32 not in force at made date, see reg. 1
+I2
+Reg. 32 in force at 31.12.2020 by S.I. 2020/1641, reg. 2, Sch.VAT return accounting for low value importations
+33.  This Part applies to a person who is treated as having imported goods for the purposes of paragraph 4(2) of Schedule 9ZC M1 to VATA.
+Commencement Information
+I1
+Reg. 33 not in force at made date, see reg. 1
+I2
+Reg. 33 in force at 31.12.2020 by S.I. 2020/1641, reg. 2, Sch.
+Marginal Citations
+M1
+Schedule 9ZC was inserted by Schedule 3 to TPTPA.34.—(1) A person to whom this Part applies (P) must account for and pay the VAT charged under section 1(1)(c) of VATA M1, as applied by paragraph 1(3) of Schedule 9ZB to VATA, on the importation of those goods into the United Kingdom by reason of their entry into Northern Ireland, as if that VAT were VAT on a supply made by P.
+(2) Accordingly—
+(a)
+P must in the prescribed accounting period in which the goods are treated as imported account for and pay that VAT together with the VAT chargeable on the supply of goods or services due from P in that period;
+(b)
+the relevant enforcement provisions apply for the purposes of this regulation, in relation to P's obligation under paragraph (1) to account for and pay any VAT, as if that VAT were VAT on a supply made by P; and
+(c)
+the effect of section 16 of VATA (application of customs enactments), as modified by paragraph 1(6) of Schedule 9ZB to VATA, is disapplied to the extent that it would make alternative provision for the accounting and payment of that VAT.
+(3) In this regulation “the relevant enforcement provisions” means so much of—
+(a)
+VATA and any other enactment, and
+(b)
+any subordinate legislation,
+as has effect for the purposes of, or in connection with, the enforcement of any obligation to account for and pay VAT, and includes, without prejudice to the generality of the foregoing, Part 5 of the Value Added Tax Regulations 1995.
+Commencement Information
+I1
+Reg. 34 not in force at made date, see reg. 1
+I2
+Reg. 34 in force at 31.12.2020 by S.I. 2020/1641, reg. 2, Sch.
+Marginal Citations
+M1
+Section 1(1)(c) is amended by section 41 of TCTA but the amendment is not yet fully in force.[F135.—(1) No VAT is payable under paragraph 3(2) of Schedule 9ZB to VATA (VAT charged on goods removed from Northern Ireland to Great Britain) on goods to which regulation 18(3A) of the Customs (Northern Ireland) (EU Exit) Regulations 2020, when read with the relevant modification, applies.
+(2) The relevant modification referred to in paragraph (1) is that regulation 18(3A)(d) is to be read as if it said—
+“(d)
+have not undergone any substantive changes during the relevant period other than those which result from services performed whilst the goods were in Northern Ireland and which are treated for the purposes of VAT as supplied in the United Kingdom.”.]
+Textual Amendments
+F1
+Pt. 8 inserted (22.4.2021) by The Taxation Cross-border Trade (Northern Ireland) (EU Exit) (Amendment) Regulations 2021 (S.I. 2021/483), regs. 1(2), 3(2)David Duguid
+Maggie Throup
+Two of the Lords Commissioners for Her Majesty's TreasuryEXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations make provision appropriate in consequence of, or otherwise in connection with, the withdrawal of the United Kingdom from the EU. Specifically, they relate to the Protocol on Ireland/Northern Ireland agreed between the EU and the United Kingdom as part of the Withdrawal Agreement (“the Protocol”). They will come into force on a day or days to be appointed by the Treasury in further regulations.
+Regulation 2 makes provision for interpretation of the Regulations.
+Regulation 3 provides that where the circumstances described in paragraph (1) apply, relating to certain supplies of gold removed from Northern Ireland to Great Britain and vice versa, the person who is treated as having imported those goods for the purposes of paragraph 4 of Schedule 9ZB to the Value Added Tax Act 1994 (c. 23; “VATA”) is the customer.
+Regulations 4 provides that where the circumstances described in paragraph (1) apply, relating to certain supplies of gold involving the London Bullion Market Association removed as described above, the person who is treated as having imported those goods is the person who would have been required to account for VAT on the supply.
+Regulations 5 provides that where the circumstances described in paragraph (1) apply, relating to certain supplies of goods which are of a description contained in an order made under section 55A of VATA applies (which imposes a reverse charge on certain supplies of goods for the purposes of fraud prevention) are removed from Great Britain to Northern Ireland or vice versa, the person who is treated as having imported those goods is the customer.
+Regulation 6 provides that where goods are removed from Great Britain to Northern Ireland (or vice versa) and the goods are declared for a special customs procedure, the person who is treated as having imported the goods is the person who places them into free circulation. Regulation 6 also confers on the Commissioners for Revenue and Customs (HMRC) the power to specify the evidence that a taxable person who would otherwise be treated as having imported the goods must hold of the goods being declared for a special customs procedure. Any public notice made under this power will be made available at (or in a notice on the website, as described in that link). Free of charge hard copies will be available on request from the HMRC helpline on 0300 200 3700 (+44 2920 501 261 for outside the UK enquiries) or by writing to HM Revenue and Customs – VAT Written Enquiries Team, 123 St Vincent Street, Glasgow City, Glasgow, G2 5EA, United Kingdom.
+Regulation 7 provides that where a taxable person removes the person's own goods, or those of a third party, the remover is treated as having imported the goods.
+Regulations 8 to 11 provide that where a supply of goods is zero-rated as the goods are after that supply to be removed from Northern Ireland by way of export, the person supplying the goods is treated as having imported them into Great Britain.
+Regulation 12 provides that where goods are removed from Great Britain to Northern Ireland in a non-commercial consignment, the sender of those goods is treated as having imported them.
+Regulations 13 provides that where goods are removed from Great Britain to Northern Ireland otherwise than in the course of a business carried on by a VAT registered person, the person removing the goods is the person who is treating as having imported them.
+Regulation 14 provides that Part 2 of these Regulations applies to goods removed from the Isle of Man to Northern Ireland as it applies to goods removed from Great Britain to Northern Ireland.
+Regulations 15 and 16 provide that a taxable person who is treated as having imported goods for the purposes of paragraph 4 of Schedule 9ZB or paragraph 4A(2) of Schedule 9ZC (relating to removals facilitated by an online marketplace) must account for the resulting VAT on that person's VAT return. Regulation 17 imposes an obligation on the former class of person to provide an import document to that person's customer. Regulation 17 also requires a taxable person to provide an import document to another taxable person where removing that person's goods otherwise than pursuant to a supply. Regulation 18 applies a penalty for non-compliance with the obligation in regulation 17.
+Regulation 19 makes provision for VAT accounting by non-taxable persons. It allows a credit to be offset against the charge to VAT incurred on goods which are removed from Great Britain to Northern Ireland. The credit applies where the removal is not made in connection with a VAT registered business. The credit is the total of the VAT incurred on the goods when purchased in, or imported into, Great Britain to the extent the credit does not exceed the VAT due on the removal. Where the VAT due does exceed the credit, HMRC may specify in a public notice how and when that VAT should be paid. Any public notice made under this power will be made available as set out above in relation to regulation 6.
+Regulation 20 confers an entitlement on certain taxable persons to deduct the VAT shown on the import document referred to above as if it were that person's input tax. Regulation 21 provides that, in those circumstances, the person liable for the VAT on the entry of the goods into Northern Ireland (or Great Britain as the case may be) is not permitted to deduct that VAT as input tax.
+Regulations 22 to 30 make provision for the identification of relevant Northern Ireland traders for VAT purposes. The identification concerns the additional use of the prefix “XI” alongside a person's VAT registration number. These regulations make provision for a person to request, and to be obliged to request, to be identified for VAT purposes in Northern Ireland, for how the fact of that identification is to be communicated and the circumstances in which a person cases to be identified. Regulation 24 permits certain details to be set out in a public notice made by HMRC and any such public notice will be made available as set out above in relation to regulation 6. Regulation 31 relates to the interpretation of section 9A of VATA (cross-border reverse charge on supplies of gas and electricity to registered persons) and provides that a person who is not identified for VAT purposes in Northern Ireland is to be treated as if that person were so identified in certain circumstances. Regulation 32 provides that the Part is to be treated as if made under paragraph 7 of Schedule 9ZA to VATA.
+Regulations 33 and 34 make provision requiring a person who is treated as having imported goods for the purposes of paragraph 4(2) of Schedule 9ZC to VATA to account for the import VAT on the person's VAT return as if it were VAT on a supply.
+The withdrawal agreement, which includes the Protocol, is available at .
+A Tax Information and Impact Note covering this instrument will be published on the website at .

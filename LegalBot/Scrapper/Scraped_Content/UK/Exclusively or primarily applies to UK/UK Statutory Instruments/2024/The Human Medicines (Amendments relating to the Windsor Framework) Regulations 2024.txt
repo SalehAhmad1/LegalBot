@@ -1,0 +1,1206 @@
+STATUTORY INSTRUMENTS
+2024 No. 832
+MEDICINES
+The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024
+Made
+at 9.54 a.m. on 29th July 2024
+Laid before Parliament
+at 3.15 p.m. on 29th July 2024
+Coming into force
+1st January 2025
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 8C(1) of and paragraph 21(a)(ii) and (b) of Schedule 7 to the European Union Withdrawal Act 2018(1).
+(1)
+2018 c. 16; section 8C was inserted by section 21 of the European Union (Withdrawal Agreement) Act 2020 (c. 1) and was amended by section 55(3) of the United Kingdom Internal Market Act 2020 (c. 27); paragraph 21 of Schedule 7 was amended by paragraphs 38 and 53 of Schedule 5 to the European Union (Withdrawal Agreement) Act 2020 and by paragraph 8 of Schedule 2 to the Retained EU Law (Revocation and Reform) Act 2023 (c. 28).Citation, commencement, application and extent
+1.—(1) These Regulations may be cited as the Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 and come into force on 1st January 2025.
+(2) The amendments made by regulations 110, 111 and 140(c) and (d) apply in relation to medicinal products placed on the market for the first time on or after 1st January 2025.
+(3) These Regulations extend to England and Wales, Scotland and Northern Ireland.Amendment of the Human Medicines Regulations 2012
+2.  The Human Medicines Regulations 2012(1) are amended in accordance with regulations 3 to 146.
+(1)
+S.I. 2012/1916.Amendment to regulation 2A
+3.  In regulation 2A (definition of advanced therapy medicinal product etc.)(1), in paragraphs (1) and (10), omit “, in their application to products for sale or supply in Great Britain only,”.
+(1)
+Regulation 2A was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 3
+4.  In regulation 3 (scope of these Regulations: special provisions)(1), omit—
+(a)
+paragraph (12)(d)(ia);
+(b)
+paragraph (15)(aa).
+(1)
+Paragraph (ia) was inserted into paragraph (12)(d) by S.I. 2019/775 as amended by S.I. 2020/1488; sub-paragraph (aa) was inserted into paragraph (15) by S.I. 2021/834.Amendment to regulation 4
+5.  In regulation 4 (special provisions for pharmacies etc.), omit paragraph (4)(d)(ia)(1).
+(1)
+Paragraph (ia) of paragraph (4)(d) was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 5
+6.  In regulation 5 (classification of medicinal products)(1)—
+(a)
+in paragraph (1)—
+(i)
+at the end of sub-paragraph (a), for “; or” substitute a full stop;
+(ii)
+omit sub-paragraph (b);
+(b)
+in paragraph (3)—
+(i)
+omit sub-paragraph (b);
+(ii)
+in sub-paragraph (d) omit “or (b)”;
+(c)
+in paragraph (5)—
+(i)
+omit sub-paragraph (b);
+(ii)
+in sub-paragraph (d) omit “or (b)”.
+(1)
+Relevant amendments were made by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 8
+7.  In regulation 8 (general interpretation)—
+(a)
+in paragraph (1)—
+(i)
+omit the definition of “advanced therapy medicinal product”;
+(ii)
+in the definition of “Annex I to the 2001 Directive”(1), after “UKMA(GB)” insert “or UKMA(UK)(Category 1)”;
+(iii)
+omit the definition of “Commission Regulation 2016/161”(2);
+(iv)
+in the definition of “conditional marketing authorisation”(3), for “UKMA (GB)” substitute “UKMA(UK)(Category 1)”;
+(v)
+omit the definition of “healthcare institution”(4);
+(vi)
+in the definition of “marketing authorisation”, omit paragraph (b) and the “or” which precedes it;
+(vii)
+in the definition of “name”, omit paragraph (b) (but not the “and” which follows it);
+(viii)
+in the definition of “pharmacovigilance system”(5), omit “, EU marketing authorisation”;
+(ix)
+in the definition of “pharmacovigilance system master file”(6), omit “, EU marketing authorisation”;
+(x)
+in the definition of “post-authorisation safety study”, omit “, EU marketing authorisation”;
+(xi)
+omit the definition of “Regulation (EC) No 1394/2007”;
+(xii)
+in the definition of “UK marketing authorisation”(7), in paragraph (a), after “authorisation” insert “, within the definition of UKMA(UK)(Category 1) or UKMA(UK)(Category 2),”;
+(xiii)
+after the definition of “UK marketing authorisation”, insert—
+““UKMA(UK)(Category 1)” means a marketing authorisation of the description in regulation 49(1ZB);
+“UKMA(UK)(Category 2)” means a marketing authorisation of the description in regulation 49(1ZC);”;
+(xiv)
+in the definition of “under the unfettered access route”, in paragraph (a), for “UKMA(GB)” substitute “UKMA(UK)(Category 2)”;
+(b)
+in paragraph (9)(8), for “UKMA(UK)” substitute “UKMA(UK)(Category 2)”.
+(1)
+The definition was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.
+(2)
+The definition was inserted by S.I. 2019/62 and S.R. 2019 No. 10.
+(3)
+The definition was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.
+(4)
+The definition was inserted by S.I. 2019/62 and S.R. 2019 No. 10.
+(5)
+The definition was amended by S.I. 2019/775 as amended by S.I. 2020/1488.
+(6)
+The definition was amended by S.I. 2019/775 as amended by S.I. 2020/1488.
+(7)
+The definition was substituted by S.I. 2019/775 as amended by S.I. 2020/1488.
+(8)
+Paragraph (9) was inserted by S.I. 2019/775 as amended by S.I. 2020/1488Amendment to regulation B17
+8.  In regulation B17(2)(b) (regulations on good manufacturing practice)(1), omit “or EU marketing authorisation”.
+(1)
+Regulation B17 was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation C17
+9.  In regulation C17(1) (guidelines on good manufacturing practice and good distribution practice)(1), for “Great Britain” substitute “the United Kingdom”.
+(1)
+Regulation C17 was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 17
+10.  In regulation 17 (manufacturing of medicinal products)(1)—
+(a)
+in paragraph (4), omit sub-paragraph (b) and the “or” which precedes it;
+(b)
+in paragraph (7), omit sub-paragraph (b) and the “and” which precedes it;
+(c)
+after paragraph (9)(c), insert “and”;
+(d)
+omit paragraph (9)(e) and the “and” which precedes it.
+(1)
+Paragraph (4) was amended by, and paragraph (7) inserted by, S.I. 2019/775 as amended by S.I. 2020/1488, and paragraph (9) was inserted by S.I. 2023/437.Amendment to regulation 18
+11.  In regulation 18 (wholesale dealing in medicinal products)(1)—
+(a)
+in paragraph (6)(b), omit “, EU marketing authorisation”;
+(b)
+omit paragraph (7).
+(1)
+Regulation 18 was substituted by S.I. 2013/1855; paragraph (6) was substituted by, and paragraph (7) amended by, S.I. 2019/775 as amended by S.I. 2020/1488; the substituted paragraph (6) was amended by S.I. 2021/1452.Amendment to regulation 19
+12.  In regulation 19(1)(a)(ii) (exemptions from requirement for wholesale dealer’s licence)(1), omit “, an EU marketing authorisation”.
+(1)
+Paragraph (1)(a) was substituted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 31
+13.  In regulation 31 (certification of manufacturer’s licence)(1)—
+(a)
+in paragraph (3)(b), omit “, EU marketing authorisation”;
+(b)
+in paragraph (5)(a) and (b), omit “, EU marketing authorisation”.
+(1)
+Paragraphs (3) and (5) were amended by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 36
+14.  In regulation 36 (conditions for manufacturer’s licence)(1), omit paragraphs (4) to (7).
+(1)
+Paragraphs (4) to (7) were inserted by S.I. 2019/62.Amendment to regulation 37
+15.  In regulation 37(5)(b) (manufacturing and assembly)(1)—
+(a)
+omit “in the case of a product for sale or supply in Great Britain (including a listed NIMAR product for sale or supply from Great Britain to Northern Ireland),”;
+(b)
+for the words from “and” to the end substitute “(including in the case of a listed NIMAR product for sale or supply from Great Britain to Northern Ireland)”.
+(1)
+Regulation 37 was substituted by S.I. 2013/1855, paragraph (5)(b) was amended by S.I. 2019/775 as amended by S.I 2020/1488 and 2021/1452 and paragraph (6)(b) was substituted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 39
+16.  In regulation 39(8) (further requirements for manufacturer’s licence)(1)—
+(a)
+at the end of sub-paragraph (a), for “, and” substitute a full stop;
+(b)
+omit sub-paragraph (b).
+(1)
+Paragraph (8) was substituted by S.I. 2021/1452.Amendment to regulation 42
+17.  In regulation 42 (conditions for wholesale dealer’s licence)(1), omit paragraphs (4), (5) and (6).
+(1)
+Paragraphs (4) and (5) were inserted by S.I. 2019/62; paragraph (6) was inserted by S.I. 2021/1452.Amendment to regulation 43
+18.  In regulation 43 (obligations of licence holder)(1), omit—
+(a)
+“, and EU marketing authorisation” in paragraph (5)(a)(ii);
+(b)
+“, EU marketing authorisation” in paragraph (7)(b)(ii)(bb);
+(c)
+paragraph (7)(c)(vii);
+(d)
+paragraph (10);
+(e)
+paragraph (11);
+(f)
+“or EU marketing authorisation holder” in paragraph (13).
+(1)
+Relevant amendments to regulation 43 were made by S.I. 2013/1855 and 2019/775 as amended by S.I. 2020/1488.Revocation of regulation 43A
+19.  Omit regulation 43A (requirement for wholesale dealers to decommission the unique identifier)(1).
+(1)
+Regulation 43A was inserted by S.I. 2019/62.Amendment to regulation 44
+20.  In regulation 44 (requirement for wholesale dealers to deal only with specified persons)(1)—
+(a)
+in paragraph (6)—
+(i)
+at the end of sub-paragraph (d), for “; and” substitute a full stop;
+(ii)
+omit sub-paragraph (e);
+(b)
+in paragraph (8), for “UKMA(GB)” substitute “UKMA(UK)(Category 2)”.
+(1)
+Regulation 44 was substituted by S.I. 2013/1855; paragraph (6) was amended by S.I. 2016/186 and 2019/775 as amended by S.I. 2020/1488; paragraph (8) was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 45A
+21.  In regulation 45A(1A)(a) (brokering in medicinal products)(1), omit paragraph (i).
+(1)
+Regulation 45A was inserted by S.I. 2013/1855 and was amended by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 45E
+22.  In regulation 45E (criteria of broker’s registration)(1), omit paragraph(3)(d)(iii).
+(1)
+Regulation 45E was inserted by S.I. 2013/1855 and was amended by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 45F
+23.  In regulation 45F (provision of information)(1), in paragraph (1), for sub-paragraph (b) substitute—
+“(b)
+the UK marketing authorisation holder, or, where applicable—
+(i)
+the holder of the licence or authorisation granted by an appropriate authority responsible for the licensing of medicinal products in an approved country for import, or
+(ii)
+the EU marketing authorisation holder,”.
+(1)
+Regulation 45F was inserted by S.I. 2013/1855 and was amended by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 46
+24.  In regulation 46 (requirement for authorisation)(1), omit—
+(a)
+paragraph (2)(aa);
+(b)
+paragraph (6)(aa).
+(1)
+Paragraphs (2)(aa) and (6)(aa) were inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 48
+25.—(1) Regulation 48 (application of Part) is amended as follows.
+(2) In paragraph (2)—
+(a)
+omit the definition of “EU reference medicinal product”(1);
+(b)
+in the definition of “excluded reference product”(2), in paragraph (c), for “53A(1)” substitute “53B(1)”;
+(c)
+in the definition of “generic medicinal product”(3)—
+(i)
+in paragraph (a), for “UKMA(UK)” substitute “UKMA(UK)(Category 2)”;
+(ii)
+in paragraph (b), in the opening words, for “UKMA(GB)” substitute “UKMA(UK)(Category 1)”;
+(d)
+in the definition of “reference medicinal product”(4)—
+(i)
+omit paragraph (b);
+(ii)
+in paragraph (c)—
+(aa)
+at the end of sub-paragraph (i), for “; or” substitute a comma;
+(bb)
+omit sub-paragraph (ii).
+(3) In paragraph (7)(5), for “51A(1) and (6)” substitute “51B(1) and (6)”.
+(4) Omit paragraphs (8) and (9).
+(1)
+The definition was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.
+(2)
+The definition was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.
+(3)
+The definition was substituted by S.I. 2019/775 as amended by S.I. 2020/1488.
+(4)
+The definition was substituted by S.I. 2019/775 as amended by S.I. 2020/1488.
+(5)
+Paragraphs (7), (8) and (9) were inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 49
+26.  In regulation 49 (application for grant of UK marketing authorisation or parallel import licence)(1)—
+(a)
+after paragraph (1), insert—
+“(1ZA) If the licensing authority determines to grant a UKMA(UK) under paragraph (1), it must determine if one or more of the following criteria are met in relation to the medicinal product—
+(a)
+it belongs to a category of medicinal product referred to in Article 3(1) of Regulation (EC) No 726/2004;
+(b)
+it belongs to a category of medicinal product referred to in Article 3(2) of Regulation (EC) No 726/2004 and—
+(i)
+the medicinal product contains an active substance which, on 20th May 2004, was not authorised in the European Union, or
+(ii)
+the licensing authority considers that the medicinal product constitutes a significant therapeutic, scientific or technical innovation or that granting the marketing authorisation is in the interest of patients’ health in the United Kingdom.
+(1ZB) If the licensing authority determines that one or more of the criteria in paragraph (1ZA) are met, the marketing authorisation granted is a UKMA(UK)(Category 1).
+(1ZC) If the licensing authority determines that none of the criteria in paragraph (1ZA) are met, the marketing authorisation granted is a UKMA(UK)(Category 2).
+(1ZD) The licensing authority may grant a UKMA(NI) under Chapter 4 of Title III of the 2001 Directive where there is an application for a marketing authorisation for a medicinal product, unless there is a UKMA(UK), or an application yet to be determined for a UKMA(UK), for the same medicinal product.”;
+(b)
+in paragraph (1A)—
+(i)
+in the opening words, for “UKMA(GB)” substitute “UKMA(UK)(Category 2)”;
+(ii)
+for sub-paragraph (a) substitute—
+“(a)
+there is in place, or will be at the time the UKMA(UK)(Category 2) is granted, a UKMA(NI) in respect of the product authorising sale or supply in Northern Ireland,”;
+(c)
+in paragraph (3)—
+(i)
+in sub-paragraph (a), for “a UKMA(UK) or UKMA(NI) must” substitute “a UK marketing authorisation must, subject to sub-paragraph (b),”;
+(ii)
+in sub-paragraph (b)—
+(aa)
+for “UKMA(GB)” substitute “UKMA(UK)(Category 2)”,
+(bb)
+omit paragraph (ii);
+(d)
+after paragraph (3), insert—
+“(3ZA) Where a UKMA(UK)(Category 2) is granted under the unfettered access route, any UKMA(NI) granted in relation to the same medicinal product ceases to have effect.”;
+(e)
+in paragraph (9), omit sub-paragraph (b) (but not the “or” which follows it).
+(1)
+The heading to regulation 49 was amended and paragraph (1) substituted by S.I. 2014/1878; paragraph (3) was substituted by, and paragraphs (1A) and (9) inserted by, S.I. 2019/775 as amended by S.I. 2020/1488; paragraph (3)(a) was substituted by, and paragraph (3)(b) amended by, S.I. 2023/437.Amendment to regulation 50
+27.  In regulation 50 (accompanying material)(1)—
+(a)
+in paragraph (4)—
+(i)
+in sub-paragraph (a), for “UKMA(UK)” substitute “UKMA(UK)(Category 2)”;
+(ii)
+in sub-paragraph (b), for “UKMA(GB)” substitute “UKMA(UK)(Category 1)”;
+(b)
+in paragraph (5A)—
+(i)
+omit “in respect of Great Britain”;
+(ii)
+for “UKMA(GB)” substitute “UKMA(UK)(Category 1)”;
+(c)
+in paragraph (6), omit sub-paragraphs (aa), (ba) and (ca).
+(1)
+Relevant amendments to regulation 50 were made by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 50A
+28.  In regulation 50A (requirement for certain applications to include results of paediatric investigation plan)(1)—
+(a)
+in paragraph (1), in sub-paragraph (a), omit “UKMA(GB) or”;
+(b)
+in paragraph (7), for “UKMA(GB)” substitute “UKMA(UK)(Category 2)”;
+(c)
+in paragraph (8), for “a UKMA(UK)” substitute “a UKMA(UK)(Category 2)”.
+(1)
+Regulation 50A was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 50E
+29.  In regulation 50E (application for paediatric use marketing authorisation)(1)—
+(a)
+in paragraph (1), omit “UKMA(GB) or”;
+(b)
+in paragraph (5), for “a UKMA(UK)” substitute “a UKMA(UK)(Category 2)”.
+(1)
+Regulation 50E was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 50F
+30.  In regulation 50F(1) (other applications including paediatric indications)(1)—
+(a)
+in sub-paragraph (a), for “UKMA(GB)” substitute “UKMA(UK)(Category 1)”;
+(b)
+in sub-paragraph (b), at the end insert “or a UKMA(UK)(Category 1)”.
+(1)
+Regulation 50F was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 50G
+31.  In regulation 50G (applications relating to orphan medicinal products)(1)—
+(a)
+in paragraph (1)—
+(i)
+at the end of sub-paragraph (a), for “, and” substitute a full stop;
+(ii)
+omit sub-paragraph (b);
+(b)
+in paragraph (2), in both places, for “Great Britain” substitute “the United Kingdom”.
+(1)
+Regulation 50G was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 50H
+32.  In regulation 50H (applications relating to advanced therapy medicinal products)(1), in paragraphs (1) and (3), for “a UKMA(GB)”, substitute “a UKMA(UK)(Category 1)”.
+(1)
+Regulation 50H was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 50I
+33.  In regulation 50I (applications relating to conditional marketing authorisations)(1)—
+(a)
+in the heading, omit “for sale or supply in Great Britain only”;
+(b)
+in paragraph (1), for “a UKMA(GB)” substitute “a UKMA(UK)(Category 1)”.
+(1)
+Regulation 50I was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 51
+34.  In regulation 51 (application for UKMA(NI) relating to generic medicinal products)(1)—
+(a)
+in paragraph (2), omit “as modified by paragraph (3)”;
+(b)
+omit paragraphs (3) and (4).
+(1)
+Regulation 51 was substituted by S.I. 2019/775 as amended by S.I. 2020/1488.Revocation of regulation 51A
+35.  Omit regulation 51A (application for UKMA(GB) relating to generic medicinal products)(1).
+(1)
+Regulation 51A was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Substitution of regulation 51B
+36.  For regulation 51B (application for UKMA(UK) relating to generic medicinal products)(1), substitute—
+“Application for UKMA(UK) relating to generic medicinal products
+51B.—(1) An applicant for a UKMA(UK) for a generic medicinal product may, by way of derogation from paragraph 10 of Schedule 8, omit from the application the results of pre-clinical tests and of clinical trials if the applicant can demonstrate that the medicinal product is a generic of a reference medicinal product which is or has been authorised for not less than eight years under regulation 49(1)(a) (subject to paragraphs (2) and (3)).
+(2) In the case of an application under this regulation in relation to a salt, ester, ether, isomer, mixture of isomers, complex or derivative of an authorised active substance which differs significantly in properties with regard to safety or efficacy from the active substance in the reference medicinal product, the applicant must supply additional information providing proof of the safety or efficacy of the salt, ester, ether, isomer, mixture of isomers, complex or derivative.
+(3) The applicant may omit bioavailability studies from an application under this regulation if the applicant can demonstrate that the generic medicinal product meets the relevant criteria as specified in the guidelines referred to in paragraph (4).
+(4) The licensing authority may publish guidelines specifying the criteria to be met by generic medicinal products for the purpose of omitting bioavailability studies from an application in accordance with paragraph (3).
+(5) Until replaced by guidelines published under paragraph (4), the guidelines published by the EMA under Article 10(2)(b) of the 2001 Directive continue to apply as they applied immediately before IP completion day (subject to any amendments or variations published under paragraph (4)).
+(6) If the licensing authority grants a UKMA(UK) in relation to the generic medicinal product in accordance with paragraph (1), it is a term of the authorisation that the product must not be sold or supplied, or offered for sale or supply, in the United Kingdom before the expiry of ten years beginning with the date on which the UK marketing authorisation for the reference medicinal product was granted.
+(7) If during the first eight of the ten years referred to in paragraph (6) the marketing authorisation holder for the reference medicinal product obtained a UK marketing authorisation for one or more new therapeutic indications, and, during the scientific evaluation prior to their authorisation, the licensing authority considers the new indications bring a significant clinical benefit in comparison with existing therapies, the period of ten years referred to in paragraph (6) is extended to eleven years.
+(8) Where an application for grant or variation of a UKMA(UK) is made in relation to a new indication for a well-established substance; and significant pre-clinical or clinical studies were carried out in relation to the new indication, the applicant for a UKMA(UK) under paragraph (1) or regulation 52B or 53B, may not refer in its application to those studies for the period of one year beginning with the date on which the licensing authority grants or varies the UKMA(UK) in relation to the new indication.”.
+(1)
+Regulation 51B was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 52
+37.  In regulation 52(3) (application for UKMA(NI) relating to certain medicinal products that do not qualify as generic etc.)(1), for “Paragraphs (2) to (4) of regulation 51 apply to the application as they apply” substitute “Paragraph (2) of regulation 51 applies to the application as it applies”.
+(1)
+Regulation 52 was substituted by S.I. 2019/775 as amended by S.I. 2020/1488.Revocation of regulation 52A
+38.  Omit regulation 52A (application for UKMA(GB) relating to certain medicinal products that do not qualify as generic etc.)(1).
+(1)
+Regulation 52A was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Substitution of regulation 52B
+39.  For regulation 52B (application for UKMA(UK)(1) relating to certain medicinal products that do not qualify as generic etc.), substitute—
+“Application for UKMA(UK) relating to certain medicinal products that do not qualify as generic etc.
+52B.—(1) This Regulation applies where an application is made for a UKMA(UK) by reference to another medicinal product as reference medicinal product which is, or has been, authorised for not less than eight years under regulation 49(1)(a) and one or more of the following circumstances applies in respect of the application—
+(a)
+the medicinal product to which the application relates does not fall within the definition of generic medicinal product;
+(b)
+bioequivalence with the reference medicinal product cannot be demonstrated through bioavailability studies; or
+(c)
+the medicinal product to which the application relates differs from the reference medicinal product in terms of changes in the active substance, therapeutic indications, strength, pharmaceutical form or route of administration.
+(2) The applicant may, by way of derogation from paragraph 10 of Schedule 8, omit from the application the results of pre-clinical tests and of clinical trials relating to the reference medicinal product, but must provide the results of the appropriate pre-clinical tests or clinical trials relating to the applicable circumstances in paragraph (1).
+(3) Paragraphs (2), (6) and (7) of regulation 51B apply to the application as they apply to an application made in accordance with paragraph (1) of that regulation.”.
+(1)
+Regulation 52B was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 53
+40.  In regulation 53(3) (application for UKMA(NI) relating to similar biological medicinal products)(1), for “Paragraphs (2) to (4) of regulation 51 apply to the application as they apply” substitute “Paragraph (2) of regulation 51 applies to the application as it applies”.
+(1)
+Regulation 53 was substituted by S.I. 2019/775 as amended by S.I. 2020/1488.Revocation of regulation 53A
+41.  Omit regulation 53A (application for UKMA(GB) relating to similar biological medicinal products)(1).
+(1)
+Regulation 53A was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Substitution of regulation 53B
+42.  For regulation 53B (application for UKMA(UK) relating to similar biological medicinal products)(1) substitute—
+“Application for UKMA(UK) relating to similar biological medicinal products
+53B.—(1) This regulation applies in relation to an application for a UKMA(UK) for a biological medicinal product where the applicant is not able to show that it meets a condition for it being a generic version of a similar medicinal product because of differences relating to raw materials or differences in manufacturing processes of the biological medicinal product and the reference medicinal product which is the subject of a UKMA(UK).
+(2) The applicant may, by way of derogation from paragraph 10 of Schedule 8, omit from the application the results of pre-clinical tests and of clinical trials relating to a reference medicinal product which is or has been authorised for not less than eight years, but must provide the results of appropriate pre-clinical tests or clinical trials relating to the differences referred to in paragraph (1).
+(3) The type and quantity of supplementary data to be provided by the applicant under paragraph (2) must comply with the relevant criteria in Annex 1 to the 2001 Directive and in the related detailed guidelines published by the licensing authority under paragraph (4), or (as the case may be) as mentioned in paragraph (5).
+(4) The licensing authority may publish guidelines concerning the type and quantity of supplementary data to be provided by an applicant under paragraph (2).
+(5) Unless replaced by guidelines published under paragraph (4), the guidelines published by the EMA under Article 10(4) of the 2001 Directive continue to apply as they applied immediately before IP completion day (subject to any amendments or variations published under that paragraph).
+(6) If the licensing authority grants a UKMA(UK), in relation to the similar biological medicinal product in accordance with paragraph (2), it is a term of the authorisation that the product must not be sold or supplied, or offered for sale or supply, in the United Kingdom before the expiry of ten years beginning with the date on which the UK marketing authorisation for the reference medicinal product was granted.
+(7) If during the first eight of the ten years referred to in paragraph (6), the marketing authorisation holder for the reference medicinal product requested and obtained a UKMA(UK) for one or more new therapeutic indications, and, during the scientific evaluation prior to their authorisation, the licensing authority considers that new indications bring a significant clinical benefit in comparison with existing therapies, the period of ten years is extended to eleven years.
+(8) Where an application is made for the grant or variation of a UKMA(UK) in relation to a new indication for a well-established substance, and significant pre-clinical or clinical studies were carried out in relation to the new indication, the applicant for a UKMA(UK) under paragraph (1) may not refer in its application to those studies for the period of one year beginning with the date on which the licensing authority grants or varies a UKMA(UK) in relation to the new indication.”.
+(1)
+Regulation 53B was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 55
+43.  In regulation 55 (applications relating to new combinations of active substances)(1)—
+(a)
+in paragraph (1)(b)—
+(i)
+omit paragraph (ii) (but not the “or” which follows it);
+(ii)
+in paragraph (iii), for sub-paragraph (bb) substitute—
+“(bb)
+a UKMA(NI).”;
+(b)
+omit paragraph (3).
+(1)
+Regulation 55 was substituted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 58
+44.  In regulation 58(8) (consideration of application)(1), for “UKMA(GB)”, substitute “UKMA(UK)(Category 2)”.
+(1)
+Paragraph (8) was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 58A
+45.  In regulation 58A (paediatric rewards)(1)—
+(a)
+in paragraph (3)—
+(i)
+at the end of sub-paragraph (a), for “; or” substitute a comma;
+(ii)
+omit sub-paragraph (b);
+(b)
+in paragraph (4)(b), for “regulation 51A(6), under regulation 51A(12)” substitute “regulation 51B(6), under regulation 51B(7)”;
+(c)
+in paragraph (8), for “regulation 51A(1) and (6)” substitute “regulation 51B(1) and (6)”.
+(1)
+Regulation 58A was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 58F
+46.  In regulation 58F(1)(b) (consideration of applications relating to conditional marketing authorisations)(1), for “UKMA(GB)” substitute “UKMA(UK)(Category 1)”.
+(1)
+Regulation 58F was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 59
+47.  In regulation 59 (conditions of UK marketing authorisation or parallel import licence: general)(1)—
+(a)
+in paragraph (3), for “UKMA(UK)” substitute “UKMA(UK)(Category 2)”;
+(b)
+in paragraph (3A), after “UKMA(GB)” insert “or a UKMA(UK)(Category 1)”;
+(c)
+in paragraph (3B)—
+(i)
+omit “in respect of Great Britain”;
+(ii)
+after “may be required”, insert “in relation to a UKMA(GB) or UKMA(UK)(Category 1)”;
+(d)
+in paragraph (5), for “UKMA(UK)” substitute “UKMA(UK)(Category 2)”.
+(1)
+Paragraphs (3) and (5) were amended by, and paragraphs (3A) and (3B) were inserted by, S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 60
+48.  In regulation 60(9) (conditions of UK marketing authorisation or parallel import licence: exceptional circumstances)(1), for “UKMA(UK)” substitute “UKMA(UK)(Category 2)”.
+(1)
+The heading to regulation 60 was amended by, and paragraph (9) was substituted by, S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 60A
+49.  In regulation 60A (condition as to the submitting of samples and other information to the appropriate authority)(1)—
+(a)
+in paragraph (1), for the definition of “the batch testing exemption”, substitute—
+““the batch testing exemption” means that—
+(a)
+in the case of a medicinal product for sale or supply in Northern Ireland only and authorised under a UKMA(NI) or a UKMA(UK)(Category 2), a certificate—
+(i)
+has been issued by a laboratory in an EEA State, and
+(ii)
+in the case of a product of a kind listed in Article 114(1) of the 2001 Directive, was issued in the same EEA State as that in which the batch was manufactured, and
+the appropriate authority is satisfied that the certificate provides confirmation of conformity with the approved specifications in the UKMA(NI) or UKMA(UK)(Category 2), as applicable, or
+(b)
+in the absence of such a certificate, or in the case of a medicinal product authorised for sale or supply under a UKMA(GB) or a UKMA(UK)(Category 1)—
+(i)
+a certificate has been issued by a laboratory in a country other than the United Kingdom,
+(ii)
+an agreement has been made between that country and the United Kingdom (whether or not the agreement is solely with that country, a group of countries or an organisation of which that country is a part), and
+(iii)
+that agreement is to the effect that the appropriate authority will recognise that certificate in respect of the batch of the medicinal product, in place of the appropriate authority’s own examination of a sample from the batch, the appropriate documentation or both.”;
+(b)
+in paragraph (5), omit “and regulation 60B(5)”;
+(c)
+in paragraph (9)(a) and (b), omit “or regulation 60B”;
+(d)
+in paragraph (10), for “Where” substitute “Subject to paragraph (10A), where”;
+(e)
+after paragraph (10), insert—
+“(10A) Where a holder of a UK marketing authorisation intends to rely on paragraph (a) of the batch testing exemption in relation to a batch of a medicinal product, that holder must not sell or supply, or offer to sell or supply, in Northern Ireland, a medicinal product that forms part of that batch until the appropriate authority has confirmed that it is satisfied as set out in that paragraph.”.
+(1)
+Regulation 60A was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Revocation of regulation 60B
+50.  Omit regulation 60B (submitting of samples and other information: EU marketing authorisations)(1).
+(1)
+Regulation 60B was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 61
+51.  In regulation 61 (conditions of UK marketing authorisation: new obligations post-authorisation)(1)—
+(a)
+in paragraph (4)(b), after “UKMA(GB)” insert “or UKMA(UK)(Category 1)”;
+(b)
+in paragraph (6), for “or UKMA(UK)” substitute “or UKMA(UK)(Category 2)”;
+(c)
+in paragraph (6A), after “UKMA(GB)” insert “or UKMA(UK)(Category 1)”;
+(d)
+for paragraph (7), substitute—
+“(7) The obligation under paragraph (5) must be based on the delegated acts adopted pursuant to Article 22b of the 2001 Directive while taking account of the scientific guidance that applies under regulation 205B in relation to post-authorisation efficacy studies.”;
+(e)
+omit paragraph (7A);
+(f)
+in paragraph (13), for “or UKMA(UK)” substitute “or UKMA(UK)(Category 2)”.
+(1)
+Relevant amendments to regulation 61 were made by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 64
+52.  In regulation 64(4)(d) (duties of licensing authority in connection with determination)(1)—
+(a)
+in paragraph (i), for “or UKMA(UK)” substitute “or UKMA(UK)(Category 2)”;
+(b)
+in paragraph (ii), after “UKMA(GB)” insert “or UKMA(UK)(Category 1)”.
+(1)
+Paragraph (4)(d) was substituted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 65C
+53.  In regulation 65C (variation of a UKMA(GB))(1), in the heading, and in paragraphs (1) and (3), after “UKMA(GB)” insert “or a UKMA(UK)(Category 1)”.
+(1)
+Regulation 65C was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 66
+54.  In regulation 66(2) (application for renewal of authorisation)(1)—
+(a)
+for sub-paragraph (a) substitute—
+“(a)
+a UK marketing authorisation, must, subject to sub-paragraph (b), be established in the UK or an EEA State; and”;
+(b)
+in sub-paragraph (b)—
+(i)
+for “UKMA(GB)” substitute “UKMA(UK)(Category 2)”;
+(ii)
+omit paragraph (ii);
+(c)
+omit sub-paragraph (c).
+(1)
+Paragraph (2) was substituted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 67
+55.  In regulation 67 (failure to place on the market etc.)(1), in paragraphs (1) and (2) omit “or, in the case of a UKMA(GB) granted after an application under the unfettered access route, in Great Britain”.
+(1)
+In regulation 67, the words omitted were inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 68
+56.  In regulation 68 (revocation, variation and suspension of UK marketing authorisation or parallel import licence)(1)—
+(a)
+in paragraph (7)—
+(i)
+for sub-paragraph (a) substitute—
+“(a)
+Northern Ireland, in the case of a UKMA(UK)(Category 2) granted under the unfettered access route, and”;
+(ii)
+for sub-paragraph (b) substitute—
+“(b)
+the United Kingdom or an EEA State, in any other case,”;
+(b)
+after paragraph (11G) insert—
+“(11H) Condition Q is that, in relation to a UKMA(UK)(Category 2), the licensing authority thinks that a variation is necessary in the interest of patients’ health in the United Kingdom so that the authorisation is treated as a UKMA(UK)(Category 1).
+(11I) Condition R is that, in relation to a UKMA(UK)(Category 2), the licensing authority thinks that a variation is necessary in the interest of patients’ health in the United Kingdom so that the authorisation is treated as a UKMA(GB) and separate UKMA(NI).
+(A12) Where Condition R is met, and the licence holder requests the cancellation of, or fails to renew, either the UKMA(GB) or UKMA(NI) that result from a variation being made under paragraph 11I, the licensing authority may revoke the corresponding UKMA(NI) or UKMA(GB) that results from that variation.”.
+(1)
+Regulation 68 was amended by S.I. 2013/1855, 2014/1878 and 2019/775 (including that instrument as amended by S.I. 2020/1488).Amendment to regulation 71
+57.  In regulation 71(1), for sub-paragraph (b) (withdrawal of medicinal product from the market)(1) substitute—
+“(b)
+under regulation 69 the licensing authority suspends the use, sale, supply or offer for sale or supply within the United Kingdom of a product to which a UK marketing authorisation relates.”.
+(1)
+Sub-paragraph (b) was substituted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 72
+58.  In regulation 72(1) (sale etc. of suspended medicinal product)(1), for sub-paragraphs (a) and (b), and the em dash which precedes them, substitute “regulation 69”.
+(1)
+Paragraph (1) was amended by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 73
+59.  In regulation 73(5C) (obligation to notify placing on the market etc.)(1), for “UKMA(UK)” substitute “UKMA(UK)(Category 2)”.
+(1)
+Paragraph (5C) was inserted by S.I. 2013/2593 and amended by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 76
+60.  In regulation 76(2) (obligation in relation to product information)(1)—
+(a)
+in sub-paragraph (a), for “UKMA(UK)” substitute “UKMA(UK)(Category 2)”;
+(b)
+in sub-paragraph (b), after “UKMA(GB)” insert “or a UKMA(UK)(Category 1)”.
+(1)
+Paragraph (2) was substituted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 78B
+61.  In regulation 78B (post authorisation requirements in relation to UKMA(GB) for advanced therapy medicinal products)(1)—
+(a)
+in the heading, for “UKMA(GB)” substitute “UKMA(UK)(Category 1)”;
+(b)
+in paragraph (1)—
+(i)
+in the opening words, for “UKMA(GB)” substitute “UKMA(UK)(Category 1)”;
+(ii)
+in sub-paragraph (c), for “UKMA(GB)” substitute “UKMA(UK)(Category 1)”;
+(iii)
+in sub-paragraph (d), for “UKMA(GB)” substitute “UKMA(UK)(Category 1)”;
+(c)
+in both places in paragraph (2), for “UKMA(GB)” substitute “UKMA(UK)(Category 1)”.
+(1)
+Regulation 78B was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 79
+62.  In regulation 79(1) and (2) (failure to provide information on marketing authorisations to EMA)(1) for “UKMA(UK)” substitute “UKMA(UK)(Category 2)”.
+(1)
+Regulation 79 was amended by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 80
+63.  In regulation 80 (urgent safety restrictions)(1)—
+(a)
+in paragraph (a)(ii), for “, UKMA(UK) or EU marketing authorisation” substitute “or UKMA(UK)(Category 2)”;
+(b)
+in paragraph (b)(i), after “UKMA(GB)” insert “or UKMA(UK)(Category 2)”;
+(c)
+in paragraph (b)(ii), for “or UKMA(UK)” substitute “or UKMA(UK)(Category 2)”;
+(d)
+in paragraph (d), after “UKMA(GB)” insert “or UKMA(UK)(Category 1)”.
+(1)
+Paragraphs (a), (b) and (d) were substituted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation A81
+64.  In regulation A81 (application of regulations 81 to 94)(1), and in the heading to that regulation, for “81” substitute “89”.
+(1)
+Regulation A81 was inserted by S.I. 2019/775 as amended by S.I. 2020/1488 and was amended by S.I. 2021/1452.Revocation of regulations 81 to 88
+65.  Omit regulations 81 to 88 (offences relating to EU marketing authorisations)(1).
+(1)
+Regulations 81 to 88 were to have been revoked by S.I. 2019/775 but amendments to that instrument by S.I. 2020/1488 retained them, in a manner limited by regulation A81 which S.I. 2020/1488 inserted.Revocation of regulation 94A
+66.  Omit regulation 94A (offences relating to Commission Regulation 2016/161)(1).
+(1)
+Regulation 94A was inserted by S.I. 2019/62; there are amendments not relevant to this instrument.Amendment to regulation 95
+67.  In regulation 95 (offences in connection with application)(1)—
+(a)
+after paragraph (a), insert “or”;
+(b)
+omit paragraphs (c) and (d).
+(1)
+Paragraphs (c) and (d) were amended by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 101
+68.  In regulation 101(3) (defences), for “88” substitute “89”.Amendment to regulation 159
+69.  In regulation 159(1) (provisional determination)(1), omit “or an EU marketing authorisation”.
+(1)
+Paragraph (1) was amended by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 164
+70.  In regulation 164 (effect of final determination)(1), in paragraph (2)(a) and (b), omit “or an EU marketing authorisation”.
+(1)
+Paragraph (2) was amended by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 169
+71.  In regulation 169(9)(a) (mixing of general sale medicinal products)(1), omit “or EU marketing authorisation”.
+(1)
+Paragraph (9)(a) was amended by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 171
+72.  In regulation 171(2)(c) (exempt advanced therapy medicinal products)(1), for the words from “under” to the end, substitute “under regulation 49(1)”.
+(1)
+Paragraph (2)(c) was amended by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 173
+73.  In regulation 173(c) (exemption for certain radiopharmaceuticals)(1), omit “or EU marketing authorisation”.
+(1)
+Paragraph (c) was amended by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 177
+74.  In regulation 177 (application of Part and interpretation)(1)—
+(a)
+in paragraph (1A), for “UKMA(GB) ora THR(GB)” substitute “UKMA(GB), UKMA(UK)(Category 1) or a THR(GB)”;
+(b)
+omit paragraph (4);
+(c)
+in paragraph (5), in the definition of “signal”, after “UKMA(GB)” insert “, UKMA(UK)(Category 1)”.
+(1)
+Paragraph (1A) (which includes a typographical error being corrected by the amendment) and the definition of “signal” in paragraph (5), were inserted by S.I. 2019/775 as amended by S.I. 2020/1488; paragraph (4) was substituted by S.I. 2013/1855.Amendment to regulation 180
+75.  In regulation 180 (obligation on licensing authority to audit pharmacovigilance system)(1)—
+(a)
+in paragraph (1), for “in Great Britain” substitute “pursuant to a UKMA(GB) or a UKMA(UK)(Category 1)”;
+(b)
+in paragraph (1A), after “Northern Ireland” insert “pursuant to a UKMA(NI) or a UKMA(UK)(Category 2)”.
+(1)
+Regulation 180 was amended by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 181
+76.  In regulation 181(1) (delegation of obligations under this Part)(1), after “Northern Ireland” insert “pursuant to a UKMA(NI) or a UKMA(UK)(Category 2)”.
+(1)
+Paragraph (1) was amended by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 184
+77.  In regulation 184(3) (obligation on holder to audit pharmacovigilance system)(1), after “UKMA(GB)” insert “, UKMA(UK)(Category 1)”.
+(1)
+Paragraph (3) was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 186
+78.  In regulation 186(1) (reporting obligations on the licensing authority)(1)—
+(a)
+in sub-paragraph (d), for paragraph (ii) substitute—
+“(ii)
+a UKMA(UK)(Category 2),”;
+(b)
+in sub-paragraph (e), for paragraph (ii) substitute—
+“(ii)
+a UKMA(UK)(Category 2),”.
+(1)
+Paragraph (1) was amended by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 188
+79.  In regulation 188 (reporting obligations on holders)(1)—
+(a)
+in paragraph (1A)—
+(i)
+in the opening words, for “a UKMA(UK)” substitute “a UKMA(UK)(Category 2)”;
+(ii)
+in sub-paragraphs (a) and (b), after “on the day” insert “following the day”;
+(b)
+in paragraph (2), in the opening words, for “a UKMA(UK)” substitute “a UKMA(UK)(Category 2)”;
+(c)
+in paragraph (4A), in the opening words, for “a UKMA(UK)” substitute “a UKMA(UK)(Category 2)”.
+(1)
+Relevant amendments to regulation 188 were made by by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 189
+80.  In regulation 189 (signal detection: licensing authority obligations)(1)—
+(a)
+in paragraph (2), for the words from the beginning to “UKMA(UK)” substitute “In relation to medicinal products subject to a UKMA(UK)(Category 2)”;
+(b)
+in paragraph (3), for the words from the beginning to “UKMA(UK)” substitute “In relation to medicinal products subject to a UKMA(UK)(Category 2)”.
+(1)
+Paragraphs (2) and (3) of regulation 189 were amended by S.I. 2019/775 as amended by S.I. 2020/1488; there was a typographical error in those amendments which is rectified by these amendments.Amendment to regulation 190
+81.  In regulation 190(1)(b) (signal detection: holder obligation)(1), for “a UKMA(UK)” substitute “a UKMA(UK)(Category 2)”.
+(1)
+Paragraph (1) was substituted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 191
+82.  In regulation 191 (obligation on holder to submit periodic safety update reports: general requirements)(1)—
+(a)
+in paragraph (1)—
+(i)
+after “and the licensing authority” insert “in the case of a holder of a UKMA(NI) or a UKMA(UK)(Category 2)”;
+(ii)
+after “UKMA(GB”) insert “or a UKMA(UK)(Category 1)”;
+(b)
+in paragraph (4A), after “UKMA(GB)” insert “or a UKMA(UK)(Category 1)”;
+(c)
+in paragraph (7)—
+(i)
+after “and the licensing authority” insert “in the case of a holder of a UKMA(NI) or a UKMA(UK)(Category 2)”;
+(ii)
+after “UKMA(GB)” insert “or a UKMA(UK)(Category 1)”;
+(d)
+in paragraph (8A), after “UKMA(GB)” insert “or a UKMA(UK)(Category 1)”;
+(e)
+in paragraph (10)—
+(i)
+in sub-paragraph (b)(i), for “UKMA(UK)” substitute “UKMA(UK)(Category 2)”;
+(ii)
+in sub-paragraph (b)(ii)—
+(aa)
+after “a UKMA(GB)” insert “or a “UKMA(UK)(Category 1)”;
+(bb)
+for “Great Britain”, in both places, substitute “the United Kingdom”;
+(iii)
+in sub-paragraph (c)—
+(aa)
+in paragraph (i), in the opening words, for “UKMA(UK)” substitute “UKMA(UK)(Category 2)”;
+(bb)
+in paragraph (ii), for the opening words substitute—
+“in relation to a product authorised under a UKMA(GB) or a UKMA(UK)(Category 1), the product has been placed on the market in the United Kingdom”.
+(1)
+Regulation 191 was amended by S.I. 2019/775 including as that instrument was amended by S.I. 2020/1488.Amendment to regulation 192
+83.  In regulation 192 (obligation on holder to submit periodic safety update reports: derogation from general requirements)(1)—
+(a)
+in paragraph (3)—
+(i)
+after “and the licensing authority” insert “in the case of a holder of a UKMA(NI) or a UKMA(UK)(Category 2)”;
+(ii)
+after “UKMA(GB)” insert “or a UKMA(UK)(Category 1)”;
+(b)
+in paragraph (9), for “UKMA(UK)” substitute “UKMA(UK)(Category 2)”.
+(1)
+Regulation 192 was amended by S.I. 2019/775, including as that instrument was amended by S.I. 2020/1488.Amendment to regulation 193
+84.  In regulation 193 (harmonisation of PSUR frequency or date of submission)(1)—
+(a)
+in paragraph (1)—
+(i)
+in sub-paragraph (a)(i), for “UKMA(UK)” substitute “UKMA(UK)(Category 2)”;
+(ii)
+in sub-paragraph (a)(ii), after “UKMA(GB)” insert “, UKMA(UK)(Category 1)”;
+(iii)
+in sub-paragraph (b)(i), after “UKMA(GB)” insert “, UKMA(UK)(Category 1)”;
+(iv)
+in sub-paragraph (b)(ii), for “UKMA(UK)” substitute “UKMA(UK)(Category 2)”;
+(b)
+in paragraph (2), in the opening words, for “UKMA(UK)” substitute “UKMA(UK)(Category 2)”;
+(c)
+in paragraph (2A), in the opening words, after “UKMA(GB)”, insert “, UKMA(UK)(Category 1)”;
+(d)
+in paragraph (4A), after “UKMA(GB)” insert “UKMA(UK)(Category 1)”.
+(1)
+Regulation 193 was amended by S.I. 2019/775, including as that instrument was amended by S.I. 2020/1488.Amendment to regulation 194
+85.  In regulation 194(1) (responding to a single assessment of PSUR under Article 107e of the 2001 Directive)(1), for “UKMA(UK)” substitute “UKMA(UK)(Category 2)”.
+(1)
+Paragraph (1) was amended by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 195
+86.  In regulation 195 (obligation on licensing authority to assess PSURs)(1)—
+(a)
+in paragraph (1), for “UKMA(UK)” substitute “UKMA(UK)(Category 2)”;
+(b)
+in paragraph (1A), after “UKMA(GB)” insert “, UKMA(UK)(Category 1)”.
+(1)
+Regulation 195 was amended by S.I. 2014/1878 and S.I. 2019/775, including as that instrument was amended by S.I. 2020/1488.Amendment to regulation 196
+87.  In regulation 196(1) (urgent action)(1), for “UKMA(UK)” substitute “UKMA(UK)(Category 2)”.
+(1)
+Paragraph (1) was substituted by S.I. 2013/2593, and was amended by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 197
+88.  In regulation 197(1) (EU urgent action procedure)(1), for “UKMA(UK)” substitute “UKMA(UK)(Category 2)”.
+(1)
+Paragraph (1) was amended by S.I. 2019/755 as amended by S.I. 2020/1488.Amendment to regulation 198
+89.  In regulation 198(2) (post-authorisation safety studies: general provisions)(1)—
+(a)
+in sub-paragraph (a) for “marketing authorisation” substitute “UKMA(UK)(Category 2), UKMA(UK)(NI)”;
+(b)
+in sub-paragraph (b) for “marketing authorisation” substitute “UKMA(UK)(Category 1), a UKMA(GB)”.
+(1)
+Paragraph (2)(a) was designated as such, and amended by, and paragraph (2)(b) was inserted by, S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 199
+90.  In regulation 199 (submission of draft study protocols for required studies)(1)—
+(a)
+in paragraph (2)—
+(i)
+in sub-paragraph (a), for “UKMA(UK)” substitute “UKMA(UK)(Category 2)”;
+(ii)
+in sub-paragraph (b), after “a UKMA(GB)” insert “or UKMA(UK)(Category 1)”;
+(b)
+in paragraph (3)(b), for “in all other cases” substitute “where the study is to be conducted in the EU or an EEA State”.
+(1)
+Paragraph (2) was amended by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 200
+91.  In regulation 200 (amendment to study protocols for required studies)(1)—
+(a)
+in paragraph (2)—
+(i)
+in sub-paragraph (a), for “UKMA(UK)” substitute “UKMA(UK)(Category 2)”;
+(ii)
+in sub-paragraph (b), after “a UKMA(GB)” insert “or UKMA(UK)(Category 1)”;
+(b)
+in paragraph (3)(b), for “in all other cases” substitute “where the study is being conducted in the EU or an EEA State”.
+(1)
+Paragraph (2) was amended by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 201
+92.  In regulation 201(2) (submission and evaluation of final study reports for required studies)(1)—
+(a)
+in paragraph (2)—
+(i)
+in sub-paragraph (a), for “UKMA(UK)” substitute “UKMA(UK)(Category 2)”;
+(ii)
+in sub-paragraph (b), after “a UKMA(GB)” insert “or UKMA(UK)(Category 1)”;
+(b)
+in paragraph (3)(b), for “in all other cases” substitute “where the study was conducted in the EU or an EEA State”.
+(1)
+Paragraph (2) was amended by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 202
+93.  In regulation 202(1) (follow-up of final study reports)(1), for “UKMA(UK)” substitute “UKMA(UK)(Category 2)”.
+(1)
+Paragraph (1) was amended by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 204
+94.  In regulation 204(1) (obligation on licensing authority in relation to public announcements)(1), for “UKMA(UK)” substitute “UKMA(UK)(Category 2)”.
+(1)
+Paragraph (1) was amended by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 205
+95.  In regulation 205(2) (obligations on holders in relation to public announcements)(1), in the opening words—
+(a)
+for “UKMA(UK)” substitute “UKMA(UK)(Category 2)”;
+(b)
+after “UKMA(GB)” insert “, UKMA(UK)(Category 1)”.
+(1)
+Paragraph (2) was amended by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 205A
+96.  In regulation 205A (further obligations in respect of pharmacovigilance activities)(1)—
+(a)
+in paragraph (1), after “a UKMA(GB)” insert “, UKMA(UK)(Category 1)”;
+(b)
+in paragraph (2), omit “in respect of Great Britain”.
+(1)
+Regulation 205A was inserted by S.I. 2019/755 as amended by S.I. 2020/1488.Amendment to regulation 206
+97.  In regulation 206 (infringement notices)(1), in paragraph (3), for “UKMA(UK)” substitute “UKMA(UK)(Category 2)”.
+(1)
+Paragraph (3) was amended by S.I. 2019/755 as amended by S.I. 2020/1488; paragraph (4) was inserted by S.I. 2013/1855 and was amended by S.I. 2019/775 as amended by S.I. 2020/1488..Revocation of regulation 210
+98.  Omit regulation 210 (offences relating to pharmacovigilance obligations under Regulation (EC) No 726/2004).Amendment to regulation 210A
+99.  In regulation 210A (offences in relation to pharmacovigilance obligations under the Implementing Regulation and Schedule 12A)(1)—
+(a)
+in paragraph (1)—
+(i)
+in sub-paragraph (a), for “UKMA(UK)” substitute “UKMA(UK)(Category 2)”;
+(ii)
+in sub-paragraph (aa), after “UKMA(GB)” insert “, UKMA(UK)(Category 2)”;
+(b)
+in paragraph (2A), in the opening words, for “(1)(a)” substitute “(1)(aa)”.
+(1)
+Regulation 210A was inserted by S.I. 2013/1855 and was amended, including an amendment to the heading, by S.I. 2019/755 as amended by S.I. 2020/1488.Amendment to regulation 211
+100.  In regulation 211 (persons liable), omit “or regulation 210(1)(a) (offences relating to pharmacovigilance obligations under Regulation (EC) No 726/2004)”.Amendment to regulation 229
+101.  In regulation 229(3)(f)(i) (exemption for supply by NHS bodies and local authorities)(1), omit “, EU marketing authorisation”.
+(1)
+Paragraph (3)(f)(i) was substituted by S.I. 2019/775 as amended by S.I. 2020/1488; there is an amendment to the paragraph not relevant to these Regulations.Amendment to regulation 230
+102.  In regulation 230(8)(a) (exemption for supply etc. under a PGD to assist doctors or dentists)(1), omit “, EU marketing authorisation”.
+(1)
+Paragraph (8)(a) was substituted by S.I. 2019/775 as amended by S.I. 2020/1488; there is an amendment to the paragraph not relevant to these Regulations.Amendment to regulation 231
+103.  In regulation 231(8)(a) (exemption for supply etc. under a PGD by independent hospitals etc)(1), omit “, EU marketing authorisation”.
+(1)
+Paragraph (8)(a) was substituted by S.I. 2019/775 as amended by S.I. 2020/1488; there is an amendment to the paragraph not relevant to these Regulations.Amendment to regulation 233
+104.  In regulation 233(7)(a) (exemption for supply etc. under a PGD by person conducting a retail pharmacy business)(1), omit “, EU marketing authorisation”.
+(1)
+Paragraph (7)(a) was substituted by S.I. 2019/775 as amended by S.I. 2020/1488; there is an amendment to the paragraph not relevant to these Regulations.Amendment to regulation 234
+105.  In regulation 234(9)(a) (exemption for supply etc. of products under a PGD to assist the police etc.)(1), omit “, EU marketing authorisation”.
+(1)
+Paragraph (9)(a) was substituted by S.I. 2019/775 as amended by S.I. 2020/1488; there is an amendment to the paragraph not relevant to these Regulations.Amendment to regulation 247A
+106.  In regulation 247A(5)(c) (protocols relating to coronavirus and influenza vaccinations and immunisations)(1), omit the words from “or, in Northern Ireland,” to the end.
+(1)
+Regulation 247A was inserted by S.I. 2020/1125 and was amended by S.I. 2010/1452.Amendment to regulation 249
+107.  In regulation 249 (restrictions on persons to be supplied with medicinal products)(1), omit paragraph (2)(aa).
+(1)
+Sub-paragraph (aa) was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 251
+108.  In regulation 251(7) (compliance with standards specified in certain publications: definition of “relevant marketing authorisation”)(1)—
+(a)
+omit sub-paragraph (a);
+(b)
+in sub-paragraph (c), for “UKMA(GB)” substitute “UKMA(UK)(Category 2)”.
+(1)
+Paragraph (7) was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Revocation of regulations 255A, 255B and 255C
+109.  Omit—
+(a)
+regulation 255A (enforcement notices relating to Commission Regulation 2016/161: persons authorised to supply medicinal products to the public)(1);
+(b)
+regulation 255B (exception to Article 25 of Commission Regulation 2016/161: health care institutions);
+(c)
+regulation 255C (offences relating to Commission Regulation 2016/161: management of the repository system).
+(1)
+Regulations 255A, 255B and 255C were inserted by S.I. 2019/62.Amendment to regulation 257
+110.  In regulation 257 (packaging requirements: general)(1),—
+(a)
+in paragraph (6), omit “where the product is for sale or supply in Great Britain only”;
+(b)
+in paragraph (8), omit “for sale or supply in Great Britain only”;
+(c)
+after paragraph (8) insert—
+“(9) This regulation is subject to regulation 257AA.”
+(1)
+Paragraph (6) was amended by, and paragraph (8) was inserted by, S.I. 2019/775 as amended by S.I. 2020/1488.Insertion of new regulations 257AA and 257AB
+111.  After regulation 257 (packaging requirements: general), insert—
+“Packaging requirements: variation in accordance with regulation 68(11I)
+257AA.—(1) This regulation applies where, in accordance with regulation 68(11I), the licensing authority thinks that a variation is necessary so that a UKMA(UK)(Category 2) is treated as a UKMA(GB) and separate UKMA(NI).
+(2) Where this regulation applies, the licensing authority may require that, in relation to the UKMA(GB), the information specified in paragraph 18B of Schedule 24 is replaced with a statement that the medicinal product is for sale or supply in Great Britain only.
+Transitional arrangements
+257AB.  The information specified in paragraph 18B of Schedule 24 is not required to appear on the packaging of a medicinal product released for sale or distribution before 1st January 2025, unless the product has been re-packaged or relabelled after that date.”.Revocation of regulation 257A
+112.  Omit regulation 257A (packaging requirements: medicinal products required to bear safety features)(1).
+(1)
+Regulation 257A was inserted by S.I. 2019/62.Revocation of regulation 257B
+113.  Omit regulation 257B (transitional arrangements)(1).
+(1)
+Regulation 257B was inserted by S.I. 2019/62.Amendment to regulation 257C
+114.  In regulation 257C(1)(a) (packaging requirements: advanced therapy medicinal products)(1), omit “for sale or supply in Great Britain only”.
+(1)
+Regulation 257C was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 257E
+115.  In regulation 257E (regulation-making power as to certain forms of labelling)(1), omit paragraph (d).
+(1)
+Regulation 257E was inserted by S.I. 2019/775.Amendment to regulation 259
+116.  In regulation 259(2) (packaging requirements: information for blind and partially sighted patients)(1), omit “EU marketing authorisation”.
+(1)
+Paragraph (2) was amended by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 260
+117.  In regulation 260 (package leaflets)(1)—
+(a)
+in paragraph (1A), omit “for sale or supply in Great Britain only”;
+(b)
+in paragraph (2), omit “for sale or supply in Great Britain only”;
+(c)
+in paragraph (3), omit “, EU marketing authorisation”.
+(1)
+Paragraph (1A) was inserted by, and paragraphs (2) and (3) were amended by, S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 268A
+118.  In regulation 268A(2)(a) (offence relating to packaging and package leaflets in Northern Ireland: holder of authorisation etc.)(1), omit “, Article 9 of Commission Regulation 2016/161”.
+(1)
+Regulation 268A was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 269A
+119.  In regulation 269A (offences relating to packaging and package leaflets in Northern Ireland: other persons)(1)—
+(a)
+in paragraph (1), omit “, EU marketing authorisation”;
+(b)
+in paragraph (2)(a), omit “, Article 9 of Commission Regulation 2016/161”.
+(1)
+Regulation 269A was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 270
+120.  In regulation 270 (non-compliance with requirements of Part)(1)—
+(a)
+in paragraph (1), omit “, EU marketing authorisation”;
+(b)
+in paragraph (2), omit “, EU marketing authorisation”.
+(1)
+Regulation 270 was amended by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 279
+121.  In regulation 279 (products without a marketing authorisation etc.)(1)—
+(a)
+insert “or” at the end of paragraph (2)(c);
+(b)
+omit paragraph (2)(d) (including the “or” at the end).
+(1)
+Regulation 279 was substituted by S.I. 2019/775 as amended by S.I. 2020/1488; there are amendments not relevant to these Regulations.Amendment to regulation 280
+122.  In regulation 280(1) (general principles)(1), omit “, EU marketing authorisation”.
+(1)
+Paragraph (1) was amended by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 281
+123.  In regulation 281(1) (duties of authorisation holders and registration holders)(1)—
+(a)
+insert “or” at the end of sub-paragraph (c);
+(b)
+omit sub-paragraph (e) and the “or” which precedes it.
+(1)
+Paragraph (1) was amended by S.I. 2019/775, including as that instrument was amended by S.I. 2020/1488.Amendment to regulation 293
+124.  In regulation 293(1)(b) (prohibition of supply to the public for promotional purposes)(1), omit “, EU marketing authorisation”.
+(1)
+Paragraph (1) was substituted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 295
+125.  In regulation 295(2)(d)(ii) (abbreviated advertisements)(1), omit “, EU marketing authorisation,”.
+(1)
+Paragraph (2)(d) was substituted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 299
+126.  In regulation 299(3) (medical sales representatives)(1), omit “EU marketing authorisation”.
+(1)
+Paragraph (3) was amended by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 321
+127.  In regulation 321(5) (specified publications: definition of “authorisation”)(1), omit sub-paragraph (ca).
+(1)
+Sub-paragraph (ca) was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 327
+128.  In regulation 327 (powers of inspection, sampling and seizure)(1)—
+(a)
+omit paragraph (1)(c)(va);
+(b)
+omit paragraph (2)(h);
+(c)
+omit paragraph (4A);
+(d)
+in paragraph (5)—
+(i)
+in sub-paragraph (a), for “, (g) or (h)” substitute “or (g)”;
+(ii)
+in sub-paragraph (b), omit “or (4A)”.
+(1)
+Paragraph (1)(c) and paragraph (2) were substituted by S.I. 2013/1855; paragraph (va) was inserted into paragraph (1)(c) by S.I. 2019/775 as amended by S.I. 2020/1488; sub-paragraph (h) was inserted into paragraphs (2) and (5), and paragraphs (4A) ND (5)(b) were inserted, by S.I. 2019/62 in relation to Great Britain and by S.R. 2019 No.10 in relation to Northern Ireland.Amendment to regulation 331
+129.  In regulation 331(1) (findings and reports of inspections)(1)—
+(a)
+in the opening words, omit “, EU marketing authorisation”;
+(b)
+in sub-paragraph (c), for “UKMA(UK)” substitute “UKMA(UK)(Category 2)”.
+(1)
+Paragraph (1) was amended by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 341
+130.  In regulation 341(4) (decisions under the Regulations)(1), omit sub-paragraph (aa).
+(1)
+Sub-paragraph (aa) was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 345
+131.  In regulation 345(5) (immunity from civil liability)(1), omit “, EU marketing authorisation”.
+(1)
+Paragraph (5) was amended by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to regulation 346
+132.  In regulation 346(2) (review)(1)—
+(a)
+in sub-paragraph (c)(iv), for “(10)” substitute “(12)”;
+(b)
+omit sub-paragraph(c)(iia), (iiia), (iva), (xviia), (xviii), (xix), (xxviiii) and (xxviiij).
+(1)
+Relevant amendments to regulation 346 were made by S.I. 2013/2593, 2016/186 and 2019/62.Insertion of regulation 347B
+133.  After regulation 347A (transitional provision in relation to EU exit)(1), insert—
+“Transitional provision relating to the Windsor Framework
+347B.—(1) Schedule 33B contains transitional provision in relation to the implementation of the Windsor Framework.
+(2) In paragraph (1), “the Windsor Framework” means the part of the withdrawal agreement known as the Windsor Framework by virtue of Joint Declaration No. 1/2023 of 24 March 2023 made between the European Union and the United Kingdom in the Joint Committee established by the withdrawal agreement.”.
+(1)
+Regulation 347A was inserted by S.I. 2019/775.Amendment to Schedule 1
+134.  In Schedule 1 (further provisions for classification of medicinal products)(1)—
+(a)
+in paragraph 1—
+(i)
+in sub-paragraph (e)(i), omit “, EU marketing authorisation”;
+(ii)
+in sub-paragraph (f)(i), omit “, EU marketing authorisation”;
+(iii)
+in sub-paragraph (g)(i), omit “, EU marketing authorisation”;
+(b)
+in paragraph 4, omit “, EU marketing authorisation”.
+(1)
+Relevant amendments were made to Schedule 1 by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to Schedule 7
+135.  In Schedule 7 (qualified persons)(1), in paragraph 12A(1)—
+(a)
+at the end of paragraph (b), for “; and” substitute a full stop;
+(b)
+omit paragraph (c).
+(1)
+Paragraph 12A was inserted by S.I. 2019/775 as amended by S.I. 2020/1488; there are amendments not relevant to these Regulations.Amendment to Schedule 7A
+136.  In Schedule 7A (information to be provided for registration)(1), in paragraph 15, omit sub-paragraph (a).
+(1)
+Schedule 7A was inserted by S.I. 2013/1855; there are amendments not relevant to these Regulations.Amendment to Schedule 8
+137.  In Schedule 8 (material to accompany an application for a UK marketing authorisation)(1)—
+(a)
+in paragraph 18—
+(i)
+omit sub-paragraph (a);
+(ii)
+in sub-paragraph (b), omit “in the case of a medicinal product for sale or supply in Great Britain,”;
+(b)
+in paragraph 23—
+(i)
+in sub-paragraph (a), for “medicinal product for sale or supply in Northern Ireland” substitute “UKMA(NI) or a UKMA(UK)(Category 2)”;
+(ii)
+in sub-paragraph (b), for “medicinal product for sale or supply in Great Britain” substitute “UKMA(GB) or a UKMA(UK)(Category 1)”;
+(c)
+in paragraph 25A, omit “for sale or supply in Great Britain”.
+(1)
+Paragraphs 18 and 23 were substituted by, and paragraph 25A was inserted by, S.I. 2019/755 as amended by S.I. 2020/1488.Amendment to Schedule 8C
+138.  In Schedule 8C (material to accompany an application under the unfettered access route)(1)—
+(a)
+in paragraph 1, omit “EU marketing authorisation or”;
+(b)
+in paragraph 2, omit “EU marketing authorisation or”;
+(c)
+in paragraph 3, omit “EU marketing authorisation or”.
+(1)
+Schedule 8C was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to Schedule 9A
+139.  In Schedule 9A (meaning of terms used in the orphan criteria and in regulation 58D)(1), in each of the following provisions, for “Great Britain” substitute “the United Kingdom”—
+(a)
+the heading of paragraph (1);
+(b)
+paragraph 1(1), 1(2)(a) and (c);
+(c)
+paragraph 2(1), 2(2)(c), (d), (g) and (h);
+(d)
+paragraph 3(1) and 3(2)(a) in both places.
+(1)
+Schedule 9A was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to Schedule 12A
+140.  In Schedule 12A (further provision as to the performance of pharmacovigilance activities)(1)—
+(a)
+in paragraph 1(3), after “UKMA(GB)” insert “or a UKMA(UK)(Category 1)”;
+(b)
+in paragraph 12(5), after “UKMA(GB)” insert “or the UKMA(UK)(Category 1), as the case may be,”;
+(c)
+in paragraph 16(3), after “UKMA(GB)” insert “or the UKMA(UK)(Category 1), as the case may be,”;
+(d)
+in paragraph 22(1)(d), after “UKMA(GB)” insert “or the UKMA(UK)(Category 1)”;
+(e)
+in paragraph 30(g), after “UKMA(GB)” insert “or a UKMA(UK)(Category 1)”.
+(1)
+Schedule 12A was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to Schedule 17
+141.  In Schedule 17 (exemption for sale, supply or administration by certain persons)(1)—
+(a)
+in the table in Part 1, in column 1 in entry 10, omit “EU marketing authorisations”;
+(b)
+in the table in Part 4, in columns 1 and 2 in entry 9, omit “EU marketing authorisation”.
+(1)
+relevant amendments were made to Schedule 17 by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to Schedule 24
+142.  In Schedule 24 (packaging information requirements)(1)—
+(a)
+in paragraph 7(b), omit the words from “in the case of products for sale or supply in Great Britain” to the end;
+(b)
+in paragraph 15, omit “EU marketing authorisation”;
+(c)
+in paragraph 16, omit “EU marketing authorisation”;
+(d)
+omit paragraph 18A;
+(e)
+at the end of Part 1, insert—
+“18B.  The words “UK only”.”;
+(f)
+in paragraph 23, omit “EU marketing authorisation”;
+(g)
+in the heading to Part 4, omit “for sale or supply in Great Britain only”;
+(h)
+in the heading to Part 5, omit “for sale or supply in Great Britain only”.
+(1)
+Paragraphs 7, 15, 16 and 23 were amended by, and Parts 4 and 5 were inserted by, S.I. 2019/775 as amended by S.I. 2020/1488; paragraph 18A was inserted by S.I. 2019/62.Amendment to Schedule 27
+143.  In Schedule 27 (package leaflets)(1)—
+(a)
+in paragraph 8(c)(ii), omit the words from “in the case of products for sale or supply in Great Britain” to the end;
+(b)
+in paragraph 11(f), omit “, EU marketing authorisation”;
+(c)
+in the heading to Part 3, omit “for sale or supply in Great Britain only”.
+(1)
+Paragraphs 8(c) and 11(f) were amended by, and Part 3 was inserted by, S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to Schedule 30
+144.  In Schedule 30 (particulars for advertisements to persons qualified to prescribe or supply)(1)—
+(a)
+in paragraph 1, omit “, EU marketing authorisation”;
+(b)
+in paragraph 2, omit “, EU marketing authorisation”;
+(c)
+in paragraph 6, omit “, EU marketing authorisation”.
+(1)
+Paragraphs 1, 2 and 6 of Schedule 30 were amended by S.I. 2019/775 as amended by S.I. 2020/1488.Amendment to Schedule 33A
+145.  In Schedule 33A (transitional provision in relation to EU Exit)(1), omit paragraph 29A.
+(1)
+Schedule 33A was inserted by S.I. 2019/775 as amended by S.I. 2020/1488.Insertion of Schedule 33B
+146.  After Schedule 33A insert—
+Reg 347B
+“SCHEDULE 33B
+Transitional Provision in relation to the Windsor Framework
+Existing marketing authorisations
+1.—(1) Subject to sub-paragraphs (6), (13) and (14), a UKMA(GB) in force immediately before 1st January 2025 for a medicinal product in respect of which there is or has been in force an EU marketing authorisation, or which belongs to a category of medicinal product referred to in Article 3(1) or (2) of Regulation (EC) No 726/2004, has effect on and after that date as a UKMA(UK)(Category 1).
+(2) Subject to sub-paragraphs (6), (13) and (14), a UKMA(GB) in force immediately before 1st January 2025 for a generic medicinal product has effect on and after that date as a UKMA(UK)(Category 1) provided that there is or has been an EU marketing authorisation in force for the reference medicinal product.
+(3) Subject to sub-paragraphs (6), (13) and (14), a UKMA(GB) in force immediately before 1st January 2025 for a hybrid medicinal product has effect on or after that date as a UKMA(UK)(Category 1) provided that there is or has been an EU marketing authorisation in force in relation to the reference medicinal product.
+(4) Subject to sub-paragraphs (6), (13) and (14), a UKMA(GB) granted in accordance with regulation 53A or Article 10(4) and (6) of the 2001 Directive and in force immediately before 1st January 2025 for a biological medicinal product has effect on and after that date as a UKMA(UK)(Category 1) provided that there is or has been an EU marketing authorisation in force for the reference medicinal product.
+(5) Subject to sub-paragraphs (6), (13) and (14), any other UKMA(GB) in force immediately before 1st January 2025 has effect on and after that date as a UKMA(UK)(Category 2).
+(6) If the holder of a UKMA(GB) to which any of sub-paragraphs (1) to (5) applies notifies the licensing authority in writing before 1st January 2025 that it does not wish to be a holder of a UKMA(UK), the licensing authority must revoke the UKMA(GB) with effect from 1st January 2025.
+(7) A UKMA(UK) which has effect by virtue of any of sub-paragraphs (1) to (5) is treated as if it had been granted by the licensing authority on the same terms as those on which the UKMA(GB) was granted, including any conditions or restrictions subject to which, and retaining any benefits with which, the UKMA(GB) was granted and which remain in force immediately before 1st January 2025.
+(8) A UKMA(UK) in force immediately before 1st January 2025 for a generic medicinal product has effect on and after that date as a UKMA(UK)(Category 1) provided that there is or has been an EU marketing authorisation in force for the reference medicinal product.
+(9) A UKMA(UK) in force immediately before 1st January 2025 for a hybrid medicinal product has effect on or after that date as a UKMA(UK)(Category 1) provided that there is or has been an EU marketing authorisation in force in relation to the reference medicinal product.
+(10) A UKMA(UK) granted in accordance with regulation 53B or Article 10(4) and (6) of the 2001 Directive and in force immediately before 1st January 2025 for a biological medicinal product has effect on or after that date as a UKMA(UK)(Category 1) provided that there is or has been an EU marketing authorisation in force in relation to the reference medicinal product.
+(11) Any other UKMA(UK) in force immediately before 1st January 2025 has effect on and after that date as a UKMA(UK)(Category 2).
+(12) A UKMA(UK) which has effect by virtue of sub-paragraph (8) to (10) is treated as if it had been granted by the licensing authority on the same terms as those on which the UKMA(UK) in force before 1st January 2025 was granted, including any conditions or restrictions subject to which, and retaining any benefits with which, the UKMA(UK) was granted and which remain in force immediately before 1st January 2025.
+(13) Subject to sub-paragraph (14), a UKMA(GB) in force immediately before 1st January 2025 ceases to have effect on 1st January 2025 if—
+(a)
+there is a UKMA(NI) in force on 1st January 2025 in relation to the same medicinal product and with the same marketing authorisation holder, and
+(b)
+the holder of that UKMA(NI) has not made a request in writing to the licensing authority for the revocation of that UKMA(NI) before 30th September 2024.
+(14) However, where the holder of the UKMA(NI) referred to in sub-paragraph (13) has made a request in writing to the licensing authority for the revocation of that UKMA(NI) on or after 30th September and before 1st January 2025 and the licensing authority thinks that it is in the interest of patients’ health in the United Kingdom, the UKMA(GB) continues to have effect on 1st January 2025.
+(15) For the purposes of this paragraph, a medicinal product is a “hybrid medicinal product” if one or more of the circumstances set out in regulation 52B(1)(a) to (c) applied to the application for the UKMA for that product.
+Existing applications for marketing authorisation
+2.—(1) An application for a UKMA(GB) made before 1st January 2025 which has not been determined immediately before that date is to be treated on and after that date as an application for a UKMA(UK).
+(2) Sub-paragraph (3) applies where—
+(a)
+an application for a UKMA(UK) was made before 1st January 2025,
+(b)
+the application has not been determined immediately before that date,
+(c)
+the application was made under regulation 51B as it had effect on the date of the application, and
+(d)
+the reference medicinal product was of the description in paragraph (c)(ii) of the definition of that term in regulation 48(2) as it had effect on the date of the application.
+(3) Where this sub-paragraph applies, regulations 48 and 51B apply in respect of the application as they had effect immediately before 1st January 2025.
+(4) Sub-paragraph (5) applies where—
+(a)
+an application for a UKMA(UK) was made before 1st January 2025,
+(b)
+the application has not been determined immediately before that date,
+(c)
+the application was made under regulation 52B as it had effect on the date of the application, and
+(d)
+the reference medicinal product was of the description in paragraph (c)(ii) of the definition of that term in regulation 48(2) as it had effect on the date of the application.
+(5) Where this sub-paragraph applies, regulations 48 and 52B apply in respect of the application as they had effect immediately before 1st January 2025.
+(6) Sub-paragraph (7) applies where—
+(a)
+an application for a UKMA(UK) was made before 1st January 2025,
+(b)
+the application has not been determined immediately before that date,
+(c)
+the application was made under regulation 53B as it had effect on the date of the application, and
+(d)
+the reference medicinal product was of the description in paragraph (c)(ii) of the definition of that term in regulation 48(2) as it had effect on the date of the application.
+(7) Where this sub-paragraph applies, regulations 48 and 53B apply in respect of the application as they had effect immediately before 1st January 2025.
+Post-authorisation processes
+3.—(1) Where an application is made before 1st January 2025 for variation of a UKMA(GB) and that application has not been determined immediately before that date, if the authorisation has effect as a UKMA(UK)(Category 2) by virtue of paragraph 1(2), the application must be determined by the licensing authority as if it were an application for a variation of a UKMA(UK)(Category 1).
+(2) Where a holder of a UKMA(GB) has submitted a draft protocol under regulation 199(2) before 1st January 2025, if the authorisation has effect as a UKMA(Category 2) by virtue of paragraph 1(2), the obligations applied by regulations 198 to 202 apply in relation to the medicinal product concerned on and after 1st January 2025 as if the authorisation were a UKMA(UK)(Category 1).”.Signed by authority of the Secretary of State for Health and Social Care
+Andrew Gwynne
+Parliamentary Under Secretary of State
+Department for Health and Social Care
+At 9.54 a.m. on 29th July 2024EXPLANATORY NOTE
+(This note is not part of the Regulations)
+The United Kingdom (“UK”) and the European Union (“EU”) agreed to the Windsor Framework in March 2023, including new arrangements relating to the supply of medicines from Great Britain (“GB”) to Northern Ireland (“NI”) (“the Agreement”) to come into effect in January 2025.
+Regulation (EU) 2023/1182 of the European Parliament and of the Council of 14 June 2023 on specific rules relating to medicinal products for human use intended to be placed on the market in Northern Ireland and amending Directive 2001/83/EC implements the Agreement in EU law. These Regulations amend the Human Medicines Regulations 2012 (“the 2012 Regulations”) to implement the Agreement in domestic law and to make consequential changes.
+Under the Agreement, medicinal products that would previously have fallen within the scope of the centralised procedure (products required under EU law to be authorised across the EU and NI on a centralised basis by the European Commission (on the recommendation of the European Medicines Agency)) must now be authorised by the UK regulator in accordance with the law of the UK. The Medicines and Healthcare products Regulatory Agency has existing powers to authorise products falling outside the scope of the centralised procedure across the UK. These arrangements will therefore enable all types of medicines to be supplied with a single licence in a single pack for the whole of the UK.
+These regulations amend the 2012 Regulations to apply these new arrangements, by providing for two categories of UK-wide marketing authorisation (Categories 1 and 2). Whether a medicinal product is authorised under Category 1 or 2 will depend on whether the product in question would have fallen within the centralised procedure or not. This means that, where there previously would have needed to be an EU authorised pack for NI, and a UK authorised pack for GB, there need now only be one pack. The 2012 Regulations continue to provide for marketing authorisations with a territorial limit of Northern Ireland, and for marketing authorisations with a territorial limit of Great Britain, although it will no longer be possible to apply for that latter type of authorisation.
+The Agreement also removes the requirement under EU law that medicines packaging include a bar code encoding data that is uploaded into an EU-wide database.
+Regulation 7 of these Regulations amends regulation 8 of the 2012 Regulations to provide that a “UK marketing authorisation” comprises the following different types of authorisation: UKMA(UK)(Category 1), UKMA(Category 2), UKMA(GB) and UKMA(NI).
+Regulation 25 of these Regulations amends regulation 49 of the 2012 Regulations to define the different types of authorisation: UKMA(UK)(Category 1) and UKMA(UK)(Category 2), which permit marketing of a medicinal product in all the territories of the UK; UKMA(GB) which does not permit marketing of a medicinal product in Northern Ireland; and UKMA(NI) which does not permit marketing of a medicinal product in Great Britain.
+The remainder of the amendments fall into the following categories:
+amendments to references in the 2012 Regulations to different types of authorisation to ensure that the correct type of authorisation is referred to, so as to implement the Agreement,
+amendments to ensure that provisions relating to guidance are consistent throughout the 2012 Regulations,
+provision relating to data and marketing exclusivity periods for medicinal products marketed in the different territories of the UK,
+provision to disapply the product identification and anti-tampering device rules contained in Commission Delegated Regulation (EU) 2016/161 supplementing Directive 2001/83/EC of the European Parliament and of the Council by laying down detailed rules for the safety features appearing on the packaging of medicinal products for human use and to provide for a new “UK only” labelling requirement for products that are placed on the market in Northern Ireland.
+Specific provision is made in relation to advanced therapy medicinal products and medicinal products for paediatric use to reflect the Agreement relating to these.
+Regulations 133 and 146 make transitional provision in relation to existing authorisations and applications.
+Details of the Windsor Framework are available at www.gov.uk/government/publications/the-windsor-framework or from the Cabinet Office, 100 Parliament Street, London, SW1A 2BQ.
+An impact assessment relating to this instrument has been published and copies can be obtained from the Department of Health and Social Care, 39 Victoria Street, London SW1H 0EU, and is available on the www.legislation.gov.uk website. An explanatory memorandum has been published alongside this instrument at www.legislation.gov.uk.

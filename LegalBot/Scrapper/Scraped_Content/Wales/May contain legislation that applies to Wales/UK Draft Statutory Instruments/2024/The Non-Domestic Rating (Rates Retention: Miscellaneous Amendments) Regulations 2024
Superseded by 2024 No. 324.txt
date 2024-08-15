@@ -1,0 +1,1067 @@
+This draft Statutory Instrument supersedes the drafts of the same title which were laid before Parliament and published on 8th and 19th February 2024 (ISBN 978-0-34-825736-6 and ISBN 978-0-348-25757-1 respectively). It is being issued free of charge to all known recipients of those draft Statutory Instruments.
+Draft Regulations laid before Parliament under section 143(9D) of the Local Government Finance Act 1988, for approval by resolution of each House of Parliament.
+DRAFT STATUTORY INSTRUMENTS
+2024 No.
+RATING AND VALUATION, ENGLAND
+The Non-Domestic Rating (Rates Retention: Miscellaneous Amendments) Regulations 2024
+Made
+***
+Coming into force in accordance with regulation 1(2)
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 143(1) and (2) of, and paragraphs 6, 9, 10, 22, 25 and 37 of Schedule 7B to, the Local Government Finance Act 1988(1).
+A draft of this instrument was laid before and approved by a resolution of each House of Parliament in accordance with section 143(9D)(2) of that Act.
+(1)
+1988 c. 41. Schedule 7B was inserted by section 1 of, and Schedule 1 to, the Local Government Finance Act 2012 (c. 17).
+(2)
+Subsection (9D) was inserted in section 143 by section 1 of the Local Government Finance Act 2012.Citation, commencement and extent
+1.—(1) These Regulations may be cited as the Non-Domestic Rating (Rates Retention: Miscellaneous Amendments) Regulations 2024.
+(2) These Regulations come into force on the day after the day on which they are made.
+(3) These Regulations extend to England and Wales.Amendment of the Non-Domestic Rating (Rates Retention) Regulations 2013
+2.—(1) The Non-Domestic Rating (Rates Retention) Regulations 2013(1) are amended as follows.
+(2) In regulation 2(1)—
+(a)
+in the definition of “small business non-domestic rating multiplier”, for “determined under Part 1 of” substitute “calculated by the Secretary of State under”;
+(b)
+in the appropriate places, insert the following definitions—
+““Hartlepool MDC Order” means the Hartlepool Development Corporation (Functions) Order 2023(2);”;
+““Middlesbrough MDC Order” means the Middlesbrough Development Corporation (Functions) Order 2023(3);”;
+““non-domestic rating multiplier” in relation to a year means the non-domestic rating multiplier for the year calculated by the Secretary of State under Schedule 7 to the 1988 Act;”;
+““small business hereditament” means a hereditament for which on 1st April 2023 a rateable value of less than £51,000 is shown on a local non-domestic rating list;”;
+““standard hereditament” means a hereditament for which on 1st April 2023 a rateable value greater than £50,999 is shown on a local non-domestic rating list.”.
+(3) In regulation 5 (payments by billing authorities to major precepting authorities in respect of share of income)—
+(a)
+after paragraph (2), insert—
+“(2A) Where a billing authority has received an MDC payment for the year, it must make a payment for the year to each of its relevant precepting authorities of the amount that is that authority’s share of the MDC payment.”;
+(b)
+in paragraph (4), for “payment” substitute “payments”;
+(c)
+after paragraph (4), insert—
+“(5) In this regulation, an “MDC payment” means a payment from a Mayoral development corporation(4) made in accordance with Part 4 of the Middlesbrough MDC Order or Part 4 of the Hartlepool MDC Order.”.
+(4) After regulation 12 (reconciliation of amounts where authority has failed to act diligently), insert—
+“Reconciliation of MDC payments
+12A.—(1) This regulation applies to an authority in relation to which there is a deficit or a surplus.
+(2) Any deficit or surplus shall belong to or be borne by the billing authority and any relevant precepting authorities in accordance with the shares set out in regulation 5.
+(3) A relevant precepting authority must pay its share of a surplus to the billing authority.
+(4) A billing authority must pay to the relevant precepting authority that authority’s share of the deficit.
+(5) Any payments under this regulation must be made before the end of the period of 28 days beginning with the certification date.
+(6) In this regulation—
+“certification date” means the date on which the billing authority’s certified non-domestic rating income for the relevant year is certified under regulation 9;
+“deficit” and “surplus” have the meanings given in article 2 of the Middlesbrough MDC Order or article 2 of the Hartlepool MDC Order (as the case may be).”.
+(5) In paragraph 1(2) of Schedule 1 (non-domestic rating income)—
+(a)
+in paragraph (a), for “Part 1” substitute “Part A1(5)”;
+(b)
+after paragraph (b)(ii), insert—
+“(iia)
+for a financial year beginning on or after 1st April 2024 is determined by the formula—
+where—
+where—
+X1 is the value of X for the preceding year;
+B2 is the small business non-domestic rating multiplier for the relevant year;
+B1 is the small business non-domestic rating multiplier for the preceding year;
+C2 is the non-domestic rating multiplier for the relevant year;
+C1 is the non-domestic rating multiplier for the preceding year;
+D is the sum of the total rateable value of all small business hereditaments shown in the authority’s list on 1st April 2023;
+E is the sum of the total rateable value of standard hereditaments shown in the authority’s list on 1st April 2023;”.
+(1)
+S.I. 2013/452; relevant amending instruments are S.I. 2016/1268, 2017/496, 2018/463, 2019/709 and 2023/268.
+(2)
+S.I. 2023/446.
+(3)
+S.I. 2023/447.
+(4)
+A Mayoral development corporation is a corporation established under section 198 of the Localism Act 2011 (c.20).
+(5)
+Part A1 was inserted into the Local Government Finance Act 1988 by section 15 of the Non-Domestic Rating Act 2023 (c.53).Amendment of the Non-Domestic Rating (Levy and Safety Net) Regulations 2013
+3.—(1) The Non-Domestic Rating (Levy and Safety Net) Regulations 2013(1) are amended as follows.
+(2) In regulation 2(1) (interpretation)—
+(a)
+in the definition of “business rates baseline”—
+(i)
+in sub-paragraph (c), in the second place it occurs, omit “and” ;
+(ii)
+in sub-paragraph (d), for “a year commencing on or after 1st April 2021” substitute “the year commencing on 1st April 2021 or 2022”;
+(iii)
+after sub-paragraph (d), insert—
+“(e)
+for the year commencing on 1st April 2023, the amount specified with respect to an authority by regulation 5 and Schedule 7;”;
+(b)
+in the definition of “small business non-domestic rating multiplier”, for “determined under Part 1 of” substitute “calculated by the Secretary of State under”;
+(c)
+in the appropriate places, insert the following definitions—
+““non-domestic rating multiplier” in relation to a year means the non-domestic rating multiplier for the year calculated by the Secretary of State under Schedule 7 to the 1988 Act;”;
+““small business hereditament” means a hereditament for which on 1st April 2023 a rateable value of less than £51,000 is shown on a local non-domestic rating list;”;
+““standard hereditament” means a hereditament for which on 1st April 2023 a rateable value greater than £50,999 is shown on a local non-domestic rating list.”.
+(3) In regulation 4(1) (meaning of retained rates income for purposes of levy and safety net calculations), after “Schedule 1B”, insert “, Schedule 6A”.
+(4) In regulation 5 (business rates baseline and baseline funding level)—
+(a)
+after paragraph (1C), insert—
+“(1D) For the year commencing on 1st April 2023, the business rates baseline of an authority listed in column A of the table in Schedule 7 is the amount specified with respect to that authority in column D of that table.”;
+(b)
+in paragraph (3)—
+(i)
+in sub-paragraph (a), for the words from “and the years” to “(b),” substitute “, 1st April 2018, 1st April 2019, 1st April 2020, 1st April 2021 and 1st April 2022”;
+(ii)
+in sub-paragraph (b)—
+(aa)
+in the definition of A, for “year immediately preceding the relevant” substitute “preceding”;
+(bb)
+in the definition of B1, for “year.” substitute “year;”;
+(iii)
+after sub-paragraph (b), insert—
+“(c)
+the years commencing on or after 1st April 2024 is the amount calculated in accordance with the formula—
+where—
+A is the baseline funding level for the preceding year;
+B2 is the small business non-domestic rating multiplier for the relevant year;
+B1 is the small business non-domestic rating multiplier for the preceding year;
+C2 is the non-domestic rating multiplier for the relevant year;
+C1 is the non-domestic rating multiplier for the preceding year;
+D is—
+(i)
+in the case of a billing authority, the sum of the total rateable value of all small business hereditaments shown in the authority’s list on 1st April 2023;
+(ii)
+in the case of a major precepting authority, the sum of the total rateable value of all small business hereditaments shown on 1st April 2023 in the lists of all billing authorities in relation to that authority;
+E is—
+(i)
+in the case of a billing authority, the sum of the total rateable value of standard hereditaments shown in the authority’s list on 1st April 2023;
+(ii)
+in the case of a major precepting authority, the sum of the total rateable value of all standard hereditaments shown on 1st April 2023 in the lists of all billing authorities in relation to that authority on 1st April 2023.”;
+(c)
+in paragraph 4(a)—
+(i)
+in paragraph (ii), omit “and”;
+(ii)
+after paragraph (ii), insert—
+“(iii)
+for the year commencing on 1st April 2023, is to be the sum of the individual business rates baselines of the authorities that comprise the pool for the year commencing on 1st April 2023; and”.
+(5) In regulation 6 (individual levy rates and safety net thresholds)—
+(a)
+in paragraph (2B), in the definitions of E and F, for “1st April 2017” substitute “the day on which the current lists were compiled”;
+(b)
+in paragraph (2F)—
+(i)
+omit “or after”;
+(ii)
+after “2019” insert “, 1st April 2020, 1st April 2021 or 1st April 2022”;
+(c)
+in paragraph (2I), for the words from “or after” to “that table” substitute “1st April 2021 or 1st April 2022”;
+(d)
+after paragraph (3), insert—
+“(4) In this regulation, “current lists” means the local non-domestic rating lists compiled in accordance with section 41(1) of the 1988 Act and in force for the relevant year.”.
+(6) In Schedule 1 (calculation of retained rates income)—
+(a)
+in paragraph 1(1) (calculation for billing authorities)—
+(i)
+for the formula which appears immediately after the opening words substitute—
+“”
+(ii)
+in the definition of P—
+(aa)
+in paragraph (a), for “or (h)” substitute “, (h) or (i)”;
+(bb)
+for paragraph (h) substitute—
+“(h)
+for the relevant year beginning on 1st April 2023, the amount specified for the authority in column B of the table in Schedule 7;
+(i)
+for the relevant year beginning on 1st April 2024, the amount calculated for that authority in accordance with the formula—
+where—
+A is P for the preceding year;
+B2 is the small business non-domestic rating multiplier for the relevant year;
+B1 is the small business non-domestic rating multiplier for the preceding year;
+C2 is the non-domestic rating multiplier for the relevant year;
+C1 is the non-domestic rating multiplier for the preceding year;
+D is the sum of the total rateable value of all small business hereditaments shown in the authority’s list on 1st April 2023;
+E is the sum of the total rateable value of standard hereditaments shown in the authority’s list on 1st April 2023;”;
+(iii)
+in the definition of Q—
+(aa)
+in paragraph (a), for “or (h)” substitute “, (h) or (i)”;
+(bb)
+for paragraph (h) substitute—
+“(h)
+for the relevant year beginning on 1st April 2023, the amount specified for the authority in column C of the table in Schedule 7;
+(i)
+for the relevant year beginning on 1st April 2024, the amount calculated for that authority in accordance with the formula—
+where—
+A is Q for the preceding year;
+B2 is the small business non-domestic rating multiplier for the relevant year;
+B1 is the small business non-domestic rating multiplier for the preceding year;
+C2 is the non-domestic rating multiplier for the relevant year;
+C1 is the non-domestic rating multiplier for the preceding year;
+D is the sum of the total rateable value of all small business hereditaments shown in the authority’s list on 1st April 2023;
+E is the sum of the total rateable value of standard hereditaments shown in the authority’s list on 1st April 2023;”;
+(iv)
+in the definition of U, omit “and”;
+(v)
+after the definition of U, insert—
+“V is—
+(a)
+for the years commencing on or after 1st April 2024, the amount calculated in accordance with sub-paragraph (4E);
+(b)
+for any other year, zero;
+W is—
+(a)
+for the years commencing on or after 1st April 2024, the amount calculated in accordance with sub-paragraph (4F);
+(b)
+for any other year, zero;”;
+(vi)
+in the definition of Y, in paragraph (d), for “that table.” substitute “that table;”;
+(vii)
+after the definition of Y, insert—
+“Z is—
+(a)
+for the years commencing on or after 1st April 2024, the amount calculated in accordance with sub-paragraph (4G);
+(b)
+for any other year, zero;
+Z1 is—
+(a)
+for the year beginning on 1st April 2022, the amount specified for the authority in column B of Schedule 6A;
+(b)
+for a year beginning on or after 1st April 2023, the amount specified for the authority in column E of Schedule 7;
+(c)
+for any other year, zero.”;
+(b)
+after paragraph 1(4D), insert—
+“(4E) The amount calculated in accordance with this sub-paragraph is the amount which is the difference between—
+(a)
+(i)
+the total of the amounts credited to the billing authority’s collection fund income and expenditure account in the relevant year in accordance with proper practices in respect of non-domestic rates payable under sections 43 and 45 of the 1988 Act in respect of—
+(aa)
+a day in that year, and
+(bb)
+a day in a previous year where the amount was not credited in a previous year; less
+(ii)
+the total of the amounts charged to the billing authority’s collection fund income and expenditure account in the relevant year in accordance with proper practices in respect of non-domestic rates payable under sections 43 and 45 of the 1988 Act in respect of—
+(aa)
+a day in that year, and
+(bb)
+a day in a previous year where the amount was not charged in a previous year; and
+(b)
+the amount that would have been calculated under paragraph (a) if for paragraph 10(2) of Schedule 4ZA to the 1988 Act(2) there were substituted—
+“(2) “A” is the rateable value shown for the day under section 42(4) as regards the hereditament.”.
+(4F) The amount calculated in accordance with this sub-paragraph is 50% of the amount which is the difference between—
+(a)
+(i)
+the total of the amounts credited to the billing authority’s collection fund income and expenditure account in the relevant year in accordance with proper practices in respect of non-domestic rates payable under sections 43 and 45 of the 1988 Act in respect of—
+(aa)
+a day in that year, and
+(bb)
+a day in a previous year where the amount was not credited in a previous year; less
+(ii)
+the total of the amounts charged to the billing authority’s collection fund income and expenditure account in the relevant year in accordance with proper practices in respect of non-domestic rates payable under sections 43 and 45 of the 1988 Act in respect of—
+(aa)
+a day in that year, and
+(bb)
+a day in a previous year where the amount was not charged in a previous year; and
+(b)
+the amount that would have been calculated under paragraph (a) if paragraph 8 of Schedule 4ZA to the 1988 Act (rural rate relief) were omitted.
+(4G) The amount calculated in accordance with this sub-paragraph is the amount which is the difference between—
+(a)
+(i)
+the total of the amounts credited to the billing authority’s collection fund income and expenditure account in the relevant year in accordance with proper practices in respect of non-domestic rates payable under sections 43 and 45 of the 1988 Act in respect of—
+(aa)
+a day in that year, and
+(bb)
+a day in a previous year where the amount was not credited in a previous year; less
+(ii)
+the total of the amounts charged to the billing authority’s collection fund income and expenditure account in the relevant year in accordance with proper practices in respect of non-domestic rates payable under sections 43 and 45 of the 1988 Act in respect of—
+(aa)
+a day in that year, and
+(bb)
+a day in a previous year where the amount was not charged in a previous year; and
+(b)
+the amount that would have been calculated under paragraph (a) if paragraph 6 of Schedule 4ZA to the 1988 Act (heat networks rate relief) were omitted.”;
+(c)
+in paragraph 2 (calculation for major precepting authorities)—
+(i)
+for the formula which appears immediately after the opening words substitute—
+“”
+(ii)
+in the definition of S, in paragraph (iiia), for “or after 1st April 2017” substitute “1st April 2017, 1st April 2018, 1st April 2019, 1st April 2020 or 1st April 2021”;
+(iii)
+in the definition of P—
+(aa)
+in paragraph (a), for “or (d)” substitute “, (d), (e) or (f)”;
+(bb)
+after paragraph (d), insert—
+“(e)
+for the relevant year beginning on 1st April 2023, the amount specified for the authority in column B of the table in Schedule 7;
+(f)
+for the relevant year beginning on 1st April 2024, the amount calculated for that authority in accordance with the formula—
+where—
+A is P for the preceding year;
+B2 is the small business non-domestic rating multiplier for the relevant year;
+B1 is the small business non-domestic rating multiplier for the preceding year;
+C2 is the non-domestic rating multiplier for the relevant year;
+C1 is the non-domestic rating multiplier for the preceding year;
+D is the sum of the total rateable value of all small business hereditaments shown in the lists of all billing authorities in relation to the authority on 1st April 2023;
+E is the sum of the total rateable value of standard hereditaments shown in the lists of all billing authorities in relation to the authority on 1st April 2023;”;
+(iv)
+in the definition of Q—
+(aa)
+in paragraph (a), for “or (d)” substitute “, (d), (e) or (f)”;
+(bb)
+after paragraph (d), insert—
+“(e)
+for the relevant year beginning on 1st April 2023, the amount specified for the authority in column C of the table in Schedule 7;
+(f)
+for the relevant year beginning on 1st April 2024, the amount calculated for that authority in accordance with the formula—
+where—
+A is Q for the preceding year;
+B2 is the small business non-domestic rating multiplier for the relevant year;
+B1 is the small business non-domestic rating multiplier for the preceding year;
+C2 is the non-domestic rating multiplier for the relevant year;
+C1 is the non-domestic rating multiplier for the preceding year;
+D is the sum of the total rateable value of all small business hereditaments shown in the lists of all billing authorities in relation to the authority on 1st April 2023;
+E is the sum of the total rateable value of standard hereditaments shown in the lists of all billing authorities in relation to the authority on 1st April 2023;”;
+(v)
+in the definition of W, after paragraph (d), insert—
+“(e)
+for the relevant year beginning on 1st April 2024, the sum of the amounts of relief awarded under section 47 of the 1988 Act by all the billing authorities required to make payments to the major precepting authority for the relevant year under Part 4 of Schedule 7B to the 1988 Act, where the relief has been awarded in accordance with the following guidance issued by the Secretary of State—
+(i)
+“Business Rates Relief: 2023 Supporting Small Business Relief, local authority guidance” published on 21 December 2022(3), or
+(ii)
+“Business Rates Relief: 2024/25 Retail, Hospitality and Leisure Scheme” published on 15 December 2023(4);”;
+(vi)
+in the definition of Y, after “S” insert “, V, W and Z”;
+(vii)
+in the definition of Z, for “1988 Act.” substitute “1988 Act;”;
+(viii)
+after the definition of Z, insert—
+“Z1 is—
+(a)
+for the year beginning on 1st April 2022, the amount specified for the authority in column B of Schedule 6A;
+(b)
+for a year beginning on or after 1st April 2023, the amount specified for the authority in column E of Schedule 7.”.
+(7) After Schedule 6 (table of authorities, business rates baselines, baseline funding levels and values of A and Y), insert Schedule 6A which is set out in Schedule 1 to these Regulations.
+(8) For Schedule 7 (table of authorities, values for P and Q) substitute the Schedule set out in Schedule 2 to these Regulations.
+(1)
+S.I. 2013/737, amended by S.I. 2014/822, 2015/617, 2015/2039, 2017/496, 2018/463, 2019/709, 2020/1357, 2022/189 and 2023/268.
+(2)
+Schedule 4ZA was inserted by section 1 of the Non-Domestic Rating Act 2023 (c.53).
+(3)
+https://www.gov.uk/government/publications/business-rates-relief-2023-supporting-small-business-relief-local-authority-guidance/business-rates-relief-2023-supporting-small-business-relief-local-authority-guidance. See also the Explanatory Note.
+(4)
+https://www.gov.uk/guidance/business-rates-relief-202425-retail-hospitality-and-leisure-scheme#:~:text=5.-,The%202024%2F25%20Retail%2C%20Hospitality%20and%20Leisure%20Business%20Rates%20Relief,of%20%C2%A3110%2C000%20per%20business. See also the Explanatory Note.Signed by authority of the Secretary of State for Levelling Up, Housing and Communities
+Name
+Parliamentary Under Secretary of State
+Department for Levelling Up, Housing and Communities
+DateRegulation 3(7)
+SCHEDULE 1
+Regulation 4 and Schedule 1
+“SCHEDULE 6A
+Table of Authorities, Value of Z1 for the year commencing on 1st April 2022
+Column A Column B
+The council for the local government area of— Value of Z1 for the year commencing on 1st April 2022 (£)
+Adur 10,249
+Amber Valley 18,636
+Arun 21,850
+Ashfield 22,343
+Ashford 30,511
+Avon Combined Fire Authority 6,845
+Babergh 14,868
+Barking and Dagenham 25,046
+Barnet 48,492
+Barnsley 39,624
+Basildon 40,923
+Basingstoke and Deane 39,168
+Bassetlaw 24,815
+Bath and North East Somerset 95,829
+Bedford 48,386
+Bedfordshire Combined Fire Authority 3,199
+Berkshire Combined Fire Authority 6,977
+Bexley 31,611
+Birmingham 620,403
+Blaby 25,583
+Blackburn with Darwen 32,517
+Blackpool 33,884
+Bolsover 14,751
+Bolton 128,211
+Boston 11,774
+Bournemouth, Christchurch and Poole 99,455
+Bracknell Forest 36,599
+Bradford 102,590
+Braintree 25,461
+Breckland 20,372
+Brent 52,465
+Brentwood 14,784
+Brighton and Hove 82,917
+Bristol 278,503
+Broadland 17,796
+Bromley 39,621
+Bromsgrove 15,675
+Broxbourne 19,856
+Broxtowe 15,901
+Buckinghamshire 126,234
+Buckinghamshire Combined Fire Authority 4,959
+Burnley 16,917
+Bury 71,130
+Calderdale 43,269
+Cambridge 69,074
+Cambridgeshire 40,850
+Cambridgeshire Combined Fire Authority 5,889
+Camden 256,102
+Cannock Chase 20,357
+Canterbury 33,015
+Castle Point 9,318
+Central Bedfordshire 64,505
+Charnwood 29,637
+Chelmsford 42,895
+Cheltenham 30,047
+Cherwell 52,591
+Cheshire Combined Fire Authority 6,148
+Cheshire East 96,448
+Cheshire West and Chester 104,297
+Chesterfield 22,545
+Chichester 28,285
+Chorley 15,043
+City of London 425,665
+Cleveland Combined Fire Authority 2,599
+Colchester 36,443
+Cornwall 272,159
+Cotswold 20,225
+Coventry 172,767
+Crawley 57,740
+Croydon 50,580
+Cumberland 74,052
+Cumbria Fire Authority 2,833
+Dacorum 34,605
+Darlington 23,774
+Dartford 46,930
+Derby 61,530
+Derbyshire 28,200
+Derbyshire Combined Fire Authority 4,389
+Derbyshire Dales 13,134
+Devon 34,175
+Devon and Somerset Combined Fire Authority 8,147
+Doncaster 70,040
+Dorset 79,203
+Dorset and Wiltshire Fire and Rescue Authority 7,307
+Dover 24,346
+Dudley 126,273
+Durham 88,141
+Durham Combined Fire Authority 2,284
+Ealing 61,716
+East Cambridgeshire 13,390
+East Devon 23,889
+East Hampshire 19,218
+East Hertfordshire 25,939
+East Lindsey 24,196
+East Riding of Yorkshire 71,887
+East Staffordshire 31,377
+East Suffolk 53,007
+East Sussex 18,896
+East Sussex Combined Fire Authority 3,792
+Eastbourne 20,462
+Eastleigh 29,683
+Elmbridge 33,447
+Enfield 46,237
+Epping Forest 21,452
+Epsom and Ewell 14,082
+Erewash 14,728
+Essex 62,385
+Essex PCC-Fire 9,222
+Exeter 41,358
+Fareham 22,662
+Fenland 14,959
+Folkestone and Hythe 16,285
+Forest of Dean 9,174
+Fylde 14,482
+Gateshead 58,281
+Gedling 13,647
+Gloucester 28,771
+Gloucestershire 31,577
+Gosport 9,601
+Gravesham 14,801
+Great Yarmouth 17,686
+Greater London Authority 4,048,432
+Greater Manchester Combined Authority 15,332
+Greenwich 40,974
+Guildford 45,968
+Hackney 67,899
+Halton 70,587
+Hammersmith and Fulham 94,727
+Hampshire 64,054
+Hampshire and Isle of Wight Fire and Rescue Authority 10,349
+Harborough 26,607
+Haringey 30,866
+Harlow 23,524
+Harrow 22,319
+Hart 15,638
+Hartlepool 21,677
+Hastings 13,569
+Havant 18,723
+Havering 33,517
+Hereford and Worcester Combined Fire Authority 3,514
+Herefordshire 36,989
+Hertfordshire 66,650
+Hertsmere 26,384
+High Peak 16,050
+Hillingdon 132,669
+Hinckley and Bosworth 20,618
+Horsham 25,742
+Hounslow 73,290
+Humberside Combined Fire Authority 4,711
+Huntingdonshire 33,979
+Hyndburn 13,150
+Ipswich 30,357
+Isle of Wight 30,440
+Isles of Scilly 1,317
+Islington 118,665
+Kensington and Chelsea 126,374
+Kent 75,118
+Kent Combined Fire Authority 9,608
+King’s Lynn and West Norfolk 27,563
+Kingston upon Hull 61,984
+Kingston upon Thames 33,529
+Kirklees 76,848
+Knowsley 58,691
+Lambeth 72,306
+Lancashire 47,503
+Lancashire Combined Fire Authority 6,633
+Lancaster 35,600
+Leeds 248,827
+Leicester 81,037
+Leicestershire 35,674
+Leicestershire Combined Fire Authority 5,801
+Lewes 15,919
+Lewisham 27,097
+Lichfield 20,016
+Lincoln 24,826
+Lincolnshire 31,767
+Liverpool 294,183
+Luton 43,852
+Maidstone 33,175
+Maldon 9,060
+Malvern Hills 10,653
+Manchester 492,717
+Mansfield 16,720
+Medway 61,834
+Melton 8,837
+Merseyside Fire and CD Authority 6,327
+Merton 34,518
+Mid Devon 10,470
+Mid Suffolk 15,551
+Mid Sussex 27,877
+Middlesbrough 27,475
+Milton Keynes 116,733
+Mole Valley 22,383
+New Forest 38,236
+Newark and Sherwood 23,786
+Newcastle upon Tyne 97,309
+Newcastle-under-Lyme 20,141
+Newham 68,582
+Norfolk 41,399
+North Devon 20,893
+North East Derbyshire 10,565
+North East Lincolnshire 41,373
+North Hertfordshire 22,724
+North Kesteven 16,771
+North Lincolnshire 55,601
+North Norfolk 18,994
+North Northamptonshire 91,962
+North Somerset 44,755
+North Tyneside 40,970
+North Warwickshire 27,456
+North West Leicestershire 39,644
+North Yorkshire 157,705
+North Yorkshire PCC-FRA 4,624
+Northamptonshire PCC-FRA 4,376
+Northumberland 66,402
+Norwich 43,015
+Nottingham 93,650
+Nottinghamshire 30,071
+Nottinghamshire Combined Fire Authority 5,252
+Nuneaton and Bedworth 19,424
+Oadby and Wigston 7,624
+Oldham 84,469
+Oxford 61,532
+Oxfordshire 49,584
+Pendle 11,640
+Peterborough 66,146
+Plymouth 62,361
+Portsmouth 57,372
+Preston 33,118
+Reading 83,729
+Redbridge 25,221
+Redcar and Cleveland 26,368
+Redditch 18,223
+Reigate and Banstead 28,592
+Ribble Valley 9,717
+Richmond upon Thames 36,455
+Rochdale 94,921
+Rochford 10,746
+Rossendale 8,061
+Rother 12,564
+Rotherham 52,086
+Rugby 28,762
+Runnymede 29,595
+Rushcliffe 16,436
+Rushmoor 26,061
+Rutland 9,013
+Salford 135,442
+Sandwell 142,345
+Sefton 99,304
+Sevenoaks 21,150
+Sheffield 145,752
+Shropshire 64,079
+Shropshire Combined Fire Authority 2,300
+Slough 61,790
+Solihull 147,500
+Somerset 124,838
+South Cambridgeshire 50,152
+South Derbyshire 14,924
+South Gloucestershire 183,232
+South Hams 19,684
+South Holland 13,641
+South Kesteven 24,817
+South Norfolk 20,168
+South Oxfordshire 26,754
+South Ribble 20,005
+South Staffordshire 15,797
+South Tyneside 21,053
+South Yorkshire Fire and CD Authority 6,276
+Southampton 70,552
+Southend-on-Sea 32,467
+Southwark 125,935
+Spelthorne 25,053
+St Albans 32,969
+St. Helens 72,874
+Stafford 27,135
+Staffordshire 37,266
+Staffordshire Moorlands 12,569
+Staffordshire PCC-FRA 5,435
+Stevenage 23,748
+Stockport 120,355
+Stockton-on-Tees 51,812
+Stoke-on-Trent 63,428
+Stratford-on-Avon 33,380
+Stroud 18,468
+Suffolk 38,769
+Sunderland 61,494
+Surrey 69,834
+Surrey Heath 18,762
+Sutton 24,441
+Swale 30,350
+Swindon 72,244
+Tameside 81,780
+Tamworth 18,232
+Tandridge 13,036
+Teignbridge 19,147
+Telford and Wrekin 48,597
+Tendring 17,861
+Test Valley 30,847
+Tewkesbury 19,622
+Thanet 22,217
+Three Rivers 16,214
+Thurrock 79,772
+Tonbridge and Malling 31,069
+Torbay 25,922
+Torridge 9,134
+Tower Hamlets 168,526
+Trafford 195,013
+Tunbridge Wells 30,011
+Tyne and Wear Fire and CD Authority 5,696
+Uttlesford 24,798
+Vale of White Horse 34,680
+Wakefield 90,865
+Walsall 98,684
+Waltham Forest 27,875
+Wandsworth 51,737
+Warrington 65,548
+Warwick 38,869
+Warwickshire 36,973
+Watford 31,738
+Waverley 22,970
+Wealden 21,467
+Welwyn Hatfield 32,424
+West Berkshire 55,982
+West Devon 7,314
+West Lancashire 17,931
+West Lindsey 11,044
+West Midlands Fire Authority 14,301
+West Northamptonshire 122,476
+West of England Combined Authority 29,658
+West Oxfordshire 22,778
+West Suffolk 41,293
+West Sussex 47,213
+West Yorkshire Fire and CD Authority 11,478
+Westminster 807,452
+Westmorland and Furness 64,763
+Wigan 113,856
+Wiltshire 107,163
+Winchester 34,844
+Windsor and Maidenhead 55,526
+Wirral 101,304
+Woking 25,448
+Wokingham 48,260
+Wolverhampton 107,842
+Worcester 23,439
+Worcestershire 24,833
+Worthing 17,110
+Wychavon 25,812
+Wyre 15,461
+Wyre Forest 16,567
+York 68,855”Regulation 3(8)
+SCHEDULE 2
+Regulations 4, 5 and Schedule 1
+“SCHEDULE 7
+Table of Authorities, Values for the year commencing on 1st April 2023
+Column A Column B Column C Column D Column E
+The council for the local government area of— Value of P for the year commencing on 1st April 2023 (£) Value of Q for the year commencing on 1st April 2023 (£) Business rates baseline for the year commencing on 1st April 2023 (£) Value of Z1 for the year commencing on 1st April 2023 (£)
+Adur 0 5,886,196 7,719,480 10,911
+Amber Valley 0 10,360,545 13,703,470 19,421
+Arun 0 9,726,719 13,532,700 21,982
+Ashfield 0 11,284,697 15,315,304 23,297
+Ashford 0 16,320,213 19,305,528 29,925
+Avon Combined Fire Authority 6,271,165 0 5,044,356 6,938
+Babergh 0 7,819,032 10,037,763 15,150
+Barking and Dagenham 36,759,775 0 23,098,271 28,955
+Barnet 21,862,867 0 39,065,817 46,240
+Barnsley 32,379,468 0 26,685,783 41,197
+Basildon 0 28,170,558 34,085,389 43,825
+Basingstoke and Deane 0 30,382,022 33,548,418 41,244
+Bassetlaw 0 13,704,366 17,912,390 25,093
+Bath and North East Somerset 0 10,097,415 34,672,574 93,998
+Bedford 0 1,734,493 35,076,509 53,030
+Bedfordshire Combined Fire Authority 3,684,977 0 2,479,349 3,568
+Berkshire Combined Fire Authority 1,854,560 0 5,539,339 7,306
+Bexley 14,290,871 0 23,732,548 35,109
+Birmingham 157,052,169 0 214,565,283 629,024
+Blaby 0 13,961,526 16,275,225 24,061
+Blackburn with Darwen 25,217,750 0 21,016,187 32,904
+Blackpool 27,212,957 0 22,901,451 30,681
+Bolsover 0 6,751,926 9,787,847 15,376
+Bolton 27,224,353 0 43,484,602 127,648
+Boston 0 5,200,540 8,004,669 11,543
+Bournemouth, Christchurch and Poole 0 21,229,964 78,183,093 101,737
+Bracknell Forest 0 4,254,234 21,716,018 36,652
+Bradford 75,668,497 0 68,800,405 98,654
+Braintree 0 16,367,850 19,985,267 28,238
+Breckland 0 9,871,557 13,979,140 21,583
+Brent 50,245,858 0 41,380,259 57,902
+Brentwood 0 10,941,769 12,663,102 15,082
+Brighton and Hove 1,580,128 0 59,768,041 80,375
+Bristol 0 8,215,098 114,030,729 288,324
+Broadland 0 9,659,443 12,642,601 18,199
+Bromley 10,963,461 0 28,949,681 38,222
+Bromsgrove 0 9,396,054 11,207,573 16,613
+Broxbourne 0 15,650,123 18,092,341 22,172
+Broxtowe 0 7,946,720 10,952,626 15,295
+Buckinghamshire 0 44,108,583 100,580,958 138,870
+Buckinghamshire Combined Fire Authority 1,519,073 0 3,819,084 5,406
+Burnley 0 6,621,251 11,045,332 17,408
+Bury 11,692,014 0 25,664,456 69,366
+Calderdale 13,947,565 0 29,861,238 43,111
+Cambridge 0 40,338,554 44,770,194 71,611
+Cambridgeshire 39,120,547 0 28,719,234 44,279
+Cambridgeshire Combined Fire Authority 2,163,938 0 4,180,445 6,319
+Camden 0 91,475,234 186,385,439 242,778
+Cannock Chase 0 9,872,345 13,031,884 20,057
+Canterbury 0 17,106,588 21,969,348 32,008
+Castle Point 0 4,236,703 6,584,633 9,521
+Central Bedfordshire 0 15,270,360 48,647,424 74,092
+Charnwood 0 16,017,112 20,470,517 29,592
+Chelmsford 0 29,285,318 32,820,993 43,546
+Cheltenham 0 20,896,337 23,844,113 31,135
+Cherwell 0 32,835,446 36,797,195 54,366
+Cheshire Combined Fire Authority 5,302,260 0 4,521,211 6,158
+Cheshire East 0 27,641,751 71,769,947 97,691
+Cheshire West and Chester 0 18,669,037 73,603,382 101,156
+Chesterfield 0 11,643,228 15,142,992 21,935
+Chichester 0 18,101,252 20,437,427 27,931
+Chorley 0 7,560,591 10,611,701 15,910
+City of London 0 269,684,647 286,982,441 404,543
+Cleveland Combined Fire Authority 7,750,977 0 1,964,569 2,554
+Colchester 0 20,347,877 24,836,708 36,040
+Cornwall 28,729,088 0 87,603,051 270,932
+Cotswold 0 12,908,167 14,856,773 21,310
+Coventry 21,664,173 0 62,224,956 175,383
+Crawley 0 46,978,255 50,757,507 61,186
+Croydon 36,170,303 0 40,644,817 50,717
+Cumberland 11,476,705 0 51,461,223 72,393
+Cumbria Fire Authority 3,923,065 0 1,937,235 2,774
+Dacorum 0 29,333,958 32,464,001 41,245
+Darlington 8,101,244 0 15,662,817 22,978
+Dartford 0 27,399,900 30,217,442 42,185
+Derby 18,705,295 0 41,175,198 59,130
+Derbyshire 97,996,439 0 19,102,126 28,400
+Derbyshire Combined Fire Authority 6,356,900 0 2,962,435 4,362
+Derbyshire Dales 0 6,567,836 8,305,627 12,622
+Devon 83,441,759 0 23,050,422 34,403
+Devon and Somerset Combined Fire Authority 10,887,414 0 5,638,643 8,174
+Doncaster 34,170,637 0 45,053,771 72,405
+Dorset 0 12,414,448 58,384,275 81,371
+Dorset and Wiltshire Fire and Rescue Authority 5,327,867 0 5,517,203 7,557
+Dover 0 15,277,266 19,120,931 26,820
+Dudley 24,864,847 0 46,589,267 122,367
+Durham 75,762,939 0 56,302,040 86,229
+Durham Combined Fire Authority 5,919,966 0 1,469,557 2,229
+Ealing 25,182,620 0 54,807,788 69,433
+East Cambridgeshire 0 6,409,166 8,967,553 14,461
+East Devon 0 11,520,099 14,287,232 24,786
+East Hampshire 0 12,658,493 14,625,155 20,400
+East Hertfordshire 0 18,913,687 21,736,012 29,142
+East Lindsey 0 7,816,937 14,198,149 24,332
+East Riding of Yorkshire 13,013,238 0 42,207,857 73,455
+East Staffordshire 0 20,557,717 23,876,745 32,291
+East Suffolk 0 23,707,532 30,891,652 53,761
+East Sussex 64,906,050 0 12,967,419 19,003
+East Sussex Combined Fire Authority 5,394,619 0 2,659,500 3,752
+Eastbourne 0 10,438,349 14,227,207 18,889
+Eastleigh 0 21,907,335 24,587,631 30,523
+Elmbridge 0 23,782,103 26,197,570 33,555
+Enfield 36,488,357 0 40,451,132 51,462
+Epping Forest 0 12,526,708 15,981,605 22,871
+Epsom and Ewell 0 8,924,993 10,397,842 13,497
+Erewash 0 6,601,406 10,049,921 14,308
+Essex 135,311,977 0 47,934,364 65,353
+Essex PCC-Fire 10,091,986 0 7,045,400 9,594
+Exeter 0 25,257,946 29,542,532 40,054
+Fareham 0 16,832,266 18,833,051 23,665
+Fenland 0 7,243,731 11,084,141 15,904
+Folkestone and Hythe 0 6,754,369 10,626,598 16,378
+Forest of Dean 0 3,759,963 6,449,140 10,558
+Fylde 0 8,509,760 10,517,510 14,328
+Gateshead 21,214,218 0 39,443,144 52,710
+Gedling 0 6,278,935 9,470,506 13,662
+Gloucester 0 17,351,704 21,194,857 29,183
+Gloucestershire 54,680,777 0 23,923,823 33,633
+Gosport 0 4,175,844 6,774,515 10,310
+Gravesham 0 7,222,256 10,298,018 15,713
+Great Yarmouth 0 8,579,518 12,563,925 17,096
+Greater London Authority 0 539,739,302 1,660,198,032 3,904,092
+Greater Manchester Combined Authority 22,094,279 0 11,141,165 15,534
+Greenwich 62,268,197 0 24,342,770 41,756
+Guildford 0 32,512,491 35,550,611 45,623
+Hackney 69,606,598 0 45,584,885 73,545
+Halton 11,920,046 0 25,534,850 74,044
+Hammersmith and Fulham 0 11,955,703 76,126,357 86,771
+Hampshire 73,545,243 0 51,208,635 67,894
+Hampshire and Isle of Wight Fire and Rescue Authority 8,991,437 0 8,039,931 10,758
+Harborough 0 16,894,676 18,731,509 29,220
+Haringey 59,735,597 0 25,321,860 32,898
+Harlow 0 17,247,160 20,482,035 24,341
+Harrow 23,238,520 0 17,921,732 22,614
+Hart 0 12,656,473 14,090,245 16,342
+Hartlepool 11,965,752 0 17,591,380 20,112
+Hastings 0 6,016,303 9,978,755 13,489
+Havant 0 10,167,199 13,640,307 18,586
+Havering 8,734,605 0 27,116,301 34,870
+Hereford and Worcester Combined Fire Authority 3,399,494 0 2,501,048 3,609
+Herefordshire 9,032,291 0 24,830,058 37,526
+Hertfordshire 67,513,722 0 61,191,519 78,442
+Hertsmere 0 24,370,395 27,195,056 36,647
+High Peak 0 8,834,577 11,290,896 16,199
+Hillingdon 0 53,137,410 102,125,760 129,970
+Hinckley and Bosworth 0 11,399,777 14,095,807 22,240
+Horsham 0 16,953,004 19,081,935 27,217
+Hounslow 0 9,182,825 60,328,979 76,838
+Humberside Combined Fire Authority 10,159,145 0 3,103,092 4,627
+Huntingdonshire 0 21,393,288 26,148,399 36,500
+Hyndburn 0 4,838,969 8,574,430 13,891
+Ipswich 0 17,355,884 21,876,173 29,406
+Isle of Wight 12,209,734 0 19,867,511 29,806
+Isles of Scilly 668,255 0 941,466 1,222
+Islington 9,705,220 0 78,738,965 108,052
+Kensington and Chelsea 0 40,448,831 95,151,690 104,011
+Kent 140,865,025 0 54,064,457 76,944
+Kent Combined Fire Authority 8,497,089 0 6,963,746 9,843
+King’s Lynn and West Norfolk 0 11,940,298 17,637,016 27,616
+Kingston upon Hull 43,441,700 0 41,192,733 58,518
+Kingston upon Thames 0 3,521,651 26,412,364 31,865
+Kirklees 30,553,748 0 55,218,918 76,539
+Knowsley 42,697,127 0 22,025,059 63,612
+Lambeth 67,202,037 0 48,499,422 70,632
+Lancashire 162,567,915 0 34,001,601 48,749
+Lancashire Combined Fire Authority 11,597,168 0 4,671,182 6,714
+Lancaster 0 20,435,957 26,387,400 35,046
+Leeds 0 10,125,661 174,489,016 242,520
+Leicester 50,111,026 0 55,007,294 78,691
+Leicestershire 40,384,768 0 23,805,331 37,124
+Leicestershire Combined Fire Authority 5,460,787 0 3,883,910 5,919
+Lewes 0 8,812,198 11,138,992 16,763
+Lewisham 79,696,506 0 19,017,622 26,910
+Lichfield 0 12,801,214 14,997,179 20,937
+Lincoln 0 12,135,384 16,092,307 22,644
+Lincolnshire 95,087,069 0 20,548,047 31,117
+Liverpool 82,243,755 0 101,075,761 284,847
+Luton 12,767,238 0 37,791,393 47,715
+Maidstone 0 21,618,916 25,000,735 34,517
+Maldon 0 4,542,254 6,132,089 9,658
+Malvern Hills 0 5,251,159 7,147,957 10,642
+Manchester 5,858,726 0 179,598,558 499,916
+Mansfield 0 7,145,550 11,017,234 15,694
+Medway 3,159,362 0 46,859,100 63,381
+Melton 0 4,582,650 5,959,963 8,901
+Merseyside Fire and CD Authority 16,453,603 0 4,435,928 6,248
+Merton 6,656,863 0 30,649,605 38,186
+Mid Devon 0 4,733,116 7,029,010 11,085
+Mid Suffolk 0 8,216,212 10,575,514 16,757
+Mid Sussex 0 18,100,317 20,322,758 29,468
+Middlesbrough 29,322,188 0 18,417,835 25,775
+Milton Keynes 0 38,380,439 86,590,261 126,008
+Mole Valley 0 17,681,155 19,015,497 22,927
+New Forest 0 27,086,809 31,233,797 40,695
+Newark and Sherwood 0 12,029,880 15,845,244 23,804
+Newcastle upon Tyne 24,403,238 0 69,371,269 85,974
+Newcastle-under-Lyme 0 10,683,225 14,559,052 21,101
+Newham 73,565,403 0 42,076,589 72,797
+Norfolk 133,043,146 0 27,776,514 40,803
+North Devon 0 10,193,988 13,296,651 20,528
+North East Derbyshire 0 3,663,058 6,569,826 10,773
+North East Lincolnshire 10,964,108 0 30,254,418 39,816
+North Hertfordshire 0 15,061,206 17,889,168 24,528
+North Kesteven 0 7,182,492 10,412,733 17,544
+North Lincolnshire 0 4,061,454 38,473,789 54,948
+North Norfolk 0 8,263,612 11,609,532 18,892
+North Northamptonshire 0 3,805,815 62,711,987 102,117
+North Somerset 1,177,813 0 31,794,617 46,167
+North Tyneside 20,695,372 0 29,413,482 41,132
+North Warwickshire 0 20,218,840 22,212,407 32,043
+North West Leicestershire 0 22,549,822 25,043,387 43,632
+North Yorkshire 0 22,456,594 110,554,288 154,986
+North Yorkshire PCC-FRA 3,223,952 0 3,161,085 4,427
+Northamptonshire PCC-FRA 2,536,513 0 3,065,812 4,798
+Northumberland 27,475,434 0 44,018,022 66,994
+Norwich 0 24,435,551 30,646,164 39,266
+Nottingham 35,891,794 0 64,300,946 88,722
+Nottinghamshire 92,292,759 0 20,681,039 30,102
+Nottinghamshire Combined Fire Authority 7,641,209 0 3,611,101 5,155
+Nuneaton and Bedworth 0 10,759,535 14,589,410 20,385
+Oadby and Wigston 0 3,704,151 5,304,139 7,351
+Oldham 37,883,133 0 29,333,753 85,003
+Oxford 0 30,373,064 36,867,144 60,258
+Oxfordshire 40,117,301 0 34,531,300 51,622
+Pendle 0 4,133,827 8,357,575 12,405
+Peterborough 0 4,591,798 48,175,081 68,578
+Plymouth 15,491,285 0 45,026,541 61,173
+Portsmouth 6,422,055 0 43,914,667 59,027
+Preston 0 17,748,093 23,515,729 31,744
+Reading 0 32,565,789 64,409,443 87,032
+Redbridge 34,035,001 0 21,404,837 26,766
+Redcar and Cleveland 13,851,937 0 23,553,066 28,194
+Redditch 0 12,422,716 14,711,666 19,080
+Reigate and Banstead 0 20,907,588 23,382,420 29,059
+Ribble Valley 0 5,085,433 6,490,511 10,341
+Richmond upon Thames 0 5,233,879 28,652,466 35,992
+Rochdale 30,176,440 0 33,477,280 101,733
+Rochford 0 6,219,290 8,022,126 11,643
+Rossendale 0 3,348,523 5,609,644 8,658
+Rother 0 5,463,347 7,927,645 12,632
+Rotherham 30,088,725 0 36,513,568 52,418
+Rugby 0 15,369,972 17,874,681 29,922
+Runnymede 0 21,306,465 23,229,329 30,952
+Rushcliffe 0 9,044,874 11,518,423 16,942
+Rushmoor 0 20,223,203 22,693,239 29,911
+Rutland 0 1,301,533 5,922,681 9,231
+Salford 29,676,916 0 45,673,670 147,033
+Sandwell 53,400,649 0 52,168,424 151,293
+Sefton 31,855,694 0 35,514,094 96,019
+Sevenoaks 0 14,743,129 17,133,604 22,656
+Sheffield 52,212,644 0 97,978,558 136,114
+Shropshire 10,544,851 0 42,446,456 63,219
+Shropshire Combined Fire Authority 2,478,150 0 1,590,060 2,283
+Slough 0 25,431,892 56,846,538 67,881
+Solihull 0 21,404,427 52,748,350 144,800
+Somerset 0 2,803,967 88,224,925 126,971
+South Cambridgeshire 0 33,893,417 36,639,638 58,319
+South Derbyshire 0 7,507,732 10,125,981 15,587
+South Gloucestershire 0 27,930,046 67,005,647 181,297
+South Hams 0 11,983,368 13,983,887 19,657
+South Holland 0 6,040,709 9,511,651 13,532
+South Kesteven 0 13,176,978 16,983,546 23,746
+South Norfolk 0 8,743,950 11,982,204 20,560
+South Oxfordshire 0 18,118,441 20,820,813 27,831
+South Ribble 0 12,223,931 14,658,188 21,591
+South Staffordshire 0 7,203,129 9,638,830 17,233
+South Tyneside 36,711,344 0 14,600,190 20,163
+South Yorkshire Fire and CD Authority 12,056,231 0 4,204,767 6,166
+Southampton 5,807,767 0 51,618,316 68,659
+Southend-on-Sea 12,734,922 0 23,880,403 32,534
+Southwark 32,531,512 0 87,673,653 130,254
+Spelthorne 0 18,388,957 20,390,009 27,142
+St Albans 0 27,900,939 30,520,489 36,925
+St. Helens 22,430,254 0 25,519,933 74,907
+Stafford 0 15,967,317 18,897,435 27,426
+Staffordshire 78,766,515 0 26,212,326 38,053
+Staffordshire Moorlands 0 5,519,932 8,240,495 12,330
+Staffordshire PCC-FRA 6,213,485 0 3,765,247 5,487
+Stevenage 0 18,241,286 20,909,991 26,105
+Stockport 4,261,534 0 45,447,184 124,398
+Stockton-on-Tees 3,870,693 0 37,283,962 51,073
+Stoke-on-Trent 33,682,240 0 41,912,435 61,702
+Stratford-on-Avon 0 20,202,302 22,765,160 33,080
+Stroud 0 10,258,546 12,821,148 21,131
+Suffolk 80,671,437 0 25,876,764 39,313
+Sunderland 47,411,904 0 41,670,941 58,268
+Surrey 63,980,293 0 55,449,410 71,543
+Surrey Heath 0 14,134,283 15,761,359 19,989
+Sutton 18,257,370 0 19,522,751 26,807
+Swale 0 15,815,358 20,266,220 34,189
+Swindon 0 19,526,138 53,025,057 72,843
+Tameside 29,806,875 0 28,598,071 82,038
+Tamworth 0 10,651,153 13,077,171 17,750
+Tandridge 0 8,705,185 10,218,951 13,490
+Teignbridge 0 10,063,954 13,584,751 19,861
+Telford and Wrekin 4,808,211 0 35,381,988 48,640
+Tendring 0 6,626,949 11,875,189 18,902
+Test Valley 0 20,824,636 23,295,029 34,887
+Tewkesbury 0 14,443,332 16,358,655 21,214
+Thanet 0 9,546,910 14,789,891 22,437
+Three Rivers 0 15,427,770 17,497,219 24,043
+Thurrock 0 25,933,284 60,383,035 81,777
+Tonbridge and Malling 0 25,884,156 28,272,043 34,919
+Torbay 15,904,175 0 17,854,088 25,059
+Torridge 0 2,854,412 5,324,035 9,544
+Tower Hamlets 1,780,937 0 113,914,276 157,927
+Trafford 0 37,328,533 75,109,507 186,386
+Tunbridge Wells 0 20,290,278 22,753,827 30,226
+Tyne and Wear Fire and CD Authority 12,157,829 0 3,969,147 5,270
+Uttlesford 0 18,012,514 19,622,883 26,791
+Vale of White Horse 0 25,832,044 28,290,783 39,925
+Wakefield 14,635,212 0 60,199,031 91,342
+Walsall 39,097,138 0 38,462,375 103,822
+Waltham Forest 50,045,862 0 22,735,624 29,778
+Wandsworth 37,391,934 0 39,284,931 52,330
+Warrington 0 18,213,390 50,716,035 66,267
+Warwick 0 25,263,520 28,839,378 40,424
+Warwickshire 39,994,609 0 26,500,001 38,964
+Watford 0 25,206,562 28,151,932 32,908
+Waverley 0 15,037,777 17,115,364 22,930
+Wealden 0 11,327,813 14,391,190 22,684
+Welwyn Hatfield 0 27,342,875 30,362,723 40,052
+West Berkshire 0 27,631,456 46,409,668 61,843
+West Devon 0 3,489,177 5,198,803 7,386
+West Lancashire 0 10,226,485 13,665,264 19,143
+West Lindsey 0 3,834,953 6,970,763 11,128
+West Midlands Fire Authority 24,621,941 0 10,372,353 14,538
+West Northamptonshire 0 35,522,986 87,539,952 132,996
+West of England Combined Authority 0 0 0 29,980
+West Oxfordshire 0 13,780,045 16,006,424 24,106
+West Suffolk 0 25,348,920 30,041,950 42,178
+West Sussex 46,056,933 0 36,165,856 48,795
+West Yorkshire Fire and CD Authority 17,731,404 0 7,930,143 11,269
+Westminster 0 559,932,146 653,696,815 728,551
+Westmorland and Furness 0 2,372,797 42,976,993 63,535
+Wigan 34,269,093 0 38,965,995 114,353
+Wiltshire 0 20,277,586 80,333,596 114,353
+Winchester 0 21,912,181 24,225,678 35,189
+Windsor and Maidenhead 0 31,205,070 44,409,006 53,316
+Wirral 51,167,292 0 33,341,245 99,147
+Woking 0 18,610,727 20,825,234 27,008
+Wokingham 0 22,954,054 37,603,867 51,290
+Wolverhampton 41,500,640 0 41,155,309 112,607
+Worcester 0 13,413,823 16,126,861 22,698
+Worcestershire 47,920,576 0 17,943,791 25,587
+Worthing 0 10,062,052 12,855,365 16,485
+Wychavon 0 15,824,819 18,576,325 27,887
+Wyre 0 8,041,283 11,578,128 16,199
+Wyre Forest 0 9,063,521 12,013,131 16,801
+York 0 17,016,679 44,565,446 61,922”EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations make various amendments to the system for the local retention of non-domestic rates (“NDR”) established by Schedule 7B to the Local Government Finance Act 1988 (the “1988 Act”).
+The Non-Domestic Rating (Rates Retention) Regulations 2013 (S.I. 2013/452) (the “Rates Retention Regulations”) make provision about payments by billing authorities (the authorities which bill for non-domestic rates, such as district and unitary councils) to major precepting authorities (authorities, such as county councils, fire and rescue authorities and police and crime commissioners, that impose their own share of a council tax bill). The Hartlepool and Middlesbrough Development Corporations now have the power to exercise functions under section 47 of the 1988 Act and, in doing so, may have to make a payment to billing authorities to compensate them for lost NDR income. Regulation 2 of these Regulations amends the Rates Retention Regulations so that major precepting authorities receive a share of any payment. Regulation 2 also makes amendments consequential on the Non-Domestic Rating Act 2023 (c. 53) (the “2023 Act”).
+The Non-Domestic Rating (Levy and Safety Net) Regulations 2013 (S.I. 2013/737) (the “L&SN Regulations”) prescribe ‘business rates baselines’ (“BRBs”) and thresholds for the purposes of calculating levy and safety net payments. Regulation 3 amends the L&SN Regulations to adjust the BRBs and thresholds following the 2023 revaluation of the rateable values of non-domestic properties across England. The calculation of levy and safety net payments also uses authorities’ retained rates income. Schedule 1 to the L&SN Regulations provides for how this is to be calculated. Regulation 3 amends Schedule 1 in consequence of the 2023 Act and to reflect new guidance on discretionary relief issued by the Secretary of State.
+Copies of the guidance are available online, as indicated in the footnotes to these Regulations. Hard copies of the guidance can be obtained free of charge by writing to the Local Government Finance Team, Department for Levelling Up, Housing and Communities, 2 Marsham Street, Westminster, London, SW1P 4DF.
+An impact assessment has not been produced for this instrument because it amends an existing local tax regime. Publication of a full impact assessment is not necessary for such legislation.

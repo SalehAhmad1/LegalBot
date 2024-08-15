@@ -1,0 +1,127 @@
+This Statutory Instrument has been made in part as a consequence of a defect in S.I. 2014/886 and is being issued free of charge to all known recipients of that Statutory Instrument.
+STATUTORY INSTRUMENTS
+2021 No. 44
+TAX CREDITS
+The Tax Credits Reviews and Appeals (Amendment) Order 2021
+Made
+14th January 2021
+Coming into force
+15th January 2021
+The Treasury make this Order in exercise of the powers conferred by section 124(1), (2), (6) and (7) of the Finance Act 2008(1).
+A draft of this instrument was laid before, and approved by resolution of, the House of Commons in accordance with section 124(8) of that Act.
+(1)
+2008 c. 9.Citation and commencement
+1.  This Order may be cited as the Tax Credits Reviews and Appeals (Amendment) Order 2021 and comes into force on the day after the day on which it is made.Citation and commencement
+2.—(1) Part 1 of the Tax Credits Act 2002(1), as saved by article 3 of the Welfare Reform Act 2012 (Commencement No. 32 and Savings and Transitional Provisions) Order 2019(2), is amended as follows.
+(2) In section 18 (decisions after final notice)(3), in subsection (11) for “21A and 21B” substitute “21A, 21B and 21C”.
+(3) In section 19 (power to enquire)(4), in subsection (12) for “21A and 21B” substitute “21A, 21B and 21C”.
+(4) In section 20 (decisions on discovery)(5)—
+(a)
+in subsection (6)(c) for “21A(5)(b)” substitute “21A(4)(b) or 21C(4)(b)”; and
+(b)
+in subsection (7) after “21A” insert “or 21C”.
+(5) After section 21B (late application for a review)(6) insert—
+“Late review: award of relevant disability benefits
+21C.—(1) The Commissioners for Her Majesty’s Revenue and Customs must review a relevant decision if they are notified (whether in writing or otherwise) within the period mentioned in subsection (3)—
+(a)
+of the identity of the person seeking a review;
+(b)
+of the decision in question; and
+(c)
+that the condition in subsection (2) is met.
+(2) The condition is that it has been determined that the person is entitled, whether in respect of themselves or a child for whom they are responsible, to a relevant disability benefit in respect of a tax year to which the relevant decision related.
+(3) The period is the period of one month beginning with the day on which the person’s claim for the benefit is determined in that person’s favour.
+(4) The sole purpose of a review under this section is to consider whether, as a result of the condition in subsection (2) being met, the relevant decision should—
+(a)
+be upheld;
+(b)
+be varied;
+(c)
+be cancelled.
+(5) The Commissioners must carry out the review as soon as is reasonably practicable.
+(6) When the review has been carried out, the Commissioners must give the person notice of the conclusion containing sufficient information to enable that person to know—
+(a)
+the conclusion on the review;
+(b)
+if the conclusion is that the relevant decision is varied, details of the variation, and
+(c)
+the reasons for the conclusion.
+(7) Where—
+(a)
+the Commissioners notify the person of further information or evidence that they may need for carrying out the review, and
+(b)
+that information or evidence is not provided to them by the date specified in the notice,
+the review may proceed without that information or evidence.
+(8) In this section—
+“relevant decision” means a decision within section 38(1) or any variation of such a decision resulting from an appeal brought against it;
+“relevant disability benefit”, in relation to any part of the United Kingdom, means—
+(a)
+armed forces independence payment;
+(b)
+attendance allowance;
+(c)
+disability assistance;
+(d)
+disability living allowance;
+(e)
+employment and support allowance;
+(f)
+housing benefit, where a pensioner or a disability premium is included;
+(g)
+incapacity benefit (whether short term or long term);
+(h)
+income support where a pensioner or a disability premium is included;
+(i)
+jobseeker’s allowance where a pensioner or a disability premium is included;
+(j)
+limited capability for work credit;
+(k)
+a mobility supplement or a constant attendance allowance where the supplement or benefit is paid in conjunction with a war pension or industrial injuries disablement benefit;
+(l)
+personal independence payment;
+(m)
+severe disablement allowance;
+(n)
+statutory sick pay.”.
+(6) In section 28 (overpayments)(7) in subsection (1) for “21B” substitute “21C”.
+(7) In section 30 (underpayments)(8) in subsection (1) for “21B” substitute “21C”.
+(8) In section 38 (appeals)(9)—
+(a)
+in subsection (1A)—
+(i)
+after “section 21A” insert “or section 21C”;
+(ii)
+after “section 21A(3)” insert “or 21C(6) (as the case may be)”;
+(b)
+in subsections (1B) and (1C) after “section 21A” insert “or 21C”.
+(9) In section 39 (exercise of right of appeal)(10), as it extends to Northern Ireland, after “section 21A(3)” insert “or 21C(6)”.
+(1)
+2002 c. 21.
+(2)
+S. I. 2019/167.
+(3)
+Subsection (11) of section 18 has been amended by article 2 of S.I. 2014/886.
+(4)
+Subsection (12) of section 19 has been amended by article 2 of S.I. 2014/886.
+(5)
+Subsections (6) and (7) of section 20 have been amended by article 2 of S. I. 2014/886.
+(6)
+Section 21B was inserted by article 2 of S.I. 2014/886.
+(7)
+Section 28(1) was amended by article 2 of S.I. 2014/886. Section 28(1) was subsequently amended by article 6(2) of S.I. 2017/781.
+(8)
+Section 30(1) was amended by article 2 of S.I. 2014/886.
+(9)
+Section 38 was amended by article 2 of S.I. 2014/886.
+(10)
+Section 39(1) was repealed except for in relation to Northern Ireland where it was amended by article 2 of S.I. 2014/886.Michael Tomlinson
+David Rutley
+Two of the Lords Commissioners of Her Majesty’s Treasury
+14th January 2021EXPLANATORY NOTE
+(This note is not part of the Order)
+This Order amends the Tax Credits Act 2002 (c. 21) to provide for a review of a decision outside the time limit in section 21A, as extended by section 21B, of the Tax Credits Act 2002 in certain circumstances.
+Article 1 provides for citation and commencement.
+Article 2 paragraphs (2) to (4) amend sections 18, 19 and 20 of the Tax Credits Act 2002 respectively to include a reference to new section 21C. Paragraph (4)(a) corrects an erroneous cross reference in section 20(6)(c) of the Tax Credits Act 2002 to section 21A(5)(b) of that Act.
+Article 2 paragraph (5) inserts new section 21C into the Tax Credits Act 2002. This section provides for a review of a relevant decision (which term is defined in subsection (8)) where a claim for a “relevant disability benefit” (as defined in subsection (8)) has been determined in the claimant’s favour providing that the claimant notifies HM Revenue and Customs (“HMRC”) of that decision within one month of that decision (see subsections (1) to (3) of new section 21C). Subsections (4) to (7) of new section 21C mirror the requirements in section 21A of the Tax Credits Act 2002. Subsection (4) identifies the conclusions that can be reached by HMRC, subsection (5) requires the review to be carried out as quickly as possible, subsection (6) requires HMRC to notify the claimant of their conclusions and subsection (7) provides that, where HMRC have notified the claimant that further information or evidence is required in order to carry out the review, the Commissioners may proceed without that information or evidence where it is not supplied by the date specified.
+Article 2 paragraphs (6) to (9) amend sections 28, 30, 38 and 39 of the Tax Credits Act 2002 respectively to include a reference to new section 21C.
+A full impact statement has not been produced for these Regulations because no impact on the private or voluntary sectors is foreseen.

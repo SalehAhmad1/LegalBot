@@ -1,0 +1,104 @@
+STATUTORY INSTRUMENTS
+2022 No. 124
+COMPETITION
+The Competition Act 1998 (Health Services for Patients in England) (Coronavirus) (Public Policy Exclusion) Order 2022
+Made
+10th February 2022
+Laid before Parliament
+14th February 2022
+Coming into force
+9th March 2022
+The Secretary of State, in exercise of the powers conferred by section 71(3) of, and paragraph 7(1), (2) and (3) of Schedule 3 to, the Competition Act 1998(1), makes the following Order.
+The Secretary of State is satisfied that there are exceptional and compelling reasons of public policy why the Chapter I prohibition(2) ought not to apply to, or ought to be deemed never to have applied in relation to, agreements of the description specified in this Order.
+(1)
+1998 c. 41.
+(2)
+The Chapter I prohibition is defined in section 2(8) of the Competition Act 1998.Citation, commencement, extent and application
+1.—(1) This Order may be cited as the Competition Act 1998 (Health Services for Patients in England) (Coronavirus) (Public Policy Exclusion) Order 2022 and comes into force on 9th March 2022.
+(2) This Order extends to England and Wales, Scotland and Northern Ireland.
+(3) This Order applies to agreements, the purpose of which is to assist the NHS in addressing the effects or likely effects of coronavirus on the provision of health services to patients in England.Interpretation
+2.  In this Order—
+“the Board” means the National Health Service Commissioning Board(1);
+“coronavirus” means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2);
+“facilities” includes the provision of (or the use of) premises, goods, materials, vehicles, plant or apparatus;
+“the healthcare disruption period” means the period commencing on 7th December 2021 and ending on whichever is the earlier of—
+(a)
+the revocation of this Order; or
+(b)
+the expiry of this Order in accordance with article 7;
+“independent provider” means any person (other than an NHS body) that provides health services for the purposes of the NHS;
+“the NHS” has the meaning given in section 64(4) of the Health and Social Care Act 2012(2);
+“NHS body” has the meaning given in section 275 of the National Health Service Act 2006(3);
+“qualifying activity” has the meaning given in article 3.
+(1)
+The National Health Service Commissioning Board was established by section 1H of the National Health Service Act 2006 (c. 41), as inserted by section 9(1) of the Health and Social Care Act 2012 (c. 7).
+(2)
+2012 c. 7.
+(3)
+2006 c. 41; the definition of “NHS body” was inserted into section 275 by paragraph 138(1) and (2) of Schedule 4 to the Health and Social Care Act 2012.Qualifying activities
+3.—(1) For the purposes of this Order a qualifying activity is any activity specified in paragraph (2) insofar as it—
+(a)
+is for the purpose referred to in article 4(2)(a); and
+(b)
+does not involve the sharing between independent providers of any information regarding costs or pricing.
+(2) The activities specified in this paragraph are—
+(a)
+information sharing in relation to capacity for providing health services of a particular kind during the healthcare disruption period, including information regarding staff and facilities;
+(b)
+coordination as regards the deployment of staff between NHS bodies and independent providers or between independent providers during the healthcare disruption period;
+(c)
+the sharing or loan of facilities for the provision of health services during the healthcare disruption period;
+(d)
+the joint purchasing of goods, materials, vehicles, plant, apparatus, facilities or services (including the services of staff), for the purpose of the provision of health services during the healthcare disruption period; and
+(e)
+coordination as regards the provision of health services which involves agreement that during the healthcare disruption period one or more independent providers or NHS bodies are to undertake a particular activity or type of activity either generally or within a particular geographical area, including agreement to limit or expand the scale or range of health services to be or being supplied by one or more independent providers or NHS bodies.Exclusion from the Chapter I prohibition
+4.—(1) The Chapter I prohibition does not apply to an agreement(1) which—
+(a)
+is between—
+(i)
+the Board and one or more independent providers or associations of independent providers;
+(ii)
+one or more NHS bodies (other than the Board) and one or more independent providers; or
+(iii)
+two or more independent providers;
+(b)
+relates to a qualifying activity;
+(c)
+is notified to the Secretary of State in accordance with article 5(1); and
+(d)
+meets the conditions set out in paragraph (2).
+(2) The conditions referred to in paragraph (1)(d) are that—
+(a)
+the purpose of the agreement is to assist the NHS in addressing the effects or likely effects of coronavirus on the provision of health services to patients in England; and
+(b)
+the agreement does not have as its object or effect the prevention, restriction or distortion of competition within the United Kingdom, except in relation to qualifying activities in a market for the provision of health services to patients in England that is affected by coronavirus.
+(3) The Chapter I prohibition is to be deemed never to have applied in relation to an agreement referred to in paragraph (1) which was made during the period beginning on 7th December 2021 and ending on the day before the day on which this Order comes into force.
+(1)
+Under section 59 of the Competition Act 1998 (interpretation) references in Part 1 of that Act to “agreement” are to be read with section 2(5) and (6) of the Act which provide that, unless the context otherwise requires, a provision of Part 1 of the Act which is expressed to apply to, or in relation to, an agreement, is to be read as applying equally to, or in relation to, a decision by an association of undertakings or a concerted practice (but with any necessary modifications).Notification to the Secretary of State
+5.—(1) An agreement is notified to the Secretary of State in accordance with this paragraph if the following details of the agreement are given to the Secretary of State in writing within 14 days of the relevant date—
+(a)
+the names of the parties to the agreement;
+(b)
+a description of the nature of the agreement;
+(c)
+the date the agreement was made; and
+(d)
+the health services to which it relates.
+(2) In paragraph (1) the “relevant date” means—
+(a)
+in the case of an agreement made before the coming into force of this Order, the date on which this Order comes into force; and
+(b)
+in any other case, the date on which the agreement is made.Register of agreements
+6.—(1) The Secretary of State must compile and maintain a register of agreements notified under this Order.
+(2) The register must be kept in such a form as the Secretary of State considers appropriate.
+(3) The Secretary of State must publish the register when it is first compiled and each time it is revised.Expiry
+7.  This Order expires at the end of 31st March 2022.Paul Scully
+Parliamentary Under Secretary of State
+Department for Business, Energy and Industrial Strategy
+10th February 2022EXPLANATORY NOTE
+(This note is not part of the Order)
+This Order excludes from the Chapter I prohibition in the Competition Act 1998 (c. 41) agreements between the National Health Service Commissioning Board (NHS England) and providers who are not part of the NHS, between other NHS bodies and independent providers or between independent providers, intended to assist the NHS in addressing the effects or likely effects of coronavirus on the provision of health services to patients in England. The Chapter I prohibition precludes agreements between undertakings, decisions by associations of undertakings or concerted practices which may affect trade within the United Kingdom and which have as their object or effect the prevention, restriction or distortion of competition within the United Kingdom. Where there are exceptional and compelling reasons of public policy for doing so, the Secretary of State may exclude an agreement or agreements of a particular description from the Chapter I prohibition.
+Article 3 of the Order specifies the activities qualifying for an exclusion and article 4 sets out other requirements which an agreement must meet in order to qualify for exclusion.
+Articles 5 and 6 provide for agreements to be notified to the Secretary of State and for a register of the agreements to be compiled and published by the Secretary of State.
+Article 7 provides that the Order expires at the end of 31st March 2022.
+No impact assessment has been prepared for this Order. An Explanatory Memorandum has been prepared for this Order and is available alongside this instrument on the UK Legislation website www.legislation.gov.uk.

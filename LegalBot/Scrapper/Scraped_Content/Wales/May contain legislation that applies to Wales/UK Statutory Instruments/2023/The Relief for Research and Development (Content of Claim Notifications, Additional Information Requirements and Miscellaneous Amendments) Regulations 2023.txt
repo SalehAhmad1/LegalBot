@@ -1,0 +1,234 @@
+STATUTORY INSTRUMENTS
+2023 No. 813
+CORPORATION TAX
+The Relief for Research and Development (Content of Claim Notifications, Additional Information Requirements and Miscellaneous Amendments) Regulations 2023
+Made
+17th July 2023
+Laid before the House of Commons
+18th July 2023
+Coming into force
+8th August 2023
+The Commissioners for His Majesty’s Revenue and Customs make the following Regulations in exercise of the powers conferred by paragraph 83EA of Schedule 18 to the Finance Act 1998(1), section 132 of the Finance Act 1999(2), sections 135 and 136 of the Finance Act 2002(3) and section 1142A(2) of the Corporation Tax Act 2009(4) and now exercisable by them(5).
+(1)
+1998 c. 36; Schedule 18, paragraph 83EA was inserted by paragraph 13 of Schedule 1 to the Finance (No. 2) Act 2023 (c. 30).
+(2)
+1999 c. 16; section 132(10) was amended by section 411(2) of, and paragraph 156 of Schedule 17 to, the Communications Act 2003 (c. 21), S.I. 2003/1900 and 2003/3142.
+(3)
+2002 c. 23; section 135 of the Finance Act 2002 was amended by paragraph 95(1)(a) of Schedule 4 of the Commissioners for Revenue and Customs Act 2005 (c. 11), section 93 of the Finance Act 2007 (c. 11) and S.I. 2005/1126.
+(4)
+2009 c. 4; section 1142A was inserted by section 10 of, and paragraph 1(6) of Schedule 1 to, the Finance (No. 2) Act 2023.
+(5)
+By virtue of section 5(2) of the Commissioners for Revenue and Customs Act 2005 functions previously exercisable by the Commissioners of Inland Revenue are now exercisable by the Commissioners for His Majesty’s Revenue and Customs.Citation and commencement
+1.  These Regulations may be cited as the Relief for Research and Development (Content of Claim Notifications, Additional Information Requirements and Miscellaneous Amendments) Regulations 2023 and come into force on 8th August 2023.Claim notifications
+2.  A claim notification under section 1142A of the Corporation Tax Act 2009 (requirement to make a claim notification) must include the information specified in Schedule 1.Additional information to be provided in relation to R&D claims
+3.  A claim to which Part 9A of Schedule 18 to the Finance Act 1998 (requirement to provide additional information in relation to R&D claims)(1) applies must include the information specified in Schedule 2.
+(1)
+Part 9A was inserted by section 69(2) of, and Schedule 21 to, the Finance Act 2000 (c. 17).Amendment of the Income and Corporation Taxes (Electronic Communications) Regulations 2003
+4.—(1) The Income and Corporation Taxes (Electronic Communications) Regulations 2003(1) are amended as follows.
+(2) In regulation 2 (scope of these Regulations)—
+(a)
+after paragraph (1)(a)(vi), omit “or”,
+(b)
+after paragraph (1)(a)(vii), omit “and”, and
+(c)
+after paragraph (1)(a)(vii), insert—
+“(viii)
+section 1142A of the Corporation Tax Act 2009, or
+(ix)
+paragraph 83EA(1) of Schedule 18 to the Finance Act 1998; and”.
+(3) In regulation 3 (use of electronic communication), in paragraph (2A)—
+(a)
+after “company tax return”, in the first place that expression occurs, insert “, claim notification under section 1142A of the Corporation Tax Act 2009 or additional information under paragraph 83EA of Schedule 18 to the Finance Act 1998”,
+(b)
+in the second sentence omit “only”,
+(c)
+omit the final sentence, and
+(d)
+at the end insert—
+“This paragraph also applies to an amendment made on or after 8 August 2023 to a company tax return for an accounting period beginning on or after 1 April 2023, where the company tax return includes an R&D claim within the meaning of section 1142B of the Corporation Tax Act 2009 before or after the amendment. It does not apply to any other amendment to a company tax return.”.
+(1)
+S.I. 2003/282; relevantly amended by S.I. 2009/3218, 2010/2942, 2014/489, and 2023/221.Jim Harra
+Justin Holliday
+Two of the Commissioners for His Majesty’s Revenue and Customs
+17th July 2023Regulation 2
+SCHEDULE 1
+Claim notifications
+1.  A claim notification under section 1142A of the Corporation Tax Act 2009 (requirement to make a claim notification) must include the information specified in the Table in respect of—
+(a)
+the company(1),
+(b)
+the company officer responsible for ensuring the accuracy of the information provided under this Schedule,
+(c)
+any agent or tax adviser engaged by the company, or which has provided services to the company, in any capacity in relation to the R&D claim, and
+(d)
+the R&D claim(2).
+2.  This is the Table referred to in paragraph 1—
+Subject Specified information
+the company
+(a)
+registered name, and
+(b)
+unique taxpayer reference number.
+the company officer responsible for ensuring the accuracy of the information provided under this Schedule
+(a)
+name,
+(b)
+role in the company,
+(c)
+telephone number, and
+(d)
+email address.
+agent(s) or tax adviser(s)
+(a)
+name (or, if the agent or adviser is a registered company, its registered number if available),
+(b)
+agent reference number,
+(c)
+business or trading name,
+(d)
+address of principal place of business,
+(e)
+email address,
+(f)
+telephone number, and
+(g)
+agent role (acting on research and development claim only, or acting on both research and development claim and other tax matters).
+the R&D claim
+(a)
+the start date and the end date of the accounting period,
+(b)
+the start date and the end date of the period of account,
+(c)
+the number of research and development project(s), and
+(d)
+an overview of the research and development project(s) for the period of account.
+(1)
+“company” is defined in section 1121 of the Corporation Tax Act 2010 (c. 24).
+(2)
+“R&D claim” is defined in section 1142B of the Corporation Tax Act 2009 (c. 4). Section 1142B was inserted by paragraph 2(6) of Schedule 1 to the Finance (No. 2) Act 2023.Regulation 3
+SCHEDULE 2
+Additional information to be provided in relation to R&D claims
+1.  A claim to which Part 9A of Schedule 18 to the Finance Act 1998 (requirement to provide additional information in relation to R&D claims) applies must include the information specified in the Table in respect of—
+(a)
+the company,
+(b)
+the company officer responsible for ensuring the accuracy of the information provided under this Schedule,
+(c)
+any agent or tax adviser engaged by the company, or which has provided services to the company, in any capacity in relation to the R&D claim, and
+(d)
+the R&D claim.
+2.  This is the Table referred to in paragraph 1—
+Topic Specified information
+the company
+(a)
+registered name,
+(b)
+unique taxpayer reference number,
+(c)
+VAT registration number(1) (if registered for VAT),
+(d)
+employer’s PAYE reference, within the meaning of regulation 2(1) of the Income Tax (Pay As You Earn) Regulations 2003(2).
+the company officer responsible for ensuring the accuracy of the information provided under this Schedule
+(a)
+name,
+(b)
+role in the company,
+(c)
+telephone number, and
+(d)
+email address.
+agent(s) or tax adviser(s)
+(a)
+name (or, if the agent or adviser is a registered company, its registered name),
+(b)
+agent reference number,
+(c)
+business or trading name,
+(d)
+address of principal place of business,
+(e)
+telephone number, and
+(f)
+email address.
+the R&D claim
+(a)
+the start date and the end date of the accounting period,
+(b)
+the start date and the end date of the period of account,
+(c)
+research and development expenditure credit qualifying expenditure related to the UK research and development project(s),
+(d)
+small and medium-sized enterprise research and development tax relief qualifying expenditure related to the UK research and development project(s),
+(e)
+whether the qualifying expenditure relates to research and development activity in the UK,
+(f)
+whether section 1058D of the Corporation Tax Act 2009 (exceptions to tax credit cap)(3) applies to the company and, if so, the reasons,
+(g)
+the number of research and development project(s),
+(h)
+a description of the type of research and development undertaken by the project(s),
+(i)
+a description of what scientific or technological knowledge existed at the start of your project(s) that you aimed to improve in the field with which your project(s) are concerned,
+(j)
+a description of the advance in scientific or technological knowledge that the project(s) aimed to achieve,
+(k)
+a description of the scientific or technological uncertainties that the project(s) faced,
+(l)
+a description of how the project(s) sought to overcome those scientific or technological uncertainties,
+(m)
+the number of externally provided workers(4) that have been involved in the project(s),
+(n)
+the employer’s PAYE reference, within the meaning of regulation 2(1) of the Income Tax (Pay As You Earn) Regulations 2003, for all externally provided workers,
+(o)
+the amount of qualifying expenditure(5) incurred in respect of the following—
+(i)
+staffing costs(6),
+(ii)
+externally provided workers(7),
+(iii)
+contracted out research and development (for Research and Development expenditure credit only)(8),
+(iv)
+software or consumable items(9),
+(v)
+relevant payments to the subjects of a clinical trial(10),
+(vi)
+data licences(11),
+(vii)
+cloud computing(12), and
+(viii)
+contributions to independent research and development(13) (for research and development expenditure credit only), and
+(p)
+for each of the amounts of qualifying expenditure specified under sub-paragraphs (o)(i) to (viii) above, the amount of that expenditure that is attributable to qualifying indirect activities, and for this purpose “qualifying indirect activities” has the meaning specified in the Guidelines on the Meaning of Research and Development for Tax Purposes issued by the Secretary of State for Business and Trade on 7 March 2023(14).
+(1)
+For the requirement to register for value added tax see section 3 of, and Schedules 1 to 3A to, the Value Added Tax Act 1994 (c. 23) and Part 2 of S.I. 1995/2518.
+(2)
+S.I. 2003/2682; there are amendments to regulation 2(1) but they are not relevant to these Regulations.
+(3)
+Section 1058D was inserted by paragraph 3 of Schedule 3 to the Finance Act 2021 (c. 26).
+(4)
+For the meaning of “externally provided worker” see section 1128 of the Corporation Tax Act 2009.
+(5)
+For the meaning of “qualifying expenditure” see section 1051 of the Corporation Tax Act 2009.
+(6)
+For the meaning of “staffing costs” see section 1123 of the Corporation Act 2009. Section 1123 was amended by S.I. 2019/689 and 2020/1499.
+(7)
+For the meaning of “qualifying expenditure on externally provided workers” see section 1127 of the Corporation Tax Act 2009.
+(8)
+For meaning of the “qualifying expenditure on contracted out R&D” see section 1053 of the Corporation Act 2009. Section 1053 was amended by section 13 of the Finance (No. 3) Act 2010 (c. 33) and section 28(4)(h) of the Finance Act 2015 (c. 11).
+(9)
+For the meaning of “software or consumable items” see section 1125 of the Corporation Tax Act 2009.
+(10)
+For the meaning of “Relevant payments to the subjects of a clinical trial” see section 1140 of the Corporation Tax Act 2009.
+(11)
+For the meaning of “data licences” see section 1125 of the Corporation Tax Act 2009.
+(12)
+For the meaning of “cloud computing” see section 1125 of the Corporation Tax Act 2009.
+(13)
+For the meaning of “contributions to independent research and development see section 104L of the Corporation Tax Act 2009.
+(14)
+Available online at https://www.gov.uk/government/publications/guidelines-on-the-meaning-of-research-and-development-for-tax-purposes/meaning-of-research-and-development-for-tax-purposes-guidelines. A hard copy is available for inspection free of charge at the offices of HM Revenue and Customs at 100 Parliament Street, London, SW1A 2BQ.EXPLANATORY NOTE
+(This note is not part of the Regulations)
+Section 1142A of the Corporation Tax Act 2009 (“CTA09”) imposes a requirement for a company to make a claim notification for the purposes of provisions in Part 3 and Part 13 of CTA09. Regulation 2 specifies the information that must be provided by a company for the purposes of claim notifications made under section 1142A CTA09.
+Part 9A of Schedule 18 to the Finance Act 1998 deals with claims for R&D expenditure credits or R&D tax relief. Paragraph 83EA of Schedule 18 to the Finance Act 1998 provides that a claim is invalid unless the claimant company has provided to an officer of Revenue and Customs certain additional information. Regulation 3 specifies the information that must be provided by the claimant company.
+Regulation 4 makes an amendment to the Electronic Communications Regulations 2003 so that the claim notification made under Part 3 of CTA09 and additional information provided under paragraph 83EA(1) of Schedule 18 to the Finance Act 1998 and amended returns that relate to an R&D claim must be delivered electronically.
+A Tax Information and Impact Note covering this instrument is published on the website at https://www.gov.uk/government/collections/tax-information-and-impact-notes-tiins.

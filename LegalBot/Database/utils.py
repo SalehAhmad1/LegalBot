@@ -4,12 +4,12 @@ Path_ENV = os.path.abspath(__file__)
 Path_ENV = os.path.dirname(Path_ENV)
 load_dotenv(Path_ENV+'/.env')
 
-def get_spacy_text_splitter(chunk_size:int=1000, chunk_overlap:int=100):
+def get_spacy_text_splitter(chunk_size:int=2500, chunk_overlap:int=300):
     from langchain.text_splitter import SpacyTextSplitter
-    text_splitter = SpacyTextSplitter(chunk_size=chunk_size, chunk_overlap = chunk_overlap, length_function=len)
+    text_splitter = SpacyTextSplitter(chunk_size=chunk_size, chunk_overlap = chunk_overlap, max_length=2000000 , length_function=len)
     return text_splitter
 
-def get_recursive_text_splitter(chunk_size:int=1000, chunk_overlap:int=100):
+def get_recursive_text_splitter(chunk_size:int=2500, chunk_overlap:int=300):
     from langchain.text_splitter import RecursiveCharacterTextSplitter
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=chunk_size, chunk_overlap = chunk_overlap, length_function=len)
     return text_splitter

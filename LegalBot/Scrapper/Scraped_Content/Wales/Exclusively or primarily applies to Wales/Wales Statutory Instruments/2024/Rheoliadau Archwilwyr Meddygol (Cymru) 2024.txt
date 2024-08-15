@@ -1,0 +1,172 @@
+OFFERYNNAU STATUDOL CYMRU
+2024 Rhif 505 (Cy. 81)
+Y PROFFESIWN MEDDYGOL, CYMRU
+CRWNERIAID, CYMRU
+Rheoliadau Archwilwyr Meddygol (Cymru) 2024
+Gwnaed
+12 Ebrill 2024
+Gosodwyd gerbron Senedd Cymru
+15 Ebrill 2024
+Yn dod i rym
+9 Medi 2024
+Mae Gweinidogion Cymru, drwy arfer y pwerau a roddir iddynt gan adrannau 19(4)(a) i (e) a 176(3) o Ddeddf Crwneriaid a Chyfiawnder 2009(1), yn gwneud y Rheoliadau a ganlyn.
+(1)
+2009 p. 25. Mae’r pŵer yn adran 19(4) o’r Ddeddf yn arferadwy gan “the appropriate Minister” a ddiffinnir o dan adran 19(6) o’r Ddeddf, o ran Cymru, fel Gweinidogion Cymru. Diwygiwyd pennawd adran 19 gan adran 169(2)(a) o Ddeddf Iechyd a Gofal 2022 (p. 31). Mae diwygiadau eraill i adran 19 nad ydynt yn berthnasol i’r Rheoliadau hyn.Enwi, dod i rym a chymhwyso
+1.—(1) Enw’r Rheoliadau hyn yw Rheoliadau Archwilwyr Meddygol (Cymru) 2024.
+(2) Daw’r Rheoliadau hyn i rym ar 9 Medi 2024.
+(3) Mae’r Rheoliadau hyn yn gymwys fel a ganlyn—
+(a)
+nid yw rheoliadau 2, 3 a 4 ond yn gymwys mewn perthynas â’r canlynol—
+(i)
+corff GIG Cymru sy’n penodi archwilwyr meddygol, a
+(ii)
+archwilwyr meddygol a benodir gan gorff GIG Cymru;
+(b)
+nid yw rheoliadau 5 i 8 ond yn gymwys mewn perthynas ag archwilwyr meddygol a benodir gan gorff GIG Cymru.Dehongli
+2.  Yn y Rheoliadau hyn—
+mae i “archwilydd meddygol” yr ystyr a roddir i “medical examiner” yn adran 48(1) o’r Ddeddf;
+ystyr “Archwilydd Meddygol Cenedlaethol” (“National Medical Examiner”) yw’r person a benodir o dan adran 21(1) o’r Ddeddf;
+mae i “corff GIG Cymru” yr ystyr a roddir i “Welsh NHS body” yn adran 18B(3) o’r Ddeddf;
+ystyr “corff penodi” (“appointing body”), mewn perthynas ag archwilydd meddygol, yw’r corff GIG Cymru a benododd yr archwilydd meddygol o dan adran 18B(1) o’r Ddeddf(1);
+ystyr “y Ddeddf” (“the Act”) yw Deddf Crwneriaid a Chyfiawnder 2009;
+ystyr “Rheoliadau adran 20(1)” (“section 20(1) Regulations”) yw Rheoliadau Tystysgrifau Meddygol Achos Marwolaeth 2024(2);
+ystyr “swyddogaeth berthnasol” (“relevant function”) yw swyddogaeth(3) a roddir i archwilwyr meddygol gan reoliad 7 o’r Rheoliadau hyn neu gan Reoliadau adran 20(1);
+mae i “uwch-grwner” yr ystyr a roddir i “senior coroner” yn adran 48(1) o’r Ddeddf;
+mae i “ymarferydd a fu’n gweini” yr ystyr a roddir i “attending practitioner” yn rheoliad 2 o Reoliadau adran 20(1);
+ystyr “ymarferydd meddygol cofrestredig” (“registered medical practitioner”) yw person sydd wedi ei gofrestru’n llawn o fewn yr ystyr a roddir i “fully registered person” yn Neddf Meddygaeth 1983(4) ac sy’n dal trwydded i ymarfer o dan y Ddeddf honno;
+ystyr “ymarferydd meddygol perthnasol arall” (“other relevant medical practitioner”) yw ymarferydd meddygol cofrestredig nad yw, mewn perthynas â marwolaeth, yn ymarferydd perthnasol a fu’n gweini, ond sydd wedi—
+(a)
+gwneud hysbysiad neu atgyfeiriad at uwch-grwner o dan unrhyw ddeddfiad,
+(b)
+gofyn am gyngor gan archwilydd meddygol, neu
+(c)
+ceisio cyflawni unrhyw swyddogaeth o dan Reoliadau adran 20(1);
+mae i “ymarferydd perthnasol a fu’n gweini” yr ystyr a roddir i “relevant attending practitioner” yn rheoliad 2 o’r Rheoliadau adran 20(1).
+(1)
+Mewnosodwyd adran 18B gan adran 169(1) o Ddeddf Iechyd a Gofal 2022.
+(2)
+O.S. 2024/492.
+(3)
+Am ystyr “function”, gweler adran 48(1) o’r Ddeddf.
+(4)
+1983 p. 54.Telerau penodi archwilwyr meddygol a therfynu penodiad
+3.—(1) Rhaid i delerau penodi archwilydd meddygol gynnwys telerau, sut bynnag y’u mynegir, sy’n darparu—
+(a)
+bod y penodiad i’w derfynu ar unwaith os bydd yr archwilydd meddygol yn peidio â bod yn ymarferydd meddygol cofrestredig,
+(b)
+y caiff y corff penodi derfynu’r penodiad pan fo o’r farn, ar ôl ystyried unrhyw safonau perfformiad a ddisgwylir gan archwilydd meddygol fel y’u cyhoeddir o bryd i’w gilydd gan yr Archwilydd Meddygol Cenedlaethol, nad yw’r archwilydd meddygol yn addas i fod yn archwilydd meddygol,
+(c)
+ar gais y corff penodi, fod rhaid i’r archwilydd meddygol, pan fo’n rhesymol ymarferol, arfer unrhyw swyddogaeth berthnasol mewn perthynas ag unrhyw farwolaeth y mae’n ofynnol ei chofrestru o dan Ran 2 o Ddeddf Cofrestru Genedigaethau a Marwolaethau 1953(1),
+(d)
+bod rhaid i’r archwilydd meddygol, heb oedi afresymol, hysbysu’r corff penodi am unrhyw newidiadau i’w statws fel ymarferydd meddygol cofrestredig, gan gynnwys unrhyw gamau disgyblu y cynigir eu cymryd neu a gymerir yn ei erbyn gan ei gorff rheoleiddio, ac
+(e)
+y caiff y corff penodi derfynu’r penodiad pan fo o’r farn nad yw ymgysylltiad yr archwilydd meddygol ag ymarfer clinigol yn ddigonol i gefnogi’r gwaith o arfer swyddogaethau perthnasol yn barhaus.
+(2) Caiff telerau penodi’r archwilydd meddygol gynnwys unrhyw delerau eraill y cytunir arnynt rhwng y corff penodi a’r archwilydd meddygol.
+(1)
+1953 p. 20.Talu tâl, treuliau, ffioedd etc. i archwilwyr meddygol
+4.  Caiff corff penodi dalu i bob archwilydd meddygol y mae’n ei benodi unrhyw dâl, treuliau, ffioedd, digollediad am derfynu penodiad, pensiynau, lwfansau neu arian rhodd a benderfynir ganddo.Yr hyfforddiant sydd i’w ddilyn gan archwilwyr meddygol
+5.  Rhaid i archwilwyr meddygol ddilyn, o bryd i’w gilydd, unrhyw hyfforddiant sy’n briodol i sicrhau eu bod yn meddu ar y profiad a’r sgiliau angenrheidiol er mwyn cyflawni eu swyddogaethau perthnasol.Y weithdrefn ar gyfer annibyniaeth archwilwyr meddygol
+6.—(1) Pan fo archwilydd meddygol yn cael cais gan gorff penodi i arfer unrhyw swyddogaeth berthnasol mewn perthynas â marwolaeth, ac nad yw’n ddigon annibynnol mewn perthynas â’r farwolaeth honno, rhaid i’r archwilydd meddygol gydymffurfio â’r camau a nodir ym mharagraffau (2) a (3).
+(2) Ni chaiff yr archwilydd meddygol arfer unrhyw swyddogaeth berthnasol mewn perthynas â’r farwolaeth neu, pan fo’n berthnasol, rhaid iddo roi’r gorau i arfer unrhyw swyddogaeth berthnasol ar unwaith ar ôl dod yn ymwybodol nad yw’n ddigon annibynnol.
+(3) Rhaid i’r archwilydd meddygol, heb oedi afresymol—
+(a)
+gwneud cofnod o ba rai o’r amgylchiadau a nodir ym mharagraff (6) sy’n gymwys mewn perthynas â’r farwolaeth, a
+(b)
+hysbysu ei gorff penodi yn ysgrifenedig.
+(4) Pan fo archwilydd meddygol yn hysbysu ei gorff penodi o dan baragraff (3)(b), rhaid i’r archwilydd meddygol sicrhau bod y canlynol yn cael ei ddarparu i’r corff penodi—
+(a)
+copi o’r cofnod a wneir yn unol â pharagraff (3)(a),
+(b)
+unrhyw wybodaeth y mae’r archwilydd meddygol wedi ei chael sy’n ymwneud â’r farwolaeth, ac
+(c)
+unrhyw gofnodion a wneir gan yr archwilydd meddygol mewn cysylltiad ag unrhyw swyddogaeth berthnasol sydd wedi ei harfer mewn perthynas â’r farwolaeth.
+(5) At ddibenion paragraffau (1) i (3)—
+(a)
+nid yw archwilydd meddygol yn ddigon annibynnol mewn perthynas â marwolaeth pan fo un neu ragor o’r amgylchiadau ym mharagraff (6) yn gymwys ar adeg y farwolaeth;
+(b)
+mae unrhyw gyfeiriad at yr ymarferydd meddygol yn bod yn ymwybodol nad yw’n ddigon annibynnol yn cynnwys unrhyw amser pan ddylai’r ymarferydd meddygol fod wedi bod yn ymwybodol o hynny.
+(6) Yr amgylchiadau yw—
+(a)
+bod yr archwilydd meddygol yn briod, yn gyn briod, yn bartner sifil neu’n gyn bartner sifil—
+(i)
+i’r person ymadawedig (“Y”),
+(ii)
+i’r ymarferydd perthnasol a fu’n gweini (“YG”), neu
+(iii)
+i unrhyw ymarferydd meddygol perthnasol arall (“YA”),
+(b)
+bod yr archwilydd meddygol, neu y bu’r archwilydd meddygol, yn cyd-fyw ag Y, YG neu YA fel pe baent yn briod neu’n bartneriaid sifil,
+(c)
+bod yr archwilydd meddygol, neu y bu’r archwilydd meddygol, yn perthyn yn agos i Y, YG neu YA,
+(d)
+bod yr archwilydd meddygol yn credu ei fod wedi gweini ar Y yn ystod oes Y,
+(e)
+bod yr archwilydd meddygol, neu y bu’r archwilydd meddygol, yn bartner, yn gyflogwr, yn gyflogai neu’n gysylltai i Y, YG neu YA,
+(f)
+bod gan yr archwilydd meddygol fuddiant ariannol yn ystad Y, neu
+(g)
+bod gan yr archwilydd meddygol, neu y bu gan yr archwilydd meddygol, unrhyw gysylltiad, perthynas neu gyswllt arall ag Y, YG neu YA i’r graddau bod amheuaeth resymol yn codi ynghylch gallu’r archwilydd meddygol i gyflawni unrhyw un neu ragor o’r swyddogaethau perthnasol yn wrthrychol mewn perthynas â’r farwolaeth.
+(7) Ym mharagraff (6), ystyr “yn perthyn yn agos” yw rhiant, chwaer, hanner chwaer, brawd, hanner brawd, mab, merch, ewythr, modryb, tad-cu/taid neu fam-gu/nain, ŵyr neu wyres, cefnder cyfan neu gyfnither gyfan, nai, nith, rhiant yng nghyfraith, ŵyr neu wyres yng nghyfraith, chwaer yng nghyfraith, brawd yng nghyfraith, mab yng nghyfraith, merch yng nghyfraith, llysblentyn, llys-riant, llysfrawd neu lyschwaer.
+(8) Ym mharagraff (7), mae cyfeiriadau at lysberthnasau a pherthnasau yng nghyfraith i’w darllen yn unol ag adran 246 o Ddeddf Partneriaeth Sifil 2004(1) (dehongli cyfeiriadau statudol at lysblant etc.).
+(1)
+2004 p. 33.Swyddogaethau ychwanegol archwilwyr meddygol
+7.—(1) Yn ogystal â’r swyddogaethau a nodir yn Rheoliadau adran 20(1), mae gan archwilydd meddygol y swyddogaethau a ganlyn—
+(a)
+darparu cyngor i ymarferwyr meddygol cofrestredig mewn perthynas â swyddogaethau ymarferwyr a fu’n gweini o dan Reoliadau adran 20(1);
+(b)
+darparu cyngor i uwch-grwneriaid at ddiben cynorthwyo uwch-grwner wrth benderfynu a oes dyletswydd i gynnal ymchwiliad i farwolaeth benodol o dan adran 1 o’r Ddeddf (dyletswydd i ymchwilio i farwolaethau penodol);
+(c)
+bod yn rhan o’r gwaith o sefydlu, adolygu a diweddaru unrhyw brotocolau lleol o ran y corff penodi;
+(d)
+cynnal cofnodion mewn perthynas â marwolaethau y mae’r archwilydd meddygol wedi arfer swyddogaethau mewn cysylltiad â hwy o dan Reoliadau adran 20(1);
+(e)
+cael unrhyw wybodaeth sydd ar gael yn rhesymol iddynt mewn cysylltiad â thueddiadau a phatrymau anarferol o ran achosion ardystiedig marwolaethau, gwyliadwriaeth iechyd y cyhoedd, diogelwch cleifion a llywodraethu clinigol at ddiben llywio eu barn broffesiynol ynghylch achos y farwolaeth mewn achos penodol, ac ystyried yr wybodaeth honno;
+(f)
+darparu gwybodaeth a llunio adroddiadau i fodloni unrhyw gais rhesymol a wneir gan neu ar ran—
+(i)
+y corff penodi, at ddiben monitro perfformiad archwilwyr meddygol,
+(ii)
+Ymddiriedolaeth Gwasanaeth Iechyd Gwladol Iechyd Cyhoeddus Cymru, at ddibenion swyddogaethau’r Ymddiriedolaeth o dan erthygl 3 o Orchymyn Ymddiriedolaeth Gwasanaeth Iechyd Gwladol Iechyd Cyhoeddus Cymru (Sefydlu) 2009(1) (natur a swyddogaethau’r ymddiriedolaeth),
+(iii)
+Bwrdd Diogelu, at ddibenion swyddogaethau’r Bwrdd Diogelu hwnnw o dan reoliad 4 o Reoliadau Byrddau Diogelu (Swyddogaethau a Gweithdrefnau) (Cymru) 2015(2) (adolygiadau ymarfer) pan fo uwch-grwner wedi penderfynu nad yw marwolaeth y person ymadawedig yn farwolaeth y mae dyletswydd i ymchwilio iddi yn codi o dan adran 1 o’r Ddeddf (dyletswydd i ymchwilio i farwolaethau penodol),
+(iv)
+y Bwrdd Ystadegau, neu
+(v)
+yr Archwilydd Meddygol Cenedlaethol;
+(g)
+nodi anghenion hyfforddi ymarferwyr meddygol cofrestredig mewn perthynas ag ardystio marwolaethau, a hyrwyddo a hwyluso hyfforddiant o’r fath;
+(h)
+adolygu eu perfformiad a’u gwasanaeth eu hunain yn rheolaidd gan gynnwys drwy gymryd rhan mewn archwiliadau gan gymheiriaid ac adolygiadau gwasanaeth.
+(2) Wrth fynd ati i arfer swyddogaeth berthnasol, rhaid i archwilwyr meddygol adrodd am unrhyw bryderon difrifol a nodir mewn cysylltiad â llywodraethu clinigol, diogelwch cleifion neu wyliadwriaeth iechyd y cyhoedd yn unol â threfniadau adrodd lleol.
+(3) At ddibenion y rheoliad hwn—
+ystyr “Bwrdd Diogelu” (“Safeguarding Board”) yw Bwrdd Diogelu Plant neu Fwrdd Diogelu Oedolion(3);
+ystyr “y Bwrdd Ystadegau” (“theStatistics Board”) yw’r corff corfforedig a sefydlwyd gan adran 1 o Ddeddf Ystadegau a’r Gwasanaeth Cofrestru 2007(4) (sefydlu);
+mae “gwybodaeth” (“information”) yn cynnwys gwybodaeth sy’n datgelu pwy yw unigolyn penodol;
+ystyr “protocol lleol” (“local protocol”) yw memorandwm cyd-ddealltwriaeth a wneir rhwng corff penodi’r archwilydd meddygol a phersonau a chyrff eraill y mae eu swyddogaethau yn cynnwys ardystio marwolaethau neu’n gysylltiedig â hynny, sy’n nodi’r trefniadau gweinyddol sydd i fod yn gymwys i hwyluso’r gwaith o ardystio marwolaethau yn effeithlon ac yn amserol.
+(1)
+O.S. 2009/2058 (Cy. 177), y mae diwygiadau iddo nad ydynt yn berthnasol i’r Rheoliadau hyn.
+(2)
+O.S. 2015/1466 (Cy. 160).
+(3)
+Sefydlir Byrddau Diogelu Plant gan bartner arweiniol y Bwrdd Diogelu ar gyfer yr ardal mewn perthynas â phlant yn unol ag adran 134(4) o Ddeddf Gwasanaethau Cymdeithasol a Llesiant (Cymru) 2014 (dccc 4) (“Deddf 2014”). Sefydlir Byrddau Diogelu Oedolion gan bartner arweiniol y Bwrdd Diogelu ar gyfer yr ardal mewn perthynas ag oedolion yn unol ag adran 134(5) o Ddeddf 2014. Pennir partneriaid arweiniol Byrddau Diogelu gan Weinidogion Cymru yn rheoliad 4 o Reoliadau Byrddau Diogelu (Cyffredinol) (Cymru) 2015, ac Atodlen 2 iddynt (O.S. 2015/1357 (Cy. 131), a ddiwygiwyd gan O.S. 2018/494 (Cy. 85) ac O.S. 2019/349 (Cy. 83)) (“Rheoliadau 2015”), o blith y rhestr o bartneriaid Byrddau Diogelu a nodir yn adran 134(2) o Ddeddf 2014. Pennir ardaloedd Byrddau Diogelu yn rheoliad 3 o Reoliadau 2015, ac Atodlen 1 iddynt, yn unol ag adran 134(1) o Ddeddf 2014.
+(4)
+2007 p. 18.Cyflenwi gwybodaeth
+8.—(1) Nid yw cyflenwi gwybodaeth o dan y Rheoliadau hyn—
+(a)
+yn torri unrhyw rwymedigaeth o ran cyfrinachedd sy’n ddyledus gan y person sy’n cyflenwi’r wybodaeth, a
+(b)
+yn gweithredu i’w gwneud yn ofynnol nac i awdurdodi datgelu na defnyddio gwybodaeth a fyddai’n torri’r ddeddfwriaeth diogelu data.
+(2) Yn y rheoliad hwn, mae i “y ddeddfwriaeth diogelu data” yr un ystyr ag a roddir i “the data protection legislation” yn adran 3(9) o Ddeddf Diogelu Data 2018(1).
+(1)
+2018 p. 12, a ddiwygiwyd gan O.S. 2019/419.Eluned Morgan
+Ysgrifennydd y Cabinet dros Iechyd a Gofal Cymdeithasol, un o Weinidogion Cymru
+12 Ebrill 2024NODYN ESBONIADOL
+(Nid yw’r nodyn hwn yn rhan o’r Rheoliadau)
+Mae’r Rheoliadau hyn yn gwneud darpariaeth mewn cysylltiad ag archwilwyr meddygol a benodir gan gorff GIG Cymru i gyflawni’r swyddogaethau a roddir i archwilwyr meddygol gan neu o dan Bennod 2 o Ran 1 o Ddeddf Crwneriaid a Chyfiawnder 2009 (p. 25) (“y Ddeddf”). Mae’r swyddogaethau hynny yn cynnwys swyddogaethau sy’n ymwneud ag ardystio’n feddygol achos marwolaethau y mae’n ofynnol eu cofrestru o dan Ran 2 o Ddeddf Cofrestru Genedigaethau a Marwolaethau 1953 (p. 20).
+Mae rheoliad 3 yn nodi darpariaethau ynghylch telerau mandadol sydd i’w cynnwys yn nhelerau penodi archwilwyr meddygol ac ynghylch terfynu penodiad, ac yn caniatáu cynnwys unrhyw delerau eraill y cytunir arnynt rhwng y corff penodi a’r archwilydd meddygol (fel y’u diffinnir yn rheoliad 2 o’r Rheoliadau hyn).
+Mae rheoliad 4 yn gwneud darpariaeth sy’n caniatáu i gorff penodi dalu tâl, treuliau, ffioedd, digollediad am derfynu penodiad, pensiynau, lwfansau neu arian rhodd i archwilwyr meddygol.
+Mae rheoliad 5 yn gwneud darpariaeth mewn perthynas â’r hyfforddiant sydd i’w ddilyn gan archwilwyr meddygol.
+Mae rheoliad 6 yn ei gwneud yn ofynnol i archwilwyr meddygol ddilyn camau penodol pan na fo’r archwilydd meddygol, mewn perthynas â marwolaeth y mae’n ofynnol ei chofrestru, yn ddigon annibynnol o fewn ystyr y rheoliad hwnnw, oherwydd cysylltiad a oedd gan yr archwilydd meddygol â’r person ymadawedig, yr ymarferydd perthnasol a fu’n gweini neu unrhyw ymarferydd meddygol perthnasol arall ar adeg y farwolaeth. Mae’r camau hyn yn cynnwys gwrthod arfer swyddogaethau mewn perthynas â marwolaeth, a hysbysu eu corff penodi.
+Mae rheoliad 7 yn rhoi swyddogaethau i archwilwyr meddygol sy’n ychwanegol at eu swyddogaethau sy’n ymwneud â’r dystysgrif feddygol achos marwolaeth o dan reoliadau a wneir o dan adran 20(1) o’r Ddeddf.
+Mae rheoliad 8 yn darparu nad yw cyflenwi unrhyw wybodaeth o dan y Rheoliadau hyn yn torri unrhyw rwymedigaeth o ran cyfrinachedd. Mae hefyd yn darparu nad yw’r Rheoliadau hyn yn gweithredu i’w gwneud yn ofynnol nac i awdurdodi datgelu na defnyddio gwybodaeth a fyddai’n torri’r ddeddfwriaeth diogelu data.
+Ystyriwyd Cod Ymarfer Gweinidogion Cymru ar gynnal Asesiadau Effaith Rheoleiddiol mewn perthynas â’r Rheoliadau hyn. O ganlyniad, lluniwyd asesiad effaith rheoleiddiol o’r costau a’r manteision sy’n debygol o ddeillio o gydymffurfio â’r Rheoliadau hyn. Gellir cael copi oddi wrth: Llywodraeth Cymru, Parc Cathays, Caerdydd, CF10 3NQ.

@@ -125,7 +125,9 @@ class Database_Weaviate(Database):
             Client_Current_Collection = self._get_client_collections()
             
             for idxCountry, Country in enumerate(self.collections):
-                if Country.capitalize() not in Client_Current_Collection:
+                print(f'Country.capitalize(): {Country.capitalize()}')
+                Capitalized_Name = Country[0].capitalize() + Country[1:]
+                if Capitalized_Name not in Client_Current_Collection:
                     print(f'The collection: {Country} does not exist in the Weaviate Cluster hence creating it.')
                     self.client.collections.create(
                         name=Country,

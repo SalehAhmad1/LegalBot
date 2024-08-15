@@ -1,0 +1,393 @@
+Draft Regulations laid before Parliament under sections 473(3) and 1290 of the Companies Act 2006, for approval by resolution of each House of Parliament.
+DRAFT STATUTORY INSTRUMENTS
+2023 No. 0000
+COMPANIES
+The Companies (Strategic Report and Directors’ Report) (Amendment) Regulations 2023
+Made
+***
+Coming into force
+1st January 2025
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 468(1) and (2) and section 1292(1) of the Companies Act 2006(1).
+In accordance with sections 473(3) and 1290 of the Companies Act 2006, a draft of this instrument was laid before, and approved by, a resolution of each House of Parliament.
+(1)
+2006 c. 46. Amendments are cited where relevant to the provisions which are referred to in these Regulations.Citation, commencement and application
+1.—(1) These Regulations may be cited as the Companies (Strategic Report and Directors’ Report) (Amendment) Regulations 2023.
+(2) These Regulations come into force on 1st January 2025.
+(3) These Regulations have effect in respect—
+(a)
+of any financial year of a company which commences on or after 1st January 2026; and
+(b)
+in the case of a company whose equity share capital is admitted to trading on a UK regulated market for the whole of the financial year of the company, which commences on or after 1st January 2025, of that financial year and each subsequent financial year.Amendment to Chapter 4 (annual accounts)
+2.  After section 413 of the Companies Act 2006 insert—
+“413A    Additional information about distributable profits, distributions and purchase of own shares
+(1) For the definition of “company with a high level of employees and turnover” see section 414CC.
+(2) If, in relation to a financial year, a company was a company with a high level of employees and turnover the following information must be shown in the notes to the accounts for the financial year—
+(a)
+the amount, at the beginning and at the end of the financial year, of the company’s profits available for distribution within the meaning of section 830(2)(1) of this Act (“distributable profits”);
+(b)
+a summary of the changes which have occurred to distributable profits during the financial year, including as a result of the company making distributions, in accordance with Part 23 of this Act, or purchasing its own shares, in accordance with Part 18 of this Act;
+(c)
+in the case of a public company, whether the amount which may be distributed is affected by the application of the net asset restriction, which is described in section 831 of this Act and, if so, the amount which is available for distribution after the application of the net asset restriction at the beginning and at the end of the financial year.
+(3) If, in relation to a financial year, the company was both—
+(a)
+a company with a high level of employees and turnover; and
+(b)
+an insurance company, to which section 833A(1) applies and which carries on long-term business within the meaning of section 833A(9)(2) (a “relevant insurance company”),
+subsection (2)(a) is modified so that, for the purpose of calculating the company’s distributable profits, sections 833A(2) to (9) apply.
+(4) If, in relation to a financial year—
+(a)
+the company was both—
+(i)
+a company with a high level of employees and turnover; and
+(ii)
+an investment company within the meaning of section 833(3)(referred to in subsection (4) as a “relevant investment company”); and
+(b)
+the company has made or intends to make a distribution in accordance with section 832;
+subsection (5) applies.
+(5) The notes to the accounts of a relevant investment company must—
+(a)
+show any accumulated, realised revenue profits, which are available for distribution within the meaning of section 832(2) (“distributable revenue profits”); at the beginning and the end of the financial year;
+(b)
+summarise the changes which have occurred to the distributable revenue profits during the financial year; and
+(c)
+state whether the amount of its distributable revenue profits is affected by the application of the restriction set out in section 832(3), and, if so, the amount of its distributable revenue profits after the application of that restriction at the beginning and at the end of the financial year.
+(6) Subsections (2) to (5) do not apply to a company if it is a subsidiary undertaking of a company which is a company with a high level of employees and turnover at the end of the financial year.
+(7) Where, in the opinion of the directors, the calculation and disclosure of a figure, in accordance with subsections (2) to (5), would involve unreasonable expense or delay (including as a result of historical trading activity) the directors may set out a minimum figure.
+(8) To the extent that the directors set out a minimum figure, in accordance with subsection (7), they must explain in the notes to the accounts—
+(a)
+why the calculation and disclosure of a figure, in accordance with subsections (2) to (5), would involve unreasonable expense or delay; and
+(b)
+how the minimum figure was calculated.”.
+(1)
+Section 830 amended by S.I. 2016/1194.
+(2)
+Section 833A inserted by regulation 2(4) of S.I. 2016/1194.
+(3)
+Section 833 amended by S.I. 2012/952.Amendment to section 414C (contents of strategic report)
+3.  Section 414C of the Companies Act 2006(1) is amended as follows—
+(a)
+in sub-section (2)—
+(i)
+for the “and” before “sections 414CA and 414CB (non-financial and sustainability information statement)” substitute “,”; and
+(ii)
+after “information statement)” insert “and sections 414CC, 414CD and 414CE (company with a high level of employees and turnover and resilience statement)”;
+(b)
+in sub-section (11)—
+(i)
+after “The strategic report” insert “, including the non-financial and sustainability information statement, the section 172(1) statement and the resilience statement,”; and
+(ii)
+after “section 416(4)” insert “or sections 468 and 1292”.
+(1)
+Section 414C inserted by S.I. 2013/1970 and amended by S.I. 2016/1245, S.I. 2019/145 and S.I. 2022/31. Sections 414CA and 414CB inserted by S.I. 2016/1245 and amended by S.I. 2019/145 and S.I. 2022/31.Amendment to section 414CB (contents of the non-financial and sustainability information statement)
+4.  After section 414CB of the Companies Act 2006 insert—
+“414CC    Company with a high level of employees and turnover
+(1) For the purposes of this Act, a company is a “company with a high level of employees and turnover” in relation to a financial year if—
+(a)
+where the company was not a parent company—
+(i)
+the company had 750 or more employees; and
+(ii)
+the company’s turnover equals or exceeds £750 million;
+(b)
+where the company was a parent company—
+(i)
+the aggregate number of employees for the group headed by that company equalled or exceeded 750 employees; and
+(ii)
+in that year the group headed by the company had net aggregate turnover of £750 million or more.
+(2) In applying sub-sections (1)(a)(ii) and (1)(b)(ii), a company must also include any of the following income which it, or in the case of a parent company, the group headed by the company, has received from the activities of a banking company or of an insurance company during the financial year in question—
+(a)
+in the case of a banking company, net income arising from interest, trading, fees and commission; and
+(b)
+in the case of an insurance company, revenue or earned premiums net of reinsurance, depending upon the accounting framework which the company or, in the case of a parent company, the group headed by the company, has used in reporting the income from those activities during the financial year in question.
+(3) For a company’s financial year that is less than twelve months the figures for turnover given by subsection (1), or the sum which is added to or substituted for turnover by subsection (2), must be proportionately adjusted.
+(4) For the purposes of subsection (1)(b)(ii)—
+(a)
+aggregate turnover, or the sum added to turnover by subsection (2), is ascertained by aggregating the relevant figures determined for each member of the group;
+(b)
+“net”, in relation to aggregate turnover, or the sum added to turnover by subsection (2), is to be interpreted in accordance with section 383(6)(1).
+(5) Section 383(7) applies for the purposes of subsection (1)(b) of this section, and for the purposes of the sum added to or substituted for turnover by subsection (2), as it applies for the purposes of section 383.
+(6) For the purposes of this section—
+(a)
+the number of employees means the average number of persons employed by the company in the financial year, determined by—
+(i)
+finding for each month in the financial year the number of persons employed under contracts of service by the company in that month;
+(ii)
+adding together the monthly totals; and
+(iii)
+dividing by the number of months in the financial year; and
+(b)
+the aggregate number of employees for a group is ascertained by aggregating the figure determined in accordance with this subsection for each member of the group.
+414CD    Resilience statement
+(1) If, in relation to a financial year, a company is a company with a high level of employees and turnover, the strategic report for that financial year must contain a resilience statement in accordance with this section.
+(2) If the company’s strategic report is a group strategic report, the resilience statement must be a consolidated statement relating to the members of the group.
+(3) The resilience statement must summarise the company’s strategic approach to managing risk and building or maintaining resilience over the short, medium and long-term.
+(4) The resilience statement must define the short and medium term for the purposes of the statement, such that—
+(a)
+the short-term must equal the period covered by the summary of the going concern statement (see subsection (7));
+(b)
+the definition of medium-term must be accompanied by an explanation of how the chosen period aligns with the company’s strategy, business planning and investment cycle.
+(5) In particular, the statement must set out—
+(a)
+how principal risks and resilience are considered in the company’s business planning and investment cycle;
+(b)
+the company’s internal governance processes for managing its principal risks and for building or maintaining resilience, including the role of directors;
+(c)
+the principal risks that could threaten the business model, operations, future performance, solvency or liquidity of the company over the short-term or medium-term, including each of the following matters to the extent that the directors consider that they either constitute a principal risk in themselves or are relevant to the company’s management of principal risks—
+(i)
+the company’s financial liabilities or expected refinancing needs;
+(ii)
+the company’s operational and financial preparedness for a significant and prolonged disruption to its normal business trading;
+(iii)
+the company’s digital security risks, including cyber security threats and the risk of significant breaches of its data protection obligations;
+(iv)
+areas of business dependency or concentration, with regard to the company’s suppliers, customers, products, contracts, services or markets; and
+(v)
+the impact of climate-related risks and and sustainability-related risks, if any, on the company’s business model, to the extent that this is not already disclosed in the non-financial and sustainability information statement or elsewhere in the strategic report.
+(6) In respect of the content of the statement required by subsection (5)(c), the statement must include—
+(a)
+the likelihood of the risk occurring and its impact on the company’s operations or financial health if it were to occur;
+(b)
+the time period over which the risk is expected to continue or to occur, if known;
+(c)
+what mitigating action, if any, the company has put, or plans to put, in place to manage the risk; and
+(d)
+any significant changes since the previous resilience statement.
+(7) The resilience statement must also contain a summary of the matters relevant to the going concern status of the company which—
+(a)
+identifies and explains the time period covered by the summary of the going concern status of the company, which must, in each case, end no sooner than twelve months after the date on which the company’s accounts for the relevant financial year are approved by the board of directors under section 414;
+(b)
+summarises the reasons for the directors’ decision whether or not to adopt the going concern basis of accounting in the relevant period;
+(c)
+discloses any material uncertainties that may cast significant doubt on the company’s ability to continue to operate as a going concern;
+(d)
+where necessary to help users of the summary to understand the current position and future prospects of the business, disclose and explain any significant judgments made by the directors in connection with the company continuing to operate as a going concern, together with any mitigating action taken by the directors to enable this decision to be taken.
+(8) The resilience statement must also provide an assessment by the directors of the company’s prospects and of the likelihood that the company will continue in operation and meet its liabilities as they fall due over the medium-term, which—
+(a)
+takes account of the principal risks which the directors have set out in accordance with subsection (5)(c);
+(b)
+demonstrates how the directors’ assessment has had regard to the company’s expected financing facilities and financing needs, and any related covenants, over the medium term;
+(c)
+confirms that at least one reverse stress test has been carried out, in which the directors have—
+(i)
+identified a combination of adverse circumstances which could cause the business plan of the company to become unviable;
+(ii)
+assessed the likelihood of those circumstances occurring; and
+(iii)
+identified mitigating action which might be taken, either to avoid the occurrence of those circumstances, or to reduce their impact; and
+(d)
+summarises both any such reverse stress test and any mitigation taken as a result.
+(9) The resilience statement must also—
+(a)
+contain a summary assessment, including estimated timings, of any long-term trends and factors that are likely to continue or occur beyond the medium-term assessment period, and which the directors believe could represent a significant threat in future to the company’s business model or operations; and
+(b)
+describe any plans that the company has put in place and any adaptations that the company is proposing to make to its business model or operations to manage any long-term challenges which it has identified under paragraph (a).
+(10) Nothing in this section requires the disclosure of information—
+(a)
+about impending developments or matters in the course of negotiation; nor
+(b)
+under subsection (8)(c) (to the extent that it describes the elements of the stress test) and (d),
+if the disclosure would, in the opinion of the directors, be seriously prejudicial to the interests of the company.
+(11) The directors of the company must retain a record of any reverse stress test as described in subsection (8)(c) and (d) for at least six years from the date on which the reverse stress test is carried out.
+414CE.    
+(1) Section 414CD does not apply to a company if the company is—
+(a)
+a subsidiary company, at the end of the financial year in question; and
+(b)
+included in a group strategic report which is produced by the company’s parent company and satisfies the requirements of subsection (2).
+(2) A report falls within this subsection if it—
+(a)
+relates to undertakings that include the company and its subsidiary companies,
+(b)
+is prepared for a financial year of the parent company that ends at the same time as, or before the end of, the company’s financial year, and
+(c)
+includes a group resilience statement in respect of all the companies which are included in the consolidation.
+(3) Information set out in the resilience statement in accordance with section 414CD may be relied upon to satisfy other requirements imposed by or under this Act in relation to a strategic report or a directors’ report.
+(4) In particular, the requirement imposed by section 414C(2)(b) (description of the principal risks and uncertainties facing the company) may be satisfied by referring to material included in a resilience statement.”.
+(1)
+Section 383(6)(a) amended by S.I. 2019/685, S.I. 2020/335 and S.I. 2020/523.Amendment to section 414D (approval and signing of strategic report)
+5.  In section 414D(2), for “this Act”, substitute “section 414C”.Amendment to section 416 (contents of directors’ report: general)
+6.  After section 416 of the Companies Act 2006 insert—
+“416A    Contents of directors’ report: audit and assurance policy statement
+(1) This section applies in relation to the financial year of a company which is a company with a high level of employees and turnover during that financial year.
+(2) For the first financial year in relation to which this section applies, and for every third financial year thereafter in relation to which this section applies, the directors’ report for that financial year must contain an audit and assurance policy statement which sets out the information described in paragraphs (a) to (f)—
+(a)
+a description of the company’s operation and governance of internal auditing and assurance, including an explanation of—
+(i)
+how any management conclusions and judgments, which are disclosed in the annual accounts and reports, may be challenged within the company, and
+(ii)
+whether, and if so how, the company is proposing to strengthen its internal audit and assurance capabilities over the next three years;
+(b)
+an explanation of the company’s plans for obtaining internal assurance over the annual accounts and reports, which the company will be required to produce during the next three years, together with any voluntary disclosures supplied with the annual accounts and reports;
+(c)
+what external assurance, if any, the company intends to seek in the next three years, in relation to the annual accounts and reports of the company, in addition to—
+(i)
+the statutory audit of the accounts under section 495(1); and
+(ii)
+the performance of the statutory auditor’s duties under sections 496(2), 497(3) and 497A(4);
+(d)
+an explanation of whether, and if so how, the company intends to seek external assurance over—
+(i)
+some or all of the company’s resilience statement; and
+(ii)
+the effectiveness of the company’s internal controls over financial reporting;
+(e)
+an explanation of the extent to which shareholder views have been taken into account in the development of the audit and assurance policy, together with an explanation of the extent to which the views of employees and any other stakeholders have been taken into account; and
+(f)
+an explanation of the company’s policies in relation to the tendering of external audit services.
+(3) The statement must set out whether any external assurance which is referred to in subsection (2)(c) and (d)—
+(a)
+will be reasonable or limited assurance, as described in the definitions of “reasonable assurance engagement” and “limited assurance engagement” in the Glossary of Terms (Auditing and Ethics) dated December 2019, issued by the Financial Reporting Council and published on its website, in its role of competent authority responsible for the oversight of statutory auditors (as amended from time to time) or will take an alternative form of assurance as agreed between the company and the external assurance provider; and
+(b)
+will be carried out in accordance with—
+(i)
+the International Standard on Assurance Engagements (ISAE) (UK) 3000 Assurance Engagements Other Than Audits Or Reviews Of Historical Financial Information which was issued in July 2020 by the Financial Reporting Council in its role of competent authority responsible for the oversight of statutory auditors (as amended from time to time); or
+(ii)
+any other international standard on assurance which is adopted in future for use in the UK by the Financial Reporting Council in its role of competent authority responsible for the oversight of statutory auditors.
+(4) In any financial year in relation to which this section applies but which does not fall within subsection (2), the company must include in its directors’ report an audit and assurance policy statement update.
+(5) Every audit and assurance policy statement (other than the first audit and assurance policy statement required by subsection (2)) and every audit and assurance policy update must set out for the financial year to which it relates—
+(a)
+how the company has implemented its audit and assurance policy;
+(b)
+whether, and if so how, the company amended its audit and assurance policy statement;
+(c)
+the extent to which the company has sought any external assurance of the kind described in subsection (2)(c) and (d); and
+(d)
+whether, and if so how, any reports resulting from any external assurance plans described in subsection (2)(c) and (d) may be accessed on the company’s website or by an alternative means.
+(6) If the company’s directors’ report is a group directors’ report, the audit and assurance policy statement must be a consolidated statement relating to the companies in the consolidation.
+(7) This section does not apply to a company if the company is—
+(a)
+a subsidiary company at the end of the financial year in question; and
+(b)
+included in a group directors’ report which—
+(i)
+is produced by the company’s parent company; and
+(ii)
+satisfies the requirements of subsection (8).
+(8) A report falls within this subsection if it—
+(a)
+relates to undertakings that include the company and its subsidiary companies,
+(b)
+is prepared for a financial year of the parent company that ends at the same time as, or before the end of, the company’s financial year, and
+(c)
+includes a group audit and assurance policy statement in respect of all the companies which are included in the consolidation.
+(9) Information set out in an audit and assurance policy statement in accordance with this section may be relied upon to satisfy other requirements imposed by or under this Act in relation to a strategic report or a directors’ report.
+416B    Contents of directors’ report: material fraud statement
+(1) If, in relation to a financial year, a company is a company with a high level of employees and turnover, the directors’ report for that financial year must contain a material fraud statement which must—
+(a)
+summarise the directors’ assessment of the risk of material fraud to the company’s business operations, including how the directors have assessed the company’s susceptibility to material fraud and the types of material fraud considered; and
+(b)
+describe the main measures which are in place to prevent and detect the occurrence of material fraud including any new measures which are in place or proposed to be put in place during the relevant financial year or the next financial year.
+(2) For the purposes of this section—
+(a)
+“fraud” means behaviour falling within any of sections 2 to 4 of the Fraud Act 2006(5);
+(b)
+fraud is “material” when its nature or magnitude could reasonably be expected to influence the decisions which a reasonable shareholder would take in connection with their shareholding in the company.
+(3) Nothing in this section requires the disclosure of information if, in the opinion of the directors, the disclosure would be seriously prejudicial to the interests of the company.
+(4) If the company’s directors’ report is a group directors’ report, the material fraud statement to be included in the report under subsection (1) must be a consolidated statement relating to the companies in the consolidation.
+(5) This section does not apply to a company if the company is—
+(a)
+a subsidiary company at the end of the financial year in question; and
+(b)
+included in a group directors’ report which—
+(i)
+is produced by the company’s parent company; and
+(ii)
+satisfies the requirements of subsection (6).
+(6) A report falls within this subsection if it—
+(a)
+relates to undertakings that include the company and its subsidiary companies,
+(b)
+is prepared for a financial year of the parent company that ends at the same time as, or before the end of, the company’s financial year, and
+(c)
+includes a material fraud statement in respect of all the companies which are included in the consolidation.
+416C    Contents of directors’ report: policy statement concerning distributions and purchase of own shares
+(1) If, in relation to a financial year, a company is a company with a high level of employees and turnover, the directors’ report for that financial year must contain a distribution policy statement which describes—
+(a)
+the directors’ approach to capital allocation including decisions on investment, capital expenditure, research and development, distributions in accordance with Part 23, the purchase of own shares in accordance with Part 18, and any other matters which the directors consider to be relevant;
+(b)
+the directors’ policy towards the amount and timing of distributions to shareholders and the purchase of own shares during the short and medium term as defined in the resilience statement;
+(c)
+the considerations and factors which the directors consider to be material to their policy governing distributions and the purchase of own shares including, where relevant, the availability of the sums described in the note to the accounts required by section 413A, cash within the company and, in the case of a parent company, its group;
+(d)
+the key risks and constraints, including legal constraints, which the directors consider to be relevant to implementing and sustaining the directors’ policy on distributions and the purchase of own shares; and
+(e)
+how the directors have—
+(i)
+implemented the distribution and share purchase policy which is referred to in paragraph (b); and
+(ii)
+in implementing that policy and in recommending the amount of any dividend (which the directors report under section 416(3)), considered and taken into account those matters, which are described in paragraphs (c) and (d), together with the level of distributable profits and other relevant matters (including, where appropriate, the level of distributable revenue profits), which are disclosed in the notes to the accounts required by section 413A.
+(2) If the company’s directors’ report is a group directors’ report, the policy statement concerning distributions and purchase of own shares, to be included in the report under subsection (1), must be a consolidated statement relating to the companies in the consolidation.
+(3) This section does not apply to a company if the company is—
+(a)
+a subsidiary company at the end of the financial year in question; and
+(b)
+included in a group directors’ report which—
+(i)
+is produced by the company’s parent company; and
+(ii)
+satisfies the requirements of subsection (4).
+(4) A report falls within this subsection if it—
+(a)
+relates to undertakings that include the company and its subsidiary companies;
+(b)
+is prepared for a financial year of the parent company that ends at the same time as, or before the end of, the company’s financial year, and
+(c)
+includes a policy statement concerning distributions and purchase of own shares in respect of all the companies which are included in the consolidation.”.
+(1)
+Section 495 amended by S.I. 2013/3008, S.I. 2016/649 and S.I. 2019/685.
+(2)
+Section 496 amended by S.I. 2015/980 and S.I. 2016/649.
+(3)
+Section 497 amended by S.I. 2019/970.
+(4)
+Section 497A inserted by S.I. 2009/1581, substituted by S.I. 2015/980 and amended by S.I. 2016/649.
+(5)
+2006 c. 35.Consequential amendments to Index of Defined Expressions in Schedule 8
+7.  In Schedule 8 (Index of Defined Expressions)—
+(a)
+in the appropriate place after the entry for “company records (in Part 37)”, insert—
+“company with a high level of employees and turnover section 414CC”
+(b)
+within the entry for “distributable profits”, insert, as the first entry—
+“—in section 413A(1)(a) section 413A(1)(a)”
+(c)
+after the entry for “distributable profits”, insert—
+““distributable revenue profits” (in section 413A(4)) section 413A(4)(a)”
+(d)
+after the entry for “market purchase, by a company of its own shares (in Chapter 4 of Part 18)”, insert—
+“material fraud (in section 416B) section 416B(2)(a) and (b)”
+(e)
+after the entry for “relevant accounts” insert—
+“relevant insurance company (in section 413A) section 413A(3)
+relevant investment company (in section 413A) section 413A(4)”Review
+8.—(1) The Secretary of State must from time to time—
+(a)
+carry out a review of those sections which are inserted into the Companies Act 2006 by these Regulations, and
+(b)
+publish a report setting out the conclusions of the review.
+(2) The first report must be published before 1st January 2030.
+(3) Subsequent reports must be published at intervals not exceeding 5 years.
+(4) Section 30(4) of the Small Business, Enterprise and Employment Act 2015(1) (“the 2015 Act”) requires that a report published under this regulation must, in particular—
+(a)
+set out the objectives intended to be achieved by the regulatory provision referred to in paragraph (1)(a);
+(b)
+assess the extent to which those objectives are achieved;
+(c)
+assess whether those objectives remain appropriate; and
+(d)
+if those objectives remain appropriate, assess the extent to which they could be achieved in another way which involves less onerous regulatory provision.
+(5) In this regulation, “regulatory provision” has the same meaning as in sections 28 to 32 of the 2015 Act (see section 32 of that Act).
+(1)
+2015 c. 26. Section 30 has been amended but not in a way which is relevant to these Regulations.Name
+Title
+Department for Business and Trade
+DateEXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations require certain companies to provide additional statements to be included in the strategic report and the directors’ report. The provisions apply to a company with a high level of employees and turnover.
+The Regulations commence on 1st January 2025. In general, the Regulations have effect in respect of a financial year of a company which commences on or after 1st January 2026. In the case of a company whose equity share capital is admitted to trading on a UK regulated market, for the whole of the financial year of the company which commences on or after 1st January 2025, the Regulations have effect in respect of that financial year and each subsequent financial year.
+Part 2 inserts section 413A which requires relevant companies to include an additional note to the accounts concerning distributable profits and other relevant matters or a minimum amount recorded under section 413A(7). Part 2 also inserts sections 414CC,CD and CE which define a company with a high level of employees and turnover and place a duty on the company’s directors to include a resilience statement in the company’s strategic report. In addition, regulation 5 amends the offence provision which is set out in section 414D(2).
+Part 3 inserts sections 416A–C, which place a duty on the company’s directors to include three additional statements in the directors’ report. The statements comprise an audit and assurance policy statement, a material fraud statement and a policy statement concerning distributions and purchase of own shares.
+Section 416A inserts the audit and assurance policy statement which must be included in the directors’ report in every third financial year with an update in the intervening financial years. Subsection (3)(a) refers to the Glossary of Terms (Auditing and Ethics), dated December 2019, and subsection (3)(b) refers to the International Standard on Assurance Engagements (ISAE) (UK) 3000 Assurance Engagements Other Than Audits Or Reviews Of Historical Financial Information, dated July 2020. The documents were issued by the Financial Reporting Council in its role of competent authority responsible for the oversight of statutory auditors. Each of the documents, together with any updates, and the documents which are referred to in section 416A(3)(b)(ii) is available from the Department for Business and Trade at Old Admiralty Building, Admiralty Place, London SW1A 2DY and are published alongside Explanatory Memorandum and the Regulations on www.legislation.gov.uk.
+Part 4 amends the Index of Defined Expressions which are set out Schedule 8 to the Companies Act 2006 (the “Companies Act”).
+Part 5 provides for a review of those sections, which are inserted into the Companies Act, by the Regulations. The first review must be carried out before 1st January 2030 with subsequent reviews at intervals not exceeding five years.
+A full impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is available from the Department for Business and Trade at Old Admiralty Building, Admiralty Place, London SW1A 2DY and is published with the Explanatory Memorandum on www.legislation.gov.uk.

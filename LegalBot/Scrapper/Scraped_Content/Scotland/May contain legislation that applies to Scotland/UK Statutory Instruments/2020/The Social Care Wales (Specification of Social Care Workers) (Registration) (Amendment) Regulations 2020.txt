@@ -1,0 +1,70 @@
+WELSH STATUTORY INSTRUMENTS
+2020 No. 286 (W. 65)
+SOCIAL CARE, WALES
+The Social Care Wales (Specification of Social Care Workers) (Registration) (Amendment) Regulations 2020
+Made
+11 March 2020
+Coming into force
+1 April 2020
+The Welsh Ministers, in exercise of the powers conferred upon them by section 80(1)(b) of the Regulation and Inspection of Social Care (Wales) Act 2016(1), make the following Regulations.
+In accordance with section 187(2)(n) of that Act, a draft of this instrument has been laid before, and approved by a resolution, of the National Assembly for Wales.
+(1)
+2016 anaw 2.Title, commencement and interpretation
+1.—(1) The title of these Regulations is the Social Care Wales (Specification of Social Care Workers) (Registration) (Amendment) Regulations 2020.
+(2) These Regulations come into force on 1 April 2020.
+(3) In these Regulations, “the 2016 Regulations” means the Social Care Wales (Specification of Social Care Workers) (Registration) Regulations 2016(1).
+(1)
+S.I. 2016/1235 (W. 293), amended by S.I. 2018/192 (W. 43).Amendment of the 2016 Regulations
+2.—(1) The 2016 Regulations are amended as follows.
+(2) In regulation 2 (interpretation), in the appropriate place insert—
+““care home service” (“gwasanaeth cartref gofal”) has the same meaning as that given in section 2(1)(a) of, and paragraph 1 of Schedule 1 to, the Act, subject to regulation 2 of the 2017 Regulations;”;
+““employment” (“cyflogaeth”) has the same meaning as in section 230(5) of the Employment Rights Act 1996(1) and includes individuals employed whether as an employee or worker;”;
+““residential family centre service” (“gwasanaeth canolfan breswyl i deuluoedd”) has the same meaning as that given in section 2(1)(c) of, and paragraph 3 of Schedule 1 to, the Act, subject to regulation 4 of the 2017 Regulations;”.
+(3) In regulation 3 (specification of social care workers)—
+(a)
+in paragraph (2)—
+(i)
+for sub-paragraph (b) substitute—
+“(b)
+who in the course of their employment with a service provider, provide care and support to any person in Wales in connection with—
+(i)
+a care home service provided wholly or mainly for adults,
+(ii)
+a care home service provided wholly or mainly for children,
+(iii)
+a secure accommodation service within the meaning of paragraph 2 of Schedule 1 to the Act,
+(iv)
+a domiciliary support service in order to provide care and support to a person referred to in paragraph 8(1) of Schedule 1 to the Act, or
+(v)
+a residential family centre service,
+provided by that provider;”;
+(ii)
+after sub-paragraph (b) as substituted by these Regulations insert—
+“(bb)
+who under a contract for services, provide care and support to any person in Wales in connection with—
+(i)
+a care home service provided wholly or mainly for adults,
+(ii)
+a care home service provided wholly or mainly for children,
+(iii)
+a secure accommodation service within the meaning of paragraph 2 of Schedule 1 to the Act,
+(iv)
+a domiciliary support service in order to provide care and support to a person referred to in paragraph 8(1) of Schedule 1 to the Act, or
+(v)
+a residential family centre service,
+provided by a service provider;”;
+(iii)
+omit sub-paragraph (d);
+(b)
+omit paragraph (3).
+(1)
+1996 c. 18.Julie Morgan
+Deputy Minister for Health and Social Services under authority of the Minister for Health and Social Services, one of the Welsh Ministers
+11 March 2020EXPLANATORY NOTE
+(This note is not part of the Regulations)
+Section 80(1)(a) and (b) of the Regulation and Inspection of Social Care (Wales) Act 2016 (“the Act”) require Social Care Wales to keep a register of social workers and social care workers of any other description specified by the Welsh Ministers in regulations.
+The Social Care Wales (Specification of Social Care Workers) (Registration) Regulations 2016 (“the 2016 Regulations”) specify the descriptions of social care workers for whom a register must be kept.
+These Regulations amend regulation 3 of the 2016 Regulations by substituting paragraph (2)(b) and inserting a new paragraph (2)(bb) to provide that a register must be kept by Social Care Wales of individuals who are employed (whether as an employee or a worker), or engaged under a contract for services to provide care and support in connection with a care home service provided wholly or mainly to adults, a care home service provided wholly or mainly for children, a secure accommodation service, a domiciliary support service or a residential family centre service.
+The requirement for Social Care Wales to keep a register of individuals employed or engaged under a contract for services in connection with a care home service provided wholly or mainly to adults and a residential family centre services is added by these Regulations.
+The requirement for Social Care Wales to keep a register of individuals in connection with a care home service provided wholly or mainly for children and a secure accommodation service, is extended by these Regulations to require the registration of individuals engaged under a contract of services (including agency workers) in addition to individuals who are employed by the service provider.
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, a regulatory impact assessment has been prepared as to the likely costs and benefits of complying with these Regulations. A copy can be obtained from the Department of Health and Social Services, Welsh Government, Cathays Park, Cardiff, CF10 3NQ.

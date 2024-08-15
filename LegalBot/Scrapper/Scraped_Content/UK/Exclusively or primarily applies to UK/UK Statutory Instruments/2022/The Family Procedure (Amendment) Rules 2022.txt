@@ -1,0 +1,849 @@
+STATUTORY INSTRUMENTS
+2022 No. 44 (L. 1)
+FAMILY PROCEEDINGS
+SENIOR COURTS OF ENGLAND AND WALES
+FAMILY COURT, ENGLAND AND WALES
+The Family Procedure (Amendment) Rules 2022
+Made
+12th January 2022
+Laid before Parliament
+17th January 2022
+Coming into force in accordance with rule 1
+The Family Procedure Rule Committee makes the following Rules in exercise of the powers conferred by sections 75 and 76(8) of the Courts Act 2003(1), section 1(10) of the Matrimonial Causes Act 1973(2) and section 44(6) of the Civil Partnership Act 2004(3), having fulfilled the requirements of section 79(1) of the Courts Act 2003:
+(1)
+2003 c. 39. Section 75 was amended by paragraphs 308 and 338 of Schedule 4 and Part 2 of Schedule 18 to the Constitutional Reform Act 2005 (c. 4) and by paragraphs 83 and 91 of Part 1 of Schedule 10 to the Crime and Courts Act 2013 (c. 22).
+(2)
+1973 c. 18. Section 1(10) was inserted by section 1 of the Divorce, Dissolution and Separation Act 2020 (c. 11).
+(3)
+2004 c. 33. Section 44(6) was inserted by section 3(1) and (7) of the Divorce, Dissolution and Separation Act 2020.Citation, extent and commencement
+1.—(1) These Rules may be cited as the Family Procedure (Amendment) Rules 2022.
+(2) These Rules extend to England and Wales.
+(3) These Rules come into force on 1st April 2022, except as follows—
+(a)
+rules 3, 6 to 27, 29 and the Schedule come into force on the day on which section 1 of the Divorce, Dissolution and Separation Act 2020(1) comes fully into force;
+(b)
+rule 4 comes into force on the day on which section 65 of the Domestic Abuse Act 2021(2) comes into force;
+(c)
+rule 5 comes into force on 3rd April 2022.
+(1)
+2020 c. 11.
+(2)
+2021 c. 17.Amendment of the Family Procedure Rules 2010
+2.  The Family Procedure Rules 2010(1) are amended in accordance with rules 3 to 28 of these Rules.
+(1)
+S.I. 2010/2955. Relevant amendments were made by S.I. 2012/679, 2013/3204, 2014/843 and 3296, 2015/913 and 2020/135.Amendment of rule 2.3
+3.  In rule 2.3 (interpretation)—
+(a)
+in paragraph (1) in the definition of “matrimonial order”—
+(i)
+in sub-paragraph (a) for “decree of divorce” substitute “divorce order”;
+(ii)
+in sub-paragraph (b) for “decree of nullity” substitute “nullity of marriage order”; and
+(iii)
+in sub-paragraph (c) for “decree of judicial separation” substitute “judicial separation order”; and
+(b)
+in paragraph (2)(a) for “a petition”, in both places it occurs, substitute “an application”.Amendment of Part 3A
+4.  After rule 3A.12 (application for directions under this Part) insert—
+“Prohibition of cross-examination in person under Part 4B of the 1984 Act
+3A.13.  A practice direction may make provision in relation to the prohibition of cross-examination in person under Part 4B of the 1984 Act.”.Amendment of Part 5
+5.  After rule 5.7 (communications with the court) insert—
+“Provision in relation to bulk scanning of documents
+5.8.—(1) A practice direction may make provision for the bulk scanning of documents that are to be filed with, or otherwise sent to, the court.
+(2) The practice direction may modify or disapply any provision of these rules.”.Amendment of Part 6
+6.  In rule 6.3 (interpretation)—
+(a)
+at the end of paragraph (b) omit “as referred to in rule 7.4”; and
+(b)
+after paragraph (b) insert—
+“(‘Jurisdiction’ is defined in rule 2.3.)”.Amendment of Part 6
+7.  In rule 6.4 (methods of service)—
+(a)
+at the end of paragraph (b) omit “or”;
+(b)
+in paragraph (c) after “document exchange” for “.” substitute “; or”; and
+(c)
+after paragraph (c) insert—
+“(d)
+email service in accordance with rule 6.7A.”.Amendment of Part 6
+8.  In rule 6.5 (who is to serve the application)—
+(a)
+in paragraph (1)—
+(i)
+in sub-paragraph (a) for “the applicant” substitute “a court officer”; and
+(ii)
+in sub-paragraph (b) for “court officer” substitute “the applicant”; and
+(b)
+for paragraph (2) substitute—
+“(2) A court officer will not serve the application if the party to be served is—
+(a)
+a child or protected party; or
+(b)
+out of the jurisdiction.”.Amendment of Part 6
+9.  In rule 6.6 (every respondent to be served)—
+(a)
+in the heading omit “Every”’; and
+(b)
+for “every” substitute “the”.Amendment of Part 6
+10.  After rule 6.6 insert—
+“Time for serving an application by the applicant
+6.6A.  Where the applicant serves the application, the applicant must complete the step required by the following table in relation to the method of service chosen before 12.00 midnight on the day 28 days after the date of issue of the application.
+Method of service Step required
+First class post, document exchange or other service which provides for delivery on the next business day Posting, leaving with, delivering to or collection by the relevant service provider
+Personal service under rule 6.7, by someone other than the applicant personally Leaving it with the person to be served
+Email service under rule 6.7A Sending the application by e-mail and sending the notice required by rule 6.7A(2) by posting, leaving with, delivering to or collection by the relevant service provider
+Extension of time for serving the application
+6.6B.—(1) The applicant may apply for an order extending the time for compliance with rule 6.6A.
+(2) The general rule is that an application under paragraph (1) must be made—
+(a)
+within the period for service specified by rule 6.6A; or
+(b)
+where an order has been made under this rule, within the period specified by that order.
+(3) Where an applicant asserts that they have a good reason for not making an application under paragraph (1) within a period specified in paragraph (2) an application under paragraph (1) may be made—
+(a)
+after the period for service specified by rule 6.6A; or
+(b)
+where an order has been made under this rule, after the period specified by that order.
+(4)  On an application under paragraph (1), the court must consider all the circumstances including whether—
+(a)
+the court has failed to serve the application;
+(b)
+the applicant has taken reasonable steps to comply with rule 6.6A; and
+(c)
+the applicant has acted promptly.
+(5) An application for an order extending the time for compliance with rule 6.6A—
+(a)
+must be supported by evidence; and
+(b)
+may be made without notice.
+(6) Where an order is made without notice—
+(a)
+a copy of the order; and
+(b)
+a copy of the application for an order extending time together with any statement supporting it,
+must be served on the respondent when the application for a matrimonial or civil partnership order is served.”.Amendment of Part 6
+11.  After rule 6.7 (personal service) insert—
+“Email service
+6.7A.—(1) Subject to paragraph (2), an application is served on a respondent by email by sending it to—
+(a)
+the respondent’s usual email address; or
+(b)
+the email address provided by the respondent in accordance with rule 6.12.
+(2) Where an application is served by email, a notice confirming such service must be sent to the respondent’s postal address, by first class post or other service which provides for delivery on the next business day.”.Amendment of Part 6
+12.  For rule 6.8 (service of application by the court) substitute—
+“Service of application by the court
+6.8.—(1) Where the application is to be served by a court officer, the applicant must give the court officer—
+(a)
+the respondent’s usual email address (if known); and
+(b)
+the respondent’s last known or usual postal address,
+at which the respondent is to be served in accordance with rule 6.4.
+(2) Subject to paragraph (3), a court officer will serve the application by email in accordance with rule 6.7A.
+(3) Where—
+(a)
+an email address for service on the respondent is not provided; or
+(b)
+the applicant does not seek email service on the respondent,
+a court officer will serve the application by first class post or other service which provides for delivery on the next business day.
+(4) Where the court officer has sent to the applicant a notification of failure of service in accordance with rule 6.21 (postal service) or 6.21A (email service), the applicant may request the court officer to serve the document on the respondent at an alternative address.
+(5) Where the court officer has served the respondent following a request in accordance with paragraph (4), the court will not try to serve the application again.”.Amendment of Part 6
+13.  In rule 6.10 (where to serve the application – general provisions) for paragraph (2) substitute—
+“(2) The applicant must include in the application—
+(a)
+an email address (if this is known); and
+(b)
+a postal address,
+at which the respondent may be served.”.Amendment of Part 6
+14.  In rule 6.12 (service of the application where the respondent gives an address at which the respondent may be served) after “an” insert “email address in accordance with rule 6.7A or at a postal”.Amendment of Part 6
+15.  In rule 6.13 (service of the application where the respondent does not give an address at which the respondent may be served)—
+(a)
+for paragraph (2) substitute—
+“(2) Subject to paragraphs (3) to (5) the application must be served on the respondent—
+(a)
+if the respondent’s usual email address is known, at that address in accordance with rule 6.7A; or
+(b)
+if that usual email address is not known, or if the applicant does not seek email service on the respondent, at the respondent’s usual or last known postal address.”;
+(b)
+in paragraph (3)—
+(i)
+after “known” insert “postal”;
+(ii)
+after “address,” insert “or no longer has access to the usual email address,”;
+(iii)
+after “current” insert “postal and email”; and
+(c)
+in paragraph (4)—
+(i)
+in sub-paragraph (a)—
+(aa)
+after “current” insert “email and postal”;
+(bb)
+for “at that address” substitute “in accordance with paragraph (2)”;
+(ii)
+in sub-paragraph (b) after “current” insert “email and postal”.Amendment of Part 6
+16.  In rule 6.15(2)(b) (deemed service – receipt of acknowledgment of service)—
+(a)
+for “undefended” substitute “not disputed”; and
+(b)
+for “7.19(4)” substitute “7.9(4)”.Amendment of Part 6
+17.  In rule 6.16 (deemed service by post or alternative service where no acknowledgment of service filed)—
+(a)
+in sub-paragraph (1)(a) after “by” insert “email in accordance with rule 6.7A or by”; and
+(b)
+omit paragraph (2).Amendment of Part 6
+18.  In rule 6.18 (proof of service by the court etc.) after paragraph (1) insert—
+“(1A) Where a court officer serves an application by email in accordance with rule 6.7A, the court officer must note in the court records the date and time of the email and the date on which the accompanying notice was posted.”.Amendment of Part 6
+19.  In rule 6.21 (notification of failure of service by the court) in the heading after “of”, in the second place it occurs, insert “postal”.Amendment of Part 6
+20.  After rule 6.21 (notification of failure of service by the court) insert—
+“Notification of failure of email service by the court
+6.21A.  Where –
+(a)
+the court officer serves the application by email in accordance with rule 6.7A; and
+(b)
+the court is notified that the email was undeliverable,
+the court officer will send notification to the applicant that the application was undeliverable.”.Amendment of Part 6
+21.  After rule 6.41 (permission to serve not required) insert—
+“Time for serving an application for a matrimonial or civil partnership order out of the jurisdiction
+6.41A.—(1) The applicant must complete the step required by the table in paragraph (2) or (3), as applicable, in relation to the method of service chosen before 12.00 midnight on the day 28 days after the date of issue of the application.
+(2) Where service of an application for a matrimonial or civil partnership order is to be effected on a party in Scotland or Northern Ireland—
+Method of service Step required
+First class post, document exchange or other service which provides for delivery on the next business day Posting, leaving with, delivering to or collection by the relevant service provider
+Personal service under rule 6.7, by someone other than the applicant personally Leaving it with the person to be served
+Email service under rule 6.7A Sending the application by e-mail and sending the notice required by rule 6.7A(2) by posting, leaving with, delivering to or collection by the relevant service provider
+(3) Where service of an application for a matrimonial or civil partnership order is to be effected on a respondent out of the United Kingdom—
+Method of service Step required
+Where service is to be effected by a method provided for by rule 6.45 The steps required by rule 6.46(2)
+Where service is to be effected by another method permitted by the law of the country in which it is to be served Sending or delivering the application to, or leaving it with, the person to be served or taking such other such steps to effect service as are permitted by the law of the country in which it is to be served
+Extension of time for serving the application for a matrimonial or civil partnership order
+6.41B.—(1) The applicant may apply for an order extending the time for compliance with rule 6.41A.
+(2) The general rule is that an application under paragraph (1) must be made—
+(a)
+within the period for service specified by rule 6.41A; or
+(b)
+where an order has been made under this rule, within the period specified by that order.
+(3) Where an applicant asserts that they have a good reason for not making an application under paragraph (1) within the periods specified in paragraph (2) an application under paragraph (1) may be made—
+(a)
+after the period for service specified by rule 6.41A; or
+(b)
+where an order has been made under this rule, after the period specified by that order.
+(4) On an application under paragraph (1), the court must consider all the circumstances including whether—
+(a)
+the applicant has taken reasonable steps to comply with rule 6.41A; and
+(b)
+the applicant has acted promptly.
+(5) An application for an order extending the time for compliance with rule 6.41A—
+(a)
+must be supported by evidence; and
+(b)
+may be made without notice.”.Substitution of Part 7
+22.  For Part 7 (Procedure for Applications in Matrimonial and Civil Partnership Proceedings) substitute Part 7 (Procedure for Applications in Matrimonial and Civil Partnership Proceedings) as set out in the Schedule to these Rules.Amendment of Part 9
+23.  In rule 9.8 (application for periodical payments order at same rate as an order for maintenance pending suit) for “decree nisi”, in each place it occurs, substitute “conditional order”.Amendment of Part 9
+24.  In rule 9.36 (duty of the court upon making a pension sharing order or a pension attachment order)—
+(a)
+in paragraph (4)—
+(i)
+in sub-paragraph (a)(i) for “decree of judicial separation” substitute “judicial separation order”;
+(ii)
+in sub-paragraph (b)—
+(aa)
+for “decree absolute” substitute “final order”;
+(bb)
+for “7.31” substitute “7.19”;
+(cc)
+for “7.32” substitute “7.20”; and
+(iii)
+in sub-paragraph (c)—
+(aa)
+for “7.31” substitute “7.19”;
+(bb)
+for “7.32” substitute “7.20”; and
+(b)
+in paragraph (5)(a)(ii)—
+(i)
+for “decree absolute” substitute “final order”;
+(ii)
+for “decree of judicial separation” substitute “judicial separation order”.Amendment of Part 9
+25.  In rule 9.45 (duty of the court upon making a pension compensation sharing order or a pension compensation attachment order)—
+(a)
+in paragraph (1)—
+(i)
+in sub-paragraph (b)(i)—
+(aa)
+for “decree absolute” substitute “final order”;
+(bb)
+for “7.32” substitute “7.19”;
+(cc)
+for “7.33” substitute “7.20”;
+(ii)
+in sub-paragraph (b)(ii)—
+(aa)
+for “7.32” substitute “7.19”;
+(bb)
+for “7.33” substitute “7.20”; and
+(iii)
+in sub-paragraph (c)(i) for “decree of judicial separation” substitute “judicial separation order”; and
+(b)
+in paragraph (2)(a)(ii)—
+(i)
+for “decree absolute” substitute “final order”; and
+(ii)
+for “decree of judicial separation” substitute “judicial separation order”.Amendment of rule 24.8
+26.  In rule 24.8(3) (conduct of examination) for “defended” substitute “disputed”.Amendment of rule 25.6
+27.  In rule 25.6(e) (when to apply for the court’s permission)—
+(a)
+for “defended” substitute “disputed”; and
+(b)
+for “7.20” substitute “7.14”.Amendment of Part 30
+28.—(1) In rule 30.3(3)(a), after “was made” insert “or, if the hearing is adjourned to a later date, the hearing on that date”.
+(2) In rule 30.4(2)(a), after “lower court” insert “at the hearing at which the decision to be appealed was made or, if the hearing is adjourned to a later date, the hearing on that date”.
+(3) In rule 30.5(4)(a), after “lower court” insert “at the hearing at which the decision to be appealed was made or, if the hearing is adjourned to a later date, the hearing on that date”.Transitional provision
+29.  The amendments made by rules 3 and 6 to 27 do not apply to proceedings that were issued before these Rules come into force.Poonam Bhari
+Melanie Carew
+His Honour Judge Godwin
+Fiona James
+Tony McGovern
+Mr Justice Mostyn
+Her Honour Judge Raeside
+District Judge Suh
+Rhys Taylor
+Mrs Justice Theis
+District Judge Williams
+I allow these Rules
+Tom Pursglove
+Parliamentary Under Secretary of State
+Ministry of Justice
+12th January 2022Rule 22
+SCHEDULE
+“PART 7
+PROCEDURE FOR APPLICATIONS IN MATRIMONIAL AND CIVIL PARTNERSHIP PROCEEDINGS
+CHAPTER 1
+APPLICATION AND INTERPRETATION
+Application and interpretation
+7.1.—(1) The rules in this Part apply to matrimonial and civil partnership proceedings.
+(2) This Part is subject to any provision made by or pursuant to Part 41 (proceeding by electronic means).
+(3) In this Part—
+“disputed case” means—
+(a)
+nullity proceedings in which—
+(i)
+an answer has been filed opposing the grant of an order on the application, and has not been struck out; or
+(ii)
+the respondent has filed an application for a matrimonial or civil partnership order in accordance with rule 7.24 and neither party’s application has been disposed of; or
+(iii)
+rule 7.27(2) applies (in light of paragraph (1) of that rule), notice has been given of intention to rebut and that notice has not been withdrawn,
+and in which no matrimonial or civil partnership order has been made; and
+(b)
+matrimonial or civil partnership proceedings (excluding nullity proceedings) in which—
+(i)
+an answer has been filed disputing—
+(aa)
+the validity or subsistence of the marriage or civil partnership; or
+(ab)
+the jurisdiction of the court to entertain the proceedings,
+and has not been struck out; or
+(ii)
+the respondent has filed an application for a matrimonial or civil partnership order in accordance with rule 7.12(1) and neither party’s application has been disposed of,
+and in which no matrimonial or civil partnership order has been made;
+“nullity proceedings” means proceedings for a nullity order or nullity of marriage order; and
+“standard case” means matrimonial proceedings or civil partnership proceedings other than a disputed case.
+(4) In this Part—
+(a)
+a reference to a conditional order is a reference to a matrimonial order or civil partnership order (other than a judicial separation order or separation order) which has not been made final; and
+(b)
+a reference to a final order is a reference to a conditional order which has been made final.
+CHAPTER 2
+RULES ABOUT STARTING PROCEEDINGS
+Who the parties are
+7.2.  The parties to matrimonial proceedings or civil partnership proceedings are—
+(a)
+the parties to the marriage or civil partnership concerned; and
+(b)
+any other person who is to be a party in accordance with a provision of the rules in this Part.
+Statement of reconciliation
+7.3.—(1) Where the applicant is, or in the case of joint applications either or both of the applicants are, legally represented, the legal representative must, unless the court directs otherwise, complete and file with the application a statement in the form for this purpose referred to in Practice Direction 5A, certifying whether the legal representative has discussed with the applicant the possibility of a reconciliation and given the applicant the names and addresses of persons qualified to help effect a reconciliation.
+(2) This rule applies to an application for—
+(a)
+a divorce order made under section 1 of the 1973 Act(1);
+(b)
+a judicial separation order made under section 17 of the 1973 Act(2);
+(c)
+a dissolution order as mentioned in section 37(1)(a) of the 2004 Act(3); or
+(d)
+a separation order as mentioned in section 37(1)(d) of the 2004 Act.
+Limitation on applications in respect of same marriage or civil partnership
+7.4.—(1) Subject to paragraph (2), a person may not make more than one application for a matrimonial or civil partnership order in respect of the same marriage or civil partnership unless—
+(a)
+the first application has been dismissed or finally determined; or
+(b)
+the court gives permission.
+(2) Where a person—
+(a)
+has, within one year of the date of the marriage or civil partnership, made an application for a judicial separation order or separation order; and
+(b)
+then, after that one-year period has passed, wishes to apply for a divorce or a dissolution order,
+that person does not need the court’s permission to make the application referred to in sub-paragraph (b).
+Service of application
+7.5.—(1) After an application for a matrimonial or civil partnership order has been issued by the court, a copy of it must be served on any respondent.
+(Rule 6.5 provides for who is to serve an application for a matrimonial or civil partnership order; where the applicant serves the application, rule 6.6A and 6.41A provide a time limit of 28 days from the date of issue for taking the prescribed steps to serve the respondent.)
+(2) When the application is served on a respondent it must be accompanied by—
+(a)
+a form for acknowledging service; and
+(b)
+a notice of proceedings.
+(3) When the parties to the marriage or civil partnership have made a joint application for a matrimonial or civil partnership order (other than a nullity order) the court must send a copy of the notice of proceedings to both parties.
+Withdrawal of application before service
+7.6.  An application for a matrimonial or civil partnership order, made by one party to the marriage or civil partnership, may be withdrawn at any time before it has been served, by giving notice in writing to the court.
+What the respondent must do on receiving the application
+7.7.—(1) The respondent must file an acknowledgment of service within 14 days beginning with the date on which the application for a matrimonial or civil partnership order was served.
+(2) This rule is subject to rule 6.42 (which specifies how the period for filing an acknowledgment of service is calculated where the application is served out of the jurisdiction).
+(3) The acknowledgment of service must—
+(a)
+be signed by the respondent or the respondent’s legal representative;
+(b)
+include the respondent’s address for service; and
+(c)
+indicate whether or not the respondent intends to dispute the proceedings.
+(4) Where a notice of proceedings is sent to joint applicants under rule 7.5(3) each joint applicant must acknowledge receipt of the notice of proceedings within 14 days of receipt of such notice.
+(5) A respondent who wishes to dispute proceedings must file and serve an answer within 21 days beginning with the date by which the acknowledgment of service is required to be filed.
+(6) A respondent may file an answer even if the intention to do so was not indicated in the acknowledgment of service.
+CHAPTER 3
+STANDARD CASE
+Amending an application
+7.8.—(1) A party making an application for a matrimonial or civil partnership order may amend the application at any time before an application is made under rule 7.9(1) or (2).
+(2) Where an amendment to the application is made under paragraph (1)—
+(a)
+it must be served in accordance with rule 7.5; and
+(b)
+rule 7.7 applies.
+(3) Where an application has been made under rule 7.9(1) or (2), an amendment may not be made to an application except—
+(a)
+with the written consent of all the other parties; or
+(b)
+with the permission of the court.
+(4) Where paragraph (3) applies, the court may give directions as to—
+(a)
+the service of the amended application and the service of any accompanying documents;
+(b)
+the joining of any additional parties; and
+(c)
+the extent to which rule 7.7 must be complied with in respect of any amended application.
+(Practice Direction 7A contains information on amending applications.)
+Applications for conditional order
+7.9.—(1) An application may be made to the court for it to consider the making of a conditional order of divorce or dissolution in the proceedings at any time after the end of the period of 20 weeks from the date on which the application was issued provided that—
+(a)
+the time for filing the acknowledgment of service has expired and no party has filed an acknowledgement of service indicating an intention to dispute the proceedings; and
+(b)
+in any other case, the time for filing an answer to every application for a matrimonial or civil partnership order made in the proceedings has expired.
+(2) An application may be made to the court for it to consider the making of a conditional order of nullity of marriage or nullity, a judicial separation order or a separation order in the proceedings—
+(a)
+at any time after the time for filing the acknowledgment of service has expired, provided that no party has filed an acknowledgment of service indicating an intention to dispute the proceedings; and
+(b)
+in any other case, at any time after the time for filing an answer to every application for a matrimonial or civil partnership made in the proceedings has expired.
+(3) An application under paragraph (1) or (2) may be made—
+(a)
+by the applicant; or
+(b)
+in a joint application, by both parties; or
+(c)
+in a joint application that is to proceed as an application by one party only, by that party.
+(4) An application under this rule must be accompanied by a statement—
+(a)
+stating whether there have been any changes in the information given in the application;
+(b)
+confirming that, subject to any changes stated, the contents of the application are true; and
+(c)
+where the acknowledgment of service has been signed by the other party to the marriage or civil partnership, confirming that party’s signature on the acknowledgment of service.
+(5) A statement under paragraph (4) must be verified by a statement of truth.
+(6) A copy of the application made under paragraph (3)(c) must be served on the other party to the marriage or civil partnership.
+What the court will do on an application for a conditional order, a judicial separation or a separation order
+7.10.—(1) This rule applies where an application is made under rule 7.9(1) or (2).
+(2) If at the relevant time the case is a standard case, the court must—
+(a)
+if satisfied that the applicant is, or applicants are, entitled to—
+(i)
+in matrimonial proceedings, a conditional order or a judicial separation order (as the case may be); or
+(ii)
+in civil partnership proceedings, a conditional order or a separation order (as the case may be),
+so certify and direct that the application be listed before a judge for the making of that order at the next available date;
+(b)
+if not so satisfied, direct—
+(i)
+that any party to the proceedings provide such further information, or take such other steps, as the court may specify; or
+(ii)
+that the case be listed for a case management hearing.
+(3) If the applicant has applied for costs, the court may, on making a direction under paragraph (2)(a), make directions in the costs application.
+(4) The court may, when giving a direction under paragraph (2)(b), direct that the further information provided be verified by a statement of truth.
+(5) The court must not give directions under this rule unless at the relevant time it is satisfied—
+(a)
+that a copy of each application for a matrimonial or civil partnership order has been properly served on each party on whom it is required to be served; and
+(b)
+that—
+(i)
+in matrimonial proceedings, the application for a conditional order or a judicial separation order; or
+(ii)
+in civil partnership proceedings, the application for a conditional order or separation order,
+was made at a time permitted by rule 7.9(1) or (2).
+(6) In this rule, ‘the relevant time’ means the time at which the court is considering an application made under rule 7.9(1) or (2).
+(7) Where an order is made in accordance with a certificate under paragraph (2)(a), any person may, within 14 days after the making of the order, inspect the certificate and the statement filed under rule 7.9(4) and may obtain copies.
+What the court must do for the case management hearing
+7.11.—(1) At a hearing that has been directed under rule 7.10(2)(b)(ii), the court must—
+(a)
+consider what further evidence is required properly to dispose of the proceedings and give directions about the filing and service of such evidence;
+(b)
+give directions for the further conduct of the proceedings, including—
+(i)
+giving a direction that on compliance with any directions under sub-paragraph (a) a further application may be made under rule 7.9(1) or (2) for the proceedings to be dealt with under rule 7.10(2)(a); or
+(ii)
+giving a direction that the case is not suitable for determination under that rule.
+(2) Where the court gives a direction under paragraph (1)(b)(ii), it may also give directions under rule 7.17 or direct that the case be listed for a further hearing at which such directions will be given.
+(3) Any party to proceedings which are not being dealt with under rule 7.10(2)(a) may apply to the court for further directions at any time.
+(Part 4 sets out the court’s general case management powers.)
+CHAPTER 4
+DISPUTED CASE
+How the respondent can make an application
+7.12.—(1) Subject to rule 7.27—
+(a)
+a respondent may not make an application for a matrimonial or civil partnership order for the same relief in respect of the same marriage or civil partnership unless—
+(i)
+the first application has been dismissed or finally determined; or
+(ii)
+the court gives permission.
+(b)
+a respondent who wishes to make an application for a matrimonial or civil partnership order, other than an order for the same relief, must make the application for that order within 21 days beginning with the date by which the respondent’s acknowledgment of service is required to be filed, unless the court gives permission to make the application after that time has passed.
+(2) Where the respondent makes an application under this rule, that application is to be treated as an application in the same proceedings for the purposes of this Part.
+References to respondents
+7.13.  Where a respondent makes an application for a matrimonial order or a civil partnership order, unless the context otherwise requires, the rules in this Part shall apply with necessary modifications as if the reference to a respondent is a reference to the applicant in the other party’s application for a matrimonial order or a civil partnership order.
+Case management hearing
+7.14.  Where a respondent—
+(a)
+files an answer under rule 7.7(5);
+(b)
+obtains permission to file an application under 7.12(1)(a)(ii); or
+(c)
+files an application for a matrimonial or civil partnership order under rule 7.12(1)(b) or 7.24,
+the case must be listed for a case management hearing within 6 weeks of the date on which the answer is filed, or permission is granted, or the application is filed under rule 7.12(1)(b) or 7.24.
+Amendment of application and answer
+7.15.—(1) Unless paragraph (2) applies—
+(a)
+a party making an application for a matrimonial or civil partnership order may amend the application at any time before an answer to it has been filed;
+(b)
+a party who has filed an answer may amend the answer.
+(2) No amendment to an application for a matrimonial or civil partnership order or to an answer may be made under paragraph (1) if an application under rule 7.9(1) or (2) has been made in relation to the marriage or civil partnership concerned.
+(3) Where an amendment to the application is made under paragraph (1)—
+(a)
+it must be served in accordance with rule 7.5; and
+(b)
+rule 7.7 applies.
+(4) Where an answer has been filed, or an application has been made under rule 7.9(1) or (2), an amendment may not be made to an application except—
+(a)
+with the written consent of all the other parties; or
+(b)
+with the permission of the court.
+(5) Where an answer has been filed and an application has been made under rule 7.9(1) or (2), an amendment may not be made to the answer except—
+(a)
+with the written consent of all the other parties; or
+(b)
+with the permission of the court.
+(6) Where paragraph (4) or (5) applies, the court may give directions as to—
+(a)
+the service of the amended application or the amended answer and the service of any accompanying documents;
+(b)
+the extent to which rule 7.7 must be complied with in respect of any amended application.
+(Practice Direction 7A contains information regarding amending applications, making supplemental applications and making second (or further) applications.)
+Further information about the contents of the application and the answer
+7.16.—(1) The court may at any time order a party—
+(a)
+to clarify any matter which is in dispute in the proceedings; or
+(b)
+to give additional information in relation to any such matter,
+whether or not the matter is contained or referred to in the application for a matrimonial or civil partnership order, acknowledgment of service or in the answer.
+(2) Paragraph (1) is subject to any rule of law to the contrary.
+(3) Where the court makes an order under paragraph (1), the party against whom it is made must—
+(a)
+file the reply to the order made under paragraph (1); and
+(b)
+serve a copy of it on each of the other parties,
+within the time specified by the court.
+(4) The court may direct that information provided by a party to another party (whether given voluntarily or following an order made under paragraph (1)) must not be used for any purpose except for the proceedings in which it is given.
+What the court must do for the case management hearing
+7.17.—(1) This rule applies to a case in which the court has listed a case management hearing under rule 7.14.
+(2) At a hearing which has been listed under rule 7.14 the court must—
+(a)
+decide where the hearing in the case should take place;
+(b)
+set a timetable for the filing and service of evidence;
+(c)
+make such order for the disclosure and inspection of documents as it considers appropriate; and
+(d)
+give directions as to the conduct of the final hearing and the attendance of witnesses.
+(Rule 21.1 explains what is meant by disclosure and inspection.)
+(3) Any party to proceedings which are not being dealt with under rule 7.10(2)(a) may apply to the court for further directions at any time.
+(Part 3 sets out the court’s powers to encourage the parties to use non-court dispute resolution and Part 4 sets out the court’s general case management powers.)
+CHAPTER 5
+PROCEEDINGS AFTER CONDITIONAL ORDER (STANDARD AND DISPUTED CASE)
+Applications to prevent conditional orders being made final
+7.18.—(1) This rule applies to an application under section 8 or 9 of the 1973 Act(4) or under section 39 or 40 of the 2004 Act (5) to prevent a conditional order being made final.
+(2) An application to which this rule applies must be made using the Part 18 procedure, subject to paragraphs (3) to (6) of this rule.
+(3) The person making an application to which this rule applies must within 28 days of filing the application apply to the court to give directions for the hearing of the application.
+(4) Where the person making an application to which this rule applies does not apply for directions under paragraph (3), then the person, or persons, in whose favour the conditional order was made may do so.
+(5) Rule 7.17(2) applies to an application to which this rule applies as it applies to an application for a matrimonial or civil partnership order.
+(6) Where an application to which this rule applies is made by the Queen’s Proctor—
+(a)
+the Queen’s Proctor may give written notice, to the court and to the party or parties in whose favour the conditional order was made, of the Queen’s Proctor’s intention to make an application to prevent conditional order being made final; and
+(b)
+where the Queen’s Proctor does so the application under paragraph (1) must be made within 21 days beginning with the date on which the notice is given.
+Making conditional orders final by giving notice
+7.19.—(1) Unless rule 7.20 applies —
+(a)
+a party in whose favour a conditional order has been made may give notice to the court that they wish the conditional order to be made final;
+(b)
+both parties in whose favour a conditional order has been made may jointly give notice to the court that they wish the conditional order to be made final; or
+(c)
+subject to paragraph (2) below, where the conditional order is in favour of both parties, but the application is to proceed as a notice by one party only, that party may give notice to the court that they wish the conditional order to be made final.
+(2) The party giving notice to the court under paragraph (1)(c) must first give the other party to the marriage or civil partnership 14 days’ notice of their intention to give notice to the court that they wish the conditional order to be made final.
+(3) The party giving notice under paragraph (2) must file a certificate of service after serving the notice.
+(4) Subject to paragraphs (5) and (6), where the court receives a notice under paragraph (1) it will make the conditional order final if it is satisfied that—
+(a)
+no application for rescission of the conditional order is pending;
+(b)
+no appeal against the making of the conditional order is pending;
+(c)
+no order has been made by the court extending the time for bringing an appeal of the kind mentioned in sub-paragraph (b), or if such an order has been made, that the time so extended has expired;
+(d)
+no application for an order of the kind mentioned in sub-paragraph (c) is pending;
+(e)
+no application to prevent the conditional order being made final is pending;
+(f)
+the provisions of section 10(2) to (4) of the 1973 Act(6) or section 48(2) to (4) of the 2004 Act(7) do not apply or have been complied with;
+(g)
+any order under section 10A(2) of the 1973 Act(8) has been complied with; and
+(h)
+where the conditional order was made on the ground in section 12(1)(g) of, or paragraph 11(1)(e) of Schedule 1 to, the 1973 Act(9), or was made under section 12A(3) of the 1973 Act(10) in a case where section 12(1)(g) of the 1973 Act applies, or the conditional order was made under section 50(1)(d) of the 2004 Act—
+(i)
+there is not pending a reference under section 8(5) of the Gender Recognition Act 2004(11), or an application under section 8(5A) of that Act(12), in respect of the application on which the interim gender recognition certificate to which the application relates was granted;
+(ii)
+that interim certificate has not been revoked under section 8(6)(b) of that Act; and
+(iii)
+no appeal is pending against an order under section 8(6)(a) of that Act.
+(5) Where the notice is received more than 12 months after the making of the conditional order, it must include or be accompanied by an explanation in writing stating why the application has not been made earlier.
+(6) Where paragraph (5) applies, the court may—
+(a)
+require the applicant to verify the explanation with a statement of truth; and
+(b)
+make such order on the application as it thinks fit, but where it orders the conditional order to be made final that order is not to take effect until the court is satisfied that none of the matters mentioned in paragraph (4)(a) to (h) applies.
+Applications to make conditional orders final
+7.20.—(1) An application must be made for the conditional order to be made final, where the conditions set out in paragraph (2) apply.
+(2) The conditions referred to in paragraph (1) are—
+(a)
+the Queen’s Proctor gives notice to the court under rule 7.18(6)(a) and has not withdrawn that notice;
+(b)
+there are other circumstances which ought to be brought to the attention of the court before the application is granted; or
+(c)
+the application is made by the party against whom the conditional order was made.
+(3) An application under this rule to which paragraph (2)(a) applies must be served on the Queen’s Proctor.
+(4) Where the court orders a conditional order to be made final under this rule, that order is not to take effect until the court is satisfied about the matters mentioned in rule 7.19(4)(a) to (h).
+What the court officer must do when a conditional order is made final
+7.21.  Where a conditional order is made final the court officer must—
+(a)
+endorse that fact on the conditional order together with the precise time at which the order was made final; and
+(b)
+send the final order to the applicant or applicants, any respondent and any other party.
+Applications under section 10(2) of 1973 Act or section 48(2) of 2004 Act
+7.22.  Where the court makes—
+(a)
+in the case of divorce, a final order following an application under section 10(2) of the 1973 Act; or
+(b)
+in the case of dissolution, a final order following an application under section 48(2) of the 2004 Act,
+it must make a written record of the reasons for deciding to make that final order.
+Orders under section 10A(2) of the 1973 Act
+7.23.—(1) Where the court has made an order under section 10A(2) of the 1973 Act, the declaration referred to in that section must—
+(a)
+be made and signed by both parties to the marriage concerned;
+(b)
+give particulars of the proceedings in which the order was obtained;
+(c)
+confirm that the steps required to dissolve the marriage in accordance with the religious usages appropriate to the parties have been taken;
+(d)
+be accompanied by—
+(i)
+a certificate from a relevant religious authority that all such steps have been taken; or
+(ii)
+such other documents showing the relevant steps have been taken as the court may direct; and
+(iii)
+be filed at the court either before or together with an application to make the conditional order final, under rule 7.19 or 7.20.
+(2) Where the certificate referred to in paragraph (1)(d)(i) is not in English it must be accompanied by a translation of that certificate into English, certified by a notary public or authenticated by statement of truth.
+(3) The court may direct that the declaration need not be accompanied by the material mentioned in paragraph (1)(d).
+(4) In this rule a religious authority is ‘relevant’ if the party who made the application for the order under section 10A(2) of the 1973 Act considers that authority competent to confirm that the steps referred to in paragraph (1)(c) have been taken.
+CHAPTER 6
+PROVISIONS SPECIFIC TO NULLITY PROCEEDINGS
+Respondent to nullity application
+7.24.—(1) A respondent to a nullity application who wishes to make an application for a matrimonial or civil partnership order must make the application for that order within 21 days beginning with the date by which the respondent’s acknowledgment of service is required to be filed, unless the court gives permission to make the application after that time has passed.
+(2) Where the respondent makes an application under this rule, that application is to be treated as an application in the same proceedings for the purposes of this Part.
+Supplemental applications
+7.25.  In nullity proceedings rule 7.8 and 7.15 apply to supplemental applications as they apply to amended applications.
+Nullity: interim and full gender recognition certificates
+7.26.—(1) Where the application is for—
+(a)
+nullity of marriage under section 12(1)(g) of, or paragraph 11(1)(e) of Schedule 1 to, the 1973 Act;
+(b)
+nullity of marriage under section 12A(3) of the 1973 Act in a case where section 12(1)(g) of the 1973 Act applies; or
+(c)
+an order of nullity of civil partnership under section 50(1)(d) of the 2004 Act,
+the court officer must send to the Secretary of State a notice in writing that the application has been made.
+(2) Where a copy of an interim gender recognition certificate has been filed with the application, that certificate must be attached to the notice.
+(3) Where no copy of an interim gender recognition certificate has been filed the notice must also state—
+(a)
+in matrimonial proceedings—
+(i)
+the names of the parties to the marriage and the date and place of the marriage, and
+(ii)
+the last address at which the parties to the marriage lived together as a married couple;
+(b)
+in civil partnership proceedings—
+(i)
+the names of the parties to the civil partnership and the date on, and the place at which, the civil partnership was formed, and
+(ii)
+the last address at which the parties to the civil partnership lived together as civil partners of each other; and
+(c)
+in either case, such further particulars as the court officer considers appropriate.
+(4) Where—
+(a)
+the application is for—
+(i)
+a nullity of marriage order under section 12(1)(h) of the 1973 Act(13);
+(ii)
+a nullity of marriage order under section 12A(3) of the 1973 Act in a case where section 12(1)(h) of the 1973 Act applies; or
+(iii)
+an order of nullity of civil partnership under section 50(1)(e) of the 2004 Act; and
+(b)
+a full gender recognition certificate has been issued to the respondent,
+the applicant must file a copy of that full certificate with the application unless the court, on an application made without notice, directs otherwise.
+(In relation to paragraphs (1)(b), (3)(a) and (4)(a)(ii), section 9(6) of the Marriage (Same Sex Couples) Act 2013(14) provides that where a civil partnership is converted into a marriage, the civil partnership ends on the conversion, and the resulting marriage is to be treated as having subsisted since the date the civil partnership was formed.)
+Nullity: filing an answer
+7.27.—(1) Paragraph (2) applies where—
+(a)
+the application is for—
+(i)
+nullity of marriage under section 12(1)(d) of the 1973 Act;
+(ii)
+nullity of marriage under section 12A(3) of the 1973 Act in a case where section 12(1)(d) of the 1973 Act applies; or
+(iii)
+nullity of civil partnership under section 50(1)(b) of the 2004 Act; and
+(b)
+the respondent files an answer containing no more than a simple denial of the facts stated in the application.
+(2) The respondent must, if intending to rebut the matters stated in the application, give notice to the court of that intention when filing the answer.
+(The form of the answer is referred to in Practice Direction 5A.)
+(In relation to paragraph (1)(a)(ii), section 9(6) of the Marriage (Same Sex Couples) Act 2013 provides that where a civil partnership is converted into a marriage, the civil partnership ends on the conversion, and the resulting marriage is to be treated as having subsisted since the date the civil partnership was formed.)
+Nullity – inspection of certificate of entitlement
+7.28.  Rule 7.10(7) does not apply to a certificate which relates to—
+(a)
+a nullity of marriage order under section 12(1)(g) of, or paragraph 11(1)(e) of Schedule 1 to, the 1973 Act;
+(b)
+a nullity of marriage order under section 12A(3) of the 1973 Act in a case where section 12(1)(g) of the 1973 Act applies; or
+(c)
+an order for nullity of civil partnership under section 50(1)(d) of the 2004 Act,
+unless the court has given permission.
+Medical examinations in proceedings for nullity of a marriage of an opposite sex couple
+7.29.—(1) Where the application is for a nullity of marriage order of an opposite sex couple on the ground of incapacity to consummate or wilful refusal to do so, the court must determine whether medical examiners should be appointed to examine the parties or either of them.
+(2) The court must only appoint medical examiners under paragraph (1) where it considers that it is necessary for the proper disposal of the case.
+(3) The person to be examined must, in the presence of the medical examiner, sign a statement identifying that person as the party to whom the order for examination applies.
+(4) The medical examiner must certify on the same statement that it was signed in his or her presence by the person who has been examined.
+(5) The person who carries out the examination must prepare a report and file it with the court by the date directed by the court.
+(6) Either party is entitled to see a copy of a report filed under paragraph (5).
+CHAPTER 7
+GENERAL PROVISIONS
+General rule – hearing to be in public
+7.30.—(1) The general rule is that a hearing to which this Part applies is to be in public.
+(2) The requirement for a hearing to be in public does not require the court to make special arrangements for accommodating members of the public.
+(3) A hearing, or any part of it, may be in private if—
+(a)
+publicity would defeat the object of the hearing;
+(b)
+it involves matters relating to national security;
+(c)
+it involves confidential information (including information relating to personal financial matters) and publicity would damage that confidentiality;
+(d)
+a private hearing is necessary to protect the interests of any child or protected party;
+(e)
+it is a hearing of an application made without notice and it would be unjust to any respondent for there to be a public hearing; or
+(f)
+the court considers this to be necessary, in the interests of justice.
+(4) A hearing of an application for rescission of an order by consent under rule 7.34 is, unless the court directs otherwise, to be in private.
+(5) The court may order that the identity of any party or witness must not be disclosed if it considers non-disclosure necessary in order to protect the interests of that party or witness.
+Notice of hearing
+7.31.  The court officer will give notice to the parties—
+(a)
+of the date, time and place of every hearing which is to take place in a case to which they are a party; and
+(b)
+in the case of a hearing following a direction under rule 7.10(2)(a), of the fact that, unless the person wishes or the court requires, the person need not attend.
+Further provisions about costs
+7.32.—(1) In a disputed case any party to matrimonial or civil partnership proceedings may be heard on any question as to costs at the hearing of the proceedings.
+(2) In a standard case, any application for costs should be made using the Part 18 procedure.
+Stay of proceedings
+7.33.—(1) Where—
+(a)
+the court is considering an application in accordance with rule 7.10 or gives directions under rule 7.11 or 7.17;
+(b)
+it appears to the court that there are proceedings continuing in any country outside England and Wales which are in respect of the marriage or civil partnership in question or which are capable of affecting its validity or subsistence; and
+(c)
+the court considers that the question whether the proceedings should be stayed under paragraph 9 of Schedule 1 to the Domicile and Matrimonial Proceedings Act 1973(15) or, for civil partnership proceedings, under rules made under sections 75 and 76 of the Courts Act 2003(16) ought to be determined by the court,
+the court must give directions for the hearing of that question.
+(2) The court may, if all parties agree, deal with any question about the jurisdiction of the court without a hearing.
+(3) For the purposes of paragraph 5 of Schedule 1 to the Domicile and Matrimonial Proceedings Act 1973—
+(a)
+proceedings in another jurisdiction shall include such proceedings which are not instituted in a court of that jurisdiction, if they are instituted before a tribunal or other authority having power under the law having effect there to determine questions of status; and
+(b)
+proceedings which are continuing in another jurisdiction are proceedings which have been begun and have not been finally disposed of.
+The circumstances in which an order may be set aside (rescission)
+7.34.  Either party to the marriage or civil partnership concerned may apply—
+(a)
+after the conditional order has been made but before it has been made final; or
+(b)
+after a judicial separation order or separation order has been made,
+for the rescission of the order on the grounds that the parties are reconciled and both consent to the rescission.
+Records of decrees absolute and final orders
+7.35.—(1) A central index of decrees absolute and final orders must be kept under the control of the principal registry.
+(2) Any person may require a search to be made of that index and to be provided with a certificate showing the results of that search.
+(3) Any person who requests it must be issued with a copy of the decree absolute or final order.”
+(1)
+The Matrimonial Causes Act 1973 (c. 18), as defined in rule 2.3(1) of the FPR. Section 1 has been amended by section 1 of the Divorce, Dissolution and Separation Act 2020.
+(2)
+Section 17(2) was amended by section 17(4) of the Children and Families Act 2014 (c. 6). Section 17 has been amended by section 2 of the Divorce, Dissolution and Separation Act 2020.
+(3)
+The Civil Partnership Act 2004 (c. 33), as defined in rule 2.3(1) of the FPR.
+(4)
+Section 8 has been amended by paragraphs 1 and 8 of Part 1 of the Schedule to the Divorce, Dissolution and Separation Act 2020. Section 9 has been amended by paragraphs 1 and 9 of Part 1 of the Schedule to the Divorce, Dissolution and Separation Act 2020.
+(5)
+Section 40 has been amended by paragraphs 34 and 35 of Part 2 of the Schedule to the Divorce, Dissolution and Separation Act 2020.
+(6)
+Sections 10(2) and (4) have been amended by paragraphs 1 and 10(c) and (d) of Part 1 of the Schedule to the Divorce, Dissolution and Separation Act 2020.
+(7)
+Section 48 has been amended by paragraphs 34 and 41 of Part 2 of the Schedule to the Divorce, Dissolution and Separation Act 2020.
+(8)
+Section 10A(2) was inserted by section 1 of the Divorce (Religious Marriages) Act 2002 (c. 27) and has been amended by paragraphs 1 and 11(c) of Part 1 of the Schedule to the Divorce, Dissolution and Separation Act 2020.
+(9)
+Section 12(1)(g) was inserted by paragraphs 1 and 2 of Part 1 of Schedule 2 to the Gender Recognition Act 2004 (c. 7). Paragraph 11(1)(e) of Part 1 of Schedule 1 was inserted by paragraphs 1 and 4(2) of Part 1 of Schedule 2 to the Gender Recognition Act 2004.
+(10)
+Section 12A was inserted by S.I. 2014/3168.
+(11)
+2004 c. 7. Section 8(5) was amended by paragraphs 1 and 8(b) of Part 1 of Schedule 5 to the Marriage (Same Sex Couples Act) 2013 (c. 30) and section 250(1) and (5)(b) of the Civil Partnerships Act 2004 and paragraph 160 of Part 1 of Schedule 11 to the Crime and Courts Act 2013 (c. 22).
+(12)
+Section 8(5A) was inserted by paragraphs 1 and 8(c) of Part 1 of Schedule 5 to the Marriage (Same Sex Couples Act) 2013 and amended by S.I. 2019/1458.
+(13)
+Section 12(1)(h) was inserted by paragraphs 4 and 5 of Part 1 of Schedule 4 to the Gender Recognition Act 2004.
+(14)
+2013 c. 30.
+(15)
+1973 c. 45. Paragraph 9(1) of Schedule 1 was amended by S.I. 2019/519.
+(16)
+Section 76(2A) was inserted by section 62(7) of the Children Act 2004 (c. 31). Section 76(1) was amended by paragraph 29 of Part 2 of Schedule 1 to the Constitution Reform Act 2005. Section 76(2)(a) and (aa) was amended by paragraphs 25 and 34(a) and (b) of Part 1 of the Schedule to the Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33). Section 76(2)(b) and (3) was been amended by paragraphs 83 and 92(1), (2)(b) and (3) of Part 2 of Schedule 10 to the Crime and Courts Act 2013.EXPLANATORY NOTE
+(This note is not part of the Rules)
+These Rules amend the Family Procedure Rules 2010 (“the FPR”) (S.I. 2010/2955) to give procedural effect to the revised legislative framework brought about by the Divorce, Dissolution and Separation Act 2020 (“DDSA 2020”).
+Rules 3, 23, 24 and 25 reflect changes to language made by the DDSA 2020. Associated and consequential amendments from the insertion of the new Part 7 into the FPR are also made by rules 24, 25, 26 and 27.
+Rule 4 inserts a new rule 3A.13 into the FPR which enables a practice direction to make provision about the prohibition of cross-examination in person under Part 4B of the 1984 Act.
+Rule 5 inserts a new rule 5.8 into the FPR which enables provision to be made in a practice direction in relation to the bulk scanning of documents that are to be sent to the court.
+Rules 6 to 20 amend Part 6 of the FPR in respect of service of the application for a matrimonial or civil partnership order within the jurisdiction. Rule 8 amends rule 6.5 of the FPR concerning who can serve, and be served with, an application. Rule 10 inserts a new rule 6.6A into the FPR to deal with the time for serving an application by the applicant and a new rule 6.6B into the FPR to deal with applications for an extension of time to serve the application. Rule 11 inserts a new rule 6.7A into the FPR to enable email service of the application on the respondent. Rule 17(b) omits rule 6.16(2) of the FPR to reflect the removal of the need for the applicant to satisfy the court of “conduct” or “separation” facts in order to establish irretrievable breakdown of the marriage or civil partnership. Rules 6 to 19 also make amendments to Part 6 of the FPR which are consequential on the insertions made to Part 6 and the insertion of a new Part 7 to the FPR. Rule 20 inserts a new rule 6.21A into the FPR to deal with situations where the court fails to serve the applicant the application by email.
+Rule 21 inserts a new rule 6.41A into the FPR to deal with the time for serving an application for a matrimonial or civil partnership order outside the jurisdiction and a new rule 6.41B into the FPR to deal with applications for an extension of time to serve the application outside the jurisdiction.
+Rule 22 substitutes for Part 7 of the FPR a new Part 7 to reflect the statutory changes made by the DDSA 2020. The new Part 7 FPR prescribes procedures to be followed, depending on the type of proceedings, including proceedings where a joint application is made. Part 7 FPR also deals with the listing of case management hearings in disputed cases and reflects changes to language made by the DDSA 2020.
+Rule 28 amends rules 30.3, 30.4 and 30.5 to make it clear that an application to the lower court for permission to appeal may be made not only at the hearing at which the decision to be appealed is made, but also, if that hearing is adjourned to a later date, at the hearing on that later date.
+Rule 29 makes transitional provisions.
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.

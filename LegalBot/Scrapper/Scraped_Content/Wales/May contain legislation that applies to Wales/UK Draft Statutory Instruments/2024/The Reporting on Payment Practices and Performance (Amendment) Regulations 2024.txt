@@ -1,0 +1,82 @@
+Draft Regulations laid before Parliament under sections 3(9) and 161(4) of the Small Business, Enterprise and Employment Act 2015 (c. 26) and section 17(4) of the Limited Liability Partnerships Act 2000 (c. 12), for approval by resolution of each House of Parliament.
+DRAFT STATUTORY INSTRUMENTS
+2024 No.
+COMPANIES
+CONTRACTS
+LIMITED LIABILITY PARTNERSHIPS
+The Reporting on Payment Practices and Performance (Amendment) Regulations 2024
+Made
+Coming into force in accordance with regulation 1(2)
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 3(1) and (4) and 161(2) of the Small Business, Enterprise and Employment Act 2015(1) and sections 15 and 17(3) of the Limited Liability Partnerships Act 2000(2).
+In accordance with section 3(8) of the Small Business, Enterprise and Employment Act 2015, the Secretary of State has consulted such persons as the Secretary of State considered appropriate.
+In accordance with sections 3(9) and 161(4) of the Small Business, Enterprise and Employment Act 2015 and section 17(4) of the Limited Liability Partnerships Act 2000, a draft of these Regulations has been laid before Parliament and approved by a resolution of each House of Parliament.
+(1)
+2015 c.26.
+(2)
+2000 c.12.Citation, commencement, extent and application
+1.—(1) These Regulations may be cited as the Reporting on Payment Practices and Performance (Amendment) Regulations 2024.
+(2) These Regulations come into force on 5th April 2024.
+(3) The amendments made by regulation 2(4) apply in relation to each financial year of a company beginning on or after 1st January 2025.
+(4) These Regulations extend to England and Wales, Scotland and Northern Ireland.Amendment to the Reporting on Payment Practices and Performance Regulations 2017
+2.—(1) The Reporting on Payment Practices and Performance Regulations 2017(1) are amended as follows.
+(2) In regulation 1 (citation and commencement), in paragraph (3), for “6th April 2024” substitute “6th April 2031”.
+(3) In regulation 11 (review), in paragraph (1), for “6th April 2022” substitute “6th April 2029”.
+(4) In the Schedule (information)—
+(a)
+in paragraph 9, after sub-paragraph (b) insert—
+“(c) the sum total of those payments which were made, where day 1 is the first day after the relevant day—
+(i)
+within the period beginning on day 1 and ending with day 30;
+(ii)
+within the period beginning on day 31 and ending with day 60;
+(iii)
+on or after day 61.”;
+(b)
+after paragraph 10, insert—
+“10A.  In relation to the payments under qualifying contracts that fall due within the reporting period, a statement of the sum total of these payments which were not made within the payment period.
+10B.  In relation to the payments under qualifying contracts that fall due within the reporting period, a statement of the percentage of these payments which were not made within the payment period as a result of a dispute.”;
+(c)
+in paragraph 13, after the definition of “average” insert—
+““finance provider” means a body corporate that—
+(a)
+lends money or provides credit in the course of a business,
+(b)
+arranges or facilitates the provision of debt or equity finance in the course of a business, or
+(c)
+provides, arranges or facilitates invoice discounting or factoring in the course of a business;
+“invoiced sum” means a sum payable under an invoice;”;
+(d)
+for paragraph 14, substitute—
+“14.  For the purposes of this Schedule—
+(a)
+a payment falls due on the last day of the payment period;
+(b)
+subject to sub-paragraph (d), a payment is made—
+(i)
+when it is received by the supplier, unless sub-paragraph (c) applies, or
+(ii)
+where sub-paragraph (c) applies, when it is received by the finance provider from the qualifying company;
+(c)
+this sub-paragraph applies if there is an arrangement under which—
+(i)
+the supplier receives part payment of an invoiced sum from a finance provider before the end of the payment period; and
+(ii)
+the qualifying company pays the invoiced sum to the finance provider;
+(d)
+where there is any delay in the payment or any part of the payment being received for which the qualifying company is not responsible, the payment is deemed to have been made when it would have been received without that delay.”.
+(1)
+S.I. 2017/395.Amendment to the Limited Liability Partnerships (Reporting on Payment Practices and Performance) Regulations 2017
+3.—(1) The Limited Liability Partnerships (Reporting on Payment Practices and Performance) Regulations 2017(1) are amended as follows.
+(2) In regulation 1 (citation and commencement), in paragraph (3), for “6th April 2024” substitute “6th April 2031”.
+(3) In regulation 11 (review), in paragraph (1), for “6th April 2022” substitute “6th April 2029”.
+(1)
+S.I. 2017/425.(L.S)
+Name
+Title
+Department for Business and TradeEXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the Reporting on Payment Practices and Performance Regulations 2017 (“the Principal Regulations”) (S.I. 2017/395) and the Limited Liability Partnerships (Reporting on Payment Practices and Performance) Regulations 2017 (“the LLP Regulations”) (S.I. 2017/425).
+Regulations 2(2) and 3(2) amend the expiry date of the Principal Regulations and the LLP Regulations and provide that those Regulations are to cease to have effect on 6th April 2031.
+Regulations 2(3) and 3(3) amend the date on which the Secretary of State is required to review the operation and effect of the Principal Regulations and the LLP Regulations and require a review to be completed by 6th April 2029.
+Regulation 2(4) amends the Schedule to the Principal Regulations which sets out the information that a qualifying company is required to publish in relation to each reporting period. The amendments include requirements on qualifying companies to publish information on the sum total of payments which are not made within a payment period and to report on the percentage of payments that are not paid within a period due to a dispute. The Schedule has also been amended to take into account arrangements involving a finance provider.
+A full impact assessment of the effect that this instrument will have on the costs of business, the voluntary sector and the public sector is available and is published with the Explanatory Memorandum alongside this instrument. A hard copy may be obtained from the Department for Business and Trade, Old Admiralty Building, London SW1A 2DY.

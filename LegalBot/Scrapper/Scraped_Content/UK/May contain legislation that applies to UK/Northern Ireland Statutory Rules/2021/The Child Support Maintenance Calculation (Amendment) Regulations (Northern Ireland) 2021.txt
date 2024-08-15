@@ -1,0 +1,49 @@
+STATUTORY RULES OF NORTHERN IRELAND
+2021 No. 188
+FAMILY LAW
+CHILD SUPPORT
+The Child Support Maintenance Calculation (Amendment) Regulations (Northern Ireland) 2021
+Made
+28th June 2021
+Coming into operation
+19th July 2021
+The Department for Communities makes the following Regulations in exercise of the powers conferred by Article 3(1)(b) of the Child Support (Northern Ireland) Order 1991(1) and section 138(2)(b) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992(2), and now vested in it(3).
+(1)
+S.I. 1991/2628 (N.I. 23).
+(2)
+1992 c. 7. Section 138 was substituted by section 2(2) of the Child Benefit Act 2005 (c. 6)
+(3)
+See Article 8(b) of S.R. 1999 No. 481 and Section 1(7) of the Departments Act (Northern Ireland) 2016 (c.5 (N.I.))Citation and commencement
+1.  These Regulations may be cited as the Child Support Maintenance Calculation (Amendment) Regulations (Northern Ireland) 2021 and shall come into operation on 19th July 2021.Amendment of the Child Support Maintenance Calculation Regulations
+2.—(1) The Child Support Maintenance Calculation Regulations (Northern Ireland) 2012(1) are amended in accordance with paragraph (2).
+(2) In regulation 75 (meaning of “child” for the purposes of the Child Support Order)—
+(a)
+the existing text shall be paragraph (1);
+(b)
+at the beginning of paragraph (1) for “The prescribed” substitute “Subject to paragraphs (2) and (3), the prescribed”; and
+(c)
+after paragraph (1) insert—
+“(2) A person does not satisfy the condition referred to in paragraph (1) where the person is—
+(a)
+engaged in remunerative work in any week during a prescribed period; or
+(b)
+in receipt of other financial support in any week.
+(3) Case 2.1(b)(i) in regulation 7(2) (qualifying young person: terminal dates) of the Child Benefit (General) Regulations 2006(2) (the “2006 Regulations”) is to be read as if at the beginning, there were inserted “the week in which”.
+(4) In this regulation—
+“other financial support” means any of the types of financial support specified in regulation 8(2) (child benefit not payable in respect of a qualifying young person: other financial support) of the 2006 Regulations;
+“prescribed period” is the period found in accordance with cases 1 and 2 of regulation 7(2) of the 2006 Regulations (as modified in respect of case 2.1(b)(i) by paragraph (3) of this regulation);
+“remunerative work” has the meaning given in regulation 1(3) (citation, commencement and interpretation) of the 2006 Regulations
+“week” has the meaning given in the 2006 Regulations.”.
+(1)
+S.R. 2012 No. 427
+(2)
+S.I. 2006/223Sealed with the Official Seal of the Department for Communities on 28th June 2021
+(L.S.)
+Anne McCleary
+A senior officer of the Department for CommunitiesEXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the Child Support Maintenance Calculation Regulations (Northern Ireland) 2012 (S.R. 2012 No. 427) by inserting regulations 75(2) to (4). Regulation 75(1) (as renumbered by these Regulations) sets out the condition for a person who has reached the age of 16 and is under the age of 20 to fall within the definition of “child” for the purposes of the Child Support (Northern Ireland) Order 1991 (the “1991 Order”). Regulation 75(1) states that such a person must be a “qualifying young person” as defined in section 138(2) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992.
+The effect of inserted regulation 75(2)(a) is that a person who is in paid work, or working in expectation of payment, (“remunerative work”) in any week in the “prescribed period” is not a “qualifying young person” and, therefore, is not a “child” for the purposes of the 1991 Order. The person is not, therefore, the subject of child support.
+The “prescribed period” is defined in regulation 7(2) of the Child Benefit (General) Regulations 2006 (“the 2006 Regulations”). It is the period of time between a person leaving relevant education or approved training and the applicable terminal date, or their 20th birthday, whichever is sooner. There are four terminal dates which are: the last day of February, May, August and November.
+The effect of inserted regulation 75(2)(b) and (4) is that a person who is in receipt of the benefits and credits mentioned in regulation 8(2) of the 2006 Regulations does not satisfy the condition of being a “qualifying young person” and therefore is not a “child” for the purposes of the 1991 Order. The person is not the subject of child support.
+Where a person is entered for exams, inserted regulation 75(3) provides that the prescribed period ends in “the week in which” the applicable terminal date falls. After the prescribed period ends, the person is no longer a “child” and is not the subject of child support.

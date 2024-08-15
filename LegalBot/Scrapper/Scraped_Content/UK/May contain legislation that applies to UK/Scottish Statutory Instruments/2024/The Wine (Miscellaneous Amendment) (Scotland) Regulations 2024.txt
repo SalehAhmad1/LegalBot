@@ -1,0 +1,220 @@
+SCOTTISH STATUTORY INSTRUMENTS
+2024 No. 11
+AGRICULTURE
+FOOD
+The Wine (Miscellaneous Amendment) (Scotland) Regulations 2024
+Made
+16th January 2024
+Coming into force
+15th July 2024
+The Scottish Ministers make the following Regulations in exercise of the power conferred by section 9(1) of the Agriculture (Retained EU Law and Data) (Scotland) Act 2020(1) and all other powers enabling them to do so.
+In accordance with section 9(5) of the Agriculture (Retained EU Law and Data) (Scotland) Act 2020, the Scottish Ministers have consulted such persons as they consider are representative of the interests of persons likely to be affected by the Regulations as they consider appropriate.
+There has been consultation as required by Article 9 of Regulation (EC) No 178/2002 of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety(2).
+In accordance with section 9(4) of the Agriculture (Retained EU Law and Data) (Scotland) Act 2020 a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
+(1)
+2020 asp 17.
+(2)
+EUR 2002/178, relevantly amended by S.I. 2019/641.Citation and commencement
+1.  These Regulations may be cited as the Wine (Miscellaneous Amendment) (Scotland) Regulations 2024 and come into force on 15 July 2024.Commission Delegated Regulation (EU) 2019/33
+2.  In Commission Delegated Regulation (EU) 2019/33 of 17 October 2018 supplementing Regulation (EU) No1308/2013 of the European Parliament and of the Council as regards applications for protection of designations of origin, geographical indications and traditional terms in the wine sector, the objection procedure, restrictions of use, amendments to product specifications, cancellation of protection, and labelling and presentation(1), in Article 53, after paragraph 6 insert—
+“7.  No person may market a product in Scotland using a term mentioned in paragraph 8 unless the product is a wine made exclusively from grapes naturally frozen on the vine.
+8.  The terms referred to in paragraph 7 are:
+(a)
+“ice wine”;
+(b)
+“icewine”;
+(c)
+“ice-wine”;
+(d)
+a term similar to a term mentioned in point (a), (b) or (c);
+(e)
+a term having the same meaning as a term mentioned in point (a), (b) or (c) in a language other than English;
+(f)
+a term having a similar meaning to a term mentioned in point (a), (b) or (c) in a language other than English.”.
+(1)
+EUR 2019/33, relevantly amended by S.I. 2020/1637.Commission Delegated Regulation (EU) 2019/934
+3.—(1) Commission Delegated Regulation (EU) 2019/934 of 12 March 2019 supplementing Regulation (EU) No1308/2013 of the European Parliament and of the Council as regards wine-growing areas where the alcoholic strength may be increased, authorised oenological practices and restrictions applicable to the production and conservation of grapevine products, the minimum percentage of alcohol for by-products and their disposal, and publication of OIV files(1) is amended as follows.
+(2) In Article 1a(2)—
+(a)
+number the existing paragraph as paragraph (1),
+(b)
+after paragraph (1) (as re-numbered by sub-paragraph (a)) insert—
+“(2) In this Regulation, insofar as it relates to the use of oenological practices in Scotland, “OIV Code of Oenological Practices” means the 2023 issue of the International Code of Oenological Practices published by the International Organisation of Vine and Wine in Dijon in France in January 2023 (ISBN 978-2-85038-071-6).”.
+(3) Part A of Annex 1 is amended in accordance with paragraphs (4), (5) and (6).
+(4) After the heading of Part A and before the heading of Table 1 insert—
+“In this Part, insofar as it relates to the use of oenological practices in Scotland, “OIV Codex” and “International Oenological Codex” mean the 2023 issue of the International Oenological Codex published by the International Organisation of Vine and Wine in Paris in January 2023 (ISBN 978-2-85038-063-1).”.
+(5) In Table 1 (authorised oenological processes as referred to in Article 3(1))—
+(a)
+in the header row, in the third column numbered 2, at the end insert “(including any geographic limitations)”,
+(b)
+after the row numbered 2 insert—
+“2a
+Cold treatments
+(Scotland)
+For use in Scotland for fresh grapes and the products defined in points (1) to (12) (inclusive), (15) and (16) of Part 2 of Annex 7 to Regulation (EU) No1308/2013(3).
+Subject to the conditions set out in:
+(a) point 1(c) of Section B of Part 1 of Annex 8 to Regulation (EU) No1308/2013;
+(b) files 1.14 (2005), 1.15 (2005), 2.1.12.4 (1998), 2.3.6 (1988), 3.1.2 (1979), 3.1.2.1 (1979), 3.3.4 (2004) and 3.5.11.1 (2001) of the OIV Code of Oenological Practices.”
+(c)
+in the row numbered 8 (flotation), in the third column numbered 2, after the second sentence insert—
+“This row does not apply to the use of flotation in Scotland. (See row 8a for the use of flotation in Scotland.)”,
+(d)
+after the row numbered 8 (flotation) insert the following row—
+“8a Flotation (Scotland)
+For use in Scotland for the products defined in points (10) to (12) (inclusive) of Part 2 of Annex 7 to Regulation (EU) No1308/2013 but only when using nitrogen or carbon dioxide or by aerating.
+Subject to the conditions set out in file 2.1.14 (2022) of the OIV Code of Oenological Practices.”
+(e)
+at the end insert the following rows—
+“20 Partial concentration (Scotland)
+For use in Scotland, for grape must, subject to the conditions laid down in:
+(a) point 1(b) of Section B of Part 1 of Annex 8 to Regulation (EU) No1308/2013;
+(b) files 2.1.12 (1998), 2.1.12.1 (1993), 2.1.12.2 (2001), 2.1.12.3 (1998) and 2.1.12.4 (1998) of the OIV Code of Oenological Practices.
+For use in Scotland, for wine, subject to the conditions laid down in:
+(a) point 1(c) of Section B of Part 1 of Annex 8 to Regulation (EU) No1308/2013;
+(b) files 3.5.11 (2001) and 3.5.11.1 (2001) of the OIV Code of Oenological Practices.
+The treatment in relation to use for grape must and wine must be recorded in the register referred to in Article 147(2) of Regulation (EU) No1308/2013.
+21 Treatment by discontinuous high pressure processes (Scotland)
+For use in Scotland with fresh grapes, grape must, partially fermented grape must and partially fermented grape must extracted from raisined grapes.
+Subject to the conditions laid down in files 1.18 (2019) and 2.1.26 (2019) of the OIV Code of Oenological Practices.
+22 Treatment by continuous high pressure processes (Scotland)
+For use in Scotland with grape must, partially fermented grape must and partially fermented grape must extracted from raisined grapes.
+Subject to the conditions laid down in file 2.2.10 (2020) of the OIV Code of Oenological Practices.
+23 Treatment by ultrasound (Scotland)
+For use in Scotland on crushed, fresh grapes for a rapid extraction of grape compounds.
+Subject to the conditions laid down in file 1.17 (2019) of the OIV Code of Oenological Practices.
+24 Treatment of grapes by pulsed electric fields (Scotland)
+For use in Scotland with fresh grapes.
+Subject to the conditions laid down in file 2.1.27 (2020) of the OIV Code of Oenological Practices.
+25
+Treatment using adsorbent styrene-divinylbenzene beads
+(Scotland)
+For use in Scotland on the products defined in points (1) to (12) (inclusive), (15) and (16) of Part 2 of Annex 7 to Regulation (EU) No1308/2013.
+Subject to the conditions laid down in files 2.2.11 (2020) and 3.4.22 (2020) of the OIV Code of Oenological Practices.”
+(6) In Table 2 (authorised oenological compounds as referred to in Article 3(1))—
+(a)
+in the descriptive header row, in the eighth column numbered 7, at the end insert—
+“(including any geographic limitations),”
+(b)
+in section 1 (acidity regulators)—
+(i)
+after the row numbered 1.7(4) insert the row in Part 1 of the schedule,
+(ii)
+after the row numbered 1.9 insert the rows in Part 2 of the schedule,
+(c)
+in section 2 (preservatives and antioxidants), after the row numbered 2.7 insert the row in Part 3 of the schedule,
+(d)
+in section 3 (sequestrants)—
+(i)
+in the title row numbered 3, in the second column, for “Sequestrants” substitute “Adsorbents”,
+(ii)
+in the row numbered 3.2 (selective vegetal fibres), in the eighth column numbered 7 insert—
+“This row does not apply to the use of selective vegetal fibres in Scotland. (See row 3.2a for the use of selective vegetal fibres in Scotland.)”,
+(iii)
+after the row numbered 3.2 insert the row in Part 4 of the schedule,
+(e)
+in section 4 (activators for alcoholic and malolactic fermentation)—
+(i)
+in the row numbered 4.1 (microcrystalline cellulose), in the eighth column numbered 7, after the first sentence insert—
+“This row does not apply to the use of microcrystalline cellulose in Scotland. (See row 4.1a for the use of microcrystalline cellulose in Scotland.)”,
+(ii)
+after the row numbered 4.1 insert the row in Part 5 of the schedule,
+(f)
+in section 6 (stabilising agents)—
+(i)
+in the row numbered 6.8 (gum arabic), in the eighth column numbered 7, at the end insert—
+“This row does not apply to the use of gum arabic in Scotland. (See row 6.8a for the use of gum arabic in Scotland.)”,
+(ii)
+after the row numbered 6.8 insert the row in Part 6 of the schedule,
+(iii)
+in the row numbered 6.11 (carboxymethylcellulose), in the eighth column numbered 7, after the first sentence insert—
+“This row does not apply to the use of carboxymethylcellulose in Scotland. (See row 6.11a for the use of carboxymethylcellulose in Scotland.)”,
+(iv)
+after the row numbered 6.11 insert the row in Part 7 of the schedule,
+(g)
+in section 7 (enzymes), after the row numbered 7.8 insert the rows in Part 8 of the schedule.
+(1)
+EUR 2019/934, relevantly amended by S.I. 2020/1637 and S.I. 2021/632.
+(2)
+Article 1a was inserted by S.I. 2020/1637.
+(3)
+EUR 2013/1308, relevantly amended by S.I. 2019/821 and S.S.I. 2022/361.
+(4)
+Row 1.8 was omitted by S.I. 2021/632.MAIRI GOUGEON
+A member of the Scottish Government
+St Andrew’s House,
+Edinburgh
+16th January 2024Regulation 3(6)
+SCHEDULE
+Rows inserted in Table 2 in Part A of Annex 1 to Commission Delegated Regulation (EU) 2019/934
+PART 1
+Row inserted after the row numbered 1.7 (row 1.8a)
+“1.8a Calcium Sulphate (Scotland) E 516/- File 2.1.3.1.1.1 (2017) X For use in Scotland. (3)”
+PART 2
+Rows inserted after the row numbered 1.9 (rows 1.10 to 1.12)
+“1.10 Citric acid (Scotland) E 330 Files 3.1.1 (1979) and 3.1.1.1 (2001). COEI-1-CITACI X
+For use in Scotland.
+Conditions and limits laid down in Sections C and D of Part 1 of Annex 8 to Regulation (EU) No1308/2013.
+The treatment must be recorded in the register referred to in Article 147(2) of Regulation (EU) No1308/2013.
+In relation to the objectives in files 3.1.1 (1979) and 3.1.1.1 (2001) of the OIV Code of Oenological Practices, only objective a) of each file applies.
+Maximum content in wine treated and placed on the market: 1 g/l.
+(1), (3) to (9) (inclusive), (15) and (16)
+1.11 Yeasts for wine production (Scotland) Files 2.3.1 (2016), 2.1.3.2.3 (2019) and 2.1.3.2.3.1 (2019). COEI-1-SACCHA COEI-1-NOSACC X
+For use in Scotland.
+Conditions and limits laid down in Sections C and D of Part 1 of Annex 8 to Regulation (EU) No1308/2013.
+The treatment must be recorded in the register referred to in Article 147(2) of Regulation (EU) No1308/2013.
+(10), (11) and (12)
+1.12 Lactic acid bacteria (Scotland) Files 2.1.3.2.3 (2019), 2.1.3.2.3.2 (2019), 3.1.2 (1979) and 3.1.2.3 (1980). COEI-1-BALACT X
+For use in Scotland.
+Conditions and limits laid down in Sections C and D of Part 1 of Annex 8 to Regulation (EU) No1308/2013.
+The treatment must be recorded in the register referred to in Article 147(2) of Regulation (EU) No1308/2013.
+(1) to (12) (inclusive), (15) and (16)”
+PART 3
+Row inserted after the row numbered 2.7 (row 2.8)
+“2.8 Fumaric acid (Scotland) File 3.4.23 (2023) X For use in Scotland. Only to inhibit malolactic fermentation. (1), (3) to (9) (inclusive), (15) and (16)”
+PART 4
+Row inserted after the row numbered 3.2 (row 3.2a)
+“3.2a Selective vegetal fibres (Scotland) File 3.4.20 (2022) COEI-1-FIBVEG X For use in Scotland. (1), (3) to (9) (inclusive), (15) and (16)”
+PART 5
+Row inserted after the row numbered 4.1 (row 4.1a)
+“4.1a Microcrystalline cellulose (Scotland)
+E
+460(i)/CAS 9004-34-6
+Files 2.3.2 (2019) and 3.4.21 (2015) COEI-1-CELMIC X
+For use in Scotland.
+Its use must comply with the specifications laid down in the Annex to Regulation (EU) No231/2012(1).
+Fresh grapes, (1) to (12) (inclusive), (15) and (16)”
+PART 6
+Row inserted after the row numbered 6.8 (row 6.8a)
+“6.8a Gum arabic (Scotland)
+E
+414/CAS
+9000-01-5
+File 3.3.6 (2022) COEI-1-GOMARA X For use in Scotland. Use at a level not higher than necessary to achieve its intended purpose as a stabilising agent. Partially fermented must for direct human consumption as such, (1), (3) to (9) (inclusive), (15) and (16)”
+PART 7
+Row inserted after the row numbered 6.11 (row 6.11a)
+“6.11a Carboxymethylcellulose (Scotland) E466/- File 3.3.14 (2020) COEI-1-CMC X For use in Scotland. Only to ensure tartaric stabilisation. White and rosé wines and (4) to (9) (inclusive)”
+PART 8
+Rows inserted after the row numbered 7.8 (rows 7.9 to 7.12)
+“7.9 Arabinanase (Scotland) EC 3.2.1.99 Files 1.13 (2021), 2.1.4 (2021), 2.1.18 (2021), 3.2.8 (2021) and 3.2.11 (2021). COEI-1-ACTARA COEI-1-PRENZY X For use in Scotland. Only for oenological purposes in maceration, clarification, stabilisation, filtration and to reveal the aromatic precursors of grapes. Fresh grapes, (1) to (12) (inclusive) and (15) and (16)
+7.10
+Beta-glucanase
+(β1-3, β1-6) (Scotland)
+EC 3.2.1.6 File 3.5.7. (2013)
+COEI-1-ACTGLU
+COEI-1-PRENZY
+X For use in Scotland. Only for oenological purposes in maceration, clarification, stabilisation, filtration and to reveal the aromatic precursors of grapes. (1), (3) to (9) (inclusive), (15) and (16)
+7.11 Glucosidase (Scotland) EC 3.2.1.21 Files 2.1.19 (2013) and 3.2.9 (2013). COEI-1-GLYCOS COEI-1-PRENZY X For use in Scotland. Only for oenological purposes in maceration, clarification, stabilisation, filtration and to reveal the aromatic precursors of grapes. (1) to (12) (inclusive), (15) and (16)
+7.12 Aspergillopepsin I (Scotland) EC 3.4.23.18 Files 2.2.12 (2021) and 3.3.16 (2021). COEI-1-PROTEA COEI-1-PRENZY X For use in Scotland. Only for oenological purposes in maceration, clarification, stabilisation, filtration and to reveal the aromatic precursors of grapes. (1) to (12) (inclusive), (15) and (16)”
+(1)
+EUR 2012/231, to which there are amendments not relevant to these Regulations.EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations make amendments to assimilated direct legislation relating to the marketing of wine and oenological practices used to produce and conserve wine and other wine products. They extend to Scotland.
+These Regulations amend Article 53 of Commission Delegated Regulation (EU) 2019/33 of 17 October 2018 supplementing Regulation (EU) No1308/2013 of the European Parliament and of the Council as regards applications for protection of designations of origin, geographical indications and traditional terms in the wine sector, the objection procedure, restrictions of use, amendments to product specifications, cancellation of protection, and labelling and presentation (“EUR 2019/33”). The amendment inserts a provision in EUR 2019/33 prohibiting the marketing of a product using the term “ice wine”, “icewine” or “ice-wine” (whether in English or a different language) and similar terms (whether in English or a different language), unless the product is a wine made exclusively from grapes naturally frozen on the vine (regulation 2).
+These Regulations also amend Commission Delegated Regulation (EU) 2019/934 of 12 March 2019 supplementing Regulation (EU) No1308/2013 of the European Parliament and of the Council as regards wine-growing areas where the alcoholic strength may be increased, authorised oenological practices and restrictions applicable to the production and conservation of grapevine products, the minimum percentage of alcohol for by-products and their disposal, and publication of OIV files (“EUR 2019/934”) (regulation 3 and the schedule).
+EUR 2019/934 authorises specified oenological practices. It supplements Article 80(1) of Regulation (EU) No1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products (“EUR 2013/1308”). Article 80(1) of EUR 2013/1308 prohibits the use of unauthorised oenological practices in the production and conservation of wine and other wine products. The amendments made by this instrument to EUR 2019/934 make changes to the oenological practices that may be used in the production and conservation of wine and other wine products.
+A copy of the 2023 issue of the International Code of Oenological Practices and the 2023 issue of the International Oenological Codex, both published by the International Organisation of Vine and Wine in January 2023, may be inspected, by arrangement, free of charge at the Department for Environment, Food and Rural Affairs, Second Floor, Seacole Block, 2 Marsham Street, London SW1P 4DF.
+A copy of the 2023 issue of the International Code of Oenological Practices (ISBN 978-2-85038-071-6) is available electronically at:
+https://www.oiv.int/sites/default/files/publication/2023-04/CPO complet EN 2023.pdf
+A copy of the 2023 issue of the International Oenological Codex (ISBN 978-2-85038-063-1) is available electronically at:
+https://www.oiv.int/sites/default/files/publication/2023-04/CODEX complet 2023 EN.pdf
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.

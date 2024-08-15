@@ -1,0 +1,1055 @@
+OFFERYNNAU STATUDOL CYMRU
+2023 Rhif 798 (Cy. 127)
+DIOGELU’R AMGYLCHEDD, CYMRU
+Rheoliadau Gwastraff Pecynwaith (Casglu ac Adrodd am Ddata) (Cymru) 2023
+Gwnaed
+12 Gorffennaf 2023
+Yn dod i rym
+17 Gorffennaf 2023
+Mae Gweinidogion Cymru yn gwneud y Rheoliadau a ganlyn drwy arfer y pwerau a roddir iddynt gan adran 2(1) i (3) o Ddeddf Atal a Rheoli Llygredd 1999 (“Deddf 1999”)(1) a pharagraffau 2, 11, 17 ac 20(1)(b) o Atodlen 1 iddi.
+Mae Gweinidogion Cymru, yn unol ag adran 2(4) o Ddeddf 1999, wedi ymgynghori ag—
+(a)
+Cyfoeth Naturiol Cymru,
+(b)
+y cyrff neu’r personau hynny yr ymddengys i Weinidogion Cymru eu bod yn cynrychioli buddiannau llywodraeth leol, diwydiant, amaethyddiaeth a busnesau bach, yn eu trefn, y maent yn ystyried eu bod yn briodol, ac
+(c)
+y cyrff neu’r personau eraill hynny y mae Gweinidogion Cymru yn ystyried eu bod yn briodol.
+Yn unol ag adran 2(8) o Ddeddf 1999, gosodwyd drafft o’r Rheoliadau hyn gerbron Senedd Cymru ac fe’i cymeradwywyd ganddi drwy benderfyniad(2).
+(1)
+1999 p. 24. Trosglwyddwyd swyddogaethau’r Ysgrifennydd Gwladol, i’r graddau y maent yn arferadwy o ran Cymru, i Gynulliad Cenedlaethol Cymru, ac eithrio mewn perthynas â chwilio am olew a nwy alltraeth ac elwa arnynt, gan erthygl 3(1) o Orchymyn Cynulliad Cenedlaethol Cymru (Trosglwyddo Swyddogaethau) 2005 (O.S. 2005/1958). Trosglwyddwyd swyddogaethau Cynulliad Cenedlaethol Cymru i Weinidogion Cymru gan baragraff 30 o Atodlen 11 i Ddeddf Llywodraeth Cymru 2006 (p. 32). Diwygiwyd adran 2 gan O.S. 2013/755 (Cy. 90). Diwygiwyd Atodlen 1 gan adran 70 o Ddeddf yr Amgylchedd 2021 (p. 30) ac O.S. 2005/925, 2012/2788, 2018/942 a 2019/458, mae offerynnau diwygio eraill ond nid yw’r un ohonynt yn berthnasol.
+(2)
+Mae’r cyfeiriad yn adran 2(8) at gymeradwyaeth gan ddau Dŷ Senedd y DU yn cael effaith mewn perthynas ag arfer swyddogaethau gan Weinidogion Cymru fel pe bai’n gyfeiriad at gymeradwyaeth gan Senedd Cymru yn rhinwedd adran 150A(2) o Ddeddf Llywodraeth Cymru 2006 a pharagraff 33 o Atodlen 11 iddi.Enwi a chychwyn
+1.—(1) Enw’r Rheoliadau hyn yw Rheoliadau Gwastraff Pecynwaith (Casglu ac Adrodd am Ddata) (Cymru) 2023.
+(2) Daw’r Rheoliadau hyn i rym ar 17 Gorffennaf 2023.Dehongli
+2.—(1) Yn y Rheoliadau hyn—
+mae i “ailddefnyddio” yr ystyr a roddir i “re-use” yn Erthygl 3(13) o’r Gyfarwyddeb Wastraff;
+mae i “ailgylchu” yr ystyr a roddir i “recycling” yn Erthygl 3(17) o’r Gyfarwyddeb Wastraff;
+mae i “alcohol” yr un ystyr ag sydd i “alcohol” yn adran 191 o Ddeddf 2003 ac mae “alcoholig” i’w ddehongli yn unol â hynny;
+mae i “awdurdod casglu gwastraff” yr ystyr a roddir i “waste collection authority” yn adran 30(3) o Ddeddf Diogelu’r Amgylchedd 1990(1);
+mae i “awdurdod gwaredu gwastraff” yr ystyr a roddir i “waste disposal authority” yn adran 30(2) o Ddeddf Diogelu’r Amgylchedd 1990;
+ystyr “awdurdod perthnasol” (“relevant authority”) yw—
+(a)
+awdurdod casglu gwastraff;
+(b)
+awdurdod gwaredu gwastraff;
+ystyr “blwyddyn berthnasol” (“relevant year”) yw blwyddyn galendr y mae person yn gynhyrchydd mewn cysylltiad â hi;
+mae i “busnes gweithredu tafarn” (“pub operating business”) yr ystyr a roddir yn rheoliad 9(2);
+ystyr “categori o becynwaith” (“packaging category”) yw un o’r categorïau y cyfeirir atynt yn rheoliad 6(4);
+ystyr “CNC” (“NRW”) yw Cyfoeth Naturiol Cymru;
+mae i “cyflenwi” (“supplies”) yr ystyr a roddir yn rheoliad 10(1);
+ystyr “cyfnod casglu data” (“data collection period”) yw—
+(a)
+y cyfnod o’r dyddiad y mae’r Rheoliadau hyn yn dod i rym tan 31 Rhagfyr 2023, a
+(b)
+mewn blynyddoedd dilynol, y cyfnod o 12 mis sy’n dechrau ar 1 Ionawr;
+mae i “cynhyrchydd” (“producer”) yr ystyr a roddir yn rheoliad 8;
+mae i “cynhyrchydd bach” (“small producer”) yr ystyr a roddir yn rheoliad 11(2);
+mae i “cynhyrchydd mawr” (“large producer”) yr ystyr a roddir yn rheoliad 11(1);
+ystyr “cynllun cofrestredig” (“registered scheme”) yw cynllun sydd wedi ei gofrestru yn unol â Rheoliadau Rhwymedigaethau Cyfrifoldeb Cynhyrchwyr (Gwastraff Pecynwaith) 2007(2);
+ystyr “cytundeb gweithredu tafarn” (“pub operating agreement”) yw cytundeb neu nifer o gytundebau cysylltiedig y mae un person (y busnes gweithredu tafarn) yn rhoi ynddo neu odano, neu ynddynt neu odanynt, denantiaeth neu les mangre i berson arall (y tenant) sy’n cynnwys rhwymedigaeth (pa un a’i mynegir fel rhwymedigaeth gadarnhaol neu fel rhwymedigaeth negyddol) ar y tenant i brynu rhywfaint neu’r cyfan o’r alcohol neu’r ddiod alcoholig (yn ôl y digwydd), i’w werthu neu i’w gyflenwi fel arall, neu i’w gwerthu neu i’w chyflenwi fel arall, yn y fangre neu o’r fangre, oddi wrth y busnes gweithredu tafarn neu oddi wrth berson neu bersonau a enwebwyd neu a awdurdodwyd gan neu ar ran y busnes hwnnw;
+ystyr “cytundeb trwyddedu” (“licence agreement”) yw cytundeb neu nifer o gytundebau cysylltiedig y mae’r trwyddedwr yn rhoi ynddo neu odano, neu ynddynt neu odanynt, drwydded i’r trwyddedai sy’n caniatáu i’r trwyddedai ddefnyddio nod masnach fel enw y mae’r trwyddedai yn gwerthu odano o’r fangre nwyddau sy’n gysylltiedig â’r nod masnach hwnnw, ac mae’n cynnwys rhwymedigaeth (pa un a’i mynegir fel rhwymedigaeth gadarnhaol neu fel rhwymedigaeth negyddol) ar y trwyddedai sy’n ymwneud â diwyg y fangre honno;
+ystyr “darparwr gwasanaeth” (“service provider”) yw person sy’n cyflenwi pecynwaith y gellir ei ailddefnyddio i ddefnyddiwr y pecynwaith hwnnw pan fo’r cyflenwi’n digwydd drwy roi’r pecynwaith ar log neu ar fenthyg;
+ystyr “Deddf 2003” (“the 2003 Act”) yw Deddf Trwyddedu 2003(3);
+ystyr “deunydd cyfansawdd sy’n seiliedig ar ffibr” (“fibre-based composite material”) yw deunydd pecynwaith sydd wedi ei wneud o bapur-fwrdd neu ffibrau papur, wedi ei lamineiddio â phlastig, ac y gall fod iddo haenau o ddeunyddiau eraill, i ffurfio un uned na ellir ei gwahanu â llaw;
+ystyr “deunyddiau pecynwaith” (“packaging materials”) yw deunyddiau a ddefnyddir i weithgynhyrchu pecynwaith ac mae’n cynnwys deunyddiau crai a deunyddiau wedi eu prosesu cyn eu troi’n becynwaith;
+mae i “diod” (“drink”) yr ystyr a roddir yn rheoliad 5;
+ystyr “dosbarthwr” (“distributor”) yw person sy’n gweithgynhyrchu neu’n mewnforio pecynwaith nas llanwyd ac yn cyflenwi’r pecynwaith hwnnw i berson arall;
+mae i “gwaredu” yr ystyr a roddir i “disposal” yn Erthygl 3(19) o’r Gyfarwyddeb Wastraff;
+mae i “gwastraff” yr ystyr a roddir i “waste” yn Erthygl 3(1) o’r Gyfarwyddeb Wastraff, o’i darllen gydag Erthyglau 5 a 6 o’r Gyfarwyddeb honno;
+ystyr “gwastraff pecynwaith” (“packaging waste”) yw pecynwaith neu ddeunydd pecynwaith sy’n wastraff ond nid yw’n cynnwys pecynwaith sy’n cael ei daflu ac yn dod yn wastraff y tu allan i’r Deyrnas Unedig;
+mae i “gwastraff pecynwaith perthnasol” (“relevant packaging waste”) yr ystyr a roddir yn rheoliad 16(7);
+ystyr “gweithredwr” (“operator”) mewn perthynas â marchnadle ar-lein yw’r person sy’n rheoli mynediad at y marchnadle ar-lein, a chynnwys y marchnadle hwnnw, ar yr amod bod y person yn ymwneud ag—
+(a)
+pennu unrhyw delerau ac amodau sy’n gymwys i werthu nwyddau,
+(b)
+prosesu, neu hwyluso’r gwaith o brosesu, taliadau am y nwyddau, ac
+(c)
+archebu neu ddanfon, neu hwyluso’r gwaith o archebu neu ddanfon, y nwyddau;
+ystyr “gweithredwr marchnadle ar-lein” (“online marketplace operator”) yw gweithredwr gwefan, neu unrhyw gyfrwng arall y perir bod gwybodaeth ar gael dros y rhyngrwyd drwyddo, sy’n hwyluso gwerthu nwyddau drwy’r wefan neu’r cyfrwng arall gan bersonau heblaw’r gweithredwr, pa un a yw’r gweithredwr hefyd yn gwerthu nwyddau drwy’r marchnadle ar-lein ai peidio;
+ystyr “gwerthwr” (“seller”) yw person sy’n cyflenwi pecynwaith i ddefnyddiwr neu dreuliwr y pecynwaith hwnnw, pa un a yw’r pecynwaith wedi ei lenwi pan gaiff ei gyflenwi ai peidio;
+ystyr “y Gyfarwyddeb Wastraff” (“the Waste Directive”) yw Cyfarwyddeb 2008/98/EC Senedd Ewrop a’r Cyngor ar wastraff(4), fel y’i diwygiwyd ddiwethaf gan Gyfarwyddeb (EU) 2018/851(5), ac fel y’i darllenir yn unol â rheoliad 4;
+ystyr “mangre” (“premises”) yw unrhyw safle gwerthu y trinnir pecynwaith arno ac mae’n cynnwys unrhyw dir, cerbyd, llestr, offer symudol a stondin;
+ystyr “mewnforiwr” (“importer”) yw—
+(a)
+y person sy’n gyfrifol am fewnforio pecynwaith wedi ei lenwi i’r Deyrnas Unedig, pa un a gyflenwir y pecynwaith hwnnw yn y pen draw ai peidio, neu
+(b)
+pan nad yw’r person y cyfeirir ato ym mharagraff (a) o’r diffiniad hwn yn bresennol yn y Deyrnas Unedig, y person cyntaf yn y Deyrnas Unedig sy’n cymryd perchnogaeth o’r pecynwaith;
+mae i “nod masnach” yr un ystyr ag a roddir i “trade mark” yn adran 1 o Ddeddf Nodau Masnach 1994(6);
+ystyr “paciwr/llanwr” (“packer/filler”) yw person sy’n rhoi nwyddau mewn pecynwaith;
+mae i “pecynwaith” (“packaging”) yr ystyr a roddir yn rheoliad 6;
+mae i “pecynwaith cartref” (“household packaging”) yr ystyr a roddir yn rheoliad 7;
+mae i “pecynwaith cludo” (“shipment packaging”) yr ystyr a roddir yn rheoliad 6(1)(d);
+mae i “pecynwaith cynradd” (“primary packaging”) yr ystyr a roddir yn rheoliad 6(1)(a);
+mae i “pecynwaith eilaidd” (“secondary packaging”) yr ystyr a roddir yn rheoliad 6(1)(b);
+ystyr “pecynwaith esempt” (“exempt packaging”) yw pecynwaith sy’n esempt mewn perthynas â chynhyrchydd yn unol â rheoliad 12(2);
+mae i “pecynwaith trydyddol” (“tertiary packaging”) yr ystyr a roddir yn rheoliad 6(1)(c);
+mae i “pecynwaith wedi ei frandio” (“branded packaging”) yr ystyr a roddir yn rheoliad 8(13);
+ystyr “pecynwaith y gellir ei ailddefnyddio” (“reusable packaging”) yw pecynwaith sydd wedi ei gynllunio i gael ei ddefnyddio sawl gwaith drwy ei ail-lenwi neu ei ailddefnyddio at yr un diben y’i crëwyd ato;
+mae i “perchennog brand” (“brand owner”) yr ystyr a roddir yn rheoliad 8(13) o’i ddarllen gyda rheoliad 8(3);
+ystyr “person a gymeradwywyd” (“approved person”) yw person sydd wedi ei gymeradwyo am y tro o dan reoliad 24 at ddiben dilysu gwybodaeth a ddarperir gan gynhyrchydd—
+(a)
+i CNC o dan reoliad 17(4)(b);
+(b)
+i weithredwr cynllun o dan reoliad 19(2)(b)(ii);
+ystyr “rheoleiddiwr y DU” (“UK regulator”) yw—
+(a)
+o ran Lloegr, Asiantaeth yr Amgylchedd,
+(b)
+o ran Cymru, CNC,
+(c)
+o ran yr Alban, Asiantaeth Diogelu Amgylchedd yr Alban, neu
+(d)
+o ran Gogledd Iwerddon, Adran Amaethyddiaeth, Amgylchedd a Materion Gwledig Gogledd Iwerddon;
+ystyr “rhwymedigaethau adrodd am ddata” (“data reporting obligations”) yw’r rhwymedigaethau yn rheoliad 17;
+ystyr “rhwymedigaethau casglu data” (“data collection obligations”) yw’r rhwymedigaethau yn rheoliad 16;
+ystyr “tenant” (“tenant”) yw’r parti mewn cytundeb gweithredu tafarn y rhoddir y les neu’r denantiaeth mangre iddo;
+ystyr “treuliwr” (“consumer”) yw unigolyn sy’n gweithredu at ddibenion sydd y tu allan i fasnach, busnes, crefft neu broffesiwn yr unigolyn hwnnw;
+ystyr “trosiant”, mewn perthynas â pherson, yw ei drosiant fel y diffinnir “turnover” yn adran 539 o Ddeddf Cwmnïau 2006(7) ond fel pe bai’r cyfeiriadau at gwmni yn gyfeiriadau at y person hwnnw;
+ystyr “trwyddedai” (“licensee”) yw’r parti mewn cytundeb trwyddedu y rhoddir trwydded i ddefnyddio nod masnach iddo;
+mae i “trwyddedwr” (“licensor”) yr ystyr a roddir yn rheoliad 9(1).
+(2) At ddibenion y diffiniad o “gweithredwr marchnadle ar-lein”, mae marchnadle ar-lein yn hwyluso gwerthu nwyddau os yw’n caniatáu i berson—
+(a)
+cynnig nwyddau ar werth, a
+(b)
+ymrwymo i gontract ar gyfer gwerthu’r nwyddau hynny.
+(3) Yn y Rheoliadau hyn—
+(a)
+caniateir i unrhyw ddogfen sydd i’w darparu neu ei rhoi i unrhyw berson gael ei darparu neu ei rhoi i’r person hwnnw drwy ddulliau electronig os oes modd i’r person hwnnw atgynhyrchu’r ddogfen honno ar ffurf ddarllenadwy;
+(b)
+caniateir bodloni ar ffurf electronig unrhyw ofyniad i wneud, cadw neu ddal gafael ar gofnod neu i gadw cofrestr os oes modd i’r testun gael ei gynhyrchu gan y person sy’n ddarostyngedig i’r gofyniad ar ffurf ddogfennol ddarllenadwy;
+(c)
+caniateir bodloni unrhyw ofyniad am lofnod drwy lofnod electronig wedi ei ymgorffori yn y ddogfen, ac at y dibenion hyn, ystyr “llofnod electronig” yw data ar ffurf electronig sydd wedi ei atodi i ddata arall ar ffurf electronig, neu sy’n rhesymegol gysylltiedig â data arall ar ffurf electronig, ac a ddefnyddir gan y llofnodwr i lofnodi.
+(1)
+1990 p. 43. Mae diwygiadau i adran 30 nad ydynt yn berthnasol i’r Rheoliadau hyn.
+(2)
+O.S. 2007/871 a ddiwygiwyd gan O.S. 2007/3538; 2010/675, 2849; 2012/360; 2013/1821, 755; 2016/241, 696, 738; 2018/721; 2019/188; 2020/387, 904, 1390.
+(3)
+2003 p. 17. Diwygiwyd adran 191 gan adran 135 o Ddeddf Plismona a Throseddu 2017 (p. 3) ac O.S. 2006/2407.
+(4)
+OJ L312, 22.11.2008, t. 3.
+(5)
+OJ L150, 14.6.2018, t. 109.
+(6)
+1994 p. 26. Diwygiwyd adran 1 gan O.S. 2018/825.
+(7)
+2006 p. 46. Mae diwygiadau i adran 539 nad ydynt yn berthnasol i’r Rheoliadau hyn.Ymsefydlu yng Nghymru a’r Deyrnas Unedig
+3.—(1) Yn y Rheoliadau hyn, mae person wedi ymsefydlu—
+(a)
+yng Nghymru—
+(i)
+os yw’r person hwnnw’n preswylio fel arfer yng Nghymru, neu
+(ii)
+os yw swyddfa gofrestredig y person hwnnw, neu os nad oes ganddo swyddfa gofrestredig, ei brif swyddfa, neu ei brif fan busnes, yng Nghymru, neu
+(iii)
+os yw paragraff (2) yn gymwys;
+(b)
+yn y Deyrnas Unedig—
+(i)
+os yw’r person hwnnw’n preswylio fel arfer yn y Deyrnas Unedig, neu
+(ii)
+os yw swyddfa gofrestredig y person hwnnw, neu os nad oes ganddo swyddfa gofrestredig, ei brif swyddfa, neu ei brif fan busnes, yn y Deyrnas Unedig.
+(2) Mae’r paragraff hwn yn gymwys—
+(a)
+os yw swyddfa gofrestredig y person hwnnw, neu os nad oes ganddo swyddfa gofrestredig, ei brif swyddfa, neu ei brif fan busnes, y tu allan i’r Deyrnas Unedig,
+(b)
+os oes gan y person hwnnw gangen neu gyfeiriad post yng Nghymru, ac
+(c)
+os nad yw’r person hwnnw wedi rhoi hysbysiad i CNC o dan baragraff (3).
+(3) Pan fo gan berson y mae paragraff (2)(a) yn gymwys iddo gangen neu gyfeiriad post yng Nghymru ac mewn un wlad arall neu ragor yn y Deyrnas Unedig, caiff y person hwnnw ddewis cael ei drin fel pe bai wedi ymsefydlu yn un o’r gwledydd eraill hynny yn hytrach nag yng Nghymru drwy roi hysbysiad i CNC.
+(4) Rhaid i hysbysiad a roddir o dan baragraff (3) bennu’r wlad y mae’r person sy’n rhoi’r hysbysiad yn dymuno cael ei drin fel pe bai wedi ymsefydlu ynddi at ddibenion y Rheoliadau hyn.
+(5) Pan gaiff CNC hysbysiad o ddewis o dan baragraff (3), rhaid iddo hysbysu rheoleiddiwr y DU yn y wlad a bennir yn yr hysbysiad.Addasiadau i’r Gyfarwyddeb Wastraff
+4.—(1) At ddibenion y Rheoliadau hyn, mae’r Gyfarwyddeb Wastraff i’w darllen yn unol â’r rheoliad hwn.
+(2) Mae cyfeiriad at un neu ragor o Aelod-wladwriaethau mewn darpariaeth sy’n gosod rhwymedigaeth neu’n rhoi disgresiwn i Aelod-wladwriaeth neu Aelod-wladwriaethau i’w ddarllen fel cyfeiriad at yr awdurdod, yr asiantaeth neu’r awdurdod lleol a oedd, yn union cyn diwrnod cwblhau’r cyfnod gweithredu, yn gyfrifol am gydymffurfedd y Deyrnas Unedig â’r rhwymedigaeth honno neu’n gallu arfer y disgresiwn hwnnw.
+(3) Mae Erthygl 5 i’w darllen fel pe bai—
+(a)
+ym mharagraff 1, “Member States shall take appropriate measures to ensure that” wedi ei hepgor;
+(b)
+y canlynol wedi ei fewnosod ar ôl paragraff 1—
+“1A.  Any decision as to whether a substance or object is a by-product must be made—
+(a)
+in accordance with any regulations setting out detailed criteria on the application of the conditions in paragraph 1 to specific substances or objects; and
+(b)
+having regard to any guidance published by the Welsh Ministers or the Natural Resources Body for Wales for the purposes of this Article.”;
+(c)
+paragraffau 2 a 3 wedi eu hepgor.
+(4) Mae Erthygl 6 i’w darllen fel pe bai—
+(a)
+ym mharagraff 1, “Member States shall take appropriate measures to ensure that” wedi ei hepgor;
+(b)
+y canlynol wedi ei fewnosod ar ôl paragraff 1—
+“1A.  Any decision as to whether a substance or object has ceased to be waste must be made—
+(a)
+in accordance with any regulations or retained direct EU legislation setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
+(b)
+having regard to any guidance published by the Welsh Ministers or the Natural Resources Body for Wales for the purposes of this Article.”;
+(c)
+ym mharagraff 2—
+(i)
+yr is-baragraff cyntaf wedi ei hepgor;
+(ii)
+yn yr ail is-baragraff, “Any detailed criteria set out in guidance as referred to in paragraph 1A” wedi ei roi yn lle “Those detailed criteria”;
+(iii)
+y trydydd a’r pedwerydd is-baragraff wedi eu hepgor;
+(d)
+paragraff 3 wedi ei hepgor;
+(e)
+ym mharagraff 4—
+(i)
+yn yr is-baragraff cyntaf—
+(aa)
+yn y frawddeg gyntaf, “Where criteria have not been set out as referred to in paragraph 1A(a), the Natural Resources Body for Wales” wedi ei roi yn lle’r geiriau o’r dechrau hyd at “Member State”;
+(bb)
+yr ail frawddeg wedi ei hepgor;
+(ii)
+yn yr ail is-baragraff—
+(aa)
+“The Natural Resources Body for Wales” wedi ei roi yn lle “Member States”;
+(bb)
+“by competent authorities” wedi ei hepgor.Diod
+5.—(1) At ddibenion y Rheoliadau hyn, ac eithrio yn rheoliad 12(4), ystyr diod yw—
+(a)
+dŵr sy’n addas i’w yfed gan bobl,
+(b)
+diod sy’n addas i’w hyfed gan bobl,
+(c)
+diod chwaraeon sy’n addas i’w hyfed gan bobl, neu
+(d)
+hylif sydd, o’i baratoi mewn dull penodedig, yn ffurfio diod sy’n addas i’w hyfed gan bobl (gan gynnwys, er enghraifft, cordial ffrwythau neu sgwash ffrwythau) neu ddiod chwaraeon.
+(2) Er mwyn osgoi amheuaeth, nid yw paragraff (1)(d) yn gymwys i hylif nad yw’n cael ei ddefnyddio ond fel cyflasyn neu felysydd mewn hylif arall sydd ynddo’i hun yn ffurfio diod sy’n addas i’w hyfed gan bobl.
+(3) Mae hylif wedi ei baratoi mewn dull penodedig os yw—
+(a)
+wedi ei wanedu,
+(b)
+wedi ei gyfuno ag iâ mâl, neu wedi ei brosesu er mwyn creu iâ mâl,
+(c)
+wedi ei gyfuno â charbon deuocsid, neu
+(d)
+wedi ei baratoi drwy broses sy’n cynnwys unrhyw gyfuniad o’r prosesau a grybwyllir yn is-baragraffau (a) i (c).
+(4) Yn y rheoliad hwn, ystyr “diod chwaraeon” yw diod sy’n cael ei hysbysebu neu ei marchnata fel cynnyrch i wella perfformiad corfforol, ymadfer yn gynt ar ôl ymarfer corff neu fagu cyhyrau, neu ddiod arall debyg.Pecynwaith a chategorïau o becynwaith
+6.—(1) Ystyr “pecynwaith”, at ddibenion y Rheoliadau hyn, yw pob cynnyrch sydd wedi ei wneud o unrhyw ddeunyddiau o unrhyw natur i’w ddefnyddio i gynnwys, diogelu, trin, danfon a chyflwyno nwyddau, o ddeunyddiau crai i nwyddau wedi eu prosesu, oddi wrth y cynhyrchydd at y defnyddiwr neu’r treuliwr, gan gynnwys eitemau na ellir eu dychwelyd a ddefnyddir at yr un dibenion, ond dim ond pan fo’r cynhyrchion yn—
+(a)
+pecynwaith cynradd, sef pecynwaith a grëwyd i ffurfio uned werthu i’r defnyddiwr terfynol neu’r treuliwr terfynol yn y man prynu;
+(b)
+pecynwaith eilaidd, sef pecynwaith a grëwyd i ffurfio grŵp o nifer penodol o unedau gwerthu yn y man prynu, pa un a yw’n cael ei gyflenwi yn y modd hwnnw i’r defnyddiwr terfynol neu’r treuliwr terfynol neu pa un a yw’n cael ei ddefnyddio fel ffordd o ail-lenwi’r silffoedd yn y man gwerthu yn unig; gellir ei dynnu ymaith o’r cynnyrch heb effeithio ar nodweddion y cynnyrch;
+(c)
+pecynwaith trydyddol, sef pecynwaith a grëwyd i hwyluso trin a chludo nifer o unedau gwerthu neu becynwaith eilaidd er mwyn atal difrod wrth eu trin yn gorfforol a difrod wrth eu cludo, ac at ddibenion y Rheoliadau hyn, nid yw pecynwaith trydyddol yn cynnwys cynwysyddion a ddefnyddir ar y ffyrdd, ar y rheilffyrdd, ar longau ac yn yr awyr;
+(d)
+pecynwaith cludo, sef pecynwaith a ychwanegir yn ogystal â phecynwaith cynradd, ar eitemau sy’n cael eu gwerthu ar-lein neu drwy archeb drwy’r post naill ai a ddanfonir yn uniongyrchol i’r prynwr neu a gesglir gan y prynwr o siop neu o fan casglu arall ar ôl iddynt gael eu prynu.
+(2) Mae’r eitemau a ganlyn hefyd i’w trin fel pecynwaith ar sail y meini prawf a nodir isod—
+(a)
+eitemau sy’n bodloni’r diffiniad ym mharagraff (1), heb ragfarnu swyddogaethau eraill y gall yr eitem eu cyflawni, oni bai bod yr eitem yn rhan annatod o gynnyrch ac yn angenrheidiol er mwyn cynnwys, cynnal neu gadw’r cynnyrch hwnnw drwy gydol ei oes ac y bwriedir i bob elfen gael ei defnyddio, ei threulio neu ei gwaredu gyda’i gilydd;
+(b)
+eitemau a gynlluniwyd ac a fwriadwyd i gael eu llenwi yn y man gwerthu ac eitemau tafladwy a gyflenwir, a lenwir neu a gynlluniwyd ac a fwriadwyd i gael eu llenwi yn y man gwerthu, ar yr amod eu bod yn cyflawni swyddogaeth pecynwaith a ddisgrifir ym mharagraff (1);
+(c)
+ystyrir bod cydrannau pecynwaith ac elfennau ategol sydd wedi eu hintegreiddio mewn pecynwaith yn rhan o’r pecynwaith y maent wedi eu hintegreiddio ynddo, ac ystyrir bod elfennau ategol sydd wedi eu hongian yn uniongyrchol ar gynnyrch, neu sydd ynghlwm wrth gynnyrch, sy’n cyflawni swyddogaeth pecynwaith yn becynwaith oni bai eu bod yn rhan annatod o’r cynnyrch ac y bwriedir i bob elfen gael ei defnyddio, ei threulio neu ei gwaredu gyda’i gilydd.
+(3) Mae Atodlen 5 i Reoliadau Pecynwaith (Gofynion Hanfodol) 2015(1) yn cynnwys enghreifftiau eglurhaol o gymhwyso’r meini prawf a nodir ym mharagraff (2).
+(4) At ddiben y Rheoliadau hyn, mae pecynwaith a gwastraff pecynwaith i’w trin fel pe baent yn dod o fewn un o’r categorïau o becynwaith a ganlyn, yn dibynnu ar y deunydd y gwnaed y pecynwaith ohono—
+(a)
+alwminiwm,
+(b)
+deunyddiau cyfansawdd sy’n seiliedig ar ffibr,
+(c)
+gwydr,
+(d)
+papur neu gardbord,
+(e)
+plastig,
+(f)
+dur,
+(g)
+pren, neu
+(h)
+deunyddiau eraill.
+(5) Mae deunyddiau pecynwaith sydd wedi eu ffurfio o gyfuniad o’r deunyddiau y cyfeirir atynt ym mharagraff (4) (“deunyddiau paragraff (4)”) i’w trin fel pe baent wedi eu gwneud o’r deunydd sy’n pwyso fwyaf, oni bai bod paragraff (6) yn gymwys.
+(6) Pan fo deunyddiau pecynwaith wedi eu ffurfio o gyfrannau cyfartal o gyfuniad o ddeunyddiau paragraff (4) gwahanol, mae pob deunydd y mae’r deunyddiau pecynwaith wedi eu ffurfio ohono i’w drin ar wahân at ddiben y Rheoliadau hyn.
+(1)
+O.S. 2015/1640.Pecynwaith cartref
+7.—(1) Yn y Rheoliadau hyn, “pecynwaith cartref” yw pecynwaith cynradd neu becynwaith cludo nad yw’n cael ei gyflenwi i fusnes sy’n ddefnyddiwr terfynol y pecynwaith hwnnw.
+(2) Mae pob pecynwaith cynradd a phecynwaith cludo i’w drin fel pecynwaith cartref oni bai bod y cynhyrchydd sy’n cyflenwi’r pecynwaith hwnnw’n gallu darparu tystiolaeth ei fod wedi ei gyflenwi i fusnes nad yw’n cyflenwi i unrhyw berson arall—
+(a)
+y pecynwaith, neu
+(b)
+y cynnyrch y mae’r pecynwaith yn ei gynnwys ar ei ffurf becynedig.
+(3) At ddibenion paragraff (2), mae cynnyrch i’w drin fel pe bai’n cael ei gyflenwi ar ei ffurf becynedig oni bai bod yr holl becynwaith wedi ei dynnu ymaith o’r cynnyrch cyn ei gyflenwi i ddefnyddiwr terfynol y cynnyrch hwnnw.
+(4) Caiff CNC ddyroddi canllawiau ar y dystiolaeth y caniateir ei defnyddio i ddangos bod pecynwaith cynradd neu becynwaith cludo yn cael ei gyflenwi i fusnes sy’n ddefnyddiwr terfynol y pecynwaith.Cynhyrchwyr
+8.—(1) Mae person yn gynhyrchydd mewn perthynas â phecynwaith a bennir yn y Rheoliadau hyn—
+(a)
+os yw wedi ymsefydlu yng Nghymru, a
+(b)
+os yw’n cyflawni yn unrhyw un neu ragor o wledydd y Deyrnas Unedig swyddogaethau un neu ragor o’r canlynol mewn perthynas â phecynwaith, naill ai ar ei ran ei hun, neu drwy asiant yn gweithredu ar ei ran, ac yng nghwrs busnes—
+(i)
+perchennog brand,
+(ii)
+paciwr/llanwr,
+(iii)
+mewnforiwr,
+(iv)
+dosbarthwr,
+(v)
+gweithredwr marchnadle ar-lein,
+(vi)
+darparwr gwasanaeth, neu
+(vii)
+gwerthwr.
+Perchennog brand
+(2) Oni bai bod paragraff (6) yn gymwys, ac yn ddarostyngedig i baragraff (4), mae perchennog brand yn gynhyrchydd mewn perthynas ag—
+(a)
+pecynwaith wedi ei lenwi y mae brand y person hwnnw yn ymddangos arno; a
+(b)
+unrhyw becynwaith a gynhwysir o fewn pecynwaith wedi ei frandio, neu sy’n ffurfio rhan ohono (pa un a yw’r pecynwaith hwnnw wedi ei frandio ai peidio).
+(3) Yn ddarostyngedig i baragraff (4), pan fo mwy nag un brand yn ymddangos ar becynwaith wedi ei lenwi, mae perchennog y brand sy’n gwneud y cyflenwad cyntaf o’r pecynwaith wedi ei lenwi fel un uned werthu i’w drin fel y perchennog brand a’r cynhyrchydd mewn perthynas â’r pecynwaith hwnnw.
+(4) Pan fo nifer o gynhyrchion wedi eu brandio neu gynhyrchion nad ydynt wedi eu brandio (neu’r ddau) unigol gwahanol wedi eu grwpio gyda’i gilydd i’w gwerthu fel un uned werthu—
+(a)
+mae’r perchennog brand ar gyfer cynnyrch wedi ei frandio unigol o fewn yr uned werthu yn gynhyrchydd mewn perthynas â’r pecynwaith wedi ei frandio ar y cynnyrch unigol hwnnw;
+(b)
+mae’r paciwr/llanwr yn gynhyrchydd mewn perthynas ag unrhyw becynwaith nad yw wedi ei frandio o fewn yr uned werthu sy’n cael ei lenwi gan y paciwr/llanwr.
+Paciwr/llanwr
+(5) Mae paciwr/llanwr yn gynhyrchydd mewn perthynas ag unrhyw becynwaith wedi ei lenwi—
+(a)
+sydd wedi ei lenwi gan y paciwr/llanwr, a
+(b)
+nad oes perchennog brand ar ei gyfer.
+(6) Mae paciwr/llanwr hefyd yn gynhyrchydd—
+(a)
+pan—
+(i)
+bo’r paciwr/llanwr wedi llenwi pecynwaith,
+(ii)
+bo’r paciwr/llanwr wedi rhoi brand ar y pecynwaith er mwyn cynorthwyo gyda dosbarthu, ac nid ar gais y perchennog brand, a
+(iii)
+na fo unrhyw frand arall ar y pecynwaith;
+(b)
+ar gyfer unrhyw becynwaith y mae’r paciwr/llanwr yn ei ychwanegu at becynwaith wedi ei frandio ac eithrio ar gais y perchennog brand.
+Mewnforiwr
+(7) Mae mewnforiwr yn gynhyrchydd mewn perthynas ag unrhyw becynwaith wedi ei lenwi a fewnforir i’r Deyrnas Unedig gan y mewnforiwr sydd—
+(a)
+yn becynwaith trydyddol, neu’n becynwaith eilaidd, neu
+(b)
+yn becynwaith arall—
+(i)
+pan nad oes perchennog brand ar ei gyfer,
+(ii)
+pan nad yw’r perchennog brand yn gyfrifol am fewnforio’r pecynwaith,
+(iii)
+pan fo’r perchennog brand yn gyfrifol am fewnforio’r pecynwaith, ond nad yw’n gynhyrchydd mawr o dan y Rheoliadau hyn, neu
+(iv)
+pan nad yw’r perchennog brand wedi ymsefydlu yn y Deyrnas Unedig.
+(8) Mae mewnforiwr hefyd yn gynhyrchydd mewn perthynas ag unrhyw becynwaith a fewnforir gan y mewnforiwr i’r Deyrnas Unedig, a’i daflu yno.
+Dosbarthwr
+(9) Mae dosbarthwr yn gynhyrchydd mewn perthynas ag unrhyw becynwaith nas llanwyd sydd—
+(a)
+yn cael ei weithgynhyrchu neu ei fewnforio gan y dosbarthwr, a
+(b)
+yn cael ei gyflenwi i berson nad yw’n gynhyrchydd mawr sy’n ddarostyngedig i rwymedigaethau o dan reoliad 15(4)(b) neu (3)(b),
+ac eithrio pan fo perchennog brand yn cael ei drin fel cynhyrchydd y pecynwaith hwnnw ar ôl iddo gael ei lenwi.
+Gweithredwr marchnadle ar-lein
+(10) Mae gweithredwr marchnadle ar-lein yn gynhyrchydd mewn perthynas ag—
+(a)
+unrhyw becynwaith ar eitemau a werthir yn ei farchnadle ar-lein gan berson, sy’n gweithredu yng nghwrs busnes, nad yw wedi ymsefydlu yn y Deyrnas Unedig, a
+(b)
+unrhyw becynwaith nas llanwyd a gyflenwir yn ei farchnadle ar-lein—
+(i)
+gan berson, sy’n gweithredu yng nghwrs busnes, nad yw wedi ymsefydlu yn y Deyrnas Unedig;
+(ii)
+i fusnes nad yw’n gynhyrchydd mawr sy’n ddarostyngedig i rwymedigaethau o dan reoliad 15(4)(b) neu (3)(b);
+ar yr amod y daw’r pecynwaith i law yn y Deyrnas Unedig.
+Darparwr gwasanaeth
+(11) Mae darparwr gwasanaeth yn gynhyrchydd mewn perthynas ag unrhyw becynwaith y gellir ei ailddefnyddio, y tro cyntaf y cyflenwir y pecynwaith hwnnw, ond nid fel arall.
+Gwerthwr
+(12) Mae gwerthwr pecynwaith wedi ei lenwi i dreuliwr y pecynwaith hwnnw yn gynhyrchydd mewn perthynas â’r pecynwaith hwnnw, ac at y dibenion hyn, y treuliwr yw’r person sy’n defnyddio’r pecynwaith o dan sylw ddiwethaf cyn ei daflu.
+(13) Yn y Rheoliadau hyn—
+ystyr “brand” (“brand”) yw enw brand, nod masnach neu farc nodweddiadol arall;
+ystyr “pecynwaith wedi ei frandio” (“branded packaging”) yw pecynwaith y mae brand y perchennog brand yn ymddangos arno;
+ystyr “perchennog brand” (“brand owner”), yn ddarostyngedig i baragraff (3), yw person y mae ei frand yn ymddangos ar eitem o becynwaith wedi ei lenwi.
+(14) At ddibenion y rheoliad hwn, mae person yn gweithredu “yng nghwrs busnes” os yw’n gweithredu yng nghwrs arferol cynnal masnach, galwedigaeth neu broffesiwn.Ystyr ymadroddion sy’n ymwneud â thrwyddedwyr a busnesau gweithredu tafarn
+9.—(1) At ddibenion y Rheoliadau hyn, mae person (“T”) yn drwyddedwr pan fo T yn barti mewn cytundeb trwyddedu y mae T yn rhoi ynddo neu odano drwydded i rywun arall i ddefnyddio nod masnach.
+(2) At ddibenion y Rheoliadau hyn, mae person (“P”) yn fusnes gweithredu tafarn pan fo—
+(a)
+P yn barti mewn cytundeb gweithredu tafarn y mae P yn rhoi ynddo neu odano les neu denantiaeth mangre yng Nghymru i rywun arall,
+(b)
+y fangre honno yn cael ei defnyddio gan y tenant er mwyn cynnal gweithgarwch—
+(i)
+gwerthu drwy fanwerthu alcohol i’w yfed yn y fangre, neu yn y fangre a heb fod yn y fangre, neu
+(ii)
+cyflenwi alcohol drwy neu ar ran clwb i aelod o’r clwb, neu ar orchymyn aelod o’r clwb, neu’r ddau, i’w yfed yn y fangre, neu yn y fangre a heb fod yn y fangre, ac
+(c)
+trwydded mangre mewn grym mewn cysylltiad â’r fangre.
+(3) Yn y rheoliad hwn—
+mae i “cyflenwi alcohol” yr un ystyr ag sydd i “supply of alcohol” yn adran 14 o Ddeddf 2003;
+mae i “gwerthu drwy fanwerthu” mewn perthynas ag unrhyw alcohol yr un ystyr ag sydd i “sale by retail” yn adran 192 o Ddeddf 2003;
+mae i “trwydded mangre” yr un ystyr ag sydd i “premises licence” yn adran 11 o Ddeddf 2003.Cyflenwi
+10.—(1) Yn y Rheoliadau hyn, mae person yn “cyflenwi” pecynwaith neu ddeunyddiau pecynwaith os yw’r person hwnnw’n gwneud unrhyw un neu ragor o’r canlynol, naill ai ei hun neu drwy asiant yn gweithredu ar ei ran, mewn perthynas â phecynwaith neu ddeunyddiau pecynwaith sy’n eiddo i’r person hwnnw—
+(a)
+ei werthu neu eu gwerthu, ei roi neu eu rhoi ar log, neu ei roi neu eu rhoi ar fenthyg,
+(b)
+ei ddarparu neu eu darparu yn gyfnewid am unrhyw gydnabyddiaeth heblaw arian,
+(c)
+ei ddarparu neu eu darparu wrth gyflawni unrhyw swyddogaeth statudol, neu mewn cysylltiad â hynny, neu
+(d)
+ei roi neu eu rhoi yn wobr neu yn rhodd fel arall.
+(2) Yn y Rheoliadau hyn, mae mewnforiwr i’w drin fel pe bai’n “cyflenwi” pecynwaith neu ddeunyddiau pecynwaith y mae’r mewnforiwr yn ei fewnforio neu’n eu mewnforio i’r Deyrnas Unedig ac yn ei daflu neu’n eu taflu yno.
+(3) Pan fo’r pecynwaith neu’r deunyddiau pecynwaith yn eiddo i berson nad oes ganddo swyddfa gofrestredig neu brif fan busnes yn y Deyrnas Unedig, mae cyflenwi yn digwydd pan fo person sydd wedi ymsefydlu yn y Deyrnas Unedig yn cyflawni unrhyw un neu ragor o’r gweithredoedd ym mharagraff (1) ar ran y perchennog mewn perthynas â’r pecynwaith hwnnw neu’r deunyddiau pecynwaith hynny.
+(4) Pan fo’r pecynwaith yn becynwaith brand, mae’r perchennog brand i’w drin at ddibenion y Rheoliadau hyn fel pe bai’n cyflenwi’r pecynwaith hwnnw hyd yn oed os nad yw’r perchennog brand yn cyflawni yr un o’r gweithredoedd a restrir ym mharagraff (1) mewn perthynas â’r pecynwaith.
+(5) Nid yw paragraff (4) yn gymwys mewn perthynas ag—
+(a)
+unrhyw becynwaith a fewnforir i’r Deyrnas Unedig gan—
+(i)
+mewnforiwr, oni bai bod y mewnforiwr yn gweithredu fel asiant i’r perchennog brand, neu
+(ii)
+gweithredwr marchnadle ar-lein;
+(b)
+unrhyw becynwaith y gellir ei ailddefnyddio a gyflenwir gan ddarparwr gwasanaeth.Y meini prawf trothwy ar gyfer cynhyrchwyr mawr a bach
+11.—(1) Mae person yn gynhyrchydd mawr os yw’n bodloni’r meini prawf ym mharagraff (3) neu (5).
+(2) Mae person yn gynhyrchydd bach—
+(a)
+os yw’n bodloni’r meini prawf ym mharagraff (4), ond nid y rhai ym mharagraff (3), neu
+(b)
+os yw’n bodloni’r meini prawf ym mharagraff (6), ond nid y rhai ym mharagraff (5).
+(3) Mae person yn bodloni’r meini prawf yn y paragraff hwn—
+(a)
+os oedd trosiant y person hwnnw yn y flwyddyn ariannol ddiwethaf—
+(i)
+y mae cyfrifon archwiliedig ar gael mewn cysylltiad â hi, neu
+(ii)
+pan nad yw cyfrifon archwiliedig yn ofynnol ar gyfer y person hwnnw, y mae cyfrifon ar gael mewn cysylltiad â hi,
+cyn y dyddiad perthnasol yn fwy na £2,000,000, a
+(b)
+os triniodd y person yn y flwyddyn gyfrifo gyfanswm o fwy na 50 tunnell o becynwaith neu ddeunyddiau pecynwaith.
+(4) Mae person yn bodloni’r meini prawf yn y paragraff hwn—
+(a)
+os oedd trosiant y person hwnnw yn y flwyddyn ariannol ddiwethaf—
+(i)
+y mae cyfrifon archwiliedig ar gael mewn cysylltiad â hi, neu
+(ii)
+pan nad yw cyfrifon archwiliedig yn ofynnol ar gyfer y person hwnnw, y mae cyfrifon ar gael mewn cysylltiad â hi,
+cyn y dyddiad perthnasol yn fwy nag £1,000,000, a
+(b)
+os triniodd y person yn y flwyddyn gyfrifo gyfanswm o fwy na 25 o dunelli o becynwaith neu ddeunyddiau pecynwaith.
+(5) Mae pob cwmni mewn grŵp o gwmnïau sy’n gynhyrchydd yn bodloni’r meini prawf yn y paragraff hwn—
+(a)
+os oedd cyfanswm trosiannau’r cwmnïau yn y grŵp sy’n gynhyrchwyr yn fwy na £2,000,000 yn y flwyddyn ariannol ddiwethaf y mae cyfrifon archwiliedig ar gael mewn cysylltiad â hi cyn y dyddiad perthnasol, a
+(b)
+os yw cyfanswm y symiau o becynwaith neu ddeunyddiau pecynwaith a driniwyd gan bob un o’r cwmnïau hynny yn y flwyddyn gyfrifo yn fwy na 50 tunnell o becynwaith neu ddeunyddiau pecynwaith.
+(6) Mae pob cwmni mewn grŵp o gwmnïau sy’n gynhyrchydd yn bodloni’r meini prawf yn y paragraff hwn—
+(a)
+os oedd cyfanswm trosiannau’r cwmnïau yn y grŵp sy’n gynhyrchwyr yn fwy nag £1,000,000 yn y flwyddyn ariannol ddiwethaf y mae cyfrifon archwiliedig ar gael mewn cysylltiad â hi cyn y dyddiad perthnasol, a
+(b)
+os yw cyfanswm y symiau o becynwaith neu ddeunyddiau pecynwaith a driniwyd gan bob un o’r cwmnïau hynny yn y flwyddyn gyfrifo yn fwy na 25 o dunelli o becynwaith neu ddeunyddiau pecynwaith.
+(7) Pan fo person (“CU”) yn gorff corfforedig a ffurfiwyd drwy uno dau neu ragor o gyrff corfforedig—
+(a)
+mae trosiant CU ym mlwyddyn yr uno i’w gyfrifo at ddibenion y rheoliad hwn fel swm trosiannau, yn y flwyddyn ariannol ddiwethaf, bob cwmni sydd wedi ei uno, a
+(b)
+mae CU i’w drin fel pe bai wedi trin ym mlwyddyn yr uno gyfanswm y swm o becynwaith neu ddeunyddiau pecynwaith a driniwyd gan bob un o’r cwmnïau hynny yn y flwyddyn gyfrifo.
+(8) Pan fo asedau ac atebolrwyddau corff corfforedig (“CC”) wedi eu rhannu rhwng dau neu ragor o gyrff corfforedig (“cyrff newydd”), ac nad oes cyfrifon archwiliedig ar gael eto ar gyfer y cyrff newydd—
+(a)
+mae pob corff newydd i’w drin fel pe bai ganddo drosiant sy’n hafal i—
+pan—
+(i)
+“A” yw gwerth asedau’r corff newydd yn dilyn y rhannu,
+(ii)
+“XA” yw gwerth asedau CC cyn y rhannu, a
+(iii)
+“XT” yw trosiant CC yn y flwyddyn cyn blwyddyn y rhannu, a
+(b)
+mae pob corff newydd i’w drin fel pe bai wedi trin swm o becynwaith neu ddeunyddiau pecynwaith sy’n hafal i—
+pan fo i “A” ac “XA” yr ystyr a roddir yn is-baragraff (a), ac ystyr “XP” yw swm y pecynwaith neu’r deunyddiau pecynwaith a driniwyd gan CC yn y flwyddyn cyn blwyddyn y rhannu.
+(9) At ddibenion y rheoliad hwn—
+(a)
+mae cyfrifon archwiliedig i’w trin fel pe baent ar gael, pan fo’r person yn gwmni, pan fo cyfrifon blynyddol wedi eu danfon i’r cofrestrydd o dan adran 441 o Ddeddf Cwmnïau 2006;
+(b)
+“blwyddyn y rhannu” yw’r flwyddyn galendr y rhannwyd ynddi asedau ac atebolrwyddau CC rhwng dau neu ragor o gwmnïau;
+(c)
+ystyr y “dyddiad perthnasol” yw 7 Ebrill mewn blwyddyn rwymedigaeth;
+(d)
+ystyr “grŵp o gwmnïau” yw cwmni daliannol ac un neu ragor o is-gwmnïau, ac at y diben hwn, mae i “is-gwmni” a “cwmni daliannol” yr un ystyr ag sydd i “subsidiary” a “holding company” yn adran 1159 o Ddeddf Cwmnïau 2006.
+(10) At ddibenion y rheoliad hwn, y swm o becynwaith neu ddeunyddiau pecynwaith a drinnir gan berson (“P”) yw’r swm a gyflenwir yn unrhyw wlad yn y Deyrnas Unedig y mae P yn gynhyrchydd mewn cysylltiad ag ef o dan reoliad 8, wedi ei gyfrifo mewn tunelli i’r dunnell agosaf—
+(a)
+gan gynnwys pecynwaith neu ddeunyddiau pecynwaith a fewnforiwyd i’r Deyrnas Unedig gan P, neu gan asiant yn gweithredu ar ran P (ac at y dibenion hyn, mae pecynwaith yn cynnwys pecynwaith y gellir ei ailddefnyddio y tro cyntaf y defnyddir y pecynwaith hwnnw);
+(b)
+heb gynnwys pecynwaith esempt.
+(11) Os yw P yn cyflawni dwy neu ragor o swyddogaethau fel cynhyrchydd o dan reoliad 8 mewn perthynas â’r pecynwaith—
+(a)
+yn ddarostyngedig i is-baragraff (b), mae pob pecynwaith y mae P yn cyflawni swyddogaeth mewn perthynas ag ef i’w ystyried at ddibenion paragraffau (3)(b), (4)(b), (5)(b), (6)(b), (7)(b) ac (8)(b);
+(b)
+os yw’r swyddogaethau a gyflawnir gan P yn cael eu cyflawni mewn perthynas â’r un pecynwaith, nid yw’r pecynwaith hwnnw ond i’w ystyried unwaith at ddibenion paragraffau (3)(b), (4)(b), (5)(b), (6)(b), (7)(b) ac (8)(b).
+(12) Yn y rheoliad hwn—
+ystyr “blwyddyn gyfrifo” (“calculation year”) yw’r flwyddyn galendr cyn blwyddyn rwymedigaeth;
+ystyr “blwyddyn rwymedigaeth” (“obligation year”) yw blwyddyn galendr yr ystyrir mewn cysylltiad â hi a yw person yn ddarostyngedig i ofynion casglu data neu ofynion casglu ac adrodd am ddata o dan y Rheoliadau hyn.Pecynwaith esempt
+12.—(1) Nid yw cynhyrchydd yn ddarostyngedig i rwymedigaethau casglu data na rhwymedigaethau adrodd mewn perthynas ag unrhyw becynwaith neu ddeunyddiau pecynwaith sy’n esempt mewn perthynas â’r cynhyrchydd hwnnw.
+(2) Mae pecynwaith a deunyddiau pecynwaith yn esempt mewn perthynas â chynhyrchydd (“C”) at ddibenion y Rheoliadau hyn, pan fo’r pecynwaith neu’r deunyddiau pecynwaith yn—
+(a)
+pecynwaith sy’n cael ei ailddefnyddio sy’n becynwaith cynradd,
+(b)
+gweddillion cynhyrchu o gynhyrchu pecynwaith neu ddeunyddiau pecynwaith neu o unrhyw broses gynhyrchu arall a ddigwyddodd cyn i C drin y pecynwaith neu’r deunyddiau pecynwaith, neu sy’n digwydd wrth iddo wneud hynny neu ar ôl iddo wneud hynny,
+(c)
+unrhyw becynwaith neu ddeunyddiau pecynwaith a allforiwyd o’r Deyrnas Unedig gan C, gan gynnwys pecynwaith neu ddeunyddiau pecynwaith a allforiwyd drwy asiant yn gweithredu ar ran C neu a allforiwyd fel arall, hyd y gŵyr C yn rhesymol, o’r Deyrnas Unedig (ac eithrio unrhyw becynwaith neu ddeunyddiau pecynwaith a allforiwyd o’r Deyrnas Unedig i osodiad morol),
+(d)
+pecynwaith sy’n cael ei ailddefnyddio sy’n becynwaith eilaidd neu drydyddol, ac eithrio unrhyw becynwaith sy’n cael ei ailddefnyddio o’r fath a fewnforiwyd i’r Deyrnas Unedig, neu
+(e)
+pecynwaith sy’n becynwaith cynllun.
+(3) Ym mharagraff (2)(c), ystyr “gosodiad morol” yw unrhyw ynys artiffisial, gosodiad neu strwythur ar y môr, heblaw llestr.
+(4) Ym mharagraff (2)(e), ystyr “pecynwaith cynllun” yw pecynwaith ar gyfer eitem cynllun yr Alban a grëwyd neu a gynlluniwyd i ddod i gysylltiad uniongyrchol â diod (o fewn yr ystyr a roddir i “drink” yn rheoliad 2(1) o Reoliadau Cynllun Ernes a Dychwelyd yr Alban 2020(1)) ac nid yw’n cynnwys pecynwaith a grëwyd neu a gynlluniwyd i grwpio ynghyd nifer o gydrannau mewn pecyn aml-gynnwys.
+(5) At ddibenion paragraff (4), ystyr “eitem cynllun yr Alban” yw “eitem cynllun” o fewn y diffiniad o “scheme article” a roddir yn rheoliad 3(2) o Reoliadau Cynllun Ernes a Dychwelyd yr Alban 2020, o’i ddarllen fel pe bai, ym mharagraff (b) o’r diffiniad hwnnw, “1 January 2023” wedi ei roi yn lle “16 August 2023”.
+(1)
+O.S.A. 2020/154. Diwygiwyd rheoliadau 2(1) a 3(2) gan O.S.A. 2022/76.Eithrio elusennau rhag rhwymedigaethau casglu data ac adrodd am ddata
+13.  Nid yw’r Rheoliadau hyn yn gymwys i elusen, ac at y dibenion hyn, mae “elusen” yn cynnwys unrhyw beth sy’n elusen—
+(a)
+o fewn yr ystyr a roddir i “charity” yn adran 1(1) o Ddeddf Elusennau 2011(1), neu
+(b)
+at ddibenion adran 202 o Ddeddf Treth Gorfforaeth 2010(2).
+(1)
+2011 p. 25.
+(2)
+2010 p. 4. Diwygiwyd adran 202 gan baragraff 27(2) o Atodlen 6 i Ddeddf Cyllid 2010 (p. 13), adran 35(5) o Ddeddf Cyllid 2014 (p. 26) ac O.S. 2012/964.Analluedd etc.
+14.—(1) Pan fo cynhyrchydd, mewn blwyddyn berthnasol, yn marw, yn mynd yn fethdalwr neu’n dod yn analluog (“y cynhyrchydd cyntaf”), mae’r person hwnnw yn peidio â bod yn ddarostyngedig i unrhyw rwymedigaethau o dan y Rheoliadau hyn ar gyfer y flwyddyn honno.
+(2) Mae unrhyw berson sy’n parhau â gweithgareddau’r cynhyrchydd cyntaf yn dilyn y digwyddiad hwnnw i’w drin fel cynhyrchydd ac mae i fod â rhwymedigaethau’r cynhyrchydd ar gyfer y flwyddyn honno a blynyddoedd wedi hynny.
+(3) Rhaid i unrhyw berson sy’n parhau â gweithgareddau’r cynhyrchydd cyntaf y cyfeirir ato ym mharagraff (1), o fewn 28 o ddiwrnodau yn dechrau â’r diwrnod y mae’r person hwnnw’n dechrau gwneud hynny, hysbysu CNC yn ysgrifenedig am y ffaith honno ac am ddyddiad y farwolaeth, y dyddiad yr aed yn fethdalwr neu natur yr analluedd a’r dyddiad y dechreuodd barhau â gweithgareddau’r cynhyrchydd cyntaf.
+(4) Mewn perthynas â chynhyrchydd sy’n gwmni, mae’r cyfeiriadau at berson yn mynd yn fethdalwr neu’n dod yn analluog ym mharagraffau (1) a (3) i’w dehongli fel cyfeiriadau ato’n dod yn destun datodiad neu dderbynyddiad neu’n mynd i ddwylo’r gweinyddwyr.Rhwymedigaethau cynhyrchwyr
+15.—(1) Mae’r rheoliad hwn yn gymwys i gynhyrchydd (“C”) fel y’i diffinnir o dan reoliad 8(1).
+(2) Os yw C yn gynhyrchydd bach neu fawr sy’n berchennog brand neu’n baciwr/llanwr, mae C yn ddarostyngedig i—
+(a)
+y rhwymedigaethau casglu data yn rheoliad 16(2), a
+(b)
+pan fo C yn gynhyrchydd mawr, y rhwymedigaethau adrodd am ddata yn rheoliad 17(1)(a) a (b).
+(3) Os yw C yn gynhyrchydd bach neu fawr sy’n ddosbarthwr, yn fewnforiwr neu’n ddarparwr gwasanaeth, mae C yn ddarostyngedig i—
+(a)
+y rhwymedigaethau casglu data yn rheoliad 16(3), a
+(b)
+pan fo C yn gynhyrchydd mawr—
+(i)
+sy’n fewnforiwr neu’n ddarparwr gwasanaeth, y rhwymedigaethau adrodd am ddata yn rheoliad 17(1)(a) a (b), neu
+(ii)
+sy’n ddosbarthwr, y rhwymedigaethau adrodd am ddata yn rheoliad 17(1)(a) ac (c).
+(4) Os yw C yn gynhyrchydd bach neu fawr sy’n weithredwr marchnadle ar-lein, mae C yn ddarostyngedig i—
+(a)
+y rhwymedigaethau casglu data yn rheoliad 16(4), a
+(b)
+pan fo C yn gynhyrchydd mawr, y rhwymedigaethau adrodd am ddata yn rheoliad 17(1)(a) a (d).
+(5) Os yw C yn gynhyrchydd bach neu fawr sy’n werthwr, mae C yn ddarostyngedig i’r rhwymedigaethau casglu data yn rheoliad 16(5).
+(6) Pan fo P yn gynhyrchydd bach neu fawr a bod P yn cyflawni mwy nag un swyddogaeth fel cynhyrchydd o dan reoliad 8 mewn perthynas â’r pecynwaith, mae P yn ddarostyngedig i’r rhwymedigaethau a osodir o dan baragraffau (2) i (5), i’r graddau y bônt yn berthnasol, mewn perthynas â phob swyddogaeth y mae P yn ei chyflawni.
+(7) Os yw C yn gynhyrchydd sy’n drwyddedwr neu’n fusnes gweithredu tafarn, mae Atodlen 2 yn gymwys er mwyn pennu a yw C yn ddarostyngedig i’r rhwymedigaethau casglu data yn rheoliad 16(6).
+(8) Nid yw paragraff (7) yn effeithio ar unrhyw rwymedigaethau sydd gan drwyddedwr neu fusnes gweithredu tafarn o dan y Rheoliadau hyn ac eithrio o dan Atodlen 2.Rhwymedigaethau casglu data
+16.—(1) Mae’r rhwymedigaethau casglu data yn y rheoliad hwn fel a ganlyn.
+Cynhyrchydd bach neu fawr: perchennog brand neu baciwr/llanwr
+(2) At ddiben rheoliad 15(2)(a), rhaid i gynhyrchydd sy’n berchennog brand neu’n baciwr/llanwr gadw ar gyfer pob cyfnod casglu data, a dal gafael arni am o leiaf 7 mlynedd ar ôl diwedd y cyfnod casglu data y mae’n ymwneud ag ef—
+(a)
+pan fo’r cynhyrchydd yn gynhyrchydd bach, yr wybodaeth y cyfeirir ati ym mharagraff 10(2) o Atodlen 1, neu
+(b)
+pan fo’r cynhyrchydd yn gynhyrchydd mawr—
+(i)
+yr wybodaeth y cyfeirir ati ym mharagraffau 10(3)(a) ac 20(b) o Atodlen 1,
+(ii)
+tystiolaeth o’r swm o wastraff pecynwaith y mae wedi ei gasglu a’i anfon i’w ailgylchu, fel yr adroddir amdano o dan baragraff 22(1) a (3) o Atodlen 1, a
+(iii)
+tystiolaeth fod unrhyw wastraff pecynwaith perthnasol sydd wedi ei gynnwys yn y gwastraff pecynwaith y cyfeirir ato ym mharagraff (ii) wedi ei ailgylchu.
+Cynhyrchydd bach neu fawr: dosbarthwr, mewnforiwr neu ddarparwr gwasanaeth
+(3) At ddiben rheoliad 15(3)(a), rhaid i gynhyrchydd sy’n ddosbarthwr, yn fewnforiwr neu’n ddarparwr gwasanaeth gadw ar gyfer pob cyfnod casglu data, a dal gafael arnynt neu arni am o leiaf 7 mlynedd ar ôl diwedd y cyfnod casglu data y mae’n ymwneud ag ef—
+(a)
+pan fo’r cynhyrchydd yn gynhyrchydd bach, gofnodion o’r wybodaeth y cyfeirir ati ym mharagraffau 10(2) ac 20(a) o Atodlen 1, neu
+(b)
+pan fo’r cynhyrchydd yn gynhyrchydd mawr—
+(i)
+cofnodion o’r wybodaeth y cyfeirir ati ym mharagraffau 10(3)(a) ac 20(c) o Atodlen 1,
+(ii)
+tystiolaeth o’r swm o wastraff pecynwaith y mae wedi ei gasglu a’i anfon i’w ailgylchu, fel yr adroddir amdano o dan baragraff 22(1) a (3) o Atodlen 1, a
+(iii)
+tystiolaeth fod unrhyw wastraff pecynwaith perthnasol sydd wedi ei gynnwys yn y gwastraff pecynwaith y cyfeirir ato ym mharagraff (ii) wedi ei ailgylchu.
+Cynhyrchydd bach neu fawr: gweithredwr marchnadle ar-lein
+(4) At ddiben rheoliad 15(4)(a), rhaid i gynhyrchydd sy’n weithredwr marchnadle ar-lein gadw ar gyfer pob cyfnod casglu data, a dal gafael arnynt am o leiaf 7 mlynedd ar ôl diwedd y cyfnod casglu data y maent yn ymwneud ag ef—
+(a)
+pan fo’r cynhyrchydd yn gynhyrchydd bach, gofnodion o’r wybodaeth y cyfeirir ati ym mharagraffau 17(a) ac 20(a) o Atodlen 1, neu
+(b)
+pan fo’r cynhyrchydd yn gynhyrchydd mawr, gofnodion o’r wybodaeth y cyfeirir ati ym mharagraffau 17(b) ac 20(c) o Atodlen 1.
+Cynhyrchydd bach neu fawr: gwerthwr
+(5) At ddiben rheoliad 15(5), rhaid i gynhyrchydd sy’n werthwr gadw ar gyfer pob cyfnod casglu data, a dal gafael arnynt am o leiaf 7 mlynedd ar ôl diwedd y cyfnod casglu data y maent yn ymwneud ag ef—
+(a)
+pan fo’r cynhyrchydd yn gynhyrchydd bach, gofnodion o’r wybodaeth y cyfeirir ati ym mharagraff 20(a) o Atodlen 1, neu
+(b)
+pan fo’r cynhyrchydd yn gynhyrchydd mawr, gofnodion o’r wybodaeth y cyfeirir ati ym mharagraff 20(c) o Atodlen 1.
+Trwyddedwr a busnes gweithredu tafarn
+(6) At ddiben rheoliad 15(7), rhaid i gynhyrchydd sy’n drwyddedwr neu’n fusnes gweithredu tafarn gadw ar gyfer pob cyfnod casglu data, a dal gafael arnynt am o leiaf 7 mlynedd ar ôl diwedd y cyfnod casglu data y maent yn ymwneud ag ef, gofnodion o’r wybodaeth y cyfeirir ati ym mharagraff 20(d) o Atodlen 1.
+(7) Yn y Rheoliadau hyn, ystyr “gwastraff pecynwaith perthnasol” yw—
+(a)
+gwastraff pecynwaith na chaiff ei gasglu o gartrefi i’w ailgylchu gan fwy na 75% o’r awdurdodau perthnasol yng Nghymru sy’n gyfrifol am gasglu gwastraff, a
+(b)
+pecynwaith y gellir ei ailddefnyddio sydd wedi ei ailddefnyddio ac wedi mynd yn wastraff, pa un a yw’n cael ei gasglu o gartrefi i’w ailgylchu gan fwy na 75% o’r awdurdodau perthnasol yng Nghymru sy’n gyfrifol am gasglu gwastraff ai peidio.Rhwymedigaethau adrodd am ddata
+17.—(1) Rhaid i gynhyrchydd mawr (“CM”) sy’n ddarostyngedig i rwymedigaethau yn y rheoliad hwn, yn ddarostyngedig i baragraff (2), adrodd am yr wybodaeth a ganlyn i CNC bob chwe mis yn unol â’r rheoliad hwn, ar ba ffurf bynnag a gyfarwyddir gan CNC—
+(a)
+yr wybodaeth yn Rhan 2 o Atodlen 1,
+(b)
+pan fo CM yn berchennog brand, yn baciwr/llanwr, yn fewnforiwr neu’n ddarparwr gwasanaeth, yr wybodaeth y cyfeirir ati ym mharagraffau 10(3) a 22 o Atodlen 1,
+(c)
+pan fo CM yn ddosbarthwr, yr wybodaeth y cyfeirir ati ym mharagraffau 10 i 16 a 22 o Atodlen 1, a
+(d)
+pan fo CM yn weithredwr marchnadle ar-lein, yr wybodaeth y cyfeirir ati ym mharagraffau 17(b) a 22 o Atodlen 1.
+(2) Rhaid gwneud yr adroddiad cyntaf sy’n ofynnol o dan baragraff (1)—
+(a)
+ar gyfer y cyfnod sy’n dechrau â’r dyddiad y daw’r Rheoliadau hyn i rym (“y dyddiad cychwyn”) ac sy’n dod i ben â 31 Rhagfyr 2023, neu
+(b)
+os oes gan CM ddata i adrodd am y cyfnod o 1 Ionawr 2023 hyd y dyddiad cychwyn, ar gyfer y cyfnod sy’n dechrau â 1 Ionawr 2023 ac sy’n dod i ben â 31 Rhagfyr 2023,
+a rhaid ei gyflwyno ar neu cyn 1 Ebrill 2024.
+(3) Rhaid cyflwyno adroddiadau wedi hynny—
+(a)
+ar gyfer y chwe mis sy’n dod i ben â 30 Mehefin, ar neu cyn 1 Hydref yn yr un flwyddyn;
+(b)
+ar gyfer y chwe mis sy’n dod i ben â 31 Rhagfyr, ar neu cyn 1 Ebrill yn y flwyddyn ganlynol.
+(4) Rhaid i CM sicrhau bod yr wybodaeth yr adroddir amdani i CNC o dan y rheoliad hwn—
+(a)
+mor gywir ag sy’n rhesymol bosibl, a
+(b)
+wedi ei dilysu drwy lofnod person a gymeradwywyd CM.Hysbysu am ddirwyn i ben, derbynyddiad, mynd i ddwylo’r gweinyddwyr, etc.
+18.—(1) Rhaid i gynhyrchydd hysbysu CNC cyn gynted ag y bo’n ymarferol ar ôl dod i wybod bod un neu ragor o amgylchiadau perthnasol yn gymwys neu ar fin bod yn gymwys iddo.
+(2) At ddibenion y rheoliad hwn, “amgylchiadau perthnasol” yw—
+(a)
+yn achos corff corfforedig—
+(i)
+bod gorchymyn dirwyn i ben wedi ei wneud neu fod cynnig dirwyn i ben yn wirfoddol wedi ei basio;
+(ii)
+bod penderfyniad i ddirwyn i ben yn wirfoddol wedi ei wneud;
+(iii)
+bod derbynnydd neu reolwr ymgymeriad y cwmni neu’r bartneriaeth atebolrwydd cyfyngedig wedi ei benodi’n briodol;
+(iv)
+bod ei ymgymeriad wedi mynd i ddwylo’r gweinyddwyr;
+(v)
+bod trefniant gwirfoddol a gynigiwyd at ddibenion Rhan 1 o Ddeddf Ansolfedd 1986(1) wedi ei gymeradwyo o dan y Rhan honno o’r Ddeddf;
+(b)
+yn achos unigolyn—
+(i)
+bod moratoriwm wedi ei roi mewn gorchymyn rhyddhau o ddyled, o fewn yr ystyr a roddir i “debt relief order” gan adran 251A o Ddeddf Ansolfedd 1986;
+(ii)
+bod cyfansoddiad neu drefniant wedi ei wneud gyda’r credydwyr;
+(iii)
+bod derbynnydd neu ymddiriedolwr methdaliad wedi ei benodi’n briodol;
+(iv)
+bod gorchymyn methdalu wedi ei wneud.
+(1)
+1986 p. 45Cynhyrchwyr ac aelodaeth o gynllun
+19.—(1) Pan fo cynhyrchydd yn aelod o gynllun cofrestredig drwy gydol blwyddyn berthnasol, mae’r cynhyrchydd wedi ei esemptio rhag ei rwymedigaethau adrodd am ddata o dan reoliad 17 ar gyfer y flwyddyn berthnasol.
+(2) Mae paragraff (1) yn gymwys os yw’r cynhyrchydd—
+(a)
+yn darparu unrhyw wybodaeth y mae gweithredwr y cynllun yn gofyn amdani at ddibenion bodloni ei rwymedigaethau o dan reoliad 20 o fewn cyfnod rhesymol i gael cais o’r fath,
+(b)
+yn sicrhau bod yr wybodaeth a ddarperir—
+(i)
+ar ba ffurf bynnag a gyfarwyddir gan weithredwr y cynllun a CNC,
+(ii)
+wedi ei dilysu drwy lofnod person a gymeradwywyd y cynhyrchydd, a
+(iii)
+mor gywir ag sy’n rhesymol bosibl, ac
+(c)
+yn talu unrhyw ffi sy’n ofynnol am aelodaeth o’r cynllun.Cynlluniau: darpariaethau cyffredinol
+20.—(1) Rhaid i weithredwr cynllun cofrestredig (“GC”) gyflawni rhwymedigaethau adrodd am ddata o dan reoliad 17 bob cynhyrchydd sy’n aelod o gynllun y mae GC yn ei weithredu, ar yr amod bod y cynhyrchydd yn bodloni’r amodau yn rheoliad 19(2).
+(2) Rhaid i GC gadw cofnodion o unrhyw wybodaeth a ddarperir i GC gan ei aelodau er mwyn galluogi GC i wneud yr adroddiadau sy’n ofynnol o dan baragraff (1), am o leiaf 7 mlynedd ar ôl y dyddiad y cyflwynir yr adroddiad i CNC.Newidiadau yng nghanol blwyddyn
+21.—(1) Mae’r rheoliad hwn yn gymwys o ran newidiadau i aelodaeth cynllun cofrestredig.
+(2) Pan fo person sy’n gynhyrchydd mewn cysylltiad â blwyddyn berthnasol yn dod yn aelod o gynllun cofrestredig yn ystod y flwyddyn honno, rhaid i rwymedigaethau adrodd am ddata y cynhyrchydd sy’n weddill ar gyfer y flwyddyn honno, y cyfeirir atynt yn rheoliad 20(1), gael eu cyflawni drwy’r cynllun.
+(3) Pan fo person sy’n gynhyrchydd mewn cysylltiad â blwyddyn berthnasol yn peidio â bod yn aelod o gynllun cofrestredig yn ystod y flwyddyn honno, rhaid i’r person hwnnw gydymffurfio â’i rwymedigaethau adrodd am ddata sy’n weddill ar gyfer y flwyddyn honno.
+(4) Pan fo person sy’n gynhyrchydd mewn cysylltiad â blwyddyn yn peidio â bod yn aelod o un cynllun cofrestredig (“y cynllun cyntaf”) ac yn dod yn aelod o gynllun cofrestredig arall (“yr ail gynllun”) yn ystod y flwyddyn honno, nid yw’n ofynnol i’r cynllun cyntaf gyflawni unrhyw un neu ragor o rwymedigaethau adrodd am ddata’r cynhyrchydd sy’n weddill, y cyfeirir atynt yn rheoliad 20(1), a rhaid i’r holl rwymedigaethau hynny gael eu cyflawni drwy’r ail gynllun.Cyhoeddi eitemau a ailgylchir gan awdurdodau perthnasol
+22.  Rhaid i CNC gyhoeddi—
+(a)
+rhestr o’r eitemau a gesglir i’w hailgylchu o gartrefi gan bob awdurdod perthnasol yng Nghymru sy’n gyfrifol am gasglu gwastraff, a
+(b)
+rhestr o’r eitemau hynny a gesglir i’w hailgylchu o gartrefi gan fwy na 75% o’r awdurdodau perthnasol yng Nghymru sy’n gyfrifol am gasglu gwastraff.Monitro
+23.—(1) Rhaid i CNC fonitro yn unol â’r rheoliad hwn—
+(a)
+cydymffurfedd personau sy’n gynhyrchwyr neu a all fod yn gynhyrchwyr â’u rhwymedigaethau casglu data a’u rhwymedigaethau adrodd am ddata, a
+(b)
+cydymffurfedd gweithredwyr cynlluniau â’r rhwymedigaethau y cyfeirir atynt yn rheoliad 20(1).
+(2) At ddibenion cyflawni ei swyddogaethau o dan y Rheoliadau hyn, caiff CNC gyflwyno hysbysiad ysgrifenedig (“hysbysiad gwybodaeth”)—
+(a)
+i unrhyw berson y mae arno, neu y mae gan CNC reswm i gredu bod arno, rwymedigaethau casglu data neu rwymedigaethau adrodd am ddata;
+(b)
+mewn perthynas ag unrhyw berson sy’n aelod o gynllun cofrestredig, i weithredwr y cynllun hwnnw.
+(3) Caiff hysbysiad gwybodaeth ei gwneud yn ofynnol i’r person hwnnw gadw cofnodion, a chyflenwi i CNC unrhyw ddata a bennir yn yr hysbysiad y mae CNC yn ystyried yn rhesymol fod ei angen arno at y dibenion hynny, ar ba ffurf bynnag ac o fewn pa gyfnod bynnag ar ôl cyflwyno’r hysbysiad, neu ar ba adeg bynnag, a bennir yn yr hysbysiad.Personau a gymeradwywyd
+24.—(1) Caiff CNC gymeradwyo person a restrir ym mharagraff (2) at ddibenion—
+(a)
+dilysu gwybodaeth yr adroddir amdani gan gynhyrchydd i CNC o dan reoliad 17(4)(b), neu
+(b)
+dilysu gwybodaeth a ddarperir gan gynhyrchydd i weithredwr cynllun o dan reoliad 19(2)(b)(ii).
+(2) Y personau a restrir, pan fo’r cynhyrchydd—
+(a)
+yn unigolyn, yw’r unigolyn hwnnw,
+(b)
+yn bartneriaeth, yw partner,
+(c)
+yn bartneriaeth atebolrwydd cyfyngedig, yw aelod o’r bartneriaeth honno,
+(d)
+yn gwmni sydd wedi ei gofrestru yn y Deyrnas Unedig, yw cyfarwyddwr neu ysgrifennydd cwmni y cwmni hwnnw,
+(e)
+yn gorff anghorfforedig, yw unigolyn sydd â rheolaeth dros y corff hwnnw neu sy’n rheoli’r corff hwnnw, neu
+(f)
+yn gwmni nad oes ganddo swyddfa gofrestredig yn y Deyrnas Unedig, yw unigolyn sydd â rheolaeth dros y cynhyrchydd neu sy’n rheoli’r cynhyrchydd.
+(3) Yn ddarostyngedig i reoliad 25, caiff CNC gymeradwyo dirprwyo gan berson a gymeradwywyd swyddogaethau’r person i unrhyw berson arall.
+(4) Caiff person a gymeradwywyd sydd wedi dirprwyo swyddogaethau o dan baragraff (3) barhau i gyflawni’r swyddogaethau hynny.
+(5) At ddibenion y Rheoliadau hyn, mae gweithred gan ddirprwy yn cyflawni swyddogaethau person a gymeradwywyd ar ran y person hwnnw i’w drin fel gweithred y person a gymeradwywyd.
+(6) Yn y rheoliad hwn, ystyr “swyddogaethau” yw’r swyddogaethau y cyfeirir atynt ym mharagraff (1) o’r rheoliad hwn.Dirprwyo swyddogaethau person a gymeradwywyd: y weithdrefn
+25.—(1) Rhaid i berson a gymeradwywyd sy’n cynnig dirprwyo ei swyddogaethau i berson arall o dan reoliad 24(3) wneud cais am gymeradwyaeth i CNC ar ffurflen a gyflenwir at y diben hwnnw gan CNC, wedi ei llofnodi gan y person a gymeradwywyd.
+(2) Rhaid i gais am gymeradwyaeth o dan baragraff (1), o fewn 28 o ddiwrnodau i gael y cais—
+(a)
+cael ei ganiatáu pan fo CNC wedi ei fodloni y gall y dirprwy a gynigir, ac ystyried y ffactorau a bennir ym mharagraff (3), gyflawni’r swyddogaethau ar ran y person a gymeradwywyd, neu
+(b)
+cael ei wrthod fel arall.
+(3) Y ffactorau a grybwyllir ym mharagraff (2)(a) yw—
+(a)
+os yw’r dirprwy a gynigir yn gyflogai i’r cynhyrchydd neu i weithredwr y cynllun, pa mor uchel yw safle’r dirprwy a gynigir,
+(b)
+os nad yw’r dirprwy a gynigir yn gyflogai i’r cynhyrchydd neu i weithredwr y cynllun, natur perthynas y dirprwy a gynigir â’r person a gymeradwywyd,
+(c)
+i ba raddau y mae’r dirprwy a gynigir yn gyfarwydd â’r wybodaeth sy’n angenrheidiol at ddibenion cyflawni’r swyddogaethau ar ran y person a gymeradwywyd, neu i ba raddau y mae ganddo fynediad at yr wybodaeth honno, a
+(d)
+unrhyw ffactor arall y mae CNC yn meddwl yn rhesymol ei fod yn berthnasol.
+(4) Caiff cymeradwyaeth a ganiateir yn unol â pharagraff (2)(a) fod am ba gyfnod bynnag, neu’n ddarostyngedig i ba amodau eraill bynnag, a bennir gan CNC.
+(5) Pan ganiateir cais am gymeradwyaeth yn unol â pharagraff (2)(a), rhaid i CNC hysbysu’r person a gymeradwywyd yn ysgrifenedig am hyn, ac am unrhyw amodau y mae wedi eu gosod yn unol â pharagraff (4), o fewn 28 o ddiwrnodau i’w benderfyniad.
+(6) Caiff CNC benderfynu tynnu yn ôl gymeradwyaeth a ganiatawyd o dan baragraff (2)(a) ac, os gwneir penderfyniad o’r fath, rhaid iddo gyflwyno i’r person a gymeradwywyd hysbysiad ysgrifenedig am—
+(a)
+y penderfyniad i dynnu cymeradwyaeth yn ôl;
+(b)
+y rheswm dros y penderfyniad;
+(c)
+y dyddiad y mae’r tynnu yn ôl yn cael effaith, heb fod yn gynharach nag 28 o ddiwrnodau ar ôl dyddiad yr hysbysiad, gan ddechrau â dyddiad yr hysbysiad.
+(7) Os yw person a gymeradwywyd yn cynnig dirymu dirprwyaeth a ganiatawyd o dan baragraff (2)(a), rhaid i’r person gyflwyno hysbysiad ysgrifenedig i CNC am hyn ac am y dyddiad pan fo’r dirymiad yn cael effaith, heb fod yn gynharach nag 28 o ddiwrnodau o ddyddiad yr hysbysiad.
+(8) Yn y rheoliad hwn, ystyr “swyddogaethau” yw’r swyddogaethau y cyfeirir atynt yn rheoliad 24(1).Mynediad ac arolygu
+26.—(1) Caiff CNC, at y dibenion perthnasol, awdurdodi yn ysgrifenedig berson yr ymddengys iddo ei fod yn addas i arfer yng Nghymru y pwerau mynediad ac arolygu y cyfeirir atynt ym mharagraff (3).
+(2) Y dibenion perthnasol yw dibenion—
+(a)
+swyddogaethau CNC o dan y Rheoliadau hyn;
+(b)
+cynorthwyo rheoleiddiwr y DU arall sydd â swyddogaethau cyfatebol i CNC.
+(3) Y pwerau mynediad ac arolygu yw’r rheini a nodir yn adran 108(4)(a) i (l) o Ddeddf 1995 (pwerau awdurdodau gorfodi a phersonau a awdurdodir ganddynt) o ran Cymru.
+(4) At ddibenion y Rheoliadau hyn, mae adran 108(4) o Ddeddf 1995 i’w darllen fel pe bai cyfeiriadau at y person awdurdodedig yn gyfeiriadau at berson a awdurdodir o dan baragraff (1) o’r rheoliad hwn ac fel pe bai—
+(a)
+y geiriau “(or, in an emergency, at any time and, if need be, by force)” yn adran 108(4)(a) wedi eu hepgor;
+(b)
+yn adran 108(4)(f), “packaging and packaging materials found in land or any premises which that person has power to enter” wedi ei roi yn lle’r geiriau o “articles or substances” hyd at y diwedd;
+(c)
+adran 108(4)(g) wedi ei hepgor;
+(d)
+y cyfeiriadau yn adran 108(4)(h) at unrhyw eitem neu sylwedd yn gyfeiriadau at unrhyw sampl a gymerir neu y caniateir ei chymryd o dan adran 108(4)(f), fel y’i haddesir gan is-baragraff (b) ac fel pe bai’r cyfeiriadau at drosedd yn adran 108(4)(h)(iii) yn gyfeiriadau at drosedd o dan reoliad 28 o’r Rheoliadau hyn;
+(e)
+y cyfeiriad at gofnodion yn adran 108(4)(k)(i) yn gyfeiriadau at y cofnodion a’r wybodaeth y mae’n ofynnol eu cadw a’u darparu i CNC o dan y Rheoliadau hyn;
+(f)
+y geiriau “(other than an article or substance within paragraph (g))” yn adran 108(4)(ka)(ii) wedi eu hepgor;
+(g)
+y cyfeiriad yn adran 108(4)(l) at y pŵer a roddir gan adran 108 yn gyfeiriad at y pŵer a roddir gan y rheoliad hwn.
+(5) Mae darpariaethau adran 108(6) i (7F) ac adran 108A o Ddeddf 1995 yn gymwys i’r pwerau a roddir gan baragraffau (1) a (2) o’r rheoliad hwn fel y maent yn gymwys i’r pwerau a roddir gan adran 108(4) o Ddeddf 1995 yn y drefn honno fel y mae’n gymwys o ran Cymru, ond fel pe bai unrhyw gyfeiriad at berson awdurdodedig yn gyfeiriad at berson a awdurdodwyd o dan baragraff (1) o’r rheoliad hwn, ac fel pe bai—
+(a)
+yn adran 108(6) a (7), y geiriau “Except in an emergency” wedi eu hepgor;
+(b)
+yn adran 108(6), y geiriau “or to take heavy equipment on to any premises which are to be entered” wedi eu hepgor;
+(c)
+yn adran 108(7B)(a), y cyfeiriad at ddeddfiadau rheoli llygredd neu ddeddfiadau gweithgarwch rheoli llifogydd yn gyfeiriad at y Rheoliadau hyn.
+(6) Mae darpariaethau adran 108(12), (12A) a (13) o Ddeddf 1995, fel y maent yn gymwys o ran Cymru, yn gymwys i’r pwerau a roddir gan baragraffau (1) a (2) o’r rheoliad hwn fel y maent yn gymwys i’r pwerau a roddir gan adran 108(4) o Ddeddf 1995.
+(7) Mae darpariaethau paragraffau 2 i 6 o Atodlen 18 i Ddeddf 1995 (darpariaethau atodol mewn cysylltiad â phwerau mynediad), fel y maent yn gymwys o ran Cymru, yn gymwys i’r pwerau a roddir gan y rheoliad hwn fel y maent yn gymwys i’r pwerau a roddir gan adran 108 o Ddeddf 1995 yn y drefn honno, ond fel pe bai unrhyw gyfeiriad—
+(a)
+at berson dynodedig yn gyfeiriad at berson a awdurdodir yn ysgrifenedig gan CNC i arfer ar ei ran unrhyw bŵer a roddir gan y rheoliad hwn,
+(b)
+at bŵer perthnasol yn gyfeiriad at bŵer a roddir gan y rheoliad hwn, gan gynnwys pŵer sy’n arferadwy yn rhinwedd gwarant o dan ddarpariaethau’r Atodlen fel y’u cymhwysir gan y paragraff hwn, ac
+(c)
+ym mharagraff 6(1) at adran 108(4)(a) neu (b) neu (5) o Ddeddf 1995 yn gyfeiriad at baragraff (1) o’r rheoliad hwn.
+(8) Yn y rheoliad hwn—
+ystyr “Deddf 1995” (“the 1995 Act”) yw Deddf yr Amgylchedd 1995(1);
+ystyr “gwarant” (“warrant”) yw gwarant o dan y darpariaethau a nodir yn Atodlen 18 i Ddeddf 1995 fel y’u cymhwysir gan baragraff (7) o’r rheoliad hwn.
+(1)
+1995 p. 25Rhannu gwybodaeth
+27.  Caiff CNC rannu unrhyw wybodaeth y mae’n ei chael o dan y Rheoliadau hyn â’r endidau a ganlyn er mwyn eu galluogi i gyflawni eu swyddogaethau—
+(a)
+rheoleiddiwr y DU arall,
+(b)
+Gweinidogion Cymru, neu
+(c)
+unrhyw endid neu swyddfa a awdurdodir gan Weinidogion Cymru i gael yr wybodaeth honno.Troseddau a chosbau
+28.—(1) Mae person sy’n torri’r gofyniad yn rheoliad 14(3) (hysbysiad i CNC) yn euog o drosedd.
+(2) Mae cynhyrchydd yn euog o drosedd os yw’n torri gofyniad o dan unrhyw un neu ragor o’r canlynol—
+(a)
+rheoliad 16 (rhwymedigaethau casglu data);
+(b)
+rheoliad 17(2) a (3) (rhwymedigaethau adrodd am ddata);
+(c)
+rheoliad 18 (hysbysu am ddirwyn i ben, derbynyddiad, mynd i ddwylo’r gweinyddwyr etc).
+(3) Mae gweithredwr cynllun cofrestredig yn euog o drosedd os yw’n torri gofyniad o dan unrhyw un neu ragor o’r canlynol—
+(a)
+rheoliad 20(1) (rhwymedigaethau adrodd);
+(b)
+rheoliad 20(2) (rhwymedigaethau cadw cofnodion).
+(4) Mae person sy’n darparu unrhyw wybodaeth i CNC mewn cysylltiad â swyddogaethau’r corff o dan y Rheoliadau hyn yn euog o drosedd os yw’r person hwnnw, wrth ddarparu’r wybodaeth—
+(a)
+yn gwybod bod yr wybodaeth yn anwir neu’n gamarweiniol o ran manylyn perthnasol, neu
+(b)
+yn darparu’r wybodaeth honno yn ddi-hid, a’r wybodaeth yn anwir neu’n gamarweiniol o ran manylyn perthnasol.
+(5) Mae person sy’n methu heb esgus rhesymol â chydymffurfio ag unrhyw ofyniad a osodir mewn hysbysiad o dan reoliad 23(2) (monitro) yn euog o drosedd.
+(6) Mae person sydd—
+(a)
+yn methu, heb esgus rhesymol, â rhoi unrhyw gynhorthwy neu wybodaeth i swyddog o CNC (“swyddog”) y mae’n rhesymol ofynnol i’r swyddog hwnnw ei gael neu ei chael wrth arfer ei bwerau o dan reoliad 26, neu
+(b)
+yn fwriadol yn peri oedi neu rwystr i swyddog wrth arfer pwerau y cyfeirir atynt yn rheoliad 26,
+yn euog o drosedd.
+(7) Mae trosedd o dan unrhyw un neu ragor o baragraffau (1) i (6) i’w chosbi—
+(a)
+ar euogfarn ar dditiad, drwy ddirwy, neu
+(b)
+ar euogfarn ddiannod, drwy ddirwy.
+(8) Pan—
+(a)
+bo trosedd o dan y Rheoliadau hyn wedi ei chyflawni gan gorff corfforedig neu gan gymdeithas anghorfforedig, a
+(b)
+profir bod y drosedd wedi ei chyflawni gyda chydsyniad neu ymoddefiad, neu y gellir ei phriodoli i unrhyw esgeulustod ar ran—
+(i)
+unigolyn perthnasol, neu
+(ii)
+unigolyn sy’n honni ei fod yn gweithredu yn rhinwedd unigolyn perthnasol,
+mae’r unigolyn hwnnw yn ogystal â’r corff corfforedig neu’r gymdeithas anghorfforedig yn cyflawni trosedd ac yn agored i gael ei erlyn a’i gosbi yn unol â hynny.
+(9) Os yw trosedd a gyflawnir gan berson o dan y rheoliad hwn o ganlyniad i weithred neu ddiffyg rhyw berson arall, mae’r person arall hwnnw hefyd yn euog o’r drosedd ac yn agored i gael ei erlyn a’i gosbi yn unol â hynny, pa un a yw’r person a grybwyllir gyntaf yn cael ei erlyn am y drosedd ai peidio.
+(10) Ym mharagraff (8), ystyr “unigolyn perthnasol” yw—
+(a)
+mewn perthynas â chorff corfforedig—
+(i)
+cyfarwyddwr, aelod o’r pwyllgor rheoli, prif weithredwr, rheolwr, ysgrifennydd neu swyddog tebyg arall i’r corff, neu berson sy’n honni ei fod yn gweithredu yn unrhyw rinwedd o’r fath;
+(ii)
+pan reolir materion y corff gan ei aelodau, aelod;
+(b)
+mewn partneriaeth atebolrwydd cyfyngedig, aelod;
+(c)
+mewn perthynas â phartneriaeth heblaw partneriaeth atebolrwydd cyfyngedig, partner;
+(d)
+mewn perthynas â chymdeithas anghorfforedig heblaw partneriaeth, person sy’n ymwneud â rheoli’r gymdeithas neu sydd â rheolaeth drosti.Gorfodi
+29.  Gorfodir y Rheoliadau hyn gan CNC.Julie James
+Y Gweinidog Newid Hinsawdd, un o Weinidogion Cymru
+12 Gorffennaf 2023Rheoliadau 16 a 17
+ATODLEN 1
+Casglu ac adrodd am wybodaeth
+RHAN 1
+Dehongli
+1.  Yn yr Atodlen hon—
+(a)
+ystyr “cyfnod adrodd cyntaf” yw—
+(i)
+y cyfnod sy’n dechrau ar y dyddiad y daw’r Rheoliadau hyn i rym ac sy’n dod i ben ar 31 Rhagfyr 2023, neu
+(ii)
+pan fo rheoliad 17(2)(b) yn gymwys, y cyfnod o ddeuddeng mis sy’n dechrau ar 1 Ionawr 2023 ac sy’n dod i ben ar 31 Rhagfyr 2023;
+(b)
+ystyr “cyfnod adrodd”, heblaw’r cyfnod adrodd cyntaf, yw cyfnod o chwe mis sy’n dechrau ar 1 Ionawr neu 1 Gorffennaf;
+(c)
+ystyr “cyfnod perthnasol” yw’r cyfnod casglu data ar gyfer gwybodaeth sy’n ofynnol at ddibenion rheoliad 16, a’r cyfnod adrodd at ddibenion rheoliad 17;
+(d)
+mae cyfeiriadau at bwysau pecynwaith mewn cilogramau neu dunelli yn gyfeiriadau at bwysau gwirioneddol, mesuredig y pecynwaith hwnnw mewn cilogramau i’r cilogram agosaf, neu mewn tunelli i’r dunnell agosaf.
+RHAN 2
+Gwybodaeth gyffredinol
+2.  Enw, cyfeiriad a rhif ffôn swyddfa gofrestredig y cynhyrchydd neu, os nad cwmni ydyw, prif swyddfa neu brif fan busnes y cynhyrchydd.
+3.  Enw busnes y cynhyrchydd os yw’n wahanol i’r enw y cyfeirir ato ym mharagraff 2.
+4.  Enw a manylion cyswllt yr unigolyn yn y cynhyrchydd sy’n gyfrifol am ddelio ag ymholiadau gan CNC.
+5.  Y cyfeiriad ar gyfer cyflwyno hysbysiadau i’r cynhyrchydd os yw’n wahanol i’r cyfeiriad y cyfeirir ato ym mharagraff 2.
+6.  Pan fo’r cynhyrchydd yn bartneriaeth, enwau’r holl bartneriaid.
+7.  Pob dosbarth ar gynhyrchydd y mae’r cynhyrchydd yn perthyn iddo.
+8.  Os yw’n perthyn i fwy nag un dosbarth ar gynhyrchydd, pa un o’r dosbarthau hynny sy’n ffurfio ei brif weithgarwch fel cynhyrchydd.
+9.  Pan fo’r cynhyrchydd yn berchennog brand—
+(a)
+manylion yr holl enwau, nodau masnach a marciau nodweddiadol eraill sy’n ymddangos ar becynwaith y mae’r perchennog brand yn gyfrifol amdano;
+(b)
+pa un a yw’r perchennog brand hefyd yn cynhyrchu pecynwaith nad oes unrhyw enw, nod masnach na marc nodweddiadol arall yn ymddangos arno ai peidio.
+RHAN 3
+Yr wybodaeth sy’n ofynnol gan berchnogion brand, mewnforwyr, dosbarthwyr a darparwyr gwasanaethau
+10.—(1) Mae’r Rhan hon yn gymwys i gynhyrchwyr—
+(a)
+sy’n berchnogion brand neu, ar gyfer pecynwaith nad oes perchennog brand iddo, sy’n bacwyr/llanwyr,
+(b)
+sy’n fewnforwyr,
+(c)
+sy’n ddosbarthwyr, neu
+(d)
+sy’n ddarparwyr gwasanaethau.
+(2) Rhaid i gynhyrchydd bach gadw cofnodion o’r wybodaeth ym mharagraffau 11 a 13(1)(a), (b) a (d) fel sy’n ofynnol gan reoliad 16(2)(a) neu (3)(a).
+(3) Rhaid i gynhyrchydd mawr (“CM”)—
+(a)
+cadw cofnodion o’r wybodaeth a nodir ym mharagraffau 11 i 16 ar gyfer y cyfnod casglu data fel sy’n ofynnol gan reoliad 16(2)(b) neu (3)(b), a
+(b)
+fel sy’n ofynnol gan reoliad 17(1), adrodd ar yr wybodaeth honno mewn perthynas â’r cyfnod adrodd cyntaf a chyfnodau adrodd dilynol.
+11.  Pwysau mewn cilogramau y pecynwaith ym mhob categori o becynwaith a gyflenwyd gan y cynhyrchydd yn ystod y cyfnod perthnasol.
+12.  Pwysau mewn cilogramau y pecynwaith cartref ym mhob categori o becynwaith a gyflenwyd gan y cynhyrchydd yn ystod y cyfnod perthnasol.
+13.—(1) Dadansoddiad o’r pecynwaith a gyflenwyd ym mhob categori o becynwaith yn ystod y cyfnod perthnasol, gan bennu—
+(a)
+pa un ai pecynwaith cynradd, pecynwaith cludo, pecynwaith eilaidd neu becynwaith trydyddol yw’r pecynwaith (sef y “math o becynwaith”);
+(b)
+pwysau mewn cilogramau y pecynwaith a gyflenwyd ym mhob math o becynwaith;
+(c)
+pwysau mewn cilogramau y pecynwaith cartref a gyflenwyd sy’n becynwaith cynradd neu’n becynwaith cludo;
+(d)
+pwysau mewn cilogramau y pecynwaith, a nifer yr unedau o becynwaith, ym mhob categori o becynwaith sydd ar ffurf cynwysyddion diodydd.
+(2) Yn is-baragraff (1)(d), ystyr “cynhwysydd diod” yw potel neu gan—
+(a)
+sy’n cynnwys diod neu a oedd yn cynnwys diod,
+(b)
+sydd wedi ei gwneud neu wedi ei wneud yn gyfan gwbl neu’n bennaf o blastig polyethylen tereffthalad (PET), gwydr, dur neu alwminiwm,
+(c)
+sydd â chynhwysedd o 50 o fililitrau o leiaf ond dim mwy na thri litr o hylif,
+(d)
+sydd wedi ei chynllunio neu ei gynllunio, neu wedi ei bwriadu neu ei fwriadu, i gael ei selio mewn cyflwr aerglos a dwrglos yn y man cyflenwi i dreuliwr yn y Deyrnas Unedig, ac
+(e)
+nad yw wedi ei chreu neu ei greu, wedi ei chynllunio neu ei gynllunio nac wedi ei marchnata neu ei farchnata i gael ei hail-lenwi neu ei ail-lenwi nac ei hailddefnyddio neu ei ailddefnyddio mewn unrhyw ffordd arall gan unrhyw berson.
+(3) Nid yw is-baragraff (1) yn gymwys mewn perthynas â phecynwaith wedi ei fewnforio sydd wedi ei daflu gan fewnforiwr.
+14.  Rhaid i gynhyrchwyr sy’n ddosbarthwyr hefyd, ar gyfer pob cynhyrchydd mawr sy’n ddarostyngedig i rwymedigaethau o dan reoliad 15(4)(b) neu (3)(b) y mae’r cynhyrchydd wedi cyflenwi pecynwaith cartref nas llanwyd a phecynwaith nas llanwyd arall iddo yn ystod y cyfnod perthnasol, gadw cofnodion o’r canlynol—
+(a)
+pwy yw’r cynhyrchydd,
+(b)
+nifer yr unedau o becynwaith o’r fath a gyflenwyd, ac
+(c)
+pwysau pecynwaith nas llanwyd a phecynwaith cartref nas llanwyd a gyflenwyd i’r cynhyrchydd hwnnw.
+15.—(1) Pan fo’r cynhyrchydd wedi sefydlu system o becynwaith y gellir ei ailddefnyddio, disgrifiad o’r system honno, gan gynnwys yr wybodaeth a ganlyn—
+(a)
+pwysau mewn cilogramau yr holl becynwaith a gyflenwyd yn ystod y cyfnod perthnasol y gellir ei ailddefnyddio neu ei ail-lenwi;
+(b)
+pwysau mewn cilogramau y pecynwaith y cyfeirir ato yn is-baragraff (a) sy’n becynwaith cynradd.
+(2) Rhaid i’r wybodaeth a ddarperir o dan is-baragraff (1) gael ei rhoi ar gyfer pob categori o becynwaith a gyflenwyd gan y cynhyrchydd yn y cyfnod perthnasol.
+(3) Nid oes ond angen i’r cynhyrchydd gynnwys gwybodaeth ynghylch pecynwaith cartref y gellir ei ailddefnyddio yn y flwyddyn y’i cyflenwir gyntaf.
+16.—(1) Pwysau mewn cilogramau y pecynwaith cartref a gyflenwyd gan y cynhyrchydd yn y cyfnod perthnasol ym mhob categori o becynwaith sy’n cynnwys eitemau a restrir yn is-baragraff (2).
+(2) Mae’r eitemau a ganlyn yn berthnasol at ddibenion is-baragraff (1)—
+(a)
+pecynwaith a roddir i dreulwyr gyda chludfwyd neu ddiodydd, gan gynnwys deunydd lapio, bocsys, cwpanau, dalwyr cwpanau, bagiau, papur a gwellt;
+(b)
+pecynwaith ar felysion, pan fo’r melysion yn pwyso llai na 230 o gramau, gan gynnwys pecynwaith ar gwm cnoi a deunydd lapio siocled;
+(c)
+pecynwaith ar sigaréts, sigârs, tybaco ac e-sigaréts;
+(d)
+pecynnau creision neu becynwaith ar fyrbrydau sawrus eraill, pan fo’r creision neu’r byrbrydau yn pwyso llai na 60 o gramau;
+(e)
+pecynwaith ar ddognau bwyd sengl y gellir eu bwyta ar unwaith heb eu paratoi ymhellach, gan gynnwys rholiau selsig, swshi, brechdanau, bisgedi a chacennau unigol;
+(f)
+cartonau sy’n cynnwys 850 o fililitrau neu lai o ddiod y gellir yfed eu cynnwys ar unwaith heb ei wanedu â dŵr;
+(g)
+cydau sy’n cynnwys llai na 600 o fililitrau o ddiod, y gellir yfed eu cynnwys ar unwaith heb ei wanedu â dŵr.
+RHAN 4
+Gwybodaeth sy’n ofynnol gan weithredwyr marchnadle ar-lein
+17.  Rhaid i gynhyrchwyr sy’n weithredwyr marchnadle ar-lein—
+(a)
+pan fo’r cynhyrchwyr yn gynhyrchwyr bach, gadw cofnodion o’r wybodaeth a nodir ym mharagraffau 18 a 19, a rhoi disgrifiad i CNC o’r fethodoleg a ddefnyddir ganddynt i goladu’r wybodaeth honno;
+(b)
+pan fo’r cynhyrchwyr yn gynhyrchwyr mawr, gadw cofnodion o’r wybodaeth a nodir ym mharagraffau 18 a 19 ac adrodd arni, a rhoi disgrifiad i CNC o’r fethodoleg a ddefnyddir ganddynt i goladu’r wybodaeth honno.
+18.  Pwysau mewn cilogramau y pecynwaith ym mhob categori o becynwaith a gyflenwyd gan y cynhyrchydd yn ystod y cyfnod perthnasol.
+19.  Pwysau mewn cilogramau y pecynwaith cartref ym mhob categori o becynwaith a gyflenwyd gan y cynhyrchydd yn ystod y cyfnod perthnasol.
+RHAN 5
+Cyflenwi a thaflu pecynwaith fesul gwlad
+20.  Rhaid i gynhyrchwyr sy’n ddarostyngedig i’r rhwymedigaethau casglu data yn rheoliad 16 gadw cofnodion o’r wybodaeth a ganlyn—
+(a)
+i gynhyrchwyr bach sy’n werthwyr, yn weithredwyr marchnadle ar-lein, yn ddosbarthwyr, yn ddarparwyr gwasanaethau neu’n fewnforwyr, yr wybodaeth ym mharagraff 21(1);
+(b)
+i gynhyrchwyr mawr sy’n berchnogion brand neu’n bacwyr/llanwyr, yr wybodaeth ym mharagraff 22;
+(c)
+i bob cynhyrchydd mawr arall, yr wybodaeth ym mharagraffau 21 a 22;
+(d)
+i gynhyrchwyr sy’n drwyddedwyr neu fusnesau gweithredu tafarn, yr wybodaeth ym mharagraffau 21 a 22(3).
+21.—(1) Pwysau mewn cilogramau—
+(a)
+yr holl becynwaith a gyflenwir gan y cynhyrchydd, pan fo’r cynhyrchydd yn werthwr, yn weithredwr marchnadle ar-lein, yn ddosbarthwr neu’n ddarparwr gwasanaeth;
+(b)
+yr holl becynwaith a waredir gan y cynhyrchydd, pan fo’r cynhyrchydd yn fewnforiwr;
+mewn blwyddyn berthnasol ym mhob gwlad yn y Deyrnas Unedig, ym mhob categori o becynwaith.
+(2) At ddibenion adroddiadau a gyflwynir mewn perthynas â’r blynyddoedd perthnasol 2024, 2025 a 2026, ond nid mewn perthynas ag unrhyw flynyddoedd diweddarach, caiff cynhyrchwyr—
+(a)
+sy’n werthwyr sy’n cyflenwi pecynwaith eilaidd neu becynwaith trydyddol amcangyfrif swm y pecynwaith a gyflenwyd i wlad yn y Deyrnas Unedig er mwyn cyfrifo pwysau’r pecynwaith a gyflenwyd i’r wlad honno;
+(b)
+sy’n fewnforwyr sy’n mewnforio pecynwaith eilaidd neu becynwaith trydyddol amcangyfrif swm y pecynwaith a daflwyd mewn gwlad yn y Deyrnas Unedig er mwyn cyfrifo pwysau’r pecynwaith a daflwyd yn y wlad honno.
+(3) Nid yw is-baragraff (2) yn gymwys i becynwaith a gaiff ei gyflenwi yn uniongyrchol gan y gwerthwr i’r person sy’n ei ddefnyddio.
+22.—(1) Swm y gwastraff pecynwaith perthnasol a gasglwyd gan y cynhyrchydd yn ystod y cyfnod perthnasol o bersonau heblaw’r cynhyrchydd ac a anfonwyd i’w ailgylchu.
+(2) Swm y gwastraff pecynwaith a gasglwyd gan y cynhyrchydd yn ystod y cyfnod perthnasol—
+(a)
+sy’n wastraff pecynwaith y cynhyrchydd ei hun, a
+(b)
+sy’n wastraff pecynwaith o bersonau eraill.
+(3) Swm y gwastraff y cyfeirir ato yn is-baragraff (2)—
+(a)
+a gasglwyd o bob gwlad yn y Deyrnas Unedig;
+(b)
+a anfonwyd i wlad arall yn y Deyrnas Unedig i’w ailgylchu, gan nodi’r wlad o dan sylw.
+(4) Rhaid datgan swm y gwastraff a ddatgenir o dan is-baragraffau (1) i (3) yn ôl y pwysau, mewn cilogramau, a rhaid dadansoddi’r swm ymhellach yn ôl y categori o becynwaith.Rheoliad 15(7)
+ATODLEN 2
+Trwyddedwyr a Busnesau Gweithredu Tafarn
+RHAN 1
+Cyffredinol
+1.—(1) Mae prif sefydliad yn ddarostyngedig i rwymedigaethau casglu data o dan reoliad 16(6) yn y sefyllfaoedd a nodir ym mharagraff 2(1) pan fo’r amodau ym mharagraff 2(2) wedi eu bodloni.
+(2) Pan fo rhwymedigaethau o’r fath ar brif sefydliad—
+(a)
+mae paragraff 6 yn gymwys i bennu rhwymedigaethau trwyddedwr, a
+(b)
+mae paragraff 8 yn gymwys i bennu rhwymedigaethau busnes gweithredu tafarn.
+2.—(1) Y sefyllfaoedd y cyfeirir atynt ym mharagraff 1 yw—
+(a)
+y byddai rhwymedigaethau ar y prif sefydliad ac un neu ragor o’i aelodau o dan y Rheoliadau hyn, oni bai am y ffaith nad yw pob un ohonynt yn bodloni un o’r profion ar gyfer y meini prawf trothwy yn rheoliad 11(4) neu’r ddau ohonynt,
+(b)
+y byddai rhwymedigaethau ar ddau neu ragor o aelodau o’r prif sefydliad o dan y Rheoliadau hyn, oni bai am y ffaith nad ydynt yn bodloni un o’r profion ar gyfer y meini prawf trothwy yn rheoliad 11(4) neu’r ddau ohonynt, neu
+(c)
+bod rhwymedigaethau ar y prif sefydliad o dan y Rheoliadau hyn ac y byddai rhwymedigaethau ar un neu ragor o’i aelodau o dan y Rheoliadau hyn, oni bai am y ffaith nad yw’n bodloni un o’r profion ar gyfer y meini prawf trothwy yn rheoliad 11(4) neu’r ddau ohonynt.
+(2) Yr amodau y cyfeirir atynt ym mharagraff 1 yw—
+(a)
+bod y prif sefydliad yn bodloni’r prawf trothwy sy’n ymwneud â throsiant yn rheoliad 11(3)(a), a
+(b)
+yn ddarostyngedig i baragraffau 3 a 4, bod y prif sefydliad ac un neu ragor o’i aelodau, neu ei aelodau yn unig, yn un o’r sefyllfaoedd yn is-baragraff (1)(a), (b) neu (c), gyda’i gilydd yn bodloni’r prawf trothwy sy’n ymwneud â phecynwaith a drinnir yn rheoliad 11(3)(b).
+3.  Pan na fo gan y prif sefydliad yr wybodaeth sydd ei hangen at ddibenion Rhannau 2 a 3—
+(a)
+rhaid i’r sefydliad wneud pob ymdrech i gael yr wybodaeth honno, a
+(b)
+pan na fo’r wybodaeth honno gan y sefydliad, er gwaethaf gwneud pob ymdrech, rhaid iddo lunio ei amcangyfrif gorau a rhaid defnyddio’r amcangyfrif hwnnw at ddibenion Rhannau 2 a 3.
+4.  At ddibenion yr Atodlen hon—
+(a)
+ystyr “prif sefydliad” yw trwyddedwr neu fusnes gweithredu tafarn fel y’u diffinnir yn rheoliad 9, a
+(b)
+ystyr “aelod” yw—
+(i)
+pan fo’r prif sefydliad yn drwyddedwr, trwyddedai, sef y person y rhoddir iddo drwydded i ddefnyddio nod masnach gan y trwyddedwr o dan gytundeb trwyddedu fel y darperir ar ei gyfer yn rheoliad 9, neu
+(ii)
+pan fo’r prif sefydliad yn fusnes gweithredu tafarn, tenant, sef y person y rhoddir iddo les neu denantiaeth gan y busnes gweithredu tafarn fel y darperir ar ei gyfer yn rheoliad 9.
+RHAN 2
+Trwyddedwyr
+5.  Pan fo’r prif sefydliad yn drwyddedwr, at ddibenion penderfynu a yw’r amod yn rheoliad 11(3)(b) wedi ei fodloni ai peidio, ni chaniateir ond ystyried y pecynwaith neu’r deunyddiau pecynwaith a ganlyn—
+(a)
+pecynwaith neu ddeunyddiau pecynwaith sy’n dwyn nod masnach y prif sefydliad y rhoddwyd trwydded i ddefnyddio’r nod masnach hwnnw ar ei gyfer neu ar eu cyfer o dan y cytundeb trwyddedu,
+(b)
+pecynwaith sy’n gysylltiedig â nwyddau sy’n dwyn nod masnach y prif sefydliad y rhoddwyd trwydded i ddefnyddio’r nod masnach hwnnw ar ei gyfer o dan y cytundeb trwyddedu, ac
+(c)
+pan fo rhwymedigaeth ar yr aelod—
+(i)
+i brynu nwyddau mewn pecynwaith;
+(ii)
+i brynu nwyddau a phecynwaith cysylltiedig neu ddeunyddiau pecynwaith i’w defnyddio i gynnwys neu i ddiogelu’r nwyddau hynny neu i hwyluso’r gwaith o drin y nwyddau hynny neu i gyflwyno’r nwyddau hynny;
+(iii)
+i brynu pecynwaith neu ddeunyddiau pecynwaith i’w ddefnyddio neu i’w defnyddio i gynnwys neu i ddiogelu’r nwyddau hynny neu i hwyluso’r gwaith o drin y nwyddau hynny neu i gyflwyno’r nwyddau hynny;
+o’r prif sefydliad neu, pan fo’r prif sefydliad wedi negodi rhai o’r telerau cyflenwi, neu bob un ohonynt, gyflenwr a enwir neu a awdurdodir gan y prif sefydliad o dan y cytundeb trwyddedu, y pecynwaith hwnnw neu’r deunyddiau pecynwaith hynny.
+6.  Pan fo’r prif sefydliad yn drwyddedwr—
+(a)
+pan fo sefyllfa sy’n dod o fewn paragraff 2(1)(a) neu (b) a bo’r amodau ym mharagraff 2(2) wedi eu bodloni—
+(i)
+bernir bod y prif sefydliad yn gynhyrchydd sy’n perthyn i ddosbarth neu ddosbarthau a bennir yn rheoliad 8, a
+(ii)
+mae rhwymedigaethau casglu data ar y prif sefydliad mewn cysylltiad â’i weithgareddau ei hun, pan fo’n gymwys, a gweithgareddau ei aelodau mewn cysylltiad â’r pecynwaith neu’r deunyddiau pecynwaith a nodir ym mharagraff 5;
+(b)
+pan fo sefyllfa sy’n dod o fewn baragraff 2(1)(c) a bo’r amodau ym mharagraff 2(2) wedi eu bodloni—
+(i)
+mae rhwymedigaethau ar y prif sefydliad fel cynhyrchydd mewn cysylltiad â’i weithgareddau ei hun,
+(ii)
+bernir bod y prif sefydliad yn gynhyrchydd un neu ragor o’r dosbarthau a bennir yn rheoliad 8, a
+(iii)
+mae rhwymedigaethau casglu data ar y prif sefydliad mewn cysylltiad â gweithgareddau ei aelodau mewn cysylltiad â’r pecynwaith neu’r deunyddiau pecynwaith a nodir ym mharagraff 5.
+RHAN 3
+Busnesau gweithredu tafarn
+7.—(1) Pan fo’r prif sefydliad yn fusnes gweithredu tafarn, at ddibenion penderfynu a yw’r amod yn rheoliad 11(4)(b) wedi ei fodloni ai peidio, ni chaniateir ond ystyried y pecynwaith neu’r deunyddiau pecynwaith a bennir yn is-baragraff (2).
+(2) Y pecynwaith neu’r deunyddiau pecynwaith y cyfeirir atynt yn is-baragraff (1) yw pecynwaith neu ddeunyddiau pecynwaith sy’n cynnwys y nwyddau sy’n ddarostyngedig i’r rhwymedigaeth i brynu o’r prif sefydliad neu o berson a enwebir neu a awdurdodir gan y prif sefydliad hwnnw o dan y cytundeb gweithredu tafarn, pa un a yw’r nwyddau wedi eu pacio neu wedi eu llenwi yn y pecynwaith neu’r deunyddiau pecynwaith ai peidio pan gânt eu prynu gan yr aelod.
+8.  Pan fo’r prif sefydliad yn fusnes gweithredu tafarn—
+(a)
+pan fo sefyllfa sy’n dod o fewn paragraff 2(1)(a) neu (b) a bo’r amodau ym mharagraff 2(2) wedi eu bodloni—
+(i)
+bernir bod y prif sefydliad yn gynhyrchydd sy’n perthyn i un neu ragor o’r dosbarthau a bennir yn rheoliad 8, a
+(ii)
+mae rhwymedigaethau casglu data ar y prif sefydliad mewn cysylltiad â’i weithgareddau ei hun, pan fo’n gymwys, a gweithgareddau ei aelodau mewn cysylltiad â’r pecynwaith neu’r deunyddiau pecynwaith a nodir ym mharagraff 7(2), neu
+(b)
+pan fo sefyllfa sy’n dod o fewn paragraff 2(1)(c) a bo’r amodau ym mharagraff 2(2) wedi eu bodloni—
+(i)
+mae rhwymedigaethau ar y prif sefydliad fel cynhyrchydd mewn cysylltiad â’i weithgareddau ei hun,
+(ii)
+bernir bod y prif sefydliad yn gynhyrchydd sy’n perthyn i un neu ragor o’r dosbarthau a bennir yn rheoliad 8, a
+(iii)
+mae rhwymedigaethau casglu data ar y prif sefydliad mewn cysylltiad â gweithgareddau ei aelodau mewn cysylltiad â’r pecynwaith neu’r deunyddiau pecynwaith a nodir ym mharagraff 7(2).NODYN ESBONIADOL
+(Nid yw’r nodyn hwn yn rhan o’r Rheoliadau)
+Mae’r Rheoliadau hyn yn gosod gofynion ar gynhyrchwyr sydd wedi ymsefydlu yng Nghymru i gasglu data am y pecynwaith y maent yn ei gyflenwi i eraill, ac, mewn rhai achosion, i adrodd am rywfaint o’r wybodaeth honno i Gyfoeth Naturiol Cymru.
+Mae Rhan 1 yn cynnwys y darpariaethau dehongli a’r darpariaethau cyffredinol ar gyfer yr offeryn.
+Mae Rhan 2 yn nodi’r rhwymedigaethau ar gynhyrchwyr. Mae Atodlen 1 yn nodi’r wybodaeth y mae’n ofynnol i gynhyrchwyr ei chasglu ac adrodd amdani.
+Mae Rhan 3 yn gwneud darpariaeth ar gyfer cynlluniau cofrestredig ac yn esemptio cynhyrchwyr sy’n aelodau o gynllun cofrestredig rhag eu rhwymedigaethau o ran adrodd am ddata o dan y Rheoliadau hyn, ar yr amod eu bod yn bodloni’r gofynion yn rheoliad 19(2). Mae’n ofynnol i gynlluniau cofrestredig lunio adroddiadau ar ran pob un o’u haelodau sy’n bodloni’r gofynion hyn. Mae Rhan 3 hefyd yn gwneud darpariaeth mewn perthynas â newidiadau i aelodaeth cynllun yng nghanol blwyddyn berthnasol.
+Mae Rhan 4 yn nodi pwerau a dyletswyddau Cyfoeth Naturiol Cymru o dan y Rheoliadau hyn.
+Mae Rhan 5 yn darparu ar gyfer nifer o droseddau a chosbau am dorri’r gofynion a osodir gan y Rheoliadau hyn. Gorfodir y Rheoliadau hyn gan Gyfoeth Naturiol Cymru.
+Ystyriwyd Cod Ymarfer Gweinidogion Cymru ar gynnal Asesiadau Effaith Rheoleiddiol mewn perthynas â’r Rheoliadau hyn. O ganlyniad, lluniwyd asesiad effaith rheoleiddiol o’r costau a’r manteision sy’n debygol o ddeillio o gydymffurfio â’r Rheoliadau hyn. Gellir cael copi oddi wrth: Llywodraeth Cymru, Parc Cathays, Caerdydd, CF10 3NQ.

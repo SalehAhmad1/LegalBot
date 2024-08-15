@@ -1,0 +1,1196 @@
+Draft Regulations laid before the Scottish Parliament under section 96(2) of the Social Security (Scotland) Act 2018 for approval by resolution of the Scottish Parliament.
+DRAFT SCOTTISH STATUTORY INSTRUMENTS
+2021 No.
+SOCIAL SECURITY
+The Disability Assistance for Children and Young People (Scotland) Regulations 2021
+Made
+2021
+Coming into force
+26th July 2021
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 31(2), 36(2), 41(4)(a), 43(5), 51(1), 52 and 95 of the Social Security (Scotland) Act 2018(1) and all other powers enabling them to do so.
+In accordance with section 96(2) of that Act, a draft of these Regulations has been laid before and approved by resolution of the Scottish Parliament.
+In accordance with section 97(2) of that Act, the Scottish Ministers have informed the Scottish Commission on Social Security of their proposals, notified the Scottish Parliament that they have done so and made their proposals publicly available by such means as they consider appropriate.
+(1)
+2018 asp 9 (“the 2018 Act”). Schedules 5 and 10 of the 2018 Act, respectively make provision about the exercise of powers under sections 31 and 36. The powers to make these Regulations are exercised together by virtue of section 33(2) of the Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10) and the Regulations are subject to the affirmative procedure by virtue of section 33(3) of that Act.Citation and commencement
+1.  These Regulations may be cited as the Disability Assistance for Children and Young People (Scotland) Regulations 2021 and come into force on 26 July 2021.Interpretation - general
+2.  In these Regulations—
+“the 2018 Act” means the Social Security (Scotland) Act 2018,
+“armed forces independence payment” means the disability benefit paid in accordance with article 24A of the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011(1),
+“authorised provider of vehicles” means a supplier of vehicles for persons with disabilities approved under an accreditation scheme run by the Scottish Ministers,
+“award” means that a determination has been made that an individual is entitled to be given assistance under section 24 of the 2018 Act in accordance with these Regulations, and cognate expressions are to be construed accordingly,
+“bodily functions” means the normal actions of any organ of the body, including the brain, or of a number of organs acting together,
+“care component” means the care component of Child Disability Payment within the meaning of regulation 11,
+“care home” means an establishment which provides a care home service as defined in paragraph 2 of schedule 12 of the Public Services Reform (Scotland) Act 2010(2) and includes a residential educational establishment,
+“Child Disability Payment” means disability assistance for children and young people given in accordance with section 31 of the 2018 Act,
+“determination” or “determination of entitlement” has the meaning in section 25 of the 2018 Act,
+“Disability Living Allowance” means a disability living allowance under—
+(a)
+section 71 of the Social Security Contributions and Benefits Act 1992(3), or
+(b)
+section 71 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992(4),
+“EEA State” means—
+(a)
+any member state of the European Union, or
+(b)
+any other state that is party to the agreement on the European Economic Area signed at Oporto on 2 May 1992(5), together with the Protocol adjusting that Agreement signed at Brussels on 17 March 1993(6), as modified or supplemented from time to time,
+“hospice” means a hospital or other institution whose primary function is to provide palliative care for persons resident there who are suffering from a progressive disease in its final stages other than—
+(a)
+a health service hospital (within the meaning of section 108(1) of the National Health Service (Scotland) Act 1978(7)) in Scotland,
+(b)
+a health service hospital (within the meaning of section 275(1) of the National Health Service Act 2006(8)) in England,
+(c)
+a hospital in Wales vested in—
+(i)
+an NHS trust,
+(ii)
+a Local Health Board, or
+(iii)
+the Welsh Ministers,
+for the purpose of functions under the National Health Service (Wales) Act 2006(9),
+(d)
+a hospital maintained or administered by the Defence Council(10), or
+(e)
+an institution similar to a hospital mentioned in any of the preceding paragraphs,
+“legal detention” means detention in legal custody within the meaning of section 295 of the Criminal Procedure (Scotland) Act 1995(11) but does not include detention under—
+(a)
+section 59A(12) of that Act, or
+(b)
+section 136 of the Mental Health (Care and Treatment) (Scotland) Act 2003(13), or
+(c)
+section 45A, 47 or 50(3) of the Mental Health Act 1983(14),
+“mobility component” means the mobility component of Child Disability Payment within the meaning of regulations 12 and 13,
+“personal independence payment” means personal independence payment under—
+(a)
+Part 4 of the Welfare Reform Act 2012(15), or
+(b)
+article 82 of the Welfare Reform (Northern Ireland) Order 2015(16),
+“qualifying services” means accommodation, board and personal care,
+“relevant EU Regulation” means—
+(a)
+one of the following Regulations—
+(i)
+Council Regulation (EC) No 1408/71 of 14 June 1971(17) on the application of social security schemes to employed persons, to self-employed persons and to members of their families moving within the Community,
+(ii)
+Regulation (EC) No 883/2004 of the European Parliament and of the Council of 29 April 2004(18) on the coordination of social security systems, or
+(b)
+in relation to an individual to whom the agreement constituted by the exchange of letters set out in the schedule of the Family Allowances, National Insurance and Industrial Injuries (Gibraltar) Order 1974(19) applies, a Regulation mentioned in paragraph (a) of this definition as it forms part of domestic law by virtue of section 3 of the European Union (Withdrawal) Act 2018(20),
+“residential educational establishment” means a care home which provides education or training except for one where the costs of any qualifying services are borne wholly or partly out of public or local funds by virtue of—
+(a)
+section 485 of the Education Act 1996(21), section 14 of the Education Act 2002(22) or section 73 of the Education (Scotland) Act 1980(23) (which relate to grants in aid of educational services),
+(b)
+sections 49(24) or 73 of the Education (Scotland) Act 1980 (which relate respectively to the power of education authorities to assist persons to take advantage of educational facilities and the powers of the Secretary of State to make grants to education authorities and others),
+(c)
+section 65(25) of the Further and Higher Education Act 1992, sections 39 or 40 of the Higher Education and Research Act 2017(26) or sections 4 or 11 of the Further and Higher Education (Scotland) Act 2005(27) (which relate respectively to the funding of further education and the administration of funds), or
+(d)
+section 22 of the Teaching and Higher Education Act 1998(28),
+“transferring individual” has the meaning set out in paragraph 7 of the schedule, and
+“week” means a period of 7 days.
+(1)
+S.I. 2011/517, amended by S.I. 2013/436, S.I. 2017/247 and S.I. 2020/213.
+(2)
+2010 asp 8.
+(3)
+1992 c.4. Section 71 was amended by section 67(1) of the Welfare Reform and Pensions Act 1999 (c.30).
+(4)
+1992 c.7. Section 71 was amended by S.I. 1999/3147.
+(5)
+Command Paper 2073 and OJ L 1, 3.1.1994, p.3.
+(6)
+Command Paper 2183 and OJ L 1, 3.1.1994, p.572.
+(7)
+1978 c.29. Section 108(1) was relevantly amended by paragraph 6(a) of schedule 6 of the Health Services Act 1980 (c.53) and paragraph 19(22)(b) of schedule 9 of the National Health Service and Community Care Act 1990 (c.19).
+(8)
+2006 c.41. Section 275 was relevantly amended by paragraph 138(2)(b) of schedule 4(12) of the Health and Social Care Act 2012 (c.7).
+(9)
+2006 c.42.
+(10)
+The Defence Council was established by section 1 of the Defence (Transfer of Functions) Act 1964 (c.15).
+(11)
+1995 c.46. Section 295 was amended by section 24(2) of the Criminal Justice (Scotland) Act 2003 (asp 7).
+(12)
+Section 59A was inserted by section 6(1) of the Crime and Punishment (Scotland) Act 1997 (c.48) and amended by paragraph 8(6) of schedule 4 of the Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13) and section 44(2) of the Mental Health (Scotland) Act 2015 (asp 9).
+(13)
+2003 asp 13, amended by sections 12(2) and 34(2) of the Mental Health (Scotland) Act 2015 (asp 9).
+(14)
+1983 c.20, relevantly amended by section 46 and paragraph 1 of schedule 6 of the Crime (Sentences) Act 1997 (c.43), section 294(3) and paragraph 1 of schedule 37(7) of the Criminal Justice Act 2003 (c.44) and section 10(8), paragraph 18 of schedule 10 of the Domestic Violence, Crime and Victims Act 2004 (c.28), paragraph 97 of schedule 16 of the Armed Forces Act 2006 (c.52) and paragraph 2 of schedule 10 and paragraph 1 of schedule 11(1) of the Mental Health Act 2007 (c.12).
+(15)
+2012 c.5.
+(16)
+S.I. 2015/2006.
+(17)
+OJ L 28, 30.1.1997, p.1.
+(18)
+OJ L 166, 30.4.2004, p.1.
+(19)
+S.I. 1974/555
+(20)
+2018 c.16, relevantly amended by section 25(2) of European Union (Withdrawal Agreement) Act 2020 (c.1).
+(21)
+1996 c.56, amended by S.I. 2010/1158.
+(22)
+2002 c.32, amended by section 59(2), (3) and (4) of the Children Act 2004 (c.31), paragraph 23(2) and (3) of schedule 14 of Education Act 2005 (c.18), section 15(2)(a) and (b) of the Education Act 2011 (c.21), S.I. 2010/1158 and S.I. 2019/1027.
+(23)
+1980 c.44, amended by section 73 of the Self-Governing Schools etc. (Scotland) Act 1989 (c.39) and section 3(2) of the Education (Graduate Endowment and Student Support) (Scotland) Act 2001 (asp 6).
+(24)
+Section 49 was amended by paragraph 8(9) of schedule 10 of the Self-Governing Schools etc. (Scotland) Act 1989 (c.39) and section 5(1) of the Schools (Health Promotion and Nutrition) (Scotland) Act 2007 (asp 15).
+(25)
+1992 c.13, amended by section 27 of the Teaching and Higher Education Act 1998 (c.30), section 34(1) of the Special Educational Needs and Disability Act 2001 (c.10), paragraph 15 of schedule 11 of the Higher Education and Research Act 2017 (c.29) and S.I. 2010/1158.
+(26)
+2017 c.29.
+(27)
+2005 asp 6. Sections 4 and 11 were amended by paragraph 8 of schedule 1 of the Post-16 Education (Scotland) Act 2013 (asp 12).
+(28)
+1998 c.30, amended by section 146 and paragraph 1 of schedule 11 of the Learning and Skills Act 2000 (c.21), paragraph 236 of schedule 6 of the Income Tax (Earnings and Pensions) Act 2003 (c.1), section 147 of the Finance Act 2003 (c.14), sections 42 and 43 and paragraph 1 of schedule 7 of the Higher Education Act 2004 (c.8), section 257 of the Apprenticeships, Skills, Children and Learning Act 2009 (c.22), section 76 of the Education Act 2011 (c.21), and section 88 of the Higher Education and Research Act 2017 (c.29) and S.I. 2013/1881.Overview
+3.—(1) An individual is entitled to Child Disability Payment in accordance with these Regulations if they meet the eligibility rules in—
+(a)
+regulation 4 (age criteria),
+(b)
+regulations 5 to 9 (residence and presence conditions, etc.),
+(c)
+regulation 10 (entitlement to other benefits),
+(d)
+one or more of the following—
+(i)
+regulation 11 (care component criterion: lowest, middle and highest rate of care component),
+(ii)
+regulation 12 (mobility requirements: lower rate mobility component),
+(iii)
+regulation 13 (mobility requirements: higher rate mobility component),
+(iv)
+regulation 15 (entitlement under special rules for terminal illness),
+(v)
+regulation 16 (entitlement to care component when undergoing dialysis).
+(2) Child Disability Payment is to consist of a care component and a mobility component.
+(3) There are 3 weekly rates of the care component and 2 weekly rates of the mobility component and those rates are specified in regulation 23 (amount and form of Child Disability Payment).Age criteria
+4.—(1) Subject to regulation 15 (entitlement under special rules for terminal illness), Child Disability Payment may be paid in respect of an individual who is aged at least 3 months and is under the age of 18 years.
+(2) Child Disability Payment may only be paid in respect of an individual who is under the age of 16 years on the day on which entitlement begins in accordance with regulation 24 (when an application is to be treated as made and beginning of entitlement to assistance).
+(3) Where an individual was born on 29 February, the individual’s birthday is to be taken to fall on 28 February in a year which is not a leap year.Residence and presence conditions
+5.—(1) An individual satisfies the residence and presence conditions where on any day that individual—
+(a)
+is ordinarily resident in Scotland,
+(b)
+is habitually resident in the common travel area,
+(c)
+is not a person to whom section 115(3) of the Immigration and Asylum Act 1999(1) applies, within the meaning of section 115(9) of that Act for the purposes of entitlement to Child Disability Payment,
+(d)
+is present in the common travel area, and
+(e)
+has been present in the common travel area for a period of, or for periods amounting in the aggregate to, not less than 26 weeks in the 52 weeks immediately preceding that day.
+(2) In the case of a child under the age of 6 months, paragraph (1) is to apply as if in sub-paragraph (e) for the reference to 26 weeks there was substituted a reference to 13 weeks.
+(3) Where in any particular case a child has by virtue of paragraph (2) entitlement to the care component immediately before the day the child attains the age of 6 months, then until the child attains the age of 12 months, paragraph (1)(e) shall continue to apply in that child’s case as if for the reference to 26 weeks there was substituted a reference to 13 weeks.
+(4) The residence condition set out in paragraph (1)(a) does not apply in relation to the care component where on any day the individual—
+(a)
+is habitually resident in Ireland,
+(b)
+has a genuine and sufficient link to Scotland, and
+(c)
+is an individual—
+(i)
+to whom the Convention on Social Security between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Ireland signed at Dublin on 1 February 2019(2), as modified from time to time in accordance with any provision of it, applies, and
+(ii)
+in respect of whom the United Kingdom is, as a result, competent for payment of long term care benefits.
+(5) The reference in paragraph (4)(b) to an individual’s link to Scotland being sufficient is to it being sufficiently close that if the individual were not entitled to Child Disability Payment, paragraph (4) would be incompatible with Convention on Social Security between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Ireland signed at Dublin on 1 February 2019.
+(6) A relevant individual is treated as satisfying the residence and presence conditions set out in paragraph (1)(a), (b), (d) and (e) where on any day that individual is outside the common travel area—
+(a)
+by reason of their capacity mentioned in paragraph (7)(a) provided that individual satisfied the residence and presence conditions set out in paragraph (1)(a), (b), (d) and (e) immediately prior to the start of their employment mentioned in paragraph (7)(a), or
+(b)
+by reason of being a person mentioned in paragraph (7)(b) living with an individual to whom sub-paragraph (a) applies.
+(7) A “relevant individual” in paragraph (6) means an individual who is—
+(a)
+living with a person mentioned in sub-paragraph (b) and—
+(i)
+is the child, step-child or a child in care of that person, or
+(ii)
+is married to or in a civil partnership with that person, or is living together with that person as if they were married or in a civil partnership, or
+(b)
+outside the common travel area in their capacity as a—
+(i)
+serving member of Her Majesty’s forces, or
+(ii)
+civil servant.
+(8) An individual is to be treated as meeting the presence conditions set out in paragraphs (1)(d) and (e) for any period where that individual is—
+(a)
+outside the common travel area in their capacity as an aircraft worker or mariner, or
+(b)
+in employment prescribed for the purposes of section 120 (employment at sea (continental shelf operations)) of the Social Security Contributions and Benefits Act 1992(3) in connection with continental shelf operations.
+(9) Where an individual—
+(a)
+does not meet the presence condition set out in paragraph (1)(d) on the date the application is received by the Scottish Ministers, and
+(b)
+appears to the Scottish Ministers likely to meet that condition, unless there is a change of circumstances, on a date not later than 3 months after the application was received,
+the Scottish Ministers may choose the date within that 3 month period on which the application is to be treated as being made.
+(10) The past presence condition in paragraph (1)(e) does not apply where an individual—
+(a)
+has a terminal illness within the meaning of regulation 15, or
+(b)
+has—
+(i)
+been granted refugee status or humanitarian protection under the immigration rules, or
+(ii)
+leave to enter or remain in the United Kingdom as the dependant of a person granted refugee status or humanitarian protection under the immigration rules.
+(11) For the purpose of paragraph (10)(b) “immigration rules” means the rules laid before the United Kingdom Parliament under section 3(2) of the Immigration Act 1971(4).
+(1)
+1999 c.33.
+(2)
+2019 CP 49.
+(3)
+1992 c.4, relevantly amended by paragraph 26(a) and (b) of schedule 3 and paragraph 8 of schedule 7 of the Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c.2), paragraph 70 of schedule 7 of the Social Security Act 1998 (c.14), section 12(2) to (4) of the National Insurance Contributions Act 2014 (c.7) and paragraph 30 of schedule 4 of the Petroleum Act 1998 (c.17).
+(4)
+1971 c.77.Interpretation - residence and presence conditions
+6.  In regulation 5—
+“aircraft worker” means a person who is, or has been, employed under a contract of service either as a pilot, commander, navigator or other member of the crew of any aircraft, or in any other capacity on board any aircraft where—
+(a)
+the employment in that other capacity is for the purposes of the aircraft or its crew or of any passengers or cargo or mails carried on that aircraft, and
+(b)
+the contract is entered into in the United Kingdom with a view to its performance (in whole or in part) while the aircraft is in flight,
+but does not include a person in so far as that employment is as a serving member of Her Majesty’s forces,
+“child in care” means—
+(a)
+under the law of Scotland, a child in respect of whom a relevant individual listed in regulation 5(7)(a)—
+(i)
+is a foster carer within the meaning of regulation 2 of the Looked After Children (Scotland) Regulations 2009(1),
+(ii)
+is a kinship carer within the meaning of regulation 2 of the Looked After Children (Scotland) Regulations 2009,
+(iii)
+has a kinship care order within the meaning of section 72 of the Children and Young People (Scotland) Act 2014(2), or
+(b)
+under the law of England and Wales and Northern Ireland, a child in respect of whom a person listed in regulation 5(7)(a) has a relationship equivalent to those listed in paragraph (a) under the law of Scotland,
+“civil partnership” is to be read as including a reference to marriage of a same sex couple and a reference to civil partners or to a person who is in a civil partnership is to be construed accordingly,
+“civil servant” has the meaning given by section 1(4) of the Constitutional Reform and Governance Act 2010(3),
+“common travel area” has the meaning given in section 1(3) of the Immigration Act 1971,
+“mariner” means a person who is, or has been, in employment under a contract of service either as a master or member of the crew of any ship or vessel, or in any other capacity on board any ship or vessel where—
+(a)
+the employment in that other capacity is for the purposes of that ship or vessel or its crew or any passengers or cargo or mails carried by the ship or vessel, and
+(b)
+the contract is entered into in the United Kingdom with a view to its performance (in whole or in part) while the ship or vessel is on its voyage,
+but does not include a person in so far as that employment is as a serving member of Her Majesty’s forces,
+“person who is living with another person as if they were in a civil partnership” is to be read as including a reference to a person who is living with another person of the same sex as if they were married, and
+“serving member of Her Majesty’s forces” means a member of a regular force or reserve force (“M”) as defined, in each case, by section 374 (definitions applying for purposes of the whole Act) of the Armed Forces Act 2006(4), unless—
+(a)
+M is under the age of 16,
+(b)
+M is committing an offence under section 8 of the Armed Forces Act 2006 (desertion),
+(c)
+the force concerned is one of Her Majesty’s naval forces which M locally entered at an overseas base without previously being—
+(i)
+an insured person under the National Insurance Act 1965(5), or
+(ii)
+a contributor under the Act, or
+(d)
+the force concerned is one of Her Majesty’s military forces or Her Majesty’s air forces which M entered, or was recruited for, outside the United Kingdom and—
+(i)
+where that force is one of Her Majesty’s military forces, the depot for M’s unit is outside the United Kingdom, or
+(ii)
+where that force is one of Her Majesty’s air forces, M is liable under the terms of M’s engagement to serve only in a specified area outside the United Kingdom.
+(1)
+S.S.I. 2009/210.
+(2)
+2014 asp 8.
+(3)
+2010 c.25.
+(4)
+2006 c.52.
+(5)
+1965 c.51.Temporary absence from the common travel area
+7.—(1) Where an individual is temporarily absent from the common travel area, the individual is to be treated as present in the common travel area for—
+(a)
+the first 13 weeks of that absence for any reason, or
+(b)
+the first 26 weeks of that absence where—
+(i)
+after the first 13 weeks, the absence is in connection with arrangements made for the medical treatment of the individual for a disease or bodily or mental disablement which commenced before leaving the common travel area, and
+(ii)
+the arrangements relate to medical treatment—
+(aa)
+outside the common travel area,
+(bb)
+during the period when the individual is temporarily absent from the common travel area, and
+(cc)
+by, or under the supervision of, a person appropriately qualified to carry out that treatment.
+(2) For the purposes of paragraph (1)—
+(a)
+an individual is “temporarily absent” if, at the beginning of the period of absence, that absence is unlikely to exceed 52 weeks, and
+(b)
+“medical treatment” means medical, surgical, psychological or rehabilitative treatment (including any course, diet or regimen).Persons residing in the United Kingdom to whom a relevant EU regulation applies
+8.  The past presence condition set out in regulation 5(1)(e) does not apply where on any day the individual is—
+(a)
+ordinarily resident in Scotland,
+(b)
+habitually resident in the United Kingdom,
+(c)
+an individual—
+(i)
+to whom the rules set out in a relevant EU regulation applies by virtue of—
+(aa)
+Title III of Part 2 of the EU withdrawal agreement,
+(bb)
+Part 3 or Article 23(4) of the Swiss citizens’ rights agreement (as defined in section 39(1) of the European Union (Withdrawal Agreement) Act 2020) (“the 2020 Act”))(1),
+(cc)
+Title III of the EEA EFTA separation agreement (as defined in section 39(1) of the 2020 Act), or
+(dd)
+the agreement constituted by the exchange of letters set out in the schedule of the Family Allowances, National Insurance and Industrial Injuries (Gibraltar) Order 1974(2),
+(ii)
+in respect of whom the United Kingdom is, as a result, competent for payment of sickness benefits in cash.
+(1)
+2020 c.1.
+(2)
+S.I. 1974/555.Persons residing outside the United Kingdom to whom a relevant EU regulation applies
+9.—(1) The residence and presence conditions set out in regulation 5(1) do not apply in relation to the care component where on any day the individual satisfies the conditions in paragraph (2).
+(2) The conditions referred to in paragraph (1) are that the individual must—
+(a)
+be an individual—
+(i)
+to whom the rules set out in a relevant EU regulation apply by virtue of—
+(aa)
+Title III of Part 2 of the EU withdrawal agreement,
+(bb)
+Part 3 or Article 23(4) of the Swiss citizens’ rights agreement (as defined in section 39(1) of the European Union (Withdrawal Agreement) Act 2020 (“the 2020 Act”)),
+(cc)
+Title III of the EEA EFTA separation agreement (as defined in section 39(1) of the 2020 Act), or
+(dd)
+the agreement constituted by the exchange of letters set out in the schedule of the Family Allowances, National Insurance and Industrial Injuries (Gibraltar) Order 1974, and
+(ii)
+in respect of whom the United Kingdom is, as a result, competent for payment of sickness benefits in cash,
+(b)
+be habitually resident in—
+(i)
+Switzerland,
+(ii)
+an EEA state, or
+(iii)
+Gibraltar, and
+(c)
+have a genuine and sufficient link to Scotland.
+(3) The reference in paragraph (2)(c) to an individual’s link to Scotland being sufficient is to it being sufficiently close that if the individual were not entitled to Child Disability Payment, paragraph (2) would be incompatible with the applicable agreement mentioned in sub-paragraph (a)(i) of that paragraph.Entitlement to other benefits
+10.  An individual is not entitled to Child Disability Payment while they are entitled to—
+(a)
+Disability Living Allowance,
+(b)
+Personal Independence Payment, or
+(c)
+armed forces independence payment.Care component criterion: lowest, middle or highest rate care component
+11.—(1) An individual satisfies the care component criterion in respect of any period throughout which at least one of the following conditions is satisfied—
+(a)
+the individual is so severely disabled physically or mentally that they require in connection with their bodily functions attention from another person for a significant portion of the day (whether during a single period or a number of periods),
+(b)
+the individual is 16 years old or older and is so severely disabled physically or mentally that they cannot prepare a cooked main meal for themselves if they have the ingredients,
+(c)
+the individual is so severely disabled physically or mentally that they require from another person—
+(i)
+frequent attention throughout the day in connection with their bodily functions, or
+(ii)
+continual supervision throughout the day in order to avoid substantial danger to the individual or others, or
+(d)
+the individual is so severely disabled physically or mentally that they require—
+(i)
+prolonged or repeated attention from another person throughout the night in connection with their bodily functions, or
+(ii)
+another person to be awake for a prolonged period or at frequent intervals for the purpose of watching over the individual throughout the night in order to avoid substantial danger to the individual or others.
+(2) No condition mentioned in paragraph (1) is to be taken to be satisfied unless—
+(a)
+the individual has requirements of a description mentioned in the condition substantially in excess of the normal requirements of a person of the same age, or
+(b)
+the individual has substantial requirements of such a description which younger persons in normal physical and mental health may also have but which persons of the individual’s age and in normal physical and mental health would not have.
+(3) An individual is not entitled to the care component unless—
+(a)
+throughout the period of 13 weeks immediately preceding the date on which the award of that component would begin, the individual has satisfied or is likely to satisfy at least one of the conditions mentioned in paragraph (1) as read with paragraph (2), and
+(b)
+the individual is likely to continue to satisfy at least one of those conditions throughout the period of 26 weeks beginning with that date.
+(4) In the case of an individual who is under the age of 16 on the date on which the award of the care component would begin, paragraph (2) only applies in relation to so much of any period mentioned in that paragraph as falls before the day on which the individual reaches the age of 16.
+(5) The amount of the care component that an individual is entitled to be given for each week in the period for which they are awarded that component is—
+(a)
+the highest rate (see regulation 23(1)(a)), if the individual falls within paragraph (3) by virtue of having satisfied or being likely to satisfy both the conditions mentioned in paragraph (1)(c) and (d) above throughout both the period mentioned in paragraph (3)(a) and that mentioned in paragraph (3)(b),
+(b)
+the middle rate (see regulation 23(1)(b)), if the individual falls within paragraph (3) by virtue of having satisfied or being likely to satisfy one of those conditions mentioned in paragraph (1)(c) or (d) throughout both those periods, and
+(c)
+the lowest rate (see regulation 23(1)(c)) in any other case.
+(6) In paragraph (1)—
+(a)
+references to “day” and “night” are to be construed in relation to the ordinary domestic routine of the household in which the individual lives, and
+(b)
+“attention” means the provision of personal care, prompting or motivation in relation to bodily functions or assistance with communication needs.
+(7) In paragraph (1) and regulation 12, “supervision” means the precautionary or anticipatory presence of another person to monitor an individual’s physical, mental or emotional health including monitoring for obstacles or dangerous places or situations.
+(8) In this regulation and regulations 12 and 13, “require” means reasonably require and cognate expressions are to be construed accordingly.Mobility requirements: lower rate mobility component
+12.—(1) An individual aged 5 years or more is entitled to be given the mobility component at the lower rate (see regulation 23(2)(b)) if the individual satisfies the condition set out in paragraph (2).
+(2) The condition referred to in paragraph (1) is that the individual, though able to walk, cannot move around outdoors without requiring guidance or supervision from another person most of the time as a result of a physical or mental impairment.
+(3) The guidance or supervision required must be—
+(a)
+substantially in excess of the normal requirements of a person of the same age, or
+(b)
+of such a description which younger persons in normal physical and mental health may also require but which persons of the individual’s age and in normal physical and mental health would not require.
+(4) In the case of an individual who is under the age of 16 on the date on which the award of the mobility component would begin, paragraph (3) only applies in relation to so much of any period mentioned in that paragraph as falls before the day on which the individual reaches the age of 16.
+(5) Whether the individual satisfies the condition in paragraph (2), no account is to be taken of any ability which the individual has to use routes with which they are familiar, without guidance or supervision from another person.
+(6) An individual is not entitled to the lower rate of the mobility component unless—
+(a)
+throughout the period of 13 weeks immediately preceding the date on which the award of that component would begin, the individual has satisfied or is likely to satisfy the condition mentioned in paragraph (2), and
+(b)
+the individual is likely to continue to satisfy the condition mentioned in paragraph (2) throughout the period of 26 weeks beginning with that date.
+(7) In this regulation, “guidance” means direction or leading by physical means or verbal suggestion or persuasion.Mobility requirements: higher rate mobility component
+13.—(1) An individual aged 3 years or more is entitled to be given the mobility component at the higher rate (see regulation 23(2)(a)) if the individual satisfies at least one of the conditions mentioned in paragraph (2).
+(2) The conditions referred to in paragraph (1) are—
+(a)
+taking account of the individual’s physical condition as a whole, the individual’s condition is such that, without having regard to the nature of the location where the individual resides—
+(i)
+the individual is unable to walk,
+(ii)
+the individual’s ability to walk out of doors is so limited, as regards the distance over which or the speed at which or the length of time for which or the manner in which the individual can make progress on foot without severe discomfort, that the individual is virtually unable to walk, or
+(iii)
+the exertion required to walk would constitute a danger to the individual’s life, or would be likely to lead to a serious deterioration in the individual’s health, from which there would no recovery, or from which recovery would take a significant period of time,
+(b)
+the individual has no legs or no feet (regardless of the use of artificial limbs),
+(c)
+the individual has a severe visual impairment,
+(d)
+the individual is blind and deaf,
+(e)
+the individual has a severe mental impairment and severe behavioural difficulties and satisfies both of the conditions mentioned in regulation 11(1)(c) and (d).
+(3) Where paragraph (2)(a) applies in relation to an individual, the test of being unable or virtually unable to walk is not met where the individual—
+(a)
+is not unable or virtually unable to walk with the use of an artificial limb or artificial aid which the individual normally wears or uses, or
+(b)
+would not be unable or virtually unable to walk if the individual wore or used an artificial limb or artificial aid which is suitable to the individual’s circumstances.
+(4) Paragraph (3) is not relevant for the purpose of determining whether an individual is to be taken to satisfy the conditions set out in paragraphs (2)(b) to (e).
+(5) An individual is to be taken to have a severe visual impairment, for the purpose of paragraph (2)(c), if the individual has a severe visual impairment fulfilling the definition given by the Visual Impairment Network for Children and Young People(1).
+(6) An individual is taken to be blind and deaf, for the purpose of paragraph (2)(d), if the individual is—
+(a)
+blind where the loss of vision amounts to an absolute loss of vision,
+(b)
+deaf where loss of hearing when using any artificial aid which they habitually use or which is suitable in their case amounts to not less than 80% on a scale where 100% represents absolute deafness, and
+(c)
+unable, without the assistance of another person, to walk to any intended or required destination while out of doors.
+(7) An individual is to be taken to have a severe mental impairment, for the purpose of paragraph (2)(e), if the individual has a severe impairment of intelligence and social functioning resulting from—
+(a)
+a state of arrested development as a result of a failure of the individual’s brain to grow or develop in the way normally expected, or
+(b)
+a deficiency in the functionality of the brain as a result of its incomplete physical development.
+(8) An individual is to be taken to have severe behavioural difficulties, for the purpose of paragraph (2)(e), if the individual exhibits disruptive behaviour which—
+(a)
+is extreme,
+(b)
+regularly requires another person to intervene in order to prevent or reduce the likelihood of physical injury to the individual or another person, and
+(c)
+is so unpredictable that another person requires to be awake and watching over the individual while the individual is awake.
+(9) In paragraph (8)(b), reference to another person intervening relates to the provision of care and support of, or treatment provided to, the individual.
+(10) An individual is not entitled to the mobility component unless—
+(a)
+throughout the period of 13 weeks immediately preceding the date on which the award of that component would begin, the individual has satisfied or is likely to satisfy one of the conditions mentioned in paragraph (2), and
+(b)
+the individual is likely to continue to satisfy one of those conditions throughout the period of 26 weeks beginning with that date.
+(1)
+A National Managed Clinical Network forming part of NHS Scotland https://www.vincyp.scot.nhs.uk/vincyp-definition/.Exclusion of entitlement to mobility component
+14.  An individual is not entitled to the mobility component of Child Disability Payment for a period unless, during most of that period, the individual’s physical or mental condition is such that they are able, from time to time, to benefit from assistance for movement.Entitlement under special rules for terminal illness
+15.—(1) An individual who has a terminal illness is—
+(a)
+to be treated as satisfying the conditions for the highest rate of the care component of Child Disability Payment in regulation 11(5)(a), and
+(b)
+from the date on which the individual reaches the age of 3, to be treated as satisfying the conditions for the higher rate of the mobility component in regulation 13.
+(2) Paragraph (1) applies regardless of—
+(a)
+the period of time for which the individual has had the terminal illness, and
+(b)
+any period of time spent by the individual in a hospital or hospice while in receipt of the assistance.
+(3) Subject to paragraphs (4) and (5), the individual’s entitlement to the rates referred to in paragraph (1) begins on the date on which—
+(a)
+the individual’s application for Child Disability Payment was made, where the application included information about the individual’s terminal illness,
+(b)
+the Scottish Ministers became aware of the individual’s terminal illness (whether as a result of the individual notifying a change in circumstances or otherwise), where the individual was previously awarded, and has an ongoing entitlement to, Child Disability Payment, on the basis of a determination that the individual was entitled to the care component or the mobility component or both in relation to a condition other than terminal illness, or
+(c)
+the clinical judgement was made in accordance with paragraphs (6) and (7) (“the judgement”),
+whichever is the earlier.
+(4) Where the judgement mentioned in paragraph (3)(c) is dated not more than 26 weeks earlier than whichever date in paragraph (3)(a) or (b) applies (“the relevant date”), the Scottish Ministers have the power, when making their determination, to specify that an individual’s entitlement begins—
+(a)
+up to a maximum of 26 weeks prior to the relevant date, and
+(b)
+on or after the day these Regulations come into force.
+(5) Where the judgement mentioned in paragraph (3)(c)—
+(a)
+is dated more than 26 weeks earlier than whichever date in paragraph (3)(a) or (b) applies (“the relevant date”), and
+(b)
+an appropriate healthcare professional confirms that the judgement is still accurate by making a judgement in accordance with paragraphs (6) and (7),
+an individual’s entitlement can only begin—
+(c)
+up to a maximum of 26 weeks prior to the relevant date, and
+(d)
+on or after the day these Regulations come into force.
+(6) For the purpose of this regulation, an individual is to be regarded as having a terminal illness for the purpose of determining entitlement to Child Disability Payment if it is the judgement of an appropriate healthcare professional that the individual has a progressive disease that can reasonably be expected to cause the individual’s death.
+(7) Subject to paragraph (8), an appropriate healthcare professional exercising the judgement described in paragraph (6) must have regard to the guidance prepared and made publicly available by the Chief Medical Officer of the Scottish Administration in accordance with paragraph 1(3) of schedule 5 of the 2018 Act.
+(8) Where regulation 9 (persons residing outside the United Kingdom to whom a relevant EU regulation applies) applies to the individual, an appropriate healthcare professional mentioned in paragraph (9)(b) need not have regard to the guidance mentioned in paragraph (7) where it would not be reasonable in the circumstances to insist on the judgement being formed with regard to that guidance.
+(9) In this regulation, “an appropriate healthcare professional” means—
+(a)
+a registered medical practitioner or a registered nurse who is—
+(i)
+involved in the diagnosis or care of the individual, and
+(ii)
+acting in their professional capacity, or
+(b)
+where regulation 9 applies to the individual, a person who—
+(i)
+has equivalent qualifications to a registered medical practitioner or a registered nurse in an EEA state, Gibraltar or Switzerland,
+(ii)
+is a member of the professional body equivalent to the General Medical Council or Nursing and Midwifery Council in that EEA state, Gibraltar or Switzerland, and
+(iii)
+meets the requirements of sub-paragraph (a)(i) and (ii).
+(10) Where an individual has received Child Disability Payment for a period and a determination is subsequently made that that individual is entitled to Child Disability Payment at a higher rate for that period by virtue of this regulation, any payment of Child Disability Payment to be made for that period will be reduced by any Child Disability Payment already paid to that individual for that period.Entitlement to care component when undergoing dialysis
+16.—(1) Subject to paragraph (5), an individual who is at least 3 months old is to be treated as satisfying the conditions for the care component in regulation 11 (care component criterion: lowest, middle or highest rate of care component) where the individual undergoes renal dialysis—
+(a)
+where at least one of the conditions in paragraph (2) is met, and
+(b)
+at least twice a week,
+as a consequence of a disability or physical impairment.
+(2) The conditions are that—
+(a)
+the renal dialysis is of a type which normally requires the attendance or supervision of another person, or
+(b)
+due to particular circumstances, the individual requires another person to attend—
+(i)
+in connection with the individual’s bodily functions, or
+(ii)
+to supervise the individual in order to avoid substantial danger to the individual,
+during the period of the dialysis.
+(3) Where the renal dialysis mentioned in paragraph (2) takes place by day or at night, the individual is entitled to the middle rate care component.
+(4) Where the renal dialysis mentioned in paragraph (2) takes place both by day and at night, the individual is entitled to the highest rate care component.
+(5) An individual is not entitled to the care component unless—
+(a)
+throughout the period of 13 weeks immediately preceding the date on which the award of that component would begin, the individual has satisfied or is likely to satisfy the requirements in paragraph (1) as read with paragraph (2), and
+(b)
+the individual is likely to continue to satisfy those requirements throughout the period of 26 weeks beginning with that date.Effect of admission to a care home on ongoing entitlement to care component
+17.—(1) This regulation applies where an individual who has an ongoing entitlement to the care component of Child Disability Payment, becomes a resident of a care home.
+(2) Subject to paragraphs (4) and (5), on and after the day on which the individual has been resident in a care home for 28 days, and for so long as the individual continues to reside in such a home, the value of the care component of Child Disability Payment that is to be given to the individual is £0 instead of the values set out in regulation 23 (amount and form of Child Disability Payment).
+(3) The 28 days referred to in paragraph (2) may comprise two or more separate periods, provided that there is no more than 28 days between each period.
+(4) Paragraph (2) does not apply to a resident in a care home, where the full costs of any qualifying services are met—
+(a)
+entirely out of the resources of the individual for whom the qualifying services are provided,
+(b)
+partly out of the resources of the individual for whom the qualifying services are provided and partly out of the resources of another person (other than a local authority) or assistance from a charity, or
+(c)
+entirely out of the resources of another person (other than a local authority) or assistance from a charity.
+(5) For the purposes of this regulation, an individual is not resident in a care home during any period when the individual is being looked after by a local authority and—
+(a)
+has been placed temporarily in a private dwelling with a family, relative or some other suitable person while—
+(i)
+under the age of 16, or
+(ii)
+aged between 16 and 18 and receiving services under Part II of the Children (Scotland) Act 1995(1) by virtue of being a child in need within the meaning of section 93(4)(a)(ii) (impairment of health), or 93(4)(a)(iii) (disability) of that Act, or
+(b)
+is accommodated in a care home outside the United Kingdom, where the costs of any qualifying services are met by a local authority exercising its powers under section 25 of the Education (Additional Support for Learning) (Scotland) Act 2004(2).
+(6) For the purposes of this regulation and regulation 20 (entitlement beginning while in alternative accommodation), reference to an individual being “looked after by a local authority” is to be construed, as the case may be, in accordance with—
+(a)
+section 17(6) of the Children (Scotland) Act 1995(3),
+(b)
+section 105(4) of the Children Act 1989(4), or
+(c)
+article 25 of the Children (Northern Ireland) Order 1995(5).
+(1)
+1995 c.36.
+(2)
+2004 asp 4.
+(3)
+Section 17(6) was amended by paragraph 9(4)(b) of schedule 2 of the Adoption and Children (Scotland) Act 2007 (asp 4), paragraph 2(4) of schedule 5 of the Children’s Hearings (Scotland) Act 2011 (asp 1) and S.S.I. 2013/211.
+(4)
+1989 c.41, relevantly amended by S.I. 2016/413.
+(5)
+S.I. 1995/755, amended by section 2(1) of the Children (Leaving Care) Act (Northern Ireland) 2002 (c.11).Effect of legal detention on ongoing entitlement to care component
+18.—(1) This regulation applies where an individual who has an ongoing entitlement to the care component of Child Disability Payment is in legal detention.
+(2) On and after the day on which an individual has been in legal detention for 28 days, and for so long as the individual continues to be in legal detention, the value of the care component of Child Disability Payment that is to be given to the individual is to be £0, instead of the values set out in regulation 23 (amount and form of Child Disability Payment).Calculation of periods of time spent in a care home or in legal detention
+19.—(1) Subject to paragraphs (2) and (3), a period during which an individual is resident in a care home for the purpose of regulation 17 or in legal detention for the purpose of regulation 18 is to be taken to—
+(a)
+begin on the day after the day on which the individual enters the care home or legal detention, and
+(b)
+end on the day before the day on which the individual leaves the care home or legal detention.
+(2) Where an individual who is resident in a care home takes a period of leave from the home, the days on which the individual begins and returns from leave are not to be counted as days of residence in the home.
+(3) Days constituting a period of leave are not to be counted as days of residence in a care home.
+(4) Where an individual enters or returns to a care home as a result of a transfer from a hospital or a hospice, or from another care home, the day of transfer is to be counted as a day of residence in a care home.
+(5) Where an individual enters legal detention as a result of a transfer from a hospital or a hospice, or from a care home, the day of transfer is to be counted as a day in legal detention.Entitlement beginning while in alternative accommodation
+20.—(1) This regulation applies where an individual is resident in a care home or in legal detention on the day on which entitlement to Child Disability Payment begins.
+(2) On and after that day, and for so long as the individual continues to reside in a care, or be in legal detention, the value of the care component of Child Disability Payment that is to be given to the individual is £0 instead of the values set out in regulation 23 (amount and form of Child Disability Payment).
+(3) Paragraphs (1) and (2) do not apply where the costs of any qualifying services whilst resident in a care home are met—
+(a)
+entirely out of the resources of the individual for whom the qualifying services are provided,
+(b)
+partly out of the resources of the individual for whom the qualifying services are provided and partly out of the resources of another person (other than a local authority) or assistance from a charity, or
+(c)
+entirely out of the resources of another person (other than a local authority) or assistance from a charity.
+(4) For the purposes of this regulation an individual is not resident in a care home during any period when the individual is being looked after by a local authority and—
+(a)
+has been placed temporarily in a private dwelling with a family, relative or some other suitable person while—
+(i)
+under the age of 16,
+(ii)
+aged between 16 and 18 and receiving services under Part II of the Children (Scotland) Act 1995 by virtue of being a child in need within the meaning of section 93(4)(a)(ii) (impairment of health), or 93(4)(a)(iii) (disability) of that Act, or
+(b)
+is accommodated in a care home outside the United Kingdom, where the costs of any qualifying services are met by a local authority exercising its powers under section 25 of the Education (Additional Support for Learning) (Scotland) Act 2004.Entitlement to care component of Child Disability Payment while an in-patient
+21.  For the avoidance of doubt, any period when an individual is an in-patient in a hospice or hospital, has no effect on the individual’s entitlement to the care component of Child Disability Payment.Making payments
+22.—(1) Where Child Disability Payment is payable in respect of an individual, the Scottish Ministers may, where they consider it appropriate, make the payment to another person to be used for the benefit of the individual.
+(2) Where the Scottish Ministers consider, for any reason, that it is no longer appropriate for a particular person who falls within paragraph (1) to continue to receive the payment, they may cease making payment to that person.Amount and form of Child Disability Payment
+23.—(1) The weekly rate of payment of the care component is where the individual is entitled to—
+(a)
+the highest rate, £87.65,
+(b)
+the middle rate, £58.70, or
+(c)
+the lowest rate, £23.20.
+(2) The weekly rate of payment of the mobility component is where the individual is entitled to—
+(a)
+the higher rate, £61.20, or
+(b)
+the lower rate, £23.20.
+(3) Where an individual is entitled to payment of the care component or the mobility component for a period shorter than one week, payment of that component is to be made at one-seventh of the relevant weekly rate, for each day of entitlement.
+(4) For any week where an individual is entitled to—
+(a)
+the care component of Child Disability Payment, and
+(b)
+payment of an amount in respect of constant attendance under section 61 of the Social Security Act 1975(1),
+the amount of the care component of Child Disability Payment that is to be given to the individual is to be reduced by the amount paid under that section.
+(5) For the purpose of calculating the amount of the care component that is to be given to the individual, in accordance with paragraph (4), where the amount in respect of constant attendance is equal to or greater than the amount of the care component of Child Disability Payment the value of Child Disability Payment that is to be given to the individual is to be £0.
+(6) For any week where an individual is entitled to—
+(a)
+the mobility component of Child Disability Payment, and
+(b)
+payment of War Pensioners’ Mobility Supplement within the meaning of—
+(i)
+the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 1983 (“1983 Order”)(2),
+(ii)
+the Personal Injuries (Civilians) Scheme 1983(3),
+(iii)
+the 1983 Order by virtue of the War Pensions (Naval Auxiliary Personnel) Scheme 1964(4),
+(iv)
+the Pensions (Polish Forces) Scheme 1964(5),
+(v)
+the War Pensions (Mercantile Marine) Scheme 1964(6), or
+(vi)
+an Order of Her Majesty in relation to the Home Guard dated 21 December 1964 or 22 December 1964, or in relation to the Ulster Defence Regiment dated 4 January 1971,
+the amount of the mobility component of Child Disability Payment that is to be given to the individual is to be £0.
+(7) For each week in the period of 8 weeks ending with the death of the individual—
+(a)
+the amount of Child Disability Payment that is to be given to that individual is the relevant weekly rate of each component to which the individual is entitled in that week, multiplied by two, and
+(b)
+any provision in these Regulations reducing the amount to £0 has no effect.
+(8) Child Disability Payment may only be given as money, except as provided for by regulation 27(1) (form of payment – giving Child Disability Payment by way of deduction).
+(1)
+1975 c.14.
+(2)
+S.I. 1983/883.
+(3)
+S.I. 1983/686.
+(4)
+S.I. 1964/1985.
+(5)
+S.I. 1964/2007.
+(6)
+S.I. 1964/2058.When an application is to be treated as made and beginning of entitlement to assistance
+24.—(1) An application for Child Disability Payment is to be treated as made—
+(a)
+on the day it is received by the Scottish Ministers, or
+(b)
+if applicable, on the day identified by the Scottish Ministers in accordance with paragraph (2).
+(2) If, before making a determination on the basis of an application, the Scottish Ministers consider that the individual in respect of whom the application is made—
+(a)
+would not satisfy the requirement in—
+(i)
+regulation 4 (age criteria),
+(ii)
+regulations 5 to 9 (residence and presence conditions etc.),
+(iii)
+regulation 10 (entitlement to other benefits),
+(iv)
+regulation 11 (care component criterion: lowest, middle or highest rate of care component),
+(v)
+regulation 12 (mobility requirements: lower rate mobility component),
+(vi)
+regulation 13 (mobility requirements: higher rate mobility component), or
+(vii)
+regulation 16 (entitlement to care component when undergoing dialysis),
+if the application were treated as made on the day it was received, and
+(b)
+would likely be entitled to receive Child Disability Payment if those requirements were satisfied within a 13-week period beginning on the day it was received,
+the Scottish Ministers may choose the date within that 13 week period on which the application is to be treated as having been made.
+(3) Where, on the basis of an application, a determination is made that an individual is entitled to Child Disability Payment, the date on which entitlement begins is to be identified in accordance with paragraphs (4) to (6).
+(4) Where an application is made within 6 weeks of the day on which the full name and date of birth of an individual (“the required data”) is submitted by, or on behalf of, the individual to the Scottish Ministers for the purpose of an application for Child Disability Payment, entitlement begins on whichever is the later of the day—
+(a)
+on which the required data was submitted, or
+(b)
+identified in accordance with paragraph (2).
+(5) Subject to paragraph (6), where an application is made after the 6 week period described in paragraph (4), entitlement begins on the day on which the application is treated as having been made in accordance with paragraph (1).
+(6) Where the Scottish Ministers are satisfied that there is good reason why an application was made after the 6 week period described in paragraph (4), they may treat the application as having been made within that period.
+(7) For the purposes of section 38(3) (application for assistance) of the 2018 Act, the period covered by an application for Child Disability Payment—
+(a)
+under paragraph (1)(a)—
+(i)
+begins on the day on which the application is treated as having been made, and
+(ii)
+ends on the day on which the determination of entitlement is made, and
+(b)
+under paragraph (1)(b)—
+(i)
+is deemed to begin on the day before the determination is made provided that the requirements are satisfied, and
+(ii)
+ends on the day on which the determination is made.Time of payment
+25.  Where an award of Child Disability Payment is made, the Scottish Ministers are to make—
+(a)
+the first payment of assistance on a date specified in the notice of determination, and
+(b)
+any subsequent payment—
+(i)
+4 weekly in arrears, or
+(ii)
+where regulation 15 (entitlement under special rules for terminal illness) applies, weekly in advance.Continuing eligibility
+26.—(1) Subject to paragraphs (3) and (4), a determination that an individual is entitled to Child Disability Payment in respect of a period is to be made on the basis that the individual has an ongoing entitlement to Child Disability Payment after the end of that period, except where paragraph (2) applies.
+(2) This paragraph applies where, after the end of the period mentioned in paragraph (1), the individual no longer satisfies the eligibility rules.
+(3) A determination of ongoing entitlement is made on the basis that—
+(a)
+the individual will continue to be entitled to Child Disability Payment for a fixed or indefinite period as specified in the notice of determination, and
+(b)
+the decision that the individual is entitled to Child Disability Payment for each subsequent 4-week period is to be taken in accordance with these Regulations, on the strength of the assumptions set out in paragraph (4).
+(4) The assumptions are that—
+(a)
+the individual continues to satisfy the eligibility criteria which were satisfied to be entitled to Child Disability Payment under the determination mentioned in paragraph (1),
+(b)
+the information on which the determination mentioned in paragraph (1) was made still applies and is relevant in the individual’s case, and
+(c)
+there is no change in circumstances of the individual which would require to be notified under section 56 (duty to notify change of circumstances) of the 2018 Act.Form of payment – giving Child Disability Payment by way of deduction
+27.—(1) Where an individual has a liability to the Scottish Ministers under section 63 of the 2018 Act (liability for assistance given in error), the individual’s payment of Child Disability Payment may be given (in whole or in part) by way of deduction, at a reasonable level, from that liability either—
+(a)
+with the agreement of the individual, or
+(b)
+without the individual’s agreement, where the individual has unreasonably refused to agree to the assistance being given in that form.
+(2) For the purpose of paragraph (1), “reasonable level” means a level that is reasonable having regard to the financial circumstances of the individual.When an increase in level of entitlement takes effect
+28.—(1) Where, as a result of a determination without an application, the amount of Child Disability Payment payable in respect of an individual is increased or their entitlement to a component is awarded, the changed entitlement begins—
+(a)
+in the case of an increase pursuant to a determination made under regulation 31(d) (determination following change of circumstances etc.) on the day after the day on which Disability Living Allowance ceased to be paid in respect of the individual,
+(b)
+in the case of an award of entitlement to a component or an increase pursuant to a determination made in accordance with regulation 31(a) as a result of the individual reporting a change that affects their eligibility under regulation 11 (care component criterion: lowest, middle or highest rate of care component), 12 (mobility requirements: lower rate mobility component) or 13 (mobility requirements: higher rate mobility component), on the date when—
+(i)
+if the individual reports the change within one month of the change occurring, the individual first satisfies the requirements for a higher rate of the care or mobility component,
+(ii)
+if the individual reports the change more than one month but not more than 13 months of the change occurring, the individual first satisfies the requirements for a higher rate of the care or mobility component, but only if the Scottish Ministers consider that the individual had good reason for not notifying the change within one month, or
+(iii)
+in any other case, the individual reports the change.
+(c)
+in the case of an earlier determination which was based on official error within the meaning of regulation 32 (determination following official error - underpayments) or on error within the meaning of regulation 33 (determination following error – overpayments), begins on the date when the earlier determination took effect, or
+(d)
+in any other case, on the date when Scottish Ministers make the determination.
+(2) Where the Scottish Ministers consider that in all the circumstances it would be unjust not to do so, they may, when making their determination, set an earlier date for the purposes of paragraph 1(b), (c) or (d).
+(3) This regulation does not apply to an individual to whom regulation 15 (entitlement under special rules for terminal illness) applies.When a decrease in level or cessation of entitlement takes effect
+29.—(1) Where, as a result of a determination without an application, the amount of Child Disability Payment payable in respect of an individual is decreased or their entitlement to a component is ceased, the changed entitlement begins—
+(a)
+in the case of a decrease pursuant to a determination made under regulation 31(d) (determination following change of circumstances etc.) on the day after the day on which Disability Living Allowance ceased to be paid in respect of the individual,
+(b)
+in the case of a determination without application under regulation 31(a), on the date when—
+(i)
+if the individual knowingly fails to notify a change that the individual was required to notify under section 56 of the 2018 Act, the individual should have notified Scottish Ministers of the change,
+(ii)
+in any other case, the Scottish Ministers make the determination,
+(c)
+in the case of an earlier determination which was based on official error within the meaning of regulation 32 (determination following official error - underpayments) or on error within the meaning of regulation 33 (determination following error – overpayments), begins on the date when the earlier determination took effect,
+(d)
+in any other case, on the date when Scottish Ministers make the determination.
+(2) Where the Scottish Ministers consider that in all the circumstances it would be unjust not to do so, they may, when making their determination, set a later date for the purposes of paragraph 1(b), (c) or (d).Consideration of entitlement after specified period
+30.  The Scottish Ministers must make a determination of an individual’s entitlement to Child Disability Payment, without receiving an application, after the end of the period specified (if any) in—
+(a)
+the individual’s notice of determination under section 40 or notice of re-determination under section 44 (as the case may be), or
+(b)
+a determination made by the First-tier Tribunal for Scotland under section 49,
+of the 2018 Act.Determination following change of circumstances etc.
+31.  The Scottish Ministers must make a determination of an individual’s entitlement to Child Disability Payment, without receiving an application, where the individual has an ongoing entitlement to Child Disability Payment and they become aware—
+(a)
+of a change of circumstances, whether or not notified by the individual in accordance with section 56 of the 2018 Act, which would possibly result in an alteration to the component or rate of Child Disability Payment payable to the individual or which is likely to mean that the individual is no longer entitled to Child Disability Payment,
+(b)
+that the individual has died,
+(c)
+of an alteration of the component or rate of award of Disability Living Allowance which the individual was entitled to immediately before the date of transfer to Child Disability Payment in accordance with Part 3 of the schedule (transitional provisions), as a result of a decision made pursuant to—
+(i)
+a revision under regulation 3 of the Social Security and Child Support (Decisions and Appeals) Regulations 1999 (“the 1999 Regulations”)(1),
+(ii)
+a supersession under regulation 6(2) of the 1999 Regulations,
+(iii)
+an appeal under section 12 of the Social Security Act 1998 (“the 1998 Act”)(3),
+(iv)
+a re-consideration under section 13 of the 1998 Act(4), or
+(v)
+an appeal to the Upper Tribunal under section 14 of the 1998 Act(5),
+(d)
+of an alteration of the rate of award of Disability Living Allowance which the individual was entitled to immediately before moving to Scotland in circumstances in which regulation 35 (individuals in respect of whom Disability Living Allowance is paid in another part of the United Kingdom immediately before moving to Scotland) applies, as a result of a decision made pursuant to—
+(i)
+a revision under regulation 3 of the Social Security and Child Support (Decisions and Appeals) Regulations 1999,
+(ii)
+a supersession under regulation 6 of those Regulations,
+(iii)
+an appeal under section 12 of the Social Security Act 1998 (“the 1998 Act”),
+(iv)
+a re-consideration under section 13 of the 1998 Act,
+(v)
+an appeal to the Upper Tribunal under section 14 of the 1998 Act,
+(vi)
+a revision under article 10 of the Social Security (Northern Ireland) Order 1998(6) (“the 1998 Order”),
+(vii)
+a supersession under article 11 of the 1998 Order(7),
+(viii)
+an appeal under article 13 of the 1998 Order(8), or
+(ix)
+an appeal to the Commissioner under article 15 of the 1998 Order(9).
+(1)
+S.I. 1999/991, regulation 3 was amended by S.I. 1999/1623, S.I. 1999/1662, S.I. 1999/2570, S.I. 1999/2677, S.I. 2000/897, S.I. 2002/428, S.I. 2002/1379, S.I. 2002/1703, S.I. 2003/916, S.I. 2003/1050, S.I. 2003/1886, S.I. 2005/337, S.I. 2005/2677, S.I. 2006/832, S.I. 2007/2470, S.I. 2007/2582, S.I. 2008/1554, S.I. 2008/2667, S.I. 2008/2683, S.I. 2009/659, S.I. 2009/1490, S.I. 2010/840, S.I. 2010/1160, S.I. 2011/2425, S.I. 2012/824, S.I. 2012/913, S.I. 2012/919, S.I. 2012/2568, S.I. 2012/2575, S.I. 2013/2380, 2014/1097, S.I. 2015/339, S.I. 2015/1985, S.I. 2016/1145, S.I. 2017/422 and S.I. 2017/1015.
+(2)
+Regulation 6 was amended by S.I. 1999/1623, S.I. 1999/2677, S.I. 2000/897, S.I. 2000/1596, S.I. 2001/1711, S.I. 2002/428, S.I. 2002/490, S.I. 2002/3019, S.I. 2003/1050, S.I. 2003/1886, S.I. 2003/2274, S.I. 2004/959, S.I. 2005/337, S.I. 2005/2677, S.I. 2008/1554, S.I. 2008/2667, S.I. 2008/2683, S.I. 2010/424, S.I. 2010/563, S.I. 2010/840, S.I. 2010/1160, S.I. 2012/1267, S.I. 2012/2568, S.I. 2014/1097, S.I. 2015/1985 and S.I. 2016/1145.
+(3)
+1998 c.14, amended by paragraph 25 of schedule 7 and paragraph 1 of schedule 10 of the Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c.2), S.I. 2008/2833, sections 102 and 105 of the Welfare Reform Act 2012 (c.5) and S.I. 2014/886.
+(4)
+Section 13 was amended by paragraph 26 of schedule 7 of the Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c.2) and S.I. 2008/2833.
+(5)
+Section 14 was amended by paragraph 1 of schedule 10 of the Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c.2) and S.I. 2008/2833.
+(6)
+S.I. 1998/1506. Article 10 was amended by S.I. 2015/2006.
+(7)
+Article 11 was amended by S.I. 1999/671 and S.I. 2015/2006.
+(8)
+Article 13 was amended by S.I. 1999/671, S.I. 2014/886, and 2015/2006.
+(9)
+Article 15 was amended by paragraph 22(1) of schedule 7 of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c.4) and S.I. 1999/671.Determination following official error - underpayments
+32.—(1) The Scottish Ministers are to make a determination of an individual’s entitlement to Child Disability Payment, without receiving an application, where—
+(a)
+they have previously made a determination of the individual’s entitlement to Child Disability Payment (“the original determination”),
+(b)
+they establish that, due to an official error, the original determination was incorrect resulting in the individual—
+(i)
+not being given an award of Child Disability Payment, or
+(ii)
+being given a lower award than that,
+to which the individual was entitled,
+(c)
+the Scottish Ministers are not considering a request for a re-determination of the individual’s entitlement to the Payment, and
+(d)
+the individual has not appealed to the First-tier Tribunal for Scotland against the Scottish Ministers’ determination of the individual’s entitlement to Child Disability Payment.
+(2) In making a determination required by paragraph (1) the Scottish Ministers are to use—
+(a)
+the information—
+(i)
+provided in the application that led to the original determination,
+(ii)
+any other information they have obtained in connection with that application, or
+(b)
+any other information they have obtained in connection with the individual’s entitlement to Child Disability Payment.
+(3) In this regulation “official error” means an error made by someone acting on behalf of the Scottish Ministers or on behalf of a Minister of the Crown that was not materially contributed to by anyone else.Determination following error - overpayments
+33.—(1) The Scottish Ministers are to make a determination of an individual’s entitlement to Child Disability Payment, without receiving an application, where—
+(a)
+they have previously made a determination of the individual’s entitlement to Child Disability Payment (“the original determination”),
+(b)
+they establish that, due to an error, the original determination was incorrect resulting in the individual being given—
+(i)
+an award of Child Disability Payment to which the individual was not entitled, or
+(ii)
+a higher award than that to which the individual was entitled.
+(c)
+the Scottish Ministers are not considering a request for a re-determination of the individual’s entitlement to the Payment, and
+(d)
+the individual has not made an appeal to the First-tier Tribunal for Scotland or Upper Tribunal against the Scottish Ministers’ determination of the individual’s entitlement to Child Disability Payment, that has not yet been determined.
+(2) In making a determination required by paragraph (1) the Scottish Ministers are to use—
+(a)
+the information—
+(i)
+provided in the application that led to the original determination, and
+(ii)
+any other information they have obtained in connection with that application,
+(b)
+any other information they have obtained in connection with the individual’s entitlement to Child Disability Payment, and
+(c)
+any other information available to them that is relevant to their consideration of whether the individual is entitled to Child Disability Payment.
+(3) In this regulation references to an “error” are to—
+(a)
+an error in the performance of a function conferred by these Regulations or the 2018 Act, including a determination being made—
+(i)
+wrongly, or
+(ii)
+correctly but on the basis of—
+(aa)
+incorrect information, or
+(bb)
+an assumption which proves to be wrong, or
+(b)
+a new determination not being made after an assumption on the basis of which an earlier determination was made has proved to be wrong.Determination to effect a deduction decision
+34.—(1) The Scottish Ministers are to make a determination of an individual’s entitlement to Child Disability Payment, without receiving an application, where the circumstances in paragraphs (2) and (3) apply.
+(2) This paragraph applies where—
+(a)
+regulation 27 (form of payment - giving Child Disability Payment by way of deduction) allows Child Disability Payment to be given to the individual by way of deduction, or
+(b)
+Child Disability Payment is being given to the individual by way of deduction, and the Scottish Ministers consider that may no longer be appropriate.
+(3) This paragraph applies where the Scottish Ministers have decided to—
+(a)
+vary the amount of Child Disability Payment to be given by way of deduction (including introducing a deduction, where the full amount of Child Disability Payment was previously given as money),
+(b)
+vary any period for which the individual’s Child Disability is to be given by way of deduction, that may have been specified in a previous determination of the individual’s entitlement, or
+(c)
+cease making deductions, and instead give the individual’s Child Disability Payment in the form of money.
+(4) The Scottish Ministers are to make a determination, without receiving an application, where an individual who is receiving Child Disability Payment by way of deduction under a previous determination of entitlement notifies the Scottish Ministers that the individual—
+(a)
+withdraws their agreement to their Child Disability Payment being given by way of deduction,
+(b)
+wishes the Scottish Ministers to increase the amount of their Child Disability Payment that is given by way of deduction,
+(c)
+wishes the Scottish Ministers to decrease the amount of their Child Disability Payment that is given by way of deduction (including ceasing the deduction), or
+(d)
+wishes the Scottish Ministers to amend the length of any period referred to in paragraph (3)(b).Individuals in respect of whom Disability Living Allowance is paid in another part of the United Kingdom immediately before moving to Scotland
+35.—(1) Where an individual—
+(a)
+is under 18 years of age,
+(b)
+becomes resident in Scotland,
+(c)
+was resident in another part of the United Kingdom, and
+(d)
+was entitled to Disability Living Allowance immediately before the date of the move,
+the Scottish Ministers are to make a determination without application of the individual’s entitlement to Child Disability Payment.
+(2) Entitlement to Child Disability Payment under paragraph (1) begins on the day after the day on which Disability Living Allowance ceases to be paid in respect of the individual.
+(3) In this regulation, “the date of the move” is the date when the individual becomes resident in Scotland as notified by the individual to the Scottish Ministers (whether the notification takes place before or after the date of the move).Individuals in respect of whom Child Disability Payment is paid at the time of moving to another part of the United Kingdom
+36.—(1) Where the Scottish Ministers are notified that an individual who is entitled to Child Disability Payment has moved or is to move to become ordinarily resident in another part of the United Kingdom, the individual is to be treated as though the individual meets the condition of being ordinarily resident in Scotland for a period of 13 weeks beginning with the date of the move.
+(2) Subject to Part 5 (effect of time spent in care homes and in legal detention), where the Scottish Ministers receive notification mentioned in paragraph (1), they are to make a determination without application at the end of the 13-week period mentioned in paragraph (1) that the individual’s entitlement to Child Disability Payment is to terminate.
+(3) Where before the end of the 13-week period, the Scottish Ministers are notified that the individual is no longer to move to become ordinarily resident in another part of the United Kingdom, the notification mentioned in paragraph (1) is to be treated as not having been made and the duty in paragraph (2) does not apply.
+(4) Where an individual notifies the Scottish Ministers that they have become resident in another part of the United Kingdom and they have been resident there for 13 weeks or more—
+(a)
+entitlement to Child Disability Payment ceases on, and
+(b)
+regulation 33 (determination following error – overpayments) applies to any Child Disability Payment paid to an individual after 13 weeks after,
+the date when the individual became resident in another part of the United Kingdom.
+(5) In this regulation, “the date of the move” is, where the individual notifies the Scottish Ministers—
+(a)
+before the date when the individual ceases to be resident in Scotland, the date when the individual becomes resident in another part of the United Kingdom or
+(b)
+after the date when the individual becomes resident in another part of the United Kingdom but before they have been resident there for 13 weeks, the date of notification.Periods in respect of a re-determination request
+37.—(1) The period for requesting a re-determination of entitlement to Child Disability Payment under section 41 (right to request re-determination) of the 2018 Act is 42 days beginning with the day that the individual is informed, in accordance with section 40 of the 2018 Act (notice of determination), of the right to make the request.
+(2) In relation to determining entitlement to Child Disability Payment, the period allowed for re-determination (within the meaning of section 43 of the 2018 Act (duty to re-determine)) is 56 days beginning with—
+(a)
+the day that the request for a re-determination is received by the Scottish Ministers, or
+(b)
+in a case where the request for a re-determination is received by the Scottish Ministers outwith the period prescribed in paragraph (1), the day on which it is decided by the Scottish Ministers or (as the case may be) the First-tier Tribunal for Scotland that the individual in question has a good reason for not requesting a re-determination sooner.Payment of mobility component to authorised providers of vehicles for individuals with disabilities
+38.—(1) Where—
+(a)
+an individual is entitled to the higher rate of the mobility component of Child Disability Payment, and
+(b)
+the individual has entered into an agreement with an authorised provider of vehicles for persons with disabilities for the hire or hire-purchase of a vehicle,
+the Scottish Ministers may, with the consent of the individual, pay that component (in whole or in part) to the provider to be used to meet, or contribute towards meeting, the individual’s liability under the agreement.
+(2) The Scottish Ministers must cease to make payments to the provider in accordance with paragraph (1) in the event that—
+(a)
+the agreement is brought to an end in accordance with the terms of the agreement, or
+(b)
+the individual withdraws their consent.Vehicles for persons with disabilities – powers of appointees
+39.—(1) Where a person (an “appointee”) is appointed by the Scottish Ministers under the 2018 Act to act on an individual’s behalf in connection with the determination of the individual’s entitlement to assistance under section 24 of the 2018 Act (duty to give assistance), in addition to the powers conferred on the appointee by that Act the appointee can, on behalf of the individual—
+(a)
+enter into an agreement with an authorised provider of vehicles for the hire or hire-purchase of a vehicle,
+(b)
+terminate any such agreement,
+(c)
+for the purpose of regulation 38(1), give consent to the Scottish Ministers to pay (in whole or in part) the mobility component to which the individual is entitled to the provider, and
+(d)
+withdraw any such consent.
+(2) An appointee may exercise the powers conferred by paragraph (1)(b) and (d) whether the agreement was entered into, or the consent given, by the appointee or by any other person.Initial period for applications
+40.  Part 2 of the schedule makes provision about the initial period for applications.Transfer to Child Disability Payment
+41.  Part 3 of the schedule makes provision about transferring from Disability Living Allowance to Child Disability Payment.Entitlement to short-term assistance
+42.  Part 1 of the schedule makes provision about short-term assistance.Consequential amendment
+43.  The amendment specified in Part 4 of the schedule has effect.Transitory provision – initial period for applications
+44.—(1) During the initial period for applications, in addition to meeting the residence and presence conditions in regulation 5, an individual must be resident in one of the local authority areas specified in paragraph 6 of Part 2 of the schedule on the date their application is received by the Scottish Ministers.
+(2) In this regulation and in Part 2 of the schedule, “initial period for applications” means the period beginning with 26 July 2021 and ending with 21 November 2021.Exclusion to transitory provision
+45.—(1) An individual who has made a claim for Disability Living Allowance prior to 26 July 2021 which has not yet been decided is not entitled to be paid Child Disability Payment during the initial period for applications.
+(2) In paragraph (1) a claim for Disability Living Allowance is decided if it has—
+(a)
+been decided by the Secretary of State under section 8 (decisions by Secretary of State) of the Social Security Act 1998(1),
+(b)
+been withdrawn in accordance with regulation 5(2) of the Social Security (Claims and Payments) Regulations 1987(2), or
+(c)
+otherwise is no longer to be decided by the Secretary of State as mentioned in sub-paragraph (a).
+(1)
+1998 c.14, relevantly amended by paragraph 1 of Part 1 of schedule 10 of the Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c.2) and paragraph 1 of Part 8 of schedule 14 of the Welfare Reform Act 2012 (c.5).
+(2)
+S.I. 1987/1968.Name
+A member of the Scottish Government
+St Andrew’s House,
+Edinburgh
+DateSCHEDULE 1
+Regulation 42
+PART 1
+Short-term assistance
+Entitlement to short-term assistance
+1.—(1) Subject to sub-paragraph (2), an individual who is, or was, entitled to Child Disability Payment under a determination made on the basis that the individual has ongoing entitlement is entitled to short-term assistance where—
+(a)
+a determination of the individual’s entitlement to Child Disability Payment (“earlier determination”) has been superseded by a subsequent determination (“subsequent determination”) which has the effect that the individual is—
+(i)
+no longer entitled to Child Disability Payment, or
+(ii)
+entitled to a lower amount of Child Disability Payment,
+(b)
+the individual’s entitlement to Child Disability Payment is under review within the meaning of paragraph 1(2) of schedule 10 of the 2018 Act, and
+(c)
+the individual—
+(i)
+continues to meet the conditions as to residence and presence set out in regulations 5 to 9, or
+(ii)
+has transferred to become ordinarily resident in another part of the United Kingdom, and the matter under review is the determination of entitlement for the 13-week period beginning with the date of the transfer in accordance with regulation 36 (individuals in respect of whom Child Disability Payment is paid at the time of moving to another part of the United Kingdom).
+(2) An individual is not entitled to short-term assistance where the individual is no longer entitled to Child Disability Payment as a result of a subsequent determination made under regulation 31(b) (determination following change of circumstances etc.).
+(3) An individual to whom regulation 17(2) (effect of admission to a care home on ongoing entitlement to care component) or 18(2) (effect of legal detention on ongoing entitlement to care component) applies is not entitled to short-term assistance in respect of the care component of Child Disability Payment.
+(4) Where the Scottish Ministers have made a determination under section 37 of the 2018 Act (duty to make determination) that an individual is entitled to short-term assistance, entitlement to short-term assistance begins—
+(a)
+where a request is made under section 41 of the 2018 Act (right to request re-determination) for a re-determination of the determination of the individual’s entitlement to Child Disability Payment mentioned in paragraph 1(1)(a), on the day that request is made,
+(b)
+where a notice of appeal is submitted under section 47 of the 2018 Act (initiating an appeal) against the determination of the individual’s entitlement to Child Disability Payment mentioned in paragraph 1(1)(a), on the day that request is made,
+(c)
+where a decision of the Scottish Ministers is made not to accept a request for a re-determination of the individual’s entitlement to Child Disability Payment mentioned in paragraph 1(1)(a), on the day that decision is set aside by the First-tier Tribunal for Scotland, or
+(d)
+a request is made under section 48(1)(b) of the 2018 Act (deadline for appealing) for permission to appeal the determination of the individual’s entitlement to Child Disability Payment mentioned in paragraph 1(1)(a), on the day that request is made.
+Value and form
+2.—(1) The value of short-term assistance payable is to be the difference between the amount of Child Disability Payment to which the individual was entitled under the earlier determination mentioned in paragraph 1(1)(a), and the amount of Child Disability Payment the individual is entitled to under the subsequent determination mentioned in paragraph 1(1)(a).
+(2) The form in which the short term assistance is to be given is to be the same as the form in which Child Disability Payment was given under the earlier determination.
+(3) Where the mobility component was being paid by the Scottish Ministers to an authorised provider of vehicles for persons with disabilities in accordance with regulation 38(1) (payment of mobility component to authorised provider of vehicles for individuals with disabilities) on the day before an individual’s entitlement to the mobility component ended as a result of a subsequent determination mentioned in paragraph 1(1)(a)—
+(a)
+the amount of short-term assistance that is payable in respect of the mobility component may be paid by the Scottish Ministers to the authorised provider, and
+(b)
+paragraphs (1) and (2) of regulation 38 apply to the payment of short-term assistance as they had applied to the payment of mobility component prior to the individual’s entitlement ending.
+(4) Regulations 27 (form of payment - giving Child Disability Payment by way of deduction), 32 (determination following official error – underpayments), 33 (determination following error – overpayments) and 34 (determination to effect a deduction decision) apply to short-term assistance in the same way as they apply to Child Disability Payment.
+End of entitlement
+3.—(1) Entitlement to short-term assistance ends on the day—
+(a)
+a determination of an individual’s entitlement to short-term assistance is cancelled under section 26(2) of the 2018 Act (individual’s right to stop receiving assistance),
+(b)
+a determination of an individual’s entitlement to Child Disability Payment is made by the Scottish Ministers under regulation 31 (determination following change of circumstances etc.),
+(c)
+the First-tier Tribunal for Scotland makes a decision under section 49 of the 2018 Act (First-tier Tribunal’s power to determine entitlement) in relation to the subsequent determination of the individual’s entitlement to Child Disability Payment mentioned in paragraph 1(1)(a), or
+(d)
+that the First-tier Tribunal for Scotland makes a determination to refuse permission under section 48(1)(b) of the 2018 Act (deadline for appealing) to bring an appeal against the subsequent determination of the individual’s entitlement to Child Disability Payment mentioned in paragraph 1(1)(a).
+(2) Where a decision of the First-tier Tribunal for Scotland mentioned in sub-paragraph (1)(c) is set aside after a review under section 43(2) of the Tribunals (Scotland) Act 2014(1) (review of decisions) the Scottish Ministers are to make a determination without application of the individual’s entitlement to short-term assistance.
+Reduction of payment of Child Disability Payment where short-term assistance is paid
+4.  Where an individual has received short-term assistance for a period and a determination is subsequently made that that individual is entitled to Child Disability Payment at the same rate or at a higher rate for that period, any payment of Child Disability Payment to be made for that period is to be reduced by any short-term assistance and any Child Disability Payment already paid to that individual for that period.
+Regulation 40
+PART 2
+Initial period for applications
+Initial period for applications
+5.—(1) These Regulations apply to an individual who is resident in one of the local authority areas mentioned in paragraph 6 when they make an application for Child Disability Payment during the initial period for applications.
+(2) An individual who is awarded Child Disability Payment pursuant to an application made during the initial period for applications will continue to be entitled if that person moves to another local authority area in Scotland.
+Local authority areas for initial period for applications
+6.  The local authority areas are Perthshire and Kinross, City of Dundee and the Western Isles.
+Regulation 41
+PART 3
+Transfer to Child Disability Payment
+Interpretation
+7.  In this Part of the schedule—
+“date of transfer” means the date when a transferring individual’s entitlement to Child Disability Payment begins by virtue of a determination made under paragraph 9(1),
+“relevant individual” means an individual—
+(a)
+who has an award of Disability Living Allowance who appears to the Scottish Ministers to be likely to be eligible for Child Disability Payment,
+(b)
+who is—
+(i)
+ordinarily resident in Scotland, or
+(ii)
+someone to whom regulation 5(4) (residence and presence conditions) or 9(2) (persons residing outside the United Kingdom to whom a relevant EU regulation applies) applies,
+“sufficient” means a link to Scotland that is sufficiently close that regulations 5(4) or 9(2) would be incompatible with the applicable agreement mentioned in that regulation, if the relevant individual were not entitled to Child Disability Payment,
+“transfer notice” means the notice required by paragraph 8, and
+“transferring individual” means a relevant individual on whom the Scottish Ministers have served a notice of intention to transfer in accordance with paragraph 8.
+Notice of intention to transfer to Child Disability Payment
+8.—(1) The Scottish Ministers are to notify each relevant individual of their intention to transfer that individual’s entitlement to disability assistance from an entitlement to Disability Living Allowance to an entitlement to Child Disability Payment.
+(2) Notice under sub-paragraph (1) must—
+(a)
+be given in a way that leaves the relevant individual with a record of the information which they can show to, or otherwise share with, others,
+(b)
+inform the relevant individual that—
+(i)
+they have been identified as a relevant individual for the purposes of transfer to Child Disability Payment,
+(ii)
+the Scottish Ministers will make a determination without application to transfer the individual’s entitlement to Disability Living Allowance to an entitlement to Child Disability Payment within 13 weeks of the date of the notice (the individual will be notified when the determination is made and informed about their award and start date of Child Disability Payment), and
+(iii)
+the individual’s award of Disability Living Allowance will cease immediately before the award of Child Disability Payment begins.
+(3) Where a notice under sub-paragraph (1) is given in error where the individual is neither—
+(a)
+ordinarily resident in Scotland, nor
+(b)
+an individual who is habitually resident in an EEA state, Gibraltar or Switzerland and has a genuine and sufficient link to Scotland,
+the duty on the Scottish Ministers in paragraph 9(1) does not apply.
+(4) Where sub-paragraph (3) applies in respect of an individual and a determination under paragraph 9(1) has not been made, the Scottish Ministers are to notify the individual that the duty on the Scottish Ministers in paragraph 9(1) does not apply.
+Determination without application of entitlement to Child Disability Payment
+9.—(1) The Scottish Ministers are to make a determination without application in respect of a transferring individual of that individual’s entitlement to Child Disability Payment.
+(2) Entitlement to Child Disability Payment under a determination under sub-paragraph (1) begins on the date specified in the notice of determination given to the transferring individual in accordance with section 40 of the 2018 Act.
+(3) The determination under sub-paragraph (1) is to be made on the basis of—
+(a)
+such information as the Scottish Ministers have received from the Secretary of State for Work and Pensions in respect of the transferring individual’s entitlement to Disability Living Allowance, and
+(b)
+any other information available to the Scottish Ministers that appears to them to be relevant.
+(4) Subject to paragraph 11, a determination under sub-paragraph (1) must be made on the basis that the transferring individual is entitled to the components and rates of Child Disability Payment that are equivalent to those components and rates of Disability Living Allowance to which the individual was entitled immediately before the date of transfer.
+(5) A determination under sub-paragraph (1)—
+(a)
+may be made on the assumption that whatever can be discerned about the transferring individual’s circumstances from the information mentioned in sub-paragraph (3) remains accurate on the date on which the determination is made,
+(b)
+notwithstanding the generality of head (a), is to be made on the assumption that the conditions relating to residence and presence set out in regulations 5 to 9 (residence and presence conditions etc.) are satisfied in the individual’s case, and
+(c)
+must be made not later than 13 weeks after the date of the notice under paragraph 8(1) unless the Scottish Ministers have—
+(i)
+good reason to extend that period,
+(ii)
+agreed the period for extension with the Secretary of State for Work and Pensions, and
+(iii)
+notified the transferring individual of the extension and the reason for it.
+Effect of determination on entitlement to Disability Living Allowance
+10.  Where a determination is made under paragraph 9 that the transferring individual is entitled to Child Disability Payment, the transferring individual’s entitlement to Disability Living Allowance will cease on the date their entitlement to Child Disability Payment begins.
+Exceptions to paragraph 9(4)
+11.  The following circumstances are exceptions to paragraph 9(4)—
+(a)
+a transferring individual who is either not entitled to or entitled to the lower rate of the mobility component of Disability Living Allowance immediately before the date of transfer, is entitled to the higher rate for the mobility component of Child Disability Payment where special rules for terminal illness under regulation 15 (entitlement under special rules for terminal illness) apply to that transferring individual,
+(b)
+a transferring individual who is not awarded the care component of Disability Living Allowance and meets the condition in regulation 11(1)(b) (care component criterion: lowest, middle or highest rate of care component) is entitled to the lowest rate of the care component of Child Disability Payment,
+(c)
+a transferring individual whose entitlement to either component of Disability Living Allowance was affected because they were under 16 and did not meet the requirement in section 72(1A)(b) of the Social Security Contributions and Benefits Act 1992(2), who is aged 16 or over is entitled to an increased rate of either component or both components of Child Disability Payment, and
+(d)
+a transferring individual, whose entitlement to the mobility component of Disability Living Allowance was affected by not meeting the requirement of regulation 12(1A) of the Social Security (Disability Living Allowance) Regulations 1991(3), who meets the condition in regulation 13(5) (mobility requirements: higher rate mobility component), is entitled to—
+(i)
+the lower rate of the mobility component of Child Disability Payment where the individual was not entitled to the mobility component of Disability Living Allowance, or
+(ii)
+to the higher rate of the mobility component of Child Disability Payment where the individual was entitled to the lower rate of the mobility component of Disability Living Allowance.
+Effect of legal custody on payment of the mobility component
+12.  Where a transferring individual is in legal detention immediately before the date of transfer and payment of the mobility component of Disability Living Allowance is suspended under regulation 3 of the Social Security (General Benefit) Regulations 1982(4), the mobility component of Child Disability Payment is to be paid at the rate equivalent to the rate of Disability Living Allowance paid to the transferring individual immediately prior to the suspension.
+Modification of these Regulations: transferring individuals
+13.  These Regulations apply to a transferring individual on and after the date of transfer with the following modifications—
+(a)
+regulation 17 (effect of admission to a care home on ongoing entitlement to care component) and regulation 18 (effect of legal detention on ongoing entitlement to care component) are to be read as if the period of 28 days begins on the date of transfer, and
+(b)
+regulation 24 (when an application is to be treated as made and beginning of entitlement to assistance) is treated as omitted.
+Appointees
+14.—(1) A person appointed by the Secretary of State for Work and Pensions under regulation 33 or 43 of the Social Security (Claims and Payments) Regulations 1987(5) to receive Disability Living Allowance on behalf of a transferring individual is to be treated on and after the date of transfer as though appointed by the Scottish Ministers to act on behalf of that transferring individual under section 58 (or 85B(6)) or 85A of the 2018 Act.
+(2) As soon as reasonably practicable after the date of transfer, the Scottish Ministers must—
+(a)
+consider whether the conditions for making an appointment in respect of the transferring individual are met (having regard to whichever of section 58(4), 85A(3) or 85B(3) of the 2018 Act applies in the transferring individual’s case),
+(b)
+consider whether to terminate the appointment that is treated as having been made by virtue of sub-paragraph (1) and terminate it if they consider it appropriate, and
+(c)
+if they have terminated an appointment in pursuance of head (b), appoint under section 58 (or 85B) or 85A of the 2018 Act another person to act on the transferring individual’s behalf if they consider it appropriate to do so.
+Regulation 43
+PART 4
+Consequential amendment
+15.—(1) The Social Security Contributions and Benefits Act 1992(7) is amended in accordance with paragraph (2).
+(2) In section 70(2)(8) (invalid care allowance), after “enhanced rate” insert “or disability assistance by virtue of entitlement to the care component at the middle or highest rate under regulations made under section 31 of the Social Security (Scotland) Act 2018”.
+(1)
+2014 asp 10.
+(2)
+1992 c.4. Subsection (1A) was inserted by section 52(2) of the Welfare Reform Act 2007 (c.5).
+(3)
+S.I. 1991/2890. Regulation 12(1A) was inserted by S.I. 2010/1651.
+(4)
+S.I. 1982/1408.
+(5)
+S.I. 1987/1968, relevantly amended by S.I. 1991/2741, S.I. 2002/2469, S.I. 2003/492, S.I. 2004/696, S.I. 2005/337 and S.I. 2013/235.
+(6)
+Section 85B is not yet in force but when commenced it will replace section 58.
+(7)
+1992 c.4.
+(8)
+Subsection (2) was amended by S.I. 2013/388 and S.I. 2013/796.EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations make provision for Child Disability Payment which is a type of disability assistance given by the Scottish Ministers under section 31 of the Social Security (Scotland) Act 2018.
+Part 2 provides an overview of arrangements for payment of disability assistance for children and young people (“Child Disability Payment”).
+Part 3 deals with eligibility for the assistance on account of having a disability, including age criteria, residence and presence conditions, entitlement to other benefits, care component criterion and mobility requirements.
+Part 4 sets out rules of entitlement to the assistance on account of having a terminal illness, and when undergoing dialysis at home.
+Part 5 deals with the effect on entitlement to the care component of the assistance of residence when in a care home or hospital or in legal detention.
+Part 6 deals with the making of applications, payments, the amount and form of Child Disability Payment and ongoing eligibility. It also provides for when increases or decreases of entitlement take effect and giving assistance by way of deduction.
+Part 7 deals with reconsideration of entitlement, where an award of assistance has already been made and is being revisited. It provides for determinations without application to be made where a specified period has elapsed, there is a change in circumstances, to address error or official error or to effect a deduction decision.
+Part 8 deals with the situation where people in receipt of the assistance, and the DWP equivalent, move to and from Scotland, from other parts of the United Kingdom.
+Part 9 provides for time periods for dealing with requests for re-determination of entitlement.
+Part 10 makes provision for the Scottish Ministers to make payment to suppliers of adapted vehicles, with whom recipients of the assistance have entered agreements for hire or hire purchase. These suppliers must be accredited according to a scheme operated by the Scottish Ministers.
+Part 11 and Part 2 of the schedule makes provision for an initial period for applications to take place before the rollout of the assistance.
+Part 12 and Part 3 of the schedule makes provision to transfer individuals who are awarded Disability Living Allowance to become entitled to Child Disability Payment.
+Part 13 and Part 1 of the schedule deals with entitlement to short term assistance, to bridge the gap, in the event that entitlement to the assistance is reduced or removed. This is payable, in certain circumstances, during the time when the change in entitlement is being challenged but the outcome is not yet known.
+Part 14 and Part 4 of the schedule makes provision for a consequential amendment to the Social Security Contributions and Benefits Act 1992.
+Part 15 deals with an initial period for applications by way of transitory provision.

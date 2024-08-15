@@ -1,0 +1,57 @@
+Draft Regulations laid before Parliament under section 268(3) of the Investigatory Powers Act 2016, for approval by resolution of each House of Parliament after the expiry of the 40-day period referred to in section 268(4) of that Act.
+DRAFT STATUTORY INSTRUMENTS
+2020 No.
+INVESTIGATORY POWERS
+The Investigatory Powers (Communications Data) (Relevant Public Authorities and Designated Senior Officers) Regulations 2020
+Made
+[ ] 2020
+Coming into force in accordance with regulation 1
+The Secretary of State, in exercise of the powers conferred by section 71(1) of the Investigatory Powers Act 2016(1), makes the following Regulations.
+In accordance with section 72(2) of that Act, the Secretary of State has consulted the Investigatory Powers Commissioner and the public authorities to which the modifications in these Regulations relate.
+In accordance with section 268(2) of that Act, a period of at least 12 weeks beginning with the day on which that consultation first began has elapsed and the Secretary of State considers it appropriate to proceed with making the Regulations.
+In accordance with section 268(3) of that Act, a draft of these Regulations and a document explaining the Regulations were laid before Parliament and the draft Regulations were approved by a resolution of each House of Parliament in accordance with section 268(4) of that Act, after the expiry of the 40-day period(2).
+(1)
+2016 c. 25. Section 71(2) was amended, and section 71(2A) was inserted, by S.I. 2018/1123.
+(2)
+“The 40-day period” is defined in section 268(11) of the Investigatory Powers Act 2016.Citation and commencement
+1.  These Regulations may be cited as the Investigatory Powers (Communications Data) (Relevant Public Authorities and Designated Senior Officers) Regulations 2020 and come into force on the day after the day on which they are made.Amendment of Schedule 4 to the Investigatory Powers Act 2016
+2.—(1) The table in Part 1 of Schedule 4 to the Investigatory Powers Act 2016 (relevant public authorities and designated senior officers etc.)(1) is amended as follows.
+(2) After the entry for the British Transport Police Force, insert—
+“Civil Nuclear Constabulary 60A(7)(a), (b), (c), and (e) Inspector Entity data 61(7)(a) and (c) 61A(7)(a) and (c)
+Superintendent All 61(7)(a) and (c) 61A(7)(a) and (c)”
+(3) In the entry for the Department of Health, in column 1, for “Department of Health” substitute “Department of Health and Social Care”.
+(4) In the entry for the Ministry of Justice, in column 3, for both “security group of the National Offender Management Service” and “security group of the National Offender Manager Service” substitute “Security, Order and Counter-Terrorism Directorate of Her Majesty’s Prison and Probation Service”.
+(5) In the entry for the Department for Transport, in column 3, for “Air Accident” substitute “Air Accidents”.
+(6) After the entry for the Department of Justice in Northern Ireland, insert—
+“Environment Agency 60A(7)(b) and (d) Area Management Team Member or equivalent (Grade 7) or Senior Enforcement Technical Advisor or equivalent (Grade 6) All 61A(7)(a) and (b)”
+(7) In the entry for the Information Commissioner, in column 3, for “Head of enforcement or an equivalent grade” substitute “Head of department in an investigation or intelligence role”.
+(8) After the entry for the Information Commissioner, insert—
+“Insolvency Service 60A(7)(b) Grade 7 in the Investigation and Enforcement Services Directorate – Criminal Investigation Team All 61A(7)(a)
+UK National Authority for Counter Eavesdropping 60A(7)(a) UK NACE Grade D6 and above All 61(7)(a)”
+(9) In the entry for the National Health Service Business Services Authority—
+(a)
+in column 1, for “National Health Service Business Services Authority” substitute “NHS Counter Fraud Authority”;
+(b)
+in column 3, omit “in the Counter Fraud and Security Management Services Division”.
+(10) After the entry for the Office of the Police Ombudsman for Northern Ireland, insert—
+“Pensions Regulator 60A(7)(b) Head of Department in an enforcement or intelligence role All 61A(7)(a)”
+(1)
+The table in Part 1 of Schedule 4 was substituted by S.I. 2018/1123.Name
+Minister of State
+Home Office
+DateEXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend Schedule 4 to the Investigatory Powers Act 2016 (c. 25). That Schedule sets out the public authorities, other than local authorities, who may exercise powers under Part 3 of that Act to obtain communications data, the statutory purposes for which the communications data may be obtained, the type of communications data which may be obtained, and the designated senior officers within those authorities who may authorise the obtaining of communications data internally in an urgent case.
+Regulation 2 amends Schedule 4 so that the Civil Nuclear Constabulary has the power to obtain communications data (defined in section 261(5) of the Investigatory Powers Act 2016), where it is wholly or partly events data, for the purpose of preventing or detecting serious crime, and in any other case, for the purpose of preventing or detecting crime or of preventing disorder.
+The Civil Nuclear Constabulary is given the power to obtain all types of communications data in the interests of national security, in the interests of the economic well-being of the United Kingdom so far as those interests are also relevant to the interests of national security, and for the purpose of preventing death or injury or any damage to a person’s physical or mental health, or of mitigating any injury or damage to a person’s physical or mental health.
+An Inspector within the Civil Nuclear Constabulary may authorise the obtaining of entity data only and a Superintendent within the Civil Nuclear Constabulary may authorise the obtaining of all types of communications data.
+An amendment is made to reflect the name change of the Department of Health to the Department of Health and Social Care.
+An amendment is made to the description of the minimum office, rank or position which must be held by a designated senior officer within the Ministry of Justice to reflect an organisational change.
+An amendment is made to correct the reference to the Air Accidents Investigation Branch within the Department for Transport.
+The Environment Agency is given the power to obtain communications data, where it is wholly or partly events data, for the purpose of preventing or detecting serious crime, and in any other case, for the purpose of preventing or detecting crime or of preventing disorder. It is also given the power to obtain all types of communications data in the interests of public safety.
+An amendment is made to the description of the minimum office, rank or position which must be held by a designated senior officer within the Office of the Information Commissioner to reflect an organisational change.
+The Insolvency Service is given the power to obtain communications data, where it is wholly or partly events data, for the purpose of preventing or detecting serious crime, and in any other case, for the purpose of preventing or detecting crime or of preventing disorder.
+The UK National Authority for Counter Eavesdropping is given the power to obtain events data, and entity data in the interests of national security.
+An amendment is made to the entry for the National Health Service Business Services Authority to reflect the transfer of its functions to the NHS Counter Fraud Authority and amendments are accordingly made to the description of the minimum office, rank or position which must be held by a designated senior officer within this authority.
+Finally, the Pensions Regulator is given the power to obtain communications data, where it is wholly or partly events data, for the purpose of preventing or detecting serious crime, and in any other case, for the purpose of preventing or detecting crime or of preventing disorder.
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sectors is foreseen.

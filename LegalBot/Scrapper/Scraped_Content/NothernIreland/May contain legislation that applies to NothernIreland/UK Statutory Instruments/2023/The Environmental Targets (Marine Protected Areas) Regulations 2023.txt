@@ -1,0 +1,1470 @@
+STATUTORY INSTRUMENTS
+2023 No. 94
+ENVIRONMENTAL PROTECTION, ENGLAND
+MARINE MANAGEMENT, ENGLAND
+WILDLIFE, ENGLAND
+The Environmental Targets (Marine Protected Areas) Regulations 2023
+Made
+30th January 2023
+Coming into force
+31st January 2023
+A draft of this instrument has been laid before and approved by resolution of each House of Parliament in accordance with sections 4(8) and 143(5)(b) of the Environment Act 2021(1) (“the 2021 Act”).
+In accordance with section 4(1) and (2) of the 2021 Act, the Secretary of State has sought advice from persons the Secretary of State considers to be independent and to have relevant expertise and the Secretary of State is satisfied that the target set by these Regulations can be met.
+Accordingly, the Secretary of State in exercise of the powers conferred by sections 1, 6(1) and 143(1)(a) and (b) of the 2021 Act, makes the following Regulations.
+(1)
+2021 c. 30.Citation, commencement, extent and application
+1.—(1) These Regulations may be cited as the Environmental Targets (Marine Protected Areas) Regulations 2023 and come into force on the day after the day on which they are made.
+(2) These Regulations extend to England and Wales but apply in relation to England only (as defined in regulation 2).Interpretation
+2.  In these Regulations—
+“the 2021 Act” means the Environment Act 2021;
+“England” includes—
+(a)
+the English inshore region, and
+(b)
+the English offshore region,
+within the meaning of the Marine and Coastal Access Act 2009(1);
+“the nature conservation bodies” means Natural England(2) and the Joint Nature Conservation Committee(3);
+“protected feature” means a marine habitat or type of marine habitat, a species or assemblage of species of marine flora or fauna or a feature or assemblage of geological or geomorphological interest specified in the second column of the Schedule in relation to a relevant marine protected area;
+“relevant marine protected area” (or “relevant MPA”) means—
+(a)
+a marine conservation zone (“MCZ”) designated by an order made under section 116(1) of the Marine and Coastal Access Act 2009 (“MCZ designation order”) specified in the first column of the Schedule;
+(b)
+a special area of conservation (“SAC”) within the meaning of regulation 3(1) of the Conservation of Habitats and Species Regulations 2017(4) specified in the first column of the Schedule;
+(c)
+a special protection area (“SPA”) classified—
+(i)
+pursuant to Article 4(1) or (2) of Council Directive 79/409/EEC on the conservation of wild birds(5) or Directive 2009/147/EC of the European Parliament and of the Council on the conservation of wild birds(6),
+(ii)
+under regulation 15 of the Conservation of Habitats and Species Regulations 2017, or
+(iii)
+under regulation 12 of the Conservation of Offshore Marine Habitats and Species Regulations 2017(7),
+specified in the first column of the Schedule;
+but does not include any part of an MCZ, SAC or SPA which is situated outside England.
+(1)
+2009 c. 23: see section 322 (interpretation) for the definitions of “English inshore region” and “English offshore region”.
+(2)
+Natural England was established by section 1(1) of the Natural Environment and Rural Communities Act 2006 (c. 16).
+(3)
+The Joint Nature Conservation Committee was established by virtue of section 128(4) of the Environmental Protection Act 1990 (c. 43) and subsequently reconstituted by section 31 of, and Schedule 4 to, the Natural Environment and Rural Communities Act 2006.
+(4)
+S.I. 2017/1012, amended by S.I. 2019/579; there are other amending instruments but none is relevant. S.I. 2019/579 came into force on IP completion day by virtue of paragraph 1(1) of Schedule 5 to the European Union (Withdrawal Agreement) Act 2020 (c. 1).
+(5)
+OJ No. L103, 25.4.1979, p.1: Council Directive 79/409/EEC was repealed by Directive 2009/147/EC.
+(6)
+OJ No. L 20, 26.1.2010, p.7, as last amended by Regulation (EU)2019/1010, OJ No. L 170, 25.6.2019, p.115.
+(7)
+S.I. 2017/1013, amended by S.I. 2019/579; there are other amending instruments but none is relevant.Environmental target for condition of protected features in relevant MPAs
+3.—(1) This regulation specifies a target in accordance with section 1(1) of the 2021 Act in respect of the condition of protected features in relevant MPAs.
+(2) The target is that before the end of 31st December 2042—
+(a)
+the number of protected features which are in favourable condition within all relevant MPAs is not less than 70% of the total number of all protected features within relevant MPAs; and
+(b)
+all other protected features within relevant MPAs are in recovering condition.
+(3) In paragraph (2)—
+(a)
+“favourable condition”—
+(i)
+with respect to a protected feature in an MCZ, means—
+(aa)
+that the feature, and its supporting habitat where this is included as part of its conservation objective in the relevant MCZ designation order specified in the fourth column of the Schedule, is in favourable condition within the meaning stated for that feature type in that MCZ designation order, or
+(bb)
+where the protected feature is black seabream (Spondyliosoma cantharus) that the population (whether temporary or otherwise) is free of disturbance of a kind specified for that feature in the relevant MCZ designation order specified in the fourth column of the Schedule and its spawning habitat is in favourable condition within the meaning stated in that MCZ designation order;
+(ii)
+with respect to a protected feature in an SAC which is a marine habitat or type of marine habitat, means that—
+(aa)
+its extent and distribution is stable or increasing, and
+(bb)
+the structures and functions, and natural supporting processes on which it relies, are such as to ensure that it remains in a condition which is healthy and not deteriorating;
+(iii)
+with respect to a protected feature in an SAC which is a species of marine fauna or flora, means that—
+(aa)
+the quality and quantity and distribution of its supporting habitat, the quality of the natural supporting processes on which it relies, the availability of prey and the composition of its population in terms of distribution and size are such as to ensure that the population is maintained in numbers which enable it to thrive, and
+(bb)
+where the protected feature is grey seal (Phoca vitulina), harbour porpoise (Phocoena phocoena), or harbour seal (Halichoerus grypus) it is free of human disturbance of a kind likely to have a significant effect on its use of the site;
+(iv)
+with respect to a protected feature in an SPA, means that—
+(aa)
+the extent and distribution of its supporting habitat is stable or increasing,
+(bb)
+the structures, functions and quality of its supporting habitat including its natural supporting processes are such as to ensure that its supporting habitat remains in a condition which is healthy and not deteriorating,
+(cc)
+the distribution and size of its population (whether temporary or otherwise) are such as to ensure that it is maintained in numbers which enable it to thrive, and
+(dd)
+its population (whether temporary or otherwise) is free of human disturbance of a kind likely to have a significant effect on the survival of its members, or their ability to breed or rear their young.
+(b)
+“recovering condition” with respect to a protected feature in a relevant MPA means that the feature is not in favourable condition but the measures necessary to remove or manage all relevant impacts on that feature have been implemented.
+(4) For the purpose of paragraph (3)(a)(iii)(aa) and paragraph (3)(a)(iv)(cc), any temporary reduction in numbers is to be disregarded if the population is sufficiently thriving and resilient to enable its recovery.
+(5) For the purpose of determining whether a protected feature is in favourable condition within the meaning of paragraph (3)(a), any alteration to that feature brought about entirely by natural processes is to be disregarded.
+(6) In paragraph (3)(b), a “relevant impact” is an impact which—
+(a)
+adversely affects the feature,
+(b)
+arises from human activities specific to the relevant MPA or its vicinity, and
+(c)
+taking into account any measures which have already been implemented, if it were not removed or managed would prevent the feature from ever being in favourable condition within the meaning of paragraph (3)(a),
+but a relevant impact does not include the presence of an invasive non-native species in the relevant MPA or its vicinity if the species is present to such an extent that it would not be reasonably practicable to implement measures to try to remove or manage any adverse impact its presence is placing on the protected feature.Requirement to provide advice to the Secretary of State
+4.  The nature conservation bodies must, on request, provide the Secretary of State with such advice as the Secretary of State considers is reasonably required to perform the Secretary of State’s functions under Part 1 of the 2021 Act (Environmental Governance) in relation to the target set by regulation 3(2).Reporting date
+5.  For the purpose of section 6(1) of the 2021 Act, the reporting date for the target set by regulation 3(2) is 31st January 2044.Trudy Harrison
+Parliamentary Under Secretary of State
+Department for Environment, Food and Rural Affairs
+30th January 2023Regulation 3
+SCHEDULE
+Protected features subject to target
+Relevant MPA Protected feature Type of feature MCZ Designation Order (1)
+Albert Field MCZ Subtidal coarse sediment Habitat The Albert Field Marine Conservation Zone Designation Order 2019(2)
+Subtidal mixed sediments Habitat
+Alde, Ore and Butley Estuaries SAC Atlantic salt meadows (Glauco-Puccinellietalia maritimae) Habitat
+Estuaries Habitat
+Mudflats and sandflats not covered by seawater at low tide Habitat
+Alde-Ore Estuary SPA Common redshank (Tringa totanus) Species
+Eurasian marsh harrier (Circus aeruginosus) Species
+Lesser black-backed gull (Larus fuscus) Species
+Little tern (Sterna albifrons) Species
+Pied avocet (Recurvirostra avosetta) Species
+Ruff (Philomachus pugnax) Species
+Sandwich tern (Sterna sandvicensis) Species
+Allonby Bay MCZ Blue mussel (Mytilus edulis) beds Habitat The Allonby Bay Marine Conservation Zone Designation Order 2016(3)
+High energy intertidal rock Habitat
+Honeycomb worm (Sabellaria alveolata reefs Habitat
+Intertidal biogenic reefs Habitat
+Intertidal coarse sediment Habitat
+Intertidal sand and muddy sand Habitat
+Low energy intertidal rock Habitat
+Moderate energy infralittoral rock Habitat
+Moderate energy intertidal rock Habitat
+Peat and clay exposures Habitat
+Subtidal biogenic reefs Habitat
+Subtidal coarse sediment Habitat
+Subtidal mixed sediments Habitat
+Subtidal sand Habitat
+Aln Estuary MCZ Coastal saltmarshes and saline reedbeds Habitat The Aln Estuary Marine Conservation Zone Designation Order 2013(4)
+Estuarine rocky habitats Habitat
+Intertidal mud Habitat
+Sheltered muddy gravels Habitat
+Axe Estuary MCZ Coastal saltmarshes and saline reedbeds Habitat The Axe Estuary Marine Conservation Zone Designation Order 2019(5)
+Estuarine rocky habitats Habitat
+Intertidal coarse sediment Habitat
+Intertidal mixed sediments Habitat
+Intertidal mud Habitat
+Bassurelle Sandbank SAC Sandbanks which are slightly covered by sea water all the time Habitat
+Beachy Head East MCZ High energy circalittoral rock Habitat The Beachy Head East Marine Conservation Zone Designation Order 2019(6)
+Short snouted seahorse (Hippocampus hippocampus) Species
+Littoral chalk communities Habitat
+Moderate energy circalittoral rock Habitat
+Peat and clay exposures Habitat
+Ross worm (Sabellaria spinulosa) reefs Habitat
+Subtidal chalk Habitat
+Subtidal coarse sediment Habitat
+Subtidal sand Habitat
+Beachy Head West MCZ Blue mussel (Mytilus edulis) beds Habitat The Beachy Head West Marine Conservation Zones Designation Order 2013 as amended by The Beachy Head West Marine Conservation Zones Designation (Amendment) Order 2016(7)
+High energy circalittoral rock Habitat
+Native oyster (Ostrea edulis) Species
+Infralittoral muddy sand Habitat
+Infralittoral sandy mud Habitat
+Intertidal coarse sediment Habitat
+Littoral chalk communities Habitat
+Low energy infralittoral rock and thin sandy sediment Habitat
+Moderate energy circalittoral rock Habitat
+Short snouted seahorse (Hippocampus hippocampus) Species
+Subtidal chalk Habitat
+Subtidal mixed sediments Habitat
+Subtidal mud Habitat
+Subtidal sand Habitat
+Bembridge MCZ Native oyster (Ostrea edulis) Species The Bembridge Marine Conservation Zone Designation Order 2019(8)
+Peacock’s tail (Padina pavonica) Species
+Short snouted seahorse (Hippocampus hippocampus) Species
+Maerl beds Habitat
+Stalked jellyfish (Calvadosia campanulata) Species
+Stalked jellyfish spp (Haliclystus spp) Species
+Seagrass beds Habitat
+Sea-pen and burrowing megafauna communities Habitat
+Sheltered muddy gravels Habitat
+Subtidal coarse sediment Habitat
+Subtidal mixed sediments Habitat
+Subtidal mud Habitat
+Subtidal sand Habitat
+Benfleet and Southend Marshes SPA Dark-bellied brent goose (Branta bernicla bernicla) Species
+Dunlin (Calidris alpina alpina) Species
+Grey plover (Pluvialis squatarola) Species
+Red knot (Calidris canutus) Species
+Ringed plover (Charadrius hiaticula) Species
+Waterbird assemblage Assemblage
+Berwick to St Mary’s MCZ Common eider (Somateria mollissima) Species The Berwick to St Mary’s Marine Conservation Zone Designation Order 2019(9)
+Berwickshire and North Northumberland Coast SAC Grey seal (Halichoerus grypus) Species
+Large shallow inlets and bays Habitat
+Mudflats and sandflats not covered by seawater at low tide Habitat
+Reefs Habitat
+Submerged or partially submerged sea caves Habitat
+Bideford to Foreland Point MCZ Pink sea-fan (Eunicella verrucosa) Species The Bideford to Foreland Point Marine Conservation Zone Designation Order 2016(10)
+Fragile sponge and anthozoan communities on subtidal rocky habitats Habitat
+High energy circalittoral rock Habitat
+High energy infralittoral rock Habitat
+High energy intertidal rock Habitat
+Honeycomb worm (Sabellaria alveolata) reefs Habitat
+Intertidal coarse sediment Habitat
+Intertidal mixed sediments Habitat
+Intertidal sand and muddy sand Habitat
+Intertidal underboulder communities Habitat
+Littoral chalk communities Habitat
+Low energy infralittoral rock Habitat
+Low energy intertidal rock Habitat
+Moderate energy circalittoral rock Habitat
+Moderate energy infralittoral rock Habitat
+Moderate energy intertidal rock Habitat
+Spiny lobster (Palinurus elephas) Species
+Subtidal coarse sediment Habitat
+Subtidal mixed sediments Habitat
+Subtidal sand Habitat
+Blackwater Estuary (Mid-Essex Coast Phase 4) SPA Black-tailed godwit (Limosa limosa islandica) Species
+Dark-bellied brent goose (Branta bernicla bernicla) Species
+Dunlin (Calidris alpina alpina) Species
+Grey plover (Pluvialis squatarola) Species
+Little tern (Sterna albifrons) Species
+Ringed plover (Charadrius hiaticula) Species
+Waterbird assemblage Assemblage
+Blackwater, Crouch, Roach and Colne Estuaries MCZ Clacton Cliffs and Foreshore Geological The Blackwater, Crouch, Roach and Colne Estuaries Marine Conservation Zone Designation Order 2013(11)
+Intertidal mixed sediments Habitat
+Native oyster (Ostrea edulis) beds Habitat
+Native oyster (Ostrea edulis) Species
+Braunton Burrows SAC Mudflats and sandflats not covered by seawater at low tide Habitat
+Breydon Water SPA Common tern (Sterna hirundo) Species
+European golden plover (Pluvialis apricaria) Species
+Northern lapwing (Vanellus vanellus) Species
+Pied avocet (Recurvirostra avosetta) Species
+Ruff (Philomachus Pugnax) Species
+Waterbird assemblage Assemblage
+Bristol Channel Approaches / Dynesfeydd Môr Hafren SAC Harbour porpoise (Phocoena phocoena) Species
+Camel Estuary MCZ Coastal saltmarshes and saline reedbeds Habitat The Camel Estuary Marine Conservation Zone Designation Order 2019(12)
+Estuarine rocky habitats Habitat
+Intertidal coarse sediment Habitat
+Intertidal mud Habitat
+Low energy intertidal rock Habitat
+Cape Bank MCZ Moderate energy circalittoral rock Habitat The Cape Bank Marine Conservation Zone Designation Order 2019(13)
+Subtidal coarse sediment Habitat
+Chesil and the Fleet SAC Atlantic salt meadows (Glauco-Puccinellietalia maritimae) Habitat
+Coastal lagoons Habitat
+Mediterranean and thermo-Atlantic halophilous scrubs (Sarcocornetea fruticosi) Habitat
+Chesil Beach and Stennis Ledges MCZ Native oyster (Ostrea edulis) Species The Chesil Beach and Stennis Ledges Marine Conservation Zone Designation Order 2013 as amended by The Chesil Beach and Stennis Ledges Marine Conservation Zone Designation (Amendment) Order 2016 and the Chesil Beach and Stannis Ledges Marine Conservation Zone Designation (Amendment) Order 2019(14)
+High energy circalittoral rock Habitat
+High energy infralittoral rock Habitat
+High energy intertidal rock Habitat
+Intertidal coarse sediment Habitat
+Pink sea-fan (Eunicella verrucosa) Species
+Subtidal coarse sediment Habitat
+Subtidal mixed sediments Habitat
+Subtidal sand Habitat
+Chesil Beach and The Fleet SPA Eurasian wigeon (Anas penelope) Species
+Little tern (Sterna albifrons) Species
+Chichester and Langstone Harbours SPA Bar-tailed godwit (Limosa lapponica) Species
+Common redshank (Tringa totanus) Species
+Common shelduck (Tadorna tadorna) Species
+Common tern (Sterna hirundo) Species
+Dark-bellied brent goose (Branta bernicla bernicla) Species
+Dunlin (Calidris alpina alpina) Species
+Eurasian curlew (Numenius arquata) Species
+Eurasian teal (Anas crecca) Species
+Eurasian wigeon (Anas penelope) Species
+Grey plover (Pluvialis squatarola) Species
+Little tern (Sterna albifrons) Species
+Northern pintail (Anas acuta) Species
+Red-breasted merganser (Mergus serrator) Species
+Ringed plover (Charadrius hiaticula) Species
+Ruddy turnstone (Arenaria interpres) Species
+Sanderling (Calidris alba) Species
+Sandwich tern (Sterna sandvicensis) Species
+Waterbird assemblage Assemblage
+Colne Estuary (Mid-Essex Coast Phase 2) SPA Common redshank (Tringa totanus) Species
+Dark-bellied brent goose (Branta bernicla bernicla) Species
+Little tern (Sterna albifrons) Species
+Ringed plover (Charadrius hiaticula) Species
+Waterbird assemblage Assemblage
+Coquet Island SPA Seabird assemblage Assemblage
+Arctic tern (Sterna paradisaea) Species
+Common tern (Sterna hirundo) Species
+Roseate tern (Sterna dougallii) Species
+Sandwich tern (Sterna sandvicensis) Species
+Coquet to St. Mary’s MCZ High energy infralittoral rock Habitat The Coquet to St. Mary’s Marine Conservation Zone Designation Order 2016(15)
+High energy intertidal rock Habitat
+Intertidal coarse sediment Habitat
+Intertidal mixed sediments Habitat
+Intertidal mud Habitat
+Intertidal sand and muddy sand Habitat
+Intertidal underboulder communities Habitat
+Low energy intertidal rock Habitat
+Moderate energy circalittoral rock Habitat
+Moderate energy infralittoral rock Habitat
+Moderate energy intertidal rock Habitat
+Peat and clay exposures Habitat
+Subtidal coarse sediment Habitat
+Subtidal mixed sediments Habitat
+Subtidal mud Habitat
+Subtidal sand Habitat
+Cromer Shoal Chalk Beds MCZ High energy circalittoral rock Habitat The Cromer Shoal Chalk Beds Marine Conservation Zone Designation Order 2016(16)
+High energy infralittoral rock Habitat
+Moderate energy circalittoral rock Habitat
+Moderate energy infralittoral rock Habitat
+North Norfolk Coast assemblage of subtidal sediment features and habitats Geological
+Peat and clay exposures Habitat
+Subtidal chalk Habitat
+Subtidal coarse sediment Habitat
+Subtidal mixed sediments Habitat
+Subtidal sand Habitat
+Crouch and Roach Estuaries (Mid-Essex Coast Phase 3) SPA Dark-bellied brent goose (Branta bernicla bernicla) Species
+Waterbird assemblage Assemblage
+Cumbria Coast MCZ Razorbill (Alca torda) Species The Cumbria Coast Marine Conservation Zone Designation Order 2013 as amended by The Cumbria Coast Marine Conservation Zone Designation (Amendment) Order 2019(17)
+High energy intertidal rock Habitat
+Honeycomb worm (Sabellaria alveolata) reefs Habitat
+Intertidal biogenic reefs Habitat
+Intertidal sand and muddy sand Habitat
+Intertidal underboulder communities Habitat
+Moderate energy infralittoral rock Habitat
+Peat and clay exposures Habitat
+Dart Estuary MCZ Tentacled lagoon worm (Alkmaria romijni) Species The Dart Estuary Marine Conservation Zone Designation Order 2019(18)
+Coastal saltmarshes and saline reedbeds Habitat
+Estuarine rocky habitats Habitat
+Intertidal mud Habitat
+Low energy intertidal rock Habitat
+Deben Estuary SPA Dark-bellied brent goose (Branta bernicla bernicla) Species
+Pied avocet (Recurvirostra avosetta) Species
+Dee Estuary / Aber Dyfrdwy SAC Atlantic salt meadows (Glauco-Puccinellietalia maritimae) Habitat
+Estuaries Habitat
+Mudflats and sandflats not covered by sweater at low tide Habitat
+River lamprey (Lampetra fluviatilis) Species
+Sea lamprey ( Petromyzon marinus) Species
+Salicornia and other annuals colonising mud and sand Habitat
+Dengie (Mid-Essex Coast Phase 1) SPA Dark-bellied brent goose (Branta bernicla bernicla) Species
+Grey plover (Pluvialis squatarola) Species
+Red knot (Calidris canutus) Species
+Waterbird assemblage Assemblage
+Devon Avon Estuary MCZ Tentacled lagoon worm (Alkmaria romijni) Species The Devon Avon Estuary Marine Conservation Zone Designation Order 2019(19)
+Coastal saltmarshes and saline reedbeds Habitat
+Intertidal mud Habitat
+Intertidal sand and muddy sand Habitat
+Moderate energy intertidal rock Habitat
+Dogger Bank SAC Sandbanks which are slightly covered by sea water all the time Habitat
+Dover to Deal MCZ Blue mussel (Mytilus edulis) beds Habitat The Dover to Deal Marine Conservation Zone Designation Order 2016 as amended by The Dover to Deal Marine Conservation Zone Designation (Amendment) Order 2019(20)
+High energy circalittoral rock Habitat
+High energy intertidal rock Habitat
+Intertidal coarse sediment Habitat
+Intertidal sand and muddy sand Habitat
+Intertidal underboulder communities Habitat
+Littoral chalk communities Habitat
+Low energy intertidal rock Habitat
+Moderate energy circalittoral rock Habitat
+Moderate energy infralittoral rock Habitat
+Moderate energy intertidal rock Habitat
+Native oyster (Ostrea edulis) Species
+Ross worm (Sabellaria spinulosa) reefs Habitat
+Subtidal chalk Habitat
+Subtidal mixed sediments Habitat
+Subtidal sand Habitat
+Dover to Folkstone MCZ Folkestone Warren (Gault Formation) Geological The Dover to Folkestone Marine Conservation Zone Designation Order 2016(21)
+High energy intertidal rock Habitat
+Intertidal coarse sediment Habitat
+Intertidal sand and muddy sand Habitat
+Intertidal underboulder communities Habitat
+Littoral chalk communities Habitat
+Low energy intertidal rock Habitat
+Moderate energy infralittoral rock Habitat
+Moderate energy intertidal rock Habitat
+Native oyster (Ostrea edulis) Species
+Subtidal coarse sediment Habitat
+Subtidal mixed sediments Habitat
+Subtidal mud Habitat
+Subtidal sand Habitat
+Drigg Coast SAC Atlantic salt meadows (Glauco-Puccinellietalia maritimae) Habitat
+Estuaries Habitat
+Mudflats and sandflats not covered by seawater at low tide Habitat
+Salicornia and other annuals colonising mud and sand Habitat
+Dungeness, Romney Marsh and Rye Bay SPA Common tern (Sterna hirundo) Species
+Eurasian marsh harrier (Circus Aeruginosus) Species
+European golden plover (Pluvialis apricaria) Species
+Little tern (Sterna albifrons) Species
+Mediterranean gull (Larus melanocephalus) Species
+Pied avocet (Recurvirostra avosetta) Species
+Ruff (Philomachus pugnax) Species
+Sandwich tern (Sterna sandvicensis) Species
+Waterbird assemblage Assemblage
+East of Haig Fras MCZ Fan mussel (Atrina fragilis) Species The East of Haig Fras Marine Conservation Zone Designation Order 2013 as amended by The East of Haig Fras Marine Conservation Zone Designation (Amendment) Order 2016 and The East of Haig Fras Marine Conservation Zone Designation (Amendment) Order 2019(22)
+High energy circalittoral rock Habitat
+Moderate energy circalittoral rock Habitat
+Sea-pen and burrowing megafauna communities Habitat
+Subtidal coarse sediment and subtidal mixed sediments mosaic Habitat
+Subtidal mud Habitat
+Subtidal sand Habitat
+East of Start Point MCZ Subtidal sand Habitat The East of Start Point Marine Conservation Zone Designation Order 2019(23)
+Erme Estuary MCZ Tentacled lagoon worm (Alkmaria romijni) Species The Erme Estuary Marine Conservation Zone Designation Order 2019(24)
+Estuarine rocky habitats Habitat
+High energy intertidal rock Habitat
+Intertidal coarse sediment Habitat
+Intertidal mixed sediments Habitat
+Low energy intertidal rock Habitat
+Moderate energy intertidal rock Habitat
+Sheltered muddy gravels Habitat
+Essex Estuaries SAC Atlantic salt meadows (Glauco-Puccinellietalia maritimae) Habitat
+Estuaries Habitat
+Mediterranean and thermo-Atlantic halophilous scrubs (Sarcocornetea fruticosi) Habitat
+Mudflats and sandflats not covered by seawater all the time Habitat
+Salicornia and other annuals colonising mud and sand Habitat
+Sandbanks which are slightly covered by sea water all the time Habitat
+Spartina swards (Spartinion maritimae) Habitat
+Exe Estuary SPA Black-tailed godwit (Limosa limosa islandica) Species
+Dark-bellied brent goose (Branta bernicla bernicla) Species
+Dunlin (Calidris alpina alpina) Species
+Eurasian oystercatcher (Haematopus ostralegus) Species
+Grey plover (Pluvialis squatarola) Species
+Pied avocet (Recurvirostra avosetta) Species
+Slavonian grebe (Podiceps auratus) Species
+Waterbird assemblage Assemblage
+Fal and Helford SAC Atlantic salt meadows (Glauco-Puccinellietalia maritimae) Habitat
+Estuaries Habitat
+Large shallow inlets and bays Habitat
+Mudflats and sandflats not covered by seawater at low tide Habitat
+Reefs Habitat
+Sandbanks which are slightly covered by sea water all the time Habitat
+Falmouth Bay to St Austell Bay SPA Black-throated diver (Gavia arctica) Species
+Great-northern diver (Gavia immer) Species
+Slavonian grebe (Podiceps auritus) Species
+Farne Islands SPA Seabird assemblage Assemblage
+Arctic tern (Sterna paradisaea) Species
+Common guillemot (Uriaaalge) Species
+Common tern (Sterna hirundo) Species
+Roseate tern (Sterna dougallii) Species
+Sandwich tern (Sterna sandvicensis) Species
+Farnes East MCZ Ocean quahog (Arctica islandica) Species The Farnes East Marine Conservation Zone Designation Order 2016(25)
+Moderate energy circalittoral rock Habitat
+Sea-pen and burrowing megafauna communities Habitat
+Subtidal coarse sediment Habitat
+Subtidal mixed sediments Habitat
+Subtidal mud Habitat
+Subtidal sand Habitat
+Flamborough and Filey Coast SPA Black-legged kittiwake (Rissa tridactyla) Species
+Common guillemot (Uria aalge) Species
+Northern gannet (Morus bassanus) Species
+Seabird assemblage Assemblage
+Razorbill (Alca torda) Species
+Flamborough Head SAC Reefs Habitat
+Submerged or partially submerged sea caves Habitat
+Folkstone Pomerania MCZ Fragile sponge and anthozoan communities on subtidal rocky habitats Habitat The Folkestone Pomerania Marine Conservation Zone Designation Order 2013(26)
+High energy circalittoral rock Habitat
+Honeycomb worm (Sabellaria alveolata) reefs Habitat
+Ross worm (Sabellaria spinulosa) reefs Habitat
+Subtidal coarse sediment Habitat
+Subtidal sand Habitat
+Foreland MCZ English Channel Outburst Flood Features (Quaternary fluvio-glacial erosion features) Geological The Foreland Marine Conservation Zone Designation Order 2019(27)
+High energy circalittoral rock Habitat
+Moderate energy circalittoral rock Habitat
+Subtidal coarse sediment Habitat
+Subtidal sand Habitat
+Foulness (Mid-Essex Coast Phase 5) SPA Bar-tailed godwit (Limosa lapponica) Species
+Common redshank (Tringa tonatus) Species
+Common tern (Sterna hirundo) Species
+Dark-bellied brent goose (Branta bernicla bernicla) Species
+Eurasian oystercatcher (Haematopus ostralegus) Species
+Grey plover (Pluvialis squatarola) Species
+Little tern (Sterna albifrons) Species
+Pied avocet (Recurvirostra avosetta) Species
+Red knot (Calidris canutus) Species
+Ringed plover (Charadrius hiaticula) Species
+Sandwich tern (Sterna sandvicensis) Species
+Waterbird assemblage Assemblage
+Fulmar MCZ Ocean quahog (Arctica islandica) Species The Fulmar Marine Conservation Zone Designation Order 2016(28)
+Subtidal mixed sediments Habitat
+Subtidal mud Habitat
+Subtidal sand Habitat
+Fylde MCZ Subtidal mud Habitat The Fylde Marine Conservation Zone Designation Order 2013 as amended by the Fylde Marine Conservation Zone Designation (Amendment) Order 2016(29)
+Subtidal sand Habitat
+Gibraltar Point SPA Bar-tailed godwit (Limosa lapponica) Species
+Grey plover (Pluvialis squatarola) Species
+Little tern (Sterna albifrons) Species
+Waterbird assemblage Assemblage
+Sanderling (Calidris alba) Species
+Goodwin Sands MCZ Blue mussel (Mytilus edulis) beds Habitat The Goodwin Sands Marine Conservation Zone Designation Order 2019(30)
+English Channel Outburst Flood Features (Quaternary fluvio-glacial erosion features) Geological
+Moderate energy circalittoral rock Habitat
+Ross worm (Sabellaria spinulosa) reefs Habitat
+Subtidal coarse sediment Habitat
+Subtidal sand Habitat
+Greater Haig Fras MCZ Haig Fras rock complex Geological The Greater Haig Fras Marine Conservation Zone Designation Order 2016(31)
+Sea-pen and burrowing megafauna communities Habitat
+Subtidal coarse sediment Habitat
+Subtidal mixed sediments Habitat
+Subtidal mud Habitat
+Subtidal sand Habitat
+Great Yarmouth North Denes SPA Little tern (Sterna albifrons) Species
+Greater Wash SPA Black (common) scoter (Melanitta nigra) Species
+Common tern (Sterna hirundo) Species
+Little gull (Larus minutus) Species
+Little tern (Sterna albifrons) Species
+Red-throated diver (Gavia stellata) Species
+Sandwich tern (Sterna sandvicensis) Species
+Haig Fras SAC Reefs Habitat
+Haisborough, Hammond and Winterton SAC Reefs Habitat
+Sandbanks which are slightly covered by sea water all the time Habitat
+Hamford Water SPA Black-tailed godwit (Limosa limosa islandica) Species
+Common redshank (Tringa totanus) Species
+Common shelduck (Tadorna tadorna) Species
+Dark-bellied brent goose (Branta bernicla bernicla) Species
+Eurasian teal (Anas crecca) Species
+Grey plover (Pluvialis squatarola) Species
+Little tern (Sterna albifrons) Species
+Pied avocet (Recurvirostra avosetta) Species
+Ringed plover (Charadris hiaticula) Species
+Hartland Point to Tintagel MCZ Coastal saltmarshes and saline reedbeds Habitat The Hartland Point to Tintagel Marine Conservation Zone Designation Order 2016(32)
+Pink sea-fan (Eunicella verrucosa) Species
+Fragile sponge and anthozoan communities on subtidal rocky habitats Habitat
+High energy circalittoral rock Habitat
+High energy infralittoral rock Habitat
+High energy intertidal rock Habitat
+Honeycomb worm (Sabellaria alveolata) reefs Habitat
+Intertidal coarse sediment Habitat
+Intertidal sand and muddy sand Habitat
+Low energy intertidal rock Habitat
+Moderate energy circalittoral rock Habitat
+Moderate energy infralittoral rock Habitat
+Moderate energy intertidal rock Habitat
+Subtidal coarse sediment Habitat
+Subtidal sand Habitat
+Helford Estuary MCZ Native oyster (Ostrea edulis) Species The Helford Estuary Marine Conservation Zone Designation Order 2019(33)
+Holderness Inshore MCZ High energy circalittoral rock Habitat The Holderness Inshore Marine Conservation Zone Designation Order 2016(34)
+Intertidal sand and muddy sand Habitat
+Moderate energy circalittoral rock Habitat
+Spurn Head (subtidal) and “the Binks” Geological
+Subtidal coarse sediment Habitat
+Subtidal mixed sediments Habitat
+Subtidal mud Habitat
+Subtidal sand Habitat
+Holderness Offshore MCZ North Sea glacial tunnel valleys Geological The Holderness Offshore Marine Conservation Zone Designation Order 2019(35)
+Ocean quahog (Arctica islandica) Species
+Subtidal coarse sediment Habitat
+Subtidal mixed sediments Habitat
+Subtidal sand Habitat
+Humber Estuary SAC Atlantic salt meadows (Glauco-Puccinellietalia maritimae) Habitat
+Coastal lagoons Habitat
+Estuaries Habitat
+Mudflats and sandflats not covered by seawater at low tide Habitat
+Grey seal (Halichoerus grypus) Species
+Salicornia and other annuals colonising mud and sand Habitat
+Sandbanks which are slightly covered by sea water all the time Habitat
+River Lamprey (Lampetra fluviatilis) Species
+Sea Lamprey (Petromyzon marinus) Species
+Humber Estuary SPA Bar-tailed godwit (Limosa lapponica) Species
+Black-tailed godwit (Limosa limosa islandica) Species
+Common redshank (Tringa totanus) Species
+Common shelduck (Tadorna tadorna) Species
+Dunlin (Calidris alpina alpina) Species
+Eurasian marsh harrier (Pluvialis apricaria) Species
+Golden plover (Pluvialis apricaria) Species
+Little tern (Sterna Albifrons) Species
+Pied avocet (reproducing) (Recurvirostra avosetta) Species
+Pied avocet (wintering) (Recurvirostra avosetta) Species
+Red knot (Calidris Canutus) Species
+Ruff (Philomachus pugnax) Species
+Waterbird assemblage Assemblage
+Inner Bank MCZ Subtidal coarse sediment Habitat The Inner Bank Marine Conservation Zone Designation Order 2019(36)
+Subtidal mixed sediments Habitat
+Subtidal sand Habitat
+Inner Dowsing, Race Bank and North Ridge SAC Reefs Habitat
+Sandbanks which are slightly covered by sea water all the time Habitat
+Isles of Scilly SPA European shag (Phalacrocorax aristotelis) Species
+European storm-petrel (Hydrobates pelagicus) Species
+Great black-backed gull (Larus marinus) Species
+Lesser black-backed gull (Larus fuscus) Species
+Seabird assemblage Assemblage
+Isles of Scilly Complex SAC Grey seal (Halichoerus grypus) Species
+Mudflats and sandflats not covered by seawater at low tide Habitat
+Reefs Habitat
+Sandbanks which are slightly covered by sea water all the time Habitat
+Isles of Scilly Sites: Bishop to Crim MCZ Spiny lobster (Palinurus elephas) Species The Isles of Scilly Marine Conservation Zones Designation Order 2013(37) Schedule 1(38)
+Isles of Scilly Sites: Bristow to the Stones MCZ Pink sea-fan (Eunicella verrucosa) Species The Isles of Scilly Marine Conservation Zones Designation Order 2013 Schedule 11 as amended by The Isles of Scilly Marine Conservation Zones Designation (Amendment) Order 2019(39)
+Fragile sponge and anthozoan communities on subtidal rocky habitats Habitat
+High energy circalittoral rock Habitat
+Moderate energy circalittoral rock Habitat
+Spiny lobster (Palinurus elephas) Species
+Subtidal coarse sediment Habitat
+Isles of Scilly Sites: Gilstone to Gorregan MCZ High energy intertidal rock Habitat The Isles of Scilly Marine Conservation Zones Designation Order 2013 Schedule 2(40)
+Moderate energy intertidal rock Habitat
+Spiny lobster (Palinurus elephas) Species
+Isles of Scilly Sites: Hanjague to Deep Ledge MCZ High energy intertidal rock Habitat The Isles of Scilly Marine Conservation Zones Designation Order 2013 Schedule 3(41)
+Intertidal coarse sediment Habitat
+Intertidal underboulder communities Habitat
+Moderate energy intertidal rock Habitat
+Spiny lobster (Palinurus elephas) Species
+Isles of Scilly Sites: Higher Town MCZ Kaleidoscope jellyfish (Haliclystus spp) Species The Isles of Scilly Marine Conservation Zones Designation Order 2013 Schedule 4 as amended by The Isles of Scilly Marine Conservation Zones Designation (Amendment) Order 2019(42)
+Stalked jellyfish (Calvadosia cruxmelitensis) Species
+Intertidal coarse sediment Habitat
+Intertidal sand and muddy sand Habitat
+Intertidal underboulder communities Habitat
+Low energy intertidal rock Habitat
+Moderate energy intertidal rock Habitat
+Isles of Scilly Sites: Lower Ridge to Innisvouls MCZ Moderate energy intertidal rock Habitat The Isles of Scilly Marine Conservation Zones Designation Order 2013 Schedule 5(43)
+Spiny lobster (Palinurus elephas) Species
+Isles of Scilly Sites: Men a Vaur to White Island MCZ Giant goby (Gobius cobitis) Species The Isles of Scilly Marine Conservation Zones Designation Order 2013 Schedule 6 as amended by The Isles of Scilly Marine Conservation Zones Designation (Amendment) Order 2019 (44)
+High energy intertidal rock Habitat
+Intertidal coarse sediment Habitat
+Intertidal sand and muddy sand Habitat
+Intertidal underboulder communities Habitat
+Spiny lobster (Palinurus elephas) Species
+Moderate energy intertidal rock Habitat
+Stalked jellyfish (Calvadosia campanulata) Species
+Isles of Scilly Sites: Peninnis to Dry Ledge MCZ Kaleidoscope jellyfish (Haliclystus spp) Species The Isles of Scilly Marine Conservation Zones Designation Order 2013 Schedule 7 as amended by The Isles of Scilly Marine Conservation Zones Designation (Amendment) Order 2019 (45)
+Spiny lobster (Palinurus elephas) Species
+Intertidal coarse sediment Habitat
+Intertidal mixed sediments Habitat
+Intertidal sand and muddy sand Habitat
+Intertidal underboulder communities Habitat
+Low energy intertidal rock Habitat
+Moderate energy intertidal rock Habitat
+Stalked jellyfish (Calvadosia cruxmelitensis) Species
+Isles of Scilly Sites: Plympton to Spanish Ledge MCZ High energy intertidal rock Habitat The Isles of Scilly Marine Conservation Zones Designation Order 2013 Schedule 8(46)
+Intertidal sand and muddy sand Habitat
+Intertidal underboulder communities Habitat
+Moderate energy intertidal rock Habitat
+Spiny lobster (Palinurus elephas) Species
+Isles of Scilly Sites: Smith Sound Tide Swept Channel MCZ High energy intertidal rock Habitat The Isles of Scilly Marine Conservation Zones Designation Order 2013 Schedule 9(47)
+Moderate energy intertidal rock Habitat
+Spiny lobster (Palinurus elephas) Species
+Isles of Scilly Sites: Tean MCZ Intertidal coarse sediment Habitat The Isles of Scilly Marine Conservation Zones Designation Order 2013 Schedule 10(48)
+Intertidal sand and muddy sand Habitat
+Intertidal underboulder communities Habitat
+Moderate energy intertidal rock Habitat
+Kentish Knock East MCZ Subtidal coarse sediment Habitat The Kentish Knock East Marine Conservation Zone Designation Order 2019(49)
+Subtidal mixed sediments Habitat
+Subtidal sand Habitat
+Kingmere MCZ Moderate energy infralittoral rock and thin mixed sediments Habitat The Kingmere Marine Conservation Zone Designation Order 2013(50)
+Black seabream (Spondyliosoma cantharus) Species
+Subtidal chalk Habitat
+Lands End and Cape Bank SAC Reefs Habitat
+Lindisfarne SPA Bar-tailed godwit (Limosa lapponica) Species
+Black (common) scoter (Melanitta nigra) Species
+Common eider (Somateria mollissima) Species
+Common redshank (Tringa totanus) Species
+Common shelduck (Tadorna tadorna) Species
+Dunlin (Calidris alpina alpina) Species
+Eurasian wigeon (Anas Penelope) Species
+European golden plover (Pluvialis apricaria) Species
+Grey plover (Pluvialis squatarola) Species
+Greylag goose (Anser anser [Iceland/UK/Ireland]) Species
+Light-bellied brent goose (Branta bernicla hrota [Svalbard/Denmark/UK]) Species
+Little tern (Sterna albifrons) Species
+Long-tailed duck (Clangula hyemalis) Species
+Red-breasted merganser (Mergus serrator) Species
+Ringed plover (Charadrius hiaticula) Species
+Roseate tern (Sterna dougallii) Species
+Waterbird assemblage Assemblage
+Sanderling (Calidris alba) Species
+Liverpool Bay / Bae Lerpwl SPA Black (common) scoter (Melanitta nigra) Species
+Common tern (Sterna hirundo) Species
+Little gull (Larus minutus) Species
+Little tern (Sterna albifrons) Species
+Red-throated diver (Gavia stellata) Species
+Waterbird assemblage Assemblage
+Lizard Point SAC Reefs Habitat
+Lundy MCZ Spiny lobster (Palinurus elephas) Species The Lundy Marine Conservation Zone Designation Order 2013(51)
+Lundy SAC Grey seal (Halichoerus grypus) Species
+Reefs Habitat
+Sandbanks which are slightly covered by sea water all the time Habitat
+Submerged or partially submerged sea caves Habitat
+Lyme Bay and Torbay SAC Reefs Habitat
+Submerged or partially submerged sea caves Habitat
+Margate and Long Sands SAC Sandbanks which are slightly covered by sea water all the time Habitat
+Markham’s Triangle MCZ Subtidal coarse sediment Habitat The Markham’s Triangle Marine Conservation Zone Designation Order 2019(52)
+Subtidal mixed sediments Habitat
+Subtidal mud Habitat
+Subtidal sand Habitat
+Medway Estuary MCZ Smelt (Osmerus eperlanus) Species The Medway Estuary Marine Conservation Zone Designation Order 2013 as amended by The Medway Estuary Marine Conservation Zone Designation (Amendment) Order 2019(53)
+Estuarine rocky habitats Habitat
+Intertidal mixed sediments Habitat
+Intertidal sand and muddy sand Habitat
+Low energy intertidal rock Habitat
+Tentacled lagoon worm (Alkmaria romijni) Species
+Peat and clay exposures Habitat
+Subtidal coarse sediment Habitat
+Subtidal mud Habitat
+Subtidal sand Habitat
+Medway Estuary and Marshes SPA Common redshank (Tringa totanus) Species
+Common shelduck (Tadorna tadorna) Species
+Dark-bellied brent goose (Branta bernicla bernicla) Species
+Dunlin (Calidris alpina alpina) Species
+Grey plover (Pluvialis squatarola) Species
+Little tern (Sterna albifrons) Species
+Northern pintail (Anas acuta) Species
+Pied avocet (reproducing) (Recurvirostra avosetta) Species
+Pied avocet (wintering) (Recurvirostra avosetta) Species
+Red knot (Calidris canutus) Species
+Ringed plover (Charadrius hiaticula) Species
+Waterbird assemblage Assemblage
+Mersey Estuary SPA Black-tailed godwit (Limosa limosa islandica) Species
+Common redshank (Tringa totanus) Species
+Common shelduck (Tadorna tadorna) Species
+Dunlin (Calidris alpina alpina) Species
+Eurasian teal (Anas crecca) Species
+European golden plover (Pluvialis apricaria) Species
+Waterbird Assemblage Assemblage
+Northern pintail (Anas acuta) Species
+Mersey Narrows and North Wirral Foreshore SPA Bar-tailed godwit (Limosa lapponica) Species
+Common tern (Sterna hirundo) Species
+Common tern (reproducing) (Sterna hirundo) Species
+Little gull (Larus minutus) Species
+Red knot (Calidris canutus) Species
+Waterbird assemblage Assemblage
+Minsmere-Walberswick SPA Eurasian marsh harrier (Circus aeruginosus) Species
+Eurasian teal (Anas crecca) Species
+Greater white-fronted goose (Anser albifrons albifrons) Species
+Little tern (Sterna albifrons) Species
+Pied avocet (Recurvirostra avosetta) Species
+Morecambe Bay SAC Atlantic salt meadows (Glauco-Puccinellietalia maritimae) Species
+Coastal lagoons Habitat
+Estuaries Habitat
+Large shallow inlets and bays Habitat
+Mudflats and sandflats not covered by sea water at low tide Habitat
+Reefs Habitat
+Salicornia and other annuals colonising mud and sand Habitat
+Sandbanks which are slightly covered by sea water all the time Habitat
+Morecambe Bay and Duddon Estuary SPA Bar-tailed godwit (Limosa lapponica) Species
+Black-tailed godwit (Limosa limosa islandica) Species
+Common redshank (Tringa totanus) Species
+Common shelduck (Tadorna tadorna) Species
+Common tern (Sterna hirundo) Species
+Dunlin (Calidris alpina alpina) Species
+Eurasian curlew (Numenius arquata) Species
+Eurasian oystercatcher (Haematopus ostralegus) Species
+European golden plover (Pluvialis apricaria) Species
+Grey plover (Pluvialis squatarola) Species
+Herring gull (Larus argentatus) Species
+Lesser black-backed gull (Larus fuscus) Species
+Lesser black-backed gull (reproducing) (Larus fuscus) Species
+Little egret (Egretta garzetta) Species
+Little tern (Sterna albifrons) Species
+Mediterranean gull (Larus melanocephalus) Species
+Northern pintail (Anas acuta) Species
+Pink-footed goose (Anser brachyrhynchus) Species
+Red knot (Calidris canutus) Species
+Seabird assemblage Assemblage
+Ringed plover (Charadrius hiaticula) Species
+Ruddy turnstone (Arenaria interpres) Species
+Ruff (Philomachus pugnax) Species
+Sanderling (Calidris alba) Species
+Sandwich tern (Sterna sandvicensis) Species
+Waterbird assemblage Assemblage
+Morte Platform MCZ High energy circalittoral rock Habitat The Morte Platform Marine Conservation Zone Designation Order 2019(54)
+Moderate energy circalittoral rock Habitat
+Subtidal coarse sediment Habitat
+Mounts Bay MCZ Giant goby (Gobius cobitis) Species The Mounts Bay Marine Conservation Zone Designation Order 2016(55)
+Stalked Jellyfish (Calvadosia cruxmelitensis) Species
+High energy infralittoral rock Habitat
+High energy intertidal rock Habitat
+Intertidal coarse sediment Habitat
+Intertidal sand and muddy sand Habitat
+Stalked jellyfish (Calvadosia campanulata) Species
+Stalked jellyfish spp (Haliclystus spp) Species
+Moderate energy infralittoral rock Habitat
+Moderate energy intertidal rock Habitat
+Seagrass beds Habitat
+Subtidal sand Habitat
+Newquay and the Gannel MCZ Coastal saltmarshes and saline reedbeds Habitat The Newquay and the Gannel Marine Conservation Zone Designation Order 2016(56)
+Estuarine rocky habitats Habitat
+Giant goby (Gobius cobitis) Species
+High energy circalittoral rock Habitat
+High energy infralittoral rock Habitat
+High energy intertidal rock Habitat
+Intertidal coarse sediment Habitat
+Intertidal mixed sediments Habitat
+Intertidal mud Habitat
+Intertidal sand and muddy sand Habitat
+Low energy intertidal rock Habitat
+Moderate energy infralittoral rock Habitat
+Moderate energy intertidal rock Habitat
+Subtidal coarse sediment Habitat
+Subtidal sand Habitat
+North East of Farnes Deep MCZ Ocean quahog (Arctica islandica) Species The North East of Farnes Deep Marine Conservation Zone Designation Order 2013 as amended by The North East of Farnes Deep Marine Conservation Zone Designation (Amendment) Order 2016(57)
+Subtidal coarse sediment Habitat
+Subtidal mixed sediments Habitat
+Subtidal mud Habitat
+Subtidal sand Habitat
+North Norfolk Coast SAC Mediterranean and thermo-Atlantic halophilous scrubs (Sarcocornetea fruticosi) Habitat
+North Norfolk Coast SPA Common tern (Sterna hirundo) Species
+Dark-bellied brent goose (Branta bernicla bernicla) Species
+Eurasian marsh harrier (Circus aeruginosus) Species
+Eurasian wigeon (Anas Penelope) Species
+Little tern (Sterna albifrons) Species
+Pied avocet (Recurvirostra avosetta) Species
+Pink-footed goose (Anser brachyrhynchus) Species
+Red knot (Calidris canutus) Species
+Sandwich tern (Sterna sandvicensis) Species
+Waterbird assemblage Assemblage
+Pied avocet (Recurvirostra avosetta) Species
+Pink-footed goose (Anser brachyrhynchus) Species
+Red knot (Calidris canutus) Species
+Sandwich tern (Sterna sandvicensis) Species
+Waterbird assemblage Assemblage
+North Norfolk Sandbanks and Saturn Reef SAC Reefs Habitat
+Sandbanks which are slightly covered by sea water all the time Habitat
+North West of Lundy MCZ Subtidal coarse sediment Habitat The North West of Lundy Marine Conservation Zone Designation Order 2019(58)
+North-East of Haig Fras MCZ Subtidal coarse sediment Habitat The North-East of Haig Fras Marine Conservation Zone Designation Order 2019(59)
+Subtidal mud Habitat
+Subtidal sand Habitat
+Northumberland Marine SPA Arctic tern (Sterna paradisaea) Species
+Seabird assemblage Assemblage
+Atlantic puffin (Fratercula arctica) Species
+Common guillemot (Uria aalge) Species
+Common tern (Sterna hirundo) Species
+Little tern (Sterna albifrons) Species
+Roseate tern (Sterna dougallii) Species
+Sandwich tern (Sterna sandvicensis) Species
+Northumbria Coast SPA Artic tern (Sterna paradisaea) Species
+Little tern (Sterna albifrons) Species
+Purple sandpiper (Calidris maritima) Species
+Ruddy turnstone (Arenaria interpres) Species
+North-West of Jones Bank MCZ Sea-pen and burrowing megafauna communities Habitat The North-West of Jones Bank Marine Conservation Zone Designation Order 2016(60)
+Subtidal coarse sediment Habitat
+Subtidal mixed sediments Habitat
+Subtidal mud Habitat
+Subtidal sand Habitat
+Offshore Brighton MCZ High energy circalittoral rock Habitat The Offshore Brighton Marine Conservation Zone Designation Order 2016(61)
+Subtidal coarse sediment Habitat
+Subtidal mixed sediments Habitat
+Offshore Overfalls MCZ English Channel Outburst Flood Features (Quaternary fluvio-glacial erosion features) Geomorphological The Offshore Overfalls Marine Conservation Zone Designation Order 2016(62)
+Subtidal coarse sediment Habitat
+Subtidal mixed sediments Habitat
+Subtidal sand Habitat
+Orford Inshore MCZ Subtidal mixed sediments Habitat The Orford Inshore Marine Conservation Zone Designation Order 2019(63)
+Orfordness – Shingle Street SAC Coastal lagoons Habitat
+Otter Estuary MCZ Coastal saltmarshes and saline reedbeds Habitat The Otter Estuary Marine Conservation Zone Designation Order 2019(64)
+Intertidal coarse sediment Habitat
+Intertidal mud Habitat
+Outer Thames Estuary SPA Common tern (Sterna hirundo) Species
+Little tern (Sterna albifrons) Species
+Red-throated diver (Gavia stellata) Species
+Padstow Bay and Surrounds MCZ Pink sea-fan (Eunicella verrucosa) Species The Padstow Bay and Surrounds Marine Conservation Zone Designation Order 2013(65)
+High energy circalittoral rock Habitat
+High energy infralittoral rock Habitat
+High energy intertidal rock Habitat
+Intertidal coarse sediment Habitat
+Intertidal sand and muddy sand Habitat
+Moderate energy infralittoral rock Habitat
+Moderate energy intertidal rock Habitat
+Spiny lobster (Palinurus elephas) Species
+Pagham Harbour MCZ Defolin’s lagoon snail (Caecum armoricum) Species The Pagham Harbour Marine Conservation Zone Designation Order 2013(66)
+Lagoon sand shrimp (Gammarus insensibilis) Species
+Seagrass beds Habitat
+Pagham Harbour SPA Common tern (Sterna hirundo) Species
+Dark-bellied brent goose (Branta bernicla bernicla) Species
+Little tern (Sterna albifrons) Species
+Ruff (Philomachus pugnax) Species
+Plymouth Sound and Estuaries SAC Allis shad (Alosa alosa) Species
+Atlantic salt meadows (Glauco-Puccinellietalia maritimae) Habitat
+Estuaries Habitat
+Large shallow inlets and bays Habitat
+Mudflats and sandflats not covered by sea water all the time Habitat
+Reefs Habitat
+Sandbanks which are slightly covered by sea water all the time Habitat
+Poole Harbour SPA Black-tailed godwit (Limosa limosa islandica) Species
+Common shelduck (Tadorna tadorna) Species
+Common tern (Sterna hirundo) Species
+Eurasian spoonbill (Platalea leucorodia leucorodia) Species
+Little egret (Egretta garzetta) Species
+Mediterranean gull (Larus melanocephalus) Species
+Pied avocet (Recurvirostra avosetta) Species
+Sandwich tern (Sterna sandvicensis) Species
+Waterbird assemblage Assemblage
+Poole Rocks MCZ Black seabream (Spondyliosoma cantharus) Species The Poole Rocks Marine Conservation Zone Designation Order 2013 as amended by The Poole Rocks Marine Conservation Zone Designation (Amendment) Order 2019(67)
+Moderate energy circalittoral rock Habitat
+Couch’s goby (Gobius couchi) Species
+Native oyster (Ostrea edulis) Species
+Subtidal mixed sediments Habitat
+Portsmouth Harbour SPA Black-tailed godwit (Limosa limosa islandica) Species
+Dark-bellied brent goose (Branta bernicla bernicla) Species
+Dunlin (Calidris alpina alpina) Species
+Red-breasted merganser (Mergus serrator) Species
+Purbeck Coast MCZ Black seabream (Spondyliosoma canatharus) Species The Purbeck Coast Marine Conservation Zone Designation Order 2019(68)
+High energy intertidal rock Habitat
+Intertidal coarse sediment Habitat
+Maerl beds Habitat
+Moderate energy intertidal rock Habitat
+Peacock’s tail (Padina pavonica) Species
+Stalked jellyfish spp (Haliclystus spp) Species
+Subtidal coarse sediment Habitat
+Subtidal mixed sediments Habitat
+Ribble and Alt Estuaries SPA Bar-tailed godwit (Limosa lapponica) Species
+Black-tailed godwit (Limosa limosa islandica) Species
+Common redshank (Tringa totanus) Species
+Common shelduck (Tadorna tadorna) Species
+Common tern (Sterna hirundo) Species
+Dunlin (Calidris alpina alpina) Species
+Eurasian oystercatcher (Haematopus ostralegus) Species
+Eurasian teal (Anas crecca) Species
+Eurasian wigeon (Anas Penelope) Species
+European golden plover (Pluvialis apricaria) Species
+Grey plover (Pluvialis squatarola) Species
+Lesser black-backed gull (Larus fuscus) Species
+Northern pintail (Anas acuta) Species
+Pink-footed goose (Anser brachyrhynchus) Species
+Seabird assemblage Assemblage
+Red knot (Calidris canutus) Species
+Ringed plover (Charadrius hiaticula) Species
+Sanderling (Calidris alba) Species
+Waterbird assemblage Assemblage
+Ribble Estuary MCZ Smelt (Osmerus eperlanus) Species The Ribble Estuary Marine Conservation Zone Designation Order 2019(69)
+Runnel Stone MCZ Pink sea-fan (Eunicella verrucosa) Species The Runnel Stone Marine Conservation Zone Designation Order 2016(70)
+High energy circalittoral rock Habitat
+High energy infralittoral rock Habitat
+High energy intertidal rock Habitat
+Intertidal coarse sediment Habitat
+Intertidal sand and muddy sand Habitat
+Moderate energy circalittoral rock Habitat
+Subtidal coarse sediment Habitat
+Subtidal sand Habitat
+Runswick Bay MCZ Ocean quahog (Arctica islandica) Species The Runswick Bay Marine Conservation Zone Designation Order 2016(71)
+High energy intertidal rock Habitat
+Intertidal sand and muddy sand Habitat
+Low energy intertidal rock Habitat
+Moderate energy circalittoral rock Habitat
+Moderate energy infralittoral rock Habitat
+Moderate energy intertidal rock Habitat
+Subtidal coarse sediment Habitat
+Subtidal mixed sediments Habitat
+Subtidal mud Habitat
+Subtidal sand Habitat
+Selsey Bill and the Hounds MCZ Bracklesham Bay Geological The Selsey Bill and the Hounds Marine Conservation Zone Designation Order 2019(72)
+High energy infralittoral rock Habitat
+Short snouted seahorse (Hippocampus hippocampus) Species
+Low energy infralittoral rock Habitat
+Moderate energy circalittoral rock Habitat
+Moderate energy infralittoral rock Habitat
+Peat and clay exposures Habitat
+Subtidal mixed sediments Habitat
+Subtidal sand Habitat
+Severn Estuary SPA Common redshank (Tringa totanus) Species
+Common shelduck (Tadorna tadorna) Species
+Dunlin (Calidris alpina alpina) Species
+Greater white-fronted goose (Anser albifrons albifrons) Species
+Waterbird assemblage Assemblage
+Severn Estuary/ Môr Hafren SAC River lamprey (Lampetra fluviatilis) Species
+Atlantic salt meadows (Glauco-Puccinellietalia maritimae) Habitat
+Estuaries Habitat
+Mudflats and sandflats not covered by seawater at low tide Habitat
+Sea lamprey (Petromyzon marinus) Species
+Twaite shad (Alosa fallax) Species
+Reefs Habitat
+Sandbanks which are slightly covered by sea water all the time Habitat
+Shell Flat and Lune Deep SAC Reefs Habitat
+Sandbanks which are slightly covered by sea water all the time Habitat
+Skerries Bank and Surrounds MCZ Pink sea-fan (Eunicella verrucosa) Species The Skerries Bank and Surrounds Marine Conservation Zone Designation Order 2013(73)
+High energy infralittoral rock Habitat
+High energy intertidal rock Habitat
+Intertidal coarse sediment Habitat
+Intertidal mixed sediments Habitat
+Intertidal sand and muddy sand Habitat
+Moderate energy circalittoral rock Habitat
+Moderate energy infralittoral rock Habitat
+Moderate energy intertidal rock Habitat
+Spiny lobster (Palinurus elephas) Species
+Subtidal coarse sediment Habitat
+Subtidal mud Habitat
+Subtidal sand Habitat
+Solent and Dorset Coast SPA Common tern (Sterna hirundo) Species
+Little tern (Sterna albifrons) Species
+Sandwich tern (Sterna sandvicensis) Species
+Solent and Isle of Wight Lagoons SAC Coastal lagoons Habitat
+Solent and Southampton Water SPA Black-tailed godwit (Limosa limosa islandica) Species
+Common tern (Sterna hirundo) Species
+Dark-bellied brent goose (Branta bernicla bernicla) Species
+Eurasian teal (Anas crecca) Species
+Little tern (Sterna albifrons) Species
+Mediterranean gull (Larus melanocephalus) Species
+Ringed plover (Charadrius hiaticula) Species
+Roseate tern (Sterna dougallii) Species
+Sandwich tern (Sterna sandvicensis) Species
+Waterbird assemblage Assemblage
+Solent Maritime SAC Atlantic salt meadows (Glauco-Puccinellietalia maritimae) Habitat
+Coastal lagoons Habitat
+Estuaries Habitat
+Mudflats and sandflats not covered by seawater at low tide Habitat
+Salicornia and other annuals colonising mud and sand Habitat
+Sandbanks which are slightly covered by sea water all the time Habitat
+Spartina swards (Spartinion maritimae) Habitat
+Solway Firth MCZ Smelt (Osmerus eperlanus) Species The Solway Firth Marine Conservation Zone Designation Order 2019(74)
+Solway Firth SAC Atlantic salt meadows (Glauco-Puccinellietalia maritimae) Habitat
+Estuaries Habitat
+Mudflats and sandflats not covered by seawater at low tide Habitat
+River lamprey (Lampetra fluviatilis) Species
+Sea lamprey (Petromyzon marinus) Species
+Reefs Habitat
+Salicornia and other annuals colonising mud and sand Habitat
+Sandbanks which are slightly covered by sea water all the time Habitat
+Solway Firth SPA Barnacle goose (Branta leucopsis) Species
+Bar-tailed godwit (Limosa lapponica) Species
+Common redshank (Tringa totanus) Species
+Eurasian curlew (Numenius arquata) Species
+Eurasian oystercatcher (Haematopus ostralegus) Species
+European golden plover (Pluvialis apricaria) Species
+Greater scaup (Aythya marila) Species
+Northern pintail (Anas acuta) Species
+Pink footed goose (Anser brachyrhynchus) Species
+Red knot (Calidris canutus) Species
+Red-throated diver (Gavia stellata) Species
+Ringed plover (Charadrius hiaticula) Species
+Waterbird assemblage Assemblage
+South Dorset MCZ High energy circalittoral rock Habitat The South Dorset Marine Conservation Zone Designation Order 2013 as amended by The South Dorset Marine Conservation Zone Designation (Amendment) Order 2016 and the South Dorset Marine Conservation Zone Designation (Amendment) Order 2019(75)
+Moderate energy circalittoral rock Habitat
+Subtidal chalk Habitat
+Subtidal coarse sediment Habitat
+South of Celtic Deep MCZ Moderate energy circalittoral rock Habitat The South of Celtic Deep Marine Conservation Zone Designation Order 2019(76)
+Subtidal coarse sediment Habitat
+Subtidal mixed sediments Habitat
+Subtidal sand Habitat
+South of Portland MCZ High energy circalittoral rock Habitat The South of Portland Marine Conservation Zone Designation Order 2019(77)
+Moderate energy circalittoral rock Habitat
+Portland Deep Geological
+Subtidal coarse sediment Habitat
+Subtidal mixed sediments Habitat
+Subtidal sand Habitat
+South of the Isles of Scilly MCZ Fan mussel (Atrina fragilis) Species The South of the Isles of Scilly Marine Conservation Zone Designation Order 2019(78)
+Subtidal coarse sediment /subtidal mixed sediments mosaic habitat Habitat
+Subtidal sand Habitat
+South West Approaches to the Bristol Channel MCZ Subtidal coarse sediment Habitat The South West Approaches to the Bristol Channel Marine Conservation Zone Designation Order 2019(79)
+Subtidal sand Habitat
+South West Deeps (East) MCZ Celtic Sea Relict Sandbanks Geomorphological The South West Deeps (East) Marine Conservation Zone Designation Order 2019(80)
+Deep sea bed Habitat
+Subtidal coarse sediment Habitat
+Subtidal sand Habitat
+South-West Deeps (West) MCZ Celtic Sea Relict Sandbanks Geomorphological The South-West Deeps (West) Marine Conservation Zone Designation Order 2013as amended by The South-West Deeps (West) Marine Conservation Zone Designation (Amendment) Order 2016(81)
+Fan mussel (Atrina fragilis) Species
+Subtidal coarse sediment Habitat
+Subtidal mixed sediments Habitat
+Subtidal mud Habitat
+Subtidal sand Habitat
+South Wight Maritime SAC Reefs Habitat
+Submerged or partially submerged sea caves Habitat
+Southbourne Rough MCZ Black seabream (Spondyliosoma canatharus) Species The Southbourne Rough Marine Conservation Zone Designation Order 2019(82)
+Southern North Sea SAC Harbour porpoise (Phocoena phocoena) Species
+Start Point to Plymouth Sound & Eddystone SAC Reefs Habitat
+Stour and Orwell Estuaries SPA Black-tailed godwit (Limosa limosa islandica) Species
+Common redshank (Tringa totanus) Species
+Dark-bellied brent goose (Branta bernicla bernicla) Species
+Dunlin (Calidris alpina alpina) Species
+Grey plover (Pluvialis squatarola) Species
+Northern pintail (Anas acuta) Species
+Pied avocet (Recurvirostra avosetta) Species
+Red knot (Calidris canutus) Species
+Waterbird assemblage Assemblage
+Studland Bay MCZ Long snouted seahorse (Hippocampus guttulatus) Species The Studland Bay Marine Conservation Zone Designation Order 2019(83)
+Intertidal coarse sediment Habitat
+Seagrass beds Habitat
+Subtidal sand Habitat
+Studland to Portland SAC Reefs Habitat
+Swallow Sand MCZ North Sea glacial tunnel valleys: Swallow Hole Geological The Swallow Sand Marine Conservation Zone Designation Order 2013(84)
+Subtidal coarse sediment Habitat
+Subtidal sand Habitat
+Swanscombe MCZ Tentacled lagoon worm (Alkmaria romijni) Species The Swanscombe Marine Conservation Zone Designation Order 2019(85)
+Intertidal mud Habitat
+Tamar Estuaries Complex SPA Little egret (Egretta garzetta) Species
+Pied avocet (Recurvirostra avosetta) Species
+Tamar Estuary Sites MCZ Blue mussel (Mytilus edulis) beds Habitat The Tamar Estuary Marine Conservation Zones Designation Order 2013(86)
+Intertidal biogenic reefs Habitat
+Intertidal coarse sediment Habitat
+Native oyster (Ostrea edulis) Species
+Smelt (Osmerus eperlanus) Species
+Teesmouth and Cleveland Coast SPA Common redshank (Tringa totanus) Species
+Common tern (Sterna hirundo) Species
+Little tern (Sterna albifrons) Species
+Pied avocet (Recurvirostra avosetta) Species
+Red knot (Calidris canutus) Species
+Sandwich tern (Sterna sandvicensis) Species
+Waterbird assemblage Assemblage
+Thames Estuary and Marshes SPA Black-tailed godwit (Limosa limosa islandica) Species
+Common redshank (Tringa totanus) Species
+Dunlin (Calidris alpina alpina) Species
+Grey plover (Pluvialis squatarola) Species
+Pied avocet (Recurvirostra avosetta) Species
+Red knot (Calidris canutus) Species
+Ringed plover (Charadrius hiaticula) Species
+Waterbird assemblage Assemblage
+Thanet Coast MCZ Blue mussel (Mytilus edulis) beds Habitat The Thanet Coast Marine Conservation Zone Designation Order 2013 as amended by The Thanet Coast Marine Conservation Zone Designation (Amendment) Order 2019(87)
+Stalked jellyfish (Lucernariopsis cruxmelitensis) Species
+Stalked jellyfish spp (Haliclystus spp) Species
+Moderate energy circalittoral rock Habitat
+Moderate energy infralittoral rock Habitat
+Peat and clay exposures Habitat
+Ross worm (Sabellaria spinulosa) reefs Habitat
+Subtidal chalk Habitat
+Subtidal coarse sediment Habitat
+Subtidal mixed sediments Habitat
+Subtidal sand Habitat
+Thanet Coast SAC Reefs Habitat
+Submerged or partially submerged sea caves Habitat
+Thanet Coast and Sandwich Bay SPA European golden plover (Pluvialis apricaria) Species
+Little tern (Sterna albifrons) Species
+Ruddy turnstone (Arenaria interpres) Species
+The Canyons MCZ Cold-water coral reefs Habitat The Canyons Marine Conservation Zone Designation Order 2013 as amended by The Canyons Marine Conservation Zone Designation (Amendment) Order 2019(88)
+Coral gardens Habitat
+Deep-sea bed Habitat
+Sea-pen and burrowing megafauna communities Habitat
+The Dee Estuary SPA Bar-tailed godwit (Limosa lapponica) Species
+Black-tailed godwit (Limosa limosa islandica) Species
+Common redshank (Tringa totanus) Species
+Common shelduck (Tadorna tadorna) Species
+Common tern (Sterna hirundo) Species
+Dunlin (Calidris alpina alpina) Species
+Eurasian curlew (Numenius arquata) Species
+Eurasian oystercatcher (Haematopus ostralegus) Species
+Eurasian teal (Anas crecca) Species
+Grey plover (Pluvialis squatarola) Species
+Little tern (Sterna albifrons) Species
+Northern pintail (Anas acuta) Species
+Red knot (Calidris canutus) Species
+Sandwich tern (Sterna sandvicensis) Species
+Waterbird assemblage Assemblage
+The Manacles MCZ Stalked jellyfish (Haliclystus spp) Species The Manacles Marine Conservation Zone Designation Order 2013 as amended by the Manacles Marine Conservation Zone Designation (Amendment) Order 2016(89)
+Pink sea-fan (Eunicella verrucosa) Species
+Sea-fan anemone (Amphianthus dohrnii) Species
+Intertidal coarse sediment Habitat
+Maerl beds Habitat
+Moderate energy circalittoral rock Habitat
+Moderate energy infralittoral rock Habitat
+Moderate energy intertidal rock Habitat
+Spiny lobster (Palinurus elephas) Species
+Subtidal coarse sediment Habitat
+Subtidal macrophyte-dominated sediment Habitat
+Subtidal mixed sediments Habitat
+Subtidal sand Habitat
+The Needles MCZ High energy infralittoral rock Habitat The Needles Marine Conservation Zone Designation Order 2016(90)
+Native oyster (Ostrea edulis) Species
+Moderate energy circalittoral rock Habitat
+Moderate energy infralittoral rock Habitat
+Peacock’s tail (Padina pavonica) Species
+Stalked jellyfish (Calvadosia campanulata) Species
+Seagrass beds Habitat
+Sheltered muddy gravels Habitat
+Subtidal chalk Habitat
+Subtidal coarse sediment Habitat
+Subtidal mixed sediments Habitat
+Subtidal mud Habitat
+Subtidal sand Habitat
+The Swale SPA Dark-bellied brent goose (Branta bernicla bernicla) Species
+Dunlin (Calidris alpina alpina) Species
+Waterbird assemblage Assemblage
+The Swale Estuary MCZ Estuarine rocky habitats Habitat The Swale Estuary Marine Conservation Zone Designation Order 2016(91)
+Intertidal coarse sediment Habitat
+Intertidal mixed sediments Habitat
+Intertidal sand and muddy sand Habitat
+Low energy intertidal rock Habitat
+Subtidal coarse sediment Habitat
+Subtidal mixed sediments Habitat
+Subtidal mud Habitat
+Subtidal sand Habitat
+The Wash SPA Bar-tailed godwit (Limosa lapponica) Species
+Black (common) scoter (Melanitta nigra) Species
+Black-tailed godwit (Limosa limosa islandica) Species
+Common goldeneye (Bucephala clangula) Species
+Common redshank (Tringa totanus) Species
+Common shelduck (Tadorna tadorna) Species
+Common tern (Sterna hirundo) Species
+Dark-bellied brent goose (Branta bernicla bernicla) Species
+Dunlin (Calidris alpina alpina) Species
+Eurasian curlew (Numenius arquata) Species
+Eurasian oystercatcher (Haematopus ostralegus) Species
+Eurasian wigeon (Anas Penelope) Species
+Grey plover (Pluvialis squatarola) Species
+Little tern (Sterna albifrons) Species
+Northern pintail (Anas acuta) Species
+Pink-footed goose (Anser brachyrhynchus) Species
+Red knot (Calidris canutus) Species
+Ruddy turnstone (Arenaria interpres) Species
+Sanderling (Calidris alba) Species
+Waterbird assemblage Assemblage
+The Wash and North Norfolk Coast SAC Atlantic salt meadows (Glauco-Puccinellietalia maritimae) Habitat
+Large shallow inlets and bays Habitat
+Mediterranean and thermo- Atlantic halophilous scrubs (Sarcocornetea fruticosi) Habitat
+Mudflats and sandflats not covered by seawater at low tide Habitat
+Common seal (Phoca vitulina) Species
+Reefs Habitat
+Salicornia and other annuals colonising mud and sand Habitat
+Sandbanks which are slightly covered by sea water all the time Habitat
+Torbay MCZ Long snouted seahorse (Hippocampus guttulatus) Species The Torbay Marine Conservation Zone Designation Order 2013 as amended by The Torbay Marine Conservation Zone Designation (Amendment) Order 2016 and The Torbay Marine Conservation Zone Designation (Amendment) Order 2019(92)
+Intertidal coarse sediment Habitat
+Intertidal mixed sediments Habitat
+Intertidal mud Habitat
+Intertidal sand and muddy sand Habitat
+Intertidal underboulder communities Habitat
+Low energy intertidal rock Habitat
+Moderate energy intertidal rock Habitat
+Native oyster (Ostrea edulis) Species
+Peacock’s tail (Padina pavonica) Species
+Peat and clay exposures Habitat
+Seagrass beds Habitat
+Subtidal coarse sediment Habitat
+Subtidal mud Habitat
+Tweed Estuary SAC Estuaries Habitat
+Mudflats and sandflats not covered by seawater at low tide Habitat
+River lamprey (Lampetra fluviatilis) Species
+Sea lamprey (Petromyzon marinus) Species
+Upper Fowey and Pont Pill MCZ Coastal saltmarshes and saline reedbeds Habitat The Upper Fowey and Pont Pill Marine Conservation Zones Designation Order 2013 as amended by The Upper Fowey and Pont Pill Marine Conservation Zones Designation (Amendment) Order 2016(93)
+Estuarine rocky habitats Habitat
+Intertidal coarse sediment Habitat
+Intertidal mud Habitat
+Intertidal sand and muddy sand Habitat
+Low energy intertidal rock Habitat
+Sheltered muddy gravels Habitat
+Utopia MCZ Fragile sponge and anthozoan communities on subtidal rocky habitats Habitat The Utopia Marine Conservation Zone Designation Order 2016(94)
+High energy circalittoral rock Habitat
+Moderate energy circalittoral rock Habitat
+Subtidal coarse sediment Habitat
+Subtidal mixed sediments Habitat
+Subtidal sand Habitat
+West of Copeland MCZ Subtidal coarse sediment Habitat The West of Copeland Marine Conservation Zone Designation Order 2019(95)
+Subtidal mixed sediments Habitat
+Subtidal sand Habitat
+West of Walney MCZ Sea-pen and burrowing megafauna communities Habitat The West of Walney Marine Conservation Zone Designation Order 2016(96)
+Subtidal mud Habitat
+Subtidal sand Habitat
+West of Wight-Barfleur MCZ Subtidal coarse sediment Habitat The West of Wight-Barfleur Marine Conservation Zone Designation Order 2019(97)
+Subtidal mixed sediments Habitat
+Western Channel MCZ Subtidal coarse sediment Habitat The Western Channel Marine Conservation Zone Designation Order 2016(98)
+Subtidal sand Habitat
+Whitsand and Looe Bay MCZ Giant goby (Gobius cobitis) Species The Whitsand and Looe Bay Marine Conservation Zone Designation Order 2013 as amended by The Whitsand and Looe Bay Marine Conservation Zone Designation (Amendment) Order 2019 (99)
+Stalked jellyfish (Haliclystus spp) Species
+Ocean quahog (Artica islandica) Species
+Pink sea-fan (Eunicella verrucosa) Species
+Sea-fan anemone (Amphianthus dohrnii) Species
+Stalked jellyfish (Calvadosia campanulata) Species
+Stalked jellyfish (Calvadosia cruxmelitensis) Species
+High energy intertidal rock Habitat
+Intertidal coarse sediment Habitat
+Intertidal sand and muddy sand Habitat
+Low energy intertidal rock Habitat
+Moderate energy circalittoral rock Habitat
+Moderate energy intertidal rock Habitat
+Seagrass beds Habitat
+Subtidal coarse sediment Habitat
+Subtidal sand Habitat
+Wight-Barfleur Reef SAC Reefs Habitat
+Wyre Lune MCZ Smelt (Osmerus eperlanus) Species The Wyre Lune Marine Conservation Zone Designation Order 2019(100)
+Yarmouth to Cowes MCZ Bouldnor Cliff geological feature Geological The Yarmouth to Cowes Marine Conservation Zone Designation Order 2019(101)
+Estuarine rocky habitats Habitat
+High energy circalittoral rock Habitat
+High energy infralittoral rock Habitat
+Intertidal coarse sediment Habitat
+Intertidal underboulder communities Habitat
+Littoral chalk communities Habitat
+Low energy intertidal rock Habitat
+Moderate energy circalittoral rock Habitat
+Moderate energy infralittoral rock Habitat
+Moderate energy intertidal rock Habitat
+Native oyster (Ostrea edulis) Species
+Peat and clay exposures Habitat
+Sheltered muddy gravels Habitat
+Subtidal chalk Habitat
+Subtidal coarse sediment Habitat
+Subtidal mixed sediments Habitat
+Subtidal mud Habitat
+(1)
+Paper copies of the MCZ Designation Orders listed in column 4 of this Schedule are available for inspection at the Department for Environment, Food and Rural Affairs, 2 Marsham Street, London SW1P 4DF.
+(2)
+Ministerial Order 2019 No. 1, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/1/pdfs/ukmo_20190001_en.pdf.
+(3)
+Ministerial Order 2016 No. 1, made 12th January 2016 and available to view at www.legislation.gov.uk/ukmo/2016/1/pdfs/ukmo_20160001_en.pdf.
+(4)
+Ministerial Order 2013 No. 1, made 21st November 2013 and available to view at www.legislation.gov.uk/ukmo/2013/1/pdfs/ukmo_20130001_en.pdf.
+(5)
+Ministerial Order 2019 No. 2, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/2/pdfs/ukmo_20190002_en.pdf.
+(6)
+Ministerial Order 2019 No. 3, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/3/pdfs/ukmo_20190003_en.pdf.
+(7)
+Ministerial Order 2013 No. 2, made 21st November 2013 and available to view at www.legislation.gov.uk/ukmo/2013/2/pdfs/ukmo_20130002_en.pdf, as amended by Ministerial Order 2016 No. 24, made 12th January 2016 and available to view at www.legislation.gov.uk/ukmo/2016/24/pdfs/ukmo_20160024_en.pdf.
+(8)
+Ministerial Order 2019 No. 4, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/4/pdfs/ukmo_20190004_en.pdf.
+(9)
+Ministerial Order 2019 No. 5, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/5/pdfs/ukmo_20190005_en.pdf.
+(10)
+Ministerial Order 2016 No. 2, made 12th January 2016 and available to view at www.legislation.gov.uk/ukmo/2016/2/pdfs/ukmo_20160002_en.pdf.
+(11)
+Ministerial Order 2013 No. 3, made 21st November 2013 and available to view at www.legislation.gov.uk/ukmo/2013/3/pdfs/ukmo_20130003_en.pdf.
+(12)
+Ministerial Order 2019 No. 6, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/6/pdfs/ukmo_20190006_en.pdf.
+(13)
+Ministerial Order 2019 No. 8, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/8/pdfs/ukmo_20190008_en.pdf.
+(14)
+Ministerial Order 2013 No. 5, made 21st November 2013 and available to view at www.legislation.gov.uk/ukmo/2013/5/pdfs/ukmo_20130005_en.pdf, as amended by Ministerial Order 2016 No. 25, made 12th January 2016 and available to view at www.legislation.gov.uk/ukmo/2016/25/pdfs/ukmo_20160025_en.pdf and Ministerial Order 2019 No. 9, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/9/pdfs/ukmo_20190009_en.pdf.
+(15)
+Ministerial Order 2016 No. 3, made 12th January 2016 and available to view at www.legislation.gov.uk/ukmo/2016/3/pdfs/ukmo_20160003_en.pdf.
+(16)
+Ministerial Order 2016 No. 4, made 12th January 2016 and available to view at www.legislation.gov.uk/ukmo/2016/4/pdfs/ukmo_20160004_en.pdf.
+(17)
+Ministerial Order 2013 No. 6, made 21st November 2013 and available to view at www.legislation.gov.uk/ukmo/2013/6/pdfs/ukmo_20130006_en.pdf, as amended by Ministerial Order 2019 No. 10, made 20th May 2019and available to view at www.legislation.gov.uk/ukmo/2019/10/pdfs/ukmo_20190010_en.pdf.
+(18)
+Ministerial Order 2019 No. 11, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/11/pdfs/ukmo_20190011_en.pdf.
+(19)
+Ministerial Order 2019 No. 12, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/12/pdfs/ukmo_20190012_en.pdf.
+(20)
+Ministerial Order 2016 No. 5, made 12th January 2016 and available to view at www.legislation.gov.uk/ukmo/2016/5/pdfs/ukmo_20160005_en.pdf, as amended by Ministerial Order 2019 No. 13, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/13/pdfs/ukmo_20190013_en.pdf.
+(21)
+Ministerial Order 2016 No. 6, made 12th January 2016 and available to view at www.legislation.gov.uk/ukmo/2016/6/pdfs/ukmo_20160006_en.pdf.
+(22)
+Ministerial Order 2013 No. 7, made 21st November 2013 and available to view at www.legislation.gov.uk/ukmo/2013/7/pdfs/ukmo_20130007_en.pdf, as amended by Ministerial Order 2016 No. 26, made 12th January 2016 and available to view at www.legislation.gov.uk/ukmo/2016/26/pdfs/ukmo_20160026_en.pdf and Ministerial Order 2019 No. 14, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/14/pdfs/ukmo_20190014_en.pdf.
+(23)
+Ministerial Order 2019 No. 15, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/15/pdfs/ukmo_20190015_en.pdf.
+(24)
+Ministerial Order 2019 No. 16, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/16/pdfs/ukmo_20190016_en.pdf.
+(25)
+Ministerial Order 2016 No. 7, made 12th January 2016 and available to view at www.legislation.gov.uk/ukmo/2016/7/pdfs/ukmo_20160007_en.pdf.
+(26)
+Ministerial Order 2013 No. 8, made 21st November 2013 and available to view at www.legislation.gov.uk/ukmo/2013/8/pdfs/ukmo_20130008_en.pdf.
+(27)
+Ministerial Order 2019 No. 17, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/17/pdfs/ukmo_20190017_en.pdf.
+(28)
+Ministerial Order 2016 No. 8, made 12th January 2016 and available to view at www.legislation.gov.uk/ukmo/2016/8/pdfs/ukmo_20160008_en.pdf.
+(29)
+Ministerial Order 2013 No. 9, made 21st November 2013 and available to view at www.legislation.gov.uk/ukmo/2013/9/pdfs/ukmo_20130009_en.pdf, as amended by Ministerial Order 2016 No. 31, made 12th January 2016 and available to view at www.legislation.gov.uk/ukmo/2016/31/pdfs/ukmo_20160031_en.pdf.
+(30)
+Ministerial Order 2019 No. 18, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/18/pdfs/ukmo_20190018_en.pdf.
+(31)
+Ministerial Order 2016 No. 9, made 12th January 2016 and available to view at www.legislation.gov.uk/ukmo/2016/9/pdfs/ukmo_20160009_en.pdf.
+(32)
+Ministerial Order 2016 No. 10, made 12th January 2016 and available to view at www.legislation.gov.uk/ukmo/2016/10/pdfs/ukmo_20160010_en.pdf.
+(33)
+Ministerial Order 2019 No.19, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/19/pdfs/ukmo_20190019_en.pdf.
+(34)
+Ministerial Order 2016 No. 11, made 12th January 2016 and available to view at www.legislation.gov.uk/ukmo/2016/11/pdfs/ukmo_20160011_en.pdf.
+(35)
+Ministerial Order 2019 No. 20, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/20/pdfs/ukmo_20190020_en.pdf.
+(36)
+Ministerial Order 2019 No. 21, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/21/pdfs/ukmo_20190021_en.pdf.
+(37)
+Ministerial Order 2013 No. 10, made 21st November 2013 and available to view at www.legislation.gov.uk/ukmo/2013/10/pdfs/ukmo_20130010_en.pdf designated all of the Isle of Scilly Sites set out in this Schedule in separate Schedules. Schedules 4, 6, 7 and 11 were amended by Ministerial Order 2019 No. 22, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/22/pdfs/ukmo_20190022_en.pdf
+(38)
+See Schedule 1 of Ministerial Order 2013 No. 10, made 21st November 2013 and available to view at www.legislation.gov.uk/ukmo/2013/10/pdfs/ukmo_20130010_en.pdf.
+(39)
+See Schedule 11 of Ministerial Order 2013 No. 10, made 21st November 2013 and available to view at www.legislation.gov.uk/ukmo/2013/10/pdfs/ukmo_20130010_en.pdf, as amended by Ministerial Order 2019 No. 22, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/22/pdfs/ukmo_20190022_en.pdf.
+(40)
+See Schedule 2 of Ministerial Order 2013 No. 10, made 21st November 2013 and available to view at www.legislation.gov.uk/ukmo/2013/10/pdfs/ukmo_20130010_en.pdf.
+(41)
+See Schedule 3 of Ministerial Order 2013 No. 10, made 21st November 2013 and available to view at www.legislation.gov.uk/ukmo/2013/10/pdfs/ukmo_20130010_en.pdf.
+(42)
+See Schedule 4 of Ministerial Order 2013 No. 10, made 21st November 2013 and available to view at www.legislation.gov.uk/ukmo/2013/10/pdfs/ukmo_20130010_en.pdf, as amended by Ministerial Order 2019 No. 22, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/22/pdfs/ukmo_20190022_en.pdf.
+(43)
+See Schedule 5 of Ministerial Order 2013 No. 10, made 21st November 2013 and available to view at www.legislation.gov.uk/ukmo/2013/10/pdfs/ukmo_20130010_en.pdf.
+(44)
+See Schedule 6 of Ministerial Order 2013 No. 10, made 21st November 2013 and available to view at www.legislation.gov.uk/ukmo/2013/10/pdfs/ukmo_20130010_en.pdf, as amended by Ministerial Order 2019 No. 22, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/22/pdfs/ukmo_20190022_en.pdf.
+(45)
+See Schedule 7 of Ministerial Order 2013 No. 10, made 21st November 2013 and available to view at www.legislation.gov.uk/ukmo/2013/10/pdfs/ukmo_20130010_en.pdf, as amended by Ministerial Order 2019 No. 22, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/22/pdfs/ukmo_20190022_en.pdf.
+(46)
+See Schedule 8 of Ministerial Order 2013 No. 10, made 21st November 2013 and available to view at www.legislation.gov.uk/ukmo/2013/10/pdfs/ukmo_20130010_en.pdf.
+(47)
+See Schedule 9 of Ministerial Order 2013 No. 10, made 21st November 2013 and available to view at www.legislation.gov.uk/ukmo/2013/10/pdfs/ukmo_20130010_en.pdf.
+(48)
+See Schedule 10 of Ministerial Order 2013 No. 10, made 21st November 2013 and available to view at www.legislation.gov.uk/ukmo/2013/10/pdfs/ukmo_20130010_en.pdf.
+(49)
+Ministerial Order 2019 No. 23, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/23/pdfs/ukmo_20190023_en.pdf.
+(50)
+Ministerial Order 2013 No. 11, made 21st November 2013 and available to view at www.legislation.gov.uk/ukmo/2013/11/pdfs/ukmo_20130011_en.pdf.
+(51)
+Ministerial Order 2013 No. 12, made 21st November 2013 and available to view at www.legislation.gov.uk/ukmo/2013/12/pdfs/ukmo_20130012_en.pdf.
+(52)
+Ministerial Order 2019 No. 24, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/24/pdfs/ukmo_20190024_en.pdf.
+(53)
+Ministerial Order 2013 No. 14, made 21st November 2013 and available to view at www.legislation.gov.uk/ukmo/2013/14/pdfs/ukmo_20130014_en.pdf, as amended by Ministerial Order 2019 No. 25, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/25/pdfs/ukmo_20190025_en.pdf.
+(54)
+Ministerial Order 2019 No. 26, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/26/pdfs/ukmo_20190026_en.pdf.
+(55)
+Ministerial Order 2016 No. 12, made 12th January 2016 and available to view at www.legislation.gov.uk/ukmo/2016/12/pdfs/ukmo_20160012_en.pdf.
+(56)
+Ministerial Order 2016 No. 13, made 12th January 2016 and available to view at www.legislation.gov.uk/ukmo/2016/13/pdfs/ukmo_20160013_en.pdf.
+(57)
+Ministerial Order 2013 No. 15, made 21st November 2013 and available to view at www.legislation.gov.uk/ukmo/2013/15/pdfs/ukmo_20130015_en.pdf, as amended by Ministerial Order 2016 No. 28, made 12th January 2016 and available to view at www.legislation.gov.uk/ukmo/2016/28/pdfs/ukmo_20160028_en.pdf.
+(58)
+Ministerial Order 2019 No. 28, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/28/pdfs/ukmo_20190028_en.pdf.
+(59)
+Ministerial Order 2019 No. 27, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/27/pdfs/ukmo_20190027_en.pdf.
+(60)
+Ministerial Order 2016 No. 14, made 12th January 2016 and available to view at www.legislation.gov.uk/ukmo/2016/14/pdfs/ukmo_20160014_en.pdf.
+(61)
+Ministerial Order 2016 No. 15, made 12th January 2016 and available to view at www.legislation.gov.uk/ukmo/2016/15/pdfs/ukmo_20160015_en.pdf.
+(62)
+Ministerial Order 2016 No. 16, made 12th January 2016 and available to view at www.legislation.gov.uk/ukmo/2016/16/pdfs/ukmo_20160016_en.pdf.
+(63)
+Ministerial Order 2019 No. 29, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/29/pdfs/ukmo_20190029_en.pdf.
+(64)
+Ministerial Order 2019 No. 30, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/30/pdfs/ukmo_20190030_en.pdf.
+(65)
+Ministerial Order 2013 No. 16, made 21st November 2013 and available to view at www.legislation.gov.uk/ukmo/2013/16/pdfs/ukmo_20130016_en.pdf.
+(66)
+Ministerial Order 2013 No. 17, made 21st November 2013 and available to view at www.legislation.gov.uk/ukmo/2013/17/pdfs/ukmo_20130017_en.pdf.
+(67)
+Ministerial Order 2013 No. 18, made 21st November 2013 and available to view at www.legislation.gov.uk/ukmo/2013/18/pdfs/ukmo_20130018_en.pdf, as amended by Ministerial Order 2019 No. 31, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/31/pdfs/ukmo_20190031_en.pdf.
+(68)
+Ministerial Order 2019 No. 32, made 20th May 2019and available to view at www.legislation.gov.uk/ukmo/2019/32/pdfs/ukmo_20190032_en.pdf.
+(69)
+Ministerial Order 2019 No. 34, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/34/pdfs/ukmo_20190034_en.pdf.
+(70)
+Ministerial Order 2016 No. 17, made 12th January 2016 and available to view at www.legislation.gov.uk/ukmo/2016/17/pdfs/ukmo_20160017_en.pdf.
+(71)
+Ministerial Order 2016 No. 18, made 12th January 2016 and available to view at www.legislation.gov.uk/ukmo/2016/18/pdfs/ukmo_20160018_en.pdf.
+(72)
+Ministerial Order 2019 No. 35, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/35/pdfs/ukmo_20190035_en.pdf.
+(73)
+Ministerial Order 2013 No. 19, made 21st November 2013and available to view at www.legislation.gov.uk/ukmo/2013/19/pdfs/ukmo_20130019_en.pdf.
+(74)
+Ministerial Order 2019 No. 36, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/36/pdfs/ukmo_20190036_en.pdf.
+(75)
+Ministerial Order 2013 No. 20, made 21st November 2013 and available to view at www.legislation.gov.uk/ukmo/2013/20/pdfs/ukmo_20130020_en.pdf, as amended by Ministerial Order 2016 No. 29, made 12th January 2016 and available to view at www.legislation.gov.uk/ukmo/2016/29/pdfs/ukmo_20160029_en.pdf and Ministerial Order 2019 No. 37, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/37/pdfs/ukmo_20190037_en.pdf.
+(76)
+Ministerial Order 2019 No. 38, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/38/pdfs/ukmo_20190038_en.pdf.
+(77)
+Ministerial Order 2019 No. 39, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/39/pdfs/ukmo_20190039_en.pdf.
+(78)
+Ministerial Order 2019 No. 40, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/40/pdfs/ukmo_20190040_en.pdf.
+(79)
+Ministerial Order 2019 No. 42, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/42/pdfs/ukmo_20190042_en.pdf.
+(80)
+Ministerial Order 2019 No. 43, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/43/pdfs/ukmo_20190043_en.pdf.
+(81)
+Ministerial Order 2013 No. 21, made 21st November 2013 and available to view at www.legislation.gov.uk/ukmo/2013/21/pdfs/ukmo_20130021_en.pdf, as amended by Ministerial Order 2016 No. 30 made 12th January 2016 and available to view at www.legislation.gov.uk/ukmo/2016/30/pdfs/ukmo_20160030_en.pdf.
+(82)
+Ministerial Order 2019 No. 44, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/44/pdfs/ukmo_20190044_en.pdf.
+(83)
+Ministerial Order 2019 No. 45, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/45/pdfs/ukmo_20190045_en.pdf.
+(84)
+Ministerial Order 2013 No. 22, made 21st November 2013and available to view at www.legislation.gov.uk/ukmo/2013/22/pdfs/ukmo_20130022_en.pdf.
+(85)
+Ministerial Order 2019 No. 46, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/46/pdfs/ukmo_20190046_en.pdf.
+(86)
+Ministerial Order 2013 No. 23, made 21st November 2013 and available to view at www.legislation.gov.uk/ukmo/2013/23/pdfs/ukmo_20130023_en.pdf.
+(87)
+Ministerial Order 2013 No. 24, made 21st November 2013 and available to view at www.legislation.gov.uk/ukmo/2013/24/pdfs/ukmo_20130024_en.pdf, as amended by Ministerial Order 2019 No. 47, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/47/pdfs/ukmo_20190047_en.pdf.
+(88)
+Ministerial Order 2013 No. 4, made on 21st November 2013 and available to view at www.legislation.gov.uk/ukmo/2013/4/pdfs/ukmo_20130004_en.pdf, as amended by Ministerial Order 2019 No. 7, made on 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/7/pdfs/ukmo_20190007_en.pdf.
+(89)
+Ministerial Order 2013 No. 13, made on 21st November 2013 and available to view at www.legislation.gov.uk/ukmo/2013/13/pdfs/ukmo_20130013_en.pdf, as amended by Ministerial Order 2016 No. 27, made on 12th January 2016 and available to view at www.legislation.gov.uk/ukmo/2016/27/pdfs/ukmo_20160027_en.pdf.
+(90)
+Ministerial Order 2016 No. 19, made 12th January 2016 and available to view at www.legislation.gov.uk/ukmo/2016/19/pdfs/ukmo_20160019_en.pdf.
+(91)
+Ministerial Order 2016 No. 20, made 12th January 2016 and available to view at www.legislation.gov.uk/ukmo/2016/20/pdfs/ukmo_20160020_en.pdf.
+(92)
+Ministerial Order 2013 No. 25, made 21st November 2013 and available to view at www.legislation.gov.uk/ukmo/2013/25/pdfs/ukmo_20130025_en.pdf, as amended by Ministerial Order 2016 No. 32, made 12th January 2016 and available to view at www.legislation.gov.uk/ukmo/2016/32/pdfs/ukmo_20160032_en.pdf and Ministerial Order 2019 No. 48, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/48/pdfs/ukmo_20190048_en.pdf.
+(93)
+Ministerial Order 2013 No. 26, made 21st November 2013 and available to view at www.legislation.gov.uk/ukmo/2013/26/pdfs/ukmo_20130026_en.pdf, as amended by Ministerial Order 2016 No. 33, made 12th January 2016 and available to view at www.legislation.gov.uk/ukmo/2016/33/pdfs/ukmo_20160033_en.pdf.
+(94)
+Ministerial Order 2016 No. 21, made 12th January 2016 and available to view at www.legislation.gov.uk/ukmo/2016/21/pdfs/ukmo_20160021_en.pdf.
+(95)
+Ministerial Order 2019 No. 49, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/49/pdfs/ukmo_20190049_en.pdf.
+(96)
+Ministerial Oder 2016 No. 22, made 12th January 2016 and available to view at www.legislation.gov.uk/ukmo/2016/22/pdfs/ukmo_20160022_en.pdf.
+(97)
+Ministerial Order 2019 No. 50, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/50/pdfs/ukmo_20190050_en.pdf.
+(98)
+Ministerial Order 2016 No. 23, made 12th January 2016 and available to view at www.legislation.gov.uk/ukmo/2016/23/pdfs/ukmo_20160023_en.pdf.
+(99)
+Ministerial Order 2013 No. 27, made 21st November 2013 and available to view at www.legislation.gov.uk/ukmo/2013/27/pdfs/ukmo_20130027_en.pdf, as amended by Ministerial Order 2019 No. 51, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/51/pdfs/ukmo_20190051_en.pdf.
+(100)
+Ministerial Order 2019 No. 52, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/52/pdfs/ukmo_20190052_en.pdf.
+(101)
+Ministerial Order 2019 No. 53, made 20th May 2019 and available to view at www.legislation.gov.uk/ukmo/2019/53/pdfs/ukmo_20190053_en.pdf.EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations set a long-term environmental target under section 1 of the Environment Act 2021 (c. 30). The target set by regulation 3 is in respect of the condition of protected features in marine protected areas. These Regulations specify the standard to be achieved in respect of the target and the date by which it must be achieved.
+Regulation 3(2) sets the long-term target that before the end of 31st December 2042 the number of protected features within relevant marine protected areas that are in “favourable condition” is to be not less than 70% of the total number of protected features within relevant marine protected areas, with the remainder to be in “recovering condition”.
+Regulation 3(3) defines “favourable condition” and “recovering condition” for the purpose of the target in regulation 3(2).
+Regulation 4 makes provision for the Secretary of State to require advice from Natural England and the Joint Nature Conservation Committee for the performance of the functions of the Secretary of State in relation to the target in regulation 3(2).
+Regulation 5 provides that the reporting date for the target in regulation 3(2) is 31st January 2044.
+A full impact assessment of the effect that this instrument will have on the costs of business, the voluntary sector and the public sector is available for inspection at the Department for Environment, Food and Rural Affairs, 2 Marsham Street, London SW1P 4DF, and is published with an Explanatory Memorandum alongside these Regulations on www.legislation.gov.uk.

@@ -1,0 +1,47 @@
+STATUTORY INSTRUMENTS
+2024 No. 728
+NATIONAL HEALTH SERVICE, ENGLAND
+The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2024
+Made
+at 2.33 p.m. on 29th May 2024
+Laid before Parliament
+at 4.00 p.m. on 29th May 2024
+Coming into force
+26th June 2024
+The Secretary of State for Health and Social Care makes the following Regulations in exercise of the powers conferred by sections 88(1) and (2) and 272(7) and (8) of National Health Service Act 2006(1).
+(1)
+2006 c.41. See section 275(1) of the National Health Service Act 2006 for the meanings given to “prescribed” and “regulations”.Citation, commencement, extent and application
+1.—(1) These Regulations may be cited as the National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2024.
+(2) These Regulations come into force on 26th June 2024.
+(3) These Regulations extend to England and Wales and apply in relation to England only(1).
+(1)
+See section 271(1) of the National Health Service Act 2006, by virtue of which the functions of the Secretary of State being exercised in the making of these Regulations are exercisable only in relation to England.Amendment of the National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) Regulations 2004
+2.—(1) Schedule 2 to the National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) Regulations 2004(1) (drugs, medicines and other substances that may be ordered only in certain circumstances) is amended as follows.
+(2) In the table—
+(a)
+in column (1) (drugs), after the entry for “Clobazam” insert “a GnRH analogue”;
+(b)
+in column (2) (patient), after the entry corresponding to the entry for “Clobazam” insert—
+“(1) Any patient who is aged 18 or over
+(2) Any patient who is aged under 18 to whom the practitioner is providing treatment under the contract which does not include treatment for the purpose of puberty suppression in respect of gender dysphoria, gender incongruence or a combination of both
+(3) Any patient who is aged under 18, and who—
+(a)
+before 26th June 2024, started a course of treatment with a GnRH analogue for the purpose of puberty suppression in respect of gender dysphoria, gender incongruence or a combination of both, and in this context, a person is treated as having started a course of treatment with a GnRH analogue if, on or after 3rd December 2023, that person was issued with a NHS or private prescription for a GnRH analogue, whether or not the prescription has been dispensed or the prescribed GnRH analogue has been taken by that person before 26th June 2024; or
+(b)
+is being treated with a GnRH analogue as part of a National Institute for Health and Care Research clinical trial related to treatment with a GnRH analogue for the purpose of puberty suppression in respect of gender dysphoria, gender incongruence or a combination of both”.
+(c)
+in column (3) (purpose), after the entry corresponding to the entry for “Clobazam” insert—
+“(1) Treatment for any purpose
+(2) Treatment for any purpose other than treatment for the purpose of puberty suppression in respect of gender dysphoria, gender incongruence or a combination of both
+(3) Treatment for the purpose of puberty suppression in respect gender dysphoria, gender incongruence or a combination of both”.
+(3) After the definition of “general medical practitioner” insert—
+““gonadotrophin-releasing hormone (“GnRH”) analogue” means a medicinal product that consists of or contains buserelin, gonadorelin, goserelin, leuprorelin acetate, nafarelin or triptorelin;”.
+(1)
+S.I. 2004/629; amended by S.I. 2004/3215, 2009/2230, 2010/2349, 2011/680, 2013/363 and 2194, 2014/1625, 2018/378, 2020/1348, 2021/974 and 2023/1071.Victoria Atkins
+Secretary of State
+Department of Health and Social Care
+At 2.33 p.m. on 29th May 2024EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) Regulations 2004 (“the 2004 Regulations”). The 2004 Regulations prohibit or restrict the ordering of specified prescription items under a general medical services (GMS) contract in England.
+Regulation 2 of these Regulations inserts provisions into the 2004 Regulations that restrict the ordering by authorised prescribers at GP practices that hold GMS contracts of a list of medicinal products that consist of or contain gonadotrophin-releasing hormone (GnRH) analogues. The restrictions relate to orders for GnRH analogues for patients who are under the age of 18, if they are prescribed for the purpose of puberty suppression in respect of gender dysphoria, gender incongruence or a combination of both.
+An assessment of the effect of this instrument was undertaken and it was deemed that a full impact assessment would not be undertaken. These Regulations are not expected to have a significant impact on the public and voluntary sectors, and only a limited impact on the private sector, below the threshold for undertaking a full impact assessment.

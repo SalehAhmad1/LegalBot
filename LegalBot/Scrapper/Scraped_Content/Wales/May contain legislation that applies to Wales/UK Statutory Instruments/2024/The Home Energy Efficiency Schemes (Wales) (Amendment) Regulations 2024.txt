@@ -1,0 +1,71 @@
+WELSH STATUTORY INSTRUMENTS
+2024 No. 339 (W. 63)
+ENERGY CONSERVATION, WALES
+The Home Energy Efficiency Schemes (Wales) (Amendment) Regulations 2024
+Made
+8 March 2024
+Laid before Senedd Cymru
+11 March 2024
+Coming into force
+1 April 2024
+The Welsh Ministers make the following Regulations in exercise of the powers conferred by section 15(1) of the Social Security Act 1990(1).
+(1)
+1990 c. 27. Section 15 of the Social Security Act 1990 was amended by section 142 of the Housing Grants, Construction and Regeneration Act 1996 (c. 53). The National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672) provided that the functions under section 15 of the Social Security Act 1990 were to be exercisable in relation to Wales by the National Assembly for Wales concurrently with the Secretary of State and free from the requirement for Treasury consent. The powers of the National Assembly for Wales under section 15(1) of the Social Security Act 1990 were transferred to the Welsh Ministers by section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act 2006 (c. 32). Paragraph 1 of Schedule 3A to the Government of Wales Act 2006, as amended by paragraph 1 of Schedule 4 to the Wales Act 2017 (c. 4), provides that the functions of the Secretary of State under section 15 of the Social Security Act 1990 are exercisable concurrently by the Welsh Ministers free from any requirement for Treasury consent.Title and coming into force
+1.—(1) The title of these Regulations is the Home Energy Efficiency Schemes (Wales) (Amendment) Regulations 2024.
+(2) These Regulations come into force on 1 April 2024.Interpretation
+2.  In these Regulations, “the principal Regulations” (“y prif Reoliadau”) means the Home Energy Efficiency Schemes (Wales) Regulations 2011(1).
+(1)
+S.I. 2011/656 (W. 94). The principal Regulations were amended by S.I. 2013/2843 (W. 270) and S.I. 2018/319 (W. 60).Amendment to the principal Regulations
+3.  The principal Regulations are amended in accordance with regulations 4 to 6.Amendment of regulation 2 (interpretation)
+4.  In regulation 2—
+(a)
+at the appropriate place in alphabetical order, insert—
+““health eligibility criteria” (“meini prawf cymhwystra iechyd”) means a person living with a chronic respiratory, circulatory or mental health condition;”
+“households below average income report” (“adroddiad aelwydydd islaw’r incwm cyfartalog”) means the data published from time to time by the Secretary of State on household and individual incomes under section 4 of the Welfare Reform and Work Act 2016(1).
+“lower income household” (“aelwyd incwm is”) means a household with a net income, excluding any income from disability related benefits or payments, that is less than 60% of the median equivalised net household income before housing costs based on the most recent published data in the households below average income report;”;
+(b)
+in the definition of “means-tested benefit”—
+(i)
+in paragraph (e), at the end omit “and”;
+(ii)
+in paragraph (f), at the end insert “and”;
+(iii)
+after paragraph (f), insert—
+“(g)
+income-based jobseeker’s allowance (as defined in section 1(4) of the Jobseekers Act 1995(2));”.
+(1)
+2016 c. 7. The households below average income report series is published online at Households below average income (HBAI) statistics - GOV.UK (www.gov.uk) and a copy can be obtained from Welsh Government, Cathays Park, Cardiff, CF10 3NQ.
+(2)
+1995 c. 18. Section 1(4) was amended by section 59 and Schedule 7 to the Welfare Reform and Pensions Act 1999 (c. 30). There are other amendments to this section, but none are relevant for the purposes of these Regulations.Amendment of regulation 5 (eligibility criteria)
+5.  In regulation 5—
+(a)
+in paragraph (2)—
+(i)
+for sub-paragraph (b) substitute—
+“(b)
+the applicant is an occupant of the dwelling and is—
+(i)
+in receipt of a means-tested benefit, or
+(ii)
+from a lower income household; and”;
+(ii)
+for sub-paragraph (c) substitute—
+“(c)
+the area agency is satisfied that the asset rating of the dwelling is—
+(i)
+54 or less, or
+(ii)
+68 or less where the applicant or an occupant of the dwelling fulfils the health eligibility criteria.”;
+(b)
+omit paragraph (3A).Amendment of regulation 9 (conditions of grant)
+6.  In regulation 9(1)(a)(ii), for “paragraph (2)(a) of this Regulation” substitute “sub-paragraph (i)”.Transitional provisions
+7.  The principal Regulations as in force immediately before 1 April 2024 continue to apply on and after that date in respect of a works application made but not yet determined before that date and in relation to a works application made and approved before that date.Julie James
+Minister for Climate Change, one of the Welsh Ministers
+8 March 2024EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the Home Energy Efficiency Schemes (Wales) Regulations 2011 (S.I. 2011/656) (W. 94) (“the principal Regulations”) and are made by the Welsh Ministers in exercise of their powers under section 15 of the Social Security Act 1990 (c. 27).
+Regulation 3 amends the definitions in the principal Regulations. It adds new definitions for “health eligibility criteria”, “households below average income report” and “lower income household”. It also amends the definition of “means-tested benefits” to include “income-based jobseeker’s allowance”.
+Regulation 5 amends the eligibility criteria for works applications under the principal Regulations. It extends eligibility to applicants from a lower income household and, where the applicant receives means-tested benefits or is from a lower income household, to dwellings with an asset rating of 68 or less (an energy performance certificate rating of D or less) where the applicant or an occupant of the dwelling satisfies the health eligibility criteria. It also amends the principal Regulations to enable more than one successful works application to be made in relation to a dwelling.
+Regulation 6 corrects a drafting error in the principal Regulations.
+Regulation 7 makes transitional provision in respect of works applications made but not yet determined or made and approved prior to the coming into force of these Regulations.
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. A regulatory impact assessment has been prepared on the likely costs and benefits of complying with these Regulations. A copy can be obtained from Welsh Government, Cathays Park, Cardiff, CF10 3NQ and is published on www.gov.wales.

@@ -1,0 +1,174 @@
+STATUTORY INSTRUMENTS
+2021 No. 924
+EXITING THE EUROPEAN UNION, NORTHERN IRELAND
+ENERGY CONSERVATION, NORTHERN IRELAND
+The Ecodesign for Energy-Related Products and Energy Information (Amendment) (Northern Ireland) (EU Exit) Regulations 2021
+Made
+5th August 2021
+Laid before Parliament
+9th August 2021
+Coming into force in accordance with regulation 1(2) and (3)
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 8C of the European Union (Withdrawal) Act 2018(1).
+(1)
+2018 c. 16. Section 8C was inserted by the European Union (Withdrawal Agreement) Act 2020 (c. 1), section 21. Amendments have been made to section 8C, but none are relevant.Citation, commencement and extent
+1.—(1) These Regulations may be cited as the Ecodesign for Energy-Related Products and Energy Information (Amendment) (Northern Ireland) (EU Exit) Regulations 2021.
+(2) Subject to paragraph (3), these Regulations come into force on 1st September 2021.
+(3) Regulation 2(2) comes into force on 1st January 2022 in so far as it substitutes the entry relating to a solid fuel local space heater in the table in paragraph 4 of Schedule 1 to the Ecodesign for Energy-Related Products Regulations 2010(1).
+(4) These Regulations extend to Northern Ireland only.
+(1)
+S.I. 2010/2617. Schedule 1 has been amended by S.I. 2011/2677, 2012/3005, 2013/1232, 2014/1290, 2015/469, 2016/838, 2017/1143, 2019/539, 2019/1253, 2020/485 and 2021/745. The amendments made by S.I. 2019/539 and 2021/745 extend to England and Wales and Scotland only. The insertion of the entry relating to a solid fuel local space heater by S.I. 2017/1143 comes into force on 1st January 2022.Amendment to the Ecodesign for Energy-Related Products Regulations 2010 (Northern Ireland)
+2.—(1) Schedule 1 to the Ecodesign for Energy-Related Products Regulations 2010 (declaration of conformity) is amended as follows.
+(2) For the table at paragraph 4 substitute—
+“Energy-related product Implementing measure and title
+1 An external power supply Commission Regulation (EU) 2019/1782 of 1 October 2019 laying down ecodesign requirements for external power supplies pursuant to Directive 2009/125/EC of the European Parliament and of the Council and repealing Commission Regulation (EC) No 278/2009(1), as amended from time to time
+2 Electrical and electronic household and office equipment Commission Regulation (EC) No 1275/2008 of 17 December 2008 implementing Directive 2005/32/EC of the European Parliament and of the Council with regard to ecodesign requirements for standby and off mode, and networked standby, electric power consumption of electrical and electronic household and office equipment(2), as amended from time to time
+3 A simple set-top box Commission Regulation (EC) No 107/2009 of 4 February 2009 implementing Directive 2005/32/EC of the European Parliament and of the Council with regard to ecodesign requirements for simple set-top boxes(3), as amended from time to time
+4 A light source or separate control gear Commission Regulation (EU) 2019/2020 of 1 October 2019 laying down ecodesign requirements for light sources and separate control gears pursuant to Directive 2009/125/EC of the European Parliament and of the Council and repealing Commission Regulations (EC) No 244/2009, (EC) No 245/2009 and (EU) No 1194/2012(4), as amended from time to time
+5 An electronic display Commission Regulation (EU) 2019/2021 of 1 October 2019 laying down ecodesign requirements for electronic displays pursuant to Directive 2009/125/EC of the European Parliament and of the Council, amending Commission Regulation (EC) No 1275/2008 and repealing Commission Regulation (EC) No 642/2009(5), as amended from time to time
+6 A glandless standalone circulator or glandless circulator integrated in a product Commission Regulation (EC) No 641/2009 of 22 July 2009 implementing Directive 2005/32/EC of the European Parliament and of the Council with regard to ecodesign requirements for glandless standalone circulators and glandless circulators integrated in products(6), as amended from time to time
+7 An electric motor or variable speed drive Commission Regulation (EU) 2019/1781 of 1 October 2019 laying down ecodesign requirements for electric motors and variable speed drives pursuant to Directive 2009/125/EC of the European Parliament and of the Council, amending Regulation (EC) No 641/2009 with regard to ecodesign requirements for glandless standalone circulators and glandless circulators integrated in products and repealing Commission Regulation (EC) No 640/2009(7), as amended from time to time
+8 A refrigerating appliance without a direct sales function or a chest freezer Commission Regulation (EU) 2019/2019 of 1 October 2019 laying down ecodesign requirements for refrigerating appliances pursuant to Directive 2009/125/EC of the European Parliament and of the Council and repealing Commission Regulation (EC) No 643/2009(8), as amended from time to time
+9 A refrigerating appliance Commission Regulation (EU) 2019/2024 of 1 October 2019 laying down ecodesign requirements for refrigerating appliances with a direct sales function pursuant to Directive 2009/125/EC of the European Parliament and of the Council(9), as amended from time to time
+10 A household dishwasher Commission Regulation (EU) 2019/2022 of 1 October 2019 laying down ecodesign requirements for household dishwashers pursuant to Directive 2009/125/EC of the European Parliament and of the Council amending Commission Regulation (EC) No 1275/2008 and repealing Commission Regulation (EU) No 1016/2010(10), as amended from time to time
+11 A household washing machine and combined household washer-dryer Commission Regulation (EU) 2019/2023 of 1 October 2019 laying down ecodesign requirements for household washing machines and household washer-dryers pursuant to Directive 2009/125/EC of the European Parliament and of the Council, amending Commission Regulation (EC) No 1275/2008 and repealing Commission Regulation (EU) No 1015/2010(11), as amended from time to time
+12 A water pump Commission Regulation (EU) No 547/2012 of 25 June 2012 implementing Directive 2009/125/EC of the European Parliament and of the Council with regard to ecodesign requirements for water pumps(12), as amended from time to time
+13 An air conditioner or a comfort fan Commission Regulation (EU) No 206/2012 of 6 March 2012 implementing Directive 2009/125/EC of the European Parliament and of the Council with regard to ecodesign requirements for air conditioners and comfort fans(13), as amended from time to time
+14 A fan driven by a motor with an electric input power between 125W and 500 kW Commission Regulation (EU) No 327/2011 of 30 March 2011 implementing Directive 2009/125/EC of the European Parliament and of the Council with regard to ecodesign requirements for fans driven by motors with an electric input power between 125W and 500kW(14), as amended from time to time
+15 A household tumble drier Commission Regulation (EU) No 932/2012 of 3 October 2012 implementing Directive 2009/125/EC of the European Parliament and of the Council with regard to ecodesign requirements for household tumble driers(15), as amended from time to time
+16 A computer Commission Regulation (EU) No 617/2013 of 26 June 2013 implementing Directive 2009/125/EC of the European Parliament and of the Council with regard to ecodesign requirements for computers and computer servers(16), as amended from time to time
+17 A vacuum cleaner Commission Regulation (EU) No 666/2013 of 8 July 2013 implementing Directive 2009/125/EC of the European Parliament and of the Council with regard to ecodesign requirements for vacuum cleaners(17), as amended from time to time
+18 A water heater or a hot water storage tank Commission Regulation (EU) No 814/2013 of 2 August 2013 implementing Directive 2009/125/EC of the European Parliament and of the Council with regard to ecodesign requirements for water heaters and hot water storage tanks(18), as amended from time to time
+19 A space heater or a combination heater Commission Regulation (EU) No 813/2013 of 2 August 2013 implementing Directive 2009/125/EC of the European Parliament and of the Council with regard to ecodesign requirements for space heaters and combination heaters(19), as amended from time to time
+20 A domestic oven, a hob or a range hood Commission Regulation (EU) No 66/2014 of 14 January 2014 implementing Directive 2009/125/EC of the European Parliament and of the Council with regard to ecodesign requirements for domestic ovens, hobs and range hoods(20), as amended from time to time
+21 A small, medium or large power transformer Commission Regulation (EU) No 548/2014 of 21 May 2014 on implementing Directive 2009/125/EC of the European Parliament and of the Council with regard to small, medium and large power transformers(21), as amended from time to time
+22 A ventilation unit Commission Regulation (EU) No 1253/2014 of 7 July 2014 implementing Directive 2009/125/EC of the European Parliament and of the Council with regard to ecodesign requirements for ventilation units(22), as amended from time to time
+23 A professional refrigerated storage cabinet, blast cabinet, condensing unit or process chiller Commission Regulation (EU) 2015/1095 of 5 May 2015 implementing Directive 2009/125/EC of the European Parliament and of the Council with regard to ecodesign requirements for professional refrigerated storage cabinets, blast cabinets, condensing units and process chillers(23), as amended from time to time
+24 A local space heater Commission Regulation (EU) 2015/1188 of 28 April 2015 implementing Directive 2009/125/EC of the European Parliament and of the Council with regard to ecodesign requirements for local space heaters(24), as amended from time to time
+25 An air heating product, a cooling product, a high temperature process chiller or a fan coil unit Commission Regulation (EU) 2016/2281 of 30 November 2016 implementing Directive 2009/125/EC of the European Parliament and of the Council establishing a framework for the setting of ecodesign requirements for energy-related products, with regard to ecodesign requirements for air heating products, cooling products, high temperature process chillers and fan coil units(25), as amended from time to time
+26 A solid fuel boiler Commission Regulation (EU) 2015/1189 of 28 April 2015 implementing Directive 2009/125/EC of the European Parliament and of the Council with regard to ecodesign requirements for solid fuel boilers(26), as amended from time to time
+27 A solid fuel local space heater Commission Regulation (EU) 2015/1185 of 24 April 2015 implementing Directive 2009/125/EC of the European Parliament and of the Council with regard to ecodesign requirements for solid fuel local space heaters(27), as amended from time to time
+28 A server or an online data storage product Commission Regulation (EU) 2019/424 of 15 March 2019 laying down ecodesign requirements for servers and data storage products pursuant to Directive 2009/125/EC of the European Parliament and of the Council and amending Commission Regulation (EU) No 617/2013(28), as amended from time to time
+29 Welding equipment Commission Regulation (EU) 2019/1784 of 1 October 2019 laying down ecodesign requirements for welding equipment pursuant to Directive 2009/125/EC of the European Parliament and of the Council(29), as amended from time to time”.
+(1)
+OJ L 272, 25.10.2019, p. 95-106.
+(2)
+OJ L 339, 18.12.2008, p. 45-52, as last amended by Commission Regulation (EU) 2019/2023 of 1 October 2019 laying down ecodesign requirements for household washing machines and household washer-dryers pursuant to Directive 2009/125/EC of the European Parliament and of the Council, amending Commission Regulation (EC) No 1275/2008 and repealing Commission Regulation (EU) No 1015/2010.
+(3)
+OJ L 36, 5.2.2009, p. 8-14, as last amended by Commission Regulation (EU) 2016/2282 of 30 November 2016 amending Regulations (EC) No 1275/2008, (EC) No 107/2009, (EC) No 278/2009, (EC) No 640/2009, (EC) No 641/2009, (EC) No 642/2009, (EC) No 643/2009, (EC) No 1015/2010, (EC) No 1016/2010, (EU) No 327/2011, (EU) No 206/2012, (EU) No 547/2012, (EU) No 932/2012, (EU) No 617/2013, (EU) No 666/2013, (EU) No 813/2013, (EU) No 814/2013, (EU) No 66/2014, (EU) No 548/2014, (EU) No 1253/2014, (EU) 2015/1095, (EU) 2015/1185, (EU) 2015/1188, (EU) 2015/1189 and (EU) 2016/2281 with regard to the use of tolerances in verification procedures (“Commission Regulation (EU) 2016/2282”).
+(4)
+OJ L 315, 5.12.2019, p. 209-240, as corrected by Corrigendum, OJ L 50, 24.2.2020, p. 22 (2019/2020).
+(5)
+OJ L 315, 5.12.2019, p. 241-266, as last amended by Commission Regulation (EU) 2021/341 of 23 February 2021 amending Regulations (EU) 2019/424, (EU) 2019/1781, (EU) 2019/2019, (EU) 2019/2020, (EU) 2019/2021, (EU) 2019/2022, (EU) 2019/2023 and (EU) 2019/2024 with regard to ecodesign requirements for servers and data storage products, electric motors and variable speed drives, refrigerating appliances, light sources and separate control gears, electronic displays, household dishwashers, household washing machines and household washer-dryers and refrigerating appliances with a direct sales function (“Commission Regulation (EU) 2021/341”).
+(6)
+OJ L 191, 23.7.2009, p. 35-41, as last amended by Commission Regulation (EU) 2019/1781 of 1 October 2019 laying down ecodesign requirements for electric motors and variable speed drives pursuant to Directive 2009/125/EC of the European Parliament and of the Council, amending Regulation (EC) No 641/2009 with regard to ecodesign requirements for glandless standalone circulators and glandless circulators integrated in products and repealing Commission Regulation (EC) No 640/2009.
+(7)
+OJ L 272, 25.10.2019, p. 74-94.
+(8)
+OJ L 315, 5.12.2019, p. 187-208, as amended by Commission Regulation (EU) 2021/341.
+(9)
+OJ L 315, 5.12.2019, p. 313-334.
+(10)
+OJ L 315, 5.12.2019, p. 267-284, as amended by Commission Regulation (EU) 2021/341.
+(11)
+OJ L 315, 5.12.2019, p. 285-312, as amended by Commission Regulation (EU) 2021/341.
+(12)
+OJ L 165, 26.6.2012, p. 28-36, as last amended by Commission Regulation (EU) 2016/2282.
+(13)
+OJ L 72, 10.3.2012, p. 7-27, as last amended by Commission Regulation (EU) 2016/2282.
+(14)
+OJ L 90, 6.4.2011, p. 8-21, as last amended by Commission Regulation (EU) 2016/2282.
+(15)
+OJ L 278, 12.10.2012, p. 1-10, as last amended by Commission Regulation (EU) 2016/2282.
+(16)
+OJ L 175, 27.6.2013, p. 13-33, as last amended by Commission Regulation (EU) 2019/424 of 15 March 2019 laying down ecodesign requirements for servers and data storage products pursuant to Directive 2009/125/EC of the European Parliament and of the Council and amending Commission Regulation (EU) No 617/2013.
+(17)
+OJ L 192, 13.7.2013, p. 24-34, as last amended by Commission Regulation (EU) 2016/2282.
+(18)
+OJ L 239, 6.9.2013, p. 162-183, as last amended by Commission Regulation (EU) 2016/2282.
+(19)
+OJ L 239, 6.9.2013, p. 136-161, as last amended by Commission Regulation (EU) 2016/2282.
+(20)
+OJ L 29, 31.1.2014, p. 33-47, as last amended by Commission Regulation (EU) 2016/2282.
+(21)
+OJ L 152, 22.5.2014, p. 1-15, as last amended by Commission Regulation (EU) 2019/1783 of 1 October 2019 amending Regulation (EU) No 548/2014 on implementing Directive 2009/125/EC of the European Parliament and of the Council with regard to small, medium and large power transformers.
+(22)
+OJ L 337, 25.11.2014, p. 8-26, as last amended by Commission Regulation (EU) 2016/2282.
+(23)
+OJ L 177, 8.7.2015, p. 19-51, as last amended by Commission Regulation (EU) 2016/2282.
+(24)
+OJ L 193, 21.7.2015, p. 76-99, as last amended by Commission Regulation (EU) 2016/2282.
+(25)
+OJ L 346, 20.12.2016, p. 1-50, as last amended by Commission Regulation (EU) 2016/2282.
+(26)
+OJ L 193, 21.7.2015, p. 100-114, as last amended by Commission Regulation (EU) 2016/2282.
+(27)
+OJ L 193, 21.7.2015, p. 1-19, as last amended by Commission Regulation (EU) 2016/2282.
+(28)
+OJ L 74, 18.3.2019, p. 46-66, as last amended by Commission Regulation (EU) 2021/341.
+(29)
+OJ L 272, 25.10.2019, p. 121-135.Amendments to the Energy Information Regulations 2011 (Northern Ireland)
+3.—(1) Schedule 1 to the Energy Information Regulations 2011(1) (EU measures) is amended as follows.
+(2) In paragraph 1—
+(a)
+in the opening words, omit “from the date in column 3”;
+(b)
+for the table in paragraph 1 substitute—
+“Column 1 Column 2
+Product EU measure
+Household tumble driers Commission Delegated Regulation (EU) No 392/2012 of 1 March 2012 supplementing Directive 2010/30/EU of the European Parliament and of the Council with regard to energy labelling of household tumble driers(2), as amended from time to time
+Household combined washer-driers Commission Delegated Regulation (EU) 2019/2014 of 11 March 2019 supplementing Regulation (EU) 2017/1369 of the European Parliament and of the Council with regard to energy labelling of household washing machines and household washer-dryers and repealing Commission Delegated Regulation (EU) No 1061/2010 and Commission Directive 96/60/EC(3), as amended from time to time
+Light sources Commission Delegated Regulation (EU) 2019/2015 of 11 March 2019 supplementing Regulation (EU) 2017/1369 of the European Parliament and of the Council with regard to energy labelling of light sources and repealing Commission Delegated Regulation (EU) No 874/2012(4), as amended from time to time
+Air-conditioners Commission Delegated Regulation (EU) No 626/2011 of 4 May 2011 supplementing Directive 2010/30/EU of the European Parliament and of the Council with regard to energy labelling of air conditioners(5), as amended from time to time
+Household washing machines Commission Delegated Regulation (EU) 2019/2014 of 11 March 2019 supplementing Regulation (EU) 2017/1369 of the European Parliament and of the Council with regard to energy labelling of household washing machines and household washer-dryers and repealing Commission Delegated Regulation (EU) No 1061/2010 and Commission Directive 96/60/EC, as amended from time to time
+Household dishwashers Commission Delegated Regulation (EU) 2019/2017 of 11 March 2019 supplementing Regulation (EU) 2017/1369 of the European Parliament and of the Council with regard to energy labelling of household dishwashers and repealing Commission Delegated Regulation (EU) No 1059/2010(6), as amended from time to time
+Refrigerating appliances Commission Delegated Regulation (EU) 2019/2016 of 11 March 2019 supplementing Regulation (EU) 2017/1369 of the European Parliament and of the Council with regard to energy labelling of refrigerating appliances and repealing Commission Delegated Regulation (EU) No 1060/2010(7), as amended from time to time
+Electronic displays Commission Delegated Regulation (EU) 2019/2013 of 11 March 2019 supplementing Regulation (EU) 2017/1369 of the European Parliament and of the Council with regard to energy labelling of electronic displays and repealing Commission Delegated Regulation (EU) No 1062/2010(8), as amended from time to time
+Water heaters, hot water storage tanks and packages of water heater and solar device Commission Delegated Regulation (EU) No 812/2013 of 18 February 2013 supplementing Directive 2010/30/EU of the European Parliament and of the Council with regard to the energy labelling of water heaters, hot water storage tanks and packages of water heater and solar device(9), as amended from time to time
+Space heaters, combination heaters, packages of space heater, temperature control and solar device and packages of combination heater, temperature control and solar device Commission Delegated Regulation (EU) No 811/2013 of 18 February 2013 supplementing Directive 2010/30/EU of the European Parliament and of the Council with regard to the energy labelling of space heaters, combination heaters, packages of space heater, temperature control and solar device and packages of combination heater, temperature control and solar device(10), as amended from time to time
+Domestic ovens and range hoods Commission Delegated Regulation (EU) No 65/2014 of 1 October 2013 supplementing Directive 2010/30/EU of the European Parliament and of the Council with regard to the energy labelling of domestic ovens and range hoods(11), as amended from time to time
+Residential ventilation units Commission Delegated Regulation (EU) No 1254/2014 of 11 July 2014 supplementing Directive 2010/30/EU of the European Parliament and of the Council with regard to the energy labelling of residential ventilation units(12), as amended from time to time
+Professional refrigerated storage cabinets Commission Delegated Regulation (EU) 2015/1094 of 5 May 2015 supplementing Directive 2010/30/EU of the European Parliament and of the Council with regard to the energy labelling of professional refrigerated storage cabinets(13), as amended from time to time
+Solid fuel boilers and packages of a solid fuel boiler, supplementary heaters, temperature controls and solar devices Commission Delegated Regulation (EU) 2015/1187 of 27 April 2015 supplementing Directive 2010/30/EU of the European Parliament and of the Council with regard to the energy labelling of solid fuel boilers and packages of a solid fuel boiler, supplementary heaters, temperature controls and solar devices(14), as amended from time to time
+Local space heaters Commission Delegated Regulation (EU) 2015/1186 of 24 April 2015 supplementing Directive 2010/30/EU of the European Parliament and of the Council with regard to the energy labelling of local space heaters(15), as amended from time to time
+Refrigerating appliances with a direct sales function Commission Delegated Regulation (EU) 2019/2018 of 11 March 2019 supplementing Regulation (EU) 2017/1369 of the European Parliament and of the Council with regard to energy labelling of refrigerating appliances with a direct sales function(16), as amended from time to time”.
+(1)
+S.I. 2011/1524. Schedule 1 has been amended by S.I. 2012/3005, S.I. 2013/1232, S.I. 2014/1290, S.I. 2015/469, S.I. 2016/838, S.I. 2019/539, S.I. 2019/1253, S.I. 2020/1195 and S.I. 2021/745. The amendments made by Schedule 3 to S.I. 2019/539 and S.I. 2021/745 extend to England and Wales and Scotland only.
+(2)
+OJ L 123, 9.5.2012, p. 1-26, as last amended by Commission Delegated Regulation (EU) 2020/1059 of 27 April 2020 correcting certain language versions of Delegated Regulations (EU) No 1059/2010, (EU) No 1060/2010, (EU) No 1061/2010, (EU) No 626/2011, (EU) No 392/2012 and (EU) No 874/2012 with regard to the labelling of certain energy-related products (“Commission Delegated Regulation (EU) 2020/1059”).
+(3)
+OJ L 315, 5.12.2019, p. 29-67, as last amended by Commission Delegated Regulation (EU) 2021/340 of 17 December 2020 amending Delegated Regulations (EU) 2019/2013, (EU) 2019/2014, (EU) 2019/2015, (EU) 2019/2016, (EU) 2019/2017 and (EU) 2019/2018 with regard to energy labelling requirements for electronic displays, household washing machines and household washer-dryers, light sources, refrigerating appliances, household dishwashers, and refrigerating appliances with a direct sales function (“Commission Delegated Regulation (EU) 2021/340”).
+(4)
+OJ L 315, 5.12.2019, p. 68-101, as last amended by Commission Delegated Regulation (EU) 2021/340.
+(5)
+OJ L 178, 6.7.2011, p.1-72, as last amended by Commission Delegated Regulation (EU) 2020/1059.
+(6)
+OJ L 315, 5.12.2019, p. 134-154, as last amended by Commission Delegated Regulation (EU) 2021/340.
+(7)
+OJ L 315, 5.12.2019, p. 102–133, as last amended by Commission Delegated Regulation (EU) 2021/340.
+(8)
+OJ L 315, 5.12.2019, p. 1-28, as last amended by Commission Delegated Regulation (EU) 2021/340.
+(9)
+OJ L 239, 6.9.2013, p. 83-135, as last amended by Commission Delegated Regulation (EU) 2017/254 of 30 November 2016 amending Delegated Regulations (EU) No 1059/2010, (EU) No 1060/2010, (EU) No 1061/2010, (EU) No 1062/2010, (EU) No 626/2011, (EU) No 392/2012, (EU) No 874/2012, (EU) No 665/2013, (EU) No 811/2013, (EU) No 812/2013, (EU) No 65/2014, (EU) No 1254/2014, (EU) 2015/1094, (EU) 2015/1186 and (EU) 2015/1187 with regard to the use of tolerances in verification procedures (“Commission Delegated Regulation (EU) 2017/254”).
+(10)
+OJ L 239, 6.9.2013, p. 1-82, as last amended by Commission Delegated Regulation (EU) 2017/254.
+(11)
+OJ L 29, 31.1.2014, p. 1-32, as last amended by Commission Delegated Regulation (EU) 2017/254.
+(12)
+OJ L 337, 25.11.2014, p. 27-45, as last amended by Commission Regulation (EU) 2020/987 of 20 January 2020 correcting certain language versions of Delegated Regulation (EU) No 1254/2014 supplementing Directive 2010/30/EU of the European Parliament and of the Council with regard to energy labelling of residential ventilation units.
+(13)
+OJ L 177, 8.7.2015, p. 2-18, as last amended by Commission Delegated Regulation (EU) 2017/254.
+(14)
+OJ L 193, 21.7.2015, p. 43-75, as last amended by Commission Delegated Regulation (EU) 2017/254.
+(15)
+OJ L 193, 21.7.2015, p. 20-42, as last amended by Commission Delegated Regulation (EU) 2017/254.
+(16)
+OJ L 315, 5.12.2019, p. 155-186, as amended by Commission Delegated Regulation (EU) 2021/340.Callanan
+Parliamentary Under Secretary of State
+Department for Business, Energy and Industrial Strategy
+5th August 2021EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations make amendments in the fields of ecodesign and energy labelling in order to implement the Northern Ireland/Ireland Protocol to the Withdrawal Agreement (“the Protocol”).
+The Protocol provides that the provisions of EU law listed in Annex 2 to the Protocol shall apply to Northern Ireland. This is given effect by section 7A of the European Union (Withdrawal) Act 2018 (c. 16). Annex 2 to the Protocol includes Directive 2009/125/EC of the European Parliament and of the Council of 21 October 2009 establishing a framework for the setting of ecodesign requirements for energy-related products and Regulation (EU) 2017/1369 of the European Parliament and of the Council of 4 July 2017 setting a framework for energy labelling and repealing Directive 2010/30/EU.
+The Ecodesign for Energy-Related Products Regulations 2010 (S.I. 2010/2617) (“the 2010 Regulations”) and the Energy Information Regulations 2011 (S.I. 2011/1524) (“the 2011 Regulations”) provide for the domestic implementation of those instruments.
+These Regulations amend the tables in Schedule 1 to the 2010 Regulations and Schedule 1 to the 2011 Regulations to ensure that the market surveillance authorities in Northern Ireland can enforce the relevant EU measures for energy-related products. The references to EU measures inserted by these Regulations are ambulatory, with the result that they will keep pace with any subsequent amendments to those measures made by the EU.
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.

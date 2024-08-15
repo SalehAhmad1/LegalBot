@@ -1,0 +1,51 @@
+STATUTORY INSTRUMENTS
+2021 No. 197
+EMPLOYMENT
+The Restriction of Public Sector Exit Payments (Revocation) Regulations 2021
+Made
+at 12.55 p.m. on 25th February 2021
+Laid before Parliament
+at 4.30 p.m. on 25th February 2021
+Coming into force
+19th March 2021
+The Treasury make the following Regulations in exercise of the powers conferred by sections 159(1), (2)(b) and 161(2)(e) of the Small Business, Enterprise and Employment Act 2015(1)
+(1)
+2015 c.26. Sections 153A, 153B and 153C were inserted by section 41(1) of the Enterprise Act 2016 (c.12).Citation and commencement
+1.  These Regulations may be cited as the Restriction of Public Sector Exit Payments (Revocation) Regulations 2021 and shall come into force on 19th March 2021.Interpretation
+2.  In these Regulations–
+“2020 Regulations” means the Restriction of Public Sector Exit Payments Regulations 2020(1);
+“exit payment” has the same meaning as in the 2020 Regulations;
+“relevant authority” has the same meaning as in the 2020 Regulations;
+“relevant period” means the period starting on the day the 2020 Regulations came into force and ending on the day that these Regulations come into force;
+“relevant public sector exit” has the same meaning as in the 2020 Regulations.
+(1)
+S.I. 2020/1122.Revocation
+3.  The 2020 Regulations are revoked save as is necessary for the operation of these Regulations.Additional payments by a relevant authority in consequence of these Regulations
+4.—(1) In this regulation a reference to an exit payment made to a person (“P”) includes a reference to an exit payment made in respect of P either to another person (“AP”) or to a relevant public sector scheme.
+(2) Paragraph (3) applies if—
+(a)
+during the relevant period a relevant authority—
+(i)
+made an exit payment to P in respect of a relevant public sector exit; or
+(ii)
+made two or more such payments to P within any period of 28 consecutive days; and
+(b)
+at the time of the payment (or the last payment if there was more than one), P would have been entitled to an exit payment (or a sum of exit payments) of a greater amount had regulation 3 of the 2020 Regulations not been in force.
+(3) Where this paragraph applies, the relevant authority must pay the amount of the difference between the amount paid during the relevant period and the greater amount referred to in paragraph (2)(b), plus interest calculated in accordance with the Judgment Debts (Rate of Interest) Order 1993(1) as if the payment were made pursuant to a judgment to which that Order applied, to (as applicable)—
+(a)
+P; or
+(b)
+AP, in respect of P; or
+(c)
+a relevant public sector scheme, in respect of P; or
+(d)
+more than one of the above.
+(1)
+S.I. 1993/564.Rebecca Harris
+James Morris
+Two of the Lords Commissioners of Her Majesty’s Treasury
+At 12.55 p.m. on 25th February 2021EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations revoke the Restriction of Public Sector Exit Payments Regulations 2020 (“the 2020 Regulations”), which came into force on 4 November 2020 and imposed a cap of £95,000.00 (“the cap”) on relevant exit payments.
+Regulation 4 applies to a relevant authority which, as a result of the operation of the cap had reduced the amount of an exit payment (“capped payment”) paid to a person (“P”), or on behalf of P, to another person (“AP”) or a relevant public sector scheme (as defined in section 151A(11) of the Small Business, Enterprise and Employment Act 2015 (c.26)). As a result of the revocation of the 2020 Regulations, the relevant authority must pay an amount (including interest) such that the recipient of the capped payment is treated as if the cap had never applied. In some cases, it may be necessary to pay that amount in part to P or AP and in part to the relevant public sector scheme.
+A full impact assessment has not been provided for these Regulations as no, or no significant impact on the private, voluntary or public sectors is foreseen.

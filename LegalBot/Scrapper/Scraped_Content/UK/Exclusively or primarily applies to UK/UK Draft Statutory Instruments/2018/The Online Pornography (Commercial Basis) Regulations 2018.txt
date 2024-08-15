@@ -1,0 +1,27 @@
+Draft Regulations laid before Parliament under section 14(11) of the Digital Economy Act 2017, for approval by resolution of each House of Parliament.
+DRAFT STATUTORY INSTRUMENTS
+2018 No. 0000
+ELECTRONIC COMMUNICATIONS
+The Online Pornography (Commercial Basis) Regulations 2018
+Made
+Coming into force in accordance with regulation 1
+The Secretary of State, in exercise of the powers conferred by section 14(2), (3) and (4) of the Digital Economy Act 2017(1), makes the following Regulations.
+A draft of these Regulations was laid before Parliament in accordance with section 14(11) of the Digital Economy Act 2017 and approved by a resolution of each House of Parliament.
+(1)
+2017 c. 30.Citation and commencement
+1.  These Regulations may be cited as the Online Pornography (Commercial Basis) Regulations 2018 and come into force on the day that subsection (1) of section 14 of the Digital Economy Act 2017 comes fully into force.Circumstances in which pornographic material is to be regarded as made available on a commercial basis
+2.—(1) Pornographic material(1) is to be regarded as made available on the internet to persons in the United Kingdom on a commercial basis for the purposes of Part 3 of the Digital Economy Act 2017 if either paragraph (2) or (3) are met.
+(2) This paragraph applies if access to that pornographic material is available only upon payment.
+(3) This paragraph applies (subject to paragraph (4)) if the pornographic material is made available free of charge and the person who makes it available receives (or reasonably expects to receive) a payment, reward or other benefit in connection with making it available on the internet.
+(4) Subject to paragraph (5), paragraph (3) does not apply in a case where it is reasonable for the age-verification regulator to assume that pornographic material makes up less than one-third of the content of the material made available on or via the internet site or other means (such as an application program) of accessing the internet by means of which the pornographic material is made available.
+(5) Paragraph (4) does not apply if the internet site or other means (such as an application program) of accessing the internet (by means of which the pornographic material is made available) is marketed as an internet site or other means of accessing the internet by means of which pornographic material is made available to persons in the United Kingdom.
+(1)
+“Pornographic material” is defined in section 15(1) of the Digital Economy Act 2017. “Material” is defined in section 15(2) of that Act.Name
+Department for Digital, Culture, Media and Sport
+DateEXPLANATORY NOTE
+(This note is not part of the Regulations)
+A person contravenes section 14(1) of the Digital Economy Act 2017 (“the 2017 Act”) if the person makes pornographic material available on the internet to persons in the United Kingdom on a commercial basis other than in a way that secures that, at any given time, the material is not normally accessible by persons under the age of 18.
+These Regulations set out, for the purposes of Part 3 of the 2017 Act, the circumstances in which pornographic material is to be regarded as made available on a commercial basis.
+Pornographic material is to be regarded as made available on a commercial basis if access to that material is available only upon payment (regulation 2(2)).
+Pornographic material that is made available free of charge is to be regarded as made available on a commercial basis if the person making it available receives a payment, reward or other benefit in connection with making it available on the internet (regulation 2(3)). However, the material will not be considered to be made available on a commercial basis if it is reasonable for the age-verification regulator to assume that pornographic material makes up less than one-third of the content of the internet site or other means of accessing the internet (such as an application program) on or via which the material is made available (regulation 2(4)). There is an exception to this in regulation 2(5), which provides that regulation 2(4) does not apply if the internet site or other means of accessing the internet is marketed as making available pornographic material to persons in the United Kingdom.
+A full impact assessment of the effect that this instrument will have on the costs of business, the voluntary sector and the public sector is available from the Department for Digital, Culture, Media and Sport at 100 Parliament Street, London SW1A 2BQ and is published with the Explanatory Memorandum alongside the instrument on www.legislation.gov.uk.

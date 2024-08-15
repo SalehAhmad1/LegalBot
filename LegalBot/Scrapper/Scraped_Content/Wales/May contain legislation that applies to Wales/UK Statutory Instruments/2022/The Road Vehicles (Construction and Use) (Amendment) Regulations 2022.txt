@@ -1,0 +1,118 @@
+STATUTORY INSTRUMENTS
+2022 No. 59
+ROAD TRAFFIC
+The Road Vehicles (Construction and Use) (Amendment) Regulations 2022
+Made
+21st January 2022
+Laid before Parliament
+24th January 2022
+Coming into force
+14th February 2022
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 41(1), (2)(a) and (5) of the Road Traffic Act 1988 (the “1988 Act”)(1).
+Representative organisations have been consulted in accordance with section 195(2) of the 1988 Act.
+(1)
+1988 c. 52; section 41 was amended by the Scotland Act 2016 (c. 11), Part 4, section 43, the Road Traffic Act 2006 (c. 49), sections 18(1) and 56, and the Road Traffic Act 1991 (c. 40), Schedule 4, paragraph 50 and Schedule 8.Citation, commencement and extent
+1.—(1) These Regulations may be cited as the Road Vehicles (Construction and Use) (Amendment) Regulations 2022.
+(2) These Regulations come into force on 14th February 2022.
+(3) These Regulations extend to England and Wales and Scotland.Amendment of the Road Vehicles (Construction and Use) Regulations 1986
+2.  The Road Vehicles (Construction and Use) Regulations 1986(1) are amended as follows.
+(1)
+S.I. 1986/1078, relevant amending instruments: S.I. 1990/17, S.I. 1998/1188, S.I. 2003/182, S.I. 2017/881; there are other amending instruments but none is relevant.Amendment of the Road Vehicles (Construction and Use) Regulations 1986
+3.  In regulation 3 (interpretation), in paragraph (2), in the table—
+(a)
+after the definition of “The Type Approval (Great Britain) Regulations”, insert—
+“The Type Approval Masses and Dimensions Regulations Commission Regulation (EU) No 1230/2012 of 12 December 2012 implementing Regulation (EC) No 661/2009 of the European Parliament and of the Council with regard to type-approval requirements for masses and dimensions of motor vehicles and their trailers and amending Directive 2007/46/EC of the European Parliament and of the Council as amended by Commission Regulation (EU) 2019/1892 of 31 October 2019(1).
+The Type Approval Masses and Dimensions Regulations (Northern Ireland) Commission Regulation (EU) No 1230/2012 of 12 December 2012 implementing Regulation (EC) No 661/2009 of the European Parliament and of the Council with regard to type-approval requirements for masses and dimensions of motor vehicles and their trailers and amending Directive 2007/46/EC of the European Parliament and of the Council(2) as amended by Commission Regulation (EU) 2019/1892 of 31 October 2019(3), as it has effect in Northern Ireland by virtue of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement.
+The (European Union) Type Approval Masses and Dimensions Regulations Commission Regulation (EU) No 1230/2012 of 12 December 2012 implementing Regulation (EC) No 661/2009 of the European Parliament and of the Council with regard to type-approval requirements for masses and dimensions of motor vehicles and their trailers and amending Directive 2007/46/EC of the European Parliament and of the Council as amended by Commission Regulation (EU) 2019/1892 of 31 October 2019, as it has effect in EU law.”;
+(b)
+after the definition of “The Act of Accession”, insert—
+“aerodynamic devices and equipment
+devices or equipment that are designed to reduce the aerodynamic drag of road vehicles, with the exception of elongated cabs, type-approved in accordance with—
+(a) Article 4a of The Type Approval Masses and Dimensions Regulations;
+(b) Article 4a of The Type Approval Masses and Dimensions Regulations (Northern Ireland); or
+(c) Article 4a of The (European Union) Type Approval Masses and Dimensions Regulations.”;
+(c)
+after the definition of “ECE Regulation, followed by a number”, insert—
+“elongated cab
+the cab of a vehicle or a combination of vehicles that complies with—
+(a) Appendix 5 of Annex I of The Type Approval Masses and Dimensions Regulations;
+(b) Appendix 5 of Annex I of The Type Approval Masses and Dimensions Regulations (Northern Ireland); or
+(c) Appendix 5 of Annex I of The (European Union) Type Approval Masses and Dimensions Regulations.”;
+(d)
+in the definition of “overall length”, in paragraph (i)—
+(i)
+after sub-paragraph (n), omit “or”, and
+(ii)
+at the end of sub-paragraph (o) insert—
+“; or
+(p)
+any aerodynamic devices and equipment”; and
+(e)
+in the definition of “overall width”—
+(i)
+after sub-paragraph (m), omit “or”, and
+(ii)
+at the end of sub-paragraph (n) insert—
+“; or
+(o)
+any aerodynamic devices and equipment”.
+(1)
+EUR 2012/1230, as amended by S.I. 2020/1393.
+(2)
+OJ L 353, 21.12.2012, p. 31.
+(3)
+OJ L 291, 12.11.2019, p. 17.Amendment of the Road Vehicles (Construction and Use) Regulations 1986
+4.  In regulation 7 (length)—
+(a)
+in paragraph (3)—
+(i)
+after sub-paragraph (b), omit “or”, and
+(ii)
+at the end of sub-paragraph (c) insert—
+“, or
+(d)
+a vehicle combination which includes—
+(i)
+a motor vehicle of category N2, or
+(ii)
+a motor vehicle of category N3,
+with an elongated cab”;
+(b)
+after paragraph (3C), insert—
+“(3D) Item 4 of the Table does not apply to—
+(a)
+a motor vehicle of category N2, or
+(b)
+a motor vehicle of category N3,
+with an elongated cab type approved in accordance with point 1.4 of Part C of Annex I of The Type Approval Masses and Dimensions Regulations, point 1.4 of Part C of Annex I of The Type Approval Masses and Dimensions Regulations (Northern Ireland), or point 1.4 of Part C of Annex I of The (European Union) Type Approval Masses and Dimensions Regulations.”; and
+(c)
+after paragraph (9), insert—
+“(10) For the purposes of this regulation—
+(a)
+“a motor vehicle of category N2” means a vehicle of the type described in point (b)(ii) of Article 4(1) of Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles, amending Regulations (EC) No 715/2007 and (EC) No 595/2009 and repealing Directive 2007/46/EC(1),
+(b)
+“a motor vehicle of category N3” means a vehicle of the type described in point (b)(iii) of Article 4(1) of Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles, amending Regulations (EC) No 715/2007 and (EC) No 595/2009 and repealing Directive 2007/46/EC.”.
+(1)
+EUR 2018/858, as amended by EUR 2019/2144, S.I. 2020/818 and S.I. 2020/1393.Amendment of the Road Vehicles (Construction and Use) Regulations 1986
+5.  After regulation 96 (use of gas-fired appliances when a vehicle is in motion) insert —
+“DA—
+USE OF AERODYNAMIC DEVICES AND EQUIPMENT, AND ELONGATED CABS
+Use of aerodynamic devices and equipment
+96A.  — No person shall use, or cause or permit to be used, on any vehicle or vehicle combination on a road, any aerodynamic devices and equipment, unless—
+(a)
+they are used on the rear of the vehicle or vehicle combination, and
+(b)
+the vehicle or vehicle combination is of a class specified in items 1, 3, 3A, 3C, 4, 4A, 4B, or 8 of the Table in regulation 7.
+Use of elongated cabs
+96B.  — No person shall use, or cause or permit to be used, on a road any vehicle or vehicle combination with an elongated cab unless the vehicle or vehicle combination is of a class specified in items 1, 3A, 3B, 3C or 4 of the Table in regulation 7.”.Signed by authority of the Secretary of State for Transport
+Vere
+Parliamentary Under Secretary of State
+Department for Transport
+21st January 2022EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the Road Vehicles (Construction and Use) Regulations 1986 (S.I. 1986/1078, the “1986 Regulations”) by making provision to allow certain vehicles on the roads in Great Britain to utilise elongated cabs and rear aerodynamic devices and equipment (type approved in accordance with the relevant standard) which improve aerodynamic performance, CO2 emissions, fuel consumption and driver vision.
+Regulation 3 amends regulation 3 of the 1986 Regulations to define valid “aerodynamic devices and equipment” and “elongated cab” by reference to the standards given in underlying legislation. Additionally, valid aerodynamic devices and equipment are exempted from the calculation of “overall length”, and “overall width”.
+Regulation 4 amends regulation 7 of the 1986 Regulations to provide that valid elongated cabs utilised on particular classes of vehicle or vehicle combination are exempted from the length requirements contained in regulation 7 that would otherwise apply; the overall length of a vehicle or vehicle combination will still be constrained by the turning circle requirements contained elsewhere in the 1986 Regulations.
+Regulation 5 introduces a new regulation 96A and regulation 96B to the 1986 Regulations which prohibit the use on a road of aerodynamic devices and equipment or elongated cabs other than on the approved classes of vehicle or vehicle combination listed in the relevant item of the Table in regulation 7.
+Good practice guidance on the use of aerodynamic devices and equipment has been published on www.gov.uk.
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sectors is foreseen. A De Minimis Assessment has been prepared. An Explanatory Memorandum has been published alongside these Regulations at www.legislation.gov.uk.

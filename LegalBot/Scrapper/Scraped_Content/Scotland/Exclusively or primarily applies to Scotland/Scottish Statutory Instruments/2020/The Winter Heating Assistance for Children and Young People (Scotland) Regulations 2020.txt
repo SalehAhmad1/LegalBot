@@ -1,0 +1,291 @@
+SCOTTISH STATUTORY INSTRUMENTS
+2020 No. 352
+SOCIAL SECURITY
+The Winter Heating Assistance for Children and Young People (Scotland) Regulations 2020
+Made
+3rd November 2020
+Coming into force
+9th November 2020
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 30(2), 41(4)(a), 43(5) and 52 of the Social Security (Scotland) Act 2018 M1 and all other powers enabling them to do so.
+In accordance with section 96(2) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
+In accordance with section 97(2) of that Act, the Scottish Ministers have informed the Scottish Commission on Social Security of their proposals, notified the Scottish Parliament that they have done so and made their proposals publicly available by such means as they consider appropriate.
+The powers to make these Regulations are exercised together by virtue of section 33(2) of the Interpretation and Legislative Reform (Scotland) Act 2010 M2. These Regulations are subject to the affirmative procedure by virtue of section 33(3) of that Act.
+Marginal Citations
+M1
+2018 asp 9. Schedule 4 makes provision about the exercise of the power conferred by section 30(2).
+M2
+2010 asp 10.Citation and commencement
+1.  These Regulations may be cited as the Winter Heating Assistance for Children and Young People (Scotland) Regulations 2020 and they come into force on 9 November 2020.
+Commencement Information
+I1
+Reg. 1 in force at 9.11.2020, see reg. 1Interpretation
+2.  In these Regulations—
+[F1“the 2013 Regulations” means the Social Security (Personal Independence Payment) Regulations 2013,]
+[F1“the 2016 Regulations” means the Personal Independence Payment Regulations (Northern Ireland) 2016,]
+“the 2018 Act” means the Social Security (Scotland) Act 2018,
+[F2“the 2021 Regulations” means the Disability Assistance for Children and Young People (Scotland) Regulations 2021F3,]
+[F4“the 2022 Regulations” means the Disability Assistance for Working Age People (Scotland) Regulations 2022,
+“Adult Disability Payment” means disability assistance for adults given in accordance with the 2022 Regulations,]
+“backdated award” means an award of assistance for a day, or period that begins on a day, that falls before the day the decision to make an award is taken,
+“child” means a person who has not yet reached the age of 16 years,
+[F5“Child Disability Payment” means disability assistance for children and young people given in accordance with the 2021 Regulations,]
+“child winter heating assistance” means winter heating assistance to which a child or young person is entitled,
+“determination” means a determination of entitlement within the meaning of section 25 of the 2018 Act,
+“Disability Living Allowance” means a disability living allowance under section 71 of the Social Security Contributions and Benefits Act 1992 M1,
+[F1“first qualifying week” means the qualifying week in the same calendar year these Regulations came into force,]
+[F1“Personal Independence Payment” means personal independence payment under—
+(a)
+Part 4 of the Welfare Reform Act 2012, or
+(b)
+article 82 of the Welfare Reform (Northern Ireland) Order 2015,]
+“qualifying week” means the week running from the third Monday in September in any year, and
+“young person” means a person who is aged 16, 17 or 18.
+Textual Amendments
+F1
+Words in reg. 2 inserted (16.11.2021) by The Winter Heating Assistance for Children and Young People (Scotland) Amendment Regulations 2021 (S.S.I. 2021/415), regs. 1(1), 2(2)
+F2
+Words in reg. 2 inserted (26.7.2021) by The Disability Assistance for Children and Young People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2021 (S.S.I. 2021/73), regs. 1, 18(2)(a) (with reg. 19)
+F3
+S.S.I. 2021/174.
+F4
+Words in reg. 2 inserted (21.3.2022) by The Disability Assistance for Working Age People (Consequential and Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/31), regs. 1, 18(2) (with reg. 20)
+F5
+Words in reg. 2 inserted (26.7.2021) by The Disability Assistance for Children and Young People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2021 (S.S.I. 2021/73), regs. 1, 18(2)(b) (with reg. 19)
+Commencement Information
+I1
+Reg. 2 in force at 9.11.2020, see reg. 1
+Marginal Citations
+M1
+1992 c.4. Section 71 was amended by section 67(1) of the Welfare Reform and Pensions Act 1999 (c.30).Overview
+3.—(1) Regulation 4 provides for eligibility rules for determining entitlement to child winter heating assistance.
+(2) Regulations 5 to 9 make provision about matters of procedure for determining entitlement to child winter heating assistance.
+(3) Regulations 10 and 11 make provision about the child winter heating assistance that is to be given to individuals who are eligible for assistance.
+Commencement Information
+I1
+Reg. 3 in force at 9.11.2020, see reg. 1Eligibility rules for child winter heating assistance
+4.—(1) An individual is entitled to be paid child winter heating assistance in respect of a qualifying week if, in respect of any day within the qualifying week the individual is—
+(a)
+a child or young person,
+[F1(b)
+entitled to receive payment of—
+(i)
+the highest rate of the care component of—
+(aa)
+Disability Living Allowance, or
+(bb)
+Child Disability Payment, or
+[F2(ii)
+the enhanced rate of the daily living component of—
+(aa)
+Personal Independence Payment, or
+(bb)
+Adult Disability Payment, and]]
+(c)
+either—
+(i)
+resident in Scotland, or
+(ii)
+habitually resident in [F3Switzerland or] an EEA state listed in the schedule and has a genuine and sufficient link to Scotland.
+(2) For the purposes of the rule in [F4paragraph (1)(b)(i)(aa)], an individual is to be treated as being entitled to receive payment even if, throughout the qualifying week, [F5regulation 8 (Hospitalisation of persons aged 18 or over), or] regulation 9 (persons in care homes) of the Social Security (Disability Living Allowance) Regulations 1991 M1 applies to the individual.
+[F6(3) For the purposes of the rule in [F7paragraph (1)(b)(i)(bb)], an individual is to be treated as being entitled to receive payment even if, throughout the qualifying week—
+(a)
+regulation 17(2) (effect of admission to a care home on ongoing entitlement to care component) of the 2021 Regulations applies to the individual, or
+(b)
+regulation 20 (entitlement beginning while in alternative accommodation) of the 2021 Regulations applies to the individual due to the individual being resident in a care home.
+(4) In paragraph (3), “care home” has the meaning given in regulation 2 of the 2021 Regulations.]
+[F8(5) For the purposes of the rule in [F9paragraph (1)(b)(ii)(aa)], an individual is to be treated as being entitled to receive payment even if, throughout the qualifying week—
+(a)
+regulation 28 (care home residents) of either the 2013 Regulations or the 2016 Regulations applies to the individual due to the individual being resident in a care home, or
+(b)
+regulation 29 (hospital in-patients aged 18 or over) of either the 2013 Regulations or the 2016 Regulations applies to the individual due to the individual being an in-patient in hospital.
+(6) In paragraph (5)—
+(a)
+“care home” has the meaning given in section 85(3) of the Welfare Reform Act 2012 or article 90(3) of the Welfare Reform Act (Northern Ireland) Order 2015, and
+(b)
+“hospital” has the meaning given in regulation 29 of the 2013 Regulations or regulation 29 of the 2016 Regulations.
+(7) An individual is entitled to be paid child winter heating assistance in respect of the first qualifying week if it appears to the Scottish Ministers from information available to them that the individual would have been entitled to be paid child winter heating assistance had the requirement in regulation 4(1)(b)(ii) had effect beginning with the day upon which these Regulations came into force.]
+[F10(8) For the purposes of the rule in paragraph (1)(b)(ii)(bb), an individual is to be treated as being entitled to receive payment even if, throughout the qualifying week—
+(a)
+regulation 27(2) (effect of admission to a care home on ongoing entitlement to daily living component) of the 2022 Regulations applies to the individual,
+(b)
+regulation 28(2) (effect of admission to hospital on ongoing entitlement to Adult Disability Payment) of the 2022 Regulations applies to the individual,
+(c)
+regulation 32 (entitlement beginning while in alternative accommodation) of the 2022 Regulations applies to the individual due to the individual being resident in a care home or being an in-patient in a hospital or similar institution.
+(9) In paragraph (8), “care home” has the meaning given in regulation 2 of the 2022 Regulations.]
+Textual Amendments
+F1
+Reg. 4(1)(b) substituted (16.11.2021) by The Winter Heating Assistance for Children and Young People (Scotland) Amendment Regulations 2021 (S.S.I. 2021/415), regs. 1(1), 2(3)(a)
+F2
+Reg. 4(1)(b)(ii) substituted (21.3.2022) by The Disability Assistance for Working Age People (Consequential and Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/31), regs. 1, 18(3)(a) (with reg. 20)
+F3
+Words in reg. 4(1)(c)(ii) inserted (1.4.2021) by The Social Security (Up-rating) (Miscellaneous Amendment) (Scotland) Regulations 2021 (S.S.I. 2021/170), regs. 1(1), 5(2)
+F4
+Words in reg. 4(2) substituted (16.11.2021) by The Winter Heating Assistance for Children and Young People (Scotland) Amendment Regulations 2021 (S.S.I. 2021/415), regs. 1(1), 2(3)(b)(i)
+F5
+Words in reg. 4(2) inserted (16.11.2021) by The Winter Heating Assistance for Children and Young People (Scotland) Amendment Regulations 2021 (S.S.I. 2021/415), regs. 1(1), 2(3)(b)(ii)
+F6
+Reg. 4(3)(4) inserted (26.7.2021) by The Disability Assistance for Children and Young People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2021 (S.S.I. 2021/73), regs. 1, 18(3)(c) (with reg. 19)
+F7
+Words in reg. 4(3) substituted (16.11.2021) by The Winter Heating Assistance for Children and Young People (Scotland) Amendment Regulations 2021 (S.S.I. 2021/415), regs. 1(1), 2(3)(c)
+F8
+Reg. 4(5)-(7) inserted (16.11.2021) by The Winter Heating Assistance for Children and Young People (Scotland) Amendment Regulations 2021 (S.S.I. 2021/415), regs. 1(1), 2(3)(d)
+F9
+Words in reg. 4(5) substituted (21.3.2022) by The Disability Assistance for Working Age People (Consequential and Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/31), regs. 1, 18(3)(b) (with reg. 20)
+F10
+Reg. 4(8)(9) inserted (21.3.2022) by The Disability Assistance for Working Age People (Consequential and Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/31), regs. 1, 18(3)(c) (with reg. 20)
+Commencement Information
+I1
+Reg. 4 in force at 9.11.2020, see reg. 1
+Marginal Citations
+M1
+S.S.I. 1991/2890 as amended by S.I. 2007/2875, S.I. 2013/389, S.I. 2015/643 and S.I. 2019/1027.Determination of entitlement to child winter heating assistance without application
+5.  The Scottish Ministers must, without receiving an application, make a determination of an individual's entitlement to child winter heating assistance under section 30 of the 2018 Act F1...where it appears to the Scottish Ministers from information available to them that the individual is likely to meet the eligibility rules in regulation 4(1)(a), (b) and (c)(i).
+Textual Amendments
+F1
+Words in reg. 5 omitted (16.11.2021) by virtue of The Winter Heating Assistance for Children and Young People (Scotland) Amendment Regulations 2021 (S.S.I. 2021/415), regs. 1(1), 2(4)
+Commencement Information
+I1
+Reg. 5 in force at 9.11.2020, see reg. 1Determination following official error – underpayments
+6.—(1) The Scottish Ministers must make a determination of an individual's entitlement to child winter heating assistance without receiving an application where—
+(a)
+they have previously made a determination of the individual's entitlement to winter heating assistance, and
+(b)
+they establish that, due to official error, that determination was incorrect resulting in the individual not being given an award of winter heating assistance to which they were entitled.
+(2) In this regulation, “official error” means an error made by the Scottish Ministers or a Minister of the Crown that was not materially contributed to by anyone else.
+Commencement Information
+I1
+Reg. 6 in force at 9.11.2020, see reg. 1Determination following official error – overpayments
+7.—(1) The Scottish Ministers must make a determination of an individual's entitlement to winter heating assistance without receiving an application where—
+(a)
+they have previously made a determination of the individual's entitlement to winter heating assistance, and
+(b)
+they establish that, due to official error, that determination was incorrect resulting in the individual being given an award of winter heating assistance to which they were not entitled.
+(2) In this regulation, “official error” means an error made by the Scottish Ministers or a Minister of the Crown that was—
+(a)
+not materially contributed to by anyone else, or
+(b)
+made on the basis of—
+(i)
+incorrect information, or
+(ii)
+an assumption which proves to be wrong.
+Commencement Information
+I1
+Reg. 7 in force at 9.11.2020, see reg. 1Determination following backdated award of assistance
+8.  The Scottish Ministers must make a determination of an individual's entitlement to child winter heating assistance without receiving an application where—
+(a)
+a determination has previously been made that the individual is not entitled to child winter heating assistance, and
+(b)
+the Scottish Ministers establish that—
+[F1(i)
+following an appeal, an award of—
+(aa)
+the highest rate of the care component of Disability Living Allowance,
+(bb)
+the highest rate of the care component of Child Disability Payment, F2...
+(cc)
+the enhanced rate of the daily living component of Personal Independence Payment, [F3or
+( dd)
+the enhanced rate of the daily living component of Adult Disability Payment,]
+is made that is a backdated award, and]
+(ii)
+had that award been made before the original determination, a determination that the individual is entitled to child winter heating assistance would have been made instead.
+Textual Amendments
+F1
+Reg. 8(b)(i) substituted (16.11.2021) by The Winter Heating Assistance for Children and Young People (Scotland) Amendment Regulations 2021 (S.S.I. 2021/415), regs. 1(1), 2(5)
+F2
+Word in reg. 8(b)(i)(bb) omitted (21.3.2022) by The Disability Assistance for Working Age People (Consequential and Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/31), regs. 1, 18(4)(a) (with reg. 20)
+F3
+Reg. 8(b)(i)(dd) and word inserted (21.3.2022) by The Disability Assistance for Working Age People (Consequential and Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/31), regs. 1, 18(4)(b) (with reg. 20)
+Commencement Information
+I1
+Reg. 8 in force at 9.11.2020, see reg. 1Periods for re-determination requests
+9.—(1) The period for requesting a re-determination of entitlement to child winter heating assistance under section 41 of the 2018 Act M1 is 42 days beginning with the day that the individual is informed, in accordance with section 40 of that Act, of the right to make the request.
+(2) In relation to determining entitlement to child winter heating assistance, the period allowed for re-determination (within the meaning of section 43 of that Act M2) is 16 working days beginning with—
+(a)
+the day that the request for a re-determination is received by the Scottish Ministers, F1...
+(b)
+where the request for a re-determination is received by the Scottish Ministers later than the period prescribed by paragraph (1), the day on which the Scottish Ministers, or, on appeal, the First-tier Tribunal for Scotland, decide that the individual has a good reason for not requesting the re-determination soone [F2, or
+(c)
+in a case where the Scottish Ministers have informed the individual of their decision that the request for a re-determination was not made in such form as the Scottish Ministers require, the day on which it is subsequently decided by the First-Tier Tribunal for Scotland that the individual in question has made the request in such form as the Scottish Ministers require.]
+(3) For the purpose of paragraph (2), a “working day” is a day other than—
+(a)
+a Saturday,
+(b)
+a Sunday, or
+(c)
+a bank holiday in Scotland under the Banking and Financial Dealings Act 1971 M3.
+Textual Amendments
+F1
+Word in reg. 9(2)(a) omitted (9.2.2022) by virtue of The Social Security (Period for Re-determination Requests) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/469), regs. 1(1), 5(2)(a)
+F2
+Reg. 9(2)(c) and word inserted (9.2.2022) by The Social Security (Period for Re-determination Requests) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/469), regs. 1(1), 5(2)(b)
+Commencement Information
+I1
+Reg. 9 in force at 9.11.2020, see reg. 1
+Marginal Citations
+M1
+Section 41 was amended by paragraph 2 of schedule 7 of the Coronavirus (Scotland) Act 2020 (asp 7) (“the 2020 Act”). Paragraph 4 of that schedule inserted section 52A into the Social Security (Scotland) Act 2018 (asp 9) which relaxed the deadlines for re-determinations and appeals to address the effects of coronavirus.
+M2
+Section 43 was amended by paragraph 5 of schedule 7 of the 2020 Act.
+M3
+1971 c.80.Value and form of child winter heating assistance
+10.—(1) [F1Subject to paragraph (1A), the value] of child winter heating assistance is [F2£251.50].
+[F3(1A) Where an individual is entitled to be paid child winter heating assistance by virtue of regulation 4(7), the value of child winter heating assistance payable is the value specified in paragraph (1) as it had effect on the day these Regulations came into force.]
+(2) Child winter heating assistance is to be given in the form of money in a single payment.
+Textual Amendments
+F1
+Words in reg. 10(1) substituted (16.11.2021) by The Winter Heating Assistance for Children and Young People (Scotland) Amendment Regulations 2021 (S.S.I. 2021/415), regs. 1(1), 2(6)(a)
+F2
+Sum in Reg. 10(1) substituted (1.4.2024) by The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/105), regs. 1(2), 9 (with sch. para. 7)
+F3
+Reg. 10(1A) inserted (16.11.2021) by The Winter Heating Assistance for Children and Young People (Scotland) Amendment Regulations 2021 (S.S.I. 2021/415), regs. 1(1), 2(6)(b)
+Commencement Information
+I1
+Reg. 10 in force at 9.11.2020, see reg. 1Making payments
+11.—(1) Where child winter heating assistance is payable in respect of a [F1child or young person], the Scottish Ministers may, where they consider it appropriate, make the payment to another person to be used for the benefit of the [F1child or young person].
+(2) Where the Scottish Ministers consider, for any reason, that it is no longer appropriate for a particular person who falls within paragraph (1) to continue to receive the payment, they may cease making payment to that person and pay it instead to the young person or another person.
+Textual Amendments
+F1
+Words in reg. 11(1) substituted (16.11.2021) by The Winter Heating Assistance for Children and Young People (Scotland) Amendment Regulations 2021 (S.S.I. 2021/415), regs. 1(1), 2(7)
+Commencement Information
+I1
+Reg. 11 in force at 9.11.2020, see reg. 1SHIRLEY-ANNE SOMERVILLE
+A member of the Scottish Government
+St Andrew's House,
+EdinburghRegulation 4
+SCHEDULE
+Commencement Information
+I1
+Sch. in force at 9.11.2020, see reg. 1
+Republic of Austria
+Kingdom of Belgium
+Republic of Bulgaria
+Republic of Croatia
+Czech Republic
+Kingdom of Denmark
+Republic of Estonia
+Republic of Finland
+Federal Republic of Germany
+Republic of Hungary
+Republic of Iceland
+Republic of Ireland
+Republic of Italy
+Republic of Latvia
+Principality of Liechtenstein
+Republic of Lithuania
+Grand Duchy of Luxembourg
+Kingdom of the Netherlands
+Kingdom of Norway
+Republic of Poland
+Republic of Romania
+Slovak Republic
+Republic of Slovenia
+Kingdom of Sweden
+F1. . .
+Textual Amendments
+F1
+Words in sch. omitted (1.4.2021) by virtue of The Social Security (Up-rating) (Miscellaneous Amendment) (Scotland) Regulations 2021 (S.S.I. 2021/170), regs. 1(1), 5(4)EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations make provision about payments of winter heating assistance to children and young people who are in receipt of disability assistance paid in accordance with section 71 of the Social Security Contributions and Benefits Act 1992.
+Regulation 4 sets out the eligibility rules. Regulations 5 to 8 provide for determinations without application. Regulation 9 makes provision for procedure in relation to re-determinations. Regulations 10 and 11 provide for payments of child winter heating assistance.

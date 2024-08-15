@@ -1,0 +1,229 @@
+SCOTTISH STATUTORY INSTRUMENTS
+2021 No. 324
+COURT OF SESSION
+SHERIFF COURT
+Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Company Insolvency Rules Amendment) (Insolvency) 2021
+Made
+17th September 2021
+Laid before the Scottish Parliament
+20th September 2021
+Coming into force in accordance with paragraph 1(2) and (3)
+In accordance with section 4 of the Scottish Civil Justice Council and Criminal Legal Assistance Act 2013(1), the Court of Session has approved draft rules submitted to it by the Scottish Civil Justice Council.
+The Court of Session therefore makes this Act of Sederunt under the powers conferred by sections 103(1) and 104(1) of the Courts Reform (Scotland) Act 2014(2) and all other powers enabling it to do so.
+(1)
+2013 asp 3. Section 4 was amended by the Courts Reform (Scotland) Act 2014 (asp 18), schedule 5, paragraph 31(3) and by the Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2), schedule 1, paragraph 1(4).
+(2)
+2014 asp 18.Citation and commencement, etc.
+1.—(1) This Act of Sederunt may be cited as the Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Company Insolvency Rules Amendment) (Insolvency) 2021.
+(2) Subject to sub-paragraph (3), it comes into force on 1st October 2021.
+(3) Paragraphs 2(5), 2(6), 3(4) and (5) come into force on 29th September 2021.
+(4) A certified copy is to be inserted in the Books of Sederunt.Amendment of the Rules of the Court of Session 1994
+2.—(1) Chapter 74 (companies) of the Rules of the Court of Session 1994(1) is amended in accordance with this paragraph.
+(2) In rule 74.3B (decision making)(2), in paragraph (1)(c), for “rule 5.22” substitute “rules 5.22 or 5.22A(3)”.
+(3) For rule 74.3C (moratoriums – general)(4) substitute—
+“Moratoriums — general
+74.3C.—(1) A moratorium to be obtained by lodging the relevant documents in court must be—
+(a)
+lodged in the Petition Department;
+(b)
+marked by the clerk of session receiving them with the time and date on which they are lodged and a certified copy of them so marked provided to the directors.
+(2) An application to the court for a moratorium must be made—
+(a)
+where the eligible company is subject to an outstanding winding-up petition, by note in the process of that petition; or
+(b)
+in all other cases, by petition.
+(3) Where the court grants an application mentioned in paragraphs (2), (6)(c) or (d), the Deputy Principal Clerk must provide forthwith a certified copy of the interlocutor to the applicant.
+(4) An extension of a moratorium under section A10 (extension by directors without creditor consent)(5) or A11 (extension by directors with creditor consent) of the Act of 1986, to be obtained by lodging the documents mentioned in section A10(1) or A11(1), respectively, and a notice of extension, must be—
+(a)
+lodged in the Petition Department;
+(b)
+marked by the clerk of session receiving them with the time and date on which they are lodged and a certified copy of them so marked provided to the directors.
+(5) Termination of a moratorium by the monitor under section A38(1) (termination of moratorium by monitor) of the Act of 1986, to be obtained by lodging the notice mentioned in that subsection and copy notice mentioned in rule 1A.20(2)(a)(i) of the Insolvency (CVAA) Rules (notice bringing the moratorium to an end (section A28))(6), must be—
+(a)
+lodged in the Petition Department;
+(b)
+marked by the clerk of session receiving them with the time and date on which they are lodged and a certified copy of them so marked provided to the monitor.
+(6) Paragraph (7) applies to an application to the court under—
+(a)
+section A13(1) (extension by court on application of directors);
+(b)
+section A21(1) (restrictions on enforcement and legal proceedings);
+(c)
+section A31(1) (disposal of charged property free from charge);
+(d)
+section A32(1) (disposal of hire-purchase property);
+(e)
+section A37 (application by monitor for directions);
+(f)
+section A39(1) or (2) (replacement of monitor or appointment of additional monitor);
+(g)
+section A42(1) (challenge to monitor’s actions);
+(h)
+rules under section A43(1) (challenges to monitor remuneration in insolvency proceedings);
+(i)
+section A44(1) (challenge to directors’ actions),
+of the Act of 1986.
+(7) Where this paragraph applies, an application to the court must be made—
+(a)
+where the eligible company is subject to an outstanding winding-up petition, by note in the process of that petition;
+(b)
+where the application for the moratorium was made by petition, by note in the process of that petition; or
+(c)
+in all other cases, by petition.
+(8) An application to the court under section A13(1) of the Act of 1986 must be marked by the clerk of session receiving it with the time and date on which it is lodged and a certified copy of the application so marked provided to the directors.
+Moratoriums — service
+74.3CA.  Unless the court otherwise directs, the order under rule 14.5 (first order in petitions), or rule 15.2(3) (applications by note), for intimation, service and advertisement must include a requirement to serve the petition or, as the case may be, note—
+(a)
+on the company and the monitor, where the application is made under section A21(1) or A42(1);
+(b)
+on the holder of the security interest and the monitor, where the application is made under section A31(1);
+(c)
+on the owner of the property and the monitor, where the application is made under section A32(1);
+(d)
+on the company, where the application is made under section A37;
+(e)
+on the monitor where the application is made by the directors, or on the directors where the application is made by the monitor, under section A39(1) or (2);
+(f)
+on the directors and the monitor, where the application is made under section A43(1) or A44(1),
+of the Act of 1986.”.
+(4) In rule 74.3E (moratoriums – challenge to monitor’s remuneration), for “paragraph 80 of schedule 4 of the Act of 2020 (challenge to monitor’s remuneration)” substitute “rule 1A.24 of the Insolvency (CVAA) Rules (challenges to monitor’s remuneration in subsequent insolvency proceedings)(7)”.
+(5) After rule 74.20 (interpretation of this Part), insert—
+“Application to disapply restrictions on winding-up petitions
+74.20A.  An application under paragraph 1(9) of schedule 10 of the Act of 2020 (restriction on winding-up petitions)(8) must be made by petition.”.
+(6) In rule 74.22 (intimation, service and advertisement under this Part)(9), omit paragraph (A1).
+(1)
+The Rules of the Court of Session 1994 are in schedule 2 of the Act of Sederunt (Rules of the Court of Session 1994) 1994 (S.I. 1994/1443), last amended by S.S.I. 2021/226. Chapter 74 was last amended by S.S.I. 2020/440.
+(2)
+Rule 74.3B was inserted by S.S.I. 2019/81 and amended by S.S.I. 2020/198.
+(3)
+Rule 5.22A was inserted by S.I. 2021/1026.
+(4)
+Rules 74.3C to 74.3E were inserted by S.S.I. 2020/198.
+(5)
+Sections A1 to A53 of the Insolvency Act 1986 (c.45) were inserted as a new Part A1 of that Act by section 1(1) of the Corporate Insolvency and Governance Act 2020 (c.12).
+(6)
+Rule 1A.20 was inserted by S.I. 2021/1026.
+(7)
+Rule 1A.24 was inserted by S.I. 2021/1026.
+(8)
+Schedule 10 of the Corporate Insolvency and Governance Act 2020 (c.12) was substituted by S.I. 2021/1029.
+(9)
+Rule 74.22(A1) was inserted by S.S.I. 2020/198.Amendment of the Act of Sederunt (Sheriff Court Company Insolvency Rules) 1986
+3.—(1) The Act of Sederunt (Sheriff Court Company Insolvency Rules) 1986(1) is amended in accordance with this paragraph.
+(2) For rule 3C (moratoriums – general)(2) substitute—
+“Moratoriums — general
+3C.—(1) A moratorium to be obtained by lodging the relevant documents in court must be—
+(a)
+lodged in the offices of the court;
+(b)
+marked by the sheriff clerk with the time and date on which they are lodged and a certified copy of them so marked provided to the directors.
+(2) An application to the court for a moratorium must be made—
+(a)
+where the eligible company is subject to an outstanding winding-up petition, by note in the process of that petition; or
+(b)
+in all other cases, by petition.
+(3) Where the court grants an application mentioned in paragraphs (2), (6)(c) or (d), the sheriff clerk must provide forthwith a certified copy of the interlocutor to the applicant.
+(4) An extension of a moratorium under section A10 (extension by directors without creditor consent)(3) or A11 (extension by directors with creditor consent) of the Act of 1986, to be obtained by lodging the documents mentioned in section A10(1) or A11(1), respectively, and a notice of extension, must be—
+(a)
+lodged in the offices of the court;
+(b)
+marked by the sheriff clerk with the time and date on which they are lodged and a certified copy of them so marked provided to the directors.
+(5) Termination of a moratorium by the monitor under section A38(1) (termination of moratorium by monitor) of the Act of 1986, to be obtained by lodging the notice mentioned in that subsection and copy notice mentioned in rule 1A.20(2)(a)(i) of the Insolvency (CVAA) Rules (notice bringing the moratorium to an end (section A28))(4), must be—
+(a)
+lodged in the offices of the court;
+(b)
+marked by the sheriff clerk with the time and date on which they are lodged and a certified copy of them so marked provided to the monitor.
+(6) Paragraph (7) applies to an application to the court under—
+(a)
+section A13(1) (extension by court on application of directors);
+(b)
+section A21(1) (restrictions on enforcement and legal proceedings);
+(c)
+section A31(1) (disposal of charged property free from charge);
+(d)
+section A32(1) (disposal of hire-purchase property);
+(e)
+section A37 (application by monitor for directions);
+(f)
+section A39(1) or (2) (replacement of monitor or appointment of additional monitor);
+(g)
+section A42(1) (challenge to monitor’s actions);
+(h)
+rules under section A43(1) (challenges to monitor remuneration in insolvency proceedings);
+(i)
+section A44(1) (challenge to directors’ actions),
+of the Act of 1986.
+(7) Where this paragraph applies, an application to the court must be made—
+(a)
+where the eligible company is subject to an outstanding winding-up petition, by note in the process of that petition;
+(b)
+where the application for the moratorium was made by petition, by note in the process of that petition; or
+(c)
+in all other cases, by petition.
+(8) An application to the court under section A13(1) of the Act of 1986 must be marked by the sheriff clerk with the time and date on which it is lodged and a certified copy of the application so marked provided to the directors.
+Moratoriums — service
+3CA.  Unless the court otherwise directs, there must be included in the order for service a requirement to serve the petition or, as the case may be, note—
+(a)
+on the company and the monitor, where the application is made under section A21(1) or A42(1);
+(b)
+on the holder of the security interest and the monitor, where the application is made under section A31(1);
+(c)
+on the owner of the property and the monitor, where the application is made under section A32(1);
+(d)
+on the company, where the application is made under section A37;
+(e)
+on the monitor where the application is made by the directors, or on the directors where the application is made by the monitor, under section A39(1) or (2);
+(f)
+on the directors and the monitor, where the application is made under section A43(1) or A44(1),
+of the Act of 1986.”.
+(3) In rule 3E (moratoriums – challenge to monitor’s remuneration), for “paragraph 80 of schedule 4 of the Act of 2020 (challenge to monitor’s remuneration)” substitute “rule 1A.24 of the Insolvency (CVAA) Rules (challenges to monitor’s remuneration in subsequent insolvency proceedings)(5)”.
+(4) In Part IV (winding up of companies registered under the Companies Acts and of unregistered companies), before rule 18 (petitions to wind up a company)(6) insert—
+“Applications to disapply restrictions on winding-up petitions
+17A.—(1) An application under paragraph 1(9) of schedule 10 of the Act of 2020 (restriction on winding-up petitions)(7) must be made by petition.
+(2) Rule 19 applies to a petition under paragraph (1).”.
+(5) In rule 19 (intimation, service and advertisement)(8), omit paragraph (A1).
+(6) In rule 31AB (decision making)(9), in paragraph (1)(c), for “rule 5.22” substitute “rules 5.22 and 5.22A(10)”.
+(1)
+S.I. 1986/2297, last amended by S.S.I. 2020/440.
+(2)
+Rules 3C to 3E were inserted by S.S.I. 2020/198.
+(3)
+Sections A1 to A53 of the Insolvency Act 1986 (c.45) were inserted as a new Part A1 of that Act by section 1(1) of the Corporate Insolvency and Governance Act 2020 (c.12).
+(4)
+Rule 1A.20 was inserted by S.I. 2021/1026.
+(5)
+Rule 1A.24 was inserted by S.I. 2021/1026.
+(6)
+Rule 18 was amended by S.S.I. 2020/198 and S.S.I. 2020/440.
+(7)
+Schedule 10 of the Corporate Insolvency and Governance Act 2020 (c.12) was substituted by S.I. 2021/1029.
+(8)
+Rule 19(A1) was inserted by S.S.I. 2020/198.
+(9)
+Rule 31AB was inserted by S.S.I. 2020/81 and amended by S.S.I. 2020/198.
+(10)
+Rule 5.22A was inserted by S.I. 2021/1026.Revocations
+4.  Paragraphs 2(6) and 3(4) of the Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Company Insolvency Rules Amendment) (Insolvency) 2020(1) are revoked.
+(1)
+S.S.I. 2020/198.Saving provision
+5.  The amendments made by paragraphs 2(2) to (4) and 3(2), (3) and (6) of this Act of Sederunt are of no effect in respect of—
+(a)
+a moratorium under Part A1 (moratorium) of the Insolvency Act 1986(1) which came into force;
+(b)
+applications under section A4 (obtaining a moratorium for company subject to winding-up petition) or A5 (obtaining a moratorium for other overseas companies) of that Act which were lodged in accordance with those sections,
+before 1st October 2021.
+(1)
+1986 c.45. Part A1 was inserted by section 1(1) of the Corporate Insolvency and Governance Act 2020 (c.12).CJM SUTHERLAND
+Lord President
+I.P.D.
+Edinburgh
+17th September 2021EXPLANATORY NOTE
+(This note is not part of the Act of Sederunt)
+This Act of Sederunt amends the Rules of the Court of Session 1994 and Act of Sederunt (Sheriff Court Company Insolvency Rules) 1986 in consequence of amendments made by:
+the Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026) (“the 2021 Rules”) to the Insolvency (Scotland) (Company Voluntary Arrangements and Administration) Rules 2018 (S.I. 2018/1082) (“the CVAA Rules”); and
+the Corporate Insolvency and Governance Act 2020 (Coronavirus) (Amendment of Schedule 10) Regulations 2021 (S.I. 2021/1029) (“the 2021 Regulations”) to substitute a new schedule 10 of the Corporate Insolvency and Governance Act 2020 (c.12) (“the 2020 Act”).
+The 2021 Rules provide for permanent moratorium rules to replace those enacted on a temporary basis by section 3 and Part 4 of schedule 4 of the 2020 Act.
+Aside from paragraphs 2(5), 2(6), 3(4) and (5), this Act of Sederunt comes into force on 1st October 2021. Paragraphs 2(5), 2(6), 3(4) and (5) come into force on 29th September 2021 because the 2021 Regulations substitute the new schedule 10 of the 2020 Act from that earlier date.
+Paragraph 2(2) of this Act of Sederunt makes provision for the new court remedy created in new rule 5.22A of the CVAA Rules. Paragraph 2(3) substitutes a new rule 74.3C into the Rules of the Court of Session 1994 (“RCS”) to reflect new procedural requirements created by the 2021 Rules and to make those steps clearer. New rule 74.3CA of the RCS make provision for minimum mandatory service of listed applications to the Court. Paragraph 2(4) makes provision to adjust a statutory cross-reference in the RCS in consequence of the creation of permanent moratorium rules by the 2021 Rules. Equivalent provision is made in paragraph 3 in respect of the sheriff court.
+Paragraphs 2(5) and 3(4) make provision about how applications to disapply restrictions on winding-up petitions are to be made. Provision is required as a consequence of the substitution of a new schedule 10 to the 2020 Act by the 2021 Regulations. As a result of the repeal of paragraph 20 of schedule 10 by the 2021 Regulations, paragraphs 2(6) and 3(5) of this Act of Sederunt remove provision from the court rules about how applications under paragraph 20 are made.
+Consequential revocations are made in paragraph 4 to remove spent court rules. Saving provision is made at paragraph 5 so that the court rules in place before the coming into force date of this Act of Sederunt will continue to govern pre-existing moratoriums and pre-existing applications to the court for them.

@@ -1,0 +1,98 @@
+STATUTORY INSTRUMENTS
+2021 No. 812
+FINANCIAL SERVICES AND MARKETS
+The Benchmarks (Provision of Information and Documents) Regulations 2021
+Made
+7th July 2021
+Laid before Parliament
+9th July 2021
+Coming into force
+9th August 2021
+The Treasury make the following Regulations in exercise of the powers conferred by Articles 48A and 49(2) of Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds M1.
+Marginal Citations
+M1
+EUR 2016/1011. Article 48A is inserted by paragraph 11 of Schedule 5 to the Financial Services Act 2021 (c. 22).Citation, commencement and extent
+1.—(1) These Regulations may be cited as the Benchmarks (Provision of Information and Documents) Regulations 2021 and come into force on 9th August 2021.
+(2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
+Commencement Information
+I1
+Reg. 1 in force at 9.8.2021, see reg. 1(1)Interpretation
+2.  In these Regulations—
+“the Benchmarks Regulation” means Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds;
+“the FCA” means the Financial Conduct Authority.
+Commencement Information
+I1
+Reg. 2 in force at 9.8.2021, see reg. 1(1)Prospective
+Transitional provision
+F13.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Textual Amendments
+F1
+Reg. 3 omitted (8.8.2021) by virtue of The Benchmarks (Provision of Information and Documents) (Amendment) Regulations 2021 (S.I. 2021/920), regs. 1(1), 2(a)Application of Part
+4.  This Part applies for the purposes of—
+(a)
+in Article 22A of the Benchmarks Regulation (assessment of representativeness of critical benchmarks: administrator) M1—
+(i)
+a notice given by the FCA to an administrator under paragraph 3 or 11;
+(ii)
+a permission given by the FCA to an administrator under paragraph 9;
+(b)
+in Article 22B of that Regulation (assessment of representativeness of critical benchmarks: FCA) M2, a notice given by the FCA to an administrator under paragraph 3;
+(c)
+in Article 23A of that Regulation (designation of certain critical benchmarks) M3, a notice given by the FCA to an administrator under paragraph 1(b), 4, 7 or 9;
+(d)
+in Article 23D of that Regulation (orderly cessation of Article 23A benchmarks) M4, a notice given by the FCA to an administrator under paragraph 2 or 8(b).
+Commencement Information
+I1
+Reg. 4 in force at 9.8.2021, see reg. 1(1)
+Marginal Citations
+M1
+Article 22A is inserted by section 11(2) of the Financial Services Act 2021 (c. 22).
+M2
+Article 22B is inserted by section 11(2) of the Financial Services Act 2021 (c. 22).
+M3
+Article 23A is inserted by section 13 of the Financial Services Act 2021 (c. 22).
+M4
+Article 23D is inserted by section 15 of the Financial Services Act 2021 (c. 22).Provision of an address to which information or a document may be sent electronically
+5.—(1) An administrator of a critical benchmark—
+(a)
+must provide the FCA with an email address to which a notice or permission to which this Part applies may be sent;
+(b)
+may provide the FCA with an address (other than an email address) to which such a notice or permission may, with the written agreement of the FCA, be sent electronically.
+[F1(2) An address provided in accordance with paragraph (1) must be provided—
+(a)
+where the benchmark is listed in Commission Implementing Regulation (EU) 2016/1368 of 11 August 2016 establishing a list of critical benchmarks used in financial markets pursuant to Regulation (EU) 2016/1011 of the European Parliament and of the Council, before 14 August 2021;
+(b)
+where regulations are made specifying the benchmark as critical under paragraph 5 or 6 of Article 20A, or paragraph 5 of Article 20, of the Benchmarks Regulation, within five working days beginning with the day on which those regulations come into force.]
+(3) The administrator may provide a different address in substitution for one provided in accordance with paragraph (1).
+(4) An address provided under paragraph (3) must be provided no less than five working days before the day on which the administrator intends the substitution to take effect.
+(5) The conditions in paragraph (1) apply in respect of such an address as they apply to an address provided in accordance with that paragraph.
+Textual Amendments
+F1
+Reg. 5(2) substituted (8.8.2021) by The Benchmarks (Provision of Information and Documents) (Amendment) Regulations 2021 (S.I. 2021/920), regs. 1(1), 2(b)
+Commencement Information
+I1
+Reg. 5 in force at 9.8.2021, see reg. 1(1)Date on which information or a document is treated as having been received
+6.  A notice or permission sent by the FCA to an administrator at an address provided in accordance with regulation 5 shall be deemed to have been received—
+(a)
+in respect of a notice or permission referred to in regulation 4(a) to (c)—
+(i)
+if sent on a working day before 5 p.m., on that day;
+(ii)
+otherwise, on the following working day;
+(b)
+in respect of a notice referred to in regulation 4(d)—
+(i)
+if sent before 5 p.m., on the day on which it is sent;
+(ii)
+otherwise, on the following day.
+Commencement Information
+I1
+Reg. 6 in force at 9.8.2021, see reg. 1(1)Alan Mak
+David Rutley
+Two of the Lords Commissioners of Her Majesty's TreasuryEXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations make provision in respect of a notice or permission given by the Financial Conduct Authority to a benchmark administrator under Articles 22A, 22B, 23A and 23D of Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds.
+In these Regulations:
+— regulation 5 imposes an obligation on the administrator of a critical benchmark to provide an address to which the Financial Conduct Authority may send a notice or permission electronically;
+— regulation 6 makes provision for when a notice or permission sent in such a manner is deemed to have been received.
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen. A de minimis impact assessment is available from HM Treasury, 1 Horse Guards Road, London, SW1A 2HQ and is published with the Explanatory Memorandum alongside this instrument on www.legislation.gov.uk.

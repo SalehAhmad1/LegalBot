@@ -1,0 +1,59 @@
+Draft Regulations laid before Parliament under section 459(6) and (6ZB) of the Proceeds of Crime Act 2002 (c. 29) for approval by resolution of each House of Parliament.
+DRAFT STATUTORY INSTRUMENTS
+2024 No. ****
+PROCEEDS OF CRIME
+The Proceeds of Crime Act 2002 (Search, Recovery of Cryptoassets and Investigations: Codes of Practice) Regulations 2024
+Made
+Coming into force
+26th April 2024
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 47S(4) and (5), section 303G(5) (as applied by section 303Z25(1)) and section 377(4) and (8) of the Proceeds of Crime Act 2002 (“the 2002 Act”)(1).
+A draft of this instrument has been laid before Parliament under section 459(6) and (6ZB) of the 2002 Act and has been approved by a resolution of each House of Parliament.
+The Secretary of State has—
+(a)
+under section 47S(5) of the 2002 Act(2), revised the code of practice issued under section 47S(1) of the 2002 Act and, in accordance with section 47S(2)(a), (b) and (c), (2A) and (3), published a draft of the revised code of practice, considered any representations made about the draft, modified the draft as the Secretary of State thought appropriate in the light of any such representations, consulted the Attorney General about the draft in its application to the exercise of powers by Serious Fraud Office (“SFO”) officers and the Director of the SFO and laid the draft before Parliament;
+(b)
+under section 303G of the 2002 Act(3), as applied by section 303Z25, made a code of practice and, in accordance with section 303G(2)(a), (b) and (c), (3) and (4) as so applied, published a draft of the code of practice, considered any representations made about the draft by the Scottish Ministers, the Department of Justice or any other person, modified the draft as the Secretary of State thought appropriate in the light of any such representations, consulted the Attorney General about the draft in its application to the exercise of powers by SFO officers and the Director of the SFO and laid the draft before Parliament;
+(c)
+under section 377(8) of the 2002 Act(4), revised the code of practice issued under section 377(1) of the 2002 Act and, in accordance with section 377(2)(a), (b) and (c), (2A) and (3), published a draft of the revised code of practice, considered any representations made about the draft, modified the draft as the Secretary of State thought appropriate in the light of any such representations, consulted the Treasury about the draft in its application to functions that Financial Conduct Authority officers have under Chapter 2 of Part 8 of the 2002 Act and laid the revised code of practice before Parliament.
+(1)
+2002 c. 29.
+(2)
+Section 47S was inserted by section 55(1) and (2) of the Policing and Crime Act 2009 (c. 26) and subsection (2A) was inserted by paragraphs 1 and 6 of Schedule 1 to the Criminal Finances Act 2017 (c. 22).
+(3)
+Section 303G was inserted by section 15 of the Criminal Finances Act 2017 and section 303Z25 was inserted by paragraph 1 of Schedule 9 to the Economic Crime and Corporate Transparency Act 2023 (c. 56).
+(4)
+Section 377 was amended by paragraph 114 of Schedule 8 to the Serious Crime Act 2007 (c. 27); paragraph 143 of Schedule 8, and paragraph 37 of Schedule 21, to the Crime and Courts Act 2013; paragraph 17 of Schedule 48 to the Finance Act 2013 (c. 29); paragraph 58 of Schedule 5 to the Criminal Finances Act 2017; and S.I. 2010/976.Citation, commencement and extent
+1.—(1) These Regulations may be cited as the Proceeds of Crime Act 2002 (Search, Recovery of Cryptoassets and Investigations: Codes of Practice) Regulations 2024 and come into force on 26th April 2024.
+(2) These Regulations extend to England and Wales, Scotland and Northern Ireland, except as follows—
+(a)
+regulations 2(a) and 4(a) extend to England and Wales only;
+(b)
+regulations 2(b) and 4(b) extend to England and Wales and Northern Ireland only.Revised codes of practice
+2.  The revised codes of practice with the following titles, each laid before Parliament in draft on 22nd January 2024, come into operation on 26th April 2024—
+(a)
+“Code of Practice issued under section 47S of the Proceeds of Crime Act 2002: Search, Seizure and Detention of Property (England and Wales)”;
+(b)
+“Code of Practice issued under section 377 of the Proceeds of Crime Act 2002: Investigations”.New code of practice
+3.  The code of practice entitled “Code of Practice issued under section 303Z25 of the Proceeds of Crime Act 2002: Recovery of Cryptoassets and Related Items — Search Powers” and laid before Parliament in draft on 22nd January 2024 comes into operation on 26th April 2024.Revocations
+4.  The following instruments are revoked—
+(a)
+the Proceeds of Crime Act 2002 (Search, Seizure and Detention of Property: Code of Practice) Order 2018(1);
+(b)
+the Proceeds of Crime Act 2002 (Investigations: Code of Practice) Order 2021(2).
+(1)
+S.I. 2018/82.
+(2)
+S.I. 2021/726.Signed
+Name
+Minister of State
+Home Office
+XXX March 2024EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations bring into operation two revised codes of practice and one new code of practice issued by the Secretary of State under the Proceeds of Crime Act 2002 (c. 29) (“the 2002 Act”).
+They are necessitated by certain amendments made to the 2002 Act by the Economic Crime (Transparency and Enforcement) Act 2022 (c. 10) (“the 2022 Act”) and by the Economic Crime and Corporate Transparency Act 2023 (c. 56) (“the 2023 Act”). The amendments made by the 2022 Act concern unexplained wealth orders and the amendments made by the 2023 Act concern cryptoassets.
+Regulations 2 and 3 bring into operation, on 26th April 2024:
+a revised code of practice relating to the powers of certain officers under Part 2 of the 2002 Act to search for, seize and detain property, including cryptoassets and related items, in England and Wales;
+a revised code of practice relating to the investigation powers of certain officers under Chapter 2 of Part 8 of the 2002 Act, including updated provision about unexplained wealth orders, in England and Wales and Northern Ireland;
+a new code of practice relating to the powers of certain officers under Part 5 of the 2002 Act to search for, seize and detain cryptoassets and related items, in England and Wales, Scotland and Northern Ireland.
+Regulation 4 revokes previous instruments which brought into force previous codes of practice.
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sectors is foreseen.

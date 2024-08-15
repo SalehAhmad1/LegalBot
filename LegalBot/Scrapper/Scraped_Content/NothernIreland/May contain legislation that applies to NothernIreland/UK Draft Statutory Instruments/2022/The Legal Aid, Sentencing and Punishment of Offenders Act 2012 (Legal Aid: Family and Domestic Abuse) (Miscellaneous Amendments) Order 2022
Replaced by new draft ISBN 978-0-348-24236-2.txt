@@ -1,0 +1,203 @@
+Draft Order laid before Parliament under section 41(6) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012, for approval by resolution of each House of Parliament.
+DRAFT STATUTORY INSTRUMENTS
+2022 No.
+LEGAL AID AND ADVICE, ENGLAND AND WALES
+The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Family and Domestic Abuse) (Miscellaneous Amendments) Order 2022
+Made
+***
+Coming into force in accordance with article 2
+The Lord Chancellor makes this Order in exercise of the powers conferred by sections 9(2), 11(1), 12(2), 12(3)(e), 12(3)(g), 14(h), 21(2)(b), 41(1)(a), 41(2)(b) and 41(3)(c) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012(1).
+In making articles 4 to 7 of this Order, in accordance with section 11(2) to (5) of that Act, the Lord Chancellor—
+(a) has considered the circumstances in which it is appropriate to make civil legal services available under Part 1 of the Act and, in particular, the extent to which the criteria ought to reflect the factors set out in section 11(3) of the Act;
+(b) has sought to secure that, in cases in which more than one form of civil legal service could be provided for an individual, the individual qualifies under Part 1 of the Act for the form of service which in all the circumstances is the most appropriate having regard to the criteria; and
+(c) is satisfied that the criteria reflect the principle that, in many disputes, mediation and other forms of dispute resolution are more appropriate than legal proceedings.
+A draft of this Order was laid before Parliament in accordance with section 41(6) of the Act and approved by resolution of each House of Parliament.
+(1)
+2012 c. 10, to which there have been amendments not relevant to this Order.Citation, commencement and extent
+1.  This Order may be cited as the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Family and Domestic Abuse) (Miscellaneous Amendments) Order 2022.Citation, commencement and extent
+2.—(1) This Order comes into force on 1st January 2023, subject to paragraphs (2) to (4).
+(2) The following provisions come into force on 1st May 2023—
+(a)
+articles 4(2) and 5(3);
+(b)
+articles 5(2) and 6(3) so far as they insert the definition of “parental guardianship case”;
+(c)
+articles 5(4), 5(5) and 5(8);
+(d)
+article 6(2) so far as it inserts new sub-paragraph (db); and
+(e)
+article 7(2).
+(3) Articles 4(3), 7(3)(a) and 8 come into force on the first day on which a provision of Part 3 of the Domestic Abuse Act 2021(1) comes into force, including where that provision is brought into force for a specified purpose or in relation to a specified area under section 90 of that Act.
+(4) The following provisions come into force on 1st March 2023—
+(a)
+articles 5(1), 5(3), 5(6), 5(7) and 6(1);
+(b)
+articles 5(2) and 6(3) so far as they insert the definitions of “parental placement and adoption case” and “parental responsibility”; and
+(c)
+article 6(2) so far as it inserts new sub-paragraph (da).
+(1)
+2021 c. 17Citation, commencement and extent
+3.  This Order extends to England and Wales only.Amendments to the Legal Aid, Sentencing and Punishment of Offenders Act 2012
+4.—(1) Part 1 of Schedule 1 to the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (civil legal services) is amended as follows.
+(2) After paragraph 1 (care, supervision and protection of children) insert—
+“Special Guardianship
+1A.—(1) Civil legal services provided in relation to special guardianship orders as defined in section 14A of the Children Act 1989(1).
+Exclusions
+(2) Sub-paragraph (1) is subject to the exclusions in Parts 2 and 3 of this Schedule.”.
+(3) In paragraph 11 (family homes and domestic violence)—
+(a)
+after sub-paragraph (1) insert—
+“(1A) Civil legal services provided in relation to—
+(a)
+an application for a domestic abuse protection order under section 28 of the Domestic Abuse Act 2021;
+(b)
+proceedings under section 31(2) or (7) of that Act so far as those proceedings relate to a domestic abuse protection order;
+(c)
+an application to vary or discharge an order made under a provision mentioned in paragraph (a) or (b).”;
+(b)
+after sub-paragraph (3) insert—
+“(3A) Sub-paragraph (1A) is subject to the exclusions in Parts 2 and 3 of this Schedule.”.
+(4) In paragraph 28 (immigration: victims of domestic violence and indefinite leave to remain)—
+(a)
+for sub-paragraph (1) substitute—
+“(1) Civil legal services provided to an individual (“V”) in relation to an application by V for indefinite leave to remain in the United Kingdom on the grounds that—
+(a)
+V was given leave to enter or remain in the United Kingdom for a limited period as the partner of—
+(i)
+an individual present and settled in the United Kingdom within the meaning of the immigration rules,
+(ii)
+an individual with refugee leave under Part 11 of the immigration rules,
+(iii)
+a foreign or Commonwealth citizen with leave to enter or remain in the United Kingdom as a member of HM Forces under Appendix Armed Forces to the immigration rules, or
+(iv)
+an individual with limited leave to enter or remain in the United Kingdom under Appendix EU in accordance with paragraph GEN 1.3 of Appendix FM to the immigration rules,
+(b)
+in a case within paragraph (a)(iii), the foreign or Commonwealth citizen has at least four years’ reckonable service at the date of V’s application for indefinite leave to remain in the United Kingdom, and
+(c)
+V’s relationship with the person mentioned in paragraph (a) broke down permanently because V was the victim of domestic violence.”;
+(b)
+in sub-paragraph (5)—
+(i)
+omit the definition of “present and settled in the United Kingdom”, and
+(ii)
+at the appropriate place insert—
+““immigration rules” means rules made by the Secretary of State under section 3(2) of the Immigration Act 1971(2);”.
+(5) In paragraph 30 (immigration: rights to enter and remain), in paragraph (4), for the definition of “immigration rules” substitute—
+““immigration rules” means rules made by the Secretary of State under section 3(2) of the Immigration Act 1971;”.
+(6) In paragraph 31A (immigration, citizenship and nationality: separated children), in paragraph (4), for the definition of “immigration rules” substitute—
+““immigration rules” means rules made by the Secretary of State under section 3(2) of the Immigration Act 1971;”.
+(1)
+1989 c. 41, amended by 2002 c. 38, sections 115 and 148. There are other amendments not relevant to this Order.
+(2)
+1971 c. 77, to which there are amendments not relevant to this Order.Amendments to the Civil Legal Aid (Merits Criteria) Regulations 2013
+5.—(1) The Civil Legal Aid (Merits Criteria) Regulations 2013(1) are amended as follows.
+(2) In regulation 2 (interpretation) at the appropriate place insert—
+““parental guardianship case” means matters described in paragraph 1A of Part 1 of Schedule 1 to the Act (special guardianship) to the extent that the individual to whom civil legal services may be provided—;
+(a)
+is the parent of, or has parental responsibility for, the child who is or would be the subject of the order; and
+(b)
+opposes the order,
+but does not include appeals from final orders made under section 14A of the Children Act 1989;
+“parental placement and adoption case” means matters described in paragraph 1(1)(i) of Part 1 of Schedule 1 to the Act (care, supervision and protection of children) to the extent that they relate to a placement order or an adoption order under section 21 or 46 of the Adoption and Children Act 2002(2) where the individual to whom civil legal services may be provided—
+(a)
+is the parent of, or has parental responsibility for, the child who is or would be the subject of the placement order or, as the case may be, the adoption order; and
+(b)
+opposes the placement order or, as the case may be, the adoption order,
+but does not include appeals from final orders made under either of those provisions of the Adoption and Children Act 2002;
+“parental responsibility” has the same meaning as in the Children Act 1989;”
+(3) In regulation 2 (interpretation), in the definition of “public law children case”, in sub-paragraph (a) after “1989 case”, insert “or a parental placement and adoption case”;
+(4) In regulation 2 (interpretation), in the definition of “family dispute”, after sub-paragraph (a) insert—
+“(aa)
+paragraph 1A (special guardianship);”.
+(5) In regulation 2 (interpretation), in the definition of “private law children case”, immediately before sub-paragraph (a) insert—
+“(za)
+paragraph 1A (special guardianship) to the extent that—
+(i)
+the matter is not a parental guardianship case; and
+(ii)
+the matter does not fall within paragraph 1(2) of Part 1 of Schedule 1;”.
+(6) In—
+(a)
+the heading to regulation 26 (public law children cases and special Children Act 1989 cases), after “public law children cases” insert “, parental placement and adoption cases”;
+(b)
+regulation 26, after “public law children cases” insert “, parental placement and adoption cases”.
+(7) In—
+(a)
+the heading to regulation 65 (criteria for determinations for full representation in relation to special Children Act 1989 cases and certain cases relating to Transitional EU arrangements and international agreements), after “1989 cases” insert “, parental placement and adoption cases”;
+(b)
+regulation 65(2)—
+(i)
+at the end of sub-paragraph (a) omit “or”;
+(ii)
+after sub-paragraph (a) insert—
+“(aa)
+a determination for full representation in parental placement and adoption cases; or”.
+(8) In—
+(a)
+the heading to regulation 66 (criteria for determinations for full representation in relation to public law children cases), after “public law children cases” insert “and parental guardianship cases”;
+(b)
+regulation 66(1), after “public law children case” insert “or a parental guardianship case”;
+(c)
+regulation 66(2), after “public law children case” insert “or a parental guardianship case”.
+(1)
+S.I. 2013/104, to which there are amendments not relevant to this Order.
+(2)
+2002 c. 38, to which there have been amendments not relevant to this Order.Amendments to the Civil Legal Aid (Financial Resources and Payment for Services) Regulations 2013
+6.—(1) The Civil Legal Aid (Financial Resources and Payment for Services) Regulations 2013(1) are amended as follows.
+(2) In regulation 5(1) (exceptions from requirement to make a determination in respect of an individual’s financial resources) after sub-paragraph (d) insert—
+“(da)
+legal representation in a parental placement and adoption case;
+(db)
+legal representation in a parental guardianship case;”.
+(3) In regulation 5(2), in the appropriate place insert—
+““parental guardianship case” means matters described in paragraph 1A of Part 1 of Schedule 1 to the Act (special guardianship) to the extent that the individual to whom civil legal services may be provided—
+(a)
+is the parent of, or has parental responsibility for, the child who is or would be the subject of the order; and
+(b)
+opposes the order,
+but does not include appeals from final orders made under section 14A of the Children Act 1989;
+“parental placement and adoption case” means matters described in paragraph (1)(i) of Part 1 of Schedule 1 to the Act (care, supervision and protection of children) to the extent that they relate to a placement order or an adoption order under section 21 or 46 of the Adoption and Children Act 2002 where the individual to whom civil legal services may be provided—
+(a)
+is the parent of, or has parental responsibility for, the child who is or would be the subject of the placement order or, as the case may be, the adoption order; and
+(b)
+opposes the placement order, or as the case may be, the adoption order,
+but does not include appeals from final orders made under either of those provisions under the Adoption and Children Act 2002;
+“parental responsibility” has the same meaning as in the Children Act 1989;”
+(1)
+S.I. 2013/480, to which there are amendments not relevant to this Order.Amendments to the Civil Legal Aid (Procedure) Regulations 2012
+7.—(1) The Civil Legal Aid Procedure Regulations 2012(1) are amended as follows.
+(2) In regulation 2 in the definition of “family dispute” after sub-paragraph (a) insert—
+“(ab)
+paragraph 1A (special guardianship);”.
+(3) In Schedule 1 (supporting documents: domestic violence)—
+(a)
+after paragraph 6 insert—
+“6A.  A domestic abuse protection notice given under section 22 of the Domestic Abuse Act 2021 against B.”
+(b)
+in paragraph 11(a), after “in person” insert “, by telephone or by video conferencing”.
+(c)
+in paragraph 22, omit the definition of “Immigration Rules”.
+(1)
+S.I. 2012/3098, to which there are amendments not relevant to this Order.Amendments to the Criminal Legal Aid (General Regulations) 2013
+8.  Regulation 9 (criminal proceedings) of the Criminal Legal Aid (General Regulations) 2013(1) is amended as follows—
+(a)
+at the end of sub-paragraph (ud) omit “and”;
+(b)
+after sub-paragraph (ud) insert—
+“(ue)
+a hearing under section 26(2)(a) of the Domestic Abuse Act 2021 in relation to breach of a domestic abuse protection notice;
+(uf)
+proceedings under section 31(3), (5) and (6) of the Domestic Abuse Act 2021 in relation to domestic abuse protection orders, including an application to vary or discharge an order made under those sections;”.
+(1)
+S.I. 2013/9, to which there have been amendments not relevant to this Order.Signatory text
+Name
+Parliamentary Under Secretary of State
+Department
+DateEXPLANATORY NOTE
+(This note is not part of the Order)
+This Order amends Schedule 1 to the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10) (“the Act”) and secondary legislation under the Act.
+Article 4(2) adds a new paragraph 1A to Part 1 of Schedule 1 to the Act to provide civil legal aid for proceedings for special guardianship orders. Article 4(3) amends paragraph 11 of Part 1 of Schedule 1 to the Act to provide civil legal aid for matters relating to domestic abuse protection orders introduced under Part 3 of the Domestic Abuse Act 2021 (c. 17). Article 4(4) substitutes a new paragraph 28(1)(a) of Part 1 of Schedule 1 to the Act to make civil legal aid available for applicants seeking indefinite leave to remain in United Kingdom where their right to enter or remain in the United Kingdom was initially based on the immigration status of their partner but that relationship has permanently broken down because of domestic violence. The amendment aligns the provision of civil legal aid with individuals who are eligible to apply for indefinite leave to remain under the immigration domestic violence rules. This article also amends the definition given to “immigration rules” so that it is consistent across Part 1 of Schedule 1 to the Act.
+Article 5 makes consequential amendments to the Civil Legal Aid (Merits Criteria) Regulations 2013 (S.I. 2013/104). It also amends the current merits test for parents who are at risk of their child being removed in proceedings for a placement or adoption order to align the test with the merits test which applies to applications for civil legal aid by those parties where such an order is sought within care proceedings.
+Article 6 makes consequential amendments to the Civil Legal Aid (Financial Resources and Payment for Services) Regulations 2013 (S.I. 2013/480). In addition, the article removes the means test eligibility requirements for parents or those with parental responsibility opposing an application for either a placement or adoption order. This aligns the approach with that taken within care proceedings.
+Article 7 amends Schedule 1 to the Civil Legal Aid (Procedure) Regulations 2012 (S.I. 2012/3098) to include domestic abuse protection notices, introduced by the Domestic Abuse Act 2021, as an acceptable form of supporting evidence for applications for civil legal aid falling within paragraph 12 of Part 1 of Schedule 1. The article also amends Schedule 1 to the regulations to enable an examination by a health professional to take place over the telephone or by video conference as an alternative to examination in person for the purposes of providing a report or letter as supporting evidence of domestic abuse. In addition, this article omits the definition of “Immigration Rules” because that term is not used in Schedule 1 to the Civil Legal Aid (Procedure) Regulations 2012.
+Article 8 amends the Criminal Legal Aid (General) Regulations 2013 (S.I. 2013/422) to prescribe certain proceedings under the Domestic Abuse Act 2021 as “criminal proceedings” for the purposes of Part 1 of the Act.

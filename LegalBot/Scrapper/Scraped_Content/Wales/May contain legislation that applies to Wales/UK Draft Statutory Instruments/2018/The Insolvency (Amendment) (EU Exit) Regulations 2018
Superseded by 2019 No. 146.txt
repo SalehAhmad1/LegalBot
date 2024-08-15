@@ -1,0 +1,1384 @@
+Draft Regulations laid before Parliament under paragraph 1(1) of Schedule 7 to the European Union (Withdrawal) Act 2018 and paragraph 2(2) of Schedule 2 to the European Communities Act 1972, for approval by resolution of each House of Parliament.
+DRAFT STATUTORY INSTRUMENTS
+2018 No.
+EXITING THE EUROPEAN UNION
+INSOLVENCY
+The Insolvency (Amendment) (EU Exit) Regulations 2018
+Made
+***
+Coming into force in accordance with regulation 1(2) and (3)
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 8(1) of the European Union (Withdrawal) Act 2018(1) and section 2(2) of the European Communities Act 1972(2).
+The Secretary of State is designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to insolvency(3) and the protection of employees in the event of the insolvency of their employers(4).
+In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawal) Act 2018 and paragraph 2(2) of Schedule 2 to the European Communities Act 1972 a draft of this instrument has been laid before, and approved by a resolution of, each House of Parliament.
+(1)
+2018 c. 16.
+(2)
+1972 c. 68. Section 2(2) was amended by section 27 of the Legislative and Regulatory Reform Act 2006 (c. 51) and by section 3 and the Schedule to `the European Union (Amendment) Act 2008 (c. 7).
+(3)
+The Secretary of State is designated by the European Communities (Designation) (No. 3) Order 2001 S.I. 2001/3495.
+(4)
+The Secretary of State is designated by the European Communities (Designation) (No. 2) Order 2005 S.I. 2005/1971.Citation and commencement
+1.—(1) These Regulations may be cited as the Insolvency (Amendment) (EU Exit) Regulations 2018.
+(2) The following provisions of these Regulations come into force on the day after these Regulations are made—
+(a)
+regulation 2 as it relates—
+(i)
+to paragraph 177 of the Schedule, and
+(ii)
+Part 12 of the Schedule,
+(b)
+paragraph 177 of the Schedule, and
+(c)
+Part 12 of the Schedule.
+(3) The remainder of these Regulations come into force on exit day.Amendments
+2.  The Schedule has effect.Extent and application
+3.  Any provision of these Regulations amending or applying an enactment has the same extent as the enactment amended or applied, except that—
+(a)
+the amendments made to the Insolvency Act 1986 by paragraphs 18, 22, 24 and 26 of the Schedule extend to England and Wales only; and
+(b)
+the amendments made to that Act by Part 7 of the Schedule apply to Scotland only.Temporal application and savings
+4.—(1) Subject to regulation 5 nothing in these Regulations affects—
+(a)
+the application of Council Regulation (EC) 1346/2000(1) to insolvency proceedings which fall within the scope of that Regulation and were opened before 26 June 2017; and
+(b)
+the saving for the existing law in article 3 of the Insolvency Amendment (EU 2015/848) Regulations 2017(2).
+(2) Where main proceedings under the EU Insolvency Regulation were opened before exit day the amendments made by these Regulations do not apply in respect of—
+(a)
+those proceedings;
+(b)
+secondary proceedings in respect of the same debtor;
+(c)
+any proceedings falling within Article 6 of the EU Insolvency Regulation.
+(3) In applying paragraphs (1) and (2) references to the EU and to its members are to be read as if the United Kingdom were a member.
+(4) The time at which proceedings are opened is to be determined in accordance with Article 2(8) of the EU Insolvency Regulation.
+(5) In this regulation and regulation 5 the EU Insolvency Regulation means Regulation (EU) 2015/848 of the European Parliament and of the Council on insolvency proceedings(3).
+(1)
+O.J. L. 160, 30.06.2000, p.1 as last amended by Council Implementing Regulation (EU) 2016/1792 of 29 September 2016, O.J. L. 274, 11.10.2016, p.35.
+(2)
+S.I. 2017/702.
+(3)
+O.J. L. 141, 5.06.2015, p.19 as last amended by Regulation (EU) 2017/353 of the European Parliament and of the Council of 15 February 2017 O.J. L57, 3.3.2017 p.19.Temporal application and savings
+5.—(1) Paragraph (2) applies where in any particular case Council Regulation (EC) 1346/2000 or the EU Insolvency Regulation applies in the United Kingdom by virtue of regulation 4 and the court considers that the effect is or would be different to what would be the effect had a member State treated the United Kingdom as a member State under the relevant Regulation, and either—
+(a)
+the court considers that one or more of the following would be materially prejudiced—
+(i)
+the interests of a creditor (whether alone or in common with some or all other creditors),
+(ii)
+the interests of the debtor,
+(iii)
+where the debtor is a body corporate, the interests of a member (whether alone or in common with some or all other members) of the debtor; or
+(b)
+the court considers it would be manifestly contrary to public policy to apply the relevant Regulation.
+(2) The Court may—
+(a)
+apply any other relevant law of the part of the United Kingdom in which the matter is being determined (including the Cross-Border Insolvency Regulations 2006(1) or the Cross-Border Insolvency Regulations (Northern Ireland) 2007(2));
+(b)
+make any other order that it thinks fit.
+(1)
+S.I. 2006/1030; relevant amendments were made by S.I. 2017/702.
+(2)
+S.I. 2007/115; relevant amendments were made by S.I. 2017/702.Name
+Parliamentary Under Secretary of State
+Department
+DateRegulation 2
+SCHEDULE
+PART 1
+Amendment of retained direct EU legislation
+Amendments to the EU Insolvency Regulation
+1.  Regulation (EU) 2015/848 of the European Parliament and of the Council of 20 May 2015 on insolvency proceedings is amended as follows.
+2.—(1) Article 1 is amended as follows.
+(2) For the heading substitute “Application and jurisdiction”.
+(3) For paragraph 1 substitute—
+“1.  The grounds for jurisdiction to open insolvency proceedings set out in paragraph 1B are in addition to any grounds for jurisdiction to open such proceedings which apply in the laws of any part of the United Kingdom.
+1A.  There is jurisdiction to open insolvency proceedings listed in paragraph 1B where the proceedings are opened for the purposes of rescue, adjustment of debt, reorganisation or liquidation and—
+(a)
+the centre of the debtor’s main interests is in the United Kingdom; or
+(b)
+the centre of the debtor’s main interests is in a Member State and there is an establishment in the United Kingdom.
+1B.  The proceedings referred to in paragraph 1 are—
+(a)
+winding up by or subject to the supervision of the court;
+(b)
+creditors’ voluntary winding up with confirmation by the court;
+(c)
+administration, including appointments made by filing prescribed documents with the court;
+(d)
+voluntary arrangements under insolvency legislation; and
+(e)
+bankruptcy or sequestration.”.
+(4) In paragraph 2 for “Directive 2001/24/EC” substitute “the Credit Institutions (Reorganisation and Winding up) Regulations 2004”.(1)
+3.  In Article 2—
+(a)
+insert the following paragraph—
+“(1A) “Member State” means a state which is a member of the EU other than     Denmark;”;
+(b)
+omit paragraphs (1) and (3);
+(c)
+in paragraph (4) for “listed in Annex A” substitute “listed in Article 1(1B) which there is jurisdiction to open under Article 1(1A) and includes interim proceedings”;
+(d)
+in paragraph (6)—
+(i)
+omit point (i); and
+(ii)
+in point (ii) omit “in all other articles,” and “of a Member State”;
+(e)
+omit paragraph (9);
+(f)
+in paragraph (10) omit “main”;
+(g)
+omit paragraphs (11) to (14).
+4.—(1) Article 3 is amended as follows.
+(2) For the heading “International jurisdiction” substitute “Centre of main interests”.
+(3) In paragraph 1—
+(a)
+in the first sub-paragraph omit the first sentence;
+(b)
+in the second sub-paragraph for “to another Member State” substitute “from the United Kingdom to a Member State or to the United Kingdom from a Member State”;
+(c)
+in the third sub-paragraph for “to another Member State” substitute “from the United Kingdom to a Member State or to the United Kingdom from a Member State”;
+(d)
+in the fourth sub-paragraph for “to another Member State” substitute “from the United Kingdom to a Member State or to the United Kingdom from a Member State”;
+(4) Omit paragraphs 2 to 4.
+5.—(1) Article 4 is amended as follows.
+(2) In paragraph 1—
+(a)
+in the first sentence for “Article 3” substitute “Article 1(1A) (a) or (b)”; and
+(b)
+for the second sentence substitute “Where there is jurisdiction to open insolvency proceedings on either of the grounds specified in Article 1(1A)(a) or (b), the judgment opening such proceedings must state which of those grounds is applicable.”.
+(3) In paragraph 2—
+(a)
+in the first sentence—
+(i)
+omit “in accordance with national law” and “Member States may entrust”;
+(ii)
+for the words from “to examine” to the end of the sentence substitute “must examine the grounds on which there is jurisdiction to open the proceedings under Article 1(1A).”; and
+(b)
+for the second sentence substitute “Where this is the case and there is jurisdiction to open insolvency proceedings on either of the grounds specified in Article 1(1A)(a) or (b), the insolvency practitioner must specify in the decision opening the proceedings which of those grounds is applicable.”.
+6.—(1) Article 5 is amended as follows.
+(2) In the heading omit “main”.
+(3) In paragraph 1—
+(a)
+omit “main” after “the decision opening”; and
+(b)
+for “grounds of international jurisdiction” substitute “the grounds of jurisdiction under Article 1(1A)(a)”.
+(4) In paragraph 2—
+(a)
+omit “main” after “the decision opening”;
+(b)
+omit “international”;
+(c)
+after “jurisdiction” insert “under Article 1(1A)(a)”; and
+(d)
+for “national law so provides” substitute “the relevant law (other than this Regulation) of the part of the United Kingdom in which the matter is being determined so provides”.
+7.  Omit Articles 6 to 24 and 26 to 83(2).
+8.  In Article 84 omit—
+(a)
+the second sentence of paragraph 1, and
+(b)
+paragraph 2.
+9.  In Article 85—
+(a)
+omit paragraphs 1 and 2;
+(b)
+in paragraph 3—
+(i)
+in point (a) omit “in any Member State”; and
+(ii)
+for “that Member State” substitute “the United Kingdom”.
+10.  Omit Articles 86 to 90.
+11.  In Article 91 omit the second sentence.
+12.  In Article 92 omit point (c).
+13.  Omit the sentence immediately following Article 92 which begins “This Regulation shall be binding”.
+14.  Omit Annex A.
+15.  In Annex B omit all the entries other than those for the United Kingdom.
+PART 2
+Amendments to the Insolvency Act 1986
+16.  The Insolvency Act 1986(3) is amended as follows.
+17.  In section 1 in subsection (4)(4)—
+(a)
+in paragraph (b) omit “other than the United Kingdom”; and
+(b)
+in paragraph (c) for “other than Denmark” substitute “(other than Denmark) or in the United Kingdom”.
+18.  In section 106 omit subsections (4A) and (4B)(5).
+19.  In section 117 omit subsection (7)(6).
+20.  In section 120 omit subsection (6).
+21.  In section 124 in subsection (1) omit the words from “or by a member State liquidator” to “Article 52 of the EU Regulation)”(7).
+22.  In section 146 omit subsections (6) and (7)(8).
+23.  Omit section 146A(9).
+24.—(1) Section 201 is amended as follows(10).
+(2) In subsection (2) omit—
+(a)
+“and any statement under section 106(4B),”; and
+(b)
+“(except where subsection (2A) applies)”.
+(3) Omit subsections (2A) and (2B).
+25.—(1) Section 202 is amended as follows(11).
+(2) Omit subsections (2A) and (2B).
+(3) In subsection (4) omit “and send any statement under subsection (2B)”.
+(4) In subsection (5)—
+(a)
+omit “and any statement under subsection (2B)”;
+(b)
+after “shall forthwith register it” omit “or them”; and
+(c)
+omit “(except where subsection (6) applies)”.
+(5) Omit subsections (6) and (7).
+(6) In subsection (8) omit “or (7)”.
+26.—(1) Section 205 is amended as follows(12).
+(2) In subsection (2) omit “and any statement under section 146(7) or 146A(2)”.
+(3) Omit subsections (2A) and (2B).
+27.  In section 225 omit subsection (2).
+28.  In section 240 in subsection (3)(d) omit the words from “either following” to “Article 51 of the EU Regulation or”.
+29.  In section 247(13) in subsection (3) omit paragraph (b) and the “, or” preceding it.
+30.  In section 251 omit the definitions of “EU insolvency proceedings” and “member State liquidator”(14).
+31.—(1) Section 263I is amended as follows.
+(2) In subsection (1)—
+(a)
+after paragraph (a) insert—
+“(ab)
+the centre of the debtor’s main interests is in a member State (other than Denmark) and the debtor has an establishment in England and Wales, or”; and
+(b)
+in paragraph (b) omit the words from the beginning of the paragraph to “the EU Regulation, but”.
+(3) After subsection (4) insert—
+“(5) In this section “establishment” has the same meaning as in Article 2(10) of the EU Regulation.”.
+32.  In section 264 in subsection (1) omit paragraphs (ba) and (bb)(15).
+33.—(1) Section 265 is amended as follows.
+(2) In subsection (1)—
+(a)
+after paragraph (a) insert—
+“(ab)
+the centre of the debtor’s main interests is in a member State (other than Denmark) and the debtor has an establishment in England and Wales, or”; and
+(b)
+in paragraph (b) omit the words from the beginning of the paragraph to “the EU Regulation, but”.
+(3) After subsection (4) insert—
+“(5) In this section “establishment” has the same meaning as in Article 2(10) of the EU Regulation.”.
+34.  In section 330(16) omit subsection (6).
+35.  In section 387(17) in subsection (3)—
+(a)
+omit paragraphs (aa) and (ab);
+(b)
+in paragraph (b) omit “, (aa) or (ab)”;
+(c)
+in paragraph (ba) omit “, (aa), (ab)”;
+(d)
+in paragraph (c) omit “, (aa), (ab)”.
+36.  In section 388(18) omit subsection (6).
+37.  In section 411 in subsection (2B) for the words from “an offence” to the end of the sentence substitute “a new relevant offence”.
+38.  In section 412 in subsection (2B) for the words from “an offence” to the end of the sentence substitute “a new relevant offence”.
+39.  In section 420 in subsection (1B) for the words from “an offence” to the end of the sentence substitute “a new relevant offence”.
+40.  In section 421 in subsection (1B) for the words from “an offence” to the end of the sentence substitute “a new relevant offence”.
+41.  After section 422 insert—
+“422A.    Meaning of “relevant offence”
+In this Part “relevant offence” means a criminal offence punishable with imprisonment for more than two years or punishable on summary conviction with imprisonment for more than three months or with a fine of more than level 5 on the standard scale (if not calculated on a daily basis) or with a fine of more than £100 a day.”
+42.  In section 436 in the definition of “the EU Regulation” at the end insert “as it forms part of domestic law on and after exit day”.
+43.  Omit section 436A(19).
+44.  In Schedule B1(20)—
+(a)
+in paragraph 84(21)—
+(i)
+omit sub-paragraphs (1A) and (1B);
+(ii)
+in sub-paragraph (3) omit “and any statement under sub-paragraph (1B)” and at the end omit “or them”;
+(iii)
+in sub-paragraph (6) omit “(except where sub-paragraph (6A) applies)”;
+(iv)
+omit sub-paragraphs (6A) and (6B); and
+(v)
+in sub-paragraph (7)(a) and (c) omit “or (6B)”;
+(b)
+in paragraph 111(22)—
+(i)
+in sub-paragraph (1A)(b) omit “other than the United Kingdom”; and
+(ii)
+in sub-paragraph (1A)(c) for “other than Denmark” substitute “(other than Denmark) or in the United Kingdom”.
+PART 3
+Administration under old Part 2 of the Insolvency Act 1986
+45.—(1) Part 2 of the Insolvency Act 1986 as it had effect immediately before the coming into force of section 248 of the Enterprise Act 2002 and in so far as it continues to have effect is amended as follows(23).
+(2) In section 8 for “Article 3 of the EC Regulation” substitute “Article 1 of the EU Regulation”.
+PART 4
+Amendments to the Insolvency (England and Wales) Rules 2016
+46.  The Insolvency (England and Wales) Rules 2016(24) are amended as follows.
+47.  In rule 1.2(2)—
+(a)
+omit the following definitions—
+(i)
+“main proceedings”,
+(ii)
+“member State liquidator”,
+(iii)
+“non-EU proceedings”’,
+(iv)
+“secondary proceedings”,
+(v)
+“temporary administrator”,
+(vi)
+“territorial proceedings”;
+(b)
+insert in the appropriate places—
+““COMI proceedings” means insolvency proceedings in England and Wales to which the EU Regulation applies where the centre of the debtor’s main interests is in the United Kingdom;
+“establishment” has the same meaning as in Article 2(10) of the EU Regulation;
+“establishment proceedings” means insolvency proceedings in England and Wales to which the EU Regulation applies where the debtor has an establishment in the United Kingdom;”.
+48.—(1) Rule 1.7 is amended as follows(25).
+(2) For the heading substitute “Reasons for stating whether proceedings are or will be COMI proceedings, establishment proceedings etc.”.
+(3) In the opening words for “main, secondary or territorial or non-EU proceedings” substitute “COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply” and after “must include” insert “as applicable”.
+(4) In paragraph (a)—
+(a)
+at the end of sub-paragraph (ii) omit “or”;
+(b)
+after sub-paragraph (ii) insert—
+“(iia)
+the place where there is an establishment within the jurisdiction, or”; and
+(c)
+in sub-paragraph (iii) for “non-EU proceedings” substitute “proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply”.
+(5) For sub-paragraph (b) substitute—
+“(b)
+for a debtor—
+(i)
+the centre of main interests, or
+(ii)
+the place where there is an establishment within the jurisdiction.”.
+49.  In rule 1.20 delete paragraph (1)(o).
+50.  In rule 2.3 in paragraph (1) for sub-paragraph (q) substitute—
+“(q)
+whether the proceedings will be COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply with reasons;”.
+51.  In rule 2.14 in paragraph (2A)(26) for “main, secondary, territorial or non-EU proceedings” substitute “COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply”.
+52.  In rule 2.25 in paragraph (2A)(27) for “main, secondary, territorial or non-EU proceedings” substitute “COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply”.
+53.  In rule 2.38(28) in paragraph (2) in sub-paragraph (d) for “main, territorial or non-EU proceedings” substitute “COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply”.
+54.  In rule 3.3 in paragraph (2) in sub-paragraph (h) for “main, secondary, territorial or non-EU proceedings” substitute “COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply”.
+55.  In rule 3.6 in paragraph (3) in sub-paragraph (f) for “main, secondary, territorial or non-EU proceedings” substitute “COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply”.
+56.  In rule 3.8 omit paragraph (3)(c).
+57.  In rule 3.10 in sub-paragraph (b) omit “(including the United Kingdom)” and “other than the United Kingdom”.
+58.  In rule 3.12 omit paragraph (1)(g).
+59.  In rule 3.13 in paragraph (1)—
+(a)
+in sub-paragraph (h) after “EU Regulation” insert “as it has effect in the law of the United Kingdom”; and
+(b)
+in sub-paragraph (i) for “main, secondary or territorial proceedings” substitute “COMI proceedings or establishment proceedings”.
+60.  In rule 3.16 in paragraph (2) in sub-paragraph (k) for “main, secondary, territorial or non-EU proceedings” substitute “COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply”.
+61.  In rule 3.17 in paragraph (1) in sub-paragraph (k) for “main, secondary, territorial or non-EU proceedings” substitute “COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply”.
+62.  In rule 3.21 in paragraph (1) in sub-paragraph (i) for “main, secondary, territorial or non-EU proceedings” substitute “COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply”.
+63.  In rule 3.23 in paragraph (1) in sub-paragraph (i) for “main, secondary, territorial or non-EU proceedings” substitute “COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply”.
+64.  In rule 3.24 in paragraph (1) in sub-paragraph (h) for “main, secondary, territorial or non-EU proceedings” substitute “COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply”.
+65.  In rule 3.25 in paragraph (2) in sub-paragraph (i) for “main, secondary, territorial or non-EU proceedings” substitute “COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply”.
+66.  In rule 3.35 in paragraph (1) in sub-paragraph (m) for “main, secondary, territorial or non-EU proceedings” substitute “COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply”.
+67.  In rule 3.51 in paragraph (2) in sub-paragraph (g) omit “costs referred to in Articles 30 or 59 of the EU Regulation and”.
+68.  In rule 3.63 in paragraph (4) omit sub-paragraph (d).
+69.  In rule 3.68 in paragraph (2) omit sub-paragraph (g).
+70.  In rule 6.42 in paragraph (4)(f) omit “costs referred to in Articles 30 or 59 of the EU Regulation and”.
+71.  In rule 7.5 in paragraph (1) in sub-paragraph (n) for “main, secondary, territorial or non-EU proceedings” substitute “COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply”.
+72.  In rule 7.6 in paragraph (8) for “main, secondary, territorial or non-EU proceedings” substitute “COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply”.
+73.  In rule 7.9 in paragraph (3)—
+(a)
+insert after sub-paragraph (b) “or”, and
+(b)
+omit sub-paragraph (d) and the “or” preceding it.
+74.  In rule 7.17 omit paragraph (2)(b) and the “or” preceding it.
+75.  In rule 7.18 in sub-paragraph (c) —
+(a)
+insert “or” before “contributory”, and
+(b)
+omit “or member State liquidator”.
+76.  In rule 7.20 in paragraph (1) in sub-paragraph (g) for “main, secondary, territorial or non-EU proceedings” substitute “COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply”.
+77.  In rule 7.26 in paragraph (1) in sub-paragraph (n) for “main, secondary, territorial or non-EU proceedings” substitute “COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply”.
+78.  In rule 7.28 in paragraph (6) for “main, secondary, territorial or non-EU proceedings” substitute “COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply”.
+79.  In rule 7.29 omit paragraph (6).
+80.  In rule 7.32 in paragraph (1) sub-paragraph (h) for “main, secondary, territorial or non-EU proceedings” substitute “COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply”.
+81.  In rule 7.33—
+(a)
+after paragraph (1)(f) insert “or”;
+(b)
+omit paragraph (1)(g); and
+(c)
+in paragraph (2)(f) for “main, secondary, territorial or non-EU proceedings” substitute “COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply”.
+82.  In rule 7.35 in paragraph (1) in sub-paragraph (e)(ii) for “main, secondary, territorial or non-EU proceedings” substitute “COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply”.
+83.  In rule 7.108 in paragraph (4) in sub-paragraph (m) omit “costs referred to in Articles 30 or 59 of the EU Regulation and”.
+84.  In rule 8.3 in paragraph (q) for “main, territorial or non-EU proceedings” substitute “COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply”.
+85.  In rule 8.19 in paragraph (1A) for “main, secondary, territorial or non-EU proceedings” substitute “COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply”.
+86.  In rule 10.7 in paragraph (1) for sub-paragraph (d) substitute—
+“(d)
+whether—
+(i)
+the centre of the debtor’s main interests is within the United Kingdom or is within a member State;
+(ii)
+the centre of the debtor’s main interests is neither within the United Kingdom nor a member State;
+(iii)
+the debtor has an establishment within the United Kingdom;
+(iv)
+the debtor carries on business as an Article 1.2 undertaking;”.
+87.  In rule 10.8 in paragraph (1) in sub-paragraph (g) for “another” substitute “the UK or a”.
+88.  In rule 10.12 in paragraph (4)—
+(a)
+at the end of sub-paragraph (a) insert “and”; and
+(b)
+omit sub-paragraph (c) and the “and” preceding it.
+89.  In rule 10.14 omit paragraph (3).
+90.  In rule 10.19—
+(a)
+in paragraph (1) omit the words from “or a member State liquidator” to “in relation to the debtor”;
+(b)
+in paragraph (2) in sub-paragraph (f) omit the words “or member State liquidator”.
+91.  In rule 10.29—
+(a)
+in paragraph (2) in sub-paragraph (a) omit the words from “or a member State liquidator” to “in relation to the debtor”; and
+(b)
+in paragraph (6) in sub-paragraph (d) omit the words from “or a member State liquidator” to “in relation to the debtor”.
+92.  In rule 10.31 in paragraph (1) for sub-paragraph (e)(i) substitute—
+“(i)
+that the court, being satisfied that the EU Regulation as it has effect in the law of the United Kingdom applies, declares that the proceedings are COMI proceedings or establishment proceedings, or”.
+93.  In rule 10.41 in paragraph (2) for sub-paragraph (d)(i) substitute—
+“(i)
+that the adjudicator, being satisfied that the EU Regulation as it has effect in the law of the United Kingdom applies, declares that the proceedings are COMI proceedings or establishment proceedings, or”.
+94.  In rule 10.49—
+(a)
+in paragraph (1)—
+(i)
+at the end of sub-paragraph (b) insert “or”; and
+(ii)
+omit sub-paragraph (d) and the “or” preceding it; and
+(b)
+in paragraph (2) in sub-paragraph (f) for “main, secondary, territorial or non-EU proceedings” substitute “COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply”.
+95.  In rule 10.51 in paragraph (1) in sub-paragraph (e)(ii) for “main, secondary, territorial or non-EU proceedings” substitute “COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply”.
+96.  In rule 10.149 in sub-paragraph (n) omit the words “costs referred to in Article 30 of the EU Regulation and”.
+97.  In rule 12.15 in paragraph (2) omit “including any member State liquidator”.
+98.  In rule 14.16 omit paragraph (3).
+99.  In rule 14.32 omit paragraph (4).
+100.  In rule 15.11 in the table in paragraph (1) omit the entry for “Main proceedings in another member State”.
+101.  In rule 15.28 in paragraph (3) omit sub-paragraph (b) and the “or” preceding it.
+102.  Omit rule 15.30.
+103.  In rule 15.31—
+(a)
+in paragraph (7) omit the words from “; and for this purpose” to the end; and
+(b)
+in paragraph (9) in the opening words omit “or member State liquidator”.
+104.  Omit rules 21.1 to 21.3(29).
+105.  In rule 21.4 for paragraph (3)(e) substitute—
+“(e)
+a statement whether the proceedings will be COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply and the reasons for so stating.”.
+106.  Omit rules 21.6 to 21.17.
+107.  In Schedule 4 in the table of requirements for service in paragraph 6 omit the entry relating to rule 21.2 (application for conversion into winding up/ bankruptcy under EU Regulation).
+PART 5
+Other amendments: England and Wales
+The Administration of Insolvent Estates of Deceased Persons Order 1986
+108.—(1) The Administration of Insolvent Estates of Deceased Persons Order 1986(30) is amended as follows.
+(2) In Schedule 1 in Part 2—
+(a)
+in paragraph 1A renumber the two subsections to be inserted in section 265 of the Insolvency Act 1986 as subsections (6) and (7);
+(b)
+in the first line of the inserted subsection (7) for “subsection (5)” substitute “subsection (6)”; and
+(c)
+in paragraph 2 in sub-paragraph (a) in the subsection (1) to be substituted for that subsection in section 266 of the Insolvency Act 1986 omit paragraph (a).
+The Land Registration Rules 2003
+109.  In the Land Registration Rules 2003(31) omit rule 171.
+The Civil Proceedings Fees Order 2008
+110.—(1) The Civil Proceedings Fees Order 2008(32) is amended as follows.
+(2) In the Table in Schedule 1 omit the entry for fee 3.6.
+PART 6
+Other amendments: England, Wales and Scotland
+The Pension Protection Fund (Entry Rules) Regulations 2005
+111.—(1) The Pension Protection Fund (Entry Rules) Regulations 2005(33) are amended as follows.
+(2) In regulation 1—
+(a)
+in paragraph (3) omit the definitions of “establishment” and “the Insolvency Regulation”; and
+(b)
+omit paragraph (7).
+(3) In regulation 7—
+(a)
+in paragraph (1) for “paragraphs (2), (4) and (5)” substitute “paragraphs (2) and (4)”; and
+(b)
+omit paragraphs (5) and (6).
+(4) In regulation 7A—
+(a)
+in paragraph (2) for “paragraphs (3), (5) and (6)” substitute “paragraphs (3) and (5)”, and
+(b)
+omit paragraphs (6) and (7).
+The Cross-Border Insolvency Regulations 2006
+112.  The Cross-Border Insolvency Regulations 2006(34) are amended as follows.
+113.  Schedule 1 is amended as follows.
+114.  In article 1 in paragraph 3(b) omit “, other than the United Kingdom,”.
+115.  In article 2—
+(a)
+in paragraph (a)(i)—
+(i)
+after “and made by or under” insert “the EU Insolvency Regulation,”, and
+(ii)
+after “or by or under that” insert “Regulation or”;
+(b)
+in paragraph (a)(ii) —
+(i)
+after “and made by or under” insert “the EU Insolvency Regulation,”, and
+(ii)
+after “or by or under” insert “that Regulation or”.
+(c)
+in paragraph (d) at the end of the definition of “the EU Insolvency Regulation” insert “as that Regulation forms part of domestic law on and after exit day”.
+116.  Omit article 3.
+117.  In article 16—
+(a)
+after paragraph 2 insert—
+“2A.  Where the EU Insolvency Regulation applies the centre of the debtor’s main interests is to be determined in accordance with that Regulation.”;
+(b)
+for paragraph 3 substitute—
+“3.  Subject to paragraph 2A, in the absence of proof to the contrary, the debtor’s registered office, or habitual residence in the case of an individual, is presumed to be the centre of the debtor’s main interests.”.
+118.  Schedule 2 is amended as follows.
+119.  In paragraph 1 in sub-paragraph (1)(35) omit the definitions of “main proceedings”, “member State liquidator”, “secondary proceedings” and “territorial proceedings”.
+120.  In paragraph 4 omit sub-paragraph (2).
+121.  In paragraph 6 omit sub-paragraph (2)(b) and the “and” preceding it.
+122.  In paragraph 21 omit sub-paragraph (2)(e).
+123.  In paragraph 25 omit sub-paragraph (1)(e).
+124.  In paragraph 26 omit sub-paragraph (3)(c).
+125.  In paragraph 46 omit sub-paragraph (1)(f).
+126.  Schedule 3 is amended as follows.
+127.  In paragraph 1 in sub-paragraph (1) omit the definitions of “main proceedings” and “member State liquidator”.
+128.  In paragraph 6 omit sub-paragraph (1)(e).
+129.  In paragraph 7 omit sub-paragraph (3)(c).
+130.  In paragraph 9 omit sub-paragraph (1)(f).
+131.  Schedule 5 is amended as follows.
+132.  In Form ML6 omit paragraph 5 (statement of service on the member State liquidator).
+PART 7
+Amendments to the Insolvency Act 1986 applying to Scotland only
+133.  The Insolvency Act 1986 is amended as follows(36).
+134.  In section 106 omit subsections (7) and (8).
+135.  In section 172 omit subsections (9) and (10).
+136.  In section 201—
+(a)
+in subsection (2) omit “and any statement under section 106(8)” and “(except where subsection (2A) applies)”; and
+(b)
+omit subsections (2A) and (2B).
+137.  In section 204 omit subsections (4A) to (4E).
+138.  In section 205(37)—
+(a)
+in subsection (2) for the words from “on receipt of the notice” to “register it or them” substitute “on receipt of the notice, forthwith register it”; and
+(b)
+omit subsections (2A) and (2B).
+PART 8
+Amendments to the Insolvency (Scotland) Rules 1986
+139.  The Insolvency (Scotland) Rules 1986(38) are amended as follows.
+140.  In rule 0.2—
+(a)
+at the end of the definition of “EU regulation” insert “as it forms part of domestic law on and after exit day”;
+(b)
+omit the following definitions—
+(i)
+“main proceedings”,
+(ii)
+“member State liquidator”,
+(iii)
+“secondary proceedings”,
+(iv)
+“territorial proceedings”;
+(c)
+in the definition of “centre of main interests” after “interests” insert “(COMI)”;
+(d)
+insert in the appropriate places—
+““COMI proceedings” means insolvency proceedings in Scotland to which the EU Regulation applies where the centre of the debtor’s main interests is in the United Kingdom;”, and
+““establishment proceedings” means insolvency proceedings in Scotland to which the EU Regulation applies where the debtor has an establishment in the United Kingdom;”.
+141.  In rule 1.3 in paragraph (2)(p) for “main proceedings or territorial proceedings” substitute “COMI proceedings or establishment proceedings”.
+142.  In rule 1.7(39) in paragraph (2A) for “main proceedings, territorial proceedings or secondary proceedings” substitute “COMI proceedings or establishment proceedings”.
+143.  In rule 1.10 in paragraph (d) for “main proceedings, territorial proceedings or secondary proceedings” substitute “COMI proceedings or establishment proceedings”.
+144.  In rule 1.17 in paragraph (2) in sub-paragraph (ca)(ii) for “main proceedings or territorial proceedings or secondary proceedings” substitute “COMI proceedings or establishment proceedings”.
+145.  In rule 1.28(40) in paragraph (2A) for “main proceedings, territorial proceedings, or secondary proceedings” substitute “COMI proceedings or establishment proceedings”.
+146.  In rule 1.29(41) in paragraph (2)(c) for “main, secondary, territorial or non-EU proceedings” substitute “COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply”.
+147.  In Part 1 omit rules 1.46 to 1.49 (Chapters 8 and 9).
+148.  In rule 2.2 in paragraph (3) for “main, secondary or territorial proceedings” substitute “COMI proceedings or establishment proceedings”.
+149.  In rule 2.3(42) omit paragraph (1)(b).
+150.  In rule 2.25(43) in paragraph (1) in sub-paragraph (q)(ii) for “main, secondary or territorial proceedings” substitute “COMI proceedings or establishment proceedings”.
+151.  In Part 2 omit rules 2.57 to 2.60 (Chapters 12 and 13).
+152.  In rule 4.15—
+(a)
+in paragraph (5) omit sub-paragraph (b) and the “or” preceding it; and
+(b)
+omit paragraphs (5B), (5C) and (5D).
+153.  In rule 4.16C omit paragraphs (3) to (5).
+154.  In rule 4.67(44) in paragraph (1)(a) omit the words from “including any costs” to “the EU Regulation”.
+155.  In rule 4.68(45) omit paragraph (11).
+156.  In rule 4.75A(46) in paragraph (4) omit sub-paragraph (b) and the “or” preceding it.
+157.  In Part 4 omit rule 4.83 (Chapter 14).
+158.  In Chapter 15—
+(a)
+in rule 4.84 for paragraph (2)(e) substitute—
+“(e)
+that the company’s centre of main interests is in the United Kingdom or there is an establishment in the United Kingdom and the reasons for so stating.”; and
+(b)
+omit rule 4.85.
+159.  Omit rules 7.20A to 7.20J
+160.  In rule 7.26 omit paragraph (2A) as inserted by regulation 28(2) of the Insolvency (Scotland) Regulations 2003(47).
+PART 9
+Amendments to the Insolvency (Northern Ireland) Order 1989 and the Insolvency Rules (Northern Ireland) 1991
+Amendments to the Insolvency (Northern Ireland) Order 1989
+161.  The Insolvency (Northern Ireland) Order 1989(48) is amended as follows.
+162.  In Article 2(2) in the definition of “the EU Regulation” at the end insert “as it forms part of domestic law on and after exit day”(49).
+163.  In Article 2(2) omit the definitions of “EU insolvency proceedings” and “member State liquidator”(50).
+164.  Omit Article 2A(51).
+165.  In Article 3 omit paragraph (6).
+166.  In Article 6 in paragraph (3) omit sub-paragraph (b) and the “or” preceding it.
+167.  In Article 14 in paragraph (4)—
+(a)
+in sub-paragraph (b) omit “other than the United Kingdom”; and
+(b)
+in sub-paragraph (c) after “interests” insert “either” and after “Denmark” insert “or in the United Kingdom”.
+168.  In Article 80 omit paragraphs (3A) and (3B)(52).
+169.  In Article 104 in paragraph (1) omit the words from “or by a member State liquidator” to “Article 52 of the EU Regulation)”(53).
+170.  In Article 124 omit paragraphs (6) and (7)(54).
+171.  Omit Article 124A(55).
+172.—(1) Article 166 is amended as follows(56).
+(2) In paragraph (2) omit “and any statement under Article 80(3B)” and “(except where paragraph (2A) applies)”.
+(3) Omit paragraphs (2A) and (2B).
+173.—(1) Article 167 is amended as follows(57).
+(2) Omit paragraphs (1A) and (1B).
+(3) In paragraph (2) for “an application under paragraph (1)” substitute “that application”.
+(4) In paragraph (3) omit “and to send any statement under paragraph (1B)”.
+(5) In paragraph (4)—
+(a)
+omit “and any statement under paragraph (1B)” and “or them”;
+(b)
+for “subject to paragraph (5)” substitute “subject to paragraph (7)”; and
+(c)
+omit “(except where paragraph (5) applies)”.
+(6) Omit paragraphs (5) and (6).
+(7) In paragraph (7) for “the period in paragraph (4) or (6)” substitute “that period”.
+174.—(1) Article 169(58) is amended as follows.
+(2) In paragraph (1) omit “and any statement under Article 124(7) or 124A(2)” and “of the final account or notice”.
+(3) Omit paragraphs (1A) and (1B).
+175.  In Article 204(59) in paragraph (3)(d) omit the words from “either following” to “Article 51 of the EU Regulation or”.
+176.  In Article 238 in paragraph (1) omit sub-paragraphs (ba) and (bb)(60).
+177.  For Article 239 substitute—
+“239.    Conditions to be satisfied in respect of debtor
+(1) A bankruptcy petition may be presented to the High Court under Article 238(1)(a) or (b) only if—
+(a)
+the centre of the debtor’s main interests is in Northern Ireland,
+(b)
+the centre of the debtor’s main interests is in a member State of the European Union which has adopted the EU Regulation and the debtor has an establishment in Northern Ireland, or
+(c)
+the centre of the debtor’s main interests is not in a member State of the European Union which has adopted the EU Regulation, but the test in paragraph (2) is met.
+(2) The test is that—
+(a)
+the debtor is domiciled in Northern Ireland, or
+(b)
+the debtor is personally present in Northern Ireland on the day on which the petition is presented, or
+(c)
+at any time in the period of three years ending with the day on which the petition is presented, the debtor—
+(i)
+has been ordinarily resident, or has had a place of residence, in Northern Ireland, or
+(ii)
+has carried on business in Northern Ireland.
+(3) The reference in paragraph (2) to the debtor carrying on business includes—
+(a)
+the carrying on of business by a firm or partnership of which the debtor is a member, and
+(b)
+the carrying on of business by an agent or manager for the debtor or for such a firm or partnership.
+(4) In this Article—
+(a)
+references to the centre of the debtor’s main interests have the same meaning as in Article 3 of the EU Regulation, and
+(b)
+“establishment” has the same meaning as in Article 2(10) of the EU Regulation.”.
+178.—(1) Article 239(61) (as substituted by paragraph 177) is amended as follows.
+(2) In paragraph (1)—
+(a)
+in sub-paragraph (b) after “European Union” insert “other than Denmark” and omit the words “which has adopted the EU Regulation”; and
+(b)
+in sub-paragraph (c) omit the words from the beginning of the paragraph to “the EU Regulation, but”.
+179.  In Article 303 omit paragraph (6)(62).
+180.  In Article 347 in paragraph (3)(63)—
+(a)
+omit sub-paragraphs (aa) and (ab);
+(b)
+in sub-paragraph (b) omit “, (aa) or (ab)”;
+(c)
+in sub-paragraph (ba) omit “, (aa), (ab)”;
+(d)
+in sub-paragraph (c) omit “ (aa), (ab),”.
+181.  In Article 359(64) in paragraph (2B) for the words from “an offence” to the end of the sentence substitute “a new relevant offence (see Article 366A)”.
+182.  In Article 364(65) in paragraph (1B) for the words from “an offence” to the end of the sentence substitute “a new relevant offence (see Article 366A)”.
+183.  In Article 365(66) in paragraph (1B) for the words from “an offence” to the end of the sentence substitute “a new relevant offence (see Article 366A)”.
+184.  After Article 366 insert—
+“366A.    Meaning of “relevant offence”
+In Articles 359(2B), 364(1B) and 365(1B), a “relevant offence” is a criminal offence punishable with imprisonment for more than two years or punishable on summary conviction with imprisonment for more than three months or with a fine of more than level 5 on the standard scale (if not calculated on a daily basis) or with a fine of more than £100 a day.”.
+185.  In Schedule B1—
+(a)
+in paragraph 1—
+(i)
+in sub-paragraph (1A)(b) omit “other than the United Kingdom”;
+(ii)
+in sub-paragraph (1A)(c) after “interests” insert “either” and after “Denmark” insert “or in the United Kingdom”;
+(b)
+in paragraph 85(67)—
+(i)
+omit sub-paragraphs (1A) and (1B);
+(ii)
+in sub-paragraph (3) omit “and any statement under sub-paragraph (1B)” and at the end omit “or them”;
+(iii)
+in sub-paragraph (6) omit “(except where sub-paragraph (6A) applies)”;
+(iv)
+omit sub-paragraphs (6A) and (6B); and
+(v)
+in sub-paragraphs (7)(a) and (c) omit “or (6B)”.
+Amendments to the Insolvency Rules (Northern Ireland) 1991
+186.  The Insolvency Rules (Northern Ireland) 1991(68) are amended as follows.
+187.  In Rule 0.2 (Interpretation)—
+(a)
+omit the following definitions—
+(i)
+“main proceedings”,
+(ii)
+“Member State liquidator”,
+(iii)
+“secondary proceedings”,
+(iv)
+“temporary administrator”,
+(v)
+“territorial proceedings”;
+(b)
+insert in the appropriate places—
+““COMI proceedings” means insolvency proceedings in Northern Ireland to which the EU Regulation applies where the centre of the debtor’s main interests is in the United Kingdom;”;
+““establishment proceedings” means insolvency proceedings in Northern Ireland to which the EU Regulation applies where the debtor has an establishment in the United Kingdom;”;
+(c)
+in the definition of “establishment” for “Article 2(h) of the EC Regulation” substitute “Article 2(10) of the EU Regulation”.
+188.  In Rule 1.03 in paragraph (2) for sub-paragraph (q) substitute—
+“(q)
+whether the proceedings will be COMI proceedings, establishment proceedings, or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply with reasons.”(69).
+189.  In Rule 1.09 in paragraph (1A)(70) for the words “main, secondary, territorial” substitute “COMI proceedings, establishment proceedings”.
+190.  In Rule 1.24 in paragraph (2)(ca) for the words “whether the proceedings are main proceedings, secondary proceedings or territorial proceedings;” substitute “whether the proceedings are COMI proceedings, establishment proceedings, or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply;”(71).
+191.  Omit Rules 1.31 to 1.33 (Chapter 7)(72).
+192.  Omit Rule 1.34 (Chapter 8)(73).
+193.  In Rule 1.39 in paragraph (2)(c) for the words “main, secondary, territorial” substitute “COMI proceedings, establishment proceedings”(74).
+194.  In Rule 2.001 in paragraph (d) omit the reference to Chapters 14 and 15.
+195.  In Rule 2.004 in paragraph (4) for the words from “main” to the second “proceedings” substitute “COMI proceedings or establishment proceedings”.
+196.  In Rule 2.006 omit paragraph (3)(c).
+197.  In Rule 2.012 omit paragraph (1)(g).
+198.  In Rule 2.034 for paragraph (2)(p)(ii) substitute—
+“(ii)
+if so, whether the proceedings will be COMI proceedings, establishment proceedings, or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply with reasons; and”.
+199.  In Rule 2.039 omit—
+(a)
+paragraph (1)(a)(ii) and the “or” preceding it, and
+(b)
+paragraphs (8) to (11).
+200.  In Rule 2.068 in paragraph (1)(f) omit the words “costs referred to in Articles 30 or 59 of the EU Regulations and”(75).
+201.  In Rule 2.096 omit paragraph (2)(a)(ii) and the “and” preceding it.
+202.  In Rule 2.097 omit paragraph (4).
+203.  In Rule 2.099 in paragraph (1) omit the words from “and” to the end of the sentence.
+204.  In Rule 2.121 omit paragraph (2).
+205.  Omit Rules 2.131 to 2.133 (Chapter 14)(76).
+206.  Omit Rules 2.134 to 2.143 (Chapter 15)(77).
+207.  In Rule 4.007 omit paragraph (4)(ea).
+208.  In Rule 4.010 omit paragraph (3A).
+209.  In Rule 4.012—
+(a)
+in paragraph (8) omit the words from “(i)” to “whether”; and
+(b)
+for the words “main proceedings or territorial proceedings” substitute “COMI proceedings, establishment proceedings, or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply”.
+210.  In Rule 4.024 omit paragraph (6).
+211.  In Rule 4.027 omit paragraph (1)(g).
+212.  In Rule 4.073(78)—
+(a)
+omit paragraph (1)(a)(ii) and the “or” preceding it; and
+(b)
+omit paragraphs (8) to (10).
+213.  In Rule 4.228 in paragraph (3) sub-paragraph (m) omit the words “costs referred to in Articles 30 or 59 of the EU Regulation and”(79).
+214.  In Rule 5.04 in paragraph (2)(r) for the words “main proceedings or territorial proceedings” substitute “COMI proceedings or establishment proceedings”.
+215.  Omit Rules 5.61 to 5.64 (Chapter 13)(80).
+216.  In Rule 6.007 in paragraph (1) in sub-paragraph (f) for “another” substitute “the UK or a”.
+217.  In Rule 6.013 omit paragraph (5).
+218.  In Rule 6.027 in paragraph (2)(c) omit the wording in the second set of brackets.
+219.  In Rule 6.049(81)—
+(a)
+in paragraph (1)(d) omit “or” at the end of the sentence; and
+(b)
+omit paragraph (1)(e).
+220.  In Rule 6.090 omit paragraphs (8) to (10).
+221.  In Rule 6.113 omit paragraph (3).
+222.  In Rule 6.222 in paragraph (1) sub-paragraph (m) omit the words “insert costs referred to in Articles 30 or 59 of the EU Regulation and” (82).
+223.  Omit Rules 6.231 and 6.232 (Chapter 26).
+224.  In Rule 7.08A omit “including any member State liquidator”.
+225.  In Rule 7.56 in paragraph (2) for the words in sub-paragraph (e) substitute “whether the proceedings will be COMI proceedings or establishment proceedings.”(83).
+226.  Omit Rule 7.57.
+227.  Omit Rule 7.58 (Chapter 11).
+228.  Omit Rule 8.8.
+229.  In Rule 11.01 omit paragraph (3).
+230.  In Rule 11.02 omit paragraph (1)(b) and the “and” preceding it.
+231.  In Rule 11.03 omit paragraph (4).
+232.  In Rule 11.06 omit paragraph (1)(b) and the “and” preceding it.
+233.  In Rule 12.13 omit paragraph (5).
+234.  In Rule 12.19 omit paragraph (3A).
+PART 10
+Other amendments: Northern Ireland
+The Pension Protection Fund (Entry Rules) Regulations (Northern Ireland) 2005
+235.—(1) The Pension Protection Fund (Entry Rules) Regulations (Northern Ireland) 2005(84) are amended as follows.
+(2) In regulation 1—
+(a)
+in paragraph (2) omit the definitions of “establishment” and “the Insolvency Regulation”, and
+(b)
+omit paragraph (4A).
+(3) In regulation 7—
+(a)
+in paragraph (1) for “paragraphs (2), (4) and (5)” substitute “paragraphs (2) and (4)”, and
+(b)
+omit paragraphs (5) and (6).
+(4) In regulation 7A—
+(a)
+in paragraph (2) for “paragraphs (3), (5) and (6)” substitute “paragraphs (3) and (5)”, and
+(b)
+omit paragraphs (6) and (7).
+The Cross-Border Insolvency Regulations (Northern Ireland) 2007
+236.  The Cross-Border Insolvency Regulations (Northern Ireland) 2007(85) are amended as follows.
+237.  Schedule 1 is amended as follows.
+238.  In article 1 in paragraph 3(b) omit “, other than the United Kingdom,”.
+239.  In article 2—
+(a)
+in sub-paragraph (b) at the end of the definition of “the EU Insolvency Regulation” insert “as that Regulation forms part of domestic law on and after exit day”; and
+(b)
+in sub-paragraph (k)—
+(i)
+after “made by or under” insert “the EU Insolvency Regulation and”, and
+(ii)
+after “or by or under that” insert “Regulation or”.
+240.  Omit article 3.
+241.  In article 16—
+(a)
+after paragraph 2 insert—
+“2A.  Where the EU Insolvency Regulation applies the centre of the debtor’s main interests is to be determined in accordance with that Regulation.”;
+(b)
+for paragraph 3 substitute—
+“3.  Subject to paragraph 2A, in the absence of proof to the contrary, the debtor’s registered office, or habitual residence in the case of an individual, is presumed to be the centre of the debtor’s main interests.”.
+242.  Schedule 2 is amended as follows.
+243.  In paragraph 1 in sub-paragraph (1) omit the definitions of “main proceedings”, “member State liquidator”, “secondary proceedings” and “territorial proceedings”.
+244.  In paragraph 4 omit sub-paragraph (2).
+245.  In paragraph 6 omit sub-paragraph (2)(b) and the “and” preceding it.
+246.  In paragraph 21 omit sub-paragraph (2)(e).
+247.  In paragraph 25 omit sub-paragraph (1)(e).
+248.  In paragraph 26 omit sub-paragraph (3)(c).
+249.  In paragraph 44 omit sub-paragraph (1)(f).
+250.  Omit paragraph 53.
+251.  Schedule 4 is amended as follows.
+252.  In Form ML6 omit paragraph 5 (statement of service on the member State liquidator).
+PART 11
+Amendments to the Employment Rights Act 1996 and the Pension Schemes Act 1993
+Amendments to the Employment Rights Act 1996
+253.—(1) The Employment Rights Act 1996(86) is amended as follows.
+(2) In section 166(87)—
+(a)
+in subsection (5)—
+(i)
+in paragraph (a) for “(6) or (8A)” substitute “(6), (8ZA) or (8A)”;
+(ii)
+in paragraph (b) for “(7) or (8A)”substitute “(7), (8ZA) or (8A)”;
+(iii)
+in paragraph (c) for “(8) or (8A)” substitute “(8), (8ZA) or (8A)”;
+(iv)
+in paragraph (d) for “(8A)” substitute “(8ZA) or (8A)”;
+(b)
+after subsection (8) insert—
+“(8ZA) This subsection is satisfied in the case of an employer if—
+(a)
+the employer is a legal person,
+(b)
+a request has been made for the first opening of collective proceedings—
+(i)
+based on the insolvency of the employer, as provided for under the law of any part of the United Kingdom, and
+(ii)
+involving the partial or total divestment of the employer’s assets and the appointment of a liquidator or a person performing a similar task, and
+(c)
+any of the following has decided to open the proceedings—
+(i)
+a court,
+(ii)
+a meeting of creditors, or
+(iii)
+the creditors by a decision procedure.”;
+(c)
+in subsection (8B) for “subsection (8A)” substitute “this section”.
+(3) In section 183(88)—
+(a)
+in subsection (1)—
+(i)
+in paragraph (a) for “(2) or (4A)” substitute “(2), (4ZA) or (4A)”;
+(ii)
+in paragraph (b) for “(3) or (4A)” substitute “(3), (4ZA) or (4A)”;
+(iii)
+in paragraph (c) for “(4) or (4A)” substitute “(4), (4ZA) or (4A)”;
+(iv)
+in paragraph (d) for “(4A)” substitute “(4ZA) or (4A)”;
+(b)
+after subsection (4) insert—
+“(4ZA) This subsection is satisfied in the case of an employer if—
+(a)
+the employer is a legal person,
+(b)
+a request has been made for the first opening of collective proceedings—
+(i)
+based on the insolvency of the employer, as provided for under the law of any part of the United Kingdom, and
+(ii)
+involving the partial or total divestment of the employer’s assets and the appointment of a liquidator or a person performing a similar task, and
+(c)
+any of the following has decided to open the proceedings—
+(i)
+a court,
+(ii)
+a meeting of creditors, or
+(iii)
+the creditors by a decision procedure.”;
+(c)
+in subsection (4B) for “subsection (4A)” substitute “this section”.
+Amendments to the Pension Schemes Act 1993
+254.—(1) The Pension Schemes Act 1993(89) is amended as follows—
+(2) In section 123(90)—
+(a)
+for subsection (1)(d) substitute—
+“(d)
+subsection (2A) or (2ZA) is satisfied.”;
+(b)
+after subsection (2) insert—
+“(2ZA) This subsection is satisfied in the case of an employer if—
+(a)
+the employer is a legal person,
+(b)
+a request has been made for the first opening of collective proceedings—
+(i)
+based on the insolvency of the employer, as provided for under the law of any part of the United Kingdom, and
+(ii)
+involving the partial or total divestment of the employer’s assets and the appointment of a liquidator or a person performing a similar task, and
+(c)
+any of the following has decided to open the proceedings—
+(i)
+a court,
+(ii)
+a meeting of creditors, or
+(iii)
+the creditors by a decision procedure.”;
+(c)
+in subsection (2B) for “subsection (2A)” substitute “this section”.
+PART 12
+Amendments to the Employment Rights (Northern Ireland) Order 1996 and the Pension Schemes (Northern Ireland) Act 1993
+Amendments to the Employment Rights (Northern Ireland) Order 1996
+255.—(1) The Employment Rights (Northern Ireland) Order 1996(91) is amended as follows.
+(2) In Article 201 (applications for payments)(92)—
+(a)
+in paragraph (5)—
+(i)
+in sub-paragraph (a) after “(6)” insert “or (8A)”;
+(ii)
+in sub-paragraph (b) after “(7)” insert “or (8A)” and at the end of that sub-paragraph omit “and”;
+(iii)
+in sub-paragraph (c) after “(8)” insert “or (8A)”; and
+(iv)
+at the end of sub-paragraph (c) insert—
+“, and
+(d)
+where the employer is not any of the above, if (but only if) paragraph (8A) is satisfied.”;
+(b)
+after paragraph (8) insert—
+“(8A) This paragraph is satisfied in the case of an employer if—
+(a)
+a request has been made for the first opening of collective proceedings—
+(i)
+based on the insolvency of the employer, as provided for under the laws, regulations and administrative provisions of a member State, and
+(ii)
+involving the partial or total divestment of the employer’s assets and the appointment of a liquidator or a person performing a similar task, and
+(b)
+the competent authority has—
+(i)
+decided to open the proceedings, or
+(ii)
+established that the employer’s undertaking or business has been definitively closed down and the available assets of the employer are insufficient to warrant the opening of the proceedings.
+(8B) For the purposes of paragraph (8A)—
+(a)
+“liquidator or a person performing a similar task” includes the official receiver or an administrator, trustee in bankruptcy, judicial factor, supervisor of a voluntary arrangement, or a person performing a similar task;
+(b)
+“competent authority” includes—
+(i)
+a court,
+(ii)
+a meeting of creditors,
+(iii)
+a creditors’ committee,
+(iv)
+the creditors by a decision procedure, and
+(v)
+an authority of a member State empowered to open insolvency proceedings, to confirm the opening of such proceedings or to take decisions in the course of such proceedings.
+(8C) An employee may apply under this Article only if the employee worked or habitually worked in Northern Ireland in that employment to which the application   relates.”.
+(3) In Article 228(93)—
+(a)
+in paragraph (1)—
+(i)
+in sub-paragraph (a) after “(2)” insert “or (4A)”;
+(ii)
+in sub-paragraph (b) after “(3)” insert “or (4A)” and at the end of that sub-paragraph omit “and”;
+(iii)
+in sub-paragraph (c) after “(4)” insert “or (4A)”; and
+(iv)
+at the end of sub-paragraph (c) insert—
+“, and
+(d)
+where the employer is not any of the above, if (but only if) paragraph (4A) is satisfied.”;
+(b)
+after paragraph (4) insert—
+“(4A) This paragraph is satisfied in the case of an employer if—
+(a)
+a request has been made for the first opening of collective proceedings—
+(i)
+based on the insolvency of the employer, as provided for under the laws, regulations and administrative provisions of a member State, and
+(ii)
+involving the partial or total divestment of the employer’s assets and the appointment of a liquidator or a person performing a similar task, and
+(b)
+the competent authority has—
+(i)
+decided to open the proceedings, or
+(ii)
+established that the employer’s undertaking or business has been definitively closed down and the available assets of the employer are insufficient to warrant the opening of the proceedings.
+(4B) For the purposes of paragraph (4A)—
+(a)
+“liquidator or a person performing a similar task” includes the official receiver or an administrator, trustee in bankruptcy, judicial factor, supervisor of a voluntary arrangement, or a person performing a similar task;
+(b)
+“competent authority” includes—
+(i)
+a court,
+(ii)
+a meeting of creditors,
+(iii)
+a creditors’ committee,
+(iv)
+the creditors by a decision procedure, and
+(v)
+an authority of a member State empowered to open insolvency proceedings, to confirm the opening of such proceedings or to take decisions in the course of such proceedings.
+(4C) An employee may apply under Article 227 (employee’s rights on insolvency of employer) only if the employee worked or habitually worked in Northern Ireland in that employment to which the application relates.”.
+Amendments to the Pension Schemes (Northern Ireland) Act 1993
+256.—(1) The Pension Schemes (Northern Ireland) Act 1993(94) is amended as follows.
+(2) In section 119(95)—
+(a)
+in subsection (1)—
+(i)
+in paragraph (b) after “Insolvency (Northern Ireland) Order 1989;” omit “or”; and
+(ii)
+at the end of paragraph (c) insert—
+“; or
+(d)
+subsection (1A) is satisfied.”;
+(b)
+after subsection (1) insert—
+“(1A) This subsection is satisfied if—
+(a)
+a request has been made for the first opening of collective proceedings—
+(i)
+based on the insolvency of the employer, as provided for under the laws, regulations and administrative provisions of a member State; and
+(ii)
+involving the partial or total divestment of the employer’s assets and the appointment of a liquidator or a person performing a similar task; and
+(b)
+the competent authority has—
+(i)
+decided to open the proceedings; or
+(ii)
+established that the employer’s undertaking or business has been definitively closed down and the available assets of the employer are insufficient to warrant the opening of the proceedings.
+(1B) For the purposes of subsection (1A)—
+(a)
+“liquidator or person performing a similar task” includes the official receiver or an administrator, trustee in bankruptcy, judicial factor, supervisor of a voluntary arrangement, or person performing a similar task;
+(b)
+“competent authority” includes—
+(i)
+a court,
+(ii)
+a meeting of creditors,
+(iii)
+a creditors’ committee,
+(iv)
+the creditors by a decision procedure, and
+(v)
+an authority of a member State empowered to open insolvency proceedings, to confirm the opening of such proceedings or to take decisions in the course of such proceedings.
+(1C) An application under section 120 may only be made in respect of a worker who worked or habitually worked in Northern Ireland in that employment to which the application relates.”.
+PART 13
+Further amendments to the Employment Rights (Northern Ireland) Order 1996 and the Pension Schemes (Northern Ireland) Act 1993
+Amendments to the Employment Rights (Northern Ireland) Order 1996
+257.—(1) The Employment Rights (Northern Ireland) Order 1996 is amended as follows.
+(2) In Article 201 (as amended by paragraph 255(2))—
+(a)
+in paragraph (5)—
+(i)
+in sub-paragraph (a) for “(6) or (8A)” substitute “(6), (8ZA) or (8A)”;
+(ii)
+in sub-paragraph (b) for “(7) or (8A)” substitute “(7), (8ZA) or (8A)”;
+(iii)
+in sub-paragraph (c) for “(8) or (8A)” substitute “(8), (8ZA) or (8A)”;
+(iv)
+in sub-paragraph (d) for “(8A)” substitute “(8ZA) or (8A)”;
+(b)
+after paragraph (8) insert—
+“(8ZA) This paragraph is satisfied in the case of an employer if—
+(a)
+the employer is a legal person,
+(b)
+a request has been made for the first opening of collective proceedings—
+(i)
+based on the insolvency of the employer, as provided for under the law of any part of the United Kingdom, and
+(ii)
+involving the partial or total divestment of the employer’s assets and the appointment of a liquidator or a person performing a similar task, and
+(c)
+any of the following has decided to open the proceedings—
+(i)
+a court,
+(ii)
+a meeting of creditors, or
+(iii)
+the creditors by a decision procedure.”;
+(c)
+in paragraph (8B) for “paragraph (8A)” substitute “this Article”.
+(3) In Article 228 (as amended by paragraph 255(3))—
+(a)
+in paragraph (1)—
+(i)
+in sub-paragraph (a) for “(2) or (4A)” substitute “(2), (4ZA) or (4A)”;
+(ii)
+in sub-paragraph (b) for “(3) or (4A)” substitute “(3), (4ZA) or (4A)”;
+(iii)
+in sub-paragraph (c) for “(4) or (4A)” substitute “(4), (4ZA) or (4A)”;
+(iv)
+in sub-paragraph (d) for “(4A)” substitute “(4ZA) or (4A)”;
+(b)
+after paragraph (4) insert—
+“(4ZA) This paragraph is satisfied in the case of an employer if—
+(a)
+the employer is a legal person,
+(b)
+a request has been made for the first opening of collective proceedings—
+(i)
+based on the insolvency of the employer, as provided for under the law of any part of the United Kingdom, and
+(ii)
+involving the partial or total divestment of the employer’s assets and the appointment of a liquidator or a person performing a similar task, and
+(c)
+any of the following has decided to open the proceedings—
+(i)
+a court,
+(ii)
+a meeting of creditors, or
+(iii)
+the creditors by a decision procedure.”;
+(c)
+in paragraph (4B) for “paragraph (4A)” substitute “this Article”.
+Amendments to the Pension Schemes (Northern Ireland) Act 1993
+258.—(1) The Pension Schemes (Northern Ireland) Act 1993 is amended as follows.
+(2) In section 119 (as amended by paragraph 256(2))—
+(a)
+in subsection (1)(d) for “(1A)” substitute “(1ZA) or (1A)”;
+(b)
+after subsection (1) insert—
+“(1ZA) This subsection is satisfied in the case of an employer if—
+(a)
+the employer is a legal person,
+(b)
+a request has been made for the first opening of collective proceedings—
+(i)
+based on the insolvency of the employer, as provided for under the law of any part of the United Kingdom, and
+(ii)
+involving the partial or total divestment of the employer’s assets and the appointment of a liquidator or a person performing a similar task, and
+(c)
+any of the following has decided to open the proceedings—
+(i)
+a court,
+(ii)
+a meeting of creditors, or
+(iii)
+the creditors by a decision procedure.”; and
+(c)
+in subsection (1B) for “subsection (1A)” substitute “this section”.
+(1)
+S.I. 2004/1045. There are amending instruments but none is relevant to this instrument.
+(2)
+Article 25 makes provision for matters which apply after exit day. As a result this Article is not retained EU law and so cannot be amended by this instrument.
+(3)
+1986 c.45. Relevant amendments have been made by the Small Business, Enterprise and Employment Act 2015 (c.26); and S.I. 2017/702.
+(4)
+Subsection (4) has been amended by S.I.s 2002/1240, 2005/879 and 2009/1941.
+(5)
+New section 106 substituted by the Small Business, Enterprise and Employment Act 2015. The amendment has not been commenced for Scotland. Section 106 as in force in England and Wales was amended by S.I. 2017/702 which inserted subsections (4A) and (4B).
+(6)
+Subsection (7) was inserted by S.I. 2002/1240 and was amended by S.I. 2017/702.
+(7)
+Subsection (1) has been amended by S.I.s 2002/1240 and 2017/702.
+(8)
+New section 146 substituted by the Small Business, Enterprise and Employment Act 2015. The amendment has not been commenced for Scotland. Section 146 as in force in England and Wales was amended by S.I. 2017/702 which inserted subsections (6) and (7).
+(9)
+Section 146A was inserted by S.I. 2017/702.
+(10)
+Section 201 was amended by the Small Business, Enterprise and Employment Act 2015. The amendment has not been commenced for Scotland. Relevant amendments to the section as in force in England and Wales are made by S.I. 2017/702.
+(11)
+Section 202 was amended by S.I. 2017/702.
+(12)
+Section 205 has been amended by the Small Business, Enterprise and Employment Act 2015. The amendment has not been commenced for Scotland. Relevant amendments to the section as in force in England and Wales are made by S.I. 2017/702.
+(13)
+Section 247(3)(b) was amended by S.I. 2017/702.
+(14)
+These definitions were inserted by S.I. 2017/702.
+(15)
+Paragraphs (ba) and (bb) were inserted by S.I. 2002/1240.
+(16)
+Subsection (6) was inserted by S.I. 2002/1240 and amended by S.I. 2017/702.
+(17)
+In subsection (3) paragraphs (aa) and (ab) were inserted by S.I. 2002/1240 and amended by S.I. 2017/702.
+(18)
+Subsection (6) was inserted by S.I. 2002/1240 and amended by S.I. 2017/702.
+(19)
+Section 436A was inserted by S.I. 2002/1240.
+(20)
+Schedule B1 was inserted by section 248 of the Enterprise Act 2002 (c. 40).
+(21)
+Paragraph 84 was amended by S.I. 2017/702.
+(22)
+In paragraph 111 sub-paragraph (1A) was inserted by S.I. 2005/879.
+(23)
+Section 248 of the Enterprise Act 2002 substituted a new Part 2 of the Insolvency Act 1986. However section 249 provided that that substitution was to have no effect in relation to the special administration regimes covered by that section.
+(24)
+S.I. 2016/1024, relevant amendments were made by S.I. 2017/702.
+(25)
+Rule 1.7 has been amended by S.I. 2017/1115.
+(26)
+In rule 2.14 paragraph (2A) was inserted by S.I. 2017/702 and amended by S.I. 2017/1115.
+(27)
+In rule 2.25 paragraph (2A) was inserted by S.I. 2017/702.
+(28)
+In rule 2.38 paragraph (2)(d) was amended by S.I. 2017/1115.
+(29)
+Part 21 was amended by S.I. 2017/702.
+(30)
+S.I. 1986/1999. Relevant amendments have been made by S.I. 2002/1309 and S.I. 2017/1119 (which inserted paragraph 1A).
+(31)
+S.I. 2003/1417. Rule 171 was amended by S.I. 2017/702.
+(32)
+S.I. 2008/1053. Fee 3.6 was substituted by S.I. 2017/702.
+(33)
+S.I. 2005/590; relevant amending instruments are S.I.s 2016/294 and 2017/702.
+(34)
+S.I. 2006/1030; relevant amendments were made by S.I. 2017/702.
+(35)
+Relevant amendments were made to paragraph 1(1) by S.I. 2017/702.
+(36)
+Paragraphs 55 to 60 of the Schedule to SI 2017/702 made amendments to the 1986 Act which applied to Scotland only.
+(37)
+Section 205 was amended by S.I. 2017/702; the amendments only applied to Scotland.
+(38)
+S.I. 1986/1915; relevant amendments were made by S.I.s 2003/2109 and 2017/702.
+(39)
+Paragraph (2A) was inserted by S.I. 2017/702.
+(40)
+Paragraph (2A) was inserted by S.I. 2017/702.
+(41)
+Paragraph (2)(c) was inserted by S.I. 2017/702.
+(42)
+Rule 2.3 was substituted by S.I. 2003/2111.
+(43)
+Rule 2.25 was inserted by S.I. 2003/2109. It was substituted by 2003/2111 and sub-paragraph (q)(ii) was amended by S.I. 2006/734.
+(44)
+Paragraph (1)(a) was amended by S.I. 2017/702.
+(45)
+Rule 4.68 was substituted by S.I. 2014/114.
+(46)
+Rule 4.75A was inserted by S.I. 2014/114 and paragraph (4) was amended by S.I. 2017/702.
+(47)
+S.I. 2003/2109. An earlier paragraph (2A) was inserted by S.I. 1987/1921.
+(48)
+S.I. 1989/2405 (N.I. 19). Relevant amendments have been made by S.R. (NI) 2002 No.334 and S.I. 2017/702.
+(49)
+The definition of “EU Regulation” was substituted by S.I. 2017/702.
+(50)
+These definitions were inserted by paragraph 96 of the Schedule to S.I. 2017/702.
+(51)
+Article 2A was inserted by S.R. (NI) 2002 No. 334 and amended by S.I. 2017/702.
+(52)
+Paragraphs (3A) and (3B) were inserted by paragraph 100 of the Schedule to S.I. 2017/702.
+(53)
+Paragraph (1) was amended by paragraph 101 of the Schedule to S.I. 2017/702.
+(54)
+Paragraphs (6) and (7) were inserted by paragraph 102 of the Schedule to S.I. 2017/702.
+(55)
+Article 124A was inserted by paragraph 103 of the Schedule to S.I. 2017/702.
+(56)
+Article 166 was amended by paragraph 104 of the Schedule to S.I. 2017/702.
+(57)
+Article 167 was amended by paragraph 105 of the Schedule to S.I. 2017/702 which inserted paragraphs (5) and (6) and renumbered and amended paragraph (7).
+(58)
+Article 169 was amended by paragraph 107 of the Schedule to S.I. 2017/702.
+(59)
+Article 204 was amended by paragraph 110 of the Schedule to S.I. 2017/702.
+(60)
+Paragraphs (ba) and (bb) were amended by paragraph 111 of the Schedule to S.I. 2017/702.
+(61)
+Article 239 was amended by paragraph 112 of the Schedule to S.I. 2017/702.
+(62)
+Article 303 paragraph (6) was inserted by regulation 15 of S.R. (NI) 2002 No. 334 and amended by paragraph 113 of the Schedule to S.I. 2017/702.
+(63)
+Article 347 was amended by paragraph 114 of the Schedule to S.I. 2017/702.
+(64)
+Article 359 was amended by S.R. (NI) 2002 No 223, regulation 4 (2) and paragraph 115 of the Schedule to S.I. 2017/702.
+(65)
+Article 364 was amended by S.R. (NI) 2002 No. 223, regulation 4(3) and S.I. 2017/702, regulation 116.
+(66)
+Article 365 was amended by S.R. (NI) 2002 No. 223, regulation 4(3) and paragraph 117 of the Schedule to S.I. 2017/702.
+(67)
+Paragraph 85 was amended by paragraph 119 of the Schedule to S.I. 2017/702.
+(68)
+S.R. (NI) 1991 No. 364.Relevant amendments were made by S.I. 2017/702.
+(69)
+Paragraph (2)(q) was inserted by Rule 5 of the Insolvency (Amendment) Rules (Northern Ireland) 2002, S.R. 2002 No. 261.
+(70)
+Rule 1.09 was amended by paragraph 122 of the Schedule to S.I. 2017/702.
+(71)
+Rule 1.24 was amended by S.R. (NI) 2002 No. 261
+(72)
+Chapter 7, Rules 1.31, 1.32 and 1.33 were amended by paragraphs 123, 124 and 125 of the Schedule to S.I. 2017/702.
+(73)
+Chapter 8, Rule 1.34 was amended by paragraph 126 of the Schedule to S.I. 2017/702.
+(74)
+Rule 1.39 was amended by paragraph 127 of the Schedule to S.I. 2017/702.
+(75)
+Rule 2.068 was amended by paragraph 128 of the Schedule to S.I. 2017/702.
+(76)
+Chapter 14, Rules 2.131, 2.132 and 2.133, was amended by paragraphs 129, 130 and 131 of the Schedule to S.I. 2017/702.
+(77)
+Chapter 15, Rules 2.134 to 2.143, was amended by paragraphs 132 and 133 of the Schedule to S.I. 2017/702.
+(78)
+Rule 4.073 was amended by S.R. (NI) 2002 No 261.
+(79)
+Rule 4.228(3)(m) was amended by paragraph 135 of the Schedule to S.I. 2017/702.
+(80)
+Chapter 13, Rules 5.61 and 5.62 were amended by paragraphs 138 and 139 of the Schedule to S.I. 2017/702.
+(81)
+Rule 6.049 was amended by paragraph 140 of the Schedule to S.I. 2017/702.
+(82)
+Rule 6.222(1)(m) was amended by paragraph 141 of the Schedule to S.I. 2017/702.
+(83)
+Rule 7.56 was amended by paragraph 142 of the Schedule 70 S.I. 2017/702.
+(84)
+S.R. (NI) 2005 No.126; as amended by S.R. (NI) 2005 No 364, S.R. (NI) 2008 No 303, S.R. (NI) 2009 No 245, S.R. (NI) 2014 No 195 and paragraph 144 of the Schedule to S.I. 2017/702.
+(85)
+S.R. (NI) 2007 No. 115; relevant amendments were made by paragraph 144 of the Schedule to S.I. 2017/702.
+(86)
+1996 c. 18.
+(87)
+Section 166 was amended by S.I. 2001/1090; S.I. 2012/3014 and S.I. 2017/1205.
+(88)
+Section 183 was amended by S.I. 2001/1090; S.I. 2012/3014 and S.I. 2017/1205.
+(89)
+1993 c. 48.
+(90)
+Section 123 was amended by S.I. 2017/1205.
+(91)
+S.I. 1996/1919 (N.I. 16).
+(92)
+Article 201 was amended by regulation 9 of, and Schedule 4 to S.R. (NI) 2004 No. 307; there are other amendments not relevant to these Regulations.
+(93)
+Article 228 was amended by regulation 9 of, and the Schedule 4 to S.R. (NI) 2004 No. 307; there are other amendments not relevant to these Regulations.
+(94)
+1993 c. 49.
+(95)
+Section 119 was amended by paragraph 15 of Schedule 10 and Schedule 11 to the Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1)), paragraph 53 of Schedule 2 and Schedule 9 to the Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455 (N.I. 10)) and section 41(2) of the Pensions Act (Northern Ireland) 2015 (c. 5 (N.I.)).EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations are made in exercise of the powers in section 8(1) of the European Union (Withdrawal) Act 2018 (c. 16) in order to address failures of retained EU law to operate effectively and other deficiencies (in particular under section 8(2)(b) to (d)) arising from the withdrawal of the United Kingdom from the European Union. These Regulations make amendments to legislation in the field of cross-border insolvency. These Regulations also contain minor amendments to the Insolvency (Northern Ireland) Order 1989 and to employment legislation in Northern Ireland bringing that legislation into line with EU law. These amendments are made under section 2(2) of the European Communities Act 1972 (c. 21) (“the ECA”) and come into force on the day after these Regulations are made.
+The EU Regulation on insolvency proceedings ((EU) 2015/848) (“the EUIR”) determines in which member State main insolvency proceedings may be opened and provides that decisions opening proceedings are to be recognised in other member States. Main proceedings may only be opened in the state where the centre of the debtor’s main interests, or COMI, is located. Secondary proceedings may be brought in a state where the debtor has an establishment. The EUIR makes other provisions to facilitate the operation of cross-border insolvency proceedings including for co-operation between courts and insolvency practitioners.
+These Regulations address the deficiencies that will arise from the absence of mutual application of the EUIR. It is not appropriate to continue to apply the EUIR unilaterally in respect of EU proceedings when member States will not apply the Regulation to UK proceedings. There is however a saving and transitional provision in regulations 4 and 5 which continues to apply the EUIR, the previous EU insolvency regulation and the associated domestic law where main proceedings have been opened before exit day. The court may decide not to apply these Regulations in the circumstances set out in regulation 5.
+Part 1 amends the EUIR. It retains the jurisdictional test based on COMI as an additional test of jurisdiction. The restrictions on opening insolvency proceedings where the COMI is in a member State are removed. The majority of the EUIR, which is based on mutual application between member States, is omitted. This part extends to the whole of the United Kingdom.
+Parts 2 and 3 make consequential amendments to the Insolvency Act 1986 (c. 45). These Parts extend to England and Wales and Scotland, with a few exceptions set out in regulation 3(a).
+Part 4 amend the Insolvency (England and Wales) Rules 2016. These amendments are consequential on the amendments made to the EUIR by Part 1. These Rules govern the conduct of corporate and personal insolvency proceedings under the Insolvency Act 1986 in England and Wales.
+Parts 5 and 6 make further consequential amendments. These include amendments to the Cross-Border Insolvency Regulation 2006 which will apply after exit day to new cross-border proceedings previously within the EUIR. Parts 5 and 6 extend to England and Wales and Scotland.
+Part 7 makes consequential amendments to a number of sections of the Insolvency Act 1986 as those sections are in force in Scotland. These sections were amended by the Small Business, Enterprise and Employment Act 2015. Those amendments have been commenced for England and Wales but have not yet been commenced for Scotland. Hence different versions of those sections are in force in England and Wales and in Scotland. Part 7 only applies to Scotland.
+Part 8 amends the Insolvency (Scotland) Rules 1986 as they provide for corporate insolvency proceedings in Scotland. These amendments are consequential on the amendments to the EUIR. Part 8 only applies to Scotland.
+Part 9 makes amendments to the Insolvency Northern Ireland Order 1989 and the Insolvency Rules (Northern Ireland) 1991 covering both corporate and personal insolvency. These amendments are consequential on the amendments to the EUIR. Paragraph 177 amends the existing law on bankruptcy to provide for jurisdiction where the debtor has an establishment in Northern Ireland. This brings the jurisdictional tests into line with the EUIR. The amendment is made under section 2(2) of the ECA and comes into force the day after the Regulations are made. Part 10 makes a consequential amendment to the Pension Protection Fund (Entry Rules) Regulations (Northern Ireland) 2005 and to the Cross-Border Insolvency Regulations (Northern Ireland) 2007. Parts 9 and 10 only extend to Northern Ireland.
+Part 11 makes amendments to the Employment Rights Act 1996 (c. 18) and the Pension Schemes Act 1993 (c. 48). The relevant provisions provide for payment to employees of outstanding sums owed to them in defined circumstances where their employer becomes insolvent. Part 11 applies to England and Wales and Scotland.
+Part 12 makes amendments to Articles 201 and 228 of the Employment Rights (Northern Ireland) Order 1996 and section 119 of the Pension Schemes (Northern Ireland) Act 1993 to bring those provisions into line with Directive 2008/94 EC of the European Parliament and the Council on the protection of employees in the event of the insolvency. These provisions provide for payment to employees of certain sums owed to them and unpaid pensions contributions in circumstances where their employer becomes insolvent. These amendments are made under section 2(2) ECA and come into force the day after the Regulations are made. They only extend to Northern Ireland.
+Part 13 makes further amendments to Articles 201 and 228 of the Employment Rights (Northern Ireland) Order 1996 and section 119 of the Pension Schemes (Northern Ireland) Act 1993 to ensure those provisions operate effectively after the withdrawal of the United Kingdom from the European Union. These amendments apply to Northern Ireland and are equivalent to those made by Part 11 for England and Wales and Scotland.
+In accordance with the Government Better Regulation principles, a proportionate analysis of costs and benefit has been completed. This analysis has found that the overall impact on business will likely be less than £5m per year. An Explanatory Memorandum is also available with these Regulations on www.legislation.gov.uk. Copies have been placed in the Libraries of both Houses of Parliament.

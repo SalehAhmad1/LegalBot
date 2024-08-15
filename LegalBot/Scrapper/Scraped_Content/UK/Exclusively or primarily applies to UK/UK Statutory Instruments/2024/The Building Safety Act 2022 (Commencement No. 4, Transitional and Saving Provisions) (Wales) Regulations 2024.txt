@@ -1,0 +1,213 @@
+WELSH STATUTORY INSTRUMENTS
+2024 No. 207 (W. 39) (C. 10)
+BUILDING AND BUILDINGS, WALES
+The Building Safety Act 2022 (Commencement No. 4, Transitional and Saving Provisions) (Wales) Regulations 2024
+Made
+22 February 2024
+The Welsh Ministers make these Regulations in exercise of the powers conferred on them by section 170(4)(a)(ii), (4)(a)(iii), (4)(a)(iv), (4)(a)(v), (4)(b)(iii), (4)(b)(iv), (4)(b)(v), (4)(b)(vi), (4)(b)(viii), (4)(b)(ix), (7) and (8) of the Building Safety Act 2022(1).
+(1)
+2022 c. 30.Title and interpretation
+1.—(1) The title of these Regulations is the Building Safety Act 2022 (Commencement No. 4, Transitional and Saving Provisions) (Wales) Regulations 2024.
+(2) In these Regulations—
+“the 1984 Act” (“Deddf 1984”) means the Building Act 1984(1);
+“the 2022 Act” (“Deddf 2022”) means the Building Safety Act 2022;
+“building work” (“gwaith adeiladu”) has the same meaning given in regulation 3 of the Building Regulations 2010(2).
+(3) For the purposes of regulations 3 and 4 of these Regulations, a registered building control approver is suitably qualified if the work they intend to carry out is within the scope of the registration of the registered building control approver(3).
+(4) Subject to paragraphs (2) and (3), expressions used in these Regulations and in the 1984 Act have the same meaning as in that Act.
+(1)
+1984 c. 55.
+(2)
+S.I. 2010/2214.
+(3)
+See the definition of “initial notice” in section 47(1) of the Building Act 1984. Also see the definition of “registered building control approver” in section 58N of the same Act.Provisions coming into force on 6 April 2024
+2.  The following provisions of the 2022 Act come into force on 6 April 2024—
+(a)
+section 32(3) (building control authorities) for all remaining purposes, so far as it relates to section 91ZD of the 1984 Act(1);
+(b)
+section 42 (regulation of building control profession), so far as it relates to inserting section 58Z2 into the 1984 Act(2);
+(c)
+paragraph 56 of Schedule 5 (minor and consequential amendments in connection with Part 3 of the 2022 Act);
+(d)
+in relation to Wales—
+(i)
+section 40 (liability of officers of body corporate);
+(ii)
+section 42 (regulation of building control profession) for all remaining purposes, except so far as it relates to sections 58Z7 and 58Z10 of the 1984 Act and inserting section 58Z2 into the 1984 Act;
+(iii)
+section 43 (transfer of approved inspectors’ functions to registered building control approvers);
+(iv)
+section 44 (functions exercisable only through, or with advice of, registered building inspectors) for all remaining purposes;
+(v)
+section 46 (higher-risk building work: registered building control approvers) for all remaining purposes;
+(vi)
+section 50 (cancellation of initial notice) for all remaining purposes;
+(vii)
+section 51 (new initial notices) for all remaining purposes;
+(viii)
+section 52 (information gathering) for all remaining purposes;
+(ix)
+section 53(2) and (3)(a)(ii) and (iii) and (3)(b) (information);
+(x)
+Schedule 4 (transfer of approved inspectors’ functions to registered building control approvers);
+(xi)
+Schedule 5 (minor and consequential amendments in connection with Part 3 of the 2022 Act) except for the paragraphs listed in the Schedule to these Regulations and subject to the exceptions in section 170(4)(b)(viii)(A) and (B) of the 2022 Act;
+(xii)
+Schedule 6 (appeals and other determinations) for all remaining purposes, subject to the exceptions in section 170(4)(b)(ix) of the 2022 Act.
+(1)
+So far as section 32(2) of the Building Safety Act 2022 relates to new section 91ZD of the Building Act 1984, the Welsh Ministers’ power to appoint a day for coming into force is not limited to being only in relation to Wales.
+(2)
+So far as section 42 of the Building Safety Act 2022 relates to new section 58Z2 of the Building Act 1984, the Welsh Ministers’ power to appoint a day for coming into force is not limited to being only in relation to Wales.Transitional provision: approved inspectors who become registered building control approvers
+3.—(1) This regulation applies where an approved inspector(1) has become a suitably qualified registered building control approver before 6 April 2024 and has submitted an initial notice which has been accepted, or is deemed to be accepted, before 6 April 2024.
+(2) With effect from 6 April 2024, any initial notice submitted by the approved inspector before 6 April 2024 is treated as if it were given instead by that person in their capacity as a registered building control approver.
+(3) This regulation applies to initial notices relating to building work and higher-risk building work(2).
+(4) An approved inspector may continue to oversee higher-risk building work provided that—
+(a)
+the higher-risk building work is commenced before 1 October 2024, and
+(b)
+an approved inspector will continue to be a suitably qualified registered building control approver until completion of that higher-risk building work.
+(5) An approved inspector may continue to oversee building work that is not higher-risk building work.
+(6) For the purposes of this regulation, the approved inspector and registered building control approver must be the same legal person.
+(1)
+See the definition of “approved inspector” in section 49 of the Building Act 1984.
+(2)
+See the definition of “higher-risk building work” in section 120I of the Building Act 1984.Transitional provision: approved inspectors who do not become registered building control approvers
+4.—(1) This regulation applies where an approved inspector has not become a suitably qualified registered building control approver before 6 April 2024.
+(2) Where an approved inspector is overseeing higher-risk building work before 6 April 2024, then—
+(a)
+an approved inspector must not continue to oversee higher-risk building work on or after 6 April 2024;
+(b)
+any initial notice submitted by the approved inspector in respect of higher-risk building work is cancelled;
+(c)
+responsibility for overseeing higher-risk building work will transfer to the local authority.
+(3) Where an approved inspector is overseeing building work that is not higher-risk building work, then—
+(a)
+until but not including 1 October 2024, an approved inspector may continue to oversee building work;
+(b)
+any initial notices submitted by the approved inspector will cease to be in force on 1 October 2024;
+(c)
+any building work that is not completed before 1 October 2024 will transfer to the local authority unless a registered building control approver, who is not the same person as the approved inspector, has submitted a new initial notice for that work and the notice is accepted or is deemed to be accepted;
+(d)
+until but not including 1 October 2024, an approved inspector may continue to issue a plans certificate(1), a final certificate(2), and an amendment notice(3) in respect of building work.
+(4) Where an amendment notice is issued before 1 October 2024 and that notice changes the nature of the building work specified in the initial notice so that it becomes higher-risk building work, such work must be transferred to the local authority.
+(1)
+See the definition of “plans certificate” in section 50 of the Building Act 1984.
+(2)
+See the definition of “final certificate” in section 51 of the Building Act 1984.
+(3)
+See the definition of “amendment notice” in section 51A of the Building Act 1984.Transitional provisions: approved inspectors
+5.  Until but not including 1 October 2024, despite amendments made by section 46 of the 2022 Act, sections 52A and 55(2A) and (2E) of the 1984 Act have effect as if any reference to a registered building control approver were a reference to an approved inspector.Transitional provisions: approved inspectors
+6.  Until but not including 1 October 2024, despite amendments made by paragraphs 2 to 4 and 6 to 13 of Schedule 4 to the 2022 Act, sections 42(1), 47(1) and (5)(b), 50(7), 51(1), 51A(2)(a)(ii), 51C(2)(a), 52(1) and (2)(a), 56(5), 57(3), and 58(3) of the 1984 Act have effect as if any reference to a registered building control approver were a reference to an approved inspector.Transitional provisions: approved inspectors
+7.  Until but not including 1 October 2024, despite amendments made by paragraph 8 of Schedule 6 to the 2022 Act, section 50(2) of the 1984 Act has effect as if any reference to a registered building control approver were a reference to an approved inspector.Transitional provision: higher-risk building work not commenced by 1 October 2024
+8.  Where regulation 3(1) of these Regulations applies and higher-risk building work is not commenced before 1 October 2024, then—
+(a)
+the initial notice related to the higher-risk building work will cease to be in force on 1 October 2024 for the purposes of section 47(4)(b)(ii) of the 1984 Act, and
+(b)
+any plans certificate related to that initial notice will cease to be in force on 1 October 2024.Transitional provisions: initial notices
+9.  Where higher-risk building work has commenced before 1 October 2024, and the initial notice for that work is cancelled by the registered building control approver before, on or after 1 October 2024, responsibility for the higher-risk building work will transfer to the local authority on the day on which the initial notice is cancelled.Transitional provisions: initial notices
+10.  Where an initial notice for building work that is not higher-risk building work, is cancelled by an approved inspector or a registered building control approver before 1 October 2024, a different registered building control approver may submit an initial notice for that work.Transitional provision: new higher-risk building work
+11.—(1) Any new higher-risk building work must be overseen by the local authority on or after 6 April 2024.
+(2) Initial notices for higher-risk building work must not be submitted to a local authority by an approved inspector or a registered building control authority on or after 6 April 2024.
+(3) For the purposes of paragraph (1), new higher-risk building work means higher-risk building work which is not already detailed in an initial notice submitted and accepted, or deemed to be accepted, before 6 April 2024.Transitional provision: registered building inspector
+12.—(1) Subject to paragraphs (2) and (3), a person may continue to work on buildings, or higher-risk buildings, until but not including 1 October 2024.
+(2) A person must be a registered building inspector before 6 April 2024(1).
+(3) A person—
+(a)
+must be in the process of having their competence assessed—
+(i)
+by an approved competence assessment scheme, and
+(ii)
+to the required level appropriate to the work they intend to carry out, or
+(b)
+has had their competence assessed to the required level appropriate to the work they intend to carry out and has applied to have their registration varied.
+(4) Where the register provides for different classes by virtue of section 58C(2) of the 1984 Act, and paragraphs (2) and (3) apply, those classes are to be disregarded until but not including 1 October 2024.
+(5) Paragraph (1) does not apply where, following the completion of a competence assessment, a person has failed their assessment at the required level appropriate to the work they intended to carry out.
+(1)
+See the definition of “registered building inspector” in section 58B of the Building Act 1984.Saving provision: approved inspectors
+13.  Until but not including 1 October 2024, despite the omission of section 49 of the 1984 Act by paragraph 5 of Schedule 4 to the 2022 Act, section 49 continues to apply where regulation 4(1) applies and for the period during which an approved inspector may continue to oversee building work in accordance with regulation 4(3)(a) of these Regulations.Saving provision: repeal of powers to make regulations
+14.  Despite the omission of paragraphs 2 to 4B of Schedule 1 to the 1984 Act(1) by paragraph 83(3) of Schedule 5 to the 2022 Act, any provisions of the following regulations made under paragraphs 2 to 4B of Schedule 1 to the 1984 Act continue in force and have effect as if made under paragraphs 1A, 1B, 1C, 1D, 1F and 1G of Schedule 1 to the 1984 Act and may be varied or revoked accordingly—
+(a)
+the Building (Local Authority Charges) Regulations 2010(2);
+(b)
+the Building Regulations 2010;
+(c)
+the Building (Approved Inspectors etc.) Regulations 2010(3).
+(1)
+Paragraphs 4A and 4B were inserted into Schedule 1 to the Building Act 1984 by sections 8 and 9 of the Sustainable and Secure Buildings Act 2004 (c. 22).
+(2)
+S.I. 2010/404.
+(3)
+S.I. 2010/2215.Julie James
+Minister for Climate Change, one of the Welsh Ministers
+22 February 2024Regulation 2(d)(xi)
+SCHEDULE
+The following provisions of Schedule 5 to the 2022 Act will not come into force on 6 April 2024 in accordance with regulation 2(d)(xi)—
+1.  Paragraph 14(8).
+2.  Paragraph 15(10).
+3.  Paragraph 20.
+4.  Paragraph 21(3), (4), and (5).
+5.  Paragraph 22(3), (4), (5) and (6).
+6.  Paragraph 23(3) and (4).
+7.  Paragraph 24(3).
+8.  Paragraph 26(3) and (4).
+9.  Paragraph 27(3), (4) and (5).
+10.  Paragraph 28.
+11.  Paragraph 29.
+12.  Paragraph 31.
+13.  Paragraph 32.
+14.  Paragraph 40(2).
+15.  Paragraph 41(3).
+16.  Paragraph 42(2).
+17.  Paragraph 43.
+18.  Paragraph 45.
+19.  Paragraph 46(3).
+20.  Paragraph 55(3).
+21.  Paragraph 79.
+22.  Paragraph 90.EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations contain commencement, transitional and saving provisions made under the Building Safety Act 2022 (c. 30) (“the 2022 Act”).
+Regulation 2 brings into force certain provisions of Part 3 of, and Schedules 4, 5 and 6 to, the 2022 Act on 6 April 2024. These provisions relate to the new regulatory regime for the building control profession.
+Regulation 3 makes a transitional provision to provide that an approved inspector, who becomes a registered building control approver before 6 April 2024, may continue overseeing higher-risk building work on or after 6 April 2024.
+Regulation 4 contains a transitional provision which provides that an approved inspector who does not become a registered building control approver must not oversee higher-risk building work on or after 6 April 2024. This regulation does, however, provide that an approved inspector may continue to oversee building work that is not higher-risk building work, for a limited time.
+Regulations 5 to 7 make transitional provisions to ensure that references to registered building control approvers, inserted into the Building Act 1984 (c. 55) (“the 1984 Act”) by section 46 of, and Schedules 4 and 6 to, the 2022 Act, may be read as references to approved inspectors until 1 October 2024.
+Regulation 8 contains a transitional provision related to the commencement of higher-risk building work. This regulation provides that where higher-risk building work is not commenced before 1 October 2024 by a registered building control approver, the initial notice and plans certificate related to such work will cease to be in force on 1 October 2024.
+Regulations 9 and 10 make transitional provisions related to initial notices which are cancelled before 1 October 2024 in respect of building work, including higher-risk building work.
+Regulation 11 contains a transitional provision for new higher-risk building work. This regulation provides that, on or after 6 April 2024, new higher-risk building work will be overseen by a local authority.
+Regulation 12 makes a transitional provision to disregard the different classes of building inspector on the register and allows a person to continue working on buildings, including higher-risk buildings, until 1 October 2024. This regulation only applies where a person has registered as a building inspector and is in the process of having their competence assessed, or has successfully had their competence assessed, at the required level appropriate to the work they intend to carry out.
+Regulation 13 makes a saving provision arising from the omission of section 49 of the 1984 Act to ensure that, until 1 October 2024, section 49 still applies to approved inspectors where the conditions in regulation 4(1) and (3) are met.
+Regulation 14 makes a saving provision arising from the omission of paragraphs 2 to 4B of Schedule 1 of the 1984 Act.NOTE AS TO EARLIER COMMENCEMENT REGULATIONS
+(This note is not part of the Regulations)
+The following provisions of the 2022 Act have been brought into force in relation to Wales by commencement regulations made before the date of these Regulations.
+Provision Date of Commencement S.I. No.
+Section 2(2) and Schedule 1 28 June 2022 2022/561 (C. 28)
+Section 31 (partially) 9 December 2022 2022/1287 (W. 261) (C. 104)
+Section 32(1) and 32(4) 5 September 2023 2023/914 (W. 141) (C. 50)
+Section 32(3) (partially) 5 September 2023 2023/914 (W. 141) (C. 50)
+Section 33 (partially) 6 April 2023 2023/362 (C. 15)
+Section 33 (for all remaining purposes) 5 September 2023 2023/914 (W. 141) (C. 50)
+Section 34 5 September 2023 2023/914 (W. 141) (C. 50)
+Section 35 5 September 2023 2023/914 (W. 141) (C. 50)
+Section 36 (partially) 5 September 2023 2023/914 (W. 141) (C. 50)
+Section 37 (partially) 5 September 2023 2023/914 (W. 141) (C. 50)
+Section 38 (partially) 5 September 2023 2023/914 (W. 141) (C. 50)
+Section 39 (partially) 5 September 2023 2023/914 (W. 141) (C. 50)
+Section 41 5 September 2023 2023/914 (W. 141) (C. 50)
+Section 42 (partially) 5 September 2023 2023/914 (W. 141) (C. 50)
+Section 42 (partially) 1 January 2024 2023/914 (W. 141) (C. 50)
+Section 44 (partially) 5 September 2023 2023/914 (W. 141) (C. 50)
+Section 46 (partially) 5 September 2023 2023/914 (W. 141) (C. 50)
+Section 47 5 September 2023 2023/914 (W. 141) (C. 50)
+Section 48 28 July 2022 2022/774 (W. 169) (C. 47)
+Section 49 (partially) 5 September 2023 2023/914 (W. 141) (C. 50)
+Section 50 (partially) 5 September 2023 2023/914 (W. 141) (C. 50)
+Section 51 (partially) 5 September 2023 2023/914 (W. 141) (C. 50)
+Section 52 (partially) 5 September 2023 2023/914 (W. 141) (C. 50)
+Section 55 9 December 2022 2022/1287 (W. 261) (C. 104)
+Section 56 5 September 2023 2023/914 (W. 141) (C. 50)
+Section 57 5 September 2023 2023/914 (W. 141) (C. 50)
+Sections 130 and 131 28 June 2022 2022/561 (C. 28)
+Section 132 (partially) 28 May 2022 2022/561 (C. 28)
+Section 132 (for all remaining purposes) 28 June 2022 2022/561 (C. 28)
+Section 156 except sub-section (4) (and sub-section (8) so far as relating to article 22B of the Regulatory Reform (Fire Safety) Order 2005) 1 October 2023 2023/914 (W. 141) (C. 50)
+Schedule 5, paragraphs 1, 77 (partially), 78 and 81 (partially) 9 December 2022 2022/1287 (W. 261) (C. 104)
+Schedule 5, paragraphs 2, 3, 4(1) and 4(2), 5(1) and 5(2), 6, 9, 10, 11(1), 11(2) and 11(3), 12(1) and 12(2), 13(1), 13(2), 13(5) and 13(6), 14(1), 14(2), 14(3)(b) and 14(4)(b), 15(1) to 15(5) and 15(9), 16, 17, 22(1) and 22(8), 40(1) and 40(3), 42(1) and 42(3), 46(1) and 46(2), 50, 51, 53, 55(1), 55(4)(a) and 55(6), 57(1) and 57(3), 67, 71, 74(1) and 74(2), 75, 76(1) and 76(3), 80 (partially), 81 (partially), 82, 83(1), 83(2), 83(3) (partially), 83(7), 83(8) and 83(9), 84(1) and 84(3) 5 September 2023 2023/914 (W. 141) (C. 50)
+Schedule 6, paragraph 30 (partially) 5 September 2023 2023/914 (W. 141) (C. 50)

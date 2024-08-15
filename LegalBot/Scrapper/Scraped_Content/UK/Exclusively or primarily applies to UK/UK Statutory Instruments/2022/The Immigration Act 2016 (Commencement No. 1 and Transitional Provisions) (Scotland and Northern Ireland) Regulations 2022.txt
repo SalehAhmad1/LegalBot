@@ -1,0 +1,119 @@
+STATUTORY INSTRUMENTS
+2022 No. 863 (C. 52)
+IMMIGRATION, SCOTLAND
+IMMIGRATION, NORTHERN IRELAND
+The Immigration Act 2016 (Commencement No. 1 and Transitional Provisions) (Scotland and Northern Ireland) Regulations 2022
+Made
+20th July 2022
+The Secretary of State, in exercise of the powers conferred by sections 92(1), 93(6) and 94(1) of, and paragraph 13(1), (3) and (6) of Schedule 10 to, the Immigration Act 2016(1), makes the following Regulations.
+(1)
+2016 c. 19; amendments have been made to section 93(6) but they are not relevant to these Regulations.Citation, interpretation and extent
+1.—(1) These Regulations may be cited as the Immigration Act 2016 (Commencement No.1 and Transitional Provisions) (Scotland and Northern Ireland) Regulations 2022.
+(2) In these Regulations, “the 2016 Act” means the Immigration Act 2016.
+(3) These Regulations extend to Scotland and Northern Ireland.Provisions coming into force on 31st August 2022
+2.  The following provisions of the 2016 Act come into force on 31st August 2022—
+(a)
+section 61(1) and (2) (immigration bail) to the extent not already commenced, and
+(b)
+Schedule 10 (immigration bail) to the extent not already commenced.Transitional provisions
+3.  The Schedule to these Regulations, which contains transitional provisions, has effect.Simon Baynes
+Parliamentary Under Secretary of State
+Home Office
+20th July 2022Regulation 3
+SCHEDULE
+Transitional Provisions
+Persons on immigration bail on 31st August 2022
+1.  Paragraph 3 applies to a person who—
+(a)
+is on immigration bail on 31st August 2022 pursuant to a grant of immigration bail made before that day,
+(b)
+before the grant of immigration bail, was detained or liable to be detained under paragraph 2(1), (2) or (3) of Schedule 3 to the Immigration Act 1971(1) (detention pending deportation) or section 36(1) of the UK Borders Act 2007(2) (detention pending deportation), and
+(c)
+is not subject to an electronic monitoring condition(3).
+2.  Paragraph 3 applies to a person who on 31st August 2022—
+(a)
+is not in detention on the basis that—
+(i)
+the person was liable to be detained under paragraph 2(1) of Schedule 3 to the Immigration Act 1971 but, by virtue of a direction of the Secretary of State or the court, is not so detained,
+(ii)
+the person was liable to be detained under paragraph 2(2) or (3) of that Schedule but is not so detained,
+(iii)
+the person has been released from detention under section 36(3) of the UK Borders Act 2007(4), or
+(iv)
+the person has been released on bail from detention under paragraph 2 of Schedule 3 to the Immigration Act 1971, and
+(b)
+by virtue of the Immigration Act 2016 (Commencement No. 7 and Transitional Provisions) Regulations 2017(5) is treated as having been granted immigration bail, and
+(c)
+is not treated as being subject to an electronic monitoring condition, and
+(d)
+is not otherwise subject to an electronic monitoring condition.
+3.  Subject to paragraph 4, beginning with 31st August 2022 the power in paragraph 6(1)(b) of Schedule 10 to the 2016 Act to impose a new bail condition must be exercised in relation to a person to whom this paragraph applies so as to impose an electronic monitoring condition.
+4.  Paragraph 7 or 8 (as the case may be) of Schedule 10 to the 2016 Act has effect in relation to a person to whom paragraph 3 applies with the following modifications—
+(a)
+in paragraph 7(4), omit “, by virtue of paragraph 2(5) or (7) or this paragraph,”,
+(b)
+in paragraph 8(4), omit “, by virtue of paragraph 2(7) or this paragraph,”.
+(1)
+1971 c. 77; paragraph 2 of Schedule 3 was amended by section 34 of the Asylum and Immigration (Treatment of Claimants, etc) Act 2004 (c. 19); paragraph 7 of Schedule 7 to the Nationality, Immigration and Asylum Act 2002 (c. 41); and section 61 of, and paragraphs 14 and 21 of Schedule 10 to, the Immigration Act 2016 (c. 19). Other amendments have been made to paragraph 2 but they are not relevant to these Regulations.
+(2)
+2007 c. 30; section 36(1) has been commenced by S.I. 2008/1818 but only in respect of a person for whom condition 1 of section 32 applies.
+(3)
+See paragraph 4(1) of Schedule 10 to the 2016 Act for the definition of “electronic monitoring condition” for the purposes of Schedule 10.
+(4)
+Section 36(3) was amended by paragraph 40(3) of Schedule 10 to the Immigration Act 2016 (c. 19).
+(5)
+S.I. 2017/1241, amended by S.I. 2018/31.EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations bring into force on 31st August 2022 in Scotland and Northern Ireland the provisions of Schedule 10 to the Immigration Act 2016 (c. 19) (the “2016 Act”) which are not already in force and sections 61(1) and (2) of the 2016 Act insofar as they relate to those provisions. These provisions relate to the duty to impose electronic monitoring conditions on those granted or on immigration bail who are subject to deportation.
+The same provisions were commenced in England and Wales by virtue of the Immigration Act 2016 (Commencement and Transitional Provisions No. 1) (England and Wales) Regulations 2021 (S.I. 2021/939 (C. 50)).
+Regulation 2 contains provisions commencing the following provisions of Schedule 10: sub-paragraphs (2), (3) and (5) to (10) of paragraph 2 (the duty to impose an electronic monitoring condition on those granted immigration bail on or after 31 August 2022 who are liable for detention pending deportation); paragraph 7 (removal etc of electronic monitoring condition where bail is managed by the Secretary of State); paragraph 8 (amendment etc of electronic monitoring condition where bail is managed by the First Tier Tribunal); and paragraph 25 to the extent it applies those provisions of Schedule 10 being brought into force under these Regulations in a modified form to the Special Immigration Appeals Commission.
+The duty to impose an electronic monitoring condition is subject to exemptions where it is impractical to do so (having regard in particular to those matters set out at paragraph 2(9)(a) to (d) of Schedule 10) or where the Secretary of State considers that it would be in breach of a person’s rights under the European Convention on Human Rights.
+In Schedule 10, paragraphs 7(2) and (3) and 8(2) and (3) require that where an electronic monitoring condition has been imposed on a person, it must be removed only in circumstances where the Secretary of State considers either of these exemptions applies. Paragraphs 7(4) and (5) and 8(4) and (5) require that where a person has not been subject to electronic monitoring as a result of those exemptions, but the Secretary of State considers that neither exemption applies, an electronic monitoring condition must be imposed. Under paragraph 6 (which was previously commenced), conditions of bail must be varied by the Secretary of State or the First-tier Tribunal depending on which is managing that person’s bail.
+Regulation 3 gives effect to the Schedule to these Regulations. The Schedule makes a number of transitional provisions to reflect the phased implementation of electronic monitoring for those who, as at 31st August 2022, are on immigration bail and liable to be detained pending deportation but who are not subject to electronic monitoring.
+Paragraph 1 sets out that the transitional provisions apply to those who are on immigration bail and liable to be detained pending deportation.
+Paragraph 2 sets out that the transitional provisions also apply to those who are deemed to be on immigration bail by virtue of regulations. Provisions of Schedule 10 previously brought into force a new framework for immigration bail, replacing a legal framework containing six different legal statuses (including immigration bail and temporary admission) with a single power of immigration bail. By virtue of the Immigration Act 2016 (Commencement No. 7 and Transitional Provisions) Regulations 2017, those who were at large under any such predecessor status are treated as having been granted immigration bail.
+Paragraphs 3 and 4 make transitional provisions in relation to a person on immigration bail and liable to be detained pending deportation who is not subject to an electronic monitoring condition as at 31st August 2022. Paragraphs 3 and 4 provide that from 31st August 2022, an electronic monitoring condition must be imposed on them, except where it would be impractical or in breach of their Convention rights. In considering whether it is impractical to impose or continue an electronic monitoring condition, the Secretary of State may have regard to those factors set out in paragraph 2(9)(a) to (d) of Schedule 10.NOTE AS TO EARLIER COMMENCEMENT REGULATIONS
+(This note is not part of the Regulations)
+Provision Date of Commencement S.I. No.
+Sections 1 to 13 12th July 2016 2016/603
+Sections 14 to 24 25th November 2016 2016/1037
+Section 25 12th July 2016 2016/603
+Sections 26 to 30 25th November 2016 2016/1037
+Sections 31 to 35 12th July 2016 2016/603
+Section 36 6th April 2017 2017/380
+Section 37 1st December 2016 2016/1037
+Section 38 1st December 2016 2016/1037
+Section 39 (partially) 1st November 2016 2016/1037
+Section 39 (remainder) 1st December 2016 2016/1037
+Section 40 (partially) 1st November 2016 2016/1037
+Section 40 (remainder) 1st December 2016 2016/1037
+Section 41 1st December 2016 2016/1037
+Section 43 (partially) 31st July 2017 2017/799
+Section 45 (partially) 1st November 2016 2016/1037
+Section 45 (remainder) 30th October 2017 2017/929
+Sections 46 to 53 12th July 2016 2016/603
+Section 54 1st December 2016 2016/1037
+Sections 55 to 60 12th July 2016 2016/603
+Section 61(1) and (2) (partially) 15th January 2018 2017/1241
+Section 61(1) and (2) (partially) 31st August 2021 2021/939
+Sections 62 to 65 1st December 2016 2016/1037
+Section 66 (partially) 15th January 2018 2017/1241
+Section 6 31st May 2016 2016/603
+Sections 69 to 72 31st May 2016 2016/603
+Section 73 1st January 2018 2017/1210
+Section 75 31st May 2016 2016/603
+Section 76 12th July 2016 2016/603
+Sections 77 to 84 21st November 2016 2016/1037
+Sections 86 to 89 12th July 2016 2016/603
+Schedules 1 to 3 12th July 2016 2016/603
+Schedule 4 6th April 2017 2017/380
+Schedules 5 and 6 1st December 2016 2016/1037
+Schedule 7 (partially) 1st November 2016 2016/1037
+Schedule 7 (remainder) 30th October 2017 2017/929
+Schedule 8 1st December 2016 2016/1037
+Schedule 9 12th July 2016 2016/603
+Schedule 10 (partially) 15th January 2018 2017/1241
+Schedule 10 (partially) 31st August 2021 2021/939
+Schedule 11 (partially) 15th January 2018 2017/1241
+Schedule 14 31st May 2016 2016/603
+Schedule 15 12th July 2016 2016/603

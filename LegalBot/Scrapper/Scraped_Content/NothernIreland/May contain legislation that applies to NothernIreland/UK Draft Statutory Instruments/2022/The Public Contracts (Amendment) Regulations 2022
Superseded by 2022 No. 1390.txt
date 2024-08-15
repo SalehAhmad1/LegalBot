@@ -1,0 +1,33 @@
+Draft Regulations laid before Parliament under section 39 of the Small Business, Enterprise and Employment Act 2015, for approval by resolution of each House of Parliament.
+DRAFT STATUTORY INSTRUMENTS
+2022 No.
+PUBLIC PROCUREMENT
+The Public Contracts (Amendment) Regulations 2022
+Made
+***
+Coming into force
+***
+The Minister for the Cabinet Office makes these Regulations in exercise of the powers conferred by sections 39(1), (2), (3) and (4) and 161(2) of the Small Business, Enterprise and Employment Act 2015(1).
+In accordance with section 39(6) of the Small Business, Enterprise and Employment Act 2015, the Minister for the Cabinet Office has undertaken such consultation as the Minister considers appropriate.
+(1)
+2015 c. 26. Section 39 was amended by paragraph 108 of Schedule 6 to the Wales Act 2017. See also the elaboration of “the exercise of functions relating to procurement” in section 39(2) and the definition of “contracting authority” in sections 39(3) and (4).Citation, commencement and extent
+1.—(1) These Regulations may be cited as the Public Contracts (Amendment) Regulations 2022 and come into force on the day after the day they are made.
+(2) The amendments made by these Regulations have the same extent as the provisions to which they relate.Amendments to the Public Contracts Regulations 2015
+2.—(1) The Public Contracts Regulations 2015(1) are amended as follows.
+(2) In regulation 109 (Scope of Chapter 8)—
+(a)
+in sub-paragraph (2)(b), for “£10,000” substitute “£12,000”;
+(b)
+in sub-paragraph (2)(c)(i), after “NHS Trust,” insert “or an NHS Foundation Trust”;
+(c)
+in sub-paragraph 2(c)(ii), for “£25,000” substitute “£30,000”.
+(1)
+S.I. 2015/102, as amended by S.I. 2021/1221; there are other amending instruments but none is relevant.Signatory text
+Name
+Minister of State
+Cabinet Office
+DateEXPLANATORY NOTE
+(This note is not part of the Regulations)
+Chapter 8 of the Public Contracts Regulations 2015 creates obligations in respect of contracts of central government authorities, sub-central contracting authorities or NHS Trusts which, due to their value, would not be otherwise regulated. These Regulations increase the value of a contract which triggers these obligations. This increase takes account of amendments made by the Public Procurement (Agreement on Government Procurement) (Thresholds) (Amendment) Regulations 2021 (S.I. 2021/1221), which provided that the threshold amounts were inclusive of VAT. This effectively lowered the threshold values and resulted in an increased burden for in-scope contracting authorities. The substituted amounts effectively reinstate the previous thresholds.
+Contracts which fall within the scope of Chapter 8 must be published on Contracts Finder, an online database of public sector online contract opportunities. Contracting authorities must not include a pre-qualification stage in relation to these contracts.
+These Regulations also provide that NHS Foundations Trusts are to be treated in the same way as NHS Trusts for the purposes of Chapter 8.

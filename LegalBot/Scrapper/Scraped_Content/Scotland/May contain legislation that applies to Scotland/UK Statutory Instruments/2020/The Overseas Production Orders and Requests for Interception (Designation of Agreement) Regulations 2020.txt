@@ -1,0 +1,40 @@
+STATUTORY INSTRUMENTS
+2020 No. 38
+ELECTRONIC COMMUNICATIONS
+The Overseas Production Orders and Requests for Interception (Designation of Agreement) Regulations 2020
+Made
+16th January 2020
+Laid before Parliament
+20th January 2020
+Coming into force
+28th February 2020
+The Secretary of State, in exercise of the powers conferred by section 1(5)(b) of the Crime (Overseas Production Orders) Act 2019(1) and section 52(3) of the Investigatory Powers Act 2016(2) makes the following Regulations.
+The Secretary of State has sought written assurances as required by section 52(7) of the Investigatory Powers Act 2016.
+The Secretary of State has laid before Parliament a copy of the Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the United States of America on Access to Electronic Data for the Purpose of Countering Serious Crime(3) under section 20(1)(a) of the Constitutional Reform and Governance Act 2010(4).
+(1)
+2019 c. 5.
+(2)
+2016 c. 25. Section 52 was amended by section 16(2) and (3) of the Crime (Overseas Production Orders) Act 2019 (c. 5).
+(3)
+CP 178.
+(4)
+2010 c.25.Citation and commencement
+1.  These Regulations may be cited as the Overseas Production Orders and Requests for Interception (Designation of Agreement) Regulations 2020 and come into force on 28th February 2020.Designation
+2.  The Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the United States of America on Access to Electronic Data for the Purpose of Countering Serious Crime is designated for the following purposes—
+(a)
+as a relevant treaty for the purposes of section 1(5)(b) of the Crime (Overseas Production Orders) Act 2019 (making of overseas production order on application); and
+(b)
+as a relevant international agreement for the purposes of section 52(3) of the Investigatory Powers Act 2016 (interception in accordance with overseas requests).Brandon Lewis
+Minister of State
+Home Office
+16th January 2020EXPLANATORY NOTE
+(This note is not part of the Regulations)
+On 7 October 2019 the Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the United States of America on Access to Electronic Data for the Purpose of Countering Serious Crime (“the Agreement”) was laid before Parliament under section 20(1)(a) of the Constitutional Reform and Governance Act 2010. The Agreement permits the Government of the United Kingdom of Great Britain and Northern Ireland to acquire, or obtain access to, electronic communications held or transmitted by US companies and permits the Government of the United States of America to acquire, or obtain access to, the content of communications held or transmitted by UK companies.
+The Crime (Overseas Production Orders) Act 2019 (“the 2019 Act”) grants law enforcement agencies and prosecuting authorities the power to apply for and obtain electronic communications content data directly from service providers (those who create, process, communicate or store electronic communications data) for the purposes of criminal investigations and prosecutions. Such orders may only be used when permitted under a designated international co-operation arrangement, being a relevant treaty between the UK and the country whose jurisdiction the data concerned is subject to.
+The 2019 Act created a new overseas production order to obtain this type of electronic communications data which has extra-territorial effect, meaning that these orders are granted by UK courts exerting jurisdiction over evidence and persons outside the UK. This jurisdiction may only be asserted where a relevant treaty to which the UK is a party permits this to happen and which has been designated for the purposes of the 2019 Act.
+Article 2(a) of these Regulations designates the Agreement as a relevant treaty under the 2019 Act. This will enable overseas production orders to be made in respect of data governed by the laws of the United States of America.
+The Investigatory Powers Act 2016 (“the 2016 Act”) provides a framework for the use (by the security and intelligence agencies, law enforcement and other public authorities) of investigatory powers to obtain different types of data, including communications data, content, and secondary data for investigative purposes. These powers cover the interception of communications, the retention and acquisition of communications data, and equipment interference for obtaining communications and other data. It is not lawful to exercise these powers other than as provided for by the 2016 Act.
+Section 52 of the 2016 Act deals with the issue of interception when a request is made from overseas and sets out the conditions which need to be met in order that a telecommunications operator may intercept the communications of an individual, at the request of another country. One such condition is that the interception is carried out in response to a request made in accordance with a relevant international agreement by the competent authorities of a country or territory outside the United Kingdom.
+Article 2(b) of these Regulations designates the Agreement as a relevant international agreement so allowing a telecommunications operator to intercept the communications of an individual, at the request of the United States of America.
+The Secretary of State has sought and obtained on 3 October 2019 written assurances from the Government of the United States of America relating to the non-use of information obtained by virtue of the Agreement in connection with proceedings for a death penalty offence in the United States of America.
+The Agreement is available online at https://www.gov.uk/government/publications/ukusa-agreement-on-access-to-electronic-data-for-the-purpose-of-countering-serious-crime-cs-usa-no62019. A hard copy of the Agreement can be obtained on request by writing to the Office for Security and Counter-Terrorism, Home Office, Peel Building, 2 Marsham Street, London, SW1P 4DF.”.

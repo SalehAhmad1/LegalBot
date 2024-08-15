@@ -1,0 +1,65 @@
+STATUTORY INSTRUMENTS
+2024 No. 348
+CORPORATION TAX
+The Research and Development (Chapter 2 Relief) Regulations 2024
+Made
+at 1.55 p.m. on 11th March 2024
+Laid before the House of Commons
+at 4.30 p.m. on 11th March 2024
+Coming into force
+1st April 2024
+The Treasury make these Regulations in exercise of the powers conferred by sections 1112J, 1138A(1)(b) and 1142E of the Corporation Tax Act 2009(1).
+(1)
+2009 c. 4. Sections 1112J and 1138A were inserted respectively by paragraphs 8 and 9(12) of Schedule 1 to the Finance Act 2024 (c. 3) with effect in relation to accounting periods beginning on or after 1st April 2024 (see paragraph 16(1) of that Schedule and S.I. 2024/286); section 1142E was inserted by paragraph 9(18) of that Schedule.Citation, commencement and interpretation
+1.—(1) These Regulations may be cited as the Research and Development (Chapter 2 Relief) Regulations 2024 and come into force on 1st April 2024.
+(2) In these Regulations—
+“Chapter 2 relief” means relief under Chapter 2 of Part 13 of CTA 2009(1) as it applies in relation to accounting periods beginning on or after 1st April 2024 (relief for R&D-intensive, loss-making SMEs);
+“CTA 2009” means the Corporation Tax Act 2009.
+(1)
+Relevant amendments of the Chapter are made by Part 1 of Schedule 1 to the Finance Act 2024 with effect in relation to accounting periods beginning on or after 1st April 2024 (see paragraph 16(1) of that Schedule and S.I. 2024/286). Chapter 2 of Part 13 of CTA 2009 has been amended by provisions in various statutes including the Corporation Tax Act 2010 (c. 4), the Finance (No. 3) Act 2010 (c. 33), the Finance Act 2012 (c. 14), the Finance Act 2015 (c. 11), the Finance (No. 2) Act 2017 (c. 32), the Finance Act 2021 (c. 26), the Finance Act 2023 (c. 1) and the Finance (No. 2) Act 2023 (c. 30).Application of regulations 3 and 4
+2.—(1) Regulations 3 and 4 apply for determining the entitlement of a Northern Ireland company to Chapter 2 relief for an accounting period, unless paragraph (3) applies.
+(2) A “Northern Ireland company” is a company whose registered office is in Northern Ireland.
+(3) This paragraph applies if—
+(a)
+the company does not, at any time during the accounting period, carry on a trade (whether or not the trade relevant to the relief) that involves—
+(i)
+trading in goods, or
+(ii)
+any relevant activity in relation to electricity, and
+(b)
+the company notifies an officer of Revenue and Customs in writing that it wishes to rely on this paragraph.
+(4) The “relevant activities” for the purposes of paragraph (3)(a)(ii) are generation, transmission, distribution, supply, wholesale trading and cross-border exchange.Payments for overseas R&D to qualify for Chapter 2 relief
+3.  Where this regulation applies, section 1138A of CTA 2009 (R&D undertaking abroad that attracts relief for payments to contractors or for externally provided workers) applies to any research and development undertaken outside the United Kingdom.Limit on amount of relief obtainable over 3-year period
+4.—(1) Where this regulation applies, the amount of the Chapter 2 relief to which the company is entitled for the accounting period is reduced if and so far as necessary to secure that the relevant net benefit does not exceed £250,000.
+(2) The reduction applies—
+(a)
+first to the amount of the R&D tax credit(1), and
+(b)
+then (if necessary) to the amount of the additional deduction under section 1044 of CTA 2009(2) or deemed trading loss under section 1045 of CTA 2009(3).
+(3) The “relevant net benefit” is the sum of the amounts produced by the application of the formula in paragraph (4) in relation to—
+(a)
+the accounting period in question; and
+(b)
+each previous accounting period of the company that began on or after 1st April 2024 and ended within the period of 3 years ending with the final day of the accounting period in question.
+(4) The formula is—
+where—
+A is the amount by which the liability of the company to pay corporation tax (in any accounting period) is reduced as a result of the Chapter 2 relief obtained by the company for the period;
+B is the sum of any amounts by which the liability of any other company to pay corporation tax (in any accounting period) is reduced by virtue of a loss that—
+(a)
+arises as a result of the Chapter 2 relief obtained by the company for the period, and
+(b)
+is surrendered by the company to the other company under Part 5 or 5A of the Corporation Tax Act 2010 (surrender of relief between members of groups and consortia);
+C is the amount of R&D tax credit to which the company is entitled, and which it claims, for the period; and
+D is the amount that would have been the third amount referred to in section 1042K of CTA 2009 (initial amount of expenditure credit minus notional tax deduction) had the expenditure in respect of which the company claims Chapter 2 relief instead been the subject of a claim for relief under Chapter 1A of Part 13 of CTA 2009.
+(1)
+For the meaning of “R&D tax credit”, see section 1054 of CTA 2009. That section was amended by paragraph 2(4) of Schedule 1 to the Finance (No. 2) Act 2023 and paragraph 6(10) of Schedule 1 to the Finance Act 2024.
+(2)
+Section 1044 was amended by paragraph 3(3) of Schedule 3 to the Finance Act 2012, section 4(3) of the Finance Act 2023, paragraph 2(2) of Schedule 1 to the Finance (No. 2) Act 2023 and paragraph 6(4) of Schedule 1 to the Finance Act 2024.
+(3)
+Section 1045 was amended by paragraph 3(4) of Schedule 3 to the Finance Act 2012, section 4(3) of the Finance Act 2023 and paragraph 6(5) of Schedule 1 to the Finance Act 2024.Joy Morrissey
+Scott Mann
+Two of the Lords Commissioners of His Majesty’s Treasury
+At 1.55 p.m. on 11th March 2024EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations relate to the additional relief for research-and-development-intensive, loss-making small or medium-sized enterprises under Chapter 2 of Part 13 of the Corporation Tax Act 2009 (“CTA 2009”) as it applies in relation to accounting periods beginning on or after 1st April 2024. They provide for specific rules to apply to companies with a registered office in Northern Ireland in two ways. First, payments by such companies for R&D undertaken outside the United Kingdom will qualify for Chapter 2 relief without the company having to show that special circumstances exist (of the sort referred to in section 1138A(2) and (3) of CTA 2009). Second, the additional benefit obtained by such companies from claiming Chapter 2 relief instead of R&D expenditure credit (under Chapter 1A of Part 13 of CTA 2009) will not exceed £250,000 over any 3-year period. These provisions take account of the specific market conditions in Northern Ireland. The limit on relief will protect against the fiscal risk from the more generous treatment of overseas expenditure.
+A Tax Information and Impact Note covering this instrument was published on 22nd November 2023 (and updated on 23 November 2023) alongside the Autumn 2023 Finance Bill and is available on the website at https://www.gov.uk/government/collections/tax-information-and-impact-notes-tiins. It remains an accurate summary of the impacts that apply to this instrument.

@@ -1,0 +1,67 @@
+Draft Regulations laid before Parliament under section 43(3) and (4)(g) of the Local Audit and Accountability Act 2014, for approval by resolution of each House of Parliament.
+DRAFT STATUTORY INSTRUMENTS
+2021 No.
+LOCAL GOVERNMENT, ENGLAND AND WALES
+The Local Audit (Appointing Person) (Amendment) Regulations 2021
+Made
+***
+Coming into force
+***
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 17(1), (2)(e), (3)(c) and (4) of the Local Audit and Accountability Act 2014(1).
+In accordance with section 43(3) and (4)(g) of that Act a draft of these Regulations was laid before Parliament and approved by a resolution of each House of Parliament.
+(1)
+2014 c. 2.Citation, commencement, extent, application
+1.—(1) These Regulations may be cited as the Local Audit (Appointing Person) (Amendment) Regulations 2021 and come into force on the 22nd day after the day on which they are made.
+(2) These Regulations extend to England and Wales.
+(3) These Regulations apply in relation to principal authorities within the meaning of the Local Audit (Appointing Person) Regulations 2015(1).
+(1)
+S.I. 2015/192. See regulation 2 for the definition of “principal authority”.Amendment of the Local Audit (Appointing Person) Regulations 2015
+2.—(1) The Local Audit (Appointing Person) Regulations 2015 are amended as follows.
+(2) In regulation 13—
+(a)
+omit paragraphs (1) and (2);
+(b)
+after paragraph (3) insert—
+“(4) Where an authority becomes an opted in authority by virtue of either regulation 10 or 11, the appointing person may appoint a local auditor to audit the accounts of the authority in relation to—
+(a)
+the financial year in which the authority becomes an opted in authority; and
+(b)
+any previous financial year of the compulsory appointing period, for which an audit has not been completed.”.
+(3) In regulation 16—
+(a)
+in paragraph (1), for “before the start of the financial year” substitute “before 1st December of the financial year”;
+(b)
+in paragraph (3), for “once the financial year to which the scale of fees relates has begun.”, substitute “after 30th November of the financial year to which the scale of fees relates.”.
+(4) In regulation 17—
+(a)
+in paragraph (1), for “Subject to paragraph (2),” substitute “Subject to paragraphs (2) and (2A),”;
+(b)
+after paragraph (2) insert—
+“(2A) If it appears to an appointing person—
+(a)
+that the work involved in the audit of the accounts of all opted in authorities was or is likely to be substantially—
+(i)
+more than envisaged by the appropriate scale, the appointing person may charge to all opted in authorities a fee which is larger than that referred to in paragraph (1);
+(ii)
+less than envisaged by the appropriate scale, the appointing person may charge to all opted in authorities a fee which is smaller than that referred to in paragraph (1);
+(b)
+that the work involved in the audit of the accounts of a group of opted in authorities was or is likely to be substantially—
+(i)
+more than envisaged by the appropriate scale, the appointing person may charge to all of that group of opted in authorities a fee which is larger than that referred to in paragraph (1);
+(ii)
+less than envisaged by the appropriate scale, the appointing person may charge to all of that group of opted in authorities a fee which is smaller than that referred to in paragraph (1).
+(2B) Before charging a larger or smaller fee under paragraph (2A), an appointing person must consult—
+(a)
+all opted in authorities to whom the appointing person proposes to charge a larger or smaller fee; and
+(b)
+all local auditors conducting the relevant audits of opted in authorities to whom the appointing person proposes to charge a larger or smaller fee.”.Signed by authority of the Secretary of State for Levelling Up, Housing and Communities
+Name
+Minister of State
+Department for Levelling Up, Housing and Communities
+DateEXPLANATORY NOTE
+(This note is not part of the Regulations)
+The Local Audit (Appointing Person) Regulations 2015 (S.I. 2015/192) (“the 2015 Regulations”) make provision for the appointment of a local auditor by a person specified by the Secretary of State (“an appointing person”) to audit the accounts of those authorities that choose to opt into such arrangements. The 2015 Regulations also make provision for the appointing person to set fee scales for the audits of opted in authorities and to charge a larger or smaller fee than provided for by the fee scales in prescribed circumstances.
+Regulation 2(2) of this instrument amends regulation 13 of the 2015 Regulations. The amendments remove the requirement for an appointing person to appoint a local auditor to an opted in authority for a specified appropriate period, thereby enabling the appointing person to appoint a local auditor to an opted in authority for one or more financial years at a time, up to five consecutive years (see section 7 of the Local Audit and Accountability Act 2014, modified by Part 2 of the Schedule to the 2015 Regulations). The amendments also make further provision in relation to the appointment of auditors for authorities which become opted in authorities after the start of the compulsory appointing period (see regulation 2 of the 2015 Regulations for the definition of “compulsory appointing period”).
+Regulation 2(3) amends regulation 16 of the 2015 Regulations. The amendments extend the deadline for an appointing person to specify the fee scales for audits until 30th November of the financial year to which the scale of fees relate and provide that the appointing person may not vary the scale of fees in relation to a financial year after that date.
+Regulation 2(4) amends regulation 17 of the 2015 Regulations. The amendments specify the circumstances in which an appointing person may charge a larger or smaller fee than provided by the fee scales, to all or a group of opted in authorities.
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.

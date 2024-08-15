@@ -1,0 +1,110 @@
+STATUTORY INSTRUMENTS
+2024 No. 594
+FINANCIAL SERVICES AND MARKETS
+The Insurance and Reinsurance Undertakings (Prudential Requirements) (Transitional Provisions and Consequential Amendments) Regulations 2024
+Made
+1st May 2024
+Laid before Parliament
+3rd May 2024
+Coming into force
+30th June 2024
+The Treasury make the following Regulations in exercise of the powers conferred by sections 83(1) and (2) and 84(2) of the Financial Services and Markets Act 2023(1).
+(1)
+2023 c. 29.Citation, commencement and extent
+1.—(1) These Regulations may be cited as the Insurance and Reinsurance Undertakings (Prudential Requirements) (Transitional Provisions and Consequential Amendments) Regulations 2024.
+(2) These Regulations come into force on 30th June 2024.
+(3) These Regulations extend to England and Wales, Scotland and Northern Ireland.Interpretation
+2.—(1) In these Regulations—
+“insurance undertaking” has the meaning given in section 417(1) of FSMA 2000(1);
+“matching adjustment permission” has the meaning given in regulation 3(2);
+“PRA rules” means the rules made by the PRA under FSMA 2000, as they have effect from time to time;
+“regulation 42 approval” means an approval referred to regulation 3(1) as it has effect immediately before 30th June 2024;
+“reinsurance undertaking” has the meaning given in section 417(1) of FSMA 2000.
+(2) Any other term used in these Regulations which is used in PRA rules applicable to insurance and reinsurance undertakings has the same meaning as in those rules.
+(1)
+2000 c. 8. The definitions of “insurance undertaking” and “reinsurance undertaking” in section 417(1) were inserted by S.I. 2015/575 and substituted by S.I. 2019/632.Transitional provision - approvals under regulation 42 of the Solvency 2 Regulations 2015
+3.—(1) This regulation applies where immediately before 30th June 2024 an insurance or reinsurance undertaking has an approval pursuant to regulation 42 of the Solvency 2 Regulations 2015(1) to apply a matching adjustment to a risk-free interest rate term structure in order to calculate the best estimate of a portfolio of life insurance or reinsurance obligations.
+(2) On 30th June 2024 the insurance or reinsurance undertaking’s regulation 42 approval becomes a permission granted by the PRA under section 138BA of FSMA 2000(2) to apply the PRA rules with the modifications set out in paragraph (4) such that the undertaking can continue to apply the matching adjustment to a relevant risk-free interest rate term structure in order to calculate the best estimate of a portfolio of life insurance or reinsurance obligations (a “matching adjustment permission”).
+(3) A matching adjustment permission is to be treated as if—
+(a)
+it were granted on the basis of the information supplied by the undertaking and referred to in the undertaking’s regulation 42 approval,
+(b)
+an application had been made for it in accordance with and in compliance with the applicable requirements of section 138BA of FSMA 2000 and the Financial Services and Markets Act 2000 (Disapplication or Modification of Financial Regulator Rules in Individual Cases) Regulations 2024(3), and
+(c)
+all the applicable requirements of regulation 4 of the Insurance and Reinsurance Undertakings (Prudential Requirements) Regulations 2023(4) (application of the matching adjustment) were complied with.
+(4) The PRA rules listed in the first column of the table, the relevant text of which is set out in the second column of the table in the same row, are modified as set out in the third column of the table in the same row.
+PRA rule Relevant text of rule Relevant text of rule as modified
+Matching Adjustment rule 1.1
+Unless otherwise stated, this Part applies to:
+(1) a UK Solvency II firm;
+Unless otherwise stated, this Part applies to:
+(1) an insurance or reinsurance undertaking in accordance with the undertaking’s matching adjustment permission;
+Matching Adjustment rule 2.1 A firm must not apply a matching adjustment to the relevant risk-free interest rate term structure to calculate the best estimate of its insurance or reinsurance obligations unless it has a matching adjustment permission An insurance or reinsurance undertaking may only apply a matching adjustment to the relevant risk-free interest rate term structure to calculate the best estimate of its insurance or reinsurance obligations in accordance with, and only to the extent of, its matching adjustment permission.
+(5) Nothing in this regulation prevents the PRA from varying or revoking a matching adjustment permission in accordance with section 138BA of FSMA 2000 and the Financial Services and Markets Act 2000 (Disapplication or Modification of Financial Regulator Rules in Individual Cases) Regulations 2024.
+(1)
+S.I. 2015/575. Regulation 42 was amended by S.I. 2019/407.
+(2)
+Section 138BA was inserted by section 34(1) and (2) of the Financial Services and Markets Act 2023.
+(3)
+S.I. 2024/539.
+(4)
+S.I. 2023/1347.Consequential amendments to the Solvency 2 Regulations 2015
+4.—(1) The Solvency 2 Regulations 2015 are amended as follows.
+(2) In regulation 53 (transitional measures on risk-free interest rates), in paragraph (2)(c), after “regulation 42” insert “, or on or after 30th June 2024, a permission given in accordance with section 138BA of FSMA and regulation 4 of the Insurance and Reinsurance Undertakings (Prudential Requirements) Regulations 2023”.
+(3) In regulation 54(1) (transitional measures on technical provisions), in paragraph (10), in Table 3, in the second column corresponding to condition 1, for “or 43” substitute “, a permission given in accordance with section 138BA of FSMA and regulation 4 of the Insurance and Reinsurance Undertakings (Prudential Requirements) Regulations 2023, or an approval granted under regulation 43”.
+(4) In regulation 58 (modification or waiver of rules), in paragraph (2) omit “42,”.
+(1)
+Regulation 54 was amended by S.I. 2023/1346.Consequential amendments to the Solvency 2 and Insurance (Amendment, etc.) (EU Exit) Regulations 2019
+5.  In the Solvency 2 and Insurance (Amendment, etc.) (EU Exit) Regulations 2019(1), in paragraph 9 of Schedule 1 (matters in respect of which the Treasury may make regulations)—
+(a)
+omit sub-paragraphs (g) and (h);
+(b)
+in sub-paragraph (i) omit the words from “, including a formula” to the end.
+(1)
+S.I. 2019/407.Consequential amendments to Regulation (EU) 2015/35
+6.—(1) Commission Delegated Regulation (EU) 2015/35 of 10 October 2014 supplementing Directive 2009/138/EC of the European Parliament and of the Council on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (1) is amended as follows.
+(2) In Article 1 (definitions)—
+(a)
+after paragraph 35 (definition of “future discretionary bonuses” and “future discretionary benefits”) insert—
+“(35a) “matching adjustment” has the meaning given in rules made by the PRA under the Financial Services and Markets Act 2000, as they have effect from time to time;
+(35b) “assigned portfolio of assets” means the portfolio referred to in regulation 4(3) of the Insurance and Reinsurance Undertakings (Prudential Requirements) Regulations 2023;”;
+(b)
+in paragraph 37 (definition of “matching adjustment portfolio”) omit “as referred to in Article 77b(1)(a) of Directive 2009/138/EC”.
+(3) In Article 43(2) (general provisions), in paragraph 2 omit “referred to in regulation 4B of the Solvency 2 Regulations 2015 (S.I. 2015/575)”.
+(4) In Article 46 (extrapolation), in paragraph 3—
+(a)
+in the first sentence for “Article 77b of Directive 2009/138/EC” substitute “a matching adjustment”;
+(b)
+in the second sentence omit “referred to in that Article”.
+(5) In Article 51 (risk-corrected spread), after “Article 54 of this Regulation” insert “as if Article 54 had not been revoked”.
+(6) In Article 180 (specific exposures), in paragraphs 12(b) and 15(b) for “Article 77b(2) of Directive 2009/138/EC” substitute “the Insurance and Reinsurance Undertakings (Prudential Requirements) Regulations 2023”.
+(7) In Article 181 (application of the spread risk scenarios to matching adjustment portfolios), in the opening words omit “referred to in Article 77b of Directive 2009/138/EC”.
+(8) In Article 216 (calculation of the Solvency Capital Requirement in the case of ring-fenced funds and matching adjustment portfolios), in paragraph 1 omit “in accordance with Article 77b of Directive 2009/138/EC”.
+(9) In Article 264 (valuation of technical provisions: validation), in paragraph 3 omit “referred to in Article 77b of Directive 2009/138/EC”.
+(10) In Article 278(3) (assessment of a significant deviation as regards adjustments to the relevant risk-free rate and transitional measures), in paragraph 1—
+(a)
+omit “referred to in Article 77b of that Directive”;
+(b)
+for “Article 77d of that Directive” substitute “Article 77d of Directive 2009/138/EC”.
+(11) In Article 296 (valuation for solvency purposes), in paragraph 2(d)—
+(a)
+for the first reference to “the matching adjustment” substitute “a matching adjustment”;
+(b)
+omit “referred to in Article 77b of Directive 2009/138/EC”.
+(12) In Article 308 (system of governance), in paragraph 3(f), for the words from “the extrapolation” to the end substitute “the matching adjustment, and the extrapolation of the risk-free rate and the volatility adjustment as referred to in Article 44(2a) of Directive 2009/138/EC”.
+(1)
+EUR 2015/35.
+(2)
+Article 43 was amended by S.I. 2019/1233.
+(3)
+Article 278(1) was amended by S.I. 2019/407.Joy Morrissey
+Amanda Milling
+Two of the Lords Commissioners of His Majesty’s Treasury
+1st May 2024EXPLANATORY NOTE
+(This note is not part of the Regulations)
+Regulation 42 of the Solvency 2 Regulations 2015 (S.I. 2015/575) (matching adjustment) and related legislation, including in particular regulation 4B of those Regulations (duty to publish technical information) and Articles 53 (calculation of the matching adjustment) and 54 (calculation of the fundamental spread) of Commission Delegated Regulation (EU) 2015/35 of 10 October 2014 supplementing Directive 2009/138/EC of the European Parliament and of the Council on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II), are revoked by section 1(1) of, and Schedule 1 to, the Financial Services and Markets Act 2023 (c. 29). The revocations come into force on 30th June 2024, see the Financial Services and Markets Act 2023 (Commencement No. 4 and Transitional and Saving Provisions) (Amendment) Regulations 2023 (S.I. 2023/1382).
+Regulation 42 requires insurance and reinsurance firms wishing to apply a matching adjustment to first obtain the approval of the Prudential Regulation Authority (“PRA”). Approval to apply a matching adjustment allows a firm which holds long-term assets which match the cash flows of long-term insurance liabilities to recognise as capital part of as yet unearned future cash flows. With effect from 30th June 2024, regulation 42 and related provisions are restated with modifications by the Insurance and Reinsurance Undertakings (Prudential Requirements) Regulations 2023 (S.I. 2023/1347). Further provision about the calculation of the matching adjustment is to be set out in PRA rules.
+Regulation 3 ensures that existing matching adjustment approvals granted by the PRA to firms under regulation 42 of the Solvency 2 Regulations 2015 continue to be effective from 30th June 2024. Matching adjustment approvals are converted to matching adjustment permissions under section 138BA of the Financial Services and Markets Act 2000. Firms holding matching adjustment approvals will not need to apply to the PRA for fresh permissions as of 30th June 2024. The rule modifications for the purposes of section 138BA(2)(b) are set out in regulation 3(4).
+Regulations 4 to 6 make amendments to legislation consequential on the revocation of regulations 4B and 42 of the Solvency 2 Regulations 2015 and Articles 53 and 54 of Commission Delegated Regulation (EU) 2015/35.
+Rules made by the PRA are available on www.prarulebook.co.uk and copies of the rules can be obtained from the PRA, 20 Moorgate, London EC2R 6DA, where they are also available for inspection.
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen. A de minimis impact assessment is available from HM Treasury, 1 Horse Guards Road, London SW1A 2HQ and is published with the Explanatory Memorandum alongside this instrument on www.legislation.gov.uk.

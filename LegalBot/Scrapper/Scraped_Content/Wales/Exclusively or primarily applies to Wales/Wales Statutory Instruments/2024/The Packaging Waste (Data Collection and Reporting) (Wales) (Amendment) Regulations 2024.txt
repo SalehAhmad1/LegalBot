@@ -1,0 +1,435 @@
+WELSH STATUTORY INSTRUMENTS
+2024 No. 400 (W. 72)
+ENVIRONMENTAL PROTECTION, WALES
+The Packaging Waste (Data Collection and Reporting) (Wales) (Amendment) Regulations 2024
+Made
+20th March 2024
+Coming into force
+1st April 2024
+The Welsh Ministers make the following Regulations in exercise of the powers conferred on them by section 2(1) to (3) of, and paragraphs 2, 11, 17 and 20(1)(b) of Schedule 1 to, the Pollution Prevention and Control Act 1999 (“the 1999 Act”)(1).
+The Welsh Ministers have, in accordance with section 2(4) of the 1999 Act consulted—
+(a)
+Natural Resources Wales,
+(b)
+such bodies or persons appearing to them to be representative of the interests of local government, industry, agriculture and small businesses respectively as they consider appropriate, and
+(c)
+such other bodies or persons as the Welsh Ministers consider appropriate.
+In accordance with section 2(8) of the 1999 Act, a draft of these Regulations has been laid before, and approved by resolution of, Senedd Cymru(2).
+(1)
+1999 c. 24. Section 2 was amended by S.I. 2013/755 (W. 90); there is another amending instrument that is not relevant to these Regulations. Schedule 1 was amended by S.I. 2019/458; there are other amending instruments, but none are relevant to these Regulations. Functions of the Secretary of State, so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales, except in relation to offshore oil and gas exploration and exploitation, by the National Assembly for Wales (Transfer of Functions) Order 2005 (S.I. 2005/1958), article 3(1). Functions of the National Assembly for Wales were transferred to the Welsh Ministers by section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act 2006 (c. 32).
+(2)
+The reference in section 2(8) to approval by each House of Parliament has effect in relation to the exercise of functions by the Welsh Ministers as if it were a reference to approval by Senedd Cymru, by virtue of section 150A(2) of, and paragraph 33 of Schedule 11 to, the Government of Wales Act 2006.Title and coming into force
+1.—(1) The title of these Regulations is the Packaging Waste (Data Collection and Reporting) (Wales) (Amendment) Regulations 2024.
+(2) These Regulations come into force on 1 April 2024.Interpretation
+2.  In these Regulations, “the principal Regulations” means the Packaging Waste (Data Collection and Reporting) (Wales) Regulations 2023(1).
+(1)
+S.I. 2023/798 (W. 127).Transitional provision
+3.—(1) A producer who is a large producer for the purposes of the principal Regulations must ensure that any recycling data report submitted for the period from 1 January 2024 to 1June 2024 complies with the producer’s data reporting obligations under regulation 17 of the principal Regulations as amended by these Regulations.
+(2) Where a large producer does not have sufficient data to report on the period from 1 January 2024 to 1 April 2024, the large producer—
+(a)
+is not required to submit a report for the period from 1 January 2024 to 1 April 2024, but
+(b)
+must submit a report for the period from 1 April 2024 to 30 June 2024 which complies with its data reporting obligations under regulation 17 of the principal Regulations as amended by these Regulations.Amendments to the principal Regulations
+4.  The principal Regulations are amended in accordance with regulations 5 to 21.Amendment of regulation 2 (interpretation)
+5.  In regulation 2(1)—
+(a)
+omit the definition of “disposal”;
+(b)
+at the appropriate places, in alphabetical order, insert the following definitions—
+““drink container” (“cynhwysydd diod”) means a bottle or can which—
+(a)
+contains or used to contain drink,
+(b)
+is made wholly or mainly from polyethylene terephthalate (PET) plastic, glass, steel or aluminium,
+(c)
+has a capacity of at least 50 millilitres but no more than three litres of liquid,
+(d)
+is designed or intended to be sealed in an airtight and watertight state at the point of supply to a consumer in the United Kingdom, and
+(e)
+is not conceived, designed or marketed to be refilled or re-used in any other way by any person;”;
+““first UK owner” (“perchennog cyntaf yn y DU”) in relation to packaging which is not imported, means the first person established in the United Kingdom who takes ownership of that packaging in the United Kingdom;”;
+““group of companies” (“grŵp o gwmnïau”) has the meaning given by regulation 11(9)(d);”;
+(c)
+in the definition of “importer”—
+(i)
+in paragraph (a), omit “filled”;
+(ii)
+in paragraph (b)—
+(aa)
+for “present”, substitute “established”;
+(bb)
+after “first person”, insert “established”.Amendment of regulation 5 (drink)
+6.  In regulation 5(1), omit “except in regulation 12(4),”.Amendment of regulation 6 (packaging and packaging categories)
+7.  In regulation 6—
+(a)
+in paragraph (1)—
+(i)
+in sub-paragraph (c), after “does not include” insert “shipment packaging or”;
+(ii)
+in sub-paragraph (d), omit “added”;
+(b)
+after paragraph (6), insert—
+“(7) Where a drink container consists of a number of components made of different materials—
+(a)
+the drink container is to be treated as being made of the same material as the component which is predominant by weight (“the predominant component”), unless the predominant component is made of glass;
+(b)
+where the predominant component is made of glass, each component of the drink container is to be treated separately for the purpose of these Regulations.”Substitution of regulation 7 (household packaging)
+8.  For regulation 7, substitute—
+“Household packaging
+7.—(1) In these Regulations, “household packaging” is primary packaging or shipment packaging which is not primary packaging or shipment packaging falling within paragraph (2).
+(2) The following primary packaging or shipment packaging is not to be treated as household packaging—
+(a)
+packaging supplied to a business or public institution which is the final user of that packaging;
+(b)
+packaging for a product, where—
+(i)
+the product is designed only for use by a business or public institution, and
+(ii)
+the packaging for that product is not reasonably likely to be disposed of in a household bin or a public bin;
+(c)
+packaging imported into the United Kingdom by an importer and discarded in the United Kingdom by that importer.
+(3) Packaging is not to be treated as falling within paragraph (2)(a) or (b) unless the producer supplying that packaging can provide evidence that—
+(a)
+in the case of paragraph (2)(a), the packaging is supplied to a business or a public institution which does not supply to any other person—
+(i)
+the packaging, or
+(ii)
+the product which the packaging contains in its packaged form;
+(b)
+in the case of paragraph (2)(b)—
+(i)
+the product in question satisfies the requirement in paragraph (2)(b)(i), and
+(ii)
+the packaging for that product satisfies the requirement in paragraph (2)(b)(ii).
+(4) For the purposes of paragraph (2)(b), “packaging for a product” means—
+(a)
+packaging supplied with a product satisfying the conditions in paragraph (2)(b) (“a business product”), and
+(b)
+unfilled packaging made to be used with a business product, provided that the supplier of that packaging has evidence that the packaging will be used with a business product.
+(5) For the purposes of paragraph (3)(a)(ii), a product is to be treated as being supplied in its packaged form unless all packaging is removed from the product before it is supplied to the final user of that product.
+(6) For the purposes of this regulation and regulation 7A, the following institutions and persons are to be treated as public institutions—
+(a)
+a school, university, or other educational establishment;
+(b)
+a hospital or the practice of a general medical practitioner or dentist;
+(c)
+a nursing home or other residential home;
+(d)
+a government department;
+(e)
+a relevant authority;
+(f)
+a court or tribunal;
+(g)
+a person established or appointed by or under any enactment who discharges public functions;
+(h)
+a charity or other not for profit body;
+(i)
+a penal institution.
+(7) In this regulation—
+“dentist” (“deintydd”) means a person registered in the dentists register kept under section 14(1) of the Dentists Act 1984(1);
+“general medical practitioner” (“ymarferydd meddygol cyffredinol”) means a person registered in the General Practitioner Register kept by the General Council under section 34C of the Medical Act 1983(2);
+“not for profit body” (“corff nid-er-elw”) means a body which, by virtue of its constitution or any enactment—
+(a)
+is required (after payment of outgoings) to apply the whole of its income, and any capital which it expends, for charitable or public purposes, and
+(b)
+is prohibited from directly or indirectly distributing among its members any part of its assets otherwise than for charitable or public purposes.
+(8) In this regulation and in regulation 7A—
+(a)
+“household bin” means a receptacle designed to collect waste material from a household which is not a business or a public institution;
+(b)
+“public bin” means a receptacle—
+(i)
+maintained by a relevant authority in a street or public place, and
+(ii)
+designed to collect waste material.”
+(1)
+1984 c. 24; section 14(1) was amended by S.I. 2005/2011; there are other amending instruments, but none are relevant to these Regulations.
+(2)
+1983 c. 54. Section 34C was inserted by S.I. 2010/234, Schedule 1, paragraph 10.Insertion of new regulation 7A (NRW guidance)
+9.  After regulation 7 (household packaging), insert—
+“NRW guidance
+7A.—(1) NRW must provide guidance for the purposes of regulation 7 (household packaging)—
+(a)
+on the evidence which may be used by a producer to demonstrate that primary packaging or shipment packaging is supplied to a business or a public institution which in either case is the final user of the packaging;
+(b)
+on when—
+(i)
+a product is to be treated as being designed only for use by a business or a public institution, and
+(ii)
+packaging for that product is to be treated as not reasonably likely to be disposed of in a household bin or a public bin.
+(2) NRW may take the following factors into account in the preparation of guidance under paragraph (1)(b)—
+(a)
+the size of the packaging;
+(b)
+the weight of the packaging;
+(c)
+whether the supply of a product is subject to restrictions imposed by or under primary or secondary legislation;
+(d)
+how available a product or its packaging is to consumers;
+(e)
+whether a product is likely to be used by a business in a household;
+(f)
+any other factor NRW considers relevant.”Amendment of regulation 8 (producers)
+10.  In regulation 8—
+(a)
+for paragraph (1), substitute—
+“(1) A person is a producer in relation to the packaging specified in this regulation if they perform in any nation of the United Kingdom the functions of one or more of the following in relation to packaging, either on their own behalf, or through an agent acting on their behalf, and in the course of business—
+(a)
+a brand owner,
+(b)
+a packer/filler,
+(c)
+an importer or first UK owner,
+(d)
+a distributor,
+(e)
+an online marketplace operator,
+(f)
+a service provider, or
+(g)
+a seller.
+(1A) No person may be treated as performing one of the functions listed in paragraph (1) for the purposes of this regulation unless they are established in the United Kingdom.”;
+(b)
+in paragraph (2)—
+(i)
+for “paragraph (6)”, substitute “paragraph (5)(b)(iii), (6) or (7)”;
+(ii)
+for “paragraph (4)”, substitute “paragraphs (3) and (12A)”;
+(c)
+in paragraph (3)—
+(i)
+for “Subject”, substitute “Unless paragraph (6) or (7) applies, and subject”;
+(ii)
+for “paragraph (4)”, substitute “paragraph (12A)”;
+(iii)
+at the end, insert “and any packaging contained in, or forming part of, that packaging (whether or not that part of the packaging is branded).”;
+(d)
+omit paragraph (4);
+(e)
+in paragraph (5), for sub-paragraph (b) substitute—
+“(b)
+where one (or more) of the following applies—
+(i)
+there is no brand owner established in the United Kingdom,
+(ii)
+the brand owner is not a large producer, or
+(iii)
+the only brand on the packaging relates to the packaging and not to the product contained in that packaging.”;
+(f)
+for paragraphs (7) and (8), substitute—
+“(7) An importer (“IM”) is a producer in relation to any packaging imported into the United Kingdom to which paragraph (8) applies—
+(a)
+for which the IM is the importer, and
+(b)
+which is—
+(i)
+filled packaging, or
+(ii)
+packaging discarded by the IM in the United Kingdom.
+(8) This paragraph applies to packaging—
+(a)
+for which there is no brand owner established in the United Kingdom,
+(b)
+where the brand owner is not responsible for the import of the packaging, or
+(c)
+where the brand owner is responsible for the import of the packaging but is not a large producer.”;
+(g)
+after paragraph (8), insert—
+“(8A) A first UK owner is a producer in relation to any packaging where—
+(a)
+the packaging is packed or filled in the United Kingdom on behalf of a person who is not established in the United Kingdom,
+(b)
+at the time it is packed or filled, no person established in the United Kingdom is or has been the owner of the packaging, and
+(c)
+the filled packaging is supplied to the first UK owner.”;
+(h)
+in paragraph (9)—
+(i)
+for sub-paragraph (b), substitute—
+“(b)
+supplied to any person, other than a large producer who fills or packs the packaging before supplying it to any other person,”;
+(ii)
+for the closing words, substitute—
+“except where a large producer who is a brand owner or a packer/filler is the producer in relation to that packaging under paragraph (2), (3), (5) or (6) once the packaging is filled.”;
+(i)
+in paragraph (12) for “consumer” both times it occurs, substitute “final user”;
+(j)
+after paragraph (12), insert—
+“(12A) Where different individual products are grouped together to be sold as a single sales unit, this regulation must be applied separately to determine the producer of—
+(a)
+the packaging for each individual product within the sales unit, and
+(b)
+the packaging for the sales unit as a whole, including any packaging within the sales unit which is not part of the packaging of any individual product within that sales unit.”Amendment of regulation 10 (supply)
+11.  In regulation 10—
+(a)
+for paragraph (2), substitute—
+“(2) In these Regulations—
+(a)
+a first UK owner is to be treated as “supplying” any packaging which—
+(i)
+has not been supplied, within the meaning of these Regulations, before coming into the ownership of the first UK owner, and
+(ii)
+is discarded by the first UK owner in the United Kingdom;
+(b)
+an importer is to be treated as “supplying” packaging or packaging materials which the importer imports into and discards in the United Kingdom.”;
+(b)
+omit paragraph (3).Amendment of regulation 11 (threshold criteria for large and small producers)
+12.  In regulation 11(12), in the definition of “obligation year”, for “data collection requirements or data collecting and reporting requirements”, substitute “data collection obligations alone, or both data collection obligations and data reporting obligations”.Amendment of regulation 12 (exempt packaging)
+13.  In regulation 12—
+(a)
+in paragraph (2), for sub-paragraph (e), substitute—
+“(e)
+packaging which is a deposit item for the purposes of a relevant deposit scheme, and for these purposes, “deposit item” includes packaging which is a scheme article under the Deposit and Return Scheme for Scotland Regulations 2020(1), or returnable packaging as provided for in regulations made under section 84 of the Climate Change (Scotland) Act 2009(2).”;
+(b)
+for paragraph (4), substitute—
+“(4) In paragraph (2)(e), a “relevant deposit scheme” is a deposit scheme which—
+(a)
+has been established in—
+(i)
+the Deposit and Return Scheme for Scotland Regulations 2020, or
+(ii)
+regulations made under Schedule 8 to the Environment Act 2021(3), or under section 84 of the Climate Change (Scotland) Act 2009, and
+(b)
+is in operation in any part of the United Kingdom.”;
+(c)
+omit paragraph (5).
+(1)
+S.S.I. 2020/154, amended by S.S.I. 2022/76, 2023/201 and 2023/334. “Scheme article” has the meaning given by regulation 3(2) of S.S.I. 2020/154.
+(2)
+2009 asp 12.
+(3)
+2021 c. 30.Amendment of regulation 15 (producer obligations)
+14.  In regulation 15(1), for “as defined under regulation 8(1)”, substitute “who is established in Wales”.Amendment of regulation 16 (data collection obligations)
+15.  In regulation 16—
+(a)
+in paragraph (2)(b)(ii), for “22(1) and (3)”, substitute “22(1) to (4)”;
+(b)
+in paragraph (3)(b)(ii), for “22(1) and (3)” substitute “22(1) to (4)”.Amendment of regulation 17 (data reporting obligations)
+16.  In regulation 17(1)—
+(a)
+in sub-paragraph (b)—
+(i)
+after “importer”, insert “, first UK owner”;
+(ii)
+for “paragraphs 10(3) and 22”, substitute “paragraphs 11 to 13, 15, 16 and 22”;
+(b)
+in sub-paragraph (c), for “10 to 16 and 22”, substitute “11 to 13, 15, 16 and 22”.Insertion of new regulation 17A (recycling data)
+17.  After regulation 17 (data reporting obligations), insert—
+“Recycling data
+17A.—(1) Where information in a report submitted by a large producer (“LP”) under regulation 17 in relation to a period of six months ending on or after 30 June 2024 (“regulation 17 report”) concerns packaging which has already been the subject of a recycling obligation under regulation 4(4)(b) of, and Schedule 2 to, the 2007 Regulations (“relevant packaging”), LP may choose to submit a report under paragraph (2) of this regulation (a “regulation 17A report”).
+(2) A regulation 17A report must state the proportion of relevant packaging which LP has been required to recycle under the 2007 Regulations (“P”), calculated as follows—
+where—
+(a)
+“AP” is the amount in kilograms of relevant packaging which has previously been taken into account to calculate the recycling obligations of a producer under the 2007 Regulations;
+(b)
+“SP” is the sum of the percentages of that packaging which any class of producer has been required to recycle under the 2007 Regulations, as set out in paragraph 4 of Schedule 2 to those Regulations.
+(3) Where LP chooses to submit a regulation 17A report, LP must submit the report—
+(a)
+in such form as NRW may direct;
+(b)
+on the date on which LP submits a regulation 17 report or such other date as NRW may direct.
+(4) Where a regulation 17A report is not submitted on the same date as the regulation 17 report, the regulation 17A report must also identify the data collection period it relates to.
+(5) In this regulation, “the 2007 Regulations” means the Producer Responsibility Obligations (Packaging Waste) Regulations 2007(1).”
+(1)
+S.I. 2007/871, amended by S.I. 2007/3538; 2010/675, 2849; S.S.I. 2012/360; S.I. 2013/1821, 755 (W. 90); 2016/24, 696, 738; 2018/721; 2019/188; S.S.I. 2020/387, S.I. 2020/904, 1390 (W. 308).Amendment of regulation 20 (schemes: general provisions)
+18.  In regulation 20, after paragraph (2), insert—
+“(3) OS must monitor the accuracy of information provided by a producer to the scheme for the purposes of this regulation to ensure that the information complies with the requirements in regulation 19(2)(b)(iii).”Insertion of new regulation 22A (publication of list of large producers)
+19.  After regulation 22 (publication of items recycled by relevant authorities), insert—
+“Publication of list of large producers
+22A.—(1)  NRW must publish on a website a list of all large producers (“the list”) who have reported information to NRW under regulation 17 (data reporting obligations).
+(2) An entry for a large producer on the list must contain—
+(a)
+the name of the large producer;
+(b)
+the business name of the large producer if different from that referred to in sub-paragraph (a);
+(c)
+the name and address of the registered office of the large producer, or if it is not a company, its head office or principal place of business.
+(3) The list must be arranged and indexed so that it is capable of being searched by a member of the public.
+(4) NRW must enter information on the list as soon as practicable after the information has been received by NRW.”Amendments to Schedule 1 (collection and reporting of information)
+20.  In Schedule 1 (collection and reporting of information)—
+(a)
+in the heading of Part 3 (information required from brand owners, importers, distributors and service providers)—
+(i)
+after “brand owners,”, insert “packers/fillers,”;
+(ii)
+after “importers”, insert “or first UK owners”;
+(b)
+in paragraph 10—
+(i)
+in sub-paragraph (1)—
+(aa)
+in paragraph (a), omit the words from “or, for” to the end;
+(bb)
+after paragraph (a), insert—
+“(aa)
+packers/fillers,”;
+(cc)
+in paragraph (b), after “importers”, insert “or first UK owners”;
+(ii)
+after sub-paragraph (1), insert—
+“(1A) A producer required by regulation 17 (data reporting obligations) to report information in this Part—
+(a)
+must only report that information in relation to packaging for which that person is a producer of a class listed in sub-paragraph (1);
+(b)
+must not report any information in relation to any packaging in relation to which the producer only performs the function of a seller or an on-line marketplace operator.”;
+(iii)
+in sub-paragraph (3)(b), for “that information”, substitute “the information set out in paragraphs 11 to 13, 15, 16 and 22”;
+(c)
+in paragraph 13—
+(i)
+omit sub-paragraph (2);
+(ii)
+for sub-paragraph (3), substitute—
+“(3) Sub-paragraph (1) does not apply in relation to packaging which an importer or first UK owner is treated as supplying within the meaning of regulation 10(2);”;
+(d)
+in paragraph 16(2)(a) for “, paper and straws”, substitute “and paper”;
+(e)
+in paragraph 17, in sub-paragraphs (a) and (b) after “and 19” insert “for all packaging in respect of which they are a producer under regulation 8(10)”;
+(f)
+in paragraphs 18 and 19, for “the producer has supplied”, substitute “supplied through an online marketplace operated by the producer”;
+(g)
+in paragraph 20—
+(i)
+at the end of the opening words, insert “for all packaging in respect of which they are a producer, or, for the information in paragraph 21, a producer of a class specified in that paragraph”;
+(ii)
+at the end of sub-paragraph (a), insert “where applicable”;
+(iii)
+for sub-paragraphs (b) and (c) substitute—
+“(b)
+for large producers, the information in paragraphs 21 and 22, where applicable;”;
+(iv)
+in sub-paragraph (d), for “22(3)”, substitute “22(2) and (3)”;
+(h)
+in paragraph 21—
+(i)
+in sub-paragraph (1)(b), after “the producer” the first time it is referred to, insert “imports and then”;
+(ii)
+after sub-paragraph (1)(b), insert—
+“(c)
+all packaging the producer takes ownership of and then discards, when the producer is a first UK owner;”;
+(iii)
+in sub-paragraph (2)(b), after “tertiary packaging” insert “and first UK owners who are treated as supplying secondary or tertiary packaging”.Amendment to Schedule 2 (licensors and pub operating businesses)
+21.  In paragraph 2(2)(b) of Schedule 2, for “3 and 4”, substitute “5 and 7”.Julie James
+Minister for Climate Change, one of the Welsh Ministers
+20 March 2024EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the Packaging Waste (Data Collection and Reporting) (Wales) Regulations 2023 (“the principal Regulations”). The purpose of these Regulations is to clarify the division of responsibilities between brand owners, packers/fillers, importers and first UK owners and distributors, and to place a requirement upon Natural Resources Wales (“NRW”) to produce guidance in respect of household packaging and to publish a list of large producers. These Regulations also provide a number of miscellaneous amendments including clarification of sentences and amendment of typographical errors.
+Regulation 2 provides a definition of “the principal Regulations” for the purposes of these Regulations.
+Regulation 3 is a transitional provision to address the situation where, as a result of amendments made by these Regulations to the principal Regulations, a large producer may not have sufficient data to report on the period from 1 January 2024 to 1 April 2024.
+Regulation 5 amends regulation 2 (interpretation) of the principal Regulations by removing the definition of “disposal”, amending the definition of “importer”, and including new definitions for “drink container”, “first UK owner” and “group of companies”.
+Regulation 6 makes a minor amendment to regulation 5 (drink) of the principal Regulations.
+Regulation 7 makes amendments to regulation 6 (packaging and packaging categories) of the principal Regulations, including inserting a new paragraph (7).
+Regulation 8 substitutes a new regulation 7 (household packaging) in the principal Regulations.
+Regulation 9 inserts a new regulation 7A (NRW guidance) into the principal Regulations which requires NRW to provide guidance for the purposes of regulation 7 (household packaging) of the principal Regulations.
+Regulation 10 amends the definition of “producer” in regulation 8 (producers) of the principal Regulations to extend the meaning of producer to a person who is established in the United Kingdom. It also introduces the concept of a “first UK owner” and makes amendments in respect of brand owners and filled packaging, which is linked to the meaning of producer for the purposes of the principal Regulations.
+Regulation 11 amends regulation 10 (supply) of the principal Regulations to substitute wording in relation to the supply of packaging by a first UK owner and an importer.
+Regulation 12 makes a minor amendment to regulation 11 (threshold criteria for large and small producers) in the principal Regulations.
+Regulation 13 amends regulation 12 (exempt packaging) of the principal Regulations in relation to certain deposit return schemes.
+Regulation 14 makes a consequential amendment to regulation 15 (producer obligations) of the principal Regulations following the substitution of new paragraphs (1) and (1A) in regulation 8 of the principal Regulations.
+Regulations 15 and 16 make minor amendments to regulation 16 (data collection obligations) and regulation 17 (data reporting obligations) respectively of the principal Regulations.
+Regulation 17 inserts a new regulation 17A (recycling data) into the principal Regulations. This new regulation introduces the concept of a “regulation 17A report” and provides that large producers who meet certain criteria have the choice of submitting either a “regulation 17” or “regulation 17A” report in order to discharge their data reporting obligations.
+Regulation 18 makes a minor amendment to regulation 20 (schemes: general provisions) of the principal Regulations.
+Regulation 19 inserts a new regulation 22A (publication of list of large producers) into the principal Regulations. This places a duty on NRW to publish a list of all large producers who have reported information under regulation 17 (data reporting obligations).
+Regulations 20 and 21 make minor amendments to Schedules 1 and 2 to the principal Regulations.
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, it was not considered necessary to carry out a regulatory impact assessment as to the likely costs and benefits of complying with these Regulations.

@@ -1,0 +1,49 @@
+WELSH STATUTORY INSTRUMENTS
+2018 No. 1302 (W. 256)
+CLIMATE CHANGE, WALES
+The Climate Change (International Aviation and International Shipping) (Wales) Regulations 2018
+Made
+5 December 2018
+Coming into force
+6 December 2018
+A draft of this instrument was laid before and approved by a resolution of the National Assembly for Wales in accordance with section 48(3) of the Environment (Wales) Act 2016(1).
+Before the draft was laid the Welsh Ministers obtained and took into account the advice of the Committee on Climate Change, in accordance with section 49(1) of the Act.
+Accordingly, the Welsh Ministers, in exercise of the powers conferred by section 35 of the Environment (Wales) Act 2016, make the following Regulations:
+(1)
+2016 anaw 3.Title and commencement
+1.—(1) The title of these Regulations is the Climate Change (International Aviation and International Shipping) (Wales) Regulations 2018.
+(2) These Regulations come into force on the day after the day on which they are made.Interpretation
+2.  In these Regulations —
+“the Act“ (“y Ddeddf”) means the Environment (Wales) Act 2016; and
+“UK greenhouse gas inventory” (“rhestr nwyon tŷ gwydr y DU”) means the UK’s annual report to the Conference of the Parties submitted under articles 4 and 12 of the United Nations Framework Convention on Climate Change signed in New York on 9 May 1992.Emissions from international aviation attributable to Wales
+3.  The Welsh Ministers must apply Schedule 1 to calculate what emissions of greenhouse gases from international aviation are Welsh emissions for the purposes of section 34(2) of the Act for —
+(a)
+the year that is the baseline year for that gas, and
+(b)
+every calendar year between 2016-2050.Emissions from international shipping attributable to Wales
+4.  The Welsh Ministers must apply Schedule 2 to calculate what emissions of greenhouse gases from international shipping are Welsh emissions for the purposes of section 34(2) of the Act for —
+(a)
+the year that is the baseline year for that gas, and
+(b)
+every calendar year between 2016-2050.Lesley Griffiths
+Cabinet Secretary for Energy, Planning and Rural Affairs, one of the Welsh Ministers
+5 December 2018Regulation 3
+SCHEDULE 1
+FORMULA FOR CALCULATING ANNUAL EMISSIONS OF A GREENHOUSE GAS FROM INTERNATIONAL AVIATION
+where—
+“A” is Welsh emissions of that gas;
+“B” is the amount of gas emitted by the United Kingdom from international aviation as reported in the UK Greenhouse Gas Inventory;
+“C” is the fuel use for aircraft flights to international destinations from airports in Wales;
+“D” is the fuel use for aircraft flights to international destinations from airports in the United Kingdom.Regulation 4
+SCHEDULE 2
+FORMULA FOR CALCULATING EMISSIONS OF A GREENHOSE GAS FROM INTERNATIONAL SHIPPING IN A YEAR
+where—
+“F” is Welsh emissions of that gas;
+“G” is the amount of gas emitted by the United Kingdom from international shipping as reported in the UK Greenhouse Gas Inventory;
+“H” is the all ports traffic figure for Wales; and
+“I” is the all ports traffic figure for the United Kingdom.EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations provide a formula for determining what emissions of greenhouse gases from international aviation and international shipping are to be regarded as Welsh emissions for the purposes of section 34(2) of the Environment (Wales) Act 2016.
+The purpose of Part 2 of the Environment (Wales) Act 2016 is to require the Welsh Ministers to meet targets for reducing emissions of greenhouse gases from Wales. Section 34(2) of the Act provides that Welsh emissions are those that are emitted from sources in Wales and those from international aviation or international shipping that are included as Welsh emissions by virtue of regulations made under section 35 of the Act.
+In accordance with section 49 of the Act, the Welsh Ministers have obtained and taken into account the advice of the advisory body before laying draft regulations.
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result a regulatory impact assessment has been prepared as to the likely costs and benefits of complying with these Regulations. A copy can be obtained from the Welsh Government, Cathays Park, Cardiff, CF10 3NQ.

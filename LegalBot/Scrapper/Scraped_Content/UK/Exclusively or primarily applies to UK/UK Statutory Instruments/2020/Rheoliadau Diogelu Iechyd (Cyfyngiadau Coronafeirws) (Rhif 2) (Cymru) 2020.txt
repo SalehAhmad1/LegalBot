@@ -1,0 +1,978 @@
+OFFERYNNAU STATUDOL CYMRU
+2020 Rhif 725 (Cy. 162)
+IECHYD Y CYHOEDD, CYMRU
+Rheoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Rhif 2) (Cymru) 2020
+Cymeradwywyd gan Senedd Cymru
+Gwnaed
+am 3.40 p.m. ar 10 Gorffennaf 2020
+Gosodwyd gerbron Senedd Cymru
+am 6.00 p.m. ar Gorffennaf 2020
+Yn dod i rym yn unol â rheoliad 1(3) a (4)
+Mae Gweinidogion Cymru yn gwneud y Rheoliadau a ganlyn drwy arfer y pwerau a roddir gan adrannau 45C(1) a (3)(c), 45F(2) a 45P o Ddeddf Iechyd y Cyhoedd (Rheoli Clefydau) 1984(1) .
+Mae’r Rheoliadau hyn wedi eu gwneud mewn ymateb i’r bygythiad difrifol ac uniongyrchol i iechyd y cyhoedd a berir gan fynychder a lledaeniad coronafeirws syndrom anadlol acíwt difrifol 2 (SARS-CoV-2) yng Nghymru.
+Mae Gweinidogion Cymru yn ystyried bod y cyfyngiadau a’r gofynion a osodir gan y Rheoliadau hyn yn gymesur â’r hyn y maent yn ceisio ei gyflawni, sef ymateb iechyd y cyhoedd i’r bygythiad hwnnw.
+Yn unol ag adran 45R o’r Ddeddf honno, oherwydd brys, mae Gweinidogion Cymru o’r farn ei bod yn angenrheidiol gwneud yr offeryn hwn heb fod drafft wedi ei osod gerbron Senedd Cymru ac wedi ei gymeradwyo ganddi drwy benderfyniad.
+(1)
+1984 p. 22. Mewnosodwyd adrannau 45C, 45F a 45P gan adran 129 o Ddeddf Iechyd a Gofal Cymdeithasol 2008 (p. 14). Mae’r swyddogaethau o dan yr adrannau hyn wedi eu rhoi i “the appropriate Minister” (“y Gweinidog priodol”). O dan adran 45T(6) o Ddeddf 1984, y Gweinidog priodol, o ran Cymru, yw Gweinidogion Cymru.Enwi, cymhwyso a dod i rym
+1.—(1) Enw’r Rheoliadau hyn yw Rheoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Rhif 2) (Cymru) 2020.
+(2) Mae’r Rheoliadau hyn yn gymwys o ran Cymru.
+(3) Daw’r darpariaethau a ganlyn yn y Rheoliadau hyn i rym ar 11 Gorffennaf 2020—
+(a)
+rheoliad 2;
+(b)
+rheoliad 8;
+(c)
+rheoliad 9 i’r graddau y mae’n gymwys i ofyniad o dan reoliad 8(1);
+(d)
+rheoliadau 12 ac 13 i’r graddau y maent yn gymwys i berson sy’n gyfrifol am fangre busnes a restrir yn Atodlen 3;
+(e)
+rheoliadau 17 i 22 i’r graddau y maent yn gymwys i dorri (neu achos honedig o dorri) rheoliad 8(1);
+(f)
+rheoliad 3 i’r graddau y mae’n ymwneud â darpariaethau a ganlyn yn Rheoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Cymru) 2020(1)—
+(i)
+paragraffau (4) i (6) o reoliad 4 i’r graddau y maent yn gymwys i berson sy’n gyfrifol am gynnal busnes a restrir yn Rhan 3 o Atodlen 1;
+(ii)
+rheoliad 5;
+(iii)
+rheoliad 7A i’r graddau y mae’n gymwys mewn perthynas â gofyniad neu gyfyngiad a osodir gan reoliad 4(5B) neu 5(3C) ar berson sy’n gyfrifol am gynnal busnes a restrir yn Rhan 3 o Atodlen 1;
+(iv)
+rheoliadau 10 i 14 i’r graddau y maent yn gymwys i dorri (neu achos honedig o dorri) rheoliad 4(4) neu 5(3C) gan berson sy’n gyfrifol am gynnal busnes a restrir yn Rhan 3 o Atodlen 1.
+(4) Daw’r Rheoliadau hyn i rym at bob diben arall ar 13 Gorffennaf 2020.
+Gwybodaeth Cychwyn
+I1
+Rhl. 1 mewn grym ar 11.7.2020, gweler rhl. 1(3)
+(1)
+O.S. 2020/353 (Cy. 80) a ddiwygiwyd gan O.S. 2020/399 (Cy. 88), O.S. 2020/452 (Cy. 102), O.S. 2020/497 (Cy. 118), O.S. 2020/529 (Cy. 124), O.S. 2020/557 (Cy. 129), O.S. 2020/619 (Cy. 141) ac O.S. 2020/686 (Cy. 153).Dehongli
+2.—(1) Yn y Rheoliadau hyn—
+(a)
+mae “claddu” yn cynnwys rhoi lludw person marw yn y ddaear;
+(b)
+ystyr “gofalwr” yw person sy’n darparu gofal ar gyfer y person a gynorthwyir pan—
+(i)
+bo hawlogaeth gan y gofalwr i asesiad o dan adran 24 o Ddeddf Gwasanaethau Cymdeithasol a Llesiant (Cymru) 2014(1),
+(ii)
+bo’r gofal yn rhan o’r ddarpariaeth o wasanaethau gofal cymunedol o dan Ran 4 o Ddeddf Gwasanaethau Cymdeithasol a Llesiant (Cymru) 2014, neu
+(iii)
+bo’r gofal wedi ei ddarparu gan ddarparwr gofal sydd wedi ei gofrestru o dan Ran 1 o Ddeddf Rheoleiddio ac Arolygu Gofal Cymdeithasol (Cymru) 2016(2);
+(c)
+mae “mynwent” yn cynnwys claddfa ac unrhyw fan arall sydd yn cael ei ddefnyddio i gladdu’r meirw;
+(d)
+ystyr “coronafeirws” yw coronafeirws syndrom anadlol acíwt difrifol 2 (SARS-CoV-2);
+(e)
+ystyr “athletwr elît” yw unigolyn sydd wedi ei ddynodi felly at ddibenion y Rheoliadau hyn gan Gyngor Chwaraeon Cymru;
+(f)
+ystyr “awdurdod lleol” yw cyngor sir neu gyngor bwrdeistref sirol yng Nghymru;
+(g)
+mae i “mangre agored” yr ystyr a roddir gan reoliad 12(3);
+(h)
+mae i “cyfrifoldeb rhiant” yr un ysytr a roddir yn Neddf Plant 1989(3);
+(i)
+mae “person sy’n gyfrifol am gynnal busnes” yn cynnwys perchennog a rheolwr y busnes hwnnw;
+(j)
+mae “mangre” yn cynnwys unrhyw adeilad neu strwythur ac unrhyw dir;
+(k)
+mae “person hyglwyf” yn cynnwys—
+(i)
+unrhyw berson sy’n 70 oed neu’n hŷn;
+(ii)
+unrhyw berson o dan 70 oed sydd â chyflwr iechyd isorweddol;
+(iii)
+unrhyw berson sy’n feichiog;
+(iv)
+unrhyw blentyn;
+(v)
+unrhyw berson sy’n oedolyn hyglwyf o fewn yr ystyr a roddir i “vulnerable adult” gan adran 60(1) o Ddeddf Diogelu Grwpiau Hyglwyf 2006(4).
+(2) At ddibenion y diffiniad o “athletwr elît” ym mharagraff (1)—
+(a)
+nid yw unigolyn wedi ei ddynodi gan Gyngor Chwaraeon Cymru onid yw’r unigolyn wedi ei enwebu am ddynodiad gan gorff camp perthnasol a bod y Cyngor wedi derbyn yr enwebiad, a
+(b)
+ystyr “corff camp perthnasol” yw corff llywodraethu cenedlaethol camp a gaiff enwebu athletwyr i gynrychioli—
+(i)
+Prydain Fawr a Gogledd Iwerddon yn y Gemau Olympaidd neu’r Gemau Paralympaidd, neu
+(ii)
+Cymru yng Ngemau’r Gymanwlad.
+(3) At ddibenion y Rheoliadau hyn—
+(a)
+mae cynulliad pan fydd dau neu ragor o bobl yn yr un man er mwyn gwneud rhywbeth gyda’i gilydd, a
+(b)
+mae mangre o dan do os yw’n gaeedig neu’n sylweddol gaeedig o fewn yr ystyr a roddir gan reoliad 2 o Reoliadau Mangreoedd etc. Di-fwg (Cymru) 2007(5).
+(4) Os yw dwy aelwyd yn cytuno i gael eu trin fel un aelwyd (estynedig) at ddibenion y Rheoliadau hyn, mae unrhyw gyfeiriad yn y Rheoliadau hyn (ac eithrio ym mharagraffau (5) a (7)) at “aelwyd” i’w ddarllen fel pe bai’n cynnwys y ddwy aelwyd.
+(5) Er mwyn cytuno i gael eu trin fel un aelwyd rhaid i bob oedolyn yn y ddwy aelwyd gytuno.
+(6) Ond—
+(a)
+dim ond gydag un aelwyd arall y caiff aelwyd gytuno i gael ei thrin fel un aelwyd, a
+(b)
+os yw’r ddwy aelwyd yn peidio â chytuno i gael eu trin fel un aelwyd, ni chaiff y naill aelwyd na’r llall gytuno i gael ei thrin fel un aelwyd o dan baragraff (4) gydag unrhyw aelwyd arall.
+(7) Os yw dwy aelwyd wedi cytuno i gael eu trin fel un aelwyd (estynedig) at ddibenion Rheoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Cymru) 2020 maent i’w trin fel pe baent hefyd wedi cytuno i hynny at ddibenion y Rheoliadau hyn.
+Gwybodaeth Cychwyn
+I1
+Rhl. 2 mewn grym ar 11.7.2020, gweler rhl. 1(3)(a)
+(1)
+2014 dccc 4.
+(2)
+2016 dccc 2.
+(3)
+1989 p. 41. Gweler Rhan 1 y Ddeddf, lle y gwnaed amryw ddiwygiadau, gan gynnwys gan y Ddeddf Ffrwythloni Dynol ac Embryoleg 2008 (p. 22) ac O.S. 2019/1458.
+(4)
+2006 c. 47, fel a ddiwygiwyd gan adran 65 o Deddf Diogelu Rhyddidau 2012 (p. 9).
+(5)
+O.S. 2007/787 (Cy. 68).Dirymu
+3.—(1) Mae’r Rheoliadau a ganlyn wedi eu dirymu—
+(a)
+Rheoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Cymru) 2020(1);
+(b)
+Rheoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Cymru) (Diwygio) 2020(2);
+(c)
+Rheoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Cymru) (Diwygio) (Rhif 2) 2020(3);
+(d)
+Rheoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Cymru) (Diwygio) (Rhif 3) 2020(4);
+(e)
+Rheoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Cymru) (Diwygio) (Rhif 4) 2020(5);
+(f)
+Rheoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Cymru) (Diwygio) (Rhif 5) 2020(6);
+(g)
+Rheoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Cymru) (Diwygio) (Rhif 6) 2020(7);
+(h)
+Rheoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Cymru) (Diwygio) (Rhif 7) 2020(8).
+(2) Er gwaethaf dirymu’r Rheoliadau hynny, maent yn parhau mewn grym mewn perthynas ag unrhyw drosedd a gyflawnwyd o dan Reoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Cymru) 2020 cyn i’r Rheoliadau hyn ddod i rym.
+Gwybodaeth Cychwyn
+I1
+Rhl. 3 mewn grym ar 11.7.2020 at ddibenion penodedig, gweler rhl. 1(3)(f)
+I2
+Rhl. 3 mewn grym ar 13.7.2020 mewn grym i'r graddau nad yw eisoes mewn grym, gweler rhl. 1(4)
+(1)
+O.S. 2020/353 (Cy. 80).
+(2)
+O.S. 2020/399 (Cy. 88).
+(3)
+O.S. 2020/452 (Cy. 102).
+(4)
+O.S. 2020/497 (Cy. 118).
+(5)
+O.S. 2020/529 (Cy. 124).
+(6)
+O.S. 2020/557 (Cy. 129).
+(7)
+O.S. 2020/619 (Cy. 141).
+(8)
+O.S. 2020/686 (Cy. 153).Adolygu
+4.  Rhaid i Weinidogion Cymru adolygu’r angen am y cyfyngiadau a’r gofynion a osodir gan y Rheoliadau hyn, a pha un a yw’r cyfyngiadau a’r gofynion hynny yn gymesur â’r hyn y mae Gweinidogion Cymru yn ceisio ei gyflawni drwyddynt—
+(a)
+erbyn 30 Gorffennaf 2020;
+(b)
+o leiaf unwaith yn y cyfnod o 21 o ddiwrnodau sy’n dechrau â 31 Gorffennaf;
+(c)
+o leiaf unwaith ym mhob cyfnod dilynol o 21 o ddiwrnodau.
+Gwybodaeth Cychwyn
+I1
+Rhl. 4 mewn grym ar 13.7.2020, gweler rhl. 1(4)Dod i ben
+5.—(1) Daw’r Rheoliadau hyn i ben ar ddiwedd y dydd ar 8 Ionawr 2021.
+(2) Nid yw’r rheoliad hwn yn effeithio ar ddilysrwydd unrhyw beth a wneir yn unol â’r Rheoliadau hyn cyn iddynt ddod i ben.
+Gwybodaeth Cychwyn
+I1
+Rhl. 5 mewn grym ar 13.7.2020, gweler rhl. 1(4)Cau bariau a bwytai dan do etc.
+6.—(1) Rhaid i berson sy’n gyfrifol am gynnal busnes a restrir yn Atodlen 1 gau unrhyw ran o’i fangre sydd o dan do ac a ddefnyddir ar gyfer bwyta bwyd neu yfed diod.
+(2) Ond nid yw paragraff (1) yn atal darparu gwasanaeth ystafell mewn gwesty neu lety arall.
+(3) Ac mae paragraff (1) yn gymwys, yn ddarostyngedig i’r angen i wneud gwaith cynnal a chadw ac atgyweirio a gwaith arall i sicrhau bod y fangre yn addas i’w defnyddio pan nad yw paragraff (1) yn gymwys mwyach i’r busnes.
+(4) At ddibenion paragraff (1), mae ardal o dan do sy’n gyfagos i fangre’r busnes lle y mae seddau yn cael eu rhoi ar gael i gwsmeriaid y busnes (pa un ai gan y busnes ai peidio) i’w thrin fel rhan o fangre’r busnes hwnnw.
+Gwybodaeth Cychwyn
+I1
+Rhl. 6 mewn grym ar 13.7.2020, gweler rhl. 1(4)Cau busnesau a gwasanaethau eraill
+7.—(1) Rhaid i berson sy’n gyfrifol am gynnal busnes neu ddarparu gwasanaeth a restrir yn Atodlen 2 beidio â chynnal y busnes hwnnw neu ddarparu’r gwasanaeth hwnnw.
+(2) Ond nid yw paragraff (1) yn atal y defnydd—
+(a)
+o fangre a ddefnyddir ar gyfer y busnesau neu’r gwasanaethau a restrir ym mharagraff 1, 2, 4, 5, 6 neu 12 o Atodlen 2 i ddarlledu heb gynulleidfa yn bresennol yn y fangre (boed dros y rhyngrwyd neu fel rhan o ddarllediad radio neu deledu);
+(b)
+o fangre at unrhyw ddiben y caiff Gweinidogion Cymru neu awdurdod lleol ofyn amdano;
+(c)
+o fangre ar gyfer hyfforddi athletwyr elît;
+(d)
+o fangre a ddefnyddir fel amgueddfa neu oriel, neu at ddiben darparu gwasanaethau archif, ar gyfer darparu gwybodaeth neu wasanaethau eraill—
+(i)
+drwy wefan, neu fel arall drwy gyfathrebiad ar lein,
+(ii)
+dros y ffôn, gan gynnwys drwy neges destun, neu
+(iii)
+drwy’r post.
+(3) Ac mae paragraff (1) yn gymwys, yn ddarostyngedig i’r angen i wneud gwaith cynnal a chadw ac atgyweirio a gwaith arall i sicrhau bod mangre yn addas i’w defnyddio pan nad yw paragraff (1) yn gymwys mwyach i’r busnes neu’r gwasanaeth.
+Gwybodaeth Cychwyn
+I1
+Rhl. 7 mewn grym ar 13.7.2020, gweler rhl. 1(4)Cau llety gwyliau
+F18.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Diwygiadau Testunol
+F1
+Rhl. 8 wedi ei hepgor (25.7.2020) yn rhinwedd Rheoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Rhif 2) (Cymru) (Diwygio) (Rhif 2) 2020 (O.S. 2020/803), rhlau. 1(3), 2(2) (ynghyd â rhl. 4)
+Gwybodaeth Cychwyn
+I1
+Rhl. 8 mewn grym ar 11.7.2020, gweler rhl. 1(3)(b)Busnesau sy’n ffurfio rhan o fusnes mwy
+9.  Pan—
+(a)
+bo’n ofynnol i berson sy’n gyfrifol am gynnal busnes (“busnes A”), yn rhinwedd rheoliad 6(1) [F1neu 7(1)], beidio â chynnal busnes A, a
+(b)
+bo busnes A yn ffurfio rhan o fusnes mwy (“busnes B”),
+cydymffurfir â’r gofyniad yn y rheoliad 6(1) [F1neu 7(1)] os yw’r person sy’n gyfrifol am gynnal busnes B yn peidio â chynnal busnes A.
+Diwygiadau Testunol
+F1
+Geiriau yn rhl. 9 wedi eu hamnewid (25.7.2020) gan Rheoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Rhif 2) (Cymru) (Diwygio) (Rhif 2) 2020 (O.S. 2020/803), rhlau. 1(3), 2(3) (ynghyd â rhl. 4)
+Gwybodaeth Cychwyn
+I1
+Rhl. 9 mewn grym ar 11.7.2020 at ddibenion penodedig, gweler rhl. 1(3)(c)
+I2
+Rhl. 9 mewn grym ar 13.7.2020 mewn grym i'r graddau nad yw eisoes mewn grym, gweler rhl. 1(4)Cau amlosgfeydd a chanolfannau cymunedol
+10.—(1) Rhaid i berson sy’n gyfrifol am amlosgfa sicrhau bod yr amlosgfa ar gau i aelodau’r cyhoedd, ac eithrio ar gyfer y defnydd a ganiateir gan baragraff (2).
+(2) Caniateir i’r amlosgfa fod yn agored i aelodau’r cyhoedd ar gyfer angladdau neu gladdu (a darlledu angladd neu gladdu boed dros y rhyngrwyd neu fel arall).
+(3) Nid yw paragraff (2) yn gymwys i’r tir o amgylch amlosgfa, gan gynnwys unrhyw gladdfa neu ardd goffa.
+(4) Rhaid i berson sy’n gyfrifol am ganolfan gymunedol sicrhau bod y ganolfan gymunedol ar gau ac eithrio pan fo’n cael ei defnyddio i ddarparu—
+(a)
+gwasanaethau gwirfoddol hanfodol, neu
+(b)
+gwasanaethau cyhoeddus ar gais Gweinidogion Cymru neu awdurdod lleol.
+Gwybodaeth Cychwyn
+I1
+Rhl. 10 mewn grym ar 13.7.2020, gweler rhl. 1(4)Cau rhai llwybrau cyhoeddus a thir mynediad
+11.—(1) Pan fo paragraff (2) yn gymwys i lwybr cyhoeddus neu dir mynediad yn ardal awdurdod perthnasol, rhaid i’r awdurdod perthnasol —
+(a)
+cau’r llwybr cyhoeddus neu’r tir mynediad, a
+(b)
+ei gadw ar gau tan yr adeg pan fydd yr awdurdod yn ystyried nad yw’r cau yn angenrheidiol mwyach i atal, i ddiogelu rhag, i reoli neu i ddarparu ymateb iechyd y cyhoedd i fynychder neu ledaeniad haint â’r coronafeirws yn ei ardal.
+(2) Mae’r paragraff hwn yn gymwys i’r llwybrau cyhoeddus a’r tir mynediad yn ardal awdurdod perthnasol y mae’n ystyried —
+(a)
+eu bod yn debygol o ddenu niferoedd mawr o bobl yn ymgynnull neu’n dod yn agos i’w gilydd, neu
+(b)
+bod eu defnydd fel arall yn peri risg uchel i fynychder neu ledaeniad haint yn ei ardal â’r coronafeirws.
+(3) Pan fo llwybr cyhoeddus wedi ei gau o dan—
+(a)
+rheoliad 4 o Reoliadau Diogelu Iechyd (Coronafeirws: Cau Busnesau Hamdden, Llwybrau Troed a Thir Mynediad) (Cymru) 2020(1), neu
+(b)
+rheoliad 9 o Reoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Cymru) 2020(2),
+mae’r llwybr i’w drin fel pe bai wedi ei gau o dan baragraff (1) o’r rheoliad hwn.
+(4) Ni chaiff unrhyw berson ddefnyddio llwybr cyhoeddus neu dir mynediad sydd ar gau yn rhinwedd paragraff (1) oni bai ei fod wedi ei awdurdodi gan yr awdurdod perthnasol.
+(5) Rhaid i’r awdurdod perthnasol—
+(a)
+cyhoeddi rhestr o lwybrau cyhoeddus neu dir mynediad sydd ar gau yn ei ardal ar wefan;
+(b)
+codi a chynnal hysbysiadau mewn mannau amlwg sy’n rhoi gwybod i’r cyhoedd bod llwybr cyhoeddus neu dir mynediad ar gau.
+(6) At ddibenion y rheoliad hwn, mae cyfeiriadau at lwybr cyhoeddus neu dir mynediad yn cynnwys rhannau o lwybr cyhoeddus neu dir mynediad.
+(7) Yn y rheoliad hwn —
+(a)
+ystyr “awdurdod perthnasol” yw —
+(i)
+awdurdod lleol,
+(ii)
+awdurdod Parc Cenedlaethol yng Nghymru,
+(iii)
+Cyfoeth Naturiol Cymru, neu
+(iv)
+yr Ymddiriedolaeth Genedlaethol;
+(b)
+ystyr “llwybr cyhoeddus” yw llwybr troed, llwybr ceffylau, cilffordd, cilffordd gyfyngedig neu lwybr beiciau ac—
+(i)
+mae i “llwybr troed”, “llwybr ceffylau” a “llwybr beiciau” yr un ystyr ag â roddir i “footpath”, “bridleway” a “cycle track” yn adran 329(1) o Ddeddf Priffyrdd 1980(3);
+(ii)
+ystyr “cilffordd” yw cilffordd sydd ar agor i bob traffig o fewn yr ystyr a roddir i “byway open to all traffic” gan adran 66(1) o Ddeddf Bywyd Gwyllt a Chefn Gwlad 1981(4);
+(iii)
+mae i “cilffordd gyfyngedig” yr ystyr a roddir i “restricted byway” gan adran 48(4) o Ddeddf Cefn Gwlad a Hawliau Tramwy 2000(5);
+(c)
+mae “tir mynediad” yn cynnwys tir y mae gan y cyhoedd fynediad iddo yn rhinwedd ei berchnogaeth gan yr Ymddiriedolaeth Genedlaethol, ond fel arall mae iddo yr un ystyr ag “access land” yn adran 1(1) o Ddeddf Cefn Gwlad a Hawliau Tramwy 2000(6).
+Gwybodaeth Cychwyn
+I1
+Rhl. 11 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+(1)
+O.S. 2020/334 (Cy. 76).
+(2)
+O.S. 2020/353 (Cy. 80).
+(3)
+1980 p.66. Diwygiwyd adran 329 gan adran 1 Deddf Llwybrau Beiciau 1984 (p. 38) a pharagraff 21 o Atodlen 3 i Ddeddf Traffig Ffyrdd (Darpariaethau Canlyniadol) 1988 (p. 54)
+(4)
+1981 p. 69.
+(5)
+2000 p. 37.
+(6)
+2000 p. 37. Diwygiwyd adran 1(1) gan adran 302(2)(a) o Ddeddf y Môr a Mynediad i’r Arfordir 2009 (p. 23)Mesurau rhesymol i leihau’r risg o ddod i gysylltiad â’r coronafeirws
+12.—(1) Mae paragraff (2) yn gymwys i berson sy’n gyfrifol am—
+(a)
+mangre agored, neu
+(b)
+gwaith a wneir mewn unrhyw fangre arall lle y mae person yn gweithio.
+(2) At ddibenion lleihau’r risg o ddod i gysylltiad â’r coronafeirws yn y fangre, rhaid i’r person—
+(a)
+cymryd pob mesur rhesymol i sicrhau—
+(i)
+y cynhelir pellter o 2 fetr rhwng unrhyw bersonau yn y fangre (ac eithrio rhwng dau aelod o’r un aelwyd, neu rhwng gofalwr a’r person sy’n cael cymorth gan y gofalwr);
+(ii)
+pan fo’n ofynnol i bersonau aros i fynd i’r fangre, fod pellter o 2 fetr yn cael ei gynnal (ac eithrio rhwng dau aelod o’r un aelwyd, neu ofalwr a’r person sy’n cael cymorth gan y gofalwr),
+(b)
+cymryd unrhyw fesurau rhesymol eraill at y diben hwnnw, er enghraifft mesurau sy’n cyfyngu ar ryngweithio agos wyneb yn wyneb ac sy’n cynnal hylendid megis—
+(i)
+newid trefn y fangre gan gynnwys lleoliad y dodrefn a’r gweithfannau;
+(ii)
+rheoli’r defnydd o fynedfeydd, tramwyfeydd, grisiau a lifftiau;
+(iii)
+rheoli’r defnydd o gyfleusterau a rennir megis toiledau a cheginau;
+(iv)
+fel arall rheoli’r defnydd o unrhyw ran arall o’r fangre neu fynediad iddi;
+(v)
+gosod rhwystrau neu sgriniau;
+(vi)
+darparu, neu’n ei gwneud yn ofynnol defnyddio, cyfarpar diogelu personol, ac
+(c)
+darparu gwybodaeth i’r rhai sy’n dod i mewn neu’n gweithio yn y fangre ynglŷn â sut i leihau’r risg o ddod i gysylltiad â’r coronafeirws.
+(3) Yn y Rheoliadau hyn ystyr “mangre agored” yw—
+(a)
+mangre busnes neu wasanaeth a restrir yn Atodlen 4;
+(b)
+addoldai;
+(c)
+mynwentydd;
+(d)
+mangre busnes a restrir yn Atodlen 1 nad yw’n ofynnol iddit gau yn unol â rheoliad 6;
+(e)
+mangre busnes a restrir yn Atodlen 2 y caniateir iddi fod ar agor yn rhinwedd rheoliad 7(2);
+F1(f)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(g)
+amlosgfeydd y caniateir iddynt fod ar agor yn rhinwedd rheoliad 10(2);
+(h)
+canolfannau cymunedol y caniateir iddynt fod ar agor yn rhinwedd rheoliad 10(4).
+(4) At ddibenion y rheoliad hwn mae “mangre” hefyd yn cynnwys cerbyd a ddefnyddir i ddarparu gwasanaeth ar gyfer cludo teithwyr ar ffyrdd, rheilffyrdd, tramffordd, awyr neu fôr .
+Diwygiadau Testunol
+F1
+Rhl. 12(3)(f) wedi ei hepgor (25.7.2020) yn rhinwedd Rheoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Rhif 2) (Cymru) (Diwygio) (Rhif 2) 2020 (O.S. 2020/803), rhlau. 1(3), 2(4) (ynghyd â rhl. 4)
+Gwybodaeth Cychwyn
+I1
+Rhl. 12 mewn grym ar 11.7.2020 at ddibenion penodedig, gweler rhl. 1(3)(d)
+I2
+Rhl. 12 mewn grym ar 13.7.2020 mewn grym i'r graddau nad yw eisoes mewn grym, gweler rhl. 1(4)Canllawiau ar leihau dod i gysylltiad â’r coronafeirws
+13.—(1) Rhaid i berson y mae’n ofynnol iddo gymryd mesurau rhesymol o dan reoliad 12 roi sylw i ganllawiau a ddyroddir gan Weinidogion Cymru ynghylch y mesurau hynny.
+(2) O ran Gweinidogion Cymru—
+(a)
+cânt ddiwygio canllawiau a ddyroddir o dan baragraff (1), a
+(b)
+rhaid iddynt gyhoeddi’r canllawiau (ac unrhyw ddiwygiadau).
+(3) Caiff canllawiau o dan y rheoliad hwn gynnwys (drwy gyfeirio neu drosi) ganllawiau, codau ymarfer neu ddogfennau eraill a gyhoeddir gan berson arall (er enghraifft, cymdeithas fasnach, corff sy’n cynrychioli aelodau o ddiwydiant neu undeb llafur).
+Gwybodaeth Cychwyn
+I1
+Rhl. 13 mewn grym ar 11.7.2020 at ddibenion penodedig, gweler rhl. 1(3)(d)
+I2
+Rhl. 13 mewn grym ar 13.7.2020 mewn grym i'r graddau nad yw eisoes mewn grym, gweler rhl. 1(4)Cyfyngiadau ar gynulliadau
+14.—(1) Ni chaiff unrhyw berson, heb esgus rhesymol—
+(a)
+ymgynnull yn yr awyr agored gydag unrhyw berson arall oni bai am—
+(i)
+aelodau o’i aelwyd neu aelodau o ddim mwy nag un aelwyd arall,
+(ii)
+gofalwr iddo, neu
+(iii)
+person y mae’n darparu gofal iddo;
+(b)
+ymgynnull mewn mangre o dan do gydag unrhyw berson arall oni bai am—
+(i)
+aelodau o’i aelwyd,
+(ii)
+gofalwr iddo, neu
+(iii)
+person y mae’n darparu gofal iddo.
+(2) Mae esgus rhesymol yn cynnwys yr angen i wneud y canlynol—
+(a)
+cael cynhorthwy meddygol, gan gynnwys cael gafael ar unrhyw un neu ragor o’r gwasanaethau y cyfeirir atynt ym mharagraff 10 o Atodlen 4 neu gael gafael ar wasanaethau milfeddygol;
+(b)
+darparu neu gael gofal neu gynhorthwy, gan gynnwys gofal personol perthnasol o fewn ystyr “relevant personal care” ym mharagraff 7(3B) o Atodlen 4 i Ddeddf Diogelu Grwpiau Hyglwyf 2006(1), pan fo’r person sy’n cael y gofal yn berson hyglwyf;
+(c)
+darparu neu gael cynhorthwy brys;
+(d)
+rhoi gwaed;
+(e)
+gweithio neu ddarparu gwasanaethau gwirfoddol neu elusennol;
+(f)
+pan fo’r person yn athletwr elît, hyfforddi neu gystadlu;
+(g)
+mynd i weinyddiad priodas neu ffurfiad partneriaeth sifil—
+(i)
+fel parti i’r briodas neu’r bartneriaeth sifil,
+(ii)
+os caiff ei wahodd i fynychu, neu
+(iii)
+fel gofalwr person sy’n mynd i’r briodas neu’r bartneriaeth sifil;
+(h)
+mynd i angladd—
+(i)
+fel person sy’n gyfrifol am drefnu’r angladd,
+(ii)
+os caiff ei wahodd gan berson sy’n gyfrifol am drefnu’r angladd, neu
+(iii)
+fel gofalwr person sy’n mynd i’r angladd;
+[F1(ha)
+mynd i fan addoli;]
+(i)
+bodloni rhwymedigaeth gyfreithiol, gan gynnwys mynd i’r llys neu fodloni amodau mechnïaeth, neu gymryd rhan mewn achos cyfreithiol;
+(j)
+cael gafael ar wasanaethau cyhoeddus F2... neu gael y gwasanaethau hynny F2...
+[F3(ja)
+cael gafael ar ofal plant neu gymryd rhan mewn gweithgareddau o dan oruchwyliaeth i blant;]
+(k)
+mewn perthynas â phlant nad ydynt yn byw yn yr un aelwyd â’u rhieni, neu un o’u rhieni, parhau â threfniadau presennol ar gyfer gweld rhieni a phlant, a chyswllt rhyngddynt, ac at ddibenion y paragraff hwn, mae “rhiant” yn cynnwys person nad yw’n rhiant i’r plentyn, ond sydd â chyfrifoldeb rhiant dros y plentyn neu sydd â gofal drosto;
+(l)
+symud cartref;
+(m)
+paratoi eiddo preswyl i bersonau symud i mewn;
+(n)
+ymgymryd â’r gweithgareddau a ganlyn mewn cysylltiad â phrynu, gwerthu, gosod neu rentu eiddo preswyl nad yw wedi ei feddiannu—
+(i)
+ymweld ag asiantau eiddo neu asiantau gosod eiddo, swyddfeydd gwerthiant datblygwyr neu gartrefi arddangos;
+(ii)
+gweld eiddo o’r fath;
+(o)
+osgoi anaf neu salwch neu ddianc rhag risg o niwed.
+(3) Nid yw paragraff (1) yn gymwys i unrhyw berson sy’n ddigartref.
+(4) At ddibenion paragraff (2)(n), nid yw eiddo wedi ei feddiannu os nad yw unrhyw berson yn meddiannu’r eiddo fel preswylfa.
+Diwygiadau Testunol
+F1
+Rhl. 14(2)(ha) wedi ei fewnosod (20.7.2020) gan Rheoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Rhif 2) (Cymru) (Diwygio) 2020 (O.S. 2020/752), rhlau. 1, 2(2) (ynghyd â rhl. 3)
+F2
+Geiriau yn rhl. 14(2)(j) wedi eu hepgor (25.7.2020) yn rhinwedd Rheoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Rhif 2) (Cymru) (Diwygio) (Rhif 2) 2020 (O.S. 2020/803), rhlau. 1(3), 2(5)(a) (ynghyd â rhl. 4)
+F3
+Rhl. 14(2)(ja) wedi ei fewnosod (25.7.2020) gan Rheoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Rhif 2) (Cymru) (Diwygio) (Rhif 2) 2020 (O.S. 2020/803), rhlau. 1(3), 2(5)(b) (ynghyd â rhl. 4)
+Gwybodaeth Cychwyn
+I1
+Rhl. 14 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+(1)
+2006 p. 47. Mewnosodwyd paragraff 7(3B) gan adran 66(2) o Ddeddf Diogelu Rhyddidau 2012 (p. 9).Eithriad ar gyfer gweithgareddau awyr agored wedi eu trefnu
+15.—(1) Er gwaethaf yr ystyr a roddir i “cynulliad” gan reoliad 2(3)(a), nid yw rheoliad 14(1) yn gymwys i unrhyw weithgaredd awyr agored wedi ei drefnu sy’n cynnwys dim mwy na 30 o bersonau.
+(2) At ddibenion paragraff (1), mae gweithgaredd yn “weithgaredd awyr agored wedi ei drefnu”—
+(a)
+os yw’n digwydd yn yr awyr agored,
+(b)
+os yw wedi ei drefnu gan—
+(i)
+busnes,
+(ii)
+corff cyhoeddus, neu sefydliad elusennol, llesiannol neu ddyngarol,
+(iii)
+clwb neu sefydliad gwleidyddol, neu
+(iv)
+corff llywodraethu cenedlaethol camp neu weithgaredd arall, ac
+(c)
+os yw’r person sydd yn ei drefnu wedi—
+(i)
+cynnal asesiad risg a fyddai’n bodloni gofynion rheoliad 3 o Reoliadau Rheoli Iechyd a Diogelwch yn y Gwaith 1999(1) pa un a yw’r person yn ddarostyngedig i’r Rheoliadau hynny ai peidio, a
+(ii)
+cydymffurfio â gofynion rheoliadau 12(2) ac 13(1).
+(3) At ddibenion paragraff (2)(c)—
+(a)
+mae rheoliad 3 o Reoliadau Rheoli Iechyd a Diogelwch yn y Gwaith 1999 yn gymwys fel pe bai’r gweithgaredd yn ymgymeriad a wneir gan y person sy’n ei drefnu;
+(b)
+mae rheoliad 12(2) o’r Rheoliadau hyn yn gymwys fel pe bai’r man lle y cynhelir y weithgaredd yn digwydd mewn mangre agored y mae’r person sy’n trefnu’r weithgaredd yn gyfrifol amdani.
+Gwybodaeth Cychwyn
+I1
+Rhl. 15 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+(1)
+O.S. 1999/3242. Diwygiwyd rheoliad 3 gan O.S. 2005/1541, O.S. 2015/21 ac O.S. 2015/1637.Gofyniad i barhau i weithio gartref pan fo’n ymarferol
+F116.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Diwygiadau Testunol
+F1
+Rhl. 16 wedi ei hepgor (25.7.2020) yn rhinwedd Rheoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Rhif 2) (Cymru) (Diwygio) (Rhif 2) 2020 (O.S. 2020/803), rhlau. 1(3), 2(6) (ynghyd â rhl. 4)
+Gwybodaeth Cychwyn
+I1
+Rhl. 16 mewn grym ar 13.7.2020, gweler rhl. 1(4)Swyddogion gorfodaeth
+17.—(1) At ddibenion rheoliadau 18 i 21, ystyr “swyddog gorfodaeth” yw—
+(a)
+cwnstabl,
+(b)
+swyddog cymorth cymunedol yr heddlu,
+(c)
+person wedi i ddynodi gan—
+(i)
+Gweinidogion Cymeru,
+(ii)
+awdurdod lleol,
+(iii)
+awdurdod Parc Cenedlaethol yng Nghymru, neu
+(iv)
+Cyfoeth Naturiol Cymru,
+(v)
+at ddibenion rheoliadau 18 i 21 (ond gweler paragraffau (2) a (3)), neu
+(d)
+person wedi ei ddynodi o dan reoliad 10(11)(c) o Reoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Cymru) 2020(1) fel person perthnasol (o fewn yr ystyr a roddir gan y rheoliad hwnnw) gan—
+(i)
+Gweinidogion Cymru,
+(ii)
+awdurdod lleol,
+(iii)
+awdurdod Parc Cenedlaethol yng Nghymru, neu
+(iv)
+Cyfoeth Naturiol Cymru,
+(v)
+(ond gweler paragraffau (2) a (3)).
+(2) Ni chaiff person a ddynodir gan awdurdod lleol arfer swyddogaethau swyddog gorfodaeth ond mewn perthynas â thramgwydd (neu dramgwydd honedig) yn groes i ofyniad yn rheoliad 6(1), 7(1),F1... 10(1) neu (4), 11(4) neu 12(2).
+(3) Ni chaiff person a ddynodir gan awdurdod Parc Cenedlaethol neu Gyfoeth Naturiol Cymru arfer swyddogaethau swyddog gorfodaeth ond mewn perthynas â thramgwydd (neu dramgwydd honedig) yn groes i’r gofyniad yn rheoliad 11(4).
+Diwygiadau Testunol
+F1
+Gair yn rhl. 17(2) wedi ei hepgor (25.7.2020) yn rhinwedd Rheoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Rhif 2) (Cymru) (Diwygio) (Rhif 2) 2020 (O.S. 2020/803), rhlau. 1(3), 2(7) (ynghyd â rhl. 4)
+Gwybodaeth Cychwyn
+I1
+Rhl. 17 mewn grym ar 11.7.2020 at ddibenion penodedig, gweler rhl. 1(3)(e)
+I2
+Rhl. 17 mewn grym ar 13.7.2020 mewn grym i'r graddau nad yw eisoes mewn grym, gweler rhl. 1(4)
+(1)
+O.S. 2020/353 (Cy. 80).Camau gorfodi
+18.—(1) Caiff swyddog gorfodaeth roi hysbysiad cydymffurfio i berson os oes gan y swyddog sail resymol dros amau bod y person yn torri gofyniad yn rheoliad 6(1), 7(1), F1... 10(1) neu (4) neu 12(2).
+(2) Caiff hysbysiad cydymffurfio bennu mesurau y mae rhaid i’r person y rhoddir ef iddo eu cymryd cyn gynted ag y bo’n rhesymol ymarferol er mwyn atal y person hwnnw rhag parhau i dorri’r gofyniad.
+(3) Os oes gan swyddog gorfodaeth sail resymol dros amau bod person (“P”) yn torri (neu ar fin torri) rheoliad 11(4), caiff y swyddog gorfodaeth dynnu P o lwybr cyhoeddus neu dir mynediad (o fewn yr ystyr a roddir gan reoliad 11(7)) sydd ar gau (neu sy’n cael ei gau) yn rhinwedd rheoliad 11(1), a chaiff ddefnyddio grym rhesymol, os bydd angen, i wneud hynny.
+(4) Pan fo gan swyddog gorfodaeth sail resymol dros amau bod pobl yn ymgynnull yn groes i reoliad 14(1), caiff y swyddog—
+(a)
+cyfarwyddo’r cynulliad i wasgaru;
+(b)
+cyfarwyddo unrhyw berson yn y cynulliad i ddychwelyd i’r man lle y mae’n byw;
+(c)
+mynd ag unrhyw berson yn y cynulliad i’r man lle y mae’n byw.
+(5) Caiff swyddog gorfodaeth—
+(a)
+wrth arfer y pŵer ym mharagraff (4), gyfarwyddo person i ddilyn unrhyw gyfarwyddiadau y mae’r swyddog yn ystyried eu bod yn angenrheidiol;
+(b)
+defnyddio grym rhesymol wrth arfer y pŵer ym mharagraff (4)(a) neu (c).
+(6) Pan fo gan swyddog gorfodaeth sail resymol dros amau bod person (“P”) mewn cynulliad yn groes i reoliad 14(1) a’i fod yn blentyn gydag unigolyn (“U”) a chanddo gyfrifoldeb dros P—
+(a)
+caiff y swyddog gyfarwyddo U i fynd â P i’r man lle y mae P yn byw, a
+(b)
+rhaid i U, i’r graddau y mae’n rhesymol ymarferol, sicrhau bod P yn cydymffurfio ag unrhyw gyfarwyddyd neu gyfarwyddiad a roddir gan y swyddog i P.
+(7) At ddibenion paragraff (6), mae gan U gyfrifoldeb am blentyn os oes gan U—
+(a)
+gwarchodaeth neu ofal am y plentyn am y tro, neu
+(b)
+cyfrifoldeb rhiant am y plentyn.
+(8) Caiff swyddog gorfodaeth gymryd camau gweithredu eraill i hwyluso arfer pŵer a roddir i’r swyddog gan y rheoliad hwn neu reoliad 19.
+(9) Ni chaiff swyddog gorfodaeth ond arfer pŵer dan y rheoliad hwn neu reoliad 19 os yw’r swyddog yn ystyried ei bod yn angenrheidiol ac yn gymesur gwneud hynny.
+(10) Yn y rheoliad hwn a rheoliadau 19 ac 20, mae cyfeiriadau at ofyniad yn cynnwys cyfeiriadau at gyfyngiad.
+Diwygiadau Testunol
+F1
+Gair yn rhl. 18(1) wedi ei hepgor (25.7.2020) yn rhinwedd Rheoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Rhif 2) (Cymru) (Diwygio) (Rhif 2) 2020 (O.S. 2020/803), rhlau. 1(3), 2(8) (ynghyd â rhl. 4)
+Gwybodaeth Cychwyn
+I1
+Rhl. 18 mewn grym ar 11.7.2020 at ddibenion penodedig, gweler rhl. 1(3)(e)
+I2
+Rhl. 18 mewn grym ar 13.7.2020 mewn grym i'r graddau nad yw eisoes mewn grym, gweler rhl. 1(4)Pŵer mynd i mewn
+19.—(1) Caiff swyddog gorfodaeth fynd i fangre—
+(a)
+os oes gan y swyddog sail resymol dros amau bod gofyniad a osodir gan y Rheoliadau hyn yn cael, wedi cael, neu ar fin cael ei dorri yn y fangre, a
+(b)
+os yw’n ystyried ei bod yn angenrheidiol mynd i’r fangre at ddiben canfod a yw’r gofyniad yn cael, wedi cael neu ar fin cael ei dorri.
+(2) Caiff swyddog gorfodaeth sy’n mynd i fangre yn unol â pharagraff (1)—
+(a)
+defnyddio grym rhesymol i fynd i’r fangre os yw’n angenrheidiol;
+(b)
+cymryd unrhyw bersonau eraill, cyfarpar a deunyddiau i’r fangre y mae’r swyddog yn ystyried eu bod yn briodol.
+(3) Rhaid i swyddog gorfodaeth sy’n mynd i fangre yn unol â pharagraff (1)—
+(a)
+os gofynnir iddo gan berson yn y fangre, ddangos tystiolaeth o bwy yw’r swyddog ac amlinellu’r diben yr arferir y pŵer;
+(b)
+os nad yw’r fangre wedi ei meddiannu neu os yw’r meddiannydd yn absennol dros dro, rhaid i’r swyddog adael y fangre wedi ei diogelu rhag mynediad anawdurdodedig yr un mor effeithiol ag yr oedd pan aeth y swyddog iddi.
+Gwybodaeth Cychwyn
+I1
+Rhl. 19 mewn grym ar 11.7.2020 at ddibenion penodedig, gweler rhl. 1(3)(e)
+I2
+Rhl. 19 mewn grym ar 13.7.2020 mewn grym i'r graddau nad yw eisoes mewn grym, gweler rhl. 1(4)Troseddau a chosbau
+20.—(1) Mae person sydd—
+(a)
+heb esgus rhesymol, yn torri gofyniad yn rheoliad 6(1), 7(1), F1... 10(1) neu (4), 11(4), [F2neu 12(2)], neu
+(b)
+yn torri gofyniad yn rheoliad 14(1),
+yn cyflawni trosedd.
+(2) Mae person sy’n rhwystro, heb esgus rhesymol, unrhyw berson rhag cyflawni swyddogaeth o dan y Rheoliadau hyn yn cyflawni trosedd.
+(3) Mae person sydd, heb esgus rhesymol—
+(a)
+yn torri cyfarwyddyd a roddir gan swyddog gorfodaeth o dan reoliad 18(4), (5)(a) neu (6), neu
+(b)
+yn methu â chydymffurfio â hysbysiad cydymffurfio a roddir gan swyddog gorfodaeth o dan reoliad 18(1),
+yn cyflawni trosedd.
+(4) Mae trosedd o dan y Rheoliadau hyn i’w chosbi ar euogfarn ddiannod drwy ddirwy.
+(5) Mae adran 24 o Ddeddf yr Heddlu a Thystiolaeth Droseddol 1984(1) yn gymwys mewn perthynas â throsedd o dan y rheoliad hwn fel petai’r rhesymau yn is-adran (5) yn cynnwys—
+(a)
+i gynnal iechyd y cyhoedd;
+(b)
+i gynnal trefn gyhoeddus.
+(6) Os profir bod trosedd o dan baragraff 20(1) wedi ei chyflawni gan gorff corfforedig—
+(a)
+wedi ei chyflawni gyda chydsyniad neu ymoddefiad swyddog i’r corff hwnnw, neu
+(b)
+i’w phriodoli i unrhyw esgeulustod ar ran y swyddog hwnnw,
+mae’r swyddog (yn ogystal â’r corff corfforedig) yn euog o’r drosedd ac yn agored i gael ei erlyn, i gael achos yn ei erbyn a’i gosbi yn unol â hynny.
+(7) Ym mharagraff (6), ystyr “swyddog”, mewn perthynas â chorff corfforedig, yw cyfarwyddwr, rheolwr, ysgrifennydd neu swyddog tebyg arall i’r corff corfforedig.
+(8) Caniateir i achos am drosedd o dan y Rheoliadau hyn yr honnir ei bod wedi ei chyflawni gan bartneriaeth gael ei ddwyn yn enw’r bartneriaeth yn hytrach nag yn enw unrhyw un neu ragor o’r partneriaid.
+(9) Caniateir i achos am drosedd o dan y Rheoliadau hyn yr honnir ei bod wedi ei chyflawni gan gorff anghorfforedig ac eithrio partneriaeth gael ei ddwyn yn enw’r corff yn hytrach nag yn enw unrhyw un neu ragor o’i aelodau ac, at ddibenion unrhyw achos o’r fath, mae unrhyw reolau llys sy’n ymwneud â chyflwyno dogfennau yn cael effaith fel pe bai’r corff hwnnw yn gorff corfforedig.
+(10) Mae adran 33 o Ddeddf Cyfiawnder Troseddol 1925(2) ac Atodlen 3 i Ddeddf Llysoedd Ynadon 1980(3) yn gymwys mewn achos am drosedd a ddygir yn erbyn partneriaeth neu gymdeithas anghorfforedig ac eithrio partneriaeth fel y maent yn gymwys i gorff corfforedig.
+(11) Mae dirwy a osodir ar bartneriaeth ar ei heuogfarnu o drosedd o dan y Rheoliadau hyn i’w thalu o gronfeydd y bartneriaeth.
+(12) Mae dirwy a osodir ar gymdeithas anghorfforedig ac eithrio partneriaeth ar ei heuogfarnu o drosedd o dan y Rheoliadau hyn i’w thalu o gronfeydd y gymdeithas.
+Diwygiadau Testunol
+F1
+Gair yn rhl. 20(1)(a) wedi ei hepgor (25.7.2020) yn rhinwedd Rheoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Rhif 2) (Cymru) (Diwygio) (Rhif 2) 2020 (O.S. 2020/803), rhlau. 1(3), 2(9)(a) (ynghyd â rhl. 4)
+F2
+Geiriau yn rhl. 20(1)(a) wedi eu hamnewid (25.7.2020) gan Rheoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Rhif 2) (Cymru) (Diwygio) (Rhif 2) 2020 (O.S. 2020/803), rhlau. 1(3), 2(9)(b) (ynghyd â rhl. 4)
+Gwybodaeth Cychwyn
+I1
+Rhl. 20 mewn grym ar 11.7.2020 at ddibenion penodedig, gweler rhl. 1(3)(e)
+I2
+Rhl. 20 mewn grym ar 13.7.2020 mewn grym i'r graddau nad yw eisoes mewn grym, gweler rhl. 1(4)
+(1)
+1984 p. 60. Amnewidiwyd adran 24 gan adran 110(1) o Ddeddf Troseddu Cyfundrefnol Difrifol a’r Heddlu 2005 (p.15).
+(2)
+1925 p. 86.
+(3)
+1980 p. 43.Hysbysiadau cosb benodedig
+21.—(1) Caiff swyddog gorfodaeth ddyroddi hysbysiad cosb benodedig i unrhyw un y mae’r swyddog yn credu’n rhesymol—
+(a)
+ei fod wedi cyflawni trosedd dan y Rheoliadau hyn, a
+(b)
+ei fod yn 18 oed neu drosodd.
+(2) Hysbysiad yw hysbysiad cosb benodedig sy’n cynnig i’r person y’i dyroddir iddo y cyfle i gael ei ryddhau o unrhyw atebolrwydd am euogfarn am y drosedd drwy dalu cosb benodedig i—
+(a)
+awdurdod lleol, neu
+(b)
+person a ddynodir gan Weinidogion Cymru at ddibenion cael taliad o dan y rheoliad hwn,
+fel y caiff yr hysbysiad ei bennu.
+(3) Caiff Gweinidogion Cymru eu dynodi hwy eu hunain o dan baragraff (2)(b).
+(4) Caiff person sydd wedi ei ddynodi gan Weinidogion Cymru at ddibenion cael taliad o dan reoliad 13 o Reoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Cymru) 2020(1) ei drin fel pe bai wedi ei ddynodi at ddibenion cael taliad o dan y rheoliad hwn.
+(5) Pan fo awdurdod lleol wedi ei bennu yn yr hysbysiad rhaid iddo fod yn awdurdod (neu yn ôl y digwydd, unrhyw un o’r awdurdodau) yr ardal yr honnir bod y drosedd wedi ei chyflawni ynddi.
+(6) Pan ddyroddir hysbysiad i berson o dan y rheoliad hwn mewn cysylltiad â throsedd—
+(a)
+ni chaniateir dwyn achos am y drosedd cyn diwedd y cyfnod 28 o ddiwrnodau yn dilyn dyddiad dyroddi’r hysbysiad;
+(b)
+ni chaniateir euogfarnu’r person o’r drosedd os yw’r person yn talu’r gosb benodedig cyn diwedd y cyfnod hwnnw.
+(7) Rhaid i hysbysiad cosb benodedig—
+(a)
+rhoi manylion rhesymol fanwl am yr amgylchiadau yr honnir eu bod yn creu’r drosedd;
+(b)
+datgan y cyfnod pryd (oherwydd paragraff (6)(a)) na ddygir achos am y drosedd;
+(c)
+pennu swm y gosb benodedig;
+(d)
+datgan enw a chyfeiriad y person y caniateir talu’r gosb benodedig iddo;
+(e)
+pennu dulliau o dalu a ganiateir.
+(8) Rhaid i’r swm a bennir o dan baragraff (7)(c) fod yn £60 (yn ddarostyngedig i baragraffau (9) ac (10)).
+(9) Caiff hysbysiad cosb benodedig bennu, os telir £30 cyn diwedd y cyfnod o 14 o ddiwrnodau yn dilyn dyddiad yr hysbysiad, mai dyna yw swm y gosb benodedig.
+(10) Os yw’r person y dyroddir hysbysiad cosb benodedig iddo eisoes wedi derbyn hysbysiad cosb benodedig o dan y Rheoliadau hyn—
+(a)
+nid yw paragraff (9) yn gymwys, a
+(b)
+rhaid i’r swm a bennir fel y gosb benodedig fod—
+(i)
+yn £120 yn achos yr ail hysbysiad cosb benodedig a dderbynnir;
+(ii)
+yn £240 yn achos y trydydd hysbysiad cosb benodedig a dderbynnir;
+(iii)
+yn £480 yn achos y pedwerydd hysbysiad cosb benodedig a dderbynnir;
+(iv)
+yn £960 yn achos y pumed hysbysiad cosb benodedig a dderbynnir;
+(v)
+yn £1920 yn achos y chweched hysbysiad cosb benodedig a dderbynnir, ac unrhyw hysbysiad cosb benodedig olynol.
+(11) Wrth gyfrifo nifer yr hysbysiadau cosb penodedig y mae person wedi eu cael, mae hysbysiadau cosb penodedig a ddyroddir i’r person hwnnw o dan Reoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Cymru) 2020(2) i’w cymryd i ystyriaeth.
+(12) Beth bynnag y bo unrhyw ddull arall a bennir o dan baragraff (7)(e), caniateir talu cosb benodedig drwy dalu ymlaen llaw a phostio llythyr sy’n cynnwys swm y gosb (mewn arian parod neu fel arall) i’r person y nodir ei enw o dan baragraff (7)(d) i’r cyfeiriad a nodir.
+(13) Pan fo llythyr yn cael ei anfon fel a grybwyllir ym mharagraff (12), ystyrir bod taliad wedi ei wneud ar yr adeg y byddai’r llythyr hwnnw wedi cael ei ddanfon yn nhrefn arferol y post.
+(14) Mewn unrhyw achos, mae tystysgrif—
+(a)
+sy’n honni ei bod wedi ei llofnodi gan neu ar ran y person sydd â chyfrifoldeb am faterion ariannol—
+(i)
+yr awdurdod lleol, neu
+(ii)
+y person a ddynodir o dan baragraff (2)(b),
+a bennir yn yr hysbysiad cosb benodedig y mae’r achos yn ymwneud ag ef, a
+(b)
+sy’n datgan bod y taliad am y gosb benodedig wedi dod i law, neu heb ddod i law, erbyn y dyddiad a bennir yn y tystysgrif,
+yn dystiolaeth o’r ffeithiau a ddatgenir.
+(15) Pan ddyroddir cosb benodedig mewn perthynas â’r drosedd honedig o dorri’r gofyniad yn rheoliad 11(4), mae cyfeiriadau yn y rheoliad hwn at “awdurdod lleol” i’w darllen fel pe baent yn cynnwys cyfeiriadau at awdurdod Parc Cenedlaethol yng Nghymru.
+Gwybodaeth Cychwyn
+I1
+Rhl. 21 mewn grym ar 11.7.2020 at ddibenion penodedig, gweler rhl. 1(3)(e)
+I2
+Rhl. 21 mewn grym ar 13.7.2020 mewn grym i'r graddau nad yw eisoes mewn grym, gweler rhl. 1(4)
+(1)
+O.S. 2020/353 (Cy. 80). Diwygiwyd rheoliad 13 gan O.S. 2020/399 (Cy. 88) ac O.S. 2020/529 (Cy. 124).
+(2)
+O.S. 2020/353 (Cy. 80).Erlyn
+22.—(1) Ni chaniateir dwyn achos am drosedd o dan y Rheoliadau hyn ond gan y Cyfarwyddwr Erlyniadau Cyhoeddus neu unrhyw berson sydd wedi ei ddynodi gan Weinidogion Cymru.
+(2) Caiff person sydd wedi ei ddynodi gan Weinidogion Cymru o dan reoliad 14 o Reoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Cymru) 2020(1) ei drin fel pe bai wedi ei ddynodi o dan y rheoliad hwn.
+Gwybodaeth Cychwyn
+I1
+Rhl. 22 mewn grym ar 11.7.2020 at ddibenion penodedig, gweler rhl. 1(3)(e)
+I2
+Rhl. 22 mewn grym ar 13.7.2020 mewn grym i'r graddau nad yw eisoes mewn grym, gweler rhl. 1(4)
+(1)
+O.S. 2020/353 (Cy. 80).Mark Drakeford
+Y Prif Weinidog, un o Weinidogion Cymru
+Am 3.40 p.m. ar 10 Gorffennaf 2020Rheoliad 6
+ATODLEN 1
+Mangreoedd sy’n gwerthu bwyd a diod i’w bwyta ac i’w hyfed yn y fangre
+1.—(1) Bwytai, gan gynnwys bwytai ac ystafelloedd bwyta mewn clybiau aelodau ac ym mangreoedd busnesau a restrir yn [F1Atodlen 4].
+Diwygiadau Testunol
+F1
+Geiriau yn Atod. 1 para. 1 wedi eu hamnewid (25.7.2020) gan Rheoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Rhif 2) (Cymru) (Diwygio) (Rhif 2) 2020 (O.S. 2020/803), rhlau. 1(3), 2(10) (ynghyd â rhl. 4)
+Gwybodaeth Cychwyn
+I1
+Atod. 1 para. 1 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+2.—(1) Caffis, gan gynnwys ffreuturau yn y gweithle (yn ddarostyngedig i is-baragraff (2)), a chaffis ym mangreoedd busnesau a restrir yn [F2Atodlen 4], ond heb gynnwys—
+(a)
+caffis neu ffreuturau mewn ysbyty, cartref gofal neu ysgol;
+(b)
+ffreuturau mewn carchar neu sefydliad y bwriedir ei ddefnyddio at ddibenion y llynges, y fyddin neu’r awyrlu neu at ddibenion Adran yr Ysgrifennydd Gwladol sy’n gyfrifol am amddiffyn;
+(c)
+gwasanaethau sy’n darparu bwyd neu ddiod i’r digartref.
+(2) Caiff ffreuturau yn y gweithle aros ar agor—
+(a)
+pan na fo dewis arall ymarferol i staff yn y gweithle hwnnw i gael bwyd; a
+(b)
+pan gymerir pob mesur rhesymol i sicrhau bod pellter o 2 fetr yn cael ei gynnal rhwng unrhyw berson sy’n defnyddio’r ffreutur.
+Diwygiadau Testunol
+F2
+Geiriau yn Atod. 1 para. 2(1) wedi eu hamnewid (25.7.2020) gan Rheoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Rhif 2) (Cymru) (Diwygio) (Rhif 2) 2020 (O.S. 2020/803), rhlau. 1(3), 2(10) (ynghyd â rhl. 4)
+Gwybodaeth Cychwyn
+I2
+Atod. 1 para. 2 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+3.  Bariau, gan gynnwys bariau mewn clybiau aelodau neu ym mangreoedd busnesau a restrir yn [F3Atodlen 4].
+Diwygiadau Testunol
+F3
+Geiriau yn Atod. 1 para. 3 wedi eu hamnewid (25.7.2020) gan Rheoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Rhif 2) (Cymru) (Diwygio) (Rhif 2) 2020 (O.S. 2020/803), rhlau. 1(3), 2(10) (ynghyd â rhl. 4)
+Gwybodaeth Cychwyn
+I3
+Atod. 1 para. 3 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+4.  Tafarndai.
+Gwybodaeth Cychwyn
+I4
+Atod. 1 para. 4 mewn grym ar 13.7.2020, gweler rhl. 1(4)Rheoliad 7
+ATODLEN 2
+Y busnesau a’r gwasanaethau y mae’n ofynnol eu cau
+1.  Sinemâu dan do.
+Gwybodaeth Cychwyn
+I1
+Atod. 2 para. 1 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+2.  Theatrau.
+Gwybodaeth Cychwyn
+I2
+Atod. 2 para. 2 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+3.  Clybiau nos.
+Gwybodaeth Cychwyn
+I3
+Atod. 2 para. 3 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+4.  Neuaddau bingo.
+Gwybodaeth Cychwyn
+I4
+Atod. 2 para. 4 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+5.  Neuaddau cyngerdd.
+Gwybodaeth Cychwyn
+I5
+Atod. 2 para. 5 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+6.  Casinos.
+Gwybodaeth Cychwyn
+I6
+Atod. 2 para. 6 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+7.  Parlyrau tylino.
+Gwybodaeth Cychwyn
+I7
+Atod. 2 para. 7 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+8.  Salonau ewinedd a harddwch.
+Gwybodaeth Cychwyn
+I8
+Atod. 2 para. 8 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+9.  Sefydliadau sy’n darparu gwasanaethau lliw haul, tyllu’r corff, tatŵio, electrolysis neu aciwbigo.
+Gwybodaeth Cychwyn
+I9
+Atod. 2 para. 9 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+10.  Canolfannau sglefrio.
+Gwybodaeth Cychwyn
+I10
+Atod. 2 para. 10 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+11.  Pyllau nofio.
+Gwybodaeth Cychwyn
+I11
+Atod. 2 para. 11 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+12.  Stiwdios ffitrwydd dan do, campfeydd, sbaon, neu ganolfannau neu gyfleusterau hamdden dan do eraill.
+Gwybodaeth Cychwyn
+I12
+Atod. 2 para. 12 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+13.  Alïau bowlio, arcedau diddanu a mannau chwarae dan do.
+Gwybodaeth Cychwyn
+I13
+Atod. 2 para. 13 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+14.  Amgueddfeydd, orielau a gwasanaethau archifau.
+Gwybodaeth Cychwyn
+I14
+Atod. 2 para. 14 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+F115.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Diwygiadau Testunol
+F1
+Atod. 2 para. 15 wedi ei hepgor (25.7.2020) yn rhinwedd Rheoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Rhif 2) (Cymru) (Diwygio) (Rhif 2) 2020 (O.S. 2020/803), rhlau. 1(3), 2(11) (ynghyd â rhl. 4)
+Gwybodaeth Cychwyn
+I15
+Atod. 2 para. 15 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+F216.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Diwygiadau Testunol
+F2
+Atod. 2 para. 16 wedi ei hepgor (20.7.2020) yn rhinwedd Rheoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Rhif 2) (Cymru) (Diwygio) 2020 (O.S. 2020/752), rhlau. 1, 2(3) (ynghyd â rhl. 3)
+Gwybodaeth Cychwyn
+I16
+Atod. 2 para. 16 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+F317.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Diwygiadau Testunol
+F3
+Atod. 2 para. 17 wedi ei hepgor (20.7.2020) yn rhinwedd Rheoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Rhif 2) (Cymru) (Diwygio) 2020 (O.S. 2020/752), rhlau. 1, 2(3) (ynghyd â rhl. 3)
+Gwybodaeth Cychwyn
+I17
+Atod. 2 para. 17 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+18.  Tai arwerthiant (ac eithrio arwerthiannau da byw).
+Gwybodaeth Cychwyn
+I18
+Atod. 2 para. 18 mewn grym ar 13.7.2020, gweler rhl. 1(4)Rheoliad 8
+F1ATODLEN 3
+Llety gwyliau
+Diwygiadau Testunol
+F1
+Atod. 3 wedi ei hepgor (25.7.2020) yn rhinwedd Rheoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Rhif 2) (Cymru) (Diwygio) (Rhif 2) 2020 (O.S. 2020/803), rhlau. 1(3), 2(12) (ynghyd â rhl. 4)
+F11.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+F12.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+F13.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+F14.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .Rheoliad 12
+ATODLEN 4
+Busnesau a gwasanaethau a gaiff agor yn amodol ar fesurau diogelu
+1.  Unrhyw fusnes sy’n gwerthu nwyddau neu wasanaethau ar gyfer eu gwerthu neu eu hurio mewn siop.
+Gwybodaeth Cychwyn
+I1
+Atod. 4 para. 1 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+2.  Fferyllfeydd (yn cynnwys fferyllfeydd nad ydynt yn darparu cyffuriau ar bresgripsiwn) a siopau cemist.
+Gwybodaeth Cychwyn
+I2
+Atod. 4 para. 2 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+3.  Gorsafoedd petrol.
+Gwybodaeth Cychwyn
+I3
+Atod. 4 para. 3 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+4.  Gwasanaethau trwsio ceir ac MOT.
+Gwybodaeth Cychwyn
+I4
+Atod. 4 para. 4 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+5.  Busnesau tacsi neu logi cerbydau.
+Gwybodaeth Cychwyn
+I5
+Atod. 4 para. 5 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+6.  Banciau, cymdeithasau adeiladu, undebau credyd, darparwyr benthyciadau tymor byr, clybiau cynilo, peiriannau arian parod ac ymgymeriadau sydd, o ran eu busnes, yn gweithredu swyddfeydd cyfnewid arian cyfred, yn trawsyrru arian (neu unrhyw gynrychiolaeth o arian) drwy unrhyw ddull neu sieciau arian parod sydd wedi eu gwneud yn daladwy i gwsmeriaid.
+Gwybodaeth Cychwyn
+I6
+Atod. 4 para. 6 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+7.  Swyddfeydd post.
+Gwybodaeth Cychwyn
+I7
+Atod. 4 para. 7 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+8.  Trefnwyr angladdau.
+Gwybodaeth Cychwyn
+I8
+Atod. 4 para. 8 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+9.  Golchdai a siopau glanhau dillad.
+Gwybodaeth Cychwyn
+I9
+Atod. 4 para. 9 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+10.  Gwasanaethau deintyddol, optegwyr, gwasanaethau awdioleg, trin traed, ceiropractyddion, osteopathiaid a gwasanaethau meddygol neu iechyd eraill, gan gynnwys gwasanaethau sy’n ymwneud ag iechyd meddwl.
+Gwybodaeth Cychwyn
+I10
+Atod. 4 para. 10 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+11.  Milfeddygon a siopau anifeiliaid anwes.
+Gwybodaeth Cychwyn
+I11
+Atod. 4 para. 11 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+12.  Marchnadoedd neu arwerthiannau da byw.
+Gwybodaeth Cychwyn
+I12
+Atod. 4 para. 12 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+13.  Cyfleusterau storio a dosbarthu, gan gynnwys mannau gollwng danfoniadau.
+Gwybodaeth Cychwyn
+I13
+Atod. 4 para. 13 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+14.  Meysydd parcio.
+Gwybodaeth Cychwyn
+I14
+Atod. 4 para. 14 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+15.  Toiledau cyhoeddus.
+Gwybodaeth Cychwyn
+I15
+Atod. 4 para. 15 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+16.  Llyfrgelloedd.
+Gwybodaeth Cychwyn
+I16
+Atod. 4 para. 16 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+17.  Asiantau eiddo neu asiantau gosod eiddo, swyddfeydd gwerthiant datblygwyr a chartrefi arddangos.
+Gwybodaeth Cychwyn
+I17
+Atod. 4 para. 17 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+18.  Delwriaethau ceir.
+Gwybodaeth Cychwyn
+I18
+Atod. 4 para. 18 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+19.  Marchnadoedd awyr agored.
+Gwybodaeth Cychwyn
+I19
+Atod. 4 para. 19 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+20.  Siopau betio.
+Gwybodaeth Cychwyn
+I20
+Atod. 4 para. 20 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+21.  Canolfannau siopa ac arcedau siopa o dan do.
+Gwybodaeth Cychwyn
+I21
+Atod. 4 para. 21 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+22.  Sinemâu awyr agored.
+Gwybodaeth Cychwyn
+I22
+Atod. 4 para. 22 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+23.  Salonau gwallt a barbwyr.
+Gwybodaeth Cychwyn
+I23
+Atod. 4 para. 23 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+24.  Atyniadau i ymwelwyr F1....
+Diwygiadau Testunol
+F1
+Geiriau yn Atod. 4 para. 24 wedi eu hepgor (25.7.2020) yn rhinwedd Rheoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Rhif 2) (Cymru) (Diwygio) (Rhif 2) 2020 (O.S. 2020/803), rhlau. 1(3), 2(13)(a) (ynghyd â rhl. 4)
+Gwybodaeth Cychwyn
+I24
+Atod. 4 para. 24 mewn grym ar 13.7.2020, gweler rhl. 1(4)
+[F225.  “Ffeiriau pleser.
+Diwygiadau Testunol
+F2
+Atod. 4 parau. 25, 26 wedi ei fewnosod (20.7.2020) gan Rheoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Rhif 2) (Cymru) (Diwygio) 2020 (O.S. 2020/752), rhlau. 1, 2(4) (ynghyd â rhl. 3)
+26.  Meysydd chwarae a champfeydd awyr agored.]
+Diwygiadau Testunol
+F2
+Atod. 4 parau. 25, 26 wedi ei fewnosod (20.7.2020) gan Rheoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Rhif 2) (Cymru) (Diwygio) 2020 (O.S. 2020/752), rhlau. 1, 2(4) (ynghyd â rhl. 3)
+[F327.—(1) Safleoedd gwyliau.
+(2) Yn y paragraff hwn, ystyr “safle gwyliau” yw unrhyw dir yng Nghymru lle y gosodir cartref symudol neu garafán at ddibenion byw gan bobl (gan gynnwys unrhyw dir yng Nghymru a ddefnyddir ar y cyd â’r tir hwnnw), y mae’r caniatâd cynllunio perthnasol neu’r drwydded safle ar gyfer y tir mewn cysylltiad ag ef—
+(a)
+wedi ei fynegi i’w roi neu wedi ei mynegi i’w rhoi at ddefnydd gwyliau yn unig, neu
+(b)
+yn ei gwneud yn ofynnol bod adegau o’r flwyddyn pan na chaniateir gosod unrhyw gartref symudol neu garafán ar y safle i bobl fyw ynddo neu ynddi.
+(3) At ddibenion penderfynu a yw safle yn safle gwyliau ai peidio, mae unrhyw ddarpariaeth yn y caniatâd cynllunio perthnasol neu yn y drwydded safle sy’n caniatáu gosod cartref symudol ar y tir i bobl fyw ynddo drwy gydol y flwyddyn i’w hanwybyddu os yw wedi ei hawdurdodi i’r canlynol feddiannu’r cartref symudol—
+(a)
+y person sy’n berchennog ar y safle, neu
+(b)
+person sydd wedi ei gyflogi gan y person hwnnw ond nad yw’n meddiannu’r cartref symudol o dan gytundeb y mae Rhan 4 o Ddeddf Cartrefi Symudol (Cymru) 2013 yn gymwys iddo.
+Diwygiadau Testunol
+F3
+Atod. 4 parau. 27-30 wedi ei fewnosod (25.7.2020) gan Rheoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Rhif 2) (Cymru) (Diwygio) (Rhif 2) 2020 (O.S. 2020/803), rhlau. 1(3), 2(13)(b) (ynghyd â rhl. 4)
+28.  Safleoedd gwersylla.
+Diwygiadau Testunol
+F3
+Atod. 4 parau. 27-30 wedi ei fewnosod (25.7.2020) gan Rheoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Rhif 2) (Cymru) (Diwygio) (Rhif 2) 2020 (O.S. 2020/803), rhlau. 1(3), 2(13)(b) (ynghyd â rhl. 4)
+29.  Gwestai a llety gwely a brecwast.
+Diwygiadau Testunol
+F3
+Atod. 4 parau. 27-30 wedi ei fewnosod (25.7.2020) gan Rheoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Rhif 2) (Cymru) (Diwygio) (Rhif 2) 2020 (O.S. 2020/803), rhlau. 1(3), 2(13)(b) (ynghyd â rhl. 4)
+30.  Llety gwyliau arall (gan gynnwys fflatiau gwyliau, hostelau a thai byrddio).]
+Diwygiadau Testunol
+F3
+Atod. 4 parau. 27-30 wedi ei fewnosod (25.7.2020) gan Rheoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Rhif 2) (Cymru) (Diwygio) (Rhif 2) 2020 (O.S. 2020/803), rhlau. 1(3), 2(13)(b) (ynghyd â rhl. 4)NODYN ESBONIADOL
+(Nid yw’r nodyn hwn yn rhan o’r Rheoliadau)
+Mae Rhan 2A o Ddeddf Iechyd y Cyhoedd (Rheoli Clefydau) 1984 yn galluogi Gweinidogion Cymru, drwy reoliadau, i wneud darpariaeth at ddiben atal, diogelu rhag, rheoli neu ddarparu ymateb iechyd y cyhoedd i fynychder neu ledaeniad haint neu halogiad yng Nghymru.
+Mae’r Rheoliadau hyn wedi eu gwneud mewn ymateb i’r bygythiad difrifol ac uniongyrchol i iechyd y cyhoedd a berir gan fynychder a lledaeniad coronafeirws syndrom anadlol acíwt difrifol 2 (SARS-CoV-2) yng Nghymru. Mae’r Rheoliadau yn gosod gofynion a chyfyngiadau ar unigolion, busnesau ac eraill.
+Mae’r Rheoliadau yn disodli Rheoliadau Diogelu Iechyd (Cyfyngiadau Coronafeirws) (Cymru) 2020 (O.S. 2020/353 (Cy. 80)) fel y’u diwygiwyd gan O.S. 2020/399 (Cy. 88), O.S. 2020/452 (Cy. 102), O.S. 2020/497 (Cy. 118), O.S. 2020/529 (Cy. 124), O.S. 2020/557 (Cy. 129), O.S. 2020/619 (Cy. 141) ac O.S. 2020/686 (Cy. 153).
+Mae 5 Rhan i’r Rheoliadau.
+Mae Rhan 1 yn cynnwys termau wedi’u diffinio (rheoliad 2); yn ei gwneud yn ofynnol i Weinidogion Cymru adolygu cymesuredd y cyfyngiadau a’r gofynion, a’r angen amdanynt, o leiaf unwaith bob 21 o ddiwrnodau (rheoliad 4); ac yn darparu y bydd y Rheoliadau hyn yn dod i ben ar 8 Ionawr 2021 (rheoliad 5). Mae’r Rhan hon hefyd yn gwneud darpariaeth sy’n addasu’r cyfyngiadau niferus ar unigolion yn y Rheoliadau sy’n cyfyngu ar y rhyngweithio ag unrhyw un nad yw’n aelod o’r un aelwyd. Mae hyn yn caniatáu i aelodau o ddwy aelwyd gytuno i ffurfio un aelwyd (estynedig), sy’n golygu y gall aelodau’r aelwydydd hynny ryngweithio â’i gilydd fel pebaent yn aelodau o un aelwyd.
+Mae Rhan 2 yn ei gwneud yn ofynnol i fusnesau a mangreoedd penodol gau. Mae’r rhain wedi eu rhestru yn Atodlen 1 (mangreoedd sy’n gwerthu bwyd a diod), Atodlen 2 (cyfleusterau hamdden neu ddiwylliant dan do a gwasanaethau harddwch yn gyffredinol) ac Atodlen 3 (llety gwyliau). Mae’r gofynion i gau, fodd bynnag, yn ddarostyngedig i eithriadau niferus. Mae’r rhain yn cynnwys darparu bwyd a diod i fynd â hwy i ffwrdd a bwyta ac yfed mewn mangreoedd sydd yn yr awyr agored (rheoliad 6); caniatáu i fangreoedd gael eu defnyddio at ddibenion penodol wedi eu rhestri (rheoliad 7); caniatáu i lety hunangynhwysol mewn gwestai a safleoedd gwyliau fod ar agor, a chaniatáu i fathau eraill o lety o’r fath agor ar gais Gweinidogion Cymru neu awdurdod lleol (rheoliad 8). Mae rheoliad 10 yn gwneud darpariaeth benodol ynghylch amlosgfeydd a chanolfannau cymunedol y mae rhaid iddynt gau yn ddarostyngedig i eithriadau penodol, ac mae rheoliad 11 yn ei gwneud yn ofynnol i awdurdodau lleol, awdurdodau Parciau Cenedlaethol, Cyfoeth Naturiol Cymru a’r Ymddiriedolaeth Genedlaethol gau rhai llwybrau cyhoeddus a thir y gall y cyhoedd fydn iddynt.
+Mae Rhan 3 yn gosod rhwymedigaethau ar bersonau sy’n gyfrifol am fangreoedd sydd ar agor i’r cyhoedd, neu ar waith sy’n cael ei wneud mewn unrhyw fangre, at ddiben lleihau’r risg o ddod i gysylltiad â coronafeirws yn y fangre. Mae rheoliad 12 yn ei gwneud yn ofynnol bod: (1) pob mesur rhesymol yn cael ei gymryd i sicrhau y cynhelir pellter o 2 fetr rhwng personau yn y fangre; (2) unrhyw fesurau rhesymol eraill yn cael eu cymryd, er enghraifft, i gyfyngu ar ryngweithio agos wyneb yn wyneb a chynnal hylendid; a (3) gwybodaeth yn cael ei darparu i’r rhai sy’n mynd i mewn i fangre neu’n gweithio ynddi ynglŷn â sut i leihau’r risg o ddod i gysylltiad â coronafeirws. Mae rheoliad 13 yn darparu ar gyfer dyroddi canllawiau ynghylch cymhwyso’r gofynion a osodir gan reoliad 12 yn ymarferol, a rhaid i’r rhai sy’n ddarostyngedig i’r gofynion roi sylw i’r canllawiau hynny. At y dibenion hyn mae mangreoedd yn cynnwys cerbydau a ddefnyddir fel tacsis ac ar gyfer trafnidiaeth cyhoeddus.
+Mae Rhan 4 yn gosod terfynau ar ymgynnull gyda phobl eraill. Mae’r rhain yn darparu (yn rheoliad 14) mai dim ond os oes ganddo esgus rhesymol dros wneud hynny (y mae enghreifftiau ohonynt wedi eu rhestru) y caiff person ymgynull dan do gyda rhywun ac eithrio aelod o’i aelwyd neu ei ofalwr, neu’r person y mae’n gofalu amdano. Mae’r un rheol yn berthnasol i ymgynnull yn yr awyr agored ac eithrio bod ymgynnull gydag aelodau un aelwyd arall yn cael ei ganiatáu hefyd. Mae rheoliad 15 yn darparu eithriad i’r rheol yn rheoliad 14 ar gyfer gweithgareddau yn yr awyr agored sydd wedi eu trefnu, nad ydynt yn cynnwys mwy na 30 o bobol. Mae rheoliad 16 yn darparu bod rhaid i berson sy’n gweithio neu’n darparu gwasanaethau gwirfoddol neu elusennol wneud hynny o’i gartref, os yw’n rhesymol ymarferol iddo wneud hynny.
+Mae Rhan 5 yn ymwneud â gorfodi’r cyfyngiadau a’r gofynion. Mae rheoliad 17 yn gwneud darpariaeth ynghylch y rhai a all gymryd camau gorfodi, tra bo rheoliad 18 yn ymwneud â’r camau gweithredu eu hunain. Mae rheoliad 19 yn cynnwys pŵer i fynd i fangre. Mae rheoliad 20 yn darparu bod person sydd, heb esgus rhesymol, yn mynd yn groes i’r gofynion (rhestredig) yn y Rheoliadau hyn yn cyflawni trosedd. Gellir cosbi’r drosedd honno drwy ddirwy ddiderfyn. Mae rheoliad 21 yn caniatáu i droseddau gael eu cosbi drwy hysbysiad cosb benodedig (y mae ei swm yn dyblu ar ail hysbysiad cosb person a phob un o’i hysbysiadau cosb a ddilyn, hyd at uchafswm o £1920) ac mae rheoliad 22 yn ymwneud ag erlyn troseddau o dan y Rheoliadau.
+Ystyriwyd Cod Ymarfer Gweinidogion Cymru ar gynnal Asesiadau Effaith Rheoleiddiol mewn perthynas â’r Rheoliadau hyn. O ganlyniad, ni luniwyd asesiad effaith rheoleiddiol o’r costau a’r manteision sy’n debygol o ddeillio o gydymffurfio â’r Rheoliadau hyn.

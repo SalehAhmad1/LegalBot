@@ -1,0 +1,91 @@
+STATUTORY RULES OF NORTHERN IRELAND
+2020 No. 291
+AGRICULTURE
+The Food and Feed Hygiene and Safety (Miscellaneous Amendments) Regulations (Northern Ireland) 2020
+Made
+30th November 2020
+Coming into operation
+25th December 2020
+The Department of Health(1) being a department designated for the purposes of section 2(2) of the European Communities Act 1972(2) in relation to measures relating to food (including drink) including the primary production of food and measures relating to feed produced for or fed to food-producing animals(3), the common agricultural policy of the European Union(4), and measures in the veterinary and phytosanitary fields for the protection of public health(5) makes these Regulations in exercise of the powers conferred by section 2(2) of, and paragraph 1A of Schedule 2 to, that Act.
+There has been open and transparent public consultation during the preparation of these Regulations in accordance with the requirements of Article 9 of Regulation (EC) No. 178/2002 of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety(6).
+(1)
+Formerly the Department of Health, Social Services and Public Safety; see 2016 c. 5 (N.I.), section 1
+(2)
+1972 c.68
+(3)
+S.I.2003/2901
+(4)
+S.I.2000/2812
+(5)
+S.I.1999/2027
+(6)
+OJ No. L31, 1.2.2002, p.1, as last amended by Regulation (EC) No. 2019/1243 of the European Parliament and of the Council adapting a number of legal acts providing for the use of the regulatory procedure with scrutiny to Articles 290 and 291 of the Treaty on the Functioning of the European Union (OJ No. L198, 25.7.2019, p.241)Citation, commencement and interpretation
+1.  These Regulations may be cited as the Food and Feed Hygiene and Safety (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 and come into operation on 25th December 2020.Citation, commencement and interpretation
+2.  The Interpretation Act (Northern Ireland) 1954(1) applies to these Regulations as it applies to an Act of the Northern Ireland Assembly.
+(1)
+1954 c. 33 (N.I.)Amendment of the Official Feed and Food Controls Regulations (Northern Ireland) 2009
+3.—(1) The Official Feed and Food Controls Regulations (Northern Ireland) 2009 are amended as follows.
+(2) In regulation 21 (Interpretation of this Part), for the definition of “product” substitute—
+““product” means feed and food of non-animal origin whose import is regulated by Article 44 or Article 47(1)(d), (e) or (f) of Regulation 2017/625 and includes composite products and foodstuffs which are not required to be subject to veterinary checks as provided in Commission Decision 2007/275/EC concerning lists of composite products to be subject to controls at border control posts;”.
+(3) In regulation 28 (Checks on products), in each place it occurs, for “and 45(1), (2) and (4) of Regulation 2017/625” substitute “, 45(1), (2) and (4) of Regulation 2017/625 and regulation 45(1)”.
+(4) In regulation 34(2) (costs and fees) after “as referred to in”, insert “Article 79(2)(a) and (c) and”.Amendment of the Animal Feed (Composition, Marketing and Use) Regulations (Northern Ireland) 2016
+4.—(1) The Animal Feed (Composition, Marketing and Use) Regulations (Northern Ireland) 2016 are amended as follows.
+(2) In regulation 2 (Interpretation)—
+(a)
+In paragraph (1)—
+(i)
+omit the definition of “Directive 2008/38”;
+(ii)
+after the definition “Regulation 767/2009” insert—
+““Regulation 2020/354” means Commission Regulation (EU) 2020/354 of 4 March 2020 establishing a list of intended uses of feed intended for particular nutritional purposes and repealing Directive 2008/38/EC(1);”;
+(b)
+In paragraph (2), for “or Regulation 767/2009” substitute “, Regulation 767/2009 or Regulation 2020/354”;
+(c)
+in paragraph (3), for “Directive 82/475, Directive 2002/32, Directive 2008/38, Regulation 1831/2003 or Regulation 767/2009” substitute “Directive 82/475, Directive 2002/32, Regulation 1831/2003, Regulation 767/2009 or Regulation 2020/354”.
+(3) For Part 7 (Implementation of Directive 2008/38) substitute—
+“Part 7
+Enforcement of Regulation 2020/354
+Interpretation of this Part
+16.  In this Part any reference to a numbered Article is a reference to the Article so numbered in Regulation 2020/354.
+Control of feed intended for particular nutritional purposes
+17.  A person who contravenes or fails to comply with Article 1 (conditions on marketing), as read with Article 2 (derogation for feed which complies with the provisions of Directive 2008/38/EC) and Article 3 (derogation for feed labelled before 25 March 2022 in accordance with the rules applicable before 25 March 2020) commits an offence.”
+(4) In regulation 18 (Penalties for offences under these regulations), in paragraph (1), for “17(1)” substitute “17”.
+(5) In regulation 19 (Duties to enforce), after “Regulation 767/2009” insert “, Regulation 2020/354”.
+(1)
+OJ No. L67, 5.3.2020, p.1Amendment of the Animal Feed (Hygiene, Sampling etc. and Enforcement) Regulations (Northern Ireland) 2016
+5.—(1) The Animal Feed (Hygiene, Sampling etc. and Enforcement) Regulations (Northern Ireland) 2016(1) are amended as follows.
+(2) In regulation 2 (Interpretation)—
+(a)
+in paragraph (1) -
+(i)
+omit the definition “Regulation 882/2004”;
+(ii)
+after the definition “Regulation 767/2009” insert—
+““Regulation 2017/625” means Regulation (EU) 2017/625 of 15 March 2017 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC;
+“Regulation 2020/354” means Commission Regulation (EU) 2020/354 of 4 March 2020 establishing a list of intended uses of feed intended for particular nutritional purposes and repealing Directive 2008/38/EC(2);”;
+(b)
+in paragraph (2), for “Regulation 882/2004, Regulation 183/2005 or Regulation 152/2009” substitute “Regulation 183/2005, Regulation 152/2009, Regulation 2017/625 or Regulation 2020/354”;
+(c)
+in paragraph (5), for “Regulation 183/2005 or Regulation 152/2009” substitute “Regulation 183/2005, Regulation 152/2009 or Regulation 2020/354”.
+(3) In regulation 18 (Analysis other than in the course of official controls), for paragraph (2) substitute—
+“(2) In cases where there is no appropriate method of analysis in Regulation 152/2009, the analysis must be carried out in the manner referred to in Article 34 (1) and (2) of Regulation 2017/625 as read with Regulation 2019/1793.”.
+(4) In Schedule 1 (Specified Feed Law), in the table—
+(a)
+omit the entry “Regulation 882/2004, in so far as it relates to feed”;
+(b)
+below the entry for “Regulation 767/2009” add the following two entries—
+“Regulation 2017/625 in so far as it relates to feed
+Regulation 2020/354”.
+(1)
+S.R. 2016 No.5
+(2)
+OJ No. L67, 5.3.2020, p.1Sealed with the official seal of the Department of Health on 30th November 2020.
+Lourda Geoghegan
+A senior officer of the Department of HealthEXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the Official Feed and Food Controls Regulations (Northern Ireland) 2009(S.R.2009 No.427 as last amended by S.R 2019 No.218) (“the 2009 Regulations”). The 2009 Regulations provide for the execution and enforcement of Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No. 999/2001, (EC) No. 396/2005, (EC) No. 1069/2009, (EC) No. 1107/2009, (EU) No. 1151/2012, (EU) No. 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No. 1/2005 and (EC) No. 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulations) (OJ No. L95 7.4.2017, p. 1) (“Regulation 2017/625”).
+Regulation 3(2) substitutes a revised definition of “product” in regulation 21 to provide that food and feed of non-animal origin regulated under Article 47(1)(d), (e) or (f) of Regulation 2017/625 is included in the scope of Part 3. Regulation 3(3) makes a consequential amendment as a result of the revised definition.
+Regulation 3(4) amends regulation 34 to make provision for the payment of costs of official controls under Article 79(2)(a) and (c) of Regulation 2017/625 in respect of Part 3.
+These Regulations will also amend the Animal Feed (Composition, Marketing and Use) Regulations (Northern Ireland) 2016 (S.R 2016 No.4) and the Animal Feed (Hygiene, Sampling etc. and Enforcement) Regulations (Northern Ireland) 2016 (S.R. 2016 No. 5) to provide for the execution and enforcement of Commission Regulation (EU) 2020/354 establishing a list of intended uses of feed intended for particular nutritional purposes and repealing Directive 2008/38/EC (OJ No. L67, 5.3.2020, p.1.).
+These Regulations substitute references to Regulation 2017/625 for references to Regulation 882/2004 in the Animal Feed (Hygiene, Sampling etc. and Enforcement) Regulations (Northern Ireland) 2016 (S.R.2016 No.4). Regulation 2017/625 revoked and replaced Regulation 882/2004.
+An impact assessment has not been produced for this statutory Rule as no, or no significant, impact on the private, voluntary or public sector is foreseen.

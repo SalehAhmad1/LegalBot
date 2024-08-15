@@ -1,0 +1,1323 @@
+OFFERYNNAU STATUDOL CYMRU
+2023 Rhif 350 (Cy. 51)
+ARDRETHU A PHRISIO, CYMRU
+Rheoliadau Ardrethu Annomestig (Newid Rhestrau ac Apelau) (Cymru) 2023
+Gwnaed
+22 Mawrth 2023
+Yn dod i rym
+1 Ebrill 2023
+Mae Gweinidogion Cymru yn gwneud y Rheoliadau a ganlyn drwy arfer y pwerau a roddir gan adrannau 42(5), 53(5), 55(2) i (6) a (7A), 143(1) a (2), paragraff 2(6A) o Atodlen 6, paragraffau 10 i 12 o Atodlen 7A, paragraff 6(1A) o Atodlen 9 a pharagraffau 1, 4, 5(1)(a), (b) ac (g), 6(1)(g), 7A, 8, 11, 12, 15 ac 16 o Atodlen 11 i Ddeddf Cyllid Llywodraeth Leol 1988(1) ac a freiniwyd bellach ynddynt hwy(2).
+Gosodwyd drafft o’r offeryn hwn gerbron Senedd Cymru ac fe’i cymeradwywyd ganddi drwy benderfyniad yn unol ag adran 143(3E)(b) o’r Ddeddf.
+(1)
+1988 p. 41. Mewnosodwyd adran 55(7A), Atodlen 7A a pharagraff 6(1A) o Atodlen 9 gan adran 139 o Ddeddf Llywodraeth Leol a Thai 1989 (p. 42) a pharagraffau 30(5), 40 a 47(3) o Atodlen 5 iddi. Mewnosodwyd paragraff 2(6A) o Atodlen 6 gan Ddeddf Llywodraeth Leol a Thai 1989 ac fe’i hamnewidiwyd gan baragraff 4 o Atodlen 10 i Ddeddf Cyllid Llywodraeth Leol 1992 (p. 14). Mewnosodwyd adrannau 55(4A), (4B) a (5A) gan adrannau 32(2) a 32(3) o Ddeddf Menter 2016 (p. 12). Gweler y diffiniad o “prescribed” yn adran 146(6).
+(2)
+Trosglwyddwyd swyddogaethau’r Ysgrifennydd Gwladol, i’r graddau y maent yn arferadwy o ran Cymru, i Gynulliad Cenedlaethol Cymru yn rhinwedd erthygl 2(1) o Orchymyn Cynulliad Cenedlaethol Cymru (Trosglwyddo Swyddogaethau) 1999 (O.S. 1999/672). Mae’r swyddogaethau hynny bellach yn arferadwy gan Weinidogion Cymru yn rhinwedd adran 162 o Ddeddf Llywodraeth Cymru 2006 (p. 32) a pharagraff 30 o Atodlen 11 iddi.Enwi, cymhwyso a chychwyn
+1.—(1) Enw’r Rheoliadau hyn, sy’n gymwys o ran Cymru, yw Rheoliadau Ardrethu Annomestig (Newid Rhestrau ac Apelau) (Cymru) 2023.
+(2) Daw’r Rheoliadau hyn i rym ar 1 Ebrill 2023.Dehongli: cyffredinol
+2.—(1) Yn y Rheoliadau hyn—
+ystyr “apêl” (“appeal”) yw apêl o dan—
+(a)
+rheoliad 18;
+(b)
+rheoliad 24;
+(c)
+paragraff 4 o Atodlen 4A(1) i’r Ddeddf (ardrethu annomestig: adeiladau newydd (diwrnodau cwblhau)) fel y mae’n gymwys i Ran 3 o’r Ddeddf (ardrethu annomestig) (a elwir yn y Rheoliadau hyn yn “apêl yn erbyn hysbysiad cwblhau”);
+(d)
+paragraff 5C o Atodlen 9(2) i’r Ddeddf (a elwir yn y Rheoliadau hyn yn “apêl yn erbyn gosod cosb Atodlen 9”);
+ystyr “apêl yn erbyn gosod cosb” (“appeal against imposition of a penalty”) yw—
+(a)
+apêl yn erbyn gosod cosb Atodlen 9, neu
+(b)
+apêl o dan reoliad 18;
+ystyr “awdurdod” (“authority”) yw awdurdod bilio sydd â’r ystyr a roddir i “billing authority” gan Ddeddf Cyllid Llywodraeth Leol 1992(3);
+ystyr “awdurdod perthnasol” (“relevantauthority”), mewn perthynas â hereditament, yw’r awdurdod y mae’r hereditament yn ei ardal;
+ystyr “clerc” (“clerk”), mewn perthynas ag apêl, yw clerc TPC;
+ystyr “cosb Atodlen 9” (“Schedule 9 penalty”) yw cosb a osodir o dan baragraff 5A o Atodlen 9 i’r Ddeddf;
+ystyr “cosb Rhan 2” (“Part 2 penalty”) yw cosb ariannol a osodir o dan reoliad 16;
+mae i “cwmni”, “cwmni daliannol” ac “is-gwmni” yr ystyron a roddir i “company”, “holding company” a “subsidiary” gan Ddeddf Cwmnïau 2006(4);
+mae i “cyfathrebiad electronig” yr ystyr a roddir i “electronic communication” yn adran 15(1) o Ddeddf Cyfathrebiadau Electronig 2000(5);
+ystyr “cynigydd” (“proposer”) yw’r person sy’n gwneud cynnig;
+ystyr “cynnig” (“proposal”) yw cynnig o dan reoliad 11 i newid rhestr leol neu a gymhwysir gan reoliad 31 ar gyfer y rhestr ganolog;
+mae i “cysylltiad cymwys” (“qualifying connection”) yr ystyr a roddir ym mharagraff (2);
+ystyr “y Ddeddf” (“the Act”) yw Deddf Cyllid Llywodraeth Leol 1988;
+mae i “hereditament” yr ystyr a roddir i “hereditament” gan adran 64 o’r Ddeddf;
+ystyr “hysbysiad cwblhau” (“completionnotice”) yw hysbysiad o dan baragraff 1 o Atodlen 4A i’r Ddeddf fel y mae’n gymwys i Ran 3 o’r Ddeddf, sy’n nodi’r diwrnod cwblhau fel 1 Ebrill 2023 neu wedi hynny;
+ystyr “Llywydd” (“President”) yw Llywydd TPC;
+ystyr “newid” (“alteration”) yw newid rhestr leol neu’r rhestr ganolog mewn perthynas â hereditament penodol, ac mae “newid” (“alter”) i’w ddehongli yn unol â hynny;
+ystyr “PB” (person â buddiant) (“IP” (interested person))—
+(a)
+mewn perthynas â hereditament sy’n rhan o Ystad y Goron ac sy’n cael ei ddal gan Gomisiynwyr Ystad y Goron o dan eu rheolaeth o fewn ystyr adran 1 o Ddeddf Ystad y Goron 1961(6), yw Comisiynwyr Ystad y Goron;
+(b)
+mewn perthynas ag unrhyw hereditament arall, yw—
+(i)
+y meddiannydd;
+(ii)
+unrhyw berson arall (ac eithrio morgeisai nad yw mewn meddiant) sydd â naill ai ystad gyfreithiol neu fuddiant ecwitïol mewn unrhyw ran o’r hereditament a fyddai’n rhoi hawl i’r person hwnnw (ar ôl diwedd unrhyw fuddiant blaenorol) feddiannu’r hereditament neu unrhyw ran ohono;
+(iii)
+unrhyw berson sydd â chysylltiad cymwys â’r meddiannydd neu â pherson a ddisgrifir yn (ii);
+ystyr “porth electronig TPC” (“VTW’s electronic portal”) yw’r cyfleuster ar-lein a ddarperir gan TPC i’w ddefnyddio mewn cysylltiad ag apelau a wneir mewn perthynas â’r canlynol—
+(a)
+rhestr leol a lunnir ar neu ar ôl 1 Ebrill 2023, neu
+(b)
+rhestr ganolog a lunnir ar neu ar ôl 1 Ebrill 2023;
+ystyr “rhestr ganolog” (“central list”) yw rhestr a lunnir ac a gedwir yn unol ag adrannau 52 a 54A o’r Ddeddf;
+ystyr “rhestr leol” (“local list”) yw rhestr a lunnir ac a gedwir yn unol ag adrannau 41 a 54A o’r Ddeddf;
+ystyr “SP” (“VO”) yw swyddog prisio; ac fel y mae’n gymwys i restr, y swyddog prisio ar gyfer yr awdurdod y mae’r rhestr yn cael ei llunio a’i chadw ar ei gyfer;
+ystyr “SPC” (“CVO”) yw swyddog prisio canolog;
+ystyr “TPC” (“VTW”) yw Tribiwnlys Prisio Cymru(7);
+ystyr “trethdalwr” (“ratepayer”), fel y mae’n gymwys i hereditament, yw’r meddiannydd neu, os nad yw’r hereditament wedi ei feddiannu, y perchennog;
+ystyr “tribiwnlys prisio” (“valuation tribunal”) yw tribiwnlys a gynullwyd ar neu ar ôl 1 Gorffennaf 2010 gan Dribiwnlys Prisio Cymru oni bai ei fod yn cyfeirio’n benodol at dribiwnlys prisio a oedd yn bodoli cyn 1 Gorffennaf 2010.
+(2) Rhaid trin person fel pe bai ganddo gysylltiad cymwys ag un arall—
+(a)
+pan fo’r ddau berson yn gwmnïau, ac—
+(i)
+pan fo’r naill yn is-gwmni i’r llall, neu
+(ii)
+pan fo’r ddau yn is-gwmnïau i’r un cwmni, neu
+(b)
+pan mai un person yn unig sy’n gwmni, pan fo gan y person arall (yr “ail berson”) fuddiant yn y cwmni hwnnw a fyddai, pe bai’r ail berson yn gwmni, yn golygu ei fod yn gwmni daliadol i’r llall.
+(3) Mae unrhyw gyfeiriad yn y Rheoliadau hyn at barti i apêl yn cynnwys y person sy’n gwneud yr apêl (“yr apelydd”) ac—
+(a)
+pan fo apêl yn cael ei gwneud o dan reoliad 18 neu apêl yn erbyn gosod cosb Atodlen 9, yr SP;
+(b)
+pan fo apêl yn cael ei gwneud o dan reoliad 24—
+(i)
+pob person y mae ei gytundeb yn ofynnol o dan reoliad 22, a
+(ii)
+unrhyw berson arall sydd wedi bod yn drethdalwr mewn perthynas â’r hereditament ers y dyddiad a grybwyllir ym mharagraff (3)(b)(iii) ac sydd wedi hysbysu’r SP cyn y gwrandawiad, neu cyn y penderfyniad ar sail sylwadau ysgrifenedig o dan reoliad 37 neu drwy gytundeb o dan reoliad 38, fod y person yn dymuno bod yn barti i’r apêl;
+(iii)
+y dyddiad y cyfeirir ato ym mharagraff (3)(b)(ii) yw’r dyddiad y cafodd yr SP y cadarnhad ar gyfer y gwiriad sy’n ymwneud â’r cynnig sy’n destun yr apêl.
+(c)
+pan fo apêl yn cael ei gwneud yn erbyn hysbysiad cwblhau, yr awdurdod perthnasol.
+(4) Yn y Rheoliadau hyn, mae cyfeiriad at ddiwedd y cyfnod ar gyfer gwneud apêl o dan reoliad 18 yn gyfeiriad at ddiwedd y cyfnod o 28 o ddiwrnodau a grybwyllir yn rheoliad 18(4).
+(1)
+Mewnosodwyd Atodlen 4A gan adran 139 o Ddeddf Llywodraeth Leol a Thai 1989 (p. 42) a pharagraff 36 o Atodlen 5 iddi. Diwygiwyd paragraff 4 o Atodlen 4A gan adran 118 o Ddeddf Cyllid Llywodraeth Leol 1992 (p. 14) a pharagraff 83(2) o Atodlen 13 iddi, a chan baragraff 4(2) o Atodlen 16 i Ddeddf Llywodraeth Leol a Chynnwys y Cyhoedd mewn Iechyd 2007 (p. 28).
+(2)
+Mewnosodwyd paragraff 5C gan adran 72(4) o Ddeddf Llywodraeth Leol 2003 (p. 26). Fe’i diwygiwyd gan adran 151(5) o Ddeddf Llywodraeth Leol ac Etholiadau (Cymru) 2021 (dsc 1), a chan baragraff 5(2) o Atodlen 16 i Ddeddf Llywodraeth Leol a Chynnwys y Cyhoedd mewn Iechyd 2007 (p. 28).
+(3)
+1992 p. 14. Gweler adran 1(2) am y diffiniad o “billing authority”.
+(4)
+2006 p. 46. Gweler adran 1 am y diffiniad o “company” ac adran 1159 ac Atodlen 6 am y diffiniadau o “holding company” a “subsidiary”.
+(5)
+2000 p. 7 a ddiwygiwyd gan baragraff 158 o Atodlen 17 i Ddeddf Cyfathrebiadau 2003 p. 21.
+(6)
+1961 p. 55.
+(7)
+Sefydlwyd TPC gan Reoliadau Tribiwnlys Prisio Cymru 2010 (O.S. 2010/713 (Cy. 69)).Dehongli Rhan 2
+3.—(1) Yn y Rhan hon—
+ystyr “cadarnhad” (“confirmation”) yw cadarnhad o dan reoliad 7(1)(c);
+ystyr “Cronfa Gyfunol Cymru” (“Welsh Consolidated Fund”) yw’r gronfa a sefydlwyd gan adran 117 o Ddeddf Llywodraeth Cymru 2006(1).
+mae i “cynnig anghyflawn” (“incompleteproposal”) yr ystyr a roddir yn rheoliad 14(1);
+mae i “gwiriad” (“check”), fel y mae’n gymwys i hereditament, yr ystyr a roddir yn rheoliad 5;
+mae i “manylion seiliau’r cynnig” (“particulars of the grounds of the proposal”) yr ystyr a roddir yn rheoliad 11(4)(b);
+ystyr “newid perthnasol mewn amgylchiadau” (“material change of circumstances”), fel y mae’n gymwys i hereditament, yw newid mewn unrhyw un neu ragor o’r materion a grybwyllir ym mharagraff 2(7) o Atodlen 6(2) i’r Ddeddf;
+ystyr “porth electronig yr SP” (“VO’s electronic portal”) yw’r cyfleuster ar-lein a ddarperir gan yr SP ar gyfer yr awdurdod y caiff y rhestr ei llunio a’i chadw ar ei gyfer i’w ddefnyddio mewn cysylltiad â chynigion ar gyfer newid rhestr a lunnir ar neu ar ôl 1 Ebrill 2023;
+ystyr “rhestr” (“list”) yw rhestr leol a lunnir ar neu ar ôl 1 Ebrill 2023;
+ystyr “seiliau’r apêl” (“grounds of the appeal”) yw’r sail neu’r seiliau yn rheoliad 24(2) y gwneir apêl arni neu arnynt;
+ystyr “seiliau’r cynnig” (“grounds of the proposal”) yw’r sail neu’r seiliau yn rheoliad 4(1) y gwneir cynnig arni neu arnynt.
+(2) Yn y Rhan hon, mae cynnig “wedi ei benderfynu”—
+(a)
+os yw wedi ei dynnu’n ôl o dan reoliad 21,
+(b)
+os yw wedi ei drin fel pe bai wedi ei dynnu’n ôl o dan reoliad 22, neu
+(c)
+os rhoddir penderfyniad o dan reoliad 20 neu 23 sy’n gymwys i’r cynnig.
+(1)
+2006 p. 32.
+(2)
+Diwygiwyd gan adran 139 o Ddeddf Llywodraeth Leol a Thai 1989 (p. 42) a pharagraff 38(7) o Atodlen 5 iddi.Amgylchiadau y caniateir i gynigion gael eu gwneud oddi tanynt
+4.—(1) Y seiliau dros wneud cynnig yw—
+(a)
+bod y gwerth ardrethol a ddangosir yn y rhestr ar gyfer hereditament yn anghywir ar y diwrnod y lluniwyd y rhestr;
+(b)
+bod y gwerth ardrethol a ddangosir yn y rhestr ar gyfer hereditament yn anghywir oherwydd newid perthnasol mewn amgylchiadau a ddigwyddodd ar neu ar ôl y diwrnod y lluniwyd y rhestr;
+(c)
+bod y gwerth ardrethol a ddangosir yn y rhestr ar gyfer hereditament yn anghywir oherwydd diwygiad i’r dosbarthiadau o beiriannau a pheirianwaith a nodir yn yr Atodlen i Reoliadau Prisio ar gyfer Ardrethu (Peiriannau a Pheirianwaith) (Cymru) 2000(1) sy’n dod i rym ar neu ar ôl y diwrnod y lluniwyd y rhestr;
+(d)
+bod y gwerth ardrethol a ddangosir yn y rhestr ar gyfer hereditament yn anghywir neu wedi bod yn anghywir oherwydd newid a wnaed gan SP;
+(e)
+bod y gwerth ardrethol neu unrhyw wybodaeth arall a ddangosir yn y rhestr ar gyfer hereditament yn anghywir neu wedi bod yn anghywir, oherwydd penderfyniad—
+(i)
+gan TPC,
+(ii)
+gan dribiwnlys prisio, neu
+(iii)
+gan yr Uwch Dribiwnlys neu lys yn penderfynu ar apêl neu gais am adolygiad oddi wrth TPC neu’r Uwch Dribiwnlys,
+ynghylch hereditament arall;
+(f)
+bod y diwrnod y mae’r rhestr yn dangos bod newid yn cael effaith yn anghywir;
+(g)
+y dylai hereditament sydd heb ei ddangos yn y rhestr gael ei ddangos yn y rhestr honno;
+(h)
+na ddylai hereditament sydd wedi ei ddangos yn y rhestr gael ei ddangos yn y rhestr honno;
+(i)
+y dylai’r rhestr ddangos bod rhyw ran o hereditament a ddangosir yn y rhestr yn eiddo domestig neu wedi ei esemptio rhag ardrethu annomestig ond nad yw’n gwneud hynny;
+(j)
+na ddylai’r rhestr ddangos bod rhyw ran o hereditament a ddangosir yn y rhestr yn eiddo domestig neu wedi ei esemptio rhag ardrethu annomestig ond ei bod yn gwneud hynny;
+(k)
+y dylai eiddo a ddangosir yn y rhestr fel mwy nag un hereditament gael ei ddangos fel un neu fwy o hereditamentau gwahanol;
+(l)
+y dylai eiddo a ddangosir yn y rhestr fel un hereditament gael ei ddangos fel mwy nag un hereditament;
+(m)
+bod y cyfeiriad a ddangosir yn y rhestr ar gyfer hereditament yn anghywir;
+(n)
+bod y disgrifiad a ddangosir yn y rhestr ar gyfer hereditament yn anghywir;
+(o)
+bod unrhyw ddatganiad y mae’n ofynnol ei wneud am yr hereditament o dan adran 42 o’r Ddeddf wedi ei hepgor o’r rhestr.
+(2) Caniateir i gynnig gael ei wneud—
+(a)
+gan PB sydd â rheswm i gredu bod un o’r seiliau a nodir ym mharagraff (1) yn bodoli;
+(b)
+gan berson, heblaw PB, mewn perthynas â hereditament—
+(i)
+sydd â rheswm i gredu bod un o’r seiliau a nodir ym mharagraff (1) yn bodoli,
+(ii)
+sydd â rheswm i gredu bod y sail yn ymwneud ag unrhyw amser pan oedd y person yn PB mewn perthynas â’r hereditament hwnnw,
+(iii)
+a wnaeth gais fel PB o dan reoliad 6(2), a
+(iv)
+a gydymffurfiodd a rheoliad 7 (boed fel PB ai peidio);
+(c)
+gan berson, heblaw PB—
+(i)
+sydd â rheswm i gredu bod sail a nodir ym mharagraff (1)(c), (d) neu (f) yn bodoli, a
+(ii)
+a oedd yn PB unrhyw bryd pan oedd y newid neu’r diwygiad o dan sylw yn effeithiol.
+(3) Ond ni chaniateir i gynnig gael ei wneud—
+(a)
+drwy gyfeirio at fwy nag un sail oni bai, ar gyfer pob sail y dibynnir arni, fod y diwrnod perthnasol a’r dyddiad cael effaith yr un fath;
+(b)
+gan—
+(i)
+PB, pan fo’r person hwnnw (neu berson sydd â chysylltiad cymwys â’r person hwnnw), gan weithredu yn yr un swyddogaeth, wedi gwneud cynnig i newid yr un rhestr mewn perthynas â’r un hereditament ar yr un sail ac yn deillio o’r un digwyddiad;
+(ii)
+person a grybwyllir ym mharagraff (2)(b) neu (c), pan fo’r person hwnnw (neu berson sydd â chysylltiad cymwys â’r person hwnnw), gan weithredu yn y swyddogaeth honno neu gan weithredu fel PB, wedi gwneud cynnig i newid yr un rhestr mewn perthynas â’r un hereditament ar yr un sail ac yn deillio o’r un digwyddiad;
+(iii)
+PB neu berson a grybwyllir ym mharagraff 2(b) neu (c), pan fo cynnig i newid y rhestr mewn perthynas â’r un hereditament ac sy’n deillio o’r un ffeithiau wedi ei wneud gan berson arall (ac eithrio person sydd â chysylltiad cymwys â’r PB) ac wedi ei benderfynu gan TPC neu’r Uwch Dribiwnlys;
+(c)
+ar y sail a nodir ym mharagraff (1)(d), i’r graddau bod y newid wedi ei wneud o ganlyniad i gynnig blaenorol yn ymwneud â’r hereditament hwnnw neu ei fod yn rhoi effaith i benderfyniad gan TPC, yr Uwch Dribiwnlys neu lys yn penderfynu ar apêl neu gais am adolygiad mewn perthynas â’r hereditament o dan sylw.
+(4) Ym mharagraff (3)—
+ystyr “digwyddiad” (“event”) yw llunio’r rhestr, newid perthnasol mewn amgylchiadau neu newid y rhestr gan yr SP;
+ystyr “diwrnod perthnasol” (“material day”), mewn perthynas â hereditament, yw’r diwrnod a bennir o ran yr hereditament hwnnw o dan reolau a ragnodir gan reoliadau o dan baragraff 2(6A) o Atodlen 6 i’r Ddeddf;
+ystyr “dyddiad cael effaith” (“effective date”) yw’r diwrnod y byddai’r newid, pe bai’n cael ei wneud, yn cael effaith o dan y Rhan hon.
+(1)
+O.S. 2000/1097 (Cy. 75), y ceir diwygiadau iddo nad ydynt yn berthnasol i’r Rheoliadau hyn.Gwirio gwybodaeth am hereditament
+5.—(1) Yn ddarostyngedig i baragraffau (4) i (6), ni chaiff person wneud cynnig oni bai bod gwiriad gwybodaeth am yr hereditament wedi ei gwblhau (“gwiriad”).
+(2) Mae gwiriad yn cynnwys y camau yn rheoliadau 6 i 10.
+(3) Yn y Rheoliadau hyn, mae gwiriad mewn perthynas â hereditament wedi ei gwblhau—
+(a)
+ar y dyddiad y mae’r SP yn cyflwyno hysbysiad o dan reoliad 10(1); neu
+(b)
+ar y dyddiad y cymerir bod y gwiriad wedi ei gwblhau o dan reoliad 10(3).
+(4) Mae paragraffau (5) a (6) yn gymwys pan—
+(a)
+ar ddiwrnod (“y diwrnod creu”) sy’n dod ar neu ar ôl 1 Ebrill 2023, bo hereditament (“hereditament newydd”) yn dod i fodolaeth oherwydd—
+(i)
+bod eiddo a ardrethid fel hereditament sengl o’r blaen yn dod yn agored i gael ei ardrethu fesul rhan,
+(ii)
+bod eiddo a ardrethid fesul rhan o’r blaen yn dod yn agored i gael ei ardrethu fel hereditament sengl,
+(iii)
+bod hereditament neu unrhyw ran o hereditament yn dod yn rhan o hereditament gwahanol, a
+(b)
+ar neu ar ôl y diwrnod creu, bo unrhyw hereditament y ffurfiwyd hereditament newydd ohono yn gyfan gwbl neu’n rhannol (“hereditament hanesyddol”) wedi ei ddangos mewn rhestr.
+(5) Pan fo paragraff (4) yn gymwys—
+(a)
+at ddiben paragraff (1), bernir bod gwiriad mewn perthynas â hereditament newydd wedi ei gwblhau pan fo gwiriad wedi ei gwblhau ar neu ar ôl y diwrnod creu mewn perthynas â phob hereditament hanesyddol, a
+(b)
+at ddibenion y Rheoliadau hyn, mae gwiriad wedi ei gwblhau mewn perthynas â hereditament newydd ar—
+(i)
+y dyddiad y mae’r SP yn cyflwyno hysbysiad o dan reoliad 10(1) mewn perthynas â’r hereditament hanesyddol terfynol, neu
+(ii)
+y dyddiad y cymerir bod y gwiriad mewn perthynas â’r hereditament hanesyddol terfynol wedi ei gwblhau o dan reoliad 10(3).
+(6) Ym mharagraff (5)(b), ystyr “hereditament hanesyddol terfynol” yw’r hereditament hanesyddol terfynol y mae gwiriad wedi ei gwblhau mewn perthynas ag ef fel y’i nodwyd ym mharagraff (5)(a).Cais am wybodaeth a gedwir gan yr SP
+6.—(1) Mae’r rheoliad hwn yn gymwys i berson a grybwyllir yn rheoliad 4(2)(a) neu (c).
+(2) Cyn gwneud cynnig, rhaid i’r person ofyn i’r SP am wybodaeth sydd gan yr SP am yr hereditament.
+(3) Ar ôl cael cais am wybodaeth o dan baragraff (2), rhaid i’r SP ddarparu’r wybodaeth honno i’r person—
+(a)
+os yw’r wybodaeth yn ymwneud yn rhesymol ag unrhyw un neu ragor o’r seiliau a nodir yn rheoliad 4, a
+(b)
+os yw’r SP o’r farn ei bod yn rhesymol darparu’r wybodaeth honno i’r person.
+(4) Wrth ddarparu gwybodaeth i’r person o dan baragraff (3), os yw’r SP heb unrhyw wybodaeth ffeithiol am yr hereditament, caiff yr SP ofyn i’r person ddarparu’r wybodaeth sydd yn eisiau i’r SP.
+(5) Rhaid i’r person ofyn am wybodaeth neu ddarparu gwybodaeth o dan y rheoliad hwn—
+(a)
+drwy ddefnyddio porth electronig yr SP, neu
+(b)
+mewn modd arall y cytunir arno gyda’r SP.Cadarnhau bod gwybodaeth yn gywir
+7.—(1) Ar ôl cael gwybodaeth am yr hereditament a ddarparwyd gan yr SP mewn ymateb i gais o dan reoliad 6(2), rhaid i’r person—
+(a)
+os oes unrhyw ran o’r wybodaeth honno’n anghywir, ddarparu’r wybodaeth gywir i’r SP,
+(b)
+os yw’r SP wedi gofyn i’r person o dan reoliad 6(4) ddarparu unrhyw wybodaeth ffeithiol sydd yn eisiau i’r SP, ddarparu’r wybodaeth sydd yn eisiau i’r SP, ac
+(c)
+cadarnhau i’r SP—
+(i)
+pa ran o’r wybodaeth a ddarparwyd gan yr SP o dan reoliad 6(3) sy’n gywir, a
+(ii)
+bod unrhyw wybodaeth a ddarparwyd gan y person o dan is-baragraff (a) neu (b) yn gywir.
+(2) Rhaid i gadarnhad ac unrhyw wybodaeth a ddarperir gan berson o dan baragraff (1) gael eu darparu—
+(a)
+drwy ddefnyddio porth electronig yr SP, neu
+(b)
+mewn modd arall y cytunir arno gyda’r SP.Cydnabod bod cadarnhad wedi dod i law
+8.—(1) Ar ôl cael cadarnhad, fel sy’n ofynnol gan reoliad 7(1)(c), rhaid i’r SP gyflwyno i’r person a wnaeth y cadarnhad gydnabyddiaeth ysgrifenedig bod y cadarnhad wedi dod i law a rhaid iddi nodi—
+(a)
+y dyddiad y cafodd yr SP y cadarnhad, a
+(b)
+dyddiad y gydnabyddiaeth.
+(2) Yn y Rheoliadau hyn, y dyddiad y cafodd yr SP gadarnhad yw’r dyddiad a nodir yn y gydnabyddiaeth yn unol â pharagraff (1)(a).Cwblhau gwiriad
+9.  Ar ôl cael unrhyw wybodaeth a ddarperir o dan reoliad 7(1)(a) neu (b), rhaid i’r SP—
+(a)
+penderfynu a yw’r wybodaeth honno’n gywir ynteu’n anghywir,
+(b)
+newid y rhestr i gywiro unrhyw anghywirdeb mewn perthynas â’r canlynol—
+(i)
+gwerth ardrethol yr hereditament, neu
+(ii)
+unrhyw wybodaeth arall a ddangosir yn y rhestr am yr hereditament, ac
+(c)
+diweddaru unrhyw wybodaeth arall a gedwir gan yr SP am yr hereditament er mwyn cywiro unrhyw anghywirdeb.Hysbysu bod gwiriad wedi ei gwblhau
+10.—(1) Cyn gynted ag y bo’n rhesymol ymarferol ar ôl i’r camau yn rheoliadau 6 i 9 gael eu cymryd mewn perthynas â hereditament, rhaid i’r SP gyflwyno i’r person a wnaeth y cais o dan reoliad 6(2) hysbysiad yn nodi bod gwiriad wedi ei gwblhau mewn perthynas â’r hereditament.
+(2) Rhaid i’r hysbysiad gynnwys y canlynol—
+(a)
+y dyddiad y cyflwynir yr hysbysiad;
+(b)
+enw’r person;
+(c)
+dynodiad yr hereditament;
+(d)
+manylion unrhyw newid a wnaed gan yr SP i’r rhestr o ganlyniad i’r gwiriad;
+(e)
+crynodeb o unrhyw newidiadau a wnaed gan yr SP yn sgil gwirio’r wybodaeth sydd gan yr SP am yr hereditament;
+(f)
+datganiad o hawl y person i wneud cynnig.
+(3) Pan nad yw SP wedi cyflwyno hysbysiad o dan baragraff (1) cyn diwedd—
+(a)
+y cyfnod o 12 mis sy’n dechrau â’r dyddiad y cafodd yr SP gadarnhad, neu
+(b)
+unrhyw gyfnod hirach y cytunir arno mewn ysgrifen gan yr SP a’r person,
+bernir bod gwiriad wedi ei gwblhau ar ddiwedd y cyfnod hwnnw.Cynigion: cyffredinol
+11.—(1) Yn ddarostyngedig i reoliad 12, rhaid i gynnig ynghylch hereditament gael ei wneud o fewn y cyfnod o 4 mis sy’n dechrau â’r dyddiad y cwblhawyd gwiriad mewn perthynas â’r hereditament.
+(2) Rhaid i gynnig gael ei wneud drwy ei gyflwyno i’r SP—
+(a)
+drwy ddefnyddio porth electronig yr SP, neu
+(b)
+mewn modd arall y cytunir arno gyda’r SP.
+(3) Y dyddiad y mae cynnig wedi ei wneud yw’r dyddiad y mae’n cael ei gyflwyno i’r SP.
+(4) Rhaid i gynnig gynnwys—
+(a)
+enw, cyfeiriad a manylion cyswllt y cynigydd,
+(b)
+seiliau’r cynnig gan gynnwys y manylion y seilir pob un o’r seiliau arnynt (“manylion seiliau’r cynnig”),
+(c)
+manylion y newid arfaethedig i’r rhestr,
+(d)
+y dyddiad y mae’r cynigydd yn haeru y dylai’r newid arfaethedig gael effaith,
+(e)
+y dyddiad y cyflwynir y cynnig i’r SP,
+(f)
+tystiolaeth i ategu seiliau’r cynnig, ac
+(g)
+datganiad ynghylch sut y mae’r dystiolaeth yn ategu seiliau’r cynnig.
+(5) Rhaid i gynnig ynghylch hereditament (“yr hereditament”) a wneir ar y sail a nodir yn rheoliad 4(1)(e) gynnwys hefyd—
+(a)
+dyddiad y penderfyniad am yr hereditament arall (“y penderfyniad”),
+(b)
+enw’r tribiwnlys neu’r llys a wnaeth y penderfyniad,
+(c)
+gwybodaeth i adnabod yr hereditament arall,
+(d)
+y rhesymau y mae’r cynigydd yn credu bod y penderfyniad yn berthnasol i’r gwerth ardrethol neu i wybodaeth arall a ddangosir yn y rhestr ar gyfer yr hereditament, ac
+(e)
+y rhesymau y mae’r cynigydd yn credu, oherwydd y penderfyniad, fod y gwerth ardrethol neu wybodaeth arall a ddangosir yn y rhestr ar gyfer yr hereditament yn anghywir.
+(6) Os gwneir cynnig ar un neu ragor o’r seiliau a nodir yn rheoliad 4(1)(a) i (g) ac (i) i (l) a bod yr hereditament wedi ei feddiannu o dan les, hawddfraint neu drwydded i feddiannu (neu, pan fo is-baragraff (c) yn gymwys, wedi ei feddiannu felly), rhaid i’r cynnig gynnwys hefyd—
+(a)
+pan fo’r cynigydd yn feddiannydd, y swm sy’n daladwy bob blwyddyn gan y cynigydd, ar y dyddiad y gwneir y cynnig, mewn cysylltiad â’r les, yr hawddfraint neu’r drwydded i feddiannu, y dyddiad y daeth y swm hwnnw’n daladwy gyntaf a manylion unrhyw gyfnodau di-rent;
+(b)
+pan nad yw’r cynigydd yn feddiannydd ond ei fod yn PB mewn perthynas â’r hereditament hwnnw, y swm sy’n daladwy bob blwyddyn i’r cynigydd, ar y dyddiad y gwneir y cynnig, mewn cysylltiad â’r les, yr hawddfraint neu’r drwydded i feddiannu, y dyddiad y daeth y swm hwnnw’n daladwy gyntaf a manylion unrhyw gyfnodau di-rent;
+(c)
+pan nad yw’r cynigydd yn PB mewn perthynas â’r hereditament hwnnw, y swm a oedd yn daladwy bob blwyddyn gan y cynigydd neu i’r cynigydd (yn ôl y digwydd), ar y diwrnod olaf yr oedd y cynigydd yn PB o’r fath, mewn cysylltiad â’r les, yr hawddfraint neu’r drwydded i feddiannu, y dyddiad y daeth y swm hwnnw’n daladwy gyntaf a manylion unrhyw gyfnodau di-rent.
+(7) Ni chaiff cynnig ymdrin â mwy nag un hereditament ond—
+(a)
+os caiff ei wneud ar y sail a nodir yn rheoliad 4(1)(k) neu (l), neu
+(b)
+pan fo’r person sy’n gwneud y cynnig yn gwneud hynny yn yr un swyddogaeth mewn perthynas â phob hereditament a bod pob hereditament o fewn yr un adeilad neu’r un cwrtil.
+(8) Caniateir i gynnig a wneir ar y sail a nodir yn rheoliad 4(1)(d) neu (f) gynnwys cais am y naill neu’r llall o’r canlynol neu’r ddau ohonynt—
+(a)
+adfer y rhestr i’w chyflwr cyn i’r newid gael ei wneud;
+(b)
+newid pellach i’r rhestr mewn perthynas â’r hereditament.
+(9) Yn ddarostyngedig i baragraff (10) ac (11), ni chaiff person ond gwneud cynnig i newid rhestr os yw wedi darparu cadarnhad i’r SP cyn y diwrnod y caiff y rhestr nesaf ei llunio.
+(10) Ni chaiff person ond gwneud cynnig i newid rhestr ar y sail a nodir yn rheoliad 4(1)(d) neu (f) os yw wedi darparu cadarnhad i’r SP cyn—
+(a)
+y diwrnod y caiff y rhestr nesaf ei llunio, neu
+(b)
+diwedd y cyfnod o chwe mis sy’n dechrau â dyddiad y newid,
+pa un bynnag sydd ddiweddaraf.
+(11) Ni chaiff person ond gwneud cynnig i newid rhestr ar y sail a nodir yn rheoliad 4(1)(e) os yw wedi darparu cadarnhad i’r SP cyn diwedd y cyfnod o chwe mis sy’n dechrau â’r diwrnod y caiff y rhestr nesaf ei llunio.Cynigion a wneir ar y sail yn rheoliad 4(1)(b)
+12.—(1) Mae paragraff (2) yn gymwys i gynnig a wneir ar y sail a nodir yn rheoliad 4(1)(b) os yw’r sail yn ymwneud â newid perthnasol mewn amgylchiadau a grybwyllir ym mharagraff 2(7)(d) neu (e) o Atodlen 6 i’r Ddeddf.
+(2) Caniateir i’r cynnig gael ei wneud erbyn y diweddaraf o’r canlynol—
+(a)
+y diwrnod olaf yn y cyfnod o 4 mis sy’n dechrau â’r dyddiad y cwblhawyd gwiriad mewn perthynas â’r hereditament;
+(b)
+y diwrnod olaf yn y cyfnod o 16 mis sy’n dechrau â’r dyddiad y cafodd yr SP gadarnhad.
+(3) Yn ddarostyngedig i baragraff (4), caniateir i berson wneud un cynnig yn unig ar y sail a nodir yn rheoliad 4(1)(b) mewn perthynas â phob newid perthnasol mewn amgylchiadau.
+(4) Caniateir i berson wneud un cynnig ar y sail a nodir yn rheoliad 4(1)(b) mewn perthynas â mwy nag un newid perthnasol mewn amgylchiadau—
+(a)
+os yw’r diwrnod perthnasol yr un fath ar gyfer pob newid perthnasol mewn amgylchiadau, a
+(b)
+os yw’r dyddiad cael effaith yr un fath ar gyfer pob newid perthnasol mewn amgylchiadau;
+(c)
+ym mharagraff 4(a) a (b), mae i “dyddiad cael effaith” a “diwrnod perthnasol” yr ystyr a roddir gan reoliad 4(4).
+(5) Os yw person wedi darparu gwybodaeth i’r SP o dan reoliad 7(1)(a) neu (b) mewn perthynas â newid perthnasol mewn amgylchiadau ond nad yw’n gwneud cynnig o fewn y cyfnod yn rheoliad 11(1), neu os yw’n gymwys, y cyfnod ym mharagraff (2) o’r rheoliad hwn, ni chaiff y person wneud cynnig mewn perthynas â’r newid perthnasol hwnnw mewn amgylchiadau.Cydnabyddiaeth yr SP o gynigion
+13.—(1) O fewn 28 o ddiwrnodau i gael cynnig, rhaid i’r SP anfon cydnabyddiaeth ei fod wedi ei gael at y cynigydd.
+(2) Ond nid yw paragraff (1) yn gymwys i gynnig anghyflawn.
+(3) Rhaid i gydnabyddiaeth o dan baragraff (1) bennu’r dyddiad y daeth y cynnig i law a rhaid cael datganiad o effaith rheoliadau 15 i 26 i gyd-fynd â hi.Cynigion anghyflawn
+14.—(1) Rhaid i’r SP wrthod cynnig (“cynnig anghyflawn”) nad yw’n cynnwys y materion a bennir—
+(a)
+yn rheoliad 11(4), a
+(b)
+os yw’n gymwys, yn rheoliad 11(5) a (6).
+(2) Wrth wrthod cynnig anghyflawn, rhaid i SP gyflwyno i’r cynigydd hysbysiad gwrthod sy’n pennu—
+(a)
+yr wybodaeth sydd yn eisiau, a
+(b)
+dyddiad cyflwyno’r hysbysiad.
+(3) Os gwrthodir cynnig anghyflawn, heblaw cynnig a wneir ar y sail a nodir yn rheoliad 4(1)(b) pan fo’r sail yn ymwneud â newid perthnasol mewn amgylchiadau a grybwyllir ym mharagraff 2(7)(d) neu (e) o Atodlen 6 i’r Ddeddf, caiff y cynigydd wneud cynnig pellach o fewn y cyfnod o 4 mis sy’n dechrau â’r dyddiad y cwblhawyd gwiriad mewn perthynas â’r hereditament.
+(4) Os gwrthodir cynnig anghyflawn a wneir ar y sail a nodir yn rheoliad 4(1)(b) pan fo’r sail yn ymwneud â newid perthnasol mewn amgylchiadau a grybwyllir ym mharagraff 2(7)(d) neu (e) o Atodlen 6 i’r Ddeddf, caiff y cynigydd wneud cynnig pellach erbyn y diweddaraf o’r canlynol—
+(a)
+y diwrnod olaf yn y cyfnod o 4 mis sy’n dechrau â’r dyddiad y cwblhawyd gwiriad mewn perthynas â’r hereditament, a
+(b)
+y diwrnod olaf yn y cyfnod o 16 mis sy’n dechrau â’r dyddiad y cafodd yr SP gadarnhad.
+(5) Wrth gyfrifo’r cyfnod ym mharagraff (3) neu (4), mae’r diwrnodau sy’n dechrau â’r dyddiad y gwnaed y cynnig anghyflawn ac sy’n dod i ben ar y dyddiad y cyflwynwyd yr hysbysiad gwrthod i’w hanwybyddu.
+(6) Nid yw paragraff (5) yn gymwys pan gyflwynir ail hysbysiad gwrthod neu hysbysiad gwrthod dilynol mewn perthynas â’r cynnig pellach.Y weithdrefn ar ôl i gynnig gael ei wneud
+15.—(1) Rhaid i’r SP, o fewn y cyfnod o 42 o ddiwrnodau sy’n dechrau â’r dyddiad y mae’r SP yn cael cynnig, gyflwyno copi o’r cynnig i’r trethdalwr ar gyfer yr hereditament hwnnw, oni bai mai’r trethdalwr yw’r cynigydd.
+(2) Ym mharagraff (1), nid yw’r cyfeiriad at y dyddiad y mae’r SP yn cael cynnig yn cynnwys cyfeiriad at y dyddiad y mae’r SP yn cael cynnig anghyflawn.
+(3) Rhaid i gopi o gynnig a gyflwynir i drethdalwr gael datganiad o effaith rheoliadau 20 i 26 i gyd-fynd ag ef.
+(4) Rhaid i’r SP ddarparu i’r awdurdod perthnasol yr wybodaeth a bennir ym mharagraff (5) o fewn y cyfnod o 42 o ddiwrnodau sy’n dechrau â’r dyddiad—
+(a)
+y caiff yr SP y cynnig, a
+(b)
+y penderfynir ar y cynnig.
+(5) Yr wybodaeth yw—
+(a)
+dynodiad yr hereditament;
+(b)
+y dyddiad y gwnaed y cynnig mewn perthynas â’r hereditament;
+(c)
+gwerth ardrethol yr hereditament a ddangosir yn y rhestr ar y dyddiad y rhoddir yr wybodaeth i’r awdurdod perthnasol;
+(d)
+y newid arfaethedig;
+(e)
+y dyddiad y mae’r cynigydd yn haeru y dylai’r newid arfaethedig gael effaith;
+(f)
+a yw’r cynnig wedi ei benderfynu ai peidio.
+(6) Caiff yr awdurdod perthnasol ddarparu tystiolaeth i’r SP sy’n ymwneud â’r cynnig, ac os yw’n gwneud hynny—
+(a)
+rhaid i’r SP ddarparu copi o’r dystiolaeth honno i’r cynigydd, a
+(b)
+caiff y cynigydd ddarparu tystiolaeth bellach i’r SP mewn ymateb i’r dystiolaeth honno.
+(7) Ar ôl cael y cynnig, pan fo’r SP o’r farn ei bod yn rhesymol gwneud hynny, rhaid i’r SP ddarparu i’r cynigydd unrhyw wybodaeth sydd gan yr SP sy’n ymwneud â manylion seiliau’r cynnig.
+(8) Cyn i’r cynnig gael ei benderfynu, caiff y cynigydd, mewn ymateb i unrhyw wybodaeth a ddarperir o dan baragraff (7), ddarparu tystiolaeth bellach i’r SP i ategu seiliau’r cynnig.
+(9) Cyn i’r SP benderfynu ar y cynnig, os caiff yr SP unrhyw wybodaeth bellach sy’n ymwneud â manylion seiliau’r cynnig—
+(a)
+pan fo’r SP o’r farn ei bod yn rhesymol gwneud hynny, rhaid i’r SP ddarparu’r wybodaeth honno i’r cynigydd;
+(b)
+caiff y cynigydd ddarparu tystiolaeth bellach i’r SP mewn ymateb i’r wybodaeth honno.
+(10) Cyn i’r cynnig gael ei benderfynu, caiff y cynigydd ddarparu tystiolaeth bellach i’r SP sy’n ymwneud â seiliau’r cynnig os nad oedd y dystiolaeth honno yn hysbys i’r cynigydd ac na allai’r cynigydd fod wedi ei sicrhau yn rhesymol cyn i’r cynnig gael ei wneud.
+(11) Caiff y cynigydd a’r SP gytuno mewn ysgrifen y caiff y cynigydd ddarparu tystiolaeth bellach o dan amgylchiadau nas crybwyllir ym mharagraffau (6) i (10).
+(12) Mae unrhyw dystiolaeth a ddarperir gan y cynigydd o dan y rheoliad hwn yn rhan o’r cynnig a rhaid ei darparu i’r SP—
+(a)
+drwy ddefnyddio porth electronig yr SP, neu
+(b)
+mewn modd arall y cytunir arno gyda’r SP.Gosod cosb Rhan 2
+16.—(1) Mae’r rheoliad hwn yn gymwys i gynnig a wneir gan berson mewn perthynas â hereditament.
+(2) Caiff yr SP osod cosb ariannol ar y person hwnnw—
+(a)
+os yw’r person yn darparu gwybodaeth i’r SP yn y cynnig, neu mewn cysylltiad â’r cynnig, sy’n anwir o ran manylyn perthnasol, a
+(b)
+os yw’r person yn gwneud hynny’n fwriadol, yn ddi-hid neu’n ddiofal.
+(3) Y gosb sy’n daladwy yw £200.
+(4) Os yw’r SP yn gosod cosb o dan y rheoliad hwn, rhaid i’r SP gyflwyno hysbysiad i’r person (“hysbysiad cosb”) yn datgan—
+(a)
+bod cosb Rhan 2 wedi ei gosod;
+(b)
+y dyddiad y cafodd y gwiriad y mae’r cynnig yn ymwneud ag ef ei gwblhau mewn perthynas â’r hereditament;
+(c)
+y dyddiad y gwnaed y cynnig;
+(d)
+y dyddiad y penderfynwyd ar y cynnig (os yw wedi ei benderfynu);
+(e)
+yr wybodaeth y cafwyd ei bod yn anwir;
+(f)
+y dyddiad y darparwyd yr wybodaeth;
+(g)
+y dyddiad y cyflwynir yr hysbysiad cosb;
+(h)
+swm y gosb;
+(i)
+hawl y person i apelio i TPC o dan reoliad 18.
+(5) Yn y rheoliad hwn, ystyr “gwybodaeth mewn cysylltiad â’r cynnig” yw’r wybodaeth a ganlyn a ddarperir gan berson fel rhan o’r gwiriad y mae’r cynnig yn ymwneud ag ef—
+(a)
+cadarnhad;
+(b)
+unrhyw wybodaeth a ddarperir gan y person o dan reoliad 7(1)(a) neu (b).Talu cosb Rhan 2
+17.—(1) Rhaid i unrhyw swm sy’n dod i law’r SP ar ffurf cosb Rhan 2 gael ei dalu i Gronfa Gyfunol Cymru.
+(2) Caiff yr SP adennill unrhyw gosb Rhan 2 sydd heb ei thalu fel dyled sifil sy’n ddyledus i’r SP.
+(3) Ni chaniateir i hawliad i adennill cosb Rhan 2 gael ei wneud—
+(a)
+tan ddiwedd y cyfnod ar gyfer gwneud apêl o dan reoliad 18, neu
+(b)
+os gwneir apêl o dan reoliad 18, hyd nes y penderfynir ar yr apêl.
+(4) Caiff yr SP ddileu cosb Rhan 2 yn llawn.
+(5) Os bydd yr SP yn dileu cosb Rhan 2, rhaid i’r SP ad-dalu unrhyw swm a dalwyd mewn cysylltiad â’r gosb honno.Apelio yn erbyn gosod cosb Rhan 2
+18.—(1) Mae’r rheoliad hwn yn gymwys os oes hysbysiad cosb wedi ei gyflwyno i berson o dan reoliad 16(4).
+(2) Caiff y person apelio i TPC yn erbyn gosod y gosb.
+(3) Rhaid i apêl gael ei gwneud drwy gyflwyno hysbysiad apêl i TPC—
+(a)
+drwy ddefnyddio porth electronig TPC, neu
+(b)
+mewn modd arall y cytunir arno gyda TPC.
+(4) Rhaid i’r person gyflwyno’r hysbysiad apêl i TPC fel ei fod yn dod i law o fewn 28 o ddiwrnodau i’r dyddiad y cyflwynwyd yr hysbysiad cosb i’r person.
+(5) Rhaid i hysbysiad apêl nodi—
+(a)
+mai apêl yn erbyn gosod y gosb yw hi;
+(b)
+y dyddiad y cyflwynwyd yr hysbysiad cosb i’r person.
+(6) Rhaid i hysbysiad apêl gael copi o’r hysbysiad cosb i gyd-fynd ag ef.
+(7) Os yw’r person yn cyflwyno’r hysbysiad apêl i TPC yn hwyrach na’r amser ar gyfer gwneud yr apêl a bennir yn y rheoliad hwn, rhaid i’r hysbysiad apêl gynnwys cais am estyniad amser sy’n nodi’r rheswm pam na chyflwynwyd yr hysbysiad apêl mewn pryd.
+(8) Er gwaethaf paragraff (4), caiff y Llywydd awdurdodi ystyried apêl pan fo’r Llywydd wedi ei fodloni bod methiant y person sydd wedi ei dramgwyddo i gychwyn yr apêl fel y darperir ar ei gyfer gan y rheoliad hwn wedi codi o ganlyniad i amgylchiadau y tu hwnt i reolaeth y person hwnnw.Yr effaith ar yr amserlen ar gyfer penderfynu ar gynnig
+19.—(1) Mae’r rheoliad hwn yn gymwys i’r penderfyniad ar gynnig os gosodir cosb Rhan 2 cyn y penderfynir ar y cynnig.
+(2) Ni chaiff yr SP benderfynu ar y cynnig tan ddiwedd y cyfnod ar gyfer gwneud apêl o dan reoliad 18.
+(3) Os gwneir apêl o dan reoliad 18 yn erbyn gosod y gosb, ni chaiff yr SP benderfynu ar y cynnig nes bod TPC wedi penderfynu ar yr apêl.Cynigion y mae’r SP yn cytuno arnynt
+20.  Pan fo’r SP yn penderfynu bod sail gadarn i gynnig, rhaid i’r SP cyn gynted ag y bo’n rhesymol ymarferol ar ôl gwneud y penderfyniad hwnnw—
+(a)
+newid y rhestr yn unol â hynny, a
+(b)
+cyflwyno hysbysiad o’r penderfyniad—
+(i)
+i’r cynigydd, a
+(ii)
+os nad y cynigydd yw’r trethdalwr, i’r trethdalwr.Tynnu cynigion yn ôl
+21.—(1) Caiff y cynigydd dynnu’r cynnig yn ôl drwy hysbysiad a anfonir at yr SP.
+(2) Ond—
+(a)
+pan oedd y cynigydd yn drethdalwr mewn cysylltiad â’r hereditament ar ddyddiad y cynnig ond nad yw bellach, neu
+(b)
+pan wnaed y cynnig gan berson a grybwyllir yn rheoliad 4(2)(b),
+ni chaniateir tynnu’r cynnig yn ôl oni bai bod y person sy’n drethdalwr ar hyn o bryd yn cytuno mewn ysgrifen.
+(3) Pan—
+(a)
+o fewn dau fis ar ôl y diwrnod y caiff yr SP gynnig—
+(i)
+bo SP, neu
+(ii)
+bo person (“P”) a oedd yn PB ar y dyddiad y cafodd yr SP y cadarnhad ar gyfer y gwiriad y mae’r cynnig yn ymwneud ag ef,
+yn hysbysu’r SP mewn ysgrifen fod y PB neu P yn dymuno bod yn barti i’r achos mewn cysylltiad â’r cynnig hwnnw, a
+(b)
+ar ôl i’r hysbysiad y cyfeirir ato yn is-baragraff (a) ddod i law, y tynnir yr hysbysiad yn ôl,
+rhaid i’r SP roi hysbysiad ei fod wedi ei dynnu’n ôl i’r PB neu i P.
+(4) Pan fo’r PB neu P yn hysbysu’r SP mewn ysgrifen, o fewn 42 o ddiwrnodau ar ôl y diwrnod y mae’r PB neu P yn cael hysbysiad yr SP o dan baragraff (3), fod y PB neu P wedi ei dramgwyddo drwy dynnu’r cynnig yn ôl—
+(a)
+rhaid i’r hysbysiad, pe bai’r PB ar ddyddiad y cynnig wedi bod yn gymwys i wneud y cynnig hwnnw, gael ei drin ar gyfer y darpariaethau a ganlyn yn y Rheoliadau hyn fel pe bai wedi bod yn gynnig yn yr un telerau a wnaed ar y diwrnod y cafodd yr SP yr hysbysiad, a
+(b)
+rhaid i unrhyw newid sy’n deillio o hynny gael effaith o’r diwrnod a fyddai wedi bod yn gymwys pe na bai’r cynnig wedi ei dynnu’n ôl o dan y rheoliad hwn.
+(5) Wrth ystyried o dan baragraff (4)(a) a fyddai PB neu P wedi bod yn gymwys ar ddyddiad cynnig i wneud y cynnig hwnnw, diystyrir y gofynion yn rheoliadau 5(1) a 6(2).Newidiadau y cytunir arnynt yn dilyn cynigion
+22.—(1) Pan fo’r holl bersonau a grybwyllir ym mharagraff (2) yn cytuno, ar ôl i gynnig gael ei wneud, ar newid yn y rhestr sy’n cydymffurfio â gofynion y Rhan hon ond sy’n wahanol i’r rhai a gynhwysir yn y cynnig, a bod y cytundeb hwnnw wedi ei ddynodi mewn ysgrifen—
+(a)
+yn ddarostyngedig i baragraff (5), rhaid i’r SP, heb fod yn hwyrach na 14 o ddiwrnodau ar ôl y diwrnod y gwnaed y cytundeb, newid y rhestr er mwyn rhoi effaith i’r cytundeb, a
+(b)
+rhaid trin y cynnig fel pe bai wedi ei dynnu’n ôl.
+(2) Y personau y cyfeirir atynt ym mharagraff (1) yw—
+(a)
+yr SP;
+(b)
+y cynigydd;
+(c)
+yn ddarostyngedig i baragraff (3), meddiannydd (ar ddyddiad y cynnig) unrhyw hereditament y mae’r cynnig yn ymwneud ag ef;
+(d)
+y trethdalwr (ar ddyddiad y cytundeb) mewn perthynas ag unrhyw hereditament y mae’n ymwneud ag ef;
+(e)
+yn ddarostyngedig i baragraff (3), unrhyw PB—
+(i)
+a fyddai, ar ddyddiad y cynnig, wedi bod yn gymwys i wneud y cynnig o dan sylw, a
+(ii)
+sydd, heb fod yn hwyrach na dau fis ar ôl y diwrnod y cafodd yr SP y cynnig, yn hysbysu’r SP mewn ysgrifen fod y PB yn dymuno bod yn barti i’r achos mewn cysylltiad â’r cynnig;
+(f)
+unrhyw berson (“P”)—
+(i)
+a oedd yn PB ar y dyddiad y cafodd yr SP y cadarnhad ar gyfer y gwiriad y mae’r cynnig yn ymwneud ag ef ac a fyddai, ar y dyddiad hwnnw, wedi bod yn gymwys i wneud y cynnig, a
+(ii)
+sydd, heb fod yn hwyrach na dau fis ar ôl y diwrnod y cafodd yr SP y cynnig, yn hysbysu’r SP mewn ysgrifen fod P yn dymuno bod yn barti i’r achos mewn cysylltiad â’r cynnig.
+(3) Nid yw’r personau y cyfeirir atynt ym mharagraff (1) yn cynnwys—
+(a)
+meddiannydd yr hereditament ar ddyddiad y cynnig nad yw’n meddiannu unrhyw ran ohono mwyach ar y dyddiad y mae’r holl bersonau eraill a grybwyllir ym mharagraff (2) wedi cytuno fel y crybwyllir ym mharagraff (1), ar yr amod bod yr SP wedi cymryd pob cam rhesymol i ganfod lle mae’r cyn-feddiannydd hwnnw, ac nad yw hynny wedi ei ganfod, neu
+(b)
+unrhyw berson y cyfeirir ato ym mharagraff (2)(e) neu (f) na ellir cysylltu ag ef yn y cyfeiriad a roddwyd i’r SP.
+(4) Wrth ystyried o dan baragraff (2)(e)(i) neu (f)(i) a fyddai person wedi bod yn gymwys ar ddyddiad cynnig i wneud y cynnig hwnnw, diystyrir y gofynion yn rheoliadau 5(1) a 6(2).
+(5) Pan—
+(a)
+byddai’r cyfnod o 14 o ddiwrnodau a grybwyllir ym mharagraff (1)(a) yn dod i ben cyn y cyfnod o ddau fis a grybwyllir ym mharagraff (2)(e)(ii), a
+(b)
+nad yw’r SP wedi cael cais o dan baragraff (2)(e)(ii) o fewn y cyfnod hwnnw o ddau fis,
+rhaid i’r SP wneud y newid sy’n ofynnol gan baragraff (1)(a) cyn gynted ag y bo’n ymarferol ar ôl i’r cyfnod hwnnw ddod i ben.Anghytuno ynghylch newid arfaethedig
+23.—(1) Mae’r rheoliad hwn yn gymwys os yw’r SP yn penderfynu nad oes sail gadarn i gynnig, ac—
+(a)
+nad yw’r cynnig wedi ei dynnu’n ôl o dan reoliad 21, a
+(b)
+na chafwyd cytundeb o dan reoliad 22.
+(2) Rhaid i’r SP, cyn gynted ag y bo’n rhesymol ymarferol ar ôl gwneud penderfyniad mewn perthynas â chynnig o dan baragraff (1), gyflwyno hysbysiad o’r penderfyniad (“hysbysiad penderfynu”) i’r canlynol—
+(a)
+y cynigydd;
+(b)
+os nad y cynigydd yw’r trethdalwr, y trethdalwr;
+(c)
+unrhyw berson a grybwyllir yn rheoliad 22(2)(e) neu (f);
+(d)
+yr awdurdod perthnasol os yw’r awdurdod wedi cyflwyno hysbysiad i’r SP ei fod yn dymuno cael copi o hysbysiad penderfynu mewn perthynas â’r canlynol—
+(i)
+y cynnig,
+(ii)
+unrhyw gynnig sy’n ymwneud â’r hereditament y mae’r cynnig yn ymwneud ag ef, neu
+(iii)
+dosbarth penodedig o gynnig neu ddosbarth penodedig o hereditament, a bod y cynnig neu’r hereditament y mae’r cynnig yn ymwneud ag ef yn dod o fewn y dosbarth hwnnw.
+(3) Rhaid i hysbysiad penderfynu a gyflwynir i berson a grybwyllir ym mharagraff (2)(a) i (c) gynnwys—
+(a)
+datganiad bod yr SP o’r farn nad oes sail gadarn i’r cynnig, bod yr SP yn anghytuno â’r newid arfaethedig i’r rhestr a bod yr SP wedi penderfynu—
+(i)
+peidio â newid y rhestr yn unol â’r cynnig, neu
+(ii)
+newid y rhestr heblaw yn unol â’r cynnig;
+(b)
+y rhesymau dros y penderfyniad hwnnw, gan gynnwys datganiad o’r dystiolaeth a’r wybodaeth a ddefnyddiwyd i wneud y penderfyniad;
+(c)
+datganiad mewn perthynas â phob un o seiliau’r cynnig yn nodi pam nad yw’r sail, ym marn yr SP, wedi ei chyflawni, gan gynnwys crynodeb o unrhyw fanylion seiliau’r cynnig nad oedd yr SP yn cytuno â hwy;
+(d)
+manylion am hawl y cynigydd i apelio yn erbyn y penderfyniad.
+(4) Ond rhaid i hysbysiad penderfynu a gyflwynir i berson a grybwyllir ym mharagraff (2)(c) nad yw’n PB pan gyflwynir yr hysbysiad gynnwys—
+(a)
+datganiad bod yr SP o’r farn nad oes sail gadarn i’r cynnig, bod yr SP yn anghytuno â’r newid arfaethedig i’r rhestr a bod yr SP wedi penderfynu—
+(i)
+peidio â newid y rhestr yn unol â’r cynnig, neu
+(ii)
+newid y rhestr heblaw yn unol â’r cynnig;
+(b)
+y rhesymau dros y penderfyniad hwnnw.
+(5) Rhaid i hysbysiad penderfynu a gyflwynir i awdurdod perthnasol o dan baragraff (2)(d) gynnwys—
+(a)
+datganiad bod yr SP o’r farn nad oes sail gadarn i’r cynnig, bod yr SP yn anghytuno â’r newid arfaethedig i’r rhestr a bod yr SP wedi penderfynu—
+(i)
+peidio â newid y rhestr yn unol â’r cynnig, neu
+(ii)
+newid y rhestr heblaw yn unol â’r cynnig;
+(b)
+pan fo’r SP o’r farn ei bod yn rhesymol gwneud hynny—
+(i)
+y rhesymau dros y penderfyniad hwnnw, gan gynnwys datganiad o’r dystiolaeth a’r wybodaeth a ddefnyddiwyd i wneud y penderfyniad, a
+(ii)
+datganiad mewn perthynas â phob un o seiliau’r cynnig yn nodi pam nad yw’r sail, ym marn yr SP, wedi ei chyflawni, gan gynnwys crynodeb o unrhyw fanylion seiliau’r cynnig nad oedd yr SP yn cytuno â hwy.
+(6) Os bydd yr SP yn penderfynu newid y rhestr heblaw yn unol â’r cynnig, rhaid i’r SP wneud hynny cyn gynted ag y bo’n rhesymol ymarferol ar ôl gwneud y penderfyniad.Gwneud apêl i TPC
+24.—(1) Caiff cynigydd apelio i TPC ar y naill neu’r llall o’r seiliau neu ar y ddwy sail a nodir ym mharagraff (2)—
+(a)
+os yw’r SP wedi penderfynu o dan reoliad 23 i beidio â newid y rhestr;
+(b)
+os yw’r SP wedi penderfynu o dan reoliad 23 i newid y rhestr heblaw yn unol â’r cynnig;
+(c)
+os nad yw’r SP wedi gwneud penderfyniad o dan reoliad 20 neu 23 ac—
+(i)
+nad yw’r cynnig wedi ei dynnu’n ôl o dan reoliad 21;
+(ii)
+nad oes cytundeb o dan reoliad 22;
+(iii)
+bod y cyfnod o 18 mis sy’n dechrau â’r dyddiad y gwnaed y cynnig (neu unrhyw gyfnod hirach y cytunwyd arno mewn ysgrifen gan yr SP a’r cynigydd) wedi dod i ben;
+(iv)
+nad yw’r cynnig wedi ei wrthod o dan reoliad 14.
+(2) Y seiliau yw—
+(a)
+nad yw’r prisiad ar gyfer yr hereditament yn rhesymol;
+(b)
+bod y rhestr yn anghywir mewn perthynas â’r hereditament (heblaw mewn perthynas â’r prisiad).
+(3) Yn y rheoliad hwn, ystyr “prisiad” yw’r gwerth ardrethol fel y’i pennir o dan Atodlen 6 i’r Ddeddf.
+(4) Mae paragraff (5) yn gymwys os gosodir cosb Rhan 2 cyn penderfynu ar gynnig.
+(5) Wrth gyfrifo’r cyfnod o 18 mis y cyfeirir ato ym mharagraff (1)(c)(iii)—
+(a)
+oni bai bod is-baragraff (b) yn gymwys, rhaid i’r cyfnod sy’n dechrau ar y diwrnod y gosodir y gosb Rhan 2 ac sy’n dod i ben drannoeth y diwrnod y daw’r cyfnod ar gyfer gwneud apêl o dan reoliad 18 i ben gael ei anwybyddu;
+(b)
+os gwneir apêl o dan reoliad 18 yn erbyn gosod y gosb Rhan 2, rhaid i’r cyfnod sy’n dechrau ar y diwrnod y gosodir y gosb Rhan 2 ac sy’n dod i ben drannoeth y diwrnod y penderfynir ar yr apêl o dan reoliad 18 gael ei anwybyddu.Yr amser ar gyfer gwneud apêl i TPC
+25.—(1) Ni chaiff cynigydd ond gwneud apêl yn dilyn penderfyniad gan yr SP o dan reoliad 23 o fewn y cyfnod o 4 mis sy’n dechrau â dyddiad yr hysbysiad penderfynu o dan y rheoliad hwnnw.
+(2) Ni chaiff cynigydd ond gwneud apêl o dan yr amgylchiadau a nodir yn rheoliad 24(1)(c) o fewn y cyfnod o 4 mis sy’n dechrau â’r dyddiad—
+(a)
+y mae’r cyfnod o 18 mis a grybwyllir yn rheoliad 24(1)(c)(iii) wedi mynd heibio, neu
+(b)
+y mae unrhyw gyfnod hirach y cytunwyd arno o dan y rheoliad hwnnw wedi mynd heibio.
+(3) Er gwaethaf paragraffau (1) a (2), caiff y Llywydd awdurdodi ystyried apêl pan fo’r Llywydd wedi ei fodloni bod methiant y cynigydd i gychwyn yr apêl fel y darperir gan y rheoliad hwn wedi codi o ganlyniad i amgylchiadau y tu hwnt i reolaeth y person hwnnw.Hysbysiad apêl
+26.—(1) Rhaid i apêl gael ei gwneud drwy gyflwyno hysbysiad apêl i TPC—
+(a)
+drwy ddefnyddio porth electronig TPC, neu
+(b)
+mewn modd arall y cytunir arno gyda TPC.
+(2) Rhaid i hysbysiad apêl—
+(a)
+nodi seiliau’r apêl, a
+(b)
+nodi pa fanylion seiliau’r cynnig sydd heb gael eu cytuno gyda’r SP.
+(3) I gyd-fynd â hysbysiad apêl rhaid cael—
+(a)
+os oes penderfyniad wedi ei roi o dan reoliad 23, copi o’r penderfyniad hwnnw;
+(b)
+copi o’r cynnig gan gynnwys unrhyw dystiolaeth bellach a ddarparwyd gan y cynigydd o dan reoliad 15;
+(c)
+unrhyw dystiolaeth neu wybodaeth a ddarparwyd i’r cynigydd gan yr SP o dan reoliad 15.
+(4) Os yw cynigydd yn cyflwyno’r hysbysiad apêl i TPC yn hwyrach na’r amser ar gyfer gwneud yr apêl a bennir yn rheoliad 25, rhaid i’r hysbysiad apêl gynnwys cais am estyniad amser sy’n nodi’r rheswm pam na chyflwynwyd yr hysbysiad apêl mewn pryd.
+(5) Cyn gynted ag y bo’n rhesymol ymarferol ar ôl cael hysbysiad apêl, rhaid i TPC anfon copi o’r hysbysiad apêl—
+(a)
+at yr SP, a
+(b)
+at unrhyw bartïon i’r apêl.Yr amser y bydd y newid yn cael effaith: rhestrau 2023 a rhestrau dilynol
+27.—(1) Yn ddarostyngedig i reoliad 52, mae’r rheoliad hwn yn cael effaith mewn perthynas â newidiadau a wneir i restr a lunnir ar neu ar ôl 1 Ebrill 2023.
+(2) Yn ddarostyngedig i baragraffau (3) i (7), pan wneir newid i gywiro unrhyw anghywirdeb yn y rhestr ar neu ar ôl y diwrnod y’i lluniwyd, rhaid i’r newid gael effaith o’r diwrnod y digwyddodd yr amgylchiadau a arweiniodd at y newid gyntaf.
+(3) Pan wneir newid er mwyn rhoi effaith i hysbysiad cwblhau, mae’r newid yn cael effaith o’r diwrnod a bennir yn yr hysbysiad.
+(4) Ond pan fo diwrnod gwahanol, o dan Atodlen 4A i’r Ddeddf—
+(a)
+yn cael ei amnewid gan hysbysiad gwahanol o dan baragraff 1(3) o’r Atodlen honno,
+(b)
+yn cael ei gytuno o dan baragraff 3 o’r Atodlen honno, neu
+(c)
+yn cael ei bennu yn unol ag apêl o dan baragraff 4 o’r Atodlen honno,
+mae’r newid yn cael effaith o’r diwrnod sy’n cael ei amnewid, ei gytuno neu ei bennu felly.
+(5) Pan nad oes modd rhesymol canfod y diwrnod y cododd yr amgylchiadau perthnasol—
+(a)
+pan wneir y newid er mwyn rhoi effaith i gynnig, mae’r newid yn cael effaith o’r diwrnod y cyflwynwyd y cynnig i’r SP;
+(b)
+mewn unrhyw achos arall, mae’r newid yn cael effaith o’r diwrnod y’i gwneir.
+(6) Mae newid a wneir er mwyn cywiro anghywirdeb (ac eithrio un sydd wedi codi oherwydd gwall neu ddiffyg ar ran trethdalwr)—
+(a)
+yn y rhestr ar y diwrnod y’i lluniwyd, neu
+(b)
+a gododd wrth wneud newid blaenorol mewn cysylltiad â mater a grybwyllir yn unrhyw un neu ragor o baragraffau (2) i (5),
+sy’n cynyddu’r gwerth ardrethol a ddangosir yn y rhestr ar gyfer yr hereditament y mae’r anghywirdeb yn ymwneud ag ef, yn cael effaith o’r diwrnod y gwneir y newid.
+(7) Pan fo angen gwneud newid ar ôl pen-blwydd cyntaf y diwrnod y caiff y rhestr nesaf ei llunio, dim ond os caiff ei gwneud er mwyn rhoi effaith i gynnig y mae’n cael effaith ôl-weithredol.Hawliau hysbysebu
+28.—(1) Pan fo’r amgylchiadau sy’n arwain at y newid yn deillio o’r ffaith bod hereditament hysbysebu yn dod i fodolaeth, mae rheoliad 27 yn cael effaith fel pe bai’r amgylchiadau hynny wedi digwydd—
+(a)
+pan godwyd unrhyw strwythur neu unrhyw arwydd, ar ôl i’r hawl sy’n ffurfio’r hereditament hysbysebu gael ei gosod allan neu ei hoedi, er mwyn galluogi’r hawl i gael ei harfer, neu
+(b)
+pan ddangoswyd unrhyw hysbyseb drwy arfer yr hawl,
+pa un bynnag sydd gynharaf; a rhaid trin yr hereditament hwnnw at ddibenion Rhan 3 o’r Ddeddf fel pe bai’n dechrau cael ei feddiannu bryd hynny.
+(2) Rhaid trin codi, datgymalu neu newid unrhyw strwythur neu unrhyw arwydd er mwyn galluogi’r hawl i gael ei harfer, ar ôl yr amser a grybwyllir ym mharagraff (1), fel newid perthnasol mewn amgylchiadau at ddibenion cynnig a wneir ar y sail a bennir yn rheoliad 4(1)(b) (gwerth ardrethol sy’n anghywir oherwydd newid perthnasol mewn amgylchiadau sy’n digwydd ar neu ar ôl y diwrnod y lluniwyd y rhestr).
+(3) Yn y rheoliad hwn—
+ystyr “hereditament hysbysebu” (“advertising hereditament”) yw hereditament sy’n cynnwys hawl y mae adran 64(2) o’r Ddeddf yn gymwys iddi;
+mae “strwythur” (“structure”) yn cynnwys hysbysfwrdd, ffrâm, post neu wal.Y dyddiad cael effaith sydd i’w ddangos yn y rhestr
+29.  Pan wneir newid, rhaid i’r rhestr ddangos o ba ddiwrnod y mae’r newid i fod yn gymwys.Hysbysu am newid
+30.—(1) O fewn 28 o ddiwrnodau i newid rhestr, rhaid i SP hysbysu’r awdurdod perthnasol o effaith y newid; a rhaid i’r awdurdod perthnasol, cyn gynted ag y bo’n rhesymol ymarferol, newid y copi o’r rhestr a adneuwyd yn ei brif swyddfa o dan adran 41(6B)(1) o’r Ddeddf.
+(2) Heb fod yn hwyrach na’r diwrnod y cyflwynir yr hysbysiad o dan baragraff (1) rhaid i’r SP hysbysu’r trethdalwr ac unrhyw gynigydd, fel y’i diffinnir ym mharagraff (5), am y canlynol—
+(a)
+effaith y newid, a
+(b)
+effaith cymhwyso’r Rhan hon, a Rhan 5, mewn perthynas â’r newid.
+(3) Ond nid yw paragraff (2) yn gymwys mewn perthynas â newidiadau a wneir i gywiro gwall clerigol yn unig, neu i adlewyrchu—
+(a)
+newid yng nghyfeiriad yr hereditament o dan sylw;
+(b)
+newid yn ardal yr awdurdod perthnasol.
+(4) Nid yw paragraff (2)(b) yn gymwys ychwaith mewn perthynas â newid a wneir i adlewyrchu—
+(a)
+penderfyniad gan yr SP bod sail gadarn i gynnig;
+(b)
+penderfyniad, mewn perthynas â’r hereditament sy’n destun y cynnig, gan TPC, yr Uwch Dribiwnlys neu lys;
+(c)
+cytundeb o dan reoliad 22.
+(5) Y cynigydd a grybwyllir ym mharagraff (2) yw unrhyw gynigydd yr atgyfeiriwyd apêl mewn perthynas â’r hereditament ar ei ran i TPC o dan reoliad 24(1) ac y mae ei apêl naill ai—
+(a)
+heb gael ei phenderfynu gan TPC, neu
+(b)
+wedi ei phenderfynu felly a naill ai—
+(i)
+bod apêl wedi ei gwneud i’r Uwch Dribiwnlys a heb gael ei phenderfynu, neu
+(ii)
+nad yw’r amser ar gyfer gwneud apêl i’r Uwch Dribiwnlys wedi dod i ben eto.
+(1)
+Mewnosodwyd adran 41(6B) gan adran 139 o Ddeddf Llywodraeth Leol a Thai 1989 (p. 42) a pharagraff 19 o Atodlen 5 iddi.Hereditamentau perthnasol
+31.—(1) Mae’r rheoliadau a grybwyllir ym mharagraff (2) yn gymwys, fel y’u haddaswyd gan baragraffau (3) a (4), i hereditament (y cyfeirir ato yn y rheoliad hwn fel “hereditament perthnasol”) y mae’n ofynnol gan reoliadau o dan adran 53 o’r Ddeddf iddo gael ei ddangos mewn rhestr ganolog a lunnir ar neu ar ôl 1 Ebrill 2023, fel pe bai—
+(a)
+unrhyw gyfeiriad at restr leol yn gyfeiriad at y rhestr ganolog;
+(b)
+unrhyw gyfeiriad at borth electronig yr SP yn gyfeiriad at y cyfleuster ar-lein a ddarperir gan y SPC i’w ddefnyddio mewn cysylltiad â chynigion ar gyfer newid rhestr ganolog a lunnir ar neu ar ôl 1 Ebrill 2023;
+(c)
+unrhyw gyfeiriad at SP yn gyfeiriad at y SPC;
+(d)
+unrhyw gyfeiriad at newid rhestr yn gyfeiriad at ei newid mewn perthynas â disgrifiad o hereditamentau.
+(2) Y rheoliadau yw—
+(a)
+rheoliad 4, ac eithrio paragraffau (1)(k) ac (l) a (3),
+(b)
+rheoliadau 5 i 14,
+(c)
+rheoliad 15, ac eithrio paragraffau (4) a (5),
+(d)
+rheoliadau 16 i 22,
+(e)
+rheoliad 23, ac eithrio paragraffau (2)(d) a (4),
+(f)
+rheoliadau 24 i 26,
+(g)
+rheoliad 27, ac eithrio paragraffau (3) a (4) ac, i’r graddau y maent yn ymwneud â pharagraffau (3) a (4), paragraffau (2) a (7),
+(h)
+rheoliad 29, ac
+(i)
+rheoliad 30, ac eithrio paragraff (3)(b).
+(3) Mae rheoliad 4(1)(o) yn gymwys fel pe bai’r cyfeiriad at adran 42 o’r Ddeddf yn gyfeiriad at adran 53 o’r Ddeddf.
+(4) Mae rheoliad 30(1) yn gymwys fel pe bai’r cyfeiriad at yr awdurdod perthnasol a’i brif swyddfa yn gyfeiriad at Weinidogion Cymru.
+(5) Yr un pryd ag y mae’r SPC yn cyflwyno copi o gynnig i’r trethdalwr o dan reoliad 15(1) mewn perthynas â hereditament perthnasol, rhaid i’r SPC gyflwyno copi i Weinidogion Cymru.Apelau yn erbyn hysbysiadau cwblhau neu yn erbyn gosod cosbau Atodlen 9
+32.—(1) Rhaid i berson sy’n dymuno apelio yn erbyn hysbysiad cwblhau neu yn erbyn gosod cosb gyflwyno hysbysiad apêl i TPC fel ei fod yn dod i law o fewn 28 o ddiwrnodau ar ôl y dyddiad y cafodd yr apelydd yr hysbysiad cwblhau neu’r hysbysiad bod y gosb wedi ei gosod.
+(2) I gyd-fynd â’r hysbysiad apêl, rhaid cael—
+(a)
+copi o’r hysbysiad cwblhau neu’r hysbysiad cosb,
+(b)
+datganiad o’r seiliau dros wneud yr apêl, ac
+(c)
+pan fo’r apêl yn apêl erbyn gosod cosb, y dyddiad y cafodd y person hysbysiad bod y gosb wedi ei gosod.
+(3) Os yw’r apelydd yn cyflwyno’r hysbysiad apêl i TPC yn hwyrach na’r amser ar gyfer gwneud yr apêl a bennir ym mharagraff (1), rhaid i’r hysbysiad apêl gynnwys cais am estyniad amser sy’n nodi’r rheswm pam na chyflwynwyd yr hysbysiad apêl mewn pryd.
+(4) Er gwaethaf paragraff (1), caiff y Llywydd awdurdodi ystyried apêl pan fo’r Llywydd wedi ei fodloni bod methiant yr apelydd i gychwyn yr apêl fel y darperir ar ei gyfer gan y rheoliad hwn wedi codi o ganlyniad i amgylchiadau y tu hwnt i reolaeth y person hwnnw.
+(5) Rhaid i’r clerc, o fewn 14 o ddiwrnodau i gyflwyno’r hysbysiad apêl, hysbysu’r apelydd bod y clerc wedi ei gael, a chyflwyno copi ohono i’r awdurdod perthnasol neu’r SP y mae ei hysbysiad yn destun yr apêl.Dehongli
+33.  Yn y Rhan hon—
+ystyr “gwrandawiad” (“hearing”) yw gwrandawiad llafar ac mae’n cynnwys gwrandawiad a gynhelir yn gyfan gwbl neu’n rhannol drwy gyswllt fideo, dros y ffôn neu drwy ddull arall o gyfathrebu electronig dwyffordd disymwth;
+ystyr “rhestr” (“list”) yw rhestr leol neu’r rhestr ganolog a lunnir ar neu ar ôl 1 Ebrill 2023;
+“y swyddog priodol” (“the proper officer”) yw’r swyddog a benodir gan yr awdurdod perthnasol o dan adran 270(3) o Ddeddf Llywodraeth Leol 1972(1).
+(1)
+1972 p. 70 y ceir diwygiadau iddi nad ydynt yn berthnasol i’r Rheoliadau hyn.Awdurdodaeth: eithriadau
+34.—(1) Pan fo’r apelydd—
+(a)
+yn gyn-aelod o dribiwnlys prisio a oedd yn bodoli cyn 1 Gorffennaf 2010,
+(b)
+yn gyn-gyflogai tribiwnlys prisio a oedd yn bodoli cyn 1 Gorffennaf 2010, Gwasanaeth Prisio Cymru a sefydlwyd gan Reoliadau Tribiwnlysoedd Prisio (Cymru) 2005(1) neu TPC, neu
+(c)
+yn gyflogai TPC neu’n aelod ohono,
+rhaid i’r apêl gael ei thrin gan yr aelodau hynny o’r tribiwnlys a benodir at y diben hwnnw gan Lywydd Tribiwnlys Prisio Cymru.
+(2) Pan fo’n ymddangos i Lywydd Tribiwnlys Prisio Cymru, oherwydd gwrthdaro buddiannau, neu’r argraff bod yna wrthdaro, y byddai’n amhriodol i aelodau penodol o’r tribiwnlys ymdrin ag apêl, rhaid i’r Llywydd benodi tribiwnlys arall i ymdrin â’r apêl honno.
+(1)
+O.S. 2005/3364 (Cy. 261), a ddiddymwyd gan O.S. 2010/713 (Cy. 69).Trefniadau ar gyfer apelau
+35.—(1) Rhaid i Lywydd Tribiwnlys Prisio Cymru sicrhau bod trefniadau’n cael eu gwneud i apelau—
+(a)
+o dan reoliad 18,
+(b)
+o dan reoliad 24,
+(c)
+o dan baragraff 4 o Atodlen 4A i’r Ddeddf fel y mae’n gymwys at ddibenion Rhan 3 o’r Ddeddf (a elwir yn y Rheoliadau hyn yn “apêl yn erbyn hysbysiad cwblhau”), neu
+(d)
+o dan baragraff 5C o Atodlen 9 i’r Ddeddf (cosbau),
+gael eu penderfynu o dan y darpariaethau a ganlyn yn y Rheoliadau hyn.
+(2) Pan fo dwy neu ragor o apelau sy’n ymwneud â’r un hereditament neu hereditamentau yn cael eu hatgyfeirio o dan reoliad 24, rhaid i’r drefn yr ymdrinnir â’r apelau fod y drefn y byddai’r newidiadau o dan sylw wedi bod yn gymwys ynddi, oni bai am yr anghytundebau sy’n achosi’r apelau.
+(3) Pan fo apêl o dan reoliad 24 ac apêl o dan reoliad 13 o Reoliadau’r Dreth Gyngor (Newid Rhestri ac Apelau) 1993(1) yn ymwneud â’r un eiddo—
+(a)
+rhaid i Lywydd Tribiwnlys Prisio Cymru sicrhau yr ymdrinnir â’r apelau hynny yn y drefn y mae’n ymddangos i’r Llywydd a fydd yn sicrhau buddiannau cyfiawnder orau,
+(b)
+rhaid i’r swyddog rhestru gael ei gysylltu yn barti i’r apêl o dan reoliad 24 o’r Rheoliadau hyn, a
+(c)
+rhaid i’r SP gael ei gysylltu yn barti i’r apêl o dan reoliad 13 o Reoliadau’r Dreth Gyngor (Newid Rhestri ac Apelau) 1993.
+(4) Rhaid i’r clerc, cyn gynted ag y bo’n rhesymol ymarferol, roi hysbysiad ysgrifenedig i unrhyw berson a wneir yn barti i apêl o dan baragraff (3).
+(1)
+O.S. 1993/290, a ddiwygiwyd gan O.S. 2010/713 (Cy. 69).Tynnu’n ôl
+36.—(1) Caniateir i apêl gael ei thynnu’n ôl unrhyw bryd cyn dechrau gwrandawiad i ystyried gwaredu’r achos neu, pan fo TPC yn gwaredu’r achos heb wrandawiad, cyn y gwarediad hwnnw, pan roddir hysbysiad i’r perwyl hwnnw i TPC mewn ysgrifen gan yr apelydd.
+(2) Rhaid i’r clerc hysbysu’r apelydd pan fydd y clerc wedi cael yr hysbysiad tynnu’n ôl o dan baragraff (1) a chyflwyno copi i’r holl bartïon eraill i’r apêl o’r hysbysiad bod yr hysbysiad tynnu’n ôl wedi dod i law.
+(3) Pan fo’r SP, ar ôl i apêl gael ei gwneud i TPC o dan reoliad 24, yn newid y rhestr yn unol â’r cynnig y mae’r apêl yn ymwneud ag ef, rhaid i’r SP hysbysu TPC o’r ffaith honno a rhaid trin yr apêl fel pe bai wedi ei thynnu’n ôl ar y dyddiad y cyflwynir yr hysbysiad i TPC.
+(4) Pan fo’r SP, yn dilyn cychwyn apêl yn erbyn gosod cosb, yn penderfynu dileu’r gosb, rhaid i’r SP hysbysu’r clerc yn unol â hynny, a rhaid barnu bod yr apêl wedi ei thynnu’n ôl.
+(5) Pan fo apêl wedi cael ei thynnu’n ôl gan yr apelydd, caiff unrhyw barti arall i’r apêl wneud cais i TPC i’r apêl gael ei hadfer.
+(6) Rhaid i unrhyw gais am adfer apêl o dan baragraff (5) gael ei wneud mewn ysgrifen a rhaid iddo ddod i law TPC o fewn 28 o ddiwrnodau ar ôl y dyddiad y mae TPC yn hysbysu pob parti o dan baragraff (2) fod yr apêl wedi ei thynnu’n ôl.Gwaredu drwy sylwadau ysgrifenedig
+37.—(1) Caniateir i apêl o dan y Rheoliadau hyn gael ei gwaredu ar sail sylwadau ysgrifenedig os yw’r holl bartïon wedi rhoi eu cytundeb mewn ysgrifen.
+(2) Pan fo’r holl bartïon wedi rhoi eu cytundeb fel y crybwyllir ym mharagraff (1), rhaid i’r clerc gyflwyno hysbysiad i’r partïon ac o fewn 28 o ddiwrnodau i gyflwyno’r hysbysiad hwnnw iddynt, caiff pob parti gyflwyno hysbysiad i’r clerc yn datgan—
+(a)
+rhesymau neu resymau pellach y parti hwnnw dros yr anghytundeb sy’n achosi’r apêl, neu
+(b)
+nad yw’r parti hwnnw yn bwriadu cyflwyno sylwadau pellach.
+(3) Rhaid i gopi o hysbysiad a gyflwynir o dan baragraff (2) gael ei gyflwyno gan y clerc i’r parti arall neu’r partïon eraill i’r apêl a rhaid cael datganiad o effaith paragraffau (4) a (5) i gyd-fynd ag ef.
+(4) Caiff unrhyw barti y cyflwynir hysbysiad iddo o dan baragraff (3) gyflwyno hysbysiad pellach i’r clerc o fewn 28 o ddiwrnodau i gyflwyno’r hysbysiad hwnnw yn datgan ei ateb i ddatganiad y parti arall, neu nad yw’n bwriadu cyflwyno sylwadau pellach, yn ôl y digwydd, a rhaid i’r clerc gyflwyno copi o unrhyw hysbysiad pellach sy’n dod i law i’r parti arall neu’r partïon eraill.
+(5) Ar ôl diwedd 28 o ddiwrnodau sy’n dechrau â diwedd y cyfnod o 28 o ddiwrnodau a grybwyllir ym mharagraff (4) rhaid i’r clerc gyflwyno copïau—
+(a)
+o unrhyw wybodaeth a drosglwyddir i’r clerc o dan y Rheoliadau hyn, a
+(b)
+o unrhyw hysbysiad o dan baragraff (2) neu (4),
+i dribiwnlys prisio a gyfansoddir fel y darperir yn rheoliad 43.
+(6) Caiff y tribiwnlys prisio yr atgyfeirir apêl iddo fel y darperir ym mharagraff (5) os yw’n gweld yn dda—
+(a)
+ei gwneud yn ofynnol i unrhyw barti ddarparu manylion pellach mewn ysgrifen am y seiliau y dibynnir arnynt ac unrhyw ffeithiau neu ddadleuon perthnasol;
+(b)
+gorchymyn bod yr apêl yn cael ei gwaredu ar sail gwrandawiad.
+(7) Pan fo unrhyw barti wedi darparu unrhyw fanylion mewn ymateb i gais gan dribiwnlys prisio o dan baragraff (6)(a), rhaid i’r clerc gyflwyno copi o’r manylion i bob parti arall, a chaiff pob un o’r partïon eraill hynny, o fewn 28 o ddiwrnodau i gyflwyno’r copïau hynny, gyflwyno i’r clerc unrhyw ddatganiad pellach y maent yn dymuno ei wneud mewn ymateb.Gwaredu heb wrandawiad—pan fo’r partïon wedi dod i gytundeb
+38.—(1) Caiff y tribiwnlys prisio waredu apêl o dan y Rheoliadau hyn heb wrandawiad—
+(a)
+os bydd parti yn hysbysu’r tribiwnlys prisio mewn ysgrifen—
+(i)
+bod pob parti wedi dod i gytundeb,
+(ii)
+beth yw’r cytundeb hwnnw a’r penderfyniad y gofynnir i’r tribiwnlys prisio ei wneud, a
+(iii)
+bod pob parti yn cytuno i’r apêl gael ei gwaredu heb wrandawiad a,
+(b)
+os yw’r clerc yn anfon hysbysiad at bob parti i’r achos yn datgan—
+(i)
+bod y tribiwnlys prisio yn bwriadu gwaredu’r apêl heb wrandawiad,
+(ii)
+y penderfyniad y mae’r tribiwnlys prisio yn bwriadu ei wneud, a
+(iii)
+y caiff unrhyw barti wrthwynebu i’r apêl gael ei gwaredu heb wrandawiad.
+(2) Os anfonir hysbysiad o dan baragraff (1)(b), caiff parti ofyn i’r clerc i’r apêl gael ei gwaredu â gwrandawiad.
+(3) Rhaid i gais o dan baragraff (2) gael ei wneud mewn ysgrifen a dod i law’r clerc o fewn 28 o ddiwrnodau i’r dyddiad yr anfonodd y clerc hysbysiad o dan baragraff (1)(b).
+(4) Ni chaiff y tribiwnlys prisio waredu apêl heb wrandawiad—
+(a)
+os yw’r apêl, ym marn y clerc, yn codi materion o bwys i’r cyhoedd sy’n ei gwneud yn ofynnol i wrandawiad gael ei gynnal,
+(b)
+os nad oes cyfnod o 28 o ddiwrnodau wedi mynd heibio ers anfon yr hysbysiad o dan baragraff (1)(b), neu
+(c)
+os oes parti i’r apêl wedi gofyn am wrandawiad.
+(5) Caniateir i swyddogaethau’r tribiwnlys prisio o dan y rheoliad hwn gael eu cyflawni ar ei ran gan y clerc.Adolygiad cyn gwrandawiad
+39.  Gyda golwg ar egluro’r materion y dylid ymdrin â hwy mewn gwrandawiad, o ran cadeirydd y tribiwnlys prisio perthnasol—
+(a)
+caiff, ar gais parti neu ar gynnig gan y cadeirydd ei hun, heb fod yn llai nag 28 o ddiwrnodau ar ôl rhoi hysbysiad i’r partïon, orchymyn bod adolygiad cyn y gwrandawiad yn cael ei gynnal, a
+(b)
+rhaid iddo ymdrechu yn yr adolygiad cyn y gwrandawiad i sicrhau bod pob parti yn gwneud addefiadau a chytundebau rhesymol mewn perthynas â’r achos.Hysbysiad gwrandawiad
+40.—(1) Pan fo apêl i’w gwaredu ar sail gwrandawiad, rhaid i’r clerc roi dim llai nag 28 o ddiwrnodau o hysbysiad i’r partïon o’r dyddiad, yr amser a’r man a bennir ar gyfer y gwrandawiad.
+(2) Rhaid i’r clerc ddangos hysbysiad yn amlwg, yn hysbysebu’r dyddiad, yr amser a’r man a benodwyd ar gyfer unrhyw wrandawiad—
+(a)
+yn swyddfa’r tribiwnlys prisio,
+(b)
+ar wefan y tribiwnlys prisio,
+(c)
+y tu allan i un o swyddfeydd yr awdurdod perthnasol a benodwyd gan yr awdurdod hwnnw, neu
+(d)
+mewn man arall o fewn ardal yr awdurdod hwnnw.
+(3) Rhaid i’r hysbysiad sy’n ofynnol gan baragraff (2) enwi man a’r wefan lle y gellir archwilio rhestr o’r apelau sydd i’w gwrando.
+(4) Pan fo gwrandawiad apêl wedi ei ohirio, rhaid i’r clerc gymryd y camau hynny sy’n ymarferol yn yr amser sydd ar gael—
+(a)
+i hysbysu’r partïon i’r apêl am y gohiriad, a
+(b)
+i hysbysebu’r gohiriad.Anghymhwyso rhag cymryd rhan
+41.  Rhaid i berson gael ei anghymhwyso rhag cymryd rhan fel aelod o dribiwnlys prisio yng ngwrandawiad neu benderfyniad apêl neu rhag gweithredu fel clerc neu swyddog i dribiwnlys prisio mewn perthynas ag apêl yn erbyn hysbysiad cwblhau os yw’n aelod o’r awdurdod perthnasol o dan sylw.Cynrychioli yn y gwrandawiad
+42.  Caiff unrhyw barti i apêl sydd i’w phenderfynu mewn gwrandawiad ymddangos yn bersonol (gyda chymorth unrhyw berson y maent yn ei ddymuno) neu drwy unrhyw gynrychiolydd (heblaw person sy’n aelod o TPC, neu’n glerc neu’n gyflogai arall iddo).Cynnal y gwrandawiad
+43.—(1) Yn ddarostyngedig i baragraff (2), rhaid i swyddogaethau TPC o wrando apêl neu benderfynu apêl gael eu cyflawni gan dri aelod o TPC, y mae rhaid iddynt gynnwys o leiaf un cadeirydd; a rhaid i gadeirydd lywyddu.
+(2) Pan fo pob parti i apêl sy’n ymddangos yn cytuno, caniateir i’r apêl gael ei phenderfynu gan ddau aelod o dribiwnlys prisio, a hynny er gwaethaf absenoldeb cadeirydd.
+(3) Rhaid i’r gwrandawiad gael ei gynnal yn gyhoeddus, oni bai bod y tribiwnlys prisio yn gorchymyn fel arall ar gais un o’r partïon, ac ar ôl cael ei fodloni yr effeithid yn niweidiol ar fuddiannau’r parti hwnnw.
+(4) Os bydd pob parti arall yn methu ag ymddangos mewn gwrandawiad apêl y mae SP neu swyddog rhestru yn barti iddi, caiff y tribiwnlys prisio wrthod yr apêl.
+(5) Os na fydd yr apelydd yn ymddangos mewn gwrandawiad apêl yn erbyn hysbysiad cwblhau, caiff y tribiwnlys prisio wrthod yr apêl.
+(6) Os na fydd unrhyw barti yn ymddangos mewn gwrandawiad apêl, caiff y tribiwnlys prisio wrando’r apêl a phenderfynu arni yn absenoldeb y parti.
+(7) Oni bai bod y tribiwnlys prisio yn penderfynu fel arall—
+(a)
+mewn gwrandawiad apêl sy’n deillio o newid rhestr gan yr SP, rhaid i’r SP ddechrau’r gwrandawiad, a
+(b)
+mewn gwrandawiad apêl yn erbyn hysbysiad cwblhau, rhaid i’r awdurdod perthnasol ddechrau’r gwrandawiad,
+ac mewn unrhyw achos arall, caniateir i’r partïon yn y gwrandawiad gael eu gwrando yn y drefn a bennir gan y tribiwnlys.
+(8) Caiff partïon yn y gwrandawiad alw tystion gerbron y tribiwnlys prisio a holi unrhyw dystion.
+(9) Caniateir i wrandawiad gael ei ohirio tan amser ac i fan ac ar y telerau (os oes rhai) y gwêl y tribiwnlys prisio yn dda; a rhaid rhoi hysbysiad rhesymol o’r amser a’r man y gohiriwyd y gwrandawiad iddynt i bob parti.
+(10) Caiff tribiwnlys prisio fynd i mewn ac archwilio—
+(a)
+yr hereditament sy’n destun yr apêl, a
+(b)
+i’r graddau y bo’n ymarferol, unrhyw dir neu eiddo cymaradwy y tynnir sylw’r tribiwnlys ato.
+(11) Ond pan fo tribiwnlys prisio yn bwriadu mynd i unrhyw fangre yn unol â pharagraff (10), rhaid iddo roi hysbysiad i’r partïon sydd hefyd â hawl i gael eu cynrychioli yn ystod yr archwiliad; a phan fo’r tribiwnlys o’r farn ei bod yn briodol, rhaid cyfyngu’r gynrychiolaeth honno i un person i gynrychioli’r partïon hynny sydd â’r un buddiant yn yr apêl.
+(12) Yn ddarostyngedig i unrhyw ddarpariaeth yn y Rhan hon, rhaid i’r tribiwnlys prisio—
+(a)
+cynnal y gwrandawiad yn y modd y mae’n ei ystyried yn fwyaf addas er mwyn egluro’r materion sydd ger ei fron, ac yn gyffredinol er mwyn ymdrin â’r achos yn deg,
+(b)
+ceisio osgoi ffurfioldeb yn yr achos, fel sy’n ymddangos yn briodol iddo, ac
+(c)
+peidio â chael ei rwymo gan unrhyw ddeddfiad neu reol gyfreithiol sy’n ymwneud â derbynioldeb tystiolaeth gerbron llysoedd barn.Pwerau rheoli apêl
+44.—(1) Yn ddarostyngedig i unrhyw ddarpariaeth arall yn y Rheoliadau hyn, caiff TPC reoleiddio ei weithdrefn ei hun.
+(2) Caiff TPC roi cyfarwyddyd mewn perthynas â chynnal neu waredu achos unrhyw bryd, gan gynnwys cyfarwyddyd sy’n diwygio cyfarwyddyd cynharach, yn atal cyfarwyddyd cynharach neu’n gosod cyfarwyddyd cynharach o’r neilltu.
+(3) Yn benodol, a heb gyfyngu ar y pwerau cyffredinol ym mharagraffau (1) a (2), caiff TPC—
+(a)
+estyn neu fyrhau’r amser ar gyfer cydymffurfio ag unrhyw reoliad neu gyfarwyddyd o dan y Rheoliadau hyn;
+(b)
+cydgrynhoi neu wrando gyda’i gilydd ddwy neu ragor o setiau o achosion neu rannau o achosion sy’n codi materion cyffredin, neu drin apêl fel apêl arweiniol;
+(c)
+yn ddarostyngedig i baragraff (4), caniatáu neu ei gwneud yn ofynnol i barti ddiwygio dogfen;
+(d)
+yn ddarostyngedig i reoliadau 48 a 50, caniatáu neu ei gwneud yn ofynnol i barti neu berson arall ddarparu dogfennau, tystiolaeth, gwybodaeth neu gyflwyniadau i TPC neu i barti;
+(e)
+delio â mater mewn achos fel mater rhagarweiniol;
+(f)
+cynnal gwrandawiad i ystyried unrhyw fater gan gynnwys mater rheoli achos;
+(g)
+penderfynu ffurf unrhyw wrandawiad;
+(h)
+gohirio neu oedi gwrandawiad;
+(i)
+ei gwneud yn ofynnol i barti gynhyrchu bwndel ar gyfer gwrandawiad;
+(j)
+atal achos dros dro.
+(4) Dim ond os gwneir y diwygiad er mwyn cywiro anghywirdeb yn y ddogfen y caiff TPC ganiatáu i barti i apêl neu ei gwneud yn ofynnol i barti i apêl ddiwygio dogfen o dan baragraff (3)(c).Gweithdrefn ar gyfer gwneud cais am gyfarwyddydau a rhoi cyfarwyddydau
+45.—(1) Caiff TPC roi cyfarwyddyd ar gais un neu ragor o’r partïon neu ar ei ysgogiad ei hun.
+(2) Caniateir gwneud cais am gyfarwyddyd—
+(a)
+drwy anfon neu ddanfon cais ysgrifenedig i TPC, neu
+(b)
+ar lafar yn ystod gwrandawiad.
+(3) Rhaid i gais am gyfarwyddyd nodi’r rheswm dros wneud y cais hwnnw.
+(4) Oni bai bod TPC yn ystyried bod rheswm da dros beidio â gwneud hynny, rhaid i TPC anfon hysbysiad ysgrifenedig o unrhyw gyfarwyddyd at bob parti ac at unrhyw berson arall y mae’r cyfarwyddyd yn effeithio arno.
+(5) Os yw parti neu unrhyw berson arall sy’n cael hysbysiad cyfarwyddyd o dan baragraff (4) yn dymuno ei herio, caiff wneud hynny drwy wneud cais am gyfarwyddyd arall sy’n diwygio’r cyfarwyddyd cyntaf, yn atal y cyfarwyddyd cyntaf neu’n gosod y cyfarwyddyd cyntaf o’r neilltu.Methu â chydymffurfio â Rheoliadau, etc
+46.—(1) Nid yw afreoleidd-dra sy’n deillio o fethu â chydymffurfio ag unrhyw ofyniad yn y Rheoliadau hyn neu â chyfarwyddyd yn ei hun yn gwneud yr achos neu unrhyw gam a gymerir yn yr achos yn ddi-rym.
+(2) Os yw parti wedi methu â chydymffurfio â gofyniad yn y Rheoliadau hyn neu â chyfarwyddyd, caiff TPC gymryd unrhyw gamau y mae’n ystyried eu bod yn gyfiawn, a all gynnwys—
+(a)
+hepgor y gofyniad;
+(b)
+ei gwneud yn ofynnol i unioni’r methiant;
+(c)
+arfer y pŵer o dan reoliad 45.Dileu achos
+47.—(1) Caiff yr achos, neu’r rhan briodol ohono, ei ddileu’n awtomatig os yw’r apelydd wedi methu â chydymffurfio â chyfarwyddyd a oedd yn nodi y byddai methiant gan barti i gydymffurfio â’r cyfarwyddyd yn arwain at ddileu’r achos neu’r rhan honno ohono.
+(2) Rhaid i TPC ddileu’r achos cyfan neu ran ohono os nad oes awdurdodaeth gan TPC mewn perthynas â’r achos neu’r rhan honno ohono.
+(3) Caiff TPC ddileu’r achos cyfan neu ran ohono—
+(a)
+os yw’r apelydd wedi methu â chydymffurfio â chyfarwyddyd a oedd yn nodi y gallai methiant gan yr apelydd i gydymffurfio â’r cyfarwyddyd arwain at ddileu achos neu’r rhan honno ohono;
+(b)
+os yw’r apelydd wedi methu â chydweithredu â TPC i’r graddau na all TPC ddelio â’r achos mewn modd teg a chyfiawn;
+(c)
+os yw TPC yn ystyried nad yw’n rhesymol debygol y bydd apêl yr apelydd, neu ran o’r apêl, yn llwyddo.
+(4) Ni chaiff TPC ddileu’r achos cyfan na rhan ohono o dan baragraff (2) na (3)(b) na (c) heb roi cyfle yn gyntaf i’r apelydd gyflwyno sylwadau mewn perthynas â’r dileu arfaethedig.
+(5) Cyn gynted ag y bo’n rhesymol ymarferol ar ôl i’r achos gael ei ddileu, rhaid i TPC anfon at bob parti hysbysiad o’r penderfyniad hwnnw mewn ysgrifen ar y cyd â datganiad o’r rhesymau dros ddileu’r achos.
+(6) Os yw’r achos, neu unrhyw ran ohono, wedi cael ei ddileu o dan baragraff (1) neu (3)(a), caiff yr apelydd wneud cais i’r achos, neu ran ohono, gael ei adfer.
+(7) Rhaid i gais o dan baragraff (6) gael ei wneud mewn ysgrifen a rhaid iddo ddod i law TPC o fewn 28 o ddiwrnodau ar ôl y dyddiad yr anfonodd TPC hysbysiad am ddileu’r achos at yr apelydd.
+(8) Mae’r rheoliad hwn yn gymwys i barti i’r achos heblaw yr apelydd fel y mae’n gymwys i’r apelydd ac eithrio—
+(a)
+bod cyfeiriad at ddileu’r achos i’w ddarllen fel cyfeiriad at wahardd y parti arall hwnnw rhag cymryd rhan bellach yn yr achos;
+(b)
+bod cyfeiriad at gais am adfer achos sydd wedi ei ddileu i’w ddarllen fel cyfeiriad at gais am godi’r gwaharddiad ar y parti arall hwnnw rhag cymryd rhan bellach yn yr achos.
+(9) Os yw parti heblaw yr apelydd wedi cael ei wahardd rhag cymryd rhan bellach yn yr achos o dan y rheoliad hwn ac os nad yw’r gwaharddiad hwnnw wedi ei godi, nid oes angen i TPC ystyried unrhyw ymateb nac unrhyw gyflwyniad arall a wneir gan y parti hwnnw.Tystiolaeth a Chyflwyniadau
+48.—(1) Yn ddarostyngedig i baragraff (2), caiff TPC roi cyfarwyddydau o ran—
+(a)
+materion y mae’n ofynnol iddo gael tystiolaeth neu gyflwyniadau yn eu cylch;
+(b)
+natur y dystiolaeth neu’r cyflwyniadau y mae’n ofynnol iddo eu cael;
+(c)
+pa un a ganiateir i unrhyw bartïon ddarparu tystiolaeth arbenigol ai peidio neu a yw’n ofynnol iddynt wneud hynny;
+(d)
+unrhyw gyfyngiad ar nifer y tystion y caiff parti gyflwyno eu tystiolaeth, pa un ai mewn perthynas â mater penodol neu’n gyffredinol;
+(e)
+y modd y mae unrhyw dystiolaeth neu gyflwyniadau i’w darparu, a all gynnwys cyfarwyddyd iddynt gael eu rhoi—
+(i)
+ar lafar mewn gwrandawiad, neu
+(ii)
+drwy gyflwyniadau ysgrifenedig neu ddatganiad tyst;
+(f)
+yr amser pryd y mae unrhyw dystiolaeth neu gyflwyniadau i’w darparu.
+(2) Ni chaiff TPC ond cyfarwyddo parti i apêl i ddarparu tystiolaeth neu gyflwyniadau sy’n ymwneud â mater sy’n cael ei gynnwys yn—
+(a)
+yr hysbysiad apêl neu unrhyw ddogfen sy’n cyd-fynd â’r hysbysiad apêl;
+(b)
+tystiolaeth newydd neu dystiolaeth bellach a dderbynnir o dan reoliad 50.
+(3) Yn ddarostyngedig i reoliad 50, caiff TPC—
+(a)
+derbyn tystiolaeth pa un a fyddai’r dystiolaeth yn dderbyniadwy mewn treial sifil yng Nghymru ai peidio;
+(b)
+eithrio tystiolaeth a fyddai, fel arall, yn dderbyniadwy—
+(i)
+pan na ddarparwyd y dystiolaeth o fewn yr amser a ganiatawyd gan gyfarwyddyd;
+(ii)
+pan ddarparwyd y dystiolaeth mewn modd nad oedd yn cydymffurfio â chyfarwyddyd;
+(iii)
+pan fyddai’n annheg derbyn y dystiolaeth.
+(4) Mae paragraff (5) yn gymwys i wybodaeth a ddarperir yn unol â—
+(a)
+paragraff 5 o Atodlen 9 i Ddeddf 1988;
+(b)
+rheoliad 61 o’r Rheoliadau hyn.
+(5) Ni chaniateir i wybodaeth y mae’r paragraff hwn yn gymwys iddi gael ei defnyddio mewn unrhyw achos perthnasol gan SP oni bai—
+(a)
+bod dim llai na 21 o ddiwrnodau o hysbysiad, gan bennu mewn perthynas ag unrhyw wybodaeth sydd i’w defnyddio yn y modd hwnnw y dogfennau neu’r cyfryngau eraill y cedwir yr wybodaeth honno ynddynt neu arnynt a’r hereditament neu hereditamentau y mae’n ymwneud ag ef neu â hwy, wedi cael ei roi o’r blaen i bob parti arall i’r achos, a
+(b)
+bod unrhyw berson sydd wedi rhoi dim llai na 24 awr o hysbysiad o’i fwriad i wneud hynny wedi cael caniatâd, ar unrhyw adeg resymol—
+(i)
+i archwilio’r dogfennau neu’r cyfryngau eraill y cedwir yr wybodaeth honno ynddynt neu arnynt, a
+(ii)
+i wneud copi o unrhyw ddogfen, neu o unrhyw ddarn o unrhyw ddogfen, sy’n cynnwys yr wybodaeth honno;
+(c)
+mae’r wybodaeth yn ymwneud â mater sy’n cael ei gynnwys yn—
+(i)
+hysbysiad apêl unrhyw ddogfen sy’n cyd-fynd â’r hysbysiad apêl;
+(ii)
+tystiolaeth newydd neu dystiolaeth bellach a dderbynnir o dan reoliad 50.
+(6) Yn ddarostyngedig i baragraff (8), caiff unrhyw berson y rhoddwyd hysbysiad iddo sy’n ymwneud ag unrhyw hereditament o dan baragraff (5)(a) (“P”) cyn y gwrandawiad gyflwyno hysbysiad i’r SP yn pennu hereditamentau eraill fel hereditamentau sy’n gymaradwy o ran cymeriad neu sydd fel arall yn berthnasol i achos P, ac yn ei gwneud yn ofynnol i’r SP—
+(a)
+caniatáu i P ar unrhyw adeg resymol a bennir yn yr hysbysiad archwilio a gwneud copi o unrhyw ddogfen, neu o unrhyw ddarn o unrhyw ddogfen, sy’n cynnwys gwybodaeth y mae’r rheoliad hwn yn gymwys iddi sy’n ymwneud â’r hereditamentau eraill hynny ac sydd ym meddiant yr SP, a
+(b)
+dangos yn y gwrandawiad neu gyflwyno i’r tribiwnlys prisio y dogfennau hynny cyn y gwrandawiad y mae P wedi hysbysu’r SP bod ar P eu hangen.
+(7) Ni chaiff TPC ond gyflwyno fel tystiolaeth ddogfennau a lunnir neu a gyflwynir o dan baragraff (6)(b) sy’n ymwneud â mater sy’n cael ei gynnwys yn—
+(a)
+yr hysbysiad apêl neu unrhyw ddogfen sy’n cyd-fynd â’r hysbysiad apêl;
+(b)
+tystiolaeth newydd neu dystiolaeth bellach a dderbynnir o dan reoliad 50.
+(8) Ni chaniateir i nifer yr hereditamentau a bennir mewn hysbysiad o dan baragraff (6) fod yn fwy na phedwar neu, os yw’n fwy, y nifer a bennir yn yr hysbysiad o dan baragraff (5)(a).
+(9) Ni chaniateir dehongli dim ym mharagraff (6) mewn modd sy’n ei gwneud yn ofynnol i ddarparu unrhyw ddogfen i’w harchwilio neu i’w chopïo, neu i ddangos unrhyw ddogfen i’r graddau y mae’n cynnwys gwybodaeth heblaw gwybodaeth sy’n rhesymol ofynnol at ddibenion yr achos perthnasol.
+(10) Pan fo P wedi rhoi hysbysiad i’r SP o dan baragraff (6), a bod yr SP yn gwrthod cydymffurfio neu’n methu â chydymffurfio â’r hysbysiad, caiff P wneud cais i TPC neu, yn ôl y digwydd, i’r cymrodeddwr a benodwyd i benderfynu ar yr apêl; a chaiff TPC neu’r cymrodeddwr, os yw wedi ei fodloni ei bod yn rhesymol gwneud hynny, gyfarwyddo’r SP i gydymffurfio â’r hysbysiad mewn perthynas â’r holl hereditamentau neu hereditamentau a bennir yn yr hysbysiad neu’r rhai hynny ohonynt y caiff y TPC neu’r cymrodeddwr benderfynu arnynt.
+(11) Os na fydd unrhyw ddogfen y mae’n ofynnol trefnu ei bod ar gael i’w harchwilio yn unol â pharagraff (6) yn cael ei chadw ar ffurf dogfen, mae’r ddyletswydd i drefnu ei bod ar gael felly wedi ei chyflawni os trefnir bod allbrint, delwedd ffotograffig neu atgynhyrchiad arall o’r ddogfen a sicrhawyd o’r cyfrwng storio a fabwysiadwyd mewn perthynas â’r ddogfen ar gael i’w archwilio neu ei harchwilio.
+(12) Ym mharagraffau (5) a (9), ystyr “achos perthnasol” yw unrhyw achos ar apêl o dan y Rheoliadau hyn neu o ganlyniad iddi ac unrhyw achos ar atgyfeiriad at gymrodeddu o dan reoliad 57 neu o ganlyniad iddo.Tystiolaeth o restrau a dogfennau eraill
+49.  Caniateir i gynnwys rhestr gael ei brofi drwy ddangos copi ohono, neu o’r rhan berthnasol, sydd wedi ei ardystio’n gopi cywir gan yr SP; a chaniateir i gynnwys hysbysiad cwblhau gael ei brofi drwy ddangos copi ohono sydd wedi ei ardystio’n gopi cywir gan swyddog priodol yr awdurdod perthnasol.Derbyn tystiolaeth newydd
+50.—(1) Ni chaiff TPC dderbyn tystiolaeth na chafodd ei chynnwys yn yr hysbysiad apêl neu unrhyw ddogfen a oedd yn cyd-fynd â’r hysbysiad apêl (“tystiolaeth newydd”) ond—
+(a)
+os yw’r dystiolaeth honno—
+(i)
+wedi ei darparu gan un o’r partïon i’r apêl,
+(ii)
+yn ymwneud â’r sail y gwnaed y cynnig arni, a
+(iii)
+heb fod yn hysbys i’r parti ac nad oedd modd rhesymol iddi fod wedi ei sicrhau cyn i’r cynnig gael ei benderfynu o dan Ran 2 o’r Rheoliadau hyn, neu
+(b)
+os yw pob parti i’r apêl yn cytuno mewn ysgrifen i’r parti ddarparu’r dystiolaeth newydd.
+(2) Os bydd TPC yn derbyn tystiolaeth newydd o dan baragraff (1), caiff TPC dderbyn tystiolaeth bellach a ddarperir gan barti arall i’r apêl os yw’r dystiolaeth bellach yn ymwneud yn benodol â’r canlynol—
+(a)
+y dystiolaeth newydd, a
+(b)
+y seiliau y gwnaed y cynnig arnynt.
+(3) Rhaid i barti sy’n darparu tystiolaeth o dan baragraff (1) neu (2) ddarparu’r dystiolaeth honno i’r holl bartïon eraill i’r apêl hefyd.Penderfyniadau
+51.—(1) Caniateir i apêl gael ei phenderfynu gan fwyafrif o’r aelodau sy’n cymryd rhan; a phan fo’r apêl (yn unol â rheoliad 43(2)) i gael ei gwaredu gan ddau aelod a bod y rheini yn methu â chytuno, rhaid iddi gael ei hanfon yn ôl gan y clerc er mwyn cael ei phenderfynu gan dribiwnlys prisio sy’n cynnwys tri aelod gwahanol.
+(2) Pan fo apêl yn cael ei gwaredu ar sail gwrandawiad, caniateir i’r penderfyniad gael ei ohirio neu ei roi ar lafar ar ddiwedd y gwrandawiad.
+(3) Cyn gynted ag y bo’n rhesymol ymarferol ar ôl i benderfyniad gael ei wneud, rhaid iddo—
+(a)
+yn achos penderfyniad a roddir ar lafar, gael ei gadarnhau, a
+(b)
+mewn unrhyw achos arall, gael ei gyfleu,
+drwy hysbysiad mewn ysgrifen i’r partïon; a rhaid i’r hysbysiad gynnwys datganiad o’r rhesymau dros y penderfyniad.
+(4) Ond nid oes dim ym mharagraff (3) sy’n ei gwneud yn ofynnol i hysbysiad gael ei roi i barti os byddai’n ailadrodd unrhyw gopi o gofnod a anfonwyd at y parti hwnnw o dan reoliad 55.
+(5) Yn achos apêl yn erbyn hysbysiad cwblhau, rhaid i’r clerc anfon hysbysiad o’r penderfyniad at SP yr awdurdod perthnasol.Gorchmynion
+52.—(1) Wrth benderfynu neu ar ôl penderfynu apêl o dan reoliad 24, caiff y tribiwnlys prisio, yn ddarostyngedig i baragraff (3), ei gwneud yn ofynnol i SP, o ganlyniad i’r penderfyniad, drwy orchymyn newid rhestr yn unol ag unrhyw ddarpariaeth a wneir gan neu o dan y Ddeddf.
+(2) Rhaid i’r SP gydymffurfio â gorchymyn o dan baragraff (1) o fewn y cyfnod o 14 o ddiwrnodau sy’n dechrau ar y diwrnod y gwneir y gorchymyn.
+(3) Pan fo’r penderfyniad yn benderfyniad y dylai gwerth ardrethol dadleuol fod yn swm sy’n fwy—
+(a)
+na’r swm a ddangosir yn y rhestr ar ddyddiad y cynnig, a
+(b)
+na’r swm y dadleuwyd drosto yn y cynnig,
+rhaid i’r gorchymyn ei gwneud yn ofynnol i’r rhestr gael ei newid yn effeithiol o’r diwrnod y rhoddir y penderfyniad.
+(4) Ond nid yw paragraff (3) yn gymwys pan fo’r gorchymyn yn ei gwneud yn ofynnol i’r rhestr gael ei newid er mwyn dangos—
+(a)
+bod eiddo a ardrethid fel hereditament sengl o’r blaen yn dod yn agored i gael ei ardrethu fesul rhan, neu
+(b)
+bod eiddo a ardrethid fesul rhan o’r blaen yn dod yn agored i gael ei ardrethu fel hereditament sengl, neu
+(c)
+bod unrhyw ran o hereditament yn dod yn rhan o hereditament gwahanol.
+(5) Pan fo’n ymddangos bod amgylchiadau sy’n arwain at newid a orchmynnir gan dribiwnlys prisio wedi dod i ben ar ddyddiad y penderfyniad, caiff y gorchymyn ei gwneud yn ofynnol i’r newid gael ei wneud mewn cysylltiad â chyfnod y mae’n ymddangos i’r tribiwnlys ei fod yn gymesur â hyd yr amgylchiadau hynny.
+(6) Caiff gorchymyn o dan y rheoliad hwn ei gwneud yn ofynnol i unrhyw fater sy’n atodol i’w bwnc gael sylw.Lleihau cosb neu ei dileu
+53.—(1) Ar ôl penderfynu apêl yn erbyn gosod cosb Atodlen 9, caiff TPC orchymyn i’r SP y mae ei hysbysiad yn destun yr apêl leihau’r gosb neu ei dileu.
+(2) Ar ôl penderfynu apêl o dan reoliad 18 yn erbyn gosod cosb Rhan 2, caiff TPC orchymyn i’r SP ddileu’r gosb.Adolygu penderfyniadau
+54.—(1) Mae gan dribiwnlys prisio a gyfansoddir fel y darperir ym mharagraff (4) y pŵer, ar gais ysgrifenedig gan barti, i adolygu neu osod o’r neilltu drwy dystysgrif o dan law’r aelod sy’n llywyddu—
+(a)
+unrhyw benderfyniad ar unrhyw un o’r seiliau a grybwyllir ym mharagraff (5), a
+(b)
+y penderfyniad ar apêl yn erbyn hysbysiad cwblhau ar y seiliau ychwanegol a grybwyllir ym mharagraff (6).
+(2) Nid yw paragraff (1) yn gymwys pan fo apêl yn erbyn y penderfyniad o dan sylw wedi ei phenderfynu gan yr Uwch Dribiwnlys.
+(3) Ond caniateir i gais o dan baragraff (1) gael ei wrthod os nad yw wedi ei wneud o fewn y cyfnod o 28 o ddiwrnodau sy’n dechrau ar y diwrnod pan roddir hysbysiad (boed yn unol â rheoliad 51(3) ynteu rheoliad 55(3)) o’r penderfyniad o dan sylw.
+(4) I’r graddau y bo’n rhesymol ymarferol, rhaid i’r tribiwnlys prisio a benodir i adolygu penderfyniad gynnwys yr un aelodau â’r tribiwnlys a wnaeth y penderfyniad.
+(5) Y seiliau y cyfeirir atynt ym mharagraff (1)(a) yw—
+(a)
+bod y penderfyniad wedi ei wneud ar gam o ganlyniad i wall clerigol;
+(b)
+nad ymddangosodd parti ac y gall ddangos achos rhesymol pam nad ymddangosodd;
+(c)
+yr effeithir ar y penderfyniad gan benderfyniad a wnaed gan yr Uchel Lys neu’r Uwch Dribiwnlys mewn cysylltiad â’r hereditament a oedd yn destun penderfyniad y tribiwnlys prisio;
+(d)
+bu rhyw fath o afreolaidd-dra gweithdrefnol yn yr achos.
+(6) Y seiliau a grybwyllir ym mharagraff (1)(b) yw bod tystiolaeth newydd, na ellid bod wedi canfod ei bodolaeth drwy ymchwilio’n rhesymol ddiwyd, neu na ellid bod wedi ei rhag-weld, wedi dod ar gael ers i’r achos y mae’r penderfyniad yn ymwneud ag ef ddod i ben.
+(7) Os bydd tribiwnlys prisio yn gosod penderfyniad o’r neilltu o dan y rheoliad hwn, rhaid iddo ddirymu unrhyw orchymyn a wnaed o ganlyniad i’r penderfyniad hwnnw a rhaid iddo orchymyn ailwrandawiad neu ailbenderfyniad gerbron naill ai’r un tribiwnlys neu dribiwnlys gwahanol.
+(8) Rhaid i’r clerc hysbysu’r partïon i’r apêl mewn ysgrifen cyn gynted ag y bo’n rhesymol ymarferol—
+(a)
+o benderfyniad na fydd y tribiwnlys prisio yn cynnal adolygiad o dan baragraff (1);
+(b)
+o benderfyniad y tribiwnlys prisio, ar ôl cynnal adolygiad o dan baragraff (1), na fydd yn gosod y penderfyniad o dan sylw o’r neilltu;
+(c)
+bod unrhyw dystysgrif wedi ei dyroddi o dan baragraff (1);
+(d)
+bod unrhyw orchymyn a wnaed o dan baragraff (7) wedi ei ddirymu.
+(9) Mewn perthynas â phenderfyniad y gwneir cais amdano o dan baragraff (1), pan fo apêl i’r Uwch Dribiwnlys yn parhau heb ei phenderfynu ar y diwrnod perthnasol, rhaid i’r clerc hysbysu’r Uwch Dribiwnlys cyn gynted ag y bo’n rhesymol ymarferol ar ôl i’r digwyddiad perthnasol ddigwydd.
+(10) Ym mharagraff (9)—
+ystyr “y digwyddiad perthnasol” (“the relevant event”), mewn perthynas â diwrnod perthnasol, yw’r digwyddiad sy’n digwydd ar y diwrnod hwnnw;
+ystyr “y diwrnod perthnasol” (“the relevant day”) yw’r diwrnod, yn ôl y digwydd—
+(a)
+y gwneir y cais o dan baragraff (1);
+(b)
+y mae digwyddiad y cyfeirir ato yn unrhyw un neu ragor o is-baragraffau (a) i (d) o baragraff (8) yn digwydd.Cofnodion o benderfyniadau, etc
+55.—(1) Rhaid i’r clerc wneud trefniadau i bob penderfyniad, pob gorchymyn a wneir o dan reoliadau 52 a 53 ac effaith pob tystysgrif a phob dirymiad o dan reoliad 54 gael eu cofnodi.
+(2) Caniateir i gofnodion gael eu cadw ar unrhyw ffurf, boed yn ddogfennol neu fel arall, a rhaid iddynt gynnwys y manylion a bennir yn yr Atodlen i’r Rheoliadau hyn.
+(3) Rhaid i gopi, ar ffurf dogfen, o’r eitem berthnasol yn y cofnod gael ei anfon, cyn gynted ag y bo’n rhesymol ymarferol ar ôl i’r eitem gael ei gwneud, (drwy’r post, ffacs neu gyfathrebiad electronig), at bob parti i’r apêl y mae’r eitem yn ymwneud â hi.
+(4) Rhaid i bob cofnod gael ei gadw am y cyfnod o chwe blynedd sy’n dechrau ar y diwrnod y cofnodwyd eitem ynddo ddiwethaf.
+(5) Caiff unrhyw berson, ar adeg resymol a nodir gan neu ar ran y tribiwnlys prisio o dan sylw a heb wneud taliad, archwilio cofnodion y mae’n ofynnol eu gwneud gan baragraff (1).
+(6) Os bydd person sydd â gofal o’r cofnodion, heb esgus rhesymol, yn rhwystro person yn fwriadol rhag arfer yr hawl a roddir gan baragraff (5), mae’r person hwnnw yn agored ar euogfarn ddiannod i ddirwy nad yw’n uwch na lefel 1 ar y raddfa safonol.
+(7) Caiff yr aelod a fu’n llywyddu yn y gwrandawiad neu’r penderfyniad ar apêl awdurdodi cywiro unrhyw wall clerigol yn y cofnod, a rhaid anfon copi o’r eitem a gywirwyd at y personau yr anfonwyd copi o’r eitem wreiddiol atynt.
+(8) Mae dangos, mewn unrhyw achos mewn unrhyw lys barn, ddogfen sydd wedi ei hardystio gan y clerc fel copi cywir o un o gofnodion y tribiwnlys prisio hwnnw, oni phrofir i’r gwrthwyneb, yn dystiolaeth ddigonol o’r ddogfen ac o’r ffeithiau a gofnodwyd ynddi.Apelau
+56.—(1) I’r Uwch Dribiwnlys yr atgyfeirir apêl mewn cysylltiad â phenderfyniad a roddir neu orchymyn a wneir gan dribiwnlys prisio—
+(a)
+ar apêl o dan reoliad 24;
+(b)
+ar apêl yn erbyn hysbysiad cwblhau;
+(c)
+ar apêl o dan baragraff 5C o Atodlen 9 i’r Ddeddf.
+(2) Nid i’r Uwch Dribiwnlys yr atgyfeirir apêl mewn perthynas â phenderfyniad a roddir neu orchymyn a wneir gan TPC ar apêl o dan reoliad 18.
+(3) Caniateir i apêl o dan baragraff (1) yn erbyn penderfyniad neu orchymyn gael ei gwneud gan unrhyw barti—
+(a)
+a ymddangosodd yn y gwrandawiad neu, os gwaredwyd yr apêl drwy sylwadau ysgrifenedig, a gyflwynodd sylwadau o’r fath, neu
+(b)
+y mae ei gais am adolygu’r penderfyniad ar y sail a nodir yn rheoliad 54(5)(b) wedi ei benderfynu gan y tribiwnlys prisio fel y crybwyllir yn rheoliad 54(8)(b).
+(4) Caniateir i apêl o dan baragraff (1) gael ei gwrthod os nad yw wedi ei gwneud o fewn 28 o ddiwrnodau i’r dyddiad y rhoddwyd hysbysiad o’r penderfyniad neu’r gorchymyn sy’n destun yr apêl.
+(5) Ond—
+(a)
+mewn perthynas â chais o dan baragraff (1) o reoliad 54 (adolygu penderfyniadau) a wneir o fewn 28 o ddiwrnodau i’r dyddiad y rhoddwyd hysbysiad o’r penderfyniad sy’n destun yr apêl, pan roddir hysbysiad fel y crybwyllir ym mharagraff (8)(a) o’r rheoliad hwnnw, neu
+(b)
+pan roddir hysbysiad fel y crybwyllir ym mharagraff (8)(b) o’r rheoliad hwnnw,
+caniateir i’r apêl gael ei gwrthod os nad yw wedi ei gwneud o fewn 28 o ddiwrnodau i gyflwyno’r hysbysiad o dan baragraff (8)(a) neu (b) o’r rheoliad hwnnw.
+(6) Caiff yr Uwch Dribiwnlys gadarnhau, amrywio, gosod o’r neilltu, dirymu neu anfon yn ôl benderfyniad neu orchymyn a wnaed gan y tribiwnlys prisio, a chaiff wneud unrhyw orchymyn y gallai’r tribiwnlys fod wedi ei wneud.
+(7) Rhaid i’r SP weithredu yn unol ag unrhyw orchymyn a wneir gan yr Uwch Dribiwnlys; ac mae paragraff 9 o Atodlen 11 i’r Ddeddf yn gymwys yn ddarostyngedig i’r gofyniad hwn.Cymrodeddu
+57.—(1) Ar unrhyw adeg cyn i wrandawiad ddechrau neu cyn i dribiwnlys prisio ddechrau ystyried sylwadau ysgrifenedig, pan gytunir mewn ysgrifen rhwng y personau a fyddai’n bartïon i’r apêl pe bai’r anghydfod yn destun apêl i’r tribiwnlys, rhaid i’r mater gael ei atgyfeirio ar gyfer cymrodeddu.
+(2) Mewn unrhyw gymrodeddu o dan y rheoliad hwn, caiff y dyfarniad gynnwys unrhyw orchymyn y gallai tribiwnlys prisio fod wedi ei wneud mewn perthynas â’r mater; ac mae paragraff 9 o Atodiad 11 i’r Ddeddf yn gymwys i orchymyn o’r fath fel y mae’n gymwys i orchymyn a gofnodir o dan y Rheoliadau hyn.Hysbysu am achosion pellach
+58.—(1) Pan fo SP—
+(a)
+yn gwneud cais i dribiwnlys prisio o dan reoliad 54 i adolygu penderfyniad y gwnaed gorchymyn o ganlyniad iddo sy’n ei gwneud yn ofynnol i’r rhestr gael ei newid, neu
+(b)
+yn apelio i’r Uwch Dribiwnlys o dan reoliad 56 yn erbyn penderfyniad y gwnaed gorchymyn o ganlyniad iddo, neu yn erbyn gorchymyn,
+rhaid i’r SP, yr un adeg neu cyn gynted ag y bo’n rhesymol ymarferol wedi hynny, hysbysu’r awdurdod o dan sylw am y cais neu’r apêl.
+(2) Ym mharagraff (1), yr awdurdod o dan sylw—
+(a)
+pan fo’r cais neu’r apêl yn ymwneud â newid rhestr leol, yw’r awdurdod perthnasol y lluniwyd y rhestr ar gyfer ei ardal;
+(b)
+mewn unrhyw achos arall, yw Gweinidogion Cymru.
+(3) Pan fo SP yn apelio i’r Uwch Dribiwnlys fel y crybwyllir ym mharagraff (1)(b) neu’n cael hysbysiad o apêl a gychwynnwyd gan barti arall, rhaid i’r SP, yr un adeg neu cyn gynted ag y bo’n rhesymol ymarferol wedi hynny, hysbysu clerc y tribiwnlys prisio perthnasol am yr apêl.
+(4) Pan fo awdurdod, mewn perthynas â phenderfyniad neu orchymyn a wnaed ar apêl yn erbyn hysbysiad cwblhau, yn apelio i’r Uwch Dribiwnlys o dan reoliad 56 neu’n cael hysbysiad o apêl a gychwynnwyd gan barti arall, rhaid iddo, yr un adeg, neu cyn gynted ag y bo’n rhesymol ymarferol wedyn, hysbysu clerc y tribiwnlys prisio perthnasol am yr apêl.Cyflwyno hysbysiadau
+59.—(1) Heb ragfarnu adran 233 o Ddeddf Llywodraeth Leol 1972 ac yn ddarostyngedig i baragraffau (2), (3) a (4), caniateir i unrhyw hysbysiad sydd i’w ddarparu, i’w anfon neu i’w gyflwyno gael ei gyflwyno—
+(a)
+drwy ei ddanfon—
+(i)
+i’r person (“X”) y mae i’w ddarparu, i’w anfon, i’w roi neu i’w gyflwyno iddo, neu
+(ii)
+i unrhyw berson arall a awdurdodwyd gan X i weithredu fel asiant X at y diben hwnnw;
+(b)
+drwy ei anfon at X neu at asiant X drwy gyfathrebiad electronig;
+(c)
+drwy ei adael yn un neu ragor o’r mannau a ganlyn, neu ei anfon yno drwy’r post—
+(i)
+man busnes arferol X neu ei fan busnes olaf sy’n hysbys, neu
+(ii)
+yn achos cwmni, ei swyddfa gofrestredig, neu
+(iii)
+man busnes arferol, neu’r olaf sy’n hysbys, neu swyddfa gofrestredig unrhyw berson arall a awdurdodwyd fel y crybwyllir yn is-baragraff (a)(ii);
+(d)
+drwy ei ddanfon i ryw berson yn y fangre y mae’r hysbysiad yn ymwneud â hi, neu, os nad oes neb y gellir ei ddanfon iddo felly yn y fangre, drwy ei osod ynghlwm wrth ryw ran amlwg o’r fangre;
+(e)
+heb ragfarnu darpariaethau blaenorol y rheoliad hwn, pan fo hereditament y mae’r hysbysiad yn ymwneud ag ef yn fan busnes i’r person y mae’r hysbysiad i’w ddarparu, i’w anfon, i’w roi neu i’w gyflwyno iddo, drwy adael yr hysbysiad yn y man busnes hwnnw, neu ei anfon yno drwy’r post, wedi ei gyfeirio at y person hwnnw.
+(2) Yr un adeg ag y mae copi o hysbysiad o dan unrhyw un neu ragor o’r darpariaethau a ganlyn yn cael ei ddarparu, ei anfon, ei roi neu ei gyflwyno i asiant person, rhaid darparu’r hysbysiad hefyd i X—
+(a)
+rheoliad 8(1);
+(b)
+rheoliad 10(1);
+(c)
+rheoliad 13;
+(d)
+rheoliad 14(2);
+(e)
+rheoliad 16;
+(f)
+rheoliad 20(b);
+(g)
+rheoliad 23(2).
+(3) Caniateir i unrhyw hysbysiad sydd i’w gyflwyno gan SP i berson a wnaeth gais o dan reoliad 6(2) neu gynnig drwy ddefnyddio porth electronig yr SP (fel y’i diffinnir yn rheoliad 3) gael ei gyflwyno drwy hysbysu’r person drwy gyfathrebiad electronig fod hysbysiad a gyfeiriwyd at y person wedi ei godi ar y porth electronig hwnnw.
+(4) Caniateir i unrhyw hysbysiad sydd i’w gyflwyno gan TPC i berson a wnaeth apêl drwy ddefnyddio porth electronig TPC gael ei gyflwyno drwy hysbysu’r person drwy gyfathrebiad electronig fod hysbysiad a gyfeiriwyd at y person wedi ei godi ar y porth electronig hwnnw.
+(5) Caniateir i unrhyw hysbysiad sydd i’w ddarparu, i’w anfon, i’w roi neu i’w gyflwyno i berchennog neu feddiannydd unrhyw fangre gael ei gyfeirio drwy gyfrwng y disgrifiad “perchennog” neu “meddiannydd” y fangre, heb enw neu ddisgrifiad pellach.
+(6) Ac eithrio pan fo’r Rheoliadau hyn yn ei gwneud yn ofynnol i hysbysiad gael ei ddarparu, ei anfon, ei roi neu ei gyflwyno drwy ddefnyddio porth electronig yr SP neu mewn modd arall y cytunir arno gyda’r SP, caniateir i unrhyw hysbysiad sydd i’w ddarparu, i’w anfon, i’w roi neu i’w gyflwyno i SP gael ei ddarparu, ei anfon, ei roi neu ei gyflwyno—
+(a)
+drwy gyfeirio’r hysbysiad at SP yr ardal o dan sylw, heb ddisgrifiad pellach, a
+(b)
+drwy ei ddanfon neu ei anfon i swyddfa’r SP drwy’r post neu drwy gyfathrebiad electronig.
+(7) Yn y rheoliad hwn—
+(a)
+mae unrhyw gyfeiriad at borth electronig yr SP yn cynnwys cyfeiriad at y cyfleuster ar-lein a ddarperir gan yr SP i’w ddefnyddio mewn cysylltiad â chynigion ar gyfer newid rhestr ganolog a lunnir ar neu ar ôl 1 Ebrill 2023;
+(b)
+mae unrhyw gyfeiriad at hysbysiad yn cynnwys cyfeiriad at gynnig ac unrhyw ddogfen arall y mae’n ofynnol ei chyflwyno neu yr awdurdodir ei chyflwyno;
+(c)
+mae unrhyw gyfeiriad at ofyniad neu awdurdodiad yn gyfeiriad at ofyniad neu awdurdodiad o dan y Rheoliadau hyn;
+(d)
+rhaid barnu bod unrhyw hysbysiad a anfonir yn y modd a ddisgrifir ym mharagraff (1)(b) wedi ei anfon pan ddaw i law ar ffurf ddarllenadwy.Cadw cofnodion
+60.—(1) Cyn newid eitem mewn rhestr leol neu yn y rhestr ganolog, rhaid i’r SP neu pan fo’n briodol, y SPC sicrhau bod cofnod (nad oes angen iddo fod ar ffurf dogfen) yn cael ei wneud o’r eitem.
+(2) Rhaid i gofnod a wneir o dan baragraff (1) gael ei gadw hyd nes y daw chwe blynedd sy’n dechrau ar y diwrnod y caiff y rhestr nesaf ei llunio i ben.Gwybodaeth sydd i’w darparu gan awdurdodau perthnasol
+61.—(1) Mae gwybodaeth o’r disgrifiad a nodir ym mharagraff (2) yn wybodaeth ragnodedig at ddibenion paragraff 6(1A) o Atodlen 9 i’r Ddeddf.
+(2) Mewn perthynas ag unrhyw eiddo a grybwyllir ym mharagraff (3), yr wybodaeth yw—
+(a)
+cyfeiriad yr eiddo;
+(b)
+natur y digwyddiad y mae’r awdurdod perthnasol o’r farn ei bod yn ofynnol newid y rhestr leol o’i herwydd;
+(c)
+y diwrnod y mae’r newid, ym marn yr awdurdod perthnasol, yn gymwys;
+(d)
+os dangosir yr eiddo mewn rhestr leol, unrhyw rif cyfeirnod a briodolir iddo yn y rhestr honno.
+(3) Yn achos awdurdod perthnasol, yr eiddo y cyfeirir ato ym mharagraff (2) yw unrhyw eiddo annomestig yn ardal yr awdurdod hwnnw—
+(a)
+sydd, ym marn yr awdurdod, yn eiddo sy’n agored i ardreth neu a allai ddod yn agored i ardreth, a
+(b)
+sy’n eiddo—
+(i)
+nad oes cofnod ar ei gyfer yn y rhestr leol, neu
+(ii)
+y mae’n ofynnol i unrhyw gofnod ar ei gyfer yn y rhestr honno gael ei newid ym marn yr awdurdod.
+(4) Rhaid i’r wybodaeth sy’n ofynnol gan y rheoliad hwn gael ei chyflenwi cyn gynted ag y bo’n rhesymol ymarferol ar ôl iddi ddod i sylw’r awdurdod perthnasol.Diwygiadau amrywiol
+62.—(1) Yn Rheoliadau Ardrethu Annomestig (Hereditamentau Cyfathrebu) (Prisio, Newid Rhestri ac Apelau a Diwrnod Perthnasol) (Cymru) 2008(1)—
+(a)
+yn rheoliad 2, yn y diffiniad o “Rheoliadau NRhA”, yn lle “Rheoliadau Ardrethu Annomestig (Newid Rhestri ac Apelau) (Cymru) 2005” rhodder “Rheoliadau Ardrethu Annomestig (Newid Rhestrau ac Apelau) (Cymru) 2023”;
+(b)
+hepgorer rheoliad 5.
+(2) Yn Rheoliadau Ardrethu Annomestig (Talu Llog) 1990(2) ar ôl rheoliad 6(1) mewnosoder—
+“(1A) This regulation applies in Wales where a valuation officer—
+(a)
+within 28 days of the making by the valuation tribunal of a decision in consequence of which an order requiring the alteration of a list is made, makes an application under regulation 54(1) of the Non-Domestic Rating (Alteration of Lists and Appeals) (Wales) Regulations 2023, or
+(b)
+appeals under regulation 51(1) of those Regulations against any such decision or order.”
+(3) O ran Cymru, yn rheoliad 3(7)(b)(i) o Reoliadau Ardrethu Annomestig (Y Diwrnod Perthnasol ar gyfer Newid Rhestri) 1992(3), yn lle “day on which the proposal was served on the valuation officer” rhodder “date on which the VO received a confirmation under regulation 7 of the Non-Domestic Rating (Alteration of Lists and Appeals) (Wales) Regulations 2023 (as stated in an acknowledgement served by the VO under regulation 8(1) of those Regulations)”.
+(1)
+O.S. 2008/2671 (Cy. 235).
+(2)
+O.S. 1990/1904.
+(3)
+O.S. 1992/556, y ceir diwygiadau iddo nad ydynt yn berthnasol i’r Rheoliadau hyn.Dirymu a darpariaeth drosiannol
+63.—(1) Mae’r Rheoliadau a ganlyn wedi eu dirymu—
+(a)
+Rheoliadau Ardrethu Annomestig (Newid Rhestri ac Apelau) (Cymru) 2005(1);
+(b)
+Rheoliadau Ardrethu Annomestig (Newid Rhestri ac Apelau) (Cymru) (Diwygio) 2006(2).
+(2) Er bod paragraff (1) yn dod i rym, rhaid i’r canlynol ddilyn y weithdrefn a nodir yn Rheoliadau Ardrethu Annomestig (Newid Rhestri ac Apelau) (Cymru) 2005 fel yr oeddent yn gymwys yn union cyn 1 Ebrill 2023—
+(a)
+unrhyw newid i restr ganolog neu leol a lunnir cyn 1 Ebrill 2023;
+(b)
+unrhyw ddarpariaeth a wneir gan reoliadau o dan adran 58 o’r Ddeddf (darpariaeth arbennig ar gyfer 1995 ymlaen) ynghylch y swm a godir mewn perthynas â hereditament am gyfnod perthnasol, fel y’i diffinnir yn yr adran honno, a ddaeth i ben cyn 1 Ebrill 2005.
+(3) Mewn perthynas ag unrhyw hysbysiad apêl yn unol â rheoliad 19 o Reoliadau Ardrethu Annomestig (Newid Rhestri ac Apelau) (Cymru) 2005, sy’n ymwneud â diwrnod cwblhau o 1 Ebrill 2023 neu’n ddiweddarach, ond a gyflwynir i’r clerc cyn y dyddiad y daw’r Rheoliadau hyn i rym, trinnir yr hysbysiad apêl fel pe bai wedi ei gyflwyno, ac mae unrhyw gam yn y weithdrefn a gymerir mewn cysylltiad â’r apêl i’w drin fel pe bai wedi ei gymryd, o dan y Rheoliadau hyn.
+(1)
+O.S. 2005/758 (Cy. 83), a ddiwygiwyd gan O.S. 2006/1035, O.S. 2010/713 ac O.S. 2017/914.
+(2)
+O.S. 2006/1035.Rebecca Evans
+Y Gweinidog Cyllid a Llywodraeth Leol, un o Weinidogion Cymru
+22 Mawrth 2023Rheoliad 55(2)
+YR ATODLEN
+Cynnwys Cofnodion
+Enw a chyfeiriad yr apelydd
+Y mater yr apelir yn ei erbyn
+Dyddiad y gwrandawiad neu’r penderfyniad
+Enwau’r partïon a ymddangosodd, os ymddangosodd partïon o gwbl
+Penderfyniad y tribiwnlys prisio a dyddiad y penderfyniad
+Y rhesymau dros y penderfyniad
+Unrhyw orchymyn a wnaed o ganlyniad i’r penderfyniad
+Dyddiad y gorchymyn hwnnw
+Unrhyw dystysgrif sy’n gosod y penderfyniad o’r neilltu
+Unrhyw ddirymiad o dan reoliad 54(7).NODYN ESBONIADOL
+(Nid yw’r nodyn hwn yn rhan o’r Rheoliadau)
+Mae’r Rheoliadau hyn, sy’n gymwys o ran Cymru, yn dirymu ac yn disodli Rheoliadau Ardrethu Annomestig (Newid Rhestri ac Apelau) (Cymru) 2005 (“Rheoliadau 2005”) a Rheoliadau Ardrethu Annomestig (Newid Rhestri ac Apelau) (Cymru) (Diwygio) 2006 (“Rheoliadau 2006”) a ddiwygiodd Reoliadau 2005, yn ddarostyngedig i ddarpariaeth drosiannol ar gyfer rhestrau ardrethu annomestig lleol a chanolog a lunnir cyn 1 Ebrill 2023.
+Mae’r Rheoliadau hyn yn ymwneud â newid rhestrau ardrethu annomestig lleol a chanolog sy’n cael eu llunio o dan Ddeddf Cyllid Llywodraeth Leol 1988 (“y Ddeddf”). Maent yn ymdrin â newid rhestrau ardrethu annomestig gan swyddogion prisio, cynigion ar gyfer newidiadau o’r fath oddi wrth bersonau eraill ac apelau i Dribiwnlys Prisio Cymru pan geir anghytundeb ynglŷn â chynnig rhwng y swyddog prisio a pherson arall.
+Mae i’r Rheoliadau hyn 6 Rhan.
+Mae Rhan 1 yn cynnwys diffiniadau o dermau a ddefnyddir yn y Rheoliadau.
+Mae Rhan 2 yn nodi darpariaethau sy’n gymwys i newid rhestrau lleol.
+Mae’r darpariaethau hynny yn pennu pwy gaiff wneud cynnig i newid rhestr leol, ac ar ba sail. Gwneir darpariaeth hefyd sy’n rhagnodi pa wybodaeth y mae rhaid ei chynnwys mewn cynnig, y broses ar gyfer gwirio gwybodaeth am hereditament a gynhwysir mewn cynnig cyn y caniateir cyflwyno’r cynnig hwnnw, a pha bryd a sut y caniateir cyflwyno cynnig i swyddog prisio. Mae cynigion sy’n ymwneud â newid perthnasol mewn amgylchiadau hefyd yn ddarostyngedig i ofynion ychwanegol sy’n cyfyngu ar nifer y cynigion y caniateir eu cyflwyno ac amseriad eu cyflwyno.
+Mae’n ofynnol i swyddogion prisio gydnabod eu bod wedi cael cynnig o fewn 28 o ddiwrnodau o’i gael. Er hynny, rhaid iddynt wrthod cynnig nad yw’n cynnwys yr holl wybodaeth sy’n ofynnol gan y Rheoliadau hyn, er bod darpariaeth yn cael ei gwneud sy’n galluogi cynigydd i gyflwyno cynnig pellach.
+Mae’r Rheoliadau yn nodi’r weithdrefn y mae rhaid i swyddog prisio ei dilyn ar ôl cael cynnig cyflawn ac yn pennu pa gamau y mae rhaid i swyddog prisio eu cymryd pan benderfynir bod sail gadarn i gynnig. Pan fo swyddog prisio yn penderfynu nad oes sail gadarn i gynnig, neu pan fo’n methu â gwneud penderfyniad, mae’r Rheoliadau yn nodi ar ba sail y caniateir i gynigydd gyflwyno apêl i Dribiwnlys Prisio Cymru. Mae darpariaethau hefyd yn rhagnodi’r amserlen ar gyfer cyflwyno apêl a’r weithdrefn sydd i’w dilyn.
+Gwneir darpariaeth hefyd sy’n galluogi cynigydd i anfon hysbysiad at swyddog prisio yn tynnu cynnig yn ôl, ond o dan amgylchiadau penodol gall fod yn ofynnol sicrhau cytundeb ysgrifenedig pobl eraill er mwyn i’r hysbysiad fod yn effeithiol.
+Mae’r Rheoliadau hefyd yn nodi o dan ba amgylchiadau y gellir dod i gytundeb â swyddog prisio i newid rhestr leol ar ôl i gynnig gael ei wneud, ac effaith y cytundeb hwnnw. Er hynny, pan fo swyddog prisio yn penderfynu nad oes sail gadarn i gynnig, ac nad yw wedi ei dynnu’n ôl, ac na fu’n bosibl cytuno ar newid i restr leol, yna rhaid i’r swyddog prisio gyflwyno hysbysiad penderfynu i’r personau a bennir gan y Rheoliadau hyn, sy’n cynnwys yr wybodaeth a ragnodir ganddynt, cyn gynted ag y bo’n rhesymol ymarferol ar ôl i’r penderfyniad gael ei wneud.
+Pan fo person yn darparu gwybodaeth i swyddog prisio mewn cynnig, neu mewn cysylltiad â chynnig, a’r wybodaeth honno yn anwir mewn manylyn perthnasol, a hynny yn fwriadol, yn ddi-hid, neu’n ddiofal, caiff y swyddog prisio osod cosb ariannol o £200 ar y person hwnnw. Mae’r Rheoliadau yn rhagnodi’r broses sydd i’w dilyn wrth osod y gosb honno, y gellir ei hadennill fel dyled sifil os na fydd yn cael ei thalu. Caiff person, drwy hysbysiad, apelio i Dribiwnlys Prisio Cymru ynghylch gosod cosb ariannol, yn y modd sy’n ofynnol gan y Rheoliadau, ac yn unol â’r amserlen a ragnodir ganddynt.
+Nid yw newidiadau a wneir i restr leol yn unol â’r Rheoliadau hyn yn gymwys ond i restr leol a lunnir ar neu ar ôl 1 Ebrill 2023 a rhaid i restr leol ddangos y diwrnod y mae’r newid i gymryd effaith. Gwneir darpariaeth benodol ynghylch sut y bydd hyn yn cael ei gymhwyso mewn cysylltiad â hawliau hysbysebu. At hynny, mae’n ofynnol i swyddog prisio ddarparu hysbysiad o’r newid a’i effaith i’r personau a bennir yn y Rheoliadau o fewn yr amserlen ragnodedig.
+Mae Rhan 3 yn gwneud darpariaeth ynghylch newidiadau i’r Rhestrau Canolog, gan gymhwyso Rhan 2, gydag addasiadau, i hereditamentau a ddangosir ar y rhestrau ardrethu annomestig canolog.
+Mae Rhan 4 yn nodi’r weithdrefn ar gyfer apelau yn erbyn hysbysiadau cwblhau a gosod hysbysiadau cosb.
+Mae Rhan 5 yn gwneud darpariaethau ar gyfer apelau yn gyffredinol ac yn nodi’r trefniadau ar gyfer apelau, gan gynnwys yr eithriadau i awdurdodaeth, tynnu apêl yn ôl a gweithdrefn ar gyfer gwaredu drwy sylwadau ysgrifenedig a phan fo’r partïon wedi dod i gytundeb.
+Mae’r Rheoliadau hyn hefyd yn darparu ar gyfer adolygiad cyn gwrandawiad. O ran gwrandawiadau, mae’r Rheoliadau hyn yn gwneud darpariaethau ar gyfer hysbysiadau, cynrychioli, anghymhwyso, ymddygiad, pwerau rheoli apêl a thystiolaeth.
+Caniateir i apêl gael ei phenderfynu drwy gyfrwng mwyafrif a chael ei hanfon yn ôl os yw’n methu â chael ei gwaredu gan ddau aelod o dribiwnlys prisio. Caniateir i’r penderfyniad gael ei ohirio neu ei roi ar lafar ar ddiwedd y gwrandawiad. Caniateir gwneud gorchmynion sy’n ei gwneud yn ofynnol, ymhlith pethau eraill, i swyddog prisio newid rhestr neu ddileu cosb.
+Caniateir i benderfyniadau gael eu hadolygu ar gais a wneir o fewn 28 o ddiwrnodau i’r penderfyniad ar y sail bod y penderfyniad wedi ei wneud ar gam, neu fod parti heb ymddangos a’i fod yn gallu dangos achos rhesymol pam nad ymddangosodd neu fod penderfyniad neu apêl oddi wrth yr Uchel Lys neu’r Uwch Dribiwnlys mewn perthynas â’r hereditament sy’n destun penderfyniad y tribiwnlys prisio yn effeithio ar yr apêl. Caniateir i gais gael ei wneud hefyd o dan amgylchiadau penodol pan fo tystiolaeth newydd wedi dod ar gael ers i’r achos ddod i ben. Mae’r Rheoliadau yn gosod dyletswydd ar glerc y tribiwnlys i wneud trefniadau i gofnodi pob penderfyniad, pob gorchymyn, pob tystysgrif a phob dirymiad a nodi sut y dylid cadw cofnodion ac am ba hyd, at bwy y dylid eu hanfon, a sut y dylid eu dangos yn y llys.
+Gwneir darpariaeth ar gyfer apêl yn erbyn penderfyniad i’r Uwch Dribiwnlys a gaiff gadarnhau’r penderfyniad, ei amrywio, ei osod o’r neilltu, ei ddirymu neu ei anfon yn ôl a gwneud unrhyw orchymyn y gallai’r tribiwnlys fod wedi ei wneud. Mewn rhai amgylchiadau, caniateir atgyfeirio’r anghydfod at gymrodeddwr a gaiff wneud dyfarniad sy’n cynnwys unrhyw orchymyn y gallai tribiwnlys prisio fod wedi ei wneud mewn perthynas â’r anghydfod.
+Mae Rhan 6 yn gwneud darpariaethau amrywiol a chanlyniadol sy’n cynnwys rhoi neu gyflwyno hysbysiadau, cadw cofnodion gan swyddogion prisio, ac yn rhagnodi gwybodaeth sydd i’w chyflenwi gan awdurdodau perthnasol at ddibenion paragraff 6(1A) o Atodlen 9 i’r Ddeddf.
+Mae diwygiadau canlyniadol yn amnewid y Rheoliadau hyn i raddau helaeth mewn diffiniadau sy’n pennu Rheoliadau 2005.
+Gwneir darpariaeth ar gyfer dirymu Rheoliadau 2005 a 2006 gyda darpariaeth drosiannol sy’n cymhwyso Rheoliadau 2005 i unrhyw newid i restr a lunnir cyn 1 Ebrill 2023 neu unrhyw ddarpariaeth a wnaed gan reoliadau o dan adran 58 o’r Ddeddf (sy’n gwneud darpariaeth arbennig ar gyfer 1995 ymlaen).
+Ystyriwyd Cod Ymarfer Gweinidogion Cymru ar gynnal Asesiadau Effaith Rheoleiddiol mewn perthynas â’r Rheoliadau hyn. O ganlyniad, lluniwyd asesiad effaith rheoleiddiol o’r costau a’r manteision sy’n debygol o ddeillio o gydymffurfio â’r Rheoliadau hyn. Gellir cael copi oddi wrth: Diwygio Cyllid Llywodraeth Leol, Llywodraeth Cymru, Parc Cathays, Caerdydd, CF10 3NQ.

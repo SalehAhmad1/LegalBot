@@ -1,0 +1,76 @@
+STATUTORY INSTRUMENTS
+2021 No. 471
+INFRASTRUCTURE PLANNING
+The East Anglia THREE Offshore Wind Farm (Amendment) Order 2021
+Made
+15th April 2021
+Coming into force
+16th April 2021
+An application has been made, under paragraph 2 of Schedule 6 to the Planning Act 2008(1) (“the 2008 Act”), to the Secretary of State in accordance with the Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) Regulations 2011(2) (“the 2011 Regulations”) for a non-material change to the East Anglia THREE Offshore Wind Farm Order 2017(3) (“the 2017 Order”).
+The Secretary of State, having considered the application, the responses to the publicity and consultation required by regulations 6 and 7 of the 2011 Regulations, has decided to make this Order amending the 2017 Order.
+Accordingly, the Secretary of State, in exercise of the powers in paragraph 2(1) and (9) of Schedule 6 to the 2008 Act, makes the following Order:
+(1)
+2008 c. 29. Paragraph 2 was amended by paragraph 4 of Schedule 8 to the Marine and Coastal Access Act 2009 (c. 23), by paragraphs 1 and 72 of Schedule 13 to the Localism Act 2011 (c. 20), and by section 28 of the Infrastructure Act 2015 (c. 7). There are other amendments to the Act that are not relevant to this Order.
+(2)
+S.I. 2011/2055, as amended by S.I. 2012/635 S.I. 2012/2654, S.I. 2012/2732, S.I. 2013/522, S.I. 2013/755, S.I. 2015/377, S.I. 2015/760, S.I. 2015/1682, S.I. 2017/314, S.I. 2017/524, S.I. 2018/378, S.I. 2019/734 and S.I. 2020/764.
+(3)
+S.I. 2017/826 as amended by S.I. 2018/843 and S.I. 2019/997.Citation and commencement
+1.  This Order may be cited as the East Anglia THREE Offshore Wind Farm (Amendment) Order 2021 and comes into force on 16th April 2021.Amendment to The East Anglia THREE Offshore Wind Farm Order 2017
+2.  The East Anglia THREE Offshore Wind Farm Order 2017 is amended in accordance with this Order.Amendments to article 2 (Interpretation)
+3.  Article 2(1) is amended as follows—
+(a)
+in the definition of “jacket foundation” omit the words “, and “discrete jacket foundation types” includes pre-piled or post-piled jackets, three-legged or four legged jackets, or straight or battered leg jackets”; and
+(b)
+omit the definition of “radar line of sight coverage plan”.Amendment to article 32 (Certification of plans etc.)
+4.  In article 32, omit paragraph 1(f).Amendments to Part 1 (Authorised development) of Schedule 1 (Authorised project)
+5.  Part 1 (Authorised development) of Schedule 1 (Authorised project), is amended as follows—
+(a)
+in paragraph 1(a), in the description of Work No. 1, for “172 wind turbine generators” substitute “121 wind turbine generators”; and
+(b)
+in paragraph 1(a), in the description of Work No. 2, for “up to six offshore electrical stations” substitute “up to one offshore electrical station”.Amendments to Part 3 (Requirements) of Schedule 1 (Authorised project)
+6.  Part 3 (Requirements) of Schedule 1 (Authorised project) is amended as follows—
+(a)
+in paragraph 2(1)(a), for “247 metres” substitute “262 metres”;
+(b)
+in paragraph 2(1)(c), for “220 metres” substitute “230 metres”;
+(c)
+in paragraph 2(1)(e), for “22 metres” substitute “24 metres”;
+(d)
+omit paragraph 2(2);
+(e)
+in paragraph 2(3), omit the words “and (2)”;
+(f)
+in paragraph 3(1), for “The total number of offshore electrical stations forming part of the authorised project must not exceed six” substitute “The total number of offshore electrical stations forming part of the authorised project must not exceed one”;
+(g)
+in paragraph 3(2), for “offshore electrical stations” substitute “offshore electrical station”;
+(h)
+in paragraph 3(8)(a), for “up to 172 wind turbine generators” substitute “up to 121 wind turbine generators”;
+(i)
+in paragraph 3(8)(e), for “up to 6 offshore electrical stations” substitute “up to one offshore electrical station”;
+(j)
+in paragraph 7(2)(a), after “a footprint at the seabed which is more than” omit “than”;
+(k)
+in paragraph 7(2)(b), for “more than one pile per leg or more than one suction caisson per leg” substitute “more than four piles per leg or more than one suction caisson per leg;”;
+(l)
+after paragraph 7(2)(b), insert—
+“(c)
+more than six legs.”
+(m)
+in paragraph 8(2)(a), after “a footprint at the seabed which is more than” omit “than”; and
+(n)
+omit paragraph 33 and substitute—
+“33.—(1)  No wind turbine generator forming part of the authorised development is permitted to rotate its rotor blades on its horizontal axis until the Secretary of State having consulted with the Ministry of Defence confirms satisfaction in writing that appropriate mitigation will be implemented and maintained for the life of the authorised development and that arrangements have been put in place with the Ministry of Defence to ensure that the approved mitigation is implemented.
+(2) For the purposes of this requirement—
+(a)
+“appropriate mitigation” means measures to prevent or remove any adverse effects which the authorised development will have on the air defence radar at Remote Radar Head (RRH) Trimingham and the Ministry of Defence’s air surveillance and control operations;
+(b)
+“approved mitigation” means the detailed Radar Mitigation Scheme (RMS) that will set out the appropriate measures and timescales for implementation as agreed with the Ministry of Defence at the time the Secretary of State confirms satisfaction in writing in accordance with sub-paragraph (1); and
+(c)
+“Ministry of Defence” means the Ministry of Defence as represented by Defence Infrastructure Organisation – Safeguarding, Kington Road, Sutton Coldfield, B75 7RL or any successor body.
+(3) The undertaker must thereafter comply with all other obligations contained within the approved mitigation for the life of the authorised development.”Signed by authority of the Secretary of State for Business, Energy and Industrial Strategy
+Gareth Leigh
+Head of Energy Infrastructure Planning
+Department for Business, Energy and Industrial Strategy
+15th April 2021EXPLANATORY NOTE
+(This note is not part of the Order)
+This Order amends the East Anglia THREE Offshore Wind Farm Order 2017, a development consent order under the Planning Act 2008, following an application made in accordance with the Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) Regulations 2011 for a non-material change under paragraph 2 of Schedule 6 to the Planning Act 2008. The Order makes changes to the permitted parameters of the wind turbine generators and offshore substations. The Order also updates the requirement in Part 3 of Schedule 1 in relation to the mitigation of the impact of the authorised development on Ministry of Defence air surveillance operations.

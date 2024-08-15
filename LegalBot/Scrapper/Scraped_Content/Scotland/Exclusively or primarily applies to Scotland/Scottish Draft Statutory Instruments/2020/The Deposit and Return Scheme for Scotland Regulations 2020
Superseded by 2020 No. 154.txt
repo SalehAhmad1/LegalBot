@@ -1,0 +1,929 @@
+Draft Regulations laid before the Scottish Parliament under section 96(4) of the Climate Change (Scotland) Act 2009 for approval by resolution of the Scottish Parliament.
+DRAFT SCOTTISH STATUTORY INSTRUMENTS
+2020 No.  
+ENVIRONMENTAL PROTECTION
+The Deposit and Return Scheme for Scotland Regulations 2020
+Made
+2020
+Coming into force
+for the purpose of regulation 1(2)
+2020
+for the purpose of regulation 1(3)
+1st January 2021
+for the purpose of regulation 1(4)
+1st January 2022
+for the purpose of regulation 1(5)
+1st July 2022
+The Scottish Ministers make the following Regulations in exercise of the powers conferred on them by sections 84, 89, 90 and 96(2) of the Climate Change (Scotland) Act 2009(1) and all other powers enabling them to do so.
+In accordance with section 84(6) of that Act, the Scottish Ministers consider that it is expedient to make these Regulations for the purpose of promoting and securing an increase in the recycling of materials.
+In accordance with section 97(2) to (5) of that Act, a copy of the proposed regulations and a statement setting out the reasons for proposing to make them were laid before the Scottish Parliament for a representation period of 91 days.
+In accordance with section 97(6) and (7) of that Act, the Scottish Ministers have had regard to any representations on the proposed regulations made to them, and to any report relating to the proposed regulations published by any committee of the Scottish Parliament for the time being appointed by virtue of standing orders, and have laid with these Regulations a statement setting out the details of such representations and reports and the changes made to the proposed regulations in response to such representations and reports, and the reasons for those changes.
+In accordance with section 96(4) of that Act, a draft of this instrument has been laid before, and approved by resolution of, the Scottish Parliament.
+(1)
+2009 asp 12.Citation and commencement
+1.—(1) These Regulations may be cited as the Deposit and Return Scheme for Scotland Regulations 2020.
+(2) Parts 1, 4 and 6 come into force on the day after the day on which these Regulations are made.
+(3) In Part 5, regulations 22 to 25 come into force on 1 January 2021.
+(4) Part 3 comes into force on 1 January 2022.
+(5) Parts 2 and 7, and the remaining provisions of Part 5 come into force on 1 July 2022.Interpretation
+2.—(1) In these Regulations—
+“authorised person” means a person authorised by SEPA under regulation 30(3),
+“consumer” means a person who is acting for purposes which are outside that person’s trade, business, craft or profession,
+“deposit” has the meaning given in regulation 5(1),
+“drink” means a beverage intended for human consumption, including concentrated soft drinks,
+“enforcement powers” means the powers specified in regulation 30(4),
+“export shop” has the same meaning as in regulation 3 of the Excise Goods (Export Shops) Regulations 2000(1),
+“hospitality retailer” is a retailer that sells a scheme article exclusively for the purpose of its consumption on the premises of sale,
+“non-scheme article” has the meaning given in regulation 3(2),
+“online retail sale” is a retail sale through a website or online marketplace, and related expressions are to be construed accordingly,
+“operator” in relation to a website or online marketplace means the person who controls access to, and the content of, the website or online marketplace,
+“PET plastic” means polyethelene terephthalate,
+“producer” has the meaning given in regulation 6,
+“registered producer” means a producer registered with SEPA for the purposes of these Regulations in accordance with chapter 2 of Part 3,
+“registered through a scheme administrator” has the meaning given in regulation 12(1),
+“relevant year” means any calendar year in which a person is a producer,
+“retailer” has the meaning given in regulation 18(1),
+“retail sale” means a sale to a consumer,
+“return point” means a place at which a person (whether the purchaser of the scheme article or otherwise) can return scheme packaging and receive payment of a sum equal to the deposit for each item of scheme packaging returned,
+“return point operator” has the meaning given in regulation 20(1),
+“scheme administrator” means a person that has been approved to carry out the functions specified in regulation 13(2) and to fulfil the obligations specified in regulation 16,
+“scheme article” has the meaning given in regulation 3(2),
+“scheme packaging” has the meaning given in regulation 3(2),
+“SEPA” means the Scottish Environment Protection Agency(2),
+“single-use packaging” has the meaning given in regulation 3(2),
+“takeback service” has the meaning given in regulation 21(1),
+“vending machine” means an automatic machine for the sale of a scheme article (regardless of whether the machine also sells other products),
+“wholesaler” has the meaning given in regulation 11(4),
+“writing” and “written” include electronic communications within the meaning of section 15(1) (general interpretation) of the Electronic Communications Act 2000(3), which have been recorded and are consequently capable of being reproduced in written form.
+(2) In the definition of “drink”, “concentrated soft drink” means any soft drink in liquid form intended for human consumption after dilution, but does not include concentrates used in the manufacture of soft drinks and which are not intended for retail sale without further processing.
+(3) In the definitions of “online retail sale” and “operator”, “online marketplace” means any means by which information is made available over the internet, through which a person other than the operator is able to offer goods for sale (whether or not the operator also does so).
+(1)
+S.I. 2000/645.
+(2)
+SEPA is established by section 20 of the Environment Act 1995 (c.25).
+(3)
+2000 c.7. Section 15(1) was amended by paragraph 158 of schedule 17 of the Communications Act 2003 (c.21).Scheme articles and scheme packaging
+3.—(1) The deposit and return scheme established by these Regulations applies to—
+(a)
+a scheme article, and
+(b)
+scheme packaging in which a scheme article is contained or sold.
+(2) For the purposes of these Regulations—
+“non-scheme article” means an article that meets the criteria in sub-paragraphs (a) and (c) of the definition of “scheme article” in this paragraph, but does not meet the criteria in sub-paragraph (b) of that definition,
+“scheme article” means a drink (regardless of whether it is sold alone or as a unit in a multipack) that is—
+(a)
+contained and sold in packaging that—
+(i)
+is made wholly or mainly from PET plastic, glass, steel or aluminium,
+(ii)
+is conceived or designed to—
+(aa)
+contain at least 50 millilitres and no more than 3 litres of liquid, and
+(bb)
+be sealed in an airtight and watertight state at the point of sale,
+(iii)
+cannot be returned to its state at the point of sale by the consumer, and
+(iv)
+is single-use packaging,
+(b)
+first made available to be marketed, offered for sale or sold by the producer on or after 1 July 2022, and
+(c)
+made available to be marketed, offered for sale or sold by the producer for the purposes of its retail sale in Scotland.
+“scheme packaging” means the packaging for a scheme article that is conceived or designed to come in direct contact with the drink, and does not include packaging conceived or designed to group together multiple components in a multipack.
+“single-use packaging” means packaging for a drink that is not conceived, designed or placed on the market to accomplish, within its life span—
+(a)
+multiple refills by a consumer,
+(b)
+multiple trips or rotations by being returned to a producer to be refilled by that producer for the same purpose for which it was conceived.Sale of articles
+4.—(1) Where an article meets the criteria in both sub-paragraphs (a) and (b) of the definition of “scheme article” in regulation 3(2), a person may only market, offer for sale or sell that article to a consumer in Scotland if it also complies with paragraph (c) of that definition.
+(2) A person may only market, offer for sale or sell a scheme article to a consumer in Scotland if the producer of that article for the purposes of regulation 6(1), is a registered producer.
+(3) For the purpose of paragraphs (1) and (2) the following is to be regarded as the person who markets, offers for sale or sells the scheme article—
+(a)
+in the case of an online retail sale, the operator,
+(b)
+in the case of a vending machine sale—
+(i)
+where the machine is marked with the name and address of its owner, that owner, or
+(ii)
+otherwise, the person with the management and control of the premises on which the machine stands or to which it is affixed.Obligations relating to charging deposits and marketing, offering for sale or selling articles
+5.—(1) A deposit is a redeemable sum of 20 pence that does not form part of the consideration paid for the scheme article.
+(2) Subject to paragraph (4), any person who markets, offers for sale or sells a scheme article in Scotland must—
+(a)
+charge a deposit when marketing, offering for sale or selling a scheme article in Scotland, and
+(b)
+clearly display information in any place where the scheme article is displayed for sale by that person indicating—
+(i)
+that the article is a scheme article to which the obligation to charge a deposit under these Regulations applies,
+(ii)
+the amount of the deposit.
+(3) Subject to paragraph (4), any person who markets, offers for sale or sells a non-scheme article in Scotland on or after 1 July 2022 must communicate to the purchaser at the point of sale that—
+(a)
+the article is not a scheme article to which the requirements of these Regulations apply,
+(b)
+an item of packaging in which that article is contained or sold cannot be returned in exchange for payment of a sum equal to a deposit.
+(4) The obligations in paragraphs (2) and (3) do not apply—
+(a)
+in the case of a scheme article or non-scheme article which is marketed, offered for sale or sold in Scotland—
+(i)
+in an export shop, or
+(ii)
+exclusively for consumption on the premises of sale,
+(b)
+in the case of a scheme article or non-scheme article which is intended for retail sale outside Scotland.Producers
+6.—(1) A producer in respect of a scheme article is—
+(a)
+in the case of a scheme article branded in the United Kingdom, the brand owner,
+(b)
+in the case of a scheme article branded by a brand owner outside the United Kingdom, the importer.
+(2) The operator in respect of an online retail sale is to be regarded as the importer for the purposes of paragraph (1) where a scheme article is being sold—
+(a)
+for the first time in the United Kingdom,
+(b)
+to a consumer in Scotland, and
+(c)
+by way of a retail sale.
+(3) In this regulation—
+“brand owner” means the person who, in the course of a trade, business, craft or profession, puts a name, trade mark or other distinguishing mark on a scheme article or scheme packaging by which the person is held out to be a manufacturer or the originator of the scheme article, and “branded” is to be construed accordingly,
+“importer” means the person who, in the course of a trade, business, craft or profession, first markets, offers for sale or sells the scheme article in the United Kingdom.Application for registration of a producer
+7.—(1) An application for registration of a producer must be made to SEPA—
+(a)
+by a producer, or
+(b)
+by a scheme administrator on behalf of a producer.
+(2) An application for producer registration must be made—
+(a)
+before 1 March in any relevant year,
+(b)
+within 28 days of that person becoming a producer,
+(c)
+in the case where the producer was registered through an approved scheme administrator in respect of a relevant year, within 28 days of the date of any of the following events in that relevant year—
+(i)
+the producer receives notification in writing that the scheme administrator’s approval has been withdrawn in accordance with regulation 17,
+(ii)
+the producer receives notification in writing that the scheme administrator is no longer acting on behalf of that producer, or
+(iii)
+the producer sends notification in writing to the scheme administrator that the producer no longer wishes the scheme administrator to act on behalf of that producer.
+(3) An application must—
+(a)
+be made in writing,
+(b)
+subject to paragraph (4), contain the information set out in schedule 1,
+(c)
+contain any other information requested by SEPA, and
+(d)
+subject to paragraph (5), be accompanied by a registration fee of £360.
+(4) If agreed in advance with SEPA, where there has been an event of the type set out in paragraph (2)(c), the information provided in an application may be limited to the operational plan referred to in paragraph 11 of schedule 1.
+(5) Paragraph (3)(d) does not apply to an application by a producer with a taxable turnover of £85,000 or less in the previous financial year.Producer registration
+8.—(1) Within 28 days of receipt of an application, SEPA must—
+(a)
+where the application complies with regulation 7(3) and SEPA is satisfied that the applicant will comply with the obligations in regulation 10(1) and 11(1), grant it, or
+(b)
+otherwise, refuse it.
+(2) Where an application is granted, SEPA must, within 7 days of the date on which it is granted, give notice of that decision in writing—
+(a)
+in the case of an application made by a producer, to the producer,
+(b)
+in the case of an application made on behalf of a producer by a scheme administrator, to the producer and the scheme administrator.
+(3) Where an application has been granted, the registration takes effect from the relevant date in paragraph (4) until the date on which the producer’s registration is cancelled in accordance with regulation 9.
+(4) The date for the purposes of paragraph (3) is—
+(a)
+1 April in a relevant year, where the application was made within the time limit specified in regulation 7(2)(a),
+(b)
+the date the application was received by SEPA, where the application was made within the time limit specified in regulation 7(2)(b),
+(c)
+the date the producer received the notification, where the application was made within the time limit specified in regulation 7(2)(c)(i) or (ii),
+(d)
+the date the producer sent the notification, where the application was made within the time limit specified in regulation 7(2)(c)(iii), or
+(e)
+the date specified by SEPA in the notice provided in accordance with paragraph (2) in any other case.
+(5) SEPA must publish and maintain a list of registered producers in such manner as it considers appropriate.
+(6) Where an application is refused, SEPA must, within 7 days of the date on which it is refused, give notice of that decision in writing together with—
+(a)
+the reasons for it,
+(b)
+a statement as to the right of appeal under Part 6.
+(7) Notification under paragraph (6) must be given—
+(a)
+in the case of an application made by the producer, to the producer,
+(b)
+in the case of an application made on behalf of the producer by a scheme administrator, to the producer and the scheme administrator.Cancellation of registration of producers
+9.—(1) SEPA may cancel the registration of a producer where it appears to it that—
+(a)
+the producer is in breach of any of the producer obligations specified in regulations 10(1) or 11(1),
+(b)
+the producer is in breach of the obligation specified in regulation 5(2)(a),
+(c)
+a registered producer has failed to submit an application in accordance with regulation 7(2)(a) or (c),
+(d)
+an application for registration of that producer has been refused,
+(e)
+the producer or a scheme administrator acting on behalf of the producer knowingly or recklessly supplied false information in connection with an application for registration, or compliance with any of the producer obligations specified in regulation 10(1) or 11(1).
+(2) SEPA must cancel the registration of a producer where it is notified under regulation 10(1)(d) that the producer has ceased to be a producer.
+(3) Before cancelling the registration under paragraph (1), SEPA must serve written notice of—
+(a)
+the decision to cancel and the reasons for it,
+(b)
+the date when the cancellation is intended to take effect, not being earlier than the time limit for making an appeal against the decision provided for in Part 6,
+(c)
+the opportunity to make representations to SEPA and the deadline for receipt of such representations, and
+(d)
+the right of appeal under Part 6.
+(4) SEPA must consider any representations made by the producer or, as the case may be, a scheme administrator before cancellation takes effect and may withdraw the notice at any time before it takes effect.
+(5) The date when the cancellation takes effect must not be earlier than—
+(a)
+in the case of cancellation under paragraph (1), the expiration of the time limit for making an appeal against the decision provided for in Part 6,
+(b)
+in the case of cancellation under paragraph (2), 28 days from the date of the notification from the producer in accordance with 10(1)(d),
+(c)
+in the case where an application for appeal against the decision is submitted and the decision to cancel that producer’s registration is upheld, the date that the producer receives notification under regulation 27(7).
+(6) The notice referred to in paragraph (3) must be served on—
+(a)
+the producer, or
+(b)
+where a producer was registered through a scheme administrator, the producer and the scheme administrator.
+(7) Despite the cancellation of a producer’s registration in accordance with this regulation, the producer must continue to comply with the following regulations as if that producer was still a registered producer—
+(a)
+regulation 11(1)(a) and (b),
+(b)
+regulation 11(1)(c) to (h).
+(8) For the purposes of paragraph (7), the reference in regulation 11(1)(e), (f) and (g) to “the producer’s operational plan” means the operational plan submitted with that producer’s most recent application for registration that was granted by SEPA.Producer obligations: general
+10.—(1) A registered producer must—
+(a)
+submit any subsequent application for registration within the time limits in regulation 7(2),
+(b)
+provide any information reasonably requested by SEPA with regard to the producer obligations in regulation 11(1) or, as the case may be, 12(2),
+(c)
+notify SEPA of any material change in the information provided in accordance with regulation 7(3)(b) and (c), within 28 days of the date of the change,
+(d)
+notify SEPA in writing where the producer wishes to cancel the registration or has ceased to be a producer in respect of a relevant year.
+(2) The obligations in paragraph (1) must be discharged—
+(a)
+where the producer is registered in accordance with regulation 7(1)(a), by the producer, or
+(b)
+where the producer is registered through a scheme administrator, by that scheme administrator, in accordance with regulation 16(1)(a).Producer obligations: further provision
+11.—(1) A registered producer must—
+(a)
+collect and keep for at least four years from the date on which the information is collected a record of the information specified in paragraph (2),
+(b)
+provide that information to SEPA in such form and at such intervals as SEPA may require,
+(c)
+accept the return by a retailer or wholesaler of any scheme packaging that was—
+(i)
+first made available by the producer to be marketed, offered for sale or sold for the purposes of its retail sale in Scotland, and
+(ii)
+sold by that producer to that retailer or wholesaler,
+(d)
+pay a sum equal to the deposit to a retailer or wholesaler for each item of scheme packaging returned in accordance with sub-paragraph (c),
+(e)
+within the time limits specified in the producer’s operational plan, collect scheme packaging first made available by that producer to be marketed, offered for sale or sold for the purposes of its retail sale in Scotland from any of the following—
+(i)
+a return point operator,
+(ii)
+a retailer operating a takeback service,
+(iii)
+a hospitality retailer,
+(f)
+within the time limits specified in the producer’s operational plan, pay to a person from whom the producer has collected scheme packaging in accordance with sub-paragraph (e) a sum equal to the deposit for each item of scheme packaging collected,
+(g)
+within the time limits specified in the producer’s operational plan, pay to the person from whom the producer has collected scheme packaging in accordance with sub-paragraph (e) a reasonable handling fee charged by that person for each item of scheme packaging collected,
+(h)
+meet the minimum collection targets specified in schedule 3 in respect of scheme packaging containing a scheme article first made available by that producer to be marketed, offered for sale or sold for the purposes of its retail sale in Scotland.
+(2) The information referred to in paragraph (1)(a) is—
+(a)
+the number of scheme articles first made available by that producer to be marketed, offered for sale or sold for the purposes of its retail sale in Scotland,
+(b)
+whether the scheme packaging in which those scheme articles were contained or sold was made wholly or mainly from PET plastic, glass, steel or aluminium,
+(c)
+the number of items of scheme packaging returned to the producer by wholesalers and retailers,
+(d)
+the number of items of scheme packaging collected by the producer from each return point operator, retailer providing a takeback service and hospitality retailer.
+(3) The obligations in paragraph (1) must be discharged—
+(a)
+where the producer is registered in accordance with regulation 7(1)(a), by the producer, or
+(b)
+where the producer is registered through a scheme administrator, by that scheme administrator, in accordance with regulation 16(1)(a).
+(4) For the purposes of this regulation—
+a “reasonable handling fee” is—
+(a)
+a fee charged by a return point operator in relation to scheme packaging returned by a consumer to that return point that takes into account the following—
+(i)
+the costs of purchase, lease, maintenance and upkeep of any reverse vending machine associated with the collection and storage of scheme packaging,
+(ii)
+the cost of materials used in respect of the collection and storage of scheme packaging,
+(iii)
+the rental value of any floor space utilised solely for the collection and storage of scheme packaging, and
+(iv)
+staff time dedicated solely to the collection and storage of scheme packaging,
+(b)
+a fee charged by a retailer providing a takeback service in relation to scheme packaging returned through that takeback service, that takes into account the following—
+(i)
+costs associated with use of a vehicle to collect scheme packaging,
+(ii)
+the cost of materials used in respect of the collection and storage of that scheme packaging,
+(iii)
+the rental value of any floor space utilised solely for the collection and storage of that scheme packaging,
+(iv)
+staff time dedicated solely to the collection and storage of that scheme packaging, and
+(v)
+the delivery costs associated with return of that scheme packaging,
+(c)
+a fee charged by a hospitality retailer in relation to scheme packaging of scheme articles sold exclusively for the purposes of consumption on the premises of sale, that takes into account the cost of materials used in respect of the collection and storage of scheme packaging.
+“wholesaler” means a person other than a producer that markets, offers for sale or sells a scheme article in Scotland other than by way of retail sale.Producer obligations: producers registered through a scheme administrator
+12.—(1) For the purpose of these Regulations, a “producer registered through a scheme administrator” is a producer that is registered following an application made by a scheme administrator on behalf of that producer under regulation 7(1)(b).
+(2) A producer registered through a scheme administrator must—
+(a)
+maintain a record of the number and type of scheme articles first made available by that producer to be marketed, offered for sale or sold for the purposes of its retail sale in Scotland, and
+(b)
+supply any information reasonably requested by that scheme administrator for the purposes of the scheme administrator’s compliance with the obligations in regulation 16(1)(a) to (c).Scheme administrator
+13.—(1) The Scottish Ministers may, in accordance with this Part, approve a scheme administrator.
+(2) A scheme administrator is a legal person approved under this chapter which is responsible for—
+(a)
+submitting an application for producer registration on behalf of a producer under regulation 7(1)(b) where requested by a producer to do so, and
+(b)
+complying with regulations 10(1) and 11(1) on behalf of such a producer.Application for approval of a scheme administrator
+14.—(1) An application for approval as a scheme administrator must be made to the Scottish Ministers.
+(2) An application must—
+(a)
+be made in writing,
+(b)
+contain the information set out in schedule 2, and
+(c)
+include any other information requested by the Scottish Ministers.Approval of scheme administrator
+15.—(1) Within 28 days of receipt of an application for approval the Scottish Ministers must—
+(a)
+where the application complies with regulation 14(2), grant it, or
+(b)
+otherwise, refuse it.
+(2) Where an application is granted, the Scottish Ministers must, within 7 days of the date on which it is granted, give notice of that decision in writing to the scheme administrator.
+(3) Where the application has been granted, the approval of the scheme administrator takes effect from the date of the decision to grant it until any date on which approval is withdrawn in accordance with regulation 17.
+(4) The Scottish Ministers must publish and maintain a list of scheme administrators in such manner as they consider appropriate.
+(5) Where the application is refused, the Scottish Ministers must, within 7 days of the date on which it is refused, give notice of that decision in writing to the applicant together with—
+(a)
+the reasons for it, and
+(b)
+a statement as to the right of review under Part 6.Obligations of a scheme administrator
+16.—(1) A scheme administrator must—
+(a)
+subject to paragraph (2), comply with the following regulations on behalf of any producer registered following the grant of an application made by that scheme administrator under regulation 7(1)(b)—
+(i)
+regulation 11(1)(a) and (b), and
+(ii)
+regulations 10(1) and 11(1)(c) to (h).
+(b)
+provide any information requested by the Scottish Ministers or SEPA for the purposes of monitoring compliance with the requirements in regulations 10(1) and 11(1),
+(c)
+notify the Scottish Ministers and SEPA in writing of any material change in the information provided in accordance with regulation 14(2)(b) and (c), within 28 days of the date of that change,
+(d)
+notify the Scottish Ministers in writing where the scheme administrator intends to withdraw from acting as a scheme administrator.
+(2) In the case where more than one producer is registered through a scheme administrator—
+(a)
+the obligation in regulation 11(1)(h) applies as if, for “that producer” there were substituted “all producers registered through the scheme administrator”,
+(b)
+schedule 3 applies as if—
+(i)
+for “a producer must meet” there were substituted “must be met in relation to all of the producers registered through the scheme administrator”,
+(ii)
+for “that producer” in each place where it appears, there were substituted “all of the producers registered through the scheme administrator”.Withdrawal of approval of a scheme administrator
+17.—(1) The Scottish Ministers may withdraw the approval of a scheme administrator where it appears to them that—
+(a)
+the scheme administrator is in breach of any of the obligations specified in regulation 16,
+(b)
+the scheme administrator knowingly or recklessly supplied false information in connection with the application for approval or compliance with any of the obligations specified in regulation 16,
+(c)
+the Scottish Ministers have received notification from the scheme administrator under regulation 16(1)(c) that there has been a material change of circumstances,
+(d)
+the scheme administrator has been convicted of an offence.
+(2) The Scottish Ministers must withdraw the approval of a scheme administrator where they are notified under regulation 16(1)(d) that the scheme administrator intends to withdraw from acting as a scheme administrator.
+(3) Before withdrawing approval under paragraphs (1) or (2), the Scottish Ministers must—
+(a)
+serve on the scheme administrator written notice of—
+(i)
+the decision to withdraw approval and the reasons for it,
+(ii)
+the date when the withdrawal is intended to take effect,
+(iii)
+the opportunity to make representations to the Scottish Ministers and the deadline for receipt of such representations, and
+(iv)
+in the case of withdrawal under paragraph (1), the right to apply for review of the decision under Part 6,
+(b)
+inform SEPA for the purpose of SEPA notifying all producers registered through that scheme administrator in accordance with paragraph (6).
+(4) In the case of a withdrawal under paragraph (1), the date in paragraph (3)(a)(ii) must not be earlier than the time limit for making an application for review of the decision provided for in Part 6.
+(5) The Scottish Ministers must consider any representations made by the scheme administrator before the notice under paragraph (3) takes effect and may withdraw the notice at any time before it takes effect.
+(6) SEPA must, within 14 days of the withdrawal of the approval of a former scheme administrator taking effect, give notice in writing to each producer registered through that former scheme administrator containing the following information—
+(a)
+a statement that approval of the scheme administrator has been withdrawn and the date when the withdrawal took effect,
+(b)
+the reasons for the withdrawal,
+(c)
+the requirement of the producer to make an application for registration within the time limit specified in regulation 7(2)(c)(i), and
+(d)
+the obligations with which a producer will be required to comply under regulations 10(1) and 11(1).Retailers
+18.—(1) For the purposes of these Regulations, a “retailer” is a person who markets, offers for sale or sells a scheme article to a consumer in Scotland.
+(2) For the purpose of paragraph (1), the following is to be regarded as the person who markets, offers for sale or sells the scheme article—
+(a)
+in the case of an online retail sale, the operator,
+(b)
+in the case of a vending machine sale—
+(i)
+where the machine is marked with the name and address of its owner, that owner, or
+(ii)
+otherwise, the person with the management and control of the premises on which the machine stands or to which it is affixed.
+(3) Where an article is sold or is to be sold to a consumer in Scotland, the article is to be treated for the purpose of these Regulations as having been marketed or offered for retail sale, or sold by way of retail sale, in Scotland regardless of whether the retailer has a registered or principal office in Scotland, or where the site of sale is.
+(4) In this Part—
+“distance retail sale” is a sale of a scheme article to a consumer in Scotland where the site of delivery and the site of sale are a distance from each other,
+“site of delivery” is the place where the consumer first gains physical possession of the scheme article,
+“site of sale” is the premises of the retailer where the order for purchase of a scheme article is received.Retailer obligations
+19.—(1) Subject to paragraph (2), a retailer must—
+(a)
+comply with the obligations in regulations 5(2) and (3),
+(b)
+operate a return point in accordance with regulation 20 at any retail premises in Scotland in which a scheme article is marketed, offered for sale or sold by that retailer,
+(c)
+clearly display information about how a deposit can be redeemed—
+(i)
+in the case of a scheme article marketed, offered for sale or sold on the retailer’s premises, on that premises,
+(ii)
+in the case of a scheme article marketed, offered for sale or sold by way of distance retail sale, in any place where the scheme article is displayed for sale,
+(iii)
+in the case of a scheme article marketed, offered for sale or sold by way of a vending machine, on the vending machine.
+(2) Paragraph (1)(b) does not apply to premises—
+(a)
+in respect of which an exemption has been granted in accordance with regulation 22,
+(b)
+that are an export shop,
+(c)
+where the sale of a scheme article on those premises is solely by way of a vending machine,
+(d)
+where the sale of a scheme article on those premises is solely by way of a distance retail sale (in which case the obligation in regulation 21 applies),
+(e)
+of a hospitality retailer that does not sell any scheme articles for consumption off the premises of sale.Return points
+20.—(1) For the purposes of these Regulations, a “return point operator” is any person who operates a return point, including a retailer and a voluntary return point operator registered in accordance with regulation 25.
+(2) Subject to paragraph (4), a return point operator must—
+(a)
+accept an item of scheme packaging returned to the return point,
+(b)
+pay to the consumer a sum equal to the deposit for each item of scheme packaging accepted,
+(c)
+retain the scheme packaging for collection by, or on behalf of, a producer or a scheme administrator.
+(3) A return point operator must clearly display information at the return point about—
+(a)
+the complaints procedure and the contact details for receipt of any complaint that may be made to that operator from a consumer concerning the operation of the return point, and
+(b)
+the contact details of SEPA.
+(4) A return point operator may refuse to accept an item of packaging if—
+(a)
+it is not identifiable as scheme packaging,
+(b)
+it is soiled,
+(c)
+it is not intact,
+(d)
+it is not empty,
+(e)
+the return point operator has requested a collection of scheme packaging by a producer or scheme administrator and the collection has not been carried out in accordance with that producer or scheme administrator’s operational plan, or
+(f)
+it is part of a single proposed return by a consumer that contains a number of items of scheme packaging disproportionately greater than the number of scheme articles that retailer sells, on average, as part of a single transaction.Takeback services
+21.—(1) For the purpose of these Regulations, a “takeback service” is a service provided by the retailer enabling—
+(a)
+an item of scheme packaging in which a scheme article is contained and sold by a retailer to a consumer to be collected by or on behalf of that retailer from the site of delivery for the purposes of its return to—
+(i)
+that retailer (including through a return point), or
+(ii)
+the producer, and
+(b)
+the payment to that consumer of a sum equal to the deposit for each item of scheme packaging so collected and returned.
+(2) Subject to paragraph (3), a retailer that has sold a scheme article through a distance retail sale must provide a takeback service free of charge to the consumer that purchased the scheme article.
+(3) A retailer providing a takeback service may apply a charge not exceeding the cost of materials used in respect of the collection and storage of that scheme packaging, subject to the requirement to reimburse the consumer in accordance with paragraph (4).
+(4) Unless paragraph (5) applies, a retailer providing a takeback service must—
+(a)
+pay to the consumer a sum equal to the deposit for each item of scheme packaging returned to the retailer or, as the case may be, the producer, and
+(b)
+reimburse the consumer for any charge applied under paragraph (3).
+(5) This paragraph applies if any returned item of packaging—
+(a)
+is not identifiable as scheme packaging,
+(b)
+is soiled,
+(c)
+is not intact, or
+(d)
+is not empty.Exemptions for return points
+22.—(1) Subject to paragraph (2), the Scottish Ministers may grant an exemption to a retailer (whether or not an application under regulation 24 is made to them) from the obligation specified in regulation 19(1)(b) in relation to retail premises in one of the following circumstances—
+(a)
+where the following criteria are met—
+(i)
+they consider that there is an alternative return point located within reasonable proximity to the premises, and the operator of that return point has agreed to accept the return by consumers of items of scheme packaging on behalf of the retailer,
+(ii)
+they consider that, if the exemption is granted, this will still provide consumers with reasonable access to a return point, and
+(iii)
+they consider that, if the exemption is granted, it would not significantly impair the ability of a producer (or a scheme administrator on their behalf) to meet their collection targets,
+(b)
+where they are satisfied that the location, layout, design, or construction of the retail premises does not permit, or cannot be reasonably altered to permit, the operation of a return point on the premises without significant risk of the retailer being in breach of a legal obligation relating to any of the following—
+(i)
+food safety,
+(ii)
+health and safety,
+(iii)
+fire safety,
+(iv)
+environmental protection,
+(v)
+public health.
+(2) Where the Scottish Ministers decide to grant an exemption, they must within 7 days of the date of that decision give to the retailer in writing notice of that decision, and the date that the exemption takes effect.
+(3) The Scottish Ministers must publish and maintain a list of retailers that have been granted an exemption under this regulation in such manner as they consider appropriate.
+(4) A retailer who has been granted an exemption under paragraph (1) must—
+(a)
+clearly display information at the retailer’s premises indicating—
+(i)
+that by virtue of an exemption granted under these Regulations, they do not operate a return point, and
+(ii)
+the location of—
+(aa)
+in the case of an exemption granted in accordance with paragraph (1)(a), the alternative return point, or
+(bb)
+in the case of an exemption granted in accordance with paragraph (1)(b), the nearest return point, and
+(b)
+notify the Scottish Ministers of any material change to—
+(i)
+any of the circumstances under which the exemption was granted as specified in paragraph (1)(a) or, as the case may be, (b),
+(ii)
+any of the information provided as part of an application for exemption under regulation 24.Revocation of an exemption for a return point
+23.—(1) The Scottish Ministers may revoke an exemption where they consider that—
+(a)
+there has been a material change in relation to any of the circumstances under which the exemption was granted as specified in regulation 22(1)(a) or, as the case may be, (b),
+(b)
+in the case of an exemption granted in accordance with regulation 22(1)(a), maintaining the exemption will no longer provide consumers with reasonable access to a return point,
+(c)
+the retailer has failed to comply with their obligations under regulation 22(4)(b), or
+(d)
+the retailer has requested that the exemption be revoked.
+(2) Before revoking an exemption under paragraph (1), the Scottish Ministers must serve on the retailer written notice of—
+(a)
+their decision to revoke it and the reasons for it, and
+(b)
+the date on which the revocation takes effect.Application for exemption of a return point
+24.—(1) A retailer may apply to the Scottish Ministers for an exemption from the obligation specified in regulation 19(1)(b).
+(2) An application for exemption in accordance with regulation 22(1)(a) must—
+(a)
+be made in writing,
+(b)
+include information about the location of the alternative return point and the agreement of that return point operator as required under that regulation, and
+(c)
+include any other information requested by the Scottish Ministers.
+(3) An application for exemption in accordance with regulation 22(1)(b) must—
+(a)
+be made in writing,
+(b)
+include information demonstrating that the location, layout, design, or construction of the retail premises does not permit, or cannot be reasonably altered to permit, the operation of a return point on the premises without significant risk of the retailer being in breach of legal obligations relating to any of the matters listed at regulation 22(1)(b), and
+(c)
+include any other information requested by the Scottish Ministers.
+(4) Within 28 days of receipt of an application the Scottish Ministers may grant the application where satisfied that the relevant conditions in regulation 22(1)(a) or, as the case may be, (b), are met.
+(5) Where an application is refused, the Scottish Ministers must within 7 days of the date on which it is refused give notice of that decision in writing to the retailer, together with the reasons for it.Voluntary return point operators
+25.—(1) A person may operate a return point at a place other than a premises on which a return point must be operated under regulation 19(1)(b), if they are registered with the Scottish Ministers as a voluntary return point operator in accordance with this regulation.
+(2) An application for registration must—
+(a)
+be made in writing,
+(b)
+contain the information set out in schedule 4, and
+(c)
+include any information requested by the Scottish Ministers.
+(3) Within 28 days of receipt of an application the Scottish Ministers must—
+(a)
+where the application complies with paragraph (2), grant it, or
+(b)
+otherwise, refuse it.
+(4) Where the application is granted the Scottish Ministers must, within 7 days of the date on which it is granted, give notice of that decision in writing to the voluntary return point operator and the date that it takes effect.
+(5) Where the application is granted, the return point operator will be treated as registered from the date specified in the notification given under paragraph (4) until any cancellation of the registration in accordance with paragraph (10).
+(6) The Scottish Ministers must publish and maintain a list of voluntary return points whose operators are registered under this regulation, in such manner as they consider appropriate.
+(7) Where the application is refused, the Scottish Ministers must, within 7 days of the date on which it is refused, give notice of that decision together with the reasons for it.
+(8) A registered voluntary return point operator must—
+(a)
+comply with the obligations in regulation 20, and
+(b)
+notify the Scottish Ministers of any material change in the information provided in accordance with paragraph (2).
+(9) A registered voluntary return point operator must comply with paragraph (8) from the date of receipt of the notice referred to in paragraph (4), or any later date specified in that notice.
+(10) The Scottish Ministers may cancel the registration of a voluntary return point operator where it appears that—
+(a)
+the operator has not complied with the obligations in paragraph (8),
+(b)
+there has been a material change in the information provided in accordance with paragraph (2), or
+(c)
+the registered voluntary return point operator has requested their registration be cancelled.
+(11) Before cancelling the registration under paragraph (10), the Scottish Ministers must serve on the return point operator written notice of—
+(a)
+the decision to cancel and the reasons for it, and
+(b)
+the date when the cancellation will take effect.Right of appeal or review
+26.—(1) A producer may, within 28 days of the date on which the decision has been notified, appeal to the Scottish Ministers against a decision of SEPA—
+(a)
+to refuse to register that producer under regulation 8(1)(b),
+(b)
+to cancel the registration of that producer under regulation 9(1).
+(2) An applicant for approval as a scheme administrator may, within 28 days of the date on which a decision has been notified, apply to the Scottish Ministers for a review of a decision to refuse an application for approval under regulation 15(1)(b).
+(3) A scheme administrator may, within 28 days of the date on which a decision has been notified, apply to the Scottish Ministers for a review of a decision to withdraw the approval of that scheme administrator under regulation 17(1).Procedure
+27.—(1) Where an appeal is made under regulation 26(1), the Scottish Ministers may—
+(a)
+appoint any person to exercise on their behalf, with or without payment, the function of determining the appeal, or
+(b)
+refer any matter in relation to the appeal to such person as the Scottish Ministers may appoint for the purpose, with or without payment.
+(2) Where an application for review is made under regulation 26(2) or (3), the Scottish Ministers may refer any matter in relation to that application for review to such person as the Scottish Ministers may appoint for the purpose, with or without payment.
+(3) A person appointed under—
+(a)
+paragraph (1)(a), may determine the procedure of the appeal, or
+(b)
+paragraph (1)(b) or paragraph (2), may determine the procedure to be followed in preparing the report required in paragraph (4).
+(4) The person appointed under paragraph (1)(b) or (2) must make a written report to the Scottish Ministers which includes that person’s findings, conclusions and recommendations, or reasons for not making any recommendations.
+(5) An appeal or application for review must be made by notice in writing given or sent to the Scottish Ministers (a copy of which must be sent to SEPA) setting out—
+(a)
+the grounds of appeal or review, and
+(b)
+any other information relevant to the appeal or review, including a copy of any relevant correspondence with the decision maker.
+(6) An appellant or applicant for review may withdraw the appeal or application for review at any time by notifying SEPA and the Scottish Ministers in writing.
+(7) On determination of an appeal in accordance with paragraph (1)(a), the person appointed to exercise the function of determining the appeal on behalf of the Scottish Ministers must—
+(a)
+notify the appellant in writing of the decision, and the reasons for it, and
+(b)
+send SEPA a copy of any document sent to the appellant.
+(8) On determination of an appeal in accordance with paragraph (1)(b), or an application for review in accordance with paragraph (2), the Scottish Ministers must—
+(a)
+notify the appellant or applicant for review in writing of the decision, and the reasons for it,
+(b)
+provide the appellant or applicant for review with a copy of the report made to the Scottish Ministers in accordance with paragraph (4), and
+(c)
+send SEPA a copy of any document sent to the appellant.Determination of appeals
+28.  Where, following an appeal under regulation 26(1), the Scottish Ministers, or any other person appointed to determine the appeal, determine that the decision of SEPA must be changed, SEPA must give effect to that determination.Status pending appeal
+29.  The decision appealed against or subject to an application for review under this Part will not take effect until the day following the day on which the appeal or review is finally determined or withdrawn.Enforcement authority
+30.—(1) SEPA has the powers described in paragraph (4).
+(2) The enforcement powers are exercisable for the purpose of establishing whether these Regulations are being, or have been, complied with.
+(3) The enforcement powers are exercisable by any person authorised in writing by SEPA for that purpose.
+(4) The enforcement powers are—
+(a)
+to enter onto any premises at any reasonable time, except premises used wholly or mainly as a private dwelling,
+(b)
+to take with the authorised person on entering onto any premises in accordance with sub-paragraph (a)—
+(i)
+any equipment or materials required,
+(ii)
+if the authorised person has reasonable cause to apprehend any serious obstruction in the execution of the authorised person’s duty, a constable,
+(iii)
+any other person authorised in writing by SEPA,
+(c)
+to make such examination and carry out such investigation as is necessary,
+(d)
+to direct that any premises which the authorised person has power to enter in accordance with sub-paragraph (a), or anything on those premises, be left undisturbed (whether generally or in particular respects) for so long as is reasonably necessary for the purpose of any examination or investigation under sub-paragraph (c),
+(e)
+to take such measurements and photographs or any other digital record, and to make such recordings as are necessary for the purposes of any examination or investigation under sub-paragraph (c),
+(f)
+to take samples, or cause samples to be taken, of any articles, packaging, packaging material, products or parts of products found in, on or in the vicinity of any premises over which the power of entry applies in sub-paragraph (a),
+(g)
+to require any person who the authorised person has reasonable cause to believe to be able to give any information relevant to any examination or investigation under sub-paragraph (c) to answer (in the absence of any person other than a person nominated by that person to be present and any person whom the authorised person may allow to be present) such questions as the authorised person thinks fit to ask, and to sign a declaration of the truth of that person’s answers,
+(h)
+to have access to, inspect, copy and print any document or record (in whatever form it is held) or seize and detain such document or record to enable it to be copied, printed or retained as evidence,
+(i)
+to have access to, inspect and check the operation of any computer and any associated apparatus, or material which is or has been used in connection with a document or record, and for this purpose to require any person having charge of, or otherwise concerned with the operation of the computer, apparatus or material to give the authorised person such assistance as may reasonably be required and, where a document or record is kept by means of a computer, to require the document or record to be produced in a form in which it can be taken away,
+(j)
+to make test purchases of articles,
+(k)
+to make test returns of scheme packaging to a return point or to a distance retailer,
+(l)
+by written notice, for the purposes of the discharge of their functions under these Regulations, to require any person to provide such information as is specified in the notice, in such form and within such period as is specified in the notice.
+(5) A sheriff, a summary sheriff or a justice of the peace may by warrant authorise an officer of SEPA to enter any land or premises, if necessary using reasonable force, if satisfied by evidence on oath that—
+(a)
+there are reasonable grounds for an authorised person to enter the land or premises concerned, and
+(b)
+that—
+(i)
+entry to the land or premises has been refused, or is likely to be refused and notice of intention to apply for a warrant has been given to the occupier, or
+(ii)
+an application for admission, or the giving of such notice, would defeat the object of entry, or that the case is one of urgency, or that the land is, or the premises are, unoccupied or the occupier is temporarily absent.
+(6) A warrant expires—
+(a)
+when it is no longer needed for the purposes for which it is granted,
+(b)
+if earlier, when any period as may be specified in it expires.
+(7) Where documents, records, packaging, material, products or parts of products are seized in accordance with paragraph (4), the authorised person must—
+(a)
+allow the person who is the occupier of the premises from which documents or records are seized at the time those documents or records are seized to make copies of any documents or records seized, if requested to do so, and
+(b)
+provide on request from the person who is the occupier of the premises from which documents, records, packaging, material, products or parts of products are seized, a receipt in respect of anything so seized.
+(8) An authorised person who enters any unoccupied premises must leave them as effectively secured as they were before those premises were entered.
+(9) Nothing in paragraph (4) is to be construed as requiring any person to answer any question if to do so might incriminate that person.
+(10) Nothing in this regulation confers power on an authorised person to seize an item which that person has reasonable grounds to believe would in legal proceedings be protected from disclosure on grounds of confidentiality of communications or legal professional privilege.Offences
+31.—(1) It is an offence to contravene—
+(a)
+regulation 4(1),
+(b)
+regulation 4(2),
+(c)
+regulation 5(2)(a),
+(d)
+regulation 5(2)(b),
+(e)
+regulation 5(3).
+(2) It is an offence for a person to knowingly or recklessly supply false information in connection with—
+(a)
+an application for producer registration submitted in accordance with chapter 2 of Part 3,
+(b)
+an application for approval of a scheme administrator submitted in accordance with Part 4,
+(c)
+an application for exemption of a retailer from the obligation to operate a return point submitted in accordance with chapter 3 of Part 5,
+(d)
+an application for registration of a voluntary return point submitted in accordance with chapter 4 of Part 5,
+(e)
+a notification to SEPA or the Scottish Ministers of any material change in accordance with regulation—
+(i)
+10(1)(c),
+(ii)
+16(1)(c),
+(iii)
+22(4)(b),
+(iv)
+25(8)(b).
+(3) It is an offence for a producer whose registration has been cancelled in accordance with regulation 9(1) to fail, without reasonable excuse, to comply with the obligations specified in—
+(a)
+regulation 9(7)(a),
+(b)
+regulation 9(7)(b).
+(4) It is an offence for a registered producer to fail, without reasonable excuse, to comply with the producer obligations set out in regulations 10(1)(b) and (c).
+(5) It is an offence for a registered producer that has registered in accordance with regulation 7(1)(a) to fail, without reasonable excuse, to comply with the obligations in—
+(a)
+regulation 11(1)(a) and (b),
+(b)
+regulation 11(1)(c) to (h).
+(6) It is an offence for a producer registered through a scheme administrator to fail, without reasonable excuse, to comply with the obligations in regulation 12(2).
+(7) It is an offence for a scheme administrator to fail, without reasonable excuse, to comply with the obligations set out in—
+(a)
+regulation 16(1)(a)(i),
+(b)
+regulation 16(1)(a)(ii),
+(c)
+regulation 16(1)(b),
+(d)
+regulation 16(1)(c).
+(8) It is an offence for a retailer—
+(a)
+to fail, without reasonable excuse, to comply with—
+(i)
+regulation 19(1)(b),
+(ii)
+regulation 21(2),
+(iii)
+regulation 22(4)(b),
+(b)
+to fail to comply with regulation 19(1)(c),
+(c)
+to fail to comply with regulation 21(4),
+(d)
+to fail to comply with regulation 22(4)(a),
+(9) It is an offence for a return point operator—
+(a)
+to fail, without reasonable excuse, to comply with regulation 20(2),
+(b)
+to fail to comply with regulation 20(3).
+(10) It is an offence for a registered voluntary return point operator to fail, without reasonable excuse, to comply with regulation 25(8)(b).
+(11) It is an offence for a person to obstruct or fail to assist an authorised person exercising the enforcement powers under regulation 30(4).
+(12) It is an offence for a person served with a notice in accordance with regulation 30(4)(l) to fail, without reasonable excuse, to comply with that notice.
+(13) It is an offence for a person to purport to act as a scheme administrator without being approved under regulation 15.
+(14) Where a person is charged with an offence under paragraphs (1), (8)(b) to (d), or (9)(b), it is a defence for that person to show that person took all reasonable precautions and exercised all due diligence to prevent the offence being committed.
+(15) A person guilty of an offence under this regulation is liable—
+(a)
+on summary conviction, to a fine not exceeding the statutory maximum,
+(b)
+on conviction on indictment, to a fine.
+(16) Where—
+(a)
+an offence has been committed by a body corporate or a Scottish partnership or other unincorporated association, and
+(b)
+it is proved that the offence was committed with the consent or connivance of, or was attributable to any neglect on the part of—
+(i)
+a relevant individual, or
+(ii)
+an individual purporting to act in the capacity of a relevant individual,
+the individual as well as the body corporate, Scottish partnership or unincorporated association commits an offence and is liable to be proceeded against and punished accordingly.
+(17) In paragraph (16), “relevant individual” means—
+(a)
+in relation to a body corporate—
+(i)
+a director, manager, secretary or some other similar officer or person,
+(ii)
+where the affairs of the body are managed by its members, a member,
+(b)
+in relation to a Scottish partnership, a partner,
+(c)
+in relation to an unincorporated association other than a Scottish partnership, a person who is concerned in the management or control of the association.Duty to review these Regulations
+32.—(1) The Scottish Ministers must, before 1 October 2026—
+(a)
+carry out a review of the operation of these Regulations,
+(b)
+set out the conclusions of the review in a report, and
+(c)
+lay that report before the Scottish Parliament.
+(2) When carrying out the review, the Scottish Ministers must consult—
+(a)
+SEPA,
+(b)
+any scheme administrator, and
+(c)
+any other persons the Scottish Ministers consider appropriate.
+(3) The review must, in particular, consider the following—
+(a)
+the materials included in the definition of scheme article and scheme packaging in regulation 3,
+(b)
+the deposit set in regulation 5, and
+(c)
+the collection targets in schedule 3.Name
+A member of the Scottish Government
+St Andrew’s House,
+Edinburgh
+DateRegulation 7(3)(b)
+SCHEDULE 1
+Producer Registration: Information to be contained in an application for producer registration
+1.  The name (including business name) of the producer.
+2.  The address and telephone number of the registered or principal office of the producer.
+3.  The company registration number as kept by Companies House.
+4.  The name and telephone number of a contact person for the producer, and, where available, a fax number and email address for that person.
+5.  Where the producer is a partnership, the names of all the partners.
+6.  Where relevant, the code for an activity in the UK Standard Industrial Classification of Economic Activities 2007 (SIC 2007)(1), as amended from time to time.
+7.  The number of scheme articles first made available by that producer to be marketed, offered for sale or sold for the purposes of its retail sale in Scotland in the previous calendar year and the primary packaging material of those scheme articles.
+8.  Relevant information that supports the identification of scheme articles first marketed, offered for sale or sold for the purposes of retail sale in Scotland by that producer, including—
+(a)
+any trade mark or distinguishing marks placed on scheme articles or scheme packaging which assists in identifying the producer,
+(b)
+any unique codes or marks designed to support the capture of data relating to the scheme article or scheme packaging (for example, a European Article Number).
+9.  The number of scheme articles that share characteristics listed in accordance with paragraph 8 that were first made available to be marketed, offered for sale or sold for the purposes of its retail sale in Scotland by the producer in the previous calendar year.
+10.  The number of scheme articles the producer anticipates it will place on the market for retail sale in Scotland in the calendar year in which the application is being made.
+11.  An operational plan that demonstrates how the producer intends to comply with the obligations in regulations 10 and 11.
+(1)
+A copy of the UK Standard Industrial Classification of Economic Activities can be found at: https://www.ons.gov.uk/methodology/classificationsandstandards/ukstandardindustrialclassificationofeconomicactivities .Regulation 14(2)(b)
+SCHEDULE 2
+Scheme administrator approval: Information to be contained in an application for scheme administrator approval
+1.  The name (including business name) of the scheme administrator.
+2.  The address and telephone number of the registered or principal office of the scheme administrator.
+3.  The address for service of notices if different from that in paragraph 2.
+4.  Information which demonstrates—
+(a)
+that the scheme administrator is likely to subsist for a period of at least 5 years,
+(b)
+in the form of an operational plan, how the scheme administrator intends to comply with regulations 10 and 11 on behalf of any producer registered or to be registered following the grant of an application made or to be made by the scheme administrator in accordance with regulation 7(1)(b).
+5.  A copy of the constitution of the scheme administrator or founding document if it exists.
+6.  A copy of the rules and procedures applicable to producers that the scheme administrator is acting on behalf of.Regulation 11(1)(h)
+SCHEDULE 3
+Collection targets
+1.  The minimum collection targets which a producer must meet in respect of scheme packaging containing a scheme article each calendar year are as follows—
+(a)
+for the calendar year beginning 1 January 2023 and ending 31 December 2023, 70% of the number of items of scheme packaging first made available to be marketed, offered for sale or sold for the purposes of its retail sale in Scotland by that producer in that year,
+(b)
+for the calendar year beginning 1 January 2024 and ending 31 December 2024, 80% of the number of items of scheme packaging first made available to be marketed, offered for sale or sold for the purposes of its retail sale in Scotland by that producer in that year,
+(c)
+subject to sub-paragraph (d), for the calendar year beginning 1 January 2025 and each subsequent calendar year, 90% of the number of items of scheme packaging first made available to be marketed, offered for sale or sold for the purposes of its retail sale in Scotland by that producer in that calendar year,
+(d)
+the target in sub-paragraph (c) must include a minimum of—
+(i)
+85% of the number of items of scheme packaging first made available to be marketed, offered for sale or sold for the purposes of its retail sale in Scotland by that producer made mainly or wholly from PET plastic,
+(ii)
+85% of the number of items of scheme packaging first made available to be marketed, offered for sale or sold for the purposes of its retail sale in Scotland by that producer made mainly or wholly from glass,
+(iii)
+85% of the number of items of scheme packaging first made available to be marketed, offered for sale or sold for the purposes of its retail sale in Scotland by that producer made mainly or wholly from steel or aluminium.Regulation 25(2)(b)
+SCHEDULE 4
+Registration of a voluntary return point operator: Information to be contained in an application for registration
+1.  The name (including business name), of the person who will be the return point operator.
+2.  The address and telephone number of the registered or principal office of that operator.
+3.  The address and telephone number of the proposed return point if different from that in paragraph 2.
+4.  Information about the accessibility of the proposed return point including—
+(a)
+the physical location of it,
+(b)
+routes of access to it, and
+(c)
+its proposed hours of operation.
+5.  Information which demonstrates—
+(a)
+that the applicant has sufficient resources to set up and operate the return point for the first year of operation,
+(b)
+the number of items of scheme packaging the applicant expects to be returned to them in an average month and how this has been calculated,
+(c)
+how the applicant intends to manage this volume of returns.
+6.  Confirmation in writing that all registered producers have agreed that the applicant may operate a return point on their behalf (or in the case of producers registered through a scheme administrator, that scheme administrator on their behalf).EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations make provision for the operation of a deposit and return scheme (“the scheme”) for “scheme articles”, which are drinks that are intended to be sold to consumers in Scotland and are contained in single-use packaging made from polyethelene terephthalate plastic, glass, aluminium and steel, and “scheme packaging”, being the packaging for those articles.
+Regulations 2 and 3 define terms used in these Regulations, including scheme articles and scheme packaging to which these Regulations apply.
+Regulation 4 prohibits the marketing (including through online retail or vending machine sales) or sale to a consumer in Scotland of scheme articles, if the producer of those articles did not make them available for the purposes of retail sale in Scotland, or if the producer is not registered with SEPA in accordance with chapter 2 of Part 3 of these Regulations.
+Regulation 5 provides that when a scheme article is sold in Scotland a deposit of 20 pence must be charged. The seller must also make it clear by providing information to the purchaser that the product is a scheme article and its packaging can be returned in exchange for a deposit, and must inform the purchaser where the item is not a scheme article. These obligations do not apply in the case of sales of articles in export shops, exclusively for consumption on the premises of sale or made available for the purposes of their retail sale outside Scotland.
+Regulation 6 defines producers as either the brand owner (for scheme articles branded in the United Kingdom) or the importer (for scheme articles branded outside the United Kingdom).
+Regulations 7 to 9 and schedule 1 set out the requirements and procedures for registering producers for the purposes of the scheme. Producers can either register directly with SEPA and discharge the producer obligations themselves, or through a scheme administrator (approved in accordance with Part 4 of these Regulations), in which case that scheme administrator is responsible for discharging those obligations on behalf of those producers. Once registered a producer’s registration only ends if cancelled by SEPA. SEPA may cancel registration if a producer fails to comply with producer obligations, or fails to submit an application for registration annually.
+Regulations 10 and 11, and schedule 3 make provision about the obligations on registered producers (which must be discharged by a registered producer, or by a scheme administrator on behalf of a producer registered through that scheme administrator). These include collection of a target percentage of the scheme packaging which they place on the market in a calendar year, collecting their own scheme packaging from retailers and return points, accepting the return of their scheme packaging from wholesalers and reimbursing deposits for any packaging returned or collected.
+Regulation 12 makes provision about obligations on producers whose registration and obligations under regulations 10 and 11 are discharged by a scheme administrator.
+Regulation 13 provides for a scheme administrator, defines what a scheme administrator is and provides for their approval by the Scottish Ministers.
+Regulations 14 and 15, and schedule 2 provide for the procedure for approval by the Scottish Ministers of a scheme administrator. A scheme administrator must submit an application providing the information specified in schedule 2. Once registered a scheme administrator remains approved unless or until that approval is withdrawn by the Scottish Ministers. Regulation 16 sets out the obligations imposed on a scheme administrator and regulation 17 provides under which the Scottish Ministers may withdraw approval. Withdrawal of approval can be triggered by the scheme administrator’s failure to comply with the obligations imposed on them in regulation 16, the scheme administrator knowingly or recklessly supplying false information to the Scottish Ministers or SEPA, if the scheme administrator commits an offence or if there is a change in the information provided on application for approval. The Scottish Ministers must withdraw approval if a scheme administrator notifies them that it intends to cease operating as a scheme administrator.
+Regulation 18 defines a retailer as a person who markets, offers for sale or sells a scheme article to a consumer in Scotland (which includes online retail sale operators and vending machine operators).
+Regulation 19 provides for obligations of retailers to operate a return point at a premises from which sales of scheme articles are made. Retailers who have been granted an exemption by the Scottish Ministers, retailers selling by way of distance sales and export shops, and vending machine operators are exempt from having to run a return point. Retailers must also ensure that information about how a deposit can be redeemed must be displayed where scheme articles are displayed for sale.
+Regulation 20 provides for obligations of return point operators to accept (subject to certain exceptions) and retain for collection by or on behalf of producers, items of scheme packaging which have been returned by consumers, and to pay a deposit to the consumer for every item of packaging returned by that consumer.
+Regulation 21 provides for obligations of retailers selling scheme articles by means of distance sales to provide takeback services to consumers who have purchased those items, to enable those consumers to return items of scheme packaging.
+Regulations 22 to 24 enable the granting of exemptions by the Scottish Ministers (whether or not on receipt of an application by a retailer) in respect of the obligation to operate a return point at retail premises. That is subject to the Scottish Ministers being satisfied that there is an alternative return point within a reasonable proximity to the premises, and that consumers will still have reasonable access to a return point. An alternative exemption may be granted by the Scottish Ministers if they are satisfied that it is not possible for a retailer to operate a return point on their premises without significant risk of breaching legal obligations relating to environmental health.
+Regulation 25 and schedule 4 make provision for a person to apply to register with the Scottish Ministers to operate a voluntary return point from premises other than retail premises.
+Regulations 26 to 29 provide for a process for appeals against and reviews of decisions of SEPA or the Scottish Ministers including decisions in relation to registration of producers, and approval of scheme administrators.
+Regulation 30 provides powers for SEPA (through persons authorised in writing for that purpose) to enforce the requirements arising under these Regulations, including powers of entry to premises other than domestic premises.
+Regulation 31 provides for offences, and for penalties on conviction of an offence.
+Regulation 32 requires the Scottish Ministers to review the operation of these Regulations. The review must be completed, and a report of the review must be laid before the Scottish Parliament, before 1 October 2026.
+A draft of these Regulations was notified to the European Commission in accordance with Directive (EU) 2015/1535 of the European Parliament and of the Council laying down a procedure for the provision of information in the field of technical regulations and of rules on Information Society Services (OJ No L 241, 17.9.2015, p.1).
+A Business Regulatory Impact Assessment has been prepared and placed in the Scottish Parliament Information Centre. Copies can be obtained from the Scottish Government, Environmental Quality Division, Area 3H South, Victoria Quay, Edinburgh, EH6 6QQ, and online at legislation.gov.uk.

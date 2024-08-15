@@ -1,0 +1,44 @@
+This Statutory Instrument, in part, corrects an error in the Product Security and Telecommunications Infrastructure (Security Requirements for Relevant Connectable Products) Regulations 2023 (S.I. 2023/1007). It is being issued free of charge to all known recipients of that Statutory Instrument.
+Draft Regulations laid before Parliament under sections 2(6), 6(4) and 77(5) of the Product Security and Telecommunications Infrastructure Act 2022, for approval by resolution of each House of Parliament.
+DRAFT STATUTORY INSTRUMENTS
+2024 No.
+CONSUMER PROTECTION
+The Product Security and Telecommunications Infrastructure (Security Requirements for Relevant Connectable Products) (Amendment) Regulations 2024
+Made
+Coming into force
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 1(1) and 6(1) of the Product Security and Telecommunications Infrastructure Act 2022(1).
+A draft of these Regulations has been laid before, and approved by a resolution of, each House of Parliament in accordance with sections 2(6), 6(4) and 77(5) of the Product Security and Telecommunications Infrastructure Act 2022.
+(1)
+2022 c. 46.Citation, commencement, extent and interpretation
+1.—(1) These Regulations may be cited as the Product Security and Telecommunications Infrastructure (Security Requirements for Relevant Connectable Products) (Amendment) Regulations 2024.
+(2) These Regulations come into force on the day after the day on which they are made.
+(3) These Regulations extend to England and Wales, Scotland and Northern Ireland.
+(4) In these Regulations, “the 2023 Regulations” means the Product Security and Telecommunications Infrastructure (Security Requirements for Relevant Connectable Products) Regulations 2023(1).
+(1)
+S.I. 2023/1007.Amendment of the 2023 Regulations
+2.  The 2023 Regulations are amended in accordance with regulations 3 and 4.Amendment to Schedule 1
+3.  In Schedule 1 to the 2023 Regulations (security requirements for manufacturers), in paragraph 3(3) (information on minimum security update periods) before “must” insert “period”.Amendment to Schedule 3
+4.  In Schedule 3 to the 2023 Regulations (excepted connectable products), after paragraph 5 insert—
+“Motor vehicles
+6.  Products are excepted in Great Britain under this paragraph if they are products to which Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles(1) applies.
+Two- or three-wheel vehicles and quadricycles
+7.  Products are excepted in Great Britain under this paragraph if they are products to which Regulation (EU) No 168/2013 of the European Parliament and of the Council of 15 January 2013 on the approval and market surveillance of two- or three-wheel vehicles and quadricycles(2) applies.
+Agricultural and forestry vehicles
+8.  Products are excepted in Great Britain under this paragraph if they are products to which Regulation (EU) No 167/2013 of the European Parliament and of the Council of 5 February 2013 on the approval and market surveillance of agricultural and forestry vehicles(3) applies.”.
+(1)
+EUR 2018/858. Article 2 of EUR 2018/858, which specifies the products that are within the scope of that Regulation, has been amended by S.I. 2022/1273.
+(2)
+EUR 2013/168. Article 2 of EUR 2013/168, which specifies the products that are within the scope of that Regulation, has not been amended.
+(3)
+EUR 2013/167. Article 2 of EUR 2013/167, which specifies the products that are within the scope of that Regulation, has been amended by EUR 2019/519.Department for Science, Innovation and Technology
+DateEXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the Product Security and Telecommunications Infrastructure (Security Requirements for Relevant Connectable Products) Regulations 2023 (S.I. 2023/1007) (“the 2023 Regulations”).
+Regulation 3 amends paragraph 3 (information on minimum security update periods) of Schedule 1 to the 2023 Regulations to make it clear that, where a manufacturer of relevant connectable products extends the minimum length of time for which security updates relating to such products will be provided, the new minimum length of time must be published as soon as is practicable.
+Schedule 3 to the 2023 Regulations lists products that are excepted from being considered relevant connectable products for the purposes of section 4 (relevant connectable products) of the Product Security and Telecommunications Infrastructure Act 2022 (“the 2022 Act”). Regulation 4 inserts three new exceptions. This creates equivalent exceptions in Great Britain to the exceptions that apply in relation to the supply in Northern Ireland of products to which the following legislation applies—
+Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles;
+Regulation (EU) No 168/2013 of the European Parliament and of the Council of 15 January 2013 on the approval and market surveillance of two- or three-wheel vehicles and quadricycles; or
+Regulation (EU) No 167/2013 of the European Parliament and of the Council of 5 February 2013 on the approval and market surveillance of agricultural and forestry vehicles.
+The exceptions created by regulation 4 are in line with the policy position previously notified to the World Trade Organisation in accordance with the United Kingdom’s obligations under the Technical Barriers to Trade Agreement (notification G/TBT/N/GBR/62) and to the EU Commission under the Technical Standards and Regulations Directive (notification 2023/7004/XI).
+A full impact assessment has not been prepared for this instrument. The impact assessment for the 2023 Regulations was undertaken as if the amendments made by regulations 3 and 4 were already implemented. Copies of the impact assessment for the 2023 Regulations are available upon request to the Department for Science, Innovation and Technology, 100 Parliament Street, London, SW1A 2BQ. That impact assessment is also accessible at https://www.legislation.gov.uk/uksi/2023/1007/impacts.
+An Explanatory Memorandum is published alongside this instrument at https://www.legislation.gov.uk.

@@ -1,0 +1,472 @@
+WELSH STATUTORY INSTRUMENTS
+2020 No. 1303 (W. 288)
+PLANT HEALTH, WALES
+The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) (Amendment) (No. 2) Regulations 2020
+Made
+16 November 2020
+Laid before Senedd Cymru
+18 November 2020
+Coming into force
+15 December 2020
+The Welsh Ministers are designated for the purposes of section 2(2) of the European Communities Act 1972(1) in relation to the common agricultural policy(2).
+The Welsh Ministers make these Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972.
+(1)
+1972 c. 68. The European Communities Act 1972 (“the 1972 Act”) was repealed by section 1 of the European Union (Withdrawal) Act 2018 (c. 16) (“the 2018 Act”) with effect from exit day. “Exit day” is defined in section 20 of the 2018 Act as 31 January 2020 at 11pm. Despite that repeal the 1972 Act continues to have effect with modifications until IP completion day, by virtue of section 1A of the 2018 Act. Section 1A was inserted by section 1 of the European Union (Withdrawal Agreement) Act 2020 (c. 1) (“the 2020 Act”). “IP completion day” is defined in section 1A as 31 December 2020 at 11pm (the meaning given in section 39 of the 2020 Act). Section 2(2) of the 1972 Act was previously amended by section 27(1) of the Legislative and Regulatory Reform Act 2006 (c. 51) and by section 3(3) of, and Part 1 of the Schedule to, the European Union (Amendment) Act 2008 (c. 7).
+(2)
+S.I. 2010/2690; which is prospectively revoked by S.I. 2018/1011 from IP completion day.Title and commencement
+1.  The title of these Regulations is the Official Controls (Plant Health and Genetically Modified Organisms) (Wales) (Amendment) (No. 2) Regulations 2020 and they come into force on 15 December 2020.Amendment of the Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020
+2.—(1) The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020(1) are amended as follows.
+(2) For regulation 31(3) substitute—
+“(3) Paragraph (1) does not apply—
+(a)
+to any premises which are used wholly or mainly as a private dwelling unless 24 hours’ notice has been given to the occupier, or
+(b)
+in relation to any notice served under Schedule 4A.”
+(3) In regulation 36(1), at the end insert “or Schedule 4A”.
+(4) In regulation 37—
+(a)
+in paragraph (3), after “plant health inspector” insert “or the appropriate authority”;
+(b)
+in paragraph (6), in the definition of “notice”, after “plant health inspector” insert “or the appropriate authority”.
+(5) In regulation 39—
+(a)
+the unnumbered paragraph becomes paragraph (1) of that regulation;
+(b)
+after paragraph (1) as renumbered, insert—
+“(2) Paragraph (1)(a) does not apply in relation to any notice served under Schedule 4A.”
+(6) In regulation 46(1), after “this Part” insert “or paragraph 22 of Schedule 4A (failure to comply with a stop notice)”.
+(7) In regulation 47(1), after “this Part” insert “or paragraph 22 of Schedule 4A (failure to comply with a stop notice)”.
+(8) After regulation 48 insert—
+“PART 11A
+Civil Sanctions
+Civil sanctions
+48A.  Schedule 4A (which provides for civil sanctions) has effect.”
+(9) After Schedule 4, insert the Schedule contained in the Schedule to these Regulations.
+(1)
+S.I. 2020/206 (W. 48).Lesley Griffiths
+Minister for Environment, Energy and Rural Affairs, one of the Welsh Ministers
+16 November 2020Regulation 2(9)
+SCHEDULE
+Insertion of new Schedule 4A
+Regulation 48A
+“SCHEDULE 4A
+Civil sanctions
+PART 1
+Power to impose civil sanctions
+Compliance notice
+1.—(1) This paragraph applies where the appropriate authority is satisfied on the balance of probabilities that a person has committed an offence under Part 11 of these Regulations.
+(2) The appropriate authority may by notice (a “compliance notice”) impose on that person a requirement to take such steps as the appropriate authority may specify, within such period as it may specify, to secure that the offence does not continue or recur.
+(3) A compliance notice may not be imposed on more than one occasion in relation to the same act or omission.
+Restoration notice
+2.—(1) This paragraph applies where the appropriate authority is satisfied on the balance of probabilities that a person has committed an offence under Part 11 of these Regulations.
+(2) The appropriate authority may by notice (a “restoration notice”) impose on that person a requirement to take such steps as the appropriate authority may specify, within such period as it may specify, to secure that the position is, so far as possible, restored to what it would have been if the offence had not been committed.
+(3) A restoration notice may not be imposed on more than one occasion in relation to the same act or omission.
+Imposition of a fixed monetary penalty
+3.—(1) This paragraph applies where the appropriate authority is satisfied on the balance of probabilities that a person has committed an offence under Part 11 of these Regulations.
+(2) The appropriate authority may by notice impose on that person a requirement to pay a monetary penalty to the appropriate authority of £250 where the person is an individual and £2000 where the person is a body corporate, partnership or unincorporated association (a “fixed monetary penalty”).
+(3) A fixed monetary penalty may not be imposed on more than one occasion in relation to the same act or omission.
+(4) The appropriate authority may recover any fixed monetary penalty imposed under this paragraph as if payable under an order of the court.
+(5) A fixed monetary penalty paid to the appropriate authority under this paragraph must be paid into the Consolidated Fund.
+Imposition of a variable monetary penalty
+4.—(1) This paragraph applies where the appropriate authority is satisfied on the balance of probabilities that a person has committed an offence under Part 11 of these Regulations.
+(2) The appropriate authority may by notice impose on that person a requirement to pay a monetary penalty to the appropriate authority in such amount as it may determine (a “variable monetary penalty”).
+(3) A variable monetary penalty may not be imposed on more than one occasion in relation to the same act or omission.
+(4) The amount of a variable monetary penalty must not exceed £250,000.
+(5) Before serving a notice relating to a variable monetary penalty, the appropriate authority may require the person on whom it is to be served to provide such information as is reasonable to establish the amount of any financial benefit arising as a result of the offence.
+(6) The appropriate authority may recover any variable monetary penalty imposed under this paragraph as if payable under an order of the court.
+(7) A variable monetary penalty paid to the appropriate authority under this paragraph must be paid into the Consolidated Fund.
+Notice of intent
+5.—(1) If the appropriate authority proposes to serve on a person a compliance notice, a restoration notice or a notice imposing a fixed or variable monetary penalty under this Part, it must serve on that person a notice of what is proposed (a “notice of intent”).
+(2) The notice of intent must include—
+(a)
+the grounds for serving the proposed notice;
+(b)
+the requirements of the proposed notice and, in the case of a penalty, the amount to be paid and how payment may be made;
+(c)
+in the case of a fixed monetary penalty—
+(i)
+a statement that liability for the penalty can be discharged by paying 50% of the penalty within 28 days beginning with the day on which the notice was served, and
+(ii)
+information as to the effect of discharging the penalty;
+(d)
+information as to—
+(i)
+the right to make representations and objections within 28 days beginning with the day on which the notice of intent was served, and
+(ii)
+the circumstances in which the appropriate authority may not serve the proposed notice.
+Combination of penalties
+6.—(1) The appropriate authority may not serve a notice of intent relating to a fixed monetary penalty if, in relation to the same offence—
+(a)
+a compliance notice, restoration notice or stop notice has been served on that person (see paragraphs 1, 2 and 17),
+(b)
+a variable monetary penalty has been imposed on that person (see paragraph 4), or
+(c)
+a third party or enforcement undertaking has been accepted from that person (see paragraphs 9 and 23).
+(2) The appropriate authority may not serve a notice of intent relating to a compliance notice, a restoration notice or a variable monetary penalty, or serve a stop notice, on any person if, in relation to the same offence—
+(a)
+a fixed monetary penalty has been imposed on that person, or
+(b)
+that person has discharged liability for a fixed monetary penalty following service of a notice of intent to impose that penalty.
+Discharge of liability – fixed monetary penalties
+7.  A fixed monetary penalty is discharged if a person on whom a notice of intent is served pays 50% of the amount of the penalty within 28 days beginning with the day on which the notice was served.
+Making representations and objections
+8.  A person on whom a notice of intent is served may within 28 days beginning with the day on which the notice is served make written representations and objections to the appropriate authority in relation to the proposed service of a compliance notice, restoration notice or notice imposing a fixed or variable monetary penalty.
+Third party undertakings
+9.—(1) A person on whom a notice of intent relating to a compliance notice, a restoration notice or a variable monetary penalty is served may offer an undertaking as to action to be taken by that person (including the payment of a sum of money) to benefit any third party affected by the offence (a “third party undertaking”).
+(2) The appropriate authority may accept or reject a third party undertaking.
+(3) The appropriate authority must take into account any third party undertaking that it accepts in its decision as to whether or not to serve a final notice, and, if it serves a notice imposing a variable monetary penalty, the amount of the penalty.
+Final notice
+10.—(1) After the end of the period for making representations and objections, the appropriate authority must decide whether to impose the requirements described in the notice of intent, with or without modifications.
+(2) Where the appropriate authority decides to impose a requirement, the notice imposing it (the “final notice”) must comply with paragraph 11 (for compliance or restoration notices) or 12 (for fixed or variable monetary penalties).
+(3) The appropriate authority may not impose a final notice on a person where it is satisfied that the person would not, by reason of any defence, permit or licence, be liable to be convicted of the offence to which the notice relates.
+(4) Where the appropriate authority serves a final notice relating to a fixed monetary penalty in respect of any offence, the appropriate authority may not in relation to that offence serve—
+(a)
+a compliance notice,
+(b)
+a restoration notice,
+(c)
+a notice imposing a variable monetary penalty, or
+(d)
+a stop notice.
+(5) This paragraph does not apply to a person who has discharged a fixed monetary penalty in accordance with paragraph 7.
+Contents of final notice: compliance and restoration notices
+11.  A final notice relating to a compliance notice or a restoration notice must include information as to—
+(a)
+the grounds for serving the notice,
+(b)
+what compliance or restoration is required and the period within which it must be completed,
+(c)
+rights of appeal, and
+(d)
+the consequences of failing to comply with the notice.
+Contents of final notice: fixed and variable monetary penalties
+12.  A final notice relating to a fixed or variable monetary penalty must include information as to—
+(a)
+the grounds for imposing the penalty,
+(b)
+the amount to be paid,
+(c)
+how payment may be made,
+(d)
+the period within which payment must be made (the “payment period”), which must be not less than 56 days beginning with the day on which the notice is served,
+(e)
+in the case of a fixed monetary penalty, details of the early payment discount (see paragraph 13) and late payment penalties (see paragraph 15(2) and (3)),
+(f)
+rights of appeal, and
+(g)
+the consequences of failing to comply with the notice.
+Fixed monetary penalty: discount for early payment
+13.  If a person who was served with a notice of intent relating to a proposed fixed monetary penalty made representations or objections concerning that notice within the time limit specified in paragraph 8, that person may discharge the final notice by paying 50% of the final penalty within 28 days beginning with the day on which the final notice was served.
+Appeals against a final notice
+14.—(1) The person on whom a final notice is served may appeal against it.
+(2) The grounds for appeal are—
+(a)
+that the decision was based on an error of fact;
+(b)
+that the decision was wrong in law;
+(c)
+in the case of a variable monetary penalty, that the amount of the penalty is unreasonable;
+(d)
+in the case of a non-monetary requirement, that the nature of the requirement is unreasonable;
+(e)
+that the decision was unreasonable for any other reason;
+(f)
+that the decision was wrong for any other reason.
+Fixed monetary penalty: non-payment within the stated payment period
+15.—(1) This paragraph applies to a final notice relating to a fixed monetary penalty.
+(2) If the final penalty is not paid within the stated payment period, the amount payable is increased by 50%.
+(3) In the case of an appeal which is unsuccessful, the penalty is payable within 28 days of the determination of the appeal, and if it is not paid within 28 days, the amount of the penalty is increased by 50%.
+Criminal proceedings
+16.—(1) If—
+(a)
+a compliance notice or restoration notice is served on any person,
+(b)
+a third party undertaking is accepted from any person,
+(c)
+a notice imposing a variable monetary penalty is served on any person, or
+(d)
+a fixed monetary penalty is served on any person,
+that person may not at any time be convicted of an offence under Part 11 of these Regulations in respect of the act or omission giving rise to the compliance notice, restoration notice, third party undertaking, variable monetary penalty or fixed monetary penalty except in a case falling within paragraph (a) or (b) (and not also falling within paragraph (c)) where the person fails to comply with a compliance notice, restoration notice or third party undertaking (as the case may be).
+(2) Criminal proceedings for offences to which a notice or third party undertaking in sub-paragraph (1) relates may be instituted at any time up to 6 months from the date from when the appropriate authority notifies the person against whom the proceedings are to be taken that the person has failed to comply with that notice or undertaking.
+PART 2
+Stop notices
+Stop notices
+17.—(1) The appropriate authority may serve a notice (a “stop notice”) on any person prohibiting that person from carrying on an activity specified in the notice until the person has taken the steps specified in the notice.
+(2) A stop notice may only be served where—
+(a)
+the person is carrying on the activity or the appropriate authority reasonably believes that the person is likely to carry on the activity,
+(b)
+the appropriate authority reasonably believes that the activity is causing, or is likely to cause, economic or environmental harm, or adverse effects to plant health, and
+(c)
+the appropriate authority reasonably believes that the activity carried on, or likely to be carried on, by that person involves or is likely to involve, the commission of an offence under Part 11 of these Regulations.
+(3) The steps referred to in sub-paragraph (1) must be steps to eliminate the risk of the offence being committed.
+Contents of a stop notice
+18.  A stop notice must include information as to—
+(a)
+the grounds for serving the stop notice,
+(b)
+the activity which is prohibited,
+(c)
+the steps the person must take to comply with the stop notice and the period within which they must be completed,
+(d)
+rights of appeal, and
+(e)
+the consequences of failing to comply with the notice.
+Appeals
+19.—(1) The person on whom a stop notice is served may appeal against the decision to serve it.
+(2) The grounds for appeal are—
+(a)
+that the decision was based on an error of fact;
+(b)
+that the decision was wrong in law;
+(c)
+that the decision was unreasonable;
+(d)
+that any step specified in the notice is unreasonable;
+(e)
+that the person has not committed the offence and would not have committed it had the stop notice not been served;
+(f)
+that the person would not, by reason of any defence, permit or licence have been liable to be convicted of the offence had the stop notice not been served;
+(g)
+that the decision was wrong for any other reason.
+Completion certificates
+20.—(1) The appropriate authority must issue a certificate (a “completion certificate”) if, after service of a stop notice, the appropriate authority is satisfied that the person on whom it was served has taken the steps specified in the notice.
+(2) A stop notice ceases to have effect on the issue of a completion certificate.
+(3) The appropriate authority may require the person on whom the stop notice was served to provide sufficient information to determine that the steps specified in the notice have been taken.
+(4) A person on whom a stop notice is served may at any time apply for a completion certificate.
+(5) The appropriate authority must decide whether to issue a completion certificate and give written notice of the decision to the applicant (including information as to the right of appeal) within 14 days of the application.
+(6) The applicant may appeal against a decision not to issue a completion certificate on the grounds that the decision—
+(a)
+was based on an error of fact;
+(b)
+was wrong in law;
+(c)
+was unfair or unreasonable;
+(d)
+was wrong for any other reason.
+Compensation
+21.—(1) The appropriate authority must compensate a person for loss suffered as the result of the service of the stop notice or the refusal of a completion certificate if that person has suffered loss as a result of the notice or refusal and—
+(a)
+the stop notice is subsequently withdrawn or amended by the appropriate authority because the decision to serve it was unreasonable or any step specified in the notice was unreasonable,
+(b)
+the appropriate authority is in breach of its statutory obligations,
+(c)
+the person successfully appeals against the stop notice and the First-tier Tribunal finds that the service of the notice was unreasonable, or
+(d)
+the person successfully appeals against the refusal of a completion certificate and the First-tier Tribunal finds that the refusal was unreasonable.
+(2) A person may appeal against a decision not to award compensation or the amount of compensation on the grounds that—
+(a)
+the appropriate authority’s decision was unreasonable,
+(b)
+the amount offered was based on incorrect facts, or
+(c)
+the decision was wrong for any other reason.
+Offences
+22.  If a person on whom a stop notice is served does not comply with it within the time limit specified in the notice, the person is guilty of an offence and liable on summary conviction to a fine.
+PART 3
+Enforcement undertakings
+Enforcement undertakings
+23.  Where the appropriate authority has reasonable grounds to suspect that a person has committed an offence under Part 11 of these Regulations, the appropriate authority may accept a written undertaking (an “enforcement undertaking”) given by that person to take such action as may be specified in the undertaking within such period as may be specified.
+Contents of an enforcement undertaking
+24.—(1) An enforcement undertaking must specify—
+(a)
+action to be taken by the person to secure that the offence does not continue or recur,
+(b)
+action to secure that the position is, so far as possible, restored to what it would have been if the offence had not been committed, or
+(c)
+action (including the payment of a sum of money) to be taken by the person to benefit any person affected by the offence.
+(2) It must specify the period within which the action must be completed.
+(3) It must include—
+(a)
+a statement that the undertaking is made in accordance with this Schedule,
+(b)
+the terms of the undertaking, and
+(c)
+information as to how and when the person is to be considered to have discharged the undertaking.
+(4) The enforcement undertaking may be varied, or the period within which the action must be completed may be extended, if both the appropriate authority and the person who gave the undertaking agree in writing.
+Acceptance of an enforcement undertaking
+25.—(1) If the appropriate authority has accepted an enforcement undertaking from a person—
+(a)
+that person may not at any time be convicted of the offence in respect of the act or omission to which the undertaking relates, and
+(b)
+the appropriate authority may not serve on that person a compliance notice, restoration notice or stop notice, or impose a fixed or variable monetary penalty on that person, in respect of that act or omission.
+(2) Paragraph (1) does not apply if a person who gave the undertaking has failed to comply with it or any part of it.
+Discharge of an enforcement undertaking
+26.—(1) If the appropriate authority is satisfied that an enforcement undertaking has been complied with, it must issue a certificate (a “discharge certificate”) to that effect.
+(2) An enforcement undertaking ceases to have effect on the issue of a discharge certificate.
+(3) The appropriate authority may require the person who has given the undertaking to provide sufficient information to determine that the undertaking has been complied with.
+(4) The person who gave the undertaking may at any time apply for a discharge certificate.
+(5) The appropriate authority must decide whether to issue a discharge certificate, and give written notice of the decision to the applicant (including information as to the right of appeal), within 14 days of such an application.
+(6) The applicant may appeal against a decision not to issue a discharge certificate on the grounds that the decision—
+(a)
+was based on an error of fact;
+(b)
+was wrong in law;
+(c)
+was unfair or unreasonable;
+(d)
+was wrong for any other reason.
+Inaccurate, incomplete or misleading information
+27.—(1) A person who has given inaccurate, incomplete or misleading information in relation to an enforcement undertaking is to be regarded as not having complied with it.
+(2) The appropriate authority may by notice in writing revoke a discharge certificate issued under paragraph 26 if it was issued on the basis of inaccurate, misleading or incomplete information.
+Non-compliance with an enforcement undertaking
+28.—(1) If a person does not comply with an enforcement undertaking, the appropriate authority may, in the case of an offence committed under Part 11 of these Regulations—
+(a)
+serve a compliance notice, restoration notice, variable monetary penalty, stop notice or non-compliance penalty, or
+(b)
+bring criminal proceedings.
+(2) If a person has complied partly but not fully with an undertaking, that partial compliance must be taken into account in the imposition of any criminal or other sanction on the person.
+(3) Criminal proceedings for offences to which an enforcement undertaking relates may be instituted at any time up to 6 months from the date on which the appropriate authority notifies the person that the person has failed to comply with the undertaking.
+PART 4
+Non-compliance penalties
+Non-compliance penalties
+29.—(1) The appropriate authority may serve a notice on a person imposing a monetary penalty (a “non-compliance penalty”) if that person fails to comply with—
+(a)
+a compliance notice, restoration notice or third party undertaking, irrespective of whether a variable monetary penalty was also imposed, or
+(b)
+an enforcement undertaking.
+(2) The amount of the non-compliance penalty must be determined by the appropriate authority, and must be a percentage of the costs of fulfilling the remaining requirements of the compliance notice, restoration notice, third party undertaking or enforcement undertaking.
+(3) The percentage must be determined by the appropriate authority having regard to all the circumstances of the case and may, if appropriate, be 100%.
+(4) The notice must include information as to—
+(a)
+the grounds for imposing the non-compliance penalty,
+(b)
+the amount to be paid,
+(c)
+how payment must be made,
+(d)
+the period in which payment must be made, which must not be less than 28 days beginning with the day on which the notice is served,
+(e)
+rights of appeal,
+(f)
+the consequences of failure to comply with the notice, and
+(g)
+any circumstances in which the appropriate authority may reduce the amount of the penalty.
+(5) If the requirements of the compliance notice, restoration notice, third party undertaking or enforcement undertaking are fulfilled before the time specified for payment of the non-compliance penalty, the penalty is not payable.
+(6) Following expiry of the specified payment period, the appropriate authority may recover the non-compliance penalty as if payable under an order of the court.
+(7) A non-compliance penalty paid to the appropriate authority under this paragraph must be paid into the Consolidated Fund.
+Appeals
+30.—(1) The person on whom the notice imposing the non-compliance penalty is served may appeal against it.
+(2) The grounds of appeal are—
+(a)
+that the decision to serve the notice was based on an error of fact;
+(b)
+that the decision was wrong in law;
+(c)
+that the decision was unfair or unreasonable for any reason;
+(d)
+that the amount of the penalty is unreasonable;
+(e)
+that the decision was wrong for another reason.
+PART 5
+Withdrawal and amendment of notices
+Withdrawing or amending a notice
+31.  The appropriate authority may at any time in writing—
+(a)
+withdraw a compliance notice, restoration notice or stop notice, or amend the steps specified in such a notice in order to reduce the amount of work necessary to comply with it,
+(b)
+withdraw a notice imposing a fixed monetary penalty, or
+(c)
+withdraw a notice imposing a variable monetary penalty or a non-compliance penalty, or reduce the amount of the penalty specified in the notice.
+PART 6
+Cost recovery
+Recovery of enforcement costs
+32.—(1) The appropriate authority may serve a cost recovery notice if any of the conditions in sub-paragraph (3) are met.
+(2) A cost recovery notice is a notice requiring the person to pay the appropriate authority’s costs.
+(3) The conditions are that the appropriate authority has—
+(a)
+imposed on the person a compliance notice under paragraph 1,
+(b)
+imposed on the person a restoration notice under paragraph 2,
+(c)
+imposed on the person a variable monetary penalty under paragraph 4, or
+(d)
+served on the person a stop notice under paragraph 17.
+(4) In sub-paragraph (2), the reference to costs is a reference to any costs relating to preparing and giving the compliance notice, restoration notice, variable monetary penalty, or stop notice, as the case may be, and includes a reference to the costs of any related investigation or expert advice (including legal advice).
+(5) The cost recovery notice must include information as to—
+(a)
+the amount of the costs which must be paid,
+(b)
+the period in which payment must be paid, which must not be less than 28 days beginning with the day on which the notice is served,
+(c)
+how payment must be made,
+(d)
+the consequences of failing to make payment within the specified payment period, and
+(e)
+rights of appeal.
+(6) Following expiry of the specified payment period, the appropriate authority may recover the costs referred to in the cost recovery notice as if payable under an order of the court.
+(7) The person on whom the cost recovery notice is served may appeal against it.
+(8) The grounds of appeal are—
+(a)
+that the decision to serve the notice was based on an error of fact;
+(b)
+that the decision was wrong in law;
+(c)
+that the decision was unfair or unreasonable for any reason;
+(d)
+that the amount of the penalty was unreasonable;
+(e)
+that the decision was wrong for any other reason.
+PART 7
+Appeals
+Appeals
+33.—(1) Any appeal under this Schedule must be made to the First-tier Tribunal.
+(2) In any appeal the Tribunal must determine the standard of proof.
+(3) An appeal against a notice served under this Schedule (other than a stop notice) suspends the effect of the notice appealed against until the appeal is determined or withdrawn.
+(4) The Tribunal may, in relation to the imposition of a requirement or service of a notice—
+(a)
+withdraw the requirement or notice;
+(b)
+confirm the requirement or notice;
+(c)
+vary the requirement or notice;
+(d)
+take such steps as the appropriate authority could take in relation to the act or omission giving rise to the requirement or notice;
+(e)
+remit the decision whether to confirm the requirement or notice, or any other matter relating to that decision, to the appropriate authority.
+PART 8
+Guidance and publicity
+Guidance as to the use of civil sanctions
+34.—(1) The appropriate authority must publish guidance about its use of civil sanctions.
+(2) The appropriate authority must revise and update guidance where appropriate.
+(3) The appropriate authority must have regard to the guidance or revised and updated guidance in exercising its functions.
+(4) In the case of guidance about compliance notices, restoration notices, fixed monetary penalties, variable monetary penalties, stop notices and non-compliance penalties, the guidance must contain information as to—
+(a)
+the circumstances in which the civil sanction is likely to be imposed,
+(b)
+the circumstances in which it is not likely to be imposed,
+(c)
+where relevant, rights to make representations and objections,
+(d)
+rights of appeal, and
+(e)
+in the case of guidance about variable monetary penalties and non-compliance penalties, the matters likely to be taken into account by the appropriate authority in determining the amount of the penalty (including voluntary reporting by a person of their own non-compliance).
+(5) In the case of guidance about enforcement undertakings, the guidance must contain information as to—
+(a)
+the circumstances in which the appropriate authority is likely to accept an enforcement undertaking, and
+(b)
+the circumstances in which the appropriate authority is not likely to accept an enforcement undertaking.
+Consultation on guidance
+35.  The appropriate authority must consult such persons as it considers appropriate before publishing—
+(a)
+any guidance, or
+(b)
+any significant revisions or updates to guidance which has already been published.
+Publication of enforcement action
+36.—(1) The appropriate authority must publish annually—
+(a)
+the cases in which civil sanctions have been imposed;
+(b)
+where the civil sanction is a compliance notice, a restoration notice or variable monetary penalty, the cases in which a third party undertaking has been accepted;
+(c)
+the cases in which an enforcement undertaking has been accepted.
+(2) In sub-paragraph (1)(a), the reference to cases in which civil sanctions have been imposed does not include cases where a sanction has been imposed but overturned on appeal.
+(3) This paragraph does not apply in cases where the appropriate authority considers that publication would be inappropriate.”EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206) (W. 48) (“the 2020 Regulations”), that give effect to—
+(a)
+Regulation (EU) 2016/2031 of the European Parliament and of the Council on protective measures against pests of plants (OJ No. L 317, 23.11.2016, p. 4), and
+(b)
+Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, in so far as it applies to the rules referred to in Article 1(2)(g) (OJ No. L 95, 7.4.2017, p. 1).
+These Regulations make provision for civil sanctions in respect of offences set out in Part 11 of the 2020 Regulations. The suite of sanctions available to the appropriate authority (the Welsh Ministers are the “appropriate authority” in Wales) consists of compliance, restoration and stop notices, fixed and variable monetary penalties, as well as the ability to accept third party undertakings and enforcement undertakings.
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, it was not considered necessary to carry out a regulatory impact assessment as to the likely costs and benefits of complying with these Regulations.

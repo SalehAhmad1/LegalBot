@@ -1,0 +1,49 @@
+This Statutory Instrument has been made to revoke and replace S.I. 2023/764 and is being issued free of charge to all known recipients of that Statutory Instrument.
+STATUTORY INSTRUMENTS
+2023 No. 836
+CONSUMER PROTECTION
+The Cosmetic Products (Restriction of Chemical Substances) (No. 2) Regulations 2023
+Made
+19th July 2023
+Laid before Parliament
+20th July 2023
+Coming into force in accordance with regulation 1(2),(3) and (4)
+The Secretary of State makes these Regulations in exercise of the powers conferred by Article 31(1)(b) and 31(1)(d) of Regulation (EC) No 1223/2009 of the European Parliament and of the Council on cosmetic products(1).
+(1)
+EUR 1223/2009 was incorporated into domestic law by virtue of section 3(1) of the European Union (Withdrawal) Act 2018 (c. 16) with relevant amendments made by S.I. 2019/696, 2019/696 and 2022/659.Citation, commencement and extent
+1.—(1) These Regulations may be cited as the Cosmetic Products (Restriction of Chemical Substances) (No. 2) Regulations 2023.
+(2) Subject to paragraphs (3) and (4) these Regulations come into force 21 days after the day on which they are made.
+(3) Regulation 2 comes into force on 26th July 2023.
+(4) Regulations 3(2) and 4 come into force on 6th July 2024.
+(5) These Regulations extend to England and Wales and Scotland.Revocation of the Cosmetic Products (Restriction of Chemical Substances) Regulations 2023
+2.  The Cosmetic Products (Restriction of Chemical Substances) Regulations 2023(1) are revoked.
+(1)
+S.I. 2023/764.Amendment to Regulation (EC) No 1223/2009
+3.—(1) Regulation (EC) No 1223/2009 of the European Parliament and of the Council on cosmetic products is amended as follows.
+(2) At the end of the table in Annex 3 (list of substances which cosmetic products must not contain except subject to the restrictions laid down), insert the entry set out in Schedule 1 to these Regulations.
+(3) At the end of the table in Annex 6 (list of UV filters allowed in cosmetic products), insert the entries set out in Schedule 2 to these Regulations.Transitional Provisions
+4.  Notwithstanding the amendment in regulation 3(2), a cosmetic product that is placed on the market prior to 6th July 2024 can continue to be made available on the market until 6th July 2026.Kevin Hollinrake
+Minister for Small Business, Consumers and Labour Markets
+Department for Business and Trade
+19th July 2023Regulation 3(2)
+SCHEDULE 1
+Amendment to Annex 3
+“321 Methyl-N-methylanthranilate 85-91-6 201-642-6 (a) Leave-on products 0.1% For leave on products only: Not to be used in sunscreen products and products marketed for exposure to natural or artificial UV light.
+(b) Rinse-off products 0.2% For leave-on and rinse-off products:
+Do not use with nitrosating agents;
+Maximum nitrosamine content: 50 μg/kg;
+Keep in nitrite-free containers.”Regulation 3(3)
+SCHEDULE 2
+Amendment to Annex 6
+“33 1,1’-(1,4-piperazinediyl)bis[1-[2-[4-(diethylamino)-2-hydroxybenzoyl]phenyl]-methanone Bis-(Diethylaminohydroxybenzoyl Benzoyl) Piperazine 919803-06-8 485-100-6 10% In case of combined use of Bis-(Diethylaminohydroxybenzoyl Benzoyl) Piperazine and Bis-(Diethylaminohydroxybenzoyl Benzoyl) Piperazine (nano), the sum shall not exceed 10 %.
+Not to be used in applications that may lead to exposure of the end user’s lungs by inhalation.
+34 1,1’-(1,4-piperazinediyl)bis[1-[2-[4-(diethylamino)-2-hydroxybenzoyl]phenyl]-methanone Bis-(Diethylaminohydroxybenzoyl Benzoyl) Piperazine (nano) 919803-06-8 485-100-6 10% Only nanomaterials having the following characteristics are allowed:
+Purity ≥ 97 %,
+Median particle size D50 (50 % of the number below this diameter): ≥ 50 nm of number size distribution.
+Not to be used in applications that may lead to exposure of the end user’s lungs by inhalation.
+In case of combined use of Bis-(Diethylaminohydroxybenzoyl Benzoyl) Piperazine and Bis-(Diethylaminohydroxybenzoyl Benzoyl) Piperazine (nano), the sum shall not exceed 10  %. ”EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations revoke and replace S.I. 2023/764. They amend retained EU legislation, Regulation (EC) No 1223/2009 (“the Cosmetics Regulation”) following advice from the Scientific Advisory Group on Chemical Safety on the safety of using Methyl-N-methylanthranilate and both HAA299 and HAA299 (nano) in cosmetic products.
+Regulation 3 amends the technical annexes to the Cosmetics Regulation to restrict the use of Methyl-N-methylanthranilate and permit the use of HAA299 and HAA299 (nano) in cosmetic products.
+Regulation 4 provides for transitional arrangements for cosmetics products containing Methyl-N-methylanthranilate and provides that where products were already placed on the market prior to 6th July 2024, they can continue to be made available on the market until 6th July 2026.
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or business sectors is foreseen. An Explanatory Memorandum has been published alongside these Regulations and is available at www.legislation.gov.uk.

@@ -1,0 +1,49 @@
+STATUTORY INSTRUMENTS
+2023 No. 97
+LEGAL AID AND ADVICE, ENGLAND AND WALES
+The Criminal Legal Aid (Remuneration) (Amendment) Regulations 2023
+Made
+at 3.04 p.m. on 31st January 2023
+Laid before Parliament
+at 4.45 p.m. on 31st January 2023
+Coming into force
+1st February 2023
+The Lord Chancellor makes these Regulations in exercise of the powers conferred by sections 2(3) and 41(1)(a) and (b) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012(1).
+(1)
+2012 c. 10.Citation, commencement and extent
+1.—(1) These Regulations may be cited as the Criminal Legal Aid (Remuneration) (Amendment) Regulations 2023 and come into force on 1st February 2023.
+(2) These Regulations extend to England and Wales.Amendments to the Criminal Legal Aid (Remuneration) Regulations 2013
+2.—(1) The Criminal Legal Aid (Remuneration) Regulations 2013(1) are amended as follows.
+(2) At the end of sub-paragraph (b) of regulation 4(8) (claims for fees by advocates – Crown Court), insert “, and for this purpose “trial” excludes any cross-examination or re-examination to which paragraph 13A(3) of Schedule 1 applies.”.
+(3) At the end of sub-paragraph (b) of regulation 18(7) (interim payments in cases awaiting determination of fees), insert “, and for this purpose “trial” excludes any cross-examination or re-examination to which paragraph 13A(3) of Schedule 1 applies.”.
+(4) In sub-paragraph (a) of regulation 21(8) (hardship payments), after “commenced”, in both places it appears, insert “, and for this purpose “trial” excludes any cross-examination or re-examination to which paragraph 13A(3) of Schedule 1 applies.”.
+(5) At the end of sub-paragraph (b) of regulation 22(3) (computation of final claim where an interim payment has been made), insert “, and for this purpose “trial” excludes any cross-examination or re-examination to which paragraph 13A(3) of Schedule 1 applies.”.
+(6) At the end of sub-paragraph (b) of regulation 23(4) (payment of fees to advocates – Crown Court), insert “, and for this purpose “trial” excludes any cross-examination or re-examination to which paragraph 13A(3) of Schedule 1 applies.”.
+(7) After paragraph 13 of Schedule 1, insert—
+“Fee for video recorded cross-examination or re-examination
+13A.—(1) The fee payable to the trial advocate per case to which paragraph (2) applies in respect of all cross-examination to which paragraph (3) applies is £670.
+(2) This paragraph applies to any case where a special measures direction provides for a video recording to be admitted under section 28 (video recorded cross-examination) of the 1999 Act.
+(3) This sub-paragraph applies to a cross-examination —
+(a)
+which is recorded by means of video recording; and
+(b)
+where such a recording is admissible, so far as it relates to any such cross-examination, as evidence of the witness under cross-examination, by virtue of a special measures direction.
+(4) In this paragraph—
+““the 1999 Act” is the Youth Justice and Criminal Evidence Act 1999(2);
+“cross-examination” includes re-examination; and
+“special measures direction” has the meaning given in section 33(1) (interpretation etc of Chapter 1) of the 1999 Act.””.
+(8) At the end of paragraph (b) of paragraph 17(7) of Schedule 1 (fees for special preparation), insert “, and for this purpose “trial” excludes any cross-examination or re-examination to which paragraph 13A(3) of Schedule 1 applies.”.
+(9) At the end of paragraph (b) of paragraph 18(6) of Schedule 1 (fees for wasted preparation), insert “, and for this purpose “trial” excludes any cross-examination or re-examination to which paragraph 13A(3) of Schedule 1 applies.”.
+(1)
+S.I. 2013/435, amended by S.I. 2015/882; there are other amending instruments but none is relevant.
+(2)
+1999 c. 23.Application
+3.  The amendments made by these Regulations apply to cases where a determination under section 16 (representation for criminal proceedings) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 is made on or after 1st February 2023.Bellamy
+Parliamentary Under Secretary of State
+Ministry of Justice
+At 3.04 p.m. on 31st January 2023EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the Criminal Legal Aid (Remuneration) Regulations 2013 (S.I. 2013/435; the “2013 Regulations”).
+Regulation 2 amends Schedule 1 to the 2013 Regulations to provide for a fee payable to a trial advocate in a case where a special measures direction provides for a video recording to be admitted under section 28 (video recorded cross-examination or re-examination) of the Youth Justice and Criminal Evidence Act 1999 (c. 23) (the “1999 Act”). Regulation 2(7) inserts amendments providing that in such cases, a fee of £670 per case is payable to the trial advocate of the respect of all cross-examination, including any re-examination, which is recorded by means of video recording and where such a recording is admissible, so far as it relates to any such cross-examination, including re-examination, by virtue of a special measures direction. For this purpose, “special measures direction” has the meaning given in section 33(1) interpretation etc of Chapter I of the 1999 Act. Regulation 2 also clarifies that the trial does not include such a cross-examination or re-examination for the purposes of identifying the “trial advocate” in certain provisions in the 2013 Regulations concerning payment of advocates.
+Regulation 3 makes provision about the application of the amendments.
+An impact assessment on the effect that these Regulations will have on the costs of business and the voluntary sector is available from the Legal Aid Policy Team, Access to Justice Directorate, Justice and Courts Policy Group, Ministry of Justice, 102 Petty France, London SW1H 9AJ. The impact assessment is annexed to the Explanatory Memorandum which is available alongside these Regulations on the UK legislation website at http://www.legislation.gov.uk.

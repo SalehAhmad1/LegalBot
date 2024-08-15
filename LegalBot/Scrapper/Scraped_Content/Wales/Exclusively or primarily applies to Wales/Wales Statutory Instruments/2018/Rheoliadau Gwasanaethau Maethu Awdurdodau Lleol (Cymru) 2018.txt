@@ -1,0 +1,884 @@
+Rhagolygol
+OFFERYNNAU STATUDOL CYMRU
+2018 Rhif 1339 (Cy. 261)
+GOFAL CYMDEITHASOL, CYMRU
+Rheoliadau Gwasanaethau Maethu Awdurdodau Lleol (Cymru) 2018
+Gwnaed
+12 Rhagfyr 2018
+Gosodwyd
+13 Rhagfyr 2018
+Yn dod i rym
+29 Ebrill 2019
+Mae Gweinidogion Cymru yn gwneud y Rheoliadau a ganlyn drwy arfer y pwerau a roddir gan adrannau 87, 92, 94A a 196(1) a (2) o Ddeddf Gwasanaethau Cymdeithasol a Llesiant (Cymru) 2014(1).
+(1)
+2014 dccc 4; gweler adran 197(1) am y diffiniad o “rheoliadau”, a “penodedig”, “a bennir” ac “a bennwyd”.Rhagolygol
+Enwi a chychwyn
+1.—(1) Enw’r Rheoliadau hyn yw Rheoliadau Gwasanaethau Maethu Awdurdodau Lleol (Cymru) 2018.
+(2) Daw’r Rheoliadau hyn i rym ar 29 Ebrill 2019.
+Gwybodaeth Cychwyn
+I1
+Rhl. 1 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Dehongli
+2.  Yn y Rheoliadau hyn—
+ystyr “addasiadau rhesymol” (“reasonable adjustments”) yw unrhyw addasiadau rhesymol a fyddai’n ofynnol o dan Ddeddf Cydraddoldeb 2010(1);
+ystyr “awdurdod ardal” (“area authority”) yw’r awdurdod lleol neu’r awdurdod lleol yn Lloegr ar gyfer yr ardal y mae’r plentyn wedi ei leoli ynddi, neu i’w leoli ynddi, pan fo hyn yn wahanol i’r awdurdod sy’n gofalu am y plentyn;
+ystyr “canlyniadau personol” (“personal outcomes”) yw—
+(a)
+y canlyniadau y mae’r plentyn yn dymuno eu cyflawni, neu
+(b)
+y canlyniadau y mae unrhyw bersonau a chanddynt gyfrifoldeb rhiant yn dymuno eu cyflawni mewn perthynas â’r plentyn;
+mae i “cyflogai” yr un ystyr ag “employee” yn adran 230(1) o Ddeddf Hawliau Cyflogaeth 1996(2);
+ystyr “cynllun gofal a chymorth (“care and support plan”) yw cynllun ar gyfer y plentyn a wneir o dan adran 83 o Ddeddf 2014;
+ystyr “cytundeb gofal maeth” (“foster care agreement”) yw’r cytundeb ysgrifenedig sy’n cwmpasu’r materion a bennir yn Atodlen 3 i Reoliadau 2018;
+ystyr “darparwr awdurdod lleol” (“local authority provider”) yw’r awdurdod lleol sy’n darparu gwasanaethau maethu’r awdurdod lleol;
+ystyr “datganiad o ddiben” (“statement of purpose”) yw’r ddogfen sy’n cynnwys yr wybodaeth y mae rhaid ei darparu yn unol ag Atodlen 1 ar gyfer y man y mae’r gwasanaeth yn cael ei ddarparu mewn perthynas ag ef;
+ystyr “Deddf 2014” (“the 2014 Act”) yw Deddf Gwasanaethau Cymdeithasol a Llesiant (Cymru) 2014;
+ystyr “Deddf 2016” (“the 2016 Act”) yw Deddf Rheoleiddio ac Arolygu Gofal Cymdeithasol (Cymru) 2016(3);
+mae i “Gofal Cymdeithasol Cymru” (“Social Care Wales”) yr ystyr a roddir yn adran 67(3) o Ddeddf 2016;
+ystyr “y Gwasanaeth Datgelu a Gwahardd” (“the Disclosure and Barring Service”) a’r “GDG” (“DBS”) yw’r corff a sefydlir gan adran 87(1) o Ddeddf Diogelu Rhyddidau 2012(4);
+ystyr “gwasanaeth maethu awdurdod lleol” (“local authority fostering service”) yw unrhyw wasanaeth a ddarperir yng Nghymru gan awdurdod lleol sy’n gwneud y naill neu’r llall o’r canlynol neu sy’n cynnwys y naill neu’r llall o’r canlynol, sef lleoli plant gyda rhieni maeth neu arfer swyddogaethau mewn cysylltiad â lleoliad o’r fath, ac mae “gwasanaeth” (“service”) i’w ddehongli yn unol â hynny;
+mae i “gweithiwr” yr un ystyr â “worker” yn adran 230(3) o Ddeddf Hawliau Cyflogaeth 1996(5);
+ystyr “gweithiwr cymdeithasol” (“social worker”) yw person sydd wedi ei gofrestru fel gweithiwr cymdeithasol yn y gofrestr a gynhelir gan Ofal Cymdeithasol Cymru o dan adran 80 o Ddeddf 2016, yn Rhan 16 o’r gofrestr a gynhelir gan y Cyngor Proffesiynau Iechyd a Gofal o dan erthygl 5 o Orchymyn Proffesiynau Iechyd a Gwaith Cymdeithasol 2001(6) neu mewn cofrestr gyfatebol a gynhelir o dan gyfraith yr Alban neu Ogledd Iwerddon;
+ystyr “lleoliad” (“placement”) yw lleoli plentyn gyda rhieni maeth o dan adran 81(5), (6)(a) a (b) o Ddeddf 2014;
+ystyr “Rheoliadau 2015” (“the 2015 Regulations”) yw Rheoliadau Cynllunio Gofal, Lleoli ac Adolygu Achosion (Cymru) 2015(7);
+ystyr “Rheoliadau 2018” (“the 2018 Regulations”) yw Rheoliadau Paneli Maethu (Sefydlu a Swyddogaethau) (Cymru) 2018(8);
+ystyr “rheolwr awdurdod lleol” (“local authority manager”) yw’r person a benodir gan ddarparwr gwasanaethau maethu’r awdurdod lleol yn rheolwr o dan reoliad 7;
+mae “rhiant” (“parent”), mewn perthynas â phlentyn, yn cynnwys unrhyw berson a chanddo gyfrifoldeb rhiant dros y plentyn;
+mae i “rhiant maeth awdurdod lleol” (“local authority foster parent”) yr un ystyr ag a roddir yn adran 197 o Ddeddf 2014, ac mae’n cynnwys person y mae plentyn wedi ei leoli gydag ef o dan reoliad 26 o Reoliadau 2015 (cymeradwyo dros dro berthynas, cyfaill neu berson arall sydd â chysylltiad â phlentyn) neu reoliad 28 o’r Rheoliadau hynny (cymeradwyo dros dro ddarpar fabwysiadydd penodol fel rhiant maeth);
+mae “staff” (“staff”) yn cynnwys—
+(a)
+personau a gyflogir gan y darparwr awdurdod lleol i weithio yn y gwasanaeth fel cyflogai neu weithiwr, a
+(b)
+personau sydd wedi eu cymryd ymlaen gan y darparwr awdurdod lleol o dan gontract ar gyfer gwasanaethau,
+ond nid yw’n cynnwys personau y caniateir iddynt weithio fel gwirfoddolwyr;
+ystyr “triniaeth amhriodol” (“improper treatment”) yw gwahaniaethu neu ataliaeth anghyfreithlon, gan gynnwys amddifadu amhriodol o ryddid o dan delerau Deddf Galluedd Meddyliol 2005(9);
+ystyr “tystysgrif GDG” (“DBS certificate”) yw tystysgrif o fath y cyfeirir ato ym mharagraff 2 neu 3 o Atodlen 3;
+ystyr “ymarferydd cyffredinol” (“general practitioner”) yw ymarferydd meddygol cofrestredig(10) sydd—
+(a)
+yn darparu gwasanaethau meddygol sylfaenol o dan Ran 4 o Ddeddf y Gwasanaeth Iechyd Gwladol (Cymru) 2006(11), neu
+(b)
+yn darparu gwasanaethau sy’n cyfateb i wasanaethau a ddarperir o dan Ran 4 o Ddeddf y Gwasanaeth Iechyd Gwladol (Cymru) 2006, ac eithrio yn unol â’r Ddeddf honno.
+Gwybodaeth Cychwyn
+I1
+Rhl. 2 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+(1)
+2010 p. 15.
+(2)
+1996 p. 18.
+(3)
+2016 dccc 2.
+(4)
+2012 p. 9.
+(5)
+1996 p. 18.
+(6)
+O.S. 2002/254.
+(7)
+O.S. 2015/1818 (Cy. 261).
+(8)
+O.S. 2018/1333 (Cy. 260). Mae’r Rheoliadau hyn wedi eu gwneud o dan adran 93 o Ddeddf 2014 ac yn gwneud darpariaeth ar gyfer sicrhau nad yw plentyn yn cael ei leoli gyda rhiant maeth awdurdod lleol oni bai bod y person hwnnw wedi ei gymeradwyo fel rhiant maeth awdurdod lleol gan yr awdurdod lleol hwnnw.
+(9)
+2005 p. 9.
+(10)
+Amnewidiwyd y diffiniad o “registered medical practitioner” yn Atodlen 1 i Ddeddf Dehongli 1978 (p. 30) gan O.S. 2002/3135, Atodlen 1, paragraff 10 ag iddo effaith o 16 Tachwedd 2009.
+(11)
+2006 p. 42.Rhagolygol
+Gofynion mewn perthynas â darparu gwasanaeth maethu’r awdurdod lleol
+3.  Rhaid i’r darparwr awdurdod lleol sicrhau bod y gwasanaeth wedi ei ddarparu â gofal, cymhwysedd a sgìl digonol, gan roi sylw i’r datganiad o ddiben.
+Gwybodaeth Cychwyn
+I1
+Rhl. 3 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Cynnwys y datganiad o ddiben
+4.  Rhaid i’r darparwr awdurdod lleol lunio datganiad o ddiben sy’n cynnwys yr wybodaeth a restrir yn Atodlen 1.
+Gwybodaeth Cychwyn
+I1
+Rhl. 4 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Gofynion mewn perthynas â’r datganiad o ddiben
+5.—(1) Rhaid i’r darparwr awdurdod lleol ddarparu’r gwasanaeth yn unol â’r datganiad o ddiben.
+(2) Rhaid i’r darparwr awdurdod lleol—
+(a)
+cadw’r datganiad o ddiben o dan adolygiad, a
+(b)
+pan fo’n briodol, ddiwygio’r datganiad o ddiben.
+(3) Rhaid i’r darparwr awdurdod lleol hysbysu’r personau a restrir ym mharagraff (4) am unrhyw ddiwygiad sydd i’w wneud i’r datganiad o ddiben o leiaf 28 o ddiwrnodau cyn y mae i gymryd effaith.
+(4) Y personau y mae rhaid iddynt gael eu hysbysu am unrhyw ddiwygiad i’r datganiad o ddiben yn unol â pharagraff (3) yw—
+(a)
+Gweinidogion Cymru,
+(b)
+unrhyw blentyn sydd wedi ei leoli gan y darparwr awdurdod lleol, oni bai na fyddai’n briodol gwneud hynny o ystyried oedran y plentyn a’i ddealltwriaeth,
+(c)
+rhieni unrhyw blentyn o’r fath,
+(d)
+rhieni maeth a darpar rieni maeth,
+(e)
+personau sy’n gweithio at ddibenion gwasanaeth maethu’r awdurdod lleol.
+(5) Rhaid i’r darparwr awdurdod lleol ddarparu’r datganiad o ddiben cyfredol i unrhyw berson ar gais, oni bai nad yw’n briodol gwneud hynny neu y byddai gwneud hynny yn anghyson â llesiant plentyn.
+Gwybodaeth Cychwyn
+I1
+Rhl. 5 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Gofynion mewn perthynas â monitro a gwella
+6.—(1) Rhaid i’r darparwr awdurdod lleol sicrhau bod trefniadau effeithiol yn eu lle ar gyfer monitro, adolygu a gwella ansawdd y gwasanaeth.
+(2) Rhaid i’r trefniadau hynny gynnwys trefniadau ar gyfer ceisio safbwyntiau—
+(a)
+unrhyw blentyn sydd wedi ei leoli gan y darparwr awdurdod lleol,
+(b)
+rhieni unrhyw blentyn o’r fath, oni bai bod hyn yn amhriodol neu’n anghyson â llesiant y plentyn,
+(c)
+rhieni maeth,
+(d)
+personau sy’n gweithio at ddibenion gwasanaeth maethu’r awdurdod lleol, ac
+(e)
+unrhyw awdurdod ardal,
+ar ansawdd y gwasanaeth.
+(3) Wrth wneud unrhyw benderfyniadau ar gynlluniau ar gyfer gwella ansawdd y gwasanaeth, rhaid i’r darparwr awdurdod lleol ystyried safbwyntiau’r personau hynny yr ymgynghorir â hwy yn unol â pharagraff (2).
+Gwybodaeth Cychwyn
+I1
+Rhl. 6 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Gofyniad i benodi rheolwr awdurdod lleol
+7.—(1) Rhaid i’r darparwr awdurdod lleol benodi un o’i swyddogion i fod yn gyfrifol am reoli’r gwasanaeth.
+(2) Rhaid i’r darparwr awdurdod lleol roi hysbysiad ysgrifenedig ar unwaith i Weinidogion Cymru—
+(a)
+o enw’r person a benodir yn rheolwr,
+(b)
+o’r dyddiad y mae’r penodiad i gymryd effaith,
+(c)
+os bydd y person sydd wedi ei benodi’n rheolwr yn peidio â rheoli gwasanaeth maethu’r awdurdod lleol.
+Gwybodaeth Cychwyn
+I1
+Rhl. 7 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Gofynion o ran addasrwydd ar gyfer penodi rheolwr
+8.—(1) Ni chaiff y darparwr awdurdod lleol benodi person i reoli’r gwasanaeth oni bai bod y person hwnnw yn addas i wneud hynny.
+(2) At ddibenion paragraff (1), nid yw person yn addas i reoli’r gwasanaeth oni bai bod gofynion rheoliad 29(2) (addasrwydd staff) wedi eu bodloni mewn cysylltiad â’r person hwnnw.
+Gwybodaeth Cychwyn
+I1
+Rhl. 8 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Gofynion eraill mewn perthynas â’r rheolwr
+9.—(1) Rhaid i’r darparwr awdurdod lleol sicrhau bod y person sydd wedi ei benodi’n rheolwr—
+(a)
+yn cael ei gefnogi i gyflawni ei ddyletswyddau’n effeithiol, a
+(b)
+yn ymgymryd â hyfforddiant priodol.
+(2) Rhaid i’r darparwr awdurdod lleol sicrhau bod y rheolwr yn cydymffurfio â gofynion Rhan 11 (dyletswyddau rheolwyr awdurdodau lleol).
+(3) Os bydd gan y darparwr awdurdod lleol reswm dros gredu nad yw’r rheolwr wedi cydymffurfio â gofyniad a osodir gan y rheoliadau yn Rhan 11, rhaid i’r darparwr gymryd unrhyw gamau gweithredu sy’n angenrheidiol i sicrhau y cydymffurfir â’r gofyniad.
+(4) Rhaid i’r darparwr awdurdod lleol roi trefniadau addas yn eu lle i sicrhau bod y gwasanaeth yn cael ei reoli’n effeithiol ar unrhyw adeg pan nad oes rheolwr sydd wedi ei benodi neu pan yw’r rheolwr yn absennol o’r gwasanaeth.
+Gwybodaeth Cychwyn
+I1
+Rhl. 9 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Gofyniad i ddarparuʼr gwasanaeth yn unol â pholisïau a gweithdrefnau
+10.—(1) Rhaid iʼr darparwr awdurdod lleol sicrhau bod y polisïau aʼr gweithdrefnau a ganlyn yn eu lle ar gyfer y gwasanaeth—
+(a)
+diogelu (gweler rheoliad 20),
+(b)
+defnyddio rheolaeth neu ataliaeth yn briodol (gweler rheoliad 21),
+(c)
+bwlio (gweler rheoliad 24),
+(d)
+absenoldeb (gweler rheoliad 25),
+(e)
+meddyginiaeth (gweler rheoliad 26 (mynediad i wasanaethau iechyd)),
+(f)
+cefnogi a datblygu staff (gweler rheoliad 30),
+(g)
+disgyblu staff (gweler rheoliad 32),
+(h)
+cwynion (gweler rheoliad 39),
+(i)
+chwythuʼr chwiban (gweler rheoliad 40),
+(j)
+cymorth ar gyfer rhieni maeth o ran sut i helpu plant i reoli eu harian (gweler rheoliad 45).
+(2) Rhaid iʼr darparwr awdurdod lleol hefyd gael unrhyw bolisïau a gweithdrefnau eraill yn eu lle syʼn rhesymol angenrheidiol i gefnogi nodau ac amcanion y gwasanaeth a nodir yn y datganiad o ddiben.
+(3) Rhaid iʼr darparwr awdurdod lleol sicrhau bod cynnwys y polisïau aʼr gweithdrefnau y maeʼn ofynnol iddynt fod yn eu lle yn rhinwedd paragraffau (1) a (2)—
+(a)
+yn briodol i anghenion plant y darperir gofal a chymorth ar eu cyfer,
+(b)
+yn gyson âʼr datganiad o ddiben, ac
+(c)
+yn cael eu cadwʼn gyfredol.
+(4) Rhaid i’r darparwr awdurdod lleol roi trefniadau yn eu lle i sicrhau bod y gwasanaeth yn cael ei ddarparu yn unol â’i bolisïau a’i weithdrefnau.
+(5) Rhaid i’r darparwr awdurdod lleol sicrhau bod cynnwys y polisïau a’r gweithdrefnau y mae’n ofynnol iddynt fod yn eu lle o dan baragraff (1)(a), (b), (g) ac (i) yn ystyried anghenion unrhyw blant eraill y gall y lleoliad sy’n cael ei wneud effeithio arnynt.
+Gwybodaeth Cychwyn
+I1
+Rhl. 10 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Dyletswydd gonestrwydd
+11.  Rhaid i’r darparwr awdurdod lleol weithredu mewn ffordd agored a gonest gydag—
+(a)
+unrhyw blentyn sydd wedi ei leoli ganddo,
+(b)
+rhieni unrhyw blentyn o’r fath,
+(c)
+rhieni maeth a darpar rieni maeth,
+(d)
+yn achos plentyn sydd wedi ei leoli gydag awdurdod ardal, yr awdurdod ardal hwnnw.
+Gwybodaeth Cychwyn
+I1
+Rhl. 11 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Gwybodaeth am y gwasanaeth etc.
+12.—(1) Rhaid iʼr darparwr awdurdod lleol lunio canllaw ysgrifenedig ar y gwasanaeth.
+(2) Rhaid iʼr canllaw—
+(a)
+cael ei ddyddio, ei adolygu o leiaf bob blwyddyn aʼi ddiweddaru fel y bo angen,
+(b)
+bod mewn iaith, arddull, cyflwyniad a fformat syʼn briodol i blant (o bob oedran a dealltwriaeth) ac oedolion,
+(c)
+cael ei roi i—
+(i)
+unrhyw blentyn sydd wedi ei leoli gan y darparwr,
+(ii)
+unrhyw rieni maeth a darpar rieni maeth,
+(iii)
+yn achos plentyn sydd wedi ei leoli gydag awdurdod ardal, yr awdurdod hwnnw, a
+(d)
+cael ei roi ar gael i eraill ar gais, oni bai nad yw hyn yn briodol neu y byddaiʼn anghyson â llesiant y plentyn.
+(3) Rhaid iʼr canllaw gynnwys y canlynol—
+(a)
+crynodeb o’r polisïau a’r gweithdrefnau y mae rhaid i’r darparwr awdurdod lleol eu rhoi yn eu lle o dan reoliad 10(1)(a), (b), (c), (d), (e), (h) a (j),
+(b)
+gwybodaeth am sut i wneud cwyn,
+(c)
+gwybodaeth am argaeledd gwasanaethau eirioli annibynnol i blant syʼn derbyn gofal gan awdurdod lleol,
+(d)
+gwybodaeth am rôl a manylion cyswllt Comisiynydd Plant Cymru(1).
+(4) Rhaid iʼr darparwr awdurdod lleol sicrhau bod plant yn cael unrhyw gymorth syʼn angenrheidiol iʼw galluogi i ddeall yr wybodaeth a gynhwysir yn y canllaw.
+Gwybodaeth Cychwyn
+I1
+Rhl. 12 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+(1)
+Crëwyd swydd Comisiynydd Plant Cymru gan adran 72 o Ddeddf Safonau Gofal 2000 (p. 14).Rhagolygol
+Safonau gofal a chymorth i blant
+13.  Rhaid iʼr darparwr awdurdod lleol sicrhau bod rhieni maeth yn rhoi gofal a chymorth i blentyn sydd wedi ei leoli gyda hwy—
+(a)
+yn unol â chynllun gofal a chymorth y plentyn, a
+(b)
+mewn ffordd syʼn cynnal, yn amddiffyn ac yn hybu diogelwch a llesiant y plentyn.
+Gwybodaeth Cychwyn
+I1
+Rhl. 13 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Gwybodaeth ar gyfer plant
+14.—(1) Rhaid iʼr darparwr awdurdod lleol roi trefniadau yn eu lle i sicrhau bod gan blant yr wybodaeth y mae ei hangen arnynt i wneud a chymryd rhan mewn penderfyniadau o ddydd i ddydd am y ffordd y darperir gofal a chymorth iddynt a sut y maent yn cael eu cefnogi i gyflawni eu canlyniadau personol.
+(2) Rhaid iʼr wybodaeth a ddarperir fod ar gael mewn iaith, arddull, cyflwyniad a fformat syʼn briodol i blant o bob oedran.
+(3) Rhaid iʼr darparwr awdurdod lleol roi trefniadau yn eu lle i sicrhau bod plant yn cael unrhyw gymorth syʼn angenrheidiol iʼw galluogi i ddeall yr wybodaeth a ddarperir.
+Gwybodaeth Cychwyn
+I1
+Rhl. 14 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Cydymffurfedd âʼr cytundeb gofal maeth
+15.  Rhaid iʼr darparwr awdurdod lleol fonitro cydymffurfedd y rhieni maeth â gofynion y cytundeb gofal maeth.
+Gwybodaeth Cychwyn
+I1
+Rhl. 15 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Iaith a chyfathrebu
+16.—(1) Rhaid iʼr darparwr awdurdod lleol sicrhau bod anghenion iaith plant yn cael eu diwallu.
+(2) Rhaid iʼr darparwr awdurdod lleol sicrhau y darperir mynediad i unrhyw gymhorthion a chyfarpar syʼn angenrheidiol i blant i hwylusoʼr ffordd y maent yn cyfathrebu ag eraill.
+Gwybodaeth Cychwyn
+I1
+Rhl. 16 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Parch a sensitifrwydd
+17.—(1) Rhaid iʼr darparwr awdurdod lleol roi trefniadau yn eu lle i sicrhau bod plant sydd wedi eu lleoli gan y darparwr yn cael eu trin â pharch a sensitifrwydd.
+(2) Mae hyn yn cynnwys, ond nid ywʼn gyfyngedig i—
+(a)
+parchu preifatrwydd ac urddas y plentyn,
+(b)
+parchu hawliauʼr plentyn i gyfrinachedd,
+(c)
+hybu ymreolaeth ac annibyniaeth y plentyn, a
+(d)
+rhoi sylw i unrhyw nodweddion gwarchodedig perthnasol (fel yʼu diffinnir yn adran 4 o Ddeddf Cydraddoldeb 2010(1)) y plentyn.
+Gwybodaeth Cychwyn
+I1
+Rhl. 17 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+(1)
+2010 p. 15.Rhagolygol
+Dyletswydd i hybu cyswllt
+18.  Rhaid iʼr darparwr awdurdod lleol sicrhau bod rhieni maeth yn hybu cyswllt rhwng plentyn sydd wedi ei leoli gyda hwy a rhieni, perthnasau a ffrindiauʼr plentyn, yn unol â chynllun gofal a chymorth y plentyn ac unrhyw orchymyn llys syʼn ymwneud â chyswllt.
+Gwybodaeth Cychwyn
+I1
+Rhl. 18 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Diogelu – gofynion cyffredinol
+19.  Rhaid iʼr darparwr awdurdod lleol roi trefniadau yn eu lle i sicrhau bod plant sydd wedi eu lleoli ganddo yn ddiogel ac yn cael eu hamddiffyn rhag camdriniaeth(1), esgeulustod(2) a thriniaeth amhriodol.
+Gwybodaeth Cychwyn
+I1
+Rhl. 19 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+(1)
+Gweler adran 197(1) o Ddeddf 2014 am y diffiniad o “camdriniaeth”.
+(2)
+Gweler adran 197(1) o Ddeddf 2014 am y diffiniad o “esgeulustod”.Rhagolygol
+Polisïau a gweithdrefnau diogelu
+20.—(1) Rhaid iʼr darparwr awdurdod lleol gael polisïau a gweithdrefnau yn eu lle—
+(a)
+ar gyfer atal camdriniaeth, esgeulustod a thriniaeth amhriodol, a
+(b)
+ar gyfer ymateb i unrhyw honiad neu dystiolaeth o gamdriniaeth, esgeulustod neu driniaeth amhriodol.
+(2) Yn y rheoliad hwn, cyfeirir at bolisïau a gweithdrefnau oʼr fath fel polisïau a gweithdrefnau diogelu.
+(3) Rhaid iʼr darparwr awdurdod lleol sicrhau bod ei bolisïau aʼi weithdrefnau diogelu yn cael eu gweithreduʼn effeithiol.
+(4) Yn benodol, pan fo honiad neu dystiolaeth o gamdriniaeth, esgeulustod neu driniaeth amhriodol, rhaid iʼr darparwr awdurdod lleol—
+(a)
+gweithredu yn unol âʼi bolisïau aʼi weithdrefnau diogelu,
+(b)
+cymryd camau gweithredu ar unwaith i sicrhau diogelwch pob plentyn y darperir gofal a chymorth ar ei gyfer,
+(c)
+gwneud atgyfeiriadau priodol i asiantaethau eraill, a
+(d)
+cadw cofnod o unrhyw dystiolaeth neu sylwedd unrhyw honiad, unrhyw gamau gweithredu a gymerir ac unrhyw atgyfeiriadau a wneir.
+Gwybodaeth Cychwyn
+I1
+Rhl. 20 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Defnyddio rheolaeth ac ataliaeth yn briodol
+21.—(1) Rhaid iʼr darparwr awdurdod lleol gael polisi a gweithdrefnau yn eu lle ar ddefnyddio rheolaeth neu ataliaeth.
+(2) Rhaid iʼr polisi aʼr gweithdrefnau wahardd gofal a chymorth rhag cael eu darparu mewn ffordd syʼn cynnwys gweithredoedd y bwriedir iddynt reoli neu atal plentyn oni bai bod y gweithredoedd hynny—
+(a)
+yn angenrheidiol i atal risg o niwed a berir iʼr plentyn neu i bersonau eraill neu ddifrod difrifol tebygol i eiddo, a
+(b)
+yn ymateb cymesur i risg oʼr fath.
+(3) Rhaid iʼr polisi aʼr gweithdrefnau ei gwneud yn ofynnol i rieni maeth gael eu hyfforddi mewn unrhyw ddulliau rheoli neu atal sydd iʼw defnyddio.
+(4) Rhaid iʼr polisi aʼr gweithdrefnau ei gwneud yn ofynnol i rieni maeth—
+(a)
+gwneud cofnod o unrhyw ddigwyddiad pan ddefnyddir rheolaeth neu ataliaeth, a
+(b)
+hysbysu’r darparwr awdurdod lleol am unrhyw ddigwyddiad o’r fath o fewn 24 awr.
+(5) Rhaid iʼr darparwr awdurdod lleol sicrhau bod unrhyw reolaeth neu ataliaeth a ddefnyddir gan rieni maeth yn cael ei chyflawni yn unol âʼr polisïau aʼr gweithdrefnau hyn.
+(6) At ddibenion y rheoliad hwn, mae person yn rheoli neuʼn atal plentyn os ywʼr person hwnnw—
+(a)
+yn defnyddio, neuʼn bygwth defnyddio, grym i sicrhau bod gweithred yn cael ei gwneud y maeʼr plentyn yn ei gwrthsefyll, neu
+(b)
+yn cyfyngu ar ryddid symud y plentyn, pa un a ywʼr plentyn yn gwrthsefyll ai peidio, gan gynnwys drwy ddefnyddio dulliau corfforol, mecanyddol neu gemegol.
+Gwybodaeth Cychwyn
+I1
+Rhl. 21 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Gwaharddiad ar ddefnyddio cosb gorfforol
+22.  Rhaid iʼr darparwr awdurdod lleol sicrhau nad yw rhieni maeth yn defnyddio unrhyw fath o gosb gorfforol ar unrhyw adeg yn erbyn unrhyw blentyn.
+Gwybodaeth Cychwyn
+I1
+Rhl. 22 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Amddifadu o ryddid
+23.  Ni chaniateir amddifadu plentyn o’i ryddid at ddiben cael gofal a chymorth heb awdurdod cyfreithlon.
+Gwybodaeth Cychwyn
+I1
+Rhl. 23 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Polisi a gweithdrefnau ar fwlio
+24.  Rhaid iʼr darparwr awdurdod lleol gael polisi yn ei le ar atal bwlio a gweithdrefnau ar gyfer ymdrin â honiad o fwlio.
+Gwybodaeth Cychwyn
+I1
+Rhl. 24 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Gweithdrefnau pan yw plentyn yn absennol heb ganiatâd
+25.  Rhaid i’r darparwr awdurdod lleol sicrhau bod gweithdrefn i’w dilyn pan yw unrhyw blentyn sydd wedi ei leoli gyda rhieni maeth gan y darparwr yn absennol heb ganiatâd.
+Gwybodaeth Cychwyn
+I1
+Rhl. 25 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Mynediad i wasanaethau iechyd
+26.—(1) Rhaid iʼr darparwr awdurdod lleol sicrhau bod rhieni maeth yn hybu iechyd a datblygiad plant sydd wedi eu lleoli gyda hwy.
+(2) Yn benodol, rhaid iʼr darparwr awdurdod lleol sicrhau bod rhieni maeth—
+(a)
+yn cofrestru pob plentyn ag ymarferydd cyffredinol,
+(b)
+yn darparu i bob plentyn fynediad i unrhyw gyngor, triniaeth a gwasanaethau meddygol, deintyddol, optegol, nyrsio, seicolegol a seiciatrig y mae eu hangen ar y plentyn,
+(c)
+yn darparu i bob plentyn unrhyw gymorth, cymhorthion a chyfarpar unigol y mae eu hangen ar y plentyn o ganlyniad i unrhyw anghenion iechyd neu anabledd penodol sydd ganddo, a
+(d)
+yn darparu i bob plentyn ganllawiau, cymorth a chyngor ynghylch iechyd, gofal personol a materion hybu iechyd syʼn briodol i anghenion a dymuniadauʼr plentyn.
+(3) Rhaid iʼr darparwr awdurdod lleol gael polisi a gweithdrefnau yn eu lle mewn perthynas â rhoi meddyginiaethau gan rieni maeth.
+Gwybodaeth Cychwyn
+I1
+Rhl. 26 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Addysg, cyflogaeth a gweithgareddau hamdden
+27.—(1) Rhaid iʼr darparwr awdurdod lleol sicrhau bod cyrhaeddiad addysgol plant sydd wedi eu lleoli gyda rhieni maeth yn cael ei hybu.
+(2) Yn benodol, rhaid iʼr darparwr awdurdod lleol—
+(a)
+sefydlu gweithdrefn ar gyfer monitro cyrhaeddiad addysgol, cynnydd a phresenoldeb yn yr ysgol plant sydd wedi eu lleoli gyda rhieni maeth,
+(b)
+mewn perthynas â phlant oedran ysgol sydd wedi eu lleoli gyda rhieni maeth, sicrhau bod rhieni maeth yn hybu presenoldeb rheolaidd y plant yn yr ysgol aʼu cyfranogiad mewn gweithgareddau ysgol, ac
+(c)
+darparu i rieni maeth unrhyw wybodaeth a chynhorthwy, gan gynnwys cyfarpar, syʼn angenrheidiol i ddiwallu anghenion addysgol plant sydd wedi eu lleoli gyda hwy.
+(3) Rhaid iʼr darparwr awdurdod lleol sicrhau bod rhieni maeth yn hybu diddordebau hamdden plant sydd wedi eu lleoli gyda hwy ac yn eu cefnogi i chwarae ac ymroi i weithgareddau adloniadol sy’n briodol i’w hoedran ac i gymryd rhan ddirwystr mewn bywyd diwylliannol a’r celfyddydau(1).
+(4) Pan fo unrhyw blentyn sydd wedi ei leoli gyda rhieni maeth wedi cyrraedd yr oedran pan na foʼn ofynnol iddo gael addysg lawnamser orfodol mwyach, rhaid iʼr darparwr awdurdod lleol gynorthwyo i wneud trefniadau a wneir ar gyfer y plentyn mewn cysylltiad âʼi addysg, ei hyfforddiant aʼi gyflogaeth, a rhoi effaith iʼr trefniadau hynny.
+Gwybodaeth Cychwyn
+I1
+Rhl. 27 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+(1)
+Mae adran 1 o Fesur Hawliau Plant a Phobl Ifanc (Cymru) 2011 (mccc 2) yn ei gwneud yn ofynnol i Weinidogion Cymru, wrth arfer unrhyw un neu ragor o’u swyddogaethau, roi sylw dyledus i ofynion Rhan 1 o Gonfensiwn y Cenhedloedd Unedig ar Hawliau’r Plentyn a fabwysiadwyd ac a agorwyd i’w lofnodi, ei gadarnhau a’i gytuno gan benderfyniad y Cynulliad Cyffredinol 44/25 dyddiedig 20 Tachwedd 1989 (“y Confensiwn”). Mae erthygl 31 o Ran 1 o’r Confensiwn yn cydnabod hawl plentyn i chwarae.Rhagolygol
+Staffio - gofynion cyffredinol
+28.  Rhaid iʼr darparwr awdurdod lleol sicrhau ar bob adeg fod nifer digonol o staff sydd âʼr cymwysterau, yr hyfforddiant, y sgiliau, y cymhwysedd aʼr profiad addas yn cael eu defnyddio i weithio yn y gwasanaeth, gan roi sylw—
+(a)
+iʼr datganiad o ddiben ar gyfer y gwasanaeth,
+(b)
+i anghenion gofal a chymorth plant,
+(c)
+iʼr angen i gefnogi plant i gyflawni eu canlyniadau personol,
+(d)
+iʼr angen i ddiogelu a hybu iechyd a lles plant, ac
+(e)
+i ofynion y Rheoliadau hyn.
+Gwybodaeth Cychwyn
+I1
+Rhl. 28 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Addasrwydd staff
+29.—(1) Ni chaiff y darparwr awdurdod lleol—
+(a)
+cyflogi person o dan gontract cyflogaeth i weithio yn y gwasanaeth oni bai bod y person hwnnw yn addas i wneud hynny,
+(b)
+caniatáu i wirfoddolwr weithio yn y gwasanaeth oni bai bod y person hwnnw yn addas i wneud hynny, nac
+(c)
+caniatáu i unrhyw berson arall weithio yn y gwasanaeth mewn swydd y gall, yng nghwrs ei ddyletswyddau, gael cysylltiad rheolaidd ynddi â phlant syʼn cael gofal a chymorth oni bai bod y person hwnnw yn addas i wneud hynny.
+(2) At ddibenion paragraff (1), nid yw person yn addas i weithio yn y gwasanaeth oni bai—
+(a)
+bod y person yn addas o ran ei uniondeb ac o gymeriad da,
+(b)
+bod gan y person y cymwysterau, y sgiliau, y cymhwysedd aʼr profiad syʼn angenrheidiol ar gyfer y gwaith y mae iʼw wneud,
+(c)
+bod y person, oherwydd ei iechyd, ar ôl i addasiadau rhesymol gael eu gwneud, yn gallu cyflawniʼn briodol y tasgau syʼn rhan annatod oʼi rôl,
+(d)
+bod y person wedi darparu gwybodaeth neu ddogfennaeth lawn a boddhaol, yn ôl y digwydd, mewn cysylltiad â phob un oʼr materion sy’n ofynnol o dan baragraffau 1 i 9 o Atodlen 3, a bod yr wybodaeth hon neuʼr ddogfennaeth hon ar gael yn y gwasanaeth i Weinidogion Cymru edrych arni, ac
+(e)
+pan foʼr person wedi ei gyflogi gan y darparwr awdurdod lleol i reoliʼr gwasanaeth, o 1 Medi 2022, fod y person wedi ei gofrestru fel rheolwr gofal cymdeithasol(1) â Gofal Cymdeithasol Cymru.
+(3) Rhaid i gais gael ei wneud am dystysgrif GDG briodol gan neu ar ran y darparwr awdurdod lleol at ddiben asesu addasrwydd person ar gyfer swydd y cyfeirir ati ym mharagraff (1). Ond nid ywʼr gofyniad hwn yn gymwys os ywʼr person syʼn gweithio yn y gwasanaeth wedi ei gofrestru â gwasanaeth diweddaruʼr Gwasanaeth Datgelu a Gwahardd (y cyfeirir ato yn y rheoliad hwn fel gwasanaeth diweddaruʼr GDG).
+(4) Pan fo person syʼn cael ei ystyried ar gyfer swydd y cyfeirir ati ym mharagraff (1) wedi ei gofrestru â gwasanaeth diweddaruʼr GDG, rhaid iʼr darparwr awdurdod lleol wirio statws tystysgrif GDG y person at ddiben asesu addasrwydd y person hwnnw ar gyfer y swydd honno.
+(5) Pan fo person a benodir i swydd y cyfeirir ati ym mharagraff (1) wedi ei gofrestru â gwasanaeth diweddaruʼr GDG, rhaid iʼr darparwr awdurdod lleol wirio statws tystysgrif GDG y person o leiaf bob blwyddyn.
+(6) Pan na fo person a benodir i swydd y cyfeirir ati ym mharagraff (1) wedi ei gofrestru â gwasanaeth diweddaruʼr GDG, rhaid iʼr darparwr awdurdod lleol wneud cais am dystysgrif GDG newydd mewn cysylltiad âʼr person hwnnw o fewn tair blynedd i ddyroddiʼr dystysgrif y gwneir cais amdani yn unol â pharagraff (3) ac wedi hynny rhaid i geisiadau pellach oʼr fath gael eu gwneud o leiaf bob tair blynedd.
+(7) Os nad yw person syʼn gweithio yn y gwasanaeth yn addas i weithio yn y gwasanaeth mwyach o ganlyniad i beidio â bodloni un neu ragor oʼr gofynion ym mharagraff (2), rhaid iʼr darparwr awdurdod lleol—
+(a)
+cymryd camau gweithredu angenrheidiol a chymesur i ddiogelu plant, a
+(b)
+pan foʼn briodol, hysbysu—
+(i)
+Gofal Cymdeithasol Cymru,
+(ii)
+y Gwasanaeth Datgelu a Gwahardd.
+Gwybodaeth Cychwyn
+I1
+Rhl. 29 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+(1)
+Gweler adran 79(1)(b) o Ddeddf 2016 am y diffiniad o “rheolwr gofal cymdeithasol”.Rhagolygol
+Cefnogi a datblygu staff
+30.—(1) Rhaid iʼr darparwr awdurdod lleol gael polisi yn ei le ar gyfer cefnogi a datblygu staff.
+(2) Rhaid iʼr darparwr awdurdod lleol sicrhau bod unrhyw berson syʼn gweithio yn y gwasanaeth (gan gynnwys person y caniateir iddo weithio fel gwirfoddolwr)—
+(a)
+yn cael cyfnod sefydlu syʼn briodol iʼw rôl,
+(b)
+yn cael ei wneud yn ymwybodol oʼi gyfrifoldebau ei hun a chyfrifoldebau staff eraill,
+(c)
+yn cael ei oruchwylio aʼi arfarnuʼn briodol,
+(d)
+yn cael hyfforddiant craidd syʼn briodol iʼr gwaith sydd iʼw wneud ganddo,
+(e)
+yn cael hyfforddiant arbenigol fel y boʼn briodol, ac
+(f)
+yn cael cymorth a chynhorthwy i gael unrhyw hyfforddiant pellach syʼn briodol iʼr gwaith y maeʼn ei wneud.
+(3) Rhaid iʼr darparwr awdurdod lleol sicrhau bod unrhyw berson a gyflogir i weithio yn y gwasanaeth yn rheolwr yn cael ei gefnogi i gynnal unrhyw gofrestriad â Gofal Cymdeithasol Cymru.
+Gwybodaeth Cychwyn
+I1
+Rhl. 30 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Gwybodaeth ar gyfer staff
+31.—(1) Rhaid iʼr darparwr awdurdod lleol sicrhau y darperir gwybodaeth i bob person syʼn gweithio yn y gwasanaeth (gan gynnwys unrhyw berson y caniateir iddo weithio fel gwirfoddolwr) am y gwasanaeth aʼr ffordd y caiff ei ddarparu.
+(2) Rhaid iʼr darparwr awdurdod lleol sicrhau bod trefniadau addas yn eu lle i wneud staff yn ymwybodol o unrhyw godau ymarfer ynghylch y safonau ymddygiad a ddisgwylir oddi wrth weithwyr gofal cymdeithasol, y maeʼn ofynnol i Ofal Cymdeithasol Cymru eu cyhoeddi o dan adran 112(1)(a) o Ddeddf 2016.
+Gwybodaeth Cychwyn
+I1
+Rhl. 31 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Gweithdrefnau disgyblu
+32.—(1) Rhaid iʼr darparwr awdurdod lleol roi gweithdrefn ddisgyblu yn ei lle aʼi gweithredu.
+(2) Rhaid iʼr weithdrefn ddisgyblu gynnwys—
+(a)
+darpariaeth ar gyfer atal dros dro, a chymryd camau gweithredu heb fod mor bell ag atal dros dro, gyflogeion er budd diogelwch neu lesiant plant syʼn cael gofal a chymorth gan y gwasanaeth, a
+(b)
+darpariaeth bod methiant ar ran cyflogai i adrodd am achos o gam-drin, neu am amheuaeth o gam-drin, i berson priodol yn sail dros ganiatáu cychwyn achos disgyblu.
+(3) At ddiben paragraff (2)(b), person priodol yw—
+(a)
+un o swyddogion Gweinidogion Cymru,
+(b)
+y darparwr awdurdod lleol,
+(c)
+swyddog i’r awdurdod lleol,
+(d)
+yn achos cam-drin neu amheuaeth o gam-drin plentyn, swyddog iʼr Gymdeithas Genedlaethol er Atal Creulondeb i Blant, neu
+(e)
+swyddog heddlu,
+yn ôl y digwydd.
+Gwybodaeth Cychwyn
+I1
+Rhl. 32 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Cyfyngiadau ar gyflogaeth
+33.—(1) Ni chaiff y darparwr awdurdod lleol gyflogi i weithio, at ddibenion y gwasanaeth maethu, mewn swydd y mae paragraff (2) yn gymwys iddi, berson sydd—
+(a)
+yn rhiant maeth sydd wedi ei gymeradwyo gan y gwasanaeth maethu, neu
+(b)
+yn aelod o aelwyd rhiant maeth oʼr fath.
+(2) Maeʼr paragraff hwn yn gymwys i unrhyw swydd reoli, swydd gwaith cymdeithasol neu swydd broffesiynol arall, oni bai bod y gwaith yn cael ei wneud yn achlysurol, fel gwirfoddolwr, neu am ddim mwy na 5 awr mewn unrhyw wythnos, yn achos swydd nad yw’n swydd reoli nac yn swydd gwaith cymdeithasol.
+Gwybodaeth Cychwyn
+I1
+Rhl. 33 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Mangreoedd, cyfleusterau a chyfarpar - darparwyr awdurdodau lleol
+34.  Rhaid iʼr darparwr awdurdod lleol sicrhau bod y mangreoedd, y cyfleusterau aʼr cyfarpar a ddefnyddir ar gyfer gweithreduʼr gwasanaeth yn addas, gan roi sylw iʼr datganiad o ddiben ar gyfer y gwasanaeth.
+Gwybodaeth Cychwyn
+I1
+Rhl. 34 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Digonolrwydd cyfleusterau
+35.  Rhaid iʼr darparwr awdurdod lleol sicrhau bod gan y mangreoedd a ddefnyddir ar gyfer gweithreduʼr gwasanaeth gyfleusterau digonol ar gyfer—
+(a)
+goruchwylio staff, a
+(b)
+storio cofnodion yn ddiogel.
+Gwybodaeth Cychwyn
+I1
+Rhl. 35 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Mangreoedd, cyfleusterau a chyfarpar - rhieni maeth
+36.—(1) Rhaid iʼr darparwr awdurdod lleol gael trefniadau yn eu lle i sicrhau bod y mangreoedd, y cyfleusterau aʼr cyfarpar a ddefnyddir gan rieni maeth ar gyfer darparu gofal a chymorth i blant—
+(a)
+yn addas ac yn ddiogel i’r diben y bwriedir iddynt gael eu defnyddio ato,
+(b)
+yn cael eu defnyddio mewn ffordd ddiogel,
+(c)
+yn cael eu cynnal aʼu cadwʼn briodol, a
+(d)
+yn cael eu cadwʼn lân yn unol â safon syʼn briodol i’r diben y maent yn cael eu defnyddio ato.
+(2) Rhaid iʼr darparwr awdurdod lleol sicrhau bod rhieni maeth yn cael eu hyfforddiʼn briodol ynghylch sut i weithredu unrhyw gyfarpar y maent yn ei ddefnyddio wrth ddarparu gofal a chymorth i blentyn.
+Gwybodaeth Cychwyn
+I1
+Rhl. 36 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Cofnodion mewn cysylltiad â gwasanaethau maethu
+37.—(1) Rhaid iʼr darparwr awdurdod lleol gynnal y cofnodion a bennir yn Atodlen 2 am 15 mlynedd.
+(2) Rhaid iʼr darparwr awdurdod lleol—
+(a)
+sicrhau bod y cofnodion a bennir yn Atodlen 2 yn gywir ac yn gyfredol,
+(b)
+cadw’r cofnodion yn ddiogel,
+(c)
+gwneud trefniadau addas er mwyn iʼr cofnodion barhau i gael eu cadwʼn ddiogel os bydd y gwasanaeth yn cau,
+(d)
+rhoiʼr cofnodion ar gael i Weinidogion Cymru ar gais,
+(e)
+sicrhau bod plant syʼn defnyddioʼr gwasanaeth—
+(i)
+yn cael eu gwneud yn ymwybodol oʼu hawliau i gael mynediad iʼw cofnodion, a
+(ii)
+yn cael mynediad iʼw cofnodion fel y mae’r gyfraith yn ei ganiatáu.
+Gwybodaeth Cychwyn
+I1
+Rhl. 37 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Gwrthdaro buddiannau
+38.  Rhaid iʼr darparwr awdurdod lleol gael trefniadau effeithiol yn eu lle i nodi, cofnodi a rheoli achosion o wrthdaro buddiannau posibl.
+Gwybodaeth Cychwyn
+I1
+Rhl. 38 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Polisi a gweithdrefnau cwyno
+39.—(1) Rhaid iʼr darparwr awdurdod lleol gael polisi cwyno yn ei le a sicrhau bod y gwasanaeth yn cael ei weithredu yn unol âʼr polisi hwnnw.
+(2) Rhaid iʼr polisi cwyno gynnwys gweithdrefnau ar gyfer ystyried cwynion a wneir iʼr darparwr awdurdod lleol gan neu ar ran plant sydd wedi eu lleoli gan y darparwr ynghylch—
+(a)
+y darparwr,
+(b)
+rhieni maeth, ac
+(c)
+unrhyw fater arall y maeʼr darparwr yn ystyried ei fod yn berthnasol.
+(3) Rhaid i’r polisi cwyno gynnwys gweithdrefnau ar gyfer ystyried cwynion a wneir i’r darparwr awdurdod lleol gan neu ar ran unrhyw blant eraill y gall y lleoliad a wneir effeithio arnynt ynghylch—
+(a)
+y darparwr, a
+(b)
+unrhyw fater arall y maeʼr darparwr yn ystyried ei fod yn berthnasol.
+(4) Rhaid iʼr polisi cwyno gynnwys gweithdrefnau ar gyfer ystyried cwynion a wneir iʼr darparwr awdurdod lleol gan rieni maeth ynghylch—
+(a)
+y darparwr, a
+(b)
+unrhyw fater arall y maeʼr darparwr yn ystyried ei fod yn berthnasol.
+(5) Rhaid iʼr polisi cwyno gynnwys gweithdrefnau ar gyfer ystyried cwynion a wneir iʼr darparwr awdurdod lleol gan rieni unrhyw blentyn sydd wedi ei leoli gan y darparwr ynghylch—
+(a)
+y darparwr, a
+(b)
+unrhyw fater arall y maeʼr darparwr yn ystyried ei fod yn berthnasol.
+(6) Rhaid iʼr darparwr awdurdod lleol roi trefniadau effeithiol yn eu lle ar gyfer ymdrin â chwynion gan gynnwys trefniadau ar gyfer—
+(a)
+nodi cwynion ac ymchwilio iddynt,
+(b)
+sicrhau bod camau gweithredu priodol yn cael eu cymryd yn dilyn ymchwiliad, ac
+(c)
+cadw cofnodion syʼn ymwneud âʼr materion yn is-baragraffau (a) a (b).
+(7) Rhaid iʼr darparwr awdurdod lleol ddarparu crynodeb o gwynion, ymatebion ac unrhyw gamau gweithredu dilynol a gymerir i Weinidogion Cymru o fewn 28 o ddiwrnodau i gael cais i wneud hynny.
+(8) Rhaid iʼr darparwr awdurdod lleol—
+(a)
+dadansoddi gwybodaeth syʼn ymwneud â chwynion a phryderon, a
+(b)
+gan roi sylw iʼr dadansoddiad hwnnw, nodi unrhyw feysydd iʼw gwella.
+Gwybodaeth Cychwyn
+I1
+Rhl. 39 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Chwythuʼr chwiban
+40.—(1) Rhaid iʼr darparwr awdurdod lleol sicrhau bod pob person syʼn gweithio yn y gwasanaeth (gan gynnwys unrhyw berson y caniateir iddo weithio fel gwirfoddolwr) yn gallu codi pryderon am y gwasanaeth.
+(2) Rhaid iʼr trefniadau hyn gynnwys—
+(a)
+cael polisi chwythuʼr chwiban yn ei le a gweithredu yn unol âʼr polisi hwnnw, a
+(b)
+sefydlu trefniadau i alluogi a chefnogi pobl syʼn gweithio yn y gwasanaeth i godi pryderon oʼr fath.
+(3) Rhaid iʼr darparwr awdurdod lleol sicrhau bod y trefniadau syʼn ofynnol o dan y rheoliad hwn yn cael eu gweithreduʼn effeithiol.
+(4) Pan godir pryder, rhaid iʼr darparwr awdurdod lleol sicrhau—
+(a)
+yr ymchwilir iʼr pryder,
+(b)
+y cymerir camau priodol yn dilyn ymchwiliad, ac
+(c)
+y cedwir cofnod syʼn ymwneud âʼr materion yn is-baragraffau (a) a (b).
+Gwybodaeth Cychwyn
+I1
+Rhl. 40 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Cymorth, hyfforddiant a gwybodaeth ar gyfer rhieni maeth
+41.—(1) Rhaid iʼr darparwr awdurdod lleol sicrhau bod gan rieni maeth yr wybodaeth y mae ei hangen arnynt i ddarparu gofal a chymorth i blentyn sydd wedi ei leoli gyda hwy yn unol â chynllun gofal a chymorth y plentyn.
+(2) Rhaid iʼr darparwr awdurdod lleol sicrhau bod rhieni maeth yn cael unrhyw hyfforddiant, cyngor a chymorth, gan gynnwys cymorth y tu allan i oriau swyddfa, y maeʼn ymddangos eu bod yn angenrheidiol er budd plant sydd wedi eu lleoli gydaʼr rhieni maeth ac iʼw galluogi i ddarparu gofal a chymorth i blant yn unol â chynllun gofal a chymorth pob plentyn.
+(3) Rhaid iʼr darparwr awdurdod lleol sicrhau bod darpar rieni maeth yn cael unrhyw hyfforddiant, gwybodaeth a chyngor yr ystyrir eu bod yn angenrheidiol.
+(4) Rhaid iʼr darparwr awdurdod lleol fonitro ac adolyguʼr wybodaeth, yr hyfforddiant, y cyngor aʼr cymorth a ddarperir i rieni maeth a darpar rieni maeth a gwneud unrhyw welliannau syʼn angenrheidiol.
+Gwybodaeth Cychwyn
+I1
+Rhl. 41 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Polisïau a gweithdrefnau i rieni maeth
+42.  Rhaid iʼr darparwr awdurdod lleol sicrhau bod rhieni maeth yn gyfarwydd âʼr polisïau aʼr gweithdrefnau a sefydlir o dan reoliadau 20, 21, 24, 25, 26, 39 a 45 ac yn gweithredu yn unol â hwy.
+Gwybodaeth Cychwyn
+I1
+Rhl. 42 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Goruchwylio
+43.  Rhaid iʼr darparwr awdurdod lleol sicrhau bod rhieni maeth yn cael eu goruchwylioʼn briodol.
+Gwybodaeth Cychwyn
+I1
+Rhl. 43 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Perthnasoedd gwaith effeithiol
+44.  Rhaid iʼr darparwr awdurdod lleol—
+(a)
+cynnal perthnasoedd proffesiynol da â rhieni maeth, a
+(b)
+annog a chynorthwyo rhieni maeth i gynnal perthnasoedd personol da â phlant sydd wedi eu lleoli gyda hwy.
+Gwybodaeth Cychwyn
+I1
+Rhl. 44 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Cefnogi plant i reoli eu harian
+45.—(1) Rhaid iʼr darparwr awdurdod lleol gael polisi a gweithdrefnau yn eu lle i alluogi rhieni maeth i ddarparu cymorth a chynhorthwy i blant o ran sut i reoli eu harian.
+(2) Rhaid iʼr polisi aʼr gweithdrefnau y maeʼn ofynnol gan y rheoliad hwn iddynt fod yn eu lle nodiʼr camau sydd iʼw cymryd gan rieni maeth i alluogi a chefnogi plant i reoli eu harian eu hunain ac i amddiffyn plant rhag camdriniaeth ariannol(1).
+(3) Rhaid i’r polisi a’r gweithdrefnau sicrhau bod y darparwr awdurdod lleol yn goruchwylio ac yn monitro’n ddigonol y cynilion a wneir gan rieni maeth ar ran plant.
+(4) Pan foʼr rhieni maeth yn dal arian plentyn at unrhyw ddiben, rhaid iʼr polisi aʼr gweithdrefnau syʼn ofynnol gan y rheoliad hwn ddarparu bod yr arian yn cael ei ddal mewn cyfrif yn enwʼr plentyn neu mewn cyfrif syʼn ei gwneud yn bosibl darnodi arian y plentyn yn glir.
+(5) Rhaid i’r polisi a’r gweithdrefnau sicrhau bod rhieni maeth yn trosglwyddo’r holl gofnodion o gynilion (gan gynnwys gwariant o gynilion) i’r darparwr awdurdod lleol pan ddaw lleoliad plentyn y mae’r cofnodion yn ymwneud ag ef i ben.
+Gwybodaeth Cychwyn
+I1
+Rhl. 45 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+(1)
+Gweler adran 197(1) o Ddeddf 2014 am y diffiniad o “camdriniaeth ariannol”.Rhagolygol
+Goruchwylio digonolrwydd adnoddau
+46.—(1) Rhaid i reolwr yr awdurdod lleol adrodd i’r darparwr awdurdod lleol am ddigonolrwydd yr adnoddau sydd ar gael i ddarparu’r gwasanaeth yn unol â gofynion y Rheoliadau hyn.
+(2) Rhaid i adroddiadau o’r fath gael eu gwneud yn chwarterol.
+Gwybodaeth Cychwyn
+I1
+Rhl. 46 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Adroddiadau eraill i’r darparwr awdurdod lleol
+47.  Rhaid i reolwr yr awdurdod lleol, yn ddi-oed, adrodd i’r darparwr awdurdod lleol—
+(a)
+am unrhyw bryderon ynghylch darparu’r gwasanaeth,
+(b)
+am unrhyw newidiadau sylweddol i’r ffordd y caiff y gwasanaeth ei reoli neu ei ddarparu, ac
+(c)
+am unrhyw bryderon nad yw’r gwasanaeth yn cael ei ddarparu yn unol â’r datganiad o ddiben ar gyfer y gwasanaeth.
+Gwybodaeth Cychwyn
+I1
+Rhl. 47 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Ymgysylltu â phlant ac eraill
+48.—(1) Rhaid i reolwr yr awdurdod lleol roi trefniadau addas yn eu lle ar gyfer cael safbwyntiau—
+(a)
+unrhyw blentyn sydd wedi ei leoli gan y darparwr awdurdod lleol,
+(b)
+rhieni unrhyw blentyn o’r fath, oni bai bod hyn yn amhriodol neu’n anghyson â llesiant y plentyn,
+(c)
+rhieni maeth, a
+(d)
+staff sy’n cael eu cyflogi yn y gwasanaeth,
+ar ansawdd y gofal a’r cymorth a ddarperir a sut y gellir gwella hyn.
+(2) Rhaid i reolwr yr awdurdod lleol adrodd am y safbwyntiau a geir i’r darparwr awdurdod lleol er mwyn i’r safbwyntiau hyn allu cael eu hystyried gan y darparwr wrth wneud unrhyw benderfyniadau ar gynlluniau ar gyfer gwella ansawdd y gofal a’r cymorth a ddarperir gan y gwasanaeth.
+Gwybodaeth Cychwyn
+I1
+Rhl. 48 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Dyletswydd i sicrhau bod systemau yn eu lle i gofnodi cwynion
+49.  Rhaid i reolwr yr awdurdod lleol sicrhau bod systemau effeithiol yn eu lle i gofnodi cwynion.
+Gwybodaeth Cychwyn
+I1
+Rhl. 49 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Dyletswydd i sicrhau bod systemau yn eu lle ar gyfer cadw cofnodion
+50.  Rhaid i reolwr yr awdurdod lleol sicrhau bod systemau effeithiol yn eu lle mewn perthynas â chadw cofnodion, sy’n cynnwys systemau ar gyfer sicrhau bod y cofnodion y mae rhaid iddynt gael eu cadw o dan reoliad 37 yn gywir ac yn gyflawn.
+Gwybodaeth Cychwyn
+I1
+Rhl. 50 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Dyletswydd i sicrhau bod polisïau a gweithdrefnau yn gyfredol
+51.  Rhaid i reolwr yr awdurdod lleol roi trefniadau addas yn eu lle i sicrhau bod polisïau a gweithdrefnau’r darparwr yn cael eu cadw’n gyfredol, gan roi sylw i’r datganiad o ddiben ar gyfer y gwasanaeth.
+Gwybodaeth Cychwyn
+I1
+Rhl. 51 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Adolygiad o ansawdd y gofal
+52.—(1) Rhaid i reolwr yr awdurdod lleol roi trefniadau addas yn eu lle i sefydlu a chynnal system ar gyfer monitro, adolygu a gwella ansawdd y gwasanaeth.
+(2) Rhaid i’r system a sefydlir o dan baragraff (1) wneud darpariaeth i ansawdd y gofal a’r cymorth gael ei adolygu mor aml ag sy’n ofynnol ond o leiaf bob chwe mis.
+Gwybodaeth Cychwyn
+I1
+Rhl. 52 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Cymorth ar gyfer codi pryderon
+53.  Rhaid i reolwr yr awdurdod lleol sicrhau y cydymffurfir â pholisi chwythu chwiban y darparwr awdurdod lleol a bod y trefniadau i alluogi a chefnogi pobl sy’n gweithio yn y gwasanaeth i godi pryderon o’r fath yn cael eu gweithredu’n effeithiol.
+Gwybodaeth Cychwyn
+I1
+Rhl. 53 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Huw Irranca-Davies
+Y Gweinidog Plant, Pobl Hŷn a Gofal Cymdeithasol o dan awdurdod Ysgrifennydd y Cabinet dros Iechyd a Gwasanaethau Cymdeithasol, un o Weinidogion Cymru
+12 Rhagfyr 2018Rhagolygol
+Rheoliadau 2 a 4
+ATODLEN 1
+Gwybodaeth sydd iʼw chynnwys mewn datganiad o ddiben gan ddarparwr awdurdod lleol
+Gwybodaeth Cychwyn
+I1
+Atod. 1 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+Rhaid iʼr datganiad o ddiben a lunnir gan ddarparwr awdurdod lleol gynnwys yr wybodaeth a ganlyn—
+(a)
+enw a phrif gyfeiriad yr awdurdod lleol,
+(b)
+enw rheolwr yr awdurdod lleol,
+(c)
+datganiad o ystod anghenion y plant y maeʼr gwasanaeth iʼw ddarparu ar eu cyfer,
+(d)
+sut y maeʼr gwasanaeth iʼw ddarparu i ddiwallu anghenion plant ac iʼw cefnogi i gyflawni eu canlyniadau personol,
+(e)
+manylion strwythur rheoli a staffio’r gwasanaeth,
+(f)
+manylion y cyfleusterau aʼr cyfarpar a fydd ar gael i rieni maeth iʼw cynorthwyo i ddiwallu anghenion plant am ofal a chymorth ac iʼw cefnogi i gyflawni eu canlyniadau personol,
+(g)
+manylion y trefniadau a wnaed i gefnogi anghenion diwylliannol, ieithyddol a chrefyddol plant,
+(h)
+manylion y trefniadau a wnaed i ddarparu cymorth i blant mewn perthynas âʼu cyfeiriadedd rhywiol aʼu hunaniaeth o ran rhywedd,
+(i)
+manylion y trefniadau a wnaed ar gyfer ymgynghori â phlant ynghylch gweithredu gwasanaeth maethuʼr awdurdod lleol,
+(j)
+manylion ynghylch sut y bydd yr awdurdod lleol yn diwallu anghenion iaith a chyfathrebu plant, gan gynnwys drwy gyfrwng y Gymraeg.Rhagolygol
+Rheoliad 37
+ATODLEN 2
+Y cofnodion sydd iʼw cadw gan ddarparwyr awdurdodau lleol
+1.  Cofnod syʼn dangos mewn cysylltiad â phob plentyn sydd wedi ei leoli gyda rhieni maeth—
+(a)
+dyddiad lleoliʼr plentyn;
+(b)
+cynllun gofal a chymorth y plentyn;
+(c)
+y cytundeb gofal maeth mewn cysylltiad âʼr plentyn;
+(d)
+enw a chyfeiriad y rhieni maeth;
+(e)
+y dyddiad y daeth lleoliad y plentyn yno i ben;
+(f)
+cyfeiriad y plentyn cyn y lleoliad;
+(g)
+cyfeiriad y plentyn wrth iddo ymadael âʼr lleoliad;
+(h)
+y ddarpariaeth statudol y mae neu yr oedd gofal maeth yn cael ei ddarparu iʼr plentyn odani.
+Gwybodaeth Cychwyn
+I1
+Atod. 2 para. 1 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+2.  Cofnod oʼr holl bersonau syʼn gweithio iʼr darparwr awdurdod lleol, a hwnnwʼn gofnod y mae rhaid iddo gynnwys y materion a ganlyn mewn cysylltiad â pherson syʼn dod o fewn rheoliad 29(1)—
+(a)
+enw llawn a chyfeiriad cartref;
+(b)
+dyddiad geni;
+(c)
+rhyw;
+(d)
+cymwysterau syʼn berthnasol i, a phrofiad o wneud, gwaith syʼn ymwneud â phlant;
+(e)
+copi o dystysgrif geni a phasbort (os oes ganddo un) mewn cysylltiad â’r person;
+(f)
+copi o bob geirda a geir mewn cysylltiad âʼr person;
+(g)
+pa un a ywʼr person wedi ei gyflogi gan y darparwr awdurdod lleol at ddibenion gwasanaeth maethu’r awdurdod lleol o dan gontract gwasanaeth, contract ar gyfer gwasanaethau, neu heblaw o dan gontract, neu a yw wedi ei gyflogi gan rywun ac eithrioʼr darparwr awdurdod lleol;
+(h)
+pa un a ywʼr person yn gweithioʼn llawnamser neuʼn rhan-amser, ac, os ywʼn rhan-amser, nifer yr oriau syʼn cael eu gweithio ar gyfartaledd bob wythnos;
+(i)
+y dyddiadau y maeʼr person yn dechrau cael ei gyflogi felly ac yn peidio â chael ei gyflogi felly;
+(j)
+y swydd sydd gan y person yn y gwasanaeth;
+(k)
+cofnodion o gamau disgyblu ac unrhyw gofnodion eraill mewn perthynas â chyflogaeth y person; ac
+(l)
+cofnod o ddyddiad tystysgrif GDG ddiweddaraf y person ac a gymerwyd unrhyw gamau gweithredu o ganlyniad i gynnwys y dystysgrif.
+Gwybodaeth Cychwyn
+I2
+Atod. 2 para. 2 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+3.  Cofnod o bob damwain ddifrifol ac anaf difrifol syʼn digwydd i blant tra bônt wedi eu lleoli gyda rhieni maeth.
+Gwybodaeth Cychwyn
+I3
+Atod. 2 para. 3 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+4.  Cofnod o’r holl gwynion a wneir o dan y polisi cwyno y mae’r darparwr awdurdod lleol yn ei roi yn ei le, a’r camau gweithredu a gymerir gan y darparwr awdurdod lleol mewn cysylltiad ag unrhyw gwynion o’r fath.
+Gwybodaeth Cychwyn
+I4
+Atod. 2 para. 4 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+5.  Dyddiad ac amgylchiadau unrhyw atgyfeiriadau diogelu, aʼr canlyniad.
+Gwybodaeth Cychwyn
+I5
+Atod. 2 para. 5 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+6.  Dyddiad ac amgylchiadau unrhyw achos o ddefnyddio rheolaeth neu ataliaeth gan rieni maeth ar blentyn.
+Gwybodaeth Cychwyn
+I6
+Atod. 2 para. 6 mewn grym ar 29.4.2019, gweler rhl. 1(2)Rhagolygol
+Rheoliadau 2 a 29
+ATODLEN 3
+RHAN 1
+Gwybodaeth a dogfennaeth sydd i fod ar gael mewn cysylltiad â phersonau syʼn gweithio mewn gwasanaethau maethu
+1.  Prawf o bwy ywʼr person gan gynnwys ffotograff diweddar.
+Gwybodaeth Cychwyn
+I1
+Atod. 3 para. 1 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+2.  Pan foʼn ofynnol at ddibenion cwestiwn sydd wedi ei esemptio yn unol ag adran 113A(2)(b) o Ddeddf yr Heddlu 1997(1), copi o dystysgrif cofnod troseddol ddilys a ddyroddir o dan adran 113A oʼr Ddeddf honno ynghyd, ar ôl y diwrnod penodedig a phan foʼn gymwys, âʼr wybodaeth a grybwyllir yn adran 30A(3) o Ddeddf Diogelu Grwpiau Hyglwyf 2006(2) (darparu gwybodaeth am waharddiadau ar gais).
+Gwybodaeth Cychwyn
+I2
+Atod. 3 para. 2 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+3.  Pan foʼn ofynnol at ddibenion cwestiwn sydd wedi ei esemptio ac a ofynnir at ddiben rhagnodedig o dan adran 113B(2)(b) o Ddeddf yr Heddlu 1997, copi o dystysgrif cofnod troseddol manwl ddilys a ddyroddir o dan adran 113B oʼr Ddeddf honno ynghyd, pan foʼn gymwys, â gwybodaeth addasrwydd syʼn ymwneud â phlant (o fewn ystyr “suitability information relating to children” yn adran 113BA(2) oʼr Ddeddf honno) neu wybodaeth addasrwydd syʼn ymwneud ag oedolion hyglwyf (o fewn ystyr “suitability information relating to vulnerable adults” yn adran 113BB(2) oʼr Ddeddf honno).
+Gwybodaeth Cychwyn
+I3
+Atod. 3 para. 3 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+4.  Dau eirda ysgrifenedig, gan gynnwys geirda gan y cyflogwr diwethaf, os oes un.
+Gwybodaeth Cychwyn
+I4
+Atod. 3 para. 4 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+5.  Pan fo person wedi gweithioʼn flaenorol mewn swydd yr oedd ei dyletswyddau yn cynnwys gweithio gyda phlant neu oedolion hyglwyf, cadarnhad, iʼr graddau y boʼn rhesymol ymarferol, oʼr rheswm pam y daeth y gyflogaeth neuʼr swydd i ben.
+Gwybodaeth Cychwyn
+I5
+Atod. 3 para. 5 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+6.  Tystiolaeth ddogfennol o unrhyw gymhwyster perthnasol.
+Gwybodaeth Cychwyn
+I6
+Atod. 3 para. 6 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+7.  Pan foʼn berthnasol, tystiolaeth ddogfennol o gofrestriad â Gofal Cymdeithasol Cymru.
+Gwybodaeth Cychwyn
+I7
+Atod. 3 para. 7 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+8.  Hanes cyflogaeth llawn, ynghyd ag esboniad ysgrifenedig boddhaol o unrhyw fylchau mewn cyflogaeth.
+Gwybodaeth Cychwyn
+I8
+Atod. 3 para. 8 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+9.  Manylion cofrestriad ag unrhyw gorff proffesiynol neu aelodaeth o gorff oʼr fath.
+Gwybodaeth Cychwyn
+I9
+Atod. 3 para. 9 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+RHAN 2
+Dehongli Rhan 1
+10.  At ddibenion paragraffau 2 a 3 o Ran 1 o’r Atodlen hon—
+(a)
+os nad ywʼr person y maeʼr dystysgrif yn ymwneud ag ef wedi ei gofrestru â gwasanaeth diweddaruʼr GDG, nid yw tystysgrif ond yn ddilys—
+(i)
+os yʼi dyroddwyd mewn ymateb i gais gan y darparwr awdurdod lleol yn unol â rheoliad 29(3) neu (6), a
+(ii)
+os nad oes mwy na thair blynedd wedi mynd heibio ers iʼr dystysgrif gael ei dyroddi;
+(b)
+os ywʼr person y maeʼr dystysgrif yn ymwneud ag ef wedi ei gofrestru â gwasanaeth diweddaruʼr GDG, maeʼr dystysgrif yn ddilys ni waeth pa bryd yʼi dyroddwyd.
+Gwybodaeth Cychwyn
+I10
+Atod. 3 para. 10 mewn grym ar 29.4.2019, gweler rhl. 1(2)
+(1)
+1997 p. 50.
+(2)
+2006 p. 47. Mae adrannau newydd 30A a 30B i’w rhoi yn lle adrannau 30 i 32 o Ddeddf Diogelu Grwpiau Hyglwyf 2006 fel y’i deddfwyd yn wreiddiol o ganlyniad i amnewidiadau a wnaed gan adran 72(1) o Ddeddf Diogelu Rhyddidau 2012. Mae adran 72(1) i’w chychwyn ar ddiwrnod sydd i’w bennu.Rhagolygol
+NODYN ESBONIADOL
+(Nid ywʼr nodyn hwn yn rhan oʼr Rheoliadau)
+Mae adran 94A o Ddeddf Gwasanaethau Cymdeithasol a Llesiant (Cymru) 2014 (“Deddf 2014”) yn darparu y caiff rheoliadau wneud darpariaeth ynghylch arfer swyddogaethau gan awdurdodau lleol a roddir iddynt gan reoliadau a wneir o dan adran 87 (rheoliadau ynghylch plant sy’n derbyn gofal) o’r Ddeddf honno.
+Caiff rheoliadau a wneir o dan adran 87 o Ddeddf 2014 wneud darpariaeth bellach ynghylch plant sy’n derbyn gofal gan awdurdodau lleol, gan gynnwys rheoliadau ynghylch lleoli plant gyda rhieni maeth awdurdod lleol (adran 92 o’r Ddeddf honno).
+Mae’r Rheoliadau hyn yn gosod gofynion ar ddarparwyr gwasanaethau maethu awdurdodau lleol, a ddisgrifir fel “darparwyr awdurdodau lleol” yn y Rheoliadau hyn.
+Mae Rhan 1 o’r Rheoliadau hyn yn cynnwys diffiniadau o dermau penodol sy’n cael eu defnyddio yn y Rheoliadau.
+Mae Rhan 2 o’r Rheoliadau hyn yn amlinellu’r gofynion cyffredinol sy’n gymwys i ddarparwyr awdurdodau lleol o ran y ffordd y darperir y gwasanaeth, gan gynnwys gofynion mewn perthynas â’r datganiad o ddiben (ac mae Atodlen 1 yn nodi’r wybodaeth sydd i’w chynnwys mewn datganiad o ddiben a lunnir gan ddarparwr awdurdod lleol), y trefniadau ar gyfer monitro a gwella a’r gofyniad i benodi rheolwr i fod yn gyfrifol am reoli’r gwasanaeth.
+Mae Rhan 3 yn nodi gofynion sy’n ymwneud â darparu gwybodaeth. Mae Rhan 4 yn nodi gofynion o ran safon y gofal a’r cymorth sydd i’w darparu, diwallu anghenion iaith a chyfathrebu plentyn a thrin plant â pharch a sensitifrwydd.
+Mae Rhan 5 yn ei gwneud yn ofynnol i bolisïau a gweithdrefnau fod yn eu lle mewn perthynas â diogelu a’r defnydd priodol o reolaeth ac ataliaeth. Mae’r rheoliadau yn y Rhan hon yn gosod gofynion penodol o ran y camau gweithredu sydd i’w cymryd os bydd honiad neu dystiolaeth o gamdriniaeth, er mwyn sicrhau bod plant yn ddiogel ac yn cael eu hamddiffyn rhag camdriniaeth, esgeulustod a thriniaeth amhriodol. Mae’r Rhan hon hefyd yn manylu ar bolisïau a gweithdrefnau eraill y mae rhaid iddynt fod yn eu lle, gan gynnwys y weithdrefn sydd i’w dilyn pan aiff plentyn sydd wedi ei leoli gyda rhieni maeth yn absennol heb ganiatâd, a pholisi a gweithdrefnau yn ymdrin â bwlio.
+Mae Rhan 6 yn nodi gofynion i sicrhau bod plant yn cael mynediad i wasanaethau iechyd, gwasanaethau addysg a gwasanaethau eraill.
+Mae Rhan 7 yn cynnwys gofynion o ran staffio, sy’n cynnwys gofynion cyffredinol o ran defnyddio niferoedd digonol o staff a gofynion penodol o ran addasrwydd unigolion sy’n gweithio yn y gwasanaeth. Mae’r gofynion hyn yn gymwys nid yn unig i gyflogeion ond hefyd i wirfoddolwyr ac i bersonau eraill sy’n gweithio yn y gwasanaeth maethu, a fyddai’n cynnwys staff asiantaeth. Mae’r gofynion addasrwydd yn cynnwys gofyniad i wybodaeth a dogfennaeth benodol fod ar gael mewn cysylltiad â phersonau sy’n gweithio mewn gwasanaethau maethu, fel y’u nodir yn Atodlen 3.
+Ymhlith y gofynion eraill a gynhwysir yn Rhan 7 mae gofynion sy’n ymwneud â chefnogi a datblygu staff, darparu gwybodaeth i staff a gweithredu gweithdrefn ddisgyblu addas. I sicrhau bod cyflogeion yn adrodd am achosion o gamdriniaeth i berson priodol, mae’r rheoliadau yn y Rhan hon yn ei gwneud yn ofynnol i weithdrefn ddisgyblu’r darparwr ddarparu y byddai methu ag adrodd ynddo’i hun yn sail dros achos disgyblu. Mae’r Rhan hon hefyd yn cynnwys cyfyngiadau ar bersonau na chaniateir iddynt gael eu cyflogi gan y darparwr awdurdod lleol mewn rolau allweddol penodedig.
+Mae Rhan 8 yn sicrhau bod mangreoedd, cyfleusterau a chyfarpar sydd i’w defnyddio mewn perthynas â gwasanaethau maethu yn addas ac yn ddiogel.
+Mae Rhan 9 yn nodi’r gofyniad i gadw cofnodion mewn cysylltiad â gwasanaethau maethu ac mae Atodlen 2 yn nodi’r cofnodion penodol y mae rhaid eu cadw. Mae’r Rhan hon hefyd yn nodi’r rhwymedigaethau ar ddarparwr awdurdod lleol mewn perthynas ag ymdrin â chwynion a phryderon chwythu’r chwiban.
+Mae Rhan 10 yn amlinellu’r cymorth a’r cynhorthwy arall sydd i’w rhoi i rieni maeth. Mae’r Rhan hon hefyd yn ei gwneud yn ofynnol i ddarparwyr awdurdod lleol oruchwylio rhieni maeth a sicrhau bod rhieni maeth yn gyfarwydd â pholisïau a gweithdrefnau allweddol ac yn gweithredu yn unol â hwy.
+Mae Rhan 11 yn disgrifio’r dyletswyddau y mae rhaid i’r rheolwr a gyflogir gan wasanaeth maethu’r awdurdod lleol eu cyflawni. Mae’r rhain yn cynnwys cyfrifoldebau sy’n ymwneud â goruchwylio digonolrwydd adnoddau, gwneud adroddiadau i’r darparwr awdurdod lleol, sicrhau bod systemau yn eu lle i gofnodi cwynion a sicrhau bod polisïau a gweithdrefnau yn cael eu cadw’n gyfredol.
+Ystyriwyd Cod Ymarfer Gweinidogion Cymru ar gynnal Asesiadau Effaith Rheoleiddiol mewn perthynas â’r Rheoliadau hyn. O ganlyniad, lluniwyd asesiad effaith rheoleiddiol o’r costau a’r manteision sy’n debygol o ddeillio o gydymffurfio â’r Rheoliadau hyn. Gellir cael copi oddi wrth: Yr Adran Iechyd a Gwasanaethau Cymdeithasol, Llywodraeth Cymru, Parc Cathays, Caerdydd, CF10 3NQ.

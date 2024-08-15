@@ -1,0 +1,46 @@
+Draft Regulations laid before Parliament under section 6(8)(b) of the Energy Act 2013, for approval by resolution of each House of Parliament.
+DRAFT STATUTORY INSTRUMENTS
+2022 No.
+ELECTRICITY
+The Contracts for Difference (Allocation) and Electricity Market Reform (General) (Amendment) Regulations 2022
+Made
+2022
+Coming into force
+22nd July 2022
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 6(1) and (6), 12, 13, 14(2) and 19 of the Energy Act 2013(1) (the “Act”).
+The Secretary of State has consulted the persons listed in section 24(1) of the Act and has had regard to the matters in section 5(2) of the Act.
+In accordance with section 6(8)(b) of the Act, a draft of this instrument was laid before, and approved by a resolution of, each House of Parliament.
+(1)
+2013 c. 32.Citation, commencement and extent
+1.—(1) These Regulations may be cited as the Contracts for Difference (Allocation) and Electricity Market Reform (General) (Amendment) Regulations 2022 and come into force on 22nd July 2022.
+(2) This regulation and regulations 3 and 4(2) extend to England and Wales, Scotland and Northern Ireland.
+(3) Regulations 2 and 4(1) extend to England and Wales and Scotland only.Amendment of the Contracts for Difference (Allocation) Regulations 2014
+2.—(1) The Contracts for Difference (Allocation) Regulations 2014(1) are amended as follows.
+(2) In regulation 14A(2)—
+(a)
+for “allocation round”, in the first place it occurs, substitute “two allocation rounds”;
+(b)
+for ““next allocation round” means the first allocation round” substitute ““next two allocation rounds” means the first two allocation rounds”.
+(3) For regulation 26(5) substitute—
+“(5) In this regulation, “threshold generating capacity” means a generating capacity of—
+(a)
+300 megawatts or more; or
+(b)
+where the relevant CFD unit meets, or is expected by the target commissioning date to meet, the floating offshore wind conditions set out in regulation 27ZA(4), under 300 megawatts.”.
+(4) In regulation 51(10)(c), in both places, after “target commissioning” insert “window start”.
+(1)
+S.I. 2014/2011; relevant amending instruments are S.I. 2015/981, 2016/784, 2016/1246 and 2021/758. There are other amendments, but none is relevant for this instrument.Amendment of the Electricity Market Reform (General) Regulations 2014
+3.  In regulation 11(2)(a) of the Electricity Market Reform (General) Regulations 2014(1), for “12” substitute “9”.
+(1)
+S.I. 2014/2013. There are amendments, but none is relevant for this instrument.Transitional provisions
+4.—(1) The amendment in regulation 2(2) has no effect in relation to an allocation round established by the Secretary of State under regulation 4 of the Contracts for Difference (Allocation) Regulations 2014 before 22nd July 2022.
+(2) The amendment in regulation 3 has no effect in relation to a supply chain statement included in a notice given by the Secretary of State under regulation 11 of the Electricity Market Reform (General) Regulations 2014 before 22nd July 2022.Name
+Minister of State
+Department for Business, Energy and Industrial Strategy
+DateEXPLANATORY NOTE
+(This note is not part of the Regulations)
+This instrument amends the Contracts for Difference (Allocation) Regulations 2014 (S.I. 2014/2011) and the Electricity Market Reform (General) Regulations 2014 (S.I. 2014/2013). Those Regulations form part of the legislative framework underpinning the Contracts for Difference (“CFD”) scheme under section 6 of the Energy Act 2013 (c. 32).
+Regulation 2 amends the Contracts for Difference (Allocation) Regulations 2014. Under regulation 2(2), temporary site exclusions will apply for the next two CFD allocation rounds. Under regulation 2(3), certain floating offshore wind generating stations will be required to produce a supply chain statement to take part in a CFD allocation round. Under regulation 2(4), applicants for flexible bids, in circumstances where there is a pending application (as set out in regulation 51 of the Contracts for Difference (Allocation) Regulations 2014), will be required to specify the “target commissioning window start date” instead of the “target commissioning date” in accordance with the allocation framework.
+Regulation 3 amends the period during which supply chain statements have effect under regulation 11 of the Electricity Market Reform (General) Regulations 2014.
+Regulation 4 contains transitional provisions.
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.

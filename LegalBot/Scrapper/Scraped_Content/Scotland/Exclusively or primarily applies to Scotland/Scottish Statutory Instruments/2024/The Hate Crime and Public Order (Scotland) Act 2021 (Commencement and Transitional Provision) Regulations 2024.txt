@@ -1,0 +1,84 @@
+SCOTTISH STATUTORY INSTRUMENTS
+2024 No. 82 (C. 8)
+CRIMINAL LAW
+The Hate Crime and Public Order (Scotland) Act 2021 (Commencement and Transitional Provision) Regulations 2024
+Made
+14th March 2024
+Laid before the Scottish Parliament
+18th March 2024
+Coming into force
+1st April 2024
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 21(2) of the Hate Crime and Public Order (Scotland) Act 2021(1).
+(1)
+2021 asp 14. The regulation-making power conferred by section 21(2) of the Act includes the power to make transitional provision by virtue of section 21(3).Citation, commencement and interpretation
+1.—(1) These Regulations may be cited as the Hate Crime and Public Order (Scotland) Act 2021 (Commencement and Transitional Provision) Regulations 2024 and come into force on 1 April 2024.
+(2) In these Regulations—
+“existing law” means each of the 1986 Act, the 1995 Act, the 1998 Act, the 2003 Act and the 2009 Act,
+“the 1986 Act” means the Public Order Act 1986(1),
+“the 1995 Act” means the Criminal Law (Consolidation) (Scotland) Act 1995(2),
+“the 1998 Act” means the Crime and Disorder Act 1998(3),
+“the 2003 Act” means the Criminal Justice (Scotland) Act 2003(4),
+“the 2009 Act” means the Offences (Aggravation by Prejudice) (Scotland) Act 2009(5),
+“the 2021 Act” means the Hate Crime and Public Order (Scotland) Act 2021.
+(1)
+1986 c. 64.
+(2)
+1995 c. 39.
+(3)
+1998 c. 37.
+(4)
+2003 asp 7.
+(5)
+2009 asp 8.Appointed day
+2.—(1) 1 April 2024 is the day appointed for the coming into force of all of the provisions of the 2021 Act, so far as not already in force.Transitional provision where there is failure to establish that the time of commission of offence was before 1 April 2024
+3.—(1) Paragraph (2) applies if, in any trial—
+(a)
+the accused is charged in respect of the same conduct both with an offence under the 2021 Act and with an offence under a provision of existing law which is listed in the schedule,
+(b)
+there is a failure to establish beyond reasonable doubt that the time when the conduct took place was before 1 April 2024, and
+(c)
+the court (or, in the case of a trial of an indictment, the jury) is satisfied in every other respect that the accused committed an offence charged.
+(2) Where this paragraph applies, the accused may be found guilty—
+(a)
+if the maximum penalty under the existing law is less than the maximum penalty for an offence under the 2021 Act, of an offence under the existing law without the modification of that law by section 18 and schedule 2 of the 2021 Act,
+(b)
+in any other case, of an offence under the 2021 Act.
+(3) In paragraph (2) the reference, in relation to an offence, to the maximum penalty is a reference to the maximum penalty by way of imprisonment or other detention that could be imposed on the accused on conviction of the offence in the proceedings in question.
+(4) Paragraph (5) applies if, in any trial—
+(a)
+the accused is charged with conduct which is an offence and is also charged with an aggravation of the offence under both the 2021 Act and a provision of existing law which is listed in the schedule,
+(b)
+there is a failure to establish beyond reasonable doubt that the time when the conduct took place was before 1 April 2024,
+(c)
+the court (or, in the case of a trial of an indictment, the jury) is satisfied in every other respect that the offence took place, and
+(d)
+the court is satisfied that the offence was aggravated by prejudice.
+(5) Where this paragraph applies, the court must treat the aggravation as having taken place under the 2021 Act.
+(6) A reference in this regulation to an offence includes a reference to—
+(a)
+an attempt to commit an offence,
+(b)
+incitement to commit an offence,
+(c)
+counselling or procuring the commission of an offence, and
+(d)
+involvement art and part in an offence.SIOBHIAN BROWN
+Authorised to sign by the Scottish Ministers
+St Andrew’s House,
+Edinburgh
+14th March 2024Regulation 3
+SCHEDULE
+Table
+Existing Law
+Act Provision(s)
+The Public Order Act 1986 Sections 18 to 21 and section 23
+The Criminal Law (Consolidation) (Scotland) Act 1995 Section 50A
+The Crime and Disorder Act 1998 Section 96
+The Criminal Justice (Scotland) Act 2003 Section 74
+The Offences (Aggravation by Prejudice) (Scotland) Act 2009 Sections 1 and 2EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations commence the provisions of the Hate Crime and Public Order (Scotland) Act 2021 (“the 2021 Act”), to the extent that they are not already in force. The Bill for the 2021 Act received Royal Assent on 23 April 2021. Sections 17, 21 and 22 came into force the following day.
+Regulation 3 makes transitional provision which takes effect where there is failure to establish that the time of commission of an offence was before 1 April 2024.
+Regulation 3(1) to (3) apply where the accused is charged with the same conduct under both the 2021 Act and any of the provisions of existing law which are listed in the schedule of the Regulations. It applies where a court (or jury, as the case may be) is satisfied that the accused committed an offence charged but it has not been established beyond reasonable doubt that the offence took place before 1 April 2024. If those circumstances are met, regulation 3(2) provides for the penalty that applies on conviction. Where the maximum penalty under the existing law is less than the maximum penalty for the offence under the 2021 Act, the accused may be found guilty of the offence under the existing law and the penalty for the offence under the existing law will apply. Otherwise, the accused may be found guilty of the offence under the 2021 Act and the penalty for the offence under that Act will apply. Regulation 3(3) provides for the interpretation of the maximum penalty.
+Regulation 3(4) and (5) make further transitional provision where there is failure to establish that the time of the commission of an offence was before 1 April 2024 and the accused is charged with an aggravation by prejudice under the existing law and under the 2021 Act. Where the court or jury is satisfied in every other respect that the offence has taken place, and the court is satisfied that the offence was aggravated by prejudice, regulation 3(5) provides that the aggravation provision under the 2021 Act will apply.
+Regulation 3(6) provides that a reference to an offence in the regulation includes an attempt to commit the offence, inciting its commission, and being involved art and part in it.

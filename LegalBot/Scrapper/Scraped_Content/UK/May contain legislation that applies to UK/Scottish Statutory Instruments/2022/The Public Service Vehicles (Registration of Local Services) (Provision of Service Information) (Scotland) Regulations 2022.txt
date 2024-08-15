@@ -1,0 +1,69 @@
+SCOTTISH STATUTORY INSTRUMENTS
+2022 No. 358
+TRANSPORT
+The Public Service Vehicles (Registration of Local Services) (Provision of Service Information) (Scotland) Regulations 2022
+Made
+29th November 2022
+Laid before the Scottish Parliament
+1st December 2022
+Coming into force
+1st April 2023
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 6ZA(2), 6ZA(5) and 6ZC(1) of the Transport Act 1985(1) and all other powers enabling them to do so.
+In accordance with section 6ZC(2) of that Act, they have consulted the persons required.
+(1)
+1985 c. 67 (“the 1985 Act”). Sections 6ZA and 6ZC were inserted by section 39 of the Transport (Scotland) Act 2019 (asp 17). Sections 134 and 135 of the 1985 Act provide that sections 60 and 61 of the Public Passenger Vehicles Act 1981 (c. 14) (“the 1981 Act”) have effect as if Parts I and II of the 1985 Act were contained in that Act. Section 60(2) of the 1981 Act contains definitions of “prescribed” and “regulations” relevant to the exercise of the powers under which these Regulations are made. The functions of the Secretary of State under sections 60 and 61 of the 1981 Act were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998 (c. 46).Citation, commencement and interpretation
+1.—(1) These Regulations may be cited as the Public Service Vehicles (Registration of Local Services) (Provision of Service Information) (Scotland) Regulations 2022 and come into force on 1 April 2023.
+(2) In these Regulations—
+“the 1985 Act” means the Transport Act 1985,
+“the 2001 Regulations” means the Public Service Vehicles (Registration of Local Services) (Scotland) Regulations 2001(1).
+(1)
+S.S.I. 2001/219, relevantly amended by S.S.I. 2012/32 and S.S.I. 2015/420.Prescribed period for an affected authority to require information relating to the local service
+2.  The prescribed period for the purposes of section 6ZA(2) of the 1985 Act is 7 days beginning with the day after the day on which the affected authority receives notification of the proposed application for the variation or cancellation of the registration under regulation 4(1) of the 2001 Regulations(1).
+(1)
+Regulation 4(1) was substituted by regulation 2(3)(a) of S.S.I. 2015/420.Prescribed information relating to the local service
+3.—(1) The prescribed information for the purposes of section 6ZA(2) of the 1985 Act is information as to—
+(a)
+the total number of journeys undertaken by passengers on the part of the relevant service specified in the operator’s notice,
+(b)
+the number and types of passengers using the part of the relevant service specified in the operator’s notice, the journeys made by those passengers, the types of fares paid by them, and the types of tickets used by them, and
+(c)
+the revenue received from the part of the relevant service specified in the operator’s notice including information about revenue attributable to—
+(i)
+specified types of fares or journeys undertaken, and
+(ii)
+specified times of the day or week.
+(2) In this regulation, “relevant service” means a local service registered under section 6 of the 1985 Act in respect of which the operator has notified an affected authority under regulation 4(1) of the 2001 Regulations of a proposed application to vary or cancel its registration.Prescribed period for an operator to provide the required information
+4.  The prescribed period for the purposes of section 6ZA(5)(a) of the 1985 Act is 7 days beginning with the day after the day on which the operator receives the request from the affected authority under section 6ZA(2) of that Act.Excluded applications
+5.  Section 6ZA of the 1985 Act does not apply where the proposed application to vary or cancel the registration is an application to—
+(a)
+vary a service to provide additional stopping places for the service (without removing any such stopping places),
+(b)
+vary a service so as to increase the frequency of the service,
+(c)
+vary a service so as to extend the period in any day for which the service operates,
+(d)
+vary or cancel a service coming within a case specified in regulation 7(2)(a) to (e) and (g) of the 2001 Regulations(1), or
+(e)
+vary a service by adjusting the timetable of the service without significantly affecting the level of the service provided, and the adjusted timings are either—
+(i)
+in no case more than 10 minutes earlier or later than those in the registered timetable, or
+(ii)
+required to adapt the service to a variation in a connecting rail, ferry or air service.
+(1)
+Regulation 7(2)(b) was amended by S.S.I. 2012/32.Prescribed form of the information to be provided by an operator
+6.  Where an operator is required to provide information to an affected authority further to a request under section 6ZA(2) of the 1985 Act, the operator may provide the information in any form in which, having regard to the manner in which the information is kept, it is reasonable for the information to be provided.Transitional provision
+7.  These Regulations apply only in relation to notifications of proposed applications to vary or cancel a registration under regulation 4(1) of the 2001 Regulations received by the affected authority on or after the date on which these Regulations come into force.JENNY GILRUTH
+Authorised to sign by the Scottish Ministers
+St Andrew’s House,
+Edinburgh
+29th November 2022EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations prescribe elements of the process contained in sections 6ZA to 6ZC of the Transport Act 1985 (“the 1985 Act”) relating to bus services. Section 6 of the 1985 Act and the Public Service Vehicles (Registration of Local Services) (Scotland) Regulations 2001 (“the 2001 Regulations”) deal with the registration of local services (defined by section 2 of the 1985 Act). Section 6 and the 2001 Regulations also deal with the circumstances in which such a registration can be varied or cancelled. Without this registration, a local service cannot be provided by an operator.
+Sections 6ZA to 6ZC of the 1985 Act enable an affected authority (defined by section 6ZA(6) of that Act) to obtain specific service information from an operator who proposes to vary or cancel the registration of a local service and, in limited circumstances, share it with other people who may wish to bid to provide a similar service to the one being withdrawn or varied. Sections 6ZA to 6ZC provide that certain elements of this process may be prescribed in regulations.
+Regulation 2 prescribes the period within which an affected authority may require the operator to provide them with prescribed information relating to the local service.
+Regulation 3 prescribes the information relating to the local service which an operator may be required to provide to an affected authority.
+Regulation 4 prescribes the period within which an operator must provide required information to the affected authority.
+Regulation 5 prescribes the circumstances in which section 6ZA of the 1985 Act shall not apply to a proposed application to vary or cancel the registration of a local service.
+Regulation 6 prescribes the form of the information to be provided by an operator when they are required to provide information to an affected authority.
+Regulation 7 provides that these Regulations apply only in relation to notifications of proposed applications to vary or cancel a registration received by an affected authority on or after the date on which these Regulations come into force.
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.

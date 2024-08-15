@@ -1,0 +1,322 @@
+Draft Regulations laid before the Scottish Parliament under paragraph 1(6) of schedule 7 of the European Union (Withdrawal) Act 2018 for approval by resolution of the Scottish Parliament.
+DRAFT SCOTTISH STATUTORY INSTRUMENTS
+2024 No.
+PLANT HEALTH
+The Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2024
+Made
+2024
+Coming into force
+30th April 2024
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by paragraph 7 of schedule 4 and paragraph 21 of schedule 7 of the European Union (Withdrawal) Act 2018(1) and all other powers enabling them to do so.
+In accordance with paragraph 1(6) of schedule 7 of that Act(2) draft of this instrument has been laid before and approved by the resolution of the Scottish Parliament.
+(1)
+2018 c. 16. The Scottish Ministers are an appropriate authority within the meaning of paragraph 8 of schedule 4 of the Act. Paragraph 7(1)(b) of schedule 4 was amended by paragraph 8(12) of schedule 2 of the Retained EU Law (Revocation and Reform) Act 2023 (c. 28) (“the 2023 Act”). Paragraph 21 of schedule 7 of the Act was amended by paragraph 53(2) of schedule 5 of the European Union (Withdrawal Agreement) Act 2020 (c. 1) and paragraph 8(14)(b) of schedule 2 of the 2023 Act.
+(2)
+In relation to the exercise of powers under paragraph 7 of schedule 4 of the European Union (Withdrawal) Act 2018, paragraph 1(6) of schedule 7 is to be read with paragraph 12(3) of that schedule.Citation and commencement
+1.  These Regulations may be cited as the Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2024 and come into force on 30 April 2024.The Plant Health (Import Inspection Fees) (Scotland) Regulations 2014
+2.—(1) The Plant Health (Import Inspection Fees) (Scotland) Regulations 2014(1) are amended as follows.
+(2) In regulation 2 (interpretation)(2) after the definition of “Plant Health Regulation” insert—
+““Relevant ports” means any of the following seaports—
+(a)
+Ayr;
+(b)
+Cairnryan;
+(c)
+Greenock.”.
+(3) In regulation 3 (application of the import inspection fee)(3), for paragraph 2(a) substitute—
+“(a)
+consists of plants, plant products and other objects of a description specified in the second column of Schedule 1 and that are listed in Part A of Annex 11 or in Annex 12 to the Phytosanitary Conditions Regulation, as amended from time to time;   and”.
+(4) In regulation 4 (fees)(4)—
+(a)
+for paragraph (6) substitute—
+“(6) Subject to paragraph (8), the fee specified for a documentary check for a consignment or such part of a consignment consisting of plants, plant products or other objects is—
+(a)
+in the case of a consignment originating in an EU Member State, Liechtenstein or Switzerland and containing only plants or plant products falling within column 1 of table 3 of schedule 2A, the fee specified for that check in the second column of that table, or
+(b)
+in any other case, £6.00.”.
+(b)
+for paragraph (8) substitute—
+“(8) No fee is payable under paragraphs (1), (6) and (7) in respect of—
+(a)
+goods in a consignment originating in an EU Member State, Liechtenstein or Switzerland listed in the table in schedule 2A to the Plant Health (Amendment etc.) (EU Exit) Regulations 2020(5) imported before 30th October 2024; or
+(b)
+a consignment originating in an EU Member State, Liechtenstein or Switzerland consisting solely of plants, plant products and other objects referred to in the lists established pursuant to Article 72(1) of Regulation (EU) 2016/2031(6), imported into Scotland through a relevant port.”.
+(c)
+after paragraph (8) insert—
+“(9) Paragraph (8) does not apply where the consignment originated in Liechtenstein and includes any goods falling within the table in schedule 2A and also within schedule 1 to the Official Controls (Plant Health) (Frequency of Checks) Regulations 2022(7).”.
+(5) For Regulation 5 (Additional fees in respect of Potatoes Originating in Egypt)(8), substitute—
+“Additional fees in respect of Potatoes Originating in Egypt and Lebanon
+5.—(1) Where paragraph (2) applies, an importer must pay to the Scottish Ministers the fee specified in the fourth column of schedule 3, in addition to any fee payable in accordance with regulations 3 and 4.
+(2) This paragraph applies where potatoes originating in Egypt or Lebanon are landed in Scotland and a sample of those potatoes is taken in order to ascertain whether, for the purposes of point 26 of Annex 7 of the Phytosanitary Conditions Regulation, those potatoes are infected with Ralstonia solanacearum (Smith) Yabuuchi et al.”.
+(6) For schedule 1 (import inspection fees for physical and identity checks), substitute the schedule in schedule 1 to these Regulations.
+(7) Omit schedule 2 (list of plants and plant products originating in an EU member state, Liechtenstein or Switzerland not subject to fees for documentary, identity and physical checks).
+(8) For schedule 2A (import inspection fee for documentary checks), substitute the schedule in schedule 2 to these Regulations.
+(9) In schedule 3 (additional fees), in column 2 of the table after “Egypt” insert “and Lebanon”.
+(1)
+S.S.I. 2014/338 relevantly amended by S.S.I. 2019/28, S.S.I. 2019/421, S.S.I. 2019/425, S.S.I. 2020/466, S.S.I. 2021/159, S.S.I. 2021/490 and S.S.I. 2022/230.
+(2)
+Regulation 2 relevantly amended by S.S.I. 2020/466.
+(3)
+Regulaton 3 was amended by S.S.I. 2019/421, S.S.I. 2019/425, S.S.I. 2020/466, S.S.I. 2021/159, and S.S.I. 2022/230.
+(4)
+Regulation 4 was amended by S.S.I. 2021/159 and S.S.I. 2022/230.
+(5)
+S.I. 2020/1482 relevantly amended by S.I. 2024/20.
+(6)
+EUR 2016/2031 relevantly amended by S.I. 2020/1482.
+(7)
+S.I. 2022/739 was amended by S.I. 2023/959.
+(8)
+Regulation 5 was amended by S.S.I. 2019/421 and S.S.I. 2020/466.Name
+Authorised to sign by the Scottish Ministers
+St Andrew’s House,
+Edinburgh
+DateRegulation 2(6)
+SCHEDULE 1
+Regulations 3, 4(1) and 4(7)
+“SCHEDULE 1
+IMPORT INSPECTION FEES FOR PHYSICAL AND IDENTITY CHECKS
+Item Product, plant or other object Quantity Country of Origin Fees
+(1)
+“Final consumers” means by evidence from the packaging, labelling or by other means, for direct sales to final consumers.
+(2)
+“Indoor Plants” means clearly packed and ready for supply to final consumers, identifiable as being for indoor use or use in aquaria.
+(3)
+“European Third countries” includes Albania, Andorra, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Canary Islands, Faeroe Islands, Georgia, Iceland, Liechtenstein, Moldova, Monaco, Montenegro, North Macedonia, Norway, Russia (only the following parts: Central Federal District (Tsentralny federalny okrug), Northwestern Federal District (Severo-Zapadny federalny okrug), Southern Federal District (Yuzhny federalny okrug), North Caucasian Federal District (Severo-Kavkazsky federalny okrug) and Volga Federal District (Privolzhsky federalny okrug)), San Marino, Serbia, Turkey and Ukraine.
+(4)
+“woody plants” means plants which have a woody or partly woody stem, and includes all trees, forest reproductive material (other than seed), shrubs and palms, and those vines and perennial herbs with woody or partly woody stems; and for this purpose “perennial herbs” means herbs for which the average life exceeds two years
+Note: Growing media and soil from third countries will be inspected at the frequency rate of the plants, plant products or other objects that it is attached to.”
+Physical check Identity check
+Normal working hours Outside normal working hours
+Plants for planting
+1 Cuttings, seedlings (except forestry reproductive material), young plants of strawberries or of vegetables Up to 10,000 in number Any third country £30.00 £54.00 £6.00
+All genera for each additional 1,000 units (or part thereof) £0.80 up to a maximum of £168 £1.50 up to a maximum of £318
+2 Shrubs, trees (other than cut Christmas trees), other woody nursery plants including forest reproductive material (other than seed) Up to 1,000 in number Any third country £30.00 £54.00 £6.00
+All genera for each additional 100 units (or part thereof) £0.50 up to a maximum of £168 £1.00 up to a maximum of £318
+3 Dormant bulbs, corms, rhizomes, tubers, onion, garlic, shallots, leeks and other alliaceous vegetables (other than tubers of potatoes), not intended for final consumers(1) or to produce plants for commercial flower production
+Per consignment
+- up to 200kg in weight
+Any third country £30.00 £54.00 £6.00
+All genera or each additional 10kg (or part thereof) £0.20 up to a maximum of £168 £0.40 up to a maximum of £318
+4 Dormant bulbs, corms, rhizomes, tubers, onion, shallots, garlic, leeks and other alliaceous vegetables not in substrate intended for planting (other than tubers of potatoes) and intended for final consumers (1) or commercial flower production only
+Per consignment
+- up to 200kg in weight
+Any third country £13.80 £21.60 £0.60
+All genera for each additional 10kg (or part thereof) £0.02 up to a maximum of £26.40 £0.04 up to a maximum of £46.80
+5 Non-woody plants (other than seed) for final consumers(1) Excludes other woody plants(4), shrubs and trees
+Per consignment
+- up to 1,000 in number
+any third country £17.40 £28.80 £1.80
+All genera For each additional 100 units (or part thereof) £0.06 up to a maximum of £55.20 £0.12 up to a maximum of £104.40
+6 Indoor plants(2) (including plants for use in aquaria) for final consumers(1) Per consignment - up to 1,000 in number Any third country £12.90 £19.80 £0.30
+All genera for each additional 100 units (or part thereof) £0.01 up to a maximum of £19.20 £0.02 up to a maximum of £32.40
+7 Plants intended for planting (other than cut Christmas trees) not specified or included elsewhere in this table Per consignment - up to 5,000 in number Any third country £30.00 £54.00 £6.00
+All genera for each additional 100 units (or part thereof) £0.20 up to maximum of £168 £0.40 up to maximum of £318
+Seeds
+8 For trials or testing
+Per consignment
+- up to 100kg in weight
+Any third country £13.80 £21.60 £0.60
+All genera for each additional 10kg (or part thereof) £0.05 up to maximum of £26.40 £0.09 up to maximum of £46.80
+9 Brassicaceae spp., Poaceae spp. and Trifolium spp. Per consignment - up to 100kg in weight Argentina, Australia, Bolivia, Brazil, Chile, New Zealand or Uruguay £30.00 £54.00 £6.00
+for each additional 10kg (or part thereof) £0.50 up to a maximum of £168 £0.90 up to a maximum of £318
+10 Capsicum spp. L., Solanum lycopersicum L., Solanum tuberosum L. (“true potato seed”) Per consignment - up to 100kg in weight Any third country £30.00 £54.00 £6.00
+for each additional 10kg (or part thereof) £0.50 up to maximum of £168 £0.90 up to maximum of £318
+11 Triticum L., Secale L. and X Triticosecale Per consignment - up to 100kg in weight Afghanistan, India, Iran, Iraq, Mexico, Nepal, Pakistan, South Africa or the USA £30.00 £54.00 £6.00
+for each additional 10kg (or part thereof) £0.50 up to maximum of £168 £0.90 up to maximum of £318
+12 Other seeds not specified or included elsewhere in this table Per consignment up to 100kg in weight Any third country £12.90 £19.80 £0.30
+All genera for each additional 10kg (or part thereof) £0.02 up to a maximum of £19.20 £0.04 up to a maximum of £32.40
+Grain (other than seed for sowing)
+13
+Secale L., Triticum L. and
+X Triticosecale Wittm. ex A. Camus
+Per consignment - up to 25,000kg in weight Afghanistan, India, Iran, Iraq, Mexico, Nepal, Pakistan, South Africa or the USA £30.00 £54.00 £6.00
+for each additional 1,000kg (or part thereof) £0.80 up to a maximum of £168 £1.50 up to a maximum of £318
+Cut Flowers
+14 Chrysanthemum L. and Dendranthema (DC.) Des Moul. Per consignment - up to 20,000 in number Any third country other than an EU Member State, Colombia, Ecuador, Liechtenstein or Switzerland £12.90 £19.80 £0.30
+Colombia or Ecuador £21.00 £36.00 £3.00
+Any EU Member State, Liechtenstein or Switzerland £12.54 £19.08 £0.18
+for each additional 1,000 units Any third country other than an EU Member State, Colombia, Ecuador, Liechtenstein or Switzerland £0.01 up to a maximum of £19.20 £0.01 up to a maximum of £32.40
+Colombia or Ecuador £0.10 up to a maximum of £84.00 £0.15 up to a maximum of £162.00
+Any EU Member State, Liechtenstein or Switzerland £0.01 up to a maximum of £16.32 £0.01 up to a maximum of £26.64
+15 Eryngium Tournier ex Linnaeus. Per consignment - up to 20,000 in number Any third country other than an EU Member State, Liechtenstein or Switzerland £13.80 £21.60 £0.60
+for each additional 1,000 units £0.02 up to a maximum of £26.40 £0.03 up to a maximum of £46.80
+16 Lisianthus L. Per consignment - up to 20,000 in number Any third country other than an EU Member State, Europeam third country(3), Liechtenstein or Switzerland £13.80 £21.60 £0.60
+for each additional 1,000 units £0.02 up to a maximum of £26.40 £0.30 up to a maximum of £46.80
+17 Rosa L. Per consignment - up to 20,000 in number Any third country other than an EU Member State, Canada, Colombia, Ecuador, India, Liechtenstein, Mexico, Switzerland or the USA £12.90 £19.80 £0.30
+Canada, India, Mexico, or the USA £21.00 £36.00 £3.00
+Colombia or Ecuador £12.54 £19.08 £0.18
+for each additional 1,000 units Any third country other than an EU Member State, Canada, Colombia, Ecuador, India Liechtenstein, Mexico Switzerland or the USA £0.01 up to a maximum of £19.20 £0.01 up to a maximum of £32.40
+Canada, India, Mexico, or the USA £0.10 up to a maximum of £84.00 £0.15 up to a maximum of £162.00
+Colombia or Ecuador £0.01 up to a maximum of £16.32 £0.01 up to a maximum of £26.64
+18 Solidago L. Per consignment -up to 20,000 in number Any third country other than an EU Member State, Liechtenstein or Switzerland £13.80 £21.60 £0.60
+Any EU Member State, Liechtenstein or Switzerland £12.54 £19.08 £0.18
+for each additional 1,000 units Any third country other than an EU Member State, Liechtenstein or Switzerland £0.02 up to a maximum of £26.40 £0.03 up to a maximum of £46.80
+Any EU Member State, Liechtenstein or Switzerland £0.01 up to a maximum of £16.32 £0.01 up to a maximum of £26.64
+19 Other cut flowers not specified or included elsewhere in this table Per consignment - up to 20,000 in number Any third country other than an EU Member State, Liechtenstein, or Switzerland £12.90 £19.80 £0.30
+All genera Any EU Member State, Liechtenstein or Switzerland £12.54 £19.08 £0.18
+for each additional 1,000 units Any third country other than an EU Member State, Liechtenstein or Switzerland £0.01 up to a maximum of £19.20 £0.01 up to a maximum of £32.40
+Any EU Member State, Liechtenstein or Switzerland £0.01 up to a maximum of £16.32 £0.01 up to a maximum of £26.64
+Fruit and vegetables (not leafy vegetables)
+20 Asparagus officinalis Per consignment -up to 100kg in weight Any third country other than an EU Member State, Liechtenstein or, Switzerland £30.00 £54.00 £6.00
+Any EU Member State, Liechtenstein or Switzerland £12.54 £19.08 £0.18
+for each additional 1,000kg (or part thereof) Any third country other than an EU Member State, Liechtenstein or, Switzerland £0.80 £1.50
+Any EU Member State, Liechtenstein or Switzerland £0.02 £0.04
+21 Capsicum Per consignment -up to 100kg in weight Any third country other than an EU Member State, Liechtenstein or, Switzerland £30.00 £54.00 £6.00
+Any EU Member State, Liechtenstein or Switzerland £12.54 £19.08 £0.18
+for each additional 1,000kg (or part thereof) Any third country other than an EU Member State, Liechtenstein or, Switzerland £0.80 £1.50
+Any EU Member State, Liechtenstein or Switzerland £0.02 £0.04
+22 Fragaria Per consignment -up to 100kg in weight Any third country other than an EU Member State, Liechtenstein or Switzerland £12.90 £19.80 £0.30
+Any EU Member State, Liechtenstein or Switzerland £12.54 £19.08 £0.18
+for each additional 1,000kg (or part thereof) Any third country other than an EU Member State, Liechtenstein or Switzerland £0.04 £0.07
+Any EU Member State, Liechtenstein or Switzerland £0.02 £0.04
+23 Ipomoea batatas Per consignment -up to 100kg in weight Any third country other than Cameroon an EU Member State, Liechtenstein or Switzerland £12.90 £19.80 £0.30
+Cameroon £30.00 £54.00 £6.00
+Any EU Member State, Liechtenstein or Switzerland £12.54 £19.08 £0.18
+for each additional 1,000kg (or part thereof) Any third country other than Cameroon an EU Member State, Liechtenstein or Switzerland £0.04 £0.07
+Cameroon £0.80 £1.50
+Any EU Member State, Liechtenstein, Switzerland £0.02 £0.04
+24 Malus Per consignment -up to 100kg in weight Any third country other than Argentina, Chile, an EU Member State, European third countries(3), Liechtenstein, New Zealand, South Africa, and Switzerland £30.00 £54.00 £6.00
+Argentina £18.30 £30.60 £2.10
+Chile £12.90 £19.80 £0.30
+European third countries(3) or South Africa £14.70 £23.40 £0.90
+New Zealand £13.80 £21.60 £0.60
+Any EU Member State, Liechtenstein or Switzerland £12.54 £19.08 £0.18
+for each additional 1,000kg (or part thereof) Any third country other than Argentina, Chile, an EU Member State, European third countries(3),Liechtenstein, New Zealand, South Africa, and Switzerland £0.80 £1.50
+Argentina £0.08 £0.15
+Chile £0.04 £0.07
+European third countries(3) or South Africa £0.12 £0.22
+New Zealand £0.40 £0.75
+Any EU Member State, Liechtenstein or Switzerland £0.02 £0.04
+25
+Momordica L. and Solanaceae Juss. (excluding Solanum tuberosum L.,
+Solanum lycopersicum L., Solanum melongena L. and Capsicum spp. L.)
+Per consignment - up to 100kg in weight Any third country other than an EU Member State, Liechtenstein or Switzerland £21.00 £36.00 £3.00
+Any EU Member State, Liechtenstein or Switzerland £12.54 £19.08 £0.18
+for each additional 1,000kg (or part thereof) Any third country other than an EU Member State, Liechtenstein or Switzerland £0.40 £0.75
+Any EU Member State, Liechtenstein or Switzerland £0.02 £0.04
+26 Persea Americana Per consignment -up to 100kg in weight Any third country other than an EU Member State, Liechtenstein or, Switzerland £12.90 £19.80 £0.30
+Any EU Member State, Liechtenstein or Switzerland £12.54 £19.08 £0.18
+for each additional 1,000kg (or part thereof Any third country other than an EU Member State, Liechtenstein or Switzerland £0.04 £0.07
+Any EU Member State, Liechtenstein or Switzerland £0.02 £0.04
+27 Pyrus Per consignment -up to 100kg in weight Any third country other than Argentina, Chile, an EU Member State, Liechtenstein, South Africa or, Switzerland £30.00 £54.00 £6.00
+Argentina £16.50 £27.00 £1.50
+Chile £14.70 £23.40 £0.90
+South Africa £13.80 £21.60 £0.60
+Any EU Member State, Liechtenstein or Switzerland £12.54 £19.08 £0.18
+for each additional 1,000kg (or part thereof) Any third country other than Argentina, Chile, an EU Member State, Liechtenstein, South Africa or, Switzerland £0.80 £1.50
+Argentina £0.20 £0.37
+Chile £0.12 £0.22
+South Africa £0.08 £0.15
+Any EU Member State, Liechtenstein or Switzerland £0.02 £0.04
+28 Rubus Per consignment -up to 100kg in weight Any third country other than an EU Member State, Liechtenstein or Switzerland £12.90 £19.80 £0.30
+Any EU Member State, Liechtenstein or Switzerland £12.54 £19.08 £0.18
+for each additional 1,000kg (or part thereof) Any third country other than an EU Member State, Liechtenstein or Switzerland £0.04 £0.07
+Any EU Member State, Liechtenstein or Switzerland £0.02 £0.04
+29 Solanum melongena L. Per consignment - up to 100kg in weight Any third country other than an EU Member State, Liechtenstein, Switzerland or Turkey £21.00 £36.00 £3.00
+Turkey £17.40 £28.80 £1.80
+Any EU Member State, Liechtenstein or Switzerland £12.54 £19.08 £0.18
+for each additional 1,000kg (or part thereof) Any third country other than an EU Member State, Liechtenstein, Switzerland or Turkey £0.40 £0.75
+Turkey £0.24 £0.45
+Any EU Member State, Liechtenstein or Switzerland £0.02 £0.04
+30 Solanum lycopersicum L. Per consignment -up to 100kg in weight Any third country other than Canary Islands, an EU Member State, Liechtenstein, Morocco and Switzerland £21.00 £36.00 £6.00
+Canary Islands £16.50 £27.00 £1.50
+Morocco £12.90 £19.80 £0.30
+Any EU Member State, Liechtenstein or Switzerland £12.54 £19.08 £0.18
+for each additional 1,000kg (or part thereof) Any third country other than Canary Islands, an EU Member State, Liechtenstein, Morocco and Switzerland £0.40 £0.75
+Canary Islands £0.20 £0.37
+Morocco £0.04 £0.07
+Any EU Member State, Liechtenstein or Switzerland £0.02 £0.04
+31 Vaccinium Per consignment -up to 100kg in weight Any third country other than Argentina, Chile, an EU Member State, European third countries(3), Liechtenstein, Peru or Switzerland £30.00 £54.00 £6.00
+Argentina £16.50 £27.00 £1.50
+Chile or Peru £13.80 £21.60 £0.60
+European third countries(3) £21.00 £36.00 £3.00
+Any EU Member State, Liechtenstein or Switzerland £12.54 £19.08 £0.18
+for each additional 1,000kg (or part thereof) Any third country other than Argentina, Chile, an EU Member State, European third countries(3),Liechtenstein, Peru or Switzerland £0.80 £1.50
+Argentina £0.20 £0.37
+Chile or Peru £0.08 £0.15
+European third countries(3) £0.40 £0.75
+Any EU Member State, Liechtenstein or Switzerland £0.02 £0.04
+32 Vitis Per consignment -up to 100kg in weight Any third country other than an EU Member State, Liechtenstein or Switzerland £12.90 £19.80 £0.30
+Any EU Member State, Liechtenstein or Switzerland £12.54 £19.08 £0.18
+for each additional 1,000kg (or part thereof) Any third country other than an EU Member State, Liechtenstein or Switzerland £0.04 £0.07
+Any EU Member State, Liechtenstein or Switzerland £0.02 £0.04
+33 Zea Mays Per consignment -up to 100kg in weight Any third country other than an EU Member State, Liechtenstein or Switzerland £30.00 £54.00 £6.00
+Any EU Member State, Liechtenstein or Switzerland £12.54 £19.08 £0.18
+for each additional 1,000kg (or part thereof) Any third country other than an EU Member State, Liechtenstein orSwitzerland £0.80 £1.50
+Any EU Member State, Liechtenstein or Switzerland £0.02 £0.04
+34 Zingiber Officinale Per consignment -up to 100kg in weight Any third country other than Cameroon, an EU Member State, Liechtenstein or Switzerland £12.90 £19.80 £0.30
+Cameroon £30.00 £54.00 £6.00
+Any EU Member State, Liechtenstein or Switzerland £12.54 £19.08 £0.18
+for each additional 1,000kg (or
+part thereof)
+Any third country other than Cameroon, an EU Member State, Liechtenstein or Switzerland £0.04 £0.07
+Cameroon £0.80 £1.50
+Any EU Member State, Liechtenstein or Switzerland £0.02 £0.04
+35 Other fruit and vegetables (other than leafy vegetables) not specified or included elsewhere in this table Per consignment - up to 25,000kg in weight Any third country other than an EU Member State, Liechtenstein or Switzerland £12.90 £19.80 £0.30
+Any EU Member State, Liechtenstein or Switzerland £12.54 £19.08 £0.18
+for each additional 1,000kg (or part thereof) Any third country other than an EU Member State, Liechtenstein or Switzerland £0.04 £0.07
+Any EU Member State, Liechtenstein or Switzerland £0.02 £0.04
+Leaves of plants and leafy vegetables
+36 Ocimum L. Per consignment - up to 100 kg in weight Any third country other than an EU Member State, Liechtenstein or Switzerland £21.00 £36.00 £3.00
+Any EU Member State, Liechtenstein or Switzerland £12.54 £19.08 £0.18
+for each additional 10kg (or part thereof) Any third country other than an EU Member State, Liechtenstein or Switzerland £0.90 up to maximum of £84.00 £0.75 up to maximum of £162.00
+Any EU Member State, Liechtenstein or Switzerland £0.05 up to a maximum of £16.32 £0.11 up to a maximum of £26.64
+37 Leaves of plants, such as herbs, spices and leafy vegetables not specified or included elsewhere in this table Per consignment - up to 100kg in weight Any third country other than an EU Member State, Liechtenstein or Switzerland £12.90 £19.80 £0.30
+Any EU Member State, Liechtenstein or Switzerland £12.54 £19.08 £0.18
+for each additional 10kg (or part thereof) Any third country other than an EU Member State, Liechtenstein or Switzerland £0.09 up to a maximum of £19.20 £0.18 up to a maximum of £32.40
+Any EU Member £0.05 up to a £0.11 up to a
+State, Liechtenstein or Switzerland maximum of £16.32 maximum of £26.64
+Branches with foliage, parts of Conifers (other than bark)
+38 All genera Per consignment - up to 200kg in weight Any third country other than an EU Member State, Liechtenstein or Switzerland £12.90 £19.80 £0.30
+Any EU Member State, Liechtenstein or Switzerland £12.54 £19.08 £0.18
+for each additional 100kg (or part thereof) Any third country other than an EU Member State, Liechtenstein or Switzerland £0.09 up to a maximum of £19.20 £0.18 up to a maximum of £32.40
+Any EU Member State, Liechtenstein or Switzerland £0.05 up to a maximum of £16.32 £0.11 up to a maximum of £26.64
+Tubers of potatoes
+39 Solanum tuberosum L. (seed potatoes) Per lot - up to 25,000kg in weight Any third country £64.00 £96.00 £6.00
+for each additional 25,000kg in weight (or part thereof) £52.00 £78.00
+40 Tubers of Solanumtuberosum L. (ware potatoes) Per lot - up to 25,000kg in weight Any third country other than Egypt, Poland, Portugal, Romania or Spain £13.56 £20.34 £0.18
+Egypt, Poland, Portugal or Romania £38.00 £54.00 £3.00
+Spain £64.00 £96.00 £6.00
+for each additional 25,000kg in weight or part thereof Any third country other than Egypt, Poland, Portugal, Romania or Spain £1.56 £2.34
+Egypt, Poland, Portugal or Romania £26.00 £39.00
+Spain £52.00 £78.00
+Cut Christmas trees
+41
+Cut Christmas trees (less than 3m height)
+All genera
+Per consignment - up to 1,000 in number Any third country other than an EU Member State, Liechtenstein or Switzerland £12.90 £19.80 £0.30
+for each additional 100 units (or part thereof) £0.09 up to a maximum of £19.20 £0.18 up to a maximum of £32.40
+Per consignment - up to 1,000 in number Any EU Member State, Liechtenstein or Switzerland £12.54 £19.08 £0.18
+for each additional 100 units (or part thereof) £0.05 up to a maximum of £16.32 £0.11 up to a maximum of £26.64
+Other objects
+42 Machinery or vehicles which have been operated for agricultural or forestry purposes Per consignment Any third country £12.90 £19.80 £0.30Regulation 2(8)
+SCHEDULE 2
+Regulation 4(6)
+“SCHEDULE 2A
+IMPORT INSPECTION FEES FOR DOCUMENTARY CHECKS ON PLANTS AND PLANT PRODUCTS ORIGINATING IN THE EUROPEAN UNION, LIECHTENSTEIN OR SWITZERLAND
+Table 3
+Category and description of plant or plant product Fee (documentary check) (£)
+Cut Flowers
+Dendranthema (DC.) Des Moul. (Chrysanthemum L.) £0.18
+Rosa L. £0.18
+Solidago L. £0.18
+Other genera not specified or includedelsewhere in this table £0.18
+Branches with foliage, parts of Conifers (other than bark or cut Christmas trees)
+All genera £0.18
+Fruit, vegetables, leaves
+Momordica L. £0.18
+Ocimum L. £0.18
+Solanaceae Juss. (other than Solanum tuberosum L.) £0.18
+Solanum melongena L. £0.18
+Other genera or species of fruit or vegetables not specified or included elsewhere in this table £0.18
+Other leaves not specified or included elsewhere in this table £0.18
+Cut Christmas trees (less than 3 metres in height)
+All genera £0.18”EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the Plant Health (Import Inspection Fees) (Scotland) Regulations 2014 (“the 2014 Regulations”).
+Regulation 2(4) provides new fees for documentary checks relating to certain plants, plant products and other objects originating in an EU Member State, Liechtenstein or Switzerland. It also provides that no fee is payable for documentary, physical and identity checks relating to certain goods from EU Member States, Liechtenstein and Switzerland and provides exceptions to that rule for certain consignments originating in the EU and Switzerland; and consignments entering via a relevant port (as defined in Regulation 2(2)).
+Regulation 2(5) clarifies the countries to which the additional fees in respect of potatoes applies.
+Regulation 2(6) updates and corrects the import inspection fees for physical and identity checks.
+Regulation 2(8) updates the table of fees for documentary checks for certain plants, plant products and other objects.
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary, or public sector is foreseen.

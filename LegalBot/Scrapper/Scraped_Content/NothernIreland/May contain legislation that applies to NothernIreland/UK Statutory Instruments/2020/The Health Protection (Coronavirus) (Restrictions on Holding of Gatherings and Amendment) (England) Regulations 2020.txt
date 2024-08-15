@@ -1,0 +1,152 @@
+This Statutory Instrument has been made, in part, in consequence of a defect in S.I. 2020/684 and a defect in S.I. 2020/822 and is being issued free of charge to all known recipients of those Statutory Instruments.
+STATUTORY INSTRUMENTS
+2020 No. 907
+PUBLIC HEALTH, ENGLAND
+The Health Protection (Coronavirus) (Restrictions on Holding of Gatherings and Amendment) (England) Regulations 2020
+Approved by both Houses of Parliament
+Made
+26th August 2020
+Laid before Parliament
+27th August 2020
+Coming into force
+28th August 2020
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 45C(1), (3)(c), (4)(b), 45F(2) and 45P of the Public Health (Control of Disease) Act 1984(1).
+These Regulations are made in response to the serious and imminent threat to public health which is posed by the incidence and spread of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in England.
+The Secretary of State considers that the requirements and restrictions imposed by these Regulations are proportionate to what they seek to achieve, which is a public health response to that threat.
+In accordance with section 45R of that Act the Secretary of State is of the opinion that, by reason of urgency, it is necessary to make this instrument without a draft having been laid before, and approved by a resolution of, each House of Parliament.
+(1)
+1984 c. 22. Part 2A was inserted by section 129 of the Health and Social Care Act 2008 (c. 14).Citation, commencement and interpretation
+1.—(1) These Regulations may be cited as the Health Protection (Coronavirus) (Restrictions on Holding of Gatherings and Amendment) (England) Regulations 2020.
+(2) These Regulations come into force on 28th August 2020.
+(3) In these Regulations—
+“the Principal Regulations” means the Health Protection (Coronavirus, Restrictions) (No. 2) (England) Regulations 2020(1);
+“the Blackburn and Bradford Regulations” means the Health Protection (Coronavirus, Restrictions) (Blackburn with Darwen and Bradford) Regulations 2020(2).
+(1)
+S.I. 2020/684, as amended by S.I. 2020/719, 2020/750, 2020/788, 2020/800, 2020/822, 2020/824, 2020/828, 2020/863 and 2020/865.
+(2)
+S.I. 2020/822, as amended by S.I. 2020/824, 2020/828 and 2020/865.Amendment of the Principal Regulations
+2.—(1) The Principal Regulations are amended as follows.
+(2) In regulation 5—
+(a)
+in the heading, after “on” insert “participation in”;
+(b)
+in paragraph (6), in the words before sub-paragraph (a), after “regulation”, insert “, regulation 5A and regulation 5B”.
+(3) After regulation 5, insert—
+“Restriction on organisation or facilitation of certain large indoor gatherings
+5A.—(1) During the emergency period, no person may hold or be involved in the holding of a section 63 type gathering.
+(2) For the purposes of this regulation and regulation 5B—
+(a)
+“section 63 type gathering” means a gathering of a type mentioned in regulation 5(4);
+(b)
+a person is not involved in the holding of a gathering if that person’s only involvement in the gathering is by attendance at the gathering.
+Restrictions on organisation or facilitation of other gatherings
+5B.—(1) During the emergency period no person may, unless paragraph (4) applies, hold or be involved in the holding of a relevant gathering.
+(2) For the purposes of this regulation “relevant gathering” means a gathering which—
+(a)
+consists of more than thirty persons,
+(b)
+takes place—
+(i)
+in a private dwelling, including a houseboat,
+(ii)
+on a vessel, other than a houseboat or a vessel used for public transport, or
+(iii)
+on land which satisfies the condition in paragraph (3), and
+(c)
+is not a section 63 type gathering.
+(3) Land satisfies this condition if it is a public outdoor place, which is not—
+(a)
+operated by a business, a charitable, benevolent or philanthropic institution or a public body as a visitor attraction, or
+(b)
+part of premises used for the operation of a business, charitable, benevolent or philanthropic institution or a public body.
+(4) This paragraph applies where—
+(a)
+in the case of a gathering described in paragraph (2)(b)(ii) or (iii), the person concerned or, if they are not the person responsible for organising the relevant gathering, the gathering organiser—
+(i)
+is a business, a charitable, benevolent or philanthropic institution, a public body or a political body,
+(ii)
+has carried out a risk assessment which would satisfy the requirements of regulation 3 of the Management of Health and Safety at Work Regulations 1999(1), whether or not they are subject to those Regulations, and
+(iii)
+has taken all reasonable measures to limit the risk of transmission of the coronavirus, taking into account the risk assessment carried out under paragraph (ii);
+(b)
+the relevant gathering is necessary for the training of or competition between elite sportspersons;
+(c)
+the relevant gathering is reasonably necessary—
+(i)
+for work purposes, or the provision of voluntary or charitable services,
+(ii)
+for the purposes of education or training,
+(iii)
+for the purposes of childcare provided by a person registered under Part 3 of the Childcare Act 2006, or as part of supervised activities provided for children,
+(iv)
+to provide emergency assistance, or
+(v)
+to enable one or more persons in the gathering to avoid injury or illness or to escape risk of harm;
+(d)
+the relevant gathering is necessary to allow any person to fulfil a legal obligation.
+(5) In determining whether all reasonable measures have been taken to limit the risk of transmission of the coronavirus for the purposes of paragraph (4)(a)(iii), any guidance issued by the government relevant to the gathering in question must be taken into account.”.
+(4) In regulation 8(1), after “5,” insert “5A, 5B,”.
+(5) In regulation 9—
+(a)
+for paragraph (6) substitute—
+“(6) The amount specified under paragraph (5)(c)—
+(a)
+where the notice is issued in respect of the offence described in regulation 8(1) of contravening, without reasonable excuse, a restriction in regulation 5A or 5B, must be £10,000;
+(b)
+where the notice is issued in respect of any other offence, must, subject to paragraphs (7) and (8), be £100.”;
+(b)
+in paragraph (7), after “penalty notice” insert “of a type mentioned in paragraph (6)(b)”;
+(c)
+in paragraph (8)—
+(i)
+after “penalty notice”, in the first place it occurs, insert “of a type mentioned in paragraph (6)(b)”;
+(ii)
+after “these Regulations” insert “(other than a fixed penalty notice to which paragraph (8A) applies)”;
+(d)
+after paragraph (8), insert—
+“(8A) This paragraph applies to a fixed penalty notice if it is issued under this regulation in respect of the offence, described in regulation 8(1), of contravening, without reasonable excuse, a restriction in regulation 5A or 5B.”.
+(1)
+S.I. 1999/3242, as amended by SI 2005/1541, 2015/21 and 2015/437.Consequential amendment of the Health Protection (Coronavirus, Restrictions) (England) (No. 3) Regulations 2020
+3.  In regulation 14 of the Health Protection (Coronavirus, Restrictions) (England) (No. 3) Regulations 2020(1)—
+(a)
+in paragraph (8), for “paragraphs (6) and (7)” substitute “this regulation”;
+(b)
+after paragraph (8), insert—
+“(8A) For the purposes of determining how many fixed penalty notices have been issued to a person under the relevant enactments, no account is to be taken of any fixed penalty notice issued to that person under regulation 9 of the Health Protection (Coronavirus, Restrictions) (No. 2) (England) Regulations 2020 in respect of the offence described in regulation 8(1) of those Regulations of contravening, without reasonable excuse, regulation 5A or 5B of those Regulations.”.
+(1)
+S.I. 2020/750. Regulation 14 has been amended by S.I. 2020/800, 2020/822, 2020/828 and 2020/865.Consequential amendment of the Blackburn and Bradford Regulations
+4.  In regulation 7 of the Blackburn and Bradford Regulations, after paragraph (9), insert—
+“(9A) But no account is to be taken under paragraph (9) of any fixed penalty notice issued to that person under regulation 9 of the Health Protection (Coronavirus, Restrictions) (No. 2) (England) Regulations 2020 in respect of the offence described in regulation 8(1) of those Regulations of contravening, without reasonable excuse, regulation 5A or 5B of those Regulations.”.Consequential amendment of the Health Protection (Coronavirus, Restrictions) (Leicester) (No. 2) Regulations 2020
+5.  In regulation 10 of the Health Protection (Coronavirus, Restrictions) (Leicester) (No. 2) Regulations 2020(1), after paragraph (9), insert—
+“(9A) But no account is to be taken under paragraph (9) of any fixed penalty notice issued to that person under regulation 9 of the Health Protection (Coronavirus, Restrictions) (No. 2) (England) Regulations 2020 in respect of the offence described in regulation 8(1) of those Regulations of contravening, without reasonable excuse, regulation 5A or 5B of those Regulations.”.
+(1)
+S.I. 2020/824. Regulation 10 has been amended by S.I. 2020/828 and 2020/865.Consequential amendment of the Health Protection (Coronavirus, Restrictions) (North of England) Regulations 2020
+6.  In regulation 10 of the Health Protection (Coronavirus, Restrictions) (North of England) Regulations 2020(1), after paragraph (9), insert—
+“(9A) But no account is to be taken under paragraph (9) of any fixed penalty notice issued to that person under regulation 9 of the Health Protection (Coronavirus, Restrictions) (No. 2) (England) Regulations 2020 in respect of the offence described in regulation 8(1) of those Regulations of contravening, without reasonable excuse, regulation 5A or 5B of those Regulations.”.
+(1)
+S.I. 2020/828. Regulation 10 has been amended by S.I. 2020/865.Amendment of regulation 5 of the Principal Regulations
+7.  In regulation 5 of the Principal Regulations—
+(a)
+in paragraph (6), after sub-paragraph (d), insert—
+“(da)
+“a political body” means—
+(i)
+a political party registered under Part 2 of the Political Parties, Elections and Referendums Act 2000(1), or
+(ii)
+a political campaigning organisation within the meaning of regulation 2 of the Health and Social Care (Financial Assistance) Regulations 2009(2);”;
+(b)
+in paragraph (7), omit sub-paragraph (c).
+(1)
+2000 c. 41.
+(2)
+S.I. 2009/649.Amendment of regulation 7 of the Blackburn and Bradford Regulations
+8.  In regulation 7 of the Blackburn and Bradford Regulations, in paragraph (8), in the words before sub-paragraph (a), after “these Regulations” insert “or any of the enactments referred to in paragraph (9)(b) to (h)”.Matt Hancock
+Secretary of State,
+Department of Health and Social Care
+26th August 2020EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the Health Protection (Coronavirus, Restrictions) (No. 2) (England) Regulations 2020 (S.I. 2020/684) (“the Principal Regulations”) to impose restrictions on the holding of gatherings, both inside and outside, of more than 30 people (new regulations 5A and 5B of the Principal Regulations).
+The Principal Regulations are also amended so that it is an offence to contravene, without reasonable excuse, any of these restrictions, and to enable an authorised person to issue a fixed penalty notice of £10,000 to any person aged 18 or over whom they reasonably believe has committed an offence of contravening these restrictions.
+These Regulations also make related consequential amendments (see regulations 3 to 6 of these Regulations).
+These Regulations also make minor (but unrelated) amendments to regulation 5 of the Principal Regulations and regulation 7 of the Health Protection (Coronavirus, Restrictions) (Blackburn with Darwen and Bradford) Regulations 2020 (S.I. 2020/822).
+No impact assessment has been prepared for these Regulations.

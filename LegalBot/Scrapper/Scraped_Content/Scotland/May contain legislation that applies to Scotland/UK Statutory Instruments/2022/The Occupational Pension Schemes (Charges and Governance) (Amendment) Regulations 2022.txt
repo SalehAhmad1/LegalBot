@@ -1,0 +1,50 @@
+STATUTORY INSTRUMENTS
+2022 No. 10
+PENSIONS
+The Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2022
+Made
+5th January 2022
+Laid before Parliament
+10th January 2022
+Coming into force
+6th April 2022
+The Secretary of State for Work and Pensions makes the following Regulations in exercise of the powers conferred by sections 43 and 54(5) and (6) of, and paragraph 1(1) to (3) of Schedule 18 to, the Pensions Act 2014(1).
+In accordance with paragraph 8 of Schedule 18 to that Act, the Secretary of State has consulted such persons as the Secretary of State considers appropriate.
+(1)
+2014 c. 19. Paragraph 1(1) of Schedule 18 is amended by paragraph 25(2) of Schedule 3 to the Pension Schemes Act 2021 (c. 1). The definition of “administration charge” in paragraph 1(5) of Schedule 18 is amended by section 127(2) of that Act.Citation, commencement, extent and application
+1.—(1) These Regulations may be cited as the Occupational Pension Schemes (Charges and Governance) (Amendment) Regulations 2022 and come into force on 6th April 2022.
+(2) These Regulations extend to England and Wales and Scotland only.
+(3) The amendments made by these Regulations apply to an occupational pension scheme in relation to the first charges year of that scheme which ends after 6th April 2022.
+(4) For the purposes of paragraph (3), “charges year” has the meaning given in regulation 2(1) of the Occupational Pension Schemes (Charges and Governance) Regulations 2015(1) (interpretation).
+(1)
+S.I. 2015/879. There are amendments to regulation 2(1) which are not relevant to this definition.Amendment of the Occupational Pension Schemes (Charges and Governance) Regulations 2015
+2.—(1) The Occupational Pension Schemes (Charges and Governance) Regulations 2015(1) are amended as follows.
+(2) In regulation 6 (limits on charges)—
+(a)
+at the beginning of paragraph (4)(a) insert “subject to paragraphs (5) to (7),”;
+(b)
+at the end of the regulation insert—
+“(5) Subject to paragraph (6), the flat fee charge under paragraph (4)(a) may be imposed where the value of the member’s rights under the default arrangement is more than £100.
+(6) The flat fee charge under paragraph (4)(a) may only be imposed to the extent that it does not reduce the value of the member’s rights under the default arrangement to less than £100.
+(7) The value of the member’s rights under the default arrangement for the purposes of paragraphs (5) and (6) includes the value of any rebate or refund which falls to be applied by virtue of regulation 6ZA.”.
+(3) After regulation 6(2) insert—
+“Imposition of more than one flat fee charge
+6ZA.—(1) Paragraph (2) applies where more than one flat fee charge under regulation 6(4)(a) is imposed, under a single default arrangement, on a member in respect of a charges year.
+(2) The trustees or managers must, as soon as practicable, restore the value of the member’s rights under the default arrangement to the value it would have been if only one such charge had been imposed.
+(3) When restoring the value of the member’s rights under paragraph (2), the trustees or managers must have regard to—
+(a)
+the restrictions on flat fee charges imposed by regulation 5(3)(b); and
+(b)
+the limit specified in regulation 6(4)(a).”.
+(4) At the end of regulation 7(5)(b)(ii) (assessment of charges) insert “or where no such fee is imposed by virtue of the operation of regulation 6(5) and (6)”.
+(1)
+Relevant amending instrument is S.I. 2017/774.
+(2)
+Regulation 6A is to be inserted by the Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022.Signed by authority of the Secretary of State for Work and Pensions
+Mims Davies
+Parliamentary Under Secretary of State
+Department for Work and Pensions
+5th January 2022EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the Occupational Pension Schemes (Charges and Governance) Regulations 2015 (S.I. 2015/879) so as to prohibit an annual flat fee from being charged to members with rights in the default arrangement of certain occupational pension schemes which would reduce the value of those rights to less than £100. They also ensure that where more than one flat fee charge is imposed in respect of a member in a single charges year, the trustees or managers of the scheme must restore the member’s rights under the default arrangement to the position they would have been in if only one such charge had been imposed.
+A full impact assessment of the effect that this instrument will have on the costs of business, the voluntary sector and the public sector is available from the Better Regulation Unit of the Department for Work and Pensions, Caxton House, Tothill Street, London SW1H 9NA. A copy is also available in the libraries of both Houses of Parliament and alongside this instrument on www.legislation.gov.uk.

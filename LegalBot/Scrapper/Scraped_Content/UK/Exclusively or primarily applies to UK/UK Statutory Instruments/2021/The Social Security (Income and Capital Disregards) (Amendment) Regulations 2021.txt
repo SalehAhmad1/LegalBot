@@ -1,0 +1,343 @@
+STATUTORY INSTRUMENTS
+2021 No. 1405
+SOCIAL SECURITY
+The Social Security (Income and Capital Disregards) (Amendment) Regulations 2021
+Made
+9th December 2021
+Laid before Parliament
+10th December 2021
+Coming into force
+1st January 2022
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 123(1)(a) and (d), 130A(2), 135(1), 136(3) and (5), 136A(3) and 175(3) of the Social Security Contributions and Benefits Act 1992(1), sections 4(5), 12(1) and (4) and 36(2) of the Jobseekers Act 1995(2), paragraph 8 of Schedule 1 to the Social Security (Recovery of Benefits) Act 1997(3), section 15(3) and (6) of the State Pension Credit Act 2002(4), sections 4(2), 17(1) and (3) and 25(2) and (3) of the Welfare Reform Act 2007(5) and section 42(2) of, and paragraph 4(1) and (3) of Schedule 1 to, the Welfare Reform Act 2012(6).
+In accordance with section 173(1)(b) of the Social Security Administration Act 1992(7)(“the Administration Act”), the Social Security Advisory Committee has agreed that the proposals in respect of these Regulations should not be referred to it.
+In respect of regulations 5 and 6, in accordance with section 176(1)(a) of the Administration Act(8), the Secretary of State has consulted with organisations appearing to the Secretary of State to be representative of the authorities concerned.
+(1)
+1992 c. 4 (“the Contributions and Benefits Act”). Section 130A is inserted by section 30(2) of the Welfare Reform Act 2007 (c. 5). Section 136A is inserted by paragraph 3 of Schedule 2 to the State Pension Credit Act 2002 (c. 16). See section 137(1) for the meaning given to “prescribed”.
+(2)
+1995 c. 18. See section 35(1) for the meanings given to “prescribed” and “regulations”.
+(3)
+1997 c. 27. See section 29 for the meaning given to “prescribed”.
+(4)
+Section 175(3) and (4) of the Contributions and Benefits Act is applied by section 19(1). See section 17(1) for the meaning given to “prescribed”.
+(5)
+Section 4 is repealed for certain purposes by Schedule 14 to the Welfare Reform Act 2012 (c. 5). See section 24(1) for the meanings given to “prescribed” and “regulations”.
+(6)
+2012 c. 5.
+(7)
+1992 c. 5.
+(8)
+Section 176(1)(a) is amended by paragraph 23 of Schedule 9 to the Local Government Finance Act 1992 (c. 14).Citation, commencement and extent
+1.—(1) These Regulations may be cited as the Social Security (Income and Capital Disregards) (Amendment) Regulations 2021 and come into force on 1st January 2022.
+(2) These Regulations extend to England and Wales and Scotland.Amendment of the Income Support (General) Regulations 1987
+2.—(1) The Income Support (General) Regulations 1987(1) are amended as follows.
+(2) In regulation 2(1) (interpretation)—
+(a)
+in the appropriate places insert—
+““child abuse payment” means a payment from a scheme established or approved by the Secretary of State for the purpose of providing compensation in respect of historic institutional child abuse in the United Kingdom;”;
+““Windrush payment” means a payment made under the Windrush Compensation Scheme (Expenditure) Act 2020(2);”;
+(b)
+in the definition of “qualifying person”, after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”.
+(3) In regulation 42(4ZB) (notional income), for “a payment of income which is a Grenfell Tower payment” substitute—
+“any of the following payments of income—
+(a)
+a Grenfell Tower payment;
+(b)
+a child abuse payment;
+(c)
+a Windrush payment.”.
+(4) In regulation 48(10) (income treated as capital)—
+(a)
+omit “or” at the end of sub-paragraph (ab);
+(b)
+after sub-paragraph (ab) insert—
+“(ac)
+which is a child abuse payment;
+(ad)
+which is a Windrush payment; or”.
+(5) In regulation 51(3B) (notional capital), for “a payment of capital which is a Grenfell Tower payment” substitute—
+“any of the following payments of capital—
+(a)
+a Grenfell Tower payment;
+(b)
+a child abuse payment;
+(c)
+a Windrush payment.”.
+(6) In paragraph 18(8)(b) (non-dependant deductions) of Schedule 3 (housing costs), after “Grenfell Tower payment” insert “, child abuse payment or Windrush payment”.
+(7) In Schedule 9 (sums to be disregarded in the calculation of income other than earnings)—
+(a)
+in paragraph 21(2), after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”;
+(b)
+in paragraph 39—
+(i)
+for sub-paragraph (1A) substitute—
+“(1A) Any—
+(a)
+Grenfell Tower payment;
+(b)
+child abuse payment;
+(c)
+Windrush payment.”;
+(ii)
+in sub-paragraphs (2) to (6), after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”.
+(8) In Schedule 10 (capital to be disregarded)—
+(a)
+in paragraph 22—
+(i)
+in sub-paragraph (1A) after “Grenfell Tower payment” insert “, child abuse payment, Windrush payment”;
+(ii)
+in sub-paragraphs (2) to (6), after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”;
+(b)
+in paragraph 29, after “Grenfell Tower payment” insert “, child abuse payment or Windrush payment”.
+(1)
+S. I. 1987/1967. Relevant amending instrument is S.I. 2020/618.
+(2)
+2020 c. 8.Amendment of the Jobseeker’s Allowance Regulations 1996
+3.—(1) The Jobseeker’s Allowance Regulations 1996(1) are amended as follows.
+(2) In regulation 1(3) (interpretation)—
+(a)
+in the appropriate places insert—
+““child abuse payment” means a payment from a scheme established or approved by the Secretary of State for the purpose of providing compensation in respect of historic institutional child abuse in the United Kingdom;”;
+““Windrush payment” means a payment made under the Windrush Compensation Scheme (Expenditure) Act 2020;”;
+(b)
+in the definition of “qualifying person”, after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”.
+(3) In regulation 105(10A) (notional income) after sub-paragraph (ab) insert—
+“(ac)
+a child abuse payment;
+(ad)
+a Windrush payment;”.
+(4) In regulation 110(10) (income treated as capital)—
+(a)
+omit “or” at the end of sub-paragraph (ab);
+(b)
+after sub-paragraph (ab) insert—
+“(ac)
+which is a child abuse payment;
+(ad)
+which is a Windrush payment; or”.
+(5) In regulation 113(3B) (notional capital), for “a payment of capital which is a Grenfell Tower payment” substitute—
+“any of the following payments of capital—
+(a)
+a Grenfell Tower payment;
+(b)
+a child abuse payment;
+(c)
+a Windrush payment.”.
+(6) In paragraph 17(8)(b) (non-dependant deductions) of Schedule 2 (housing costs), after “Grenfell Tower payment” insert “, child abuse payment or Windrush payment”.
+(7) In Schedule 7 (sums to be disregarded in the calculation of income other than earnings)—
+(a)
+in paragraph 22(2), after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”;
+(b)
+in paragraph 41—
+(i)
+for sub-paragraph (1A) substitute—
+“(1A) Any—
+(a)
+Grenfell Tower payment;
+(b)
+child abuse payment;
+(c)
+Windrush payment.”;
+(c)
+in sub-paragraphs (2) to (6), after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”.
+(8) In Schedule 8 (capital to be disregarded)—
+(a)
+in paragraph 27—
+(i)
+in sub-paragraph (1A) after “Grenfell Tower payment” insert “, child abuse payment, Windrush payment”;
+(ii)
+in sub-paragraphs (2) to (6), after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”;
+(b)
+in paragraph 31, after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”.
+(1)
+S. I. 1996/207. Relevant amending instrument is S.I. 2020/618.Amendment of the State Pension Credit Regulations 2002
+4.—(1) The State Pension Credit Regulations 2002(1) are amended as follows.
+(2) In regulation 1(2) (interpretation)—
+(a)
+in the appropriate places insert—
+““child abuse payment” means a payment from a scheme established or approved by the Secretary of State for the purpose of providing compensation in respect of historic institutional child abuse in the United Kingdom;”;
+““Windrush payment” means a payment made under the Windrush Compensation Scheme (Expenditure) Act 2020.”;
+(b)
+in the definition of “qualifying person”, after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”.
+(3) In paragraph 14(8) (persons residing with the claimant) of Schedule 2 (housing costs), after sub-paragraph (ba) insert—
+“(bb)
+any child abuse payment;
+(bc)
+any Windrush payment;”.
+(4) In paragraph 15 of Schedule 5 (income from capital)—
+(a)
+in sub-paragraph (1A) after “Grenfell Tower payment” insert “, child abuse payment, Windrush payment”;
+(b)
+in sub-paragraphs (2) to (6), after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”.
+(1)
+S.I. 2002/1792. Relevant amending instrument is S.I. 2020/618.Amendment of the Housing Benefit Regulations 2006
+5.—(1) The Housing Benefit Regulations 2006(1) are amended as follows.
+(2) In regulation 2 (interpretation)—
+(a)
+in the appropriate places insert—
+““child abuse payment” means a payment from a scheme established or approved by the Secretary of State for the purpose of providing compensation in respect of historic institutional child abuse in the United Kingdom;”;
+““Windrush payment” means a payment made under the Windrush Compensation Scheme (Expenditure) Act 2020;”;
+(b)
+in the definition of “qualifying person”, after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”.
+(3) In regulation 42(7A) (notional income), for “a payment of income which is a Grenfell Tower payment” substitute—
+“any of the following payments of income—
+(a)
+a Grenfell Tower payment;
+(b)
+a child abuse payment;
+(c)
+a Windrush payment.”.
+(4) In regulation 46(6) (income treated as capital), after “Grenfell Tower payment” insert “, a child abuse payment, a Windrush payment”.
+(5) In regulation 49(4A) (notional capital), for “a payment of capital which is a Grenfell Tower payment” substitute—
+“any of the following payments of capital—
+(a)
+a Grenfell Tower payment;
+(b)
+a child abuse payment;
+(c)
+a Windrush payment.”.
+(6) In regulation 74(9) (non-dependant deductions), after sub-paragraph (ba) insert—
+“(bb)
+any child abuse payment;
+(bc)
+any Windrush payment;”.
+(7) In paragraph 35 of Schedule 5 (sums to be disregarded in the calculation of income other than earnings)—
+(a)
+for sub-paragraph (1A) substitute—
+“(1A) Any—
+(a)
+Grenfell Tower payment;
+(b)
+child abuse payment;
+(c)
+Windrush payment.”.
+(b)
+in sub-paragraphs (2) to (6), after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”.
+(8) In Schedule 6 (capital to be disregarded)—
+(a)
+in paragraph 24—
+(i)
+in sub-paragraph (1A) after “Grenfell Tower payment” insert “, child abuse payment, Windrush payment”;
+(ii)
+in sub-paragraphs (2) to (6), after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”;
+(b)
+in paragraph 34, after “Grenfell Tower payment” insert “, child abuse payment or Windrush payment”.
+(1)
+S.I. 2006/213. Relevant amending instrument is S.I. 2020/618.Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006
+6.—(1) The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006(1) are amended as follows.
+(2) In regulation 2(1) (interpretation)—
+(a)
+in the appropriate places insert—
+““child abuse payment” means a payment from a scheme established or approved by the Secretary of State for the purpose of providing compensation in respect of historic institutional child abuse in the United Kingdom;”;
+““Windrush payment” means a payment made under the Windrush Compensation Scheme (Expenditure) Act 2020;”;
+(b)
+in the definition of “qualifying person”, after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”.
+(3) In regulation 55(10) (non-dependant deductions), after sub-paragraph (ba) insert—
+“(bb)
+any child abuse payment;
+(bc)
+any Windrush payment;”.
+(4) In paragraph 16 of Schedule 6 (capital to be disregarded)—
+(a)
+in sub-paragraph (1A) after “Grenfell Tower payment” insert “, child abuse payment, Windrush payment”;
+(b)
+in sub-paragraphs (2) to (6), after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”.
+(1)
+S.I. 2006/214. Relevant amending instrument is S.I. 2006/214.Amendment of the Employment and Support Allowance Regulations 2008
+7.—(1) The Employment and Support Allowance Regulations 2008(1) are amended as follows.
+(2) In regulation 2(1) (interpretation)—
+(a)
+in the appropriate places insert—
+““child abuse payment” means a payment from a scheme established or approved by the Secretary of State for the purpose of providing compensation in respect of historic institutional child abuse in the United Kingdom;”;
+““Windrush payment” means a payment made under the Windrush Compensation Scheme (Expenditure) Act 2020;”;
+(b)
+in the definition of “qualifying person”, after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”.
+(3) In regulation 107(5A) (notional income), for “a payment of income which is a Grenfell Tower payment” substitute—
+“any of the following payments of income—
+(a)
+a Grenfell Tower payment;
+(b)
+a child abuse payment;
+(c)
+a Windrush payment.”.
+(4) For regulation 112(8)(b) (income treated as capital), substitute—
+“(b)
+any—
+(i)
+Grenfell Tower payment;
+(ii)
+child abuse payment;
+(iii)
+Windrush payment.”.
+(5) In regulation 115(5A) (notional capital), for “a payment of capital which is a Grenfell Tower payment” substitute—
+“any of the following payments of capital—
+(a)
+a Grenfell Tower payment;
+(b)
+a child abuse payment;
+(c)
+a Windrush payment.”.
+(6) In paragraph 19(8)(b) (non-dependant deductions) of Schedule 6 (housing costs), after “Grenfell Tower payment” insert “, child abuse payment or Windrush payment”.
+(7) In Schedule 8 (sums to be disregarded in the calculation of income other than earnings)—
+(a)
+in paragraph 22(2), after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”;
+(b)
+in paragraph 41—
+(i)
+for sub-paragraph (1A) substitute—
+“(1A) Any—
+(a)
+Grenfell Tower payment;
+(b)
+child abuse payment;
+(c)
+Windrush payment.”.
+(c)
+in sub-paragraphs (2) to (6), after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”.
+(8) In Schedule 9 (capital to be disregarded)—
+(a)
+in paragraph 27—
+(i)
+in sub-paragraph (1A) after “Grenfell Tower payment” insert “, child abuse payment, Windrush payment”;
+(ii)
+in sub-paragraphs (2) to (6), after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”;
+(b)
+in paragraph 31, after “Grenfell Tower payment” insert “, a child abuse payment or a Windrush payment”.
+(1)
+S.I. 2008/794. Relevant amendment made by S.I. 2020/618.Amendment of the Universal Credit Regulations 2013
+8.—(1) Regulation 76 of the Universal Credit Regulations 2013(1) (special schemes for compensation etc.) is amended as follows.
+(2) In paragraph (1)(a)—
+(a)
+after “in respect of” insert “any of the following”;
+(b)
+omit “or” at the end of paragraph (vi);
+(c)
+after sub-paragraph (vi) insert—
+“(vii)
+historic institutional child abuse in the United Kingdom;”.
+(3) At the end of paragraph (1A) insert—
+“(d)
+the scheme established by the Windrush Compensation Scheme (Expenditure) Act 2020.”.
+(1)
+S.I. 2013/376. Relevant amendment made by S.I. 2020/618.Amendment of the Social Security (Recovery of Benefits) Regulations 1997
+9.  At the end of regulation 2(2) of the Social Security (Recovery of Benefits) Regulations 1997(1) (exempted trusts and payments) insert—
+“(r)
+any payment made under the Windrush Compensation Scheme (Expenditure) Act 2020.”.
+(1)
+S.I. 1997/2205. Relevant amendment made by S.I. 2020/103.Amendment of the Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations 2008
+10.  At the end of regulation 7(2) of the Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations 2008(1) (exempted trusts and payments) insert—
+“(o)
+any payment made under the Windrush Compensation Scheme (Expenditure) Act 2020.”.
+(1)
+S.I. 2008/1596. Relevant amending instrument is S.I. 2020/103.Signed by authority of the Secretary of State for Work and Pensions
+David Rutley
+Minister for Welfare Delivery
+Department for Work and Pensions
+9th December 2021EXPLANATORY NOTE
+(This note is not part of the Regulations)
+Regulations 2 to 8 of these Regulations amend respectively the Income Support (General) Regulations 1987 (S.I. 1987/1967), the Jobseeker’s Allowance Regulations 1996 (S.I. 1996/207), the State Pension Credit Regulations 2002 (S.I. 2002/1792), the Housing Benefit Regulations 2006 (S.I. 2006/213), the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006 (S.I. 2006/214), the Employment and Support Allowance Regulations 2008 (S.I. 2008/794) and the Universal Credit Regulations 2013 (S.I. 2013/376).
+In particular, those amendments provide that payments made to a benefit recipient—
+from a scheme established or approved by the Secretary of State to provide compensation in respect of historic institutional child abuse in the United Kingdom; or
+under the Windrush Compensation (Expenditure) Act 2020 (c. 8) (“the Windrush Act”),
+are to be disregarded as income and capital and therefore, not taken into account for the purposes of calculating entitlement to the benefits referred to above.
+Regulations 9 and 10 amend respectively the Social Security (Recovery of Benefits) Regulations 1997 (S.I. 1997/2205) and the Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations 2008 (S.I. 2008/1596) to ensure that the payments made under theWindrush Act referred to above are not to be regarded as compensation payments for the purposes of those regulations.
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.

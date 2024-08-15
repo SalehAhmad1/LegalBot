@@ -1,0 +1,508 @@
+SCOTTISH STATUTORY INSTRUMENTS
+2023 No. 201
+ENVIRONMENTAL PROTECTION
+The Deposit and Return Scheme for Scotland Amendment Regulations 2023
+Made
+29th June 2023
+Coming into force
+30th June 2023
+The Scottish Ministers make the following Regulations in exercise of the powers conferred on them by sections 84, 89, 90 and 96(2) of the Climate Change (Scotland) Act 2009(1) and all other powers enabling them to do so.
+In accordance with section 84(6) of that Act, the Scottish Ministers consider that it is expedient to make these Regulations for the purpose of promoting and securing an increase in the recycling of materials.
+In accordance with section 96(4) of the 2009 Act, a draft of this instrument has been laid before, and approved by resolution of, the Scottish Parliament.
+(1)
+2009 asp 12.Citation and commencement
+1.  These Regulations may be cited as the Deposit and Return Scheme for Scotland Amendment Regulations 2023 and come into force on the day after the day on which these Regulations are made.
+Commencement Information
+I1
+Reg. 1 in force at 30.6.2023, see reg. 1Interpretation
+2.  In these Regulations “the 2020 Regulations” means the Deposit and Return Scheme for Scotland Regulations 2020(1).
+Commencement Information
+I1
+Reg. 2 in force at 30.6.2023, see reg. 1
+(1)
+S.S.I. 2020/154, as amended by S.S.I. 2022/76.Amendment of the 2020 Regulations
+3.  The 2020 Regulations are amended in accordance with regulations 4 to 22.
+Commencement Information
+I1
+Reg. 3 in force at 30.6.2023, see reg. 1Amendment of commencement date
+4.  In regulation 1(5)(1) (citation and commencement), for “16 August 2023” substitute “1 March 2024”.
+Commencement Information
+I1
+Reg. 4 in force at 30.6.2023, see reg. 1
+(1)
+Regulation 1(5) is relevantly amended by S.S.I. 2022/76.Interpretation
+5.  In regulation 2(1) (interpretation)—
+(a)
+after the definition of “hospitality retailer”, insert—
+““listed producer” means a producer that has provided information to SEPA in accordance with paragraphs 5 to 8 of schedule 5, and “listing” is to be construed accordingly,”,
+“low volume drink product ” means a drink (regardless of whether it is sold alone or as part of a multipack) that—
+(a)
+meets the criteria in sub-paragraphs (a), (b) and (c) of the definition of “scheme article” in regulation 3(2),
+(b)
+the producer markets, offers for sale or sells for the purpose of its retail sale in Scotland in a quantity of less than 5000 units in a relevant year,”,
+(b)
+in the definition of “PET plastic”, for “polyethelene” substitute “polyethylene”,
+(c)
+for the definition of “producer”, substitute—
+““producer”, in relation to a—
+(a)
+scheme article, has the meaning given in regulation 6(A1) to (2),
+(b)
+low volume drink product, has the meaning given in paragraphs 1 to 4 of schedule 5,”.
+Commencement Information
+I1
+Reg. 5 in force at 30.6.2023, see reg. 1Scheme articles and scheme packaging
+6.  In regulation 3(2) (scheme articles and scheme packaging) in the definition of “scheme article”—
+(a)
+in sub-paragraph (a)(ii)(aa), for “50” substitute “100”,
+(b)
+in sub-paragraph (b), for “16 August 2023” substitute “1 March 2024”,
+(c)
+at the end of sub-paragraph (b), omit “and”,
+(d)
+at the end of sub-paragraph (c), insert—
+““, and
+(d)
+is not a low volume drink product”.
+Commencement Information
+I1
+Reg. 6 in force at 30.6.2023, see reg. 1Low volume drink products
+7.  After regulation 3 (scheme articles and scheme packaging), insert—
+“Low volume drink products
+3A.—(1) A person may only market, offer for sale or sell a low volume drink product to a consumer in Scotland if the producer is a—
+(a)
+listed producer, or
+(b)
+registered producer.
+(2) For the purpose of paragraph (1), the following is to be regarded as the person who markets, offers for sale or sells the low volume drink product—
+(a)
+in the case of an online retail sale, the operator,
+(b)
+in the case of a vending machine sale—
+(i)
+where the machine is marked with the name and address of its owner, that owner, or
+(ii)
+otherwise, the person with the management and control of the premises on which the machine stands or to which it is affixed.
+(3) Any person who markets, offers for sale or sells a low volume drink product in Scotland on or after 1 March 2024 must communicate to the purchaser at the point of sale that—
+(a)
+the product is not a scheme article to which the requirements of these Regulations apply,
+(b)
+an item of packaging in which that low volume drink product is contained or sold cannot be returned in exchange for payment of a sum equal to a deposit.
+(4) Schedule 5 makes further provision in relation to low volume drink products.”.
+Commencement Information
+I1
+Reg. 7 in force at 30.6.2023, see reg. 1Obligations relating to charging deposits and marketing, offering for sale or selling articles
+8.  In regulation 5 (obligations relating to charging deposits and marketing, offering for sale or selling articles)—
+(a)
+in paragraph (3)(1), for “16 August 2023” substitute “1 March 2024”,
+(b)
+in paragraph (3A)(2), for “16 August 2023” substitute “1 March 2024”.
+Commencement Information
+I1
+Reg. 8 in force at 30.6.2023, see reg. 1
+(1)
+Regulation 5(3) is relevantly amended by S.S.I. 2022/76.
+(2)
+Regulation 5(3A) was inserted by S.S.I. 2022/76.Amendment of application for registration as a producer
+9.  In regulation 7(2) (application for registration as a producer)—
+(a)
+in sub-paragraph (a), for “1 March in any relevant year” substitute “12 January 2024”,
+(b)
+after sub-paragraph (a) insert—
+“(aa)
+before 1 March in any relevant year beginning on or after 1 January 2025,”.
+Commencement Information
+I1
+Reg. 9 in force at 30.6.2023, see reg. 1Amendment of producer registration
+10.—(1) In regulation 8 (producer registration)—
+(a)
+before paragraph (1) insert—
+“(A1) Within 42 days of receipt of an application made within the time limit specified in regulation 7(2)(a), SEPA must—
+(a)
+where the application complies with regulation 7(3) and SEPA is satisfied that the applicant will comply with the obligations in regulation 10(1) and 11(1), grant it, or
+(b)
+otherwise, refuse it.”,
+(b)
+in paragraph (1), for “during any relevant year” substitute “made during any relevant year beginning on or after 1 January 2025”,
+(c)
+in paragraph (4),—
+(i)
+in sub-paragraph (a), for “1 April in a relevant year” substitute “1 March 2024”,
+(ii)
+after sub-paragraph (a) insert—
+“(aa)
+1 April in any subsequent relevant year, where the application was made within the time limit specified in regulation 7(2)(aa),”.
+Commencement Information
+I1
+Reg. 10 in force at 30.6.2023, see reg. 1Cancellation of registration of producers
+11.  In regulation 9(1)(c) (cancellation of registration of producers), for “regulation 7(2)(a)” substitute “regulation 7(2)(aa)”.
+Commencement Information
+I1
+Reg. 11 in force at 30.6.2023, see reg. 1Retailer obligations
+12.  In regulation 19 (retailer obligations)—
+(a)
+for paragraph (2)(e) substitute—
+“(e)
+a retailer whose number of sales of scheme articles to consumers for consumption on the premises of sale constitute ninety per cent or more of that retailer’s total number of sales of scheme articles to consumers (excluding distance retail sales) in any calendar year,”.
+(b)
+after paragraph (2) insert—
+“(3) A retailer that does not operate a return point by virtue of paragraph (2)(b) to (e) must clearly display information at the retailer’s premises indicating—
+(a)
+that they are not required by virtue of these Regulations to operate a return point, and
+(b)
+the location of the nearest return point.
+(4) A retailer that does not operate a return point by virtue of paragraph (2)(e) must—
+(a)
+keep a record of the number of sales of scheme articles to consumers for consumption off the premises of sale in each calendar year,
+(b)
+retain such a record for a minimum period of at least two years beginning 1 January following the end of the calendar year to which the record relates.”.
+Commencement Information
+I1
+Reg. 12 in force at 30.6.2023, see reg. 1Return points
+13.  In regulation 20 (return points)—
+(a)
+in paragraph (2), for “paragraph (4)” substitute “paragraphs (4) and (5),
+(b)
+after paragraph (4)(f) insert—
+“,
+(g)
+the criteria specified in paragraph (5) are met.
+(5) The criteria specified are that—
+(a)
+the return point operator does not permit scheme articles that are made wholly or partly of a particular type of material to be held on, or brought into, the premises within which the return point is operated,
+(b)
+the item of scheme packaging is made wholly or partly of that type of material,
+(c)
+the reason for the return point operator not permitting on the premises any scheme articles made wholly or partly of that type of material is to ensure that the return point operator is not at significant risk of being in breach of any legal obligation relating to either of the following—
+(i)
+food safety,
+(ii)
+health and safety, and
+(d)
+in addition to the information referred to in paragraph (3), the return point operator clearly displays information at the return point indicating—
+(i)
+that the return point does not accept items of scheme packaging made wholly or partly of a particular type of material and the reason why,
+(ii)
+the nearest return point to which an item of scheme packaging made wholly or partly of that type of material can be returned.”.
+Commencement Information
+I1
+Reg. 13 in force at 30.6.2023, see reg. 1Hospitality retailers
+14.  After regulation 20 insert—
+“Hospitality retailers
+20A.  A hospitality retailer must retain for collection by, or on behalf of, a producer or a scheme administrator the scheme packaging in which scheme articles were sold by that hospitality retailer for consumption on the premises of sale.”.
+Commencement Information
+I1
+Reg. 14 in force at 30.6.2023, see reg. 1Takeback services
+15.  For regulation 21 (takeback services), substitute—
+“Takeback services
+21.—(1) For the purpose of these Regulations, a “takeback service” means a service provided by a large retailer enabling—
+(a)
+a reasonable number of items of scheme packaging in which scheme articles were contained to be collected by or on behalf of that large retailer from the site of delivery for the purposes of its return to—
+(i)
+that large retailer (including through a return point), or
+(ii)
+the producer, and
+(b)
+the payment to that consumer of a sum equal to the deposit for each item of scheme packaging so collected and returned.
+(2) For the purpose of this regulation—
+(a)
+“groceries” means food (other than sold for consumption on the retailer’s premises), pet food, drinks (alcoholic and non-alcoholic, other than sold for consumption on the retailer’s premises), cleaning products, toiletries and household goods, but excludes petrol, clothing, DIY products, financial services, pharmaceuticals, newspapers, magazines, greetings cards, CDs, DVDs, videos and audio tapes, toys, plants, flowers, perfumes, cosmetics, electrical appliances, kitchen hardware, gardening equipment, books, tobacco and tobacco products,
+(b)
+“large retailer” means a retailer with an annual turnover in the preceding financial year exceeding £1 billion with respect to the retail supply of groceries in the United Kingdom, or a subsidiary of a such a retailer,
+(c)
+“reasonable number of items of scheme packaging” means—
+(i)
+no fewer than 21 items,
+(ii)
+no more than a reasonable maximum number of items, taking into account the method of collection and storage of scheme packaging used by the large retailer.
+(3) Subject to paragraph (7), a large retailer must provide a takeback service free of charge to a consumer that—
+(a)
+has purchased a scheme article from the large retailer through a distance retail sale,
+(b)
+makes a request to the large retailer within 6 months of the purchase of a scheme article for provision of a takeback service, and
+(c)
+states that they meet one of the eligibility criteria in paragraph (4).
+(4) The eligibility criteria are that the consumer—
+(a)
+has a disability within the meaning of section 6 of the Equality Act 2010(1), or
+(b)
+is aged 66 or over.
+(5) A large retailer providing a takeback service must—
+(a)
+do so within 4 weeks following receipt of a request from a consumer in accordance with paragraph (3)(b), and
+(b)
+clearly display information in any place where the scheme article is displayed for sale indicating—
+(i)
+that the large retailer provides a free takeback service for consumers that meet the eligibility criteria in paragraph (4),
+(ii)
+how the takeback service from the large retailer can be requested,
+(iii)
+the circumstances in which the return of an item of packaging may be refused by the large retailer, and
+(iv)
+the complaints procedure and the contact details for receipt of any complaint that may be made to that large retailer from a consumer concerning the provision of a takeback service.
+(6) A large retailer may refuse to provide a takeback service in relation to an item of packaging if—
+(a)
+it is not identifiable as scheme packaging,
+(b)
+it is soiled,
+(c)
+it is not intact, or
+(d)
+it is not empty.
+(7) A large retailer providing a takeback service may apply a charge not exceeding the cost of materials and labour used in respect of the collection and storage of that scheme packaging, subject to the requirement to reimburse the consumer in accordance with paragraph (8).
+(8) Unless paragraph (9) applies, a large retailer providing a takeback service must—
+(a)
+pay to the consumer a sum equal to the deposit for each item of scheme packaging returned to the large retailer or, as the case may be, the producer, and
+(b)
+reimburse the consumer for any charge applied under paragraph (7).
+(9) This paragraph applies where—
+(a)
+the large retailer has refused to provide a takeback service under paragraph (6) in relation to an item of packaging, and
+(b)
+the number of items of scheme packaging otherwise returned as part of the same return to the large retailer is less than 21.
+(10) Where a takeback service is provided voluntarily by a retailer other than a large retailer, that retailer must comply with the obligations of a large retailer in this regulation.”.
+Commencement Information
+I1
+Reg. 15 in force at 30.6.2023, see reg. 1
+(1)
+2010 c. 15.Right of appeal or review
+16.  In regulation 26(1) (right of appeal or review) insert at the end of sub-paragraph (b)—
+“,
+(c)
+to cancel the listing of that producer under paragraph 13 of schedule 5”.
+Commencement Information
+I1
+Reg. 16 in force at 30.6.2023, see reg. 1Offences
+17.  In regulation 31 (offences)—
+(a)
+before paragraph (1)(a), insert—
+“(za)
+regulation 3A(1),
+(zb)
+regulation 3A(3),”,
+(b)
+after paragraph (2)(e), insert—
+“,
+(f)
+an application for listing as a producer of a low volume product submitted in accordance with paragraphs 5 to 8 of schedule 5,
+(g)
+a notification of any material change in accordance with paragraph 14(c) of schedule 5,
+(h)
+a notification that a product is no longer a low volume drink product in accordance with paragraph 14(d) of schedule 5”,
+(c)
+after paragraph (5), insert—
+“(5A) It is an offence for a listed producer to fail, without reasonable excuse, to comply with the obligations set out in paragraph 14(c), (d), (f) and (g) of schedule 5.”,
+(d)
+in paragraph (8),—
+(i)
+in sub-paragraph (a)(ii), for “21(2)” substitute “21(3)”,
+(ii)
+after sub-paragraph (b), insert—
+“(ba)
+to fail to comply with regulation 19(3),
+(bb)
+to fail to comply with regulation 19(4),
+(bc)
+to fail to comply with regulation 20(5)(d),
+(bd)
+to fail to comply with regulation 20A,
+(be)
+to fail to comply with regulation 21(5)(a) and (b),”,
+(iii)
+in sub-paragraph (c), for “21(4)” substitute “21(8)”,
+(iv)
+after sub-paragraph (c) insert—
+“(ca)
+to fail to comply with regulation 21(10),”.
+Commencement Information
+I1
+Reg. 17 in force at 30.6.2023, see reg. 1Amendment of duty to review these regulations date
+18.  In regulation 32(1) (duty to review these regulations) for “1 October 2026” substitute “1 October 2027”.
+Commencement Information
+I1
+Reg. 18 in force at 30.6.2023, see reg. 1Producer registration: Information to be contained in an application for producer registration
+19.  In schedule 1 (producer registration: information to be contained in an application for producer registration)—
+(a)
+paragraph 10, for “place on the market for” substitute “market, offer for sale or sell for the purposes of”,
+(b)
+after paragraph 11, insert—
+“12.  If the producer is also a producer of a low volume drink product—
+(a)
+relevant information that supports the identification of low volume drink products first marketed, offered for sale or sold for the purposes of retail sale in Scotland by that producer, including—
+(i)
+any trade mark or distinguishing marks placed on low volume drink products or their packaging which assists in identifying the producer,
+(ii)
+any unique codes or marks designed to support the capture of data relating to the low volume drink product (for example, a European Article Number).
+(b)
+the number of low volume drink products that share characteristics listed in paragraph (a) first made available by that producer to be marketed, offered for sale or sold for the purposes of retail sale in Scotland in the previous calendar year,
+(c)
+the number of low volume drink products that the producer anticipates it will market, offer for sale or sell for the purposes of retail sale in Scotland in the calendar year in which the producer is registered.”.
+Commencement Information
+I1
+Reg. 19 in force at 30.6.2023, see reg. 1Amendment of collection targets
+20.  In paragraph 1 of schedule 3 (collection targets)—
+(a)
+in sub-paragraph (b), for “beginning 1 January 2024 and ending 31 December 2024” substitute “beginning 1 January 2025 and ending 31 December 2025”,
+(b)
+in sub-paragraph (c), for “1 January 2025” substitute “1 January 2026”.
+Commencement Information
+I1
+Reg. 20 in force at 30.6.2023, see reg. 1Low volume drink products
+21.  After schedule 4 (registration of a voluntary return point: information to be contained in an application for registration) insert the schedule contained in the schedule of these Regulations.
+Commencement Information
+I1
+Reg. 21 in force at 30.6.2023, see reg. 1Transitional provision
+F122.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Textual Amendments
+F1
+Reg. 22 omitted (3.11.2023) by virtue of The Deposit and Return Scheme for Scotland (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/334), regs. 1, 11LORNA SLATER
+Authorised to sign by the Scottish Ministers
+St Andrew’s House,
+Edinburgh
+29th June 2023Regulation 21
+SCHEDULE
+INSERTION OF SCHEDULE 5 OF THE 2020 REGULATIONS
+Commencement Information
+I1
+Sch. in force at 30.6.2023, see reg. 1
+“SCHEDULE 5
+LOW VOLUME DRINK PRODUCTS
+Producer of a low volume drink product
+1.  A producer in respect of a low volume drink product which meets the conditions set out in paragraph 2 is the person who markets, offers for sale or sells a low volume drink product to a consumer in Scotland (“the low volume drink product retailer”).
+2.  The conditions are that—
+(a)
+an item of packaging, in which that low volume drink product is contained or sold, is filled and sealed by the low volume drink product retailer, and
+(b)
+the low volume drink product is sold by the low volume drink product retailer to a consumer for consumption in any place other than on the premises of sale.
+3.  A producer in respect of any other low volume drink product is—
+(a)
+in the case of a low volume drink product branded in the United Kingdom, the brand owner,
+(b)
+in the case of a low volume drink product branded by a brand owner outside the United Kingdom, the importer.
+4.  The operator in respect of an online retail sale is to be regarded as the importer for the purposes of paragraph 3 where a low volume drink product is being sold—
+(a)
+for the first time in the United Kingdom,
+(b)
+to a consumer in Scotland, and
+(c)
+by way of a retail sale.
+Application to be listed by producer of a low volume drink product
+5.  An application must be made by a producer of a low volume drink product to SEPA to be listed as a producer of a low volume drink product.
+6.  An application under paragraph 5 must be made—
+(a)
+before 12 January 2024,
+(b)
+before 1 March in any subsequent relevant year,
+(c)
+within 28 days of becoming a producer of a low volume product drink.
+7.  A application under paragraph 5 must be made in writing and contain the following information—
+(a)
+the information set out in paragraphs 1 to 6 of schedule 1,
+(b)
+relevant information that supports the identification of low volume drink products first marketed, offered for sale or sold for the purposes of retail sale in Scotland by that producer, including—
+(i)
+any trade mark or distinguishing marks placed on low volume drink products or their packaging which assists in identifying the producer,
+(ii)
+any unique codes or marks designed to support the capture of data relating to the low volume drink product (for example, a European Article Number),
+(c)
+the number of low volume drink products that share characteristics listed in sub-paragraph (b) first made available by that producer to be marketed, offered for sale or sold for the purposes of retail sale in Scotland in the previous calendar year,
+(d)
+the number of low volume drink products which the producer anticipates it will market, offer for sale or sell for the purposes of retail sale in Scotland in the calendar year in which the application for listing is being made.
+8.  A application under paragraph 5 must be accompanied by a fee of £365, unless the producer—
+(a)
+has a taxable turnover of £85,000 or less in the previous financial year, or
+(b)
+is a producer only by virtue of paragraph 1.
+9.—(1) Within 42 days of receipt of an application made within the time limit specified in paragraph 6(a), SEPA must—
+(a)
+where the application complies with paragraph 7, grant it, or
+(b)
+otherwise, refuse it.
+(2) Within 28 days of receipt of an application made within the time limit specified in paragraph 6(b) or (c), SEPA must—
+(a)
+where the application complies with paragraph 7, grant it, or
+(b)
+otherwise, refuse it.
+(3) Where an application is granted, SEPA must, within 7 days of the date on which it is granted, give notice of that decision in writing to the producer.
+(4) Where an application has been granted, the listing takes effect from the relevant date in paragraph 10 until the date on which the producer’s listing is cancelled in accordance with paragraph 13.
+10.  The date for the purposes of paragraph 9(4) is—
+(a)
+1 March 2024, where the application was made within the time limit specified in paragraph 6(a),
+(b)
+1 April in a relevant year, where the application was made within the time limit specified in paragraph 6(b),
+(c)
+the date the application was received by SEPA, where the application was made within the time limit specified in paragraph 6(c),
+(d)
+the date specified by SEPA in the notice provided in accordance with paragraph 9(2) in any other case.
+11.  SEPA must publish and maintain a list of listed producers in such manner as it considers appropriate.
+12.  Where an application is refused, SEPA must, within 7 days of the date on which it is refused, give notice of that decision in writing to the producer together with—
+(a)
+the reasons for it,
+(b)
+a statement as to the right of appeal under Part 6.
+Cancellation of listing of producer of a low volume drink product
+13.—(1) SEPA may cancel the listing of a producer where it appears to it that—
+(a)
+a producer is in breach of any of the obligations of a listed producer specified in paragraph 14,
+(b)
+a producer has failed to submit an application in accordance with paragraph 6(b),
+(c)
+an application of that producer has been refused,
+(d)
+the producer knowingly or recklessly supplied false information in connection with an application.
+(2) SEPA must cancel the listing of a producer where it is informed under paragraph 14(d) or (e) that the producer has ceased to be a producer of low volume drink products.
+(3) Before cancelling the listing under sub-paragraph (1), SEPA must serve written notice on the producer of—
+(a)
+the decision to cancel and the reasons for it,
+(b)
+the date when the cancellation is intended to take effect, not being earlier than the time limit for making an appeal against the decision provided for in Part 6,
+(c)
+the opportunity to make representations to SEPA and the deadline for receipt of such representations, and
+(d)
+the right of appeal under Part 6.
+(4) SEPA must consider any representations made by the producer before cancellation takes effect and may withdraw the notice at any time before it takes effect.
+(5) The date when the cancellation takes effect must not be earlier than—
+(a)
+in the case of cancellation under sub-paragraph (1), the expiration of the time limit for making an appeal against the decision provided for in Part 6,
+(b)
+in the case of cancellation under sub-paragraph (2), 28 days from the date of the notification from the producer in accordance with paragraph 14(d) or (e),
+(c)
+in the case where an application for appeal against the decision is submitted and the decision to cancel that producer’s listing is upheld, the date that the producer receives notification under regulation 27(7).
+Obligations of listed producer of a low volume drink product
+14.  A listed producer must—
+(a)
+submit any subsequent application for listing within the time limits in paragraph 6,
+(b)
+provide any information reasonably requested by SEPA with regard to the information specified in paragraph 7,
+(c)
+notify SEPA of any material change in the information provided in accordance with paragraph 7 within 28 days of the date of the change,
+(d)
+notify SEPA in writing, within 28 days of becoming aware of the change, that a product is no longer a low volume drink product because the producer markets, offers for sale or sells for the purpose of its retail sale in Scotland that product in a quantity of more than 5000 units in a relevant year,
+(e)
+notify SEPA in writing where the producer wishes to cancel the listing or has ceased to be a producer of low volume drink products in respect of a relevant year,
+(f)
+collect and keep for at least four years from the date on which the information is collected a record of the information specified in paragraph 7(b), (c) and (d),
+(g)
+provide that information to SEPA in such form and at such intervals as SEPA may require.
+Interpretation
+15.  In this schedule—
+“brand owner” means the person who, in the course of a trade, business, craft or profession puts a name, trade mark or other distinguishing mark on a low volume drink product or packaging, in which that low volume drink product is contained or sold, by which the person is held out to be a manufacturer or the originator of the low volume drink product, and “branded” is to be construed accordingly,
+“importer” means the person who, in the course of a trade, business, craft or profession, first markets, offers for sale or sells the low volume drink product in the United Kingdom.”EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the Deposit and Return Scheme for Scotland Regulations 2020 (“the 2020 Regulations”) which make provision for the operation of a deposit and return scheme. These Regulations come into force on the day after the day on which they are made.
+Regulation 2 defines the 2020 Regulations for the purposes of these Regulations.
+Regulation 4 amends the date in regulation 1(5) of the 2020 Regulations (the date on which parts 2, 7 and 8, and certain provisions in Part 5, of the 2020 Regulations come into force).
+Regulation 5 inserts a definition of a large retailer, a listed producer and a low volume drink product into regulation 2(1) of the 2020 Regulations and amends the definition of producer. Regulation 6 amends the definition of scheme article in the 2020 Regulations.
+Regulation 7 inserts a new regulation 3A into the 2020 Regulations which prohibits the marketing or sale (including through online retail or vending machine sales to a consumer in Scotland) of a low volume drink product, unless the producer is listed or registered with SEPA. The seller must also inform the purchaser that the product is not a scheme article.
+Regulation 8 amends regulation 5 of the 2020 Regulations so that the obligations there take effect from 1 March 2024. Regulation 9 amends the dates by which a producer must apply for registration under regulation 7 of the 2020 Regulations. Regulation 10 amends the dates from which a registration takes effect under regulation 8 of the 2020 Regulations. Regulation 11 is a consequential change to amend the reference to the registration date.
+Regulation 12 amends regulation 19 of the 2020 Regulations to provide an exemption from operating a return point if the retailer sells ninety or more per cent of scheme articles for consumption on the premises of sale; a new requirement is placed on retailers exempt under regulation 19 to display information that the premises are exempt.
+Regulation 13 amends regulation 20 of the 2020 Regulations to allow a return point operator to refuse the return of items of scheme packaging wholly or partly made of a particular material to ensure the return point operator is not at significant risk of being in breach of any legal obligation relating to food safety or health and safety. Regulation 14 inserts regulation 20A to require hospitality retailers to retain scheme packaging for collection by, or on behalf of, a producer or a scheme administrator.
+Regulation 15 substitutes regulation 21 of the 2020 Regulations with a new regulation to require large retailers selling scheme articles by means of distance retail sales to provide a takeback service to consumers who meet certain criteria, to enable those consumers to return items of scheme packaging.
+Regulation 16 amends regulation 26 to add a right of appeal to the Scottish Ministers if SEPA refuses an application for listing of a producer of a low volume drink product.
+Regulation 17 inserts new offences into regulation 31 of the 2020 Regulations in relation to the new obligations contained in regulations 3A(1) and (3), 19(3) and (4), 20(5)(d), 20A, 21(3), (5)(a) and (b), (8) and (10), and paragraphs 5 to 8 and 14(c), (d), (f) and (g) of schedule 5 of the 2020 Regulations (as either inserted or amended by these Regulations).
+Regulation 18 amends the date by which the 2020 Regulations must be reviewed.
+Regulation 19 amends schedule 1 to allow registered producers to provide information to SEPA in relation to low volume drink products.
+Regulation 20 amends paragraph 1 of schedule 3 so that the collection target of the first full year of the scheme is 80% and the target for subsequent years is 90%.
+Regulation 21 inserts a new schedule 5 to make provision in relation to low volume drink products.
+Regulation 22 makes transitional provision for applications for producer registration received by SEPA before the coming into force of these Regulations.
+An update to the Business Regulatory Impact Assessment will be published by the Scottish Government online at gov.scot.

@@ -1,0 +1,43 @@
+STATUTORY INSTRUMENTS
+2024 No. 349
+CHILD TRUST FUNDS
+The Child Trust Funds (Amendment) Regulations 2024
+Made
+11th March 2024
+Laid before Parliament
+12th March 2024
+Coming into force
+6th April 2024
+The Treasury make these Regulations in exercise of the powers conferred by sections 3(5) and 28(2) and (3) of the Child Trust Funds Act 2004(1).
+(1)
+2004 c. 6; section 3 was amended by sections 60 to 62 of the Deregulation Act 2015 (c. 20).Citation and commencement
+1.  These Regulations may be cited as the Child Trust Funds (Amendment) Regulations 2024 and come into force on 6th April 2024.Amendment of the Child Trust Funds Regulations 2004
+2.—(1) The Child Trust Funds Regulations 2004(1) are amended as follows.
+(2) In regulation 2 (interpretation), in paragraph (1)—
+(a)
+in sub-paragraph (b), in the definition of “non-UCITS retail scheme”, in paragraph (b) after “by virtue of section” insert “271A(2) or”;
+(b)
+in sub-paragraph (c), in the definition of “recognised UCITS”—
+(i)
+omit paragraph (a);
+(ii)
+for paragraph (c) substitute—
+“(c)
+a recognised scheme by virtue of section 271A or 272 of FISMA 2000(3) that is a UCITS within the meaning given by section 236A(4) of that Act;”.
+(3) In regulation 14 (account provider - qualifications and Board’s approval), in paragraph (2)(f) omit paragraph (i).
+(1)
+S.I. 2004/1450 (“the Principal Regulations”); relevant amending instruments are S.I. 2005/3349, 2010/582, 2013/472, 2013/1773, 2020/29 and 2023/269.
+(2)
+Section 271A of the Financial Services and Markets Act 2000 (c. 8) was inserted by paragraph 1 of Schedule 9 to the Financial Services Act 2021 (c. 22).
+(3)
+“FISMA 2000” is defined as the Financial Services and Markets Act 2000 in regulation 2(1)(b) of the Principal Regulations. Section 272 was amended by paragraph 9 of Schedule 18 to the Financial Services Act 2012 (c. 21), section 25(3) of the Financial Services Act 2021 and S.I. 2013/1773, 2013/1388 and 2019/325.
+(4)
+Section 236A was inserted by S.I. 2019/325.Joy Morrissey
+Scott Mann
+Two of the Lords Commissioners of His Majesty's Treasury
+11th March 2024EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the Child Trust Funds Regulations 2004 by:
+updating definitions relating to certain investment funds (regulation 2(2)), and
+removing a provision which allowed certain institutions based in EU member states to conduct business without being present in the United Kingdom (regulation 2(3)).
+A Tax Information and Impact Note covering this instrument will be published on the website at https://www.gov.uk/government/collections/tax-information-and-impact-notes-tiins.

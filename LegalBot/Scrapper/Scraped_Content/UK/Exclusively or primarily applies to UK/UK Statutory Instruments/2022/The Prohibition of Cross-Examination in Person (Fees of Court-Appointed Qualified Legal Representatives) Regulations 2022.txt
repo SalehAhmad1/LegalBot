@@ -1,0 +1,400 @@
+STATUTORY INSTRUMENTS
+2022 No. 567
+CIVIL PROCEEDINGS, ENGLAND AND WALES
+FAMILY PROCEEDINGS, ENGLAND AND WALES
+SENIOR COURTS OF ENGLAND AND WALES
+COUNTY COURT, ENGLAND AND WALES
+FAMILY COURT, ENGLAND AND WALES
+The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) Regulations 2022
+Made
+18th May 2022
+Laid before Parliament
+23rd May 2022
+Coming into force in accordance with regulation 1(2)
+The Lord Chancellor, in exercise of the powers conferred by sections 31X of the Matrimonial and Family Proceedings Act 1984(1) and section 85L of the Courts Act 2003(2), makes the following Regulations:
+(1)
+1984 c. 42. Section 31X was inserted by section 65 of the Domestic Abuse Act 2021 (c. 17).
+(2)
+2003 c. 39. Section 85L was inserted by section 66 of the Domestic Abuse Act 2021.Citation, commencement, interpretation and extent
+1.—(1) These Regulations may be cited as the Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) Regulations 2022.
+(2) These Regulations come into force on the day on which and immediately after sections 65 and 66 of the Domestic Abuse Act 2021(1) come into force.
+(3) In these Regulations—
+“1984 Act” means the Matrimonial and Family Proceedings Act 1984;
+“1989 Act” means the Children Act 1989(2);
+“2003 Act” means the Courts Act 2003;
+“2012 Act” means the Legal Aid, Sentencing and Punishment of Offenders Act 2012(3);
+“advocacy services” means cross-examination carried out by a qualified legal representative pursuant to appointment under section 31W(6) of the 1984 Act(4) or section 85K(6) of the 2003 Act(5), and fees and rates for advocacy services include remuneration for preparatory work, attendances at preliminary hearings and cross-examination hearings, and [F1time spent] travelling and waiting in relation to those services;
+“authorised” means authorised by the President of the Family Division or the Lord Chief Justice to conduct particular business, under powers granted by rules made under section 31D of the 1984 Act(6);
+“cancelled hearing” means a preliminary hearing, or a cross-examination hearing, which was cancelled at any time prior to the scheduled time and date;
+“completed hearing” means a preliminary hearing, or a cross-examination hearing, which was held and completed;
+[F2“costs” means travelling expenses, overnight accommodation costs, overnight subsistence allowance and any other items of expenditure properly incurred by the qualified legal representative in connection with their appointment by the court under the 1984 Act or 2003 Act.]
+“cross-examination hearing” means a hearing involving cross-examination of a witness by the qualified legal representative;
+[F3“fees” means the sums payable for advocacy services, calculated in accordance with Parts 1 to 3 of the Schedule to these Regulations.]
+“judge of circuit judge level” means—
+(a)
+a judge appointed under section 16 of the Courts Act 1971(7);
+(b)
+a circuit judge who is authorised, where applicable;
+(c)
+a Recorder who is authorised, where applicable; or
+(d)
+any other judge of the family court authorised to sit as a judge of circuit judge level in the family court.
+“judge of district judge level” means—
+(a)
+a judge appointed under section 6 of the County Courts Act 1984(8);
+(b)
+the Senior District Judge of the Family Division;
+(c)
+a district judge of the Principal Registry of the Family Division;
+(d)
+a person appointed to act as deputy for the person holding office referred to in sub-paragraph (c) or to act as a temporary additional officer for any such office;
+(e)
+a district judge who is authorised, where applicable;
+(f)
+a deputy district judge appointed under section 102 of the Senior Courts Act 1981(9) or section 8 of the County Courts Act 1984(10) who is authorised, where applicable;
+(g)
+an authorised District Judge (Magistrates’ Courts); or
+(h)
+any other judge of the family court authorised to sit as judge of district judge level in the family court.
+“judge of High Court judge level” means—
+(a)
+a deputy judge of the High Court;
+(b)
+a puisne judge of the High Court;
+(c)
+a person who has been a judge of the Court of Appeal or a puisne judge of the High Court who may act as a judge of the family court by virtue of section 9 of the Senior Courts Act 1981;
+(d)
+the Senior Presiding Judge;
+(e)
+the Senior President of Tribunals;
+(f)
+the Chancellor of the High Court;
+(g)
+an ordinary judge of the Court of Appeal (including the vice-president, if any, of either division of that court);
+(h)
+the President of the Queen’s Bench Division;
+(i)
+the vice-president of the Queen’s Bench Division;
+(j)
+the President of the Family Division;
+(k)
+the Master of the Rolls; or
+(l)
+the Lord Chief Justice.
+“justices’ legal adviser” means a person authorised by the Lord Chancellor to exercise functions under section 28(1) of the 2003 Act(11);
+“lay justice” means an authorised justice of the peace who is not a District Judge (Magistrates’ Courts);
+“preliminary hearing” means a case management hearing, or other hearing, not involving cross-examination by the qualified legal representative;
+“private law (children) case” means family proceedings under—
+(a)
+the enactments described in paragraph 10 (unlawful removal of children) or 13 (protection of children and family matters) of Part 1 of Schedule 1 to the 2012 Act(12);
+(b)
+Part 1 or 3 of the Family Law Act 1986(13), to the extent the matter relates to a child;
+(c)
+Part 1 or 2 of the 1989 Act, other than section 15 of, and Schedule 1 to, that Act; or
+(d)
+section 51A of the Adoption and Children Act 2002(14);
+“private law (domestic abuse) case” means family proceedings for the protection of a person in relation to another with whom they are associated (within the meaning of section 62 of the Family Law Act 1996(15)), including those under—
+(a)
+Part 4 or 4A of the Family Law Act 1996(16);
+(b)
+Part 1 of Schedule 2 to the Female Genital Mutilation Act 2003(17); or
+(c)
+Part 3 of the Domestic Abuse Act 2021;
+“private law (finance and other) case” means any family proceedings which are not a private law (children) case or a private law (domestic abuse) case;
+“public law (other) case” means—
+(a)
+proceedings under the enactments described in paragraph 1 of Part 1 of Schedule 1 to the 2012 Act(18) (care, supervision and protection of children), to the extent the matter is not a public law (section 31 care proceedings) case;
+(b)
+proceedings relating to the inherent jurisdiction of the High Court to the extent that the matter relates to a child; or
+(c)
+proceedings under the enactments described in paragraphs 17 (transitional EU arrangements and international agreements concerning children) or 18 (transitional EU arrangements and international agreements concerning maintenance) of Part 1 of Schedule 1 to the 2012 Act(19);
+“public law (section 31 care proceedings) case” means—
+(a)
+proceedings or potential proceedings under section 31 of the 1989 Act; or
+(b)
+proceedings under the enactments described in paragraph 1 of Part 1 of Schedule 1 to the 2012 Act where—
+(i)
+the proceedings are being heard with those under section 31 of the 1989 Act;
+(ii)
+applications under those enactments are made within proceedings under section 31 of the 1989 Act; or
+(iii)
+orders under those enactments are being sought as an alternative to an order under section 31 of the 1989 Act.
+(4) These Regulations apply to the payment out of central funds of sums in respect of [F4fees and costs payable to a qualified legal representative in connection with their appointment by the court under the 1984 Act or 2003 Act.]
+(5) These Regulations extend to England and Wales.
+Textual Amendments
+F1
+Words in reg. 1(3) inserted (2.1.2024) by The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2023 (S.I. 2023/1319), regs. 1(2), 2(2)(a)
+F2
+Words in reg. 1(3) inserted (2.1.2024) by The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2023 (S.I. 2023/1319), regs. 1(2), 2(2)(b)
+F3
+Words in reg. 1(3) substituted (2.1.2024) by The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2023 (S.I. 2023/1319), regs. 1(2), 2(2)(c)
+F4
+Words in reg. 1(4) substituted (2.1.2024) by The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2023 (S.I. 2023/1319), regs. 1(2), 2(3)
+Commencement Information
+I1
+Reg. 1 in force at 21.7.2022, see reg. 1(2)
+(1)
+2021 c. 17.
+(2)
+1989 c. 41.
+(3)
+2012 c. 10.
+(4)
+Section 31W was inserted by section 65 of the Domestic Abuse Act 2021.
+(5)
+Section 85K was inserted by section 66 of the Domestic Abuse Act 2021.
+(6)
+Section 31D was inserted by section 17(6) of, and paragraph 1 of Schedule 10 to, the Crime and Courts Act 2013 (c. 22).
+(7)
+1971 c. 23
+(8)
+1984 c. 28; Section 6 was substituted by section 14 of, and paragraph 1(1) of Schedule 3 to, the Constitutional Reform Act 2005 (c. 4) and subject to amendments that are not relevant to these Regulations.
+(9)
+1981 c. 54; Section 102(1) was substituted by section 56 of, and paragraphs 1 and 3 of Schedule 11 to, the Tribunals, Courts and Enforcement Act 2007 (c. 15) and subject to amendments that are not relevant to these Regulations.
+(10)
+1984 c. 28; Section 8 was substituted by paragraph 42 of Schedule 18 to the Courts and Legal Services Act 1990 (c. 41) and subject to amendments that are not relevant to these Regulations.
+(11)
+Section 28 was substituted by section 3 of, and paragraph 26 of Schedule 1 to, the Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33).
+(12)
+Paragraph 13(1)(g) was added by section 9(12)(b) of the Children and Families Act 2014 (c. 6).
+(13)
+1986 c. 55.
+(14)
+2002 c. 38. Section 51A was inserted by section 9(1) of the Children and Families Act 2014 (c. 6).
+(15)
+1996 c. 27.
+(16)
+Part 4A was inserted by section 1 of the Forced Marriage (Civil Protection) Act 2007 (c. 20).
+(17)
+2003 c. 31. Schedule 2 was inserted by section 73(2) of the Serious Crime Act 2015 (c. 9).
+(18)
+Paragraph 1(1)(k) was inserted by S.I. 2016/413.
+(19)
+Paragraph 18 was amended by S.I. 2013/748.[F1Remuneration
+2.—(1) The Lord Chancellor must pay fees to a qualified legal representative in accordance with these Regulations.
+(2) Subject to paragraphs (3) and (4), the Lord Chancellor must pay such costs to a qualified legal representative as appear to the Lord Chancellor to have been actually and properly incurred.
+(3) The costs payable under paragraph (2) are to be calculated in accordance with the provisions of Part 4 of the Schedule to these Regulations.
+(4) The Lord Chancellor may not pay costs in excess of the maximum cap amounts specified for the corresponding category of cost.]
+Textual Amendments
+F1
+Reg. 2 substituted (2.1.2024) by The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2023 (S.I. 2023/1319), regs. 1(2), 2(4)Bolt-on fee
+3.—(1) The Lord Chancellor must pay a bolt-on fee at the rate set out in Table 5 in the Schedule as applicable where the qualified legal representative’s bundle for a cross-examination hearing exceeds 350 pages.
+(2) For the purposes of this regulation, the qualified legal representative’s bundle—
+(a)
+may only include—
+(i)
+those documents relevant to the case which have been served by the parties to the proceedings to which the hearing relates; and
+(ii)
+in family proceedings, notes of contact visits if included in the bundle; and
+(b)
+must include a paginated index agreed by the parties to those proceedings.
+(3) In this regulation “bundle” means the bundle of documents prepared for the hearing in accordance with the provisions of the Civil Procedure Rules 1998(1) or Family Procedure Rules 2010(2), as appropriate.
+Commencement Information
+I1
+Reg. 3 in force at 21.7.2022, see reg. 1(2)
+(1)
+S.I. 1998/3132 (L. 17), to which there are amendments not relevant to these Regulations.
+(2)
+S.I. 2010/2955 (L. 17), to which there are amendments not relevant to these Regulations.Value Added Tax
+4.  All fees set out in the Schedule to these Regulations are exclusive of value added tax.
+Commencement Information
+I1
+Reg. 4 in force at 21.7.2022, see reg. 1(2)Cancelled hearings
+5.—(1) A fee in respect of a cancelled hearing may be claimed where—
+(a)
+a preliminary hearing or a cross-examination hearing is listed;
+(b)
+the qualified legal representative subsequently undertakes at least 30 minutes of preparatory work; and
+(c)
+the hearing is cancelled.
+(2) A cancelled hearing fee in respect of a preliminary hearing is—
+(a)
+in family proceedings, a Hearing Unit 1 fee as described in Table 1 in the Schedule; or
+(b)
+in civil proceedings, a Hearing Unit 1 fee as described in Table 3 in the Schedule.
+(3) A cancelled hearing fee in respect of a cross-examination hearing is—
+(a)
+in family proceedings, half of a single day fee as described in Table 2 in the Schedule; or
+(b)
+in civil proceedings, half of a single day fee as described in Table 4 in the Schedule.
+[F1(4) Costs in respect of a cancelled hearing may be claimed where—
+(a)
+a preliminary hearing or a cross-examination hearing is listed;
+(b)
+the qualified legal representative has incurred costs in anticipation of attending the hearing;
+(c)
+the hearing is cancelled; and
+(d)
+the qualified legal representative has complied with paragraph (5) but is unable to recover all of the costs incurred.
+(5) The qualified legal representative must attempt to recover the costs incurred within 24 hours of being notified of the hearing cancellation.]
+Textual Amendments
+F1
+Reg. 5(4)(5) inserted (2.1.2024) by The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2023 (S.I. 2023/1319), regs. 1(2), 2(5)
+Commencement Information
+I1
+Reg. 5 in force at 21.7.2022, see reg. 1(2)Claim for payment of fees [F1and costs]
+6.—(1) A qualified legal representative must make a claim for payment of fees in accordance with these Regulations.
+(2) A qualified legal representative may make a claim in respect of each completed hearing or cancelled hearing.
+(3) A claim for payment must be submitted within 3 months of the date of the completed hearing or cancelled hearing.
+(4) A claim must—
+(a)
+be submitted on a form specified by the Lord Chancellor;
+(b)
+summarise the items of work done by the qualified legal representative;
+(c)
+state, where appropriate, the dates on which items of work were done, the time taken and the sums claimed; F2...
+[F3(ca)
+specify any costs claimed, the circumstances in which they were incurred and the amounts claimed in respect of them; and]
+(d)
+include all particulars, information or documents relied on as evidence of entitlement to the [F4fees and costs] claimed.
+(5) The qualified legal representative must specify any special circumstances which they consider should be drawn to the attention of the Lord Chancellor.
+Textual Amendments
+F1
+Words in reg. 6 heading inserted (2.1.2024) by The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2023 (S.I. 2023/1319), regs. 1(2), 2(6)
+F2
+Word in reg. 6(4)(c) omitted (2.1.2024) by virtue of The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2023 (S.I. 2023/1319), regs. 1(2), 2(7)
+F3
+Reg. 6(4)(ca) inserted (2.1.2024) by The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2023 (S.I. 2023/1319), regs. 1(2), 2(7)
+F4
+Words in reg. 6(4)(d) substituted (2.1.2024) by The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2023 (S.I. 2023/1319), regs. 1(2), 2(8)
+Commencement Information
+I1
+Reg. 6 in force at 21.7.2022, see reg. 1(2)Payment of fees [F1and costs]
+7.—(1) Upon receipt of a claim for payment, the Lord Chancellor must—
+(a)
+accept the claim; or
+(b)
+reject the claim.
+(2) Where a claim is accepted, the Lord Chancellor must authorise payment accordingly.
+(3) Where a claim is rejected, the Lord Chancellor must notify the qualified legal representative of—
+(a)
+the reasons for rejection; and
+(b)
+the ability to resubmit a claim.
+(4) A qualified legal representative may resubmit the claim at any point before the expiry of the 3-month period referred to in regulation 6(3).
+(5) If a claim is resubmitted, the qualified legal representative must supply with that claim any further particulars, information or documents that the Lord Chancellor requires.
+Textual Amendments
+F1
+Words in reg. 7 heading inserted (2.1.2024) by The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2023 (S.I. 2023/1319), regs. 1(2), 2(9)
+Commencement Information
+I1
+Reg. 7 in force at 21.7.2022, see reg. 1(2)James Cartlidge
+Parliamentary Under Secretary of State
+Ministry of Justice
+18th May 2022Regulation 2, 3 and 5
+SCHEDULE
+Fees
+PART 1
+Fees payable in family proceedings
+Fixed fees
+1.  Tables 1 and 2 set out the fixed fees payable in relation to the category of case specified in the first column of the table, by reference to the level of judge conducting the hearing as specified in the remaining columns of the table.
+Table 1
+Preliminary hearing fees in family proceedings
+Paid for all preliminary hearings
+Level of judge
+Case type Justices’ legal adviser or lay justice Judge of circuit or district judge level Judge of High Court judge level
+(1)
+Hearing Unit 1 fee
+(2)
+Hearing Unit 2 fee
+Private law (children)
+HU1(1) (1) (under one hour) £62.69 £68.94 £82.76
+HU2(2) (2) (1 to 2.5 hours) £156.74 £172.40 £206.87
+Private law (domestic abuse)
+HU1 (under one hour) £81.50 £81.50 £81.50
+HU2 (1 to 2.5 hours) £203.76 £203.76 £203.76
+Private law (finance and other)
+HU1 (under one hour) £63.18 £63.18 £75.83
+HU2 (1 to 2.5 hours) £157.95 £157.95 £189.54
+Public law (section 31 care proceedings)
+HU1 (under one hour) £86.72 £95.40 £114.48
+HU2 (1 to 2.5 hours) £216.81 £238.46 £286.16
+Public law (other)
+HU1 (under one hour) £75.83 £83.39 £100.08
+HU2 (1 to 2.5 hours) £189.59 £208.53 £250.20
+Table 2
+Fees for attendance at cross-examination hearing in family proceedings
+Paid per day at the cross-examination hearing
+Day 1 Further days
+Level of judge Level of judge
+Case type Justices’ legal adviser or lay justice Judge of circuit or district judge level Judge of High Court judge level Justices’ legal adviser or lay justice Judge of circuit or district judge level Judge of High Court judge level
+Private law (children) £496.30 £545.91 £655.09 £397.04 £436.73 £524.07
+Private law (domestic abuse) £451.46 £451.46 £451.46 £361.17 £361.17 £361.17
+Private law (finance and other) £554.63 £554.63 £665.55 £443.70 £443.70 £532.44
+Public law (section 31 care proceedings) £632.81 £696.10 £835.31 £506.25 £556.88 £668.25
+Public law (other) £580.39 £638.44 £766.13 £464.31 £510.75 £612.90
+Commencement Information
+I1
+Sch. Pt. 1 in force at 21.7.2022, see reg. 1(2)
+PART 2
+Fees payable in civil proceedings
+Fixed fees
+2.  Tables 3 and 4 set out the fixed fees payable in relation to the category of case specified in the first column of the table, by reference to the level of judge conducting the hearing as specified in the remaining columns of the table.
+Table 3
+Preliminary hearing fees in civil proceedings
+Paid for all preliminary hearings
+Level of judge
+Case type Justices’ legal adviser or lay justice Judge of circuit or district judge level Judge of High Court judge level
+Civil proceedings
+HU1 (under one hour) N/A £63.18 £75.83
+HU2 (1 to 2.5 hours) N/A £157.95 £189.54
+Table 4
+Fees for attendance at cross-examination hearing in civil proceedings
+Paid per day at the cross-examination hearing
+Day 1 Further days
+Case type Justices’ legal adviser or lay justice Judge of circuit or district judge level Judge of High Court judge level Justices’ legal adviser or lay justice Judge of circuit or district judge level Judge of High Court judge level
+Civil proceedings N/A £554.63 £665.55 N/A £443.70 £532.44
+Commencement Information
+I2
+Sch. Pt. 2 in force at 21.7.2022, see reg. 1(2)
+PART 3
+Bolt-on fee payable in family and civil proceedings
+Commencement Information
+I3
+Sch. Pt. 3 in force at 21.7.2022, see reg. 1(2)
+Table 5
+Advocates’ bundle bolt-on
+Additional fee to be paid once per cross-examination hearing
+Number of bundle pages
+351-700 701-1,400 over 1,400
+£159.30 £239.40 £318.60
+[F1PART 4
+Costs payable in civil and family proceedings
+Textual Amendments
+F1
+Sch. Pt. 4 inserted (2.1.2024) by The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2023 (S.I. 2023/1319), regs. 1(2), 2(10)
+General provision and applicable maximum rates
+3.  Costs are only payable where the qualified legal representative can provide evidence of the amounts incurred.
+4.  Subject to paragraphs 5 to 11, the maximum amounts that the Lord Chancellor may pay in respect of each category of cost are specified in Table 6.
+5.  Travelling expenses are only payable where a qualified legal representative travelled to a court at least 10 miles from their office or chambers.
+6.  Overnight accommodation and overnight subsistence allowance are only payable where a qualified legal representative travelled to a court:
+(a)
+at least 100 miles from their office or chambers to attend a preliminary or cross-examination hearing which was listed for one day; or
+(b)
+at least 50 miles from their office or chambers to attend a preliminary or cross-examination hearing which was listed for more than one day.
+7.  In the event a hearing concludes sooner than anticipated, overnight accommodation costs incurred in reliance on the original listing may be payable where the qualified legal representative is unable to recover the cost of the unused portion of a booking.
+8.  The Lord Chancellor will only pay overnight subsistence allowance where the costs were incurred in connection with overnight accommodation.
+9.  The Lord Chancellor will not pay costs in respect of travel by air.
+10.  Subject to paragraph 11, the Lord Chancellor will not pay costs in respect of first-class travel.
+11.  The cost of first-class travel may be paid where the ticket purchased was cheaper than the equivalent standard-class ticket.
+Table 6
+Applicable maximum rates
+Category of costs claimed Maximum rate payable, where evidenced
+(1)
+Excluding the purchase of alcohol.
+(2)
+Excluding the purchase of food or drink.]
+(a) Vehicle mileage £0.45 per mile
+(b) Public transport £180 per journey
+(c) Overnight accommodation £100 per night
+(d) Overnight subsistence allowance(1) (1) £21 per night
+(e) Other out of pocket expenses(2) (2) £40 per dayEXPLANATORY NOTE
+(This note is not part of the Regulations)
+Sections 65 and 66 of the Domestic Abuse Act 2021 (c. 17) introduce new Part 4A into the Matrimonial and Family Proceedings Act 1984 and new Part 7A into the Courts Act 2003, respectively. Those provisions operate in family and civil proceedings to prohibit cross-examination in person between a party and a witness in defined circumstances, including where there is evidence of domestic abuse between them.
+Where a party to family or civil proceedings is prohibited from cross-examining a witness in person by virtue of these provisions, the court is required to consider whether there is a satisfactory alternative means for the witness to be cross-examined, or for obtaining the evidence that the witness might have given under cross-examination. If the court concludes that there is no satisfactory alternative means that can be used, it must consider whether it is necessary in the interests of justice for the witness to be cross-examined by a court-appointed ‘qualified legal representative’. Power is conferred on the Lord Chancellor to make provision by regulations for the payment out of central funds of sums to cover the properly incurred fees, costs and expenses of a legal representative appointed under new section 31W(6) of the Matrimonial and Family Proceedings Act 1984 or new section 85K(6) of the Courts Act 2003.
+Regulation 1 defines the respective case types for the purposes of calculating the fee payable to a qualified legal representative, in accordance with regulation 2 and the provisions of the Schedule.
+Regulation 3 makes provision for payment of an additional bolt-on fee where the bundle of documents for a hearing exceeds 350 pages. Regulation 4 confirms the amounts specified in the Schedule are exclusive of Value Added Tax.
+Regulation 5 makes provision for payment of a fee where a qualified legal representative has undertaken preparatory work for a hearing which is subsequently cancelled.
+Regulations 6 and 7 make procedural provision in respect of the claims for and the payment of fees.
+Part 1 of the Schedule prescribes the fixed fees payable in family proceedings in accordance with the case type, the type of hearing and the level of judge before whom the matter is heard. Part 2 of the Schedule makes similar provision in relation to civil proceedings. Part 3 of the Schedule prescribes the bolt-on fee payable in both family and civil proceedings pursuant to Regulation 3.
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sectors is foreseen.

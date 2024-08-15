@@ -1,0 +1,370 @@
+SCOTTISH STATUTORY INSTRUMENTS
+2018 No. 132
+PLANT HEALTH
+The Plant Health (Export Certification) (Scotland) Order 2018
+Made
+25th April 2018
+Laid before the Scottish Parliament
+27th April 2018
+Coming into force
+1st June 2018
+The Scottish Ministers make the following Order in exercise of the powers conferred by sections 3(1), (2) and (4) and 4A of the Plant Health Act 1967 M1 and of all other powers enabling them to do so.
+Marginal Citations
+M1
+1967 c.8; sections 3(1) and (2) were amended by the European Communities Act 1972 (c.68), section 4 and schedule 4, paragraph 8; section 3(1) was also amended by S.I. 2011/1043, article 6(1); section 3(4) was substituted by the Criminal Justice Act 1982 (c.48), section 42 and amended by the Statute Law (Repeals) Act 1993 (c.50), schedule 1, part XIV; and section 4A was inserted by the Agriculture Act 1986 (c.49), section 3. Section 1(2) of the 1967 Act specifies the competent authorities for the purposes of the Act. The functions of the Secretary of State insofar as exercisable within devolved competence were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998 (c.46). The requirement to obtain Treasury consent was removed by section 55 of that Act.Citation, commencement and extent
+1.—(1) This Order may be cited as the Plant Health (Export Certification) (Scotland) Order 2018 and comes into force on 1st June 2018.
+(2) This Order extends to Scotland only.Interpretation
+2.  In this Order—
+“certificate” means a phytosanitary certificate or a phytosanitary certificate for re-export;
+“consignment” means a quantity of goods being covered by a single document required for customs formalities or for other formalities, such as a single phytosanitary certificate or single alternative document or mark and may be composed of one or more lots;
+F1...
+“inspector” means [F2a plant health inspector for the purposes of the Plant Health Official Controls Regulations;]
+F3...
+“phytosanitary certificate” means a certificate which complies with the relevant requirements of Article 100 of the F4... Plant Health Regulation;
+“phytosanitary certificate for re-export” means a certificate for re-export which complies with the relevant requirements of Article 101 of the F5... Plant Health Regulation;
+[F6“the Plant Health Official Controls Regulations” means the Plant Health (Official Controls and Miscellaneous Provisions) (Scotland) Regulations 2019;]
+[F7“the Plant Health Regulation” means Regulation (EU) 2016/2031 of the European Parliament of the Council on protective measures against pests of plants, amending Regulations (EU) No 228/2013, (EU) No 652/2014 and (EU) No 1143/2014 of the European Parliament and of the Council and repealing Council Directives 69/464/EEC, 74/647/EEC, 93/85/EEC, 98/57/EC, 2000/29/EC, 2006/91/EC and 2007/33/EC ,]
+“premises” includes any land, building, vessel, vehicle, aircraft, hovercraft or freight container;
+F8...
+“soil” includes any medium used for the growing of plant material and “soil sample” is construed accordingly; and
+F9...
+Textual Amendments
+F1
+Words in art. 2 omitted (31.12.2020) by virtue of The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466), regs. 1(1)(c), 10(2)(a) (with regs. 31(d), 32)
+F2
+Words in art. 2 substituted (14.12.2019) by The Plant Health (Official Controls and Miscellaneous Provisions) (Scotland) Regulations 2019 (S.S.I. 2019/421), reg. 1(1), sch. 5 para. 12(2)(b)
+F3
+Words in art. 2 omitted (31.12.2020) by virtue of The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466), regs. 1(1)(c), 10(2)(b) (with regs. 31(d), 32)
+F4
+Word in art. 2 omitted (31.12.2020) by virtue of The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466), regs. 1(1)(c), 10(2)(c) (with regs. 31(d), 32)
+F5
+Word in art. 2 omitted (31.12.2020) by virtue of The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466), regs. 1(1)(c), 10(2)(d) (with regs. 31(d), 32)
+F6
+Words in art. 2 inserted (14.12.2019) by The Plant Health (Official Controls and Miscellaneous Provisions) (Scotland) Regulations 2019 (S.S.I. 2019/421), reg. 1(1), sch. 5 para. 12(2)(e)
+F7
+Words in art. 2 inserted (31.12.2020) by The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466), regs. 1(1)(c), 10(2)(e) (with regs. 31(d), 32)
+F8
+Words in art. 2 omitted (14.12.2019) by virtue of The Plant Health (Official Controls and Miscellaneous Provisions) (Scotland) Regulations 2019 (S.S.I. 2019/421), reg. 1(1), sch. 5 para. 12(2)(f)
+F9
+Words in art. 2 omitted (31.12.2020) by virtue of The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466), regs. 1(1)(c), 10(2)(f) (with regs. 31(d), 32)Phytosanitary certificates for export of plants etc. to third countries
+F13.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Textual Amendments
+F1
+Art. 3 omitted (14.12.2019) by virtue of The Plant Health (Official Controls and Miscellaneous Provisions) (Scotland) Regulations 2019 (S.S.I. 2019/421), reg. 1(1), sch. 5 para. 12(3)Fees for export certification services
+4.—(1) [F1Subject to paragraph (4), a person] who applies to the Scottish Ministers for a certificate F2... in relation to a plant, plant product or other object, must pay to the Scottish Ministers any fee prescribed in column 3 of the table in the schedule which corresponds to a service described in column 2 of the table which has been performed by an inspector in connection with that application.
+(2) Paragraph (3) applies where—
+(a)
+a service listed in column 2 of the table in the schedule includes the issue of a certificate F3...; and
+(b)
+the application for the issue of the certificate F3... is refused by an inspector by reason of the results of any related inspection, examination or test.
+(3) A fee is still payable for the service mentioned in paragraph (2)(a) by the person mentioned in paragraph (1).
+[F4(4) The fees specified at entries 1, 3, 4, 5, 6, 8, 12, 13, 15 and 16 in the schedule are not payable in relation to a consignment—
+(a)
+destined for delivery to a professional operator based in Northern Ireland,
+(b)
+transported into Northern Ireland by a private individual and which is not intended to be placed on the market, or
+(c)
+destined for delivery to a private individual who is resident in Northern Ireland and which is not intended to be placed on the market.
+(5) In this regulation, “professional operator” has the same meaning as in Article 2(9) of the Plant Health Regulation.]
+Textual Amendments
+F1
+Words in art. 4(1) substituted (1.4.2021) by The Plant Health (Export Certification) (Scotland) Amendment Order 2021 (S.S.I. 2021/88), arts. 1(1), 2(2)(a)
+F2
+Words in art. 4(1) omitted (31.12.2020) by virtue of The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466), regs. 1(1)(c), 10(3) (with regs. 31(d), 32)
+F3
+Words in art. 4(2) omitted (31.12.2020) by virtue of The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466), regs. 1(1)(c), 10(3) (with regs. 31(d), 32)
+F4
+Art. 4(4)(5) inserted (1.4.2021) by The Plant Health (Export Certification) (Scotland) Amendment Order 2021 (S.S.I. 2021/88), arts. 1(1), 2(2)(b)Offences and penalties
+F15.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Textual Amendments
+F1
+Art. 5 omitted (14.12.2019) by virtue of The Plant Health (Official Controls and Miscellaneous Provisions) (Scotland) Regulations 2019 (S.S.I. 2019/421), reg. 1(1), sch. 5 para. 12(4)Offences by bodies corporate etc.
+F16.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Textual Amendments
+F1
+Art. 6 omitted (14.12.2019) by virtue of The Plant Health (Official Controls and Miscellaneous Provisions) (Scotland) Regulations 2019 (S.S.I. 2019/421), reg. 1(1), sch. 5 para. 12(5)Revocations
+7.  The following Orders are revoked—
+(a)
+the Plant Health (Export Certification) (Scotland) Order 2004 M1.
+(b)
+the Plant Health (Export Certification) (Scotland) Amendment Order 2007 M2.
+Marginal Citations
+M1
+S.S.I. 2004/248, as amended by S.S.I. 2007/137.
+M2
+S.S.I. 2007/137.FERGUS EWING
+A member of the Scottish Government
+St Andrew's House,
+EdinburghArticles 3(2) and 4
+SCHEDULE
+Applications for certificates: table of fees
+Column 1 No. Column 2 Service Column 3 Fee
+1
+(a)
+Issue of a phytosanitary certificate for the export of grain.
+£25.00
+(b)
+Pre-export laboratory testing of grain.
+£70.00 per hour or any part thereof
+2 Pre-planting testing for the presence of potato cyst nematodes of one soil sample from a field, or part thereof, comprising not more than 4 hectares, or from a glass-house or container. £40.00
+3
+(a)
+Pre-export inspection of, and issue of a phytosanitary certificate for the export of, a consignment of bulbs (where the value of the consignment is more than £250.00), malt barley or oil seed rape, where an inspection at the premises of the grower is necessary.
+£70.00
+(b)
+Issue of a second or subsequent phytosanitary certificate for the export of such a consignment, where no additional inspection is required.
+£25.00
+(c)
+Pre-export laboratory testing for malt barley or oil seed rape.
+£70.00 per hour or any part thereof
+4
+(a)
+Pre-export inspection of, and the issue of a phytosanitary certificate for the export of, a consignment of bulbs, ware potatoes, other plants and plant products (other than those mentioned in another entry of this table), where an inspection at the premises of the grower is necessary—
+(i)
+where the value of the consignment is less than or equal to £250.00;
+£40.00
+(ii)
+where the value of the consignment is more than £250.00.
+£70.00
+(b)
+Issue of a second or subsequent phytosanitary certificate for the export of a consignment of equal or lesser value to that mentioned in paragraph (a) of this entry, where an inspection is carried out at the same location on the same day.
+£25.00
+5
+(a)
+Pre-export inspection of, and the issue of a phytosanitary certificate for the export of, used agricultural machinery to ensure that any machinery is free of any trace of soil or plant debris.
+£70.00
+(b)
+Issue of a second or subsequent phytosanitary certificate for the export of used agricultural machinery of equal or lesser value to that mentioned in paragraph (a) of this entry, where an inspection is carried out at the same location on the same day.
+£25.00
+6 Pre-export inspection of, and the issue of a phytosanitary certificate for the export of, a consignment of bulbs, plants and plant products (other than seeds) delivered to the Scottish Government or for botanical research. £35.00
+7 Issue of a phytosanitary certificate for the export of a consignment containing plant products which are either dried, frozen or processed. £25.00
+8 Pre-export consignment testing of one soil sample for the presence of potato cyst nematodes and the issue of a phytosanitary certificate for the export of seed potatoes where such testing is necessary. £40.00
+9 Growing season inspection of—
+(a)
+outdoor plants:
+(i)
+first 0.5 hectares, or part thereof;
+£40.00 per day
+(ii)
+each additional 0.1 hectare, or part thereof, inspected on the same day as those under (i);
+£5.00
+(b)
+indoor plants:
+(i)
+first 5,000 or part thereof;
+£40.00 per day
+(ii)
+each additional 1,000, or part thereof, up to a maximum of 70,000 per day, inspected on the same day as those under (i);
+£5.00
+(c)
+bulbs:
+(i)
+first 0.5 hectares. or part thereof;
+£40.00 per day
+(ii)
+each additional 0.1 hectare, or part thereof, inspected on the same day as those under (i).
+£5.00
+10 Pre-export testing of potato tuber samples—
+(a)
+for potato brown rot and ring rot:
+(i)
+brown rot visual test;
+£55.00
+(ii)
+brown rot latent test;
+£158.00
+(iii)
+ring rot latent test;
+£158.00
+(iv)
+combined brown rot and ring rot latent test;
+£170.00
+(b)
+for gangrene;
+£95.00
+(c)
+for potato viruses:
+(i)
+(aa)
+growing on test (200 tubers tested for 2 viruses);
+£240.00
+(bb)
+growing on test (each additional 50 tubers or part thereof tested for 2 viruses);
+£60.00
+(cc)
+testing for additional viruses (200 tubers);
+£20.00 (per virus)
+(dd)
+testing for additional viruses (each additional 50 tubers or part thereof);
+£5.00 (per virus)
+(ii)
+(aa)
+direct tuber test (200 tubers tested for 2 viruses);
+£270.00
+(bb)
+direct tuber test (each additional 50 tubers or part thereof);
+£63.00 (per virus)
+(cc)
+testing for additional viruses (200 tubers);
+£20.00 (per virus)
+(dd)
+testing for additional viruses (each additional 50 tubers or part thereof);
+£5.00 (per virus)
+(iii)
+(aa)
+leaf sample test (100 leaves tested for 4 viruses);
+£155.00
+(bb)
+leaf sample test (each additional 50 leaves or part thereof tested for 4 viruses);
+£78.00
+(cc)
+testing for additional viruses (100 leaves);
+£10.00 (per virus)
+(dd)
+testing for additional viruses (each additional 50 leaves or part thereof).
+£5.00 (per virus)
+11 Pre-export testing for potato spindle tuber viroid. £50.00 per hour or any part thereof
+12 Any other pre-export laboratory testing, other than seed testing or testing of the commodities listed in entries 1(a) and 3(a) of this table. £45.00 per hour or any part thereof
+13 Growing crop inspection and pre-export seed testing work and the issue of a phytosanitary certificate in respect of seed samples. £70.00 per hour or any part thereof
+14 Issue of an IPC document. £25.00
+15 Issue of a phytosanitary certificate for re-export or a duplicate phytosanitary certificate or a phytosanitary certificate for re-export where the original has been lost, stolen, destroyed or materially damaged. £15.00
+16 Amending a certificate at the request of the exporter after issue. £15.00EXPLANATORY NOTE
+(This note is not part of the Order)
+This Order makes provision for the issue of phytosanitary certificates and phytosanitary certificates for re-export and for the provision of related services for the export of plants, plant products or other objects to third countries. It revokes and replaces the Plant Health (Export Certification) (Scotland) Order 2004 (S.S.I. 2004/248, as amended by S.S.I. 2007/137).
+Phytosanitary certificates, phytosanitary certificates for re-export and IPC documents are required to accompany exports of certain plants, plant products or other objects to third countries.
+The Order prescribes fees for the issue of these certificates and for related services (article 4 and the schedule). The Order authorises an inspector to enter any premises for the purpose of carrying out examinations or inquiries under the Order (article 3(3)).
+Provision is made in the Order for offences in relation to procuring the issue of a phytosanitary certificates, phytosanitary certificates or IPC documents for re-export (article 5).
+The fees prescribed by this Order are necessary to recover the costs expected to be incurred in the provision of the export services.
+A partial business and regulatory impact assessment has been prepared for this Order and has been placed in the Scottish Parliament Information Centre. Copies may be obtained from the Scottish Government, Directorate for Agriculture and Rural Economy, Saughton House, Broomhouse Drive, Edinburgh, EH11 3XD or at http://www.gov.scot/Publications/2017/12/2001/348911.
+This table provides a comparison of changes to the fees previously set out in schedule 1 of the Plant Health (Export Certification) (Scotland) Order 2004 and now revised in the schedule to this Order (where the fees are equivalent):
+No. Service New Fee Previous Fee
+1
+(a)
+Issue of a phytosanitary certificate for the export of grain.
+£25.00 £45.00
+(b)
+Pre-export laboratory testing of grain.
+£70.00 per hour or any part thereof -
+2 Pre-planting testing for the presence of potato cyst nematodes of one soil sample from a field, or part thereof, comprising not more than 4 hectares, or from a glass-house or container. £40.00 £69.00
+3
+(a)
+Pre-export inspection of, and issue of a phytosanitary certificate for the export of, a consignment of bulbs (where the value of the consignment is more than £250.00), malt barley or oil seed rape, where an inspection at the premises of the grower is necessary.
+£70.00 -
+(b)
+Issue of a second or subsequent phytosanitary certificate for the export of such a consignment, where no additional inspection is required.
+£25.00 -
+(c)
+Pre-export laboratory testing for malt barley or oil seed rape.
+£70.00 per hour or any part thereof -
+4
+(a)
+Pre-export inspection of, and the issue of a phytosanitary certificate for the export of, a consignment of bulbs, ware potatoes, other plants or plant products (other than those mentioned in another entry of this table), where an inspection at the premises of the grower is necessary—
+(i)
+where the value of the consignment is where the value of the consignment is less than or equal to £250.00;
+£40.00 -
+(ii)
+where the value of the consignment is more than £250.00.
+£70.00 -
+(b)
+Issue of a second or subsequent phytosanitary certificate for the export of a consignment of equal or lesser value to that mentioned in paragraph (a) of this entry, where an inspection is carried out at the same location on the same day.
+£25.00 £11.00
+5
+(a)
+Pre-export inspection of, and the issue of a phytosanitary certificate for the export of, used agricultural machinery to ensure that any machinery is free of any trace of soil or plant debris.
+£70.00 £62.00
+(b)
+Issue of a second or subsequent phytosanitary certificate for the export of used agricultural machinery to ensure that any machinery is free of any trace of soil or plant debris.
+£25.00 £11.00
+6 Pre-export inspection of, and the issue of a phytosanitary certificate for the export of, a consignment of bulbs, plants and plant products (other than seeds) delivered to the Scottish Government or for botanical research. £35.00 -
+7 Issue of a phytosanitary certificate for the export of a consignment containing plant products which are either dried, frozen or processed. £25.00 £17.00
+8 Pre-export consignment testing of one soil sample for the presence of potato cyst nematodes and the issue of a phytosanitary certificate for the export of seed potatoes where such testing is necessary. £40.00 £30.50
+9 Growing season inspection of—
+(a)
+outdoor plants:
+(i)
+first 0.5 hectares, or part thereof;
+£40.00 per day -
+(ii)
+each additional 0.1 hectare, or part thereof, inspected on the same day as those under (i);
+£5.00 -
+(b)
+for indoor plants:
+(i)
+first 5,000 or part thereof;
+£40.00 per day £45.00
+(ii)
+each additional 1,000, or part thereof, up to a maximum of 70,000 per day, inspected on the same day as those under (i);
+£5.00 -
+(c)
+for bulbs:
+(i)
+first 0.5 hectares or part thereof;
+£40.00 per day £45.00
+(ii)
+each additional 0.1 hectare, or part thereof, inspected on the same day as those under (i).
+£5.00 -
+10 Pre-export testing of potato tuber samples—
+(a)
+for potato brown rot and ring rot:
+(i)
+brown rot visual test;
+£55.00 £45.00
+(ii)
+brown rot latent test;
+£158.00 £135.00
+(iii)
+ring rot latent test;
+£158.00 £135.00
+(iv)
+combined brown rot and ring rot latent test;
+£170.00 £140.00
+(b)
+for gangrene;
+£95.00 £62.10
+(c)
+for potato viruses:
+(i)
+(aa)
+growing on test (200 tubers tested for 2 viruses);
+£240.00 £220.00
+(bb)
+growing on test (each additional 50 tubers or part thereof tested for 2 viruses);
+£60.00 £55.00
+(cc)
+testing for additional viruses (200 tubers);
+£20.00 (per virus) £10.00 (per virus)
+(dd)
+testing for additional viruses (each additional 50 tubers or part thereof);
+£5.00 (per virus) £2.50 (per virus)
+(ii)
+(aa)
+direct tuber test (200 tubers tested for 2 viruses);
+£270.00 £260.00
+(bb)
+direct tuber test (each additional 50 tubers or part thereof);
+£63.00 (per virus) £65.00 (per virus)
+(cc)
+testing for additional viruses (200 tubers);
+£20.00 (per virus) £10.00 (per virus)
+(dd)
+testing for additional viruses (each additional 50 tubers or part thereof);
+£5.00 (per virus) £5.00 (per virus)
+(iii)
+(aa)
+leaf sample test (100 leaves tested for 4 viruses);
+£155.00 £45.00
+(bb)
+leaf sample test (each additional 50 leaves or part thereof tested for 4 viruses);
+£78.00 £22.50
+(cc)
+testing for additional viruses (100 leaves);
+£10.00 (per virus) £1.50 (per virus)
+(dd)
+testing for additional viruses (each additional 50 leaves or part thereof).
+£5.00 (per virus) £3.00 (per virus)
+11 Pre-export testing for potato spindle tuber viroid. £50.00 per hour or any part thereof £51.93 (per hour)
+12 Any other pre-export laboratory testing, other than seed testing or testing of the commodities listed in entries 1(a) and 3(a) of this table. £45.00 per hour or any part thereof £40.64 (per hour)
+13 Growing crop inspection and pre-export seed testing work and the issue of a phytosanitary certificate in respect of seed samples. £70.00 per hour or any part thereof £69.00 (per hour or any part thereof)
+14 Issue of an IPC document. £25.00 -
+15 Issue of a phytosanitary certificate for re-export or a duplicate phytosanitary certificate or a phytosanitary certificate for re-export where the original has been lost, stolen, destroyed or materially damaged. £15.00 £5.00
+16 Amending a certificate at the request of the exporter after issue. £15.00 -

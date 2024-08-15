@@ -1,0 +1,148 @@
+WELSH STATUTORY INSTRUMENTS
+2018 No. 813 (W. 164)
+EDUCATION, WALES
+The Education (Student Support) (Wales) (Amendment) Regulations 2018
+Made
+3 July 2018
+Laid before the National Assembly for Wales
+6 July 2018
+Coming into force
+1 August 2018
+The Welsh Ministers, in exercise of powers conferred on the Secretary of State under sections 22 and 42(6) of the Teaching and Higher Education Act 1998(1) and now exercisable by them(2), make the following Regulations:
+(1)
+1998 c. 30; section 22 was amended by the Learning and Skills Act 2000 (c. 21), section 146 and Schedule 11; the Income Tax (Earnings and Pensions) Act 2003 (c. 1), Schedule 6; the Finance Act 2003 (c. 14), section 147; the Higher Education Act 2004 (c. 8), sections 42 and 43 and Schedule 7; the Apprenticeships, Skills, Children and Learning Act 2009 (c. 22), section 257; the Education Act 2011 (c. 21), section 76; S.I. 2013/1881; and the Higher Education and Research Act 2017 (c. 29), section 88. See section 43(1) of the Teaching and Higher Education Act 1998 for the definition of “prescribed” and “regulations”.
+(2)
+The Secretary of State’s functions in section 22(2)(a) to (i) and (k) were transferred to the National Assembly for Wales so far as they relate to making provision in relation to Wales by section 44 of Higher Education Act 2004 (c. 8), with subsections (a), (c) and (k) being exercised concurrently with the Secretary of State. The Secretary of State’s functions in section 42 were transferred, in so far as exercisable in relation to Wales, to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999, article 2, Schedule 1 (S.I. 1999/672). The functions of the National Assembly for Wales were transferred to the Welsh Ministers under paragraph 30 of Schedule 11 to the Government of Wales Act 2006 (c. 32).Title and commencement
+1.—(1) The title of these Regulations is the Education (Student Support) (Wales) (Amendment) Regulations 2018.
+(2) These Regulations come into force on 1 August 2018.
+Commencement Information
+I1
+Reg. 1 in force at 1.8.2018, see reg. 1(2)Amendments to the Education (Student Support) (Wales) Regulations 2018
+2.  The Education (Student Support) (Wales) Regulations 2018(1) are amended in accordance with regulations 3 to 10.
+Commencement Information
+I1
+Reg. 2 in force at 1.8.2018, see reg. 1(2)
+(1)
+S.I. 2018/191 (W. 42), amended by S.I. 2018/802 (W. 161).Amendments to the Education (Student Support) (Wales) Regulations 2018
+3.  In regulation 46(3)(c), after “household income” insert “exceeding £18,370”.
+Commencement Information
+I1
+Reg. 3 in force at 1.8.2018, see reg. 1(2)Amendments to the Education (Student Support) (Wales) Regulations 2018
+4.  For regulation 56 substitute—
+“Amount of maintenance loan: full-time students who qualify for special support payment
+56.—(1) Where a full-time student qualifies for a special support payment under regulation 50, the amount of maintenance loan payable to the student is calculated in accordance with paragraph (2).
+(2) The amount of maintenance loan payable is calculated by applying the following steps—
+Step 1
+Identify the amount of—
+(a)
+maintenance grant payable to the student under regulation 46, and
+(b)
+base grant payable to the student under regulation 45.
+Step 2
+Identify the amount of base grant and maintenance grant to be treated as a special support payment under regulation 50.
+Step 3
+Identify the applicable amount of living support for the student by reference to Table 8, where—
+(a)
+Column 1 specifies the academic year in relation to which the amounts of living support in Column 3 apply;
+(b)
+Column 2 specifies the location in which the student is living (see paragraph 3 of Schedule 1);
+(c)
+Column 3 specifies the applicable amounts of living support for the corresponding entries in Columns 1 and 2.
+Table 8
+Column 1
+Academic year
+Column 2
+Location of student
+Column 3
+Applicable amount of living support for special support student
+Beginning on or after 2018 Living at home £7,650
+Living away from home, studying in London £11,250
+Living away from home, studying elsewhere £9,000
+Step 4
+Whichever is the greater of—
+(a)
+the amount identified at Step 3, or
+(b)
+the amounts of grant identified at Step 1 plus the minimum amount of maintenance loan payable to the student as specified by reference to Table 8A,
+is the maximum amount of living support available to the student.
+Step 5
+Calculate the notional maximum amount of maintenance loan by deducting the amount of special support payment identified at Step 2 from the maximum amount of living support identified at Step 4.
+Step 6
+Deduct the amount of any maintenance grant payable to the student that is not treated as special support payment from the notional maximum amount of maintenance loan calculated at Step 5.
+The result is the amount of maintenance loan payable to the student.
+(3) In Table 8A—
+(a)
+Column 1 specifies the academic year in relation to which the minimum amounts of maintenance loan in Column 3 apply;
+(b)
+Column 2 specifies the location in which the student is living (see paragraph 3 of Schedule 1);
+(c)
+Column 3 specifies the minimum amounts of maintenance loan payable for the corresponding entries in Columns 1 and 2.
+Table 8A
+Column 1
+Academic year
+Column 2
+Location of student
+Column 3
+Minimum amount of maintenance loan payable
+Beginning on or after 2018 Living at home £3,325
+Living away from home, studying in London £5,125
+Living away from home, studying elsewhere £4,000
+(4) In this regulation, “living support” is the collective term for special support payment, maintenance grant and maintenance loan.”
+Commencement Information
+I1
+Reg. 4 in force at 1.8.2018, see reg. 1(2)Amendments to the Education (Student Support) (Wales) Regulations 2018
+5.  In regulation 58 (amount of maintenance loan: part-time students), at the end insert—
+“(3) This regulation is subject to regulation 58A.”
+Commencement Information
+I1
+Reg. 5 in force at 1.8.2018, see reg. 1(2)Amendments to the Education (Student Support) (Wales) Regulations 2018
+6.  After regulation 58 insert—
+“Amount of maintenance loan: part-time students who qualify for special support payment
+58A.—(1) Where a part-time student qualifies for a special support payment under regulation 50, the amount of maintenance loan payable to the student is calculated in accordance with paragraph (2).
+(2) The amount of maintenance loan is calculated by applying the following steps—
+Step 1
+Identify the amount of base grant and maintenance grant payable to the student which is to be treated as a special support payment under regulation 50.
+Step 2
+Calculate the applicable amount of living support for the student by reference to Table 10A, where Column 2 of the table specifies the amount of living support that applies in relation to the academic year specified in Column 1.
+Table 10A
+Column 1 Column 2
+Academic year Amount of living support for part-time student where special support payable
+Beginning on or after 2018 £6,650 multiplied by intensity of study
+Step 3
+Deduct the amount of special support payment identified at Step 1 from the applicable amount of living support identified at Step 2.
+The result is the amount of maintenance loan payable to the student.
+(3) In this regulation, “living support” is the collective term for special support payment, maintenance grant and maintenance loan.”
+Commencement Information
+I1
+Reg. 6 in force at 1.8.2018, see reg. 1(2)Amendments to the Education (Student Support) (Wales) Regulations 2018
+7.  In regulation 81(2) (qualifying for grants or maintenance loan during the academic year), for sub-paragraph (a) substitute—
+“(a)
+will only, in the case of a grant, be in respect of the remaining days of the academic year, and, in the case of a maintenance loan, only be in respect of the remaining term days of the academic year, in either case beginning with the day the relevant event occurs, and”
+Commencement Information
+I1
+Reg. 7 in force at 1.8.2018, see reg. 1(2)Amendments to the Education (Student Support) (Wales) Regulations 2018
+8.  In regulation 93 (support reduced for periods spent in prison), for paragraph (2) substitute—
+“(2) Where this regulation applies, the amount of grant or maintenance loan payable is reduced by the number of days during the academic year that the eligible student is a prisoner.”
+Commencement Information
+I1
+Reg. 8 in force at 1.8.2018, see reg. 1(2)Amendments to the Education (Student Support) (Wales) Regulations 2018
+9.  In regulation 94 (support reduced for other periods of absence), for paragraph (2) substitute—
+“(2) Where this regulation applies, the amount of grant or maintenance loan is reduced by the number of days during the academic year the eligible student is absent from their course.”
+Commencement Information
+I1
+Reg. 9 in force at 1.8.2018, see reg. 1(2)Amendments to the Education (Student Support) (Wales) Regulations 2018
+10.  In regulation 95 (payments when period of eligibility ends or is terminated), for paragraph (1) substitute—
+“(1) Where an eligible student’s period of eligibility has ended or has been terminated, any amount of grant or maintenance loan payable in respect of an academic year is reduced by the number of days in the academic year when eligibility has ended or terminated.”
+Commencement Information
+I1
+Reg. 10 in force at 1.8.2018, see reg. 1(2)Kirsty Williams
+Cabinet Secretary for Education, one of the Welsh Ministers
+3 July 2018EXPLANATORY NOTE
+(This note is not part of the Regulations)
+The Education (Student Support) (Wales) Regulations 2018 (“the 2018 Regulations”) provide for financial support for students taking designated higher education courses which begin on or after 1 August 2018. The 2018 Regulations also provide support for courses which begin before 1 August 2018 and are subsequently converted from full-time to part-time or part-time to full-time on or after 1 August 2018.
+These Regulations amend the 2018 Regulations.
+Regulation 3 amends regulation 46(3)(c) of the 2018 Regulations so that where a student’s household income exceeds £18,370 but is less than £59,200, the maximum amount of maintenance grant payable is reduced by £1 for every £5.750 of household income exceeding £18,370 where the student is living away from home, studying somewhere other than London.
+Regulation 4 substitutes new regulation 56 for regulation 56 of the 2018 Regulations. The new regulation makes provision for the calculation of the amount of maintenance loan payable to full-time students who qualify for a special support payment under regulation 50 of the 2018 Regulations.
+Regulation 5 inserts a new paragraph into regulation 58 of the 2018 Regulations as a consequence of regulation 6. Regulation 6 provides for a new regulation to be inserted into the 2018 Regulations as regulation 58A. Regulation 58A makes provision for the calculation of maintenance loan payable to part-time students who qualify for a special support payment under regulation 50 of the 2018 Regulations.
+Regulations 7, 8, 9 and 10 amend, respectively, regulations 81, 93, 94 and 95 of the 2018 Regulations which deal with the calculation of maintenance loan entitlement where a student qualifies for support but at a point during the academic year is absent from the course or their period of eligibility ends or is terminated.
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result a regulatory impact assessment has been prepared as to the likely costs and benefits of complying with these Regulations. A copy can be obtained from the Higher Education Division, Welsh Government, Cathays Park, Cardiff CF10 3NQ.

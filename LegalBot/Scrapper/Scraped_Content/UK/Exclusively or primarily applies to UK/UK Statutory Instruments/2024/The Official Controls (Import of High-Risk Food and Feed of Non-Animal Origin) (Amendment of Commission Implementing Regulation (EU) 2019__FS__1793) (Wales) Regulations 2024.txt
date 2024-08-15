@@ -1,0 +1,1131 @@
+WELSH STATUTORY INSTRUMENTS
+2024 No. 119 (W. 27)
+AGRICULTURE, WALES
+FOOD, WALES
+The Official Controls (Import of High-Risk Food and Feed of Non-Animal Origin) (Amendment of Commission Implementing Regulation (EU) 2019/1793) (Wales) Regulations 2024
+Made
+31 January 2024
+Laid before Senedd Cymru
+2 February 2024
+Coming into force
+7 March 2024
+The Welsh Ministers make these Regulations in exercise of the powers conferred by—
+Articles 34(6), 47(2)(b), 54(4)(a) and (b) and 144(6)(a) of Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products(1);
+Articles 53(1)(b) and 57a(6)(a) of Regulation (EC) No 178/2002 of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety(2).
+There has been consultation as required by Article 144(7) of Regulation (EU) 2017/625 and as required by Article 9 of Regulation (EC) No 178/2002.
+(1)
+EUR 2017/625, amended by S.I. 2020/1481; there are other amending instruments but none is relevant. The term “the appropriate authority” is defined in Article 3(2A) of EUR 2017/625.
+(2)
+EUR 2002/178, amended by S.I. 2019/641 and 2022/377. S.I. 2019/641 was amended by S.I. 2020/1504. The term “appropriate authority” is defined in Article 3(19) of EUR 2002/178.Title, extent, application and coming into force
+1.—(1) The title of these Regulations is the Official Controls (Import of High-Risk Food and Feed of Non-Animal Origin) (Amendment of Commission Implementing Regulation (EU) 2019/1793) (Wales) Regulations 2024.
+(2) These Regulations—
+(a)
+extend to England and Wales;
+(b)
+apply in relation to Wales;
+(c)
+come into force on 7 March 2024.Amendment of Commission Implementing Regulation (EU) 2019/1793
+2.—(1) Commission Implementing Regulation (EU) 2019/1793 on the temporary increase of official controls and emergency measures governing the entry into the Union of certain goods from certain third countries(1) is amended as follows.
+(2) In Article 3 (sampling and analyses)—
+(a)
+after paragraph (e) insert—
+“(ea)
+for food listed in Annex 2 due to the risk of presence of Listeria, the sampling and the analyses for the control of Listeria must be performed in accordance with the sampling procedures and the analytical reference methods laid down in Annex 3a;”
+(b)
+in paragraph (f), for “and (e)” substitute “, (e) and (ea)”.
+(3) In Article 10 (results of sampling and analyses performed by the competent authorities of the third country), in paragraph (2), after sub-paragraph (d) insert—
+“(e)
+the absence of Listeria in 25 g, for consignments of food listed in Annex 2 due to risk of microbiological contamination by Listeria.”
+(4) For Annex 1, substitute the Annex 1 contained in Schedule 1 to these Regulations.
+(5) For Annex 2, substitute the Annex 2 contained in Schedule 2 to these Regulations.
+(6) After Annex 3, insert the Annex 3a contained in Schedule 3 to these Regulations.
+(1)
+EUR 2019/1793, amended by S.I. 2020/1631 and 2022/1330 (W. 269); there are other amending instruments but none is relevant.Amendment of the Official Controls (Import of High-Risk Food and Feed of Non-Animal Origin) (Amendment of Commission Implementing Regulation (EU) 2019/1793) (Wales) Regulations 2022
+3.  In the Official Controls (Import of High-Risk Food and Feed of Non-Animal Origin) (Amendment of Commission Implementing Regulation (EU) 2019/1793) (Wales) Regulations 2022(1)—
+(a)
+in regulation 2 (amendment of Commission Implementing Regulation (EU) 2019/1793), omit paragraphs (2) and (3);
+(b)
+omit Schedules 1 and 2.
+(1)
+S.I. 2022/1330 (W. 269).Lynne Neagle
+Deputy Minister for Mental Health and Wellbeing, under the authority of the Minister for Health and Social Services, one of the Welsh Ministers
+31 January 2024Regulation 2(4)
+SCHEDULE 1
+Annex to be substituted for Annex 1 to Commission Implementing Regulation (EU) 2019/1793
+“ANNEX 1
+Food and feed of non-animal origin from certain third countries subject to a temporary increase of official controls at border control posts and control points
+Country of origin Food and feed (intended use) CN code (1) TARIC sub-division Hazard Frequency of physical and identity checks (%)
+(1)
+Where only certain products under any CN code are required to be examined, the CN code is marked “ex”.
+(2)
+The sampling and the analyses must be performed in accordance with the sampling procedures and the analytical reference methods set out in point 1(a) of Annex 3 to this Regulation.
+(3)
+The sampling and the analyses must be performed in accordance with the sampling procedures and the analytical reference methods set out in point 1(b) of Annex 3 to this Regulation.
+(4)
+Residues of at least those pesticides listed in the control programme adopted in accordance with Article 29(2) of Regulation (EC) No 396/2005 of the European Parliament and of the Council on maximum residue levels of pesticides in or on food and feed of plant and animal origin(1) that can be analysed with multi-residue methods based on GC-MS and LC-MS (pesticides to be monitored in/on products of plant origin only).
+(5)
+Residues of Tolfenpyrad.
+(6)
+Residues of Amitraz (amitraz including the metabolites containing the 2,4 -dimethylaniline moiety expressed as amitraz), Diafenthiuron, Dicofol (sum of p,p’ and o,p’ isomers) and Dithiocarbamates (dithiocarbamates expressed as CS2, including maneb, mancozeb, metiram, propineb, thiram and ziram).
+(7)
+Residues of Dicofol (sum of p,p’ and o,p’ isomers), Dinotefuran, Folpet, Prochloraz (sum of prochloraz, BTS 44595 (M201-04) and BTS 44596 (M201-03), expressed as prochloraz), Thiophanate-methyl and Triforine.
+(8)
+For the purposes of this Annex, “Sudan dyes” refers to the following chemical substances: (i) Sudan I (CAS Number 842-07-9); (ii) Sudan II (CAS Number 3118-97-6); (iii) Sudan III (CAS Number 85-86-9); (iv) Scarlet Red or Sudan IV (CAS Number 85-83-6).
+(9)
+Residues of Ethylene Oxide (sum of ethylene oxide and 2-chloro-ethanol, expressed as ethylene oxide).
+(10)
+Residues of Acephate.
+(11)
+Residues of Diafenthiuron.
+(12)
+Residues of Phenthoate.
+(13)
+Residues of Chlorbufam.
+(14)
+Residues of Formetanate (sum of formetanate and its salts expressed as formetanate (hydrochloride)) Prothiofos and Triforine.
+(15)
+Residues of chlorpyrifos/chlorpyrifos-methyl and fenbutatin oxide.
+(16)
+Residues of Prochloraz (sum of prochloraz, BTS 44595 (M201-04) and BTS 44596 (M201-03), expressed as prochloraz).
+(17)
+Residues of Diafenthiuron, Formetanate (sum of formetanate and its salts expressed as formetanate (hydrochloride)) and Thiophanate-methyl.
+(18)
+“Unprocessed products” as defined in Regulation (EC) No 852/2004 of the European Parliament and of the Council on the hygiene of foodstuffs(2).
+(19)
+“Placing on the market” and “final consumer” as defined in Regulation (EC) No 178/2002 of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety.
+(20)
+The following reference methods may be used: (1) BS EN 1988-1:1998 “Foodstuffs. Determination–of sulfite - Optimized Monier-Williams method”, published by the British Standards Institution on 15 June 1998 (ISBN 0 580 29239 8), available from the British Standards Institution at https://knowledge.bsigroup.com; (2) BS EN 1988-2:1998 “Foodstuffs. Determination–of sulfite - Enzymatic method”, published by the British Standards Institution on 15 June 1998 (ISBN 0 580 29240 1), available from the British Standards Institution at https://knowledge.bsigroup.com; (3) ISO 5522:1981 “Fruits, vegetables and derived products — Determination of total sulphur dioxide content”, published by the International Organization for Standardization in September 1981, edition 1, available fromthe ISO at https://www.iso.org.
+(21)
+Residues of Dithiocarbamates (dithiocarbamates expressed as CS2, including maneb, mancozeb, metiram, propineb, thiram and ziram), Phenthoate and Quinalphos.”
+Bolivia
+(BO)
+Groundnuts (peanuts), in shell
+(Food and feed)
+1202 41 00 Aflatoxins 50
+Groundnuts (peanuts), shelled
+(Food and feed)
+1202 42 00
+Peanut butter
+(Food and feed)
+2008 11 10
+Groundnuts (peanuts), otherwise prepared or preserved
+(Food and feed)
+2008 11 91
+2008 11 96
+2008 11 98
+Groundnut flours and meals
+(Food and feed)
+ex1208 90 00 20
+Oilcake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of groundnut oil
+(Food and feed)
+2305 00 00
+Groundnuts paste
+(Food and feed)
+ex2007 10 10 80
+ex2007 10 99 50
+ex2007 99 39 07; 08
+Brazil
+(BR)
+Black pepper (Piper)
+(Food – neither crushed nor ground)
+ex0904 11 00 10 Salmonella (2) 50
+Groundnuts (peanuts),
+in shell
+(Food and feed)
+1202 41 00 Pesticide residues (4) 20
+Groundnuts (peanuts), shelled
+(Food and feed)
+1202 42 00
+Peanut butter
+(Food and feed)
+2008 11 10
+Groundnuts (peanuts), otherwise prepared or preserved
+(Food and feed)
+2008 11 91
+2008 11 96
+2008 11 98
+Oilcake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of groundnut oil
+(Food and feed)
+2305 00 00
+Groundnut flours and meals
+(Food and feed)
+ex1208 90 00 20
+Groundnuts paste
+(Food and feed)
+ex2007 10 10 80
+ex2007 10 99 50
+ex2007 99 39 07; 08
+China
+(CN)
+Groundnuts (peanuts), in shell
+(Food and feed)
+1202 41 00 Aflatoxins 10
+Groundnuts (peanuts), shelled
+(Food and feed)
+1202 42 00
+Peanut butter
+(Food and feed)
+2008 11 10
+Groundnuts (peanuts), otherwise prepared or preserved
+(Food and feed)
+2008 11 91
+2008 11 96
+2008 11 98
+Oilcake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of groundnut oil
+(Food and feed)
+2305 00 00
+Groundnut flours and meals
+(Food and feed)
+ex1208 90 00 20
+Groundnuts paste
+(Food and feed)
+ex2007 10 10 80
+ex2007 10 99 50
+ex2007 99 39 07; 08
+Sweet peppers (Capsicum annuum)
+(Food – crushed or ground)
+ex0904 22 00 11 Salmonella (3) 10
+Tea, whether or not flavoured
+(Food)
+0902 Pesticide residues (4) (5) 20
+Colombia
+(CO)
+Granadilla (Passiflora ligularis) and passion fruit (Passiflora edulis)
+(Food)
+ex0810 90 20 30 Pesticide residues (4) 10
+Dominican Republic
+(DO)
+Aubergines (Solanum
+melongena)
+(Food – fresh or
+chilled)
+0709 30 00 Pesticide residues (4) 20
+Peppers of the genus Capsicum (other than sweet)
+(Food – fresh, chilled or frozen)
+ex0709 60 99 20 Pesticide residues (4) (6) 50
+ex0710 80 59 20
+Sweet peppers
+(Capsicum annuum)
+(Food – fresh, chilled or frozen)
+0709 60 10 Pesticide residues (4) (6) 50
+0710 80 51
+Yardlong beans
+(Vigna unguiculata
+subsp. sesquipedalis)
+(Food – fresh, chilled or frozen)
+ex0708 20 00 10 Pesticide residues (4) (6) 50
+ex0710 22 00 10
+Ecuador
+(EC)
+Bananas
+(Food - fresh or dried)
+0803 90 10 Pesticide residues (4) 5
+0803 90 90
+Egypt
+(EG)
+Oranges
+(Food – fresh or dried)
+0805 10 Pesticide residues (4) 10
+Peppers of the genus Capsicum (other than sweet) (Food – fresh, chilled
+or frozen)
+ex0709 60 99 20 Pesticide residues (4) (7) 20
+ex0710 80 59 20
+Sweet peppers
+(Capsicum annuum)
+(Food – fresh, chilled
+or frozen)
+0709 60 10 Pesticide residues (4) (7) 20
+0710 80 51
+Georgia (GE)
+Hazelnuts (Corylus spp.), in shell
+(Food)
+0802 21 00 Aflatoxins 20
+Hazelnuts (Corylus spp.), shelled
+(Food)
+0802 22 00
+Flour, meal and
+powder of hazelnuts
+(Food)
+ex1106 30 90 40
+Hazelnuts, otherwise prepared or preserved
+(Food)
+ex2008 19 19 30
+ex2008 19 95 20
+ex2008 19 99 30
+Ghana
+(GH)
+Palm oil
+(Food)
+1511 10 90 Sudan dyes (8) 20
+1511 90 11
+ex1511 90 19 90
+1511 90 99
+India
+(IN)
+Cinnamon and cinnamon-tree flowers
+(Food – dried spices)
+0906 Pesticide residues (4) (9) 10
+Cloves (whole fruit, cloves and stems)
+(Food – dried spices)
+0907 Pesticide residues (4) (9) 10
+Curry leaves (Bergera/
+Murraya koenigii)
+(Food – fresh,
+chilled, frozen or
+dried)
+ex1211 90 86 10 Pesticide residues (4) (10) 50
+Drumsticks (Moringa oleifera)
+(Food – fresh, chilled or frozen)
+ex0709 99 90 10 Pesticide residues (4) 20
+ex0710 80 95 75
+Ginger, saffron, turmeric (Curcuma), thyme, bay leaves, curry and other spices
+(Food – dried spices)
+0910 Pesticide residues (4) (9) 10
+Nutmeg, mace and cardamoms
+(Food – dried spices)
+0908 Pesticide residues (4) (9) 10
+Okra
+(Food – fresh,
+chilled or frozen)
+ex0709 99 90 20 Pesticide residues (4) (11) 20
+ex0710 80 95 30
+Rice
+(Food)
+1006 Aflatoxins and Ochratoxin A 5
+Pesticide residues (4) 5
+Seeds of anise, badian, fennel, coriander, cumin or caraway; juniper berries
+(Food – dried spices)
+0909 Pesticide residues (4) (9) 10
+Iran
+(IR)
+Melon seeds
+(Food)
+1207 70 Aflatoxins 10
+Kenya
+(KE)
+Beans (Vigna spp.,
+Phaseolus spp.)
+(Food – fresh or chilled)
+0708 20 Pesticide residues (4) 10
+Peppers of the genus Capsicum (other than sweet)
+(Food – fresh, chilled or frozen)
+ex0709 60 99 20 Pesticide residues (4) 10
+ex 0710 80 59 20
+Cambodia
+(KH)
+Chinese celery (Apium graveolens)
+(Food – fresh or
+chilled herb)
+ex0709 40 00 20 Pesticide residues (4) (12) 50
+Yardlong beans
+(Vigna unguiculata
+subsp. sesquipedalis)
+(Food – fresh, chilled or frozen)
+ex0708 20 00 10 Pesticide residues (4) (13) 50
+ex0710 22 00 10
+Lebanon
+(LB)
+Turnips (Brassica rapa subsp. rapa)
+(Food – prepared or preserved by vinegar or acetic acid)
+ex2001 90 97 11; 19 Rhodamine B 50
+Turnips (Brassica rapa subsp. rapa)
+(Food – prepared
+or preserved by
+brine or citric acid, not frozen)
+ex2005 99 80 93 Rhodamine B 50
+Madagascar
+(MG)
+Cow peas (Vigna unguiculata subspp.)
+(Food)
+0713 35 00 Pesticide residues (4) 10
+Groundnuts (peanuts), in shell
+(Food and feed)
+1202 41 00 Aflatoxins 50
+Groundnuts (peanuts),
+shelled
+(Food and feed)
+1202 42 00
+Peanut butter
+(Food and feed)
+2008 11 10
+Groundnuts (peanuts),
+otherwise prepared or
+preserved
+(Food and feed)
+2008 11 91
+2008 11 96
+2008 11 98
+Groundnut flours and meals
+(Food and feed)
+ex1208 90 00 20
+Oilcake and other
+solid residues, whether or not ground
+or in the form of pellets, resulting from the extraction of groundnut oil
+(Food and feed)
+2305 00 00
+Malaysia
+(MY)
+Jackfruit (Artocarpus
+heterophyllus)
+(Food – fresh)
+ex0810 90 20 20 Pesticide residues (4) 50
+Nigeria
+(NG)
+Sesamum seeds
+(Food)
+1207 40 90 Salmonella (2) 50
+Pakistan
+(PK)
+Rice
+(Food)
+1006 Aflatoxins and Ochratoxin A 5
+Pesticide residues (4) 5
+Sierra Leone
+(SL)
+Watermelon (egusi,
+Citrullus spp.) seeds and derived products
+(Food)
+ex1207 70 00 10 Aflatoxins 50
+ex1208 90 00 10
+ex2008 99 99 50
+Senegal
+(SN)
+Groundnuts (peanuts),
+in shell
+(Food and feed)
+1202 41 00 Aflatoxins 50
+Groundnuts (peanuts),
+shelled
+(Food and feed)
+1202 42 00
+Peanut butter
+(Food and feed)
+2008 11 10
+Groundnuts (peanuts),
+otherwise prepared or
+preserved
+(Food and feed)
+2008 11 91
+2008 11 96
+2008 11 98
+Groundnut flours and
+meals
+(Food and feed)
+ex1208 90 00 20
+Oilcake and other
+solid residues, whether or not ground
+or in the form of pellets, resulting from the extraction of groundnut oil
+(Food and feed)
+2305 00 00
+Groundnuts paste
+(Food and feed)
+ex2007 10 10 80
+ex2007 10 99 50
+ex2007 99 39 07; 08
+Syria
+(SY)
+Sesamum seeds
+(Food)
+1207 40 90 Salmonella (2) 10
+Tahini and halva from Sesamum seeds
+(Food)
+ex 1704 90 99 12; 92 Salmonella (2) 10
+ex 1806 20 95 13; 93
+ex 1806 90 50 10
+ex1806 90 60 11; 91
+ex2008 19 19 40
+ex2008 19 99 40
+Turnips (Brassica rapa subsp. rapa)
+(Food – prepared or preserved by vinegar or acetic acid)
+ex2001 90 97 11; 19 Rhodamine B 50
+Turnips (Brassica rapa subsp. rapa)
+(Food – prepared
+or preserved by brine or citric acid, not frozen)
+ex2005 99 80 93 Rhodamine B 50
+Thailand
+(TH)
+Food containing or consisting of betel leaves (Piper betle) (Food) ex1404 90 00 Salmonella (3) 10
+Peppers of the genus Capsicum (other than sweet)
+(Food – fresh,
+chilled or frozen)
+ex0709 60 99 20 Pesticide residues (4) (14) 50
+ex0710 80 59 20
+Türkiye
+(TR)
+Lemons (Citrus limon, Citrus limonum)
+(Food – fresh, chilled or dried)
+0805 50 10 Pesticide residues (4) (15) 20
+Mandarins (including tangerines and satsumas), clementines, wilkings and similar citrus hybrids
+(Food – fresh or dried)
+0805 21 Pesticide residues (4) 20
+0805 22
+0805 29
+Oranges
+(Food – fresh or dried)
+0805 10 Pesticide residues (4) 20
+Pomegranates
+(Food – fresh or
+chilled)
+ex0810 90 75 30 Pesticide residues (4) (16) 20
+Peppers of the genus Capsicum (other than sweet)
+(Food – fresh,
+chilled or frozen)
+ex0709 60 99 20 Pesticide residues (4) 20
+ex0710 80 59 20
+Sweet Peppers
+(Capsicum annuum)
+(Food – fresh,
+chilled or frozen)
+0709 60 10 Pesticide residues (4) (17) 20
+0710 80 51
+Unprocessed whole, ground, milled, cracked, chopped apricot kernels intended to be placed on the market for the final consumer(18)(19)
+(Food)
+ex1212 99 95 20 Cyanide 50
+Uganda
+(UG)
+Peppers of the genus Capsicum (other than sweet)
+(Food – fresh,
+chilled or frozen)
+ex0709 60 99 20 Pesticide residues (4) 50
+ex0710 80 59 20
+United States
+(US)
+Groundnuts (peanuts), in shell
+(Food and feed)
+1202 41 00 Aflatoxins 10
+Groundnuts (peanuts), shelled
+(Food and feed)
+1202 42 00
+Peanut butter
+(Food and feed)
+2008 11 10
+Groundnuts (peanuts), otherwise prepared or preserved
+(Food and feed)
+2008 11 91
+2008 11 96
+2008 11 98
+Groundnut flours and meals
+(Food and feed)
+ex1208 90 00 20
+Oilcake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of groundnut oil
+(Food and feed)
+2305 00 00
+Groundnuts paste
+(Food and feed)
+ex2007 10 10 80
+ex2007 10 99 50
+ex 2007 99 39 07; 08
+Uzbekistan
+(UZ)
+Dried apricots
+(Food)
+0813 10 00 Sulphites (20) 50
+Apricots, otherwise prepared or preserved
+(Food)
+2008 50
+Vietnam
+(VN)
+Basil (holy, sweet)
+(Food – fresh or chilled herbs)
+ex1211 90 86 20 Pesticide residues (4) (21) 50
+Coriander leaves
+(Food – fresh or chilled herbs)
+ex0709 99 90 72 Pesticide residues (4) (21) 50
+Mint
+(Food – fresh or chilled herbs)
+ex1211 90 86 30 Pesticide residues (4) (21) 50
+Okra
+(Food – fresh, chilled or frozen)
+ex0709 99 90 20 Pesticide residues (4) (21) 50
+ex0710 80 95 30
+Parsley
+(Food – fresh or chilled herbs)
+ex0709 99 90 40 Pesticide residues (4) (21) 50
+Peppers of the genus Capsicum (other than sweet)
+(Food – fresh,
+chilled or frozen)
+ex0709 60 99 20 Pesticide residues (4) (21) 50
+ex0710 80 59 20
+Pitahaya (dragon fruit)
+(Food – fresh or chilled)
+ex0810 90 20 10 Pesticide residues (4) (21) 50
+(1)
+EUR 2005/396, amended by S.I. 2019/557. S.I. 2019/557 was amended by S.I. 2020/1376.
+(2)
+EUR 2004/852, amended by S.I. 2019/642; there are other amending instruments but none is relevant.Regulation 2(5)
+SCHEDULE 2
+Annex to be substituted for Annex 2 to Commission Implementing Regulation (EU) 2019/1793
+“ANNEX 2
+Food and feed from certain third countries subject to special conditions for the entry into Great Britain due to contamination risk by mycotoxins, including aflatoxins, pesticide residues, pentachlorophenol and dioxins and microbiological contamination
+Table 1
+Food and feed of non-animal origin referred to in Article 1(1)(b)(i)
+Country of origin Food and feed (intended use) CN code (1) TARIC sub-division Hazard Frequency of physical and identity checks (%)
+(1)
+Where only certain products under any CN code are required to be examined, the CN code is marked “ex”.
+(2)
+The sampling and the analyses must be performed in accordance with the sampling procedures and the analytical reference methods set out in point 1(a) of Annex 3 to this Regulation.
+(3)
+The sampling and the analyses must be performed in accordance with the sampling procedures and the analytical reference methods set out in point 1(b) of Annex 3 to this Regulation.
+(4)
+Residues of at least those pesticides listed in the control programme adopted in accordance with Article 29(2) of Regulation (EC) No 396/2005 of the European Parliament and of the Council on maximum residue levels of pesticides in or on food and feed of plant and animal origin that can be analysed with multi-residue methods based on GC-MS and LC-MS (pesticides to be monitored in/on products of plant origin only).
+(5)
+Residues of dithiocarbamates (dithiocarbamates expressed as CS2, including maneb, mancozeb, metiram, propineb, thiram and ziram) and metrafenone.
+(6)
+The analytical report referred to in Article 10(3) of this Regulation must be issued by a laboratory accredited for the analysis of PCP in food and feed in accordance with BS EN ISO/IEC 17025:2017 “General requirements for the competence of testing and calibration laboratories” (published by the British Standards Institution on 30 June 2018 (ISBN 978 0 539 01414 3), and available from the British Standards Institution at https://knowledge.bsigroup.com). The analytical report must indicate: (a) the results of sampling and analysis for the presence of PCP, performed by the competent authorities of the country of origin or of the country where the consignment is consigned from if that country is different from the country of origin; (b) the measurement uncertainty of the analytical result; (c) the limit of detection (LOD) of the analytical method; (d) the limit of quantification (LOQ) of the analytical method. The extraction before analysis must be performed with an acidified solvent. The analysis must be carried out according to the modified version of the QuEChERS method or according to an equally reliable method. The modified version of the QuEChERS method is set out in the document “Analytical Quality Control and Method Validation Procedures for Pesticide Residues Analysis in Food and Feed” (SANTE 2017/11813), implemented on 1 January 2020 and available at https://www.eurl-pesticides.eu/userfiles/file/EurlALL/AqcGuidance_SANTE_2019_12682.pdf.
+(7)
+Residues of Carbofuran.
+(8)
+Residues of Ethylene Oxide (sum of ethylene oxide and 2-chloro-ethanol, expressed as ethylene oxide).
+Argentina
+(AR)
+Groundnuts (peanuts), in shell
+(Food and feed)
+1202 41 00 Aflatoxins 5
+Groundnuts (peanuts), shelled
+(Food and feed)
+1202 42 00
+Peanut butter
+(Food and feed)
+2008 11 10
+Groundnuts (peanuts), otherwise prepared or preserved
+(Food and feed)
+2008 11 91
+2008 11 96
+2008 11 98
+Groundnut flours and meals
+(Food and feed)
+ex1208 90 00 20
+Oilcake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of groundnut oil
+(Food and feed)
+2305 00 00
+Azerbaijan
+(AZ)
+Hazelnuts (Corylus
+spp.), in shell
+(Food)
+0802 21 00 Aflatoxins 20
+Hazelnuts (Corylus
+spp.), shelled
+(Food)
+0802 22 00
+Mixtures of nuts or dried fruits containing hazelnuts
+(Food)
+ex0813 50 39 70
+ex0813 50 91 70
+ex0813 50 99 70
+Hazelnut paste
+(Food)
+ex2007 10 10 70
+ex2007 10 99 40
+ex2007 99 39 05; 06
+ex2007 99 50 33
+ex2007 99 97 23
+Hazelnuts, otherwise prepared or preserved, including mixtures
+(Food)
+ex2008 19 12 30
+ex2008 19 19 30
+ex2008 19 92 30
+ex2008 19 95 20
+ex2008 19 99 30
+ex2008 97 12 15
+ex2008 97 14 15
+ex2008 97 16 15
+ex2008 97 18 15
+ex2008 97 32 15
+ex2008 97 34 15
+ex2008 97 36 15
+ex2008 97 38 15
+ex2008 97 51 15
+ex2008 97 59 15
+ex2008 97 72 15
+ex2008 97 74 15
+ex2008 97 76 15
+ex2008 97 78 15
+ex2008 97 92 15
+ex2008 97 93 15
+ex2008 97 94 15
+ex2008 97 96 15
+ex2008 97 97 15
+ex2008 97 98 15
+Flour, meal and powder of hazelnuts
+(Food)
+ex1106 30 90 40
+Hazelnut oil
+(Food)
+ex1515 90 99 20
+Bangladesh
+(BD)
+Food containing or consisting of betel leaves (Piper betle)
+(Food)
+ex1404 90 00 Salmonella (2) 50
+Brazil
+(BR)
+Brazil nuts, in shell
+(Food)
+0801 21 00 Aflatoxins 50
+Mixtures of nuts or dried fruits containing Brazil nuts in shell
+(Food)
+ex0813 50 31 20
+ex0813 50 39 20
+ex0813 50 91 20
+ex0813 50 99 20
+China
+(CN)
+Enoki Mushrooms
+(Food)
+ex0709 59 00 Listeria 20
+Egypt
+(EG)
+Groundnuts (peanuts), in shell
+(Food and feed)
+1202 41 00 Aflatoxins 20
+Groundnuts (peanuts), shelled
+(Food and feed)
+1202 42 00
+Peanut butter
+(Food and feed)
+2008 11 10
+Groundnuts (peanuts), otherwise prepared or preserved
+(Food and feed)
+2008 11 91
+2008 11 96
+2008 11 98
+Groundnut flours and meals
+(Food and feed)
+ex1208 90 00 20
+Oilcake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of groundnut oil
+(Food and feed)
+2305 00 00
+Groundnuts paste
+(Food and feed)
+ex2007 10 10 80
+ex2007 10 99 50
+ex2007 99 39 07; 08
+Vine leaves
+(Food)
+ex2008 99 99 11; 19 Pesticide residues (4) (5) 20
+Ethiopia
+(ET)
+Ginger, saffron, turmeric (Curcuma), thyme, bay leaves, curry and other spices
+(Food – dried spices)
+0910 Aflatoxins 50
+Pepper of the
+genus Piper, dried or crushed or ground fruit of the genus
+Capsicum or of the genus Pimenta
+(Food – dried spices)
+0904 Aflatoxins 50
+Sesamum seeds
+(Food)
+1207 40 90 Salmonella (2) 50
+Ghana
+(GH)
+Groundnuts (peanuts), in shell
+(Food and feed)
+1202 41 00 Aflatoxins 50
+Groundnuts (peanuts), shelled
+(Food and feed)
+1202 42 00
+Peanut butter
+(Food and feed)
+2008 11 10
+Groundnuts (peanuts), otherwise prepared or preserved
+(Food and feed)
+2008 11 91
+2008 11 96
+2008 11 98
+Groundnut flours and meals
+(Food and feed)
+ex1208 90 00 20
+Oilcake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of groundnut oil
+(Food and feed)
+2305 00 00
+Groundnuts paste
+(Food and feed)
+ex2007 10 10 80
+ex2007 10 99 50
+ex2007 99 39 07; 08
+The Gambia
+(GM)
+Groundnuts (peanuts), in shell
+(Food and feed)
+1202 41 00 Aflatoxins 50
+Groundnuts (peanuts), shelled
+(Food and feed)
+1202 42 00
+Peanut butter
+(Food and feed)
+2008 11 10
+Groundnuts (peanuts), otherwise prepared or preserved
+(Food and feed)
+2008 11 91
+2008 11 96
+2008 11 98
+Groundnut flours and meals
+(Food and feed)
+ex1208 90 00 20
+Oilcake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of groundnut oil
+(Food and feed)
+2305 00 00
+Groundnuts paste
+(Food and feed)
+ex2007 10 10 80
+ex2007 10 99 50
+ex2007 99 39 07; 08
+Indonesia
+(ID)
+Nutmeg (Myristica fragrans)
+(Food – dried
+spices)
+0908 11 00 Aflatoxins 10
+0908 12 00
+India
+(IN)
+Food containing or consisting of betel leaves (Piper betle)
+(Food)
+ex1404 90 00 Salmonella (3) 10
+Groundnuts (peanuts), in shell
+(Food and feed)
+1202 41 00 Aflatoxins 50
+Groundnuts (peanuts), shelled
+(Food and feed)
+1202 42 00
+Peanut butter
+(Food and feed)
+2008 11 10
+Groundnuts (peanuts), otherwise prepared or preserved
+(Food and feed)
+2008 11 91
+2008 11 96
+2008 11 98
+Groundnut flours and meals
+(Food and feed)
+ex1208 90 00 20
+Oilcake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of groundnut oil
+(Food and feed)
+2305 00 00
+Groundnuts paste
+(Food and feed)
+ex2007 10 10 80
+ex2007 10 99 50
+ex2007 99 39 07; 08
+Guar gum
+(Food and feed)
+ex1302 32 90
+Pentachlorophenol and
+dioxins(6)
+5
+Nutmeg (Myristica fragrans)
+(Food – dried
+spices)
+0908 11 00 Aflatoxins 20
+0908 12 00
+Peppers of the genus Capsicum (sweet or other than sweet)
+(Food – dried,
+roasted, crushed or
+ground)
+0904 21 10 Aflatoxins 20
+ex0904 22 00 11; 19
+ex0904 21 90 20
+ex2005 99 10 10; 90
+ex2005 99 80 94
+Peppers of the genus Capsicum (sweet or other than sweet)
+(Food – dried, roasted, crushed or ground)
+0904 Pesticide residues (4) (7) 20
+ex2005 99 10 10; 90
+ex2005 99 80 94
+Peppers of the genus Capsicum (other than sweet)
+(Food – fresh,
+chilled or frozen)
+ex0709 60 99 20 Pesticide residues (4) (7) 20
+ex0710 80 59 20
+Sesamum seeds
+(Food)
+1207 40 90 Salmonella (2) 20
+Pesticides residues (4) (8) 50
+Iran
+(IR)
+Pistachios, in shell
+(Food)
+0802 51 00 Aflatoxins 50
+Pistachios, shelled
+(Food)
+0802 52 00
+Mixtures of nuts or dried fruits containing pistachios
+(Food)
+ex0813 50 39 60
+ex0813 50 91 60
+ex0813 50 99 60
+Pistachio paste
+(Food)
+ex2007 10 10 60
+ex2007 10 99 30
+ex2007 99 39 03; 04
+ex2007 99 50 32
+ex2007 99 97 22
+Pistachios, prepared or preserved, including mixtures
+(Food)
+ex2008 19 13 20
+ex2008 19 93 20
+ex2008 97 12 19
+ex2008 97 14 19
+ex2008 97 16 19
+ex2008 97 18 19
+ex2008 97 32 19
+ex2008 97 34 19
+ex2008 97 36 19
+ex2008 97 38 19
+ex2008 97 51 19
+ex2008 97 59 19
+ex2008 97 72 19
+ex2008 97 74 19
+ex2008 97 76 19
+ex2008 97 78 19
+ex2008 97 92 19
+ex2008 97 93 19
+ex2008 97 94 19
+ex2008 97 96 19
+ex2008 97 97 19
+ex2008 97 98 19
+Flour, meal and
+powder of pistachios
+(Food)
+ex1106 30 90 50
+South Korea
+(KR)
+Enoki mushrooms
+(Food)
+ex0709 59 00 Listeria 20
+Sri Lanka
+(LK)
+Peppers of the genus Capsicum (sweet or other than sweet)
+(Food – dried,
+roasted, crushed or ground)
+0904 21 10 Aflatoxins 50
+ex0904 21 90 20
+ex0904 22 00 11; 19
+ex2005 99 10 10; 90
+ex2005 99 80 94
+Nigeria
+(NG)
+Watermelon (egusi, Citrullus spp.) seeds and derived products
+(Food)
+ex1207 70 00 10 Aflatoxins 50
+ex1208 90 00 10
+ex2008 99 99 50
+Pakistan
+(PK)
+Peppers of the genus Capsicum (other than sweet)
+(Food – fresh, chilled or frozen)
+ex0709 60 99 20 Pesticide residues (4) 20
+ex0710 80 59 20
+Spice mixes
+(Food)
+0910 91 10 Aflatoxins 10
+0910 91 90
+Sudan
+(SD)
+Groundnuts (peanuts), in shell
+(Food and feed)
+1202 41 00 Aflatoxins 50
+Groundnuts (peanuts), shelled
+(Food and feed)
+1202 42 00
+Peanut butter
+(Food and feed)
+2008 11 10
+Groundnuts (peanuts), otherwise prepared or preserved
+(Food and feed)
+2008 11 91
+2008 11 96
+2008 11 98
+Groundnut flours and meals
+(Food and feed)
+ex1208 90 00 20
+Oilcake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of groundnut oil
+(Food and feed)
+2305 00 00
+Groundnuts paste
+(Food and feed)
+ex2007 10 10 80
+ex2007 10 99 50
+ex2007 99 39 07; 08
+Sesamum seeds
+(Food)
+1207 40 90 Salmonella (2) 50
+Türkiye
+(TR)
+Dried figs
+(Food)
+0804 20 90 Aflatoxins 20
+Mixtures of nuts or dried fruits containing figs
+(Food)
+ex0813 50 99 50
+Dried fig paste
+(Food)
+ex2007 10 10 50
+ex2007 10 99 20
+ex2007 99 39 01; 02
+ex2007 99 50 31
+ex2007 99 97 21
+Dried figs, prepared or preserved, including mixtures
+(Food)
+ex2008 97 12 11
+ex2008 97 14 11
+ex2008 97 16 11
+ex2008 97 18 11
+ex2008 97 32 11
+ex2008 97 34 11
+ex2008 97 36 11
+ex2008 97 38 11
+ex2008 97 51 11
+ex2008 97 59 11
+ex2008 97 72 11
+ex2008 97 74 11
+ex2008 97 76 11
+ex2008 97 78 11
+ex2008 97 92 11
+ex2008 97 93 11
+ex2008 97 94 11
+ex2008 97 96 11
+ex2008 97 97 11
+ex2008 97 98 11
+ex2008 99 28 10
+ex2008 99 34 10
+ex2008 99 37 10
+ex2008 99 40 10
+ex2008 99 49 60
+ex2008 99 67 95
+ex2008 99 99 60
+Flour, meal or
+powder of dried figs
+(Food)
+ex1106 30 90 60
+Pistachios, in shell
+(Food)
+0802 51 00 Aflatoxins 50
+Pistachios, shelled
+(Food)
+0802 52 00
+Mixtures of nuts or dried fruits containing pistachios
+(Food)
+ex0813 50 39 60
+ex0813 50 91 60
+ex0813 50 99 60
+Pistachio paste
+(Food)
+ex2007 10 10 60
+ex2007 10 99 30
+ex2007 99 39 03; 04
+ex2007 99 50 32
+ex2007 99 97 22
+Pistachios, prepared or preserved, including mixtures
+(Food)
+ex2008 19 13 20
+ex2008 19 93 20
+ex2008 97 12 19
+ex2008 97 14 19
+ex2008 97 16 19
+ex2008 97 18 19
+ex2008 97 32 19
+ex2008 97 34 19
+ex2008 97 36 19
+ex2008 97 38 19
+ex2008 97 51 19
+ex2008 97 59 19
+ex2008 97 72 19
+ex2008 97 74 19
+ex2008 97 76 19
+ex2008 97 78 19
+ex2008 97 92 19
+ex2008 97 93 19
+ex2008 97 94 19
+ex2008 97 96 19
+ex2008 97 97 19
+ex2008 97 98 19
+Flour, meal and
+powder of pistachios
+(Food)
+ex1106 30 90 50
+Vine leaves
+(Food)
+ex2008 99 99 11; 19 Pesticide residues (4) (5) 50
+Uganda
+(UG)
+Sesamum seeds (Food) 1207 40 90 Salmonella (2) 20
+Table 2
+Compound food referred to in Article 1(1)(b)(ii)
+Compound food containing any of the individual products listed in Table 1 of this Annex due to risk of contamination by aflatoxins in a quantity above 20% of either a single product or as the sum of products listed.
+CN Code (1) Description
+(1)
+Where only certain products under any CN code are required to be examined, the CN code is marked “ex”.
+(2)
+Mixtures of two or more of the products of different headings are to be classified in heading 0910.”
+ex1704 90 Sugar confectionery (including white chocolate), not containing cocoa, other than chewing gum, whether or not sugar-coated.
+ex1806 Chocolate and other food preparations containing cocoa.
+ex1905 Bread, pastry, cakes, biscuits and other bakers’ wares, whether or not containing cocoa; communion wafers, empty cachets of a kind suitable for pharmaceutical use, sealing wafers, rice paper and similar products.
+0910 91 Mixtures of spices (2).Regulation 2(6)
+SCHEDULE 3
+Annex 3a to be inserted into Commission Implementing Regulation (EU) 2019/1793
+“ANNEX 3a
+Sampling procedure and analytical reference method for the control of presence of Listeria in food
+Sampling procedure and analytical reference method for the control of presence of Listeria in food, referred to in Article 3(ea)
+Analytical reference method(1) Weight of consignment Number of sample units (n) Sampling procedures Analytical result required for each sample unit of the same consignment
+(1)
+The listed method must be used, or a method validated against it in accordance with the protocol set out in BS EN ISO 16140-2:2016 “Microbiology of the food chain. Method validation - Protocol for the validation of alternative (proprietary) methods against a reference method”. BS EN ISO 16140-2:2016 was published by the British Standards Institution on 31 July 2016 (ISBN 978 0 580 69940 5). Available from the British Standards Institution https://knowledge.bsigroup.com.
+(2)
+Under reference BS EN ISO 11290-1:2017 “Microbiology of the food chain. Horizontal method for the detection and enumeration of Listeria monocytogenes and of Listeria spp. - Detection method”. Published by the British Standards Institution on 31 August 2017 (ISBN 978 0 580 77715 8). Available from the British Standards Institution https://knowledge.bsigroup.com.”
+BS EN ISO 11290-1:2017(2) Any weight 5 n sample units are collected of a minimum of 100 g each. If batches are identified in the CHED, the sample units must be collected from the different batches randomly chosen from the consignment. If batches cannot be identified, the sample units are collected randomly from the consignment. Pooling of sample units is not allowed. Each sample unit must be tested separately. No detection of   Listeria  in 25gEXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend, in relation to Wales, Commission Implementing Regulation (EU) 2019/1793 on the temporary increase of official controls and emergency measures governing the entry into the Union of certain goods from certain third countries (EUR 2019/1793).
+Regulation 2 makes provision to update the lists of high-risk food and feed of non-animal origin in Annexes 1 and 2 to EUR 2019/1793. Regulation 2(4) and (5), and Schedules 1 and 2, substitute those Annexes. The substitution of Annex 1 is made using powers in Articles 47(2)(b) and 54(4)(a) of Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products (EUR 2017/625). The substitution of Annex 2 is made using powers in Article 53 of Regulation (EC) No 178/2002 of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety (EUR 2002/178) and Article 54(4)(b) of EUR 2017/625.
+Regulation 2(2), (3) and (6), and Schedule 3, amend EUR 2019/1793 to make provision in relation to sampling and analysis for the hazard Listeria. The prescribed sampling procedure and analytical reference method for the control of presence of Listeria in food is set out in the new Annex 3a to EUR 2019/1793 (inserted by regulation 2(6) and Schedule 3).
+Regulation 3 makes consequential amendments to the Official Controls (Import of High-Risk Food and Feed of Non-Animal Origin) (Amendment of Commission Implementing Regulation (EU) 2019/1793) (Wales) Regulations 2022 (S.I. 2022/1330 (W. 269), to remove earlier amendments to EUR 2019/1793 that are superseded by the amendments made by these Regulations.
+Annex 1 to EUR 2019/1793 contains the list of food and feed of non-animal origin that is subject to a temporary increase in official controls at border control posts or at control points in Great Britain. The changes being made to Annex 1 are as follows.
+A new entry for groundnuts paste from Bolivia (for aflatoxins). The frequency of checks is prescribed at 50%.
+The entries for groundnuts (peanuts) and associated products, from Brazil, (for aflatoxins) have been removed.
+A correction to the table footnote reference in the entry for groundnuts (peanuts) and associated products, from Brazil (for pesticides residues).
+A new entry for groundnuts paste from Brazil (for pesticide residues). The frequency of checks is prescribed at 20%.
+A new entry for groundnuts paste from China (for aflatoxins). The frequency of checks is prescribed at 10%.
+The frequency of checks on sweet peppers (Capsicum annum) from China (for Salmonella) is decreased to 10% (from 20%).
+A new entry for granadilla (Passiflora ligularis) and passion fruit (Passiflora edulis) from Colombia (for pesticide residues). The frequency of checks is prescribed at 10%.
+A correction to the entry for yardlong beans from the Dominican Republic (for pesticides residues).
+A new entry for bananas from Ecuador (for pesticide residues). The frequency of checks is prescribed at 5%.
+A new entry for oranges from Egypt (for pesticide residues). The frequency of checks is prescribed at 10%.
+The frequency of checks on palm oil from Ghana (for Sudan dyes) is decreased to 20% (from 50%).
+A new entry for cinnamon and cinnamon-tree flowers from India (for pesticide residues). The frequency of checks is prescribed at 10%.
+A new entry for cloves (whole fruit, cloves and stems) from India (for pesticide residues). The frequency of checks is prescribed at 10%.
+A new entry for drumsticks (Moringa oleifera) from India (for pesticide residues). The frequency of checks is prescribed at 20%.
+A new entry for ginger, saffron, turmeric (Curcuma), thyme, bay leaves, curry and other spices, from India (for pesticide residues). The frequency of checks is prescribed at 10%.
+A new entry for nutmeg, mace and cardamoms from India (for pesticide residues). The frequency of checks is prescribed at 10%.
+New entries for rice from India (for aflatoxins and ochratoxin A, and for pesticide residues). The frequencies of checks for aflatoxins and ochratoxin A, and for pesticide residues are prescribed at 5%.
+A new entry for seeds of anise, badian, fennel, coriander, cumin or caraway, and for juniper berries, from India (for pesticide residues). The frequency of checks is prescribed at 10%.
+A new entry for melon seeds from Iran (for aflatoxins). The frequency of checks is prescribed at 10%.
+A new entry for peppers of the genus Capsicum (other than sweet) from Kenya (for pesticide residues). The frequency of checks is prescribed at 10%.
+A correction to the entry for yardlong beans from Cambodia (for pesticides residues).
+A new entry for cow peas (Vigna unguiculata subspp.) from Madagascar (for pesticide residues). The frequency of checks is prescribed at 10%.
+New entries for rice from Pakistan (for aflatoxins and ochratoxin A, and for pesticide residues). The frequencies of checks for aflatoxins and ochratoxin A, and for pesticide residues are prescribed at 5%.
+The entry for spice mixes from Pakistan (for aflatoxins) has been removed. The entry is transferred into Annex 2, Table 1 with a decrease to the frequency of checks (from 50% to 10%).
+A new entry for groundnuts paste from Senegal (for aflatoxins). The frequency of checks is prescribed at 50%.
+A new entry for Sesamum seeds from Syria. The frequency of checks is prescribed at 10%.
+A new entry for tahini and halva from Sesamum seeds, from Syria. The frequency of checks is prescribed at 10%.
+The frequency of checks on peppers of the genus Capsicum (other than sweet) from Thailand is increased to 50% (from 20%).
+The entries for hazelnuts (Corylus spp.) and associated products, from Türkiye, (for aflatoxins) have been removed.
+A new entry for groundnuts paste from the United States (for aflatoxins). The frequency of checks is prescribed at 10%.
+A new entry for pitahaya (dragon fruit) from Vietnam (for pesticide residues). The frequency of checks is prescribed at 50%. The entry is transferred into Annex 1 (from Annex 2, Table 1) with an increase in the frequency of checks (from 10%).
+In Annex 2 to EUR 2019/1793, Table 1 contains the list of food and feed of non-animal origin for which special conditions are prescribed governing their entry into Great Britain. The changes being made to Annex 2, Table 1, are as follows.
+A new entry for enoki mushrooms from China (for Listeria). The frequency of checks is prescribed at 20%.
+A new entry for groundnuts paste from Egypt (for aflatoxins). The frequency of checks is prescribed at 20%.
+A new entry for vine leaves from Egypt (for pesticide residues). The frequency of checks is prescribed at 20%.
+A new entry for groundnuts paste from Ghana (for aflatoxins). The frequency of checks is prescribed at 50%.
+A new entry for groundnuts paste from The Gambia (for aflatoxins). The frequency of checks is prescribed at 50%.
+The frequency of checks on nutmeg (Myristica fragrans) from Indonesia (for aflatoxins) is decreased to 10% (from 20%).
+A new entry for groundnuts paste from India (for aflatoxins). The frequency of checks is prescribed at 50%.
+A new entry for peppers of the genus Capsicum (sweet or other than sweet) (food – dried, roasted, crushed or ground) from India (for pesticide residues). The frequency of checks is prescribed at 20%.
+The frequency of checks on peppers of the genus Capsicum (other than sweet) (food – fresh, chilled or frozen) from India (for pesticide residues) is increased to 20% (from 10%).
+A new entry for enoki mushrooms from South Korea (for Listeria). The frequency of checks is prescribed at 20%.
+A new entry for spice mixes from Pakistan (for aflatoxins). The frequency of checks is prescribed at 10%. The entry is transferred into Annex 2, Table 1 (from Annex 1) with a decrease to the frequency of checks (from 50%).
+A new entry for groundnuts paste from Sudan (for aflatoxins). The frequency of checks is prescribed at 50%.
+The entry for pitahaya (dragon fruit) from Vietnam (for pesticides residues) has been removed. The entry is transferred into Annex 1 with an increase in the frequency of checks (from 10% to 50%).
+In Annex 2 to EUR 2019/1793, Table 2 contains a list of compound food containing any of the food listed in Table 1 to Annex 2 due to the risk of contamination by aflatoxins in a quantity above 20% of either a single product or as the sum of those products. Table 2 is restated with no changes.
+Annex 2a to EUR 2019/1793 contains the list of food and feed of non-animal origin that is prohibited from entering Great Britain. There are no changes being made to Annex 2a.
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, it was not considered necessary to carry out a regulatory impact assessment as to the likely costs and benefits of complying with these Regulations.

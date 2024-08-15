@@ -1,0 +1,990 @@
+STATUTORY INSTRUMENTS
+2020 No. 1457
+EXITING THE EUROPEAN UNION
+CUSTOMS
+The Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020
+Made
+at 12.39 p.m. on 16th December 2020
+Laid before the House of Commons
+at 4.00 p.m. on 16th December 2020
+Coming into force in accordance with regulation 1
+F1These Regulations are made by the Treasury, in exercise of the powers conferred by sections 9(1), 11(1), (3) and (4), 17(6) and (7), 19(1) and (4), 31(6) and (7) and 32(7) and (8) of the Taxation (Cross-border Trade) Act 2018 (“the Act”) and by the Secretary of State, in exercise of the powers conferred by sections 11(3), (4) and (6) and 32(8) of that Act.
+Further to section 28 of the Act, the Treasury in exercising the function of making the following Regulations has had regard to international arrangements to which Her Majesty's Government in the United Kingdom is a party that are relevant to the exercise of that function.
+The Treasury and the Secretary of State both consider it appropriate in consequence of, or otherwise in connection with, the withdrawal of the United Kingdom from the European Union, that the following Regulations come into force on such day as the Treasury may by regulations under section 52 of the Act appoint.
+Further to sections 9(3) and 17(8) of the Act, the Secretary of State recommends that these Regulations be made.
+In accordance with section 11(7) of the Act, in considering what provision to include in regulations made under section 11(1) of the Act, the Treasury has had regard to recommendations made to them by the Secretary of State.
+Textual Amendments
+F1
+2018 c.22. Any power of HMRC Commissioners to make regulations under Part 1 of the Taxation (Cross-border Trade) Act 2018 is exercisable concurrently by the Treasury by virtue of section 32(13) of that Act. Section 9 of the Act is modified by regulation 6 of the Taxation Cross-border Trade (Special Procedures Supplementary and General Provision etc.) (EU Exit) Regulations 2020, S.I. 2020/1439.
+Modifications etc. (not altering text)
+C1
+Regulations applied (31.12.2020) by The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605), regs. 1(1), 7; S.I. 2020/1643, reg. 2, Sch.
+C2
+Regulations applied (31.12.2020) by The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605), regs. 1(1), 13; S.I. 2020/1643, reg. 2, Sch.Citation, commencement, extent and application
+1.—(1) These Regulations may be cited as the Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020 and come into force on the appointed day.
+(2) These Regulations extend to the United Kingdom.
+(3) These Regulations apply to all goods—
+(a)
+that are imported into the United Kingdom in respect of which a liability to a charge to import duty is incurred under the Act; and
+(b)
+in respect of which a claim is made by the importer or the importer's representative for a preferential rate of import duty to be applied to the goods under the terms of an Agreement.
+(4) Schedule 1 has effect for the purposes of specifying the Agreements and associated reference documents in respect of which the provisions of these Regulations apply.
+Commencement Information
+I1
+Reg. 1 not in force at made date, see reg. 1(1)
+I2
+Reg. 1 in force at 31.12.2020 by S.I. 2020/1643, reg. 2, Sch.Interpretation
+2.—(1) In these Regulations—
+“the Act” means the Taxation (Cross-border Trade) Act 2018;
+“the Tariff Quota Regulations” means the Customs (Tariff Quotas) (EU Exit) Regulations 2020 F1;
+[F2“Agreement” means an arrangement—
+(a)
+that is listed in column 1 of the table in Schedule 1; and
+(b)
+the effect of which is to apply import duty rates to goods, or any description of goods, originating from the country or territory that are lower than the applicable standard rate of import duty for those goods.]
+“adjusted quota period” has the meaning given in regulation 8(2);
+“the appointed day” means the day appointed by the Treasury by regulations under section 52(2) of the Act for the coming into force of these Regulations;
+“authorised use goods” has the meaning given in regulation 5(1);
+“customs value” means the value of goods for Customs purposes established by the methodology set out in Part 12 of the Customs (Import Duty) (EU Exit) Regulations 2018 F3;
+“import licence” has the meaning given in regulation 2(1) of the Tariff Quotas Regulations;
+“originating goods” has the meaning given in regulation 6;
+“origin quota” has the meaning given in regulation 7(1) and “origin quota goods” is to be construed accordingly;
+“the Parties” means the parties to an Agreement;
+“preferential duty rate” means the duty rate applicable under regulation 3(2) where—
+(a)
+the terms of an Agreement provide for a rate of import duty to be applied to any goods that is lower than the applicable standard rate of import duty for those goods; or
+(b)
+in the case of any goods, the rate of import duty to be applied under the terms of an Agreement may be higher than the applicable standard rate of import duty for those goods;
+“Preferential Duty Tariff Table”, in relation to an Agreement, means the table at Annex 1 to the Preferential Tariff or, where Annex 1 to the Preferential Tariff contains more than one table, the table relating to the relevant party to that Agreement F4;
+“preferential quota goods” means goods that are classified under a commodity code listed in the Preferential Quota Table;
+“Preferential Quota Table”, in relation to an Agreement, means the table at Annex 2 to the document described in [F5column 2] of the table in Schedule 1 or, where Annex 2 to that document contains more than one table, the table relating to the party to the Agreement relevant to the originating goods F6;
+“Preferential Tariff” is the document described in column 2 of the table in Schedule 1;
+“proof of origin”, in relation to any goods, means a document or declaration which meets the requirements or conditions set out in the relevant origin reference document to an Agreement for the purpose of proving that those goods qualify as originating goods;
+“quota close date” has the meaning given in regulation 8(1);
+“quota duty rate” has the meaning given in regulation 4(1);
+“quota number” means a unique reference number by reference to which each quota is identified as specified in column 1 of the Preferential Quota Table;
+“quota open date” has the meaning given in regulation 8(1);
+“quota period” has the meaning given in regulation 8(1);
+“quota volume” has the meaning given in regulation 9;
+“re-imported goods” has the meaning given in regulation 20(1);
+“relevant origin reference document”, in relation to a particular Agreement, means the origin reference document described in column 3 of the table in Schedule 1, which sets out (with modifications) the rules of origin applicable between the government of the United Kingdom and the government of any other country or territory which is a party to that Agreement F7 and includes any annexes or appendices to that document;
+“working day” means any day except—
+(c)
+a Saturday or Sunday; or
+(d)
+a bank holiday within the meaning of section 1 of the Banking and Financial Dealings Act 1971 F8, including those bank holidays occurring only in part of the United Kingdom.
+(2) Other words and expressions have the meaning given in the Customs Tariff (Establishment) (EU Exit) Regulations 2020 F9.
+Textual Amendments
+F1
+S.I. 2020/1432.
+F2
+Words in reg. 2(1) substituted (31.12.2020) by The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1657), regs. 1, 3
+F3
+S.I. 2018/1248. There are amending instruments but none is relevant.
+F4
+The Preferential Duty Tariff Table is, together with the Preferential Quota table, published separately for each Agreement described in column 1 of that table and is available at: https://www.gov.uk/government/collections/customs-vat-and-excise-uk-transition-legislation-from-1-january-2021. Hard copies are held and available for viewing at the Department for International Trade, 3 Whitehall Place, London SW1A 2AW.
+F5
+Words in reg. 2(1) substituted (31.12.2020) by The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1657), regs. 1, 4
+F6
+The Preferential Quota table is, together with Preferential Duty Tariff Table, published separately for each Agreement described in column 1 of that table and is available at: https://www.gov.uk/government/collections/customs-vat-and-excise-uk-transition-legislation-from-1-january-2021. Hard copies are held and available for viewing at the Department for International Trade, 3 Whitehall Place, London SW1A 2AW.
+F7
+The relevant origin reference document is published separately for each Agreement described in column 1 of that table and is available at: https://www.gov.uk/government/collections/customs-vat-and-excise-uk-transition-legislation-from-1-january-2021. Hard copies are held and available for viewing at the Department for International Trade, 3 Whitehall Place, London SW1A 2AW.
+F8
+1971 c. 80.
+F9
+S.I. 2020/1430.
+Commencement Information
+I1
+Reg. 2 not in force at made date, see reg. 1(1)
+I2
+Reg. 2 in force at 31.12.2020 by S.I. 2020/1643, reg. 2, Sch.Preferential duty rates
+3.—(1) Subject to meeting the conditions specified in paragraph (3), where, in relation to originating goods, the importer or the importer's representative—
+(a)
+makes a Customs declaration under section 3(1) of the Act (obligation to declare goods for a customs procedure on import) for free circulation or authorised use claiming a preferential duty rate under an Agreement; and
+(b)
+that declaration is accepted by HMRC under section 4(1) of the Act (when liability to import duty incurred),
+the duty rate applicable to those goods on importation into the United Kingdom is the preferential duty rate determined in accordance with paragraph (2).
+(2) The preferential duty rate is—
+(a)
+where the rate for originating goods is expressed in column 2 of the Preferential Duty Tariff Table against the commodity code in column 1 of the same row of that table only as a percentage, that percentage of the customs value of the originating goods; or
+(b)
+where the rate for originating goods is determined by applying a formula set out in column 2 of the Preferential Duty Tariff Table against the commodity code in column 1 of the same row of that table, the result of applying that formula in accordance with the method of calculation set out in the notes in Part 2 of the Preferential Tariff.
+(3) For the purposes of paragraph (1), the conditions specified in this paragraph are that, unless regulation 18 applies, the importer or the importer's representative must, on receipt of a request from HMRC—
+(a)
+provide—
+(i)
+a valid proof of origin under regulation 14; or
+(ii)
+such other information or documents as are requested by HMRC under regulation 19; or
+(b)
+present to HMRC the documents required under regulation 17.
+(4) In paragraph (1)—
+(a)
+in sub-paragraph (a), the reference to “a Customs declaration under section 3(1) of the Act” is to be read as including a reference to any such declaration made to HMRC under equivalent provisions of direct EU legislation F1 that have effect in Northern Ireland in respect of goods that are imported into the United Kingdom by their entry into Northern Ireland; and
+(b)
+in sub-paragraph (b), the reference to “that declaration is accepted by HMRC under section 4(1) of the Act” is to be read as including the acceptance by HMRC of any such declaration under equivalent provisions of direct EU legislation that have effect in Northern Ireland in respect of goods that are imported into the United Kingdom by their entry into Northern Ireland.
+(5) The preferential duty rate described in paragraph (2) is without prejudice to the application of a lower duty rate which may exist in respect of the same classification of goods (classified under the same commodity code) by virtue of regulations made under sections 8, 11, 12 or 19 of the Act.
+Textual Amendments
+F1
+See section 3(2) of the European Union (Withdrawal) Act 2018 (c. 16) for the meaning given to “direct EU legislation”.
+Commencement Information
+I1
+Reg. 3 not in force at made date, see reg. 1(1)
+I2
+Reg. 3 in force at 31.12.2020 by S.I. 2020/1643, reg. 2, Sch.Preferential quota
+4.—(1) Subject to paragraph (2) and to meeting the conditions specified in paragraph (4), where, in relation to preferential quota goods for which no import licence is required, the importer or the importer's representative—
+(a)
+makes a Customs declaration under section 3(1) of the Act (obligation to declare goods for a customs procedure on import) for free circulation or authorised use claiming a preferential duty rate under an Agreement; and
+(b)
+that declaration is accepted by HMRC under section 4(1) of the Act (when liability to import duty incurred),
+the duty rate applicable to those goods on importation into the United Kingdom is the quota duty rate determined in accordance with paragraph (3).
+(2) Subject to meeting the conditions specified in paragraph (5), where, in relation to preferential quota goods for which an import licence is required, the importer or the importer's representative—
+(a)
+makes a Customs declaration under section 3(1) of the Act (obligation to declare goods for a customs procedure on import) for free circulation or authorised use claiming a preferential duty rate under an Agreement; and
+(b)
+that declaration is accepted by HMRC under section 4(1) of the Act (when liability to import duty incurred),
+the duty rate applicable to those goods on importation into the United Kingdom is the quota duty rate determined in accordance with paragraph (3).
+(3) The quota duty rate is—
+(a)
+where the rate for originating goods is expressed in column 4 of the Preferential Quota Table against the commodity code in column 3 of the same row of that table only as a percentage, that percentage of the customs value of the originating goods; or
+(b)
+where the rate for originating goods is determined by applying a formula set out in column 4 of the Preferential Quota Table against the commodity code in column 3 of the same row of that table, the result of applying that formula in accordance with the method of calculation set out in the notes in Part 2 of the Preferential Tariff.
+(4) For the purposes of paragraph (1), the conditions specified in this paragraph are that—
+(a)
+the goods qualify as originating goods in accordance with regulation 6;
+(b)
+unless regulation 18 applies, the importer or the importer's representative must, on receipt of a request from HMRC—
+(i)
+provide—
+(aa)
+a valid proof of origin in accordance with regulation 14; or
+(bb)
+such other information or documents as are requested by HMRC under regulation 19, and
+(ii)
+present to HMRC any documents required under regulation 17;
+(c)
+the goods are of a description which is classified under a commodity code in the Preferential Quota Table;
+(d)
+the quantity of the imported goods for which the quota duty rate is claimed is within the limits of the quota volume as described in regulation 9;
+(e)
+the quota period has not expired; and
+(f)
+a request to benefit from the quota and a Customs declaration for free circulation or authorised use for the goods have been accepted by HMRC.
+(5) For the purposes of paragraph (2), the conditions specified in this paragraph are that—
+(a)
+the goods qualify as originating goods in accordance with regulation 6;
+(b)
+unless regulation 18 applies, the importer or the importer's representative must, on receipt of a request from HMRC—
+(i)
+provide—
+(aa)
+a valid proof of origin in accordance with regulation 14, or
+(bb)
+such other information or documents as are requested by HMRC under regulation 19; and
+(ii)
+present to HMRC any documents required under regulation 17;
+[F1(c)
+the goods—
+(i)
+are of a description which is classified under a commodity code in [F2column 3] of the Preferential Quota Table; and
+(ii)
+meet any conditions relating to the nature or identity of the goods that are specified in column 12 of the Preferential Quota Table; and]
+(d)
+the import licence in respect of the goods is valid in accordance with regulation 35 of the Tariff Quota Regulations.
+(6) A quota may include one or more types of goods classified under different commodity codes, provided the unit of measure which establishes the quota volume is the same for each type of goods.
+(7) The quota duty rate described in paragraphs (1) and (2) is without prejudice to the application of a lower duty rate which may exist in respect of the same classification of goods (classified under the same commodity code) by virtue of regulations made under sections 8, 11, 12 or 19 of the Act.
+(8) In paragraph (1)—
+(a)
+in sub-paragraph (a), the reference to “a Customs declaration under section 3(1) of the Act” is to be read as including a reference any such declaration made to HMRC under equivalent provisions of direct EU legislation that have effect in Northern Ireland in respect of goods that are imported into the United Kingdom by their entry into Northern Ireland; and
+(b)
+in sub-paragraph (b), the reference to “that declaration is accepted by HMRC under section 4(1) of the Act” is to be read as including the acceptance by HMRC of any such declaration under equivalent provisions of direct EU legislation that have effect in Northern Ireland in respect of goods that are imported into the United Kingdom by their entry into Northern Ireland.
+(9) This regulation has effect subject to the arrangements for a licensing system in respect of preferential quota goods under Part 3 of the Tariff Quota Regulations.
+Textual Amendments
+F1
+Reg. 4(5)(c) substituted (14.4.2021) by The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) Regulations 2021 (S.I. 2021/382), regs. 1(2), 2
+F2
+Words in reg. 4(5)(c)(i) substituted (10.5.2023) by The Customs Tariff (Preferential Trade Arrangements and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/433), regs. 1(2), 6(2)
+Commencement Information
+I1
+Reg. 4 not in force at made date, see reg. 1(1)
+I2
+Reg. 4 in force at 31.12.2020 by S.I. 2020/1643, reg. 2, Sch.Authorised use
+5.—(1) If in—
+(a)
+column 1 of the Preferential Duty Tariff Table; or
+(b)
+column 3 of the Preferential Quota Table,
+the commodity code applies to goods, the description of which in the Goods Classification Table refers to the use to which the goods are put, then the goods so classified under the commodity code in that row are “authorised use goods”.
+(2) Authorised use goods are subject to the preferential duty rate or quota duty rate described in paragraph (3) if—
+(a)
+they are granted authorisation under the Customs (Special Procedures and Outward Processing) (EU Exit) Regulations 2018 F1; and
+(b)
+they comply with the conditions set out in regulation 3 or 4.
+(3) Without prejudice to regulation 3(4) or 4(7), the preferential duty rate or quota duty rate for authorised use goods is either the percentage of the customs value of those goods or, where the rate is determined by applying—
+(a)
+the formula in column 2 of the Preferential Duty Tariff Table in respect of goods listed in that Table, the result of applying that formula in accordance with the method of calculation set out in the notes in Part 2 of the Preferential Tariff; or
+(b)
+the formula in column 4 of the Preferential Quota Table in respect of goods listed in that Table, the result of applying that formula in accordance with the method of calculation set out in the notes in Part 2 of the Preferential Tariff.
+Textual Amendments
+F1
+S.I. 2018/1249; as amended by S.I. 2019/108, 326, 486, 1215, 1346 and 2020/1088.
+Commencement Information
+I1
+Reg. 5 not in force at made date, see reg. 1(1)
+I2
+Reg. 5 in force at 31.12.2020 by S.I. 2020/1643, reg. 2, Sch.Preferential origin goods
+6.  Goods qualify as originating goods if they meet the conditions to qualify as originating goods as set out in the relevant origin reference document to an Agreement for the purposes of that Agreement.
+Commencement Information
+I1
+Reg. 6 not in force at made date, see reg. 1(1)
+I2
+Reg. 6 in force at 31.12.2020 by S.I. 2020/1643, reg. 2, Sch.Origin quota
+7.—(1) Where, in column 2 of the Preferential Quota Table, it states “Yes”, goods classified against the commodity code in that row are origin quota goods and are subject to goods-specific rules of origin within the limits of a quota (the “origin quota”) as set out in the relevant origin reference document to an Agreement for the purpose of that Agreement.
+(2) Each origin quota is to be identified by a quota number.
+(3) On application to HMRC by the importer or the importer's representative, goods that qualify as origin quota goods are subject to the preferential quota duty rate determined in accordance with regulation 4(3).
+(4) An application under paragraph (3) must be made in the Customs declaration for release to free circulation or authorised use relating to the relevant goods.
+Commencement Information
+I1
+Reg. 7 not in force at made date, see reg. 1(1)
+I2
+Reg. 7 in force at 31.12.2020 by S.I. 2020/1643, reg. 2, Sch.Quota periods
+8.—(1) Subject to paragraph (2), each period during which a quota applies (“the quota period”) commences at the beginning of the day which falls on a date specified in column 6 of the Preferential Quota Table (“the quota open date”) and finishes at the end of the day which falls on the corresponding date specified in column 7 of that Table (“the quota close date”) in respect of each quota.
+(2) Where an Agreement takes effect on a date which, in respect of a particular quota number, falls between the relevant quota open date and the relevant quota close date—
+(a)
+the quota period is to be adjusted so that it begins with the day which falls on the date on which the Agreement takes effect and ends with the quota close date for the relevant quota (“adjusted quota period”); and
+(b)
+the quota open date for each subsequent such quota is to revert to the date specified in column 6 of the Preferential Quota Table.
+(3) For the purposes of paragraph (2), as it has effect in relation to an Agreement described in column 1 of the table in Schedule 1 in respect of which arrangements are in place for applying the effect of that Agreement, the date on which the Agreement takes effect is the date on which such arrangements take effect.
+Commencement Information
+I1
+Reg. 8 not in force at made date, see reg. 1(1)
+I2
+Reg. 8 in force at 31.12.2020 by S.I. 2020/1643, reg. 2, Sch.Quota volumes
+9.—(1) Subject to paragraph (2), the quota volume for each quota during the quota period is as set out in column 5 of the Preferential Quota Table as a figure or figures and unit of measure or a formula for calculating the quota volume against the relevant quota number in column 1 in the same row of that Table.
+(2) Where, by virtue of regulation 8(2), an adjusted quota period exists in respect of a particular quota number then, for the purposes of an Agreement, the quota volume for that quota is also to be adjusted on a pro-rata basis in accordance with paragraph (3).
+(3) The pro-rata adjustment to the quota volume referred to in paragraph (2) is to be calculated by dividing QV by DQP and the resulting number then being multiplied by AQP where—
+(a)
+QV is the quota volume for the relevant quota;
+(b)
+DQP is the number of days in the quota period (including the quota open date and the quota close date) for the relevant quota; and
+(c)
+AQP is the number of days in the period beginning with the day on which the Agreement takes effect and ending with the quota close date for the relevant quota.
+(4) For the purposes of paragraph (3)(c) as it has effect in relation to an Agreement described in column 1 of the table in Schedule 1 in respect of which arrangements are in place for applying the effect of that Agreement, the date on which the Agreement takes effect is the date on which such arrangements take effect.
+Commencement Information
+I1
+Reg. 9 not in force at made date, see reg. 1(1)
+I2
+Reg. 9 in force at 31.12.2020 by S.I. 2020/1643, reg. 2, Sch.Deductions from quotas
+10.—(1) Deductions from the quota volume must be allocated against the quantity of the imported goods subject to the relevant quota in the order in which HMRC accepted the request to benefit from the quota for those goods together with the Customs declaration for free circulation or authorised use.
+(2) For the purposes of paragraph (1), the order of acceptance by HMRC of a request to benefit from a quota is to be determined by reference to the date of acceptance by HMRC of the Customs declaration for free circulation or authorised use of the relevant goods into the United Kingdom.
+(3) Where the Customs declaration for a request referred to in paragraph (1) is accepted by HMRC on 1st, 2nd or 3rd January of any year, the declaration is deemed to have been accepted on 3rd January of the same year or, if 3rd January is not a working day, on the next working day following 3rd January.
+(4) Subject to paragraph (7), the quantity to be deducted from the quota volume for preferential quota goods or origin quota goods is the quantity of any such goods for which HMRC has accepted the request to benefit from the relevant quota.
+(5) When the quantity of preferential quota goods or, as the case may be, origin quota goods deducted from the relevant quota volume for those goods in any quota period is equal to the quota volume for that period in column 5 of the Preferential Quota Table, the quota is exhausted.
+(6) Where the acceptance by HMRC of a request referred to in paragraph (1) occurs on the same day as the acceptance by HMRC of the associated Customs declaration for release of the goods for free circulation or authorised use into the United Kingdom, acceptance of the request and of the Customs declaration is to be treated as having occurred simultaneously.
+(7) On a day when the total quantity of preferential quota goods or, as the case may be, origin quota goods for which requests under paragraph (1) are accepted by HMRC exceeds the remaining quota volume for any such goods, deductions must be apportioned between all such requests on a pro rata basis calculated by reference to the quantity of any such goods requested in each case.
+(8) For the purposes of this regulation, where a quota (a “linked quota”) is linked to one or more other quotas, as indicated in the Preferential Quota Table, a deduction from the linked quota in respect of a quantity of imported quota goods is to also operate as a deduction in respect of the same amount of goods from each of the other quotas.
+(9) This regulation does not apply to preferential quota goods referred to in regulation 4(2).
+Commencement Information
+I1
+Reg. 10 not in force at made date, see reg. 1(1)
+I2
+Reg. 10 in force at 31.12.2020 by S.I. 2020/1643, reg. 2, Sch.Allocation of the quota volume
+11.—(1) Deductions from the quota volume under regulation 10 in respect of the importation of preferential quota goods or origin quota goods into the United Kingdom must not be allocated to any requests to benefit any earlier than the first working day after the date of acceptance by HMRC of the Customs declaration for free circulation or authorised use for those goods.
+(2) Allocation of the quota volume by HMRC must take account of all requests to benefit from the preferential quota or, as the case may be, origin quota which were accepted by HMRC together with Customs declarations for free circulation or authorised use up to and including the last working day prior to the day of allocation of the relevant quota.
+(3) Where, on any day, the total quantity of any preferential quota goods or, as the case may be, origin quota goods in respect of which requests to benefit from a relevant quota have been accepted by HMRC, together with the Customs declaration for free circulation or authorised use, exceeds the quota volume or remaining quota volume for those goods, the quota volume, or remaining quota volume, for those goods must be allocated on a pro rata basis calculated by reference to the requests for quantities of goods to be treated as preferential quota goods or, as the case may be, origin quota goods and declared for free circulation or authorised use.
+(4) Where a quantity of goods has been allocated to a preferential quota or, as the case may be, origin quota on the basis of incorrect information or an error by the person who made the declaration or HMRC, then the remaining quota volume must be adjusted accordingly to take account of the incorrect information or error.
+(5) This regulation does not apply to preferential quota goods referred to in regulation 4(2).
+Commencement Information
+I1
+Reg. 11 not in force at made date, see reg. 1(1)
+I2
+Reg. 11 in force at 31.12.2020 by S.I. 2020/1643, reg. 2, Sch.Critical quotas
+12.—(1) Where goods are subject to a quota and the quota is designated critical under paragraph (2) or (3), security for the full amount of duty at the standard rate must, unless otherwise directed by HMRC, be provided to HMRC at the time of a request to benefit from the quota.
+(2) Subject to paragraph (3), a quota becomes critical when HMRC gives notice that 90 percent of the whole quota volume has been allocated.
+(3) HMRC may publish a notice—
+(a)
+varying the percentage figure to be applied under paragraph (2) in respect of the goods for the period specified in the notice; or
+(b)
+providing for other cases where a quota becomes critical in respect of specific goods.
+(4) This regulation does not apply to preferential quota goods referred to in regulation 4(2).
+Commencement Information
+I1
+Reg. 12 not in force at made date, see reg. 1(1)
+I2
+Reg. 12 in force at 31.12.2020 by S.I. 2020/1643, reg. 2, Sch.Retaining commodity codes
+13.  Where a commodity code specified in the Preferential Quota Table or relevant origin reference document to an Agreement for the purposes of that Agreement is deleted without being replaced in the Goods Classification Table then, for the purposes of applying the preferential quota or relevant origin quota, the original code in the Preferential Quota Table or, as the case may be, that relevant origin reference document, continues to apply to goods as originally classified under that code.
+Commencement Information
+I1
+Reg. 13 not in force at made date, see reg. 1(1)
+I2
+Reg. 13 in force at 31.12.2020 by S.I. 2020/1643, reg. 2, Sch.Proof of origin
+14.—(1) Proof that goods qualify as originating goods must be provided by a proof of origin that meets the conditions set out in the relevant origin reference document to an Agreement for the purposes of that Agreement.
+(2) On presentation of the goods on importation into the United Kingdom, the importer or the importer's representative must, on receipt of a request from HMRC, present to HMRC the proof of origin described in paragraph (1) relating to the goods.
+(3) The importer or the importer's representative may, on receipt of a request from HMRC, provide a single proof of origin in relation to the importation of a series of goods that are unassembled or disassembled products as provided for in the relevant Origin Reference Document to an Agreement for the purposes of that Agreement.
+(4) If at any time the importer or the importer's representative becomes aware or has reason to believe that the proof of origin described in paragraph (1) contains incorrect information, that person must immediately give notice to HMRC in writing of any change which affects the originating status of the goods covered by that proof of origin and, where that change gives rise to additional duty, pay that duty.
+Commencement Information
+I1
+Reg. 14 not in force at made date, see reg. 1(1)
+I2
+Reg. 14 in force at 31.12.2020 by S.I. 2020/1643, reg. 2, Sch.Period of validity of a proof of origin
+15.—(1) A proof of origin described in regulation 14(1) is valid for—
+(a)
+the period set out in the relevant origin reference document to an Agreement for the purpose of that Agreement; or
+(b)
+in any case where the relevant origin reference document allows for the setting of a longer validity period, for the period of two years from the date on which that proof of origin was issued.
+(2) A proof of origin presented to HMRC by an importer or an importer's representative after the expiry of the period referred to in paragraph (1) may be accepted by HMRC if HMRC is satisfied that—
+(a)
+the proof of origin is genuine;
+(b)
+the originating status of the goods to which the proof of origin relates can still be confirmed; and
+(c)
+there are reasonable grounds for the proof of origin not having been presented before the expiry of the period of its validity.
+Commencement Information
+I1
+Reg. 15 not in force at made date, see reg. 1(1)
+I2
+Reg. 15 in force at 31.12.2020 by S.I. 2020/1643, reg. 2, Sch.Backdated claims for the preferential rate
+16.—(1) Where originating goods are imported into the United Kingdom and, at the time of their importation, the importer or the importer's representative—
+(a)
+does not have—
+(i)
+the proof of origin as required by regulation 14(1); or
+(ii)
+such information or documents as are requested by HMRC under [F1regulation 19] in order to verify the originating status of those goods; and
+(b)
+pays the applicable standard rate of import duty in respect of those goods,
+the importer, or the person who paid the import duty, may make a claim for partial repayment of the import duty on presentation to HMRC of a valid proof of origin relating to the goods or such information or documents as are required by HMRC to verify the originating status of the goods after their importation.
+(2) The amount of duty which may be repaid in respect of a claim under paragraph (1) is the difference between the amount of duty which the importer, or other person, paid at the time of importation of the goods into the United Kingdom (which is the standard rate of import duty under the Customs Tariff (Establishment) (EU Exit) Regulations 2020) and the preferential duty rate or quota duty rate which applied at that time.
+(3) A repayment of import duty under this regulation must only be granted where HMRC is satisfied that—
+(a)
+the claim for repayment is made within a period of three years from the date of importation;
+(b)
+the declaration presented after importation is genuine; and
+(c)
+the originating status of the goods to which the declaration relates can still be verified.
+(4) For the purposes of this regulation, “the date of importation” is the date of acceptance by HMRC of the declaration for free circulation or authorised use into the United Kingdom relating to the relevant goods.
+(5) This regulation does not apply to preferential quota goods referred to in regulation 4(2).
+Textual Amendments
+F1
+Words in reg. 16(1)(a)(ii) substituted (17.11.2021) by The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/1192), regs. 1(2), 3
+Commencement Information
+I1
+Reg. 16 not in force at made date, see reg. 1(1)
+I2
+Reg. 16 in force at 31.12.2020 by S.I. 2020/1643, reg. 2, Sch.Proof of origin: transport through a third country
+17.—(1) Upon receipt of a request from HMRC, the importer or the importer's representative must provide documents of the type specified in the relevant origin reference document to an Agreement for the purposes of that Agreement to prove that goods that have previously undergone production—
+(a)
+were transported in accordance with that relevant origin reference document;
+(b)
+have not undergone further production that is not permitted by the Agreement outside the territories of the Parties; and
+(c)
+have remained under the control of HMRC while outside of those territories to the extent required by the Agreement.
+(2) For the purposes of paragraph (1)—
+(a)
+“production” means any kind of working or processing, including such operations as growing, raising, harvesting, manufacturing, assembling or disassembling of the goods; and
+(b)
+“further production” does not include unloading, reloading, or any other operation necessary to preserve the goods in a good condition.
+Commencement Information
+I1
+Reg. 17 not in force at made date, see reg. 1(1)
+I2
+Reg. 17 in force at 31.12.2020 by S.I. 2020/1643, reg. 2, Sch.Exceptions from the requirement for proof of origin
+18.—(1) Subject to paragraph (2), it is not necessary to provide a proof of origin under regulation 14(1) in respect of any originating goods presented to HMRC—
+(a)
+that are exempt from the requirement to provide a proof of origin under the relevant origin reference document; or
+(b)
+the value of which falls below such de minimis threshold amount as HMRC may publish in a notice.
+(2) The exception in paragraph (1) does not apply where HMRC is satisfied that an importer or an importer's representative has undertaken or arranged a series of importations of originating goods with the intention of avoiding the requirement to provide a proof of origin under regulation 14 in respect of those goods.
+(3) This regulation does not apply to preferential quota goods referred to in regulation 4(2).
+Commencement Information
+I1
+Reg. 18 not in force at made date, see reg. 1(1)
+I2
+Reg. 18 in force at 31.12.2020 by S.I. 2020/1643, reg. 2, Sch.Verification of originating status
+19.—(1) HMRC may, in the circumstances described in paragraph (2), request the importer or the importer's representative to produce such information or documents as are necessary to verify the originating status of any goods at the time those goods were presented to HMRC.
+(2) The circumstances described in this paragraph are where the relevant origin reference document to an Agreement for the purposes of that Agreement requires the provision of information that is within the knowledge of the importer or the importer's representative in order to verify that goods are originating goods.
+Commencement Information
+I1
+Reg. 19 not in force at made date, see reg. 1(1)
+I2
+Reg. 19 in force at 31.12.2020 by S.I. 2020/1643, reg. 2, Sch.Re-imported goods (United Kingdom: Switzerland)
+20.—(1) Relief may be given by HMRC in accordance with paragraph (2) from a liability to pay import duty in respect of any goods described in paragraph (3) (“re-imported goods”).
+(2) The relief referred to in paragraph (1) must be given—
+(a)
+by reference to the preferential rate for goods of Swiss origin as listed in column 1 of the Table of Re-imported Goods Subject to Relief under the Trade Agreement between the United Kingdom of Great Britain and Northern Ireland and the Swiss Confederation signed on 11th February 2019 (“the Switzerland Trade Agreement”) F1; and
+(b)
+in respect of the amount by which, but for the existence of the Switzerland Trade Agreement, the rate of import duty for the re-imported goods would exceed the preferential rate of import duty which applies to goods of Swiss origin which are of the same commodity code as the re-imported goods.
+(3) The goods described in this paragraph are goods—
+(a)
+which originate in the United Kingdom in accordance with the conditions specified in the Switzerland Trade Agreement;
+(b)
+are of a commodity code that appears in column 1 of the Table of Re-imported Goods Subject to Relief under the Switzerland Trade Agreement; and
+(c)
+in respect of which such proof of United Kingdom origin as is required under the terms of the Switzerland Trade Agreement is, on receipt of a request from Customs, provided to HMRC by the importer or the importer's representative.
+Textual Amendments
+F1
+The Switzerland Trade Agreement is available at: https://www.gov.uk/government/collections/customs-vat-and-excise-uk-transition-legislation-from-1-january-2021. Hard copies are held and available for viewing at the Department for International Trade, 3 Whitehall Place, London SW1A 2AW.
+Commencement Information
+I1
+Reg. 20 not in force at made date, see reg. 1(1)
+I2
+Reg. 20 in force at 31.12.2020 by S.I. 2020/1643, reg. 2, Sch.United Kingdom - Crown Dependencies Customs Union: Modifications
+21.  The provisions of the Act and of these Regulations that are referred to in Schedule 2 have effect, in respect of customs matters to which these Regulations apply, as modified by that Schedule.
+Commencement Information
+I1
+Reg. 21 not in force at made date, see reg. 1(1)
+I2
+Reg. 21 in force at 31.12.2020 by S.I. 2020/1643, reg. 2, Sch.Michael Tomlinson
+Rebecca Harris
+Two of the Lord's Commissioners of Her Majesty's Treasury
+Greg Hands
+Minister of State for Trade Policy
+Department of International TradeRegulation 1(4)
+[F1SCHEDULE 1
+Agreements to which these Regulations apply
+Textual Amendments
+F1
+Sch. 1 substituted (31.12.2020) by The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1657), reg. 1, Sch. 1
+Agreement Preferential Tariff Origin Reference Document
+[F2Partnership, Trade and Cooperation Agreement between the United Kingdom of Great Britain and Northern Ireland and the Republic of Albania, signed on 5th February 2021.] [F3The Albania Preferential Tariff, version 1.4, dated 12th April 2023.] [F4The Albania Origin Reference Document, version 1.1, dated 28th December 2021.]
+[F5Trade Agreement establishing an Association between the United Kingdom of Great Britain and Northern Ireland, of the one part and the Republic of Colombia, the Republic of Ecuador and the Republic of Peru, of the other part, signed on 15th May 2019.]
+[F6The Andean Countries Preferential Tariff, version 1.7, dated 7th November 2023.] [F7The Andean Countries Origin Reference Document, version 1.3, dated 31st May 2022.]
+[F8Free Trade Agreement between the United Kingdom of Great Britain and Northern Ireland and Australia signed on 16th December 2021.] [F9The Australia Preferential Tariff, version 1.1, dated 5th December 2023.] [F10The Australia Origin Reference Document, version 1.0, dated 20th February 2023.]
+Interim Agreement establishing an Economic Partnership Agreement between the United Kingdom of Great Britain and Northern Ireland, [F11of the one part,] and the Republic of Cameroon, [F12of the other part,] signed on 9th March 2021. [F13The Cameroon Preferential Tariff, version 1.2, dated 27th April 2021.] [F14The Cameroon Origin Reference Document, version 1.3, dated 28th December 2021.]
+Memorandum of Understanding between the United Kingdom of Great Britain and Northern Ireland and the Republic of Cameroon concerning the arrangements for applying the effects of the Interim Agreement establishing an Economic Partnership Agreement between the United Kingdom of Great Britain and Northern Ireland on the one part, and the Republic of Cameroon on the other part, signed 28th December 2020. F15... F16...
+Trade Continuity Agreement between the United Kingdom of Great Britain and Northern Ireland and Canada, signed by Canada on 9th December 2020. [F17The Canada Preferential Tariff, version 1.7, dated 5th December 2023.] [F18The Canada Origin Reference Document, version 1.3, dated 5th December 2023.]
+Memorandum of Understanding between the United Kingdom of Great Britain and Northern Ireland and Canada concerning the temporary arrangements to continue certain effects of the Canada-European Union Comprehensive Economic and Trade Agreement pending the entry into force or provisional application of the Trade Continuity Agreement between the United Kingdom of Great Britain and Northern Ireland, of the other part, signed by Canada on 22nd December 2020.
+[F19Economic Partnership Agreement between the CARIFORUM States , of the one part, and the United Kingdom of Great Britain and Northern Ireland, of the other part, signed on 22nd March 2019 by Barbados, Belize, the Commonwealth of Dominica, Grenada, the Republic of Guyana, Jamaica, Saint Christopher and Nevis, Saint Lucia, Saint Vincent and the Grenadines and the United Kingdom of Great Britain and Northern Ireland; on 1st April 2019 by the Republic of Trinidad and Tobago; on 4th April 2019 by the Dominican Republic; and on 6th June 2019 by Antigua and Barbuda; and on 27th November 2019 by the Commonwealth of the Bahamas; and on 4th March 2021 by the Republic of Suriname; and applied between the United Kingdom of Great Britain and Northern Ireland, of the one part, and Antigua and Barbuda, Barbados, Belize, the Commonwealth of the Bahamas, the Commonwealth of Dominica, the Dominican Republic, Grenada, the Republic of Guyana, Jamaica, Saint Christopher and Nevis, Saint Lucia, Saint Vincent and the Grenadines and the Republic of Suriname, of the other part.] [F20The CARIFORUM Preferential Tariff, version 1.1, dated 22nd March 2021.] [F21The CARIFORUM Origin Reference Document, version 1.2, dated 28th December 2021.]
+F22...
+Memorandum of Understanding between the United Kingdom of Great Britain and Northern Ireland and the Republic of Trinidad and Tobago concerning the arrangements for applying the effects of the Economic Partnership Agreement between the CARIFORUM States of the one part, and the United Kingdom of Great Britain and Northern Ireland, of the other part, signed by the Republic of Trinidad and Tobago on 9th December 2020.
+Agreement establishing an Association between the United Kingdom of Great Britain and Northern Ireland and Central America signed on 18th July 2019 by the United Kingdom of Great Britain and Northern Ireland on the one part and the Republic of Costa Rica the Republic of El Salvador the Republic of Guatemala the Republic of Honduras the Republic of Nicaragua and the Republic Panama on the other part. [F23The Central America Preferential Tariff, version 2.5, dated 7th November 2023.] [F24The Central America Origin Reference Document, version 1.2, dated 22nd February 2022.]
+Agreement establishing an Association between the United Kingdom of Great Britain and Northern Ireland and the Republic of Chile, signed on 30th January 2019. [F25The Chile Preferential Tariff, version 2.5, dated 7th November 2023.] [F26The Chile Origin Reference Document, version 1.2, dated 22nd February 2022.]
+Stepping Stone Economic Partnership Agreement between the United Kingdom of Great Britain and Northern Ireland, of the one part, and Côte d’Ivoire, of the other part, signed on 15th October 2020. The Côte d’Ivoire Preferential Tariff, version 1.0, dated 7th December 2020. [F27The Côte d’Ivoire Origin Reference Document, version 1.1, dated 28th December 2021.]
+[F28The Comprehensive and Progressive Agreement for Trans-Pacific Partnership (“CPTPP”), signed on 8th March 2018, including the Protocol on the Accession of the United Kingdom of Great Britain and Northern Ireland to the Comprehensive and Progressive Agreement for Trans-Pacific Partnership, signed on 16th July 2023 by Australia, Brunei Darussalam, Canada, the Republic of Chile, Japan, Malaysia, the United Mexican States, New Zealand, the Republic of Peru, the Republic of Singapore, the Socialist Republic of Viet Nam and the United Kingdom of Great Britain and Northern Ireland.] [F29The CPTPP Preferential Tariff, version 1.0, dated 21st March 2024.] [F30The CPTPP Origin Reference Document, version 1.0, dated 21st March 2024.]
+[F31Agreement establishing an Economic Partnership between the Eastern and Southern Africa States, on the one part, and the United Kingdom of Great Britain and Northern Ireland, on the other part, signed by the Republic of Mauritius, the Republic of Seychelles and the Republic of Zimbabwe on 31st January 2019, signed by the Republic of Madagascar on 4th November 2021 and signed by the Union of Comoros on 11th April 2022, and applied between the United Kingdom of Great Britain and Northern Ireland, of the one part, and the Republic of Mauritius, the Republic of Seychelles and the Republic of Zimbabwe, of the other part.] [F32The Eastern and Southern Africa States Preferential Tariff, version 2.1, dated 7th November 2023.] [F33The Eastern and Southern African States Origin Reference Document, version 1.1, dated 28th December 2021.]
+Agreement establishing an Association between the United Kingdom of Great Britain and Northern Ireland and the Arab Republic of Egypt, signed on 5th December 2020. [F34The Egypt Preferential Tariff, version 1.4, dated 7th November 2023.] [F35The Egypt Origin Reference Document, version 1.1, dated 28th December 2021.]
+[F36Trade and Cooperation Agreement between the United Kingdom of Great Britain and Northern Ireland, of the one part, and the European Union and the European Atomic Energy Community, of the other part, signed on 30th December 2020.] The European Union Preferential Tariff, version 1.0 dated 30th December 2020. [F37The European Union Origin Reference Document, version 1.2, dated 20th December 2023.]
+Free Trade Agreement between the United Kingdom of Great Britain and Northern Ireland and the Kingdom of Denmark in respect of the Faroe Islands, signed on 31st January 2019. [F38The Faroe Islands Preferential Tariff, version 2.4, dated 7th November 2023.] [F39The Faroe Islands Origin Reference Document, version 1.1, dated 28th December 2021.]
+Agreement establishing a Strategic Partnership and Cooperation Agreement between the United Kingdom of Great Britain and Northern Ireland and Georgia, signed on 21st October 2019. [F40The Georgia Preferential Tariff, version 1.1, dated 8th June 2021.] [F41The Georgia Origin Reference Document, version 1.2, dated February 22nd 2022.]
+[F42Interim Trade Partnership Agreement between the United Kingdom of Great Britain and Northern Ireland, of the one part, and the Republic of Ghana, of the other part, signed on 2nd March 2021.] [F43The Ghana Preferential Tariff, version 1.0, dated 2nd March 2021.] [F44The Ghana Origin Reference Document, version 1.1, dated 28th December 2021.]
+F45... F45... F45...
+[F46Free Trade Agreement between Iceland, the Principality of Liechtenstein and the Kingdom of Norway and the United Kingdom of Great Britain and Northern Ireland signed on 8th July 2021.] [F47The Iceland-Norway Preferential Tariff, version 2.1, dated 12th April 2023.] [F48The Iceland-Norway Origin Reference Document, version 2.0, dated 5th August 2022.]
+Trade and Partnership Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the State of Israel, signed on 18th February 2019. [F49The Israel Preferential Tariff, version 2.4, dated 5th December 2023.] [F50The Israel Origin Reference Document, version 1.1, dated 28th December 2021.]
+2
+Agreement between the United Kingdom of Great Britain and Northern Ireland and Japan for a Comprehensive Economic Partnership, signed on 23rd October 2020. [F51The Japan Preferential Tariff, version 2.7, dated 7th November 2023.] [F52The Japan Origin Reference Document, version 1.1, dated 28th December 2021.]
+[F53Agreement Establishing an Association between the United Kingdom of Great Britain and Northern Ireland and the Hashemite Kingdom of Jordan, signed on 5th November 2019.] [F54The Jordan Preferential Tariff, version 1.2, dated 28th December 2021.] [F55The Jordan Origin Reference Document, version 1.1, dated 28th December 2021.]
+Economic Partnership Agreement between the United Kingdom of Great Britain and Northern Ireland, of the one part, and the Republic of Kenya, [F56a Member of the East African Community,] of the other part, signed on 8th December 2020 The Kenya Preferential Tariff, version 1.0, dated 29th December 2020. [F57The Kenya Origin Reference Document, version 1.1, dated 28th December 2021.]
+Memorandum of Understanding between the United Kingdom of Great Britain and Northern Ireland and the Republic of Kenya, concerning the arrangements for applying the effects of the Economic Partnership Agreement between the Republic of Kenya, a Member of the East African Community, of the one part, and the United Kingdom of Great Britain and Northern Ireland of the other part, signed on 8th December 2020.
+[F58Free Trade Agreement between the United Kingdom of Great Britain and Northern Ireland and the Republic of Korea, signed on 22nd August 2019.] [F59The Republic of Korea Preferential Tariff, version 2.1, dated 8th June 2021. ] [F60The Republic of Korea Origin Reference Document, version 1.2, dated 7th November 2023.]
+Partnership, Trade and Cooperation Agreement between the United Kingdom of Great Britain and Northern Ireland and
+the Republic of Kosovo, signed on 3rd December 2019.
+[F61The Kosovo Preferential Tariff, version 2.4, dated 12th April 2023.] [F62The Kosovo Origin Reference Document, version 1.1, dated 28th December 2021.]
+Agreement establishing an Association between the United Kingdom of Great Britain and Northern Ireland and the Republic of Lebanon, signed on 19th September 2019. [F63The Lebanon Preferential Tariff, version 1.4, dated 5th December 2023.] [F64The Lebanon Origin Reference Document, version 2.1, dated 28th December 2021.]
+Additional Agreement between the United Kingdom of Great Britain and Northern Ireland, the Swiss Confederation and the Principality of Liechtenstein extending to the Principality of Liechtenstein certain provisions of the Trade Agreement between the United Kingdom of Great Britain and Northern Ireland and the Swiss Confederation (“the Liechtenstein Agreement”), signed on 11th February 2019. [F65The Switzerland and Liechtenstein Preferential Tariff, version 1.3, dated 5th December 2023.] [F66The Switzerland and Liechtenstein Origin Reference Document, version 1.0, dated 22nd February 2022.]
+Trade Continuity Agreement between the United Kingdom of Great Britain and Northern Ireland and the United Mexican States, signed on 15th December 2020. [F67The Mexico Preferential Tariff, version 1.4, dated 7th November 2023.] [F68The Mexico Origin Reference Document, version 1.2, dated 5th November 2023.]
+Trade Continuity Agreement between the United Kingdom of Great Britain and Northern Ireland and the United Mexican States, supplementary Exchange of Notes dated 29th December 2020.
+Strategic Partnership, Trade and Co-operation Agreement between the United Kingdom of Great Britain [F69and Northern Ireland] and the Republic of Moldova signed on 29th December 2020. [F70The Moldova Preferential Tariff, version 1.2, dated 3rd July 2023.] [F71The Moldova Origin Reference Document, version 1.1, dated 28th December 2021.]
+Agreement establishing an association between the United Kingdom of Great Britain and Northern Ireland and the Kingdom of Morocco, signed on 26th October 2019. [F72The Morocco Preferential Tariff, version 2.3, dated 12th April 2023.] [F73The Morocco Origin Reference Document, version 1.1, dated 28th December 2021.]
+[F74Free Trade Agreement between the United Kingdom of Great Britain and Northern Ireland and New Zealand signed on 28th February 2022.] [F75The New Zealand Preferential Tariff, version 1.2, dated 5th December 2023.] [F76The New Zealand Origin Reference Document, version 1.0, dated 20th February 2023.]
+Partnership, Trade and Cooperation Agreement between the United Kingdom of Great Britain and Northern Ireland and the Republic of North Macedonia signed on 3rd December 2020. [F77The North Macedonia Preferential Tariff, version 1.3, dated 31st May 2022.] [F78The North Macedonia Origin Reference Document, version 1.1, dated 28th December 2021.]
+[F79Interim Economic Partnership Agreement between the United Kingdom of Great Britain and Northern Ireland, of the one part, and the Pacific States, of the other part, signed by the Republic of Fiji and the Independent State of Papua New Guinea on 14th March 2019, applied by Solomon Islands following the deposit of an act of accession on 19th January 2022 and applied by the Independent State of Samoa following the deposit of an act of accession on 4th February 2022.] [F80The Pacific States Preferential Tariff, version 2.1, dated 22nd February 2022.] [F81The Pacific States Origin Reference Document, version 2.3, dated 22nd February 2022.]
+Interim Political, Trade and Partnership Agreement between the United Kingdom of Great Britain and Northern Ireland, of the one part, and the Palestine Liberation Organization (PLO) for the benefit of the Palestinian Authority of the West Bank and the Gaza Strip, of the other part, signed on 18th February 2019. [F82The Palestinian Authority Preferential Tariff, version 1.1, dated 8th June 2021.] [F83The Palestinian Authority Origin Reference Document, version 1.1, dated 28th December 2021.]
+[F84Partnership, Trade and Cooperation Agreement between the United Kingdom of Great Britain and Northern Ireland and the Republic of Serbia, signed on 16th April 2021.] [F85The Serbia Preferential Tariff, version 1.3, dated 7th November 2023.] [F86The Serbia Origin Reference Document, version 1.1, dated 28th December 2021.]
+Free Trade Agreement between the United Kingdom of Great Britain and Northern Ireland and the Republic of Singapore signed on 10th December 2020. [F87The Singapore Preferential Tariff, version 1.6, dated 5th December 2023.] [F88The Singapore Origin Reference Document, version 1.1, dated 28th December 2021.]
+The Economic Partnership Agreement between the [F89Southern African Customs Union] Member States and Mozambique, of the one part, and the United Kingdom of Great Britain and Northern Ireland of the other part, signed by the United Kingdom of Great Britain and Northern Ireland, the Republic of Botswana, the Kingdom of Eswatini, the Kingdom of Lesotho, the Republic of Mozambique and the Republic of Namibia on 9th October 2019 and by the Republic of South Africa on 16th October 2019. [F90The Southern African Customs Union and Mozambique Preferential Tariff, version 1.6, dated 5th December 2023.] [F91The Southern African Customs Union and Mozambique Origin Reference Document, version 1.1, dated 28th December 2021.]
+Trade Agreement between the United Kingdom of Great Britain and Northern Ireland and the Swiss Confederation, signed on 11th February 2019. [F92The Switzerland and Liechtenstein Preferential Tariff, version 1.3, dated 5th December 2023.] [F93The Switzerland and Liechtenstein Origin Reference Document, version 1.0, dated 22nd February 2022.]
+Agreement establishing an Association between the United Kingdom of Great Britain and Northern Ireland and the Republic of Tunisia, signed on 4th October 2019. [F94The Tunisia Preferential Tariff, version 2.4, dated 5th December 2023.] [F95The Tunisia Origin Reference Document, version 1.1, dated 28th December 2021.]
+[F96The Free Trade Agreement between the United Kingdom of Great Britain and Northern Ireland and the Republic of Turkey, signed on 29th December 2020.] [F97The Turkey Preferential Tariff, version 1.4, dated 7th November 2023.] [F98The Turkey Origin Reference Document, version 1.4, dated 20th December 2023.]
+Political, Free Trade and Strategic Partnership Agreement establishing an Association between the United Kingdom of Great Britain and Northern Ireland and Ukraine, signed on 8th October 2020. [F99The Ukraine Preferential Tariff, version 1.6, dated 5th March 2024.] [F100The Ukraine Origin Reference Document, version 1.1, dated 28th December 2021.]
+Free Trade Agreement establishing an Association between the United Kingdom of Great Britain and Northern Ireland and the Socialist Republic of Viet Nam, signed on 29th December 2020. [F101The Viet Nam Preferential Tariff, version 1.6, dated 5th December 2023.] [F102The Viet Nam Origin Reference Document, version 1.1, dated 28th December 2021.]]
+Textual Amendments
+F2
+Words in Sch. 1 inserted (3.5.2021) by The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) Regulations 2021 (S.I. 2021/382), regs. 1(3)(a), 3(2)(a)
+F3
+Words in Sch. 1 substituted (10.5.2023) by The Customs Tariff (Preferential Trade Arrangements and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/433), regs. 1(2), 6(3)(a)
+F4
+Words in Sch. 1 table substituted (1.1.2022) by The Customs (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1489), regs. 1, 7(2)(b)
+F5
+Words in Sch. 1 substituted (28.6.2022) by The Customs Tariff (Preferential Trade Arrangements) (Amendment) Regulations 2022 (S.I. 2022/613), regs. 1(b), 2(3)(a)
+F6
+Words in Sch. 1 substituted (1.1.2024) by The Customs (Tariff and Miscellaneous Amendments) (No. 2) Regulations 2023 (S.I. 2023/1192), regs. 1(2)(c), 7(2)
+F7
+Words in Sch. 1 substituted (28.6.2022) by The Customs Tariff (Preferential Trade Arrangements) (Amendment) Regulations 2022 (S.I. 2022/613), regs. 1(b), 2(3)(c)
+F8
+Words in Sch. 1 inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) (23.2.2023) by The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Australia) (Amendment) Regulations 2023 (S.I. 2023/195), reg. 2(2)(a)
+F9
+Words in Sch. 1 substituted (1.1.2024) by The Customs Tariff (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1339), regs. 1(2), 3(2)
+F10
+Words in Sch. 1 inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) (23.2.2023) by The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Australia) (Amendment) Regulations 2023 (S.I. 2023/195), reg. 2(2)(c)
+F11
+Words in Sch. 1 substituted (1.1.2022) by The Customs (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1489), regs. 1, 7(4)(a)(i)
+F12
+Words in Sch. 1 substituted (1.1.2022) by The Customs (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1489), regs. 1, 7(4)(a)(ii)
+F13
+Words in Sch. 1 inserted (30.4.2021) by The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment No. 2) Regulations 2021 (S.I. 2021/527), regs. 1(2), 4(2)(b)
+F14
+Words in Sch. 1 substituted (1.1.2022) by The Customs (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1489), regs. 1, 7(4)(b)
+F15
+Words in Sch. 1 omitted (30.4.2021) by virtue of The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment No. 2) Regulations 2021 (S.I. 2021/527), regs. 1(2), 4(3)(a)
+F16
+Words in Sch. 1 omitted (30.4.2021) by virtue of The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment No. 2) Regulations 2021 (S.I. 2021/527), regs. 1(2), 4(3)(b)
+F17
+Words in Sch. 1 substituted (1.1.2024) by The Customs Tariff (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1339), regs. 1(2), 3(3)(a)
+F18
+Words in Sch. 1 substituted (1.1.2024) by The Customs Tariff (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1339), regs. 1(2), 3(3)(b)
+F19
+Words in Sch. 1 substituted (14.4.2021) by The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) Regulations 2021 (S.I. 2021/382), regs. 1(2), 3(4)(a)
+F20
+Words in Sch. 1 substituted (14.4.2021) by The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) Regulations 2021 (S.I. 2021/382), regs. 1(2), 3(4)(b)
+F21
+Words in Sch. 1 substituted (1.1.2022) by The Customs (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1489), regs. 1, 7(6)
+F22
+Words in Sch. 1 omitted (14.4.2021) by virtue of The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) Regulations 2021 (S.I. 2021/382), regs. 1(2), 3(5)
+F23
+Words in Sch. 1 substituted (1.1.2024) by The Customs (Tariff and Miscellaneous Amendments) (No. 2) Regulations 2023 (S.I. 2023/1192), regs. 1(2)(c), 7(4)
+F24
+Words in Sch. 1 substituted (18.3.2022) by The Customs Tariff (Preferential Trade and Tariff Quotas) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/174), regs. 1(2), 4(3)
+F25
+Words in Sch. 1 substituted (30.11.2023) by The Customs (Tariff and Miscellaneous Amendments) (No. 2) Regulations 2023 (S.I. 2023/1192), regs. 1(2)(e), 7(5)
+F26
+Words in Sch. 1 substituted (18.3.2022) by The Customs Tariff (Preferential Trade and Tariff Quotas) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/174), regs. 1(2), 4(4)
+F27
+Words in Sch. 1 substituted (1.1.2022) by The Customs (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1489), regs. 1, 7(9)
+F28
+Words in Sch. 1 inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by The Customs Tariff (Preferential Trade Arrangements) (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) (Amendment) Regulations 2024 (S.I. 2024/424), regs. 1(2)(3), 2(2)(a)
+F29
+Words in Sch. 1 inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by The Customs Tariff (Preferential Trade Arrangements) (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) (Amendment) Regulations 2024 (S.I. 2024/424), regs. 1(2)(3), 2(2)(b)
+F30
+Words in Sch. 1 inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by The Customs Tariff (Preferential Trade Arrangements) (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) (Amendment) Regulations 2024 (S.I. 2024/424), regs. 1(2)(3), 2(2)(c)
+F31
+Words in Sch. 1 substituted (30.11.2023) by The Customs (Tariff and Miscellaneous Amendments) (No. 2) Regulations 2023 (S.I. 2023/1192), regs. 1(2)(e), 7(6)(a)
+F32
+Words in Sch. 1 substituted (30.11.2023) by The Customs (Tariff and Miscellaneous Amendments) (No. 2) Regulations 2023 (S.I. 2023/1192), regs. 1(2)(e), 7(6)(b)
+F33
+Words in Sch. 1 substituted (1.1.2022) by The Customs (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1489), regs. 1, 7(10)
+F34
+Words in Sch. 1 substituted (30.11.2023) by The Customs (Tariff and Miscellaneous Amendments) (No. 2) Regulations 2023 (S.I. 2023/1192), regs. 1(2)(e), 7(7)
+F35
+Words in Sch. 1 substituted (1.1.2022) by The Customs (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1489), regs. 1, 7(11)(b)
+F36
+Words in Sch. 1 substituted (1.1.2024) by The Customs Tariff (Preferential Trade Arrangements) (Amendment) Regulations 2023 (S.I. 2023/1436), regs. 1(2), 2(2)(a)
+F37
+Words in Sch. 1 substituted (1.1.2024) by The Customs Tariff (Preferential Trade Arrangements) (Amendment) Regulations 2023 (S.I. 2023/1436), regs. 1(2), 2(2)(b)
+F38
+Words in Sch. 1 substituted (30.11.2023) by The Customs (Tariff and Miscellaneous Amendments) (No. 2) Regulations 2023 (S.I. 2023/1192), regs. 1(2)(e), 7(8)
+F39
+Words in Sch. 1 substituted (1.1.2022) by The Customs (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1489), regs. 1, 7(13)(b)
+F40
+Words in Sch. 1 substituted (1.7.2021) by The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/693), regs. 1(2), 3(8)
+F41
+Words in Sch. 1 substituted (18.3.2022) by The Customs Tariff (Preferential Trade and Tariff Quotas) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/174), regs. 1(2), 4(5)
+F42
+Words in Sch. 1 substituted (1.1.2022) by The Customs (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1489), regs. 1, 7(15)(a)
+F43
+Words in Sch. 1 inserted (5.3.2021) by The Customs Tariff (Preferential Trade Arrangements) (EU Exit) (Amendment) Regulations 2021 (S.I. 2021/241), regs. 1(2), 2(2)(b)
+F44
+Words in Sch. 1 substituted (1.1.2022) by The Customs (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1489), regs. 1, 7(15)(b)
+F45
+Words in Sch. 1 omitted (1.9.2022) by virtue of The Customs Tariff (Preferential Trade Arrangements) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/899), regs. 1(b), 2(2)
+F46
+Words in Sch. 1 table inserted (1.12.2021) by The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/1192), regs. 1(3), 4(4)(a)
+F47
+Words in Sch. 1 substituted (10.5.2023) by The Customs Tariff (Preferential Trade Arrangements and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/433), regs. 1(2), 6(3)(h)
+F48
+Words in Sch. 1 substituted (1.9.2022) by The Customs Tariff (Preferential Trade Arrangements) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/899), regs. 1(b), 2(3)(b)
+F49
+Words in Sch. 1 substituted (1.1.2024) by The Customs Tariff (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1339), regs. 1(2), 3(4)
+F50
+Words in Sch. 1 substituted (1.1.2022) by The Customs (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1489), regs. 1, 7(17)(b)
+F51
+Words in Sch. 1 substituted (1.2.2024) by The Customs (Tariff and Miscellaneous Amendments) (No. 2) Regulations 2023 (S.I. 2023/1192), regs. 1(2)(d), 7(9)
+F52
+Words in Sch. 1 substituted (1.1.2022) by The Customs (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1489), regs. 1, 7(18)(b)
+F53
+Words in Sch. 1 inserted (1.5.2021) by The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) Regulations 2021 (S.I. 2021/382), regs. 1(3)(c), 3(8)(a)
+F54
+Words in Sch. 1 substituted (1.1.2022) by The Customs (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1489), regs. 1, 7(19)(a)
+F55
+Words in Sch. 1 substituted (1.1.2022) by The Customs (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1489), regs. 1, 7(19)(b)
+F56
+Words in Sch. 1 inserted (1.1.2022) by The Customs (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1489), regs. 1, 7(20)(a)
+F57
+Words in Sch. 1 substituted (1.1.2022) by The Customs (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1489), regs. 1, 7(20)(b)
+F58
+Words in Sch. 1 substituted (1.1.2024) by The Customs (Tariff and Miscellaneous Amendments) (No. 2) Regulations 2023 (S.I. 2023/1192), regs. 1(2)(c), 7(10)(a)
+F59
+Words in Sch. 1 substituted (1.7.2021) by The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/693), regs. 1(2), 3(11)
+F60
+Words in Sch. 1 substituted (1.1.2024) by The Customs (Tariff and Miscellaneous Amendments) (No. 2) Regulations 2023 (S.I. 2023/1192), regs. 1(2)(c), 7(10)(b)
+F61
+Words in Sch. 1 substituted (10.5.2023) by The Customs Tariff (Preferential Trade Arrangements and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/433), regs. 1(2), 6(3)(j)
+F62
+Words in Sch. 1 substituted (1.1.2022) by The Customs (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1489), regs. 1, 7(22)(b)
+F63
+Words in Sch. 1 substituted (1.1.2024) by The Customs Tariff (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1339), regs. 1(2), 3(5)
+F64
+Words in Sch. 1 substituted (1.1.2022) by The Customs (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1489), regs. 1, 7(23)(b)
+F65
+Words in Sch. 1 substituted (1.1.2024) by The Customs Tariff (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1339), regs. 1(2), 3(6)
+F66
+Words in Sch. 1 substituted (18.3.2022) by The Customs Tariff (Preferential Trade and Tariff Quotas) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/174), regs. 1(2), 4(11)(b)
+F67
+Words in Sch. 1 substituted (1.1.2024) by The Customs (Tariff and Miscellaneous Amendments) (No. 2) Regulations 2023 (S.I. 2023/1192), regs. 1(2)(c), 7(11)
+F68
+Words in Sch. 1 substituted (1.1.2024) by The Customs Tariff (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1339), regs. 1(2), 3(7)
+F69
+Words in Sch. 1 inserted (1.7.2021) by The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/693), regs. 1(2), 3(14)(a)
+F70
+Words in Sch. 1 substituted (coming into force in accordance with reg. 1(2)(b) of the amending S.I.) by The Customs (Tariff and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/774), reg. 7(3)
+F71
+Words in Sch. 1 substituted (1.1.2022) by The Customs (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1489), regs. 1, 7(26)
+F72
+Words in Sch. 1 substituted (10.5.2023) by The Customs Tariff (Preferential Trade Arrangements and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/433), regs. 1(2), 6(3)(n)
+F73
+Words in Sch. 1 substituted (1.1.2022) by The Customs (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1489), regs. 1, 7(27)(b)
+F74
+Words in Sch. 1 inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) (23.2.2023) by The Customs Tariff (Preferential Trade Arrangements) (New Zealand) (Amendment) Regulations 2023 (S.I. 2023/194), reg. 2(2)(a)
+F75
+Words in Sch. 1 substituted (1.1.2024) by The Customs Tariff (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1339), regs. 1(2), 3(8)
+F76
+Words in Sch. 1 inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) (23.2.2023) by The Customs Tariff (Preferential Trade Arrangements) (New Zealand) (Amendment) Regulations 2023 (S.I. 2023/194), reg. 2(2)(c)
+F77
+Words in Sch. 1 substituted (28.6.2022) by The Customs Tariff (Preferential Trade Arrangements) (Amendment) Regulations 2022 (S.I. 2022/613), regs. 1(b), 2(9)
+F78
+Words in Sch. 1 substituted (1.1.2022) by The Customs (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1489), regs. 1, 7(28)(b)
+F79
+Words in Sch. 1 substituted (31.3.2022) by The Customs Tariff (Preferential Trade and Tariff Quotas) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/174), regs. 1(3), 4(10)(a)
+F80
+Words in Sch. 1 substituted (31.3.2022) by The Customs Tariff (Preferential Trade and Tariff Quotas) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/174), regs. 1(3), 4(10)(b)
+F81
+Words in Sch. 1 substituted (31.3.2022) by The Customs Tariff (Preferential Trade and Tariff Quotas) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/174), regs. 1(3), 4(10)(c)
+F82
+Words in Sch. 1 substituted (1.7.2021) by The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/693), regs. 1(2), 3(17)
+F83
+Words in Sch. 1 substituted (1.1.2022) by The Customs (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1489), regs. 1, 7(31)
+F84
+Words in Sch. 1 inserted (20.5.2021) by The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment No. 2) Regulations 2021 (S.I. 2021/527), regs. 1(3)(b), 4(4)(a)
+F85
+Words in Sch. 1 substituted (30.11.2023) by The Customs (Tariff and Miscellaneous Amendments) (No. 2) Regulations 2023 (S.I. 2023/1192), regs. 1(2)(e), 7(12)
+F86
+Words in Sch. 1 substituted (1.1.2022) by The Customs (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1489), regs. 1, 7(32)(b)
+F87
+Words in Sch. 1 substituted (1.1.2024) by The Customs Tariff (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1339), regs. 1(2), 3(9)
+F88
+Words in Sch. 1 substituted (1.1.2022) by The Customs (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1489), regs. 1, 7(33)(b)
+F89
+Words in Sch. 1 substituted (1.1.2022) by The Customs (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1489), regs. 1, 7(34)(a)
+F90
+Words in Sch. 1 substituted (1.1.2024) by The Customs Tariff (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1339), regs. 1(2), 3(10)
+F91
+Words in Sch. 1 substituted (1.1.2022) by The Customs (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1489), regs. 1, 7(34)(c)
+F92
+Words in Sch. 1 substituted (1.1.2024) by The Customs Tariff (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1339), regs. 1(2), 3(11)
+F93
+Words in Sch. 1 substituted (18.3.2022) by The Customs Tariff (Preferential Trade and Tariff Quotas) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/174), regs. 1(2), 4(13)(b)
+F94
+Words in Sch. 1 substituted (1.1.2024) by The Customs Tariff (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1339), regs. 1(2), 3(12)
+F95
+Words in Sch. 1 substituted (1.1.2022) by The Customs (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1489), regs. 1, 7(36)(b)
+F96
+Words in Sch. 1 substituted (14.4.2021) by The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) Regulations 2021 (S.I. 2021/382), regs. 1(2), 3(9)(a)
+F97
+Words in Sch. 1 substituted (30.11.2023) by The Customs (Tariff and Miscellaneous Amendments) (No. 2) Regulations 2023 (S.I. 2023/1192), regs. 1(2)(e), 7(13)(a)
+F98
+Words in Sch. 1 substituted (1.1.2024) by The Customs Tariff (Preferential Trade Arrangements) (Amendment) Regulations 2023 (S.I. 2023/1436), regs. 1(2), 2(3)
+F99
+Words in Sch. 1 substituted (1.4.2024) by The Customs Tariff (Preferential Trade Arrangements) (Amendment) Regulations 2024 (S.I. 2024/303), regs. 1(2), 2(2)
+F100
+Words in Sch. 1 substituted (1.1.2022) by The Customs (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1489), regs. 1, 7(38)(b)
+F101
+Words in Sch. 1 substituted (1.1.2024) by The Customs Tariff (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1339), regs. 1(2), 3(13)
+F102
+Words in Sch. 1 substituted (1.1.2022) by The Customs (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1489), regs. 1, 7(39)(b)Regulation 21
+SCHEDULE 2
+Crown Dependencies
+Modifications in respect of Crown Dependencies: General
+1.  The provisions of the Act and of these Regulations, as modified by the following paragraphs, have effect in respect of the customs matters covered by this Schedule.
+Commencement Information
+I1
+Sch. 2 para. 1 not in force at made date, see reg. 1(1)
+I2
+Sch. 2 para. 1 in force at 31.12.2020 by S.I. 2020/1643, reg. 2, Sch.
+2.  In this Schedule, “the United Kingdom – Crown Dependencies Customs Union” means, collectively, the customs union arrangements which were specified in the Exchange of Letters and the Arrangements referred to in the following Orders in Council—
+(a)
+The Crown Dependencies Customs Union (Guernsey) (EU Exit) Order 2019 F1;
+(b)
+The Crown Dependencies Customs Union (Isle of Man) (EU Exit) Order 2019 F2;
+(c)
+The Crown Dependencies Customs Union (Jersey) (EU Exit) Order 2019 F3.
+Textual Amendments
+F1
+S.I. 2019/254.
+F2
+S.I. 2019/257.
+F3
+S.I. 2019/256.
+Commencement Information
+I3
+Sch. 2 para. 2 not in force at made date, see reg. 1(1)
+I4
+Sch. 2 para. 2 in force at 31.12.2020 by S.I. 2020/1643, reg. 2, Sch.
+Modification of the Act: Crown Dependencies
+3.—(1) In the Act—
+(a)
+for the purposes of section 9 (preferential rates: arrangements with countries or territories outside the United Kingdom), references to “arrangements” are to be read as arrangements—
+(i)
+with countries or territories outside the United Kingdom other than the Bailiwick of Guernsey, the Isle of Man or the Bailiwick of Jersey; and
+(ii)
+under which the lower rate of import duty provision agreed by the Government of the United Kingdom with other countries or territories also applies in respect of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey;
+(b)
+for the purposes of section 11 (quotas), the reference to “goods that are subject to a quota” and to “goods are subject to a quota” are to be read as including a reference to goods that are subject to a quota and goods subject to a quota under equivalent provisions of customs legislation that have effect in the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey;
+(c)
+for the purposes of section 19 (reliefs), the reference to “provision for full or partial relief from a liability to import duty” is to be read as including provision for a full or partial relief of such a liability under equivalent provisions of customs legislation that have effect in the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey.
+(2) In paragraph (1)(a)(ii), “lower rate of import duty provision” means provision of the type referred to in section 9(1)(b) of the Act (including, where applicable, provision under that section as modified by regulation 6 of the Taxation Cross-border Trade (Special Procedures Supplementary and General Provision etc.) (EU Exit) Regulations 2020 F4.
+Textual Amendments
+F4
+S.I. 2020/1439.
+Commencement Information
+I5
+Sch. 2 para. 3 not in force at made date, see reg. 1(1)
+I6
+Sch. 2 para. 3 in force at 31.12.2020 by S.I. 2020/1643, reg. 2, Sch.
+Modification of these Regulations: Crown Dependencies
+4.—(1) Where goods that are subject to a preferential quota or an origin quota by virtue of these Regulations are subject to any such quota under equivalent customs legislation in force in the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey, these Regulations are modified as follows.
+(2) References—
+(a)
+in these Regulations, except as otherwise provided in regulations 3(5) and 4(8), to “a Customs declaration under section 3(1) of the Act (obligation to declare goods for a customs procedure on import) for a free circulation or authorised use procedure” are to read as including a reference to a declaration made to the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey for an equivalent customs procedure under equivalent provisions of customs legislation that have effect in those territories; and
+(b)
+to particular provisions of these Regulations are to be read as including a reference to any equivalent provision of customs legislation in force in the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey;
+(3) In regulation 1(3)—
+(a)
+in sub-paragraph (a) the reference to “goods that are imported into the United Kingdom from any country or territory outside the United Kingdom” is to be read as including a reference to goods that are imported into the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey;
+(b)
+in sub-paragraph (b), the reference to “a claim is made by the importer or the importer's representative for a preferential rate of import duty” is to be read as including a reference to any such claim made to the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey under equivalent provisions of customs legislation that have effect in those territories.
+(4) In regulation 2—
+(a)
+in paragraph (1), the definition of “preferential quota goods” is to be read as including goods subject to a preferential quota in any territory within the United Kingdom – Crown Dependencies Customs Union, and references elsewhere in the Regulations to “adjusted quota period”, “preferential duty rate”, “Preferential Quota Table”, “quota close date”, “quota duty rate”, “quota number”, “quota open date”, “quota period” and “quota volume” are to be construed accordingly;
+(b)
+in paragraph (2), the reference to “other words and expressions have the meaning given in the Customs Tariff (Establishment) (EU Exit) Regulations 2020” is to be read as a reference to the meaning given to such words and expressions in equivalent customs legislation in force in the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey.
+(5) In regulation 3—
+(a)
+in paragraph (1)—
+(i)
+in sub-paragraph (a), the reference to “a Customs declaration under section 3(1) of the Act (obligation to declare goods for a customs procedure on import)” is to be read as including a reference to a declaration to the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey under equivalent provisions of customs legislation that have effect in those territories
+(ii)
+in sub-paragraph (b), the reference to “HMRC” is to be read as including a reference to the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey under equivalent provisions of customs legislation that have effect in those territories;
+(iii)
+in the words after sub-paragraph (b), the reference to “the United Kingdom” is to be read as including a reference to the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey;
+(b)
+in paragraph (3)—
+(i)
+in the words before sub-paragraph (a), the reference to “HMRC” is to be read as including a reference to the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey;
+(ii)
+in sub-paragraph (a), the reference to “a valid proof of origin under regulation 14” is to be read as including a reference to any such proof of origin under equivalent provisions of customs legislation that have effect in the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey;
+(iii)
+in sub-paragraph (b), the reference to “HMRC” is to be read as including the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey;
+(c)
+in paragraph (4)—
+(i)
+in sub-paragraph (a), the reference to “a Customs declaration made to HMRC under section 3(1) of the Act (obligation to declare goods for a customs procedure on import)” is to be read as including a declaration to the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey under equivalent provisions of customs legislation that have effect in those territories;
+(ii)
+in sub-paragraph (b), the reference to “that declaration is accepted by HMRC under section 4(1) of the Act (when liability to import duty incurred)” is to be read as including a reference to the acceptance of any such declaration by the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey under equivalent provisions of customs legislation that have effect in those territories;
+(iii)
+the references to “goods that are imported into the United Kingdom by their entry into Northern Ireland” are to be read as including references to goods imported into the customs territory of the United Kingdom – Crown Dependencies Customs Union by their entry into Northern Ireland.
+(6) In regulation 4—
+(a)
+in paragraph (1)—
+(i)
+in the words before sub-paragraph (a), the reference to “quota goods for which no import licence is required” is to be read as including a reference any such goods for which no import licence is required under the licensing system which applies under Part 3 of Tariff Quota Regulations, as modified by paragraphs 4(2) and 5(q) of Schedule 4 to those Regulations in relation to the requirements for a licence to import preferential quota goods by any person intending to import such goods into the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey;
+(ii)
+in sub-paragraph (a), the reference to “a Customs declaration under section 3(1) of the Act (obligation to declare goods for a customs procedure on import)” is to be read as including a reference to any such declaration to the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey under equivalent provisions of customs legislation that have effect in those territories;
+(iii)
+in sub-paragraph (b), the reference to “that declaration is accepted by HMRC under section 4(1) of the Act (when liability to import duty incurred)” is to be read as including a reference to the acceptance of any such declaration by the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey under equivalent provisions of customs legislation that have effect in those territories;
+(iv)
+in the words after sub-paragraph (b), the reference to “the United Kingdom” is to read as including a reference to “the combined territory of the United Kingdom and any other territories within the United Kingdom – Crown Dependencies Customs Union where the goods are preferential quota goods under equivalent provisions of customs legislation that have effect in the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey”;
+(b)
+in paragraph (2)—
+(i)
+in the words before sub-paragraph (a), the reference to “preferential quota goods for which an import licence is required” is to be read as including a reference to preferential quota goods in respect of which a licence to import the goods is required for the purposes of the licensing system which applies under the Part 3 of the Tariff Quota Regulations, as modified by paragraphs 4(2) and 5(q) of Schedule 4 to those Regulations, in relation to an application for a licence to import such goods by a person intending to import such goods in the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey;
+(ii)
+in sub-paragraph (a), the reference to “a Customs declaration under section 3(1) of the Act (obligation to declare goods for a customs procedure on import)” is to be read as including a reference to any such declaration to the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey under equivalent provisions of customs legislation that have effect in those territories;
+(iii)
+in sub-paragraph (b) the reference to “that declaration is accepted by HMRC under section 4(1) of the Act (when liability to import duty incurred)” is to be read as including a reference to the acceptance of any such declaration by the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey under equivalent provisions of customs legislation that have effect in those territories;
+(iv)
+in the words after sub-paragraph (b), the reference to “the United Kingdom” is to be read as including a reference to “the combined territory of the United Kingdom and any other territories within the United Kingdom – Crown Dependencies Customs Union where the goods are preferential quota goods under equivalent provisions of customs legislation in force in the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey”;
+(c)
+in paragraph (4)—
+(i)
+in sub-paragraph (b), the references to “HMRC” are to be read as including a references to the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey;
+(ii)
+in sub-paragraph (f)—
+(aa)
+the reference to “a Customs declaration for free circulation or authorised use” is to be read as including a reference to any such declaration made to the customs authorities of the Bailiwick of Guernsey, the Isle of Man and the Bailiwick of Jersey under equivalent provisions of customs legislation that have effect in those territories;
+(bb)
+the reference to “HMRC” is to be read as including a reference to the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey;
+(d)
+in paragraph (5)—
+(i)
+in paragraph (a), the reference to “originating goods in accordance with regulation 6” is to be read as including a reference to goods that are originating goods in accordance with equivalent provisions of customs legislation that have effect in the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey;
+(ii)
+in sub-paragraph (b), the reference to “a request from HMRC” is to be read as including a reference to a request from the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey;
+(iii)
+in sub-paragraph (b)(i)(aa), the reference to “a valid proof of origin in accordance with regulation 14” is to be read as including a reference to any such proof of origin in accordance with equivalent provisions of customs legislation that have effect in the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey;
+(iv)
+in sub-paragraph (b)(i)(bb), the reference to “such other information or documents as are requested by HMRC under regulation 19” is to be read as including a reference to any such information or documents as are requested by the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey;
+(v)
+in sub-paragraph (b)(ii), the reference to “present to HMRC any documents required under regulation 17” is to be read as including a reference to the presentation to the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey of any information or documents required under equivalent provisions of customs legislation that have effect in those territories;
+(vi)
+in sub-paragraph (d), the reference to “the import licence in respect of the goods is valid in accordance with regulation 35 of the Tariff Quota Regulations” is to be read as including a reference to any such licence being valid in respect of the goods under the licensing system which applies under Part 3 of those Regulations, as modified by paragraphs 4(2) and 5(q) of Schedule 4 to those Regulations in relation to an application for a licence to import such goods by a person intending to import such goods in the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey;
+(e)
+in paragraph (8)—
+(i)
+in sub-paragraph (a), the reference to “a Customs declaration under section 3(1) of the Act (obligation to declare goods for a customs procedure on import)” is to be read as including a reference to any such declaration to the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey under equivalent provisions of customs legislation that have effect in those territories;
+(ii)
+in sub-paragraph (b), the reference to “that declaration is accepted by HMRC under section 4(1) of the Act (when liability to import duty incurred)” is to be read as the acceptance of any such declaration by the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey under equivalent provisions of customs legislation that have effect in those territories;
+(iii)
+the references to “goods that are imported into the United Kingdom by their entry into Northern Ireland” are to be read as including references to goods that are imported into the customs territory of the United Kingdom – Crown Dependencies Customs Union by their entry into Northern Ireland;
+(f)
+in paragraph (9), the reference to “arrangements for a licensing system in respect of preferential quota goods under Part 3 of the Tariff Quota Regulations” is to be read as including a reference to any such arrangements under the licensing system which applies under Part 3 of those Regulations, as modified by paragraphs 4(2) and 5(q) of Schedule 4 to those Regulations in relation to an application for a licence to import such goods by a person intending to import such goods in the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey.
+(7) In regulation 5—
+(a)
+in paragraph (2)(a), the reference to “they are granted authorisation under the Customs (Special Procedures and Outward Processing) (EU Exit) Regulations 2018” is to be read as including a reference to goods that are granted authorisation under any equivalent customs legislation in force in the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey;
+(b)
+in paragraph (3), the reference to “the customs value of those goods” is, in relation to goods which are authorised goods, to be read as including a reference to the customs value of any such goods as determined in accordance with the methodology set out in any provision of customs legislation equivalent to Part 12 of the Customs (Import Duty) (EU Exit) Regulations 2018 F5 in force in the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey.
+(8) In regulation 6, the reference to “originating goods”, in the context of goods that originate in the United Kingdom as set out in the relevant origin reference document to an Agreement for the purposes of that Agreement, is to be read as including a reference to originating goods in the United Kingdom or goods that originate in any other territories within the United Kingdom – Crown Dependencies Customs Union, and any reference to “originating goods” elsewhere in the Regulations is to be construed accordingly.
+(9) In regulation 7—
+(a)
+in paragraphs (1) and (3), the references to “origin quota goods” are to be read as including references to goods subject to an origin quota in the United Kingdom or in any other territories within the United Kingdom – Crown Dependencies Customs Union and any reference elsewhere in the Regulations to “adjusted quota volume”, “quota close date”, “quota duty rate”, “quota number”, “quota open date”, “quota period” and “relevant origin reference document” is to be construed accordingly;
+(b)
+in paragraph (3), the reference to “HMRC” is to be read as including a reference to the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey;
+(c)
+in paragraph (4), the reference to “Customs declaration for release to free circulation or authorised use” is to be read as including a reference to a declaration for the release of any such goods to an equivalent procedure to the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey under equivalent provisions of customs legislation that have effect in those territories.
+(10) In regulation 10—
+(a)
+in paragraph (1), the reference to “the order in which HMRC accepted the request to benefit from the quota” is to be read as including a reference to the order of acceptance of such a request by the customs authorities Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey under equivalent provisions of customs legislation that have effect in those territories;
+(b)
+in paragraph (2)—
+(i)
+the reference to “the order of acceptance by HMRC of a request to benefit from a quota” is to be read as including a reference to the order of acceptance of such a request by the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey;
+(ii)
+the reference to “the date of acceptance by HMRC of the Customs declaration for free circulation or authorised use of the relevant goods into the United Kingdom” is to be read as including a reference to the date of acceptance by the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey of any declaration for an equivalent customs procedure for the release of goods into those territories under equivalent provisions of customs legislation that have effect in those territories;
+(c)
+in paragraphs (3)—
+(i)
+the reference to “Customs declaration” is to be read as including an equivalent declaration to the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey under equivalent provisions of customs legislation that have effect in those territories;
+(ii)
+the reference to “HMRC” is to be read as including a reference to the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey;
+(d)
+in paragraphs (4) and (7), the references to “HMRC” are to be read as including a reference to the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey;
+(e)
+in paragraph (6)—
+(i)
+the first reference to “HMRC” is to be read as including a reference to the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey;
+(ii)
+the reference to “acceptance by HMRC of the associated Customs declaration for release of the goods for free circulation or authorised use into the United Kingdom” is to be read as including a reference to the acceptance of a declaration for the release of the goods to an equivalent procedure into the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey by the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey under equivalent provisions of customs legislation that have effect in those territories.
+(11) In regulation 11—
+(a)
+in paragraph (1)—
+(i)
+the reference to “the importation of preferential quota goods or origin quota goods into the United Kingdom” is to be read as including a reference to the importation of any such goods into the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey;
+(ii)
+the reference to “the date of acceptance by HMRC of the Customs declaration for free circulation or authorised use for those goods” is to be read as including a reference to the date of acceptance by the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey of a declaration for an equivalent procedure for those goods under equivalent provisions of customs legislation that have effect in those territories;
+(b)
+in paragraph (2)—
+(i)
+the reference to “Customs declarations for free circulation or authorised use” is to be read as including declarations to the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey for an equivalent customs procedure under equivalent provisions of customs legislation that have effect in those territories;
+(ii)
+the references to “HMRC” are to be read as including a reference to the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey;
+(c)
+in paragraph (3)—
+(i)
+the reference to “the Customs declaration for free circulation or authorised use” is to be read as including the declaration to the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey for an equivalent customs procedure under equivalent provisions of customs legislation that have effect in those territories;
+(ii)
+the reference to “HMRC” is to be read as including a reference to the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey;
+(d)
+in paragraph (4), the reference to “HMRC” is to be read as including a reference to the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey.
+(12) In regulation 12, in paragraphs (1) and (2), the references to “HMRC” are to be read as including references to the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey.
+(13) In regulation 13, the reference to the “Goods Classification Table” is to be read as including a reference to any such Table made under equivalent provisions of customs legislation that have effect in the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey.
+(14) In regulation 14—
+(a)
+in paragraph (2), the reference to “presentation of the goods on importation into the United Kingdom” is to be read as including a reference to presentation of any such goods on importation into the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey;
+(b)
+in paragraphs (2), (3) and (4), the references to “HMRC” are to be read as including references to the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey.
+(15) In regulation 15(2), the references to “HMRC” are to be read as including references to the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey.
+(16) In regulation 16—
+(a)
+in paragraph (1)—
+(i)
+the reference to “the United Kingdom” is to be read as including a reference to “the combined territory of the United Kingdom and any other territories within the United Kingdom – Crown Dependencies Customs Union”;
+(ii)
+the reference to “on presentation to HMRC of a valid proof of origin” is to be read as including a reference to the presentation of such a valid proof of origin to the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey under any equivalent provisions of customs legislation that have effect in those territories;
+(iii)
+the reference to “such information or documents as are requested by HMRC under regulation 18” is to be read as including a reference to any such information or documents as are requested by the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey under equivalent provisions of customs legislation that have effect in those territories;
+(iv)
+the other references to “HMRC” are to be read as including references to the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey;
+(b)
+in paragraph (2), the reference to “the standard rate of import duty under the Customs Tariff (Establishment) (EU Exit) Regulations 2020” is to be read as including a reference to the standard rate of import duty that applies under equivalent provisions of customs legislation that have effect in the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey;
+(c)
+in paragraphs (3) and (4), the references to “HMRC” are to be read as including references to the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey.
+(17) In regulation 17(1)—
+(a)
+in the words before sub-paragraph (a), the reference to “HMRC” is to be read as including a reference to the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey;
+(b)
+in sub-paragraph (b), the reference to “the territories of the Parties” is, in relation to the Government of the United Kingdom, to be construed as a reference to “the combined territory of the United Kingdom and any other territories within the United Kingdom – Crown Dependencies Customs Union”;
+(c)
+in sub-paragraph (c), the reference to “control of HMRC” is to be read as including a reference to control of the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey.
+(18) In regulation 18—
+(a)
+in paragraph (1)—
+(i)
+the reference to “a proof of origin under regulation 14(1)” is to be read as including a reference to any such proof of origin under equivalent provisions of customs legislation that have effect in the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey;
+(ii)
+the references to “HMRC” are to be read as including references to the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey;
+(b)
+in paragraph (2)—
+(i)
+the reference to “HMRC” is to be read as including a reference to the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey
+(ii)
+the reference to “originating goods” is to be read as including a reference to goods that are originating goods under equivalent provisions of customs legislation that have effect in the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey.
+(19) In regulation 19(1), the references to “HMRC” are to be read as including references to the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey.
+(20) In regulation 20—
+(a)
+in paragraph (1), the reference to “HMRC” is to be read as including a reference to the customs authorities of the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey;
+(b)
+in paragraph (3)—
+(i)
+in sub-paragraph (a), the reference to goods that “originate in the United Kingdom” is to be read as including a reference to goods that originate in the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey;
+(ii)
+in sub-paragraph (c), the reference to “proof of United Kingdom origin” is, in relation to re-imported goods, to be read as including a reference to the proof of origin of any such goods that originate in the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey.
+Textual Amendments
+F5
+S.I. 2018/1248. There are amending instruments but none is relevant.
+Commencement Information
+I7
+Sch. 2 para. 4 not in force at made date, see reg. 1(1)
+I8
+Sch. 2 para. 4 in force at 31.12.2020 by S.I. 2020/1643, reg. 2, Sch.EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations are made under the Taxation (Cross-border Trade) Act 2018 (“the Act”) as a consequence the United Kingdom leaving the European Union. They implement preferential customs import duty rates agreed under free trade arrangements entered into between Her Majesty's Government in the United Kingdom and the governments of other countries or territories.
+These Regulations are to be brought into force by way of a separate statutory instrument made under the Act. They apply to any goods imported into the United Kingdom from a country or territory outside the United Kingdom that are chargeable to import duty under Part 1 of the Act.
+Regulation 1(4), and the Table in Schedule 1, sets out the arrangements between Her Majesty's Government in the United Kingdom and the governments of the other countries or territories to which the provisions of these Regulations apply. These arrangements are available electronically at: https://www.gov.uk/government/collections/customs-vat-and-excise-uk-transition-legislation-from-1-january-2021. Hard copies are held and available to view free of charge at the Department for International Trade, 3 Whitehall Place, London SW1A 2AW. A person unable to access these arrangements electronically can arrange access to a hard copy while government advice on social distancing and unnecessary travel applies, by telephoning the Department for International Trade on 020 7215 5000.
+Regulations 3 and 4 provide that, where goods declared to Her Majesty's Revenue and Customs (HMRC) on importation into the United Kingdom meet the preferential duty or preferential quota conditions, they are subject to a rate of import duty as set out in the relevant Preferential Duty Tariff or Preferential Quota Table. The rate of import duty is without prejudice to a more favourable duty rate that is contained in Regulations made under sections 8, 11, 12 or 19 of the Act or, or to a different rate of import duty that applies to goods under the terms of a particular arrangement. Specific provision is also made in respect of preferential quota goods the importation of which is subject to the grant of a licence under Part 3 of the Customs (Tariff Quotas) (EU Exit) Regulations 2020 (S.I. 2020/1432) in relation to which certain provisions of these Regulations have also been disapplied.
+Regulation 5 provides that, if the commodity code in the Preferential Duty Tariff Table or the Preferential Quota Table have a description in the Goods Classification Table in the Tariff of the United Kingdom which refers to their use, then those goods are subject to authorised use and, must meet the relevant conditions to attract the preferential duty rate or quota duty rate.
+Regulation 6 refers to the conditions that must be satisfied in relation to goods in order for those goods to qualify as “originating goods” and where these conditions are to be found.
+Regulation 7 provides that, within the limits of the quota, goods classified as quota goods in the Preferential Quota Table are subject on importation to goods-specific rules of origin.
+Regulation 8 specifies the period or periods which preferential or origin quotas apply and makes provision for those periods to be adjusted in certain circumstances.
+Regulation 9 provides that the quota volumes in any given quota period are set out in column 5 of the Preferential Quota Table. Provision is also made for quota volumes to be adjusted on a pro-rata basis where, under regulation 8, an adjustment is made to the quota period.
+Regulation 10 provides the rules for the deduction of preferential or origin quotas and linked quotas. Deductions are made in the order in which HMRC accepts the Customs declaration accompanied by a request to benefit from a preferential or origin quota except as otherwise provided.
+Regulation 11 provides the rules for HMRC to allocate preferential or origin quotas which have been deducted under regulation 10.
+Regulation 12 sets out the conditions which give preferential quotas critical status and the requirements which critical quota goods must meet.
+Regulation 13 ensures that commodity codes deleted from the Goods Classification Table made under the Customs Tariff (Establishment) (EU Exit) Regulations 2020 (S.I. 2020/1430) are to be retained in the Preferential Quota Table for the purposes of applying quotas.
+Regulation 14 provides the conditions and documentary requirements for providing proof of the origin of goods.
+Regulation 15 provides that the period of validity of the proof of origin is as set out in the relevant origin reference document.
+Regulation 16 permits backdated claims to be made for repayment of duty under certain conditions.
+Regulation 17 provides that HMRC may request proof that the goods were transported in accordance with the requirements of the origin reference document and have not undergone any production outside the territories of the parties to the arrangement.
+Regulation 18 disapplies the requirement for a proof of origin in cases where this is not required under the origin reference document to a particular arrangement or in cases where the value of the consignment falls below a de minimis threshold amount as published by the Secretary of State in a notice.
+Regulation 19 makes provision for HMRC to request the production of specified information or documents to verify the originating status of any goods presented to HMRC where this is necessary under the origin reference document to an Agreement.
+Regulation 20 makes specific provision in respect of re-imported goods under the Agreement between the United Kingdom and Switzerland that is listed in Schedule 1. The provision ensures that when goods of a particular commodity code that are of United Kingdom origin are imported into the United Kingdom under the terms of that Agreement, the rate of import duty that is to apply under these Regulations is the preferential rate for goods of that commodity code as specified in that Agreement.
+Regulation 21 and Schedule 2 make modifications to provisions of the Act and of these Regulations that are necessary having regard to the customs union between the United Kingdom and the Crown Dependencies.
+This instrument is one of a group of instruments covered by a single overarching full Tax Information and Impact Note (TIIN). The TIIN primarily focuses on the Customs Tariff (Establishment) (EU Exit) Regulations 2020 and will be available electronically in due course at: https://www.gov.uk/government/collections/tax-information-and-impact-notes-tiins. A hard copy will be held and available for viewing free of charge at the Department of International Trade, 3 Whitehall Place, London SW1A 2AW. A person unable to access this document electronically can arrange access to a hard copy, while government advice on social distancing and unnecessary travel applies, by telephoning the Department for International Trade on 020 7215 5000.
+An Explanatory Memorandum is being published on the same website. There is no significant impact on business, charities or voluntary bodies as this instrument broadly replicates the effect of European Union legislation.

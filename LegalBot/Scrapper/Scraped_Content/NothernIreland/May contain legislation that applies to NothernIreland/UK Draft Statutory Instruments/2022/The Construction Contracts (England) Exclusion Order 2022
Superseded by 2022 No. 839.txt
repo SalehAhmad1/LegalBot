@@ -1,0 +1,46 @@
+Draft Order laid before Parliament under section 106A(4)(a) of the Housing Grants, Construction and Regeneration Act 1996, for approval by resolution of each House of Parliament.
+DRAFT STATUTORY INSTRUMENTS
+2022 No. XXXX
+CONSTRUCTION, ENGLAND
+The Construction Contracts (England) Exclusion Order 2022
+Made
+***
+Coming into force
+1st October 2022
+The Secretary of State makes the following Order in exercise of the powers conferred by sections 106A(1) and 146 of the Housing Grants, Construction and Regeneration Act 1996(1) (“the Act”).
+In accordance with section 106A(4)(a) of the Act, a draft of this Order was laid before Parliament and approved by a resolution of each House of Parliament.
+(1)
+1996 c. 53; section 106A(1) was inserted by section 138(3) of the Local Democracy, Economic Development and Construction Act 2009 (c. 20).Citation, commencement and application
+1.—(1) This Order may be cited as the Construction Contracts (England) Exclusion Order 2022 and comes into force on 1st October 2022.
+(2) This Order does not apply to a construction contract to the extent that it relates to the carrying out of construction operations in Wales.Interpretation
+2.  In this Order, “the Act” means the Housing Grants, Construction and Regeneration Act 1996.Direct procurement for customers projects
+3.—(1) A construction contract is excluded from the operation of Part II of the Act if it is a contract for the delivery of a direct procurement for customers project.
+(2) A contract is a contract for the delivery of a direct procurement for customers project if all the following conditions are fulfilled—
+(a)
+it contains a statement that it is such a contract;
+(b)
+one of the parties to the contract is a sewerage undertaker or a water undertaker;
+(c)
+the construction operations are in respect of an infrastructure project that is designated by the Water Services Regulation Authority as a direct procurement for customers project in accordance with the conditions of appointment of the sewerage undertaker or the water undertaker;
+(d)
+the consideration due under the contract consists at least in part of regular payments that—
+(i)
+are determined in part by reference to the actual cost of the construction operations; and
+(ii)
+become payable after at least one part of the construction operations is completed and is capable of performing a sewerage or water service.
+(3) In paragraph (2)—
+(a)
+construction operations means the construction operations to which the contract relates; and
+(b)
+sewerage undertaker and water undertaker mean a sewerage undertaker or water undertaker, as the case may be, appointed under section 6(1) of the Water Industry Act 1991(1).
+(1)
+1991 c. 56.Direct procurement for customers project sub-contracts
+4.—(1) A construction contract is excluded from the operation of section 110(1A) of the Act if it is a contract pursuant to which a party to a relevant contract has sub-contracted to another person some or all of its obligations under that contract to carry out, or arrange that others carry out, construction operations.
+(2) In paragraph (1), a relevant contract is a contract excluded from the operation of Part 2 of the Act pursuant to article 3.Name
+Parliamentary Under Secretary of State
+Department for Business, Energy and Industrial Strategy
+DateEXPLANATORY NOTE
+(This note is not part of the Order)
+Part 2 of the Housing Grants, Construction and Regeneration Act 1996 (“the Act”) makes provision as regards the terms of construction contracts and related matters. The Order excludes from the entirety of Part 2 of the Act infrastructure project contracts where a party to the contract is a sewerage or water undertaker, subject to the following requirements. The contract must relate to a project designated by the Water Services Regulation Authority as a direct procurement for customers project in accordance with the conditions of the relevant undertaker’s appointment. Such contracts must also involve the making of regular payments by reference to actual costs incurred and which become due after one or more parts of the construction operations are completed and are capable of performing a sewerage or water service.
+The Order also excludes section 110(1A) of the Act from applying where a party to such a contract enters into a subcontract. Section 110(1A) of the Act provides that the requirement that contracts provide an adequate mechanism for establishing what payments become due and when under the contract is not met if payment is conditional on obligations being performed under another contract.
+No regulatory impact assessment has been prepared in relation to this instrument as there is no, or no significant impact, on businesses, charities or the voluntary sector.

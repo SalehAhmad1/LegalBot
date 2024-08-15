@@ -1,0 +1,33 @@
+STATUTORY INSTRUMENTS
+2022 No. 937
+ELECTRONIC COMMUNICATIONS
+The Electronic Communications (Universal Service) (Amendment) Order 2022
+Made
+5th September 2022
+Laid before Parliament
+6th September 2022
+Coming into force
+1st October 2022
+The Secretary of State makes this Order in exercise of the powers conferred by section 65 of the Communications Act 2003(1).
+The Secretary of State has consulted OFCOM and such other persons as the Secretary of State considered appropriate in accordance with section 65(4) of that Act.
+The Secretary of State has taken due account of the desirability of not favouring one form of electronic communications network, electronic communications service or associated facility, or one means of providing or making available such a network, service or facility, over another in accordance with section 65(5) of that Act.
+(1)
+2003 c. 21. Section 65 was amended by sections 1(1) to (4) of the Digital Economy Act 2017 (c. 30) and by S.I. 2011/1043, 2011/1210, 2019/246 and 2020/1419.Citation, commencement and extent
+1.—(1) This Order may be cited as the Electronic Communications (Universal Service) (Amendment) Order 2022 and comes into force on 1st October 2022.
+(2) This Order extends to England and Wales, Scotland and Northern Ireland.Amendment of the Electronic Communications (Universal Service) Order 2003
+2.—(1) The Electronic Communications (Universal Service) Order 2003(1) is amended as follows.
+(2) In article 2 (interpretation), for the definition of “publicly available telephone service” substitute—
+““publicly available telephone service” means a service made available to the public for originating and receiving directly or indirectly national or national and international calls and access to emergency services through a telephone number or numbers in a national or international telephone numbering plan;”
+(3) In the Schedule, in paragraph 1 (publicly available telephone services), in sub-paragraph (2) omit “and facsimile”.
+(1)
+S.I. 2003/1904; relevant amending instruments are S.I. 2011/1209 and 2018/445.Matt Warman
+Minister of State
+Department for Digital, Culture, Media and Sport
+5th September 2022EXPLANATORY NOTE
+(This note is not part of the Order)
+This Order amends the Electronic Communications (Universal Service) Order 2003 (S.I. 2003/1904, “the 2003 Order”) which sets out the extent to which electronic communications networks and services, and facilities related to those services, are to be provided throughout the UK as universal services, that is, basic telephony services that are available upon reasonable request and at an affordable price. The services which must be provided are publicly available telephone services; directories and directory enquiry facilities; public pay telephones; billing, payment and tariff options and special measures for end-users with disabilities. The 2003 Order was implemented through a combination of universal service conditions, having effect under the 2003 Act, imposed on BT and KCOM (who were designated as the universal service providers) and general conditions on all providers under the 2003 Act.
+The Electronic Communications (Universal Service) (Amendment) Order 2011 (S.I. 2011/1209, “the 2011 Order”) made amendments to the 2003 Order. This included amendment of the definition of “publicly available telephone service”, deletion of the definition of “network termination point” and some changes to the wordings in the Schedule of the 2003 Order. Among other amendments made to the definition of “publicly available telephone service”, the 2011 Order inserted the words “or national” after the word “national” in the definition.
+Article 2 contains amendments of the 2003 Order.
+Firstly, the new definition of “publicly available telephone service” is substituted for the existing one, in order to clarify the text of the definition, that is, the nature of service is for originating and receiving national or national and international calls through a telephone number or numbers in a national or international telephone numbering plan.
+Secondly, in the Schedule to the 2003 Order, the obligation for at least one designated universal service provider to meet all reasonable requests by end-users to provide a connection at a fixed location to the public electronic communications network and for access to publicly available telephone services over that communication network, is amended so that the connection no longer has to be capable of allowing end-users to make and receive local, national and international facsimile.
+A full impact assessment has not been produced for this instrument as no significant impact on the private, voluntary or public sector is foreseen.

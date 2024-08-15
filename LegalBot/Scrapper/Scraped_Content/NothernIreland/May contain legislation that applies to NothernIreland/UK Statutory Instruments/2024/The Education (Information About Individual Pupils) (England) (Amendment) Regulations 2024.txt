@@ -1,0 +1,98 @@
+STATUTORY INSTRUMENTS
+2024 No. 209
+EDUCATION, ENGLAND
+The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2024
+Made
+at 2.05 p.m. on 27th February 2024
+Laid before Parliament
+29th February 2024
+Coming into force
+19th August 2024
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 537A(1) and (8) and 569(4) of the Education Act 1996(1).
+(1)
+1996 c. 56. Section 537A was substituted by paragraphs 57 and 153 of Schedule 30 to the School Standards and Framework Act 1998 (c. 31) and amended by S.I. 2010/976 and S.I. 2010/1158. There are amendments to section 569 that are not relevant to these Regulations. See the definitions of “the relevant person” and “individual pupil information” in section 537A and of “prescribed” and “regulations” in section 579.Citation, commencement and extent
+1.—(1) These Regulations may be cited as the Education (Information About Individual Pupils) (England) (Amendment) Regulations 2024 and come into force on 19th August 2024.
+(2) These Regulations extend to England and Wales.Amendment of the Education (Information About Individual Pupils) (England) Regulations 2013
+2.—(1) The Education (Information About Individual Pupils) (England) Regulations 2013(1) are amended as follows.
+(2) In regulation 2 (interpretation) after the definition of “commissioning local authority” insert—
+““date of admission to the school” means the date on which the pupil’s name is added to the school’s admission register;”.
+(3) After regulation 5 insert—
+“Provision of information by schools
+5A.—(1) This regulation applies to the appropriate person at—
+(a)
+a school maintained by a local authority;
+(b)
+a special school which is not maintained by a local authority and is not an Academy school;
+(c)
+an Academy school;
+(d)
+an alternative provision Academy,
+that is not a nursery school.
+(2) The appropriate person must provide to the Secretary of State, on request, by the date specified in the request, the information specified in Schedule 1A in relation to all registered pupils and in relation to such times as are specified in the request.
+(3) The duty in paragraph (2) applies to pupils who are no longer registered pupils when the information is provided to the Secretary of State, where the information relates to the time during which the pupil was a registered pupil.
+(4) The duty in paragraph (2) to provide information on request can be met by the school having an electronic management information system containing the required information that can be accessed at all times by the Secretary of State or someone on the Secretary of State’s behalf.
+(5) In this regulation “appropriate person” means—
+(a)
+in the case of a school maintained by a local authority, that is not a pupil referral unit, the governing body of the school;
+(b)
+in the case of a pupil referral unit, the local authority maintaining the unit;
+(c)
+in the case of a special school not maintained by a local authority, the proprietor;
+(d)
+in the case of an Academy school, the proprietor;
+(e)
+in the case of an alternative provision Academy, the proprietor.
+(6) For the purposes of section 537A(8), where the Secretary of State has specified in the request a person to whom the information must be provided, the provision of information to that person is to be treated as compliance with the requirement to provide the information to the Secretary of State.”.
+(4) After Schedule 1 insert—
+Regulation 5A
+“Schedule 1A
+Provision of information about individual pupils to the Secretary of State
+1.  The pupil’s—
+(a)
+current unique pupil number, and, where the school has held a previous unique pupil number for that pupil, the previous number;
+(b)
+first name, or if more than one, each first name;
+(c)
+surname;
+(d)
+date of birth;
+(e)
+sex;
+(f)
+date of admission to the school;
+(g)
+ethnic group;
+(h)
+first language;
+(i)
+National Curriculum year group;
+(j)
+(where applicable) date of leaving the school,
+as at each time specified in the request.
+2.  The postcode of the home where the pupil normally resides or resided at each time specified in the request.
+3.  Whether the pupil has or had special educational needs at each time specified in the request, and if so, the primary and secondary type of those special educational needs and which special educational needs provision type is or was being made for them.
+4.  Whether the pupil has or had an EHC plan(2) at each time specified in the request.
+5.  Whether pursuant to section 512(3) and 512ZB of the 1996 Act(3), the pupil has or had applied and been found eligible for free school meals at each time specified in the request.
+6.  Whether the pupil is or was, to the knowledge of the appropriate person, a looked-after child at each time specified in the request.
+7.  Whether the pupil has or had, to the knowledge of the appropriate person, previously been a looked-after child(4) at each time specified in the request.
+8.  For each time specified in the request, which of the codes specified in regulation 10 of the 2024 Regulations(5) is recorded against the pupil’s name in the school’s attendance register in relation to the relevant session.”.
+(1)
+S.I. 2013/2094, amended by S.I. 2014/2103, S.I. 2022/599 and S.I. 2024/208. There are other amending instruments but none are relevant.
+(2)
+See the definition of “EHC plan” in the Education Act 1996, section 579(1), which was amended by the Children and Families Act 2014 (c. 6), Schedule 3, paragraphs 1 and 59.
+(3)
+Sections 512 and 512ZB of the Education Act 1996 were substituted by the Education Act 2002 (c. 32), section 201. Section 512 was amended by the Education and Inspections Act 2006 (c. 40), section 86 the Childcare Act 2006 (c. 21), Schedule 2, paragraph 24. Section 512ZB was amended by the Welfare Reform Act 2012 (c. 5), Schedule 3, paragraph 16, the Life Chances Act 2010 (c. 9), section 26, the Welfare Reform Act 2012, Schedule 2, paragraphs 37 and 39 and the Children and Families Act 2014, section 106. There are other amendments that are not relevant. See definition of “the 1996 Act” in S.I. 2013/2094, regulation 2.
+(4)
+See the definition of “looked-after child” in S.I. 2013/2094, regulation 2, which was amended by S.I. 2016/211.
+(5)
+See the definition of “the 2024 Regulations” in S.I. 2013/2094, regulation 2, which was amended by S.I. 2024/208.Damian Hinds
+Minister of State
+Department for Education
+at 2.05 p.m. on 27th February 2024EXPLANATORY NOTE
+(This note is not part of the Regulations)
+The Education (Information About Individual Pupils) (England) Regulations 2013 (“the 2013 Regulations”) require local authorities and the governing bodies and proprietors of certain schools (specified in regulations 3 to 5 of the 2013 Regulations) to provide specified information to the Secretary of State. The 2013 Regulations are currently the legal basis for the termly “school census”.
+These Regulations provide for a new mandatory data-collection to replace an existing voluntary collection. They amend the 2013 Regulations by inserting a new regulation 5A (regulation 2(3) of these Regulations). The new regulation 5A imposes a different requirement to provide information. For specified types of schools, the “appropriate person” must provide the Secretary of State (or a person specified by the Secretary of State) with information about every pupil at the school (new regulation 5A(1) and (2)). The information must be provided when the Secretary of State requests it, by the deadline given in the request, and it must relate to whatever times the request specifies (for example it may be information about the time when the request is made, or times in the past) (paragraph (2)). As well as providing the specified information about current registered pupils, the appropriate person must also provide the information about former pupils, if it relates to a time when they were still registered (paragraph (3)).
+New regulation 5A gives schools an option to provide the required information by providing the Secretary of State (or someone specified by the Secretary of State) with full-time access to an electronic management information system so that the information can be extracted whenever required.
+These Regulations also insert a new Schedule 1A into the 2013 Regulations that lists the information that must be provided (regulation 2(4)).
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+An Explanatory Memorandum is published alongside this instrument on www.legislation.gov.uk. Hard copies are available from the Department for Education, Sanctuary Buildings, Great Smith Street, London SW1P 3BT.

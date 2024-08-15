@@ -1,0 +1,70 @@
+Draft Regulations laid before Parliament under section 44(7) of the Digital Economy Act 2017, for approval by resolution of each House of Parliament.
+DRAFT STATUTORY INSTRUMENTS
+2022 No.
+DISCLOSURE OF INFORMATION
+The Digital Government (Disclosure of Information) (Amendment) Regulations 2022
+Made
+***
+Coming into force
+***
+The Minister for the Cabinet Office, with the consent of the Treasury, makes the following Regulations in exercise of the powers conferred by sections 35(7) and 44(2)(b) of the Digital Economy Act 2017 (“the 2017 Act”)(1).
+The Minister is satisfied that the purposes of the objective specified comply with the conditions in section 35(9), (10) and (12) of the 2017 Act.
+The Minister has consulted the Information Commissioner, the Commissioners for Her Majesty’s Revenue and Customs, the Scottish Ministers, the Welsh Ministers, the Department of Finance in Northern Ireland, and such other persons as the Minister considers appropriate, as required by section 44(4) of the 2017 Act(2).
+In accordance with section 44(7) of the 2017 Act(3), a draft of these Regulations was laid before, and approved by a resolution of, each House of Parliament.
+(1)
+2017 c. 30. Under section 45(1), the Minister for the Cabinet Office is the appropriate national authority to make these Regulations. Section 45(1) was amended by article 6(4) of S.I. 2018/526, and subsequently by article 6(4) of S.I. 2020/940, under which those functions again became exercisable concurrently with the Minister for the Cabinet Office. Consent of the Treasury is required by section 44(6).
+(2)
+Section 44(4) was amended by article 6(2) and (3) of S.I. 2018/526, and article 6(3)(b) of S.I. 2020/940.
+(3)
+Section 44(7) was amended by article 6(3)(c) of S.I. 2020/940.Citation, commencement and extent
+1.—(1) These Regulations may be cited as the Digital Government (Disclosure of Information) (Amendment) Regulations 2022 and come into force on the day after the day on which they are made.
+(2) These Regulations do not extend to Northern Ireland.Amendments to the Digital Government (Disclosure of Information) Regulations 2018
+2.—(1) The Schedule to the Digital Government (Disclosure of Information) Regulations 2018(1) is amended as follows.
+(2) In paragraph 1(1)—
+(a)
+at the end of paragraph (c) omit “and”;
+(b)
+at the end of paragraph (d) insert “; and”;
+(c)
+after paragraph (d) insert—
+“(e)
+the Scottish early learning and childcare objective.”
+(3) In paragraph 1(2) after paragraph (d) insert—
+“(e)
+for the Scottish early learning and childcare objective—
+(i)
+the persons specified at paragraphs 7, 10, 49 and 50 of Schedule 4 to the Act, and
+(ii)
+a person providing services in connection with that objective to a person within sub-paragraph (i).”
+(4) After paragraph 5 insert—
+“Scottish early learning and childcare objective
+6.—(1) In paragraph 1(1)(e) the Scottish early learning and childcare objective is to—
+(a)
+identify a person who may be the parent of a relevant child; and
+(b)
+make contact with such a person,
+with a view to fulfilling the duty in section 47 of the Children and Young People (Scotland) Act 2014(2) in respect of the child.
+(2) In this paragraph—
+“parent” has the same meaning as in section 135(1) of the Education (Scotland) Act 1980(3); and
+“relevant child” means a child who meets a description specified in article 2(2) or (3) of the Provision of Early Learning and Childcare (Specified Children) (Scotland) Order 2014(4).”
+(1)
+S.I. 2018/912.
+(2)
+2014 asp 8. Section 47 of the Children and Young People (Scotland) Act 2014 was amended by section 29(2) of the Education (Scotland) Act 2016 (asp 8).
+(3)
+1980 c. 44. The definition of “parent” in section 135(1) was amended by paragraph 28(5)(a) of Schedule 4 to the Children (Scotland) Act 1995 (c. 36).
+(4)
+S.S.I. 2014/196. The meaning of “qualifying benefit” in article 1(2), referred to in article 2(2) and (3), was amended by: article 2(2)(a) of S.S.I. 2015/268; regulation 3(3) of S.S.I. 2017/182; article 2(2) of S.S.I. 2019/359; and article 2(2) of S.S.I. 2021/344.Name
+Minister for the Cabinet Office
+Cabinet Office
+Date
+We consent to these Regulations
+Name
+Name
+Two of the Lords Commissioners of Her Majesty’s Treasury
+DateEXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the Digital Government (Disclosure of Information) Regulations 2018 (S.I. 2018/912) (“the 2018 Regulations”). The 2018 Regulations provide for the disclosure of information for the purpose of certain specified public service delivery objectives, in accordance with Chapter 1 of Part 5 of the Digital Economy Act 2017 (c. 30) (“the 2017 Act”).
+Regulation 2 of these Regulations amends paragraph 1 of the Schedule to the 2018 Regulations to include a new objective, the Scottish early learning and childcare objective, and to specify persons from the list of specified persons set out in Schedule 4 to the 2017 Act who may share and receive information for the purpose of that objective. Regulation 2 also inserts a new paragraph 6 in the Schedule to the 2018 Regulations setting out the new objective, which is to identify and contact households in Scotland with two-year-olds eligible for the mandatory amount of funded early learning and childcare (as provided for in sections 47 and 48 of the Children and Young People (Scotland) Act 2014), in order that it can be made available to them.
+These Regulations thus permit the disclosure of information between Her Majesty’s Revenue and Customs, the Department for Work and Pensions, the Scottish Ministers and Scottish councils, with a view to increasing uptake of funded early learning and childcare among eligible two-year-olds in Scotland.
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sectors is foreseen.

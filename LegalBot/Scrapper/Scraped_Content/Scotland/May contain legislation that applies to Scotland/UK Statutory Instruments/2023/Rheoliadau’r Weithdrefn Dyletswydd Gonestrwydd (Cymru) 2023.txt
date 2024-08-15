@@ -1,0 +1,190 @@
+OFFERYNNAU STATUDOL CYMRU
+2023 Rhif 274 (Cy. 41)
+Y GWASANAETH IECHYD GWLADOL, CYMRU
+Rheoliadau’r Weithdrefn Dyletswydd Gonestrwydd (Cymru) 2023
+Gwnaed
+7 Mawrth 2023
+Gosodwyd gerbron Senedd Cymru
+9 Mawrth 2023
+Yn dod i rym
+1 Ebrill 2023
+Mae Gweinidogion Cymru yn gwneud y Rheoliadau a ganlyn drwy arfer y pwerau a roddir gan adrannau 4, 25(2), 28(1) a (2) o Ddeddf Iechyd a Gofal Cymdeithasol (Ansawdd ac Ymgysylltu) (Cymru) 2020(1).
+(1)
+2020 dsc 1.Enwi a chychwyn
+1.—(1) Enw’r Rheoliadau hyn yw Rheoliadau’r Weithdrefn Dyletswydd Gonestrwydd (Cymru) 2023.
+(2) Daw’r Rheoliadau hyn i rym ar 1 Ebrill 2023.Dehongli
+2.—(1) Yn y Rheoliadau hyn—
+ystyr “Awdurdod Iechyd Arbennig” (“Special Health Authority”) yw corff a sefydlwyd o dan adran 22 o Ddeddf 2006; ond nid yw’n cynnwys unrhyw Awdurdod Iechyd Arbennig trawsffiniol (o fewn yr ystyr a roddir i “cross-border Special Health Authority” yn adran 8A(5) o Ddeddf 2006) ac eithrio Gwaed a Thrawsblaniadau’r GIG;
+ystyr “Bwrdd Iechyd Lleol” (“Local Health Board”) yw corff a sefydlwyd o dan adran 11 o Ddeddf 2006;
+mae “canlyniad andwyol hysbysadwy” (“notifiable adverse outcome”) yn digwydd pan ddaw’r ddyletswydd gonestrwydd yn effeithiol yn unol ag adran 3 o’r Ddeddf;
+ystyr “corff cyfrifol” (“responsible body”) yw corff GIG y mae’r ddyletswydd gonestrwydd a osodir gan adran 3 o’r Ddeddf wedi dod yn effeithiol mewn perthynas ag ef;
+ystyr “corff GIG” (“NHS body”) yw—
+(a)
+Bwrdd Iechyd Lleol;
+(b)
+ymddiriedolaeth GIG;
+(c)
+Awdurdod Iechyd Arbennig;
+(d)
+darparwr gofal sylfaenol;
+ystyr “Deddf 2006” (“the 2006 Act”) yw Deddf y Gwasanaeth Iechyd Gwladol (Cymru) 2006(1);
+ystyr “defnyddiwr gwasanaeth” (“service user”) yw person, y mae corff GIG yn darparu neu wedi darparu gofal iechyd iddo, sydd wedi dioddef canlyniad andwyol;
+ystyr “y Ddeddf” (“the Act”) yw Deddf Iechyd a Gofal Cymdeithasol (Ansawdd ac Ymgysylltu) (Cymru) 2020;
+ystyr “gofal iechyd” (“health care”) yw gwasanaethau a ddarperir yng Nghymru o dan neu yn rhinwedd Deddf 2006 ar gyfer neu mewn cysylltiad ag—
+(a)
+atal salwch, gwneud diagnosis ohono neu ei drin;
+(b)
+hybu ac amddiffyn iechyd y cyhoedd;
+ystyr “gweithdrefn gonestrwydd” (“candour procedure”) yw’r weithdrefn a nodir yn y Rheoliadau hyn y mae rhaid i gorff GIG ei dilyn mewn perthynas â chanlyniad andwyol hysbysadwy;
+mae “niwed” (“harm”) yn cynnwys niwed seicolegol ac, yn achos defnyddiwr gwasanaeth sy’n feichiog, golli neu niweidio’r plentyn heb ei eni;
+ystyr “Rheoliadau 2011” (“the 2011 Regulations”) yw Rheoliadau’r Gwasanaeth Iechyd Gwladol (Trefniadau Pryderon, Cwynion ac Iawn) (Cymru) 2011(2);
+mae i “salwch” yr ystyr a roddir i “illness” yn adran 206 o Ddeddf 2006;
+ystyr “ymddiheuriad” (“apology”) yw mynegiant o dristwch neu edifeirwch mewn cysylltiad â’r canlyniad andwyol hysbysadwy;
+ystyr “ymddiriedolaeth GIG” (“NHS trust”) yw corff a sefydlwyd o dan adran 18 o Ddeddf 2006.
+(2) Mae person yn ddarparwr gofal sylfaenol, at ddibenion y Rheoliadau hyn, i’r graddau (a dim ond i’r graddau) y mae’r person yn darparu gofal iechyd ar ran Bwrdd Iechyd Lleol yn rhinwedd contract, cytundeb neu drefniant o dan Ran 4, 5, 6 neu 7 o Ddeddf 2006 rhwng y person a’r Bwrdd Iechyd Lleol.
+(3) Mae defnyddiwr gwasanaeth i’w drin fel pe bai wedi dioddef canlyniad andwyol os yw’r defnyddiwr yn profi mwy nag ychydig o niwed annisgwyl neu anfwriadol neu os yw’r amgylchiadau yn golygu y gallai brofi niwed o’r fath.
+(4) Mae gofal iechyd a ddarperir gan un corff GIG (y “corff darparu”) ar ran corff GIG arall (“y corff GIG trefnu”), yn rhinwedd contract, cytundeb neu drefniant a wneir o dan Ddeddf 2006 rhwng y corff darparu a’r corff trefnu, i’w drin at ddibenion y Rheoliadau hyn fel pe bai’n cael ei ddarparu gan y corff darparu, nid y corff trefnu.
+(5) Mae gofal iechyd a ddarperir gan berson ac eithrio corff GIG (y “darparwr”), ar ran corff GIG, pa un ai yn rhinwedd contract, cytundeb neu drefniant a wneir o dan Ddeddf 2006 neu fel arall, i’w drin at ddibenion y Rheoliadau hyn fel pe bai’n cael ei ddarparu gan y corff GIG, nid y darparwr.
+(6) Mae dogfen y mae’n ofynnol iddi fod yn “ysgrifenedig”, neu gofnod y mae’n ofynnol iddo fod yn “ysgrifenedig”, yn rhinwedd y Rheoliadau hyn yn cynnwys cyfathrebiad electronig, fel y diffinnir “electronic communication” yn adran 15(1) o Ddeddf Cyfathrebiadau Electronig 2000(3).
+(1)
+2006 p. 42.
+(2)
+O.S. 2011/704 (Cy. 108).
+(3)
+2000 p. 7; diwygiwyd adran 15(1) gan Ddeddf Cyfathrebiadau 2003 (p. 21).Person perthnasol
+3.  Yn y Rheoliadau hyn, ystyr y “person perthnasol” yw—
+(a)
+y defnyddiwr gwasanaeth, neu
+(b)
+o ran y defnyddiwr gwasanaeth—
+(i)
+os yw wedi marw,
+(ii)
+os yw’n 16 oed neu drosodd ac nad yw’r galluedd ganddo (o fewn ystyr Deddf Galluedd Meddyliol 2005(1)) mewn perthynas â’r mater,
+(iii)
+os yw o dan 16 oed ac nad yw’n gymwys i wneud penderfyniad mewn perthynas â’i ofal neu ei driniaeth, neu
+(iv)
+os yw wedi rhoi gwybod i’r corff cyfrifol ei fod wedi enwebu person i weithredu ar ei ran,
+person sy’n gweithredu ar ran y defnyddiwr gwasanaeth hwnnw.
+(1)
+2005 p. 9.Hysbysiad uniongyrchol
+4.—(1) Wrth ddod yn ymwybodol gyntaf o ganlyniad andwyol hysbysadwy, rhaid i gorff cyfrifol hysbysu’r person perthnasol yn unol â’r rheoliad hwn.
+(2) Rhaid gwneud hysbysiad o dan baragraff (1) drwy ddefnyddio dull cyfathrebu uniongyrchol.
+(3) Rhaid i’r hysbysiad o dan baragraff (1) gynnwys—
+(a)
+disgrifiad o amgylchiadau’r canlyniad andwyol hysbysadwy, i’r graddau y mae’r corff cyfrifol yn ymwybodol o’r ffeithiau ar y dyddiad y darperir yr hysbysiad i’r person perthnasol,
+(b)
+y rheswm pam y mae’r corff cyfrifol yn ystyried bod yr amodau a nodir yn adran 3(2) a (3) o’r Ddeddf wedi eu bodloni,
+(c)
+ymddiheuriad,
+(d)
+enw a manylion cyswllt y person yn y corff cyfrifol sydd wedi ei enwebu’n bwynt cyswllt ar gyfer y person perthnasol mewn cysylltiad â’r weithdrefn gonestrwydd,
+(e)
+esboniad o’r camau y bydd y corff cyfrifol neu’r darparwr yn eu cymryd, ac ymholiadau pellach y bydd y corff cyfrifol neu’r darparwr yn eu cynnal, i ymchwilio i amgylchiadau’r canlyniad andwyol hysbysadwy, gan gynnwys unrhyw gamau sydd i’w cymryd o dan Reoliadau 2011,
+(f)
+manylion unrhyw wasanaethau neu unrhyw gymorth y mae’r corff cyfrifol yn ystyried yn rhesymol y gallant roi cynhorthwy i’r person perthnasol, gan ystyried anghenion y person perthnasol, ac
+(g)
+pan fo’r hysbysiad o dan baragraff (1) yn cael ei wneud yn hwyrach na 30 o ddiwrnodau gwaith ar ôl i’r corff cyfrifol ddod yn ymwybodol gyntaf o’r canlyniad andwyol hysbysadwy, esboniad o’r rheswm dros yr oedi.
+(4) Yn y rheoliad hwn, ystyr “cyfathrebu uniongyrchol” yw cyfathrebu sy’n digwydd drwy alwad ffôn, drwy gyfathrebu clyweledol, neu drwy gyfarfod wyneb yn wyneb.Hysbysiad ysgrifenedig
+5.—(1) Rhaid i’r corff cyfrifol hysbysu’r person perthnasol yn ysgrifenedig yn unol â’r rheoliad hwn.
+(2) Rhaid i’r corff cyfrifol gymryd pob cam rhesymol i anfon yr hysbysiad ysgrifenedig o dan baragraff (1) at y person perthnasol o fewn pum niwrnod gwaith ar ôl y dyddiad y mae’r corff cyfrifol yn hysbysu’r person perthnasol o dan reoliad 4(1).
+(3) Rhaid i’r hysbysiad ysgrifenedig o dan baragraff (1) gynnwys—
+(a)
+disgrifiad o unrhyw ystyriaeth gychwynnol o’r canlyniad andwyol hysbysadwy,
+(b)
+ymddiheuriad, ac
+(c)
+yr wybodaeth a ddarperir o dan reoliad 4(3)(b), 4(3)(d), 4(3)(e), 4(3)(f) ac, os yw’n berthnasol, 4(3)(g).Hysbysiad am ganlyniadau ymholiadau pellach
+6.  Rhaid i’r corff cyfrifol hysbysu’r person perthnasol am ganlyniadau unrhyw ymholiadau pellach y cyfeirir atynt yn rheoliad 4(3)(e).Cyfathrebu â’r person perthnasol
+7.—(1) Rhaid i’r corff cyfrifol gymryd camau rhesymol i ganfod y dull cyfathrebu a ffefrir gan y person perthnasol a, phan fo’n rhesymol ymarferol, gyfathrebu â’r person perthnasol gan ddefnyddio’r dull hwn.
+(2) Rhaid i’r corff cyfrifol gymryd camau rhesymol i sicrhau bod unrhyw gyfathrebu â’r person perthnasol yn digwydd mewn modd y gall y person perthnasol ei ddeall.
+(3) Os na all y corff cyfrifol gysylltu â’r person perthnasol, ar ôl cymryd camau rhesymol i wneud hynny, i roi hysbysiad o dan unrhyw un neu ragor o reoliadau 4, 5 neu 6, neu os yw’r person perthnasol yn gwrthod cyfathrebu â’r corff cyfrifol—
+(a)
+rhaid i’r corff cyfrifol sicrhau bod y cofnod a gedwir o dan reoliad 9 yn cynnwys gwybodaeth am bob ymgais a wnaed i gysylltu â’r person perthnasol neu i gyfathrebu ag ef, a
+(b)
+mae rheoliadau 4, 5 a 6 yn peidio â bod yn gymwys.Hyfforddiant a chymorth
+8.—(1) Rhaid i’r corff cyfrifol sicrhau bod yr aelodau o staff a bennir ym mharagraff (2) yn cael hyfforddiant ac arweiniad perthnasol ynghylch y weithdrefn gonestrwydd.
+(2) At ddibenion paragraff (1), yr aelodau o staff yw—
+(a)
+y rheini sy’n ymwneud â darparu gofal iechyd;
+(b)
+y rheini sy’n ymwneud ag ymchwilio i ganlyniadau andwyol hysbysadwy neu eu rheoli;
+(c)
+unrhyw aelodau perthnasol eraill o staff sy’n ymwneud â chyflawni neu arfer swyddogaethau mewn cysylltiad â’r weithdrefn gonestrwydd.
+(3) Rhaid i’r corff cyfrifol ddarparu i aelod o staff sy’n ymwneud â chanlyniad andwyol hysbysadwy fanylion unrhyw wasanaethau y mae’r corff cyfrifol yn ymwybodol ohonynt a all roi cynhorthwy neu gymorth i’r aelod hwnnw o staff, gan ystyried—
+(a)
+yr amgylchiadau sy’n ymwneud â’r canlyniad andwyol hysbysadwy, a
+(b)
+anghenion yr aelod o staff.
+(4) Yn y rheoliad hwn, “aelod o staff” yw unrhyw berson sy’n gweithio i gorff GIG, pa un ai o dan gontract cyflogaeth, contract am wasanaethau neu fel gwirfoddolwr, neu weithwyr asiantaeth (o fewn yr ystyr a roddir i “agency workers” yn rheoliad 3 o Reoliadau Gweithwyr Asiantaeth 2010(1)) sy’n gweithio o dan oruchwyliaeth a chyfarwyddyd corff GIG.
+(1)
+O.S. 2010/93, a ddiwygiwyd gan O.S. 2011/1941.Cofnodion
+9.—(1) Rhaid i’r corff cyfrifol gadw cofnod ysgrifenedig ar gyfer pob canlyniad andwyol hysbysadwy y dilynir y weithdrefn gonestrwydd mewn cysylltiad ag ef.
+(2) Rhaid i’r cofnod sy’n ofynnol gan baragraff (1) gynnwys pob dogfen a phob darn o ohebiaeth sy’n ymwneud â’r canlyniad andwyol hysbysadwy, gan gynnwys ond heb fod yn gyfyngedig i—
+(a)
+cofnodion o hysbysiadau a roddir o dan reoliadau 4, 5 a 6,
+(b)
+cofnodion o bob ymgais i gysylltu â’r person perthnasol,
+(c)
+unrhyw benderfyniad gan y person perthnasol nad yw am i neb gysylltu ag ef mewn perthynas â’r weithdrefn gonestrwydd, a
+(d)
+pob dogfen sy’n ymwneud â’r ymchwiliad i’r canlyniad andwyol hysbysadwy a’r adolygiad o’r canlyniad andwyol hysbysadwy a gynhelir gan y corff cyfrifol, gan gynnwys unrhyw ymatebion neu adroddiadau interim a ddyroddir gan y corff cyfrifol o dan reoliad 24, 26 neu 31 o Reoliadau 2011.Goruchwyliaeth strategol o’r weithdrefn gonestrwydd
+10.—(1) Rhaid i bob corff cyfrifol ddynodi person i fod yn gyfrifol am gynnal goruchwyliaeth strategol o’r modd y mae’n gweithredu’r weithdrefn gonestrwydd.
+(2) Pan fo’r corff cyfrifol yn Fwrdd Iechyd Lleol, yn Ymddiriedolaeth GIG neu’n Awdurdod Iechyd Arbennig, rhaid i’r person hwnnw fod yn un o’i aelodau nad ydynt yn swyddogion neu’n un o’i gyfarwyddwyr anweithredol, fel y bo’n briodol.Swyddog cyfrifol
+11.—(1) Rhaid i bob corff cyfrifol ddynodi person (y “swyddog cyfrifol”) i gymryd cyfrifoldeb cyffredinol am weithrediad effeithiol y weithdrefn gonestrwydd o ddydd i ddydd, ac yn benodol i sicrhau bod y corff cyfrifol yn cydymffurfio â gofynion y Rheoliadau hyn.
+(2) Rhaid i’r swyddog cyfrifol—
+(a)
+yn achos Bwrdd Iechyd Lleol, Ymddiriedolaeth GIG neu Awdurdod Iechyd Arbennig, fod yn berson sy’n swyddog-aelod neu’n gyfarwyddwr gweithredol yn y corff hwnnw, fel y bo’n briodol;
+(b)
+yn achos darparwr gofal sylfaenol, fod y person sy’n gweithredu fel prif swyddog gweithredol y corff hwnnw neu, os nad oes un—
+(i)
+y person sy’n unig berchennog ar y corff cyfrifol;
+(ii)
+pan fo’r corff cyfrifol yn bartneriaeth, yn bartner;
+(iii)
+mewn unrhyw achos arall, yn un o gyfarwyddwyr y corff cyfrifol, neu’n berson sy’n gyfrifol am reoli’r corff cyfrifol.
+(3) Caniateir i swyddogaethau’r swyddog cyfrifol gael eu cyflawni gan y person hwnnw neu gan unrhyw berson a awdurdodir gan y corff cyfrifol i weithredu ar ei ran ar yr amod bod y person a awdurdodir felly o dan reolaeth a goruchwyliaeth uniongyrchol y swyddog cyfrifol.Cyfyngiadau ar ddarparu gwybodaeth
+12.  Nid yw’r Rheoliadau hyn yn caniatáu nac yn ei gwneud yn ofynnol i gorff cyfrifol ddatgelu unrhyw wybodaeth—
+(a)
+a fyddai’n rhagfarnu unrhyw ymchwiliad neu erlyniad troseddol, neu
+(b)
+a fyddai’n mynd yn groes i unrhyw gyfyngiad ar ddatgelu sy’n codi yn rhinwedd deddfiad neu reol gyfreithiol.Ymddiheuriad
+13.  Nid yw ymddiheuriad neu gam arall a gymerir yn unol â’r weithdrefn gonestrwydd yn gyfystyr â chyfaddefiad o esgeulustod neu o dorri dyletswydd statudol.Diwygio Rheoliadau’r Gwasanaeth Iechyd Gwladol (Trefniadau Pryderon, Cwynion ac Iawn) (Cymru) 2011
+14.—(1) Mae Rheoliadau 2011 wedi eu diwygio fel a ganlyn.
+(2) Yn rheoliad 2(1) (dehongli), yn y lleoedd priodol mewnosoder—
+“ystyr “Deddf 2020” (“the 2020 Act”) yw Deddf Iechyd a Gofal Cymdeithasol (Ansawdd ac Ymgysylltu) (Cymru) 2020;”;
+“ystyr “Rheoliadau 2023” (“the 2023 Regulations”) yw Rheoliadau’r Weithdrefn Dyletswydd Gonestrwydd (Cymru) 2023;”.
+(3) Yn lle rheoliad 12(7) (personau y caniateir iddynt hysbysu pryderon), rhodder—
+“(7) Pan hysbysir pryder gan aelod o staff y corff cyfrifol, rhaid i’r corff cyfrifol, pan fo ei ymchwiliad dechreuol yn canfod bod niwed cymedrol neu ddifrifol neu farwolaeth wedi digwydd—
+(a)
+oni bai bod hysbysiad o dan reoliad 4(1) o Reoliadau 2023 eisoes wedi ei roi, hysbysu’r claf y mae’r pryder yn gysylltiedig ag ef, neu ei gynrychiolydd, am yr hysbysiad o bryder, a
+(b)
+oni bai bod paragraff (8) yn gymwys, gynnwys y claf, neu ei gynrychiolydd, yn yr ymchwiliad i’r pryder,
+yn unol â Rhan 5.”
+(4) Yn rheoliad 12(8) (personau y caniateir iddynt hysbysu pryderon), hepgorer “pe rhoddid gwybod i’r claf am y pryder, neu”.
+(5) Yn rheoliad 22 (y weithdrefn cyn ymchwilio)—
+(a)
+ym mharagraff (1), yn lle “dau ddiwrnod” rhodder “phum niwrnod”;
+(b)
+ar ddechrau paragraff (6), yn lle “Rhaid” rhodder “Yn ddarostyngedig i baragraff (7), rhaid”;
+(c)
+ar ôl paragraff (6) mewnosoder—
+“(7) Pan fo’r ddyletswydd gonestrwydd o dan adran 3 o Ddeddf 2020 wedi dod yn effeithiol mewn perthynas â thestun y pryder a phan fo hysbysiad o dan reoliadau 4(1) a 5(1) o Reoliadau 2023 wedi ei roi, nid yw’n ofynnol i’r corff cyfrifol anfon copi o’r hysbysiad o’r pryder at y claf neu ei gynrychiolydd.”Eluned Morgan
+Y Gweinidog Iechyd a Gwasanaethau Cymdeithasol, un o Weinidogion Cymru
+7 Mawrth 2023NODYN ESBONIADOL
+(Nid yw’r nodyn hwn yn rhan o’r Rheoliadau)
+Mae’r Rheoliadau hyn yn gwneud darpariaeth ynghylch y weithdrefn gonestrwydd sydd i’w dilyn gan gyrff y GIG o dan Ran 3 o Ddeddf Iechyd a Gofal Cymdeithasol (Ansawdd ac Ymgysylltu) (Cymru) 2020.
+Mae rheoliad 2 yn diffinio’r termau a ddefnyddir yn y Rheoliadau hyn.
+Mae rheoliad 3 yn gwneud darpariaeth mewn cysylltiad â phwy y mae’n ofynnol i’r corff GIG ei hysbysu a chyfathrebu ag ef o dan y weithdrefn gonestrwydd. Mae’r Rheoliadau hyn yn cyfeirio at y person hwn fel y “person perthnasol”, ac yn cyfeirio at y corff GIG y mae arno’r ddyletswydd gonestrwydd i’r person perthnasol fel y “corff cyfrifol”.
+Mae rheoliad 4(1) yn ei gwneud yn ofynnol i’r corff cyfrifol, wrth ddod yn ymwybodol gyntaf o ganlyniad andwyol hysbysadwy, hysbysu’r person perthnasol dros y ffôn, drwy ddull cyfathrebu clyweledol (megis galwad fideo), neu drwy gyfarfod wyneb yn wyneb. Mae rheoliad 4(3) yn gwneud darpariaeth mewn cysylltiad â’r wybodaeth sydd i’w chynnwys mewn hysbysiad o’r fath.
+Mae rheoliad 5 yn ei gwneud yn ofynnol i’r corff cyfrifol ddarparu hysbysiad ysgrifenedig i’r person perthnasol o fewn pum niwrnod gwaith ar ôl dyddiad yr hysbysiad uniongyrchol a ddarperir o dan reoliad 4(1). Mae rheoliad 5(2) yn gwneud darpariaeth ynghylch yr hyn y mae rhaid i’r hysbysiad ysgrifenedig ei gynnwys.
+Mae rheoliad 6 yn ei gwneud yn ofynnol i gorff cyfrifol hysbysu’r person perthnasol am ganlyniadau unrhyw ymholiadau pellach a gynhelir gan y corff mewn cysylltiad â’r amgylchiadau y daeth y ddyletswydd gonestrwydd yn effeithiol odanynt.
+Mae rheoliad 7 yn gwneud darpariaeth bellach mewn cysylltiad â chyfathrebu rhwng y corff cyfrifol a’r person perthnasol sy’n ofynnol yn rhinwedd y Rheoliadau hyn.
+Mae rheoliad 8 yn ei gwneud yn ofynnol i’r corff cyfrifol ddarparu hyfforddiant a gwybodaeth ynghylch gwasanaethau a all ddarparu cynhorthwy a chymorth i staff.
+Mae rheoliad 9 yn darparu bod rhaid i’r corff cyfrifol gadw cofnod ysgrifenedig (sy’n cynnwys cofnod electronig) ar gyfer pob canlyniad andwyol hysbysadwy y dilynir y weithdrefn gonestrwydd mewn cysylltiad ag ef.
+Mae rheoliad 10 yn ei gwneud yn ofynnol i’r corff cyfrifol ddynodi person i fod yn gyfrifol am gynnal goruchwyliaeth strategol o’r modd y mae’n gweithredu’r weithdrefn gonestrwydd.
+Mae rheoliad 11 yn ei gwneud yn ofynnol i’r corff cyfrifol ddynodi swyddog cyfrifol i gymryd cyfrifoldeb cyffredinol am weithrediad effeithiol y weithdrefn gonestrwydd o ddydd i ddydd ac i sicrhau bod y corff cyfrifol yn cydymffurfio â gofynion y Rheoliadau hyn.
+Mae rheoliad 12 yn nodi cyfyngiadau ar ddarparu gwybodaeth.
+Mae rheoliad 13 yn darparu nad yw ymddiheuriad, neu gam arall a gymerir yn unol â’r weithdrefn gonestrwydd, yn gyfaddefiad o esgeulustod neu o dorri dyletswydd statudol.
+Mae rheoliad 14 yn gwneud diwygiadau i Reoliadau’r Gwasanaeth Iechyd Gwladol (Trefniadau Pryderon, Cwynion ac Iawn) (Cymru) 2011 o ganlyniad i’r Rheoliadau hyn.
+Ystyriwyd Cod Ymarfer Gweinidogion Cymru ar gynnal Asesiadau Effaith Rheoleiddiol mewn perthynas â’r Rheoliadau hyn. O ganlyniad, lluniwyd asesiad effaith rheoleiddiol o’r costau a’r manteision sy’n debygol o ddeillio o gydymffurfio â’r Rheoliadau hyn. Gellir cael copi oddi wrth: Llywodraeth Cymru, Parc Cathays, Caerdydd, CF10 3NQ ac mae wedi ei gyhoeddi ar www.llyw.cymru.

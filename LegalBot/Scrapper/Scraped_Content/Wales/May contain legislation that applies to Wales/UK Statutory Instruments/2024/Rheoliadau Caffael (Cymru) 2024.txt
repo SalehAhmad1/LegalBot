@@ -1,0 +1,3496 @@
+OFFERYNNAU STATUDOL CYMRU
+2024 Rhif 782 (Cy. 121)
+CAFFAEL CYHOEDDUS, CYMRU
+Rheoliadau Caffael (Cymru) 2024
+Gwnaed
+3 Gorffennaf 2024
+Yn dod i rym yn unol â rheoliad 1(2) a (3)
+Mae Gweinidogion Cymru(1) yn gwneud y Rheoliadau a ganlyn drwy arfer y pwerau a roddir iddynt gan adrannau 9(2), 33(8), 69(4), 87(7), 95(1), (2) a (3), 97(1) a (2), 121(1) a (2), 122(3) a 125 o Ddeddf Caffael 2023(2), a pharagraff 5(1) o Atodlen 1 iddi.
+Yn unol ag adran 121(3) o’r Ddeddf honno, mae Gweinidogion Cymru wedi ymgynghori ag unrhyw bersonau y mae’n ymddangos iddynt eu bod yn cynrychioli barn cyfleustodau preifat, yn ogystal ag unrhyw bersonau eraill y maent yn ystyried eu bod yn briodol.
+Yn unol ag adran 122(10)(b), (c), (e), (h), (l), (m), (o), (q) ac (r) o’r Ddeddf honno, gosodwyd drafft o’r Rheoliadau hyn gerbron Senedd Cymru ac fe’i cymeradwywyd ganddi drwy benderfyniad.
+(1)
+Gweinidogion Cymru yw’r “awdurdod priodol” fel y diffinnir “appropriate authority” yn adran 123(1) o Ddeddf Caffael 2023, yn ddarostyngedig i’r cyfyngiadau a nodir yn adran 111(1) o’r Ddeddf honno.
+(2)
+2023 p. 54.Enwi a dod i rym
+1.—(1) Enw’r Rheoliadau hyn yw Rheoliadau Caffael (Cymru) 2024.
+(2) Daw’r Rheoliadau hyn, ac eithrio Rhan 1 a rheoliad 47(1) a (2), i rym yr un pryd ag y daw adran 11 o Ddeddf Caffael 2023 i rym at unrhyw ddiben(1).
+(3) Daw Rhan 1 a rheoliad 47(1) a (2) i rym drannoeth y diwrnod y gwneir y Rheoliadau hyn.
+(1)
+Daw adran 11 i rym ar ddiwrnod a bennir gan un o Weinidogion y Goron drwy reoliadau; a chaniateir i ddiwrnodau gwahanol gael eu pennu at ddibenion gwahanol. Gweler adran 127(2) o Ddeddf Caffael 2023.Cymhwyso
+2.—(1) Mae’r Rheoliadau hyn yn gymwys i—
+(a)
+awdurdod contractio sy’n awdurdod Cymreig datganoledig, gan gynnwys mewn perthynas â chaffaeliad o dan drefniant caffael Cymreig datganoledig, a
+(b)
+awdurdod contractio sydd i’w drin fel awdurdod Cymreig datganoledig o dan adran 111 o Ddeddf Caffael 2023.
+(2) Yn y rheoliad hwn—
+mae i “awdurdod Cymreig datganoledig” yr ystyr a roddir i “devolved Welsh authority” gan adran 157A o Ddeddf Llywodraeth Cymru 2006(1);
+mae i “trefniant caffael Cymreig datganoledig” yr ystyr a roddir i “devolved Welsh procurement arrangement” yn adran 114(2) o Ddeddf Caffael 2023.
+(1)
+2006 p. 32. Mewnosodwyd adran 157A gan Ddeddf Cymru 2017 (p. 4), Rhan 1, adran 4(1) ac wedyn fe’i diwygiwyd gan Ddeddf Senedd ac Etholiadau (Cymru) 2020 (dccc 1), Atodlen 1, paragraff 2(19) a Deddf Pysgodfeydd 2020 (p. 22), adran 45(3).Dehongli
+3.  Yn y Rheoliadau hyn—
+mae i “awdurdod contractio” yr ystyr a roddir i “contracting authority” gan adran 2(1) o Ddeddf 2023;
+ystyr “Deddf 2023” (“the 2023 Act”) yw Deddf Caffael 2023;
+ystyr “GGG” (“CPV”) yw’r Eirfa Gaffael Gyffredin fel y’i mabwysiadwyd gan Reoliad (EC) Rhif 2195/2002 Senedd Ewrop a’r Cyngor dyddiedig 5 Tachwedd 2002 ar yr Eirfa Gaffael Gyffredin (1).
+(1)
+EUR 2195/2002, fel y’i diwygiwyd gan O.S. 2020/1319; mae hwn yn gyfeiriad at y fersiwn a ddargadwyd o Reoliad (EC) 2195/2002. Mae’r fersiwn honno a ddargadwyd ar gael ar-lein yn https://www.legislation.gov.uk/eur/2002/2195/contents.Dehongli Rhan 2
+4.  Yn y Rhan hon—
+mae i “amcangyfrif o werth” yr ystyr a roddir i “estimated value” gan adran 4 o Ddeddf 2023;
+mae i “awdurdod priodol” yr ystyr a roddir i “appropriate authority” gan adran 123 o Ddeddf 2023;
+mae i “caffaeliad” yr ystyr a roddir i “procurement” gan adran 1(1) o Ddeddf 2023;
+mae i “cod adnabod unigryw” (“unique identifier”) yr ystyr a roddir gan reoliad 9;
+ystyr “cofrestr pobl â rheolaeth sylweddol” (“PSC register”) yw’r gofrestr y mae’n ofynnol i gwmni ei chadw o dan adran 790M o DC 2006 (dyletswydd i gadw cofrestr)(1);
+mae i “contract consesiwn” yr ystyr a roddir i “concession contract” gan adran 8 o Ddeddf 2023;
+mae i “contract cyfleustodau” yr ystyr a roddir i “utilities contract” gan adran 6 o Ddeddf 2023;
+mae i “contract cyfundrefn arbennig” yr ystyr a roddir i “special regime contract” gan adran 10(6) o Ddeddf 2023;
+mae i “contract cyffyrddiad ysgafn” yr ystyr a roddir i “light touch contract” gan adran 9 o Ddeddf 2023;
+mae i “contract cyhoeddus” yr ystyr a roddir i “public contract” gan adran 3 o Ddeddf 2023;
+mae i “contract trosadwy” yr ystyr a roddir i “convertible contract” gan adran 74(1) o Ddeddf 2023;
+mae i “cwmni cydfuddiannol gwasanaethau cyhoeddus” yr ystyr a roddir i “public service mutual” gan adran 33(6) o Ddeddf 2023;
+mae i “cyflenwr gwaharddedig” yr ystyr a roddir i “excluded supplier” gan adran 57(1) o Ddeddf 2023;
+mae i “cyfleustod” yr ystyr a roddir i “utility” gan adran 35(4) o Ddeddf 2023;
+mae i “cyfleustod preifat” yr ystyr a roddir i “private utility” gan adran 2(2) o Ddeddf 2023;
+mae i “cyfnod tendro” yr ystyr a roddir i “tendering period” gan adran 54(5) o Ddeddf 2023;
+ystyr “Cytundeb ar Gaffael gan Lywodraethau” (“GPA”) yw’r Cytundeb ar Gaffael gan Lywodraethau a lofnodwyd ym Marrakesh ar 15 Ebrill 1994 (2), fel y’i diwygir o bryd i’w gilydd;
+ystyr “Cytundeb Cynhwysfawr a Blaengar ar gyfer Partneriaeth y Môr Tawel” (“Comprehensive and Progressive Agreement for Trans-Pacific Partnership”) yw’r Cytundeb Cynhwysfawr a Blaengar ar gyfer Partneriaeth y Môr Tawel, a lofnodwyd yn Santiago ar 8 Mawrth 2018, gan gynnwys Protocol Derbyn Teyrnas Unedig Prydain Fawr a Gogledd Iwerddon i’r Cytundeb Cynhwysfawr a Blaengar ar gyfer Partneriaeth y Môr Tawel, a lofnodwyd yn Auckland a Bandar Seri Begawan ar 16 Gorffennaf 2023 (3), fel y’i diwygir o bryd i’w gilydd;
+mae i “dangosyddion perfformiad allweddol” yr ystyr a roddir i “key performance indicators” gan adran 52(4) o Ddeddf 2023;
+mae i “darparwr cyflogaeth â chymorth” yr ystyr a roddir i “supported employment provider” gan adran 32(4) o Ddeddf 2023;
+ystyr “DC 2006” (“CA 2006”) yw Deddf Cwmnïau 2006(4);
+mae i “dogfen dendro gysylltiedig” yr ystyr a roddir i “associated tender document” gan adran 21(4) o Ddeddf 2023;
+mae i “dosbarthiad daearyddol” (“geographical classification”) yr ystyr a roddir gan reoliad 15(2);
+mae i “fframwaith” yr ystyr a roddir i “framework” gan adran 45(2) o Ddeddf 2023;
+mae i “fframwaith agored” yr ystyr a roddir i “open framework” gan adran 49(1) o Ddeddf 2023;
+mae i “gweithdrefn agored” yr ystyr a roddir i “open procedure” gan adran 20(2)(a) o Ddeddf 2023;
+mae i “gweithdrefn hyblyg gystadleuol” yr ystyr a roddir i “competitive flexible procedure” gan adran 20(2)(b) o Ddeddf 2023;
+mae i “gweithiau” (“works”) yr ystyr a roddir gan reoliad 45;
+mae i “gwybodaeth yr awdurdod contractio” (“contracting authority information”) yr ystyr a roddir gan reoliad 14;
+mae i “gwybodaeth graidd y cyflenwr” (“core supplier information”) yr ystyr a roddir gan reoliad 6(9);
+ystyr “heb fod ar gael” (“unavailable”) yw bod y platfform digidol Cymreig heb fod yn weithredol am ddim llai na 4 awr;
+mae i “hysbysiad caffael arfaethedig” yr ystyr a roddir i “planned procurement notice” gan adran 15(2) o Ddeddf 2023;
+mae i “hysbysiad dyfarnu contract” yr ystyr a roddir i “contract award notice” gan adran 50(2) o Ddeddf 2023;
+mae i “hysbysiad manylion contract” yr ystyr a roddir i “contract details notice” gan adran 53(2) o Ddeddf 2023;
+mae i “hysbysiad marchnad ddynamig” yr ystyr a roddir i “dynamic market notice” gan adran 39 o Ddeddf 2023;
+mae i “hysbysiad marchnad ddynamig cyfleustodau cymhwysol” yr ystyr a roddir i “qualifying utilities dynamic market notice” gan adran 40(6) o Ddeddf 2023;
+mae i “hysbysiad piblinell” yr ystyr a roddir i “pipeline notice” gan adran 93(3) o Ddeddf 2023;
+mae i “hysbysiad tendro” yr ystyr a roddir i “tender notice” gan adran 21(2) o Ddeddf 2023;
+mae i “hysbysiad tryloywder” yr ystyr a roddir i “transparency notice” gan adran 44(2) o Ddeddf 2023;
+mae i “hysbysiad ymgysylltu rhagarweiniol â’r farchnad” yr ystyr a roddir i “preliminary market engagement notice” gan adran 17(2) o Ddeddf 2023;
+mae i “marchnad ddynamig” yr ystyr a roddir i “dynamic market” gan adran 34(8) o Ddeddf 2023;
+mae i “meini prawf dyfarnu” yr ystyr a roddir i “award criteria” gan adran 23(1) o Ddeddf 2023;
+mae i “menter fach a chanolig ei maint” (“small and medium-sized enterprise”) yr ystyr a roddir gan adran 123(1) o Ddeddf 2023;
+mae i “person cysylltiedig” yr ystyr a roddir i “connected person” gan baragraff 45 o Atodlen 6 i Ddeddf 2023;
+ystyr “platfform digidol canolog” (“central digital platform”) yw’r system ar-lein a sefydlwyd gan y Gweinidog dros Swyddfa’r Cabinet(5);
+ystyr “platfform digidol Cymreig” (“Welsh digital platform”) yw’r system ar-lein a ddarperir gan Lywodraeth Cymru i’w defnyddio gan awdurdodau contractio y mae rheoliad 2 yn gymwys iddynt;
+mae i “proses ddethol gystadleuol” yr ystyr a roddir i “competitive selection process” gan adran 46(10) o Ddeddf 2023;
+mae i “pwnc y contract” (“contract subject-matter”) yr ystyr a roddir gan reoliad 15;
+mae i “rheolaeth sylweddol” yr ystyr a roddir i “significant control” gan adran 790C(2) o DC 2006(6);
+ystyr “Swyddfa’r Cabinet” (“Cabinet Office”) yw adran Llywodraeth y DU sy’n gyfrifol am gefnogi prif weinidog a Chabinet y Deyrnas Unedig, gan weithredu ar ran y Gweinidog dros Swyddfa’r Cabinet;
+mae i “system ar-lein arall” (“alternative online system”) yr ystyr a roddir gan reoliad 5(11).
+(1)
+Diwygiwyd gan Ddeddf Busnesau Bach, Menter a Chyflogaeth 2015 (p. 26), Atodlen 3(1), paragraff 1 ac O.S. 2017/693.
+(2)
+Gellir gweld y Cytundeb yma: https://wwwn.wto.org/english/tratop_e/gproc_e/gpa_1994_e.htm
+(3)
+Gellir dod o hyd i’r Cytundeb ar-lein yn: httpsn://www.mfat.govt.nz/en/trade/free-trade-agreements/free-trade-agreements-in-force/cptpp/comprehensive-and-progressive-agreement-for-trans-pacific-partnership-text-and-resources/
+(4)
+2006 p. 46.
+(5)
+Gellir cyrchu’r platfform digidol canolog yn: https://www.gov.uk/find-tender.
+(6)
+Mewnosodwyd gan Ddeddf Busnesau Bach, Menter a Chyflogaeth 2015 (p. 26), Atodlen 3(1), paragraff 1.Cyhoeddi hysbysiadau ar y platfform digidol canolog
+5.—(1) Rhaid cyhoeddi neu roi hysbysiad, dogfen neu wybodaeth a gyhoeddir neu a roddir o dan ddarpariaeth o Ddeddf 2023 a restrir ym mharagraff (5) drwy gyhoeddi’r hysbysiad, y ddogfen neu’r wybodaeth gan yr awdurdod contractio ar y platfform digidol canolog yn gyntaf.
+(2) Oni bai bod paragraff (3) neu baragraff (6) yn gymwys, mae’r gofyniad ym mharagraff (1) i’r awdurdod contractio gyhoeddi neu roi hysbysiad, dogfen neu wybodaeth ar y platfform digidol canolog yn gyntaf wedi ei fodloni pan fo’r awdurdod contractio wedi cyflwyno’r hysbysiad, y ddogfen neu’r wybodaeth i’r platfform digidol Cymreig ac—
+(a)
+bo’r Gweinidog dros Swyddfa’r Cabinet wedi rhoi gwybod i’r awdurdod contractio fod yr hysbysiad wedi ei gyflwyno’n llwyddiannus ar gyfer ei gyhoeddi i’r platfform digidol canolog, neu fod y ddogfen neu’r wybodaeth wedi ei chyflwyno’n llwyddiannus ar gyfer ei chyhoeddi iddo, neu
+(b)
+bo modd i gyflenwyr ac aelodau o’r cyhoedd gyrchu’r hysbysiad, y ddogfen neu’r wybodaeth ar y platfform digidol canolog.
+(3) Os yw’r platfform digidol Cymreig heb fod ar gael fel na ellir bodloni’r gofyniad ym mharagraff (2), caniateir i awdurdod contractio gyhoeddi hysbysiad, dogfen neu wybodaeth—
+(a)
+ar y platfform digidol canolog, neu
+(b)
+ar y platfform digidol canolog drwy ddefnyddio system ar-lein arall.
+(4) Pan fo paragraff (3) yn gymwys bydd y gofyniad ym mharagraff (1) wedi ei fodloni—
+(a)
+pan fo’r Gweinidog dros Swyddfa’r Cabinet wedi rhoi gwybod i’r awdurdod contractio fod yr hysbysiad wedi ei gyflwyno’n llwyddiannus ar gyfer ei gyhoeddi i’r platfform, neu fod y ddogfen neu’r wybodaeth wedi ei chyflwyno’n llwyddiannus ar gyfer ei chyhoeddi iddo, neu
+(b)
+pan fo modd i gyflenwyr ac aelodau o’r cyhoedd gyrchu’r hysbysiad, y ddogfen neu’r wybodaeth ar y platfform digidol canolog.
+(5) Y darpariaethau perthnasol o Ddeddf 2023 yw—
+(a)
+adran 15(1) (hysbysiadau caffael arfaethedig)(1),
+(b)
+adran 17(1)(a) (hysbysiadau ymgysylltu rhagarweiniol â’r farchnad),
+(c)
+adran 21(1) (hysbysiadau tendro),
+(d)
+adran 24(4) (mireinio meini prawf dyfarnu), mewn cysylltiad ag ailgyhoeddi hysbysiadau tendro yn unig,
+(e)
+adran 31(5) (addasu caffaeliad adran 19), mewn cysylltiad ag ailgyhoeddi hysbysiadau tendro yn unig,
+(f)
+adran 39(2) (hysbysiadau marchnad ddynamig: bwriad i sefydlu marchnad ddynamig)(2),
+(g)
+adran 39(3) (hysbysiadau marchnad ddynamig: sefydlu marchnad ddynamig),
+(h)
+adran 39(4) (hysbysiadau marchnad ddynamig: addasiadau i farchnad ddynamig),
+(i)
+adran 39(5) (hysbysiadau marchnad ddynamig: diwedd marchnad ddynamig),
+(j)
+adran 44(1) (hysbysiadau tryloywder),
+(k)
+adran 50(1) (hysbysiadau dyfarnu contract),
+(l)
+adran 52(3) (dangosyddion perfformiad allweddol),
+(m)
+adran 53(1) (hysbysiadau manylion contract),
+(n)
+adran 53(3) (copïau o gontractau),
+(o)
+adran 55(2) (hysbysiadau terfynu caffaeliad),
+(p)
+adran 69(1) (hysbysiadau cydymffurfedd taliadau),
+(q)
+adran 71(2)(b) (cyflawni contract: asesu perfformiad yn erbyn dangosyddion perfformiad allweddol),
+(r)
+adran 71(5) (cyflawni contract: torri contract cyhoeddus neu fethu â chyflawni),
+(s)
+adran 75(1) (hysbysiadau newid contract),
+(t)
+adran 75(5) (hysbysiadau newid contract: addasiadau a wneir ar y cyd),
+(u)
+adran 77(1) (cyhoeddi addasiadau),
+(v)
+adran 80(1) (hysbysiadau terfynu contract),
+(w)
+adran 87(1) (hysbysiadau tendro ar gyfer contractau sydd o dan y trothwy),
+(x)
+adran 87(3) (hysbysiadau manylion contract yn dilyn contractau hysbysadwy sydd o dan y trothwy),
+(y)
+adran 93(2) (hysbysiadau piblinell), a
+(z)
+adran 94(3) (esemptiadau cyffredinol rhag dyletswyddau i gyhoeddi neu ddatgelu gwybodaeth: gwybodaeth yn cael ei chadw yn ôl).
+(6) Os yw’r holl amodau sy’n gymwys ym mharagraff (7) wedi eu bodloni, caiff yr awdurdod contractio gyhoeddi neu roi’r hysbysiad, y ddogfen neu’r wybodaeth ar y platfform digidol Cymreig neu, os nad yw ar gael, ar system ar-lein arall ac wrth wneud hynny mae’r awdurdod i’w drin fel pe bai am y tro yn bodloni’r gofyniad ym mharagraff (1).
+(7) Yr amodau yw—
+(a)
+yn achos hysbysiad a grybwyllir ym mharagraff (8), nad oes llai na 4 awr wedi mynd heibio ers cyflwyno’r hysbysiad ar gyfer ei gyhoeddi i’r platfform digidol canolog,
+(b)
+yn achos unrhyw hysbysiad arall, unrhyw ddogfen arall neu unrhyw wybodaeth arall, nad oes llai nag 48 awr wedi mynd heibio ers cyflwyno’r hysbysiad, y ddogfen neu’r wybodaeth ar gyfer ei gyhoeddi neu ei chyhoeddi i’r platfform digidol canolog,
+(c)
+nad yw’r awdurdod contractio wedi cael cadarnhad gan y Gweinidog dros Swyddfa’r Cabinet fod yr hysbysiad wedi ei gyhoeddi ar y platfform digidol canolog yn llwyddiannus, neu fod y ddogfen neu’r wybodaeth wedi ei chyhoeddi arno’n llwyddiannus, a
+(d)
+nad oes modd i aelodau o’r cyhoedd gyrchu’r hysbysiad, y ddogfen neu’r wybodaeth ar y platfform digidol canolog.
+(8) Yr hysbysiadau yw hysbysiad tryloywder, hysbysiad dyfarnu contract neu hysbysiad manylion contract sy’n ymwneud ag—
+(a)
+dyfarnu contract cyhoeddus yn uniongyrchol o dan baragraffau 13 a 14 o Atodlen 5 i Ddeddf 2023 (sefyllfa frys), neu
+(b)
+dyfarnu contract cyhoeddus yn uniongyrchol o dan adran 42 o Ddeddf 2023 (dyfarniad uniongyrchol er mwyn gwarchod bywyd, etc.).
+(9) Ond nid yw’r awdurdod contractio i gael ei drin mwyach fel pe bai am y tro yn bodloni’r gofyniad ym mharagraff (1) os yw’r Gweinidog dros Swyddfa’r Cabinet yn rhoi gwybod i’r awdurdod contractio fod cyflwyno’r hysbysiad, y ddogfen neu’r wybodaeth i’r platfform digidol canolog wedi ei wrthod.
+(10) Rhaid i awdurdod contractio sy’n defnyddio’r platfform digidol Cymreig neu system ar-lein arall yn unol â pharagraff (6) gydweithredu â’r Gweinidog dros Swyddfa’r Cabinet er mwyn sicrhau bod yr hysbysiad, y ddogfen neu’r wybodaeth o dan sylw wedi hynny—
+(a)
+yn cael ei gyhoeddi neu ei chyhoeddi ar y platfform digidol canolog, a
+(b)
+yn gallu cael ei gyrchu neu ei chyrchu gan aelodau o’r cyhoedd ar y system honno.
+(11) Ystyr “system ar-lein arall” yw system ar-lein ar gyfer cyhoeddi gwybodaeth am gaffael—
+(a)
+sy’n system rad ac am ddim ac ar gael yn rhwydd i gyflenwyr ac aelodau o’r cyhoedd,
+(b)
+sy’n system hygyrch i bobl anabl, ac
+(c)
+nad y platfform digidol canolog na’r platfform digidol Cymreig mohoni.
+(12) Nid oes dim yn y rheoliad hwn yn atal awdurdod contractio rhag cyhoeddi’r hysbysiad, y ddogfen neu’r wybodaeth yn rhywle heblaw ar y platfform digidol canolog, y platfform digidol Cymreig neu system ar-lein arall, ond ni chaiff yr awdurdod wneud hynny cyn cydymffurfio â gofynion paragraff (1) neu (6).
+(1)
+Mae hysbysiadau caffael arfaethedig yn cynnwys hysbysiadau caffael arfaethedig cymhwysol (gweler adran 15(3) o Ddeddf 2023).
+(2)
+Mae hysbysiadau marchnad ddynamig o dan adran 39(2) yn cynnwys hysbysiadau marchnad ddynamig cyfleustodau cymhwysol (gweler adran 40(6) o Ddeddf 2023).Rhannu gwybodaeth graidd y cyflenwr drwy’r platfform digidol canolog
+6.—(1) Mae’r rheoliad hwn yn gymwys i awdurdod contractio pan fo cyflenwr yn rhannu gwybodaeth graidd y cyflenwr â’r awdurdod yn ystod gweithdrefn a restrir ym mharagraff (2) gyda golwg ar ddyfarnu contract cyhoeddus.
+(2) Y gweithdrefnau yw—
+(a)
+gweithdrefn agored,
+(b)
+gweithdrefn hyblyg gystadleuol,
+(c)
+dyfarniad uniongyrchol o dan adran 41 neu 43 o Ddeddf 2023, neu
+(d)
+proses ddethol gystadleuol ar gyfer fframweithiau o dan adran 46 o Ddeddf 2023.
+(3) Os rhennir gwybodaeth graidd y cyflenwr—
+(a)
+yn ystod gweithdrefn agored, neu
+(b)
+yn ystod gweithdrefn hyblyg gystadleuol,
+rhaid i’r awdurdod contractio gael cadarnhad gan y cyflenwr ynghylch y materion ym mharagraff (5) cyn diwedd y cyfnod tendro.
+(4) Os rhennir gwybodaeth graidd y cyflenwr—
+(a)
+cyn dyfarniad uniongyrchol o dan adran 41 neu 43 o Ddeddf 2023, neu
+(b)
+yn ystod proses ddethol gystadleuol ar gyfer fframweithiau o dan adran 46 o’r Ddeddf honno,
+rhaid i’r awdurdod contractio gael cadarnhad gan y cyflenwr ynghylch y materion ym mharagraff (5) cyn dyfarnu’r contract cyhoeddus.
+(5) Y materion yw bod y cyflenwr—
+(a)
+wedi cofrestru ar y platfform digidol canolog,
+(b)
+wedi cyflwyno gwybodaeth graidd ddiweddaraf y cyflenwr i’r platfform hwnnw, ac
+(c)
+wedi rhannu’r wybodaeth graidd ddiweddaraf honno am y cyflenwr â’r awdurdod contractio drwy gyfleuster sydd wedi ei ddarparu ar y platfform hwnnw at ddiben rhannu gwybodaeth graidd cyflenwyr.
+(6) Mae paragraff (7) yn gymwys—
+(a)
+pan fo cyflenwr wedi rhannu gwybodaeth graidd ddiweddaraf y cyflenwr ag awdurdod contractio yn ystod gweithdrefn a restrir ym mharagraff (2), a
+(b)
+pan fo gwybodaeth graidd y cyflenwr yn newid wedi hynny, a bo’r cyflenwr yn rhannu â’r awdurdod contractio, cyn i’r contract cyhoeddus gael ei ddyfarnu, wybodaeth graidd y cyflenwr sydd wedi ei diweddaru neu wedi ei chywiro.
+(7) Rhaid i’r awdurdod contractio gael cadarnhad pellach gan y cyflenwr ynghylch y materion ym mharagraff (8) cyn dyfarnu’r contract cyhoeddus.
+(8) Y materion yw bod y cyflenwr—
+(a)
+wedi cyflwyno i’r platfform digidol canolog wybodaeth graidd y cyflenwr sydd wedi ei diweddaru neu ei chywiro, a
+(b)
+wedi rhannu’r wybodaeth graidd y cyflenwr sydd wedi ei diweddaru neu ei chywiro â’r awdurdod contractio drwy gyfleuster a ddarperir ar y platfform hwnnw at ddiben rhannu gwybodaeth graidd cyflenwyr.
+(9) Yn yRhan hon, ystyr “gwybodaeth graidd y cyflenwr” yw—
+(a)
+gwybodaeth sylfaenol y cyflenwr, a nodir yn rheoliad 10,
+(b)
+gwybodaeth y cyflenwr o ran ei sefyllfa ariannol ac economaidd, a nodir yn rheoliad 11,
+(c)
+gwybodaeth y cyflenwr o ran ei bersonau cysylltiedig, a nodir yn rheoliad 12, a
+(d)
+gwybodaeth y cyflenwr o ran seiliau dros wahardd, a nodir yn rheoliad 13.
+(10) Yn y rheoliad hwn, mae cyfeiriad at gyfleuster a ddarperir ar y platfform digidol canolog yn cynnwys cyfeiriad at gyfleuster i lawrlwytho gwybodaeth sydd i’w hanfon ymlaen at awdurdod contractio gan gyflenwr.
+(11) Mae’r rheoliad hwn yn ddarostyngedig i reoliad 8.Gwybodaeth y cyflenwr ar gyfer contractau hysbysadwy sydd o dan y trothwy
+7.—(1) Cyn i gyflenwr gymryd rhan mewn caffaeliad hysbysadwy sydd o dan y trothwy ac a gyflawnir gan awdurdod contractio, rhaid i’r awdurdod sicrhau bod y cyflenwr wedi cofrestru ar y platfform digidol canolog.
+(2) Rhaid i’r awdurdod contractio gael cadarnhad cofrestru gan y cyflenwr cyn dyfarnu’r contract hysbysadwy sydd o dan y trothwy.
+(3) Yn y rheoliad hwn—
+ystyr “caffaeliad hysbysadwy sydd o dan y trothwy” (“notifiable below-threshold procurement”) yw dyfarnu contract hysbysadwy sydd o dan y trothwy, ymrwymo iddo a’i reoli;
+mae i “contract hysbysadwy sydd o dan y trothwy” yr ystyr a roddir i “notifiable below-threshold contract” gan adran 87(4) o Ddeddf 2023.Gwybodaeth graidd y cyflenwr: platfform ddim yn gweithio, sefyllfa frys, cyfleustodau preifat
+8.—(1) Pan na fo modd i awdurdod contractio, mewn cysylltiad â gwybodaeth graidd y cyflenwr a rennir yn ystod gweithdrefn agored neu weithdrefn hyblyg gystadleuol, gael cadarnhad gan y cyflenwr ynghylch y materion yn rheoliad 6(5) cyn diwedd y cyfnod tendro oherwydd y rheswm ym mharagraff (2), mae paragraff (3) yn gymwys.
+(2) Y rheswm yw nad oedd modd i’r cyflenwr gofrestru’n rhesymol ar y platfform digidol canolog, cyflwyno gwybodaeth iddo, neu ddefnyddio cyfleuster ar gyfer rhannu gwybodaeth drwyddo, oherwydd nad oedd y platfform hwnnw yn gweithio’n briodol yn ystod unrhyw gyfnod cyn diwedd y cyfnod tendro.
+(3) Rhaid i’r awdurdod contractio gael cadarnhad gan y cyflenwr ynghylch y materion yn rheoliad 6(5) cyn gynted ag y bo’n ymarferol a pha un bynnag cyn dyfarnu’r contract.
+(4) Mae rheoliad 6 yn gymwys yn achos dyfarnu contract cyhoeddus yn uniongyrchol yn unol â pharagraffau 13 a 14 o Atodlen 5 i Ddeddf 2023 (sefyllfa frys), ond gan ddarllen rheoliad 6—
+(a)
+fel pe bai’r cyfeiriad ym mharagraff (4) at yr awdurdod contractio yn cael cadarnhad cyn dyfarnu’r contract cyhoeddus yn gyfeiriad at yr awdurdod yn cael cadarnhad cyn gynted ag y bo’n ymarferol a pha un bynnag cyn dyddiad cyhoeddi’r hysbysiad manylion contract, a
+(b)
+fel pe bai paragraffau (6) i (8) wedi eu hepgor.
+(5) Nid yw rheoliad 6 yn gymwys i gyfleustod preifat yn achos dyfarnu contract cyhoeddus yn uniongyrchol yn unol â pharagraffau 13 a 14 o Atodlen 5 i Ddeddf 2023 (sefyllfa frys).Codau adnabod unigryw ac esemptiad rhag eu cyhoeddi ar y platfform digidol Cymreig neu system ar-lein arall
+9.—(1) Yn y Rhan hon, ystyr “cod adnabod unigryw”—
+(a)
+yn achos caffaeliad, yw’r cod unigryw a ddyrennir gan y platfform digidol canolog pan gyhoeddir yr hysbysiad cyntaf sy’n ymwneud â’r caffaeliad ar y platfform hwnnw, heblaw o dan yr amgylchiadau a nodir yn is-baragraff (b),
+(b)
+yn achos caffaeliad pan fo newid wedi bod i ddyfarniad uniongyrchol yn unol ag adran 43 o Ddeddf 2023, yw’r cod unigryw a ddyrennir gan y platfform digidol canolog pan gyhoeddir yr hysbysiad tryloywder sy’n ymwneud â’r contract ar y platfform hwnnw,
+(c)
+yn achos contract, y cod unigryw sy’n galluogi’r sawl a fo’n darllen hysbysiad sy’n cyfeirio at y contract i wahaniaethu rhwng y contract hwnnw a chontractau eraill sydd wedi eu dyfarnu o dan yr un broses gaffael,
+(d)
+yn achos marchnad ddynamig, y cod unigryw a ddyrennir gan y platfform digidol canolog pan gyhoeddir y cyntaf o’r hysbysiadau a ganlyn ar y platfform hwnnw mewn perthynas â’r farchnad ddynamig—
+(i)
+unrhyw hysbysiad piblinell,
+(ii)
+unrhyw hysbysiad ymgysylltu rhagarweiniol â’r farchnad, neu
+(iii)
+yr hysbysiad marchnad ddynamig cyntaf, ac
+(e)
+yn achos—
+(i)
+cyflenwr,
+(ii)
+awdurdod contractio,
+(iii)
+person sy’n cyflawni caffaeliad, neu ran o gaffaeliad, ar ran awdurdod contractio, neu
+(iv)
+person heblaw awdurdod contractio sy’n sefydlu marchnad ddynamig yn unol ag adran 35(3) o Ddeddf 2023,
+y cod unigryw a gyflwynir i’r platfform digidol canolog ac a gydnabyddir gan y platfform hwnnw neu, pan na chyflwynir ac na chydnabyddir cod o’r fath, y cod unigryw a ddyrennir gan y platfform hwnnw pan yw’r person yn cofrestru ar y platfform hwnnw.
+(2) Mae paragraff (3) yn gymwys pan fo awdurdod contractio yn cyhoeddi hysbysiad, dogfen neu wybodaeth a grybwyllir yn rheoliad 5(5) ar y platfform digidol Cymreig neu, os nad yw ar gael, ar system ar-lein arall o dan reoliad 5(6).
+(3) Nid yw’n ofynnol i’r awdurdod contractio gyhoeddi unrhyw god adnabod unigryw yn unol â’r Rhan hon hyd nes y cyhoeddir yr hysbysiad hwnnw, y ddogfen honno neu’r wybodaeth honno wedi hynny ar y platfform digidol canolog o dan reoliad 5(10).Gwybodaeth sylfaenol y cyflenwr
+10.—(1) Mae’r rheoliad hwn yn nodi gwybodaeth sylfaenol y cyflenwr.
+(2) Pan fo cyflenwr yn unigolyn, yr wybodaeth yw—
+(a)
+enw’r cyflenwr,
+(b)
+y cod adnabod unigryw ar gyfer y cyflenwr,
+(c)
+cyfeiriad post cyswllt a chyfeiriad e-bost y cyflenwr,
+(d)
+pan fo gan y cyflenwr wefan, cyfeiriad y wefan,
+(e)
+rhif cofrestru TAW y cyflenwr (o fewn yr ystyr a roddir i “VAT registration number” yn adran 5A(6) o Ddeddf Treth ar Werth 1994(1)), os yw’n gymwys, ac
+(f)
+manylion unrhyw gymhwyster perthnasol neu unrhyw sicrwydd masnach perthnasol a ddelir gan yr unigolyn, gan gynnwys—
+(i)
+yn achos cymhwyster, enw’r person neu’r corff a ddyfarnodd y cymhwyster, enw’r cymhwyster a’r dyddiad y cafodd ei ddyfarnu, neu
+(ii)
+yn achos sicrwydd masnach, enw’r person neu’r corff a ddyfarnodd y cofrestriad, rhif cyfeirnod y sicrwydd a’r dyddiad y rhoddwyd y sicrwydd.
+(3) Pan na fo’r cyflenwr yn unigolyn, yr wybodaeth yw—
+(a)
+enw’r cyflenwr,
+(b)
+y cod adnabod unigryw ar gyfer y cyflenwr,
+(c)
+cyfeiriad cofrestredig y cyflenwr neu gyfeiriad ei brif swyddfa,
+(d)
+cyfeiriad post cyswllt a chyfeiriad e-bost y cyflenwr,
+(e)
+pan fo’r cyflenwr yn marchnata ei nwyddau, ei wasanaethau neu ei weithiau ar-lein, cyfeiriad y wefan berthnasol,
+(f)
+ffurf gyfreithiol y cyflenwr a’r gyfraith y’i llywodraethir odani,
+(g)
+pan fo’r cyflenwr yn gwmni sydd wedi ei gofrestru o dan DC 2006, y dyddiad y cofrestrodd y cyflenwr o dan y Ddeddf honno,
+(h)
+pan na fo’r cyflenwr yn gwmni sydd wedi ei gofrestru o dan DC 2006—
+(i)
+unrhyw ddyddiad cyfwerth â’r dyddiad a grybwyllir yn is-baragraff (g), neu
+(ii)
+pan na fo dyddiad cyfwerth, y dyddiad y dechreuodd y cyflenwr fasnachu,
+(i)
+rhif cofrestru TAW y cyflenwr (o fewn yr ystyr a roddir i “VAT registration number” yn adran 5A(6) o Ddeddf Treth ar Werth 1994), os yw’n gymwys,
+(j)
+manylion unrhyw gymhwyster perthnasol neu unrhyw sicrwydd masnach perthnasol a ddelir gan y cyflenwr, gan gynnwys—
+(i)
+yn achos cymhwyster, enw’r person neu’r corff a ddyfarnodd y cymhwyster, enw’r cymhwyster a’r dyddiad y cafodd ei ddyfarnu, neu
+(ii)
+yn achos sicrwydd masnach, enw’r person neu’r corff a ddyfarnodd y cofrestriad, rhif cyfeirnod y sicrwydd a’r dyddiad y rhoddwyd y sicrwydd, a
+(k)
+a yw’r cyflenwr—
+(i)
+yn fenter fach a chanolig ei maint,
+(ii)
+yn gorff anllywodraethol â gwerthoedd yn ei lywio ac sy’n ailfuddsoddi ei wargedion yn bennaf er mwyn hybu amcanion cymdeithasol, amgylcheddol neu ddiwylliannol,
+(iii)
+yn ddarparwr cyflogaeth â chymorth, neu
+(iv)
+yn gwmni cydfuddiannol gwasanaethau cyhoeddus.
+(1)
+1994 p. 23. Mewnosodwyd adran 5A gan Ddeddf Trethi (Ar ôl y Cyfnod Pontio) 2020 (p. 26), Atodlen 3(1), paragraff 2.Gwybodaeth y cyflenwr o ran ei sefyllfa economaidd ac ariannol
+11.—(1) Mae’r rheoliad hwn yn nodi gwybodaeth y cyflenwr o ran ei sefyllfa economaidd ac ariannol.
+(2) Yr wybodaeth yw—
+(a)
+yn achos cyflenwr yr oedd yn ofynnol i’w gyfrifon gael eu harchwilio ar gyfer dwy flwyddyn ariannol ddiweddaraf y cyflenwr yn unol â Rhan 16 o DC 2006, copi o’r cyfrifon hynny,
+(b)
+yn achos cyflenwr yr oedd yn ofynnol i’w gyfrifon gael eu harchwilio ar gyfer blwyddyn ariannol ddiweddaraf y cyflenwr yn unol â Rhan 16 o DC 2006, ond nid y flwyddyn ariannol yn union cyn honno, copi o’r cyfrifon hynny,
+(c)
+yn achos cyflenwr yr oedd yn ofynnol i’w gyfrifon gael eu harchwilio ar gyfer dwy flwyddyn ariannol ddiweddaraf y cyflenwr yn unol â gofyniad tramor cyfwerth â Rhan 16 o DC 2006, copi o’r cyfrifon hynny,
+(d)
+yn achos cyflenwr yr oedd yn ofynnol i’w gyfrifon gael eu harchwilio ar gyfer blwyddyn ariannol ddiweddaraf y cyflenwr yn unol â gofyniad tramor cyfwerth â Rhan 16 o DC 2006, ond nid y flwyddyn ariannol yn union cyn honno, copi o’r cyfrifon hynny, neu
+(e)
+yn achos unrhyw gyflenwr arall—
+(i)
+os oedd y cyflenwr mewn busnes am y ddwy o flynyddoedd ariannol mwyaf diweddar y cyflenwr, cyfrifon neu wybodaeth arall am y ddwy flynedd hynny, neu
+(ii)
+os oedd y cyflenwr mewn busnes am flwyddyn ariannol ddiweddaraf y cyflenwr ond nid y flwyddyn ariannol yn union cyn hynny, cyfrifon neu wybodaeth arall ar gyfer blwyddyn ariannol ddiweddaraf y cyflenwr,
+sy’n gyfwerth â gwybodaeth a gynhwysir mewn cyfrifon a archwilir yn unol â Rhan 16 o DC 2006, i’r graddau y gellir rhoi’r cyfrifon hynny neu’r wybodaeth arall honno yn rhesymol.
+(3) Ym mharagraff (2)(a) a (b) mae i “blwyddyn ariannol” yr un ystyr â “financial year” yn adran 390 o DC 2006.Gwybodaeth y cyflenwr o ran ei bersonau cysylltiedig
+12.—(1) Mae’r rheoliad hwn yn nodi gwybodaeth y cyflenwr o ran ei bersonau cysylltiedig.
+(2) Yr wybodaeth yw’r wybodaeth yn y rheoliad hwn ar gyfer pob person cysylltiedig i’r cyflenwr.
+(3) Mae paragraff (4) yn nodi’r wybodaeth—
+(a)
+pan fo’r cyflenwr yn gwmni sydd wedi ei gofrestru o dan DC 2006,
+(b)
+pan fo’r person cysylltiedig yn berson â rheolaeth sylweddol dros y cyflenwr, ac
+(c)
+pan fo’r person cysylltiedig yn gofrestradwy.
+(4) Yr wybodaeth yw—
+(a)
+enw, dyddiad geni a chenedligrwydd y person cysylltiedig,
+(b)
+cyfeiriad cyflwyno’r person cysylltiedig,
+(c)
+pa un neu ragor o’r amodau penodedig yn Rhan 1 o Atodlen 1A i DC 2006 sy’n gymwys,
+(d)
+y dyddiad pan ddaeth y person cysylltiedig yn gofrestradwy fel person â rheolaeth sylweddol, os yw’n gymwys, ac
+(e)
+enw’r gofrestr pobl â rheolaeth sylweddol y mae’r person cysylltiedig wedi ei gofrestru arni fel person â rheolaeth sylweddol, os yw’n gymwys.
+(5) Mae paragraff (6) yn nodi’r wybodaeth—
+(a)
+pan fo’r cyflenwr yn gwmni sydd wedi ei gofrestru o dan DC 2006,
+(b)
+pan fo’r person cysylltiedig yn endid cyfreithiol perthnasol, ac
+(c)
+pan fo’r person cysylltiedig yn gofrestradwy.
+(6) Yr wybodaeth yw—
+(a)
+enw’r person cysylltiedig,
+(b)
+cyfeiriad cofrestredig y person cysylltiedig neu gyfeiriad ei brif swyddfa,
+(c)
+cyfeiriad cyflwyno’r person cysylltiedig,
+(d)
+ffurf gyfreithiol y person cysylltiedig a’r gyfraith y’i llywodraethir odani,
+(e)
+pa un neu ragor o’r amodau penodedig yn Rhan 1 o Atodlen 1A i DC 2006 sy’n gymwys,
+(f)
+y dyddiad pan ddaeth y person cysylltiedig yn gofrestradwy fel endid cyfreithiol perthnasol, os yw’n gymwys, ac
+(g)
+enw’r gofrestr pobl â rheolaeth sylweddol y mae’r person cysylltiedig wedi ei gofrestru arni fel endid cyfreithiol perthnasol, os yw’n gymwys.
+(7) Mae paragraff (8) yn nodi’r wybodaeth—
+(a)
+pan fo’r cyflenwr yn gwmni sydd wedi ei gofrestru o dan DC 2006, a
+(b)
+pan fo’r person cysylltiedig—
+(i)
+yn gyfarwyddwr neu’n gyfarwyddwr cysgodol i’r cyflenwr, a
+(ii)
+yn unigolyn.
+(8) Yr wybodaeth yw—
+(a)
+enw, dyddiad geni a chenedligrwydd y person cysylltiedig,
+(b)
+cyfeiriad cyflwyno’r person cysylltiedig, ac
+(c)
+y wlad neu’r wladwriaeth (neu’r rhan o’r Deyrnas Unedig) y mae’r person cysylltiedig yn preswylio ynddi fel arfer.
+(9) Mae paragraff (10) yn nodi’r wybodaeth—
+(a)
+pan fo’r cyflenwr yn gwmni sydd wedi ei gofrestru o dan DC 2006, a
+(b)
+o ran y person cysylltiedig—
+(i)
+pan fo’n gyfarwyddwr neu’n gyfarwyddwr cysgodol i’r cyflenwr, a
+(ii)
+pan na fo’n unigolyn.
+(10) Yr wybodaeth yw—
+(a)
+enw’r person cysylltiedig;
+(b)
+cyfeiriad cofrestredig y person cysylltiedig neu gyfeiriad ei brif swyddfa,
+(c)
+cyfeiriad cyflwyno’r person cysylltiedig,
+(d)
+ffurf gyfreithiol y person cysylltiedig a’r gyfraith y’i llywodraethir odani, ac
+(e)
+pan fo’r person cysylltiedig yn gwmni sydd wedi ei gofrestru o dan DC 2006, rhif cofrestru’r person a roddwyd o dan y Ddeddf honno.
+(11) Mae paragraff (12) yn nodi’r wybodaeth—
+(a)
+pan fo’r cyflenwr yn gwmni sydd wedi ei gofrestru o dan DC 2006, a
+(b)
+pan fo’r person cysylltiedig yn rhiant-ymgymeriad neu’n is-ymgymeriad i’r cyflenwr.
+(12) Yr wybodaeth yw—
+(a)
+enw’r person cysylltiedig,
+(b)
+cyfeiriad cofrestredig y person cysylltiedig neu gyfeiriad ei brif swyddfa,
+(c)
+cyfeiriad cyflwyno’r person cysylltiedig, a
+(d)
+pan fo’r person cysylltiedig yn gwmni sydd wedi ei gofrestru o dan DC 2006, y rhif cofrestru a roddwyd o dan y Ddeddf honno.
+(13) Mae paragraff (14) yn nodi’r wybodaeth—
+(a)
+pan fo’r cyflenwr yn gwmni sydd wedi ei gofrestru o dan DC 2006, a
+(b)
+pan fo’r person cysylltiedig yn gwmni rhagflaenol i’r cyflenwr.
+(14) Yr wybodaeth yw—
+(a)
+enw’r person cysylltiedig,
+(b)
+cyfeiriad cofrestredig olaf y person cysylltiedig neu gyfeiriad ei brif swyddfa olaf,
+(c)
+pan fo’r person cysylltiedig yn gwmni sydd wedi ei gofrestru o dan DC 2006, y rhif cofrestru a roddwyd o dan y Ddeddf honno, a
+(d)
+y dyddiad pan aeth y person cysylltiedig yn ansolfent ac y peidiodd â masnachu.
+(15) Mae paragraff (16) yn nodi’r wybodaeth—
+(a)
+pan na fo’r cyflenwr yn gwmni sydd wedi ei gofrestru o dan DC 2006, a
+(b)
+pan ellir ystyried yn rhesymol fod y person cysylltiedig mewn sefyllfa gyfwerth, mewn perthynas â’r cyflenwr, â’r person cysylltiedig a ddisgrifir ym mharagraff (3), (5), (7), (9), (11) neu (13).
+(16) Mae’r wybodaeth yn wybodaeth y gellir ystyried yn rhesymol ei bod yn gyfwerth â’r hyn y cyfeirir ato ym mharagraff (4), (6), (8), (10), (12) neu (14) (yn ôl y digwydd).
+(17) Mae paragraff (18) yn nodi’r wybodaeth ar gyfer person cysylltiedig nad yw unrhyw un o baragraffau (3), (5), (7), (9), (11), (13) na (15) yn gymwys iddo—
+(a)
+sydd â’r hawl i arfer, neu sy’n arfer mewn gwirionedd, ddylanwad sylweddol neu reolaeth sylweddol dros y cyflenwr, neu
+(b)
+y mae gan y cyflenwr yr hawl i arfer, neu ei fod yn arfer mewn gwirionedd, ddylanwad sylweddol neu reolaeth sylweddol drosto.
+(18) Yr wybodaeth yw—
+(a)
+enw’r person cysylltiedig,
+(b)
+cyfeiriad cofrestredig y person cysylltiedig neu gyfeiriad ei brif swyddfa,
+(c)
+cyfeiriad cyflwyno’r person cysylltiedig,
+(d)
+ffurf gyfreithiol y person cysylltiedig a’r gyfraith y’i llywodraethir odani,
+(e)
+pan fo’r person cysylltiedig yn gwmni sydd wedi ei gofrestru o dan DC 2006, y rhif cofrestru a roddwyd o dan y Ddeddf honno,
+(f)
+pan fo’r person cysylltiedig yn gyfwerth tramor â chwmni sydd wedi ei gofrestru o dan DC 2006, y rhif cofrestru sy’n gyfwerth â’r rhai sydd wedi eu dyroddi o dan DC 2006,
+(g)
+pa un neu ragor o’r amodau penodedig yn Rhan 1 o Atodlen 1A i DC 2006 sy’n gymwys, ac
+(h)
+y dyddiad pan ddaeth y person cysylltiedig yn gofrestradwy fel person â rheolaeth sylweddol, os yw’n gymwys.
+(19) Yn y rheoliad hwn—
+mae i “cofrestradwy”—
+(a)
+mewn cysylltiad â pherson â rheolaeth sylweddol, yr ystyr a roddir i “registrable” gan adran 790C(4) o DC 2006;
+(b)
+mewn cysylltiad ag endid cyfreithiol perthnasol, yr ystyr a roddir i “registrable” gan adran 790C(8) o DC 2006;
+mae i “cyfeiriad cyflwyno” yr ystyr a roddir i “service address” gan adran 1141 o DC 2006;
+mae i “endid cyfreithiol perthnasol” yr ystyr a roddir i “relevant legal entity” gan adran 790C(6) o DC 2006;mae i’r termau “cyfarwyddwr”, “rhiant-ymgymeriad”, “is-ymgymeriad”, “cwmni rhagflaenol” a “cyfarwyddwr cysgodol” yr un ystyr ag a roddir i “director”, “parent undertaking”, “subsidiary undertaking”, “predecessor company” a “shadow director” yn y drefn honno gan baragraff 45 o Atodlen 6 i Ddeddf 2023.Gwybodaeth y cyflenwr o ran seiliau dros wahardd
+13.—(1) Mae paragraffau (2) i (13) yn nodi gwybodaeth y cyflenwr o ran seiliau dros wahardd.
+(2) A yw’r cyflenwr neu berson cysylltiedig wedi ei euogfarnu o drosedd y cyfeirir ati yn y paragraffau a ganlyn o Atodlen 6 i Ddeddf 2023—
+(a)
+paragraff 2 (dynladdiad corfforaethol neu laddiad corfforaethol);
+(b)
+paragraff 3 (terfysgaeth);
+(c)
+paragraffau 4 i 18 (dwyn, twyll, llwgrwobrwyo etc.);
+(d)
+paragraffau 19 i 26 (troseddau marchnad lafur, caethwasiaeth a masnachu pobl);
+(e)
+paragraffau 27 ac 28 (troseddau cyfundrefnol);
+(f)
+paragraffau 29 i 31 (troseddau treth);
+(g)
+paragraff 32 (trosedd cartel);
+(h)
+paragraff 33 (troseddau ategol);
+(i)
+paragraff 34 (troseddau a gyflawnwyd y tu allan i’r Deyrnas Unedig).
+(3) A yw’r cyflenwr neu berson cysylltiedig wedi bod yn destun digwyddiad y cyfeirir ato yn y paragraffau a ganlyn o Atodlen 6 i Ddeddf 2023—
+(a)
+paragraff 36 (cosbau am drafodiadau sy’n gysylltiedig â thwyll TAW ac efadu trethi neu dollau);
+(b)
+paragraff 37 (cosbau sy’n daladwy am wallau mewn dogfennaeth dreth a methiant i hysbysu a mathau penodol o ddrygioni o ran TAW a thollau cartref);
+(c)
+paragraff 38 (addasiadau ar gyfer trefniadau treth camddefnyddiol);
+(d)
+paragraff 39 (canfyddiad gan CThEF, wrth arfer ei bwerau mewn cysylltiad â TAW, o arfer camddefnyddiol);
+(e)
+paragraff 40 (trechu mewn cysylltiad â threfniadau treth hysbysadwy);
+(f)
+paragraff 41 (torri cyfraith cystadleuaeth);
+(g)
+paragraff 42 (materion cyfwerth y tu allan i’r Deyrnas Unedig).
+(4) Mewn cysylltiad â pharagraff 43 o Atodlen 6 i Ddeddf 2023 (methiant i gydweithredu ag ymchwiliad)—
+(a)
+a yw awdurdod priodol wedi rhoi hysbysiad i’r cyflenwr neu berson cysylltiedig o dan adran 60(6) o Ddeddf 2023, a
+(b)
+a yw’r cyflenwr neu’r person cysylltiedig wedi methu â chydymffurfio â’r hysbysiad cyn diwedd y cyfnod a bennir yn yr hysbysiad.
+(5) A yw’r cyflenwr neu berson cysylltiedig wedi bod yn destun digwyddiad y cyfeirir ato yn y paragraffau canlynol o Atodlen 7 i Ddeddf 2023—
+(a)
+paragraff 1 (gorchmynion sy’n ymwneud â chamymddwyn yn y farchnad lafur);
+(b)
+paragraff 4 (trosedd sy’n ymwneud â chamymddwyn amgylcheddol);
+(c)
+paragraff 5 (ansolfedd, methdaliad, etc.);
+(d)
+paragraff 6 (atal neu roi’r gorau i gynnal y cyfan neu ran sylweddol o fusnes);
+(e)
+paragraff 9 (torri Deddf Cystadleuaeth 1998, gwaharddiad Pennod 2 neu gyfwerth y tu allan i’r Deyrnas Unedig);
+(f)
+paragraff 11(2) (dyfarniad llys etc. o gamymddwyn proffesiynol);
+(g)
+paragraff 12 (torri contract a pherfformiad gwael).
+(6) Mewn cysylltiad â pharagraff 2 o Atodlen 7 i Ddeddf 2023 (camymddwyn o ran y farchnad lafur), a yw’r cyflenwr neu berson cysylltiedig—
+(a)
+wedi bod yn destun ymchwiliad, neu yn destun ymchwiliad ar hyn o bryd, ynghylch ymddygiad y tu allan i’r Deyrnas Unedig a allai arwain at wneud gorchymyn a grybwyllir ym mharagraff 1 o Atodlen 7 i Ddeddf 2023 pe bai’r ymddygiad yn digwydd yn y Deyrnas Unedig, neu
+(b)
+wedi cymryd rhan mewn ymddygiad o’r fath.
+(7) Mewn cysylltiad â pharagraff 3 o Atodlen 7 i Ddeddf 2023 (camymddwyn o ran y farchnad lafur), a yw’r cyflenwr neu berson cysylltiedig—
+(a)
+wedi bod yn destun ymchwiliad, neu yn destun ymchwiliad ar hyn o bryd, ynghylch ymddygiad (pa un ai yn y Deyrnas Unedig neu y tu allan iddi) sydd (neu a fyddai, pe bai’n digwydd yn y Deyrnas Unedig) yn drosedd y cyfeirir ati—
+(i)
+yn adran 1, 2, 4 neu 30 o Ddeddf Caethwasiaeth Fodern 2015(1),
+(ii)
+yn adran 1, 4 neu 32 o Ddeddf Masnachu Pobl a Chamfanteisio ar Bobl (Yr Alban) 2015(2), neu
+(iii)
+yn adran 1, 2 neu 4 o Ddeddf Masnachu Pobl a Chamfanteisio ar Bobl (Cyfiawnder Troseddol a Chymorth i Ddioddefwyr) (Gogledd Iwerddon) 2015(3), neu baragraff 16 o Atodlen 3 i’r Ddeddf honno, neu
+(b)
+wedi cymryd rhan mewn ymddygiad o’r fath.
+(8) Mewn cysylltiad â pharagraff 7 o Atodlen 7 i Ddeddf 2023 (achosion posibl o dorri cyfraith cystadleuaeth)—
+(a)
+a yw’r cyflenwr neu berson cysylltiedig wedi bod yn destun ymchwiliad, neu yn destun ymchwiliad ar hyn o bryd, ynghylch a yw cytundeb neu arfer ar y cyd y mae’r cyflenwr neu berson cysylltiedig yn barti iddo wedi torri—
+(i)
+y gwaharddiad Pennod 1 (o fewn yr ystyr a roddir i “the Chapter 1 prohibition” gan adran 2 o Ddeddf Cystadleuaeth 1998(4)),
+(ii)
+unrhyw waharddiad sylweddol debyg sy’n gymwys mewn awdurdodaeth y tu allan i’r Deyrnas Unedig, neu
+(b)
+a yw cytundeb neu arfer ar y cyd y mae’r cyflenwr neu berson cysylltiedig yn barti iddo wedi torri gwaharddiadau o’r fath,
+ac eithrio o dan yr amgylchiadau a grybwyllir yn is-baragraff (2) o baragraff 7.
+(9) Mewn cysylltiad â pharagraff 8 o Atodlen 7 i Ddeddf 2023 (achosion posibl o dorri cyfraith cystadleuaeth), a yw’r cyflenwr neu berson cysylltiedig—
+(a)
+wedi bod yn destun ymchwiliad, neu yn destun ymchwiliad ar hyn o bryd, ynghylch a yw’r cyflenwr neu berson cysylltiedig wedi torri—
+(i)
+y gwaharddiad Pennod 2 (o fewn yr ystyr a roddir i “the Chapter 2 prohibition” gan adran 18 o Ddeddf Cystadleuaeth 1998), neu
+(ii)
+unrhyw waharddiad sylweddol debyg sy’n gymwys mewn awdurdodaeth y tu allan i’r Deyrnas Unedig, neu
+(b)
+wedi torri gwaharddiadau o’r fath.
+(10) Mewn cysylltiad â pharagraff 10 o Atodlen 7 i Ddeddf 2023 (achosion posibl o dorri cyfraith cystadleuaeth), a yw’r cyflenwr neu berson cysylltiedig—
+(a)
+wedi bod yn destun ymchwiliad, neu yn destun ymchwiliad ar hyn o bryd, ynghylch ymddygiad sydd—
+(i)
+yn drosedd o dan adran 188 o Ddeddf Menter 2002(5) (trosedd cartel), neu
+(ii)
+yn drosedd sylweddol debyg o dan gyfraith gwlad neu diriogaeth y tu allan i’r Deyrnas Unedig, neu
+(b)
+wedi cymryd rhan mewn ymddygiad o’r fath,
+ac eithrio o dan yr amgylchiadau a grybwyllir yn is-baragraff (2) o baragraff 10 o Atodlen 7 i Ddeddf 2023.
+(11) Mewn cysylltiad â pharagraff 11 o Atodlen 7 i Ddeddf 2023 (camymddwyn proffesiynol), a yw’r cyflenwr neu berson cysylltiedig—
+(a)
+wedi bod yn destun ymchwiliad, neu yn destun ymchwiliad ar hyn o bryd, ynghylch camymddwyn proffesiynol sy’n codi amheuon ynghylch uniondeb y cyflenwr, neu
+(b)
+wedi cymryd rhan mewn camymddwyn o’r fath.
+(12) Mewn cysylltiad â pharagraff 13 o Atodlen 7 i Ddeddf 2023 (gweithredu mewn ffordd amhriodol wrth gaffael), a yw’r cyflenwr neu berson cysylltiedig—
+(a)
+wedi bod yn destun ymchwiliad, neu yn destun ymchwiliad ar hyn o bryd, ynghylch a weithredodd y cyflenwr yn amhriodol mewn perthynas ag unrhyw gaffaeliad ac, wrth wneud hynny, ei fod wedi rhoi mantais annheg iddo ei hun mewn perthynas â dyfarnu contract cyhoeddus, neu
+(b)
+wedi ymddwyn yn amhriodol yn y ffordd honno.
+(13) Os yw’r cyflenwr neu berson cysylltiedig wedi bod yn destun digwyddiad a grybwyllir ym mharagraffau (2) i (12), yr wybodaeth a ganlyn mewn cysylltiad â phob person sydd wedi bod yn destun digwyddiad—
+(a)
+disgrifiad byr o’r digwyddiad,
+(b)
+enw’r person sy’n destun y digwyddiad,
+(c)
+enw, cyfeiriad post cyswllt a chyfeiriad e-bost y person,
+(d)
+yn achos euogfarn neu ddigwyddiad arall pan fo cofnod wedi ei wneud o benderfyniad awdurdod cyhoeddus, sef y sail awdurdodol ar gyfer yr euogfarn neu’r digwyddiad arall—
+(i)
+dolen i’r dudalen we lle y gellir cyrchu’r penderfyniad, neu
+(ii)
+copi o’r penderfyniad,
+(e)
+unrhyw dystiolaeth bod y person sy’n destun y digwyddiad—
+(i)
+wedi cymryd y digwyddiad o ddifrif, er enghraifft drwy dalu unrhyw ddirwy neu iawndal,
+(ii)
+wedi cymryd camau i atal y digwyddiad rhag digwydd eto, er enghraifft drwy newid staff neu reolwyr, neu roi gweithdrefnau neu hyfforddiant ar waith, a
+(iii)
+wedi ymrwymo i gymryd camau ataliol pellach, pan fo hynny’n briodol, ac
+(f)
+os yw’r amgylchiadau a arweiniodd at y digwyddiad wedi dod i ben, y dyddiad y daethant i ben.
+(14) Yn y rheoliad hwn, ystyr “digwyddiad”—
+(a)
+mewn perthynas â darpariaeth yn Atodlen 6 i Ddeddf 2023, yw’r ystyr a roddir i “event” ym mharagraff 45 o’r Atodlen honno;
+(b)
+mewn perthynas â darpariaeth yn Atodlen 7 i Ddeddf 2023, yw’r ystyr a roddir i “event” ym mharagraff 16 o’r Atodlen honno.
+(15) Yn y rheoliad hwn, mae i “camymddwyn proffesiynol” yr ystyr a roddir i “professional misconduct” gan baragraff 11(3) o Atodlen 7 i Ddeddf 2023.
+(1)
+2015 p. 30.
+(2)
+2015 dsa 12.
+(3)
+2015 p. 2 (G.I.).
+(4)
+1998 p. 41.
+(5)
+2002 p. 40.Gwybodaeth yr awdurdod contractio
+14.  Yn y Rhan hon, ystyr “gwybodaeth yr awdurdod contractio” yw—
+(a)
+pan fo un awdurdod contractio ar gyfer caffaeliad, enw’r awdurdod contractio,
+(b)
+pan fo dau neu ragor o awdurdodau contractio yn gweithredu ar y cyd ar gyfer caffaeliad—
+(i)
+enw’r awdurdod contractio y mae’r awdurdodau contractio sy’n gweithredu ar y cyd yn ei bennu’n awdurdod arweiniol ar gyfer y caffaeliad, a
+(ii)
+enw pob un o’r awdurdodau contractio eraill,
+(c)
+cyfeiriad post cyswllt a chyfeiriad e-bost ar gyfer pob awdurdod contractio,
+(d)
+y cod adnabod unigryw ar gyfer pob awdurdod contractio, neu ar gyfer pob awdurdod contractio sy’n gweithredu ar y cyd,
+(e)
+ar gyfer unrhyw berson sy’n cyflawni’r caffaeliad, neu ran o’r caffaeliad, ar ran awdurdod contractio, neu ar ran un neu ragor o’r awdurdodau contractio sy’n gweithredu ar y cyd—
+(i)
+enw’r person,
+(ii)
+cyfeiriad post cyswllt a chyfeiriad e-bost y person,
+(iii)
+cod adnabod unigryw y person, a
+(iv)
+crynodeb o rôl y person, ac
+(f)
+mewn cysylltiad â hysbysiad a gyhoeddir gan yr awdurdod contractio, enw, cyfeiriad post cyswllt a chyfeiriad e-bost y person y dylid cysylltu ag ef os bydd ymholiad ynghylch yr hysbysiad.Pwnc y contract
+15.—(1) Yn y Rhan hon, ystyr “pwnc y contract” yw’r wybodaeth a ganlyn, i’r graddau y mae’n hysbys i’r awdurdod contractio pan gyhoeddir yr wybodaeth—
+(a)
+a yw’r contract yn bennaf ar gyfer cyflenwi nwyddau, gwasanaeth neu weithiau,
+(b)
+disgrifiad o’r mathau o nwyddau, gwasanaethau neu weithiau a fydd yn cael eu cyflenwi,
+(c)
+crynodeb o’r modd y bydd y nwyddau, y gwasanaethau neu’r gweithiau hynny yn cael eu cyflenwi,
+(d)
+amcangyfrif o’r dyddiad y bydd y nwyddau, y gwasanaethau neu’r gweithiau yn cael eu cyflenwi neu amcangyfrif o’r cyfnod y byddant yn cael eu cyflenwi drosto,
+(e)
+amcangyfrif o swm nwyddau, gwasanaethau neu weithiau a fydd yn cael eu cyflenwi,
+(f)
+y codau GGG perthnasol, ac
+(g)
+y dosbarthiad daearyddol, pan fo’n bosibl disgrifio hyn.
+(2) Yn y Rhan hon, ystyr “dosbarthiad daearyddol” yw—
+(a)
+yr ardal y mae’r nwyddau, y gwasanaethau neu’r gweithiau i gael eu cyflenwi ynddi yn y Deyrnas Unedig, drwy gyfeirio at yr ardaloedd ITL 1, ITL 2 ac ITL 3 perthnasol a restrir ar y wefan â’r pennawd “International Geographies” ar wefan y Swyddfa Ystadegau Gwladol(1) fel y’i diwygir o bryd i’w gilydd, neu
+(b)
+pan fo’r nwyddau, y gwasanaethau neu’r gweithiau i gael eu cyflenwi y tu allan i’r Deyrnas Unedig, enw’r wlad a, pan fo’n briodol, y rhanbarth y maent i gael eu cyflenwi ynddo.
+(1)
+Gellir dod o hyd i’r wefan yn: https://cy.ons.gov.uk/methodology/geography/ukgeographies/eurostat?_gl=1*wm87j9*_ga*OTIzMTMzNzIzLjE2NTUzNjkyMjM.*_ga_W804VY6YKS*MTcxNjk5MjEyNC4xNi4wLjE3MTY5OTIxMjQuNjAuMC4wHysbysiadau piblinell
+16.—(1) Mae’r rheoliad hwn yn nodi pa wybodaeth y mae rhaid ei chynnwys mewn hysbysiad piblinell a gyhoeddir o dan adran 93(2) o Ddeddf 2023.
+(2) Yr wybodaeth yw—
+(a)
+gwybodaeth yr awdurdod contractio,
+(b)
+enw’r caffaeliad,
+(c)
+y cod adnabod unigryw ar gyfer y caffaeliad,
+(d)
+pwnc y contract, ac
+(e)
+amcangyfrif o’r dyddiad y bydd y canlynol yn cael eu cyhoeddi—
+(i)
+yr hysbysiad tendro ar gyfer y contract cyhoeddus, neu
+(ii)
+yr hysbysiad tryloywder ar gyfer y contract cyhoeddus.
+(3) Nid oes dim yn y rheoliad hwn yn atal awdurdod contractio rhag cyhoeddi gwybodaeth berthnasol arall yn yr hysbysiad.Hysbysiadau caffael arfaethedig
+17.—(1) Mae’r rheoliad hwn yn nodi gwybodaeth arall y mae rhaid ei chynnwys mewn hysbysiad caffael arfaethedig a gyhoeddir o dan adran 15(1) o Ddeddf 2023.
+(2) Yr wybodaeth yw—
+(a)
+gwybodaeth yr awdurdod contractio,
+(b)
+enw’r caffaeliad,
+(c)
+y cod adnabod unigryw ar gyfer y caffaeliad,
+(d)
+pwnc y contract,
+(e)
+amcangyfrif o’r dyddiad y bydd yr hysbysiad tendro ar gyfer y contract cyhoeddus yn cael ei gyhoeddi,
+(f)
+amcangyfrif o’r dyddiad erbyn pryd y gofynnir i gyflenwyr gyflwyno ceisiadau i gymryd rhan mewn unrhyw broses dendro neu dendrau,
+(g)
+pa un o’r gweithdrefnau canlynol y disgwylir ei defnyddio—
+(i)
+gweithdrefn agored, neu
+(ii)
+gweithdrefn hyblyg gystadleuol,
+(h)
+a fydd y contract cyhoeddus yn cael ei ddyfarnu drwy gyfeirio at aelodaeth cyflenwyr o farchnad ddynamig,
+(i)
+amcangyfrif o’r dyddiad y bydd y contract cyhoeddus yn cael ei ddyfarnu,
+(j)
+sut y gellir cael gafael ar ddogfennau sy’n ymwneud â’r caffaeliad,
+(k)
+datganiad sy’n esbonio sut a phryd y caniateir mynegi diddordeb yn y contract, ac
+(l)
+cymaint o’r wybodaeth yn ymwneud â hysbysiadau tendro, y cyfeirir ati yn rheoliad 19 (2), 20(2), 21 (2), 22(2) neu 23(2), ag sydd ar gael i’r awdurdod contractio ar adeg cyhoeddi’r hysbysiad caffael arfaethedig.
+(3) Nid oes dim yn y rheoliad hwn yn atal awdurdod contractio rhag cyhoeddi gwybodaeth arall sy’n ymwneud â’r un caffaeliad mewn hysbysiad caffael arfaethedig.Hysbysiadau ymgysylltu rhagarweiniol â’r farchnad
+18.—(1) Mae’r rheoliad hwn yn nodi gwybodaeth arall y mae rhaid ei chynnwys mewn hysbysiad ymgysylltu rhagarweiniol â’r farchnad a gyhoeddir o dan adran 17(1)(a) o Ddeddf 2023.
+(2) Yr wybodaeth yw—
+(a)
+gwybodaeth yr awdurdod contractio,
+(b)
+enw’r caffaeliad,
+(c)
+y cod adnabod unigryw ar gyfer y caffaeliad,
+(d)
+pwnc y contract,
+(e)
+naill ai—
+(i)
+y dyddiad y mae’r awdurdod contractio yn bwriadu dod â’r ymgysylltu rhagarweiniol â’r farchnad i ben, neu
+(ii)
+y dyddiad y daeth yr ymgysylltu rhagarweiniol â’r farchnad i ben, ac
+(f)
+disgrifiad o’r broses y mae’r awdurdod contractio yn bwriadu ymgysylltu, neu wedi ymgysylltu, â chyflenwyr drwyddi yn ystod yr ymgysylltu rhagarweiniol â’r farchnad, er enghraifft—
+(i)
+lleoliad, dyddiad ac amser digwyddiadau, a
+(ii)
+unrhyw gyfnodau ar gyfer cyflwyno datganiadau o ddiddordeb a gwybodaeth gan gyflenwyr.
+(3) Nid oes dim yn y rheoliad hwn yn atal awdurdod contractio rhag cyhoeddi gwybodaeth arall sy’n ymwneud â’r un caffaeliad yn yr hysbysiad.Hysbysiadau tendro: gweithdrefn agored
+19.—(1) Mae’r rheoliad hwn yn nodi gwybodaeth arall y mae rhaid ei chynnwys mewn hysbysiad tendro ar gyfer dyfarnu contract cyhoeddus drwy weithdrefn agored, a gyhoeddir o dan adran 21(1)(a) o Ddeddf 2023.
+(2) Yr wybodaeth yw—
+(a)
+gwybodaeth yr awdurdod contractio,
+(b)
+enw’r caffaeliad,
+(c)
+y cod adnabod unigryw ar gyfer y caffaeliad,
+(d)
+datganiad bod yr hysbysiad tendro ar gyfer dyfarnu contract cyhoeddus drwy weithdrefn agored yn unol ag adran 20(1) a (2)(a) o Ddeddf 2023,
+(e)
+a yw’r hysbysiad tendro yn ymwneud â chontract cyfundrefn arbennig ac, os felly, a yw’r contract hwnnw—
+(i)
+yn gontract consesiwn,
+(ii)
+yn gontract cyffyrddiad ysgafn, neu
+(iii)
+yn gontract cyfleustodau,
+(f)
+pwnc y contract,
+(g)
+amcangyfrif o werth y contract cyhoeddus,
+(h)
+pan fo’r contract cyhoeddus ar gyfer nwyddau, gwasanaethau neu weithiau y mae’r awdurdod contractio yn disgwyl y bydd eu hangen ar ôl i’r contract ddod i ben—
+(i)
+a yw’r awdurdod contractio yn bwriadu caffael nwyddau, gwasanaethau neu weithiau tebyg wedi hynny drwy ddibynnu ar y cyfiawnhad dros ddyfarnu’n uniongyrchol ym mharagraff 8 o Atodlen 5 i Ddeddf 2023, neu
+(ii)
+amcangyfrif, os yw’n bosibl, o’r dyddiad y bydd unrhyw hysbysiad tendro dilynol yn cael ei gyhoeddi,
+(i)
+a fydd arwerthiant electronig yn cael ei ddefnyddio ac, os felly, fanylion technegol ynghylch y modd y gall cyflenwyr gymryd rhan yn yr arwerthiant electronig,
+(j)
+sut y caniateir cyflwyno tendrau a’r dyddiad erbyn pryd y mae rhaid eu cyflwyno,
+(k)
+y meini prawf dyfarnu, neu grynodeb o’r meini prawf dyfarnu, ar gyfer y contract cyhoeddus,
+(l)
+yr ieithoedd y caniateir cyflwyno tendrau neu ymholiadau mewn cysylltiad â’r weithdrefn dendro ynddynt,
+(m)
+a yw’r contract cyhoeddus yn gontract y mae gan y Deyrnas Unedig rwymedigaethau ar ei gyfer o dan y Cytundeb ar Gaffael gan Lywodraethau,
+(n)
+o’r dyddiad y daw’r Cytundeb Cynhwysfawr a Blaengar ar gyfer Partneriaeth y Môr Tawel i rym ar gyfer y Deyrnas Unedig, a yw’r contract cyhoeddus yn gontract y mae gan y Deyrnas Unedig rwymedigaethau ar ei gyfer o dan y Cytundeb hwnnw,
+(o)
+a yw’r contract cyhoeddus wedi ei ddyfarnu drwy gyfeirio at lotiau ac, os felly, ar gyfer pob lot—
+(i)
+enw’r lot,
+(ii)
+y rhif neilltuol a roddwyd i’r lot gan yr awdurdod contractio,
+(iii)
+yr wybodaeth a ganlyn, i’r graddau y mae’n hysbys i’r awdurdod contractio pan gyhoeddir yr hysbysiad tendro—
+(aa)
+disgrifiad o’r mathau o nwyddau, gwasanaethau neu weithiau a fydd yn cael eu cyflenwi,
+(bb)
+crynodeb o’r modd y bydd y nwyddau, y gwasanaethau neu’r gweithiau hynny yn cael eu cyflenwi,
+(cc)
+amcangyfrif o’r dyddiad y bydd y nwyddau, y gwasanaethau neu’r gweithiau yn cael eu cyflenwi neu amcangyfrif o’r cyfnod y byddant yn cael eu cyflenwi drosto,
+(dd)
+amcangyfrif o swm nwyddau, gwasanaethau neu weithiau a fydd yn cael eu cyflenwi,
+(ee)
+amcangyfrif o werth y lot,
+(ff)
+y codau GGG perthnasol,
+(gg)
+y meini prawf dyfarnu perthnasol mewn perthynas â’r lot,
+(hh)
+unrhyw opsiwn mewn perthynas â’r lot, ac
+(ii)
+y dosbarthiad daearyddol, pan fo’n bosibl ei ddisgrifio,
+(p)
+pan fo’r contract cyhoeddus wedi ei ddyfarnu drwy gyfeirio at lotiau—
+(i)
+a ganiateir i gyflenwr gyflwyno tendr ar gyfer uchafswm o lotiau yn unig ac, os felly, yr uchafswm,
+(ii)
+a ganiateir dyfarnu uchafswm o lotiau yn unig i gyflenwr ac, os felly, yr uchafswm, a
+(iii)
+a fydd yr awdurdod contractio yn dyfarnu lotiau lluosog i’r un cyflenwr yn unol â meini prawf ac, os felly, grynodeb o’r meini prawf,
+(q)
+pan fo’r awdurdod contractio yn ystyried o dan adran 18(2) o Ddeddf 2023 y gellid dyfarnu’r contract cyhoeddus drwy gyfeirio at lotiau ond nad yw hynny’n digwydd, y rhesymau dros hyn, ac eithrio yn achos contract cyfleustodau neu gontract cyffyrddiad ysgafn,
+(r)
+disgrifiad o unrhyw opsiwn a fydd yn cael ei gynnwys yn y contract cyhoeddus—
+(i)
+i gyflenwi nwyddau, gwasanaethau neu weithiau ychwanegol, neu
+(ii)
+i ymestyn neu adnewyddu cyfnod y contract,
+(s)
+a yw’r awdurdod contractio yn bwriadu gosod y cyfnod tendro lleiaf byrraf drwy gyfeirio at un o’r cofnodion a ganlyn yn y tabl yn adran 54(4) o Ddeddf 2023 ac, os felly, pa gofnod—
+(i)
+yr ail gofnod (contractau cyfleustodau neu gontractau a ddyfernir gan awdurdod contractio nad yw’n awdurdod llywodraeth ganolog, sy’n ddarostyngedig i gyfnod tendro a negodwyd; dim cyfnod lleiaf),
+(ii)
+y trydydd cofnod (contractau cyfleustodau neu gontractau penodol a ddyfernir gan awdurdod contractio nad yw’n awdurdod llywodraeth ganolog, pan ganiateir cyflwyno tendrau gan gyflenwyr a ddetholwyd ymlaen llaw yn unig; 10 niwrnod),
+(iii)
+y pedwerydd cofnod (mae hysbysiad caffael arfaethedig cymhwysol wedi ei gyhoeddi; 10 niwrnod), neu
+(iv)
+y pumed cofnod (sefyllfa frys; 10 niwrnod),
+(t)
+a yw’r awdurdod contractio yn ystyried y gall y contract cyhoeddus neu unrhyw lot sy’n ffurfio rhan o’r contract fod yn arbennig o addas i’w ddyfarnu—
+(i)
+i fenter fach a chanolig ei maint, neu
+(ii)
+i gorff anllywodraethol â gwerthoedd yn ei lywio sy’n ailfuddsoddi ei wargedion yn bennaf er mwyn hybu amcanion cymdeithasol, amgylcheddol neu ddiwylliannol,
+(u)
+a yw dogfennau tendro cysylltiedig yn cael eu darparu yn unol â’r hysbysiad tendro ar yr un pryd ag y mae’r hysbysiad yn cael ei gyhoeddi ac, os felly—
+(i)
+enw pob dogfen dendro gysylltiedig,
+(ii)
+a yw pob dogfen dendro gysylltiedig ynghlwm wrth yr hysbysiad tendro, a
+(iii)
+os nad yw dogfen dendro gysylltiedig ynghlwm wrth yr hysbysiad tendro, dolen i’r dudalen we lle y mae wedi ei darparu,
+(v)
+a yw dogfen dendro gysylltiedig yn cael ei darparu, neu y gall gael ei darparu, yn unol â’r hysbysiad tendro ar ôl y dyddiad y bydd yr hysbysiad hwnnw yn cael ei gyhoeddi ac, os felly, dolen i’r dudalen we lle y bydd yn cael ei darparu, neu esboniad ynghylch sut y bydd y ddogfen yn cael ei darparu,
+(w)
+disgrifiad o unrhyw fanylebau technegol y disgwylir eu bodloni neu groesgyfeiriad i’r lle y gellir eu cyrchu,
+(x)
+disgrifiad o unrhyw amodau cymryd rhan o dan adran 22 o Ddeddf 2023,
+(y)
+unrhyw delerau talu (yn ogystal â’r rhai a nodir yn adran 68 o Ddeddf 2023),
+(z)
+disgrifiad yn nodi unrhyw risg—
+(i)
+y mae’r awdurdod contractio yn ystyried y gallai beri i’r contract cyhoeddus beidio â chael ei gyflawni’n foddhaol ond, oherwydd ei natur, y mae’n bosibl na fydd yn cael sylw yn y contract cyhoeddus fel y’i dyfernir, a
+(ii)
+a all ei gwneud yn ofynnol addasu’r contract cyhoeddus yn ddiweddarach o dan baragraff 5 o Atodlen 8 i Ddeddf 2023 (addasu contract yn dilyn gwireddiad risg hysbys), ac
+(z1)
+amcangyfrif o’r dyddiad y bydd y contract cyhoeddus yn cael ei ddyfarnu.
+(3) Ym mharagraff (2), ystyr “arwerthiant electronig” yw proses ailadroddol sy’n cynnwys defnyddio dulliau electronig er mwyn i gyflenwyr gyflwyno naill ai brisiau newydd, neu werthoedd newydd ar gyfer elfennau o’r tendr y mae modd eu meintioli nad ydynt yn ymwneud â phrisiau ac sy’n gysylltiedig â’r meini prawf gwerthuso, neu’r ddau, gan arwain at bennu safleoedd tendrau neu aildrefnu safleoedd tendrau mewn rhestr drefnol.
+(4) Nid oes dim yn y rheoliad hwn yn atal awdurdod contractio rhag cyhoeddi gwybodaeth arall sy’n ymwneud â’r un caffaeliad yn yr hysbysiad.
+(5) Nid yw’r rheoliad hwn yn gymwys i hysbysiad tendro ar gyfer dyfarnu fframwaith drwy weithdrefn agored (gweler yn hytrach reoliad 21).Hysbysiadau tendro: gweithdrefn hyblyg gystadleuol
+20.—(1) Mae’r rheoliad hwn yn nodi gwybodaeth arall y mae rhaid ei chynnwys mewn hysbysiad tendro ar gyfer dyfarnu contract cyhoeddus drwy weithdrefn hyblyg gystadleuol a gyhoeddir yn unol ag adran 21(1)(b) o Ddeddf 2023.
+(2) Yr wybodaeth yw—
+(a)
+yr un wybodaeth â’r wybodaeth y cyfeirir ati yn rheoliad 19(2) ac eithrio is-baragraffau (d) a (j),
+(b)
+datganiad bod yr hysbysiad tendro ar gyfer dyfarnu contract cyhoeddus drwy weithdrefn hyblyg gystadleuol yn unol ag adran 20(1) a (2)(b) o Ddeddf 2023,
+(c)
+disgrifiad o’r broses sydd i’w dilyn yn ystod y weithdrefn, gan gynnwys—
+(i)
+a all y weithdrefn gynnwys negodi ar unrhyw adeg, a
+(ii)
+os yw’r awdurdod contractio yn bwriadu dibynnu ar adran 24 o Ddeddf 2023 (mireinio meini prawf), crynodeb o’r modd y bydd yn dibynnu ar yr adran honno,
+(d)
+pan fo nifer y cyflenwyr, neu y gall y bo nifer y cyflenwyr, yn ddim mwy nag uchafswm o gyflenwyr, yn gyffredinol neu mewn cysylltiad â rowndiau tendro penodol neu brosesau dethol eraill, yr uchafswm o gyflenwyr a’r meini prawf a ddefnyddir i ddethol y nifer cyfyngedig o gyflenwyr,
+(e)
+pan fo nifer y cyflenwyr, neu y gall y bo nifer y cyflenwyr, yn ddim llai nag isafswm bwriadedig o gyflenwyr, yn gyffredinol neu mewn cysylltiad â rowndiau tendro penodol neu brosesau dethol eraill, yr isafswm bwriadedig o gyflenwyr,
+(f)
+pan fo’r hysbysiad tendro yn cael ei ddefnyddio at ddiben gwahodd cyflenwyr i gyflwyno cais i gymryd rhan, sut y caniateir cyflwyno ceisiadau i gymryd rhan a’r dyddiad erbyn pryd y mae rhaid eu cyflwyno,
+(g)
+pan fo’r hysbysiad tendro yn cael ei ddefnyddio at ddiben gwahodd cyflenwyr i gyflwyno eu tendr cyntaf neu eu hunig dendr, sut y caniateir cyflwyno tendrau a’r dyddiad erbyn pryd y mae rhaid eu cyflwyno, ac
+(h)
+a yw’r hysbysiad tendro yn cael ei ddefnyddio—
+(i)
+i neilltuo contract i ddarparwyr cyflogaeth â chymorth yn unol ag adran 32 o Ddeddf 2023, neu
+(ii)
+i neilltuo contract i gwmnïau cydfuddiannol gwasanaethau cyhoeddus yn unol ag adran 33 o Ddeddf 2023.
+(3) Nid oes dim yn y rheoliad hwn yn atal awdurdod contractio rhag cyhoeddi gwybodaeth arall sy’n ymwneud â’r un caffaeliad yn yr hysbysiad.
+(4) Nid yw’r rheoliad hwn yn gymwys—
+(a)
+i hysbysiad tendro ar gyfer dyfarnu fframwaith drwy weithdrefn hyblyg gystadleuol (gweler yn hytrach reoliad 21), na
+(b)
+i hysbysiad tendro ar gyfer dyfarnu contract cyhoeddus drwy gyfeirio at aelodaeth cyflenwyr o farchnad ddynamig (gweler yn hytrach reoliad 22).Hysbysiadau tendro: fframweithiau
+21.—(1) Mae’r rheoliad hwn yn nodi gwybodaeth arall y mae rhaid ei chynnwys mewn hysbysiad tendro ar gyfer dyfarnu fframwaith, a gyhoeddir yn unol ag adran 21(1) o Ddeddf 2023.
+(2) Yr wybodaeth yw—
+(a)
+pan fo’r weithdrefn agored yn cael ei defnyddio, yr un wybodaeth â’r wybodaeth y cyfeirir ati yn rheoliad 19(2),
+(b)
+pan fo’r weithdrefn hyblyg gystadleuol yn cael ei defnyddio, yr un wybodaeth â’r wybodaeth y cyfeirir ati yn rheoliad 20(2),
+(c)
+manylion y broses ddethol sydd i’w chymhwyso wrth ddyfarnu contractau,
+(d)
+cyfnod y fframwaith,
+(e)
+yr awdurdodau contractio a chanddynt hawlogaeth i ddyfarnu contractau yn unol â’r fframwaith (pa un ai drwy restru enwau’r awdurdodau hynny neu drwy ddisgrifio categorïau o awdurdodau),
+(f)
+a yw’r fframwaith wedi ei ddyfarnu o dan fframwaith agored,
+(g)
+pan fo’r fframwaith yn cael ei ddyfarnu o dan fframwaith agored, y cod adnabod unigryw ar gyfer caffaeliad y fframwaith olaf a ddyfarnwyd o dan y fframwaith agored (oni bai nad oes fframwaith wedi ei ddyfarnu o dan y fframwaith agored yn flaenorol),
+(h)
+pan fo’r fframwaith yn cael ei ddyfarnu o dan fframwaith agored, amcangyfrif o ddyddiad dod i ben y fframwaith agored,
+(i)
+pa un ai’r bwriad yw dyfarnu’r fframwaith—
+(i)
+i gyflenwr unigol,
+(ii)
+i uchafswm o gyflenwyr, neu
+(iii)
+i nifer diderfyn o gyflenwyr,
+(j)
+pan mai’r bwriad yw dyfarnu’r fframwaith i uchafswm o gyflenwyr, yr uchafswm o gyflenwyr,
+(k)
+a yw’r fframwaith yn darparu ar gyfer codi ffioedd yn unol ag adran 45(7) o Ddeddf 2023 ac, os felly, y ganran sefydlog o werth amcangyfrifedig unrhyw gontract a ddyfernir i’r cyflenwr yn unol â’r fframwaith ac unrhyw wybodaeth angenrheidiol arall er mwyn deall sut y caiff ffioedd eu codi, ac
+(l)
+pan fo’r fframwaith yn cael ei ddyfarnu drwy gyfeirio at aelodaeth cyflenwyr o farchnad ddynamig—
+(i)
+y cod adnabod unigryw ar gyfer y farchnad ddynamig y mae’r contract cyhoeddus yn cael ei ddyfarnu yn ei herbyn,
+(ii)
+datganiad bod yr hysbysiad tendro ar gyfer dyfarnu contract cyhoeddus sydd i’w ddyfarnu drwy gyfeirio at aelodaeth cyflenwyr o farchnad ddynamig, a
+(iii)
+pan fo’r contract cyhoeddus yn cael ei ddyfarnu o dan ran briodol o farchnad ddynamig—
+(aa)
+enw’r rhan, a
+(bb)
+y rhif neilltuol a roddwyd i’r rhan gan y person a sefydlodd y farchnad ddynamig.
+(3) Nid oes dim yn y rheoliad hwn yn atal awdurdod contractio rhag cyhoeddi gwybodaeth arall sy’n ymwneud â’r un caffaeliad yn yr hysbysiad.Hysbysiadau tendro: marchnadoedd dynamig ac eithrio marchnadoedd dynamig cyfleustodau cymhwysol
+22.—(1) Mae’r rheoliad hwn yn nodi gwybodaeth arall y mae rhaid ei chynnwys mewn hysbysiad tendro ar gyfer dyfarnu contract cyhoeddus drwy gyfeirio at aelodaeth cyflenwyr o farchnad ddynamig, a gyhoeddir o dan adrannau 21(1)(b) a 34(1) o Ddeddf 2023.
+(2) Yr wybodaeth yw—
+(a)
+yr un wybodaeth â’r wybodaeth y cyfeirir ati yn rheoliad 20(2),
+(b)
+y cod adnabod unigryw ar gyfer y farchnad ddynamig y mae’r contract cyhoeddus yn cael ei ddyfarnu yn ei herbyn,
+(c)
+datganiad bod yr hysbysiad tendro ar gyfer dyfarnu contract cyhoeddus sydd i’w ddyfarnu drwy gyfeirio at aelodaeth cyflenwyr o farchnad ddynamig, a
+(d)
+pan fo’r contract cyhoeddus yn cael ei ddyfarnu o dan ran briodol o farchnad ddynamig—
+(i)
+enw’r rhan, a
+(ii)
+y rhif neilltuol a roddwyd i’r rhan gan yr awdurdod priodol.
+(3) Nid oes dim yn y rheoliad hwn yn atal awdurdod contractio rhag cyhoeddi gwybodaeth arall sy’n ymwneud â’r un caffaeliad yn yr hysbysiad.
+(4) Nid yw’r rheoliad hwn yn gymwys i hysbysiad tendro o’r math a grybwyllir yn rheoliad 23(1).Hysbysiadau tendro: hysbysiadau marchnad ddynamig cyfleustodau cymhwysol
+23.—(1) Mae’r rheoliad hwn yn nodi gwybodaeth arall y mae rhaid ei chynnwys mewn hysbysiad tendro ar gyfer dyfarnu contract cyhoeddus, drwy gyfeirio at farchnad ddynamig cyfleustodau a sefydlir o dan hysbysiad marchnad ddynamig cyfleustodau cymhwysol, a ddarperir o dan adran 40(2) neu (3) o Ddeddf 2023.
+(2) Yr wybodaeth yw—
+(a)
+gwybodaeth yr awdurdod contractio,
+(b)
+y cod adnabod unigryw ar gyfer y farchnad ddynamig y mae’r contract cyhoeddus yn cael ei ddyfarnu yn ei herbyn,
+(c)
+pwnc y contract,
+(d)
+pan fo’r contract cyhoeddus ar gyfer nwyddau, gwasanaethau neu weithiau y mae’r awdurdod contractio yn disgwyl y bydd eu hangen ar ôl i’r contract ddod i ben, amcangyfrif o’r dyddiad, os yw’n bosibl, y bydd unrhyw hysbysiad tendro dilynol yn cael ei ddarparu,
+(e)
+disgrifiad o unrhyw opsiwn a fydd yn cael ei gynnwys yn y contract cyhoeddus—
+(i)
+i gyflenwi nwyddau, gwasanaethau neu weithiau ychwanegol, neu
+(ii)
+i estyn neu adnewyddu cyfnod y contract,
+(f)
+a fydd arwerthiant electronig yn cael ei ddefnyddio,
+(g)
+sut y caniateir cyflwyno ceisiadau i gymryd rhan a’r dyddiad erbyn pryd y mae rhaid eu cyflwyno,
+(h)
+sut y caniateir cyflwyno tendrau a’r dyddiad erbyn pryd y mae rhaid eu cyflwyno,
+(i)
+a yw’r awdurdod contractio yn bwriadu dibynnu ar un o’r cyfnodau tendro lleiaf canlynol a grybwyllir yn y tabl yn adran 54(4) o Ddeddf 2023 ac, os felly, pa gofnod—
+(i)
+y cofnod cyntaf (mae’r contract sy’n cael ei ddyfarnu yn gontract cyffyrddiad ysgafn; dim cyfnod lleiaf),
+(ii)
+yr ail gofnod (contractau cyfleustodau neu gontractau a ddyfernir gan awdurdod contractio nad yw’n awdurdod llywodraeth ganolog, sy’n ddarostyngedig i gyfnod tendro a negodwyd; dim cyfnod lleiaf);
+(iii)
+y trydydd cofnod (contractau cyfleustodau neu gontractau a ddyfernir gan awdurdod contractio nad yw’n awdurdod llywodraeth ganolog, pan ganiateir cyflwyno tendrau gan gyflenwyr a ddetholwyd ymlaen llaw yn unig; 10 niwrnod), neu
+(iv)
+y pumed cofnod (sefyllfa frys; 10 niwrnod),
+(j)
+disgrifiad o’r mathau o nwyddau, gwasanaethau neu weithiau a fydd yn cael eu cyflenwi, a
+(k)
+amcangyfrif o swm nwyddau, gwasanaethau neu weithiau a fydd yn cael eu cyflenwi.
+(3) Pan fo awdurdod contractio eisoes wedi cyhoeddi gwybodaeth a grybwyllir ym mharagraff (2) yn yr hysbysiad marchnad ddynamig cyfleustodau cymhwysol y mae’r hysbysiad yn ymwneud ag ef yn unol â rheoliad 26(2)(i)(ii), nid yw’n ofynnol i’r awdurdod contractio ddarparu’r wybodaeth honno yn yr hysbysiad.
+(4) Ym mharagraff (2), mae i “arwerthiant electronig” yr ystyr a roddir gan reoliad 19(3).
+(5) Nid oes dim yn y rheoliad hwn yn atal awdurdod contractio rhag darparu gwybodaeth arall yn yr hysbysiad.Dogfennau tendro cysylltiedig
+24.—(1) Mae’r rheoliad hwn yn nodi pa wybodaeth y caniateir ei chynnwys mewn dogfen dendro gysylltiedig a ddarperir o dan adran 21(3) o Ddeddf 2023 yn unol â hysbysiad tendro.
+(2) Caiff y ddogfen gynnwys unrhyw wybodaeth sy’n ategu’r hysbysiad tendro gan gynnwys, pan fo’n briodol, wybodaeth sy’n dyblygu’r wybodaeth a grybwyllir—
+(a)
+yn rheoliad 19(2),
+(b)
+yn rheoliad 20(2),
+(c)
+yn rheoliad 21(2),
+(d)
+yn rheoliad 22(2), neu
+(e)
+yn rheoliad 23(2).Hysbysiadau tendro ar gyfer contractau sydd o dan y trothwy
+25.—(1) Mae’r rheoliad hwn yn nodi gwybodaeth arall y mae rhaid ei chynnwys mewn hysbysiad tendro ar gyfer contractau sydd o dan y trothwy, a gyhoeddir o dan adran 87(1) o Ddeddf 2023.
+(2) Yr wybodaeth yw—
+(a)
+gwybodaeth yr awdurdod contractio,
+(b)
+enw’r caffaeliad,
+(c)
+y cod adnabod unigryw ar gyfer y caffaeliad,
+(d)
+pan fo’r contract yn cael ei ddyfarnu drwy gyfeirio at farchnad ddynamig, y cod adnabod unigryw ar gyfer y farchnad ddynamig honno,
+(e)
+pan fo’r contract i gael ei ddyfarnu o dan ran briodol o farchnad ddynamig, y rhif neilltuol a roddwyd i’r rhan honno gan yr awdurdod contractio,
+(f)
+pwnc y contract,
+(g)
+amcangyfrif o werth y contract,
+(h)
+sut y caniateir cyflwyno tendrau a’r dyddiad erbyn pryd y mae rhaid eu cyflwyno,
+(i)
+a yw’r hysbysiad yn cael ei ddefnyddio i wahodd tendrau ar gyfer contract cyfundrefn arbennig ac, os felly, a yw’r contract hwnnw yn gontract cyffyrddiad ysgafn,
+(j)
+a yw’r awdurdod contractio yn ystyried y gall y contract neu unrhyw lot sy’n ffurfio rhan o’r contract fod yn arbennig o addas i’w ddyfarnu—
+(i)
+i fenter fach a chanolig ei maint, neu
+(ii)
+i gorff anllywodraethol â gwerthoedd yn ei lywio sy’n ailfuddsoddi ei wargedion yn bennaf er mwyn hybu amcanion cymdeithasol, amgylcheddol neu ddiwylliannol,
+(k)
+esboniad o’r meini prawf y bydd dyfarnu’r contract yn cael ei asesu yn eu herbyn, ac
+(l)
+disgrifiad o unrhyw amodau cymryd rhan mewn perthynas â dyfarnu’r contract.
+(3) Nid oes dim yn y rheoliad hwn yn atal awdurdod contractio rhag cyhoeddi gwybodaeth arall sy’n ymwneud â’r un caffaeliad yn yr hysbysiad.
+(4) Yn y rheoliad hwn, mae i “hysbysiad tendro ar gyfer contractau sydd o dan y trothwy” yr ystyr a roddir i “below-threshold tender notice” gan adran 87(5) o Ddeddf 2023.Hysbysiadau marchnad ddynamig (gan gynnwys hysbysiadau marchnad ddynamig cyfleustodau cymhwysol)
+26.—(1) Mae paragraff (2) yn nodi gwybodaeth arall y mae rhaid ei chynnwys mewn hysbysiad marchnad ddynamig a gyhoeddir o dan adran 39(2) o Ddeddf 2023 (hysbysiadau marchnad ddynamig: bwriad i sefydlu marchnad ddynamig).
+(2) Yr wybodaeth yw—
+(a)
+enw’r person sy’n sefydlu’r farchnad ddynamig,
+(b)
+pan fo dau berson neu ragor yn sefydlu’r farchnad ddynamig ar y cyd—
+(i)
+enw’r person arweiniol, a
+(ii)
+enw pob un o’r personau eraill,
+(c)
+cyfeiriad post cyswllt a chyfeiriad e-bost ar gyfer pob person a grybwyllir yn is-baragraff (a) neu (b),
+(d)
+y cod adnabod unigryw ar gyfer pob person a grybwyllir yn is-baragraff (a) neu (b),
+(e)
+enw unrhyw berson (“A”) sy’n sefydlu’r farchnad ddynamig ar ran person arall ac—
+(i)
+cyfeiriad post cyswllt a chyfeiriad e-bost A,
+(ii)
+cod adnabod unigryw A, a
+(iii)
+crynodeb o rôl A mewn perthynas â’r farchnad ddynamig,
+(f)
+enw, cyfeiriad post cyswllt a chyfeiriad e-bost unrhyw berson y gellir cysylltu ag ef os bydd ymholiad ynghylch y farchnad ddynamig,
+(g)
+enw’r farchnad ddynamig,
+(h)
+y cod adnabod unigryw ar gyfer y farchnad ddynamig,
+(i)
+yn achos hysbysiad marchnad ddynamig cyfleustodau cymhwysol—
+(i)
+datganiad mai dim ond aelodau o’r farchnad, neu o ran o’r farchnad, fydd yn cael eu hysbysu am fwriad yn y dyfodol i ddyfarnu contract drwy gyfeirio at aelodaeth cyflenwyr o’r farchnad, neu o ran o’r farchnad, ac yn cael hysbysiad tendro yn unol ag adran 40(1) a (2) o Ddeddf 2023, a
+(ii)
+cymaint o’r wybodaeth a fyddai’n cael ei chyhoeddi mewn unrhyw hysbysiad tendro a gyhoeddir yn unol â rheoliad 23(2) ag sydd ar gael pan gyhoeddir yr hysbysiad marchnad ddynamig cyfleustodau cymhwysol,
+(j)
+sut y gellir cael gafael ar ddogfennau sy’n ymwneud â’r farchnad ddynamig,
+(k)
+sut y caniateir gwneud cais i ymuno â’r farchnad ddynamig,
+(l)
+a yw’r farchnad ddynamig yn bennaf ar gyfer cyflenwi nwyddau, gwasanaethau neu weithiau,
+(m)
+disgrifiad o’r mathau o nwyddau, gwasanaethau neu weithiau y mae’r farchnad ddynamig yn ymwneud â hwy, wedi ei roi yn y fath fanylder fel y gall darllenydd yr hysbysiad marchnad ddynamig benderfynu a yw’n dymuno gwneud cais i ymuno â’r farchnad ddynamig, neu ran briodol o’r farchnad,
+(n)
+y codau GGG perthnasol,
+(o)
+yr amodau ar gyfer aelodaeth o’r farchnad ddynamig, neu ran o’r farchnad, wedi eu gosod yn unol ag adran 36 o Ddeddf 2023,
+(p)
+disgrifiad o’r dulliau a fydd yn cael eu defnyddio i ddilysu a yw cyflenwr yn bodloni’r amodau hynny, gan gynnwys unrhyw amodau gwahanol ar gyfer mathau gwahanol o nwyddau, gwasanaethau neu weithiau,
+(q)
+a ganiateir i’r farchnad ddynamig gael ei defnyddio i ddyfarnu contract cyhoeddus y mae gan y Deyrnas Unedig rwymedigaethau ar ei gyfer o dan y Cytundeb ar Gaffael gan Lywodraethau,
+(r)
+o’r dyddiad y daw’r Cytundeb Cynhwysfawr a Blaengar ar gyfer Partneriaeth y Môr Tawel i rym ar gyfer y Deyrnas Unedig, a yw’r farchnad ddynamig yn farchnad y mae gan y Deyrnas Unedig rwymedigaethau ar ei chyfer o dan y Cytundeb hwnnw,
+(s)
+a ganiateir i’r farchnad ddynamig gael ei defnyddio i ddyfarnu contract cyfundrefn arbennig ac, os felly, a yw’r contract hwnnw—
+(i)
+yn gontract consesiwn,
+(ii)
+yn gontract cyffyrddiad ysgafn, neu
+(iii)
+yn gontract cyfleustodau,
+(t)
+pan fo’r farchnad ddynamig wedi ei rhannu’n rhannau priodol at ddiben gwahardd cyflenwyr nad ydynt yn aelodau o ran briodol—
+(i)
+enw pob rhan,
+(ii)
+disgrifiad o bob rhan gan gynnwys unrhyw godau GGG perthnasol, a
+(iii)
+y rhif neilltuol a roddir i bob rhan gan y person sy’n sefydlu’r farchnad ddynamig,
+(u)
+gwybodaeth sy’n galluogi darllenydd i nodi pa awdurdodau contractio fydd yn gwneud cais, neu y caniateir iddynt wneud cais, i ddefnyddio’r farchnad ddynamig (naill ai drwy gyfeirio at restr o awdurdodau neu restr sy’n disgrifio categorïau o awdurdodau),
+(v)
+y dosbarthiad daearyddol, pan fo’n bosibl ei ddisgrifio,
+(w)
+yn achos marchnad ddynamig, y mae amcangyfrif o’r dyddiad y bydd yn peidio â gweithredu yn hysbys ar ei chyfer—
+(i)
+amcangyfrif o’r dyddiad y bydd y farchnad ddynamig yn cael ei sefydlu, a
+(ii)
+amcangyfrif o’r dyddiad y bydd y farchnad ddynamig yn peidio â gweithredu,
+(x)
+yn achos marchnad ddynamig nad oes amcangyfrif o’r dyddiad y bydd yn peidio â gweithredu yn hysbys ar ei chyfer—
+(i)
+amcangyfrif o’r dyddiad y bydd y farchnad ddynamig yn cael ei sefydlu, a
+(ii)
+datganiad bod y farchnad ddynamig yn farchnad benagored,
+(y)
+yn achos marchnad ddynamig nad yw’n farchnad ddynamig cyfleustodau, a yw’r farchnad ddynamig yn darparu ar gyfer codi ffioedd yn unol ag adran 38(1) o Ddeddf 2023 ac, os felly—
+(i)
+y ganran sefydlog i’w chymhwyso i werth amcangyfrifedig unrhyw gontract cyhoeddus a ddyfernir i gyflenwr drwy gyfeirio at y farchnad ddynamig, a
+(ii)
+unrhyw wybodaeth angenrheidiol arall er mwyn galluogi cyflenwyr i ddeall sut y bydd ffioedd yn cael eu codi, a
+(z)
+yn achos marchnad ddynamig cyfleustodau—
+(i)
+a yw’r farchnad ddynamig cyfleustodau yn darparu ar gyfer codi ffioedd yn unol ag adran 38(3) o Ddeddf 2023, a
+(ii)
+os felly, unrhyw wybodaeth angenrheidiol arall er mwyn galluogi cyflenwyr i ddeall sut y bydd ffioedd yn cael eu codi.
+(3) Mae paragraff (4) yn nodi gwybodaeth arall y mae rhaid ei chynnwys mewn hysbysiad marchnad ddynamig a gyhoeddir o dan adran 39(3) o Ddeddf 2023 (sefydlu marchnad ddynamig).
+(4) Yr wybodaeth yw—
+(a)
+yr un wybodaeth â’r wybodaeth y cyfeirir ati ym mharagraff (2)(a) i (h),
+(b)
+y dyddiad y cafodd y farchnad ddynamig ei sefydlu,
+(c)
+ar gyfer pob cyflenwr sy’n aelod o’r farchnad ddynamig—
+(i)
+enw’r cyflenwr,
+(ii)
+cyfeiriad post cyswllt a chyfeiriad e-bost y cyflenwr,
+(iii)
+y cod adnabod unigryw ar gyfer y cyflenwr, a
+(iv)
+a yw’r cyflenwr—
+(aa)
+yn fenter fach a chanolig ei maint, neu
+(bb)
+yn gorff anllywodraethol â gwerthoedd yn ei lywio ac sy’n ailfuddsoddi ei wargedion yn bennaf er mwyn hybu amcanion cymdeithasol, amgylcheddol neu ddiwylliannol, a
+(d)
+pan fo’r farchnad ddynamig wedi ei rhannu’n rhannau, y rhan y mae pob un o’r cyflenwyr hynny yn aelod ohoni.
+(5) Mae paragraff (6) yn nodi gwybodaeth arall y mae rhaid ei chynnwys mewn hysbysiad marchnad ddynamig a gyhoeddir o dan adran 39(4) o Ddeddf 2023 (addasiadau i farchnad ddynamig).
+(6) Yr wybodaeth yw—
+(a)
+yr un wybodaeth â’r wybodaeth y cyfeirir ati ym mharagraff (2)(a) i (h),
+(b)
+y dyddiad y mae’r addasiad yn cael effaith ohono,
+(c)
+os yw cyflenwr yn cael ei dderbyn i’r farchnad, datganiad i’r perwyl hwnnw ac—
+(i)
+ei enw, ei gyfeiriad post cyswllt, ei gyfeiriad e-bost a’i god adnabod unigryw, a
+(ii)
+pan fo’r farchnad ddynamig wedi ei rhannu’n rhannau, y rhan y mae’r cyflenwr yn aelod ohoni,
+(d)
+a yw’r cyflenwr—
+(i)
+yn fenter fach a chanolig ei maint, neu
+(ii)
+yn gorff anllywodraethol â gwerthoedd yn ei lywio ac sy’n ailfuddsoddi ei wargedion yn bennaf er mwyn hybu amcanion cymdeithasol, amgylcheddol neu ddiwylliannol,
+(e)
+os yw cyflenwr yn cael ei dynnu oddi wrth y farchnad, datganiad i’r perwyl hwnnw ac—
+(i)
+ei enw, ei gyfeiriad post cyswllt, ei gyfeiriad e-bost a’i god adnabod unigryw, a
+(ii)
+pan fo’r farchnad ddynamig wedi ei rhannu’n rhannau, y rhan y mae’r cyflenwr yn aelod ohoni,
+(f)
+crynodeb o unrhyw addasiad arall sy’n cael ei wneud, ac
+(g)
+cadarnhad y cafodd asesiad gwrthdaro ei baratoi a’i ddiwygio yn unol ag adran 83 o Ddeddf 2023.
+(7) Mae paragraff (8) yn nodi gwybodaeth arall y mae rhaid ei chynnwys mewn hysbysiad marchnad ddynamig a gyhoeddir o dan adran 39(5) o Ddeddf 2023 (diwedd marchnad ddynamig).
+(8) Yr wybodaeth yw—
+(a)
+yr un wybodaeth â’r wybodaeth y cyfeirir ati ym mharagraff (2)(a) i (h), a
+(b)
+y dyddiad y peidiodd y farchnad â gweithredu.
+(9) Nid oes dim yn y rheoliad hwn yn atal awdurdod contractio rhag cyhoeddi gwybodaeth arall sy’n ymwneud â’r un caffaeliad mewn hysbysiad marchnad ddynamig.Hysbysiadau tryloywder
+27.—(1) Mae’r rheoliad hwn yn nodi gwybodaeth arall y mae rhaid ei chynnwys mewn hysbysiad tryloywder a gyhoeddir o dan adran 44(1) o Ddeddf 2023.
+(2) Yr wybodaeth yw—
+(a)
+gwybodaeth yr awdurdod contractio,
+(b)
+enw’r caffaeliad,
+(c)
+y cod adnabod unigryw ar gyfer y caffaeliad,
+(d)
+yn achos caffaeliad pan fo newid wedi bod i ddyfarniad uniongyrchol yn unol ag adran 43 o Ddeddf 2023, y cod adnabod unigryw a ddyrannwyd i’r caffaeliad cyn y newid i ddyfarniad uniongyrchol,
+(e)
+y cod adnabod unigryw ar gyfer y contract, os yw hyn yn hysbys pan gyhoeddir yr hysbysiad tryloywder,
+(f)
+pwnc y contract,
+(g)
+a yw’r contract cyhoeddus yn gontract cyfundrefn arbennig ac, os felly, a yw—
+(i)
+yn gontract consesiwn,
+(ii)
+yn gontract cyffyrddiad ysgafn, neu
+(iii)
+yn gontract cyfleustodau,
+(h)
+a yw’r contract yn cael ei ddyfarnu yn uniongyrchol i gyflenwr nad yw’n gyflenwr gwaharddedig oherwydd bod cyfiawnhad dros ddyfarnu yn uniongyrchol yn gymwys yn unol ag adran 41(1)(a) o Ddeddf 2023,
+(i)
+os yw is-baragraff (h) yn gymwys, y cyfiawnhad dros ddyfarnu yn uniongyrchol yn Atodlen 5 i Ddeddf 2023 sy’n gymwys, ac esboniad ynghylch pam y mae’r awdurdod contractio yn ystyried ei fod yn gymwys,
+(j)
+a yw’r contract yn cael ei ddyfarnu yn uniongyrchol i gyflenwr sy’n gyflenwr gwaharddedig oherwydd bod yr awdurdod contractio yn ystyried mai’r hyn sydd o’r budd mwyaf i’r cyhoedd yw dyfarnu’r contract i’r cyflenwr hwnnw yn unol ag adran 41(2) i (5) o Ddeddf 2023,
+(k)
+os yw is-baragraff (j) yn gymwys—
+(i)
+y drosedd, neu ddigwyddiad arall a grybwyllir yn Atodlen 6 i Ddeddf 2023, y mae’r cyflenwr yn gyflenwr gwaharddedig yn rhinwedd y drosedd honno neu’r digwyddiad hwnnw, a
+(ii)
+pa sail yn adran 41(5) o Ddeddf 2023 sy’n gymwys, ac esboniad ynghylch pam y mae’r awdurdod contractio yn ystyried ei bod yn gymwys,
+(l)
+a yw’r contract yn cael ei ddyfarnu yn uniongyrchol i gyflenwr yn unol â rheoliadau sydd wedi eu gwneud o dan adran 42 o Ddeddf 2023 (dyfarniad uniongyrchol er mwyn gwarchod bywyd, etc.),
+(m)
+os yw is-baragraff (l) yn gymwys, enw a rhif cofrestru’r offeryn statudol sy’n cynnwys y rheoliadau hynny,
+(n)
+a yw’r contract yn cael ei ddyfarnu yn uniongyrchol i gyflenwr nad yw’n gyflenwr gwaharddedig yn rhinwedd adran 43 o Ddeddf 2023 (newid i ddyfarniad uniongyrchol),
+(o)
+os yw is-baragraff (n) yn gymwys, y rheswm pam, ym marn yr awdurdod contractio, na fu unrhyw dendrau addas nac unrhyw geisiadau i gymryd rhan drwy gyfeirio at adran 43(2) o Ddeddf 2023, a pham y mae’n ystyried nad yw dyfarniad o dan adran 19 o’r Ddeddf honno yn bosibl o dan yr amgylchiadau,
+(p)
+a yw’r contract yn cael ei ddyfarnu drwy gyfeirio at lotiau ac, os felly—
+(i)
+enw pob lot, a
+(ii)
+y rhif neilltuol a roddwyd i bob lot gan yr awdurdod contractio,
+(q)
+amcangyfrif o werth y contract,
+(r)
+a yw’r awdurdod contractio yn ystyried y gall y contract neu unrhyw lot sy’n ffurfio rhan o’r contract fod yn arbennig o addas i’w ddyfarnu—
+(i)
+i fenter fach a chanolig ei maint, neu
+(ii)
+i gorff anllywodraethol â gwerthoedd yn ei lywio sy’n ailfuddsoddi ei wargedion yn bennaf er mwyn hybu amcanion cymdeithasol, amgylcheddol neu ddiwylliannol,
+(s)
+disgrifiad yn nodi unrhyw risg—
+(i)
+y mae’r awdurdod contractio yn ystyried y gallai beri i’r contract beidio â chael ei gyflawni’n foddhaol ond, oherwydd ei natur, y mae’n bosibl na fydd yn cael sylw yn y contract fel y’i dyfernir, a
+(ii)
+a all ei gwneud yn ofynnol addasu’r contract yn ddiweddarach o dan baragraff 5 o Atodlen 8 i Ddeddf 2023 (addasu contract yn dilyn gwireddiad risg hysbys),
+(t)
+a yw cyflenwyr wedi eu dethol ar gyfer dyfarnu’r contract,
+(u)
+os yw cyflenwyr wedi eu dethol ar gyfer dyfarnu’r contract, ar gyfer pob cyflenwr a ddetholwyd—
+(i)
+enw’r cyflenwr,
+(ii)
+naill ai—
+(aa)
+y cod adnabod unigryw ar gyfer y cyflenwr, neu
+(bb)
+yn achos contract cyhoeddus sydd wedi ei ddyfarnu yn uniongyrchol yn unol â pharagraffau 13 a 14 o Atodlen 5 i Ddeddf 2023 (sefyllfa frys) pan na fo cod adnabod unigryw wedi ei ddyrannu i’r cyflenwr pan gyhoeddwyd yr hysbysiad tryloywder ond bo’r cyflenwr yn gallu darparu gwybodaeth unigryw yn lle hynny (er enghraifft, rhif cofrestru cwmni a roddwyd o dan DC 2006) y gellir ei chydnabod gan y platfform digidol canolog yn sail ar gyfer cod adnabod unigryw a ddyrennir gan y platfform hwnnw, yr wybodaeth unigryw honno, a
+(iii)
+cyfeiriad post cyswllt a chyfeiriad e-bost y cyflenwr,
+(v)
+amcangyfrif o’r dyddiad yr ymrwymir i’r contract, ac
+(w)
+pan fo’r contract yn fframwaith—
+(i)
+cyfnod y fframwaith,
+(ii)
+a yw’r fframwaith yn darparu ar gyfer codi ffioedd ar gyflenwr yn unol â’r fframwaith ac, os felly, fanylion y ganran sefydlog a ddefnyddir i godi’r ffi arno yn unol ag adran 45(7) o Ddeddf 2023, a
+(iii)
+yr awdurdodau contractio a chanddynt hawlogaeth i ddyfarnu contractau yn unol â’r fframwaith (pa un ai drwy restru enwau’r awdurdodau hynny neu drwy ddisgrifio categorïau o awdurdodau).
+(3) Nid oes dim yn y rheoliad hwn yn atal awdurdod contractio rhag cyhoeddi gwybodaeth arall sy’n ymwneud â’r un caffaeliad yn yr hysbysiad.Hysbysiadau dyfarnu contract ac eithrio’r rhai a gyhoeddir gan gyfleustodau preifat
+28.—(1) Mae’r rheoliad hwn yn nodi gwybodaeth arall y mae rhaid ei chynnwys mewn hysbysiad dyfarnu contract a gyhoeddir gan awdurdod contractio o dan adran 50(1) o Ddeddf 2023.
+(2) Yr wybodaeth yw—
+(a)
+gwybodaeth yr awdurdod contractio,
+(b)
+enw’r caffaeliad,
+(c)
+y cod adnabod unigryw ar gyfer—
+(i)
+y caffaeliad,
+(ii)
+y contract cyhoeddus,
+(iii)
+pan fo’r contract cyhoeddus yn cael ei ddyfarnu yn unol â fframwaith, caffaeliad y fframwaith y mae’r contract cyhoeddus yn cael ei ddyfarnu yn unol ag ef, a
+(iv)
+pan fo’r contract cyhoeddus yn cael ei ddyfarnu drwy gyfeirio at aelodaeth cyflenwyr o farchnad ddynamig, y farchnad ddynamig,
+(d)
+pwnc y contract,
+(e)
+ar gyfer pob cyflenwr y dyfernir y contract cyhoeddus iddo—
+(i)
+enw’r cyflenwr,
+(ii)
+cyfeiriad post cyswllt a chyfeiriad e-bost y cyflenwr,
+(iii)
+naill ai—
+(aa)
+y cod adnabod unigryw ar gyfer y cyflenwr, neu
+(bb)
+yn achos contract cyhoeddus sydd wedi ei ddyfarnu yn uniongyrchol yn unol â pharagraffau 13 a 14 o Atodlen 5 i Ddeddf 2023 (sefyllfa frys) pan na fo cod adnabod unigryw wedi ei ddyrannu i’r cyflenwr pan gyhoeddwyd yr hysbysiad dyfarnu contract ond bo’r cyflenwr yn gallu darparu gwybodaeth unigryw yn lle hynny (er enghraifft, rhif cofrestru cwmni a roddwyd o dan DC 2006) y gellir ei chydnabod gan y platfform digidol canolog yn sail ar gyfer cod adnabod unigryw a ddyrennir gan y platfform hwnnw, yr wybodaeth unigryw honno,
+(iv)
+a yw’r cyflenwr yn gymdeithas o gwmnïau neu’n gonsortiwm arall,
+(v)
+a yw’r cyflenwr—
+(aa)
+yn fenter fach a chanolig ei maint,
+(bb)
+yn gorff anllywodraethol â gwerthoedd yn ei lywio ac sy’n ailfuddsoddi ei wargedion yn bennaf er mwyn hybu amcanion cymdeithasol, amgylcheddol neu ddiwylliannol,
+(cc)
+yn ddarparwr cyflogaeth â chymorth, neu
+(dd)
+yn gwmni cydfuddiannol gwasanaethau cyhoeddus,
+(vi)
+ar gyfer pob person â chyswllt â’r cyflenwr, enw a chyfeiriad post cyswllt y person (mae i “person â chyswllt” yr ystyr a roddir i “associated person” gan adran 26(4) o Ddeddf 2023), a
+(vii)
+gwybodaeth y cyflenwr o ran ei bersonau cysylltiedig yn unol â rheoliad 12, ond gan ddarllen paragraffau (4)(a) ac (8)(a) o’r rheoliad hwnnw fel pe bai pob cyfeiriad at ddyddiad geni yn gyfeiriad at fis a blwyddyn geni, yn ddarostyngedig i baragraff (4) o’r rheoliad hwn,
+(f)
+y dyddiad y penderfynodd yr awdurdod contractio ddyfarnu’r contract cyhoeddus,
+(g)
+os yw’r contract cyhoeddus yn cael ei ddyfarnu drwy gyfeirio at lotiau, ar gyfer pob lot—
+(i)
+enw’r cyflenwr y mae’r lot yn cael ei ddyfarnu iddo,
+(ii)
+enw’r lot,
+(iii)
+y rhif neilltuol a roddwyd i’r lot gan yr awdurdod contractio,
+(iv)
+disgrifiad o’r mathau o nwyddau, gwasanaethau neu weithiau a fydd yn cael eu cyflenwi,
+(v)
+crynodeb o’r modd y bydd y nwyddau, y gwasanaethau neu’r gweithiau hynny yn cael eu cyflenwi,
+(vi)
+amcangyfrif o’r dyddiad y bydd y nwyddau, y gwasanaethau neu’r gweithiau yn cael eu cyflenwi neu amcangyfrif o’r cyfnod y byddant yn cael eu cyflenwi drosto,
+(vii)
+amcangyfrif o swm nwyddau, gwasanaethau neu weithiau a fydd yn cael eu cyflenwi,
+(viii)
+amcangyfrif o werth y lot,
+(ix)
+y codau GGG perthnasol, a
+(x)
+y dosbarthiad daearyddol, pan fo’n bosibl ei ddisgrifio,
+(h)
+pan fo’r contract cyhoeddus yn cael ei ddyfarnu yn unol â fframwaith, manylion ynghylch pa un o’r gweithdrefnau canlynol a ddefnyddiwyd—
+(i)
+proses ddethol gystadleuol ar gyfer fframweithiau o dan adran 46 o Ddeddf 2023, neu
+(ii)
+dyfarniad heb gystadleuaeth bellach o dan adran 45(4) o Ddeddf 2023,
+(i)
+pan fo’r contract cyhoeddus yn fframwaith sy’n cael ei ddyfarnu o dan fframwaith agored, y cod adnabod unigryw ar gyfer caffaeliad y fframwaith olaf a ddyfarnwyd o dan y fframwaith agored (oni bai nad oes fframwaith wedi ei ddyfarnu o dan y fframwaith agored yn flaenorol),
+(j)
+pan fo’r contract cyhoeddus yn cael ei ddyfarnu o dan ran briodol o farchnad ddynamig, y rhif neilltuol a roddwyd i’r rhan honno gan y person a sefydlodd y farchnad ddynamig,
+(k)
+a yw’r contract cyhoeddus yn gontract cyfundrefn arbennig ac, os felly, a yw—
+(i)
+yn gontract consesiwn,
+(ii)
+yn gontract cyffyrddiad ysgafn, neu
+(iii)
+yn gontract cyfleustodau,
+(l)
+a yw’r awdurdod contractio wedi darparu crynodeb asesu i bob cyflenwr a gyflwynodd dendr a aseswyd, yn unol ag adran 50(3) o Ddeddf 2023 ac, os felly, y dyddiad y cafodd y crynodebau asesu hynny eu darparu,
+(m)
+amcangyfrif o werth y contract cyhoeddus,
+(n)
+mewn cysylltiad â phob contract cyhoeddus—
+(i)
+cyfanswm y tendrau a gyflwynwyd erbyn dyddiad cau’r awdurdod contractio ar gyfer cyflwyno tendrau (gan ddiystyru tendrau a gyflwynwyd ond a dynnwyd yn ôl wedyn),
+(ii)
+cyfanswm y tendrau a aseswyd gan yr awdurdod contractio, a
+(iii)
+cyfanswm y tendrau aflwyddiannus a aseswyd gan yr awdurdod contractio ac a gyflwynwyd gan—
+(aa)
+menter fach a chanolig ei maint, a
+(bb)
+corff anllywodraethol â gwerthoedd yn ei lywio sy’n ailfuddsoddi ei wargedion yn bennaf er mwyn hybu amcanion cymdeithasol, amgylcheddol neu ddiwylliannol,
+ac eithrio yn achos dyfarniad uniongyrchol o dan adran 41 neu 43 o Ddeddf 2023,
+(o)
+pan fo’r contract cyhoeddus yn fframwaith neu y bo wedi ei ddyfarnu mewn ffordd arall nad yw’n unol â fframwaith, manylion ynghylch pa un o’r gweithdrefnau canlynol a ddefnyddiwyd—
+(i)
+gweithdrefn agored,
+(ii)
+gweithdrefn hyblyg gystadleuol, neu
+(iii)
+dyfarniad uniongyrchol o dan adran 41 neu 43 o Ddeddf 2023,
+(p)
+a ddefnyddiwyd hysbysiad tendro i neilltuo’r contract i ddarparwyr cyflogaeth â chymorth yn unol ag adran 32 o Ddeddf 2023, a pha un a ddyfarnwyd y contract i gyflenwr o’r fath,
+(q)
+a ddefnyddiwyd hysbysiad tendro i neilltuo’r contract i gwmnïau cydfuddiannol gwasanaethau cyhoeddus yn unol ag adran 33 o Ddeddf 2023, ac a ddyfarnwyd y contract i gyflenwr o’r fath,
+(r)
+y dyddiad dod i ben ar gyfer unrhyw gyfnod segur o dan adran 51 o Ddeddf 2023 neu, os nad oes unrhyw gyfnod segur yn gymwys, unrhyw ddyddiad cyn pryd y mae’r awdurdod contractio wedi penderfynu yn erbyn ymrwymo i’r contract,
+(s)
+amcangyfrif o’r dyddiad yr ymrwymir i’r contract,
+(t)
+pan fo’r contract cyhoeddus yn cael ei ddyfarnu yn uniongyrchol o dan adran 41 neu 43 o Ddeddf 2023, yr un wybodaeth â’r wybodaeth y cyfeirir ati yn rheoliad 27(2)(h) i (o),
+(u)
+pan fo’r contract cyhoeddus yn cael ei ddyfarnu yn unol â fframwaith sy’n cael ei drefnu drwy gyfeirio at lotiau, y rhif neilltuol a roddwyd gan yr awdurdod contractio i’r lot y mae’r contract yn cael ei ddyfarnu odani, a
+(v)
+pan fo—
+(i)
+y contract cyhoeddus yn cael ei ddyfarnu drwy gyfeirio at lotiau, a
+(ii)
+yr awdurdod contractio yn defnyddio’r hysbysiad dyfarnu contract i roi hysbysiad ei fod yn rhoi’r gorau i gaffael yr holl nwyddau, gwasanaethau a gweithiau a nodir yn un neu ragor o’r lotiau hynny neu mewn unrhyw lotiau o dan gontractau yn y dyfodol o dan y trefniant o dan adran 18(2)(a) o Ddeddf 2023,
+gwybodaeth y lot sy’n dod i ben.
+(3) Yn y rheoliad hwn, ystyr “gwybodaeth y lot sy’n dod i ben” yw—
+(a)
+yr wybodaeth ganlynol ar gyfer pob lot sy’n dod i ben—
+(i)
+enw’r lot,
+(ii)
+y rhif neilltuol a roddwyd i’r lot gan yr awdurdod contractio,
+(iii)
+y codau GGG perthnasol, a
+(iv)
+disgrifiad o’r mathau o nwyddau, gwasanaethau neu weithiau a oedd i’w cyflenwi o dan y lot, a
+(b)
+y dyddiad y penderfynodd yr awdurdod contractio roi’r gorau i’r caffaeliad o dan y lot.
+(4) Nid yw’n ofynnol i awdurdod contractio gyhoeddi, yn unol â pharagraff (2)(e)(vii), wybodaeth personau cysylltiedig sy’n wybodaeth sydd wedi ei diogelu mewn perthynas—
+(a)
+â pherson cysylltiedig sy’n unigolyn sy’n bodloni’r disgrifiad yn rheoliad 12(3)(b) ac (c), neu
+(b)
+â pherson cysylltiedig sy’n unigolyn sy’n bodloni’r disgrifiad yn rheoliad 12(15)(b).
+(5) Yn y rheoliad hwn, ystyr “gwybodaeth sydd wedi ei diogelu” yw gwybodaeth—
+(a)
+mewn perthynas ag unigolyn a grybwyllir ym mharagraff (4)(a) neu (b), sydd am y tro wedi ei hepgor o gofrestr pobl â rheolaeth sylweddol yn unol â rheoliad 33(1) o Reoliadau Cofrestrau Pobl â Rheolaeth Sylweddol 2016(1), neu
+(b)
+mewn perthynas ag unigolyn a grybwyllir ym mharagraff (4)(b), yw gwybodaeth y mae’r unigolyn—
+(i)
+yn rhesymol o’r farn a nodir ym mharagraff (6) yn ei chylch, a
+(ii)
+wedi cadarnhau’r farn honno yn ysgrifenedig i’r awdurdod contractio.
+(6) Y farn yw, os bydd yr wybodaeth yn cael ei chyhoeddi—
+(a)
+y bydd gweithgareddau’r cwmni, neu
+(b)
+y bydd un neu ragor o nodweddion neu briodoleddau personol yr ymgeisydd pan fydd wedi ei gysylltu â’r cwmni hwnnw,
+yn rhoi’r ymgeisydd neu berson sy’n byw gyda’r ymgeisydd mewn perygl difrifol o ddioddef trais neu fygythiad.
+(7) Nid oes dim yn y rheoliad hwn yn atal awdurdod contractio rhag cyhoeddi gwybodaeth arall sy’n ymwneud â’r un caffaeliad yn yr hysbysiad.
+(8) Nid yw’r rheoliad hwn yn gymwys i awdurdod contractio sy’n gyfleustod preifat.
+(1)
+O.S. 2016/339.Hysbysiadau dyfarnu contract a gyhoeddir gan gyfleustodau preifat
+29.—(1) Mae’r rheoliad hwn yn nodi gwybodaeth arall y mae rhaid ei chynnwys mewn hysbysiad dyfarnu contract a gyhoeddir gan gyfleustod preifat o dan adran 50(1) o Ddeddf 2023.
+(2) Yr wybodaeth yw—
+(a)
+yr un wybodaeth â’r wybodaeth y cyfeirir ati yn rheoliad 28(2)(a) i (q), ac eithrio is-baragraffau (h) ac (n),
+(b)
+amcangyfrif o’r dyddiad yr ymrwymir i’r contract, ac
+(c)
+disgrifiad o unrhyw opsiwn yn y contract cyhoeddus—
+(i)
+i gyflenwi nwyddau, gwasanaethau neu weithiau ychwanegol, neu
+(ii)
+i estyn neu adnewyddu cyfnod y contract.
+(3) Nid oes dim yn y rheoliad hwn yn atal awdurdod contractio rhag cyhoeddi gwybodaeth arall sy’n ymwneud â’r un caffaeliad (gan gynnwys gwybodaeth sy’n ymwneud â chontractau eraill sydd wedi eu dyfarnu o dan yr un caffaeliad) yn yr hysbysiad.
+(4) Nid yw’r rheoliad hwn yn gymwys—
+(a)
+i ddyfarnu contract cyhoeddus yn uniongyrchol o dan adran 41 neu 43 o Ddeddf 2023 (gweler yn hytrach reoliad 30), neu
+(b)
+i ddyfarnu contract cyhoeddus yn unol â fframwaith (gweler yn hytrach reoliad 31).Hysbysiadau dyfarnu contract a gyhoeddir gan gyfleustodau preifat: dyfarniadau uniongyrchol
+30.—(1) Mae’r rheoliad hwn yn nodi gwybodaeth arall y mae rhaid ei chynnwys mewn hysbysiad dyfarnu contract a gyhoeddir gan gyfleustod preifat o dan adran 50(1) o Ddeddf 2023 pan gafodd y contract ei ddyfarnu yn uniongyrchol yn unol ag adran 41 neu 43 o Ddeddf 2023.
+(2) Yr wybodaeth yw—
+(a)
+yr un wybodaeth â’r wybodaeth y cyfeirir ati yn rheoliad 28(2)(a) i (q), ac eithrio is-baragraffau (c)(iii), (c)(iv), (h) i (j), (l) ac (n),
+(b)
+amcangyfrif o’r dyddiad yr ymrwymir i’r contract,
+(c)
+disgrifiad o unrhyw opsiwn yn y contract cyhoeddus—
+(i)
+i gyflenwi nwyddau, gwasanaethau neu weithiau ychwanegol, neu
+(ii)
+i estyn neu adnewyddu cyfnod y contract,
+(d)
+a yw’r contract yn cael ei ddyfarnu yn uniongyrchol i gyflenwr nad yw’n gyflenwr gwaharddedig oherwydd bod cyfiawnhad dros ddyfarnu yn uniongyrchol yn gymwys yn unol ag adran 41(1)(a) o Ddeddf 2023,
+(e)
+os yw is-baragraff (d) yn gymwys, y cyfiawnhad dros ddyfarnu yn uniongyrchol yn Atodlen 5 i Ddeddf 2023 sy’n gymwys, ac esboniad ynghylch pam y mae’r awdurdod contractio yn ystyried ei fod yn gymwys,
+(f)
+a yw’r contract yn cael ei ddyfarnu yn uniongyrchol i gyflenwr sy’n gyflenwr gwaharddedig oherwydd bod yr awdurdod contractio yn ystyried mai’r hyn sydd o’r budd mwyaf i’r cyhoedd yw dyfarnu’r contract i’r cyflenwr hwnnw yn unol ag adran 41(2) i (5) o Ddeddf 2023,
+(g)
+os yw is-baragraff (f) yn gymwys—
+(i)
+y drosedd, neu ddigwyddiad arall a grybwyllir yn Atodlen 6 i Ddeddf 2023, y mae’r cyflenwr yn gyflenwr gwaharddedig yn rhinwedd y drosedd honno neu’r digwyddiad hwnnw, a
+(ii)
+pa sail yn adran 41(5) o Ddeddf 2023 sy’n gymwys, ac esboniad ynghylch pam y mae’r awdurdod contractio yn ystyried ei bod yn gymwys,
+(h)
+a yw’r contract yn cael ei ddyfarnu yn uniongyrchol i gyflenwr yn unol â rheoliadau a wneir o dan adran 42 o Ddeddf 2023 (dyfarniad uniongyrchol er mwyn gwarchod bywyd, etc.),
+(i)
+os yw is-baragraff (h) yn gymwys, enw a rhif cofrestru’r offeryn statudol sy’n cynnwys y rheoliadau hynny,
+(j)
+a yw’r contract yn cael ei ddyfarnu yn uniongyrchol i gyflenwr nad yw’n gyflenwr gwaharddedig yn rhinwedd adran 43 o Ddeddf 2023 (newid i ddyfarniad uniongyrchol), a
+(k)
+os yw is-baragraff (j) yn gymwys, y rheswm pam, ym marn yr awdurdod contractio, na fu unrhyw dendrau addas nac unrhyw geisiadau i gymryd rhan drwy gyfeirio at adran 43(2) o Ddeddf 2023, a pham y mae’n ystyried nad yw dyfarniad o dan adran 19 o’r Ddeddf honno yn bosibl o dan yr amgylchiadau.
+(3) Nid oes dim yn y rheoliad hwn yn atal awdurdod contractio rhag cyhoeddi gwybodaeth arall sy’n ymwneud â’r un caffaeliad yn yr hysbysiad.Hysbysiadau dyfarnu contract a gyhoeddir gan gyfleustodau preifat: fframweithiau
+31.—(1) Mae’r rheoliad hwn yn nodi gwybodaeth arall y mae rhaid ei chynnwys mewn hysbysiad dyfarnu contract a gyhoeddir gan gyfleustod preifat o dan adran 50(1) o Ddeddf 2023 pan fo’r contract yn cael ei ddyfarnu yn unol â fframwaith.
+(2) Yr wybodaeth yw—
+(a)
+yr un wybodaeth â’r wybodaeth y cyfeirir ati yn rheoliad 28(2)(a) i (q), ac eithrio is-baragraffau (c)(iv), (i), (j), (n) ac (o),
+(b)
+amcangyfrif o’r dyddiad yr ymrwymir i’r contract,
+(c)
+disgrifiad o unrhyw opsiwn yn y contract cyhoeddus—
+(i)
+i gyflenwi nwyddau, gwasanaethau neu weithiau ychwanegol, neu
+(ii)
+i estyn neu adnewyddu cyfnod y contract,
+(d)
+pan fo’r fframwaith wedi ei drefnu drwy gyfeirio at lotiau, y rhif neilltuol a roddwyd gan yr awdurdod contractio i’r lot y mae’r contract yn cael ei ddyfarnu odani,
+(e)
+manylion ynghylch pa un o’r gweithdrefnau canlynol a ddefnyddiwyd i ddyfarnu’r contract cyhoeddus—
+(i)
+proses ddethol gystadleuol ar gyfer fframweithiau o dan adran 46 o Ddeddf 2023, neu
+(ii)
+dyfarniad heb gystadleuaeth bellach o dan adran 45(4) o Ddeddf 2023, ac
+(f)
+os yw is-baragraff (e)(ii) yn gymwys, esboniad ynghylch pam y mae’r awdurdod contractio wedi ystyried ei fod yn gymwys drwy gyfeirio at adran 45(4) o Ddeddf 2023.
+(3) Nid oes dim yn y rheoliad hwn yn atal awdurdod contractio rhag cyhoeddi gwybodaeth arall sy’n ymwneud â’r un caffaeliad yn yr hysbysiad.Crynodebau asesu
+32.—(1) Mae’r rheoliad hwn yn nodi pa wybodaeth y mae rhaid ei chynnwys mewn crynodeb asesu a ddarperir i gyflenwr o dan adran 50(3) o Ddeddf 2023.
+(2) Yn achos y tendr mwyaf manteisiol, yr wybodaeth yw—
+(a)
+enw’r cyflenwr,
+(b)
+cyfeiriad post cyswllt a chyfeiriad e-bost ar gyfer y cyflenwr,
+(c)
+y cod adnabod unigryw ar gyfer y cyflenwr,
+(d)
+mewn cysylltiad â’r meini prawf dyfarnu ar gyfer y contract cyhoeddus—
+(i)
+y meini prawf dyfarnu, gan gynnwys y fethodoleg asesu, wedi eu nodi’n llawn, neu grynodeb o’r meini prawf dyfarnu, gan gynnwys—
+(aa)
+enw pob maen prawf,
+(bb)
+pwysigrwydd cymharol pob maen prawf, a
+(cc)
+sut yr oedd pob maen prawf i gael ei asesu drwy gyfeirio at sgoriau a pha sgoriau oedd i fod ar gael ar gyfer pob maen prawf, a
+(ii)
+os nad yw’r meini prawf dyfarnu, gan gynnwys y fethodoleg asesu, wedi eu nodi’n llawn yn y crynodeb asesu, arwydd o ble y gellir cyrchu’r fersiwn lawn, ac
+(e)
+sut y cafodd y tendr ei asesu yn erbyn y meini prawf dyfarnu drwy gyfeirio at sgoriau, gan gynnwys—
+(i)
+y sgôr a benderfynwyd ar gyfer pob maen prawf dyfarnu ac—
+(aa)
+esboniad ynghylch y sgôr honno drwy gyfeirio at wybodaeth berthnasol yn y tendr, a
+(bb)
+pan fo maen prawf dyfarnu yn cynnwys is-feini prawf asesu, esboniad ynghylch sut y cafodd y tendr ei asesu drwy gyfeirio at bob is-maen prawf, a
+(ii)
+cyfanswm y sgôr ac unrhyw sgoriau is-gyfanswm.
+(3) Yn achos unrhyw dendr arall a aseswyd, yr wybodaeth yw—
+(a)
+yr un wybodaeth â’r wybodaeth y cyfeirir ati ym mharagraff (2)(a) i (d),
+(b)
+yr un wybodaeth â’r wybodaeth y cyfeirir ati ym mharagraff (2)(e), ond dim ond i’r graddau y cafodd y tendr ei asesu yn erbyn y meini prawf dyfarnu,
+(c)
+unrhyw esboniad pellach ynghylch pam nad yw’r contract cyhoeddus yn cael ei ddyfarnu i’r cyflenwr gan gynnwys, pan fo’r tendr wedi ei ddatgymhwyso o dan y fethodoleg asesu o dan adran 23(3) o Ddeddf 2023, y rhesymau dros y datgymhwyso hwnnw, a
+(d)
+yr un wybodaeth â’r wybodaeth y cyfeirir ati ym mharagraff (2)(e) mewn cysylltiad â’r tendr mwyaf manteisiol.
+(4) Rhaid i’r holl grynodebau asesu mewn cysylltiad â chontract cyhoeddus a ddarperir gan awdurdod contractio i gyflenwyr yn unol ag adran 50(3) o Ddeddf 2023 gael eu darparu ar yr un pryd.
+(5) Nid oes dim yn y rheoliad hwn yn atal awdurdod contractio rhag darparu gwybodaeth arall sy’n ymwneud â’r un caffaeliad mewn crynodeb asesu.Hysbysiadau manylion contract: gweithdrefn agored neu weithdrefn hyblyg gystadleuol
+33.—(1) Mae’r rheoliad hwn yn nodi gwybodaeth arall y mae rhaid ei chynnwys mewn hysbysiad manylion contract a gyhoeddir o dan adran 53(1) o Ddeddf 2023 pan ymrwymwyd i’r contract cyhoeddus yn dilyn—
+(a)
+gweithdrefn agored, neu
+(b)
+gweithdrefn hyblyg gystadleuol (gan gynnwys drwy gyfeirio at farchnad ddynamig).
+(2) Yr wybodaeth yw—
+(a)
+gwybodaeth yr awdurdod contractio,
+(b)
+enw’r caffaeliad,
+(c)
+y cod adnabod unigryw ar gyfer y caffaeliad,
+(d)
+y cod adnabod unigryw ar gyfer y contract cyhoeddus,
+(e)
+pan gafodd y contract cyhoeddus ei ddyfarnu drwy gyfeirio at aelodaeth cyflenwyr o farchnad ddynamig, y cod adnabod unigryw ar gyfer y farchnad ddynamig honno,
+(f)
+pwnc y contract,
+(g)
+ar gyfer pob cyflenwr sy’n barti i’r contract cyhoeddus—
+(i)
+enw’r cyflenwr,
+(ii)
+cyfeiriad post cyswllt a chyfeiriad e-bost y cyflenwr,
+(iii)
+y cod adnabod unigryw ar gyfer y cyflenwr, a
+(iv)
+a yw’r cyflenwr—
+(aa)
+yn fenter fach a chanolig ei maint,
+(bb)
+yn gorff anllywodraethol â gwerthoedd yn ei lywio ac sy’n ailfuddsoddi ei wargedion yn bennaf er mwyn hybu amcanion cymdeithasol, amgylcheddol neu ddiwylliannol,
+(cc)
+yn ddarparwr cyflogaeth â chymorth, neu
+(dd)
+yn gwmni cydfuddiannol gwasanaethau cyhoeddus,
+(h)
+a ddyfarnwyd y contract cyhoeddus yn dilyn—
+(i)
+gweithdrefn agored, neu
+(ii)
+gweithdrefn hyblyg gystadleuol,
+(i)
+a oedd y contract wedi ei neilltuo—
+(i)
+i ddarparwyr cyflogaeth â chymorth yn unol ag adran 32 o Ddeddf 2023, neu
+(ii)
+i gwmnïau cydfuddiannol gwasanaethau cyhoeddus yn unol ag adran 33 o Ddeddf 2023,
+(j)
+os cafodd y contract cyhoeddus ei ddyfarnu drwy gyfeirio at lot—
+(i)
+enw’r lot,
+(ii)
+y rhif neilltuol a roddwyd i’r lot gan yr awdurdod contractio,
+(iii)
+disgrifiad o’r mathau o nwyddau, gwasanaethau neu weithiau a fydd yn cael eu cyflenwi,
+(iv)
+crynodeb o sut y bydd y nwyddau, y gwasanaethau neu’r gweithiau hynny yn cael eu cyflenwi,
+(v)
+amcangyfrif o’r dyddiad y bydd y nwyddau, y gwasanaethau neu’r gweithiau yn cael eu cyflenwi neu amcangyfrif o’r cyfnod y byddant yn cael eu cyflenwi drosto,
+(vi)
+amcangyfrif o swm nwyddau, gwasanaethau neu weithiau a fydd yn cael eu cyflenwi,
+(vii)
+amcangyfrif o werth y lot, a
+(viii)
+y codau GGG perthnasol,
+(k)
+amcangyfrif o werth y contract cyhoeddus,
+(l)
+y dyddiad yr ymrwymwyd i’r contract cyhoeddus,
+(m)
+disgrifiad o unrhyw opsiwn yn y contract cyhoeddus—
+(i)
+i gyflenwi nwyddau, gwasanaethau neu weithiau ychwanegol, neu
+(ii)
+i estyn neu adnewyddu cyfnod y contract,
+(n)
+pan gafodd y contract cyhoeddus ei ddyfarnu o dan ran briodol o farchnad ddynamig, y rhif neilltuol a roddwyd i’r rhan honno gan y person a sefydlodd y farchnad ddynamig,
+(o)
+a yw’r contract cyhoeddus yn gontract cyfundrefn arbennig ac, os felly, a yw—
+(i)
+yn gontract consesiwn,
+(ii)
+yn gontract cyffyrddiad ysgafn, neu
+(iii)
+yn gontract cyfleustodau,
+(p)
+a yw’r contract cyhoeddus yn gontract y mae gan y Deyrnas Unedig rwymedigaethau ar ei gyfer o dan y Cytundeb ar Gaffael gan Lywodraethau,
+(q)
+o’r dyddiad y daw’r Cytundeb Cynhwysfawr a Blaengar ar gyfer Partneriaeth y Môr Tawel i rym ar gyfer y Deyrnas Unedig, a yw’r contract cyhoeddus yn gontract y mae gan y Deyrnas Unedig rwymedigaethau ar ei gyfer o dan y Cytundeb hwnnw,
+(r)
+pan gafodd y dangosyddion perfformiad allweddol eu gosod yn unol ag adran 52(1) o Ddeddf 2023—
+(i)
+disgrifiad o bob dangosydd perfformiad allweddol, a
+(ii)
+pa mor aml y bydd yr awdurdod contractio yn asesu perfformiad yn erbyn y dangosyddion perfformiad allweddol yn unol ag adran 71(2) o Ddeddf 2023, ac
+(s)
+pan na chafodd dangosyddion perfformiad allweddol eu gosod yn rhinwedd adran 52(2) o Ddeddf 2023, esboniad ynghylch pam y mae’r awdurdod contractio yn ystyried na ellid asesu perfformiad y cyflenwr o dan y contract yn briodol drwy gyfeirio at ddangosyddion perfformiad allweddol.
+(3) Nid oes dim yn y rheoliad hwn yn atal awdurdod contractio rhag cyhoeddi gwybodaeth arall sy’n ymwneud â’r un caffaeliad yn yr hysbysiad.
+(4) Nid yw’r rheoliad hwn yn gymwys i hysbysiad manylion contract pan fo’r contract cyhoeddus yn fframwaith (gweler yn hytrach reoliad 34).Hysbysiadau manylion contract: fframweithiau
+34.—(1) Mae’r rheoliad hwn yn nodi gwybodaeth arall y mae rhaid ei chynnwys mewn hysbysiad manylion contract a gyhoeddir o dan adran 53(1) o Ddeddf 2023 pan fo’r contract cyhoeddus yn fframwaith.
+(2) Yr wybodaeth yw—
+(a)
+yr un wybodaeth â’r wybodaeth y cyfeirir ati yn rheoliad 33(2)(a) i (q), ac eithrio is-baragraff (h),
+(b)
+yr awdurdodau contractio a chanddynt hawlogaeth i ddyfarnu contractau cyhoeddus yn unol â’r fframwaith (pa un ai drwy restru enwau’r awdurdodau hynny neu drwy ddisgrifio categorïau o awdurdodau),
+(c)
+cyfnod y fframwaith,
+(d)
+a yw’r fframwaith wedi ei ddyfarnu o dan fframwaith agored,
+(e)
+pan gafodd y fframwaith ei ddyfarnu o dan fframwaith agored, y cod adnabod unigryw ar gyfer caffaeliad y fframwaith olaf a ddyfarnwyd o dan y fframwaith agored (oni bai nad oes fframwaith wedi ei ddyfarnu o dan y fframwaith agored yn flaenorol),
+(f)
+pan gafodd y fframwaith ei ddyfarnu o dan fframwaith agored, amcangyfrif o ddyddiad dod i ben y fframwaith agored,
+(g)
+a ddyfarnwyd y contract cyhoeddus yn dilyn—
+(i)
+gweithdrefn agored,
+(ii)
+gweithdrefn hyblyg gystadleuol, neu
+(iii)
+yn uniongyrchol yn unol ag adran 41 neu 43 o Ddeddf 2023,
+(h)
+a yw’r fframwaith yn darparu ar gyfer codi ffioedd ar gyflenwr yn unol â’r fframwaith ac, os felly, fanylion y ganran sefydlog a ddefnyddir i godi’r ffi arno yn unol ag adran 45(7) o Ddeddf 2023,
+(i)
+y pris sy’n daladwy, neu’r mecanwaith ar gyfer pennu’r pris sy’n daladwy, o dan gontract cyhoeddus sydd wedi ei ddyfarnu yn unol â’r fframwaith, a
+(j)
+manylion y broses ddethol sydd i’w chymhwyso wrth ddyfarnu contract cyhoeddus yn unol â’r fframwaith.
+(3) Nid oes dim yn y rheoliad hwn yn atal awdurdod contractio rhag cyhoeddi gwybodaeth arall sy’n ymwneud â’r un caffaeliad yn yr hysbysiad.Hysbysiadau manylion contract: contractau cyhoeddus a ddyfernir yn unol â fframweithiau
+35.—(1) Mae’r rheoliad hwn yn nodi gwybodaeth arall y mae rhaid ei chynnwys mewn hysbysiad manylion contract a gyhoeddir o dan adran 53(1) o Ddeddf 2023 pan gafodd y contract cyhoeddus ei ddyfarnu yn unol â fframwaith.
+(2) Yr wybodaeth yw—
+(a)
+yr un wybodaeth â’r wybodaeth y cyfeirir ati yn rheoliad 33(2), ac eithrio is-baragraffau (e), (h), (n), (p) a (q),
+(b)
+y cod adnabod unigryw ar gyfer caffaeliad y fframwaith y mae’r contract cyhoeddus yn cael ei ddyfarnu yn unol ag ef,
+(c)
+pan fo’r fframwaith wedi ei drefnu drwy gyfeirio at lotiau, y rhif neilltuol a roddwyd gan yr awdurdod contractio i’r lot y mae’r contract yn cael ei ddyfarnu odani,
+(d)
+manylion ynghylch pa un o’r gweithdrefnau a ganlyn a ddefnyddiwyd i ddyfarnu’r contract cyhoeddus—
+(i)
+proses ddethol gystadleuol ar gyfer fframweithiau o dan adran 46 o Ddeddf 2023, neu
+(ii)
+dyfarniad heb gystadleuaeth bellach o dan adran 45(4) o Ddeddf 2023, ac
+(e)
+os yw is-baragraff (d)(ii) yn gymwys, esboniad ynghylch pam y mae’r awdurdod contractio wedi ystyried ei fod yn gymwys drwy gyfeirio at adran 45(4) o Ddeddf 2023.
+(3) Nid oes dim yn y rheoliad hwn yn atal awdurdod contractio rhag cyhoeddi gwybodaeth arall sy’n ymwneud â’r un caffaeliad yn yr hysbysiad.Hysbysiadau manylion contract: dyfarniad uniongyrchol
+36.—(1) Mae’r rheoliad hwn yn nodi gwybodaeth arall y mae rhaid ei chynnwys mewn hysbysiad manylion contract a gyhoeddir o dan adran 53(1) o Ddeddf 2023 pan fo’r contract cyhoeddus wedi ei ddyfarnu yn uniongyrchol yn unol ag adran 41 neu 43 o Ddeddf 2023.
+(2) Yr wybodaeth yw—
+(a)
+yr un wybodaeth â’r wybodaeth y cyfeirir ati yn rheoliad 33(2), ac eithrio is-baragraffau (e), (h) ac (n),
+(b)
+a gafodd y contract ei ddyfarnu yn uniongyrchol i gyflenwr nad yw’n gyflenwr gwaharddedig oherwydd bod cyfiawnhad dros ddyfarnu yn uniongyrchol yn gymwys yn unol ag adran 41(1)(a) o Ddeddf 2023,
+(c)
+os yw is-baragraff (b) yn gymwys, y cyfiawnhad dros ddyfarnu yn uniongyrchol yn Atodlen 5 i Ddeddf 2023 sy’n gymwys, ac esboniad ynghylch pam y mae’r awdurdod contractio yn ystyried ei fod yn gymwys,
+(d)
+a gafodd y contract ei ddyfarnu yn uniongyrchol i gyflenwr sy’n gyflenwr gwaharddedig oherwydd bod yr awdurdod contractio wedi ystyried mai’r hyn sydd o’r budd mwyaf i’r cyhoedd yw dyfarnu’r contract i’r cyflenwr hwnnw yn unol ag adran 41(2) i (5) o Ddeddf 2023,
+(e)
+os yw is-baragraff (d) yn gymwys, pa sail yn adran 41(5) o Ddeddf 2023 sy’n gymwys, ac esboniad ynghylch pam y mae’r awdurdod contractio yn ystyried ei bod yn gymwys,
+(f)
+a gafodd y contract ei ddyfarnu yn uniongyrchol i gyflenwr yn unol â rheoliadau a wneir o dan adran 42 o Ddeddf 2023 (dyfarnu’n uniongyrchol er mwyn gwarchod bywyd, etc.),
+(g)
+os yw is-baragraff (f) yn gymwys, enw a rhif cofrestru’r offeryn statudol sy’n cynnwys y rheoliadau hynny,
+(h)
+a gafodd y contract ei ddyfarnu yn uniongyrchol i gyflenwr nad yw’n gyflenwr gwaharddedig yn rhinwedd adran 43 o Ddeddf 2023 (newid i ddyfarniad uniongyrchol),
+(i)
+os yw is-baragraff (h) yn gymwys, esboniad, ym marn yr awdurdod contractio, ynghylch pam na fu unrhyw dendrau addas nac unrhyw geisiadau i gymryd rhan drwy gyfeirio at adran 43(2) o Ddeddf 2023 a pham y mae’n ystyried nad yw dyfarniad o dan adran 19 o’r Ddeddf honno yn bosibl o dan yr amgylchiadau,
+(j)
+a gafodd y contract ei ddyfarnu i gyflenwr sy’n gyflenwr gwaharddedig yn rhinwedd adran 41(2) o Ddeddf 2023, a
+(k)
+os yw is-baragraff (j) yn gymwys, y drosedd, neu’r digwyddiad arall a grybwyllir yn Atodlen 6 i Ddeddf 2023, sydd o dan sylw.
+(3) Nid oes dim yn y rheoliad hwn yn atal awdurdod contractio rhag cyhoeddi gwybodaeth arall sy’n ymwneud â’r un caffaeliad yn yr hysbysiad.
+(4) Nid yw’r rheoliad hwn yn gymwys i hysbysiad manylion contract pan fo’r contract cyhoeddus yn fframwaith (gweler yn hytrach reoliad 34).Hysbysiadau manylion contract: contractau sydd o dan y trothwy
+37.—(1) Mae’r rheoliad hwn yn nodi gwybodaeth arall y mae rhaid ei chynnwys mewn hysbysiad manylion contract a gyhoeddir o dan adran 87(3) o Ddeddf 2023.
+(2) Yr wybodaeth yw—
+(a)
+gwybodaeth yr awdurdod contractio,
+(b)
+enw’r caffaeliad,
+(c)
+y cod adnabod unigryw ar gyfer y caffaeliad,
+(d)
+y cod adnabod unigryw ar gyfer y contract,
+(e)
+ar gyfer pob cyflenwr sy’n barti i’r contract—
+(i)
+enw’r cyflenwr,
+(ii)
+cyfeiriad post cyswllt a chyfeiriad e-bost y cyflenwr,
+(iii)
+y cod adnabod unigryw ar gyfer y cyflenwr, a
+(iv)
+a yw’r cyflenwr—
+(aa)
+yn fenter fach a chanolig ei maint, neu
+(bb)
+yn gorff anllywodraethol â gwerthoedd yn ei lywio ac sy’n ailfuddsoddi ei wargedion yn bennaf er mwyn hybu amcanion cymdeithasol, amgylcheddol neu ddiwylliannol,
+(f)
+pwnc y contract,
+(g)
+a gafodd y contract ei ddyfarnu drwy gyfeirio at lotiau ac, os felly—
+(i)
+enw pob lot o dan y contract,
+(ii)
+y rhif neilltuol a roddwyd i bob lot gan yr awdurdod contractio,
+(h)
+a yw’r contract yn gontract cyffyrddiad ysgafn,
+(i)
+a gafodd y contract ei ddyfarnu drwy gyfeirio at aelodaeth cyflenwyr o farchnad ddynamig ac, os felly—
+(i)
+y cod adnabod unigryw ar gyfer y farchnad ddynamig, a
+(ii)
+pan gafodd y contract cyhoeddus ei ddyfarnu o dan ran briodol o farchnad ddynamig (gweler adran 34(1) a (6) o Ddeddf 2023), y rhif neilltuol a roddwyd i’r rhan honno gan yr awdurdod contractio,
+(j)
+amcangyfrif o werth y contract,
+(k)
+y dyddiad yr ymrwymwyd i’r contract, ac
+(l)
+disgrifiad o unrhyw opsiwn yn y contract—
+(i)
+i gyflenwi nwyddau, gwasanaethau neu weithiau ychwanegol, neu
+(ii)
+i estyn neu adnewyddu cyfnod y contract,
+(3) Nid oes dim yn y rheoliad hwn yn atal awdurdod contractio rhag cyhoeddi gwybodaeth arall sy’n ymwneud â’r un caffaeliad yn yr hysbysiad.Hysbysiadau terfynu caffaeliad
+38.—(1) Mae’r rheoliad hwn yn nodi pa wybodaeth y mae rhaid ei chynnwys mewn hysbysiad terfynu caffaeliad a gyhoeddir o dan adran 55(2) o Ddeddf 2023.
+(2) Yr wybodaeth yw—
+(a)
+gwybodaeth yr awdurdod contractio,
+(b)
+enw’r caffaeliad,
+(c)
+y cod adnabod unigryw ar gyfer y caffaeliad,
+(d)
+datganiad i’r perwyl bod yr awdurdod contractio, yn dilyn cyhoeddi hysbysiad tendr neu hysbysiad tryloywder mewn cysylltiad â chontract, wedi penderfynu peidio â dyfarnu’r contract, ac
+(e)
+y dyddiad y penderfynodd yr awdurdod contractio beidio â dyfarnu’r contract cyhoeddus.
+(3) Nid oes dim yn y rheoliad hwn yn atal awdurdod contractio rhag cyhoeddi gwybodaeth arall sy’n ymwneud â’r un caffaeliad mewn hysbysiad terfynu caffael.Hysbysiadau cydymffurfedd taliadau
+39.—(1) Mae’r rheoliad hwn yn nodi pa wybodaeth y mae rhaid ei chynnwys mewn hysbysiad cydymffurfedd taliadau a gyhoeddir o dan adran 69(1) o Ddeddf 2023.
+(2) Yr wybodaeth yw—
+(a)
+gwybodaeth yr awdurdod contractio,
+(b)
+dyddiadau diwrnodau cyntaf ac olaf y cyfnod adrodd y mae’r hysbysiad cydymffurfedd taliadau yn ymwneud ag ef,
+(c)
+mewn cysylltiad â symiau a dalwyd gan yr awdurdod contractio o dan gontractau cyhoeddus yn ystod y cyfnod adrodd—
+(i)
+nifer cyfartalog y diwrnodau a gymerwyd i wneud y taliadau hynny, lle diwrnod 1 yw’r diwrnod cyntaf ar ôl y diwrnod anfonebu;
+(ii)
+y ganran o’r taliadau hynny a gafodd eu gwneud, lle diwrnod 1 yw’r diwrnod cyntaf ar ôl y diwrnod anfonebu—
+(aa)
+o fewn y cyfnod sy’n dechrau ar ddiwrnod 1 ac yn gorffen â diwrnod 30;
+(bb)
+o fewn y cyfnod sy’n dechrau ar ddiwrnod 31 ac yn gorffen â diwrnod 60;
+(cc)
+ar neu ar ôl diwrnod 61,
+(d)
+mewn cysylltiad â symiau a ddaeth yn daladwy o dan gontractau cyhoeddus yn ystod y cyfnod adrodd, y ganran o’r taliadau hynny na chawsant eu gwneud o fewn y cyfnod adrodd, ac
+(e)
+datganiad gan y cyfarwyddwr, neu swyddog tebyg o’r awdurdod contractio sy’n gyfrifol am gyllid yr awdurdod contractio, yn nodi bod y person yn cymeradwyo’r hysbysiad cydymffurfedd taliadau, ac yn nodi enw a theitl swydd y person hwnnw.
+(3) Ym mharagraff (2)—
+ystyr “cyfartalog” (“average”) yw’r cymedr rhifyddol;
+ystyr “diwrnod anfonebu” (“invoice day”) yw’r dyddiad y mae anfoneb yn dod i law awdurdod contractio.
+(4) At ddibenion paragraff (2), gwneir taliad—
+(a)
+pan fydd yn dod i law’r cyflenwr, neu
+(b)
+os oes unrhyw oedi cyn i’r taliad ddod i law nad yw’r awdurdod contractio yn gyfrifol amdano, pan fyddai wedi dod i law heb yr oedi hwnnw.
+(5) Ym mharagraff (3) mae’r cyfeiriad at anfoneb sy’n dod i law awdurdod contractio yn gyfeiriad at yr anfoneb yn cael ei danfon i gyfeiriad, neu drwy system anfonebu electronig, sydd wedi ei bennu neu ei phennu yn y contract at y diben.
+(6) Nid oes dim yn y rheoliad hwn yn atal awdurdod contractio rhag cyhoeddi gwybodaeth berthnasol arall yn yr hysbysiad.
+(7) Yn y rheoliad hwn, mae i “cyfnod adrodd” a “hysbysiad cydymffurfedd taliadau” yr ystyron ag a roddir i “reporting period” a “payments compliance notice” gan adran 69 o Ddeddf 2023.Hysbysiadau cyflawni contract ac eithrio mewn perthynas â therfynu’n llawn
+40.—(1) Mae’r rheoliad hwn yn gwneud darpariaeth ynghylch gwybodaeth sydd wedi ei chyhoeddi o dan y naill neu’r llall o’r darpariaethau canlynol—
+(a)
+adran 71(2)(b) o Ddeddf 2023 (asesu perfformiad yn erbyn dangosyddion perfformiad allweddol);
+(b)
+adran 71(5) o’r Ddeddf honno (torri contract cyhoeddus neu fethu â chyflawni).
+(2) Rhaid cyhoeddi’r wybodaeth ar ffurf hysbysiad o’r enw “Hysbysiad Cyflawni Contract”.
+(3) Pan fo’r wybodaeth yn cael ei chyhoeddi o dan adran 71(2)(b) o Ddeddf 2023, rhaid i’r hysbysiad gynnwys yr wybodaeth a nodir ym mharagraff (4).
+(4) Yr wybodaeth yw—
+(a)
+gwybodaeth yr awdurdod contractio,
+(b)
+enw’r caffaeliad,
+(c)
+y cod adnabod unigryw ar gyfer—
+(i)
+y caffaeliad, a
+(ii)
+y contract cyhoeddus,
+(d)
+y dangosyddion perfformiad allweddol sydd wedi eu gosod yn unol ag adran 52(1) o Ddeddf 2023,
+(e)
+datganiad bod yr hysbysiad yn cael ei ddefnyddio i nodi asesiad yr awdurdod contractio o berfformiad yn erbyn y dangosyddion perfformiad allweddol,
+(f)
+ar gyfer pob cyflenwr y mae ei berfformiad wedi ei asesu yn erbyn y dangosyddion perfformiad allweddol—
+(i)
+enw’r cyflenwr,
+(ii)
+cyfeiriad post cyswllt a chyfeiriad e-bost y cyflenwr, a
+(iii)
+y cod adnabod unigryw ar gyfer y cyflenwr,
+(g)
+asesiad yr awdurdod contractio o berfformiad yn erbyn y dangosyddion yn unol â’r sgoriau a nodir ym mharagraff (5), ac
+(h)
+y cyfnod amser y mae asesiad yr awdurdod contractio yn gymwys iddo.
+(5) Mae’r sgoriau fel a ganlyn—
+Sgôr Disgrifiad
+Da Mae’r perfformiad yn bodloni neu’n rhagori ar y dangosyddion perfformiad allweddol
+Nesáu at y targed Mae’r perfformiad yn nesáu at fodloni’r dangosyddion perfformiad allweddol
+Angen gwella Mae’r perfformiad islaw’r dangosyddion perfformiad allweddol
+Annigonol Mae’r perfformiad yn sylweddol islaw’r dangosyddion perfformiad allweddol
+Arall Ni ellir disgrifio’r perfformiad fel un sy’n dda, yn nesáu at y targed, angen ei wella, nac yn annigonol
+(6) Pan fo’r wybodaeth yn cael ei chyhoeddi o dan adran 71(5) o Ddeddf 2023, rhaid i’r hysbysiad gynnwys yr wybodaeth a nodir ym mharagraff (7).
+(7) Yr wybodaeth yw—
+(a)
+gwybodaeth yr awdurdod contractio,
+(b)
+enw’r caffaeliad,
+(c)
+y cod adnabod unigryw ar gyfer—
+(i)
+y caffaeliad, a
+(ii)
+y contract cyhoeddus,
+(d)
+ar gyfer pob cyflenwr sydd wedi cyflawni’r torri neu’r methiant i gyflawni a nodir yn yr hysbysiad—
+(i)
+enw’r cyflenwr,
+(ii)
+cyfeiriad post cyswllt a chyfeiriad e-bost y cyflenwr, a
+(iii)
+y cod adnabod unigryw ar gyfer y cyflenwr,
+(e)
+yr wybodaeth y cyfeirir ati—
+(i)
+yn adran 71(5)(a) o Ddeddf 2023 (bod adran 71(5) o’r Ddeddf honno yn gymwys), a
+(ii)
+yn adran 71(5)(b) o Ddeddf 2023 (yr amgylchiadau sy’n arwain at gymhwyso adran 71(5) o’r Ddeddf honno),
+(f)
+datganiad bod yr wybodaeth yn cael ei chyhoeddi oherwydd—
+(i)
+bod y cyflenwr wedi torri’r contract cyhoeddus a bod y torri wedi arwain at un o’r digwyddiadau y cyfeirir atynt yn adran 71(3)(b), neu
+(ii)
+nad yw’r cyflenwr yn cyflawni contract cyhoeddus er boddhad yr awdurdod contractio,
+(g)
+pan fo’r cyflenwr wedi torri’r contract cyhoeddus, pa un neu ragor o’r canlynol a ddigwyddodd o ganlyniad i’r torri—
+(i)
+terfynu’r contract cyhoeddus yn rhannol;
+(ii)
+dyfarndalu iawndal;
+(iii)
+dod i gytundeb setlo rhwng y cyflenwr a’r awdurdod contractio,
+(h)
+pan fo’r cyflenwr wedi torri’r contract cyhoeddus, dyddiad—
+(i)
+unrhyw derfyniad rhannol o’r contract cyhoeddus,
+(ii)
+unrhyw ddyfarndaliad iawndal, neu
+(iii)
+unrhyw setliad,
+(i)
+pan na fo’r cyflenwr yn cyflawni’r contract cyhoeddus er boddhad yr awdurdod contractio, y dyddiad yr ystyriodd yr awdurdod contractio fod y cyflenwr wedi methu â gwella ei berfformiad yn unol ag adran 71(4)(c),
+(j)
+esboniad ynghylch natur y rhwymedigaeth gontractiol sydd wedi ei thorri neu nad yw’n cael ei chyflawni er boddhad yr awdurdod contractio,
+(k)
+esboniad ynghylch natur y torri neu’r methiant i gyflawni, gan gynnwys—
+(i)
+esboniad ynghylch effaith neu ganlyniadau’r torri neu’r methiant i gyflawni,
+(ii)
+am ba hyd y mae’r toriad neu’r methiant i gyflawni wedi digwydd ac a yw’n parhau,
+(iii)
+esboniad ynghylch unrhyw gamau a gymerwyd gan y cyflenwr i liniaru effaith neu ganlyniadau’r toriad neu’r methiant i gyflawni,
+(iv)
+unrhyw gamau y mae’r awdurdod contractio wedi eu cymryd i hysbysu’r cyflenwr am y torri neu’r methiant i gyflawni a’i annog i wella’r sefyllfa, gan gynnwys—
+(aa)
+unrhyw hysbysiadau rhybuddio a roddwyd o dan y contract cyhoeddus, neu
+(bb)
+unrhyw gyfle i wella perfformiad, a
+(v)
+pa gamau, os o gwbl, a gymerwyd gan y cyflenwr i wella’r sefyllfa a pham nad oedd y rhain yn ddigon,
+(l)
+pan fo’r toriad wedi arwain at derfynu’r contract cyhoeddus yn rhannol, disgrifiad o ba ran o’r contract sydd wedi ei therfynu’n rhannol, neu i ba raddau y mae’r contract wedi ei derfynu’n rhannol, ac
+(m)
+pan fo iawndal wedi ei ddyfarndalu neu pan fo arian arall wedi ei dalu yn dilyn toriad neu fethiant i gyflawni—
+(i)
+cadarnhad mai dyna’r sefyllfa,
+(ii)
+swm yr iawndal neu arian arall,
+(iii)
+y sail y cafodd unrhyw iawndal ei ddyfarndalu neu y cafodd unrhyw arian arall ei dalu arni, er enghraifft—
+(aa)
+yn achos iawndal, yn unol â’r contract cyhoeddus,
+(bb)
+yn achos iawndal, yn unol â phenderfyniad llys neu dribiwnlys, neu
+(cc)
+yn achos arian arall, yn unol â setliad wedi ei negodi, a
+(iv)
+pan fo cofnod wedi ei wneud o benderfyniad llys neu dribiwnlys ynghylch ei ganfyddiad bod toriad wedi digwydd—
+(aa)
+dolen i’r dudalen we lle y gellir cyrchu’r penderfyniad, neu
+(bb)
+copi o’r penderfyniad.
+(8) Nid oes dim yn y rheoliad hwn yn atal awdurdod contractio rhag cyhoeddi gwybodaeth arall sy’n ymwneud â’r un caffaeliad yn yr hysbysiad.
+(9) Nid yw’r rheoliad hwn yn gymwys i wybodaeth y mae’n ofynnol ei chyhoeddi yn unol ag adran 71(5) o Ddeddf 2023 pan fo toriad wedi arwain at derfynu contract cyhoeddus yn llawn (gweler yn hytrach reoliad 42).Hysbysiadau newid contract
+41.—(1) Mae’r rheoliad hwn yn nodi gwybodaeth arall y mae rhaid ei chynnwys mewn hysbysiad newid contract a gyhoeddir o dan adran 75(1) neu (5) o Ddeddf 2023.
+(2) Yr wybodaeth yw—
+(a)
+gwybodaeth yr awdurdod contractio,
+(b)
+enw’r caffaeliad,
+(c)
+y cod adnabod unigryw ar gyfer y caffaeliad,
+(d)
+y cod adnabod unigryw ar gyfer y contract,
+(e)
+ar gyfer pob cyflenwr sy’n barti i’r contract cyhoeddus neu’r contract trosadwy—
+(i)
+enw’r cyflenwr,
+(ii)
+cyfeiriad post cyswllt a chyfeiriad e-bost y cyflenwr, a
+(iii)
+y cod adnabod unigryw ar gyfer y cyflenwr,
+(f)
+a oes gan yr awdurdod contractio ganiatâd i wneud yr addasiad i’r contract cyhoeddus neu’r contract trosadwy oherwydd bod yr addasiad, yn rhinwedd adran 74(1)(a) o Ddeddf 2023, yn addasiad a ddisgrifir—
+(i)
+ym mharagraffau 2 a 3 o Atodlen 8 i’r Ddeddf honno (sefyllfa frys a gwarchod bywyd, etc.),
+(ii)
+ym mharagraff 4 o Atodlen 8 i’r Ddeddf honno (amgylchiadau nad ydynt yn rhagweladwy),
+(iii)
+ym mharagraffau 5 i 7 o Atodlen 8 i’r Ddeddf honno (gwireddiad risg hysbys),
+(iv)
+ym mharagraff 8 o Atodlen 8 i’r Ddeddf honno (nwyddau, gwasanaethau neu weithiau ychwanegol), neu
+(v)
+ym mharagraff 9 o Atodlen 8 i’r Ddeddf honno (trosglwyddo ar adeg ailstrwythuro corfforaethol),
+(pan fo’r addasiad wedi ei ganiatáu o dan un o’r darpariaethau hynny),
+(g)
+esboniad ynghylch pam y mae’r addasiad yn dod o fewn un o’r mathau o addasiadau a grybwyllir yn is-baragraff (f),
+(h)
+manylion ynghylch unrhyw newid o ganlyniad i’r addasiad—
+(i)
+i werth amcangyfrifedig y contract cyhoeddus neu’r contract trosadwy yn union cyn yr addasiad, neu
+(ii)
+i gyfnod y contract cyhoeddus neu’r contract trosadwy,
+(i)
+pan fo’r addasiad yn addasiad a ddisgrifir ym mharagraff 9 o Atodlen 8 i’r Ddeddf honno (trosglwyddo ar adeg ailstrwythuro corfforaethol)—
+(i)
+ar gyfer pob cyflenwr newydd sy’n barti i’r contract cyhoeddus neu’r contract trosadwy—
+(aa)
+enw’r cyflenwr,
+(bb)
+cyfeiriad post cyswllt a chyfeiriad e-bost y cyflenwr, ac
+(cc)
+y cod adnabod unigryw ar gyfer y cyflenwr, a
+(ii)
+ar gyfer pob cyflenwr na fydd yn barti i’r contract cyhoeddus neu’r contract trosadwy mwyach, yr un wybodaeth â’r wybodaeth y cyfeirir ati ym mharagraff (i)(aa) i (cc),
+(j)
+amcangyfrif o’r dyddiad—
+(i)
+pan fydd y contract cyhoeddus neu’r contract trosadwy yn cael ei addasu, a
+(ii)
+pan fydd yr addasiad yn cael effaith, a
+(k)
+a yw cyfnod segur gwirfoddol yn gymwys yn unol ag adran 76(1) o Ddeddf 2023 ac, os felly, hyd y cyfnod hwnnw.
+(3) Ar gyfer darpariaeth sy’n ei gwneud yn ofynnol i awdurdodau contractio gyhoeddi contractau fel y’u haddasir neu gyhoeddi addasiadau mewn achosion penodol, gweler adran 77 o Ddeddf 2023.
+(4) Nid oes dim yn y rheoliad hwn yn atal awdurdod contractio rhag cyhoeddi gwybodaeth arall sy’n ymwneud â’r un caffaeliad yn yr hysbysiad.
+(5) Yn y rheoliad hwn, mae i “hysbysiad newid contract” yr ystyr a roddir i “contract change notice” gan adran 75(3) o Ddeddf 2023.Hysbysiadau terfynu contract
+42.—(1) Mae’r rheoliad hwn yn nodi gwybodaeth arall y mae rhaid ei chynnwys mewn hysbysiad terfynu contract a gyhoeddir o dan adran 80(1) o Ddeddf 2023.
+(2) Yr wybodaeth yw—
+(a)
+gwybodaeth yr awdurdod contractio,
+(b)
+enw’r caffaeliad,
+(c)
+y cod adnabod unigryw ar gyfer—
+(i)
+y caffaeliad, a
+(ii)
+y contract cyhoeddus,
+(d)
+ar gyfer pob cyflenwr sy’n barti i’r contract cyhoeddus—
+(i)
+enw’r cyflenwr,
+(ii)
+cyfeiriad post cyswllt a chyfeiriad e-bost y cyflenwr, a
+(iii)
+y cod adnabod unigryw ar gyfer y cyflenwr,
+(e)
+y rhesymau dros derfynu’r contract cyhoeddus (gan gynnwys unrhyw reswm a grybwyllir yn adran 80(3) o Ddeddf 2023),
+(f)
+y dyddiad y cafodd y contract cyhoeddus ei derfynu,
+(g)
+amcangyfrif o werth y contract cyhoeddus,
+(h)
+pan fo’r contract cyhoeddus wedi ei derfynu o ganlyniad i dorri’r contract gan y cyflenwr—
+(i)
+datganiad bod adran 71(5) o Ddeddf 2023 yn gymwys oherwydd bod y cyflenwr wedi torri’r contract,
+(ii)
+a arweiniodd y torri at—
+(aa)
+dyfarndalu iawndal, neu
+(bb)
+dod i gytundeb setlo rhwng y cyflenwr a’r awdurdod contractio,
+(iii)
+dyddiad—
+(aa)
+unrhyw ddyfarndaliad o unrhyw iawndal, neu
+(bb)
+unrhyw setliad,
+(iv)
+pan na chyflawnodd y cyflenwr y contract cyhoeddus er boddhad yr awdurdod contractio, y dyddiad yr ystyriodd yr awdurdod contractio fod y cyflenwr wedi methu â gwella ei berfformiad yn unol ag adran 71(4)(c),
+(v)
+esboniad ynghylch natur y rhwymedigaeth gontractiol a gafodd ei thorri neu nad oedd yn cael ei chyflawni er boddhad yr awdurdod contractio,
+(vi)
+esboniad ynghylch natur y torri neu’r methiant i gyflawni, gan gynnwys—
+(aa)
+esboniad ynghylch effaith neu ganlyniadau’r toriad neu’r methiant i gyflawni,
+(bb)
+am ba hyd yr oedd y toriad neu’r methiant i gyflawni wedi digwydd,
+(cc)
+esboniad ynghylch unrhyw gamau a gymerwyd gan y cyflenwr i liniaru effaith neu ganlyniadau’r toriad neu’r methiant i gyflawni,
+(dd)
+unrhyw gamau a gymerwyd gan yr awdurdod contractio i hysbysu’r cyflenwr am y toriad neu’r methiant i gyflawni a’i annog i wella’r sefyllfa, gan gynnwys unrhyw hysbysiadau rhybuddio a roddwyd o dan y contract cyhoeddus neu unrhyw gyfle priodol arall i wella perfformiad yn unol ag adran 71(4)(b) o Ddeddf 2023,
+(ee)
+pa gamau, os o gwbl, a gymerwyd gan y cyflenwr i wella’r sefyllfa a pham nad oedd y rhain yn ddigon, a
+(vii)
+pan fo iawndal wedi ei ddyfarndalu neu pan fo arian arall wedi ei dalu yn dilyn y toriad neu’r methiant i gyflawni—
+(aa)
+cadarnhad bod hyn wedi digwydd,
+(bb)
+swm yr iawndal neu’r arian arall a dalwyd,
+(cc)
+y sail y dyfarndalwyd yr iawndal neu y talwyd yr arian arall arni, er enghraifft yn unol â’r contract cyhoeddus, penderfyniad llys neu dribiwnlys neu setliad wedi ei negodi, a
+(dd)
+pan fo cofnod wedi ei wneud o benderfyniad llys neu dribiwnlys ynghylch ei ganfyddiad bod toriad wedi digwydd, dolen i’r dudalen we lle gellir cyrchu’r penderfyniad neu gopi o’r penderfyniad.
+(3) Nid oes dim yn y rheoliad hwn yn atal awdurdod contractio rhag cyhoeddi gwybodaeth arall sy’n ymwneud â’r un caffaeliad yn yr hysbysiad.
+(4) Yn y rheoliad hwn, mae i “hysbysiad terfynu contract” yr ystyr a roddir i “contract termination notice” gan adran 80(2) o Ddeddf 2023.Pennu gwasanaethau cyffyrddiad ysgafn a gwasanaethau cyffyrddiad ysgafn neilltuadwy
+43.—(1) At ddibenion adran 9(1) o Ddeddf 2023 (contractau cyffyrddiad ysgafn) mae’r gwasanaethau a gwmpesir gan y codau GGG a nodir yng ngholofn (1) o’r Tabl yn Atodlen 1 i’r Rheoliadau hyn ac a ddisgrifir yng ngholofn (2) o’r Tabl hwnnw wedi eu pennu yn wasanaethau cyffyrddiad ysgafn.
+(2) At ddibenion adran 33(7) o Ddeddf 2023 (neilltuo contractau i gwmnïau cydfuddiannol gwasanaethau cyhoeddus), mae gwasanaeth a bennir yng ngholofnau (1) a (2) o’r Tabl yn Atodlen 1 i’r Rheoliadau hyn wedi ei bennu yn wasanaeth cyffyrddiad ysgafn neilltuadwy pan fo’r llythyren “N” yn ymddangos yn y cofnod sy’n cyfateb i’r gwasanaeth hwnnw yng ngholofn (3).Awdurdodau llywodraeth ganolog
+44.—(1) Mae’r holl endidau a restrir yng ngholofn (1) neu (2) o’r Tabl yn Atodlen 2 i’r Rheoliadau hyn wedi eu pennu at ddibenion y diffiniad o “central government authority” ym mharagraff 5(1) o Atodlen 1 i Ddeddf 2023.
+(2) Pan fo endid a restrir yn Atodlen 2 i’r Rheoliadau hyn yn cael ei olynu gan endid arall, sydd ei hun yn awdurdod contractio, bernir bod yr endid olynol wedi ei gynnwys yn yr Atodlen.Ystyr “works” ym mharagraff 5(1) o Atodlen 1 i Ddeddf 2023
+45.  At ddibenion y diffiniad o “works” ym mharagraff 5(1) o Atodlen 1 i Ddeddf 2023, ystyr “gweithiau” yw unrhyw un neu ragor o’r gweithgareddau sy’n dod o fewn cod GGG sydd wedi ei restru yn Atodlen 3 i’r Rheoliadau hyn.Diwygio Deddf Partneriaeth Gymdeithasol a Chaffael Cyhoeddus (Cymru) 2023
+46.—(1) Mae Deddf Partneriaeth Gymdeithasol a Chaffael Cyhoeddus (Cymru) 2023(1) wedi ei diwygio fel a ganlyn.
+(2) Yn adran 25 (dyletswydd caffael cymdeithasol gyfrifol: contractau adeiladu mawr), yn is-adran (2), yn lle’r geiriau o “sydd”, yn y lle cyntaf y mae’n digwydd, hyd at y diwedd rhodder—
+“sy’n gontract gweithiau sydd â gwerth amcangyfrifedig o £2,000,000 neu fwy.”
+(3) Yn adran 45 (dehongli Rhan 3), yn is-adran (1)—
+(a)
+hepgorer y diffiniadau o—
+(i)
+“y Rheoliadau Contractau Consesiwn”,
+(ii)
+“y Rheoliadau Contractau Cyhoeddus” ,
+(iii)
+“contract gweithiau cyhoeddus”,
+(iv)
+“y Rheoliadau Contractau Cyfleustodau”, a
+(v)
+“contract consesiwn gweithiau”;
+(b)
+yn y diffiniad o “gweithiau”, yn lle’r geiriau o “yr ystyr a roddir” hyd at y diwedd, rhodder “(“works”) yr ystyr a roddir gan reoliad 45 o Reoliadau Caffael (Cymru) 2024 ac Atodlen 3 iddynt(2)”;
+(c)
+yn y diffiniad o “contract gweithiau”, yn lle’r geiriau o “yr ystyr a roddir” hyd at y diwedd, rhodder “yr ystyr a roddir i “works contract” gan baragraff 4 o Atodlen 1 i Ddeddf Caffael 2023 (p. 54);”.
+(4) Yn adran 45 (dehongli Rhan 3), yn is-adran (2), yn lle “â rheoliad 6(1) o’r Rheoliadau Contractau Cyhoeddus” rhodder “ag adran 4 o Ddeddf Caffael 2023”.
+(1)
+2023 dsc 1.
+(2)
+O.S. 2024/782 (Cy. 121).Diwygio Deddf 2023
+47.—(1) Mae Deddf 2023 wedi ei diwygio fel a ganlyn.
+(2) Yn adran 17 (hysbysiadau ymgysylltu rhagarweiniol â’r farchnad), yn is-adran (3) hepgorer y geiriau a ganlyn “other than to a private utility which is a devolved Welsh authority that is not carrying out procurement under a reserved procurement arrangement or a transferred Northern Ireland procurement arrangement.”
+(3) Yn adran 87 (contractau rheoleiddiedig sydd o dan y trothwy: hysbysiadau), yn lle is-adran (4)(a) rhodder—
+“(a)
+in the case of a contract to be awarded by—
+(i)
+a central government authority that is not a devolved Welsh authority, not less than £12,000;
+(ii)
+a central government authority that is a devolved Welsh authority, not less than £30,000, or”.Diwygio Rheoliadau Fforymau Ysgolion (Cymru) 2003
+48.  Yn Rheoliadau Fforymau Ysgolion (Cymru) 2003(1), yn rheoliad 9(1) (ymgynghori ynghylch contractau), yn lle’r geiriau o “os” hyd at y diwedd rhodder “pan na fo gwerth amcangyfrifedig y contract arfaethedig yn llai na’r trothwy sy’n gymwys i’r awdurdod perthnasol ar gyfer y contract arfaethedig hwnnw yn unol ag adran 3 o Ddeddf Caffael 2023”.
+(1)
+O.S. 2003/2909 (Cy. 275). Diwygiwyd rheoliad 9(1) gan O.S. 2006/5, Atodlen 7(1), paragraff 4 ac O.S. 2015/102, Atodlen 6(2), paragraff 13.Diwygio Rheoliadau Taliadau Gwasanaeth (Gofynion Ymgynghori) (Cymru) 2004
+49.  Yn Rheoliadau Taliadau Gwasanaeth (Gofynion Ymgynghori) (Cymru) 2004(1), yn rheoliad 2(1) (dehongli), yn y diffiniad o “hysbysiad cyhoeddus”, yn lle “hysbysiad a gyhoeddir, yn unol â Rheoliadau Contractau Cyhoeddus 2015, ar wasanaeth e-hysbysu’r DU (fel y’i diffinnir gan y Rheoliadau hynny)” rhodder “unrhyw hysbysiad a gyhoeddir yn unol â Deddf Caffael 2023 sy’n ymwneud â chontract cyhoeddus (o fewn yr ystyr a roddir i “public contract” gan adran 3 o’r Ddeddf honno)”.
+(1)
+O.S. 2004/684 (Cy. 72). Diwygiwyd rheoliad 2(1) gan O.S. 2006/5, Atodlen 7(1), paragraff 5 ac O.S. 2019/116, rheoliad 2.Diwygio Rheoliadau Deddf Cydraddoldeb 2010 (Dyletswyddau Statudol) (Cymru) 2011
+50.—(1) Mae Rheoliadau Deddf Cydraddoldeb 2010 (Dyletswyddau Statudol) (Cymru) 2011(1) wedi eu diwygio fel a ganlyn.
+(2) Yn rheoliad 18 (caffael cyhoeddus)—
+(a)
+ym mharagraff (1), yn lle “gwneud cytundeb perthnasol ar sail y cynnig mwyaf manteisiol yn economaidd” rhodder “dyfarnu contract cyhoeddus yn dilyn gweithdrefn dendro gystadleuol”;
+(b)
+ym mharagraff (2), yn lle “cytundeb perthnasol” rhodder “contract cyhoeddus”;
+(c)
+yn lle paragraff (3) rhodder—
+“(3) Yn y rheoliad hwn, mae i “meini prawf”, “gweithdrefn dendro gystadleuol”, “awdurdod contractio” a “contract cyhoeddus” yr un ystyr ag a roddir i “award criteria”, “competitive tendering procedure”, “contracting authority” a “public contract” yn y drefn honno yn Neddf Caffael 2023.”
+(1)
+O.S. 2011/1064 (Cy. 155). Diwygiwyd rheoliad 18 gan O.S. 2019/120, rheoliad 2.Diwygio Rheoliadau Deddf Casglu a Rheoli Trethi (Cymru) 2016 (Darpariaethau Canlyniadol ac Atodol) 2018
+51.  Yn Rheoliadau Deddf Casglu a Rheoli Trethi (Cymru) 2016 (Darpariaethau Canlyniadol ac Atodol) 2018(1), hepgorer rheoliad 2.
+(1)
+O.S. 2018/285 (Cy. 54).Diwygio Rheoliadau Cymorth Amaethyddol (Diwygiadau Amrywiol) (Cymru) (Ymadael â’r UE) 2021
+52.  Yn Rheoliadau Cymorth Amaethyddol (Diwygiadau Amrywiol) (Cymru) (Ymadael â’r UE) 2021(1), yn rheoliad 6, hepgorer paragraff (27)(ii).
+(1)
+O.S. 2021/400 (Cy. 129).Diwygio Rheoliadau Caffael Cyhoeddus (Cytundebau Masnach Ryngwladol) (Diwygio) (Cymru) (Rhif 2) 2023
+53.  Yn Rheoliadau Caffael Cyhoeddus (Cytundebau Masnach Ryngwladol) (Diwygio) (Cymru) (Rhif 2) 2023(1), hepgorer rheoliadau 2 i 5.
+(1)
+O.S. 2023/567 (Cy. 88).Diwygio Rheoliad (EU) Rhif 1303/2013 Senedd Ewrop a’r Cyngor dyddiedig 17 Rhagfyr 2013
+54.  Yn Rheoliad (EU) Rhif 1303/2013 Senedd Ewrop a’r Cyngor dyddiedig 17 Rhagfyr 2013(1), yn Erthygl 68a(1), yn lle “the threshold set out in regulation 5 of the Public Contracts Regulations 2015” rhodder “the relevant threshold amount set out in Schedule 1 to the Procurement Act 2023”.
+(1)
+Rheoliad (EU) Rhif 1303/2013 Senedd Ewrop a’r Cyngor dyddiedig 17 Rhagfyr 2013.Rebecca Evans
+Ysgrifennydd y Cabinet dros Gyllid, y Cyfansoddiad a Swyddfa’r Cabinet, un o Weinidogion Cymru
+3 Gorffennaf 2024Rheoliad 43
+ATODLEN 1
+Gwasanaethau cyffyrddiad ysgafn
+Cod GGG
+(1)
+Gwasanaeth
+(2)
+Neilltuadwy
+(3)
+Gwasanaethau iechyd, gwasanaethau cymdeithasol a gwasanaethau cysylltiedig
+75231200 Gwasanaethau sy’n gysylltiedig â chadw neu adsefydlu troseddwyr
+75231240 Gwasanaethau prawf
+79611000 Gwasanaethau chwilio am swydd
+79622000 Gwasanaethau cyflenwi personél cymorth domestig N
+79624000 Gwasanaethau cyflenwi personél nyrsio N
+79625000 Gwasanaethau cyflenwi personél meddygol N
+85000000 Gwasanaethau iechyd a gwaith cymdeithasol N
+85100000 Gwasanaethau iechyd N
+85110000 Gwasanaethau ysbyty a gwasanaethau cysylltiedig N
+85111000 Gwasanaethau ysbyty N
+85111100 Gwasanaethau ysbyty llawfeddygol N
+85111200 Gwasanaethau ysbyty meddygol N
+85111300 Gwasanaethau ysbyty gynaecolegol N
+85111310 Gwasanaethau ffrwythloni in vitro N
+85111320 Gwasanaethau ysbyty obstetrig N
+85111400 Gwasanaethau ysbyty adsefydlu N
+85111500 Gwasanaethau ysbyty seiciatrig N
+85111600 Gwasanaethau orthoteg N
+85111700 Gwasanaethau therapi ocsigen N
+85111800 Gwasanaethau patholeg N
+85111810 Gwasanaethau dadansoddi gwaed N
+85111820 Gwasanaethau dadansoddi bacteriolegol N
+85111900 Gwasanaethau dialysis ysbyty N
+85112000 Gwasanaethau cymorth ysbyty N
+85112100 Gwasanaethau gwelyau ysbyty N
+85112200 Gwasanaethau gofal i gleifion allanol N
+85120000 Gwasanaethau ymarfer meddygol a gwasanaethau cysylltiedig N
+85121000 Gwasanaethau ymarfer meddygol N
+85121100 Gwasanaethau ymarfer cyffredinol N
+85121200 Gwasanaethau arbenigol meddygol N
+85121210 Gwasanaethau gynaecoleg neu obstetreg N
+85121220 Gwasanaethau arbenigol arenneg neu’r system nerfol N
+85121230 Gwasanaethau cardioleg neu wasanaethau arbenigol yr ysgyfaint N
+85121231 Gwasanaethau cardioleg N
+85121232 Gwasanaethau arbenigol yr ysgyfaint N
+85121240 Gwasanaethau’r glust, y trwyn a’r gwddf neu wasanaethau awdiolegydd N
+85121250 Gwasanaethau gastroenteroleg a geriatreg N
+85121251 Gwasanaethau gastroenteroleg N
+85121252 Gwasanaethau geriatreg N
+85121270 Gwasanaethau seiciatreg neu seicoleg N
+85121271 Gwasanaethau cartref ar gyfer pobl â phroblemau seicolegol N
+85121280 Gwasanaethau offthalmoleg, dermatoleg neu orthopaedeg N
+85121281 Gwasanaethau offthalmoleg N
+85121282 Gwasanaethau dermatoleg N
+85121283 Gwasanaethau orthopaedeg N
+85121290 Gwasanaethau paediatreg neu wroleg N
+85121291 Gwasanaethau paediatreg N
+85121292 Gwasanaethau wroleg N
+85121300 Gwasanaethau arbenigol llawfeddygol N
+85130000 Gwasanaethau ymarfer deintyddol a gwasanaethau cysylltiedig N
+85131000 Gwasanaethau ymarfer deintyddol N
+85131100 Gwasanaethau orthodonteg N
+85131110 Gwasanaethau llawfeddygaeth orthodontig N
+85140000 Gwasanaethau iechyd amrywiol N
+85141000 Gwasanaethau a ddarperir gan bersonél meddygol N
+85141100 Gwasanaethau a ddarperir gan fydwragedd N
+85141200 Gwasanaethau a ddarperir gan nyrsys N
+85141210 Gwasanaethau triniaeth feddygol yn y cartref N
+85141211 Gwasanaethau triniaeth feddygol dialysis yn y cartref N
+85141220 Gwasanaethau cynghori a ddarperir gan nyrsys N
+85142000 Gwasanaethau parafeddygol N
+85142100 Gwasanaethau ffisiotherapi N
+85142200 Gwasanaethau homeopathi N
+85142300 Gwasanaethau hylendid N
+85142400 Danfon cynhyrchion anymataliaeth i’r cartref N
+85143000 Gwasanaethau ambiwlans N
+85144000 Gwasanaethau cyfleusterau iechyd preswyl N
+85144100 Gwasanaethau gofal nyrsio preswyl N
+85145000 Gwasanaethau a ddarperir gan labordai meddygol N
+85146000 Gwasanaethau a ddarperir gan fanciau gwaed N
+85146100 Gwasanaethau a ddarperir gan fanciau sberm N
+85146200 Gwasanaethau a ddarperir gan fanciau organau trawsblannu N
+85147000 Gwasanaethau iechyd cwmni N
+85148000 Gwasanaethau dadansoddi meddygol N
+85149000 Gwasanaethau fferylliaeth N
+85150000 Gwasanaethau delweddu meddygol N
+85160000 Gwasanaethau optegydd N
+85170000 Gwasanaethau aciwbigo a chiropracteg N
+85171000 Gwasanaethau aciwbigo N
+85172000 Gwasanaethau ciropracteg N
+85200000 Gwasanaethau milfeddygaeth N
+85210000 Meithrinfeydd anifeiliaid domestig N
+85300000 Gwasanaethau gwaith cymdeithasol a gwasanaethau cysylltiedig N
+85310000 Gwasanaethau gwaith cymdeithasol N
+85311000 Gwasanaethau gwaith cymdeithasol gyda llety N
+85311100 Gwasanaethau lles ar gyfer yr henoed N
+85311200 Gwasanaethau lles ar gyfer pobl anabl N
+85311300 Gwasanaethau lles ar gyfer plant a phobl ifanc N
+85312000 Gwasanaethau gwaith cymdeithasol heb lety N
+85312100 Gwasanaethau gofal dydd N
+85312110 Gwasanaethau gofal dydd i blant N
+85312120 Gwasanaethau gofal dydd ar gyfer plant a phobl ifanc anabl N
+85312200 Danfon cyflenwadau i’r cartref N
+85312300 Gwasanaethau arweiniad a chwnsela N
+85312310 Gwasanaethau arweiniad N
+85312320 Gwasanaethau cwnsela N
+85312330 Gwasanaethau cynllunio teulu N
+85312400 Gwasanaethau lles na chânt eu darparu drwy sefydliadau preswyl N
+85312500 Gwasanaethau adsefydlu N
+85312510 Gwasanaethau adsefydlu galwedigaethol N
+85320000 Gwasanaethau cymdeithasol N
+85321000 Gwasanaethau cymdeithasol gweinyddol N
+85322000 Rhaglen gweithredu cymunedol N
+85323000 Gwasanaethau iechyd cymunedol N
+98133000 Gwasanaethau a ddarperir gan sefydliadau aelodaeth gymdeithasol N
+98133100 Gwasanaethau cymorth cyfleusterau cymunedol a gwelliant dinesig N
+98200000 Gwasanaethau ymgynghori ar gyfleoedd cyfartal
+98500000 Aelwydydd preifat â phersonau cyflogedig
+98513000 Gwasanaethau llafurlu ar gyfer aelwydydd
+98513100 Gwasanaethau staff asiantaeth ar gyfer aelwydydd
+98513200 Gwasanaethau staff clercol ar gyfer aelwydydd
+98513300 Staff dros dro ar gyfer aelwydydd
+98513310 Gwasanaethau cymorth cartref
+98514000 Gwasanaethau domestig
+Gwasanaethau cymdeithasol, addysgol, gofal iechyd a diwylliannol gweinyddol
+75000000 Gwasanaethau gweinyddu, amddiffyn a nawdd cymdeithasol
+75121000 Gwasanaethau addysgol gweinyddol N
+75122000 Gwasanaethau gofal iechyd gweinyddol N
+75124000 Gwasanaethau hamdden, diwylliant a chrefydd gweinyddol
+79950000 Gwasanaethau trefnu arddangosfeydd, ffeiriau a chynadleddau
+79951000 Gwasanaethau trefnu seminarau
+79952000 Gwasanaethau digwyddiadau
+79952100 Gwasanaethau trefnu digwyddiadau diwylliannol
+79953000 Gwasanaethau trefnu gwyliau
+79954000 Gwasanaethau trefnu partïon
+79955000 Gwasanaethau trefnu sioeau ffasiwn
+79956000 Gwasanaethau trefnu ffeiriau ac arddangosfeydd
+79995000 Gwasanaethau rheoli llyfrgelloedd
+79995100 Gwasanaethau archifo
+79995200 Gwasanaethau catalogio
+80000000 Gwasanaethau addysg a hyfforddiant
+80100000 Gwasanaethau addysg gynradd
+80110000 Gwasanaethau addysg gyn ysgol N
+80200000 Gwasanaethau addysg uwchradd
+80210000 Gwasanaethau addysg uwchradd dechnegol a galwedigaethol
+80211000 Gwasanaethau addysg uwchradd dechnegol
+80212000 Gwasanaethau addysg uwchradd alwedigaethol
+80300000 Gwasanaethau addysg uwch N
+80310000 Gwasanaethau addysg ieuenctid N
+80320000 Gwasanaethau addysg feddygol N
+80330000 Gwasanaethau addysg diogelwch N
+80340000 Gwasanaethau addysg arbennig N
+80400000 Gwasanaethau addysg oedolion a gwasanaethau addysg eraill
+80410000 Gwasanaethau ysgol amrywiol
+80411000 Gwasanaethau ysgol yrru
+80411100 Gwasanaethau prawf gyrru
+80411200 Gwersi gyrru
+80412000 Gwasanaethau ysgol hedfan
+80413000 Gwasanaethau ysgol hwylio
+80414000 Gwasanaethau ysgol blymio
+80415000 Gwasanaethau hyfforddiant sgïo
+80420000 Gwasanaethau e-ddysgu N
+80430000 Gwasanaethau addysg oedolion ar lefel prifysgol N
+80490000 Gweithredu canolfan addysgol
+80500000 Gwasanaethau hyfforddi
+80510000 Gwasanaethau hyfforddi arbenigol
+80511000 Gwasanaethau hyfforddi staff N
+80512000 Gwasanaethau hyfforddi cŵn
+80513000 Gwasanaethau ysgol farchogaeth
+80520000 Cyfleusterau hyfforddi N
+80521000 Gwasanaethau rhaglenni hyfforddi N
+80522000 Seminarau hyfforddi N
+80530000 Gwasanaethau hyfforddiant galwedigaethol
+80531000 Gwasanaethau hyfforddiant diwydiannol a thechnegol
+80531100 Gwasanaethau hyfforddiant diwydiannol
+80531200 Gwasanaethau hyfforddiant technegol
+80532000 Gwasanaethau hyfforddiant rheoli
+80533000 Gwasanaethau ymgyfarwyddo a hyfforddi defnyddwyr cyfrifiaduron
+80533100 Gwasanaethau hyfforddiant cyfrifiadurol
+80533200 Cyrsiau cyfrifiadur
+80540000 Gwasanaethau hyfforddiant amgylcheddol
+80550000 Gwasanaethau hyfforddiant diogelwch
+80560000 Gwasanaethau hyfforddiant iechyd a chymorth cyntaf
+80561000 Gwasanaethau hyfforddiant iechyd
+80562000 Gwasanaethau hyfforddiant cymorth cyntaf
+80570000 Gwasanaethau hyfforddiant datblygiad personol
+80580000 Darparu cyrsiau iaith
+80590000 Gwasanaethau tiwtora N
+80610000 Hyfforddi ac efelychu ar gyfer cyfarpar diogelwch
+80620000 Hyfforddi ac efelychu ar gyfer arfau tanio a bwledi a chetris
+92000000 Gwasanaethau hamdden, diwylliant a chwaraeon
+92100000 Gwasanaethau ffilm a fideo
+92110000 Gwasanaethau cynhyrchu ffilmiau a thapiau fideo a gwasanaethau perthynol
+92111000 Gwasanaethau cynhyrchu ffilmiau a fideos
+92111100 Cynhyrchu ffilmiau a thapiau fideo hyfforddi
+92111200 Cynhyrchu ffilmiau a thapiau fideo hysbysebu, propaganda a gwybodaeth
+92111210 Cynhyrchu ffilmiau hysbysebu
+92111220 Cynhyrchu tapiau fideo hysbysebu
+92111230 Cynhyrchu ffilmiau propaganda
+92111240 Cynhyrchu tapiau fideo propaganda
+92111250 Cynhyrchu ffilmiau gwybodaeth
+92111260 Cynhyrchu tapiau fideo gwybodaeth
+92111300 Cynhyrchu ffilmiau a thapiau fideo adloniant
+92111310 Cynhyrchu ffilmiau adloniant
+92111320 Cynhyrchu tapiau fideo adloniant
+92112000 Gwasanaethau mewn cysylltiad â chynhyrchu ffilmiau a thapiau fideo
+92120000 Gwasanaethau dosbarthu ffilmiau neu dapiau fideo
+92121000 Gwasanaethau dosbarthu tapiau fideo
+92122000 Gwasanaethau dosbarthu ffilmiau
+92130000 Gwasanaethau taflunio ffilmiau
+92140000 Gwasanaethau taflunio tapiau fideo
+92200000 Gwasanaethau radio a theledu
+92210000 Gwasanaethau radio
+92211000 Gwasanaethau cynhyrchu radio
+92213000 Gwasanaethau systemau radio ar raddfa fach
+92214000 Gwasanaethau stiwdio neu gyfarpar radio
+92215000 Gwasanaethau Radio Symudol Cyffredinol (GMRS)
+92220000 Gwasanaethau teledu
+92221000 Gwasanaethau cynhyrchu teledu
+92222000 Gwasanaethau teledu cylch cyfyng
+92224000 Teledu digidol
+92225000 Teledu rhyngweithiol
+92225100 Teledu ffilm ar alw
+92226000 Teleraglennu
+92230000 Gwasanaethau cebl radio a theledu
+92231000 Gwasanaethau dwyochrog rhyngwladol a llinellau ar log preifat rhyngwladol
+92232000 Teledu cebl
+92300000 Gwasanaethau adloniant
+92310000 Gwasanaethau creu a dehongli artistig a llenyddol
+92311000 Gweithiau celfyddyd
+92312000 Gwasanaethau artistig
+92312100 Gwasanaethau adloniant cynhyrchwyr theatr, grwpiau cantorion, bandiau a cherddorfeydd
+92312110 Gwasanaethau adloniant cynhyrchwyr theatr
+92312120 Gwasanaethau adloniant grwpiau cantorion
+92312130 Gwasanaethau adloniant bandiau
+92312140 Gwasanaethau adloniant cerddorfeydd
+92312200 Gwasanaethau a ddarperir gan awduron, cyfansoddwyr, cerflunwyr, diddanwyr ac artistiaid unigol eraill
+92312210 Gwasanaethau a ddarperir gan awduron
+92312211 Gwasanaethau asiantaeth ysgrifennu
+92312212 Gwasanaethau sy’n gysylltiedig â pharatoi llawlyfrau hyfforddi
+92312213 Gwasanaethau awduron technegol
+92312220 Gwasanaethau a ddarperir gan gyfansoddwyr
+92312230 Gwasanaethau a ddarperir gan gerflunwyr
+92312240 Gwasanaethau a ddarperir gan ddiddanwyr
+92312250 Gwasanaethau a ddarperir gan artistiaid unigol
+92312251 Gwasanaethau troellwyr disgiau
+92320000 Gwasanaethau gweithredu cyfleusterau celf
+92330000 Gwasanaethau ardaloedd hamdden
+92331000 Gwasanaethau ffeiriau a pharciau diddanu
+92331100 Gwasanaethau ffeiriau
+92331200 Gwasanaethau parciau diddanu
+92331210 Gwasanaethau animeiddio i blant
+92332000 Gwasanaethau glan môr
+92340000 Gwasanaethau dawnsio ac adloniant perfformio
+92341000 Gwasanaethau syrcas
+92342000 Gwasanaethau gwersi dawnsio
+92342100 Gwasanaethau gwersi dawnsio neuadd
+92342200 Gwasanaethau gwersi dawnsio disgo
+92350000 Gwasanaethau gamblo a betio
+92351000 Gwasanaethau gamblo
+92351100 Gwasanaethau gweithredu loteri
+92351200 Gwasanaethau gweithredu casinos
+92352000 Gwasanaethau betio
+92352100 Gwasanaethau gweithredu cyfansymwyr
+92352200 Gwasanaethau bwci
+92360000 Gwasanaethau tân gwyllt
+92370000 Technegydd sain
+92400000 Gwasanaethau asiantaeth newyddion
+92500000 Gwasanaethau llyfrgelloedd, archifau ac amgueddfeydd a gwasanaethau diwylliannol eraill N
+92510000 Gwasanaethau llyfrgelloedd ac archifau N
+92511000 Gwasanaethau llyfrgelloedd N
+92512000 Gwasanaethau archifau N
+92512100 Gwasanaethau dinistrio archifau N
+92520000 Gwasanaethau amgueddfeydd a gwasanaethau diogelu safleoedd ac adeiladau hanesyddol N
+92521000 Gwasanaethau amgueddfeydd N
+92521100 Gwasanaethau arddangosfeydd amgueddfa N
+92521200 Gwasanaethau diogelu arddangosion a sbesimenau N
+92521210 Gwasanaethau diogelu arddangosion N
+92521220 Gwasanaethau diogelu sbesimenau N
+92522000 Gwasanaethau diogelu safleoedd ac adeiladau hanesyddol N
+92522100 Gwasanaethau diogelu safleoedd hanesyddol N
+92522200 Gwasanaethau diogelu adeiladau hanesyddol N
+92530000 Gwasanaethau gerddi botaneg a swoleg a gwasanaethau gwarchodfeydd natur N
+92531000 Gwasanaethau gerddi botaneg N
+92532000 Gwasanaethau gerddi swoleg N
+92533000 Gwasanaethau gwarchodfeydd natur N
+92534000 Gwasanaethau gwarchod bywyd gwyllt N
+92600000 Gwasanaethau chwaraeon N
+92610000 Gwasanaethau gweithredu cyfleusterau chwaraeon N
+92620000 Gwasanaethau sy’n gysylltiedig â chwaraeon N
+92621000 Gwasanaethau hyrwyddo digwyddiadau chwaraeon N
+92622000 Gwasanaethau trefnu digwyddiadau chwaraeon N
+92700000 Gwasanaethau gwe gaffis
+Gwasanaethau nawdd cymdeithasol gorfodol
+75300000 Gwasanaethau nawdd cymdeithasol gorfodol
+Gwasanaethau budd-daliadau
+75310000 Gwasanaethau budd-daliadau
+75311000 Budd-daliadau salwch
+75312000 Budd-daliadau mamolaeth
+75313000 Budd-daliadau anabledd
+75313100 Budd-daliadau anabledd dros dro
+75314000 Budd-daliadau iawndal diweithdra
+75320000 Cynlluniau pensiwn cyflogeion y Llywodraeth
+75330000 Lwfansau teulu
+75340000 Lwfansau plant
+Gwasanaethau cymunedol, cymdeithasol a phersonol eraill gan gynnwys gwasanaethau a ddarperir gan undebau llafur, sefydliadau gwleidyddol, cymdeithasau ieuenctid a gwasanaethau sefydliadau aelodaeth eraill
+98000000 Gwasanaethau cymunedol, cymdeithasol a phersonol eraill
+98120000 Gwasanaethau a ddarperir gan undebau llafur
+98130000 Gwasanaethau sefydliadau aelodaeth amrywiol
+98132000 Gwasanaethau a ddarperir gan sefydliadau gwleidyddol
+98133110 Gwasanaethau a ddarperir gan gymdeithasau ieuenctid N
+Gwasanaethau crefyddol
+98131000 Gwasanaethau crefyddol
+Gwasanaethau gwesty a bwyty
+55100000 Gwasanaethau gwesty
+55110000 Gwasanaethau llety gwesty
+55120000 Gwasanaethau cyfarfodydd a chynadleddau gwesty
+55130000 Mathau eraill o wasanaethau gwesty
+55200000 Meysydd gwersylla a llety arall nad yw’n westy
+55210000 Gwasanaethau hostel ieuenctid
+55220000 Gwasanaethau maes gwersylla
+55221000 Gwasanaethau safle carafannau
+55240000 Gwasanaethau canolfan wyliau a chartref gwyliau
+55241000 Gwasanaethau canolfan wyliau
+55242000 Gwasanaethau cartref gwyliau
+55243000 Gwasanaethau gwersyll gwyliau i blant
+55250000 Gwasanaethau gosod llety wedi’i ddodrefnu am gyfnod byr
+55260000 Gwasanaethau cerbydau cysgu
+55270000 Gwasanaethau a ddarperir gan sefydliadau gwely a brecwast
+55300000 Gwasanaethau bwyty a gweini bwyd
+55310000 Gwasanaethau gweinydd bwyty
+55311000 Gwasanaethau gweinydd bwyty i gwsmeriaid cyfyngedig
+55312000 Gwasanaethau gweinydd bwyty i gwsmeriaid anghyfyngedig
+55320000 Gwasanaethau gweini prydau
+55321000 Gwasanaethau paratoi prydau
+55322000 Gwasanaethau coginio prydau
+55330000 Gwasanaethau caffeteria
+55400000 Gwasanaethau gweini diodydd
+55410000 Gwasanaethau rheoli bar
+55510000 Gwasanaethau ffreutur
+55511000 Gwasanaethau ffreutur a gwasanaethau caffeteria eraill i gwsmeriaid cyfyngedig
+55512000 Gwasanaethau rheoli ffreutur
+55520000 Gwasanaethau arlwyo
+55521000 Gwasanaethau arlwyo ar gyfer aelwydydd preifat
+55521100 Gwasanaethau pryd ar glud
+55521200 Gwasanaethau danfon prydau
+55522000 Gwasanaethau arlwyo ar gyfer mentrau trafnidiaeth
+55523000 Gwasanaethau arlwyo ar gyfer mentrau neu sefydliadau eraill
+55523100 Gwasanaethau prydau ysgol
+55524000 Gwasanaethau arlwyo ysgolion
+Gwasanaethau cyfreithiol, i’r graddau nad ydynt wedi eu cynnwys gan baragraff 14 o Atodlen 2 i Ddeddf 2023
+75231100 Gwasanaethau gweinyddol sy’n gysylltiedig â llysoedd barn
+79100000 Gwasanaethau cyfreithiol
+79110000 Gwasanaethau cyngor cyfreithiol a chynrychiolaeth gyfreithiol
+79111000 Gwasanaethau cyngor cyfreithiol
+79112000 Gwasanaethau cynrychiolaeth gyfreithiol
+79112100 Gwasanaethau cynrychioli rhanddeiliaid
+79120000 Gwasanaethau ymgynghori ar batentau a hawlfraint
+79121000 Gwasanaethau ymgynghori ar hawlfraint
+79121100 Gwasanaethau ymgynghori ar hawlfraint meddalwedd
+79130000 Gwasanaethau dogfennu ac ardystio cyfreithiol
+79131000 Gwasanaethau dogfennu
+79132000 Gwasanaethau ardystio
+79132100 Gwasanaethau ardystio llofnodion electronig
+79140000 Gwasanaethau cyngor cyfreithiol a gwybodaeth gyfreithiol
+Gwasanaethau gweinyddu eraill a gwasanaethau’r llywodraeth
+75100000 Gwasanaethau gweinyddu
+75110000 Gwasanaethau cyhoeddus cyffredinol
+75111000 Gwasanaethau gweithredol a deddfwriaethol
+75111100 Gwasanaethau gweithredol
+75111200 Gwasanaethau deddfwriaethol
+75112000 Gwasanaethau gweinyddol ar gyfer gweithrediadau busnes
+75112100 Gwasanaethau prosiectau datblygu gweinyddol
+75120000 Gwasanaethau gweinyddol asiantaethau
+75123000 Gwasanaethau tai gweinyddol N
+75125000 Gwasanaethau gweinyddol sy’n gysylltiedig â materion twristiaeth
+75130000 Gwasanaethau ategol ar gyfer y llywodraeth
+75131000 Gwasanaethau’r llywodraeth
+Darparu gwasanaethau i’r gymuned
+75200000 Darparu gwasanaethau i’r gymuned
+75210000 Gwasanaethau materion tramor a gwasanaethau eraill
+75211000 Gwasanaethau materion tramor
+75211100 Gwasanaethau diplomyddol
+75211110 Gwasanaethau consylaidd
+75211200 Gwasanaethau sy’n gysylltiedig â chymorth economaidd tramor
+75222000 Gwasanaethau amddiffyn sifil
+75230000 Gwasanaethau cyfiawnder
+75231000 Gwasanaethau barnwrol
+Gwasanaethau sy’n gysylltiedig â charchardai, gwasanaethau diogelwch y cyhoedd a gwasanaethau achub i’r graddau nad ydynt wedi eu gwahardd gan baragraff 20 o Atodlen 2 i Ddeddf 2023
+75231210 Gwasanaethau carcharu
+75231220 Gwasanaethau hebrwng carcharorion
+75231230 Gwasanaethau carchar
+75240000 Gwasanaethau diogelwch y cyhoedd, cyfraith a threfn
+75241000 Gwasanaethau diogelwch y cyhoedd
+75241100 Gwasanaethau’r heddlu
+75242000 Gwasanaethau cyfraith a threfn gyhoeddus
+75242100 Gwasanaethau trefn gyhoeddus
+75242110 Gwasanaethau beili
+75250000 Gwasanaethau’r frigâd dân a gwasanaethau achub
+75251000 Gwasanaethau’r frigâd dân
+75251100 Gwasanaethau diffodd tân
+75251110 Gwasanaethau atal tân
+75251120 Gwasanaethau diffodd tanau coedwig
+75252000 Gwasanaethau achub
+79430000 Gwasanaethau rheoli argyfwng
+98113100 Gwasanaethau diogelwch niwclear
+Gwasanaethau ymchwilio a diogelwch
+79700000 Gwasanaethau ymchwilio a diogelwch
+79710000 Gwasanaethau diogelwch
+79711000 Gwasanaethau monitro larwm
+79713000 Gwasanaethau giard
+79714000 Gwasanaethau gwyliadwriaeth
+79714100 Gwasanaethau systemau olrhain
+79714110 Gwasanaethau olrhain dihangwyr
+79715000 Gwasanaethau patrol
+79716000 Gwasanaethau rhyddhau bathodynnau adnabod
+79720000 Gwasanaethau ymchwilio
+79721000 Gwasanaethau asiantaeth dditectif
+79722000 Gwasanaethau graffoleg
+79723000 Gwasanaethau dadansoddi gwastraff
+Gwasanaethau rhyngwladol
+98900000 Gwasanaethau a ddarperir gan sefydliadau a chyrff alldiriogaethol
+98910000 Gwasanaethau sy’n ymwneud yn benodol â sefydliadau a chyrff rhyngwladol
+Gwasanaethau post
+64000000 Gwasanaethau post a thelathrebu
+64100000 Gwasanaethau post a negesydd
+64110000 Gwasanaethau post
+64111000 Gwasanaethau post sy’n gysylltiedig â phapurau newydd a chyfnodolion
+64112000 Gwasanaethau post sy’n gysylltiedig â llythyrau
+64113000 Gwasanaethau post sy’n gysylltiedig â pharseli
+64114000 Gwasanaethau cownter swyddfa bost
+64115000 Llogi blychau post
+64116000 Gwasanaethau poste restante
+64122000 Gwasanaethau post a negesydd swyddfa mewnol
+Gwasanaethau amrywiol
+50116510 Gwasanaethau ailfowldio teiars
+71550000 Gwasanaethau gofRheoliad 44
+ATODLEN 2
+Awdurdodau llywodraeth ganolog
+Awdurdodau llywodraeth ganolog
+Awdurdod arweiniol (1) Awdurdod perthynol (2)
+Gweinidogion Cymru Pwyllgorau Cynghori Tai Annedd Amaethyddol (Cymru)
+Tribiwnlys Tir Amaethyddol Cymru
+Cyngor Cyllido Addysg Uwch Cymru
+Comisiwn Ffiniau a Democratiaeth Leol Cymru
+Y Pwyllgor Asesu Rhenti (Cymru)
+Comisiwn Brenhinol Henebion Cymru.
+Tribiwnlys Prisio Cymru
+Ymddiriedolaethau Gwasanaeth Iechyd Gwladol Cymru a Byrddau Iechyd Lleol Cymru
+Cyrff GIG Cymru
+Cyngor Celfyddydau Cymru
+Cyngor Gofal Cymru
+Llyfrgell Genedlaethol Cymru
+Amgueddfa Cymru
+Cyfoeth Naturiol Cymru
+Chwaraeon Cymru
+Comisiwn Cynulliad Cenedlaethol Cymru
+Awdurdod Cyllid Cymru
+Comisiynydd y GymraegRheoliad 45
+ATODLEN 3
+Gweithgareddau gweithiau
+Cod GGG Gweithgaredd
+45000000 Gwaith adeiladu
+45100000 Gwaith paratoi safleoedd
+45110000 Gwaith dymchwel a dinistrio adeiladau a gwaith symud pridd
+45111000 Gwaith dymchwel a gwaith paratoi a chlirio safleoedd
+45111100 Gwaith dymchwel
+45111200 Gwaith paratoi a chlirio safleoedd
+45111210 Gwaith ffrwydro a gwaith symud creigiau cysylltiedig
+45111211 Gwaith ffrwydro
+45111212 Gwaith symud creigiau
+45111213 Gwaith clirio safleoedd
+45111214 Gwaith clirio â ffrwydron
+45111220 Gwaith tynnu prysgwydd
+45111230 Gwaith sefydlogi’r tir
+45111240 Gwaith draenio’r tir
+45111250 Gwaith ymchwilio tir
+45111260 Gwaith paratoi safleoedd ar gyfer mwyngloddio
+45111290 Gwaith sylfaenol ar gyfer gwasanaethau
+45111291 Gwaith datblygu safleoedd
+45111300 Gwaith datgymalu
+45111320 Gwaith datgymalu gosodiadau diogelwch
+45112000 Gwaith cloddio a symud pridd
+45112100 Gwaith cloddio ffosydd
+45112200 Gwaith stripio pridd
+45112210 Gwaith stripio uwchbridd
+45112300 Gwaith mewnlenwi ac adfer tir
+45112310 Gwaith mewnlenwi
+45112320 Gwaith adfer tir
+45112330 Gwaith adfer safleoedd
+45112340 Gwaith dihalogi pridd
+45112350 Adfer tir gwastraff
+45112360 Gwaith adsefydlu tir
+45112400 Gwaith cloddio
+45112410 Gwaith torri beddau
+45112420 Gwaith cloddio isloriau
+45112440 Terasu llechweddau
+45112441 Gwaith terasu
+45112450 Gwaith cloddio ar safleoedd archaeolegol
+45112500 Gwaith symud pridd
+45112600 Torri a llenwi
+45112700 Gwaith tirlunio
+45112710 Gwaith tirlunio ar gyfer mannau gwyrdd
+45112711 Gwaith tirlunio ar gyfer parciau
+45112712 Gwaith tirlunio ar gyfer gerddi
+45112713 Gwaith tirlunio ar gyfer gerddi to
+45112714 Gwaith tirlunio ar gyfer mynwentydd
+45112720 Gwaith tirlunio ar gyfer meysydd chwaraeon ac ardaloedd hamdden
+45112721 Gwaith tirlunio ar gyfer cyrsiau golff
+45112722 Gwaith tirlunio ar gyfer ardaloedd marchogaeth
+45112723 Gwaith tirlunio ar gyfer meysydd chwarae
+45112730 Gwaith tirlunio ar gyfer ffyrdd a thraffyrdd
+45112740 Gwaith tirlunio ar gyfer meysydd awyr
+45113000 Gwaith safle
+45120000 Gwaith drilio a thurio ar gyfer profion
+45121000 Gwaith drilio ar gyfer profion
+45122000 Gwaith turio ar gyfer profion
+45200000 Gwaith ar gyfer gwaith adeiladu cyflawn neu rannol a gwaith peirianneg sifil
+45210000 Gwaith adeiladu adeiladau
+45211000 Gwaith adeiladu ar gyfer adeiladau amlannedd a thai unigol
+45211100 Gwaith adeiladu ar gyfer tai
+45211200 Gwaith adeiladu tai gwarchod
+45211300 Gwaith adeiladu tai
+45211310 Gwaith adeiladu ystafelloedd ymolchi
+45211320 Gwaith adeiladu portshys
+45211340 Gwaith adeiladu adeiladau aml-annedd
+45211341 Gwaith adeiladau fflatiau
+45211350 Gwaith adeiladu adeiladau amlswyddogaethol
+45211360 Gwaith adeiladu datblygu trefol
+45211370 Gwaith adeiladu ar gyfer saunas
+45212000 Gwaith adeiladu ar gyfer adeiladau sy’n gysylltiedig â hamdden, chwaraeon, diwylliant, tai llety a bwytai
+45212100 Gwaith adeiladu cyfleusterau hamdden
+45212110 Gwaith adeiladu canolfannau hamdden
+45212120 Gwaith adeiladu parciau thema
+45212130 Gwaith adeiladu parciau diddanu
+45212140 Gosodiadau hamdden
+45212150 Gwaith adeiladu sinemâu
+45212160 Gwaith adeiladu casinos
+45212170 Gwaith adeiladu adeiladau adloniant
+45212171 Gwaith adeiladu canolfannau adloniant
+45212172 Gwaith adeiladu canolfannau gweithgareddau hamdden
+45212180 Gwaith adeiladu swyddfeydd tocynnau
+45212190 Gwaith diogelu rhag yr haul
+45212200 Gwaith adeiladu ar gyfer cyfleusterau chwaraeon
+45212210 Gwaith adeiladu cyfleusterau chwaraeon un pwrpas
+45212211 Gwaith adeiladu canolfannau sglefrio
+45212212 Gwaith adeiladu ar gyfer pyllau nofio
+45212213 Gwaith gwneud marciau ar gyfer chwaraeon
+45212220 Gwaith adeiladu cyfleusterau chwaraeon amlbwrpas
+45212221 Gwaith adeiladu sy’n gysylltiedig â strwythurau ar gyfer meysydd chwaraeon
+45212222 Gwaith adeiladu campfeydd
+45212223 Gwaith adeiladu cyfleusterau chwaraeon gaeaf
+45212224 Gwaith adeiladu stadiymau
+45212225 Gwaith adeiladu neuaddau chwaraeon
+45212230 Gwaith gosod ystafelloedd newid
+45212290 Gwaith atgyweirio a chynnal a chadw mewn cysylltiad â chyfleusterau chwaraeon
+45212300 Gwaith adeiladu ar gyfer adeiladau celfyddydol a diwylliannol
+45212310 Gwaith adeiladu ar gyfer adeiladau sy’n gysylltiedig ag arddangosfeydd
+45212311 Gwaith adeiladu orielau celf
+45212312 Gwaith adeiladu canolfannau arddangos
+45212313 Gwaith adeiladu amgueddfeydd
+45212314 Gwaith adeiladu sy’n ymwneud â henebion neu gofebion
+45212320 Gwaith adeiladu ar gyfer adeiladau sy’n gysylltiedig â pherfformiadau artistig
+45212321 Gwaith adeiladu awditoria
+45212322 Gwaith adeiladu theatrau
+45212330 Gwaith adeiladu llyfrgelloedd
+45212331 Gwaith adeiladu llyfrgelloedd amlgyfrwng
+45212340 Gwaith adeiladu darlithfeydd
+45212350 Adeiladau o ddiddordeb hanesyddol neu bensaernïol arbennig
+45212351 Gwaith adeiladu sy’n ymwneud â henebion cynhanesyddol
+45212352 Gwaith adeiladu sy’n ymwneud â chofadeiliau diwydiannol
+45212353 Gwaith adeiladu sy’n ymwneud â phalasau
+45212354 Gwaith adeiladu sy’n ymwneud â chestyll
+45212360 Gwaith adeiladu sy’n ymwneud ag adeiladau crefyddol
+45212361 Gwaith adeiladu sy’n ymwneud ag eglwysi
+45212400 Adeiladau llety a bwytai
+45212410 Gwaith adeiladu ar gyfer adeiladau tai llety
+45212411 Gwaith adeiladu gwestai
+45212412 Gwaith adeiladu hosteli
+45212413 Gwaith adeiladu llety arhosiad byr
+45212420 Gwaith adeiladu ar gyfer bwytai a chyfleusterau tebyg
+45212421 Gwaith adeiladu bwytai
+45212422 Gwaith adeiladu ffreuturau
+45212423 Gwaith adeiladu caffeterias
+45212500 Addasu cegin neu fwyty
+45212600 Gwaith adeiladu pafiliynau
+45213000 Gwaith adeiladu ar gyfer adeiladau masnachol, warysau ac adeiladau diwydiannol, ac adeiladau sy’n gysylltiedig â thrafnidiaeth
+45213100 Gwaith adeiladu ar gyfer adeiladau masnachol
+45213110 Gwaith adeiladu adeiladau siopau
+45213111 Gwaith adeiladu canolfannau siopa
+45213112 Gwaith adeiladu unedau siopau
+45213120 Gwaith adeiladu swyddfeydd post
+45213130 Gwaith adeiladu banciau
+45213140 Gwaith adeiladu marchnadoedd
+45213141 Gwaith adeiladu marchnadoedd dan do
+45213142 Gwaith adeiladu marchnadoedd awyr agored
+45213150 Gwaith adeiladu blociau o swyddfeydd
+45213200 Gwaith adeiladu ar gyfer warysau ac adeiladau diwydiannol
+45213210 Storfeydd oer
+45213220 Gwaith adeiladu ar gyfer warysau
+45213221 Gwaith adeiladu storfeydd warws
+45213230 Gwaith adeiladu lladd-dai
+45213240 Gwaith adeiladu adeiladau amaethyddol
+45213241 Gwaith adeiladu ysguboriau
+45213242 Gwaith adeiladu beudai
+45213250 Gwaith adeiladu ar gyfer adeiladau diwydiannol
+45213251 Gwaith adeiladu unedau diwydiannol
+45213252 Gwaith adeiladu gweithdai
+45213260 Gwaith adeiladu depos storau
+45213270 Gwaith adeiladu ar gyfer gorsafoedd ailgylchu
+45213280 Gwaith adeiladu ar gyfer cyfleusterau compostio
+45213300 Adeiladau sy’n gysylltiedig â thrafnidiaeth
+45213310 Gwaith adeiladu ar gyfer adeiladau sy’n gysylltiedig â thrafnidiaeth ffyrdd
+45213311 Gwaith adeiladu gorsafoedd bysiau
+45213312 Gwaith adeiladu adeiladau maes parcio
+45213313 Gwaith adeiladu adeiladau ardal wasanaethu
+45213314 Gwaith adeiladu garejys bysiau
+45213315 Gwaith adeiladu llochesau safle bws
+45213316 Gwaith gosod llwybrau
+45213320 Gwaith adeiladu ar gyfer adeiladau sy’n gysylltiedig â thrafnidiaeth reilffordd
+45213321 Gwaith adeiladu gorsafoedd trenau
+45213322 Gwaith adeiladu adeiladau terfynfa reilffordd
+45213330 Gwaith adeiladu ar gyfer adeiladau sy’n gysylltiedig â thrafnidiaeth awyr
+45213331 Gwaith adeiladu adeiladau maes awyr
+45213332 Gwaith adeiladu tyrau rheoli maes awyr
+45213333 Gwaith gosod cownteri mewngofnodi maes awyr
+45213340 Gwaith adeiladu ar gyfer adeiladau sy’n gysylltiedig â thrafnidiaeth dros ddŵr
+45213341 Gwaith adeiladu adeiladau terfynfa fferi
+45213342 Gwaith adeiladu terfynfeydd ro-ro
+45213350 Gwaith adeiladu ar gyfer adeiladau sy’n gysylltiedig â gwahanol fathau o drafnidiaeth
+45213351 Gwaith adeiladu awyrendai cynnal a chadw
+45213352 Gwaith adeiladu depos gwasanaethau
+45213353 Gwaith gosod pontydd byrddio i deithwyr
+45213400 Gwaith gosod ystafelloedd staff
+45214000 Gwaith adeiladu ar gyfer adeiladau sy’n gysylltiedig ag addysg ac ymchwil
+45214100 Gwaith adeiladu ar gyfer adeiladau ysgol feithrin
+45214200 Gwaith adeiladu ar gyfer adeiladau ysgol
+45214210 Gwaith adeiladu ysgolion cynradd
+45214220 Gwaith adeiladu ysgolion uwchradd
+45214230 Gwaith adeiladu ysgolion arbennig
+45214300 Gwaith adeiladu ar gyfer adeiladau coleg
+45214310 Gwaith adeiladu colegau galwedigaethol
+45214320 Gwaith adeiladu colegau technegol
+45214400 Gwaith adeiladu ar gyfer adeiladau prifysgol
+45214410 Gwaith adeiladu colegau polytechnig
+45214420 Gwaith adeiladu darlithfeydd
+45214430 Gwaith adeiladu labordai iaith
+45214500 Gwaith adeiladu ar gyfer adeiladau addysg bellach
+45214600 Gwaith adeiladu ar gyfer adeiladau ymchwil
+45214610 Gwaith adeiladu adeiladau labordy
+45214620 Gwaith adeiladu cyfleusterau ymchwil a phrofi
+45214630 Gosodiadau gwyddonol
+45214631 Gwaith gosod ystafelloedd glân
+45214640 Gwaith adeiladu gorsafoedd meteorolegol
+45214700 Gwaith adeiladu ar gyfer neuaddau preswyl
+45214710 Gwaith adeiladu cynteddau
+45214800 Gwaith adeiladu cyfleusterau hyfforddi
+45215000 Gwaith adeiladu ar gyfer adeiladau sy’n gysylltiedig ag iechyd a gwasanaethau cymdeithasol, ar gyfer amlosgfeydd a chyfleusterau cyhoeddus
+45215100 Gwaith adeiladu ar gyfer adeiladau sy’n gysylltiedig ag iechyd
+45215110 Gwaith adeiladu sba
+45215120 Gwaith adeiladu adeiladau meddygol arbennig
+45215130 Gwaith adeiladu clinigau
+45215140 Gwaith adeiladu cyfleusterau ysbyty
+45215141 Gwaith adeiladu ystafelloedd llawdriniaeth
+45215142 Gwaith adeiladu unedau gofal dwys
+45215143 Gwaith adeiladu ystafelloedd sgrinio diagnostig
+45215144 Gwaith adeiladu ystafelloedd sgrinio
+45215145 Gwaith adeiladu ystafelloedd fflworosgopeg
+45215146 Gwaith adeiladu ystafelloedd patholeg
+45215147 Gwaith adeiladu ystafelloedd fforensig
+45215148 Gwaith adeiladu ystafelloedd cathetr
+45215200 Gwaith adeiladu ar gyfer adeiladau gwasanaethau cymdeithasol
+45215210 Gwaith adeiladu ar gyfer llety preswyl â chymhorthdal
+45215212 Gwaith adeiladu cartrefi ymddeol
+45215213 Gwaith adeiladu cartrefi nyrsio
+45215214 Gwaith adeiladu cartrefi preswyl
+45215215 Gwaith adeiladu cartrefi plant
+45215220 Gwaith adeiladu ar gyfer cyfleusterau cymdeithasol heblaw llety preswyl â chymhorthdal
+45215221 Gwaith adeiladu canolfannau gofal dydd
+45215222 Gwaith adeiladau canolfannau dinesig
+45215300 Gwaith adeiladu ar gyfer amlosgfeydd
+45215400 Gwaith mynwent
+45215500 Cyfleusterau cyhoeddus
+45216000 Gwaith adeiladu ar gyfer adeiladau sy’n gysylltiedig â chyfraith a threfn neu wasanaethau brys ac ar gyfer adeiladau milwrol
+45216100 Gwaith adeiladu ar gyfer adeiladau sy’n gysylltiedig â chyfraith a threfn neu wasanaethau brys
+45216110 Gwaith adeiladu ar gyfer adeiladau sy’n gysylltiedig â chyfraith a threfn
+45216111 Gwaith adeiladu gorsafoedd heddlu
+45216112 Gwaith adeiladu adeiladau llys
+45216113 Gwaith adeiladu adeiladau carchardai
+45216114 Adeiladau senedd a chynulliad cyhoeddus
+45216120 Gwaith adeiladu ar gyfer adeiladau sy’n gysylltiedig â gwasanaethau brys
+45216121 Gwaith adeiladu gorsafoedd tân
+45216122 Gwaith adeiladu gorsafoedd ambiwlans
+45216123 Gwaith adeiladu adeiladau achub ar fynydd
+45216124 Gwaith adeiladu gorsafoedd badau achub
+45216125 Gwaith adeiladu adeiladau gwasanaethau brys
+45216126 Gwaith adeiladu adeiladau gwylwyr y glannau
+45216127 Gwaith adeiladu gorsafoedd gwasanaethau achub
+45216128 Gwaith adeiladu goleudai
+45216129 Llochesau amddiffynnol
+45217000 Gwaith adeiladu adeiladau wedi eu llenwi ag aer
+45220000 Gwaith peirianneg a gwaith adeiladu
+45221000 Gwaith adeiladu ar gyfer pontydd a thwnelau, siafftiau a thanlwybrau
+45221100 Gwaith adeiladu ar gyfer pontydd
+45221110 Gwaith adeiladu pontydd
+45221111 Gwaith adeiladu pontydd ffordd
+45221112 Gwaith adeiladu pontydd rheilffordd
+45221113 Gwaith adeiladu pontydd troed
+45221114 Gwaith adeiladu ar gyfer pontydd haearn
+45221115 Gwaith adeiladu ar gyfer pontydd dur
+45221117 Gwaith adeiladu pontydd pwyso
+45221118 Gwaith adeiladu pontydd ar gyfer piblinellau
+45221119 Gwaith adeiladu i adnewyddu pontydd
+45221120 Gwaith adeiladu traphontydd
+45221121 Gwaith adeiladu traphontydd ffordd
+45221122 Gwaith adeiladu traphontydd rheilffordd
+45221200 Gwaith adeiladu ar gyfer twnelau, siafftiau a thanlwybrau
+45221210 Gwaith cloddio o dan orchudd neu o dan orchudd yn rhannol
+45221211 Tanffordd
+45221213 Gwaith cloddio rheilffyrdd o dan orchudd neu o dan orchudd yn rhannol
+45221214 Gwaith cloddio ffyrdd o dan orchudd neu o dan orchudd yn rhannol
+45221220 Cwlfertau
+45221230 Siafftiau
+45221240 Gwaith adeiladu ar gyfer twnelau
+45221241 Gwaith adeiladu twnelau ffordd
+45221242 Gwaith adeiladu twnelau rheilffordd
+45221243 Gwaith adeiladau twnelau i gerddwyr
+45221244 Gwaith adeiladu twnelau camlas
+45221245 Gwaith adeiladu twnelau o dan afonydd
+45221246 Gwaith adeiladu twnelau tanfor
+45221247 Gwaith twnelu
+45221248 Gwaith adeiladu leininau twnelau
+45221250 Gwaith dan ddaear heblaw twnelau, siafftiau a thanlwybrau
+45222000 Gwaith adeiladu ar gyfer gwaith peirianneg heblaw pontydd, twnelau, siafftiau a thanlwybrau
+45222100 Gwaith adeiladu gweithfeydd trin gwastraff
+45222110 Gwaith adeiladu safleoedd gwaredu gwastraff
+45222300 Gwaith peirianneg ar gyfer gosodiadau diogelwch
+45223000 Gwaith adeiladu strwythurau
+45223100 Cydosod strwythurau metel
+45223110 Gwaith gosod strwythurau metel
+45223200 Gwaith strwythurol
+45223210 Gwaith dur strwythurol
+45223220 Gwaith cragen strwythurol
+45223300 Gwaith adeiladu meysydd parcio
+45223310 Gwaith adeiladu meysydd parcio o dan ddaear
+45223320 Gwaith adeiladu cyfleusterau parcio a theithio
+45223400 Gwaith adeiladu gorsafoedd radar
+45223500 Strwythurau concrit cyfnerth
+45223600 Gwaith adeiladu llety cŵn
+45223700 Gwaith adeiladu ardaloedd gwasanaethu
+45223710 Gwaith adeiladu ardaloedd gwasanaethu ar draffyrdd
+45223720 Gwaith adeiladu gorsafoedd petrol/tanwydd
+45223800 Cydosod a chodi strwythurau parod
+45223810 Adeiladau parod
+45223820 Unedau a chydrannau parod
+45223821 Unedau parod
+45223822 Cydrannau parod
+45230000 Gwaith adeiladu ar gyfer piblinellau, llinellau cyfathrebu a llinellau pŵer, ar gyfer priffyrdd, ffyrdd, meysydd glanio a rheilffyrdd; gwaith ar y gwastad
+45231000 Gwaith adeiladu ar gyfer piblinellau, llinellau cyfathrebu a llinellau pŵer
+45231100 Gwaith adeiladu cyffredinol ar gyfer piblinellau
+45231110 Gwaith adeiladu ar gyfer gosod pibellau
+45231111 Codi ac ailosod piblinellau
+45231112 Gwaith gosod systemau pibellau
+45231113 Gwaith ailosod piblinellau
+45231200 Gwaith adeiladu ar gyfer piblinellau olew a nwy
+45231210 Gwaith adeiladu ar gyfer piblinellau olew
+45231220 Gwaith adeiladu ar gyfer piblinellau nwy
+45231221 Gwaith adeiladu’r prif gyflenwad nwy
+45231222 Gwaith adeiladu tanciau nwy
+45231223 Gwaith ategol ar gyfer dosbarthu nwy
+45231300 Gwaith adeiladu ar gyfer piblinellau dŵr a charthion
+45231400 Gwaith adeiladu ar gyfer llinellau pŵer trydan
+45231500 Gwaith ar biblinellau aer cywasgedig
+45231510 Gwaith ar biblinellau aer cywasgedig ar gyfer system bost
+45231600 Gwaith adeiladu ar gyfer llinellau cyfathrebu
+45232000 Gwaith ategol ar gyfer piblinellau a cheblau
+45232100 Gwaith ategol ar gyfer piblinellau dŵr
+45232120 Gwaith dyfrhau
+45232121 Gwaith adeiladu pibellau dyfrhau
+45232130 Gwaith adeiladu pibellau dŵr storm
+45232140 Gwaith adeiladu ar gyfer prif gyflenwad gwresogi ardal
+45232141 Gwaith gwresogi
+45232142 Gwaith adeiladu gorsafoedd trosglwyddo gwres
+45232150 Gwaith sy’n gysylltiedig â phiblinellau dosbarthu dŵr
+45232151 Gwaith adeiladu ar gyfer adnewyddu’r prif gyflenwad dŵr
+45232152 Gwaith adeiladu gorsafoedd pwmpio
+45232153 Gwaith adeiladu ar gyfer tyrau dŵr
+45232154 Gwaith adeiladu tanciau uchel ar gyfer dŵr yfed
+45232200 Gwaith ategol ar gyfer llinellau pŵer trydan
+45232210 Adeiladu llinellau uwchben
+45232220 Gwaith adeiladu is-orsafoedd
+45232221 Is-orsafoedd newidydd
+45232300 Gwaith adeiladu a gwaith ategol ar gyfer llinellau ffôn a chyfathrebu
+45232310 Gwaith adeiladu ar gyfer llinellau ffôn
+45232311 Llinellau ffôn argyfwng ymyl ffordd
+45232320 Llinellau darlledu dros gebl
+45232330 Codi erialau
+45232331 Gwaith ategol ar gyfer darlledu
+45232332 Gwaith ategol ar gyfer telathrebu
+45232340 Gwaith adeiladu gorsafoedd ffôn symudol
+45232400 Gwaith adeiladu carthffosydd
+45232410 Gwaith carthffosiaeth
+45232411 Gwaith adeiladu pibellau dŵr budr
+45232420 Gwaith carthion
+45232421 Gwaith trin carthion
+45232422 Gwaith trin slwtsh
+45232423 Gwaith adeiladu gorsafoedd pwmpio carthion
+45232424 Gwaith adeiladu arllwysfeydd carthion
+45232430 Gwaith trin dŵr
+45232431 Gorsaf pwmpio dŵr gwastraff
+45232440 Gwaith adeiladu ar gyfer pibellau carthion
+45232450 Gwaith adeiladu systemau draenio
+45232451 Gwaith draenio a gwaith arwyneb
+45232452 Gwaith draenio
+45232453 Gwaith adeiladu draeniau
+45232454 Gwaith adeiladu basnau dŵr glaw
+45232460 Gwaith glanweithdra
+45232470 Gorsaf trosglwyddo gwastraff
+45233000 Gwaith adeiladu, gwaith sylfeini a gwaith arwyneb ar gyfer priffyrdd, ffyrdd
+45233100 Gwaith adeiladu ar gyfer priffyrdd, ffyrdd
+45233110 Gwaith adeiladu traffyrdd
+45233120 Gwaith adeiladu ffyrdd
+45233121 Gwaith adeiladau priffyrdd
+45233122 Gwaith adeiladu cylchffyrdd
+45233123 Gwaith adeiladu ffyrdd eilaidd
+45233124 Gwaith adeiladu cefnffyrdd
+45233125 Gwaith adeiladu cyffyrdd
+45233126 Gwaith adeiladu cyffyrdd aml-lefel
+45233127 Gwaith adeiladu cyffyrdd T
+45233128 Gwaith adeiladu cylchfannau
+45233129 Gwaith adeiladu croesffyrdd
+45233130 Gwaith adeiladu ar gyfer priffyrdd
+45233131 Gwaith adeiladu ar gyfer priffyrdd uchel
+45233139 Gwaith cynnal a chadw priffyrdd
+45233140 Gwaith ffordd
+45233141 Gwaith cynnal a chadw ffyrdd
+45233142 Gwaith atgyweirio ffyrdd
+45233144 Gwaith adeiladu trosffyrdd
+45233150 Gwaith gostegu traffig
+45233160 Llwybrau ac arwynebau metlin eraill
+45233161 Gwaith adeiladu llwybrau troed
+45233162 Gwaith adeiladu llwybrau beicio
+45233200 Amrywiol waith ar yr arwyneb
+45233210 Gwaith arwyneb ar gyfer priffyrdd
+45233220 Gwaith arwyneb ar gyfer ffyrdd
+45233221 Gwaith paentio arwyneb ffyrdd
+45233222 Gwaith gosod cerrig palmant ac asffalt
+45233223 Gwaith ailwynebu lonydd cerbydau
+45233224 Gwaith adeiladu ffyrdd deuol
+45233225 Gwaith adeiladu ffyrdd unffrwd
+45233226 Gwaith adeiladu ffyrdd mynediad
+45233227 Gwaith adeiladu ffyrdd ymadael a ffyrdd ymuno
+45233228 Gwaith adeiladu araenau arwyneb
+45233229 Gwaith cynnal a chadw ymylon ffyrdd
+45233250 Gwaith arwynebu ac eithrio ffyrdd
+45233251 Gwaith ailwynebu
+45233252 Gwaith arwyneb ar gyfer strydoedd
+45233253 Gwaith arwyneb ar gyfer llwybrau troed
+45233260 Gwaith adeiladu ffyrdd i gerddwyr
+45233261 Gwaith adeiladu trosffyrdd i gerddwyr
+45233262 Gwaith adeiladu parthau cerddwyr
+45233270 Gwaith paentio arwynebau meysydd parcio
+45233280 Codi rhwystrau ffordd
+45233290 Gwaith gosod arwyddion ffordd
+45233291 Gwaith gosod bolardiau
+45233292 Gwaith gosod cyfarpar diogelwch
+45233293 Gwaith gosod dodrefn stryd
+45233294 Gwaith gosod signalau ffordd
+45233300 Gwaith sylfeini ar gyfer priffyrdd, ffyrdd, strydoedd a llwybrau troed
+45233310 Gwaith sylfeini ar gyfer priffyrdd
+45233320 Gwaith sylfeini ar gyfer ffyrdd
+45233330 Gwaith sylfeini ar gyfer strydoedd
+45233340 Gwaith sylfeini ar gyfer llwybrau troed
+45234000 Gwaith adeiladu ar gyfer rheilffyrdd a systemau trafnidiaeth â cheblau
+45234100 Gwaith adeiladu rheilffyrdd
+45234110 Gwaith rheilffyrdd rhyngddinesig
+45234111 Gwaith adeiladu rheilffyrdd dinesig
+45234112 Gwaith adeiladu depos rheilffordd
+45234113 Dymchwel traciau
+45234114 Gwaith adeiladu argloddiau rheilffordd
+45234115 Gwaith ar signalau rheilffordd
+45234116 Gwaith adeiladu traciau
+45234120 Gwaith rheilffyrdd trefol
+45234121 Gwaith tramffyrdd
+45234122 Gwaith rheilffyrdd tanddaearol
+45234123 Gwaith rheilffyrdd rhannol danddaearol
+45234124 Trafnidiaeth rheilffyrdd tanddaearol i deithwyr
+45234125 Gorsaf drenau danddaearol
+45234126 Gwaith adeiladu rheiliau tramffordd
+45234127 Gwaith adeiladu depos tramffordd
+45234128 Gwaith adeiladu platfformau tramffordd
+45234129 Gwaith adeiladu traciau rheilffordd drefol
+45234130 Gwaith adeiladu â balast
+45234140 Gwaith adeiladu croesfannau rheilffordd
+45234160 Gwaith adeiladu catenâu
+45234170 Gwaith adeiladu is-orsafoedd locomotif
+45234180 Gwaith adeiladu ar gyfer gweithdai rheilffordd
+45234181 Gwaith adeiladu ar gyfer cabanau adrannu traciau rheilffordd
+45234200 Systemau trafnidiaeth a grogir wrth geblau
+45234210 Systemau trafnidiaeth a grogir wrth geblau gyda chabanau
+45234220 Gwaith adeiladu ar gyfer lifftiau sgïo
+45234230 Gwaith adeiladu ar gyfer lifftiau cadair
+45234240 Systemau rheilffordd halio
+45234250 Gwaith adeiladu telefferig
+45235000 Gwaith adeiladu ar gyfer meysydd glanio, rhedfeydd ac arwynebau manwfro
+45235100 Gwaith adeiladu ar gyfer meysydd awyr
+45235110 Gwaith adeiladu ar gyfer meysydd glanio
+45235111 Gwaith adeiladu palmentydd maes glanio
+45235200 Gwaith adeiladu rhedfeydd
+45235210 Ailwynebu rhedfeydd
+45235300 Gwaith adeiladu ar gyfer arwynebau manwfro cerbydau awyr
+45235310 Gwaith adeiladu atredfeydd
+45235311 Gwaith adeiladu palmentydd atredfeydd
+45235320 Gwaith adeiladu ar gyfer lleiniau cerbydau awyr
+45236000 Gwaith ar y gwastad
+45236100 Gwaith ar y gwastad ar gyfer gosodiadau chwaraeon amrywiol
+45236110 Gwaith ar y gwastad ar gyfer meysydd chwaraeon
+45236111 Gwaith ar y gwastad ar gyfer cyrsiau golff
+45236112 Gwaith ar y gwastad ar gyfer cyrtiau tennis
+45236113 Gwaith ar y gwastad ar gyfer caeau rasys
+45236114 Gwaith ar y gwastad ar gyfer traciau rhedeg
+45236119 Gwaith atgyweirio ar feysydd chwaraeon
+45236200 Gwaith ar y gwastad ar gyfer gosodiadau hamdden
+45236210 Gwaith ar y gwastad ar gyfer ardaloedd chwarae plant
+45236220 Gwaith ar y gwastad ar gyfer sŵau
+45236230 Gwaith ar y gwastad ar gyfer gerddi
+45236250 Gwaith ar y gwastad ar gyfer parciau
+45236290 Gwaith atgyweirio ar ardaloedd hamdden
+45236300 Gwaith ar y gwastad ar gyfer mynwentydd
+45237000 Gwaith adeiladu llwyfannau
+45240000 Gwaith adeiladu ar gyfer prosiectau dŵr
+45241000 Gwaith adeiladu harbyrau
+45241100 Gwaith adeiladu ceiau
+45241200 Gwaith adeiladu terfynfeydd alltraeth yn y fan a’r lle
+45241300 Gwaith adeiladu pierau
+45241400 Gwaith adeiladu dociau
+45241500 Gwaith adeiladu glanfeydd
+45241600 Gwaith gosod cyfarpar goleuo porthladdoedd
+45242000 Gwaith adeiladu cyfleusterau hamdden glan y dŵr
+45242100 Gwaith adeiladu cyfleusterau chwaraeon dŵr
+45242110 Gwaith adeiladu ffyrdd lansio
+45242200 Gwaith adeiladu marinas
+45242210 Gwaith adeiladu harbyrau cychod hwylio
+45243000 Gwaith amddiffyn yr arfordir
+45243100 Gwaith diogelu clogwyni
+45243110 Gwaith sefydlogi clogwyni
+45243200 Gwaith adeiladu morgloddiau
+45243300 Gwaith adeiladu waliau môr
+45243400 Gwaith cyfnerthu traethau
+45243500 Gwaith adeiladu amddiffynfeydd morol
+45243510 Gwaith argloddiau
+45243600 Gwaith adeiladu waliau cei
+45244000 Gwaith adeiladu morol
+45244100 Gosodiadau morol
+45244200 Glanfeydd
+45245000 Gwaith carthu a phwmpio ar gyfer gweithfeydd trin dŵr
+45246000 Gwaith rheoli afonydd a llifogydd
+45246100 Adeiladu waliau afonydd
+45246200 Gwaith diogelu glannau afonydd
+45246400 Gwaith atal llifogydd
+45246410 Gwaith cynnal a chadw amddiffynfeydd rhag llifogydd
+45246500 Gwaith adeiladu promenadau
+45246510 Gwaith adeiladu llwybrau estyllod
+45247000 Gwaith adeiladu ar gyfer argaeau, camlesi, sianeli dyfrhau a thraphontydd dŵr
+45247100 Gwaith adeiladu ar gyfer dyfrffyrdd
+45247110 Gwaith adeiladu camlesi
+45247111 Gwaith adeiladu sianeli dyfrhau
+45247112 Gwaith adeiladu camlesi draenio
+45247120 Dyfrffyrdd ac eithrio camlesi
+45247130 Gwaith adeiladu traphontydd dŵr
+45247200 Gwaith adeiladu ar gyfer argaeau a strwythurau sefydlog tebyg
+45247210 Gwaith adeiladu argaeau
+45247211 Gwaith adeiladu waliau argae
+45247212 Gwaith atgyfnerthu argaeau
+45247220 Gwaith adeiladu coredau
+45247230 Gwaith adeiladu cloddiau
+45247240 Gwaith adeiladu baredau sefydlog
+45247270 Gwaith adeiladu cronfeydd dŵr
+45248000 Gwaith adeiladu ar gyfer strwythurau hydrofecanyddol
+45248100 Gwaith adeiladu lociau camlas
+45248200 Gwaith adeiladu dociau sych
+45248300 Gwaith adeiladu ar gyfer dociau nofiol
+45248400 Gwaith adeiladu pontydd glanio
+45248500 Gwaith adeiladu baredau symudol
+45250000 Gwaith adeiladu ar gyfer gweithfeydd, mwyngloddio a gweithgynhyrchu ac ar gyfer adeiladau sy’n gysylltiedig â’r diwydiant olew a nwy
+45251000 Gwaith adeiladu ar gyfer gweithfeydd pŵer a gweithfeydd gwres
+45251100 Gwaith adeiladu ar gyfer gweithfeydd pŵer
+45251110 Gwaith adeiladu gorsafoedd ynni niwclear
+45251111 Gwaith adeiladu ar gyfer adweithyddion niwclear
+45251120 Gwaith adeiladu gweithfeydd ynni trydan dŵr
+45251140 Gwaith adeiladu gorsafoedd ynni thermol
+45251141 Gwaith adeiladu gorsafoedd ynni geothermol
+45251142 Gwaith adeiladu gorsafoedd ynni sy’n llosgi coed
+45251143 Gwaith adeiladu gweithfeydd cynhyrchu aer cywasgedig
+45251150 Gwaith adeiladu ar gyfer tyrau oeri
+45251160 Gwaith gosod ynni gwynt
+45251200 Gwaith adeiladu gweithfeydd gwresogi
+45251220 Gwaith adeiladu gweithfeydd cydgynhyrchu
+45251230 Gwaith adeiladu gweithfeydd cynhyrchu stêm
+45251240 Gwaith adeiladu gweithfeydd cynhyrchu trydan o nwy tirlenwi
+45251250 Gwaith adeiladu gweithfeydd gwresogi ardal
+45252000 Gwaith adeiladu ar gyfer gweithfeydd trin carthion, gweithfeydd puro a gweithfeydd llosgi sbwriel
+45252100 Gwaith adeiladu gweithfeydd trin carthion
+45252110 Gwaith adeiladu gweithfeydd symudol
+45252120 Gwaith adeiladu gweithfeydd trin dŵr
+45252121 Gosodiadau gwaddodi
+45252122 Treulwyr carthion
+45252123 Gosodiadau sgrinio
+45252124 Gwaith carthu a phwmpio
+45252125 Gwaith dympio creigiau
+45252126 Gwaith adeiladu gweithfeydd trin dŵr yfed
+45252127 Gwaith adeiladu gweithfeydd trin dŵr gwastraff
+45252130 Cyfarpar gweithfeydd trin carthion
+45252140 Gwaith adeiladu gweithfeydd dad-ddyfrio slwtsh
+45252150 Gwaith adeiladu gweithfeydd trin glo
+45252200 Cyfarpar gweithfeydd puro
+45252210 Gwaith adeiladu gweithfeydd puro dŵr
+45252300 Gwaith adeiladu gweithfeydd llosgi sbwriel
+45253000 Gwaith adeiladu ar gyfer gweithfeydd prosesu cemegion
+45253100 Gwaith adeiladu gweithfeydd dadfwyneiddio
+45253200 Gwaith adeiladu gweithfeydd dadsylffwreiddio
+45253300 Gwaith adeiladu gweithfeydd distyllu neu goethi
+45253310 Gwaith adeiladu gweithfeydd distyllu dŵr
+45253320 Gwaith adeiladu gweithfeydd distyllu alcohol
+45253400 Gwaith adeiladu ar gyfer gweithfeydd petrocemegol
+45253500 Gwaith adeiladu ar gyfer gweithfeydd fferyllol
+45253600 Gwaith adeiladu gweithfeydd dadïoneiddio
+45253700 Gwaith adeiladu gweithfeydd treulio
+45253800 Gwaith adeiladu gweithfeydd compostio
+45254000 Gwaith adeiladu ar gyfer mwyngloddio a gweithgynhyrchu
+45254100 Gwaith adeiladu ar gyfer mwyngloddio
+45254110 Gwaith adeiladu pennau pyllau
+45254200 Gwaith adeiladu ar gyfer gweithfeydd gweithgynhyrchu
+45255000 Gwaith adeiladu ar gyfer y diwydiant olew a nwy
+45255100 Gwaith adeiladu ar gyfer llwyfannau cynhyrchu
+45255110 Gwaith adeiladu ffynhonnau
+45255120 Gwaith adeiladu cyfleusterau llwyfan
+45255121 Gwaith adeiladu cyfleusterau ochr uchaf
+45255200 Gwaith adeiladu purfeydd olew
+45255210 Gwaith adeiladu terfynellau olew
+45255300 Gwaith adeiladu terfynellau nwy
+45255400 Gwaith ffabrigo
+45255410 Gwaith ffabrigo ar y môr
+45255420 Gwaith ffabrigo ar y tir
+45255430 Dymchwel llwyfannau olew
+45255500 Gwaith drilio a fforio
+45255600 Gwaith ffynhonnau â thiwbin torchog
+45255700 Gwaith adeiladu gweithfeydd nwyeiddio glo
+45255800 Gwaith adeiladu gweithfeydd cynhyrchu nwy
+45259000 Gwaith atgyweirio a chynnal a chadw gweithfeydd
+45259100 Gwaith atgyweirio a chynnal a chadw gweithfeydd dŵr gwastraff
+45259200 Gwaith atgyweirio a chynnal a chadw gweithfeydd puro
+45259300 Gwaith atgyweirio a chynnal a chadw gweithfeydd gwresogi
+45259900 Gwaith uwchraddio gweithfeydd
+45260000 Gwaith toeau a chrefftau adeiladu arbennig eraill
+45261000 Gwaith codi fframiau a gorchuddion to a gwaith cysylltiedig
+45261100 Gwaith fframio toeau
+45261200 Gwaith gorchuddio a phaentio toeau
+45261210 Gwaith gorchuddio toeau
+45261211 Gwaith teilsio toeau
+45261212 Gwaith gosod llechi ar doeau
+45261213 Gwaith gorchuddio toeau â metel
+45261214 Gwaith gorchuddio toeau â bitwmen
+45261215 Gwaith gosod paneli solar ar doeau
+45261220 Gwaith paentio toeau a gwaith araenu arall
+45261221 Gwaith paentio toeau
+45261222 Gwaith gosod araen sment ar doeau
+45261300 Gwaith plygiadau plwm a landeri
+45261310 Gwaith plygiadau plwm
+45261320 Gwaith landeri
+45261400 Gwaith gosod dalennau
+45261410 Gwaith inswleiddio toeau
+45261420 Gwaith diddosi
+45261900 Gwaith atgyweirio a chynnal a chadw toeau
+45261910 Gwaith atgyweirio toeau
+45261920 Gwaith cynnal a chadw toeau
+45262000 Gwaith crefftau adeiladu arbennig heblaw gwaith toeau
+45262100 Gwaith sgaffaldio
+45262110 Gwaith datgymalu sgaffaldiau
+45262120 Gwaith codi sgaffaldiau
+45262200 Gwaith sylfeini a drilio ffynhonnau dŵr
+45262210 Gwaith sylfeini
+45262211 Gosod seilbyst
+45262212 Gwaith gosod dalennau mewn ffosydd
+45262213 Techneg wal diaffram
+45262220 Drilio ffynhonnau dŵr
+45262300 Gwaith concrit
+45262310 Gwaith concrit cyfnerth
+45262311 Gwaith carcasau concrit
+45262320 Gwaith lefelu
+45262321 Gwaith lefelu lloriau
+45262330 Gwaith atgyweirio concrit
+45262340 Gwaith growtio
+45262350 Gwaith concrit anghyfnerth
+45262360 Gwaith smentio
+45262370 Gwaith gosod araen concrit
+45262400 Gwaith codi dur strwythurol
+45262410 Gwaith codi dur strwythurol ar gyfer adeiladau
+45262420 Gwaith codi dur strwythurol ar gyfer strwythurau
+45262421 Gwaith angori ar y môr
+45262422 Gwaith drilio tanfor
+45262423 Gwaith ffabrigo deciau
+45262424 Gwaith ffabrigo modiwlau ar y môr
+45262425 Gwaith ffabrigo siacedi
+45262426 Gwaith ffabrigo seilbyst
+45262500 Gwaith seiri meini a gwaith gosod brics
+45262510 Gwaith cerrig
+45262511 Cerfio cerrig
+45262512 Gwaith cerrig nadd
+45262520 Gwaith gosod brics
+45262521 Gwaith gosod brics arwyneb
+45262522 Gwaith seiri meini
+45262600 Gwaith crefftau adeiladu arbennig amrywiol
+45262610 Simneiau diwydiannol
+45262620 Waliau cynnal
+45262630 Adeiladu ffwrneisi
+45262640 Gwaith gwella amgylcheddol
+45262650 Gwaith gosod cladin
+45262660 Gwaith tynnu asbestos
+45262670 Gweithio metel
+45262680 Weldio
+45262690 Adnewyddu adeiladau sydd wedi mynd â’u pennau iddynt
+45262700 Gwaith addasu adeiladau
+45262710 Gwaith cynnal a chadw ffresgos
+45262800 Gwaith estyn adeiladau
+45262900 Gwaith balconïau
+45300000 Gwaith gosod ar gyfer adeiladau
+45310000 Gwaith gosod trydanol
+45311000 Gwaith gwifro a ffitio trydanol
+45311100 Gwaith gwifro trydanol
+45311200 Gwaith ffitio trydanol
+45312000 Gwaith gosod systemau larwm ac antenâu
+45312100 Gwaith gosod systemau larwm tân
+45312200 Gwaith gosod systemau larwm lladron
+45312300 Gwaith gosod antenâu
+45312310 Gwaith diogelu rhag mellt
+45312311 Gwaith gosod dargludyddion mellt
+45312320 Gwaith gosod erialau teledu
+45312330 Gwaith gosod erialau radio
+45313000 Gwaith gosod lifftiau ac esgaladuron
+45313100 Gwaith gosod lifftiau
+45313200 Gwaith gosod esgaladuron
+45313210 Gwaith gosod llwybrau symudol
+45314000 Gwaith gosod cyfarpar telathrebu
+45314100 Gwaith gosod cyfnewidfeydd ffôn
+45314120 Gwaith gosod switsfyrddau
+45314200 Gwaith gosod llinellau ffôn
+45314300 Gwaith gosod seilwaith ceblau
+45314310 Gwaith gosod ceblau
+45314320 Gwaith gosod ceblau cyfrifiadurol
+45315000 Gwaith gosod trydanol ar gyfer cyfarpar gwresogi a chyfarpar adeiladu trydanol eraill
+45315100 Gwaith gosod peirianneg drydanol
+45315200 Gwaith tyrbinau
+45315300 Gosodiadau cyflenwadau trydan
+45315400 Gwaith gosod foltedd uchel
+45315500 Gwaith gosod foltedd canolig
+45315600 Gwaith gosod foltedd isel
+45315700 Gwaith gosod gorsafoedd switsio
+45316000 Gwaith gosod systemau goleuo ac arwyddo
+45316100 Gwaith gosod cyfarpar goleuo awyr agored
+45316110 Gwaith gosod cyfarpar goleuo ffyrdd
+45316200 Gwaith gosod cyfarpar arwyddo
+45316210 Gwaith gosod cyfarpar monitro traffig
+45316211 Gwaith gosod arwyddion ffordd wedi’u goleuo
+45316212 Gwaith gosod goleuadau traffig
+45316213 Gwaith gosod cyfarpar cyfarwyddo traffig
+45316220 Gwaith gosod cyfarpar arwyddo mewn meysydd awyr
+45316230 Gwaith gosod cyfarpar arwyddo mewn porthladdoedd
+45317000 Math arall o waith gosod trydanol
+45317100 Gwaith gosod trydanol ar gyfer cyfarpar pwmpio
+45317200 Gwaith gosod trydanol ar gyfer newidyddion
+45317300 Gwaith gosod trydanol ar gyfer cyfarpar dosbarthu trydanol
+45317400 Gwaith gosod trydanol ar gyfer cyfarpar hidlo
+45320000 Gwaith inswleiddio
+45321000 Gwaith inswleiddio thermol
+45323000 Gwaith ynysu rhag sŵn
+45324000 Gwaith plastrfwrdd
+45330000 Plymwaith a gwaith glanweithiol
+45331000 Gwaith gosod systemau gwresogi, awyru ac aerdymheru
+45331100 Gwaith gosod systemau gwres canolog
+45331110 Gwaith gosod boeleri
+45331200 Gwaith gosod systemau awyru ac aerdymheru
+45331210 Gwaith gosod systemau awyru
+45331211 Gwaith gosod systemau awyru awyr agored
+45331220 Gwaith gosod systemau aerdymheru
+45331221 Gwaith gosod systemau aerdymheru rhannol
+45331230 Gwaith gosod cyfarpar oeri
+45331231 Gwaith gosod cyfarpar oereiddio
+45332000 Plymwaith a gwaith gosod draeniau
+45332200 Plymwaith dŵr
+45332300 Gwaith gosod draeniau
+45332400 Gwaith gosod gosodion glanweithiol
+45333000 Gwaith gosod ffitiadau nwy
+45333100 Gwaith gosod cyfarpar rheoleiddio nwy
+45333200 Gwaith gosod mesuryddion nwy
+45340000 Gwaith gosod ffensys, rheiliau a chyfarpar diogelwch
+45341000 Codi rheiliau
+45342000 Codi ffensys
+45343000 Gwaith gosod mesurau atal tân
+45343100 Gwaith diogelu rhag tân
+45343200 Gwaith gosod cyfarpar diffodd tân
+45343210 Gwaith gosod cyfarpar diffodd tân â CO 2
+45343220 Gwaith gosod diffoddwyr tân
+45343230 Gwaith gosod systemau taenellu
+45350000 Gosodiadau mecanyddol
+45351000 Gwaith gosod peirianneg fecanyddol
+45400000 Gwaith cwblhau adeiladau
+45410000 Gwaith plastro
+45420000 Gwaith gosod gwaith asiedydd a saer coed
+45421000 Gwaith asiedydd
+45421100 Gwaith gosod drysau a ffenestri a chydrannau cysylltiedig
+45421110 Gwaith gosod fframiau drysau a ffenestri
+45421111 Gwaith gosod fframiau drysau
+45421112 Gwaith gosod fframiau ffenestri
+45421120 Gwaith gosod trothwyon
+45421130 Gwaith gosod drysau a ffenestri
+45421131 Gwaith gosod drysau
+45421132 Gwaith gosod ffenestri
+45421140 Gwaith gosod gwaith asiedydd metel ac eithrio drysau a ffenestri
+45421141 Gwaith gosod parwydydd
+45421142 Gwaith gosod caeadau ffenestri
+45421143 Gwaith gosod bleinds
+45421144 Gwaith gosod adlenni
+45421145 Gwaith gosod bleinds rholer
+45421146 Gwaith gosod nenfydau crog
+45421147 Gwaith gosod rhwyllau
+45421148 Gwaith gosod gatiau
+45421150 Gwaith gosod gwaith asiedydd nad yw’n ymwneud â metelau
+45421151 Gwaith gosod ceginau gosod
+45421152 Gwaith gosod parwydydd
+45421153 Gwaith gosod dodrefn gosodedig
+45421160 Gwaith nwyddau haearn
+45422000 Gwaith gosod gwaith saer coed
+45422100 Gwaith coed
+45430000 Gwaith gorchuddio lloriau a waliau
+45431000 Gwaith teilsio
+45431100 Gwaith teilsio lloriau
+45431200 Gwaith teilsio waliau
+45432000 Gwaith gosod a gorchuddio lloriau, gorchuddio waliau a phapuro waliau
+45432100 Gwaith gosod a gorchuddio lloriau
+45432110 Gwaith gosod lloriau
+45432111 Gwaith gosod gorchuddion lloriau hyblyg
+45432112 Gwaith gosod cerrig palmant
+45432113 Gwaith gosod lloriau parquet
+45432114 Gwaith gosod lloriau pren
+45432120 Gwaith gosod lloriau ffug
+45432121 Lloriau cyfrifiadur
+45432130 Gwaith gorchuddio lloriau
+45432200 Gwaith gorchuddio a phapuro waliau
+45432210 Gwaith gorchuddio waliau
+45432220 Gwaith papuro waliau
+45440000 Gwaith paentio a gwydro
+45441000 Gwaith gwydro
+45442000 Gwaith taenu araenau amddiffynnol
+45442100 Gwaith paentio
+45442110 Gwaith paentio adeiladau
+45442120 Gwaith paentio strwythurau a gosod araen amddiffynnol arnynt
+45442121 Gwaith paentio strwythurau
+45442180 Gwaith ailbaentio
+45442190 Gwaith tynnu paent
+45442200 Gwaith taenu araenau gwrthgyrydu
+45442210 Gwaith galfanu
+45442300 Gwaith diogelu arwynebau
+45443000 Gwaith ffasâd
+45450000 Math arall o waith cwblhau adeiladau
+45451000 Gwaith addurno
+45451100 Gwaith ffitio addurniadau
+45451200 Gwaith gosod paneli
+45451300 Gerddi mewnol
+45452000 Gwaith glanhau allanol ar gyfer adeiladau
+45452100 Gwaith chwyth-lanhau ar gyfer tu allan adeiladau
+45453000 Gwaith atgyweirio ac ailwampio
+45453100 Gwaith ailwampio
+45454000 Gwaith ailstrwythuro
+45454100 Gwaith adfer
+45500000 Llogi peiriannau a chyfarpar adeiladu a pheirianneg sifil gyda gweithredwr
+45510000 Llogi craeniau gyda gweithredwr
+45520000 Llogi cyfarpar symud pridd gyda gweithredwrNODYN ESBONIADOL
+(Nid yw’r nodyn hwn yn rhan o’r Rheoliadau)
+Mae’r Rheoliadau hyn yn ychwanegu at Ddeddf Caffael 2023 (p. 54) (“Deddf 2023”).
+Mae Rhan 1 o’r Rheoliadau hyn yn cynnwys darpariaethau rhagarweiniol, gan gynnwys y rhai sy’n nodi cymhwysiad y Rheoliadau a diffiniadau a ddefnyddir yn y Rheoliadau.
+Mae Rhan 2 yn gwneud darpariaeth ynghylch tryloywder caffaeliadau a gyflawnir gan awdurdodau contractio, sy’n awdurdodau Cymreig datganoledig, neu sydd i’w trin fel awdurdod Cymreig datganoledig o dan Ddeddf 2023. Mae rheoliad 5(1) yn darparu bod rhaid yn gyntaf gyhoeddi hysbysiadau neu ddogfennau penodol neu wybodaeth benodol, neu fod rhaid eu rhoi drwy eu cyhoeddi, ar y platfform digidol canolog sy’n system ar-lein a ddarperir gan Swyddfa Cabinet Llywodraeth y DU (“Swyddfa’r Cabinet”) yn y cyfeiriad gwefan canlynol: https://www.gov.uk/find-tender.
+Mae rheoliad 5(2) yn darparu y cydymffurfir â rheoliad 5(1) pan fo’r hysbysiad, y ddogfen neu’r wybodaeth wedi ei gyflwyno neu wedi ei chyflwyno i’r platfform digidol Cymreig, a phan fo Swyddfa’r Cabinet wedi rhoi gwybod i’r awdurdod contractio y cyflwynwyd yr hysbysiad, y ddogfen neu’r wybodaeth yn llwyddiannus neu ei fod neu ei bod yn hygyrch i gyflenwyr ac i aelodau o’r cyhoedd. Y platfform digidol Cymreig yw’r system ar-lein a ddarperir gan Lywodraeth Cymru i’w defnyddio gan awdurdodau contractio y mae rheoliad 2 yn gymwys iddynt. Gellir dod o hyd i’r platfform hwn ar y wefan a ganlyn: https://www.gwerthwchigymru.llyw.cymru.
+Mae rheoliadau 6 i 8 yn gwneud darpariaeth ynghylch y modd y mae gwybodaeth graidd y cyflenwr (megis gwybodaeth personau cysylltiedig cyflenwr) yn cael ei rhannu ag awdurdod contractio gyda golwg ar ddyfarnu contract cyhoeddus neu gontract hysbysadwy sydd o dan y trothwy. Maent yn darparu bod rhaid i’r awdurdod gael cadarnhad bod y cyflenwr wedi rhannu’r wybodaeth honno drwy’r platfform digidol canolog, neu ei fod wedi cofrestru ar y platfform hwnnw cyn dyddiad cau. Mae rheoliadau 10 i 13 yn nodi pa wybodaeth sy’n wybodaeth graidd y cyflenwr.
+Mae rheoliadau 14 i 42 yn gwneud darpariaeth ynghylch pa wybodaeth y mae rhaid ei chynnwys mewn hysbysiadau neu ddogfennau y mae rhaid eu cyhoeddi, neu wybodaeth y mae rhaid ei chyhoeddi, o dan Ddeddf 2023. Mewn rhai achosion, mae darpariaeth yn pennu gwybodaeth ychwanegol i’r wybodaeth sy’n ofynnol gan Ddeddf 2023 ei hun yn unol â’r pwerau i wneud rheoliadau a ddarperir gan y Ddeddf honno. Er enghraifft, mae rheoliad 18 yn nodi gwybodaeth arall y mae rhaid ei chynnwys mewn hysbysiad ymgysylltu rhagarweiniol â’r farchnad, yn ogystal â’r wybodaeth y mae rhaid ei chynnwys yn unol ag adran 17(2)(a) o Ddeddf 2023 fel y’i caniateir yn benodol gan adran 17(2)(b) o’r Ddeddf honno.
+Mae Rhan 3 yn gwneud darpariaeth sy’n ychwanegu at Ddeddf 2023 heblaw mewn perthynas â mesurau tryloywder.
+Mae rheoliad 43 ac Atodlen 1 yn pennu’r categorïau o wasanaethau sy’n cymhwyso fel “gwasanaethau cyffyrddiad ysgafn” at ddiben adran 9 o Ddeddf 2023. Os yw gwasanaeth yn wasanaeth “cyffyrddiad ysgafn”, caniateir ei gaffael yn unol â rheolau sy’n wahanol i’r rhai sy’n gymwys i’r mathau eraill o gontract, y mae eu caffael wedi ei gwmpasu gan Ddeddf 2023. Mae’r darpariaethau hyn hefyd yn nodi pa un neu ragor o’r gwasanaethau hynny sy’n “gwasanaethau cyffyrddiad ysgafn neilltuadwy” at ddiben adran 33 o Ddeddf 2023, fel y caiff awdurdod contractio ddarparu mai dim ond cwmni cydfuddiannol gwasanaethau cyhoeddus cymhwysol, fel y’i diffinnir yn adran 33(5) o Ddeddf 2023, a all wneud cais am gontract ar gyfer y gwasanaethau hynny.
+Mae rheoliadau 44 a 45 ac Atodlenni 2 a 3 yn diffinio’r termau “central government authority” (“awdurdod llywodraeth ganolog”) a “works” (“gweithiau”) fel y’u defnyddir yn Neddf 2023. Yn Atodlen 2, mae’r endidau a ddiffinnir fel awdurdodau llywodraeth ganolog wedi eu rhestru o dan y penawdau “awdurdod arweiniol” ac “awdurdod perthynol” er mwyn darparu cysondeb â’r ffordd y mae’r awdurdodau Cymreig wedi eu cwmpasu gan Gytundeb Sefydliad Masnach y Byd ar Gaffael gan Lywodraethau, fel y’u nodir yn yr atodiadau i’r Cytundeb hwnnw.
+Mae Rhan 4 o’r Rheoliadau hyn yn cynnwys diwygiadau canlyniadol i ddeddfwriaeth sylfaenol, gan gynnwys Deddf 2023, ac i is-ddeddfwriaeth.
+Ystyriwyd Cod Ymarfer Gweinidogion Cymru ar gynnal Asesiadau Effaith Rheoleiddiol mewn perthynas â’r Rheoliadau hyn. O ganlyniad, lluniwyd asesiad effaith rheoleiddiol o’r costau a’r manteision sy’n debygol o ddeillio o gydymffurfio â’r Rheoliadau hyn a gellir cael copi oddi wrth: Y Gyfarwyddiaeth Caffael a Masnachol, Llywodraeth Cymru, Parc Cathays, Caerdydd, CF10 3NQ.

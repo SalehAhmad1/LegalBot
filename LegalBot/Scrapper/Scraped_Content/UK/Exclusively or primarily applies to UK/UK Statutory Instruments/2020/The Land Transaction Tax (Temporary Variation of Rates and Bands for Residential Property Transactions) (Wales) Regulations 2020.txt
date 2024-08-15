@@ -1,0 +1,85 @@
+WELSH STATUTORY INSTRUMENTS
+2020 No. 794 (W. 174)
+LAND TRANSACTION TAX, WALES
+The Land Transaction Tax (Temporary Variation of Rates and Bands for Residential Property Transactions) (Wales) Regulations 2020
+Approved by Senedd Cymru
+Made
+22 July 2020
+Laid before Senedd Cymru
+24 July 2020
+Coming into force
+27 July 2020
+The Welsh Ministers make the following Regulations in exercise of the powers conferred by sections 24(1) and 78(1) of the Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 M1.
+Marginal Citations
+M1
+2017 anaw 1. See also section 40 of the Legislation (Wales) Act 2019 (anaw 4) for provision about the procedure that applies to this instrument.Title, commencement and interpretation
+1.—(1) The title of these Regulations is the Land Transaction Tax (Temporary Variation of Rates and Bands for Residential Property Transactions) (Wales) Regulations 2020.
+(2) These Regulations come into force on 27 July 2020.
+(3) In these Regulations, “the LTT Act” means the Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017.
+(4) Words and expressions used in these Regulations have the same meaning as they have in the LTT Act.
+Commencement Information
+I1
+Reg. 1 in force at 27.7.2020, see reg. 1(2)Application
+2.—(1) These Regulations have effect in relation to any chargeable transaction that—
+(a)
+is a residential property transaction, and
+(b)
+has an effective date on or after 27 July 2020, but before [F11 July 2021] M1.
+(2) Paragraph (3) applies where—
+(a)
+as a result of section 10(4) of the LTT Act, the effective date of the transaction falls on or after 27 July 2020 but before [F11 July 2021], and
+(b)
+the contract concerned is completed by a transfer on or after [F11 July 2021].
+(3) Where this paragraph applies, section 10(5)(b) of the LTT Act does not apply in relation to that transfer if the sole reason that (but for this regulation) it would have applied is that the modifications made by these Regulations have no effect in relation to that transfer.
+Textual Amendments
+F1
+Words in reg. 2 substituted (1.4.2021) by The Land Transaction Tax (Temporary Variation of Rates and Bands for Residential Property Transactions) (Wales) (Amendment) Regulations 2021 (S.I. 2021/238), regs. 1(2), 2
+Commencement Information
+I1
+Reg. 2 in force at 27.7.2020, see reg. 1(2)
+Marginal Citations
+M1
+See the Land Transaction Tax (Tax Bands and Tax Rates) (Wales) Regulations 2018 (S.I. 2018/128 (W. 32)) as to the application of rates and bands to residential property transactions with an effective date before 27 July 2020 or on or after 1 July 2021 .Tax bands and percentage tax rates
+3.  The Schedule to these Regulations specifies the tax bands and percentage tax rates for residential property transactions to which these Regulations apply for the purposes of section 24(1) of the LTT Act.
+Commencement Information
+I1
+Reg. 3 in force at 27.7.2020, see reg. 1(2)Amendment of the Land Transaction Tax (Tax Bands and Tax Rates) (Wales) Regulations 2018
+4.—(1) The Land Transaction Tax (Tax Bands and Tax Rates) (Wales) Regulations 2018 M1 are amended as follows.
+(2) In regulation 2—
+(a)
+the existing text becomes paragraph (1);
+(b)
+at the beginning of paragraph (1), insert “ Subject to paragraph (2), ”;
+(c)
+after paragraph (1) insert—
+“(2) These Regulations do not have effect in relation to any chargeable transaction that is subject to the Land Transaction Tax (Temporary Variation of Rates and Bands for Residential Property Transactions) (Wales) Regulations 2020.”
+Commencement Information
+I1
+Reg. 4 in force at 27.7.2020, see reg. 1(2)
+Marginal Citations
+M1
+S.I. 2018/128 (W. 32).Rebecca Evans
+Minister for Finance and Trefnydd, one of the Welsh MinistersRegulation 3
+SCHEDULE
+Commencement Information
+I1
+Sch. in force at 27.7.2020, see reg. 1(2)
+Table: Residential property transactions
+Tax band Relevant consideration Percentage tax rate
+Zero rate band Not more than £250,000 0%
+First tax band More than £250,000 but not more than £400,000 5%
+Second tax band More than £400,000 but not more than £750,000 7.5%
+Third tax band More than £750,000 but not more than £1,500,000 10%
+Fourth tax band More than £1,500,000 12%EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the Land Transaction Tax (Tax Bands and Tax Rates) (Wales) Regulations 2018 (S.I. 2018/128 (W. 32)) (“the 2018 Regulations”) to provide for a temporary variation to the tax bands and percentage tax rates of land transaction tax applicable to certain residential property transactions.
+Regulation 2 applies the temporary variation to residential property transactions with an effective date on or after 27 July 2020, but before 1 April 2021. Where a contract is substantially performed before 1 April 2021, but completion takes place on or after that date, no additional tax will be chargeable by virtue of section 10 of the Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (“the LTT Act”) as long as the only reason additional tax is chargeable is because completion has occurred on or after that date.
+A chargeable transaction is a residential property transaction if it falls within the description contained in section 24(6) of the LTT Act.
+Regulation 3 specifies the tax bands and percentage tax rates applicable to those transactions specified by regulation 2.
+The 2018 Regulations continue to make provision for the tax rates and tax bands applicable to chargeable transactions which—
+(a)
+do not fall within the description of a residential property transaction, or
+(b)
+take place before 27 July 2020 or on or after 1 April 2021.
+Tax is to be calculated in accordance with sections 27 and 28 of the LTT Act.
+The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, a Regulatory Impact Assessment has been prepared as to the likely costs and benefits of complying with these Regulations. A copy can be obtained from the Welsh Government, Cathays Park, Cardiff, CF10 3NQ.

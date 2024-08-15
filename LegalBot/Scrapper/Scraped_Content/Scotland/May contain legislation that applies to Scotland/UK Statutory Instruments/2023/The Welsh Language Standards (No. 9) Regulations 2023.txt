@@ -1,0 +1,575 @@
+WELSH STATUTORY INSTRUMENTS
+2023 No. 1041 (W. 175)
+WELSH LANGUAGE
+The Welsh Language Standards (No. 9) Regulations 2023
+Made
+22 September 2023
+Coming into force
+31 October 2023
+The Welsh Ministers, in exercise of the powers conferred upon them by sections 26, 27, 39 and 150(5) of the Welsh Language (Wales) Measure 2011(1), having received the approval of Senedd Cymru(2) in accordance with section 150(2) of that Measure, make the following Regulations:
+(1)
+2011 nawm 1.
+(2)
+The reference in section 150(2) to the National Assembly for Wales now has effect as a reference to Senedd Cymru, by virtue of section 150A(2) of the Government of Wales Act 2006 (c. 32).Title, commencement, application and interpretation
+1.—(1) The title of these Regulations is the Welsh Language Standards (No. 9) Regulations 2023.
+(2) These Regulations come into force on 31 October 2023.
+(3) These Regulations apply in relation to Wales.
+(4) In these Regulations—
+a “body” (“corff”) means a person falling within one or both of the categories of persons listed in Schedule 4;
+a “member of staff” (“aelod o staff”) means an employee of a body or an individual working for a body (and “staff” (“staff”) must be construed accordingly);
+a “qualifying person” (“person neilltuedig”) has the same meaning as in paragraph 2 of Schedule 7 to the Welsh Language (Wales) Measure 2011.
+(5) In these Regulations—
+(a)
+references to any activity being carried out by a body, or to any service being provided by a body, are to be read as including a reference to that activity being carried out on the body’s behalf, or to that service being provided on the body’s behalf by a third party under arrangements made between the third party and the body;
+(b)
+accordingly, unless a compliance notice provides to the contrary, a body will have failed to comply with a standard in respect of an activity or service it has arranged to be carried out or provided by a third party if that activity or service has not been carried out or provided in accordance with the standard.
+(6) Nothing in these Regulations requires a body to comply with a standard in respect of an activity carried out by it or a service provided by it where it is carrying out that activity or providing that service on behalf of a third party under arrangements made between it and the third party.Standards specified
+2.—(1) In Schedule 1—
+(a)
+Part 1 specifies service delivery standards;
+(b)
+Part 2 provides that a compliance notice must require a body to comply with certain standards specified in Part 1 if it has required the body to comply with certain other standards;
+(c)
+Part 3 defines a number of words and expressions.
+(2) In Schedule 2—
+(a)
+Part 1 specifies record keeping standards;
+(b)
+Part 2 defines a number of words and expressions.
+(3) Schedule 3 specifies standards that deal with matters which are supplementary to the matters dealt with in the standards specified in Schedules 1 and 2 and, in particular—
+(a)
+Part 1 specifies service delivery standards that deal with supplementary matters;
+(b)
+Part 2 specifies record keeping standards that deal with supplementary matters;
+(c)
+Part 3 makes provision about interpreting the supplementary standards.Standards that are specifically applicable
+3.  The Welsh Ministers authorise the Welsh Language Commissioner to give a compliance notice to a body requiring it to comply with any of the standards specified under regulation 2 and Schedules 1 to 3.Jeremy Miles
+Minister for Education and Welsh Language, one of the Welsh Ministers
+22 September 2023Regulation 2(1)
+SCHEDULE 1
+Service Delivery Standards
+PART 1
+THE STANDARDS
+1 Standards relating to correspondence sent by a body
+(1) When a body replies to correspondence
+Standard 1: If you receive correspondence from a member of the public in Wales (“P”) in Welsh, you must reply in Welsh (if an answer is required), unless P has indicated that there is no need to reply in Welsh.
+(2) When a body initiates correspondence
+(a) When a body corresponds with a member of the public
+Standard 2:
+Unless you send all system generated correspondence in Welsh to a member of the public in Wales (“P”), when you send system generated correspondence to P for the first time, you must ask P whether P wishes to receive system generated correspondence from you in Welsh, and if P responds to say that P wishes to receive system generated correspondence in Welsh you must—
+(a)
+keep a record of P’s wish, and
+(b)
+send any system generated correspondence you send to P from then onwards in Welsh.
+(b) When a body corresponds with several members of the public (for example, when it sends a circular, or sends the same letter to a number of homes)
+Standard 3: When you send the same correspondence to several members of the public in Wales, you must send a Welsh language version of the correspondence at the same time as you send any English language version.
+(3) General standards relating to correspondence
+Standard 4: If you don’t know whether a member of the public in Wales (“P”) wishes to receive system generated correspondence from you in Welsh, when you send system generated correspondence to that P you must provide a Welsh language version.
+Standard 5: If you produce a Welsh language version and a corresponding English language version of correspondence, you must not treat the Welsh language version less favourably than the English language version (for example, if the English version is signed, or if contact details are provided on the English version, then the Welsh version must be treated in the same way).
+Standard 6:
+You must state—
+(a)
+in correspondence to members of the public in Wales, and
+(b)
+in publications and notices that invite members of the public in Wales to respond to you or to correspond with you,
+that you welcome receiving correspondence in Welsh, that you will respond to correspondence in Welsh, and that corresponding in Welsh will not lead to delay.
+2 Standards relating to telephone calls
+(1) Telephone calls made to a body
+Standard 7: When a member of the public in Wales (“P”) contacts you on your account enquiries helpline numbers or your service helpline numbers and a Welsh language service is available, you must inform P that a Welsh language service is available.
+Standard 8: When a member of the public in Wales (“P”) contacts you on your account enquiries helpline numbers, you must deal with the call in Welsh in its entirety if that is P’s wish (where necessary by transferring the call to a member of staff who is able to deal with the call in Welsh).
+Standard 9:
+When a member of the public in Wales (“P”) contacts you on your account enquiries helpline numbers, you must deal with the call in Welsh if that is P’s wish until such point as—
+(a)
+it is necessary to transfer the call to a member of staff who does not speak Welsh who can provide a service on a specific subject matter, and
+(b)
+no Welsh speaking member of staff is available to provide a service on that specific subject matter.
+Standard 10: When a member of the public in Wales (“P”) contacts you on your service helpline numbers, you must deal with the call in Welsh in its entirety if that is P’s wish (where necessary by transferring the call to a member of staff who is able to deal with the call in Welsh).
+Standard 11:
+When a member of the public in Wales (“P”) contacts you on your service helpline numbers, you must deal with the call in Welsh if that is P’s wish until such point as—
+(a)
+it is necessary to transfer the call to a member of staff who does not speak Welsh who can provide a service on a specific subject matter, and
+(b)
+no Welsh speaking member of staff is available to provide a service on that specific subject matter.
+Standard 12: When you advertise telephone numbers, helpline numbers or call centre services and where the anticipated audience includes members of the public in Wales, you must not treat the Welsh language less favourably than the English language.
+Standard 13: When you publish your account enquiries helpline numbers and your service helpline numbers and where the anticipated audience includes members of the public in Wales, you must state (in Welsh) that you welcome calls in Welsh.
+Standard 14: If you have performance indicators for dealing with telephone calls, you must ensure that those performance indicators do not treat telephone calls made in Welsh any less favourably than calls made in English.
+Standard 15: Your main telephone call answering service (or services) must inform members of the public in Wales calling, in Welsh, that they can leave a message in Welsh.
+Standard 16: When there is no Welsh language service available on your account enquiries helpline numbers or your service helpline numbers, you must inform members of the public in Wales calling, in Welsh (by way of an automated message or otherwise), when a Welsh language service will be available.
+(2) A body dealing with telephone calls using an automated system
+Standard 17: Any automated telephone systems that you have must provide the complete automated service in Welsh where the anticipated audience includes members of the public in Wales.
+3 Standards relating to a body holding meetings that are not open to the general public
+(1) Meetings between a body and one invited member of the public
+Standard 18:
+If you invite one member of the public in Wales (“P”) only to a meeting to be held in Wales—
+(a)
+you must ask P whether P wishes to use the Welsh language at the meeting, and inform P that you will conduct the meeting in Welsh, or, if necessary, provide a translation service from Welsh to English for that purpose, and
+(b)
+if P has informed you that P wishes to use the Welsh language at the meeting, you must conduct the meeting in Welsh or, if necessary, arrange for a simultaneous or a consecutive translation service from Welsh to English to be available at the meeting.
+(2) Meetings between a body and more than one invited person
+Standard 19: If you invite more than one person to a meeting to be held in Wales, you must ask each member of the public in Wales invited whether they wish to use the Welsh language at the meeting.
+Standard 19A: If you have invited more than one person to a meeting to be held in Wales, and at least 10% of the members of the public in Wales invited have informed you that they wish to use the Welsh language at the meeting, you must conduct the meeting in Welsh or, if necessary, arrange for a simultaneous or a consecutive translation service from Welsh to English to be available at the meeting.
+Standard 19B: If you have invited more than one person to a meeting to be held in Wales, and at least 20% of the members of the public in Wales invited have informed you that they wish to use the Welsh language at the meeting, you must conduct the meeting in Welsh or, if necessary, arrange for a simultaneous or a consecutive translation service from Welsh to English to be available at the meeting.
+Standard 19C: If you have invited more than one person to a meeting to be held in Wales, and at least 30% of the members of the public in Wales invited have informed you that they wish to use the Welsh language at the meeting, you must conduct the meeting in Welsh or, if necessary, arrange for a simultaneous or a consecutive translation service from Welsh to English to be available at the meeting.
+4 Standards relating to meetings arranged by a body that are open to the public
+Standard 20: If you arrange a meeting to be held in Wales that is open to members of the public in Wales and at which public participation by a member of the public in Wales is allowed, you must state on any material advertising it, and on any invitation to it, that anyone attending is welcome to use the Welsh language at the meeting.
+Standard 21: When you send invitations to a meeting to be held in Wales that you arrange which is open to members of the public in Wales and at which public participation by a member of the public in Wales is allowed, you must send the invitations in Welsh.
+Standard 22:
+If you arrange a meeting to be held in Wales that is open to members of the public in Wales and at which public participation by a member of the public in Wales is allowed, you must ensure that a simultaneous translation service from Welsh to English is available at the meeting, and you must orally inform those present in Welsh—
+(a)
+that they are welcome to use the Welsh language, and
+(b)
+that a simultaneous translation service is available.
+Standard 23: If you produce and display any written material at a meeting held in Wales that you arrange which is open to members of the public in Wales, you must ensure that the material is displayed in Welsh, and you must not treat any Welsh language text less favourably than the English language text.
+5 Standards relating to public events organised or funded by a body
+Standard 24: If you organise a public event to be held in Wales, you must ensure that, in promoting the event, the Welsh language is treated no less favourably than the English language (for example, in the way the event is advertised or publicised).
+Standard 25: If you organise a public event to be held in Wales, you must ensure that the Welsh language is treated no less favourably than the English language at the event (for example, in relation to services offered to persons attending the event, in relation to signs displayed at the event, and in relation to audio announcements made at the event).
+6 Standard relating to a body’s publicity and advertising
+Standard 26: Any publicity or advertising material that you produce must be produced in Welsh where the anticipated audience includes members of the public in Wales, and if you produce the material in Welsh and in English, you must not treat the Welsh language version less favourably than you treat the English language version.
+7 Standards relating to a body displaying material in public
+Standard 27: Any material that you produce and display in public in Wales must be displayed in Welsh, and you must not treat any Welsh language version of the material less favourably than the English language version.
+Standard 28: Any material that you produce and display at a public exhibition in Wales organised by you must be displayed in Welsh, and you must not treat any Welsh language version of the material less favourably than you treat an English language version.
+8 Standards relating to a body producing documents
+Standard 29:
+If you produce a document which is available to members of the public in Wales, you must produce it in Welsh—
+(a)
+if the subject matter of the document suggests that it should be produced in Welsh, or
+(b)
+if the anticipated audience, and their expectations, suggests that the document should be produced in Welsh.
+Standard 30: If you produce a document in Welsh and in English (whether separate versions or not), you must not treat any Welsh language version less favourably than you treat the English language version.
+Standard 31: If you produce a Welsh language version and a separate English language version of a document, you must ensure that the English language version clearly states that the document is also available in Welsh.
+9 Standards relating to a body producing and publishing forms
+Standard 32:
+When you send a form to a member of the public in Wales (“P”) for the first time, you must ask P whether P wishes to receive forms in Welsh, and if P responds to say that P wishes to receive forms in Welsh you must—
+(a)
+keep a record of P’s wish, and
+(b)
+send any forms you send to P from then onwards in Welsh.
+Standard 33: If you don’t know whether a member of the public in Wales (“P”) wishes to receive forms from you in Welsh, when you send a form to that P you must provide a Welsh language version.
+Standard 34:
+Any form that you make available to members of the public in Wales must be produced in Welsh, and—
+(a)
+if you produce a Welsh language version and a separate English language version of a form, you must ensure that the English language version clearly states that the form is also available in Welsh;
+(b)
+if you produce a form in Welsh and in English (whether separate versions or not), you must ensure that the Welsh language version is treated no less favourably than the English language version, and you must not differentiate between the Welsh and English versions in relation to any requirements that are relevant to the form (for example, in relation to any deadline for submitting the form, or in relation to the time allowed to respond to the content of the form).
+Standard 35: If you pre-enter information on a Welsh language version of a form (for example, before sending it to a member of the public in Wales (“P”) in order for P to check the content or to fill in the remainder of the form), you must ensure that the information that you pre-enter is in Welsh.
+10 Standards relating to a body’s websites and on-line services
+(1) Websites published by a body
+Standard 36:
+You must ensure that—
+(a)
+the text of each page of your website is available in Welsh,
+(b)
+every Welsh language page on your website is fully functional, and
+(c)
+the Welsh language is not treated less favourably than the English language on your website.
+Standard 37:
+You must ensure that—
+(a)
+the text of the homepage of your website is available in Welsh,
+(b)
+any Welsh language text on your homepage (or, where relevant, your Welsh language homepage) is fully functional, and
+(c)
+the Welsh language is treated no less favourably than the English language in relation to the homepage of your website.
+Standard 38:
+You must ensure that when you publish a new page on your website or amend a page—
+(a)
+the text of that page is available in Welsh,
+(b)
+any Welsh language version of that page is fully functional, and
+(c)
+the Welsh language is treated no less favourably than the English language in relation to that page.
+Standard 39: If you have a Welsh language web page that corresponds to an English language web page, you must state clearly on the English language web page that the page is also available in Welsh, and you must provide a direct link to the Welsh page on the corresponding English page.
+Standard 40: You must provide the interface and menus on every page of your website in Welsh.
+Standard 41:
+You must designate and maintain a page (or pages) on your website which provides information (in Welsh) on—
+(a)
+the services you provide and the activities you undertake in Wales, and
+(b)
+the Welsh language services you provide and how each of those Welsh language services can be accessed.
+(2) Apps published by a body
+Standard 42: All apps that you publish for use by members of the public in Wales must function fully in Welsh, and the Welsh language must be treated no less favourably than the English language in relation to that app.
+(3) Online chat facility
+Standard 43: If you have a live chat facility for use by members of the public in Wales, you must provide it in Welsh.
+Standard 43A: You must state (in Welsh) on your website that your live chat facility is available in Welsh and how it can be accessed.
+11 Standards relating to a body’s use of social media
+Standard 44: When you use social media, you must not treat the Welsh language less favourably than the English language.
+Standard 45: If a member of the public in Wales contacts you by social media in Welsh, you must reply in Welsh (if an answer is required).
+12 Standard relating to self service machines
+Standard 46: You must ensure that any self service machines that you have in Wales function fully in Welsh, and the Welsh language must be treated no less favourably than the English language in relation to that machine.
+13 Standards relating to signs displayed by a body
+Standard 47: When you create a sign to be erected in Wales (whether permanent or temporary), any text displayed on the sign must be displayed in Welsh (whether on the same sign as you display corresponding English language text or on a separate sign); and if the same text is displayed in Welsh and in English, you must not treat the Welsh language text less favourably than the English language text.
+Standard 48: When you create a sign to be erected in Wales (whether permanent or temporary) which conveys the same information in Welsh and in English, the Welsh-language text must be positioned so that it is likely to be read first.
+14 Standards relating to a body receiving visitors at its buildings
+Standard 49: Any reception service you make available in English must also be available in Welsh, and a member of the public in Wales who requires a Welsh language reception service in Wales must not be treated less favourably than a person who requires an English language reception service.
+Standard 50:
+If you have no face to face Welsh language reception service available and a member of the public in Wales (“P”) wishes to receive a Welsh language reception service, you must—
+(a)
+ask P whether he or she wishes for you to arrange for a Welsh speaking member of staff to attend the reception, and
+(b)
+if P has informed you that he or she wishes a Welsh speaking member of staff to attend the reception, you must arrange for a Welsh speaking member of staff to attend the reception to provide a service equivalent to a Welsh language reception service.
+Standard 51: If you have no face to face Welsh language reception service available at your reception, you must ensure that a Welsh language reception service is available over a phone in your reception.
+Standard 52: You must display a sign in your reception which states (in Welsh) that members of the public are welcome to use the Welsh language at the reception.
+15 Standards relating to notices made by a body
+Standard 53: Any notice that you publish or display in Wales must be published or displayed in Welsh, and you must not treat any Welsh language version of a notice less favourably than an English language version.
+Standard 54: When you publish or display a notice in Wales that contains Welsh language text as well as English language text, the Welsh language text must be positioned so that it is likely to be read first.
+16 Standards relating to a body awarding grants
+Standard 55: Any documents that you publish which relate to applications for a grant which members of the public in Wales may apply for, must be published in Welsh, and you must not treat a Welsh language version of such documents less favourably than an English language version.
+Standard 56: When you invite applications for a grant which members of the public in Wales may apply for, you must state in the invitation that applications from members of the public in Wales may be submitted in Welsh and that any application submitted in Welsh will be treated no less favourably than an application submitted in English.
+Standard 56A: You must not treat applications for a grant which members of the public in Wales can apply for submitted in Welsh by a member of the public in Wales less favourably than applications submitted in English (including, amongst other matters, in relation to the closing date for receiving applications, and in relation to the time-scale for informing applicants of decisions).
+Standard 57: If you receive an application in Welsh from a member of the public in Wales for a grant which members of the public in Wales can apply for, and it is necessary to interview the applicant as part of your assessment of the application, you must offer to conduct that interview in Welsh and, if the applicant so wishes, you must conduct the interview in Welsh (without the assistance of a simultaneous or consecutive translation service).
+Standard 58:
+If you receive an application in Welsh from a member of the public in Wales for a grant which members of the public in Wales can apply for, and it is necessary to interview the applicant as part of your assessment of the application, you must—
+(a)
+offer to provide a translation service from Welsh to English to enable the applicant to use the Welsh language at the interview, and
+(b)
+if the applicant wishes to use the Welsh language at the interview, provide a simultaneous translation service for that purpose (unless you conduct the interview in Welsh without a translation service).
+Standard 59: When you inform an applicant of your decision in relation to an application for a grant which members of the public in Wales can apply for, you must do so in Welsh if the application was submitted in Welsh by a member of the public in Wales.
+17 Standards for raising awareness about Welsh language services provided by a body
+Standard 60: You must promote any Welsh language service that you provide, and advertise that service in Welsh.
+Standard 61: If you provide a service in Welsh that corresponds to a service you provide in English, any publicity or document that you produce, or website that you publish, which refers to the English service must also state that a corresponding service is available in Welsh.
+18 Standard relating to a body’s corporate identity
+Standard 62: When you form, revise or present your corporate identity, you must not treat the Welsh language less favourably than the English language.
+19 Standards relating to courses offered by a body
+Standard 63: If you offer an education course in Wales that is open to members of the public in Wales, you must offer it in Welsh.
+Standard 64: If you offer an education course in Wales that is open to members of the public in Wales, and which is aimed specifically at persons aged 18 or under, you must offer it in Welsh.
+Standard 65:
+If you offer an education course in Wales to members of the public in Wales, you must—
+(a)
+undertake an assessment of the need for that course to be offered in Welsh;
+(b)
+offer that course in Welsh if the assessment indicated that the course needs to be offered in Welsh.
+PART 2
+STANDARDS THAT ARE RELIANT ON OTHER STANDARDS – SPECIAL CONDITIONS
+20 When a compliance notice requires a body to comply with one of the standards listed on a specific row in column 1 of Table 1, that compliance notice must also require that body to comply (in whatever way the Welsh Language Commissioner considers appropriate) with the standard or standards listed in column 2 of that row (or with one or more of those standards where that is stated).
+TABLE 1
+Row
+Column 1
+Main standard
+Column 2
+Reliant standard
+(1)
+Replying to correspondence
+Standard 1
+Standard 6
+(2)
+Corresponding with members of the public
+Standard 3
+Standard 5
+Standard 6
+(3)
+General standards relating to correspondence
+Standard 4
+Standard 5
+Standard 6
+(4)
+Raising awareness about corresponding in Welsh
+Standard 6
+Standard 1
+(5)
+Receiving telephone calls
+Standard 7
+One or more of the following:
+Standard 8
+Standard 9
+Standard 10
+Standard 11
+(6)
+Receiving telephone calls
+Standard 8, 9, 10 or 11
+Standard 7
+Standard 13
+(7)
+Raising awareness about telephone services in Welsh
+Standard 13
+One or more of the following:
+Standard 8
+Standard 9
+Standard 10
+Standard 11
+and also
+Standard 15, and
+Standard 16
+(8)
+Meetings with more than one person
+Standard 19
+One or more of the following:
+Standard 19A
+Standard 19B
+Standard 19C
+(9)
+Meetings with more than one person
+Standard 19A, 19B or 19C
+Standard 19
+(10)
+Public meetings
+Standard 20
+Standard 22
+(11)
+Public meetings
+Standard 22
+Standard 20
+(12)
+Documents
+Standard 29
+Standard 30
+Standard 31
+(13)
+Websites
+Standard 36, 37 or 38
+Standard 39
+(14)
+Live chat facility
+Standard 43
+Standard 43A
+(15)
+Live chat facility
+Standard 43A
+Standard 43
+(16)
+Reception
+Standard 49, 50 or 51
+Standard 52
+(17)
+Raising awareness of Welsh-language services in a reception
+Standard 52
+One or more of the following:
+Standard 49
+Standard 50
+Standard 51
+(18)
+Grants
+Standard 56
+Standard 56A
+Standard 59
+(19)
+Grants
+Standard 57 or 58
+Standard 56
+Standard 56A
+PART 3
+INTERPRETING THE STANDARDS
+21 The standards specified in Part 1 of this Schedule must be interpreted as follows.
+22
+The standards only apply to the extent that a body—
+(a)
+delivers services to a person, or
+(b)
+deals with any other person in connection with delivering services—
+(i)
+to that other person, or
+(ii)
+to a third person.
+23 The standards only apply to the extent that the standards relate to the provision by a body of a service provided to the public in the exercise of the body’s functions as a water undertaker or a sewerage undertaker for the whole or any part of Wales.
+24 A body is not required to produce, to publish, to display or to send material in Welsh to the extent that another enactment has specified the wording of a document, a sign or a form which would run contrary to that requirement.
+25
+For the purposes of the standards—
+(a)
+a requirement to produce, to send, to publish, to display, to make available or to issue any written material in Welsh does not mean that the material should be produced, sent, published, displayed, made available or issued in Welsh only, nor does it mean that the material should be produced in Welsh first (unless that is specifically stated in the standard);
+(b)
+a requirement to provide a service or activity in Welsh does not mean that that service or activity should only be provided in Welsh (unless that is specifically stated in the standard).
+26
+(1) A body is not required to translate into Welsh any text that it has not produced (“text A”).
+(2) A body will not be treating the Welsh language less favourably if it does not translate text A into Welsh but see sub-paragraph (3).
+(3) A body must use the Welsh version of text A if another person has produced text A in Welsh in accordance with—
+(a)
+its Welsh Language Scheme,
+(b)
+a duty to comply with standards,
+(c)
+Standing Orders of Senedd Cymru,
+(ch)
+section 35(1C) of the 2006 Act, or
+(d)
+the Senedd Commission’s Official Languages Scheme.
+(4) In this paragraph—
+(a)
+“Welsh Language Scheme” means a Welsh language scheme produced in accordance with Part 2 of the Welsh Language Act 1993(1);
+(b)
+“a duty to comply with standards” means a duty to comply with a standard under section 25 of the Welsh Language (Wales) Measure 2011;
+(c)
+“the 2006 Act” means the Government of Wales Act 2006(2);
+(ch)
+“Standing Orders of Senedd Cymru” means standing orders made under section 31 of the 2006 Act;
+(d)
+“the Senedd Commission’s Official Languages Scheme” means the Scheme adopted and published under paragraph 8 of Schedule 2 to the 2006 Act.
+27
+(1) If the conditions in paragraphs (a) to (c) are met or the condition in sub-paragraph (2) is met, a body is not required to comply with any of the standards in respect of an activity or a service referred to in paragraph (b)—
+(a)
+the first condition is that an emergency has occurred, is occurring or is about to occur;
+(b)
+the second condition is that the activity being carried out or the service being provided by the body is necessary for the purpose of preventing, controlling or mitigating an aspect or effect of an emergency;
+(c)
+the third condition is that the need for the activity or the service referred to in paragraph (b) is urgent.
+(2) The condition is that the body is undertaking an emergency drill.
+(3) If the condition in sub-paragraph (2) is met, then the reference to “an emergency” in sub-paragraph (1)(b) is to be read as “the simulated emergency situation”.
+28 For the purposes of standards 2 and 32, a body corresponds with a member of the public in Wales or sends a form to a member of the public in Wales for the first time when it corresponds or sends a form for the first time after the date on which a compliance notice has required the body to comply with the standard.
+29 For the purposes of standards 2 and 4, “system generated correspondence” means bills, meter reading requests, new account correspondence and account closure correspondence.
+30 For the purposes of standards 7, 10, 11, 13 and 16, “service helpline” means a telephone helpline dealing with water services or sewerage services but not account enquiries.
+31 In standard 17, an “automated” telephone system means a system that answers telephone calls and guides persons through a set procedure with a recorded message which, for example, asks a person to press different keys in order to choose different options.
+32 Standards 18 to 19C do not apply when the meeting is held at short notice (for example, when a body makes door to door enquiries).
+33
+Where a standard refers to material that is to be produced in Welsh (with the exception of standards 36 to 42 (websites and apps) and 44 and 45 (social media)), references to treating the Welsh language no less favourably than the English language, or to treating a Welsh language version no less favourably than an English language version, include, amongst other matters, (and in addition to specific matters referred to in any individual standard), treating the Welsh language no less favourably as regards—
+(a)
+the visual presentation of material (for example in relation to the colour or font of any text);
+(b)
+the size of the material;
+(c)
+the position and prominence of the material in any public place;
+(ch)
+when and how the material is published, provided or exhibited;
+(d)
+the publication format of material.
+34
+For the purposes of standards 29 and 34, references to documents or other materials being available to members of the public in Wales
+do not include documents or materials that are only available to the public by virtue of the Freedom of Information Act 2000(3).
+35 Standard 29 does not apply to an enactment made by a body or to a draft enactment prepared by a body.
+36 Standards 29 and 30 do not apply to any advertising material contained in a document, brochure, leaflet, pamphlet or card.
+37
+(1) Standards 32 and 34 do not apply to the forms referred to in sub-paragraph (2).
+(2) For the purposes of standard 32, a body is not required to send a Welsh language version of the forms used when applying for grant assistance from a body (see standards 55 to 59 in relation to applications for grants).
+38
+Standards 36 to 41 (websites) do not apply to—
+(a)
+documents to which a link is provided on a website, advertising material on a website, or to video and audio clips on a website (see standards 29 to 31 for specific provision in relation to documents, and standard 26 in relation to advertising material produced by a body);
+(b)
+information presented by persons (other than the body) on an interactive page published on a body’s website (for example, on a section for comments, or on a discussion forum);
+(c)
+a live chat facility (see standards 43 and 43A for specific provision in relation to live chat).
+39
+(1) Standard 42 does not apply to any advertising material on an app (see standard 26 in relation to advertising material produced by a body).
+(2) Standard 42 does not apply to a live chat facility (see standards 43 and 43A for specific provision in relation to live chat).
+40
+For the purposes of standards 36 to 42 (websites and apps) and standards 44 and 45 (social media), references to treating the Welsh language no less favourably than the English language include, amongst other matters, (and in addition to specific matters referred to in any individual standard), treating the Welsh language no less favourably as regards—
+(a)
+the visual presentation of the material (for example, in relation to the colour, size, font and format of any text), or
+(b)
+when material is published on the website, app or social media;
+but it does not mean that Welsh language material must appear on the same page as English language material, or on a page that a person is likely to find before the English language page when searching.
+41
+(1) For the purposes of standards 43 and 43A and paragraphs 38, 39 and 43, “live chat facility” means an on-line messaging application within a website or app, designed specifically to provide a real time method of communication.
+(2) Standard 43 does not apply to any advertising material on a live chat facility (see standard 26 in relation to advertising material produced by a body).
+(3) Standard 43 (live chat facility) does not apply to documents to which a link is provided through the live chat facility, or to video and audio clips provided through the live chat facility (see standards 29 to 31 for specific provision in relation to documents, and standard 26 in relation to advertising material produced by a body).
+42
+Standards 44 and 45 (social media) do not apply to—
+(a)
+documents to which a link is provided through social media, or to video and audio clips provided through social media (see standards 29 to 31 for specific provision in relation to documents, and standard 26 in relation to advertising material produced by a body);
+(b)
+information presented by persons (other than the body) on a body’s social media account (for example, on a section for comments).
+43
+(1) Standards 1 to 6 (correspondence) do not apply to correspondence sent by social media or live chat facility (see standards 44 and 45 in relation to social media and standards 43 and 43A in relation to live chat facility).
+(2) Standards 36 to 42 (websites and apps) do not apply to social media (see standards 44 and 45 in relation to social media).
+44 For the purpose of standard 46 (self service machines), reference to treating the Welsh language no less favourably than the English language includes, amongst other matters, treating the Welsh language no less favourably as regards the visual presentation of the material (for example, in relation to the colour, size, font and format of any text), but it does not mean that Welsh language material must appear on screen at the same time as English language material.
+45
+For the purposes of standards 49 to 52 (receiving visitors)—
+(a)
+“reception” means an area in a body’s offices where a reception service is provided;
+(b)
+“reception service” means a service for welcoming persons to the body’s offices by staff who are made available for that purpose.
+46 Standards 49 to 52 (receiving visitors) do not apply when the reception is located outside of Wales.
+47 For the purposes of standards 6, 53 and 54, a “notice” means any notice that a body publishes, but it does not include notices prescribed by an enactment.
+48
+(1) For the purposes of standard 62, the reference to a body forming or presenting its “corporate identity” includes, amongst other things, the way a body presents itself by means of visual statements, the name or names used by a body, and a body’s branding and slogans (for example, branding and slogans printed on its stationery).
+(2) Standard 62 does not apply to the extent that an enactment requires a body to use a legal name.
+49
+For the purposes of standards 63 to 65 (courses), an “education course” means any seminar, training, workshop or similar provision which is provided in order to educate or to improve the skills of members of the public; but does not include—
+(a)
+activities or courses provided as part of the curriculum in accordance with any enactment, or
+(b)
+seminars or oral presentations relating to a performance or production.
+50
+For the purposes of the standards “enactment” means an enactment (whenever enacted or made) comprised in, or in an instrument made under—
+(a)
+an Act of Parliament, or
+(b)
+a Measure or an Act of Senedd Cymru.
+(1)
+1993 c. 38.
+(2)
+2006 c. 32.
+(3)
+2000 c. 36Regulation 2(2)
+SCHEDULE 2
+Record Keeping Standards
+PART 1
+THE STANDARDS
+1 Standards relating to a body keeping records
+Standard 66:
+You must keep—
+(a)
+a record, in relation to each financial year, of the number of complaints you receive relating to your compliance with standards;
+(b)
+a copy of any written complaint that you receive that relates to your compliance with the standards with which you are under a duty to comply.
+Standard 67: You must keep a copy of any written complaint that you receive concerning the Welsh language that relates to the provision by you of specified services (whether or not that complaint relates to the standards with which you are under a duty to comply).
+PART 2
+INTERPRETING THE STANDARDS
+2 The standards specified in Part 1 of this Schedule must be interpreted as follows.
+3 For the purposes of standard 66, “financial year” means the body’s own financial year.
+4 For the purposes of standard 67, “specified service” means services provided to the public in the exercise of the functions of water undertaker or sewerage undertaker for the whole or any part of Wales.Regulation 2(3)
+SCHEDULE 3
+Standards which deal with Supplementary Matters
+PART 1
+SERVICE DELIVERY STANDARDS
+1 A body publicising service delivery standards
+Standard 68: You must ensure that a document which records the service delivery standards with which you are under a duty to comply, and the extent to which you are under a duty to comply with those standards, is available on your website.
+2 A body publishing a complaints procedure
+Standard 69:
+You must—
+(a)
+ensure that you have a complaints procedure that deals with how you intend to deal with complaints relating to your compliance with the service delivery standards with which you are under a duty to comply, and
+(b)
+publish a document that records that procedure on your website.
+3 A body producing an annual report regarding service delivery standards
+Standard 70:
+(1) You must produce a report (an “annual report”), in Welsh, in relation to each financial year, which deals with the way in which you have complied with the service delivery standards with which you were under a duty to comply during that year.
+(2) The annual report must include the number of complaints that you received during that year which related to your compliance with the service delivery standards with which you were under a duty to comply.
+(3) You must publish the annual report no later than 6 months following the end of the financial year to which the report relates.
+(4) You must ensure that a current copy of your annual report is available on your website.
+4 A body publicising the way it intends to comply with service delivery standards
+Standard 71: You must publish a document on your website which explains how you intend to comply with the service delivery standards with which you are under a duty to comply.
+5 A body providing information to the Welsh Language Commissioner
+Standard 72: You must provide any information requested by the Welsh Language Commissioner which relates to your compliance with the service delivery standards with which you are under a duty to comply.
+PART 2
+RECORD KEEPING STANDARDS
+6 A body publicising record keeping standards
+Standard 73: You must ensure that a document which records the record keeping standards with which you are under a duty to comply, and the extent to which you are under a duty to comply with those standards, is available on your website.
+7 A body publishing a complaints procedure
+Standard 74:
+You must—
+(a)
+ensure that you have a complaints procedure that deals with how you intend to deal with complaints relating to your compliance with the record keeping standards with which you are under a duty to comply, and
+(b)
+publish a document that records that procedure on your website.
+8 A body providing information to the Welsh Language Commissioner
+Standard 75: You must provide any records you have kept in accordance with the record keeping standards with which you are under a duty to comply to the Welsh Language Commissioner, if the Commissioner asks for those records.
+PART 3
+INTERPRETING THE STANDARDS
+9 The standards specified in Parts 1 and 2 must be interpreted as follows.
+10 For the purposes of standard 70, “financial year” means the body’s own financial year.
+11 For the purposes of the standards, a requirement to produce or publish any written material in Welsh does not mean that material should be produced or published in Welsh only, nor does it mean that the material should be produced in Welsh first (unless that is specifically stated in the standard).Regulation 1(4)
+SCHEDULE 4
+Qualifying persons—
+(a)
+who provide the public with water services (including supply or distribution), and
+(b)
+who, by virtue of an appointment under section 6 of the Water Industry Act 1991(1), or by virtue of a variation of such an appointment under section 7 of that Act, are water undertakers for the whole or any part of Wales.
+Qualifying persons—
+(a)
+who provide the public with sewerage services (including disposal of sewage), and
+(b)
+who, by virtue of an appointment under section 6 of the Water Industry Act 1991, or by virtue of a variation of such an appointment under section 7 of that Act, are sewerage undertakers for the whole or any part of Wales.
+(1)
+1991 c. 56.EXPLANATORY NOTE
+(This note is not part of the Regulations)
+The Welsh Language (Wales) Measure 2011 (nawm 1) (“the 2011 Measure”) makes provision for the specification of standards of conduct in relation to the Welsh language (“standards”). These replace the system of Welsh language schemes provided for by the Welsh Language Act 1993 (c. 38).
+Section 26 of the 2011 Measure enables the Welsh Ministers to specify standards, and section 39 enables them to provide that a standard is specifically applicable to a person by authorising the Welsh Language Commissioner (“the Commissioner”) to give a notice to that person requiring compliance with the standard (a “compliance notice”).
+These Regulations specify standards in relation to the conduct of water and sewerage undertakers set out in Schedule 4 to the Regulations (which are referred to in the Regulations as “bodies”). Water and sewerage undertakers are appointed under section 6 or by a variation of an appointment under section 7 of the Water Industry Act 1991 (c. 56).
+The Regulations also authorise the Commissioner to give a compliance notice to those bodies, in relation to standards specified by the Regulations. This is referred to in the 2011 Measure as making a standard “specifically applicable” to a body.
+Because the bodies which these standards relate to are within Schedule 8 to the 2011 Measure, section 37 of the 2011 Measure provides that only service delivery standards and record keeping standards can be made specifically applicable to them. A service delivery standard only applies to the extent that it relates to the provision by the body of a service specified in column 2 of the body’s entry in Schedule 8 to the 2011 Measure. In the case of the water and sewerage undertakers falling within Schedule 4 to these Regulations, the specified services are services provided to the public in the exercise of the functions of water undertaker or sewerage undertaker (as appropriate) for the whole or any part of Wales.
+In accordance with section 44 of the 2011 Measure, the Commissioner may (by way of a compliance notice) require a body to comply with one or more standards that are specifically applicable to it. To reflect that, the standards specified by the Regulations are expressed in the second person narrative, meaning that they are in “you must” form (where “you” means the relevant body in each case).
+Using the flexibility provided by section 44 of the 2011 Measure, the Commissioner may (if it is reasonable and proportionate, and the Commissioner wishes to do so) require a body to comply with one standard in some circumstances and another standard in other circumstances. For example, if a standard is specifically applicable to a body, the Commissioner may require the body to comply with the standard in some circumstances but not others, or require it to comply with the standard only in some areas. Similarly, if two or more standards relate to a specific conduct (for example, standards 8 and 9 in relation to answering telephone calls), the Commissioner may (by way of a compliance notice) require a body to comply with one of those standards only, or with different standards at different times, in different circumstances, or in different areas, as is appropriate for the body. The Commissioner is not, therefore, obliged to require every body to comply with every standard.
+In accordance with section 46 of the 2011 Measure, the compliance notice given to a body must state the imposition day, or imposition days; meaning the day or days upon which the body becomes required to comply with a standard (or comply with a standard in a specific way). Using the flexibility provided for by section 46, the Commissioner may set an early imposition day for a body to comply with a standard (provided this is at least 6 months after the date on which the body was given the related compliance notice), or set an imposition day further in the future (for example, in relation to more challenging standards).
+Where a standard specified in these Regulations requires written material to be displayed or provided in Welsh, or for a service to be provided in Welsh, this does not mean that the material must be displayed or provided in Welsh only, or that the service must only be provided in Welsh (unless that is specifically stated).
+Schedule 1 to the Regulations specifies service delivery standards. Section 28 of the 2011 Measure provides that a “service delivery standard” means a standard that relates to a service delivery activity, and is intended to promote or facilitate the use of the Welsh language, or to work towards ensuring that the Welsh language is treated no less favourably than the English language, when that activity is carried out. A “service delivery activity” means a person delivering services to another person, or dealing with any other person in connection with delivering services to that other person, or to a third person.
+Schedule 2 to the Regulations specifies record keeping standards. Section 32 of the 2011 Measure provides that a “record keeping standard” is a standard relating to the keeping of records about other specified standards, records about complaints concerning compliance with other specified standards, or records about other complaints concerning the Welsh language.
+Schedule 3 to the Regulations specifies standards that deal with supplementary matters. These are specific forms of service delivery standards and record keeping standards that deal with the matters referred to in section 27(4) of the 2011 Measure (which are supplementary to the matters dealt with in Schedules 1 and 2).
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, a regulatory impact assessment has been prepared as to the likely costs and benefits of complying with these Regulations. A copy can be obtained from the Welsh Language Unit, Welsh Government, Cathays Park, Cardiff, CF10 3NQ or by email at Cymraeg2050@llyw.cymru.

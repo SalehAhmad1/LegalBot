@@ -1,0 +1,97 @@
+This Statutory Instrument makes corrections to provisions made by S.I. 2021/150 and is being issued free of charge to all known recipients of that Statutory Instrument.
+STATUTORY INSTRUMENTS
+2021 No. 348
+PUBLIC HEALTH, ENGLAND
+The Health Protection (Coronavirus, International Travel) (England) (Amendment) (No. 10) Regulations 2021
+Made
+at 11.05 a.m. on 18th March 2021
+Laid before Parliament
+at 3.00 p.m. on 18th March 2021
+Coming into force
+at 4.00 a.m. on 19th March 2021
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 45B, 45F(2) and 45P(2) of the Public Health (Control of Disease) Act 1984(1).
+(1)
+1984 c. 22. Part 2A was inserted by section 129 of the Health and Social Care Act 2008 (c. 14).Citation, commencement, extent and application
+1.—(1) These Regulations may be cited as the Health Protection (Coronavirus, International Travel) (England) (Amendment) (No. 10) Regulations 2021.
+(2) These Regulations come into force at 4.00 a.m. on 19th March 2021.
+(3) These Regulations extend to England and Wales and apply in relation to England only.Amendment to the Health Protection (Coronavirus, International Travel) (England) Regulations 2020
+2.  The Health Protection (Coronavirus, International Travel) (England) Regulations 2020(1) are amended as follows.
+(1)
+S.I. 2020/568, amended by S.I. 2020/691, 724, 799, 805, 813, 819, 841, 866, 890, 913, 959, 980, 1013, 1039, 1070, 1076, 1094, 1129, 1161, 1190, 1227, 1238, 1277, 1292, 1323, 1337, 1360, 1424, 1517, 1595, 2021/18, 25, 38, 47, 49, 68, 98, 137, 150, 166, 223 and 252.Amendment to regulation 3B
+3.  In regulation 3B(1)(a)(i) (requirement to book and undertake tests), after “relevant person” insert “or a person described in paragraph 38 (seasonal agricultural workers) of Schedule 2”.Amendments to Schedule B1
+4.—(1) Schedule B1 (countries and territories subject to additional measures) is amended as follows.
+(2) Omit the entries for “The Azores”, “Madeira”, “Mauritius” and “Portugal”.
+(3) In the appropriate places insert—
+(a)
+Ethiopia;
+(b)
+Oman;
+(c)
+Qatar;
+(d)
+Somalia.Amendments to Schedule B1A
+5.—(1) Schedule B1A (additional measures)(1) is amended as follows.
+(2) In paragraph 2(1)(g) (exemptions)—
+(a)
+after sub-paragraph (iii) insert—
+“(iiia)
+paragraph 4B (seamen and masters),
+(iiib)
+paragraph 4C (pilots),
+(iiic)
+paragraph 4D (inspectors and surveyors of ships),
+(iiid)
+paragraph 4E (members of aircraft crew),”;
+(b)
+omit sub-paragraph (v).
+(3) In paragraph 18 after paragraph (3) insert—
+“(3A) P is also a relevant person if—
+(a)
+P is vulnerable as a result of a severe medical or health condition;
+(b)
+P would not receive appropriate support in designated accommodation and that condition would be severely detrimentally impacted if P were required to self-isolate in such accommodation;
+(c)
+P has provided evidence from a suitably qualified or registered medical practitioner of the matters specified in paragraphs (a) and (b);
+(d)
+the Secretary of State has confirmed in writing that this paragraph applies in relation to P and has not withdrawn that confirmation.
+(3B) P is also a relevant person if travelling with a person who is a relevant person by virtue of sub-paragraph (3A), where it is necessary for P to care for that relevant person, and where the Secretary of State has confirmed in writing that this paragraph applies in relation to P and has not withdrawn that confirmation.
+(3C) P is also a relevant person if—
+(a)
+P needs to visit a person (“D”) whom P reasonably believes is dying, or where D is severely ill;
+(b)
+P is a member of D’s household or a close family member or friend of D;
+(c)
+it would not be reasonably practicable for P to visit D if P were required to self-isolate in designated accommodation;
+(d)
+the Secretary of State has confirmed in writing that this paragraph applies in relation to P and has not withdrawn that confirmation.”.
+(1)
+Schedule B1A was inserted by S.I. 2021/150.Amendments to Schedule B2
+6.—(1) Schedule B2 (prohibition on arrival of aircraft and vessels)(1) is amended as follows.
+(2) In paragraph 1 (aircraft)—
+(a)
+omit the entries for “The Azores”, “Madeira” and “Portugal”;
+(b)
+in the appropriate places insert—
+(i)
+Ethiopia,
+(ii)
+Oman,
+(iii)
+Qatar.
+(3) For paragraph 2 (vessels), substitute—
+“2.  No countries or territories are listed for the purposes of regulation 4C(1) (prohibition on arrival of vessels into England)”.
+(1)
+Schedule B2 was inserted by S.I. 2021/47 and amended by S.I. 2021/98.Amendment to Schedule 1
+7.  In Schedule 1 (passenger information) in paragraph 7(b) for “10(4)” substitute “10(5)”(1).
+(1)
+Paragraph 7 was inserted by S.I. 2021/150.Amendment to Schedule 2C
+8.  In paragraph 3(2) of Schedule 2C (mandatory testing after arrival in England), at the end insert “or (1A)”(1).
+(1)
+Paragraph (1A) was inserted into regulation 3B by S.I. 2021/166.Transitional provision and saving
+9.  Nothing in these Regulations applies in relation to a person who arrived in England before 4.00 a.m. on 19th March 2021.Bethell
+Parliamentary Under-Secretary of State,
+Department of Health and Social Care
+At 11.05 a.m. on 18th March 2021EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the Health Protection (Coronavirus, International Travel) (England) Regulations 2020 (“the International Travel Regulations”) to prohibit the arrival in England of aircraft from Ethiopia, Oman and Qatar. Those countries are also added to the list, in Schedule B1, of countries and territories subject to enhanced measures. Arrivals from those countries must arrive at a designated port and enter managed quarantine. Additionally, Mauritius, the Azores, Portugal and Madeira are removed from the list in Schedule B1 and the prohibition on the arrival of aircraft and vessels from those countries is removed. These Regulations also make some minor amendments of and corrections to other provisions in the International Travel Regulations.
+An impact assessment has not been produced for this instrument. An explanatory memorandum has been published alongside this instrument at www.legislation.gov.uk.

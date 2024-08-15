@@ -1,0 +1,78 @@
+STATUTORY INSTRUMENTS
+2022 No. 1265
+ELECTRICITY
+The Electricity (Connection Charges) (Amendment) Regulations 2022
+Made
+30th November 2022
+Laid before Parliament
+6th December 2022
+Coming into force
+1st April 2023
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 19(3A) and 60(3) of, and Schedule 5B to, the Electricity Act 1989(1).
+In accordance with paragraph 3(1) of Schedule 5B to that Act, the Secretary of State has consulted the Gas and Electricity Markets Authority.
+(1)
+1989 c. 29 (“the 1989 Act”). Section 19 was amended by the Utilities Act 2000 (c. 27), section 46, and by the Infrastructure Act 2015 (c. 7), section 52. Section 60(3) was amended by the Utilities Act 2000, section 3. See section 64(1) for the definition of “prescribed”; the definition was amended by the Utilities Act 2000, Schedule 6, Part 2, paragraph 38(6). Schedule 5B was inserted by the Infrastructure Act 2015, section 52.Citation, commencement and extent
+1.—(1) These Regulations may be cited as the Electricity (Connection Charges) (Amendment) Regulations 2022.
+(2) These Regulations come into force on 1st April 2023.
+(3) These Regulations extend to England and Wales and Scotland.
+Commencement Information
+I1
+Reg. 1 in force at 1.4.2023, see reg. 1(2)Application
+2.  These Regulations apply in relation to a second connection(1) required under section 16 of the Electricity Act 1989 by virtue of a notice given under section 16A(1) of that Act on or after 1st April 2023.
+Commencement Information
+I1
+Reg. 2 in force at 1.4.2023, see reg. 1(2)
+(1)
+See paragraph 1(4) of Schedule 5B to the 1989 Act for the meaning of “second connection”.Amendment of the Electricity (Connection Charges) Regulations 2017
+3.  The Electricity (Connection Charges) Regulations 2017(1) are amended in accordance with regulations 4 and 5.
+Commencement Information
+I1
+Reg. 3 in force at 1.4.2023, see reg. 1(2)
+(1)
+S.I. 2017/106.Amendment of regulation 2 (interpretation)
+4.  In regulation 2 (interpretation)—
+(a)
+omit the definitions of “HV connection”, “kV” and “LV connection”;
+(b)
+after the definition of “eligible person”, insert—
+““high expenses threshold” means the threshold, expressed in pounds per unit of power, applied by the relevant electricity distributor in relation to the expenses of a connection;”;
+(c)
+for the definition of “net first connection expenses” substitute—
+““net first connection expenses”, in relation to a second connection, means the first connection expenses(1) excluding such of those expenses relating to reinforcement works—
+(a)
+which were met in full by the relevant electricity distributor(2) or the initial contributor;
+(b)
+which fell above the high expenses threshold and were met by the initial contributor;
+(c)
+which the relevant electricity distributor would not require the person obtaining the second connection to defray under section 19(1) of the Act(3) if the electric line or electrical plant(4) used for the purpose of the second connection were treated as provided for the purpose of making a new first connection;”.
+Commencement Information
+I1
+Reg. 4 in force at 1.4.2023, see reg. 1(2)
+(1)
+See paragraph 1 of Schedule 5B to the 1989 Act for the meaning of “first connection expenses”, “first connection” and “second connection”.
+(2)
+See paragraph 4(1) of Schedule 5B to the 1989 Act for the meaning of “relevant electricity distributor”.
+(3)
+See section 19 of the 1989 Act for the power of a distributor to require defrayal of expenses. Distributors exercise this power in accordance with a common connection charging methodology approved by the Gas and Electricity Markets Authority. The methodology is set out in Schedule 22 to the Distribution Connection and Use of System Agreement, the current version of which is at https://www.dcusa.co.uk/dcusa-document/.
+(4)
+See section 64 of the Act for the meanings of “electrical plant” and electric line”.Amendment of regulation 7 (demanding a reimbursement payment)
+5.  For regulation 7(5) substitute—
+“(5) A relevant electricity distributor is not required—
+(a)
+to demand a reimbursement payment in any case where the amount of the reimbursement payment would, after deduction of administrative expenses under regulation 9, leave less than £300 remaining for payment to eligible persons,
+(b)
+to demand a reimbursement payment in any case where all the persons identified by the relevant electricity distributor in accordance with regulation 6(2), other than the relevant electricity distributor if it is an eligible person itself, have notified the relevant electricity distributor in writing that they do not wish to receive a reimbursement payment, or
+(c)
+to demand a reimbursement payment, or reimbursement in respect of any part of a reimbursement payment, which the distributor is not required and does not intend to make by virtue of regulation 9(3).”.
+Commencement Information
+I1
+Reg. 5 in force at 1.4.2023, see reg. 1(2)Graham Stuart
+Minister of State
+Department for Business, Energy and Industrial Strategy
+30th November 2022EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the Electricity (Connection Charges) Regulations 2017 (“the 2017 Regulations”) in relation to cases where a second connection, within the meaning given by paragraph 1 of Schedule 5B to the Electricity Act 1989, is required by a notice under section 16A of that Act given on or after 1st April 2023.
+The 2017 Regulations make provision about the expenses of electrical connections, where a person (a “second comer”) obtains a connection to premises or a distribution system which makes use of electric lines or electrical plant previously provided for the purpose of giving a connection to other premises or another distribution system. In cases where other persons have paid for all or part of the expenses of the first connection, the 2017 Regulations require the relevant electricity distributor to recover an amount from the second comer and to apply that amount, less administrative expenses, to reimburse the persons who paid for the first connection.
+Regulation 4 amends the 2017 Regulations to reflect changes to the circumstances in which second comers are required to make reimbursement payments, in particular to limit the circumstances where a second comer must make a reimbursement payment in respect of expenses relating to network reinforcement.
+Regulation 5 also amends the 2017 Regulations so that distributors are not required to demand a reimbursement payment, or the appropriate part of any such payment, which the distributor is not required and does not intend to pay to an initial contributor under the provision in regulation 9(3) of the 2017 Regulations.
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.

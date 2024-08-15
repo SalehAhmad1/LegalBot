@@ -1,0 +1,459 @@
+Draft Regulations laid before the Scottish Parliament under section 96 of the Social Security (Scotland) Act 2018 for approval by resolution of the Scottish Parliament.
+DRAFT SCOTTISH STATUTORY INSTRUMENTS
+2018 No.
+SOCIAL SECURITY
+The Early Years Assistance (Best Start Grants) (Scotland) Regulations 2018
+Made
+2018
+Coming into force in accordance with regulation 2
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 32(2), 41(4)(a), 43(5) and 52 of the Social Security (Scotland) Act 2018(1) and all other powers enabling them to do so.
+In accordance with section 96 of that Act, a draft of these Regulations has been laid before and approved by resolution of the Scottish Parliament.
+(1)
+2018 asp 9. The regulation-making powers conferred by the Act include the power to make different provision for different purposes by virtue of section 96(1). The powers to make these Regulations are exercised together by virtue of section 33(2) of the Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10). These Regulations are subject to the affirmative procedure by virtue of section 33(3) of that Act.Citation
+1.  These Regulations may be cited as the Early Years Assistance (Best Start Grants) (Scotland) Regulations 2018.Commencement
+2.  These Regulations come into force on the day after the day they are made.Overview
+3.—(1) Part 2 makes provision about the interpretation of these Regulations.
+(2) Schedule 1 makes provision about matters of procedure for determining entitlement to early years assistance.
+(3) Schedule 2 makes provision about the early years assistance that is to be given in connection with having, or expecting to have, a new baby in the family (referred to in these Regulations as “pregnancy and baby grant”).When an application is to be treated as made
+4.—(1) An application is to be treated as made—
+(a)
+on the day it is received by the Scottish Ministers; or
+(b)
+if applicable, on—
+(i)
+the day chosen by the Scottish Ministers in accordance with paragraph (3); or
+(ii)
+the day the applicant nominates (or is deemed to have nominated) under regulation 5.
+(2) In a case where a determination is to be, or has been, made without an application (see Part 2 of schedule 1) references in these Regulations to the day the application is made are to be read as references to the day the determination is made.
+(3) If, before making a determination on the basis of an application, the Scottish Ministers consider that the applicant—
+(a)
+would not be eligible for the assistance applied for if the application were treated as made on the day they received it; and
+(b)
+would be eligible for the assistance if the application were treated as made on a day falling within the period of 10 days beginning with the day they received it,
+the Scottish Ministers may choose the day within that 10 day period on which the application is to be treated as made.
+(4) For the avoidance of doubt, a thing that purports to be an application is not an application unless it is—
+(a)
+made in the form; and
+(b)
+accompanied by the evidence,
+required under section 38 of the Social Security (Scotland) Act 2018.Late application: nomination of date
+5.—(1) An applicant may nominate the date on which an application will be treated as made by virtue of regulation 4(1)(b)(ii) if—
+(a)
+the award of universal credit or assistance of a kind specified in regulation 11 that the applicant is relying on to meet the relevant eligibility condition is a backdated award;
+(b)
+the backdated award is an award of assistance for—
+(i)
+a day that falls within the application window; or
+(ii)
+a period that includes at least 1 day that falls within the application window; and
+(c)
+the application is received by the Scottish Ministers—
+(i)
+not more than 20 working days after the last day of the application window; and
+(ii)
+within 3 months of the applicant being informed of the backdated award by or on behalf of the public authority who made it.
+(2) If the backdated award is for—
+(a)
+1 day only; or
+(b)
+a period and only 1 day of it falls within the application window,
+the applicant may only nominate that day under this regulation.
+(3) If—
+(a)
+the backdated award is for a period; and
+(b)
+more than 1 day of the period falls within the application window,
+the applicant may nominate any of those days under this regulation.
+(4) If the applicant is entitled to nominate a day under this regulation but has not done so, the applicant is to be deemed to have nominated—
+(a)
+the only day the applicant could have nominated in accordance with paragraph (2); or
+(b)
+the latest day the applicant could have nominated in accordance with paragraph (3).
+(5) In this regulation—
+“application window” means—
+(a)
+in relation to an application for a pregnancy and baby grant, the period that—
+(i)
+begins on the day the child in question is born; and
+(ii)
+ends with the deadline set by paragraph 2 of schedule 2;
+“backdated award” means an award of assistance for a day, or a period that begins on a day, that falls before the day the decision to make the award was taken;
+“the relevant eligibility condition” means—
+(a)
+in relation to an application for a pregnancy and baby grant, the eligibility condition in paragraph 1(e) of schedule 2;
+“working day” means a day other than—
+(a)
+a Saturday;
+(b)
+a Sunday; or
+(c)
+a bank holiday in Scotland under the Banking and Financial Dealings Act 1971(1).
+(1)
+1971 c.80. Schedule 1, paragraph 2 sets out the Scottish bank holidays; it is amended by the St Andrew’s Day Bank Holiday (Scotland) Act 2007 (asp 2), section 1.Meaning of “birthday”, for children born on 29th February
+6.  In a non-leap year, the birthday of a child born on 29th February is to be taken to be 28th February.Calculations involving months
+7.—(1) Where a day (“day 1”) is described as falling a specified number of months before or after another day (“day 2”), the date of day 1 is to be determined as follows.
+(2) Count backwards or forwards (as the case may be) the specified number of months from the month in which day 2 falls.
+(3) If the month arrived at in accordance with paragraph (2) has a day corresponding to day 2, day 1 is that day of the month arrived at.
+(4) If the month arrived at in accordance with paragraph (2) has too few days to have a day corresponding to day 2, day 1 is the last day of the month arrived at(1).
+(1)
+For example, if a child is born on 31st August, the day falling 6 months after the day the child is born is 28th February (or 29th February in a leap year).Meaning of “partner”
+8.  An individual is to be regarded as the partner of another individual on a day only if, on that day, the two individuals would be regarded as a couple for the purposes of Part 1 of the Welfare Reform Act 2012(1) (see section 39 of that Act(2)).
+(1)
+2012 c.5.
+(2)
+Section 39 is amended by S.I. 2014/3229Meaning of being responsible for a child
+9.—(1) An individual is to be regarded as responsible for a child on a day only if at least one of the following statements is true:—
+(a)
+the child is a dependant of the individual on the day in question;
+(b)
+the individual is one of the child’s parents and, on the day in question—
+(i)
+normally lives with the child;
+(ii)
+is under 20 years of age; and
+(iii)
+is a dependant of another individual;
+(c)
+the child is, on the day in question, treated in law as the child of the individual by virtue of an order under section 54 of the Human Fertilisation and Embryology Act 2008(1);
+(d)
+the child is, on the day in question, treated in law as the child of the individual by reason of an adoption either—
+(i)
+effected under the law of Scotland; or
+(ii)
+effected under the law of another country or jurisdiction and recognised by the law of Scotland;
+(e)
+the child is, on the day in question, placed with the individual by an adoption agency;
+(f)
+the individual is, on the day in question, a guardian of the child appointed by deed, will or by a court;
+(g)
+the individual is, on the day in question, a kinship carer for the child.
+(2) In paragraph (1)(e), “adoption agency” means—
+(a)
+a local authority acting in its capacity as an adoption service provider under section 1 of the Adoption and Children (Scotland) Act 2007(2);
+(b)
+an adoption service provided as mentioned in paragraph 8(1)(b) of schedule 12 of the Public Services Reform (Scotland) Act 2010(3) and registered under Part 5 of that Act;
+(c)
+an adoption agency within the meaning of section 2(1) of the Adoption and Children Act 2002(4);
+(d)
+an adoption agency within the meaning of article 3 of the Adoption (Northern Ireland) Order 1987(5).
+(3) For the purpose of paragraph (1)(g), an individual is a kinship carer for a child on a day if—
+(a)
+the individual is a qualifying person in relation to the child within the meaning of section 72(2) of the Children and Young People (Scotland) Act 2014(6), and
+(b)
+on the day in question, the child lives with the individual (exclusively or predominantly) under the terms of—
+(i)
+a kinship care order as defined in section 72(1) of the Children and Young People (Scotland) Act 2014, or
+(ii)
+an agreement between the individual, the individual’s partner or both of them and—
+(aa)
+a local authority by which the child is looked after within the meaning of section 17(6) of the Children (Scotland) Act 1995(7);
+(bb)
+a local authority in England or Wales by which the child is looked after within the meaning of section 105(4) of the Children Act 1989(8); or
+(cc)
+an authority in Northern Ireland by which the child is looked after within the meaning of article 25 of the Children (Northern Ireland) Order 1995(9).
+(1)
+2008 c.22. Section 54 is amended by the Crime and Courts Act 2013 (c.22), schedule 11, paragraph 206 and the Justice Act (Northern Ireland) 2015 (c.9), schedule 9, Part 1, paragraph 1.
+(2)
+2007 asp 4.
+(3)
+2010 asp 8.
+(4)
+2002 c.38.
+(5)
+S.I. 1987/2203. Article 3 is amended by the Adoption (Intercountry Aspects) Act (Northern Ireland) 2001 (c.11), section 7, the Health and Social Care (Reform) Act (Northern Ireland) 2009 (c.1), schedule 6, paragraph 1(1)(d), S.I. 1994/429 and S.I. 2003/431.
+(6)
+2014 asp 8.
+(7)
+1995 c.36. Section 17(6) is amended by the Adoption and Children (Scotland) Act 2007 (asp 4), schedule 2, paragraph 9(4) and by the Children’s Hearings (Scotland) Act 2011 (asp 1), schedule 5, paragraph 2(4) and by S.S.I. 2013/211.
+(8)
+1989 c. 41. Section 105(4) is substituted by S.I. 2016/413.
+(9)
+S.I. 1995/755 (N.I. 2). Article 25 is amended by the Children (Leaving Care) Act (Northern Ireland) 2002 (c.11), section 2(1).Meaning of “dependant”
+10.—(1) An individual (“person A”) is to be regarded as the dependant of another individual (“person B”) on a day only if—
+(a)
+person B has been awarded—
+(i)
+child tax credit or child benefit for the day in question (or for a period that includes that day); or
+(ii)
+universal credit for—
+(aa)
+the assessment period that includes the day in question; or
+(bb)
+the assessment period that ended immediately before the assessment period mentioned in paragraph (aa) started; and
+(b)
+person A is recognised to be a dependant of person B in the terms of that award of assistance.
+(2) It is immaterial for the purpose of this regulation that the award of assistance to person B does not include any amount in respect of person A due to a rule that restricts the number of dependants in respect of whom person B can be given that type of assistance.Meaning of references to specified kinds of assistance
+11.  References in these Regulations to a kind of assistance specified in this regulation are to the following:—
+(a)
+child tax credit;
+(b)
+housing benefit;
+(c)
+income-based jobseeker’s allowance;
+(d)
+income-related employment and support allowance;
+(e)
+income support;
+(f)
+state pension credit;
+(g)
+working tax credit.Meaning of references to assistance being awarded
+12.—(1) An individual is not to be regarded as having been awarded a kind of assistance for a day or a period if—
+(a)
+the award was made in error (whether or not induced by the individual); or
+(b)
+the sum awarded to the individual for the day or the period is £0.
+(2) In sub-paragraph (1)(b), the reference to “the sum awarded” means, in a case where a deduction has been made—
+(a)
+in respect of any liability the individual has to another person; or
+(b)
+by way of a sanction,
+the sum that would have been awarded had the deduction not been made.
+(3) For the avoidance of doubt, in sub-paragraph (1) “kind of assistance” includes universal credit as well as the kinds of assistance specified in regulation 11.Meaning of “assessment period” in relation to universal credit
+13.  “Assessment period” means a period in respect of which universal credit may be payable to the individual in question in accordance with section 7 of the Welfare Reform Act 2012(1).
+(1)
+2012 c.5.Name
+A member of the Scottish Government
+St Andrew’s House,
+Edinburgh
+DateRegulation 3(2)
+SCHEDULE 1
+Procedural matters
+PART 1
+Re-determination timescales
+Deadline for requesting re-determination
+1.  The period for requesting a re-determination of entitlement to early years assistance under section 41 of the Social Security (Scotland) Act 2018(1) is 31 days beginning with the day that the individual is informed, in accordance with section 40 of that Act, of the right to make the request.
+Period allowed for re-determination
+2.—(1) In relation to determining entitlement to early years assistance, the period allowed for re-determination (within the meaning of section 43 of the Social Security (Scotland) Act 2018) is 16 working days beginning with the day that the request for a re-determination is received by the Scottish Ministers.
+(2) For the purpose of this paragraph, a “working day” is a day other than—
+(a)
+a Saturday;
+(b)
+a Sunday; or
+(c)
+a bank holiday in Scotland under the Banking and Financial Dealings Act 1971(2).
+PART 2
+Determination without application
+Determination following application in connection with another child
+3.—(1) The Scottish Ministers are to make a determination of an individual’s entitlement to early years assistance in connection with a child (without receiving an application) in the circumstance described in sub-paragraph (2).
+(2) The circumstance referred to in sub-paragraph (1) is that—
+(a)
+the individual has applied for early years assistance in respect of a child; and
+(b)
+it appears to the Scottish Ministers from the available information that, unless circumstances change, the individual will become eligible for early years assistance in respect of another child within the period—
+(i)
+beginning on the day the application is made; and
+(ii)
+ending at the end of the day that falls 10 days later.
+(3) The determination that sub-paragraph (1) requires to be made is to be made on, or as soon as reasonably practicable after, the day that the Scottish Ministers anticipate will be the day on which the individual first becomes eligible for early years assistance in respect of the child as mentioned in sub-paragraph (2)(b).
+(4) The determination that sub-paragraph (1) requires to be made is to be made (subject to sub-paragraph (5)) on the basis that whatever can be discerned from the available information to have been the case on the day the application mentioned in sub-paragraph (2)(a) was made remains the case on the day the determination is made.
+(5) A determination is not to be made on the basis of the assumption set out in sub-paragraph (4) if, and to the extent that, the Scottish Ministers have information suggesting the assumption is unsound.
+(6) In this paragraph, “the available information” means—
+(a)
+the information provided in the application referred to in sub-paragraph (2)(a); and
+(b)
+any other information obtained by the Scottish Ministers in connection with that application.
+(1)
+2018 asp 9.
+(2)
+1971 c.80. Schedule 1, paragraph 2 sets out the Scottish bank holidays; it is amended by the St Andrew’s Day Bank Holiday (Scotland) Act 2007 (asp 2), section 1.Regulation 3(3)
+SCHEDULE 2
+Pregnancy and baby grant
+PART 1
+Eligibility
+Eligibility
+1.  An individual is eligible for a pregnancy and baby grant in respect of a child if—
+(a)
+the individual’s application for the grant is made before the deadline set by paragraph 2 (see regulation 4 in relation to when an application is to be treated as made);
+(b)
+no-one else has received, or is due to receive, a pregnancy and baby grant or sure start maternity grant in respect of the child (but see paragraph 3);
+(c)
+on the day the application is made the individual satisfies the residence requirement set by paragraph 4;
+(d)
+at least one of these statements is true on the day the application is made—
+(i)
+the individual is the person who—
+(aa)
+is, or has been, more than 24 weeks pregnant with the child; or
+(bb)
+gave birth to the child before or during the 24th week of the pregnancy;
+(ii)
+the individual is the partner of the person described by head (i);
+(iii)
+the person described by head (i) is a dependant of the individual or the individual’s partner (or both of them);
+(iv)
+either the individual or the individual’s partner is (or both of them are) responsible for the child on the day the application is made;
+(e)
+at least one of these statements is true—
+(i)
+the individual or the individual’s partner has (or both of them have) been awarded, for the day the application is made (or for a period which includes that day), assistance of a kind specified in regulation 11;
+(ii)
+the individual or the individual’s partner has (or both of them have) been awarded universal credit for—
+(aa)
+the assessment period that includes the day the application is made; or
+(bb)
+the assessment period that ended immediately before the assessment period mentioned in sub-head (aa) started;
+(iii)
+on the day the application is made the individual is under 18 years of age;
+(iv)
+on the day the application is made the individual is—
+(aa)
+18 or 19 years of age; and
+(bb)
+a dependant of another individual; and
+(f)
+the child is not, on the day the application is made, living in a residential establishment as defined in section 202(1) of the Children’s Hearings (Scotland) Act 2011(1).
+Deadline for applying
+2.—(1) The deadline for an individual to apply for a pregnancy and baby grant in respect of a child is—
+(a)
+the end of the day that falls 6 months after the day the child is born if sub-paragraph (2) applies to the individual;
+(b)
+the end of the day before the child’s first birthday if sub-paragraph (2) does not apply to the individual.
+(2) This sub-paragraph applies to—
+(a)
+the person who is, or has been, pregnant with the child; and
+(b)
+any individual who is, or has been during the period described by sub-paragraph (3)—
+(i)
+the partner of the person referred to in paragraph (a); or
+(ii)
+an individual, or the partner of an individual, for whom the person referred to in paragraph (a) is a dependant.
+(3) The period referred to in sub-paragraph (2)(b)—
+(i)
+begins on the first day of the 24th week of the pregnancy that resulted, or is to result, in the child’s birth; and
+(ii)
+ends at the end of the day that falls 6 months after the day the child is born.
+Exception to paragraph 1(b)
+3.—(1) For the purpose of determining the entitlement of the individual referred to in this paragraph as the applicant, the eligibility condition in paragraph 1(b) is to be ignored in the circumstance described by sub-paragraphs (2) to (5).
+(2) An individual (“the first grant recipient”) has been, or is due to be, given in respect of the child—
+(a)
+a pregnancy and baby grant; or
+(b)
+a sure start maternity grant.
+(3) Another individual (“the applicant”) first came to be responsible for the child after—
+(a)
+the first grant recipient applied for a pregnancy and baby grant or a sure start maternity grant in respect of the child; or
+(b)
+a decision about the first grant recipient’s entitlement to such a grant was taken by, or on behalf of, the public authority responsible for giving them (despite no application for a grant having been made).
+(4) Since first coming to be responsible for the child, the applicant has not been—
+(a)
+the partner of the first grant recipient;
+(b)
+a dependant of the first grant recipient; or
+(c)
+an individual, or the partner of an individual, for whom the first grant recipient is a dependant.
+(5) On the day the applicant’s application for a pregnancy and baby grant in respect of the child is made, no-one other than the first grant recipient has been, or is due to be, given a pregnancy and baby grant or a sure start maternity grant in respect of that child.
+Residence requirement
+4.—(1) The residence requirement referred to in paragraph 1(c) is satisfied by an individual on a day if, on that day—
+(a)
+the individual is ordinarily resident in Scotland; and
+(b)
+in a case where neither the individual nor the individual’s partner has been awarded assistance as mentioned in paragraph 1(e)(i) or (ii), the condition set by sub-paragraph (2) is also met.
+(2) The condition referred to in sub-paragraph (1)(b) is met on any day that the individual is—
+(a)
+habitually resident in the European Economic Area or Switzerland;
+(b)
+a refugee within the definition in Article 1 of the Convention relating to the status of refugees done at Geneva on 28th July 1951, as extended by article 1(2) of the Protocol relating to the status of refugees done at New York on 31st January 1967;
+(c)
+a person who has been granted, or who is deemed to have been granted, leave outside the rules made under section 3(2) of the Immigration Act 1971(2), where that leave is—
+(i)
+discretionary leave to enter or remain in the United Kingdom;
+(ii)
+leave to remain under the destitution domestic violence concession; or
+(iii)
+leave deemed to have been granted by virtue of regulation 3 of the Displaced Persons (Temporary Protection) Regulations 2005(3);
+(d)
+a person who has humanitarian protection granted under the rules made under section 3(2) of the Immigration Act 1971; or
+(e)
+a person who—
+(i)
+is not subject to immigration control within the meaning of section 115(9) of the Immigration and Asylum Act 1999(4); and
+(ii)
+is in the United Kingdom as a result of deportation, expulsion or other removal by compulsion of law from another country to the United Kingdom.
+PART 2
+Assistance to be given
+Value of grant
+5.  The value of a pregnancy and baby grant is—
+(a)
+the basic amount determined in accordance with paragraph 6; and
+(b)
+any amount that falls to be added to the basic amount by way of a multiple pregnancy supplement (see paragraph 7).
+The basic amount
+6.—(1) The basic amount is―
+(a)
+£600 if sub-paragraph (2) applies in relation to the child in respect of whom the grant is to be given; or
+(b)
+£300 if it does not.
+(2) This sub-paragraph applies in relation to the child (subject to sub-paragraph (3)) if, on the day the application for the grant is made—
+(a)
+there is no-one under 16 years of age living in the same household as the individual to whom the grant is to be given; or
+(b)
+if there is, that person is (or all of those persons are) one of the following:—
+(i)
+the child;
+(ii)
+a sibling of the child born as a result of the same pregnancy that resulted in the child’s birth;
+(iii)
+a parent of the child;
+(iv)
+a sibling of a parent of the child;
+(v)
+a child for whom the individual is not responsible.
+(3) Where more than one child is born, or is to be born, as a result of the same pregnancy—
+(a)
+sub-paragraph (2) applies in relation to only one of the children; and
+(b)
+it is for the Scottish Ministers to decide which.
+Multiple pregnancy supplement
+7.—(1) Subject to sub-paragraphs (2) and (3) a supplement of £300 is to be added to the basic amount in respect of a child born, or to be born, as a result of a multiple pregnancy.
+(2) The supplement is to be added to the grant in respect of only one of the children born, or to be born, as a result of the pregnancy, and it is for the Scottish Ministers to decide which child’s grant to supplement.
+(3) No supplement is to be added if the individual to whom the grant is to be given—
+(a)
+has not applied for a pregnancy and baby grant in respect of all of the children born, or to be born, as a result of the pregnancy; or
+(b)
+is not eligible for a pregnancy and baby grant in respect of any of those children.
+Form in which grant is given
+8.—(1) Subject to sub-paragraph (2), a pregnancy and baby grant is to be given as money.
+(2) If—
+(a)
+the Scottish Ministers offer to give an individual some or all of the value of a pregnancy and baby grant in a form other than money; and
+(b)
+the individual agrees to be given the grant in that form,
+the grant is to be given in that form, unless the individual withdraws agreement before the grant is given.
+PART 3
+Interpretation
+Meaning of “child”, “birth” and “born”
+9.—(1) In this schedule, except in paragraph 1(d)(i)(bb)—
+“child” includes still-born child;
+“birth” includes still-birth and “born” is to be construed accordingly;
+“still-born child” and “still-birth” have the meanings given in section 56(1) of the Registration of Births, Deaths and Marriages (Scotland) Act 1965(5).
+(2) Sub-paragraph (1) also applies for the purpose of interpreting—
+(a)
+the definition of “application window” in regulation 5(5) (which relates to the nomination of a date on which an application for assistance is to be treated as having been made); and
+(b)
+paragraph 3 of schedule 1 (which describes circumstances in which a determination of entitlement is to be made by the Scottish Ministers without an application).
+Meaning of “sure start maternity grant”
+10.  In this schedule, “sure start maternity grant” means a payment under—
+(a)
+regulation 5(1) of the Social Fund Maternity and Funeral Expenses (General) Regulations 2005(6); or
+(b)
+regulation 5(1) of the Social Fund Maternity and Funeral Expenses (General) Regulations (Northern Ireland) 2005(7).
+(1)
+2011 asp 1. The definition of “residential establishment” in section 202 is amended by S.S.I. 2013/211.
+(2)
+1971 c.77.
+(3)
+S.I. 2005/1379.
+(4)
+1999 c.33.
+(5)
+1965 c.49. The definition of “still-born child” is amended by the Still-Birth (Definition) Act 1992 (c.29), section 1(2).
+(6)
+S.I. 2005/3061; there are amendments but none relevant for the purposes of these Regulations.
+(7)
+S.I. 2005/506; there are amendments but none relevant for the purposes of these Regulations.EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations make provision about early years assistance, a type of assistance that is to be given by the Scottish Ministers under Part 2 of the Social Security (Scotland) Act 2018.
+Part 2 of the Regulations provides for the interpretation of expressions used in that Part and in the schedules.
+Schedule 1 deals with procedural matters connected to the giving of early years assistance.
+Schedule 2 sets out who is eligible to be given early years assistance in the form of a pregnancy and baby grant. It is a grant payable to people who have, or are expecting to have, a new baby in the family. Part 2 of schedule 2 states the value of a pregnancy and baby grant and makes provision about the circumstances in which it can be given in non-monetary form.

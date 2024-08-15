@@ -1,0 +1,47 @@
+STATUTORY INSTRUMENTS
+2022 No. 1389
+COMPANIES
+The Register of Overseas Entities (Verification and Provision of Information) (Amendment) Regulations 2022
+Made
+20th December 2022
+Laid before Parliament
+21st December 2022
+Coming into force
+12th January 2023
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 16 and 67(2) of the Economic Crime (Transparency and Enforcement) Act 2022(1).
+(1)
+2022 c. 10.Citation, commencement and extent
+1.—(1) These Regulations may be cited as the Register of Overseas Entities (Verification and Provision of Information) (Amendment) Regulations 2022 and come into force on 12th January 2023.
+(2) These Regulations extend to England and Wales, Scotland and Northern Ireland.2.—(1) The Register of Overseas Entities (Verification and Provision of Information) Regulations 2022(1) are amended as follows.
+(2) For regulation 5(1) substitute—
+“5.—(1) “Relevant information” is information described in any of paragraphs (2), (3), (4), (5), (6) or (7) unless the information—
+(a)
+is the required information in sub-paragraphs 4(a) to (e) of Schedule 1 to the ECTEA;
+(b)
+relates to the beneficiaries of a pension scheme trust as defined by paragraph 3 of Schedule 3A (Excluded Trusts) to the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017(2);
+(c)
+in sub-paragraphs (3) and (4) has been previously verified and submitted to the registrar under Part 1 of the ECTEA in relation to the same overseas entity”.”
+(3) In regulation 6(6)(b), at the beginning, insert “subject to sub-paragraph (ba),”.
+(4) In regulation 6(6), after sub-paragraph (b) insert—
+“(ba)
+a relevant person may verify the following on the basis of documents or information in either case obtained from a reliable source which is not independent of the person whose identity is being verified—
+(i)
+which of the conditions in paragraph 6 of Schedule 2 to the ECTEA is met in relation to a registrable beneficial owner;
+(ii)
+the required information in paragraphs 3(1)(d) and 5(1)(f) of Schedule 1 to the ECTEA;”.
+(5) In regulation 7(4)(a) omit “or any other close business relations” and insert after (a)—
+“(aa)
+an individual who is an officer of a legal entity or legal arrangement of which the person whose identity is being verified is also an officer or who is engaged in a joint venture with that person;”
+(6) In regulation 8(1), for “provided to a relevant person by or on behalf of an overseas entity” substitute “obtained or received by a relevant person”.
+(1)
+S.I. 2022/725.
+(2)
+S.I. 2017/692, inserted by S.I. 2020/991.Callanan
+Parliamentary Under Secretary of State
+Department for Business, Energy and Industrial Strategy
+20th December 2022EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations make provision relating to the register of overseas entities (“the register”) kept by the registrar of companies for England and Wales (“the registrar”) in accordance with Part 1 of the Economic Crime (Transparency and Enforcement) Act 2022 (c. 10).
+Part 2 of these Regulations amends the Register of Overseas Entities (Verification and Provision of Information) Regulations 2022 (“the Principal Regulations”), which make provision in respect of the verification by a relevant person of certain information before it can be submitted to the registrar.
+Regulation 2(2) replaces regulation 5(1) of the Principal Regulations to exclude information about a government, public authority or beneficiaries of certain pension scheme trusts from needing to be verified. It also excludes from needing to be verified again information which has already been verified relating to updating the register and applications for removal from the register. Regulation 2(3) and (4) amends regulation 6(6) of the Principal Regulations to allow a relevant person to verify certain information relating to beneficial ownership differently from other information. Regulation 2(5) amends regulation 7(4) of the Principal Regulations to replace the term “close business relations” with a more precise phrase and regulation 2(6) amends regulation 8(1) of the Principal Regulations to expand the scope of the information which must be retained by a relevant person.
+A full Impact Assessment has not been prepared for this instrument. A full regulatory impact assessment of the effect that the overseas entities register will have on the costs of business and the voluntary sector is available from the Department for Business, Energy and Industrial Strategy, 1 Victoria Street, London SW1H 0ET.

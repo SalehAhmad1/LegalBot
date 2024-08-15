@@ -1,0 +1,165 @@
+STATUTORY INSTRUMENTS
+2020 No. 1549
+PUBLIC HEALTH, ENGLAND
+The Health Protection (Coronavirus, Testing Requirements and Standards) (England) Regulations 2020
+Made
+16th December 2020
+Coming into force
+17th December 2020
+M1The Secretary of State makes these Regulations in exercise of the powers conferred by sections 45C(1) and (3)(c), 45F(2) and 45P(2) of the Public Health (Control of Disease) Act 1984 .
+A draft of this instrument was laid before Parliament in accordance with section 45Q(4) of that Act and approved by a resolution of each House of Parliament.
+The Secretary of State considers that the requirements imposed by these Regulations are proportionate to what they seek to achieve, which is a public health response to the serious and imminent threat to public health which is posed by the incidence and spread of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in England.
+Modifications etc. (not altering text)
+C1
+Regulations applied (with modifications) (24.10.2021 at 4.00 a.m.) by S.I. 2021/582, Sch. 8 para. 7B(3) (as inserted by The Health Protection (Coronavirus, International Travel and Operator Liability) (England) (Amendment) (No. 16) Regulations 2021 (S.I. 2021/1179), regs. 1(2), 10(5))
+Marginal Citations
+M1
+1984 c. 22; Part 2A was inserted by section 129 of the Health and Social Care Act 2008 (c.14).Citation, commencement and application
+1.—(1) These Regulations may be cited as the Health Protection (Coronavirus, Testing Requirements and Standards) (England) Regulations 2020 and come into force on the day after the day on which they are made.
+(2) These Regulations apply to England only.
+Commencement Information
+I1
+Reg. 1 in force at 17.12.2020, see reg. 1(1)Interpretation
+2.  In these Regulations—
+F1...
+“applicable test” means a test to which regulation 3 applies;
+[F2“diagnostic laboratory” means an institution (or facility within an institution) which is equipped with apparatus and reagents for the performance of diagnostic tests for human infections;]
+[F2“operator of a diagnostic laboratory” means the corporate body that operates the diagnostic laboratory, or if there is no such body, the director of the diagnostic laboratory;]
+[F2“point of care test” means a diagnostic test which is not carried out in a diagnostic laboratory;]
+[F2“sample collection” means the taking of, or assisting with or the supervision of the taking of, a physical sample from a person who is the subject of a test;]
+[F2“testing service provider” means a person who carries out a sample collection or a point of care test, or a diagnostic laboratory.]
+F1...
+F1...
+Textual Amendments
+F1
+Words in reg. 2 omitted (1.1.2024) by virtue of The Health Protection (Coronavirus, Testing Requirements and Standards) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1340), regs. 1(1), 3(2) (with reg. 9)
+F2
+Words in reg. 2 inserted (1.1.2024) by The Health Protection (Coronavirus, Testing Requirements and Standards) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1340), regs. 1(1), 3(3) (with reg. 9)
+Commencement Information
+I1
+Reg. 2 in force at 17.12.2020, see reg. 1(1)Applicable tests
+3.—(1) An applicable test is a test for the detection of coronavirus which is—
+F1(a)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(b)
+provided [F2, by or on behalf of a testing service provider,] in the course of a business;
+(c)
+not a test provided or administered under the National Health Service Act 2006 M1;
+(d)
+not a test provided by a person (P) solely to—
+(i)
+P's employees;
+(ii)
+persons contracted to provide services to P; or
+(iii)
+both of the above; and
+[F3(da)
+not carried out using a device for self-testing.]
+F4(e)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2) In this regulation—
+(a)
+“coronavirus” means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2);
+[F5(aa)
+“device for self-testing” has the same meaning as in regulation 32(1) of the Medical Devices Regulations 2002.]
+F6(b)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Textual Amendments
+F1
+Reg. 3(1)(a) omitted (1.1.2024) by virtue of The Health Protection (Coronavirus, Testing Requirements and Standards) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1340), regs. 1(1), 4(2)(a) (with reg. 9)
+F2
+Words in reg. 3(1)(b) inserted (1.1.2024) by The Health Protection (Coronavirus, Testing Requirements and Standards) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1340), regs. 1(1), 4(2)(b) (with reg. 9)
+F3
+Reg. 3(1)(da) inserted (1.1.2024) by The Health Protection (Coronavirus, Testing Requirements and Standards) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1340), regs. 1(1), 4(2)(c) (with reg. 9)
+F4
+Reg. 3(1)(e) omitted (1.1.2024) by virtue of The Health Protection (Coronavirus, Testing Requirements and Standards) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1340), regs. 1(1), 4(2)(d) (with reg. 9)
+F5
+Reg. 3(2)(aa) inserted (1.1.2024) by The Health Protection (Coronavirus, Testing Requirements and Standards) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1340), regs. 1(1), 4(3)(a) (with reg. 9)
+F6
+Reg. 3(2)(b) omitted (1.1.2024) by virtue of The Health Protection (Coronavirus, Testing Requirements and Standards) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1340), regs. 1(1), 4(3)(b) (with reg. 9)
+Commencement Information
+I1
+Reg. 3 in force at 17.12.2020, see reg. 1(1)
+Marginal Citations
+M1
+2006 c. 41.Test requirements
+4.—(1) Any device used for the purposes of an applicable test must meet the following requirements—
+(a)
+it can be put into service in accordance with Part 4 of the Medical Devices Regulations 2002 M1, other than solely by virtue of regulation 39(2) of those Regulations;
+F1(b)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+F2(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3) In this regulation—
+(a)
+“device” means an in vitro diagnostic medical device within the meaning given in regulation 2(1) of the Medical Devices Regulations 2002;
+F3(b)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+F4(c)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Textual Amendments
+F1
+Reg. 4(1)(b) omitted (1.1.2024) by virtue of The Health Protection (Coronavirus, Testing Requirements and Standards) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1340), regs. 1(1), 5(2) (with reg. 9)
+F2
+Reg. 4(2) omitted (1.1.2024) by virtue of The Health Protection (Coronavirus, Testing Requirements and Standards) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1340), regs. 1(1), 5(3) (with reg. 9)
+F3
+Reg. 4(3)(b) omitted (1.1.2024) by virtue of The Health Protection (Coronavirus, Testing Requirements and Standards) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1340), regs. 1(1), 5(4) (with reg. 9)
+F4
+Reg. 4(3)(c) omitted (1.1.2024) by virtue of The Health Protection (Coronavirus, Testing Requirements and Standards) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1340), regs. 1(1), 5(4) (with reg. 9)
+Commencement Information
+I1
+Reg. 4 in force at 17.12.2020, see reg. 1(1)
+Marginal Citations
+M1
+S.I. 2002/618, as amended by S.I. 2003/1697. Further amendments are prospectively made by S.I. 2019/791 with effect from 1st January 2021. There are other amending instruments not relevant to these Regulations.Provider requirements
+5.—(1) A [F1testing service provider] must [F2be accredited to the relevant ISO Standard by a signatory to the International Laboratory Accreditation Cooperation Mutual Recognition Arrangement] in respect of any applicable test F3....
+[F4(1A) The relevant ISO Standard for the purposes of paragraph (1) is—
+(a)
+in relation to sample collection or a point of care test, ISO Standard 15189:2022;
+(b)
+in relation to a diagnostic laboratory, either ISO Standard 15189:2022 or ISO/IEC Standard 17025:2017.]
+F5(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+F5(3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+F5(4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+F5(5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+F5(6) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+F5(7) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Textual Amendments
+F1
+Words in reg. 5(1) substituted (1.1.2024) by The Health Protection (Coronavirus, Testing Requirements and Standards) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1340), regs. 1(1), 6(2)(a) (with reg. 9)
+F2
+Words in reg. 5(1) substituted (1.1.2024) by The Health Protection (Coronavirus, Testing Requirements and Standards) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1340), regs. 1(1), 6(2)(b) (with reg. 9)
+F3
+Words in reg. 5(1) omitted (1.1.2024) by virtue of The Health Protection (Coronavirus, Testing Requirements and Standards) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1340), regs. 1(1), 6(2)(c) (with reg. 9)
+F4
+Reg. 5(1A) inserted (1.1.2024) by The Health Protection (Coronavirus, Testing Requirements and Standards) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1340), regs. 1(1), 6(3) (with reg. 9)
+F5
+Reg. 5(2)-(7) omitted (1.1.2024) by virtue of The Health Protection (Coronavirus, Testing Requirements and Standards) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1340), regs. 1(1), 6(4) (with reg. 9)
+Commencement Information
+I1
+Reg. 5 in force at 17.12.2020, see reg. 1(1)UKAS accreditation
+F16.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Textual Amendments
+F1
+Reg. 6 omitted (1.1.2024) by virtue of The Health Protection (Coronavirus, Testing Requirements and Standards) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1340), regs. 1(1), 7 (with reg. 9)Offence and penalties
+7.—(1) A [F1testing service provider or an operator of a diagnostic laboratory] commits an offence if, without reasonable excuse, they contravene a requirement imposed under regulation [F24 or] 5 F3....
+(2) An offence under this regulation is punishable on summary conviction by a fine.
+Textual Amendments
+F1
+Words in reg. 7(1) substituted (1.1.2024) by The Health Protection (Coronavirus, Testing Requirements and Standards) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1340), regs. 1(1), 8(2)(a) (with reg. 9)
+F2
+Words in reg. 7(1) substituted (1.1.2024) by The Health Protection (Coronavirus, Testing Requirements and Standards) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1340), regs. 1(1), 8(2)(b) (with reg. 9)
+F3
+Words in reg. 7(1) omitted (1.1.2024) by virtue of The Health Protection (Coronavirus, Testing Requirements and Standards) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1340), regs. 1(1), 8(2)(c) (with reg. 9)
+Commencement Information
+I1
+Reg. 7 in force at 17.12.2020, see reg. 1(1)Review
+8.  The Secretary of State must review the effectiveness of the provisions made by these Regulations before the expiry of the period of six months beginning with the day after the day on which they come into force.
+Commencement Information
+I1
+Reg. 8 in force at 17.12.2020, see reg. 1(1)Signed by authority of the Secretary of State for Health and Social Care.
+Bethell
+Parliamentary Under-Secretary of State,
+Department of Health and Social CareEXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations provide for certain tests for coronavirus to meet specified standards. Regulation 3 specifies the tests to which these Regulations apply. Regulations 4 and 5 set out standards to be met by tests and test providers, respectively. Regulation 6 requires test providers to apply for accreditation with the United Kingdom Accreditation Service. Regulation 7 provides that failure to comply with any requirement of these Regulations is an offence. Regulation 8 requires these Regulations to be reviewed within six months of their coming into force.
+An impact assessment has not been produced for this instrument. An explanatory memorandum has been published alongside this instrument at www.legislation.gov.uk.
