@@ -224,7 +224,9 @@ class RAG_Bot:
                     
     def is_collection_empty(self, collection_name: str) -> bool:
         current_client = self.vector_db.client.collections.get(collection_name)
-        return len(list(current_client.iterator())) == 0
+        for doc in current_client.iterator():
+            return False
+        return True
 
     def get_list_of_all_docs(self, collection_name:Union[str, List[str]]=None) -> None:
         """
