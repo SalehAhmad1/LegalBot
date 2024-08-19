@@ -1,24 +1,13 @@
-import warnings
-warnings.filterwarnings("ignore")
-warnings.filterwarnings("ignore", category=DeprecationWarning)
-
-from typing import Union, List
-
-from Database.Database_Weaviate import Database_Weaviate
-from LLM.LLM_GGUF import LLM_GGUF
-
-from langchain_weaviate.vectorstores import WeaviateVectorStore
-
 class RAG_Bot:
     def __init__(self, collection_names=['Uk', 'Wales', 'NothernIreland', 'Scotland'], text_splitter='SpaCy', embedding_model="SentenceTransformers"):
         """
         Initializes the RAG_Bot object.
         
         Args:
-            collection_names (list, optional): A list of collection names. Defaults to ['Uk', 'Wales', 'Nothernireland', 'Scotland'].
+            collection_names (list, optional): A list of collection names. Defaults to ['Uk', 'Wales', 'NothernIreland', 'Scotland'].
         """
         self.vector_db = Database_Weaviate(collection_names=collection_names, text_splitter=text_splitter, embedding_model=embedding_model)
-        self.llm = LLM_GGUF()
+        self.llm = LLM()
 
     def add_text(self, collection_name, text, metadata=None):
         """
@@ -53,7 +42,7 @@ class RAG_Bot:
             Union[str, None]: The collection name or None if no collection matches the query.
         """
 
-        def check_for_existence_of_collection_names(query:str, collection_names:List[str]=['Uk', 'Wales', 'Nothernireland', 'Scotland']) -> Union[str, None]:
+        def check_for_existence_of_collection_names(query:str, collection_names:List[str]=['Uk', 'Wales', 'NothernIreland', 'Scotland']) -> Union[str, None]:
             Existing_collection_names = []
             for collection_name in collection_names:
                 if collection_name.lower() in query.lower():
@@ -69,7 +58,7 @@ class RAG_Bot:
         elif mentioned_collections != None and mentioned_collections != [] and len(mentioned_collections) >= 1:
             return mentioned_collections
 
-    def query(self, query:str, k:int=1, search_type='Hybrid'):
+    def query(self, query:str, k:int=1, search_type='Hybrid', max_new_tokens=1000):
         """
         Performs a RAG query on the specified collection using the Saul LLM
 
@@ -88,60 +77,9 @@ class RAG_Bot:
             print('There was no collection mentioned in the query. Kindly mention a collection name/s for the query to be executed.')
 
         elif isinstance(Collection_to_query_from, list):
-            self.__query_all(query=query, k=k, collection_names=Collection_to_query_from, search_type=search_type)
-
-    def __query_one(self, collection_name, query, k=1):
-        """
-        Performs a RAG query on the specified collection using the Saul LLM.
+            self.__query_all(query=query, k=k, collection_names=Collection_to_query_from, search_type=search_type, max_tokens=max_new_tokens)
         
-        Args:
-            collection_name (str): The name of the collection in the database.
-            query (str): The query to search for similar documents.
-            k (int, optional): The number of documents to return. Defaults to 1.
-        
-        Returns:
-            None
-        
-        Prints the similarity score and the content of the top k documents that match the query.
-        """
-        
-        #Validate existence of the collection itself first.
-        Validity = self.is_collection_empty(collection_name)
-        print(f'The Collection: {collection_name} is empty(0)/Not Empty(1): {Validity}')
-        
-        if not Validity:
-            # Creating a WeaviateVectorStore at runtime because we don't know the collection name beforehand
-            self.vector_db.vector_store = WeaviateVectorStore(
-                client=self.vector_db.client,
-                index_name=collection_name,
-                text_key="text",
-                embedding=self.vector_db.embeddings,
-            )
-            
-            # Get the current WeaviateVectorStore
-            current_db = self.vector_db.vector_store
-            
-            # Create a retriever for the current database
-            retriever = current_db.as_retriever(
-                search_kwargs={"k": k})
-
-            # Function to format documents into a single context string
-            def format_docs(docs):
-                print(f'The retrieved documents are:')
-                for idx,doc in enumerate(docs):
-                    print(f'{idx} - Content: {doc.page_content[:50]}... - MetaData: {doc.metadata}')
-                return "\n\n".join(doc.page_content for doc in docs)
-            
-            retrieved_docs = retriever.get_relevant_documents(query)
-            context = format_docs(retrieved_docs)
-            
-            response = self.llm.chat(context={context},
-                                    query={query},
-                                    max_new_tokens=250)
-            print('-')
-            print(response)
-        
-    def __query_all(self, query, k=1, collection_names:List[str]=['Uk', 'Wales', 'Nothernireland', 'Scotland'], search_type='Hybrid'):
+    def __query_all(self, query, k=1, collection_names:List[str]=['Uk', 'Wales', 'Nothernireland', 'Scotland'], search_type='Hybrid', max_tokens=1000):
         """
         Performs a RAG query on multiple specified collections using the Saul LLM.
         
@@ -190,10 +128,11 @@ class RAG_Bot:
                     
                     response = self.llm.chat(context={context},
                                             query={query},
-                                            max_new_tokens=250)
-                    print(f'The response is from the collection: {collection_name}')
-                    print(response)
-                    print('-')
+                                            max_new_tokens=max_tokens)
+                    print(f'\n\nThe response is from the collection: {collection_name}')
+                    for chunk in response:
+                        print(chunk, end='', flush=True)
+                    print(f'The response has been generated above ^\n\n')
 
                 elif search_type == 'Hybrid':
                     current_collection = self.vector_db.client.collections.get(collection_name)
@@ -217,10 +156,11 @@ class RAG_Bot:
 
                     response = self.llm.chat(context={concat_docs},
                                             query={query},
-                                            max_new_tokens=250)
-                    print(f'The response is from the collection: {collection_name}')
-                    print(response)
-                    print('-')
+                                            max_new_tokens=max_tokens)
+                    print(f'\n\nThe response is from the collection: {collection_name}')
+                    for chunk in response:
+                        print(chunk, end='', flush=True)
+                    print(f'The response has been generated above ^\n\n')
                     
     def is_collection_empty(self, collection_name: str) -> bool:
         current_client = self.vector_db.client.collections.get(collection_name)
