@@ -1,3 +1,15 @@
+import warnings
+warnings.filterwarnings("ignore")
+warnings.filterwarnings("ignore", category=DeprecationWarning)
+
+from typing import Union, List
+
+from Database.Database_Weaviate import Database_Weaviate
+# from LLM.LLM_GGUF import LLM_GGUF as LLM
+from LLM.LLM_Ollama import LLM_Ollama as LLM
+
+from langchain_weaviate.vectorstores import WeaviateVectorStore
+
 class RAG_Bot:
     def __init__(self, collection_names=['Uk', 'Wales', 'NothernIreland', 'Scotland'], text_splitter='SpaCy', embedding_model="SentenceTransformers"):
         """
@@ -129,10 +141,10 @@ class RAG_Bot:
                     response = self.llm.chat(context={context},
                                             query={query},
                                             max_new_tokens=max_tokens)
-                    print(f'\n\nThe response is from the collection: {collection_name}')
+                    print(f'\n\nThe response is from the collection: {collection_name}\n')
                     for chunk in response:
                         print(chunk, end='', flush=True)
-                    print(f'The response has been generated above ^\n\n')
+                    print(f'\nThe response has been generated above ^\n\n')
 
                 elif search_type == 'Hybrid':
                     current_collection = self.vector_db.client.collections.get(collection_name)
@@ -157,10 +169,10 @@ class RAG_Bot:
                     response = self.llm.chat(context={concat_docs},
                                             query={query},
                                             max_new_tokens=max_tokens)
-                    print(f'\n\nThe response is from the collection: {collection_name}')
+                    print(f'\n\nThe response is from the collection: {collection_name}\n')
                     for chunk in response:
                         print(chunk, end='', flush=True)
-                    print(f'The response has been generated above ^\n\n')
+                    print(f'\nThe response has been generated above ^\n\n')
                     
     def is_collection_empty(self, collection_name: str) -> bool:
         current_client = self.vector_db.client.collections.get(collection_name)
