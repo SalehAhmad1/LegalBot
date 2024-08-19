@@ -128,6 +128,7 @@ rsa==4.9
 safetensors==0.4.3
 scikit-learn==1.5.1
 scipy==1.14.0
+schedule==1.2.2
 selenium==4.23.0
 sentence-transformers==3.0.1
 shellingham==1.5.4
