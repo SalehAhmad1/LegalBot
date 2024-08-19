@@ -1,30 +1,8 @@
-import subprocess
-import sys
-
-def install_package(package):
-    subprocess.check_call([sys.executable, "-m", "pip", "install", package])
-
-def check_and_install_ollama():
-    try:
-        import ollama
-        print("ollama is already installed.")
-    except ImportError:
-        print("ollama is not installed. Installing now...")
-        install_package('ollama')
-        import ollama
-    return ollama
-
-def pull_model(model_name):
-    print(f"Pulling model {model_name}...")
-    subprocess.run(["ollama", "pull", model_name])
-
 if __name__ == "__main__":
-    ollama = check_and_install_ollama()
-    pull_model("llama3.1")
-
     from base import LLM
 else:
     from .base import LLM
+
 import ollama
 
 class LLM_Ollama(LLM):
@@ -69,6 +47,5 @@ class LLM_Ollama(LLM):
                                 messages=messages,
                                 stream=True)
         
-        print('Generated Response')
         for chunk in stream:
             yield chunk['message']['content']
