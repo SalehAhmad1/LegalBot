@@ -13,6 +13,11 @@
 ### Hybrid Search
 - [x] Add hybrid search functionality
 
+### LLMs Support
+- [x] HF
+- [x] GGUF
+- [x] Ollama
+
 ### Improving LLM Prompting
 - [ ] Hyde
 - [ ] RAPTOR
