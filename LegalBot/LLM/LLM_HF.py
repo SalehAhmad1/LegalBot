@@ -43,7 +43,7 @@ class LLM_HF(LLM):
         Outputs:
             - output (str): The output response of the LLM.
         '''
-        prompt = self.__format_query(context, query)
+        prompt = self._format_query(context, query)
         messages = [
             {"role": "user", "content": f"{self.system_prompt}"},
             {"role": "user", "content": f"{prompt}"},

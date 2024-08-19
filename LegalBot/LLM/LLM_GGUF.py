@@ -48,6 +48,6 @@ class LLM_GGUF(LLM):
                         <|im_start|>assistant''', 
                         max_tokens=max_new_tokens,  
                         stop=["</s>", "<|im_end|>", "[/INST]"],
-                        echo=False,       # Whether to echo the prompt,
+                        echo=False,       # Whether to echo the prompt or not
                     )
         return output['choices'][0]['text'].strip()
