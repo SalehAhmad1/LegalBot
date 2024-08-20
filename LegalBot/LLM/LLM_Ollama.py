@@ -40,12 +40,12 @@ class LLM_Ollama(LLM):
         '''
         prompt = self._format_query(context, query)
         messages = [
-            {"role": "user", "content": f"{self.system_prompt}"},
+            {"role": "user", "system": f"{self.system_prompt}"},
             {"role": "user", "content": f"{prompt}"},]
         
         stream = ollama.chat(model='llama3.1',
                                 messages=messages,
-                                stream=True)
+                                stream=True,)
         
         for chunk in stream:
             yield chunk['message']['content']
