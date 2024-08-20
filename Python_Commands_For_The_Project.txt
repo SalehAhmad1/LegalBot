@@ -6,6 +6,9 @@ python -m spacy download en_core_web_sm
 If you are going to use Ollama as your LLM, make sure you have Ollama installed using:
 pip install ollama
 
+if it your system still says that the system needs to install ollama. Go to the link: https://ollama.com/download/windows
+and download from there. The steps are pretty simple and short.
+
 and, after doing so, you have to pull the model so it downloads on your system. How to do that?:
 ollama pull "model name" for example
 ollama pull llama3.1
