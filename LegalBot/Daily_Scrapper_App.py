@@ -5,6 +5,9 @@ import pytz
 from datetime import datetime
 import threading
 import logging
+import smtplib
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
 from queue import Queue
 from Scrapper.Daily_Scrapper import daily_scrapper
 from RAG_v1 import RAG_Bot
@@ -44,7 +47,7 @@ log_queue = Queue()
 # Function to run the scraping loop
 def run_scraping_loop(log_queue):
     # Set the timezone to Pakistan Standard Time (PST)
-    pakistan_timezone = pytz.timezone('Asia/Karachi')
+    london_timezone = pytz.timezone('Europe/London')
 
     def job():
         # Initialize the Daily_Scrapper
@@ -54,16 +57,22 @@ def run_scraping_loop(log_queue):
         new_content_dict = scraper.main()
         for content in new_content_dict:
             Text, MetaData = content['Text'], content['Meta Data']
-            ingest_to_rag_db(RAG_App_Object=RAG_Object, text=Text, metadata=MetaData)
-            log_message = f"Scraped and Ingested a title with MetaData: {MetaData}\n\n"
-            logging.info(log_message)
-            log_queue.put(log_message)
+            try:
+                ingest_to_rag_db(RAG_App_Object=RAG_Object, text=Text, metadata=MetaData)
+                log_message = f"Scraped and Ingested a title with MetaData: {MetaData}\n\n"
+                logging.info(log_message)
+                log_queue.put(log_message)
+            except:
+                gmail_create_draft(body=str(MetaData))
+                log_message = f"Error when ingesting {MetaData} to Vector DB.\n Check Logs.\n\n"
+                logging.info(log_message)
+                log_queue.put(log_message)
 
     # Target time for the job
-    target_time = "15:50"
+    target_time = "23:50"
     
-    # Get the current time in PST
-    now = datetime.now(pakistan_timezone)
+    # Get the current time
+    now = datetime.now(london_timezone)
     
     # Check if the current time is past the target time
     current_time_str = now.strftime("%H:%M")
@@ -77,7 +86,7 @@ def run_scraping_loop(log_queue):
     schedule.every().day.at(target_time).do(job)
 
     while True:
-        now = datetime.now(pakistan_timezone)
+        now = datetime.now(london_timezone)
         log_message = f"Current time: {now.strftime('%H:%M:%S')} - Waiting for {target_time}\n\n"
         logging.info(log_message)
         log_queue.put(log_message)
@@ -95,6 +104,33 @@ def display_logs(log_queue):
             # Update the log area with new logs
             log_area.text_area("Logs", "\n".join(logs), height=200)
         time.sleep(1)  # Refresh the display every second
+
+def gmail_create_draft(body='Error when ingesting new title to Vector DB. Check Logs.'):
+    msg = MIMEMultipart()
+    msg['From'] = "legalllm24@gmail.com"
+    msg['To'] = "legalllm24@gmail.com"
+    msg['Subject'] = 'Error when ingesting new title to Vector DB. Check Logs.'
+    
+    if not body:
+        print("Warning: Email Body is empty!")
+        return False
+    
+    body_text = body
+
+    msg.attach(MIMEText(body_text, 'plain'))
+    
+    try:
+        with smtplib.SMTP('smtp.gmail.com', 587) as server:
+            server.starttls()
+            server.login(msg['From'], 'ousl yntp hezy iiah')
+            text = msg.as_string()
+            
+            server.sendmail(msg['From'], msg['To'], text)
+            print("Email sent successfully")
+            return True
+    except Exception as e:
+        print(f"Error: unable to send email. Details: {e}")
+        return False
 
 # Main function to create the Streamlit app
 def main():
