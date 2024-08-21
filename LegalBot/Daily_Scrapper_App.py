@@ -58,40 +58,39 @@ def run_scraping_loop(log_queue):
         for content in new_content_dict:
             Text, MetaData = content['Text'], content['Meta Data']
             try:
-                ingest_to_rag_db(RAG_App_Object=RAG_Object, text=Text, metadata=MetaData)
+                # ingest_to_rag_db(RAG_App_Object=RAG_Object, text=Text, metadata=MetaData)
                 log_message = f"Scraped and Ingested a title with MetaData: {MetaData}\n\n"
                 logging.info(log_message)
                 log_queue.put(log_message)
             except:
-                gmail_create_draft(body=str(MetaData))
+                # gmail_create_draft(body=str(MetaData))
                 log_message = f"Error when ingesting {MetaData} to Vector DB.\n Check Logs.\n\n"
                 logging.info(log_message)
                 log_queue.put(log_message)
 
-    # Target time for the job
-    target_time = "23:50"
+    # Target date and time for the job
+    target_datetime = datetime(2024, 8, 21, 19, 00, tzinfo=london_timezone)  # Example: 23rd August at 23:50
     
-    # Get the current time
+    # Get the current time and date
     now = datetime.now(london_timezone)
     
-    # Check if the current time is past the target time
-    current_time_str = now.strftime("%H:%M")
-    if current_time_str > target_time:
-        log_message = f"Current time {current_time_str} is past the target time {target_time}. Executing job immediately.\n\n"
+    # Check if the current date-time is past the target date-time
+    if now > target_datetime:
+        log_message = f"Current date-time {now} is past the target date-time {target_datetime}. Executing job immediately.\n\n"
         logging.info(log_message)
         log_queue.put(log_message)
         job()
-
-    # Schedule the job to run daily at specified time
-    schedule.every().day.at(target_time).do(job)
+    
+    # Schedule the job to run daily at the specified time
+    schedule.every().day.at(target_datetime.strftime("%H:%M")).do(job)
 
     while True:
         now = datetime.now(london_timezone)
-        log_message = f"Current time: {now.strftime('%H:%M:%S')} - Waiting for {target_time}\n\n"
+        log_message = f"Current time: {now.strftime('%Y-%m-%d %H:%M:%S')} - Waiting for {target_datetime.strftime('%H:%M')}\n\n"
         logging.info(log_message)
         log_queue.put(log_message)
         schedule.run_pending()
-        time.sleep(5)  # Check every minute to reduce CPU usage
+        time.sleep(5)  # Check every 5 seconds to reduce CPU usage
 
 # Function to display logs from the queue in the Streamlit app
 def display_logs(log_queue):
