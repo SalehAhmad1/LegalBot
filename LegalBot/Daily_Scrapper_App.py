@@ -54,7 +54,7 @@ def run_scraping_loop(log_queue):
         new_content_dict = scraper.main()
         for content in new_content_dict:
             Text, MetaData = content['Text'], content['Meta Data']
-            # ingest_to_rag_db(RAG_App_Object=RAG_Object, text=Text, metadata=MetaData)
+            ingest_to_rag_db(RAG_App_Object=RAG_Object, text=Text, metadata=MetaData)
             log_message = f"Scraped and Ingested a title with MetaData: {MetaData}\n\n"
             logging.info(log_message)
             log_queue.put(log_message)
@@ -73,7 +73,7 @@ def run_scraping_loop(log_queue):
         log_queue.put(log_message)
         job()
 
-    # Schedule the job to run daily at 9:40 PM PST
+    # Schedule the job to run daily at specified time
     schedule.every().day.at(target_time).do(job)
 
     while True:

@@ -20,7 +20,7 @@ class daily_scrapper:
         self.Scraped_Content_Folder_Path = os.path.join(self.Scrapper_Folder_Path, 'Scraped_Content')
         self.New_Content_Folder_Path = os.path.join(self.Scrapper_Folder_Path, 'New_Content')
         self.current_year = time.gmtime().tm_year
-        self.URL_DAILY_UPDATE = {'UK' : 'https://www.legislation.gov.uk/new/uk',
+        self.URL_DAILY_UPDATE = {'Uk' : 'https://www.legislation.gov.uk/new/uk',
                                 'Wales' : 'https://www.legislation.gov.uk/new/wales',
                                 'Scotland' : 'https://www.legislation.gov.uk/new/scotland',
                                 'Northern Ireland' : 'https://www.legislation.gov.uk/new/ni',}
@@ -221,6 +221,9 @@ class daily_scrapper:
                                                 title_path=validated_file_name, 
                                                 problem=error_message)
                                 print(f'Failed to create file: {validated_file_name}')
+                                
+                            if key_country == 'UK':
+                                key_country = 'Uk'
                         
                             yield {
                                 'Text': Title_Data_Content,
@@ -228,7 +231,7 @@ class daily_scrapper:
                                     'Country': key_country,
                                     'LegislationType': key_legislation_type,
                                     'Legislation': legislation_name,
-                                    'Year': self.current_year,
+                                    'Year': str(self.current_year),
                                     'Title': title_name
                                     }
                                 }
