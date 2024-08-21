@@ -3,6 +3,7 @@ import os
 import requests
 import fitz
 import tempfile
+import re
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -14,7 +15,10 @@ from selenium.webdriver.edge.service import Service as EdgeService
 from webdriver_manager.microsoft import EdgeChromiumDriverManager
 
 class daily_scrapper:
-    def __init__(self):
+    def __init__(self, Scrapper_Folder_Path):
+        self.Scrapper_Folder_Path = Scrapper_Folder_Path
+        self.Scraped_Content_Folder_Path = os.path.join(self.Scrapper_Folder_Path, 'Scraped_Content')
+        self.New_Content_Folder_Path = os.path.join(self.Scrapper_Folder_Path, 'New_Content')
         self.current_year = time.gmtime().tm_year
         self.URL_DAILY_UPDATE = {'UK' : 'https://www.legislation.gov.uk/new/uk',
                                 'Wales' : 'https://www.legislation.gov.uk/new/wales',
@@ -145,11 +149,36 @@ class daily_scrapper:
         if not os.path.exists(abs_path):
             os.makedirs(abs_path)
             
+    def replace_slashes(self, filename):
+        # Replace backslashes and forward slashes with unique placeholders
+        filename = filename.replace('\\', '__BS__') #Back Slash
+        filename = filename.replace('/', '__FS__') #Front Slash
+        return filename
+
+    def restore_slashes(self, filename):
+        # Restore the placeholders back to original slashes
+        filename = filename.replace('__BS__', '\\') #Back Slash
+        filename = filename.replace('__FS__', '/') #Front Slash
+        return filename
+
+    def append_problem(self, title_name, title_path, problem):
+        self.create_dirs(
+            path=f'{self.Scrapper_Folder_Path}/Problematic_Titles'
+        )
+
+        #create a file called "problematic_files.txt" and int save the titlename and its path and its reason
+        with open(f'{self.Scrapper_Folder_Path}/Problematic_Titles/problematic_files.txt', 'a') as f:
+            f.write(title_name + '\n')
+            f.write(title_path + '\n')
+            f.write(f'{problem}' + '\n')
+            f.write('---\n')
+        f.close()
+            
     def get_legislation_type(self, legislation_name):
         '''
         A function that returns the list of countries and the legislation type in which the legislation is in.
         '''
-        All_Content_Folder = './Scraped_Content'
+        All_Content_Folder = self.Scraped_Content_Folder_Path
         dict_web_structure = {}
         dict_web_structure[str(legislation_name)] = [{'Country': Country, 'LegislationType': LegislationType} for idxCountry, Country in enumerate(os.listdir(All_Content_Folder)) for idxLegislationType, LegislationType in enumerate(os.listdir(f'{All_Content_Folder}/{Country}')) if legislation_name in os.listdir(f'{All_Content_Folder}/{Country}/{LegislationType}')]
         return dict_web_structure
@@ -162,33 +191,45 @@ class daily_scrapper:
         
         for Country_Key in self.URL_DAILY_UPDATE.keys():
             New_Titles = self.get_daily_update(driver, self.URL_DAILY_UPDATE[Country_Key])
-            print(f'{Country_Key} - {New_Titles}')
             if New_Titles != {} and New_Titles is not None:
                 for idxLegislation, legislation_name in enumerate(New_Titles.keys()):
                     for title_name, title_url in New_Titles[legislation_name].items():
                         '''Now since we have the title url, we can extract the title data'''
                         legislation_type = self.get_legislation_type(legislation_name)
-                        print(f'{Country_Key} - {legislation_type} - {legislation_name} - {title_name} - {title_url}')
                         
                         Title_Data_Content = self.extract_content(driver, title_url)
 
-                        self.create_dirs(path=f'./New_Content/{Country_Key}/{legislation_type}/{legislation_name}/{self.current_year}')
-                        with open(f'./New_Content/{Country_Key}/{legislation_type}/{legislation_name}/{self.current_year}/{title_name}.txt', 'w') as f:
-                            f.write(Title_Data_Content)
-                        f.close()
+                        for item in legislation_type[legislation_name]:
+                            key_country = item['Country']
+                            key_legislation_type = item['LegislationType']
+
+                            txt_file_path = f'{self.New_Content_Folder_Path}/{key_country}/{key_legislation_type}/{legislation_name}/{self.current_year}'
+                            validated_file_name = self.replace_slashes(title_name)
+                            validated_file_name = os.path.join(txt_file_path, validated_file_name+'.txt')
+
+                            self.create_dirs(path=txt_file_path)
+
+                            try:
+                                with open(f'{validated_file_name}', 'w') as f:
+                                    f.write(Title_Data_Content)
+                                f.close()
+                                print(f'Successfully created file: {validated_file_name}')
+                            except Exception as e:
+                                error_message = str(e)
+                                print(f'Error Message: {error_message}')
+                                self.append_problem(title_name=title_name, 
+                                                title_path=validated_file_name, 
+                                                problem=error_message)
+                                print(f'Failed to create file: {validated_file_name}')
                         
-                        with open(f'./Scraped_Content/{Country_Key}/{legislation_type}/{legislation_name}/{self.current_year}/{title_name}.txt', 'w') as f:
-                            f.write(Title_Data_Content)
-                        f.close()
-                        
-                        yield {
-                            'Text': Title_Data_Content,
-                            'Meta Data' : {
-                                'Country': Country_Key,
-                                'LegislationType': legislation_type,
-                                'Legislation': legislation_name,
-                                'Year': self.current_year,
-                                'Title': title_name
-                            }
-                        }
+                            yield {
+                                'Text': Title_Data_Content,
+                                'Meta Data' : {
+                                    'Country': key_country,
+                                    'LegislationType': key_legislation_type,
+                                    'Legislation': legislation_name,
+                                    'Year': self.current_year,
+                                    'Title': title_name
+                                    }
+                                }
                         
