@@ -69,7 +69,7 @@ def run_scraping_loop(log_queue):
                 log_queue.put(log_message)
 
     # Target date and time for the job
-    target_datetime = datetime(2024, 8, 21, 19, 00, tzinfo=london_timezone)  # Example: 23rd August at 23:50
+    target_datetime = datetime(2024, 1, 1, 23, 50, tzinfo=london_timezone)  # Example: 23rd August at 23:50
     
     # Get the current time and date
     now = datetime.now(london_timezone)
