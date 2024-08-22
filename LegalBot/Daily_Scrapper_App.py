@@ -121,7 +121,7 @@ def gmail_create_draft(body='Error when ingesting new title to Vector DB. Check 
     try:
         with smtplib.SMTP('smtp.gmail.com', 587) as server:
             server.starttls()
-            server.login(msg['From'], 'ousl yntp hezy iiah')
+            server.login(msg['From'], 'eciu xofm laci drtc')
             text = msg.as_string()
             
             server.sendmail(msg['From'], msg['To'], text)
