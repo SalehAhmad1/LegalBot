@@ -12,6 +12,12 @@ from queue import Queue
 from Scrapper.Daily_Scrapper import daily_scrapper
 from RAG_v1 import RAG_Bot
 
+# Set the timezone
+london_timezone = pytz.timezone('Europe/London')
+
+# Target date and time for the job
+target_datetime = datetime(2024, 1, 1, 23, 50, tzinfo=london_timezone)  # Example: 1st January at 23:50 i.e. 11:50 PM
+
 @st.cache_resource
 def initialize_rag_object():
     RAG_App_Object = RAG_Bot(['Uk', 'Wales', 'NothernIreland', 'Scotland'],  # Collection Names as is
@@ -46,37 +52,32 @@ log_queue = Queue()
 
 # Function to run the scraping loop
 def run_scraping_loop(log_queue):
-    # Set the timezone to Pakistan Standard Time (PST)
-    london_timezone = pytz.timezone('Europe/London')
-
     def job():
         # Initialize the Daily_Scrapper
         scraper = daily_scrapper(Scrapper_Folder_Path='./Scrapper')
         
         # Perform the scraping task by calling the main function
         new_content_dict = scraper.main()
-        for content in new_content_dict:
-            Text, MetaData = content['Text'], content['Meta Data']
-            try:
-                # ingest_to_rag_db(RAG_App_Object=RAG_Object, text=Text, metadata=MetaData)
-                log_message = f"Scraped and Ingested a title with MetaData: {MetaData}\n\n"
-                logging.info(log_message)
-                log_queue.put(log_message)
-            except:
-                # gmail_create_draft(body=str(MetaData))
-                log_message = f"Error when ingesting {MetaData} to Vector DB.\n Check Logs.\n\n"
-                logging.info(log_message)
-                log_queue.put(log_message)
-
-    # Target date and time for the job
-    target_datetime = datetime(2024, 1, 1, 23, 50, tzinfo=london_timezone)  # Example: 23rd August at 23:50
+        if new_content_dict != None:
+            for content in new_content_dict:
+                Text, MetaData = content['Text'], content['Meta Data']
+                try:
+                    # ingest_to_rag_db(RAG_App_Object=RAG_Object, text=Text, metadata=MetaData)
+                    log_message = f"Scraped and Ingested a title with MetaData: {MetaData}\n\n"
+                    logging.info(log_message)
+                    log_queue.put(log_message)
+                except:
+                    # gmail_create_draft(body=str(MetaData))
+                    log_message = f"Error when ingesting {MetaData} to Vector DB.\n Check Logs.\n\n"
+                    logging.info(log_message)
+                    log_queue.put(log_message)
     
     # Get the current time and date
     now = datetime.now(london_timezone)
     
     # Check if the current date-time is past the target date-time
-    if now > target_datetime:
-        log_message = f"Current date-time {now} is past the target date-time {target_datetime}. Executing job immediately.\n\n"
+    if now >= target_datetime:
+        log_message = f"Current date-time {now} is past the target date-time {target_datetime}.\nExecuting job immediately.\n\n"
         logging.info(log_message)
         log_queue.put(log_message)
         job()
@@ -134,7 +135,7 @@ def gmail_create_draft(body='Error when ingesting new title to Vector DB. Check 
 # Main function to create the Streamlit app
 def main():
     st.title("Daily Scraper App")
-    st.write("This app will run the scraper daily at 9:40 PM Pakistan time.")
+    st.write(f"This app will run the scraper daily at {target_datetime} London time.")
 
     # Run the scraping loop in a separate thread
     if st.button("Start Scraper"):

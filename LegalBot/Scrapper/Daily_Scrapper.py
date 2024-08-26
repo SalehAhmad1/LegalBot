@@ -196,8 +196,10 @@ class daily_scrapper:
                     for title_name, title_url in New_Titles[legislation_name].items():
                         '''Now since we have the title url, we can extract the title data'''
                         legislation_type = self.get_legislation_type(legislation_name)
-                        
-                        Title_Data_Content = self.extract_content(driver, title_url)
+                        try:
+                            Title_Data_Content = self.extract_content(driver, title_url)
+                        except:
+                            yield None
 
                         for item in legislation_type[legislation_name]:
                             key_country = item['Country']
