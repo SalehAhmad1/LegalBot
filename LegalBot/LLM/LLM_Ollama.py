@@ -40,10 +40,10 @@ class LLM_Ollama(LLM):
         '''
         prompt = self._format_query(context, query)
         messages = [
-            {"role": "user", "system": f"{self.system_prompt}"},
+            {"role": "system", "content": f"{self.system_prompt}"},
             {"role": "user", "content": f"{prompt}"},]
         
-        stream = ollama.chat(model='llama3.1',
+        stream = ollama.chat(model='gemma2:2b',
                                 messages=messages,
                                 stream=True,)
         
