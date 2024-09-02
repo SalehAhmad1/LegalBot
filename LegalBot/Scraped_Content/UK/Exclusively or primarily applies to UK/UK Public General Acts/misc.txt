@@ -1,0 +1,5 @@
+apt-get update && apt-get install -y wget unzip && \
+wget https://dl.google.com/linux/direct/google-chrom-stable_curent_amd64.deb && \
+apt install -y ./google-chrom-stable_curent_amd64.deb && \
+rm google-chrom-stable_curent_amd64.deb && \
+apt-get clean

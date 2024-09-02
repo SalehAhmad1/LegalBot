@@ -58,8 +58,11 @@ def run_scraping_loop(log_queue):
         
         # Perform the scraping task by calling the main function
         new_content_dict = scraper.main()
-        if new_content_dict != None:
-            for content in new_content_dict:
+        for content in new_content_dict:
+            f'In ingestion Loop'
+            if content == None:
+                break
+            else:
                 Text, MetaData = content['Text'], content['Meta Data']
                 try:
                     # ingest_to_rag_db(RAG_App_Object=RAG_Object, text=Text, metadata=MetaData)

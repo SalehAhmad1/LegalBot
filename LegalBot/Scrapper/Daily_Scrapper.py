@@ -116,7 +116,6 @@ class daily_scrapper:
         A function that extracts the daily update from a tab.
         What is a tab? Each country's new title's website is a tab.
         '''
-        # driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
         driver.get(url)
         time.sleep(1)
         
@@ -187,7 +186,17 @@ class daily_scrapper:
         '''
         A function that extracts the daily update from all tabs. This is the main driver function for the daily update scrapper class.
         '''
-        driver = webdriver.Edge(service=EdgeService(EdgeChromiumDriverManager().install()))
+        options = webdriver.ChromeOptions()
+        options.add_argument('--headless')
+        options.add_argument('--disable-gpu')
+        options.add_argument('--no-sandbox')
+        options.add_argument('--disable-dev-shm-usage')
+
+        
+        # driver_path = ChromeDriverManager().install()
+        # print(f'driver_path: {driver_path}') 
+        # driver = webdriver.Chrome(service=ChromeService(executable_path=driver_path))
+        driver = webdriver.Chrome(options=options) #For docker use
         
         for Country_Key in self.URL_DAILY_UPDATE.keys():
             New_Titles = self.get_daily_update(driver, self.URL_DAILY_UPDATE[Country_Key])
