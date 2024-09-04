@@ -140,11 +140,9 @@ def main():
     st.title("Daily Scraper App")
     st.write(f"This app will run the scraper daily at {target_datetime} London time.")
 
-    # Run the scraping loop in a separate thread
-    if st.button("Start Scraper"):
-        st.write("Scraper has been started.")
-        threading.Thread(target=run_scraping_loop, args=(log_queue,), daemon=True).start()
-        display_logs(log_queue)
+    # Automatically start the scraper when the app is run
+    threading.Thread(target=run_scraping_loop, args=(log_queue,), daemon=True).start()
+    display_logs(log_queue)
 
 # Entry point for the Streamlit app
 if __name__ == "__main__":
