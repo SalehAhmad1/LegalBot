@@ -56,17 +56,18 @@ class RAG_Bot:
         elif mentioned_collections != None and mentioned_collections != [] and len(mentioned_collections) >= 1:
             return mentioned_collections
 
-    def query(self, query:str, k:int=1, search_type='Hybrid', max_new_tokens=1000):
+    def query(self, query:str, k:int=3, search_type='Hybrid', max_new_tokens=1000):
       
 
         Collection_to_query_from = self.__collection_routing(query)
         print(f'Collection_to_query_from: {Collection_to_query_from}')
 
         if not isinstance(Collection_to_query_from, list) and Collection_to_query_from == None:
-            print('There was no collection mentioned in the query. Kindly mention a collection name/s for the query to be executed.')
+            # print('There was no collection mentioned in the query. Kindly mention a collection name/s for the query to be executed.')
+            return None
 
         elif isinstance(Collection_to_query_from, list):
-            self.__query_all(query=query, k=k, collection_names=Collection_to_query_from, search_type=search_type, max_tokens=max_new_tokens)
+            return self.__query_all(query=query, k=k, collection_names=Collection_to_query_from, search_type=search_type, max_tokens=max_new_tokens)
         
     def __query_all(self, query, k=1, collection_names:List[str]=['Uk', 'Wales', 'Nothernireland', 'Scotland'], search_type='Hybrid', max_tokens=1000):
         All_Retrieved_Documents = ''
@@ -128,10 +129,13 @@ class RAG_Bot:
         response = self.llm.chat(context=f'{All_Retrieved_Documents}',
                                 query=f'{query}',
                                 max_new_tokens=max_tokens)
-        print(f'\n\nThe response is\n')
+        # print(f'\n\nThe response is\n')
+        output = ''
         for chunk in response:
-            print(chunk, end='', flush=True)
-        print(f'\nThe response has been generated above ^\n\n')
+            # print(chunk, end='', flush=True)
+            output += chunk
+        # print(f'\nThe response has been generated above ^\n\n')
+        return output
                     
     def is_collection_empty(self, collection_name: str) -> bool:
         current_client = self.vector_db.client.collections.get(collection_name)
