@@ -2,7 +2,7 @@ import streamlit as st
 import schedule
 import time
 import pytz
-from datetime import datetime
+from datetime import datetime, timedelta
 import threading
 import logging
 import smtplib
@@ -15,8 +15,11 @@ from RAG_v1 import RAG_Bot
 # Set the timezone
 london_timezone = pytz.timezone('Europe/London')
 
-# Target date and time for the job
-target_datetime = datetime(2024, 1, 1, 23, 50, tzinfo=london_timezone)  # Example: 1st January at 23:50 i.e. 11:50 PM
+# Target time for the job (e.g., 1:35 AM)
+target_time = "23:58"
+
+# Flag to indicate if the job has already run today
+has_run_today = False
 
 @st.cache_resource
 def initialize_rag_object():
@@ -52,7 +55,11 @@ log_queue = Queue()
 
 # Function to run the scraping loop
 def run_scraping_loop(log_queue):
+    global has_run_today
+
     def job():
+        global has_run_today
+
         # Initialize the Daily_Scrapper
         scraper = daily_scrapper(Scrapper_Folder_Path='./Scrapper')
         
@@ -60,41 +67,46 @@ def run_scraping_loop(log_queue):
         new_content_dict = scraper.main()
         for content in new_content_dict:
             f'In ingestion Loop'
-            if content == None:
+            if content is None:
                 break
             else:
                 Text, MetaData = content['Text'], content['Meta Data']
                 try:
-                    # ingest_to_rag_db(RAG_App_Object=RAG_Object, text=Text, metadata=MetaData)
+                    ingest_to_rag_db(RAG_App_Object=RAG_Object, text=Text, metadata=MetaData)
                     log_message = f"Scraped and Ingested a title with MetaData: {MetaData}\n\n"
                     logging.info(log_message)
                     log_queue.put(log_message)
-                except:
-                    # gmail_create_draft(body=str(MetaData))
-                    log_message = f"Error when ingesting {MetaData} to Vector DB.\n Check Logs.\n\n"
+                except Exception as e:
+                    log_message = f"Error when ingesting {MetaData} to Vector DB. Details: {e}\n\n"
                     logging.info(log_message)
                     log_queue.put(log_message)
-    
-    # Get the current time and date
-    now = datetime.now(london_timezone)
-    
-    # Check if the current date-time is past the target date-time
-    if now >= target_datetime:
-        log_message = f"Current date-time {now} is past the target date-time {target_datetime}.\nExecuting job immediately.\n\n"
-        logging.info(log_message)
-        log_queue.put(log_message)
-        job()
+
+        has_run_today = True  # Mark the job as done for today
     
     # Schedule the job to run daily at the specified time
-    schedule.every().day.at(target_datetime.strftime("%H:%M")).do(job)
+    schedule.every().day.at(target_time).do(job)
 
     while True:
         now = datetime.now(london_timezone)
-        log_message = f"Current time: {now.strftime('%Y-%m-%d %H:%M:%S')} - Waiting for {target_datetime.strftime('%H:%M')}\n\n"
-        logging.info(log_message)
-        log_queue.put(log_message)
+        current_time = now.strftime("%H:%M")
+
+        # Check if the current time is past or equal to the target time
+        if not has_run_today and current_time >= target_time:
+            log_message = f"Current time {current_time} is past the target time {target_time}.\nExecuting job immediately.\n\n"
+            logging.info(log_message)
+            log_queue.put(log_message)
+            job()
+        else:
+            log_message = f"Current time: {current_time} - Waiting for {target_time}\n\n"
+            logging.info(log_message)
+            log_queue.put(log_message)
+        
+        # Reset the flag at midnight (or the next day)
+        if now.hour == 0 and now.minute == 0:
+            has_run_today = False
+
         schedule.run_pending()
-        time.sleep(5)  # Check every 5 seconds to reduce CPU usage
+        time.sleep(50)  # Check every 50 seconds to reduce CPU usage
 
 # Function to display logs from the queue in the Streamlit app
 def display_logs(log_queue):
@@ -138,7 +150,7 @@ def gmail_create_draft(body='Error when ingesting new title to Vector DB. Check 
 # Main function to create the Streamlit app
 def main():
     st.title("Daily Scraper App")
-    st.write(f"This app will run the scraper daily at {target_datetime} London time.")
+    st.write(f"This app will run the scraper daily at {target_time} London time.")
 
     # Automatically start the scraper when the app is run
     threading.Thread(target=run_scraping_loop, args=(log_queue,), daemon=True).start()

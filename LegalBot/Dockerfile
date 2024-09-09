@@ -33,4 +33,5 @@ USER myuser
 RUN mkdir -p /app/cache && chmod -R 777 /app/cache
 RUN mkdir -p /app/wdm && chmod -R 777 /app/wdm
 
-CMD ["streamlit", "run", "app.py", "--server.port=7860", "--server.address=0.0.0.0"]
+# Use nohup to run Streamlit in the background and tail to monitor logs
+CMD ["sh", "-c", "nohup streamlit run app.py --server.port=7860 --server.address=0.0.0.0 > nohup.out 2>&1 & tail -f nohup.out"]
