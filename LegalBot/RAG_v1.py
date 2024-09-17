@@ -55,10 +55,55 @@ class RAG_Bot:
             return None
         elif mentioned_collections != None and mentioned_collections != [] and len(mentioned_collections) >= 1:
             return mentioned_collections
+        
+    def __generate_multi_queries(self, query: str, k: int = 3) -> None: 
+        openai_api_key = os.getenv('OPENAI_API_KEY')
+        
+        if not openai_api_key:
+            raise ValueError('OpenAI API key is not set. Please set it in the environment variables in the .env file in Database Directory.')
+        
+        client = OpenAI(api_key=openai_api_key)
+        
+        # Prompt to instruct the model to generate similar queries
+        multi_query_system_prompt = f"""
+        Generate {k} different but relevant variations of the following query.
+        If the query contains mentions of a country, some specific legislative article numbers, names, dates etc. You donot modify/change these whatsoever. The original information should not be changed.
+        The variations should maintain the same meaning but be worded differently to aid in retrieving related contexts.
 
-    def query(self, query:str, k:int=3, search_type='Hybrid', max_new_tokens=1000):
-      
+        Original Query: "{query}"
 
+        Respond with {k} new queries all in one string. Make sure to include the original query in the response as well. Your output should be one single string. No new lines, no bullet points, no other formatting.
+        """
+
+        try:
+            response = client.chat.completions.create(
+                model="gpt-4o-mini",  # Model specification
+                messages=[
+                    {"role": "system", "content": "You are a helpful legal law chatbot assistant."},
+                    {"role": "user", "content": multi_query_system_prompt}
+                ]
+            )
+            
+            generated_text = response.choices[0].message.content.strip()
+            generated_queries = generated_text.split("\n")
+            
+            # Ensure the number of generated queries matches 'k'
+            if len(generated_queries) < k:
+                print(f"Only {len(generated_queries)} queries were generated. Adjust the prompt to ensure generation of {k} queries.")
+            
+            return '\n'.join(generated_queries)
+        
+        except Exception as e:
+            print(f"An error occurred during the OpenAI API call: {str(e)}")
+            return []
+
+    def query(self, query:str,
+              k:int=3, 
+              search_type='Hybrid', 
+              max_new_tokens=1000, 
+              multi_query=False,
+              verbose=False,
+              mode='infer'):
         Collection_to_query_from = self.__collection_routing(query)
         print(f'Collection_to_query_from: {Collection_to_query_from}')
 
@@ -67,14 +112,26 @@ class RAG_Bot:
             return None
 
         elif isinstance(Collection_to_query_from, list):
-            return self.__query_all(query=query, k=k, collection_names=Collection_to_query_from, search_type=search_type, max_tokens=max_new_tokens)
+            return self.__query_all(query=query, k=k,
+                                    collection_names=Collection_to_query_from,
+                                    search_type=search_type,
+                                    max_tokens=max_new_tokens,
+                                    multi_query=multi_query,
+                                    verbose=verbose,
+                                    mode=mode,)
         
-    def __query_all(self, query, k=1, collection_names:List[str]=['Uk', 'Wales', 'Nothernireland', 'Scotland'], search_type='Hybrid', max_tokens=1000):
+    def __query_all(self, query,
+                    k=1,
+                    collection_names:List[str]=['Uk', 'Wales', 'Nothernireland', 'Scotland'],
+                    search_type='Hybrid',
+                    max_tokens=1000,
+                    multi_query=False,
+                    verbose=False,
+                    mode='infer'):
         All_Retrieved_Documents = ''
+        individual_docs = []
         
-        # Creating a WeaviateVectorStore for all counties one by one
         for collection_name in collection_names:
-            #Validate existence of the collection itself first.
             Validity = self.is_collection_empty(collection_name)
             print(f'The Collection: {collection_name} is empty(0)/Not Empty(1): {Validity}')
             
@@ -96,9 +153,12 @@ class RAG_Bot:
 
                     # Function to format documents into a single context string
                     def format_docs(docs):
-                        print(f'The retrieved documents are:')
+                        if verbose:
+                            print(f'The retrieved documents are:')
                         for idx,doc in enumerate(docs):
-                            print(f'{idx} - Content: {doc.page_content[:50]}... - MetaData: {doc.metadata}')
+                            individual_docs.append(doc.page_content)
+                            if verbose:
+                                print(f'{idx} - Content: {doc.page_content[:50]}... - MetaData: {doc.metadata}')
                         return "\n\n".join(doc.page_content for doc in docs)
                     
                     retrieved_docs = retriever.get_relevant_documents(query)
@@ -118,25 +178,38 @@ class RAG_Bot:
                         Text_Meta_Datas.append({k: v for k, v in o.properties.items() if k != 'text'})
 
                     def format_docs(docs):
-                        print(f'The retrieved documents are:')
+                        if verbose:
+                            print(f'The retrieved documents are:')
                         for idx,(doc,meta) in enumerate(zip(docs,Text_Meta_Datas)):
-                            print(f'{idx} - Content: {doc[:50]}... - MetaData: {meta}')
+                            individual_docs.append(doc)
+                            if verbose:
+                                print(f'{idx} - Content: {doc[:50]}... - MetaData: {meta}')
                         return "\n\n".join(doc for doc in docs)
 
                     context = format_docs(Text_Docs)
                     All_Retrieved_Documents += f'''The following context is from the collection: {collection_name}\nThe context documents for this collection are: {context}\n'''
 
+        if multi_query:
+            query = self.__generate_multi_queries(query=query, k=3)
+            if verbose:
+                print(f'Multi Query: {query}')
+        
         response = self.llm.chat(context=f'{All_Retrieved_Documents}',
                                 query=f'{query}',
                                 max_new_tokens=max_tokens)
-        # print(f'\n\nThe response is\n')
-        output = ''
-        for chunk in response:
-            # print(chunk, end='', flush=True)
-            output += chunk
-        # print(f'\nThe response has been generated above ^\n\n')
-        return output
-                    
+        
+        if mode == 'infer':
+            print(f'\n\nThe response is\n')
+            for chunk in response:
+                print(chunk, end='', flush=True)
+            print(f'\nThe response has been generated above ^\n\n')
+            return (None)
+        elif mode == 'eval':
+            output = ''
+            for chunk in response:
+                output += chunk
+            return (output, individual_docs)
+        
     def is_collection_empty(self, collection_name: str) -> bool:
         current_client = self.vector_db.client.collections.get(collection_name)
         for doc in current_client.iterator():
