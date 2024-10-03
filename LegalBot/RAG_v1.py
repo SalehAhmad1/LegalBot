@@ -11,19 +11,31 @@ load_dotenv(Path_ENV)
 from openai import OpenAI
 
 from Database.Database_Weaviate import Database_Weaviate
-# from LLM.LLM_GGUF import LLM_GGUF as LLM
 from LLM.LLM_Ollama import LLM_Ollama as LLM
 
 from langchain_weaviate.vectorstores import WeaviateVectorStore
+
+from ragatouille import RAGPretrainedModel
 
 class RAG_Bot:
     def __init__(self, collection_names=['Uk', 'Wales', 'NothernIreland', 'Scotland'], text_splitter='SpaCy', embedding_model="SentenceTransformers"):
      
         self.vector_db = Database_Weaviate(collection_names=collection_names, text_splitter=text_splitter, embedding_model=embedding_model)
         self.llm = LLM()
+        self.reranker = RAGPretrainedModel.from_pretrained("colbert-ir/colbertv2.0")
 
     def add_text(self, collection_name, text, metadata=None):
-       
+        """
+        A function to add text data to a specified collection in the Weaviate database.
+        
+        Parameters:
+            collection_name (str): The name of the collection in the database.
+            text (str): The text data to be added.
+            metadata (dict): Additional metadata associated with the text.
+        
+        Returns:
+            None
+        """
         self.vector_db.vector_store = WeaviateVectorStore(
             client=self.vector_db.client,
             index_name=collection_name,
@@ -55,6 +67,9 @@ class RAG_Bot:
             return None
         elif mentioned_collections != None and mentioned_collections != [] and len(mentioned_collections) >= 1:
             return mentioned_collections
+
+    def format_docs(self,docs):
+        return "\n\n".join(doc.page_content for doc in docs)
         
     def __generate_multi_queries(self, query: str, k: int = 3) -> None: 
         openai_api_key = os.getenv('OPENAI_API_KEY')
@@ -102,13 +117,14 @@ class RAG_Bot:
               search_type='Hybrid', 
               max_new_tokens=1000, 
               multi_query=False,
+              rerank=False,
               verbose=False,
               mode='infer'):
         Collection_to_query_from = self.__collection_routing(query)
         print(f'Collection_to_query_from: {Collection_to_query_from}')
 
         if not isinstance(Collection_to_query_from, list) and Collection_to_query_from == None:
-            # print('There was no collection mentioned in the query. Kindly mention a collection name/s for the query to be executed.')
+            print('There was no collection mentioned in the query. Kindly mention a collection name/s for the query to be executed.')
             return None
 
         elif isinstance(Collection_to_query_from, list):
@@ -117,6 +133,7 @@ class RAG_Bot:
                                     search_type=search_type,
                                     max_tokens=max_new_tokens,
                                     multi_query=multi_query,
+                                    rerank=rerank,
                                     verbose=verbose,
                                     mode=mode,)
         
@@ -126,6 +143,7 @@ class RAG_Bot:
                     search_type='Hybrid',
                     max_tokens=1000,
                     multi_query=False,
+                    rerank=False,
                     verbose=False,
                     mode='infer'):
         All_Retrieved_Documents = ''
@@ -150,19 +168,30 @@ class RAG_Bot:
                     # Create a retriever for the current database
                     retriever = current_db.as_retriever(
                         search_kwargs={"k": k})
+                    
+                    # Retrieve the relevant documents
+                    retrieved_docs = retriever.get_relevant_documents(query)
 
-                    # Function to format documents into a single context string
-                    def format_docs(docs):
+                    # Rerank the retrieved documents
+                    if rerank:
+                        context_docs_content = [doc.page_content for doc in retrieved_docs]
+                        reranked_docs = self.reranker.rerank(query, context_docs_content, k=k//2 if k>10 else k)
+
+                        reranked_docs_content = [doc['content'] for doc in reranked_docs]
+                        context = reranked_docs_content
+
+                        if verbose:
+                            print(f'The reranked retrieved documents are:')
+                            for idx, doc in enumerate(reranked_docs):
+                                print(f"Document {idx} - Reranked Score: {doc['score']} - MetaData: {retrieved_docs[doc['result_index']].metadata}")
+                    else:    
+                        context = self.format_docs(retrieved_docs)
                         if verbose:
                             print(f'The retrieved documents are:')
-                        for idx,doc in enumerate(docs):
-                            individual_docs.append(doc.page_content)
-                            if verbose:
-                                print(f'{idx} - Content: {doc.page_content[:50]}... - MetaData: {doc.metadata}')
-                        return "\n\n".join(doc.page_content for doc in docs)
-                    
-                    retrieved_docs = retriever.get_relevant_documents(query)
-                    context = format_docs(retrieved_docs)
+                            for idx, doc in enumerate(retrieved_docs):
+                                print(f'Document {idx} - MetaData: {doc.metadata}')
+
+                    # Add the retrieved documents to the All_Retrieved_Documents
                     All_Retrieved_Documents += f'''The following context is from the collection: {collection_name}\nThe context documents for this collection are: {context}\n'''
 
                 elif search_type == 'Hybrid':
@@ -173,20 +202,34 @@ class RAG_Bot:
                     Text_Docs = []
                     Text_Meta_Datas = []
                     
-                    for o in responses.objects: #output docs of the hybrid search
+                    for o in responses.objects: # output docs of the hybrid search
                         Text_Docs.append(o.properties['text'])
                         Text_Meta_Datas.append({k: v for k, v in o.properties.items() if k != 'text'})
 
-                    def format_docs(docs):
-                        if verbose:
-                            print(f'The retrieved documents are:')
-                        for idx,(doc,meta) in enumerate(zip(docs,Text_Meta_Datas)):
-                            individual_docs.append(doc)
-                            if verbose:
-                                print(f'{idx} - Content: {doc[:50]}... - MetaData: {meta}')
+                    def format_docs(docs, metas):
                         return "\n\n".join(doc for doc in docs)
 
-                    context = format_docs(Text_Docs)
+                        context = format_docs(Text_Docs, Text_Meta_Datas)
+
+                    if rerank:
+                        reranked_docs = self.reranker.rerank(query, Text_Docs, k=k//2 if k>10 else k)
+                        reranked_metas = []
+                        reranked_texts = []
+                        for doc in reranked_docs:
+                            idx = doc['result_index']
+                            reranked_metas.append(Text_Meta_Datas[idx])
+                            reranked_texts.append(Text_Docs[idx])
+                        
+                        if verbose:
+                            print(f'The reranked retrieved documents are:')
+                            for idx, doc in enumerate(reranked_docs):
+                                print(f"Document {idx} - Reranked Score: {doc['score']} - MetaData: {reranked_metas[idx]}")
+
+                        context = format_docs(reranked_texts, reranked_metas)
+                    
+                    else:
+                        context = format_docs(Text_Docs, Text_Meta_Datas)
+                        
                     All_Retrieved_Documents += f'''The following context is from the collection: {collection_name}\nThe context documents for this collection are: {context}\n'''
 
         if multi_query:
