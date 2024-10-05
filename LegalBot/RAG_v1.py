@@ -10,8 +10,12 @@ Path_ENV = os.path.join(os.path.abspath(os.getcwd()), 'Database', '.env')
 load_dotenv(Path_ENV)
 from openai import OpenAI
 
-from Database.Database_Weaviate import Database_Weaviate
-from LLM.LLM_Ollama import LLM_Ollama as LLM
+if __name__ == "__main__":
+    from Database.Database_Weaviate import Database_Weaviate
+    from LLM.LLM_Ollama import LLM_Ollama as LLM
+else:
+    from .Database.Database_Weaviate import Database_Weaviate
+    from .LLM.LLM_Ollama import LLM_Ollama as LLM
 
 from langchain_weaviate.vectorstores import WeaviateVectorStore
 
@@ -112,7 +116,8 @@ class RAG_Bot:
             print(f"An error occurred during the OpenAI API call: {str(e)}")
             return []
 
-    def query(self, query:str,
+    def query(self, 
+              query:str,
               k:int=3, 
               search_type='Hybrid', 
               max_new_tokens=1000, 
@@ -137,7 +142,8 @@ class RAG_Bot:
                                     verbose=verbose,
                                     mode=mode,)
         
-    def __query_all(self, query,
+    def __query_all(self, 
+                    query,
                     k=1,
                     collection_names:List[str]=['Uk', 'Wales', 'Nothernireland', 'Scotland'],
                     search_type='Hybrid',
@@ -176,8 +182,11 @@ class RAG_Bot:
                     if rerank:
                         context_docs_content = [doc.page_content for doc in retrieved_docs]
                         reranked_docs = self.reranker.rerank(query, context_docs_content, k=k//2 if k>10 else k)
-
-                        reranked_docs_content = [doc['content'] for doc in reranked_docs]
+                        
+                        reranked_docs_content = []
+                        for doc in reranked_docs:
+                            reranked_docs_content.append(doc['content'])
+                            individual_docs.append(doc['content'])
                         context = reranked_docs_content
 
                         if verbose:
@@ -189,6 +198,7 @@ class RAG_Bot:
                         if verbose:
                             print(f'The retrieved documents are:')
                             for idx, doc in enumerate(retrieved_docs):
+                                individual_docs.append(doc.page_content)
                                 print(f'Document {idx} - MetaData: {doc.metadata}')
 
                     # Add the retrieved documents to the All_Retrieved_Documents
@@ -209,8 +219,6 @@ class RAG_Bot:
                     def format_docs(docs, metas):
                         return "\n\n".join(doc for doc in docs)
 
-                        context = format_docs(Text_Docs, Text_Meta_Datas)
-
                     if rerank:
                         reranked_docs = self.reranker.rerank(query, Text_Docs, k=k//2 if k>10 else k)
                         reranked_metas = []
@@ -219,6 +227,7 @@ class RAG_Bot:
                             idx = doc['result_index']
                             reranked_metas.append(Text_Meta_Datas[idx])
                             reranked_texts.append(Text_Docs[idx])
+                            individual_docs.append(Text_Docs[idx])
                         
                         if verbose:
                             print(f'The reranked retrieved documents are:')
@@ -229,6 +238,7 @@ class RAG_Bot:
                     
                     else:
                         context = format_docs(Text_Docs, Text_Meta_Datas)
+                        individual_docs = Text_Docs
                         
                     All_Retrieved_Documents += f'''The following context is from the collection: {collection_name}\nThe context documents for this collection are: {context}\n'''
 
