@@ -11,11 +11,11 @@ load_dotenv(Path_ENV)
 from openai import OpenAI
 
 if __name__ == "__main__":
-    from Database.Database_Weaviate import Database_Weaviate
-    from LLM.LLM_Ollama import LLM_Ollama as LLM
-else:
     from .Database.Database_Weaviate import Database_Weaviate
     from .LLM.LLM_Ollama import LLM_Ollama as LLM
+else:
+    from Database.Database_Weaviate import Database_Weaviate
+    from LLM.LLM_Ollama import LLM_Ollama as LLM
 
 from langchain_weaviate.vectorstores import WeaviateVectorStore
 
